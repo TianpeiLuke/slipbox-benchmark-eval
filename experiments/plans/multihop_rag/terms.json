@@ -184,13 +184,7 @@
   "simulcast",
   "simulcasting"
  ],
- "subscription_model": [
-  "subscription",
-  "subscribers"
- ],
  "bot_detection": [
-  "bot",
-  "bots",
   "spam",
   "spammers"
  ],
@@ -237,8 +231,7 @@
  ],
  "livestreaming": [
   "livestream",
-  "livestreaming",
-  "Live"
+  "livestreaming"
  ],
  "hashtag_blocking": [
   "hashtag blocking",
@@ -271,11 +264,7 @@
   "surveillance cameras"
  ],
  "criminal_trial": [
-  "trial",
-  "testified",
-  "testimony",
   "prosecution",
-  "defense",
   "jury",
   "verdict"
  ],
@@ -311,8 +300,7 @@
  "layoffs": [
   "laid off",
   "layoffs",
-  "shuttered",
-  "workforce"
+  "shuttered"
  ],
  "patent_litigation": [
   "patent",
@@ -330,29 +318,20 @@
  "valuation": [
   "valuation",
   "valued at",
-  "billion",
   "unicorn"
  ],
  "product_launch": [
-  "launch",
-  "launched",
   "unveiled",
   "shipping",
   "available for purchase"
  ],
  "hardware_device": [
-  "device",
   "hardware",
-  "speaker",
-  "camera",
-  "screen"
+  "speaker"
  ],
  "board_governance": [
-  "board",
   "resigned",
-  "stepped down",
-  "co-founder",
-  "CEO"
+  "stepped down"
  ],
  "regulatory_investigation": [
   "investigation",
@@ -381,15 +360,11 @@
  "user_generated_content": [
   "user-generated",
   "UGC",
-  "posts",
   "Stories"
  ],
  "recommendation_algorithm": [
-  "recommend",
   "algorithmically",
-  "reach",
-  "visibility",
-  "engagement"
+  "visibility"
  ],
  "machine_translation": [
   "translated",
@@ -421,12 +396,6 @@
  "open_source": [
   "open source",
   "open-source"
- ],
- "market_competition": [
-  "competition",
-  "competitors",
-  "rivals",
-  "market"
  ],
  "data_privacy": [
   "privacy",
@@ -487,7 +456,6 @@
  "trade_and_free_agency": [
   "free agent",
   "free agency",
-  "traded",
   "trade deadline"
  ],
  "draft_pick": [
@@ -498,8 +466,7 @@
  "playoff_seeding": [
   "playoff",
   "postseason",
-  "seeding",
-  "wild card"
+  "seeding"
  ],
  "transfer_window": [
   "transfer window",
@@ -507,14 +474,11 @@
   "on loan"
  ],
  "coaching_change": [
-  "fired",
   "sacked",
-  "head coach",
-  "manager"
+  "head coach"
  ],
  "contract_extension": [
   "contract extension",
-  "signed a",
   "deal worth"
  ],
  "box_office": [
@@ -636,8 +600,6 @@
   "job cuts"
  ],
  "regulatory_approval": [
-  "approval",
-  "approved by",
   "cleared by regulators"
  ],
  "class_action_settlement": [

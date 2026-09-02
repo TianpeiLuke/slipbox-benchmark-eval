@@ -197,14 +197,16 @@ def main() -> None:
         mine = docs_of[n]
         scored: dict[str, tuple[int, str]] = {}
 
-        # 3 — the bridge: same concept, different article
+        # Bridges, ranked by how reliably the signal means "same subject".
+        # A single shared term is the weakest: terms are polysemous across
+        # domains, and one shared term linked an FTX trial note to a football
+        # recap because both matched a form of "criminal_trial". Content overlap
+        # and shared entities do not fail that way, so they rank above it.
         shared: dict[str, list[str]] = defaultdict(list)
         for t in terms.get(n, []):
             for o in by_term[t]:
                 if o != n and not (docs_of[o] & mine):
                     shared[o].append(t)
-        for o, ts in shared.items():
-            scored[o] = (3, f"shares {', '.join(sorted(ts)[:3])}; different source document")
 
         # 3 — the other bridge: same named entity, different article
         ent_shared: dict[str, list[str]] = defaultdict(list)
@@ -224,6 +226,17 @@ def main() -> None:
                                 + (f" on {', '.join(top)}" if top else "")
                                 + "; different source document")
 
+        # 3c — two or more shared terms: co-occurrence makes coincidence unlikely
+        for o, ts in shared.items():
+            if len(ts) >= 2 and o not in scored:
+                scored[o] = (3, f"shares {', '.join(sorted(ts)[:3])}; "
+                                f"different source document")
+
+        # 2b — a single shared term: kept, but ranked below planner grouping
+        for o, ts in shared.items():
+            if o not in scored:
+                scored[o] = (1, f"shares {ts[0]}; different source document")
+
         # 2 — grouped by the planner, still crossing an article boundary
         for o in by_sub[sub_of[n]]:
             if o != n and o not in scored and not (docs_of[o] & mine):
@@ -236,7 +249,7 @@ def main() -> None:
                     scored[o] = (1, f"same source document ({d})")
 
         ranked = sorted(scored.items(), key=lambda kv: (-kv[1][0], kv[0]))
-        cross = [x for x in ranked if x[1][0] >= 2][: a.cross_max]
+        cross = [x for x in ranked if x[1][0] >= 2 and "different source" in x[1][1]][: a.cross_max]
         rest = [x for x in ranked if x[1][0] < 2][: max(0, a.max - len(cross))]
         chosen = cross + rest
         out[n] = [{"note": o, "why": why} for o, (_, why) in chosen]
