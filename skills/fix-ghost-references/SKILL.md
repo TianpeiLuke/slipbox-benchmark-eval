@@ -222,6 +222,29 @@ it is invisible to the evaluation even when it is correct.
 included and are preserved, but the database does not read them — do not spend
 effort on them at the expense of the two fields above.
 
+### Related Notes — by content relevance, minimum three
+
+Every note carries a `## Related Notes` section with **at least three** outbound
+links, each naming **how** the notes relate, not merely that they do.
+
+Find them by searching on the note's own content rather than by recalling what
+you wrote earlier:
+
+```bash
+python3 scripts/retrieval.py "$VAULT" --query "<the note's opening claim>"     --strategy hybrid --k 8
+```
+
+Keep the results that carry a real relation; discard those that merely share
+vocabulary. A spurious edge is not harmless — the `bfs` and `ppr` arms traverse
+every edge they are given, so a false link actively degrades the arm under test.
+Equally, a note with no inbound link is a graph island: retrievable by name,
+unreachable by traversal. Since the graph IS the treatment being measured, an
+under-linked vault removes the thing the experiment exists to test.
+
+Three is a floor for a connected graph, not a quota to pad to. A genuinely
+peripheral note with two real links is better than one with three where the
+third is invented.
+
 ### Required structure
 
 - **H1 first** — the first content line after the frontmatter (`ST-001`/`ST-002`).

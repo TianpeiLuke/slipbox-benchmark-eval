@@ -45,11 +45,30 @@ usable standalone.
 
 **Two rules distinguish this from the upstream skill, and both are load-bearing.**
 
-The term's meaning comes from **the corpus and existing vault notes only**. No
-web search, no external lookup, no model recall dressed up as research. A note
-that imports knowledge the corpus does not contain breaks the blind-ingestion
-guarantee and silently invalidates the retrieval comparison, because the note
-would then answer questions the source documents cannot.
+**Corpus evidence and external context are separated, never merged.** A term note
+may be enriched from the web — a benchmark corpus mentions terms it never defines,
+and a reader who cannot say what FTT or a VLOP *is* cannot use the note. But
+external material is quarantined from the corpus material, because they play
+different roles in the evaluation:
+
+| | Comes from | Goes in | Counted by the scorer |
+|---|---|---|---|
+| Corpus evidence | the corpus, only | `## Definition`, `## Context`, `## Key Characteristics`, `source_docs` | yes |
+| External context | web search | `## Background (external)`, `external_refs` | **no** |
+
+`source_docs` lists **corpus documents only**. That is what keeps scoring honest:
+gold labels are passage-level over the corpus, so a note is credited for the
+corpus documents it carries and never for what it borrowed. Web search may still
+change retrievability — more vocabulary means more lexical surface — so the
+enrichment is recorded in frontmatter (`enriched: web`) and can be ablated:
+re-run the comparison with external sections stripped to see whether any
+advantage survives.
+
+**Never let external material answer a question the corpus cannot.** If the web
+says something the corpus does not, it belongs under `## Background (external)`
+with its source named, never in the Definition. The question the experiment asks
+is whether typed notes retrieve the corpus better — a note that smuggles in
+outside answers is measuring something else.
 
 And the glossary **does not exist yet**. Upstream routes a new term into one of
 several established domain glossaries; here the first capture creates the
@@ -75,7 +94,7 @@ a glossary entry:
 python3 scripts/retrieval.py "$VAULT" --query "<TERM>" --strategy hybrid --k 5
 ```
 
-## Step 2: Gather evidence from the corpus
+## Step 2a: Gather evidence from the corpus (primary)
 
 Collect every passage in the corpus that mentions the term, plus every existing
 vault note that references it. **This set is the whole evidence base.** Record
@@ -83,10 +102,24 @@ the source document ids — they become the note's provenance and the glossary
 entry's `Source`, and without them the note cannot be scored against
 passage-level gold labels.
 
-If the corpus says too little to write a real definition, **stop and record the
-term as under-evidenced** rather than filling the gap from memory. An honest
-absence is a finding about corpus coverage; a fabricated definition is
-contamination that no downstream check will catch.
+If the corpus says too little to write a real definition, proceed to Step 2b and
+enrich — but record what the corpus itself supported, so corpus coverage stays
+measurable. Never fill the gap from model recall: an unattributed definition is
+contamination that no downstream check will catch, because nothing marks it as
+having come from outside.
+
+## Step 2b: Enrich from the web (secondary, optional)
+
+Use `WebSearch` or `WebFetch` when the corpus mentions a term without defining
+it — acronyms (FTT, VLOP, DSA), named regulations, technical mechanisms, or
+organisations whose role the reader needs in order to follow the corpus.
+
+Record for every external claim: the **URL**, the **publisher**, and the
+**access date**. An unattributed external claim is indistinguishable from
+fabrication once it is in the note.
+
+Skip this step entirely when the corpus already defines the term. Enrichment is
+for gaps, not for length.
 
 ## Step 3: Write the term note
 
@@ -95,7 +128,10 @@ Path: `$VAULT/term_<normalized_name>.md`. Required frontmatter:
 ```yaml
 ---
 building_block: concept
-source_docs: [<doc_id>, ...]
+source_docs: [<doc_id>, ...]        # CORPUS documents only — the scoring key
+enriched: web                        # omit entirely when no external material
+external_refs:                       # omit entirely when no external material
+  - <url> (<publisher>, accessed <YYYY-MM-DD>)
 ---
 ```
 
@@ -113,8 +149,13 @@ Structure, claim-first so the definition sits where attention falls:
 ## Key Characteristics
 <Distinguishing properties, each traceable to a passage.>
 
-## Related Terms
-- [<Other Term>](term_<other>.md): <how they relate>
+## Background (external)
+<Only if enriched. What the corpus does not supply, each claim attributed inline
+to a source in `external_refs`. Omit this section entirely when the corpus was
+sufficient.>
+
+## Related Notes
+- [<Other Note>](<other>.md): <how they relate>
 
 ## Source
 - <doc_id>: <short quote or locator>
@@ -141,12 +182,31 @@ updates in place when the term already exists. It warns once the glossary
 outgrows a single file; **cluster the existing terms before splitting**, so the
 domains come from the corpus rather than from a schema decided up front.
 
-## Step 5: Backlink
+## Step 5: Link by content relevance, not by memory
 
-Add a link from each note that mentions the term to the new term note, inside
-an existing `Related Terms` section rather than appended at the end. A term note
-nothing links to is a graph island: retrievable by name, unreachable by
-traversal, and therefore invisible to the graph arm being evaluated.
+Two directions, and both are required.
+
+**Outbound.** Find genuinely related notes by *searching on the note's content*,
+not by recalling what you wrote earlier:
+
+```bash
+python3 scripts/retrieval.py "$VAULT" --query "<the note's Definition sentence>" \
+    --strategy hybrid --k 8
+```
+
+Link the results that are actually related, with a clause saying **how** they
+relate. Aim for **at least three** outbound links; a note with one is usually
+under-connected rather than genuinely isolated. Discard results that merely share
+vocabulary — a link that does not carry a real relation adds a false edge, and
+the graph arms traverse every edge they are given.
+
+**Inbound.** Add a link from each existing note that mentions the term, placed
+inside that note's `Related Notes` section rather than appended at the end.
+
+A note nothing links to is a graph island: retrievable by name, unreachable by
+traversal, and therefore invisible to the graph arm being evaluated. Since the
+graph *is* the treatment under test, an under-linked vault does not merely lose
+recall — it removes the thing being measured.
 
 ## Step 6: Validate
 

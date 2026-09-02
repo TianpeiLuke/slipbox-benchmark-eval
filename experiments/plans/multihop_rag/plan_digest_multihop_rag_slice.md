@@ -57,9 +57,9 @@ document**.
 40 notes exceeds the 30-note threshold, so this is a master plan with sub-plans.
 The master never duplicates the sub-plan note tables.
 
-| Sub-plan | Documents | Words | Min notes | Status |
+| Sub-plan | Documents | Words | Notes | Status |
 |---|---|---|---|---|
-| [Sub-plan 1 — Platform Governance](subplan_1_platform_governance.md) | 8 | 11,588 | 11 | planned |
+| [Sub-plan 1 — Platform Governance](subplan_1_platform_governance.md) | 8 | 11,588 | 37 + 2 nav | **planned, verified** |
 | Sub-plan 2 — Startups, Funding and Product | 9 | 12,594 | 15 | pending read |
 | Sub-plan 3 — Policy, Courts and Culture | 8 | 11,713 | 14 | pending read |
 
@@ -117,7 +117,21 @@ than forcing it:
 | Indexes | `navigation` | generated, not found |
 
 `hypothesis` is expected to be absent. A corpus that contains no hypotheses
-should not yield hypothesis notes; its absence is a finding to report.
+should not yield hypothesis notes; its absence is a finding to report. Sub-plan
+1 confirms this: 37 notes, zero hypotheses.
+
+### 3f. Navigation notes are generated, not extracted
+
+Each sub-plan produces two notes that come from no document: the corpus
+`glossary.md` (created by the first `capture-term-note`) and a per-batch entry
+point. Both take `building_block: navigation` and carry no `source_docs`, since
+they index rather than assert — `FM-004` exempts them for that reason.
+
+### 3g. Per-note source ceiling
+
+No note may draw on more than 1,800 words of source. Verify with
+`scripts/plan_coverage.py --check`, which sums assigned block words per note and
+exits non-zero on a breach. Sub-plan 1's maximum is 911.
 
 ### 3c. Density thresholds
 
@@ -139,9 +153,15 @@ built on. Two rules follow.
    evidences an existing entity note, extend that note and add the document to
    its `source_docs` — never create a second note for the same entity. This is
    what lets one note satisfy several pieces of gold evidence at once.
-2. **Links are bare filenames** resolved inside the vault. `Related Notes`
-   sections are the graph the bfs and ppr arms traverse; a note nothing links to
-   is retrievable by name and unreachable by traversal.
+2. **Links are bare filenames** resolved inside the vault, and every note needs
+   **at least three**, found by searching on the note's own content
+   (`scripts/retrieval.py --strategy hybrid`) rather than by recall. Keep only
+   links carrying a real relation: `bfs` and `ppr` traverse every edge given, so
+   a spurious link degrades the arm under test as surely as a missing one.
+3. **Terms may be enriched from the web**, in a separate `## Background
+   (external)` section with `external_refs` in frontmatter. `source_docs` stays
+   corpus-only, so the scorer counts corpus evidence and nothing else, and the
+   enrichment can be ablated to test whether any advantage survives without it.
 
 ## Step 5: Validation Gates
 
@@ -153,11 +173,13 @@ built on. Two rules follow.
 | G4 index | `python3 scripts/build_local_db.py vaults/multihop_rag --stats` | zero unresolved links |
 | G5 provenance | every note has `source_docs` (`FM-004`) | yes |
 | G6 quarantine | no read of `MultiHopRAG.json` during digestion | yes — breach means re-ingest |
-| G7 coverage | every source section maps to a planned note | yes |
+| G7 coverage | `python3 scripts/plan_coverage.py <slug> --check <assignments>` — every block assigned or explicitly dropped | yes |
+| G8 ceiling | same command: no note over 1,800 source words | yes |
+| G9 links | every note has ≥3 `Related Notes` by content relevance | yes |
 
 ## Related Notes
 
-- [Sub-plan 1 — Platform Governance](subplan_1_platform_governance.md)
+- [Sub-plan 1 — Platform Governance](subplan_1_platform_governance.md): 37 content notes + glossary + entry point, 95.7% source coverage
 
 ## References
 
