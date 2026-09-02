@@ -1,0 +1,2714 @@
+{
+ "cluster": "c22",
+ "subplans": [
+  {
+   "slug": "fantasy_quarterback_lineup_calls_2023",
+   "title": "CBS Sports Fantasy Football Quarterback Lineup Calls, Weeks 5-6 2023",
+   "notes": [
+    {
+     "note": "cbs_fantasy_lineup_decisions_matchup_method.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0058": [
+       1,
+       2,
+       3,
+       4
+      ],
+      "doc_0149": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "trevor_lawrence_week5_2023_start_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       6,
+       7,
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "jared_goff_fantasy_outlook_weeks_5_and_6_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       63,
+       64,
+       65,
+       66,
+       67,
+       68,
+       69
+      ],
+      "doc_0149": [
+       145,
+       146,
+       147,
+       148,
+       149,
+       150,
+       151,
+       152
+      ]
+     }
+    },
+    {
+     "note": "joe_burrow_week5_2023_sleeper_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       97,
+       98,
+       99,
+       100,
+       101,
+       102,
+       103,
+       104,
+       105
+      ]
+     }
+    },
+    {
+     "note": "russell_wilson_week5_2023_sit_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       131,
+       132,
+       133,
+       134,
+       135,
+       136,
+       137,
+       138,
+       139,
+       140
+      ]
+     }
+    },
+    {
+     "note": "brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       147,
+       148,
+       149,
+       150,
+       151,
+       152,
+       153,
+       154,
+       155
+      ],
+      "doc_0149": [
+       104,
+       105,
+       106,
+       107,
+       108,
+       109,
+       110,
+       111
+      ]
+     }
+    },
+    {
+     "note": "jordan_love_week5_2023_start_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       157,
+       158,
+       159,
+       160,
+       161,
+       162,
+       163,
+       164
+      ]
+     }
+    },
+    {
+     "note": "justin_fields_week5_2023_bust_warning.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       166,
+       167,
+       168,
+       169,
+       170,
+       171,
+       172,
+       173,
+       174,
+       175
+      ]
+     }
+    },
+    {
+     "note": "sam_howell_week5_2023_sleeper_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       176,
+       177,
+       178,
+       179,
+       180,
+       181,
+       182
+      ]
+     }
+    },
+    {
+     "note": "dak_prescott_week6_2023_sit_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       170,
+       171,
+       172,
+       173,
+       174,
+       175,
+       176,
+       177
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "fantasy_running_back_lineup_calls_2023",
+   "title": "CBS Sports Fantasy Football Running Back Lineup Calls, Weeks 5-6 2023",
+   "notes": [
+    {
+     "note": "dameon_pierce_week5_2023_sit_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       19,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "najee_harris_week5_2023_sit_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54
+      ]
+     }
+    },
+    {
+     "note": "miles_sanders_week5_2023_sit_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       56,
+       57,
+       58,
+       59,
+       60,
+       61,
+       62
+      ]
+     }
+    },
+    {
+     "note": "rhamondre_stevenson_fantasy_outlook_weeks_5_and_6_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       71,
+       72,
+       73,
+       74,
+       75,
+       76,
+       77,
+       78,
+       79
+      ],
+      "doc_0149": [
+       128,
+       129,
+       130,
+       131,
+       132,
+       133,
+       134,
+       135
+      ]
+     }
+    },
+    {
+     "note": "raheem_mostert_week5_2023_bust_warning.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       81,
+       82,
+       83,
+       84,
+       85,
+       86
+      ]
+     }
+    },
+    {
+     "note": "jaleel_mclaughlin_week6_2023_sit_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "justice_hill_week6_2023_sleeper_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       17,
+       18,
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "jeff_wilson_week6_2023_sleeper_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       70,
+       71,
+       72,
+       73,
+       74,
+       75,
+       76,
+       77
+      ]
+     }
+    },
+    {
+     "note": "colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       79,
+       80,
+       81,
+       82,
+       83,
+       84,
+       85,
+       86,
+       87
+      ]
+     }
+    },
+    {
+     "note": "jerome_ford_week6_2023_sit_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       112,
+       113,
+       114,
+       115,
+       116,
+       117,
+       118
+      ]
+     }
+    },
+    {
+     "note": "emari_demercado_week6_2023_sit_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       137,
+       138,
+       139,
+       140,
+       141,
+       142,
+       143
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "fantasy_wide_receiver_lineup_calls_2023",
+   "title": "CBS Sports Fantasy Football Wide Receiver Lineup Calls, Weeks 5-6 2023",
+   "notes": [
+    {
+     "note": "gabe_davis_week5_2023_flex_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       12,
+       13,
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "tank_dell_week5_2023_sit_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       26,
+       27,
+       28,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "zay_flowers_fantasy_outlook_weeks_5_and_6_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47
+      ],
+      "doc_0149": [
+       15,
+       16,
+       19,
+       20,
+       25
+      ]
+     }
+    },
+    {
+     "note": "deandre_hopkins_week5_2023_start_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       88,
+       89,
+       90,
+       91,
+       92,
+       93,
+       94,
+       95
+      ]
+     }
+    },
+    {
+     "note": "jordan_addison_week5_2023_sit_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       117,
+       118,
+       119,
+       120,
+       121,
+       122,
+       123
+      ]
+     }
+    },
+    {
+     "note": "garrett_wilson_fantasy_outlook_weeks_5_and_6_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       125,
+       126,
+       127,
+       128,
+       129,
+       130
+      ],
+      "doc_0149": [
+       154,
+       155,
+       156,
+       157,
+       158,
+       159,
+       160,
+       161
+      ]
+     }
+    },
+    {
+     "note": "terry_mclaurin_fantasy_outlook_weeks_5_and_6_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       183,
+       184,
+       185,
+       186,
+       187
+      ],
+      "doc_0149": [
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "kj_osborn_week6_2023_sit_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54
+      ]
+     }
+    },
+    {
+     "note": "tyler_lockett_week6_2023_flex_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       62,
+       63,
+       64,
+       65,
+       66,
+       67,
+       68
+      ]
+     }
+    },
+    {
+     "note": "michael_pittman_week6_2023_start_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       88,
+       89,
+       90,
+       91,
+       92,
+       93,
+       94
+      ]
+     }
+    },
+    {
+     "note": "nico_collins_week6_2023_flex_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       96,
+       97,
+       98,
+       99,
+       100,
+       101,
+       102
+      ]
+     }
+    },
+    {
+     "note": "amari_cooper_week6_2023_sit_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       119,
+       120,
+       121,
+       122,
+       123,
+       124,
+       125,
+       126
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "fantasy_tight_end_lineup_calls_2023",
+   "title": "CBS Sports Fantasy Football Tight End Lineup Calls, Weeks 5-6 2023",
+   "notes": [
+    {
+     "note": "kyle_pitts_fantasy_outlook_weeks_5_and_6_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       31,
+       32,
+       36,
+       37
+      ],
+      "doc_0149": [
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46
+      ]
+     }
+    },
+    {
+     "note": "jonnu_smith_week5_2023_falcons_tight_end_sleeper.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       33,
+       34,
+       35,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "dallas_goedert_week5_2023_bust_warning.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       107,
+       108,
+       109,
+       110,
+       111,
+       112,
+       113,
+       114,
+       115
+      ]
+     }
+    },
+    {
+     "note": "jake_ferguson_week5_2023_start_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0058": [
+       142,
+       143,
+       144,
+       145,
+       146
+      ]
+     }
+    },
+    {
+     "note": "logan_thomas_week6_2023_start_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       34,
+       35,
+       36,
+       37,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "cole_kmet_week6_2023_start_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       55,
+       56,
+       57,
+       58,
+       59,
+       60
+      ]
+     }
+    },
+    {
+     "note": "darren_waller_week6_2023_start_recommendation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0149": [
+       163,
+       164,
+       165,
+       166,
+       167,
+       168
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tennis_tour_news_december_2023",
+   "title": "Tennis Tour News and Disputes, December 2023",
+   "notes": [
+    {
+     "note": "kyrgios_becker_social_media_feud_december_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0342": [
+       1,
+       2,
+       3,
+       9,
+       11,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "becker_claim_kyrgios_owes_career_to_tennis_trailblazers.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0342": [
+       6,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "kyrgios_rebuttal_that_he_grew_the_tennis_audience.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0342": [
+       7,
+       8,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "tsonga_on_djokovic_abandoning_the_federer_imitation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0342": [
+       19,
+       20,
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "djokovic_on_his_relationship_with_federer_and_nadal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0342": [
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "lleyton_hewitt_united_cup_2024_captaincy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0342": [
+       30,
+       31,
+       32,
+       34,
+       35
+      ]
+     }
+    },
+    {
+     "note": "corretja_doubts_djokovic_2024_golden_slam.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0342": [
+       36,
+       37,
+       38,
+       39,
+       40,
+       42,
+       43,
+       44,
+       45,
+       46
+      ]
+     }
+    },
+    {
+     "note": "pliskova_claim_wta_tour_lost_its_charisma.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0342": [
+       47,
+       49,
+       50,
+       51,
+       52,
+       53
+      ]
+     }
+    },
+    {
+     "note": "murray_and_rune_brisbane_international_doubles_2024.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0342": [
+       54,
+       55,
+       57,
+       58,
+       59,
+       60
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "premier_league_matchday_december_23_2023",
+   "title": "Premier League Results and Reaction, 23 December 2023",
+   "notes": [
+    {
+     "note": "manchester_united_home_defeat_to_west_ham_december_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0438": [
+       1,
+       2,
+       3,
+       5,
+       6,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "schmeichel_criticism_of_manchester_united_lack_of_identity.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0438": [
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "ten_hag_defence_of_manchester_united_performance.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0438": [
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "liverpool_arsenal_draw_at_anfield_december_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0438": [
+       20,
+       21,
+       22,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "kostas_tsimikas_collarbone_break_in_klopp_collision.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0438": [
+       28,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "luton_town_win_over_newcastle_after_lockyer_cardiac_arrest.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0438": [
+       31
+      ]
+     }
+    },
+    {
+     "note": "tottenham_win_over_everton_richarlison_december_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0438": [
+       33,
+       34,
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "rebecca_welch_first_female_premier_league_referee.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0438": [
+       39,
+       40
+      ]
+     }
+    },
+    {
+     "note": "bournemouth_comeback_win_at_nottingham_forest_solanke_hat_trick.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0438": [
+       41,
+       43,
+       44
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tottenham_slump_early_december_2023",
+   "title": "Tottenham's Winless Run and Premier League Reaction, 7 December 2023",
+   "notes": [
+    {
+     "note": "tottenham_home_defeat_to_west_ham_december_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0541": [
+       1,
+       2,
+       3,
+       5,
+       6,
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "son_heung_min_criticism_of_tottenham_softness.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0541": [
+       7,
+       8,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "postecoglou_response_to_tottenham_losing_run.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0541": [
+       13,
+       14,
+       15,
+       16,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "sherwood_analysis_tottenham_over_attacking_after_leading.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0541": [
+       24,
+       25,
+       26,
+       27,
+       29
+      ]
+     }
+    },
+    {
+     "note": "tottenham_premier_league_record_winless_after_leading.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0541": [
+       30,
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "moyes_on_west_ham_win_at_tottenham.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0541": [
+       35,
+       36,
+       37,
+       38,
+       40,
+       41
+      ]
+     }
+    },
+    {
+     "note": "everton_win_over_newcastle_december_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0541": [
+       42,
+       43,
+       44,
+       46,
+       47
+      ]
+     }
+    },
+    {
+     "note": "dyche_on_everton_points_deduction_and_appeal.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0541": [
+       48,
+       49,
+       51
+      ]
+     }
+    },
+    {
+     "note": "howe_on_newcastle_inconsistency_and_injury_load.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0541": [
+       52,
+       53,
+       54,
+       55,
+       56
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "australian_womens_cricket_india_tour_2023",
+   "title": "Australia Women's Cricket Tour of India, December 2023",
+   "notes": [
+    {
+     "note": "australia_women_test_defeat_to_india_mumbai_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0440": [
+       1,
+       2,
+       3,
+       5,
+       6,
+       7,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "healy_denies_end_of_australian_womens_cricket_dominance.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0440": [
+       8,
+       9,
+       11,
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "australia_women_white_ball_reset_before_2024_t20_world_cup.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0440": [
+       16,
+       17,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "healy_case_for_three_test_series_in_india.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0440": [
+       26,
+       29,
+       30,
+       31,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       41
+      ]
+     }
+    },
+    {
+     "note": "healy_criticism_of_one_off_test_outside_multi_format_series.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0440": [
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       49
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "rugby_australia_high_performance_and_wallabies_coach",
+   "title": "Rugby Australia's High-Performance Hire and the Wallabies Coaching Vacancy",
+   "notes": [
+    {
+     "note": "peter_horne_rugby_australia_high_performance_director_appointment.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0493": [
+       1,
+       2,
+       3,
+       5,
+       6,
+       7,
+       8,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "rugby_australia_high_performance_director_role_remit.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0493": [
+       13,
+       14,
+       15,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "joe_schmidt_wallabies_candidacy_and_rival_candidates.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0493": [
+       19,
+       20,
+       21,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "joe_schmidt_coaching_record_ireland_and_all_blacks.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0493": [
+       22,
+       23,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "case_for_schmidt_bringing_rugby_smarts_to_the_wallabies.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0493": [
+       30,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "david_nucifora_consultancy_approach_by_rugby_australia.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0493": [
+       34,
+       41,
+       42
+      ]
+     }
+    },
+    {
+     "note": "nucifora_argument_against_returning_to_australian_rugby.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0493": [
+       35,
+       36,
+       37,
+       39,
+       40
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "day_of_reckoning_riyadh_boxing_card_2023",
+   "title": "Day of Reckoning Boxing Card, Riyadh, December 2023",
+   "notes": [
+    {
+     "note": "jai_opetaia_first_round_knockout_of_ellis_zorro.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0561": [
+       1,
+       2,
+       3,
+       5,
+       6,
+       7,
+       8,
+       9,
+       11
+      ]
+     }
+    },
+    {
+     "note": "opetaia_vacated_ibf_cruiserweight_title_and_avoided_opponents.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0561": [
+       12,
+       13,
+       14,
+       15,
+       16,
+       18
+      ]
+     }
+    },
+    {
+     "note": "eddie_hearn_on_opetaia_emulating_usyk_and_unifying_cruiserweight.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0561": [
+       19,
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "day_of_reckoning_card_and_heavyweight_unification_path.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0561": [
+       23,
+       24,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "joseph_parker_upset_win_over_deontay_wilder.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0561": [
+       29,
+       30,
+       31,
+       32,
+       34,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "anthony_joshua_fifth_round_stoppage_of_otto_wallin.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0561": [
+       37,
+       38,
+       39,
+       40,
+       42,
+       43,
+       44,
+       45
+      ]
+     }
+    },
+    {
+     "note": "day_of_reckoning_undercard_results_bivol_dubois_kabayel.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0561": [
+       46,
+       47,
+       48,
+       50,
+       51
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "taylor_swift_travis_kelce_2023",
+   "title": "The Taylor Swift and Travis Kelce Storyline, 2023 NFL Season",
+   "notes": [
+    {
+     "note": "taylor_swift_travis_kelce_romance_overview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0059": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "travis_kelce_friendship_bracelet_overtures_to_taylor_swift.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0059": [
+       6,
+       7,
+       8,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       24,
+       26,
+       27,
+       28,
+       29,
+       30,
+       32
+      ]
+     }
+    },
+    {
+     "note": "swift_kelce_dating_rumours_go_public_september_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0059": [
+       16,
+       18,
+       19,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "taylor_swift_first_chiefs_game_appearance_september_24_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0059": [
+       33,
+       35,
+       36,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       45,
+       46,
+       48,
+       49
+      ]
+     }
+    },
+    {
+     "note": "taylor_swift_effect_on_nfl_merchandise_and_ticket_sales.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0059": [
+       50,
+       51,
+       52,
+       56,
+       58,
+       59
+      ]
+     }
+    },
+    {
+     "note": "nfl_figures_react_to_the_swift_kelce_romance.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0059": [
+       53,
+       54,
+       55,
+       60,
+       62,
+       63,
+       69,
+       70,
+       71
+      ]
+     }
+    },
+    {
+     "note": "travis_kelce_comments_on_relationship_privacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0059": [
+       64,
+       66,
+       67,
+       68
+      ]
+     }
+    },
+    {
+     "note": "nfl_defence_of_its_taylor_swift_themed_promotion.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0059": [
+       75,
+       76,
+       77,
+       78
+      ]
+     }
+    },
+    {
+     "note": "kelce_brothers_criticism_of_nfl_swift_coverage.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0059": [
+       79,
+       80,
+       81,
+       82
+      ]
+     }
+    },
+    {
+     "note": "taylor_swift_subsequent_nfl_appearances_and_snl_cameo.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0059": [
+       72,
+       74,
+       83,
+       85,
+       86,
+       87,
+       88,
+       89
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "kentucky_online_sports_betting_2023",
+   "title": "Kentucky Online Sports Betting Market, 2023",
+   "notes": [
+    {
+     "note": "kentucky_legal_sports_betting_launch_and_history.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0071": [
+       1,
+       2,
+       40,
+       41,
+       42
+      ]
+     }
+    },
+    {
+     "note": "fanatics_sportsbook_kentucky.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0071": [
+       4,
+       5,
+       6,
+       7,
+       34
+      ]
+     }
+    },
+    {
+     "note": "fanduel_sportsbook_kentucky.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0071": [
+       8,
+       9,
+       10,
+       11,
+       36
+      ]
+     }
+    },
+    {
+     "note": "draftkings_sportsbook_kentucky.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0071": [
+       12,
+       13,
+       14,
+       15,
+       35
+      ]
+     }
+    },
+    {
+     "note": "betmgm_sportsbook_kentucky.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0071": [
+       16,
+       17,
+       18,
+       19,
+       37
+      ]
+     }
+    },
+    {
+     "note": "caesars_sportsbook_kentucky.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0071": [
+       20,
+       21,
+       22,
+       23,
+       38
+      ]
+     }
+    },
+    {
+     "note": "bet365_sportsbook_kentucky.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0071": [
+       24,
+       25,
+       26,
+       27,
+       39
+      ]
+     }
+    },
+    {
+     "note": "kentucky_sportsbook_app_platforms_and_features.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0071": [
+       43,
+       44,
+       45,
+       46,
+       47,
+       48
+      ]
+     }
+    },
+    {
+     "note": "how_to_choose_a_kentucky_sportsbook.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0071": [
+       28,
+       29,
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "betting_on_kentucky_and_nearby_sports_teams.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0071": [
+       49,
+       50,
+       51,
+       52,
+       53,
+       54
+      ]
+     }
+    },
+    {
+     "note": "sports_betting_terminology_glossary.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0071": [
+       55,
+       56,
+       57,
+       58,
+       59,
+       60,
+       61,
+       62,
+       63,
+       64,
+       65,
+       66,
+       67,
+       68
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "college_football_week6_2023_odds",
+   "title": "College Football Week 6 2023 Odds and Ranked Matchups",
+   "notes": [
+    {
+     "note": "college_football_week6_2023_ranked_matchup_slate.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0259": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "oklahoma_texas_red_river_rivalry_2023_betting_line.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0259": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "kentucky_at_georgia_2023_week6_betting_line.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0259": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "lsu_at_missouri_2023_week6_betting_line.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0259": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "notre_dame_at_louisville_2023_week6_betting_line.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0259": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "alabama_at_texas_am_2023_week6_betting_line.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0259": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "college_football_week6_2023_remaining_betting_lines.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0259": [
+       5,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "pop_culture_features_spider_man_and_cm_punk",
+   "title": "Essentially Sports Pop-Culture Features: Spider-Man 2 and CM Punk",
+   "notes": [
+    {
+     "note": "mary_jane_missions_spider_man_2_reception_improvement.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0082": [
+       1,
+       3,
+       4,
+       6,
+       7,
+       8,
+       9,
+       24
+      ]
+     }
+    },
+    {
+     "note": "mary_jane_gameplay_changes_2018_versus_spider_man_2.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0082": [
+       10,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "mary_jane_mission_pacing_and_verdict_spider_man_2.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0082": [
+       15,
+       16,
+       17,
+       18,
+       19,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "cm_punk_wwe_return_speculation_survivor_series_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0349": [
+       1,
+       3
+      ]
+     }
+    },
+    {
+     "note": "shinsuke_nakamura_as_cm_punk_opponent_case.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0349": [
+       4,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "seth_rollins_as_cm_punk_opponent_case.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0349": [
+       8,
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "cody_rhodes_as_cm_punk_opponent_case.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0349": [
+       13,
+       14,
+       16,
+       17
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "dodgers_ohtani_trout_free_agency_2023",
+   "title": "Why the Dodgers May Pass on Ohtani and Trout, 2023 Free Agency",
+   "notes": [
+    {
+     "note": "angels_2023_offseason_ohtani_and_trout_availability.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0423": [
+       1,
+       3
+      ]
+     }
+    },
+    {
+     "note": "dodgers_payroll_constraints_against_signing_ohtani_and_trout.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0423": [
+       4,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "dodgers_pitching_need_versus_ohtani_2024_elbow_injury.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0423": [
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "case_for_dodgers_signing_mike_trout_over_ohtani.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0423": [
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "obstacles_to_mike_trout_leaving_the_angels.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0423": [
+       16,
+       17,
+       19
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ford_nascar_marketing_and_blaney_title",
+   "title": "Ford's NASCAR Marketing and Ryan Blaney's 2023 Title",
+   "notes": [
+    {
+     "note": "ryan_blaney_2023_nascar_cup_series_championship.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0481": [
+       2,
+       4
+      ]
+     }
+    },
+    {
+     "note": "ford_f150_outsells_mustang_among_nascar_fans.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0481": [
+       5,
+       7,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "ford_racing_success_as_brand_marketing_engine.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0481": [
+       8,
+       9,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "roger_penske_calming_blaney_at_phoenix_finale.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0481": [
+       14,
+       15,
+       18,
+       19,
+       21
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "mikaela_shiffrin_family",
+   "title": "Mikaela Shiffrin's Family and the Loss of Her Father",
+   "notes": [
+    {
+     "note": "mikaela_shiffrin_alpine_skiing_world_cup_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0585": [
+       1,
+       3
+      ]
+     }
+    },
+    {
+     "note": "eileen_and_jeff_shiffrin_met_through_skiing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0585": [
+       4,
+       6,
+       8
+      ]
+     }
+    },
+    {
+     "note": "shiffrin_family_ski_upbringing_burke_mountain_and_vail.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0585": [
+       9,
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "jeff_shiffrin_death_2020.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0585": [
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "mikaela_shiffrin_grief_and_recovery_after_her_fathers_death.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0585": [
+       17,
+       18,
+       19,
+       21,
+       23,
+       25
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "connor_bedard_shot",
+   "title": "What Makes Connor Bedard's Shot Special",
+   "notes": [
+    {
+     "note": "connor_bedard_shot_mechanics_toe_drag_release.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0102": [
+       1,
+       2,
+       24,
+       25,
+       26,
+       27,
+       29,
+       49,
+       50,
+       51,
+       52
+      ]
+     }
+    },
+    {
+     "note": "tim_turk_first_evaluation_of_connor_bedard.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0102": [
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       19,
+       20,
+       21,
+       22,
+       23,
+       30,
+       31,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "tim_turk_nhl_protocol_observation_assessment.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0102": [
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "turk_assessment_of_bedard_release_speed.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0102": [
+       40,
+       41,
+       42,
+       43,
+       44,
+       46
+      ]
+     }
+    },
+    {
+     "note": "connor_bedard_shooting_practice_habits.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0102": [
+       47,
+       48,
+       62,
+       63,
+       65,
+       66,
+       67,
+       68,
+       69
+      ]
+     }
+    },
+    {
+     "note": "scepticism_about_bedard_shooting_style_at_nhl_level.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0102": [
+       53,
+       55
+      ]
+     }
+    },
+    {
+     "note": "goalies_and_peers_on_defending_bedard_shot.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0102": [
+       56,
+       57,
+       58,
+       59,
+       60,
+       61,
+       70,
+       71
+      ]
+     }
+    },
+    {
+     "note": "connor_bedard_rookie_adjustment_with_the_blackhawks.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0102": [
+       72,
+       74,
+       75,
+       76,
+       77,
+       78,
+       79,
+       80
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "emma_hayes_uswnt_move",
+   "title": "Emma Hayes' Move from Chelsea to the USWNT",
+   "notes": [
+    {
+     "note": "emma_hayes_appointed_uswnt_head_coach.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0108": [
+       1,
+       3,
+       4,
+       5,
+       6,
+       14,
+       28
+      ]
+     }
+    },
+    {
+     "note": "uswnt_head_coach_search_process_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0108": [
+       7,
+       8,
+       9,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "hayes_delayed_start_and_chelsea_commitment.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0108": [
+       15,
+       16,
+       18
+      ]
+     }
+    },
+    {
+     "note": "benefits_of_hayes_delayed_uswnt_start.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0108": [
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "chelsea_early_announcement_of_hayes_departure.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0108": [
+       21,
+       22,
+       24,
+       27
+      ]
+     }
+    },
+    {
+     "note": "emma_hayes_highest_paid_womens_soccer_coach.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0108": [
+       23,
+       26
+      ]
+     }
+    },
+    {
+     "note": "uswnt_interim_transition_under_twila_kilgore.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0108": [
+       29,
+       30,
+       31,
+       32,
+       33,
+       35
+      ]
+     }
+    },
+    {
+     "note": "uswnt_olympic_preparation_risks_under_hayes.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0108": [
+       37,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "hayes_reasons_for_leaving_chelsea.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0108": [
+       42,
+       49,
+       51
+      ]
+     }
+    },
+    {
+     "note": "chelsea_players_reaction_to_hayes_departure.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0108": [
+       44,
+       45,
+       46,
+       47
+      ]
+     }
+    },
+    {
+     "note": "chelsea_womens_team_succession_after_hayes.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0108": [
+       41,
+       43,
+       52,
+       53,
+       54
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "haaland_norway_goalscoring_record",
+   "title": "Erling Haaland and Norway's 89-Year-Old Goalscoring Record",
+   "notes": [
+    {
+     "note": "haaland_chase_of_norway_international_goalscoring_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0400": [
+       1,
+       2,
+       27,
+       28,
+       29,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "jorgen_juve_norway_goalscoring_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0400": [
+       4,
+       6
+      ]
+     }
+    },
+    {
+     "note": "poul_nielsen_denmark_goalscoring_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0400": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "longest_standing_international_goalscoring_records.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0400": [
+       9,
+       10,
+       11,
+       12,
+       13,
+       15
+      ]
+     }
+    },
+    {
+     "note": "italy_international_goalscoring_record_anomaly.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0400": [
+       16,
+       17,
+       18,
+       19,
+       20,
+       22
+      ]
+     }
+    },
+    {
+     "note": "norway_historical_absence_from_major_tournaments.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0400": [
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "haaland_major_tournament_prospects_with_norway.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0400": [
+       33,
+       34,
+       35,
+       36
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "michigan_sign_stealing_scandal",
+   "title": "Michigan Sign-Stealing Scandal and Big Ten Reaction, 2023",
+   "notes": [
+    {
+     "note": "big_ten_coaches_anger_over_michigan_sign_stealing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0504": [
+       1,
+       3,
+       5,
+       6,
+       7,
+       9
+      ]
+     }
+    },
+    {
+     "note": "case_that_michigan_sign_stealing_was_systematic_cheating.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0504": [
+       4,
+       8,
+       13,
+       24
+      ]
+     }
+    },
+    {
+     "note": "ncaa_investigation_into_michigan_scouting_scheme.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0504": [
+       10,
+       14
+      ]
+     }
+    },
+    {
+     "note": "big_ten_commissioner_petitti_punishment_dilemma.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0504": [
+       12,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "michigan_expected_to_face_no_big_ten_penalty_before_season_end.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0504": [
+       19,
+       20,
+       25
+      ]
+     }
+    },
+    {
+     "note": "connor_stalions_central_michigan_sideline_investigation.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0504": [
+       21,
+       22,
+       23
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0342": [
+   0,
+   4,
+   5,
+   10,
+   18,
+   25,
+   33,
+   41,
+   48,
+   56
+  ],
+  "doc_0438": [
+   0,
+   4,
+   7,
+   12,
+   15,
+   23,
+   24,
+   32,
+   35,
+   42,
+   45
+  ],
+  "doc_0440": [
+   0,
+   4,
+   10,
+   18,
+   25,
+   32,
+   40,
+   48,
+   50
+  ],
+  "doc_0493": [
+   0,
+   4,
+   9,
+   16,
+   24,
+   31,
+   38
+  ],
+  "doc_0541": [
+   0,
+   4,
+   9,
+   17,
+   23,
+   28,
+   39,
+   45,
+   50
+  ],
+  "doc_0561": [
+   0,
+   4,
+   10,
+   17,
+   25,
+   33,
+   41,
+   49,
+   52
+  ],
+  "doc_0058": [
+   0,
+   5,
+   18,
+   40,
+   55,
+   70,
+   80,
+   87,
+   96,
+   106,
+   116,
+   124,
+   141,
+   156,
+   165
+  ],
+  "doc_0059": [
+   0,
+   4,
+   5,
+   9,
+   17,
+   20,
+   25,
+   31,
+   34,
+   37,
+   44,
+   47,
+   57,
+   61,
+   65,
+   73,
+   84
+  ],
+  "doc_0071": [
+   0,
+   3,
+   33,
+   69
+  ],
+  "doc_0149": [
+   0,
+   5,
+   14,
+   26,
+   47,
+   61,
+   69,
+   78,
+   95,
+   103,
+   127,
+   136,
+   144,
+   153,
+   162,
+   169
+  ],
+  "doc_0259": [
+   0
+  ],
+  "doc_0082": [
+   0,
+   2,
+   5,
+   20,
+   23,
+   25
+  ],
+  "doc_0349": [
+   0,
+   2,
+   5,
+   15,
+   18,
+   19,
+   20
+  ],
+  "doc_0423": [
+   0,
+   2,
+   5,
+   15,
+   18,
+   20
+  ],
+  "doc_0481": [
+   0,
+   1,
+   3,
+   6,
+   16,
+   17,
+   20,
+   22
+  ],
+  "doc_0585": [
+   0,
+   2,
+   5,
+   7,
+   20,
+   22,
+   24,
+   26
+  ],
+  "doc_0102": [
+   0,
+   3,
+   4,
+   18,
+   28,
+   32,
+   45,
+   54,
+   64,
+   73,
+   81
+  ],
+  "doc_0108": [
+   0,
+   2,
+   10,
+   17,
+   25,
+   34,
+   36,
+   40,
+   48,
+   50,
+   55
+  ],
+  "doc_0400": [
+   0,
+   3,
+   5,
+   14,
+   21,
+   32,
+   37,
+   38
+  ],
+  "doc_0504": [
+   0,
+   2,
+   11,
+   18,
+   26,
+   27,
+   28
+  ]
+ },
+ "genre_note": "167 notes over 20 sports documents (46,862 words), 21 sub-plans. Every (doc, block) pair is assigned at most once; I verified this programmatically for the two 10k-word roundups.\n\nSTRUCTURE OF THE CLUSTER. Two documents (doc_0058, doc_0149) are 10.8k- and 10.5k-word CBS Sports fantasy-football roundups that account for 45% of the cluster's words. Each is ONE document but ~23 unrelated per-player lineup verdicts, so coherence, not size, set the boundaries: one note per player, 40 fantasy notes total, grouped into four position sub-plans (QB/RB/WR/TE) rather than by week, because seven players are analysed in BOTH weeks. Those seven \u2014 Kyle Pitts, Zay Flowers, Jared Goff, Rhamondre Stevenson, Garrett Wilson, Brock Purdy, Terry McLaurin \u2014 get a single shared note carrying blocks from both documents (Step 3). This matters substantively: the column reverses its own verdict week to week (Purdy sit\u2192start, Goff sit\u2192start, Pitts sit\u2192start, McLaurin start\u2192sit), and two split notes would hide that. Largest combined note is Purdy at ~1,160 source words, well under the 1,800 cap.\n\nThe Atlanta tight-end case needed care: doc_0058's Jonnu Smith section contains two blocks that are analysis OF Kyle Pitts (his film and Arthur Smith saying Pitts \"isn't at 100%\"). Those went to the shared Pitts note, the rest to a Jonnu Smith note \u2014 no block used twice. Similarly doc_0149 interleaves Zay Flowers with Justice Hill, and Zack Moss with Jonathan Taylor; the Flowers/Hill blocks were separated by subject, but Moss/Taylor were left as ONE note on the Colts backfield split because the analysis of each is written only in terms of the other.\n\nBUILDING BLOCKS \u2014 WHAT IS AND ISN'T HERE. empirical_observation (~85) and argument (~65) dominate. argument is unusually heavy for news because the fantasy columns, the Essentially Sports opinion features, and the WWE/MLB speculation pieces are all claim-plus-grounds, not reportage: \"start X because the Jaguars play 78.5% zone\" is an argument, and labelling it empirical_observation would misdescribe it. counter_argument (10) occurs only where a real rebuttal exists \u2014 Schmeichel vs ten Hag, Kyrgios vs Becker, Son vs his own team, Healy denying Australian decline, the fourth shooting coach doubting Bedard's style will survive NHL defenders, the Kelce brothers criticising the NFL's own Swift promotion. concept (10) is almost entirely the Kentucky betting guide (six sportsbook profiles, the app table, team allegiances, glossary). procedure (3): the CBS matchup methodology, \"how do I choose a Kentucky sportsbook\", and Tim Turk's \"NHL protocol observation assessment\". model (2): Connor Bedard's shot mechanism (180-degree puck draw, top-hand position, angle change) and Ford's racing-success-to-showroom marketing chain \u2014 both are genuine causal mechanisms, not events.\n\nhypothesis: ZERO. This is a finding, not an omission. The closest candidates are promotional predictions (Eddie Hearn saying Opetaia will replicate Usyk; \"surely inevitable\" that Haaland breaks the record) and they are advocacy, not testable propositions offered for test. I did not manufacture any. navigation: zero, as instructed.\n\nCOVERAGE. 17 of 20 documents land at 91-98% assigned. Three fall short, all for the same reason \u2014 heavy non-editorial furniture:\n- doc_0481 (Ford/NASCAR), 87.5%. Dropped a 43-word Getty caption about Austin Cindric at a DIFFERENT 2022 event, two \"Watch This Story\"/related-headline promos, and three ADVERTISEMENT markers. Nothing editorial was dropped.\n- doc_0438 (Premier League roundup), 88.9%. Four identical \"Stream LIVE, or on-demand after, here \u2026 #OptusSport\" tweet-footer blocks (~68 words). I KEPT the tweet bodies that describe goals (the Kudus \"defensive howler\"/Mainoo error, Gabriel's fastest-ever Arsenal goal at Anfield) because they carry match facts, and dropped only the streaming boilerplate.\n- doc_0059 (Swift-Kelce timeline), 89.5%. Fourteen decorative Taylor Swift lyric pull-quotes (\"So make the friendship bracelets\u2026\" - You're On Your Own Kid) plus a \"we have created an extensive timeline\" navigation paragraph. Genuinely contentless.\n\nWHAT I DELIBERATELY DID NOT DROP. Repeated per-player header cards (\"Sit Him (Lineup Decisions) \u2026 Dameon Pierce RB HOU\") look like section headers but carry the actual verdict, so they are assigned. The stat cards (\"MATCHUP @ BUF, BUF -5.5, O/U 48.5, OPP VS QB 1st\") are data, assigned. In doc_0504 a \"GO DEEPER\" link block carries a real statistic (94% of CFB coaches say Michigan should be punished) and is assigned, while the two contentless GO DEEPER links are dropped. Photo captions were split: those carrying content (Millie Bright crediting Hayes; the Stalions CMU-sideline caption quoting the Central Michigan AD; the Puskas, Jostein Flo and Kane/Ronaldo captions) are assigned; bare \"(Top photo: \u2026)\" credits are dropped. In doc_0071 I kept \"Odds via SportsLine consensus\" and \"Best of the rest\" because they frame the line list that follows.\n\nI dropped ALL 29 instances of the repeated fantasy rating-scale legend (\"Start 'em 10.0-7.00 6.99 - 5.01 5.00 - 0 Sit 'em\"). It is a widget key repeated once per player and states thresholds already implied by the verdict labels; assigning 29 copies would put the same 11 words in 29 notes. This costs ~1.5% of each roundup's words and is the single largest deliberate drop in the cluster.\n\nONE SCOPE CONDITION WORTH FLAGGING, per the instruction to inspect what looks routine. doc_0440's closing blocks read like housekeeping about series formats but actually invert the article's own headline: Alyssa Healy says the trophy Australia brought to India could not be contested because this was not a multi-format series, that they \"weren't playing for points\", and that the Test therefore \"feels meaningless\" \u2014 a direct qualification of the \"era ending?\" framing. Those blocks are assigned to a dedicated argument note, not folded into the match report.\n\nQUARANTINE. I read only data/corpus/multihop_rag/*.txt and index.json, plus scripts/plan_coverage.py output. I did not open, grep, or list data/raw/multihop_rag/ at any point."
+}

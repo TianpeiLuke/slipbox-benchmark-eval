@@ -1,0 +1,1908 @@
+{
+ "cluster": "c04",
+ "genre_note": "Cluster c04 is 20 business/finance news articles (26,798 words) from 16 publishers, spanning market wraps, single-company earnings, interview Q&As, policy commentary, a trade-press analyst report, a court-case report and one science press release that ran on a business wire. Decomposition yielded 137 notes across 19 sub-plans, with 96.2% of source words assigned (verified with scripts/verify_cluster_plan.py: PASS on block ranges, no duplicate source, one BB per note, no note over the 1,800-word ceiling, all sub-plans in the 4-15 range).\n\nBuilding-block distribution matched the prediction that news is dominated by empirical_observation (~80 notes) and concept (~14). Beyond those: model (~24) for causal/mechanism content (Wnt/Rnf43/Daam1 signalling; capital rotation out of China into Japan; the go-shop clause's matching right and its knock-on effect on the AGM date; Nike's DTC-vs-wholesale channel economics; Israeli war-to-deficit transmission channels); argument (13) where a claim is stated with grounds (the DBM's case for a surplus budget, Leiderman's \"no sacred numbers\" deficit argument, the Reliance SOTP buy case, Hollenbeck on gender parity and returns); counter_argument (7), which occurred more often than expected because several documents are structured as claim-and-rebuttal (Kyncl's AdWords/ad-agency rebuttal to the \"labels are obsolete\" thesis; Believe CEO Ladegaillerie contradicting Kyncl on whether AI-detection tooling is ready; the \"Mossad foreknew the attack\" counter-reading of the October 7 intelligence-failure consensus; Volker's argument that a Trump presidency would not doom Ukraine; Trump's disclaimer defence and Engoron's rejection of it); procedure (3) only where genuinely ordered (AfroFuture's Rising Star Challenge entry-to-final pipeline, Leiderman's proposed rehabilitation-planning steps, IoT Analytics' vendor/adopter question checklists).\n\nhypothesis is essentially absent, as expected: exactly one note (Kyncl's dated, falsifiable prediction that music will feel AI's impact before other industries \"within the next year\"). Forward-looking material elsewhere \u2014 the Ukraine 2024 outlook, India's 2030 GDP path, the earnings-week consensus estimates \u2014 is reported speech about forecasts, so it was classified empirical_observation rather than manufactured into hypotheses. No navigation notes were produced.\n\nTwo decomposition pressures dominated. First, roundup documents: doc_0338 is one \"earnings week ahead\" article but eight unrelated company previews, and doc_0028/doc_0357 are ASX market wraps mixing local single-stock moves, US index moves, Fed policy and a stray corporate-governance quote \u2014 these were split at company/subject boundaries, never at word counts. Second, shared entities: the Federal Reserve rate-path note draws blocks from both ASX wraps (doc_0028 and doc_0357), and two Trump property notes (Mar-a-Lago, the Fifth Avenue penthouse) draw from both the ruling report (doc_0529) and the Bloomberg valuation piece (doc_0530) rather than splitting that evidence across near-duplicate notes.\n\nDropped material is 3.8% of words and is almost entirely genuine chrome: headlines, section headers, bylines, photo credits, \"Also Read\" links, the Guardian's 89-word Football Daily newsletter promotion (doc_0089), the MBW/JKBX and TuneCore sponsor blurbs (doc_0455, doc_0085), and verbatim pull-quote repeats of text already assigned (doc_0455 blocks 23/39/47, doc_0085 blocks 13/37). Two documents land below 90%: doc_0089 at 88.7% (the newsletter promo alone is 9% of that article) and doc_0455 at 89.7% (sponsor blurb plus three duplicated pull quotes). Both are honest promotional/duplicate losses, not omitted substance.\n\nOne block that looked droppable was kept: doc_0215 block 39 is a correction notice, and it restates the load-bearing figure of the article's own headline claim (\"Nike's gross margin fell 0.1 percentage points\"), so it was assigned to the gross-margin note rather than deleted as boilerplate. Q&A question headers in the two interview pieces (doc_0085, doc_0125) were also assigned rather than dropped, since they carry the framing that makes each answer retrievable.",
+ "subplans": [
+  {
+   "slug": "market_sessions_and_central_bank_rate_path",
+   "title": "ASX and Wall Street sessions, Fed and RBA rate expectations (late 2023)",
+   "notes": [
+    {
+     "note": "asx_december_2023_session_movers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0028": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "wall_street_december_2023_mixed_session.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0028": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "federal_reserve_rate_path_expectations_late_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0028": [
+       4,
+       5
+      ],
+      "doc_0357": [
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "take_two_grand_theft_auto_vi_2025_release_stock_reaction.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0028": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "asx_november_2023_session_and_rba_rate_expectations.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0357": [
+       1,
+       2,
+       7
+      ]
+     }
+    },
+    {
+     "note": "wall_street_november_2023_relief_rally.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0357": [
+       3,
+       6
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "warner_music_kyncl_on_ai_and_label_economics",
+   "title": "Robert Kyncl at the Code Conference: AI, labels, streaming and catalogs",
+   "notes": [
+    {
+     "note": "robert_kyncl_warner_music_group_ceo.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0455": [
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "thesis_that_music_labels_are_headed_for_irrelevance.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0455": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "kyncl_rebuttal_labels_persist_like_ad_agencies_after_adwords.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0455": [
+       5,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "kyncl_prediction_music_first_industry_to_feel_ai_impact.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0455": [
+       17,
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "youtube_content_id_as_blueprint_for_ai_rights_management.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0455": [
+       22,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "dispute_over_readiness_of_ai_content_detection_tooling.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0455": [
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "music_streaming_resilience_versus_streaming_video_downturn.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0455": [
+       33,
+       34,
+       35,
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "music_streaming_price_hikes_and_emerging_market_growth.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0455": [
+       40,
+       41
+      ]
+     }
+    },
+    {
+     "note": "music_catalog_acquisition_market_slowdown_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0455": [
+       42,
+       43,
+       44,
+       45,
+       46,
+       48,
+       49,
+       50
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "hipgnosis_songs_fund_continuation_vote_and_catalog_sale",
+   "title": "Hipgnosis Songs Fund: continuation vote, NAV discount and the $440m catalog sale",
+   "notes": [
+    {
+     "note": "hipgnosis_songs_fund_continuation_vote.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0464": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "hipgnosis_songs_fund_nav_to_share_price_discount.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0464": [
+       6,
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "hipgnosis_440_million_catalog_sale_to_hipgnosis_songs_capital.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0464": [
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "hipgnosis_songs_fund_board_changes_september_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0464": [
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "hipgnosis_investment_advisory_agreement_amendments.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0464": [
+       23,
+       26,
+       27,
+       28,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "hipgnosis_go_shop_clause_and_rival_bids.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0464": [
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "hipgnosis_board_defence_of_portfolio_value.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0464": [
+       39,
+       40,
+       41
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "afrofuture_festival_and_african_music_market",
+   "title": "AfroFuture in Ghana and the sub-Saharan African music business",
+   "notes": [
+    {
+     "note": "sub_saharan_africa_recorded_music_market_growth.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0085": [
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "afrofuture_festival_accra_ghana.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0085": [
+       1,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "afrofuture_founding_vision_and_mission_pillars.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0085": [
+       14,
+       15,
+       16,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "abdul_karim_abdullah_path_into_the_music_business.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0085": [
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "afrofuture_audience_demographics.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0085": [
+       30,
+       31,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "afrofuture_rising_star_challenge_competition.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0085": [
+       34,
+       35,
+       36,
+       38,
+       39,
+       40,
+       41
+      ]
+     }
+    },
+    {
+     "note": "afrofuture_impact_on_ghana_tourism.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0085": [
+       42,
+       43,
+       44,
+       45,
+       46,
+       47
+      ]
+     }
+    },
+    {
+     "note": "road_to_afrofuture_geographic_brand_expansion.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0085": [
+       48,
+       49,
+       50,
+       51,
+       58,
+       59,
+       60
+      ]
+     }
+    },
+    {
+     "note": "afrofuture_foundation_philanthropy_programmes.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0085": [
+       52,
+       53,
+       54,
+       55,
+       56,
+       57
+      ]
+     }
+    },
+    {
+     "note": "abdullah_on_product_over_profit_in_the_music_industry.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0085": [
+       61,
+       62,
+       63,
+       64
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "manchester_united_ratcliffe_in_tray",
+   "title": "Jim Ratcliffe's Manchester United in-tray",
+   "notes": [
+    {
+     "note": "erik_ten_hag_position_under_ratcliffe.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0089": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "john_murtough_future_and_the_casemiro_signing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0089": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "jean_claude_blanc_and_the_united_chief_executive_challenge.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0089": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "old_trafford_and_carrington_infrastructure_decay.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0089": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "glazer_communications_silence_and_ratcliffe_pr_task.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0089": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "ratcliffe_glazer_ownership_split_and_control_risk.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0089": [
+       14,
+       15
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "israeli_war_economy_and_policy_response",
+   "title": "Leo Leiderman on the Israeli war economy and the policy response",
+   "notes": [
+    {
+     "note": "israeli_economy_in_the_first_week_of_the_gaza_war.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0125": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "war_duration_and_scenarios_driving_israeli_growth_damage.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0125": [
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "israeli_sectors_most_exposed_to_war_damage.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0125": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "bank_of_israel_thirty_billion_dollar_fx_intervention.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0125": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "fiscal_cost_channels_of_the_israel_gaza_war.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0125": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "leiderman_there_are_no_sacred_numbers_deficit_argument.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0125": [
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "israeli_post_war_economic_rehabilitation_planning_proposal.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0125": [
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "bank_of_israel_interest_rate_policy_during_the_war.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0125": [
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "october_7_attack_and_the_mossad_intelligence_debate",
+   "title": "The October 7 Hamas attack and the argument over Israeli intelligence",
+   "notes": [
+    {
+     "note": "hamas_october_7_2023_surprise_attack_on_israel.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0134": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "sderot_police_headquarters_seized_during_the_attack.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0134": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "commentary_that_israeli_intelligence_and_defence_failed.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0134": [
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "claim_that_mossad_foreknew_the_hamas_attack.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0134": [
+       12,
+       13,
+       18,
+       19,
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "netanyahu_declaration_of_war_and_three_objectives.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0134": [
+       15,
+       16,
+       17
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "japan_investment_revival",
+   "title": "Kishida's pitch and the global investor rotation into Japan",
+   "notes": [
+    {
+     "note": "kishida_pitch_to_global_investors_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0182": [
+       1,
+       2,
+       3,
+       4,
+       7
+      ]
+     }
+    },
+    {
+     "note": "renewed_global_investor_interest_in_japanese_equities.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0182": [
+       5,
+       6,
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "family_offices_and_the_this_time_is_different_test_for_japan.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0182": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "capital_rotation_from_china_into_japanese_assets.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0182": [
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "japanese_corporate_governance_reform_and_shareholder_alignment.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0182": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "japan_asset_management_reform_and_nisa_expansion.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0182": [
+       19,
+       20,
+       21
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "digital_twin_market_and_trends",
+   "title": "The digital twin market: definitions, adoption and four trends",
+   "notes": [
+    {
+     "note": "digital_twin_market_size_and_adoption_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0191": [
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "digital_twin_definition_and_cuboid_classification_model.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0191": [
+       17,
+       18,
+       19,
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "broad_versus_narrow_digital_twin_market_scope.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0191": [
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "digital_twins_deployed_for_sustainability_goals.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0191": [
+       30,
+       31,
+       32,
+       33,
+       34,
+       35
+      ]
+     }
+    },
+    {
+     "note": "digital_twins_as_virtual_sensors_in_complex_conditions.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0191": [
+       36,
+       37,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "hyperscaler_partnerships_with_ot_and_simulation_vendors.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0191": [
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47
+      ]
+     }
+    },
+    {
+     "note": "digital_twin_interoperability_standards_initiatives.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0191": [
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55,
+       56,
+       57,
+       58
+      ]
+     }
+    },
+    {
+     "note": "digital_twin_vendor_and_adopter_self_assessment_questions.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0191": [
+       59,
+       60,
+       61,
+       62,
+       63,
+       64,
+       65,
+       66,
+       67,
+       68
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nike_fiscal_first_quarter_2024",
+   "title": "Nike's fiscal Q1 2024 results and channel strategy",
+   "notes": [
+    {
+     "note": "nike_fiscal_q1_2024_headline_results.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0215": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "nike_fiscal_2024_revenue_and_margin_guidance.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0215": [
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "nike_gross_margin_fiscal_q1_2024.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0215": [
+       12,
+       13,
+       14,
+       39
+      ]
+     }
+    },
+    {
+     "note": "nike_greater_china_sales_recovery.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0215": [
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "nike_regional_and_product_category_sales_fiscal_q1_2024.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0215": [
+       19,
+       20,
+       21,
+       38
+      ]
+     }
+    },
+    {
+     "note": "nike_direct_to_consumer_channel_performance.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0215": [
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "nike_wholesale_partner_relationship_reset.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0215": [
+       25,
+       26,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "nike_inventory_reduction_fiscal_q1_2024.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0215": [
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "us_consumer_pullback_and_student_loan_risk_for_nike.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0215": [
+       35,
+       36,
+       37
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "reliance_industries_investment_case",
+   "title": "Reliance Industries: growth engines, legacy businesses and valuation",
+   "notes": [
+    {
+     "note": "reliance_industries_share_price_and_growth_catalysts.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0253": [
+       1,
+       2,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "reliance_jio_telecom_growth_outlook.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0253": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "reliance_retail_ventures_store_expansion.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0253": [
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "reliance_o2c_and_exploration_business_economics.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0253": [
+       12,
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "reliance_green_energy_investment_programme.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0253": [
+       17,
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "reliance_industries_sum_of_the_parts_valuation_case.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0253": [
+       3,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "intestinal_stem_cell_regeneration_research",
+   "title": "Daam1, Rnf43 and intestinal stem cell fate",
+   "notes": [
+    {
+     "note": "daam1_intestinal_stem_cell_study_overview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0302": [
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "adult_stem_cells_and_tissue_renewal.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0302": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "intestinal_stem_cell_balance_and_wnt_signalling.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0302": [
+       8,
+       9,
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "rnf43_daam1_frizzled_degradation_mechanism.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0302": [
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       21
+      ]
+     }
+    },
+    {
+     "note": "intestinal_organoid_knockout_experiments.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0302": [
+       20,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "daam1_controls_paneth_cell_fate_in_mice.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0302": [
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "paneth_cell_niche_explains_organoid_versus_intestine_divergence.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0302": [
+       30,
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "philippine_2024_national_budget",
+   "title": "The Philippine 2024 deficit budget",
+   "notes": [
+    {
+     "note": "philippine_house_approval_of_the_2024_national_budget.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0306": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "philippine_national_government_budget_definition.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0306": [
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "balanced_versus_deficit_budget_in_philippine_fiscal_practice.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0306": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "dbm_case_for_a_surplus_budget_policy.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0306": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "philippine_2024_budget_deficit_and_debt_trajectory.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0306": [
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "philippine_inflation_and_deficit_vicious_cycle.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0306": [
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "critique_of_political_agendas_in_the_philippine_budget.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0306": [
+       17,
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "q3_2023_earnings_week_previews",
+   "title": "Earnings week of October 23-27, 2023: company-by-company previews",
+   "notes": [
+    {
+     "note": "q3_2023_earnings_week_october_23_27_overview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0338": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "cleveland_cliffs_q3_2023_earnings_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0338": [
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "alphabet_q3_2023_earnings_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0338": [
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "microsoft_q3_2023_earnings_preview_and_activision_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0338": [
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "meta_platforms_q3_2023_earnings_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0338": [
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0338": [
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46
+      ]
+     }
+    },
+    {
+     "note": "amazon_q3_2023_earnings_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0338": [
+       47,
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55
+      ]
+     }
+    },
+    {
+     "note": "chevron_and_exxon_mobil_q3_2023_earnings_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0338": [
+       56,
+       57,
+       58,
+       59
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "cybersecurity_sector_and_check_point",
+   "title": "Check Point, its rivals, and the cybersecurity demand backdrop",
+   "notes": [
+    {
+     "note": "cybercrime_cost_growth_drives_cybersecurity_demand.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0373": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "check_point_recent_quarterly_financials.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0373": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "palo_alto_networks_and_fortinet_billings_weakness.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0373": [
+       8,
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "check_point_product_expansion_and_2024_outlook.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0373": [
+       13,
+       14,
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "rupal_shah_hollenbeck_check_point_president.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0373": [
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "women_in_leadership_and_company_performance_argument.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0373": [
+       22,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "check_point_business_continuity_during_the_israel_war.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0373": [
+       26,
+       27,
+       28,
+       29,
+       30
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ukraine_war_2024_outlook",
+   "title": "Ukraine's war against Russia heading into 2024",
+   "notes": [
+    {
+     "note": "ukraine_war_2024_stalemate_outlook.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0442": [
+       2,
+       4
+      ]
+     }
+    },
+    {
+     "note": "ukraine_2023_counteroffensive_fell_short_of_expectations.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0442": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "winter_2023_front_line_conditions_and_russian_offensives.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0442": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "us_election_risk_to_ukraine_military_aid.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0442": [
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "volker_case_for_continued_and_expanded_ukraine_aid.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0442": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "argument_that_a_trump_presidency_would_not_doom_ukraine.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0442": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "ukraine_2024_mobilisation_and_negotiation_prospects.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0442": [
+       15,
+       16
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "trump_civil_fraud_ruling",
+   "title": "Engoron's summary judgment in the New York civil fraud case",
+   "notes": [
+    {
+     "note": "engoron_summary_judgment_that_trump_committed_fraud.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0529": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "engoron_fantasy_world_finding_on_trump_financial_statements.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0529": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "penalties_sought_in_the_letitia_james_civil_fraud_lawsuit.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0529": [
+       9,
+       10,
+       11,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "trump_motions_to_dismiss_the_fraud_case_rejected.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0529": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "letitia_james_asset_inflation_allegations.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0529": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "trump_disclaimer_defence_and_its_rejection.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0529": [
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "trump_other_criminal_and_civil_cases_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0529": [
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "letitia_james_history_of_investigating_trump.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0529": [
+       26,
+       27
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "trump_property_valuation_disputes",
+   "title": "Property-by-property valuation disputes in the Trump fraud trial",
+   "notes": [
+    {
+     "note": "trump_net_worth_valuation_dispute_at_trial.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0530": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "mar_a_lago_valuation_dispute.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0530": [
+       2,
+       3,
+       4
+      ],
+      "doc_0529": [
+       17
+      ]
+     }
+    },
+    {
+     "note": "trump_tower_fifth_avenue_penthouse_valuation_dispute.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0530": [
+       5,
+       6
+      ],
+      "doc_0529": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "trump_park_avenue_rent_stabilised_unit_valuations.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0530": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "forty_wall_street_valuation_dispute.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0530": [
+       9,
+       10
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "india_economic_outlook",
+   "title": "India's growth outlook, bank credit and fiscal position",
+   "notes": [
+    {
+     "note": "imf_assessment_of_india_and_global_growth_divergence.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0532": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "india_nominal_gdp_forecast_to_2030.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0532": [
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "india_long_term_growth_drivers_and_fdi_inflows.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0532": [
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "india_demographic_dividend_versus_china_decline.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0532": [
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "ficci_iba_bankers_survey_credit_demand_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0532": [
+       20,
+       21,
+       22,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "global_rate_shock_risk_to_emerging_market_debt.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0532": [
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "china_recovery_greenshoots_and_commodity_price_outlook.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0532": [
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "india_fy24_capex_led_growth_and_fiscal_position.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0532": [
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0028": [
+   0
+  ],
+  "doc_0357": [
+   0
+  ],
+  "doc_0455": [
+   0,
+   1,
+   16,
+   23,
+   39,
+   47
+  ],
+  "doc_0464": [
+   0,
+   7,
+   19
+  ],
+  "doc_0085": [
+   0,
+   13,
+   17,
+   37,
+   65
+  ],
+  "doc_0089": [
+   0,
+   9,
+   10
+  ],
+  "doc_0125": [
+   0,
+   28,
+   29
+  ],
+  "doc_0134": [
+   0,
+   2,
+   14
+  ],
+  "doc_0182": [
+   0
+  ],
+  "doc_0191": [
+   0,
+   1,
+   28,
+   29
+  ],
+  "doc_0215": [
+   0
+  ],
+  "doc_0253": [
+   0
+  ],
+  "doc_0302": [
+   0,
+   1,
+   2,
+   24,
+   35
+  ],
+  "doc_0306": [
+   0,
+   19,
+   20
+  ],
+  "doc_0338": [
+   0,
+   60
+  ],
+  "doc_0373": [
+   0
+  ],
+  "doc_0442": [
+   0,
+   1,
+   3,
+   7,
+   17
+  ],
+  "doc_0529": [
+   0
+  ],
+  "doc_0530": [
+   0
+  ],
+  "doc_0532": [
+   0
+  ]
+ }
+}

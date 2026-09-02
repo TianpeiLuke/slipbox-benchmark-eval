@@ -1,0 +1,186 @@
+{
+ "cluster": "c05",
+ "subplans": [
+  {
+   "slug": "earnings_week_calendar_and_enterprise_software",
+   "title": "December 4-8 2023 Earnings Calendar and Enterprise Software Previews (GitLab, DocuSign)",
+   "notes": [
+    {
+     "note": "earnings_week_ahead_december_4_8_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0581": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "december_2023_earnings_week_secondary_reporters.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0581": [
+       11,
+       20,
+       30,
+       45
+      ]
+     }
+    },
+    {
+     "note": "gitlab_q3_fy2024_earnings_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0581": [
+       5,
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "gitlab_sell_side_analyst_theses_late_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0581": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "docusign_q3_fy2024_earnings_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0581": [
+       33,
+       34
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ev_and_semiconductor_earnings_previews",
+   "title": "NIO and Broadcom: EV and Semiconductor Earnings Previews",
+   "notes": [
+    {
+     "note": "nio_q3_2023_earnings_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0581": [
+       14,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "nio_november_2023_vehicle_deliveries.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0581": [
+       15
+      ]
+     }
+    },
+    {
+     "note": "stone_fox_capital_nio_stock_doubling_thesis.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0581": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "broadcom_q4_fy2023_earnings_preview_and_vmware_integration.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0581": [
+       35,
+       36,
+       37
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "retail_and_consumer_internet_earnings_previews",
+   "title": "GameStop and Hello Group: Retail and Consumer Internet Earnings Previews",
+   "notes": [
+    {
+     "note": "gamestop_q3_fy2023_earnings_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0581": [
+       23,
+       25,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "gamestop_meme_stock_rally_december_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0581": [
+       24
+      ]
+     }
+    },
+    {
+     "note": "josh_arnold_gamestop_structural_unprofitability_critique.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0581": [
+       26
+      ]
+     }
+    },
+    {
+     "note": "hello_group_momo_q3_2023_earnings_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0581": [
+       39,
+       40,
+       42,
+       43,
+       44
+      ]
+     }
+    },
+    {
+     "note": "individual_trader_hello_group_bottom_formation_thesis.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0581": [
+       41
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0581": [
+   0,
+   4,
+   12,
+   13,
+   21,
+   22,
+   31,
+   32,
+   38
+  ]
+ },
+ "genre_note": "Cluster c05 is a single Seeking Alpha earnings-week roundup (doc_0581, 46 blocks, 1,280 words) previewing the December 4-8, 2023 reporting calendar. Genre matters here: it is ONE document but seven unrelated companies, so size never set a boundary \u2014 topical coherence did. Merging it would produce a note retrieved for GitLab, NIO, GameStop, DocuSign, Broadcom and Hello Group alike while answering none of them. It decomposes into 14 notes across 3 sub-plans (5/4/5), one per company subject plus a calendar frame.\n\nBB distribution: 10 empirical_observation, 3 argument, 1 counter_argument. That is the expected news profile. Absence is a finding here: there is no procedure, no hypothesis, and no standalone model in this document, and none were manufactured. The one near-model is block 24, where BTIG's Jonathan Krinsky attributes GameStop's 20% five-day surge to renewed buying in meme stocks \u2014 a causal attribution, but it is a single clause riding on a dated price fact in the same block, so the note is typed empirical_observation on the surge rather than promoted to a mechanism it does not actually develop. The three argument notes are genuine claim-plus-grounds analyst theses (Raymond James/Cantor Fitzgerald on GitLab; Stone Fox Capital's $8-to-$16 case on NIO; Individual Trader's bottom-formation case on MOMO). The single counter_argument is Josh Arnold's bear case on GameStop, which the article deliberately sets against the rally and the Hold rating \u2014 poor margins, declining sales, \"structurally unprofitable\" \u2014 i.e. criticism positioned as a rebuttal, not a free-standing claim.\n\nTwo block-boundary constraints shaped assignment, and both are worth flagging because the segmentation hides them. (1) Block 35 (206w) fuses DocuSign's one-sentence earnings-insight onto the ENTIRE Broadcom section \u2014 the 67% YTD share surge on the AI wave, the November 22 close of the $61B VMware acquisition, the 1,300 California VMware layoffs, the strategic review of VMware's End-User Computing and Carbon Black units, the Quant upgrade from Hold to Strong Buy, and Mike Zaccardi's thesis. Roughly 90% of its words are Broadcom, so it goes to the Broadcom note; DocuSign's beat-streak sentence travels with it rather than duplicating a block. (2) Block 37 similarly fuses Broadcom's 8-quarter beat streak with Thursday's also-reporting roster; it goes to Broadcom for the same reason. Blocks 33 and 35 are also internally mixed (facts + an embedded analyst argument) and could not be split at the BB seam without violating the one-block-one-note rule; both are typed by their dominant content.\n\nOn dropping: I inspected the also-reporting rosters (blocks 11, 20, 30, 45) rather than treating them as chrome. They are not promotional \u2014 they are the substantive remainder of the week's calendar and carry the only mention of many tickers (Lululemon, Dollar General, C3.ai, ChargePoint, Chewy, Toll Brothers, Campbell Soup, MongoDB, AutoZone, Signet), several of which the lede in block 2 names as headline companies. They are collected into one calendar note rather than discarded. Only 9 blocks are dropped, all true chrome: the article title (block 0, carried in the H1), the five weekday headers, and three bare ticker section headers. Coverage: 1,250 of 1,280 words assigned, 97.7%.\n\nEntity sharing (Step 3) is moot in this cluster \u2014 one document means no cross-document entity to unify \u2014 but the note slugs are written to be collision-safe in a 3,000-note vault and to serve as the canonical landing points should other business-category documents mention the same December 2023 earnings events."
+}

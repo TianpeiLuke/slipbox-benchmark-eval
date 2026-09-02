@@ -1,0 +1,2283 @@
+{
+ "cluster": "c23",
+ "subplans": [
+  {
+   "slug": "point_spread_betting_explainer",
+   "title": "Point Spread Betting Mechanics",
+   "notes": [
+    {
+     "note": "point_spread_bet_definition.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0359": [
+       1,
+       2,
+       3,
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       13,
+       14,
+       15,
+       17,
+       18,
+       77,
+       78,
+       80,
+       82
+      ]
+     }
+    },
+    {
+     "note": "point_spread_odds_and_line_movement.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0359": [
+       20,
+       21,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "point_spread_push_and_half_point_lines.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0359": [
+       34,
+       46,
+       47,
+       48,
+       49,
+       84,
+       85
+      ]
+     }
+    },
+    {
+     "note": "determining_a_point_spread_bet_outcome.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0359": [
+       31,
+       32,
+       33,
+       36,
+       37,
+       38,
+       39,
+       41,
+       42,
+       43,
+       44
+      ]
+     }
+    },
+    {
+     "note": "point_spread_variants_by_team_sport.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0359": [
+       51,
+       53,
+       55,
+       56,
+       58,
+       59,
+       61,
+       62,
+       65,
+       66
+      ]
+     }
+    },
+    {
+     "note": "handicap_betting_in_tennis_and_golf.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0359": [
+       69,
+       70,
+       72,
+       73,
+       74
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "totals_over_under_betting_explainer",
+   "title": "Totals and Over/Under Betting",
+   "notes": [
+    {
+     "note": "over_under_totals_bet_definition.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0554": [
+       1,
+       2,
+       3,
+       5,
+       6,
+       7,
+       8,
+       9,
+       68
+      ]
+     }
+    },
+    {
+     "note": "reading_a_totals_line_and_its_odds.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0554": [
+       11,
+       12,
+       13,
+       77,
+       78,
+       79
+      ]
+     }
+    },
+    {
+     "note": "totals_line_movement_drivers.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0554": [
+       15,
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "totals_bet_outcomes_push_and_overtime.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0554": [
+       21,
+       22,
+       32,
+       33,
+       70
+      ]
+     }
+    },
+    {
+     "note": "totals_bet_worked_examples_win_and_loss.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0554": [
+       25,
+       26,
+       28,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "over_under_totals_by_team_sport.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0554": [
+       35,
+       37,
+       38,
+       39,
+       41,
+       42,
+       44,
+       45,
+       46,
+       48,
+       49,
+       50,
+       52,
+       53
+      ]
+     }
+    },
+    {
+     "note": "over_under_betting_in_mma_tennis_and_golf.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0554": [
+       55,
+       56,
+       57,
+       60,
+       61,
+       63,
+       64,
+       65
+      ]
+     }
+    },
+    {
+     "note": "line_movement_as_a_signal_of_betting_value.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0359": [
+       29
+      ],
+      "doc_0554": [
+       72,
+       73,
+       75
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "sportsbook_welcome_offers_college_basketball",
+   "title": "Sportsbook Welcome Offers for College Basketball",
+   "notes": [
+    {
+     "note": "sportsbook_welcome_offer_roundup_acc_sec_challenge.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0432": [
+       1,
+       2,
+       3,
+       6
+      ]
+     }
+    },
+    {
+     "note": "caesars_sportsbook_promo_code_news1000.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0432": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "betmgm_bonus_code_tsn50_first_bet_offer.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0432": [
+       12,
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "bet365_bonus_code_tsnco_offer.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0432": [
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "fanduel_bet_five_get_150_moneyline_promo.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0432": [
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "draftkings_welcome_offer_claim_steps.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0432": [
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "betrivers_promo_code_sportsriv_second_chance_bet.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0432": [
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "tennessee_north_carolina_acc_sec_challenge_matchup.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0432": [
+       4,
+       43
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "bears_panthers_thursday_night_football",
+   "title": "Bears vs Panthers and the Frank Reich Hot Seat",
+   "notes": [
+    {
+     "note": "bears_16_panthers_13_thursday_night_result.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0489": [
+       1,
+       2,
+       3,
+       9,
+       12,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "panthers_offense_struggles_under_bryce_young.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0489": [
+       7,
+       51,
+       55,
+       56,
+       57
+      ],
+      "doc_0474": [
+       1,
+       2,
+       3,
+       4,
+       6
+      ]
+     }
+    },
+    {
+     "note": "defence_of_reich_59_yard_field_goal_call.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0489": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "panthers_fourth_quarter_bid_and_pineiro_59_yarder.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0489": [
+       5,
+       17,
+       18,
+       19,
+       20,
+       21,
+       23,
+       24,
+       25,
+       26,
+       27,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "foreman_touchdown_and_bears_third_quarter_lead.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0489": [
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50,
+       52,
+       53
+      ]
+     }
+    },
+    {
+     "note": "bears_panthers_second_quarter_field_goal_exchange.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0489": [
+       58,
+       59,
+       60,
+       61,
+       62,
+       65,
+       66,
+       67,
+       68,
+       69,
+       70,
+       71,
+       72,
+       74,
+       75,
+       76,
+       77,
+       79,
+       80,
+       82,
+       83
+      ]
+     }
+    },
+    {
+     "note": "smith_marsette_punt_return_touchdown_first_quarter.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0489": [
+       84,
+       85,
+       86,
+       88,
+       89,
+       90,
+       91,
+       92,
+       93,
+       94,
+       95,
+       96,
+       98,
+       99,
+       100,
+       101,
+       103,
+       104,
+       105,
+       106,
+       108,
+       109,
+       111
+      ]
+     }
+    },
+    {
+     "note": "dj_moore_first_game_against_the_panthers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0489": [
+       64,
+       110,
+       116
+      ]
+     }
+    },
+    {
+     "note": "bears_panthers_pregame_storylines_week_10.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0489": [
+       112,
+       113,
+       114,
+       115,
+       117,
+       118,
+       119,
+       120
+      ]
+     }
+    },
+    {
+     "note": "bears_panthers_broadcast_and_kickoff_details.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0489": [
+       81,
+       121,
+       122,
+       123,
+       124,
+       125,
+       126,
+       127,
+       128,
+       129,
+       130,
+       131,
+       132,
+       133
+      ]
+     }
+    },
+    {
+     "note": "frank_reich_hot_seat_under_david_tepper.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0474": [
+       7,
+       8,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "frank_reich_head_coaching_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0474": [
+       24,
+       25,
+       26,
+       27,
+       28,
+       29,
+       30
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "jets_raiders_sunday_night_football",
+   "title": "Jets vs Raiders Sunday Night Football",
+   "notes": [
+    {
+     "note": "raiders_16_jets_12_sunday_night_result.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0439": [
+       1,
+       2,
+       3,
+       5,
+       12
+      ]
+     }
+    },
+    {
+     "note": "jets_and_raiders_week_10_season_implications.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0439": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "raiders_go_ahead_touchdown_to_michael_mayer.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0439": [
+       39,
+       40,
+       41,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       52,
+       53
+      ]
+     }
+    },
+    {
+     "note": "jets_final_drive_and_spillane_interception.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0439": [
+       16,
+       17,
+       18,
+       19,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "jets_raiders_third_quarter_field_goals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0439": [
+       55,
+       56,
+       57,
+       58,
+       59,
+       60,
+       61,
+       62,
+       63,
+       64,
+       65,
+       66,
+       67
+      ]
+     }
+    },
+    {
+     "note": "jets_raiders_second_quarter_scoring.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0439": [
+       69,
+       70,
+       71,
+       72,
+       73,
+       74,
+       75,
+       76,
+       77,
+       78,
+       79,
+       80,
+       81,
+       82,
+       83,
+       84,
+       85,
+       86,
+       87,
+       90,
+       91
+      ]
+     }
+    },
+    {
+     "note": "jets_raiders_first_quarter_field_goals_and_interception.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0439": [
+       93,
+       94,
+       95,
+       96,
+       97,
+       98,
+       99,
+       100,
+       101,
+       102,
+       103,
+       104,
+       105,
+       108,
+       109,
+       110,
+       111,
+       112,
+       115,
+       116,
+       117,
+       118,
+       119
+      ]
+     }
+    },
+    {
+     "note": "jets_raiders_broadcast_and_kickoff_details.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0439": [
+       122,
+       123,
+       124,
+       125,
+       126,
+       127,
+       128,
+       129,
+       130,
+       131,
+       132
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "seahawks_cowboys_week_13_fantasy",
+   "title": "Seahawks-Cowboys Week 13 Fantasy Start/Sit",
+   "notes": [
+    {
+     "note": "seahawks_cowboys_week_13_tnf_matchup_outlook.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0394": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "seahawks_fantasy_sit_recommendations_week_13.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0394": [
+       7,
+       8,
+       13,
+       14,
+       15,
+       16,
+       19,
+       20,
+       21,
+       22,
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "cowboys_fantasy_start_recommendations_week_13.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0394": [
+       32,
+       33,
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45
+      ]
+     }
+    },
+    {
+     "note": "seahawks_cowboys_dfs_showdown_lineups.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0394": [
+       46,
+       47,
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55,
+       56,
+       57,
+       58,
+       59,
+       60
+      ]
+     }
+    },
+    {
+     "note": "zach_charbonnet_fantasy_outlook_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0394": [
+       9,
+       10
+      ],
+      "doc_0494": [
+       24
+      ]
+     }
+    },
+    {
+     "note": "tony_pollard_fantasy_outlook_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0394": [
+       34,
+       35
+      ],
+      "doc_0494": [
+       16
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "fantasy_rb_rankings_week_12",
+   "title": "Week 12 Fantasy Running Back Rankings",
+   "notes": [
+    {
+     "note": "fantasy_week_12_schedule_and_no_bye_teams.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0494": [
+       1,
+       2,
+       3,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "bye_free_weeks_complicate_lineup_decisions.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0494": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "week_12_top_fantasy_running_backs.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0494": [
+       12,
+       13,
+       14,
+       15,
+       17
+      ]
+     }
+    },
+    {
+     "note": "week_12_rb_sleepers_and_waiver_pickups.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0494": [
+       21,
+       22,
+       23,
+       25
+      ]
+     }
+    },
+    {
+     "note": "week_12_rb_busts_to_avoid.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0494": [
+       28,
+       29,
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "week_12_running_back_injury_report.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0494": [
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "week_12_standard_rb_rankings_table.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0494": [
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55,
+       56,
+       57,
+       58,
+       59,
+       60,
+       61,
+       62,
+       63,
+       64,
+       65,
+       66,
+       67,
+       68,
+       69,
+       70,
+       71,
+       72,
+       73,
+       74,
+       75,
+       76,
+       77,
+       78,
+       79,
+       80,
+       81,
+       82,
+       83,
+       84,
+       85,
+       86,
+       87,
+       88,
+       89,
+       90,
+       91,
+       92,
+       93,
+       94,
+       95,
+       96,
+       97,
+       98,
+       99,
+       100,
+       101,
+       102,
+       103,
+       104,
+       105,
+       106,
+       107
+      ]
+     }
+    },
+    {
+     "note": "josh_jacobs_and_breece_hall_2023_workloads.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0439": [
+       6
+      ],
+      "doc_0494": [
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tottenham_chelsea_var_derby",
+   "title": "Tottenham vs Chelsea VAR Chaos",
+   "notes": [
+    {
+     "note": "tottenham_chelsea_first_half_var_chaos.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0379": [
+       1,
+       2,
+       3,
+       4,
+       6
+      ]
+     }
+    },
+    {
+     "note": "kulusevski_opener_and_son_disallowed_goal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0379": [
+       7,
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "destiny_udogie_tackle_escapes_red_card.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0379": [
+       12,
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "romero_unchecked_kick_out_on_colwill.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0379": [
+       17,
+       18,
+       19,
+       21
+      ]
+     }
+    },
+    {
+     "note": "var_intervention_window_before_play_restarts.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0379": [
+       20
+      ]
+     }
+    },
+    {
+     "note": "sterling_equaliser_disallowed_for_handball.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0379": [
+       22,
+       23,
+       25
+      ]
+     }
+    },
+    {
+     "note": "attacking_handball_automatic_foul_rule.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0379": [
+       24
+      ]
+     }
+    },
+    {
+     "note": "romero_red_card_and_palmer_penalty_equaliser.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0379": [
+       26,
+       27,
+       28,
+       29,
+       30,
+       32,
+       33,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "nicolas_jackson_goal_disallowed_for_offside.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0379": [
+       37,
+       38,
+       39,
+       40
+      ]
+     }
+    },
+    {
+     "note": "reece_james_elbow_on_udogie_no_red_card.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0379": [
+       41,
+       42,
+       43,
+       44
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "pochettino_chelsea_captaincy",
+   "title": "Pochettino, Reece James and Chelsea's Captaincy",
+   "notes": [
+    {
+     "note": "reece_james_touchline_outburst_and_fa_charge.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0109": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "reece_james_hamstring_injury_and_return_timeline.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0109": [
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "pochettino_defends_james_and_chelsea_dna.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0109": [
+       7,
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "pochettino_arteta_friendship_from_psg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0109": [
+       12,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "chelsea_selection_crisis_and_fixture_run.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0109": [
+       16,
+       17,
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "manchester_united_onana_and_derby",
+   "title": "Ten Hag, Onana and the Manchester Derby",
+   "notes": [
+    {
+     "note": "onana_as_an_extra_outfield_player.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0330": [
+       1,
+       2,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "onana_transfer_fee_and_uneven_form_at_united.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0330": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "manchester_derby_191st_edition_context.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0330": [
+       3,
+       7,
+       10,
+       16
+      ]
+     }
+    },
+    {
+     "note": "bruno_fernandes_role_against_top_teams.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0330": [
+       11,
+       14
+      ]
+     }
+    },
+    {
+     "note": "ratcliffe_bid_for_manchester_united_stake.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0330": [
+       13,
+       15
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "liverpool_form_and_merseyside_derby_preview",
+   "title": "Klopp's Liverpool Before the Merseyside Derby",
+   "notes": [
+    {
+     "note": "liverpool_early_season_form_2023_24.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0542": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "merseyside_derby_243rd_edition_and_klopp_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0542": [
+       3,
+       15
+      ]
+     }
+    },
+    {
+     "note": "everton_under_sean_dyche_as_derby_threat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0542": [
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "klopp_on_consistency_and_the_midfield_rebuild.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0542": [
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "liverpool_attacking_form_nunez_and_salah.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0542": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "klopp_on_building_defensive_protection.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0542": [
+       12,
+       13,
+       14
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "european_club_competition_nights",
+   "title": "Liverpool and Arsenal in European Competition",
+   "notes": [
+    {
+     "note": "liverpool_beat_toulouse_in_europa_league_group.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0152": [
+       1,
+       2,
+       3,
+       5
+      ]
+     }
+    },
+    {
+     "note": "bill_kenwright_tribute_at_anfield.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0152": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "liverpool_toulouse_goals_and_key_moments.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0152": [
+       6,
+       7,
+       8,
+       9,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "europa_conference_league_round_up_villa_and_klaksvik.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0152": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "arsenal_2_1_win_at_sevilla_group_b.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0476": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "gabriel_jesus_goal_and_assist_against_sevilla.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0476": [
+       4,
+       5,
+       6,
+       7,
+       10
+      ]
+     }
+    },
+    {
+     "note": "sevilla_pressure_and_missed_chances_at_sanchez_pizjuan.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0476": [
+       8,
+       9,
+       12,
+       13,
+       14
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "inter_miami_2024_preseason",
+   "title": "Inter Miami's 2024 Preseason Friendlies",
+   "notes": [
+    {
+     "note": "inter_miami_2024_preseason_fixture_list.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0535": [
+       1,
+       2,
+       3,
+       4,
+       7,
+       8,
+       9,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "messi_vs_ronaldo_inter_miami_al_nassr_friendly.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0535": [
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "inter_miami_friendly_against_el_salvador.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0535": [
+       20,
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "inter_miami_hong_kong_leg_of_asia_tour.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0535": [
+       26,
+       27,
+       28,
+       29,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "inter_miami_vs_vissel_kobe_in_tokyo.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0535": [
+       32,
+       33,
+       34,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "newells_old_boys_friendly_and_messi_rosario_roots.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0535": [
+       37,
+       38,
+       39,
+       40,
+       41
+      ]
+     }
+    },
+    {
+     "note": "reported_inter_miami_river_plate_friendly_in_dallas.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0535": [
+       42,
+       43,
+       44,
+       45
+      ]
+     }
+    },
+    {
+     "note": "cancelled_china_tour_and_nycfc_noche_dor_replacement.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0535": [
+       46,
+       47,
+       48,
+       49,
+       50,
+       51
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "shohei_ohtani_free_agency_tracker",
+   "title": "Shohei Ohtani Free Agency Rumors",
+   "notes": [
+    {
+     "note": "shohei_ohtani_free_agency_market_overview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0480": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "ohtani_camp_secrecy_and_reporting_blackout.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0480": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "report_of_ohtani_affinity_for_boston.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0480": [
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "scherzer_recruiting_pitch_for_the_rangers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0480": [
+       16,
+       17,
+       18,
+       19,
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "rosenthal_report_ohtani_may_wait_for_yamamoto.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0480": [
+       23,
+       24,
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "mariners_reported_out_of_the_ohtani_chase.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0480": [
+       29,
+       30,
+       31,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "alternative_reading_of_the_mariners_ohtani_leak.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0480": [
+       34
+      ]
+     }
+    },
+    {
+     "note": "cubs_ohtani_fit_after_nl_designated_hitter.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0480": [
+       35,
+       36,
+       37,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "early_ohtani_signing_would_reshape_the_offseason.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0480": [
+       40,
+       41,
+       42,
+       43
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "world_series_game_2_diamondbacks_rangers",
+   "title": "World Series Game 2: Diamondbacks v Rangers",
+   "notes": [
+    {
+     "note": "diamondbacks_win_world_series_game_2.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0512": [
+       1,
+       3
+      ]
+     }
+    },
+    {
+     "note": "merrill_kelly_seven_inning_world_series_start.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0512": [
+       2,
+       30
+      ]
+     }
+    },
+    {
+     "note": "rangers_bullpen_collapse_in_the_eighth_inning.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0512": [
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "diamondbacks_ninth_inning_insurance_runs.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0512": [
+       12,
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "rangers_final_at_bats_in_game_2.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0512": [
+       5,
+       6,
+       7,
+       8,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "kelly_finishes_seventh_and_saalfrank_holds_texas.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0512": [
+       17,
+       18,
+       19,
+       31
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ole_miss_georgia_week_11",
+   "title": "Georgia's Week 11 Rout of Ole Miss",
+   "notes": [
+    {
+     "note": "georgia_52_17_ole_miss_week_11_recap.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0484": [
+       1,
+       5
+      ]
+     }
+    },
+    {
+     "note": "brock_bowers_return_from_tightrope_surgery.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0484": [
+       15,
+       16,
+       17,
+       58,
+       59
+      ]
+     }
+    },
+    {
+     "note": "ole_miss_georgia_fourth_quarter_scoring.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0484": [
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "kendall_milton_career_high_rushing_night.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0484": [
+       18,
+       25,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "georgia_third_quarter_field_goal_and_lovett_gain.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0484": [
+       19,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "interceptions_by_bullard_and_daijahn_anthony.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0484": [
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "georgia_first_half_touchdown_drives_beck_and_edwards.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0484": [
+       37,
+       38,
+       39,
+       40,
+       44,
+       46,
+       47,
+       48,
+       49
+      ]
+     }
+    },
+    {
+     "note": "quinshon_judkins_two_touchdowns_for_ole_miss.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0484": [
+       41,
+       42,
+       43,
+       50,
+       51
+      ]
+     }
+    },
+    {
+     "note": "ole_miss_stalled_drives_and_jaxson_dart_injury.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0484": [
+       20,
+       21,
+       26,
+       27,
+       45,
+       52,
+       53
+      ]
+     }
+    },
+    {
+     "note": "georgia_clinches_sec_east_and_sanford_stadium_scene.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0484": [
+       55,
+       56,
+       60
+      ]
+     }
+    },
+    {
+     "note": "ole_miss_georgia_broadcast_and_kickoff_details.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0484": [
+       61,
+       62,
+       63,
+       64,
+       65,
+       67,
+       68,
+       69,
+       70
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "france_italy_rugby_world_cup",
+   "title": "France's Rugby World Cup Rout of Italy",
+   "notes": [
+    {
+     "note": "france_beat_italy_to_top_rugby_world_cup_pool_a.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0414": [
+       1,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "damian_penaud_try_scoring_record_run.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0414": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "kieran_crowley_criticises_italian_rugby_federation.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0414": [
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "france_injury_setbacks_dupont_and_capuozzo.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0414": [
+       7,
+       14
+      ]
+     }
+    },
+    {
+     "note": "france_eight_try_sequence_against_italy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0414": [
+       8,
+       9,
+       10,
+       11,
+       13,
+       15
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "sydney_swans_aflw_attendance",
+   "title": "Sydney Swans and AFLW Crowds",
+   "notes": [
+    {
+     "note": "sydney_swans_top_aflw_attendance_charts.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0210": [
+       1,
+       2,
+       9,
+       11
+      ]
+     }
+    },
+    {
+     "note": "swans_matchday_experience_drives_local_attendance.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0210": [
+       3,
+       4,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "swans_on_field_turnaround_under_chloe_molloy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0210": [
+       5,
+       18
+      ]
+     }
+    },
+    {
+     "note": "aflw_crowds_short_of_season_extension_targets.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0210": [
+       6,
+       10,
+       12
+      ]
+     }
+    },
+    {
+     "note": "matildas_effect_limited_impact_on_domestic_womens_sport.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0210": [
+       13,
+       15
+      ]
+     }
+    },
+    {
+     "note": "aflw_longer_quarters_and_interchange_cap_rule_changes.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0210": [
+       16,
+       17,
+       19
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0359": [
+   0,
+   4,
+   12,
+   16,
+   19,
+   22,
+   30,
+   35,
+   40,
+   45,
+   50,
+   52,
+   54,
+   57,
+   60,
+   63,
+   64,
+   67,
+   68,
+   71,
+   75,
+   76,
+   79,
+   81,
+   83,
+   86
+  ],
+  "doc_0554": [
+   0,
+   4,
+   10,
+   14,
+   20,
+   23,
+   24,
+   27,
+   31,
+   34,
+   36,
+   40,
+   43,
+   47,
+   51,
+   54,
+   58,
+   59,
+   62,
+   66,
+   67,
+   69,
+   71,
+   74,
+   76,
+   80
+  ],
+  "doc_0432": [
+   0,
+   5,
+   7,
+   11,
+   17,
+   22,
+   26,
+   35,
+   39,
+   40,
+   41,
+   42,
+   44
+  ],
+  "doc_0489": [
+   0,
+   4,
+   8,
+   10,
+   11,
+   13,
+   14,
+   22,
+   28,
+   54,
+   63,
+   73,
+   78,
+   87,
+   97,
+   102,
+   107
+  ],
+  "doc_0474": [
+   0,
+   5,
+   9,
+   22,
+   23
+  ],
+  "doc_0439": [
+   0,
+   4,
+   9,
+   10,
+   11,
+   13,
+   14,
+   15,
+   20,
+   21,
+   29,
+   30,
+   37,
+   38,
+   42,
+   43,
+   50,
+   51,
+   54,
+   68,
+   88,
+   89,
+   92,
+   106,
+   107,
+   113,
+   114,
+   120,
+   121
+  ],
+  "doc_0394": [
+   0,
+   4,
+   5,
+   6,
+   11,
+   12,
+   17,
+   18,
+   23,
+   24,
+   29,
+   30,
+   31
+  ],
+  "doc_0494": [
+   0,
+   4,
+   7,
+   8,
+   10,
+   11,
+   19,
+   20,
+   26,
+   27,
+   108,
+   109
+  ],
+  "doc_0379": [
+   0,
+   5,
+   31,
+   34
+  ],
+  "doc_0109": [
+   0,
+   13
+  ],
+  "doc_0330": [
+   0,
+   12
+  ],
+  "doc_0542": [
+   0,
+   11
+  ],
+  "doc_0152": [
+   0
+  ],
+  "doc_0476": [
+   0,
+   11
+  ],
+  "doc_0535": [
+   0,
+   5,
+   6,
+   10,
+   19,
+   25
+  ],
+  "doc_0480": [
+   0,
+   4,
+   7,
+   8
+  ],
+  "doc_0512": [
+   0,
+   4,
+   9,
+   20
+  ],
+  "doc_0484": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   7,
+   54,
+   57,
+   66
+  ],
+  "doc_0414": [
+   0,
+   12
+  ],
+  "doc_0210": [
+   0,
+   14
+  ]
+ },
+ "genre_note": "Cluster c23 is 20 sports documents from Sporting News and The Guardian, split between three genres that decompose very differently.\n\n(1) Two long evergreen betting explainers (doc_0359 point spreads, 2,099w; doc_0554 totals, 2,044w) are the only genuinely concept/model/procedure-dense material in the cluster. Both exceed the 1,800-word density cap and were split at real sub-topic seams \u2014 definition, odds/payout, line movement, push semantics, worked settlement examples, per-sport variants \u2014 not at word counts. Individual-sport handicaps (tennis game/set, golf stroke, MMA rounds) were separated from team-sport score margins because they measure a different quantity, which is a true sub-topic boundary.\n\n(2) Four NFL/NCAA/MLB live blogs (doc_0439 4,134w, doc_0489 3,088w, doc_0512 1,840w, doc_0484 1,606w) are single documents but chronological event streams. These were segmented by scoring period / decisive sequence, which is how the source itself organises them and how a reader would ask about them, then given a separate summary note, a broadcast/kickoff-details note, and standalone notes for cross-cutting figures (D.J. Moore vs his former team; Merrill Kelly's seven-inning start; Brock Bowers' return). Embedded tweet cards were split: the caption line carries a fact and was assigned; the boilerplate \"\ud83d\udcfa / \ud83d\udcf1 Stream on #NFLPlus\" and \"Also available on #NFLPlus\" companion lines are pure chrome and were dropped.\n\n(3) Guardian match reports and previews (docs 0109, 0152, 0210, 0330, 0414, 0476, 0542) each carry one 89\u201392 word \"skip past newsletter promotion\" block. Those are the single largest drop in each of those files and are the reason doc_0414 (89%) and doc_0210 (88%) fall just under the 90% target; everything else in them is assigned.\n\nBuilding-block distribution matches the genre: empirical_observation dominates (\u224895 of 134 notes), concept is second (mostly the betting explainers and the six sportsbook-offer notes), with argument used for fantasy start/sit recommendations, Klopp/Pochettino/Ten Hag reasoning, and the Reich hot-seat case. counter_argument occurs four times and was NOT manufactured: the fantasy \"busts\" section (a rebuttal of the default start), the defence of Reich's 59-yard field-goal call against second-guessing, Crowley's criticism of the Italian Rugby Federation, and the alternative reading of the Mariners' Ohtani leak. model occurs four times where a genuine mechanism is described (spread and totals line movement, Onana as a de facto extra outfield player, the Swans' matchday-experience-to-attendance chain). **hypothesis does not occur anywhere in this cluster** \u2014 the closest candidates (Reich might be fired, an early Ohtani signing reshaping the market) are claims-with-grounds, not testable predictions, and were typed as argument. navigation was not produced, per instruction.\n\nCross-document entity sharing produced six shared notes rather than near-duplicates: Frank Reich / Bryce Young / the Panthers offense span doc_0474 + doc_0489; Zach Charbonnet and Tony Pollard span doc_0394 + doc_0494; Josh Jacobs and Breece Hall span doc_0439 + doc_0494; and the \"line movement signals value\" argument spans doc_0359 + doc_0554. Reece James appears in both doc_0379 (elbow on Udogie, 6 Nov) and doc_0109 (FA charge and captaincy, October) but these are distinct events, so they stay distinct notes.\n\nTwo blocks that read like chrome were deliberately assigned because they state scope conditions that invert their own surroundings: doc_0359 block 85 (a literal 21-21 tie still produces a spread winner, contradicting the \"tie means push\" framing that precedes it) and doc_0554 block 70 (overtime counts toward totals, which changes the settlement of every under bet). Similarly doc_0432 block 16 carries the state-exclusion list and the alternate BetMGM code, which is the only place the headline offer is qualified.\n\nCoverage: 18 of 20 documents land at 90\u201399% of words assigned. doc_0414 (89%) and doc_0210 (88%) miss only because of the newsletter-promotion block. **doc_0432 is the honest exception at ~82%** \u2014 it is an affiliate promo roundup whose dropped mass is nine \"Click to claim / Bet now / Claim here\" call-to-action lines, a \"Compare and contrast\" link row, and an unreplaced editorial placeholder (\"ADD metabet game tile code here when it becomes available\"). Its substance \u2014 the six offers, their codes, terms and state restrictions, plus the Tennessee\u2013North Carolina and Duke\u2013Arkansas matchup context \u2014 is fully assigned."
+}

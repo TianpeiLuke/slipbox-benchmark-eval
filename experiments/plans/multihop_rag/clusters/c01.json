@@ -52,17 +52,6 @@
      }
     },
     {
-     "note": "marc_antoine_julliard_ftx_customer_testimony.md",
-     "bb": "empirical_observation",
-     "blocks": {
-      "doc_0031": [
-       19,
-       20,
-       21
-      ]
-     }
-    },
-    {
      "note": "adam_yedidia_testimony_and_immunity_deal.md",
      "bb": "empirical_observation",
      "blocks": {
@@ -71,6 +60,26 @@
        23,
        24,
        25
+      ]
+     }
+    },
+    {
+     "note": "marc_antoine_julliard_ftx_customer_testimony.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0031": [
+       19,
+       20,
+       21
+      ],
+      "doc_0162": [
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27
       ]
      }
     }
@@ -992,20 +1001,6 @@
    "title": "The Eras Tour Film and the Reinvention of Theatrical Exhibition",
    "notes": [
     {
-     "note": "taylor_swift_eras_tour_concert_film_launch.md",
-     "bb": "empirical_observation",
-     "blocks": {
-      "doc_0419": [
-       3,
-       4,
-       13,
-       14,
-       15,
-       19
-      ]
-     }
-    },
-    {
      "note": "amc_taylor_swift_direct_distribution_deal.md",
      "bb": "model",
      "blocks": {
@@ -1089,6 +1084,24 @@
      "blocks": {
       "doc_0419": [
        16
+      ]
+     }
+    },
+    {
+     "note": "taylor_swift_eras_tour_concert_film.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0419": [
+       3,
+       4,
+       13,
+       14,
+       15,
+       19
+      ],
+      "doc_0462": [
+       2,
+       3
       ]
      }
     }

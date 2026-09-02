@@ -1,0 +1,2066 @@
+{
+ "cluster": "c26",
+ "subplans": [
+  {
+   "slug": "us_v_google_search_antitrust_trial",
+   "title": "US v. Google: the search antitrust trial record",
+   "notes": [
+    {
+     "note": "us_v_google_search_antitrust_trial_overview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0015": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "google_search_monopoly_remedies_and_ripple_effects.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0015": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "google_top_revenue_search_queries_disclosure.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0015": [
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "google_android_mada_and_rsa_agreements.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0015": [
+       34,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "expedia_testimony_on_google_search_ads.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0015": [
+       38,
+       39,
+       40,
+       41
+      ]
+     }
+    },
+    {
+     "note": "google_go_big_in_europe_search_quality_push.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0015": [
+       43,
+       44,
+       45
+      ]
+     }
+    },
+    {
+     "note": "firefox_yahoo_default_search_switch.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0015": [
+       47,
+       48,
+       49,
+       50,
+       51
+      ]
+     }
+    },
+    {
+     "note": "firefox_decline_alternative_explanation_chrome_share.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0015": [
+       52
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "epic_games_v_google_app_store_antitrust",
+   "title": "Epic Games v. Google: Play Store and Android distribution",
+   "notes": [
+    {
+     "note": "epic_games_v_google_antitrust_trial.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0042": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "google_play_billing_commission_structure.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0042": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "android_alternative_app_store_barriers.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0042": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "google_project_hug_developer_incentive_program.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0042": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "google_defense_android_openness_and_sideloading.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0042": [
+       9,
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "google_parallel_antitrust_proceedings_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0015": [
+       7
+      ],
+      "doc_0042": [
+       20,
+       21
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "eu_amazon_irobot_merger_review",
+   "title": "EU merger review of Amazon's iRobot acquisition",
+   "notes": [
+    {
+     "note": "eu_in_depth_probe_amazon_irobot_acquisition.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0039": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "amazon_marketplace_foreclosure_theory_of_harm.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0039": [
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "amazon_response_to_eu_irobot_objections.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0039": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "eu_amazon_prior_settlements_and_dma_gatekeeper.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0039": [
+       14,
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "meta_pay_or_consent_eu_challenge",
+   "title": "Meta's EU pay-or-consent ad-free subscription under challenge",
+   "notes": [
+    {
+     "note": "meta_pay_or_consent_subscription_model_eu.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0140": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "beuc_consumer_complaint_meta_pay_or_consent.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0140": [
+       1,
+       2,
+       4,
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "beuc_consumer_law_objections_to_meta_model.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0140": [
+       9,
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "meta_pay_or_consent_gdpr_dimension.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0140": [
+       14,
+       15,
+       20
+      ]
+     }
+    },
+    {
+     "note": "pay_or_okay_cookie_paywall_origins.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0140": [
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "cpc_network_consumer_protection_enforcement.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0140": [
+       21,
+       22,
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "beuc_position_choice_versus_implementation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0140": [
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "dma_dsa_oversight_of_meta_advertising_consent.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0140": [
+       29,
+       30,
+       31
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "meta_teen_safety_and_coppa_litigation",
+   "title": "Meta, teen safety and the multistate COPPA lawsuit",
+   "notes": [
+    {
+     "note": "multistate_lawsuit_against_meta_teen_harms.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0141": [
+       3
+      ],
+      "doc_0304": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "meta_teen_safety_self_regulation_and_bejar_critique.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0141": [
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "meta_proposal_app_store_parental_approval.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0141": [
+       1,
+       2,
+       6
+      ]
+     }
+    },
+    {
+     "note": "state_patchwork_of_teen_social_media_laws.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0141": [
+       7,
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "critique_of_meta_app_store_parental_approval_proposal.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0141": [
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "coppa_allegations_against_meta.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0304": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "meta_response_to_underage_user_allegations.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0304": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "meta_internal_under_13_user_data.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0304": [
+       10,
+       11,
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "meta_under_13_policy_versus_internal_growth_goals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0304": [
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "meta_underage_account_enforcement_backlog.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0304": [
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "meta_researchers_avoided_documenting_under_13_users.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0304": [
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "bonta_argument_meta_choices_and_coppa_liability.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0304": [
+       16,
+       17,
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "lawsuit_redactions_as_signal_amazon_precedent.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0304": [
+       4,
+       5
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "california_cppa_admt_ai_rules",
+   "title": "California CPPA draft rules for automated decisionmaking technology",
+   "notes": [
+    {
+     "note": "cppa_draft_admt_regulations.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0164": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "admt_automated_decisionmaking_technology_definition.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0164": [
+       32
+      ]
+     }
+    },
+    {
+     "note": "cppa_admt_rules_impact_on_behavioral_advertising.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0164": [
+       5,
+       6,
+       29
+      ]
+     }
+    },
+    {
+     "note": "cppa_risk_based_approach_versus_eu_ai_act.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0164": [
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "ccpa_cppa_regulatory_lineage.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0164": [
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "cppa_admt_opt_out_right_and_exemptions.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0164": [
+       15,
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "cppa_pre_use_notice_requirement.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0164": [
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "cppa_admt_access_rights_disclosure_requirements.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0164": [
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "cppa_admt_scope_thresholds.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0164": [
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "cppa_rulemaking_timeline.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0164": [
+       30,
+       31
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "openai_leadership_crisis_and_open_ai_debate",
+   "title": "The OpenAI board crisis and the open-versus-closed AI debate",
+   "notes": [
+    {
+     "note": "openai_board_ousts_sam_altman_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0054": [
+       1,
+       2
+      ],
+      "doc_0333": [
+       1,
+       2,
+       36
+      ]
+     }
+    },
+    {
+     "note": "theory_altman_circumvented_board_on_a_deal.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0333": [
+       4,
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "theory_openai_long_term_strategy_disagreement.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0333": [
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "theory_openai_financial_mismatch.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0333": [
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "theory_openai_security_or_privacy_incident.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0333": [
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "theory_openai_agi_mission_rift.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0333": [
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "theory_openai_copyright_liability.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0333": [
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "dismissed_theories_murati_coup_and_personal_matter.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0333": [
+       31,
+       33,
+       34,
+       35
+      ]
+     }
+    },
+    {
+     "note": "openai_crisis_risk_of_centralized_ai_control.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0054": [
+       3,
+       4,
+       20
+      ]
+     }
+    },
+    {
+     "note": "startup_over_reliance_on_openai_proprietary_models.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0054": [
+       10,
+       12,
+       13,
+       15
+      ]
+     }
+    },
+    {
+     "note": "meta_positioned_to_benefit_from_openai_turmoil.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0054": [
+       14,
+       19
+      ]
+     }
+    },
+    {
+     "note": "mozilla_open_letter_on_ai_openness.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0054": [
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "google_no_moat_memo_open_source_ai.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0054": [
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "llama_open_source_licensing_limits.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0054": [
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "chatgpt_first_year_retrospective",
+   "title": "ChatGPT's first year: adoption, limits and the GPTs platform",
+   "notes": [
+    {
+     "note": "chatgpt_launch_and_first_year_evolution.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0047": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_competitive_response_across_ai_industry.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0047": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_as_user_experience_breakthrough.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0047": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_usage_statistics_late_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0047": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "why_chatgpt_conversational_interface_resonates.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0047": [
+       12,
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_task_capabilities_and_productivity_effects.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0047": [
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_adoption_gap_survey_evidence.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0047": [
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_hallucination_and_bias_limitations.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0047": [
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_misuse_fears_versus_observed_abuse.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0047": [
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "openai_custom_gpts_and_devday_announcements.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0047": [
+       28,
+       29,
+       30,
+       31
+      ],
+      "doc_0116": [
+       1,
+       5
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "mozilla_fediverse_social_networking",
+   "title": "Mozilla's bet on the fediverse",
+   "notes": [
+    {
+     "note": "fediverse_activitypub_protocol.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0026": [
+       1
+      ],
+      "doc_0116": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "mozilla_fediverse_investment_rationale.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0026": [
+       2,
+       5,
+       6,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       34
+      ]
+     }
+    },
+    {
+     "note": "mozilla_social_mastodon_instance_beta.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0026": [
+       7,
+       8,
+       16,
+       17,
+       18,
+       20
+      ]
+     }
+    },
+    {
+     "note": "mozilla_social_content_discovery_experiments.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0026": [
+       19,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "fediverse_onboarding_barriers_and_mozilla_fixes.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0026": [
+       15,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "mozilla_social_publisher_and_creator_outreach.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0026": [
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "mozilla_social_trust_and_safety_moderation_stance.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0026": [
+       29,
+       31,
+       32,
+       33,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "pebble_t2_moderation_first_twitter_clone_shutdown.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0026": [
+       30
+      ]
+     }
+    },
+    {
+     "note": "social_networks_drift_from_connection_to_algorithmic_feeds.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0026": [
+       3,
+       4
+      ],
+      "doc_0196": [
+       2,
+       3,
+       4
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "amo_id_social_app",
+   "title": "Amo and the ID social app",
+   "notes": [
+    {
+     "note": "amo_id_social_app_launch.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0196": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "zenly_acquisition_and_shutdown_by_snap.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0196": [
+       7,
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "amo_founding_team_and_funding_round.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0196": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "empty_canvas_design_analogy_for_id.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0196": [
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "id_app_profile_canvas_mechanics.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0196": [
+       19,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "id_emergent_social_gameplay.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0196": [
+       27,
+       28,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "id_loneliness_thesis_and_anti_engagement_design.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0196": [
+       34,
+       35,
+       36,
+       37,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "amo_scale_ambition_and_product_roadmap.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0196": [
+       31,
+       32,
+       41,
+       42,
+       43
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "snap_map_gaza_documentation",
+   "title": "Snap Map as a firsthand record of Gaza",
+   "notes": [
+    {
+     "note": "snap_map_gaza_firsthand_documentation.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0124": [
+       1,
+       4,
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "gaza_conflict_information_environment_late_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0124": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "snap_map_product_and_our_story.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0124": [
+       9,
+       17
+      ]
+     }
+    },
+    {
+     "note": "snap_map_as_civic_documentation_tool.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0124": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "mapping_platforms_disable_live_features_israel_gaza.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0124": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "snap_decision_to_keep_gaza_heat_map_live.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0124": [
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "youth_distrust_of_legacy_news_media.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0124": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "palestinian_content_moderation_distrust_meta_platforms.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0124": [
+       18
+      ]
+     }
+    },
+    {
+     "note": "gaza_internet_blackout_and_connectivity.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0124": [
+       19,
+       20
+      ],
+      "doc_0199": [
+       8
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "french_ai_startup_scene",
+   "title": "The French AI startup wave",
+   "notes": [
+    {
+     "note": "french_ai_startup_ecosystem_momentum.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0038": [
+       2,
+       3,
+       20
+      ]
+     }
+    },
+    {
+     "note": "paris_ai_research_talent_pipeline.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0038": [
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "mistral_ai_french_llm_startup.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0038": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "french_ai_startups_poolside_dust_nabla.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0038": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "french_ai_startups_state_backing_and_compliance_edge.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0038": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "french_founder_stealth_ai_startup_wave.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0038": [
+       14,
+       15,
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "us_venture_capital_in_china",
+   "title": "US dollar venture capital in China under pressure",
+   "notes": [
+    {
+     "note": "usd_fund_china_copycat_investment_playbook.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0181": [
+       3,
+       4,
+       6
+      ]
+     }
+    },
+    {
+     "note": "china_tech_crackdown_investor_exit_risk.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0181": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "us_outbound_investment_restrictions_china.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0181": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "us_vc_investment_in_china_decline_data.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0181": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "usd_funds_china_pivot_to_overseas_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0181": [
+       2,
+       14
+      ]
+     }
+    },
+    {
+     "note": "haigui_guihai_returnee_founder_cycle.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0181": [
+       15,
+       16,
+       17,
+       22
+      ]
+     }
+    },
+    {
+     "note": "china_versus_overseas_dual_market_strategy.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0181": [
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "chinese_capital_stigma_in_us_fundraising.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0181": [
+       10,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "usd_funds_following_chinese_founders_abroad.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0181": [
+       27,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "chinese_usd_fund_managers_transitory_phase.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0181": [
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "outlook_for_us_china_vc_dealmaking.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0181": [
+       35,
+       36
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "deft_ecommerce_search_startup",
+   "title": "Deft and the e-commerce search startup problem",
+   "notes": [
+    {
+     "note": "deft_ecommerce_search_startup.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0301": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "deft_multimodal_search_capabilities.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0301": [
+       4,
+       5,
+       7
+      ]
+     }
+    },
+    {
+     "note": "traditional_ecommerce_search_degradation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0301": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "deft_funding_and_traction_metrics.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0301": [
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "deft_revenue_model_and_pricing_tiers.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0301": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "deft_competitive_landscape_search_incumbents.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0301": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "investor_views_on_deft_differentiation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0301": [
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "consumer_search_startup_switching_barriers.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0301": [
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "ecommerce_search_startup_viability_challenges.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0301": [
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "uber_q3_2023_earnings",
+   "title": "Uber's Q3 2023 earnings",
+   "notes": [
+    {
+     "note": "uber_q3_2023_earnings_headline_results.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0337": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "uber_q3_2023_bookings_by_segment.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0337": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "uber_q3_2023_profitability_metrics.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0337": [
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "uber_freight_revenue_decline.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0337": [
+       16,
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "uber_results_as_macro_signal_for_startups.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0337": [
+       5,
+       6,
+       26
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "binance_doj_resolution",
+   "title": "Binance's $4.3B DOJ resolution and CZ's guilty plea",
+   "notes": [
+    {
+     "note": "binance_doj_resolution_and_cz_guilty_plea.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0374": [
+       1,
+       2,
+       4,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "binance_ceo_succession_richard_teng.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0374": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "binance_charges_bsa_and_sanctions_violations.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0374": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "binance_and_zhao_plea_agreement_terms.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0374": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "kraken_sec_charges_and_staking_settlement.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0374": [
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "prior_sec_and_cftc_actions_against_binance.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0374": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "binance_market_position_and_2023_setbacks.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0374": [
+       14,
+       19,
+       20
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "week_in_review_tech_items",
+   "title": "Week in Review: standalone tech industry items",
+   "notes": [
+    {
+     "note": "apple_m3_mac_reviews_and_chip_lineup.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0116": [
+       6
+      ],
+      "doc_0199": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "ford_viizr_field_service_saas_shutdown.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0116": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "apple_generative_ai_investment_stance.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0116": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "wework_chapter_11_bankruptcy_and_collapse.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0116": [
+       10
+      ],
+      "doc_0199": [
+       24
+      ]
+     }
+    },
+    {
+     "note": "bumble_ceo_transition_lidiane_jones.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0116": [
+       11
+      ]
+     }
+    },
+    {
+     "note": "ev_sector_setbacks_arrival_and_us_automakers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0116": [
+       12
+      ],
+      "doc_0199": [
+       30
+      ]
+     }
+    },
+    {
+     "note": "klarna_ipo_preparation_and_fintech_signals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0116": [
+       15,
+       20
+      ]
+     }
+    },
+    {
+     "note": "aseel_afghan_artisan_ecommerce_to_humanitarian_aid.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0116": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "room_temperature_superconductor_claim_retraction.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0116": [
+       19
+      ]
+     }
+    },
+    {
+     "note": "unicorn_term_ten_year_retrospective.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0116": [
+       21
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "startups_weekly_items",
+   "title": "Startups Weekly: security, hardware and funding items",
+   "notes": [
+    {
+     "note": "hard_problems_as_startup_moat_thesis.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0199": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "apple_ios_security_fixes_and_spyware_notifications.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0199": [
+       9,
+       12
+      ]
+     }
+    },
+    {
+     "note": "atlassian_critical_security_flaw_warning.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0199": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "palo_alto_networks_acquires_dig_security.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0199": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "ransomware_payment_risks.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0199": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "magic_leap_ceo_transition_and_enterprise_pivot.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0199": [
+       17
+      ]
+     }
+    },
+    {
+     "note": "shield_ai_funding_round_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0199": [
+       19
+      ]
+     }
+    },
+    {
+     "note": "amazon_eero_max_7_mesh_router.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0199": [
+       20
+      ]
+     }
+    },
+    {
+     "note": "soundboks_gen4_bluetooth_speaker.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0199": [
+       21
+      ]
+     }
+    },
+    {
+     "note": "cloud_stock_multiples_and_startup_valuations.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0199": [
+       23
+      ]
+     }
+    },
+    {
+     "note": "startup_cofounder_breakup_preparation.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0199": [
+       25
+      ]
+     }
+    },
+    {
+     "note": "qi_tech_series_b_brazil_banking_as_a_service.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0199": [
+       26
+      ]
+     }
+    },
+    {
+     "note": "web_summit_ceo_katherine_maher.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0199": [
+       27
+      ]
+     }
+    },
+    {
+     "note": "google_maps_ai_feature_rollout.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0199": [
+       29
+      ]
+     }
+    },
+    {
+     "note": "x_twitter_valuation_decline_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0199": [
+       31
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0015": [
+   0,
+   1,
+   4,
+   5,
+   8,
+   9,
+   33,
+   37,
+   42,
+   46,
+   53
+  ],
+  "doc_0026": [
+   0,
+   37
+  ],
+  "doc_0038": [
+   0,
+   1,
+   13
+  ],
+  "doc_0039": [
+   0
+  ],
+  "doc_0042": [
+   0,
+   4,
+   8,
+   12,
+   15
+  ],
+  "doc_0047": [
+   0,
+   24
+  ],
+  "doc_0054": [
+   0,
+   5,
+   11
+  ],
+  "doc_0116": [
+   0,
+   2,
+   3,
+   4,
+   13,
+   14,
+   17,
+   18
+  ],
+  "doc_0124": [
+   0
+  ],
+  "doc_0140": [
+   0
+  ],
+  "doc_0141": [
+   0,
+   16
+  ],
+  "doc_0164": [
+   0,
+   14
+  ],
+  "doc_0181": [
+   0,
+   1,
+   5,
+   13,
+   18,
+   23,
+   28,
+   31
+  ],
+  "doc_0196": [
+   0,
+   1,
+   14,
+   26,
+   33,
+   40
+  ],
+  "doc_0199": [
+   0,
+   1,
+   2,
+   5,
+   6,
+   7,
+   11,
+   15,
+   18,
+   22,
+   28
+  ],
+  "doc_0301": [
+   0,
+   6,
+   15
+  ],
+  "doc_0304": [
+   0,
+   33,
+   34
+  ],
+  "doc_0333": [
+   0,
+   3,
+   9,
+   13,
+   18,
+   22,
+   26,
+   30,
+   32
+  ],
+  "doc_0337": [
+   0,
+   7,
+   11,
+   17,
+   25
+  ],
+  "doc_0374": [
+   0,
+   21
+  ]
+ },
+ "genre_note": "162 notes across 18 sub-plans; ~96% of the cluster's 27,385 words assigned.\n\nBUILDING-BLOCK DISTRIBUTION. As expected for news, empirical_observation dominates (~93 notes) and concept is second (~26). What is distinctive about this TechCrunch cluster is how much argumentative structure it carries: ~19 argument and ~17 counter_argument notes. That is not manufactured \u2014 TechCrunch consistently reports a claim and then its rebuttal in adjacent paragraphs (Google's defense against Epic; Amazon's \"intense competition\" reply to the EU; Meta's \"cherry-picked documents\" response; the Llama-is-not-really-open-source caveat; the Pebble/T2 shutdown as evidence that safety-first moderation does not drive growth). Splitting those into their own counter_argument notes rather than folding them into the claim note is the main reason several notes are small (48-100 words); merging them would have destroyed exactly the contrast the source draws.\n\nHYPOTHESIS IS REAL HERE, AND ONLY HERE. doc_0333 (\"WTF is going on at OpenAI? We have theories\") is explicitly eight numbered speculative explanations for Altman's firing, each stated with its supporting and disconfirming evidence. That is the hypothesis block by definition, and it yields 6 hypothesis notes plus one counter_argument note for the two theories the author actively dismisses (Murati coup, personal matter). No other document in the cluster contains a hypothesis, and I did not invent any. procedure is likewise genuinely rare (7 notes): the CPPA's opt-out / pre-use-notice / access-right mechanics, the CPC network's escalation process, Binance's plea-agreement obligations, ID's canvas mechanics, co-founder-breakup preparation. navigation: none produced, as instructed.\n\nSHARED ENTITY NOTES (11 notes draw blocks from two documents). The cluster's multi-hop potential lives almost entirely in these: openai_board_ousts_sam_altman_november_2023 (doc_0054 + doc_0333), multistate_lawsuit_against_meta_teen_harms (doc_0141 + doc_0304), apple_m3_mac_reviews_and_chip_lineup (doc_0116 + doc_0199), wework_chapter_11_bankruptcy_and_collapse (doc_0116 + doc_0199 \u2014 note the two docs are on opposite sides of the filing, one predicting it and one reporting it), gaza_internet_blackout_and_connectivity (doc_0124 + doc_0199), fediverse_activitypub_protocol (doc_0026 + doc_0116), social_networks_drift_from_connection_to_algorithmic_feeds (doc_0026 + doc_0196), openai_custom_gpts_and_devday_announcements (doc_0047 + doc_0116), google_parallel_antitrust_proceedings_2023 (doc_0015 + doc_0042), ev_sector_setbacks_arrival_and_us_automakers (doc_0116 + doc_0199). No (doc, block) pair appears in two notes; I verified this document by document.\n\nCOVERAGE HONESTY. Eighteen of twenty documents land above 93%; fourteen land above 96%. Two are lower and both are newsletters:\n- doc_0116 (Week in Review) \u2014 79%. Its drops are a masthead greeting, a table-of-contents paragraph that only restates items covered verbatim in later blocks, two \"sign up here\" / \"consider subscribing\" promos, three section headers, and a 47-word podcast plug that names no podcast content. That is genuinely all chrome; the substantive items are all assigned.\n- doc_0199 (Startups Weekly) \u2014 90%. Drops are the same shape plus a 39-word plug for the cybersecurity desk (\"Zack, Lorenzo and Carly are absolutely crushing it\") that carries no reportable fact.\nBoth newsletters were decomposed item-by-item rather than merged, per the roundup rule \u2014 which is why sub-plan 19 sits at the 15-note cap and contains several 21-50 word notes (Eero Max 7, Soundboks gen-4, Shield AI). Each is one specific announcement with a unique, retrievable filename; merging them into a \"hardware roundup\" would have produced precisely the note that is retrieved for everything and answers nothing.\n\nDROPS I RECONSIDERED AND ASSIGNED ANYWAY. doc_0164[32] is a footnote \u2014 the CPPA's formal definition of ADMT and of \"profiling\". It is the load-bearing definition for the entire regulation and would be the first casualty of a careless summariser; it got its own concept note. doc_0039[11] ends with \"Although the U.K.'s competition authority already cleared the deal back in June\" \u2014 a scope condition that contradicts the article's own framing of regulatory alarm; assigned. doc_0164[9] (\"the impact of California's AI rules is likely to remain local\") directly qualifies the preceding block's claim that California could become a top global AI rulemaker; both are in the same note so the qualification travels with the claim. doc_0015[52] reverses its own section's headline \u2014 the Firefox/Yahoo section argues Google's quality won, and the closing block argues Firefox's decline was probably Chrome, not Yahoo; it is a standalone counter_argument note. doc_0304[19] is the paragraph noting Meta *can* lawfully engage under-13s with parental consent \u2014 a scope condition on the COPPA allegations, kept beside the targeting evidence. doc_0141[15] (\"Apple and Google did not return requests for comment\") was assigned rather than dropped: in a story whose entire proposal shifts burden onto those two companies, their silence is substantive.\n\nGenuine chrome I did drop: duplicated headline/deck pairs (docs 0015, 0038, 0181, 0196, 0199 each repeat their title as block 0 and again as block 1), section headers, pull-quotes that verbatim duplicate an already-assigned body block (doc_0181[18] and [28] repeat the PitchBook figures from [11] and [35]; doc_0301[6] repeats the Hudson quote from [9]), the \"read the complaint here\" link, and two update stamps whose substance already appears in an assigned block."
+}

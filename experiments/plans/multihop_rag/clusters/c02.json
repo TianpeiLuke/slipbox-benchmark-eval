@@ -1,0 +1,2032 @@
+{
+ "cluster": "c02",
+ "subplans": [
+  {
+   "slug": "cfpb_oversight_and_bank_consumer_practices",
+   "title": "CFPB Oversight and Big-Bank Consumer Practices",
+   "notes": [
+    {
+     "note": "cfpb_consumer_redress_ordered_from_big_four_banks.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0097": [
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "cfpb_funding_structure_supreme_court_challenge.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0097": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "robert_menendez_bribery_indictment.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0097": [
+       1,
+       6
+      ]
+     }
+    },
+    {
+     "note": "senate_banking_hearing_2023_bank_capital_rules.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0097": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "overdraft_fees_racial_disparity_argument.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0097": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "citigroup_overdraft_fee_elimination.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0097": [
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "partial_overdraft_fee_rollbacks_jpmorgan_wells_bofa.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0097": [
+       21
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "student_debt_and_holiday_household_budgeting",
+   "title": "Student Debt and Holiday Household Budgeting",
+   "notes": [
+    {
+     "note": "student_loan_borrowers_curtailing_holiday_gift_spending.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0251": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "federal_student_loan_payment_pause_ending_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0251": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "holiday_gift_giving_financial_pressure.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0251": [
+       10,
+       11,
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "fifty_thirty_twenty_budgeting_method.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0251": [
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "communicating_financial_limits_with_family.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0251": [
+       22,
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "experiences_instead_of_material_gifts.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0251": [
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "responsible_credit_card_use_during_holidays.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0251": [
+       31,
+       32,
+       33,
+       34,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "low_cost_homemade_gift_alternatives.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0251": [
+       38,
+       39,
+       40,
+       41
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "delta_skymiles_gold_business_card",
+   "title": "Delta SkyMiles Gold Business Amex Card",
+   "notes": [
+    {
+     "note": "delta_skymiles_gold_business_amex_card.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0557": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       8,
+       12,
+       13,
+       45
+      ]
+     }
+    },
+    {
+     "note": "delta_skymiles_gold_business_welcome_bonus.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0557": [
+       9,
+       10,
+       14,
+       22
+      ]
+     }
+    },
+    {
+     "note": "delta_skymiles_gold_business_rewards_rates.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0557": [
+       11,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "redeeming_delta_skymiles_takeoff15_discount.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0557": [
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "delta_gold_business_card_fees_and_eligibility.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0557": [
+       29,
+       30,
+       31,
+       47,
+       48,
+       49,
+       50,
+       51,
+       52,
+       53
+      ]
+     }
+    },
+    {
+     "note": "delta_skymiles_gold_business_travel_perks.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0557": [
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       54,
+       55
+      ]
+     }
+    },
+    {
+     "note": "chase_ink_business_preferred_card_comparison.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0557": [
+       40,
+       42,
+       43
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "december_2023_us_box_office",
+   "title": "December 2023 US Box Office",
+   "notes": [
+    {
+     "note": "renaissance_beyonce_concert_film_opening.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0173": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       13
+      ]
+     }
+    },
+    {
+     "note": "december_2023_box_office_weekend_slowdown.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0173": [
+       6,
+       7,
+       8,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "renaissance_versus_eras_tour_concert_film_comparison.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0173": [
+       9,
+       10,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "amc_theatres_direct_distribution_of_concert_films.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0173": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "godzilla_minus_one_us_opening.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0173": [
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "hunger_games_trolls_wish_napoleon_holdovers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0173": [
+       17,
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "us_weekend_box_office_top_ten_december_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0173": [
+       25,
+       26,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ruby_franke_child_abuse_case",
+   "title": "Ruby Franke Child Abuse Case",
+   "notes": [
+    {
+     "note": "ruby_franke_guilty_plea_child_abuse.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0269": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "franke_defense_blaming_hildebrandt_influence.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0269": [
+       6,
+       7,
+       20
+      ]
+     }
+    },
+    {
+     "note": "franke_plea_agreement_abuse_details.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0269": [
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "franke_children_removal_and_family_aftermath.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0269": [
+       15,
+       16,
+       17,
+       18,
+       19,
+       26
+      ]
+     }
+    },
+    {
+     "note": "jodi_hildebrandt_role_and_pending_case.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0269": [
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "eight_passengers_youtube_parenting_channel.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0269": [
+       23,
+       24,
+       25
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ai_copyright_law_and_fair_use",
+   "title": "AI, Copyright Law and the Fair Use Fight",
+   "notes": [
+    {
+     "note": "us_copyright_office_ai_study_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0271": [
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "us_fair_use_four_factor_test.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0271": [
+       54,
+       55,
+       56,
+       57,
+       58,
+       59
+      ]
+     }
+    },
+    {
+     "note": "fair_use_doctrine_plain_explanation.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0381": [
+       31,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "ai_training_fails_fair_use_test.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0271": [
+       52,
+       53,
+       60,
+       61,
+       62,
+       63,
+       64,
+       65,
+       66
+      ]
+     }
+    },
+    {
+     "note": "anthropic_fair_use_defense_for_ai_training.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0271": [
+       67,
+       68,
+       69,
+       70,
+       72
+      ],
+      "doc_0380": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "google_usco_filing_ai_training_fair_use.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0380": [
+       7
+      ],
+      "doc_0381": [
+       26,
+       27,
+       28,
+       34,
+       36,
+       37,
+       38,
+       39,
+       40
+      ]
+     }
+    },
+    {
+     "note": "umg_usco_filing_rejects_fair_use.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0380": [
+       10
+      ],
+      "doc_0381": [
+       47,
+       48
+      ]
+     }
+    },
+    {
+     "note": "ed_newton_rex_resignation_stability_ai.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0380": [
+       9
+      ],
+      "doc_0381": [
+       30
+      ]
+     }
+    },
+    {
+     "note": "umg_lawsuit_against_anthropic_song_lyrics.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0271": [
+       30,
+       71
+      ]
+     }
+    },
+    {
+     "note": "thaler_creativity_machine_copyright_ruling.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0271": [
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "schumer_ai_insight_forum_on_copyright.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0380": [
+       1,
+       2,
+       3
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "music_industry_ai_policy_demands",
+   "title": "Music Industry AI Policy Demands",
+   "notes": [
+    {
+     "note": "nmpa_submission_generative_ai_greatest_risk.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0271": [
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "ai_generated_works_should_not_be_copyrightable.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0271": [
+       15,
+       16,
+       17,
+       18,
+       19,
+       23
+      ]
+     }
+    },
+    {
+     "note": "ai_assisted_works_copyright_eligibility.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0271": [
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "licensing_requirement_for_ai_training_material.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0271": [
+       28,
+       29,
+       31,
+       32,
+       33,
+       35
+      ]
+     }
+    },
+    {
+     "note": "ai_training_transparency_and_recordkeeping.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0271": [
+       34,
+       36,
+       37,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "eu_ai_act_training_data_disclosure_rule.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0271": [
+       40,
+       41
+      ]
+     }
+    },
+    {
+     "note": "opt_in_versus_opt_out_ai_training_consent.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0271": [
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50,
+       51
+      ]
+     }
+    },
+    {
+     "note": "sony_music_generative_ai_principles_for_congress.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0380": [
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47
+      ]
+     }
+    },
+    {
+     "note": "kooker_on_tech_industry_distorted_copyright_view.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0380": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "generative_ai_deepfakes_harm_to_artists.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0380": [
+       18,
+       19,
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "major_labels_and_ai_voice_cloning",
+   "title": "Major Labels and AI Voice Cloning",
+   "notes": [
+    {
+     "note": "youtube_dream_track_voice_cloning_experiment.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0381": [
+       4,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "youtube_ai_music_incubator_and_pledges.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0381": [
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "umg_and_wmg_licensing_of_dream_track.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0381": [
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "sony_music_absence_from_dream_track.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0380": [
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "sony_music_artist_led_approach_to_ai.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0381": [
+       9,
+       21,
+       22,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "google_filing_versus_youtube_music_reassurances.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0381": [
+       41,
+       43,
+       44,
+       45,
+       46,
+       49,
+       50
+      ]
+     }
+    },
+    {
+     "note": "dream_track_artist_selection_and_licensing_questions.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0381": [
+       51,
+       52,
+       53,
+       54,
+       55,
+       56
+      ]
+     }
+    },
+    {
+     "note": "sony_music_deepfake_takedowns_and_no_fakes_act.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0380": [
+       14,
+       17,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "sony_music_ai_startup_partnership_pipeline.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0380": [
+       15,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "sony_gilmour_orb_vermillio_ai_reissue_project.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0380": [
+       33,
+       34,
+       35,
+       36
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "eu_us_music_performance_rights",
+   "title": "EU-US Music Performance Rights Asymmetry",
+   "notes": [
+    {
+     "note": "eu_us_performance_rights_asymmetry.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0361": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "material_reciprocity_principle_music_royalties.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0361": [
+       5,
+       12
+      ]
+     }
+    },
+    {
+     "note": "cjeu_2020_ruling_on_rental_lending_directive.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0361": [
+       6,
+       7,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "eu_artist_royalty_loss_to_us_rightsholders.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0361": [
+       1,
+       2,
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "impala_call_for_eu_legislative_fix.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0361": [
+       11,
+       13,
+       14,
+       15,
+       18,
+       19,
+       21,
+       24
+      ]
+     }
+    },
+    {
+     "note": "netherlands_reciprocity_withdrawal_revenue_drop.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0361": [
+       20,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "us_sound_recording_public_performance_right_gap.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0361": [
+       25,
+       26,
+       27
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tiktok_music_ecosystem",
+   "title": "TikTok's Music Ecosystem",
+   "notes": [
+    {
+     "note": "tiktok_users_music_streaming_subscription_rate.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0363": [
+       2,
+       3,
+       4,
+       5,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "luminate_tiktok_music_study_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0363": [
+       6,
+       9
+      ]
+     }
+    },
+    {
+     "note": "tiktok_user_streaming_service_penetration.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0363": [
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "tiktok_users_music_merch_and_live_spending.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0363": [
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "tiktok_music_discovery_and_sharing_rates.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0363": [
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "tiktok_glocalization_of_international_music.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0363": [
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "tiktok_claim_to_drive_music_discovery.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0363": [
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "tiktok_music_services_expansion.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0363": [
+       25,
+       26,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "tiktok_bans_and_bytedance_data_concerns.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0363": [
+       34,
+       35,
+       36
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asx_daily_market_wraps",
+   "title": "ASX Daily Market Wraps and Wall Street Leads",
+   "notes": [
+    {
+     "note": "asx_september_2023_session_decliners.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0087": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "asx_outlook_and_rba_rate_expectations_september_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0087": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "treasury_yields_and_fed_higher_for_longer.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0087": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "us_consumer_spending_headwinds_late_2023.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0087": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "wall_street_movers_end_of_september_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0087": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "asx_october_2023_laggards.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0298": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "asx_rally_drivers_bond_market_and_china_stimulus.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0298": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "fed_dovish_comments_and_yield_retreat_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0298": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "middle_east_conflict_as_market_risk_october_2023.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0298": [
+       4,
+       6
+      ]
+     }
+    },
+    {
+     "note": "us_equity_sector_moves_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0298": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "melbourne_cbd_confidence_and_wage_underpayment.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0298": [
+       7
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "big_tech_earnings_and_australian_inflation",
+   "title": "Big Tech Earnings and Australian Inflation",
+   "notes": [
+    {
+     "note": "asx_reits_and_company_news_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0485": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "australian_inflation_data_and_rba_november_rise.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0485": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "alphabet_q3_2023_results_and_cloud_miss.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0485": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "big_tech_concentration_in_the_sp500.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0485": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "israel_gaza_conflict_and_oil_prices_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0485": [
+       6
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "aviation_parts_supply_chain_fraud",
+   "title": "Aviation Parts Supply Chain Fraud",
+   "notes": [
+    {
+     "note": "aog_technics_falsified_parts_records.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0506": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "jose_zamora_and_the_founding_of_aog_technics.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0506": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "detecting_counterfeit_jet_engine_parts.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0506": [
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "post_covid_parts_scramble_and_aog_growth.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0506": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "partnair_flight_394_counterfeit_bolts.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0506": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "unapproved_aircraft_parts_regulatory_gap.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0506": [
+       9,
+       10
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "amazon_marketplace_antitrust",
+   "title": "Amazon Marketplace Antitrust",
+   "notes": [
+    {
+     "note": "amazon_buy_box_price_parity_enforcement.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0002": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "ftc_antitrust_lawsuit_against_amazon.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0002": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "amazon_seller_support_for_the_ftc_case.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0002": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "amazon_seller_skepticism_of_the_ftc_case.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0002": [
+       8,
+       10
+      ]
+     }
+    },
+    {
+     "note": "amazon_seller_fee_and_pricing_complaints.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0002": [
+       12
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ftx_fraud_trial_testimony",
+   "title": "FTX Fraud Trial Testimony",
+   "notes": [
+    {
+     "note": "sam_bankman_fried_federal_fraud_trial.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0226": [
+       6,
+       17
+      ]
+     }
+    },
+    {
+     "note": "gary_wang_testimony_ftx_fraud_trial.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0226": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "ftx_final_days_and_alameda_shortfall.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0226": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "wang_cooperation_agreement_with_prosecutors.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0226": [
+       5,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "alameda_special_privileges_in_ftx_code.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0226": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "adam_yedidia_testimony_and_the_eight_billion_bug.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0226": [
+       1,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "yedidia_cross_examination_and_resignation.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0226": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "matt_huang_paradigm_ftx_investment.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0226": [
+       19
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "flexport_leadership_crisis",
+   "title": "Flexport Leadership Crisis",
+   "notes": [
+    {
+     "note": "dave_clark_ouster_from_flexport.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0536": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "dave_clark_hiring_and_flexport_ipo_plan.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0536": [
+       8,
+       10
+      ]
+     }
+    },
+    {
+     "note": "flexport_board_composition.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0536": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "flexport_forecast_dispute_and_whistleblower_claim.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0536": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "clark_cease_and_desist_and_political_friction.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0536": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "flexport_versus_amazon_supply_chain_service.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0536": [
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "psagot_investment_house_decline",
+   "title": "Psagot Investment House Under Rani Zim",
+   "notes": [
+    {
+     "note": "rani_zim_acquisition_of_psagot_investment_house.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0073": [
+       1,
+       2,
+       5
+      ]
+     }
+    },
+    {
+     "note": "group_psagot_share_price_collapse.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0073": [
+       3,
+       10
+      ]
+     }
+    },
+    {
+     "note": "causes_of_psagot_value_decline.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0073": [
+       4,
+       6
+      ]
+     }
+    },
+    {
+     "note": "group_psagot_debt_refinancing_plan.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0073": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "rani_zim_search_for_a_psagot_buyer.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0073": [
+       11,
+       12,
+       17
+      ]
+     }
+    },
+    {
+     "note": "psagot_asset_sales_to_kessem_phoenix.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0073": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "retail_management_skills_do_not_transfer_to_finance.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0073": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "psagot_asset_growth_without_profit.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0073": [
+       15,
+       16
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "israeli_defense_technology_doctrine",
+   "title": "Israeli Defense Technology Doctrine and October 7",
+   "notes": [
+    {
+     "note": "gaza_border_barrier_construction.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0078": [
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "israeli_leaders_claims_about_the_gaza_barrier.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0078": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "berlin_wall_low_tech_defense_lesson.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0078": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "october_7_technological_failure_of_the_barrier.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0078": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "technology_dependence_creates_defense_blind_spots.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0078": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "visual_intelligence_versus_human_sources.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0078": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "idf_small_and_smart_army_doctrine.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0078": [
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "officer_technological_literacy_and_system_redundancy.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0078": [
+       19
+      ]
+     }
+    },
+    {
+     "note": "iron_dome_strategic_paradox.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0078": [
+       21,
+       22,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "israeli_restraint_policy_toward_gaza.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0078": [
+       23,
+       24,
+       27
+      ]
+     }
+    },
+    {
+     "note": "strategic_surprise_pattern_across_history.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0078": [
+       29,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "weak_signals_and_scenario_theory.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0078": [
+       32,
+       33,
+       34,
+       35
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "terror_financing_interdiction",
+   "title": "Terror Financing Interdiction After October 7",
+   "notes": [
+    {
+     "note": "impa_blocking_hamas_fundraising_in_europe.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0486": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "israel_money_laundering_and_terror_financing_authority.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0486": [
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "surge_in_terror_financing_reports_after_october_7.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0486": [
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "private_sector_volunteers_in_terror_finance_tracking.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0486": [
+       11
+      ]
+     }
+    },
+    {
+     "note": "iran_state_funding_of_hamas.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0486": [
+       12,
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "hawala_money_transfer_into_gaza.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0486": [
+       18,
+       19,
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "trade_based_terror_financing_schemes.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0486": [
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "hamas_fundraising_after_october_7.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0486": [
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "why_impa_saw_no_pre_attack_funding_spike.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0486": [
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "us_treasury_fincen_and_ofac_response.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0486": [
+       33,
+       34,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "international_terror_finance_task_force.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0486": [
+       37,
+       38,
+       39,
+       40
+      ]
+     }
+    },
+    {
+     "note": "fatf_iran_isolation_and_cash_dependency.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0486": [
+       41,
+       42,
+       43,
+       44
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0097": [
+   0
+  ],
+  "doc_0173": [
+   0
+  ],
+  "doc_0251": [
+   0,
+   8,
+   9,
+   16,
+   21,
+   27,
+   30,
+   37,
+   42,
+   43
+  ],
+  "doc_0269": [
+   0
+  ],
+  "doc_0557": [
+   0,
+   6,
+   7,
+   15,
+   23,
+   24,
+   28,
+   32,
+   39,
+   41,
+   44,
+   46
+  ],
+  "doc_0271": [
+   0,
+   1,
+   14,
+   73
+  ],
+  "doc_0361": [
+   0
+  ],
+  "doc_0363": [
+   0,
+   1,
+   37
+  ],
+  "doc_0380": [
+   0,
+   16
+  ],
+  "doc_0381": [
+   0,
+   1,
+   2,
+   3,
+   8,
+   29,
+   35,
+   42,
+   57
+  ],
+  "doc_0087": [
+   0
+  ],
+  "doc_0298": [
+   0
+  ],
+  "doc_0485": [
+   0
+  ],
+  "doc_0506": [
+   0
+  ],
+  "doc_0002": [
+   0,
+   1,
+   3,
+   5,
+   7,
+   9,
+   11,
+   13
+  ],
+  "doc_0226": [
+   0,
+   7,
+   12,
+   18
+  ],
+  "doc_0536": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   7,
+   9,
+   11,
+   13,
+   15,
+   17
+  ],
+  "doc_0073": [
+   0,
+   9,
+   18,
+   19
+  ],
+  "doc_0078": [
+   0,
+   7,
+   14,
+   20,
+   28,
+   36,
+   37
+  ],
+  "doc_0486": [
+   0,
+   6,
+   10,
+   17,
+   26,
+   32,
+   45,
+   46
+  ]
+ },
+ "genre_note": "155 notes / 19 sub-plans / 20 docs. Verified with scripts/verify_cluster_plan.py: PASS (no duplicate (doc,block), no note over 1,800 words, all sub-plans 4-15, coverage 91.8%-99.2% per doc, 20/20 above 90%).\n\nBB distribution: empirical_observation 69, concept 31, argument 24, model 17, procedure 7, counter_argument 7, hypothesis 0, navigation 0. This matches the stated expectation that news is dominated by empirical_observation and concept. HYPOTHESIS IS ABSENT AND WAS NOT MANUFACTURED \u2014 nothing in these 20 documents states a testable prediction offered for testing. The closest candidates were deliberately typed otherwise: doc_0381's closing \"will Google's filing give superstars pause?\" is rhetorical framing for an argument about Dream Track artist selection; doc_0298's Paul Tudor Jones recession call is one clause inside a market-wrap block and is recorded as empirical_observation (a statement made on a date), not as a hypothesis.\n\nWhere the enum is thin, it is thin honestly. PROCEDURE (7) occurs only where the source really is instructional: the AP student-loan service piece (doc_0251) supplies five genuine how-to notes (50-30-20 budgeting, family conversations, experiences over gifts, credit-card discipline, low-cost gifts), plus Delta miles redemption (doc_0557) and Eiland's \"scenario theory\" decision rule (doc_0078). COUNTER_ARGUMENT (7) occurs only where a named party rebuts a named claim \u2014 Anthropic and Google answering the labels on fair use, Kooker answering the tech filings, Amazon sellers answering the FTC, Franke's counsel shifting blame to Hildebrandt, IMPA answering \"where were you before October 7\", and CNBC's documents contradicting Flexport's whistleblower narrative.\n\nSHARED ENTITY NOTES (four notes drawing on two documents each, which is what lets one note satisfy evidence from two sources): anthropic_fair_use_defense_for_ai_training (doc_0271 + doc_0380), google_usco_filing_ai_training_fair_use (doc_0380 + doc_0381), umg_usco_filing_rejects_fair_use (doc_0380 + doc_0381), ed_newton_rex_resignation_stability_ai (doc_0380 + doc_0381). The three MBW AI-copyright pieces overlap heavily on the October 30 USCO filings; rather than write near-duplicates per document, each named filing/actor gets one note fed from every document that discusses it. The three MBW docs are split across three sub-plans by subject, not by source: the legal fight over fair use, the industry's policy asks, and the Dream Track voice-cloning episode.\n\nDROPS INSPECTED, NOT ASSUMED. Everything dropped is article title, section header, photo/sketch caption credit, series-and-sponsor boilerplate (MBW Reacts/Stat of the Week + JKBX and Cinq promos), navigation lead-ins (\"Here are three things\u2026\", \"here are some recommendations\"), stock-ticker chrome (doc_0536 blocks 1-4), \"RELATED ARTICLES\" links, and Globes publication/copyright footers. Three classes of near-drop were ASSIGNED after inspection because they carry a scope condition or a fact found nowhere else: (1) doc_0557 blocks 53-55 read as routine legal boilerplate but state that card details are subject to change, that enrollment may be required, and that benefit level varies by card \u2014 scope conditions on every benefit claim in the article, so they went to the fees and perks notes and lifted that document from 87.6% to 93.3%; (2) doc_0226's courtroom-sketch captions carry dated facts the body text lacks (SBF's bail revoked August 11 2023, the dates each witness took the stand, Judge Kaplan presiding, the seven-count charge), so they were assigned to the matching testimony notes, lifting that document from 83.8% to 98.6%; (3) doc_0173's numbered top-ten list, which reads like a table but is the only place several titles' grosses appear.\n\nTWO COVERAGE CAVEATS, REPORTED HONESTLY. doc_0557 (Delta card, 93.3%) is a commerce/affiliate review page; its residual 6.7% is repeated section headers and a \"see this page\" rates link. doc_0251 (91.8%) is an AP service article whose residual is eight all-caps section headers plus the Charles Schwab Foundation funding disclosure. Neither loses substance.\n\nBOUNDARIES SET BY TOPIC, NOT SIZE. The three Sydney Morning Herald market wraps (doc_0087, doc_0298, doc_0485) are the hard case: each is a handful of very large blocks that each braid four or five unrelated items (an ASX sector move, a Fed comment, an oil print, a single company's earnings). Block granularity is the floor here, so those notes are named for the dominant subject of the block rather than pretending to an atomicity the segmentation cannot deliver \u2014 this is the one place in the cluster where a note is less topically pure than I would like, and it is a property of the source's paragraph structure, not of the decomposition. Conversely, no note was split merely for length: the largest (sony_music_generative_ai_principles_for_congress at ~597 words, google_usco_filing_ai_training_fair_use at ~612, dave_clark_ouster_from_flexport at ~608) stay whole because each is one subject.\n\nQUARANTINE HELD. Only data/corpus/multihop_rag/*.txt was read. data/raw/multihop_rag/MultiHopRAG.json was never opened, listed, or grepped.\n\nPlan JSON also written to /private/tmp/claude-501/-Users-tianpeixie-github-workspace-AbuseSlipBox/0ed440d6-a48a-425f-b401-cc3db97409f4/scratchpad/c02.json for re-verification."
+}

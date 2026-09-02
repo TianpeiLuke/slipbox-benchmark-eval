@@ -1,0 +1,1136 @@
+{
+ "cluster": "c31",
+ "subplans": [
+  {
+   "slug": "walmart_cyber_monday_2023_home_and_computing_deals",
+   "title": "Walmart Cyber Monday 2023: Computing, Kitchen and Smart-Home Deals (WIRED)",
+   "notes": [
+    {
+     "note": "wired_2023_holiday_deal_guide_selection_and_pricing_method.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0320": [
+       1,
+       2,
+       3
+      ],
+      "doc_0576": [
+       1,
+       2,
+       3,
+       4,
+       125
+      ]
+     }
+    },
+    {
+     "note": "walmart_cyber_monday_2023_laptop_and_gaming_hardware_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0320": [
+       9,
+       10,
+       11,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "walmart_cyber_monday_2023_kitchen_appliance_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0320": [
+       19,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "walmart_cyber_monday_2023_vacuum_and_air_purifier_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0320": [
+       20,
+       21,
+       22,
+       24
+      ]
+     }
+    },
+    {
+     "note": "walmart_cyber_monday_2023_smart_lighting_and_digital_frame_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0320": [
+       84,
+       85,
+       86
+      ]
+     }
+    },
+    {
+     "note": "walmart_cyber_monday_2023_home_security_camera_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0320": [
+       88,
+       89,
+       90
+      ]
+     }
+    },
+    {
+     "note": "walmart_cyber_monday_2023_mesh_wifi_router_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0320": [
+       91,
+       92
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "walmart_cyber_monday_2023_av_and_wearable_deals",
+   "title": "Walmart Cyber Monday 2023: TV, Audio and Wearable Deals (WIRED)",
+   "notes": [
+    {
+     "note": "walmart_cyber_monday_2023_television_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0320": [
+       32,
+       33,
+       34,
+       35,
+       37,
+       38,
+       40
+      ]
+     }
+    },
+    {
+     "note": "walmart_cyber_monday_2023_dolby_atmos_soundbar_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0320": [
+       39,
+       42,
+       43,
+       45,
+       46,
+       48,
+       49,
+       50,
+       51,
+       52
+      ]
+     }
+    },
+    {
+     "note": "walmart_cyber_monday_2023_wireless_earbud_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0320": [
+       70,
+       71,
+       73,
+       74,
+       78
+      ]
+     }
+    },
+    {
+     "note": "walmart_cyber_monday_2023_over_ear_headphone_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0320": [
+       66,
+       67,
+       69,
+       75,
+       76,
+       79
+      ]
+     }
+    },
+    {
+     "note": "walmart_cyber_monday_2023_fitness_tracker_and_smart_ring_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0320": [
+       58,
+       59,
+       60
+      ]
+     }
+    },
+    {
+     "note": "walmart_cyber_monday_2023_sonos_amplifier_and_subwoofer_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0320": [
+       97,
+       98,
+       99
+      ]
+     }
+    },
+    {
+     "note": "walmart_cyber_monday_2023_portable_bluetooth_speaker_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0320": [
+       101,
+       102
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "apple_black_friday_2023_device_deals",
+   "title": "Apple Black Friday / Cyber Monday 2023: Device Deals (WIRED)",
+   "notes": [
+    {
+     "note": "apple_store_credit_and_gift_card_promotion_november_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0576": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "wired_black_friday_2023_ipad_model_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       12,
+       13,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "wired_black_friday_2023_apple_pencil_and_ipad_accessory_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       17,
+       19,
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "wired_black_friday_2023_macbook_pro_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       27,
+       28,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "wired_black_friday_2023_macbook_air_and_mac_mini_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       32,
+       33,
+       34,
+       36
+      ]
+     }
+    },
+    {
+     "note": "wired_black_friday_2023_mac_keyboard_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       37,
+       43,
+       47,
+       49,
+       50
+      ]
+     }
+    },
+    {
+     "note": "wired_black_friday_2023_macbook_case_and_sleeve_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       41,
+       42,
+       46
+      ]
+     }
+    },
+    {
+     "note": "wired_black_friday_2023_mac_monitor_and_desk_accessory_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       38,
+       39,
+       44,
+       51
+      ]
+     }
+    },
+    {
+     "note": "apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       55,
+       56,
+       57
+      ],
+      "doc_0320": [
+       57
+      ]
+     }
+    },
+    {
+     "note": "beats_and_airpods_holiday_2023_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       62,
+       63,
+       64,
+       66
+      ],
+      "doc_0320": [
+       65
+      ]
+     }
+    },
+    {
+     "note": "why_iphone_discounts_come_from_carriers_not_retailers.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0576": [
+       124
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "apple_black_friday_2023_charging_and_case_accessories",
+   "title": "Apple Black Friday 2023: Charging, Mount and Case Accessory Deals (WIRED)",
+   "notes": [
+    {
+     "note": "wired_black_friday_2023_portable_power_bank_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       72,
+       75,
+       76,
+       83,
+       93
+      ]
+     }
+    },
+    {
+     "note": "wired_black_friday_2023_multi_device_wireless_charging_stand_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       71,
+       73,
+       77,
+       79,
+       86,
+       89,
+       90,
+       94,
+       97
+      ]
+     }
+    },
+    {
+     "note": "wired_black_friday_2023_usb_c_wall_charger_and_hub_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       80,
+       82,
+       85,
+       91,
+       95,
+       98
+      ]
+     }
+    },
+    {
+     "note": "wired_black_friday_2023_iphone_car_and_bike_mount_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       87,
+       99,
+       106
+      ]
+     }
+    },
+    {
+     "note": "wired_black_friday_2023_iphone_and_ipad_case_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       105,
+       109,
+       110,
+       113,
+       115,
+       117,
+       118
+      ]
+     }
+    },
+    {
+     "note": "wired_black_friday_2023_screen_protector_grip_and_cable_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       108,
+       111,
+       114,
+       120,
+       121
+      ]
+     }
+    },
+    {
+     "note": "wired_black_friday_2023_smartphone_photography_kit_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0576": [
+       104,
+       122
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "epoch_times_falun_gong_origins_and_growth",
+   "title": "The Epoch Times: Falun Gong Origins, Founding and Audience Growth",
+   "notes": [
+    {
+     "note": "epoch_times_conservative_news_organization_profile.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0076": [
+       4,
+       5,
+       13
+      ]
+     }
+    },
+    {
+     "note": "falun_gong_movement_and_li_hongzhi_teachings.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0076": [
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "chinese_government_ban_and_crackdown_on_falun_gong_1999.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0076": [
+       21,
+       23
+      ]
+     }
+    },
+    {
+     "note": "epoch_times_founding_and_early_growth_2000s.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0076": [
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "li_hongzhi_directives_to_falun_gong_media.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0076": [
+       17,
+       18,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "epoch_times_facebook_advertising_ban_2019.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0076": [
+       26,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "epoch_times_marketing_blitz_and_subscription_revenue_growth.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0076": [
+       31,
+       32,
+       33,
+       34,
+       35
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "epoch_times_political_alignment_and_finances",
+   "title": "The Epoch Times: Political Alignment, Funding and Contested Claims",
+   "notes": [
+    {
+     "note": "epoch_times_editorial_output_and_conspiracy_content.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0076": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "epoch_times_2020_election_and_pro_trump_coverage.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0076": [
+       1,
+       2,
+       3,
+       37,
+       38,
+       42
+      ]
+     }
+    },
+    {
+     "note": "epoch_times_covid_ccp_virus_coverage.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0076": [
+       39,
+       40
+      ]
+     }
+    },
+    {
+     "note": "epoch_times_conservative_donor_funding.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0076": [
+       41,
+       43,
+       44,
+       45,
+       46
+      ]
+     }
+    },
+    {
+     "note": "epoch_times_ad_spending_and_falun_gong_affiliate_grants.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0076": [
+       10,
+       47,
+       48,
+       49,
+       50,
+       51
+      ]
+     }
+    },
+    {
+     "note": "epoch_times_denial_of_falun_gong_affiliation.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0076": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "conservative_endorsements_of_epoch_times_credibility.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0076": [
+       8,
+       9,
+       11,
+       12
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tiktok_pixel_privacy_investigation_australia",
+   "title": "TikTok Tracking Pixel: Australian Privacy Investigation",
+   "notes": [
+    {
+     "note": "tiktok_pixel_pre_consent_data_collection_test.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0189": [
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "australian_advertiser_responses_to_tiktok_pixel_findings.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0189": [
+       1,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "civic_data_warning_to_remove_tiktok_pixel.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0189": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "james_paterson_call_for_tiktok_privacy_investigation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0189": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "tiktok_denial_and_oaic_monitoring_of_pixel_claims.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0189": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "china_data_laws_and_government_tiktok_device_bans.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0189": [
+       11
+      ]
+     }
+    },
+    {
+     "note": "aspi_analysis_of_tiktok_pixel_data_aggregation_risk.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0189": [
+       12,
+       13
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "microsoft_activision_blizzard_acquisition",
+   "title": "Microsoft's Activision Blizzard Acquisition and What It Means for Gamers",
+   "notes": [
+    {
+     "note": "call_of_duty_playstation_availability_after_microsoft_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0214": [
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "ubisoft_cloud_gaming_rights_to_activision_blizzard_catalogue.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0214": [
+       9,
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "activision_titles_on_xbox_game_pass.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0214": [
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "microtransaction_revenue_rationale_for_activision_acquisition.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0214": [
+       22,
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "gamer_reactions_at_egx_to_microsoft_activision_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0214": [
+       27,
+       28,
+       29,
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "fan_opposition_to_activision_console_exclusivity_risk.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0214": [
+       34,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "uk_games_industry_impact_of_activision_acquisition.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0214": [
+       37,
+       38,
+       39,
+       40,
+       41,
+       42
+      ]
+     }
+    },
+    {
+     "note": "microsoft_gaming_studio_acquisition_portfolio.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0214": [
+       43,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55,
+       56
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "hikvision_surveillance_in_west_bank",
+   "title": "Hikvision Cameras and Israeli Surveillance in the West Bank",
+   "notes": [
+    {
+     "note": "surveillance_camera_saturation_in_occupied_east_jerusalem.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0336": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "hikvision_video_surveillance_company_profile.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0336": [
+       3,
+       12
+      ]
+     }
+    },
+    {
+     "note": "amnesty_automated_apartheid_report_on_west_bank_surveillance.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0336": [
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "hikvision_ethnicity_detection_and_protest_alarm_features.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0336": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "hikvision_human_rights_compliance_denial.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0336": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "ipvm_rebuttal_of_hikvision_human_rights_record.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0336": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "mabat_2000_israeli_facial_recognition_network.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0336": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "wolf_pack_palestinian_biometric_database.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0336": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "surveillance_as_restriction_on_palestinian_freedom_of_movement.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0336": [
+       15,
+       17,
+       19
+      ]
+     }
+    },
+    {
+     "note": "west_bank_and_gaza_casualties_october_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0336": [
+       16,
+       18
+      ]
+     }
+    },
+    {
+     "note": "amnesty_verification_of_cctv_identified_detentions.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0336": [
+       20,
+       21
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "snapchat_fentanyl_lawsuits",
+   "title": "Snapchat Fentanyl Deaths and the Parents' Lawsuits Against Snap",
+   "notes": [
+    {
+     "note": "brooke_badger_fentanyl_overdose_death_2021.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0345": [
+       1,
+       2,
+       3,
+       4,
+       6
+      ]
+     }
+    },
+    {
+     "note": "us_youth_fentanyl_overdose_death_statistics.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0345": [
+       5,
+       7
+      ]
+     }
+    },
+    {
+     "note": "social_media_victims_law_center_lawsuit_against_snap.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0345": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "snapchat_design_features_alleged_to_enable_drug_sales.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0345": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "section_230_defense_in_snap_fentanyl_lawsuit.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0345": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "snap_moderation_response_to_drug_dealer_accounts.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0345": [
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "snapchat_perceived_safety_for_teen_drug_purchases.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0345": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "ed_ternan_case_against_suing_snap.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0345": [
+       19,
+       20,
+       21,
+       23
+      ]
+     }
+    },
+    {
+     "note": "parent_led_counterfeit_pill_awareness_campaigns.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0345": [
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0320": [
+   0,
+   4,
+   5,
+   6,
+   7,
+   8,
+   12,
+   15,
+   16,
+   17,
+   18,
+   23,
+   28,
+   29,
+   30,
+   31,
+   36,
+   41,
+   44,
+   47,
+   53,
+   54,
+   55,
+   56,
+   61,
+   62,
+   63,
+   64,
+   68,
+   72,
+   77,
+   80,
+   81,
+   82,
+   83,
+   87,
+   93,
+   94,
+   95,
+   96,
+   100,
+   103
+  ],
+  "doc_0576": [
+   0,
+   5,
+   8,
+   9,
+   10,
+   11,
+   14,
+   18,
+   23,
+   24,
+   25,
+   26,
+   31,
+   35,
+   40,
+   45,
+   48,
+   52,
+   53,
+   54,
+   58,
+   59,
+   60,
+   61,
+   65,
+   67,
+   68,
+   69,
+   70,
+   74,
+   78,
+   81,
+   84,
+   88,
+   92,
+   96,
+   100,
+   101,
+   102,
+   103,
+   107,
+   112,
+   116,
+   119,
+   123
+  ],
+  "doc_0076": [
+   0,
+   16,
+   22,
+   36
+  ],
+  "doc_0189": [
+   0
+  ],
+  "doc_0214": [
+   0,
+   2,
+   33
+  ],
+  "doc_0336": [
+   0
+  ],
+  "doc_0345": [
+   0,
+   22
+  ]
+ },
+ "genre_note": "CLUSTER SHAPE. Two very different genres sit in c31. Five are conventional reported features (Epoch Times/Falun Gong, TikTok pixel privacy, Microsoft-Activision, Hikvision in the West Bank, Snapchat fentanyl lawsuits) totalling 7,395 words. Two are WIRED shopping roundups (doc_0320 Walmart Cyber Monday, doc_0576 Apple Black Friday) totalling 10,045 words \u2014 58% of the cluster by words but the thinnest in propositional content.\n\nROUNDUP DECOMPOSITION. The roundups are exactly the \"one document, fifteen unrelated items\" case. Merging each into one note would produce a note retrieved for everything and answering nothing; splitting per product blurb would give ~90 notes of 50-100 words each, each too thin to stand alone. I cut at the product-category boundary the documents themselves mark with section headers and the repeated \"Jump to a Topic\" nav, then split further where a labelled section mixes genuinely different products \u2014 doc_0320's \"TV Deals\" section is really TVs (blocks 32-40) plus ten soundbars (39, 42-52), and its \"Headphone and Earbud Deals\" splits cleanly into over-ear headphones and in-ear buds. doc_0576's charger section (~1,500 words) split four ways: power banks, multi-device wireless stands, USB-C wall chargers/hubs, and vehicle mounts. Largest resulting note draws on ~620 source words; none approaches the 1,800-word ceiling.\n\nCROSS-DOCUMENT SHARING. Three entities genuinely recur across the two roundups and get one note each fed from both documents: (1) WIRED's deal-selection and pricing methodology plus the affiliate disclosure \u2014 doc_0320 [2,3] and doc_0576 [2,4] are verbatim identical boilerplate, so one procedure note carries both plus each guide's framing and update notices; (2) the Apple Watch Series 9, priced in both roundups (doc_0320 [57] + doc_0576 [55-57]); (3) the Powerbeats Pro, likewise (doc_0320 [65] + doc_0576 [62]). No block is assigned twice anywhere. I deliberately did NOT merge across the news documents: China/the CCP appears in three of them (Falun Gong persecution in doc_0076, the National Intelligence Law in doc_0189, Uyghur repression in doc_0336), but these are three distinct sets of facts about three distinct events. A single \"China\" note would be precisely the over-general merge the brief warns against, so those stay separate and the connection lives in the link structure instead.\n\nBUILDING-BLOCK DISTRIBUTION. 82 notes: 57 empirical_observation, 8 counter_argument, 7 concept, 6 argument, 2 model, 1 procedure, 0 hypothesis, 0 navigation. The skew toward empirical_observation is the genre, not laziness \u2014 the roundups are dated price observations and the features are dated events, figures and attributed testimony. Two things worth flagging as findings rather than gaps. First, hypothesis does not occur: nothing in these seven documents states a testable prediction with a truth condition, and I manufactured none. Second, counter_argument is unusually well represented for news because four of the five features are structured around a contested claim and print the rebuttal \u2014 Hikvision's compliance denial answered by IPVM, Snap's Section 230 motion and moderation defence answered by the plaintiffs' attorney, TikTok rejecting Civic Data, The Epoch Times denying Falun Gong affiliation. doc_0345 also contains a rare intra-source dissent: Ed Ternan, a bereaved parent who explicitly declines to join the lawsuit and works with Snap instead, which is a counter_argument to the article's own central thrust and is kept as its own note rather than folded into the parent-advocacy note.\n\nTWO MODEL NOTES. Both are real causal explanations, not padding. doc_0214 [22-26] explains why Microsoft still wins when Activision games stay on PlayStation \u2014 microtransaction and DLC revenue of $5.89bn in 2022 versus $1.6bn from game sales, so a PlayStation in-game purchase funds a rival through Sony's ~30% cut. doc_0576 [124] explains why iPhones rarely discount at retail: the sales come from carriers with unlimited-plan or new-line conditions attached. That block sits under a throwaway \"What About iPhone Deals?\" header and reads like filler, but it states a scope condition on the whole guide's premise, so it is assigned rather than dropped.\n\nDROPPED CHROME, AND WHAT I CHECKED BEFORE DROPPING. 98 blocks dropped in total, overwhelmingly from the two roundups: article titles, section headers, \"Photograph: Sonos\"-style credit captions, \"Jump to a Topic\" nav (repeated 8x in doc_0320 and 5x in doc_0576, 299 words of pure navigation), and \"check out our Best Blenders guide\" cross-promo pointers. Two judgment calls went the other way, per the instruction to inspect what looks routine. doc_0576 [3] and [125] are update/correction notices (\"Updated November 27... added a new deal on a 14-inch MacBook Pro (M3 Pro, 2023)\"; \"Published November 26, 2023\") \u2014 they date the prices and name late additions, so they are assigned to the methodology note. Likewise the affiliate-commission disclosures, which are a standing scope condition on every recommendation in both guides. doc_0214 [1] is a repeated headline but carries the only publication date in the document (\"Published 14 October\"), so it is assigned rather than dropped. Conversely doc_0214 [33] is 110 words of Instagram-embed consent boilerplate with zero content, and it alone is why doc_0214 lands below the 90% target.\n\nCOVERAGE, REPORTED HONESTLY. doc_0076 97.2%, doc_0189 99.1%, doc_0214 89.6%, doc_0336 98.9%, doc_0345 98.3%, doc_0576 94.9%, doc_0320 88.6%. Cluster total ~16,430 of 17,440 words assigned (~94%). Two documents fall short of 90% and both for structural reasons rather than compression: doc_0320 loses 471 words to chrome, of which 224 are the eight identical \"Jump to a Topic\" navigation strips and 156 are cross-promotional pointers to other WIRED guides \u2014 roughly 9% of that document is navigation and house advertising, and there is no honest way to assign it. doc_0214 loses 110 of its 122 dropped words to the single Instagram embed notice. Every remaining dropped block is under 30 words."
+}

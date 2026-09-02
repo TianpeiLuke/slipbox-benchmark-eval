@@ -1,0 +1,3531 @@
+{
+ "cluster": "c33",
+ "subplans": [
+  {
+   "slug": "bangladesh_edtech_10_minute_school",
+   "title": "10 Minute School and Bangladesh edtech",
+   "notes": [
+    {
+     "note": "ten_minute_school_bangladesh_edtech.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0458": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "ten_minute_school_pre_series_a_funding_round.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0458": [
+       4,
+       15
+      ]
+     }
+    },
+    {
+     "note": "ayman_sadiq_ten_minute_school_origin.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0458": [
+       5,
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "ten_minute_school_growth_and_investment_plans.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0458": [
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "shikho_bangladesh_edtech_competitor.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0458": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "bangladesh_k12_education_access_gap.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0458": [
+       1,
+       14
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "alliance_dao_all11_cohort",
+   "title": "Alliance DAO All11 web3 accelerator cohort",
+   "notes": [
+    {
+     "note": "alliance_dao_accelerator_program.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0465": [
+       3,
+       5
+      ]
+     }
+    },
+    {
+     "note": "alliance_dao_all11_cohort_selectivity.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0465": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "alliance_dao_all11_mentor_roster.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0465": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "kravata_latam_fiat_crypto_onramp.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0465": [
+       9,
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "thunder_onchain_trading_terminal.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0465": [
+       14,
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "sleepagotchi_nft_sleep_game.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0465": [
+       19,
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "blockcast_decentralized_broadcast_network.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0465": [
+       24,
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "tailwind_cosmos_smart_wallet.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0465": [
+       29,
+       30,
+       31,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "tazz_protocol_debt_market.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0465": [
+       34,
+       35,
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "upshield_web3_security_platform.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0465": [
+       39,
+       40,
+       41,
+       42,
+       43
+      ]
+     }
+    },
+    {
+     "note": "inco_encrypted_evm_fhe_network.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0465": [
+       44,
+       45,
+       46,
+       47,
+       48
+      ]
+     }
+    },
+    {
+     "note": "crypto_bear_market_startup_conditions.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0465": [
+       2,
+       50
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ramaswamy_republican_tiktok_campaign",
+   "title": "Vivek Ramaswamy and the Republican youth-vote gap online",
+   "notes": [
+    {
+     "note": "vivek_ramaswamy_tiktok_launch.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0468": [
+       2,
+       5,
+       10,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "ramaswamy_tiktok_national_security_contradiction.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0468": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "republican_youth_voter_digital_fluency_gap.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0468": [
+       3,
+       4,
+       21
+      ]
+     }
+    },
+    {
+     "note": "annie_wu_henry_on_gen_z_authenticity.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0468": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "democratic_social_media_campaign_dominance.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0468": [
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "republican_state_level_tiktok_ban_push.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0468": [
+       17
+      ]
+     }
+    },
+    {
+     "note": "mehmet_oz_tiktok_campaign.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0468": [
+       18
+      ]
+     }
+    },
+    {
+     "note": "doug_mastriano_facebook_live_campaign.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0468": [
+       19
+      ]
+     }
+    },
+    {
+     "note": "right_wing_online_audience_growth.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0468": [
+       20
+      ]
+     }
+    },
+    {
+     "note": "gen_z_policy_misalignment_republican_party.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0468": [
+       44,
+       45,
+       46
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "political_creators_and_platform_culture",
+   "title": "Political creator strategy and platform culture",
+   "notes": [
+    {
+     "note": "aoc_twitch_among_us_stream.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0468": [
+       22
+      ]
+     }
+    },
+    {
+     "note": "matt_gaetz_twitch_debut_failure.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0468": [
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "platform_culture_and_political_engagement.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0468": [
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "jake_paul_endorsement_backlash.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0468": [
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "influencer_mobilization_versus_endorsement_research.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0468": [
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "political_authenticity_as_online_campaign_currency.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0468": [
+       34,
+       35,
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "white_house_influencer_army_strategy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0468": [
+       38,
+       39,
+       40
+      ]
+     }
+    },
+    {
+     "note": "paid_political_influencer_regulation_gap.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0468": [
+       41
+      ]
+     }
+    },
+    {
+     "note": "ron_desantis_twitter_spaces_launch_failure.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0468": [
+       42
+      ]
+     }
+    },
+    {
+     "note": "online_activist_trolling_of_conservative_campaigns.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0468": [
+       43
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "robotics_research_institutes",
+   "title": "Toyota Research Institute and the Boston Dynamics AI Institute",
+   "notes": [
+    {
+     "note": "mit_leg_lab_robot_locomotion.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0511": [
+       1,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "raibert_pratt_robotics_lineage.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0511": [
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "pure_research_model_at_automaker_backed_institutes.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0511": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "tri_eldercare_robotics_focus.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0511": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "llm_limits_in_robot_manipulation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0511": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "boston_dynamics_ai_institute_ethics_research.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0511": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "cars_and_robotics_convergence.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0511": [
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "boston_dynamics_ai_institute_research_pillars.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0511": [
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "amazon_delivering_the_future_2023",
+   "title": "Amazon Delivering the Future 2023 announcements",
+   "notes": [
+    {
+     "note": "amazon_delivering_the_future_2023_event.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0528": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "amazon_prime_air_pharmacy_drone_delivery.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0528": [
+       4,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "amazon_sequoia_fulfillment_system.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0528": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "amazon_agility_digit_humanoid_pilot.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0528": [
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "amazon_mit_ipsos_robot_perception_study.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0528": [
+       13,
+       14,
+       15,
+       63,
+       64
+      ]
+     }
+    },
+    {
+     "note": "amazon_robot_fleet_scale_and_jobs.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0528": [
+       16,
+       17,
+       47,
+       48,
+       49,
+       50
+      ]
+     }
+    },
+    {
+     "note": "amazon_proteus_automation_outside_the_cage.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0528": [
+       39,
+       40
+      ]
+     }
+    },
+    {
+     "note": "amazon_proteus_cardinal_sequoia_deployments.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0528": [
+       59,
+       60
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "amazon_robotics_ai_and_manipulation",
+   "title": "Amazon Robotics on generative AI and mobile manipulation",
+   "notes": [
+    {
+     "note": "amazon_machine_learning_and_generative_ai_adoption.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0528": [
+       18,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "amazon_generative_ai_in_robotics_simulation.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0528": [
+       22,
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "generative_ai_for_robot_design_and_path_planning.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0528": [
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "amazon_machine_learning_fleet_and_flow_management.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0528": [
+       29,
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "real_time_decision_making_in_amazon_robotics.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0528": [
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "amazon_industrial_innovation_fund_and_agility.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0528": [
+       35,
+       36,
+       37,
+       38,
+       41,
+       42
+      ]
+     }
+    },
+    {
+     "note": "amazon_interest_in_bipedal_locomotion.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0528": [
+       43,
+       44
+      ]
+     }
+    },
+    {
+     "note": "amazon_greenfield_brownfield_retrofit_capability.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0528": [
+       45,
+       46
+      ]
+     }
+    },
+    {
+     "note": "amazon_mobile_manipulation_program.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0528": [
+       51,
+       52,
+       53,
+       54,
+       55,
+       56
+      ]
+     }
+    },
+    {
+     "note": "manipulation_difficulty_and_job_change.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0528": [
+       57,
+       58
+      ]
+     }
+    },
+    {
+     "note": "people_centered_robotics_philosophy_amazon.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0528": [
+       61,
+       62
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tesla_q3_2023_and_ev_makers",
+   "title": "Tesla Q3 2023, Cybertruck and rival EV makers",
+   "notes": [
+    {
+     "note": "tesla_q3_2023_earnings_and_margins.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "tesla_cybertruck_production_outlook.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "tesla_fuel_economy_standards_position.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       55
+      ]
+     }
+    },
+    {
+     "note": "tesla_doj_subpoenas_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       36
+      ]
+     }
+    },
+    {
+     "note": "rebelle_rally_2023_rivian_win.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "lucid_q3_2023_deliveries.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       51
+      ]
+     }
+    },
+    {
+     "note": "rivian_amazon_delivery_van_fleet.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       54
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "cruise_robotaxi_crisis_and_av_industry",
+   "title": "Cruise robotaxi suspension and the AV industry",
+   "notes": [
+    {
+     "note": "cruise_california_permit_suspension.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "cruise_nationwide_driverless_pause.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "california_robotaxi_opposition_groups.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "nhtsa_investigation_of_cruise_pedestrian_incidents.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       43
+      ]
+     }
+    },
+    {
+     "note": "cruise_gm_honda_japan_robotaxi_joint_venture.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       42
+      ]
+     }
+    },
+    {
+     "note": "waymo_vehicles_in_uber_app.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       30
+      ]
+     }
+    },
+    {
+     "note": "waymo_waymax_av_simulator.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       45
+      ]
+     }
+    },
+    {
+     "note": "foxconn_nvidia_ai_factories_versus_tesla_dojo.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       44
+      ]
+     }
+    },
+    {
+     "note": "faction_driverless_funding_round.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       23
+      ]
+     }
+    },
+    {
+     "note": "xpeng_removes_hd_mapping_from_xngp.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       39
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ev_industry_retrenchment_late_2023",
+   "title": "EV industry retrenchment and charging standards, late 2023",
+   "notes": [
+    {
+     "note": "gm_orion_assembly_ev_conversion_delay.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       49
+      ]
+     }
+    },
+    {
+     "note": "ford_delays_ev_investments.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       32
+      ]
+     }
+    },
+    {
+     "note": "gm_honda_end_affordable_ev_program.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       33
+      ]
+     }
+    },
+    {
+     "note": "kia_ev9_reservations.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       50
+      ]
+     }
+    },
+    {
+     "note": "nio_power_swap_station_network.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       35
+      ]
+     }
+    },
+    {
+     "note": "nacs_charging_standard_adoption_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       47,
+       48,
+       56
+      ]
+     }
+    },
+    {
+     "note": "volta_trucks_bankruptcy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       39
+      ]
+     }
+    },
+    {
+     "note": "ree_automotive_order_book.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       53
+      ]
+     }
+    },
+    {
+     "note": "pebble_electric_travel_trailer.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       52
+      ]
+     }
+    },
+    {
+     "note": "nikola_trevor_milton_arbitration_award.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       34
+      ]
+     }
+    },
+    {
+     "note": "wallbox_acquires_abl_charging_business.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       38
+      ]
+     }
+    },
+    {
+     "note": "stellantis_leapmotor_stake_and_joint_venture.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       27
+      ]
+     }
+    },
+    {
+     "note": "ola_electric_funding_round_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       24
+      ]
+     }
+    },
+    {
+     "note": "uaw_strike_week_six_tentative_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       44,
+       45
+      ]
+     }
+    },
+    {
+     "note": "uaw_strike_impact_on_ces_2024.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       60
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "freight_logistics_and_in_car_tech",
+   "title": "Freight, logistics deals and in-car technology",
+   "notes": [
+    {
+     "note": "convoy_digital_freight_shutdown.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "dan_lewis_convoy_founding_thesis.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0514": [
+       29,
+       31,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "flexport_convoy_technology_acquisition_talks.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       19,
+       21
+      ]
+     }
+    },
+    {
+     "note": "flexport_leadership_change_and_layoffs.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       20
+      ],
+      "doc_0514": [
+       64
+      ]
+     }
+    },
+    {
+     "note": "mobility_logistics_funding_rounds_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       35,
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "neom_autonomous_vehicle_and_freight_investments.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "rapido_india_cab_market_expansion.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       41
+      ]
+     }
+    },
+    {
+     "note": "turo_buy_now_pay_later_option.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       42
+      ]
+     }
+    },
+    {
+     "note": "zipcar_nhtsa_recall_fine.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       61
+      ]
+     }
+    },
+    {
+     "note": "autobrains_hires_uri_yacovy_as_coo.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       63
+      ]
+     }
+    },
+    {
+     "note": "archer_aviation_abu_dhabi_air_taxi_plan.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       58
+      ]
+     }
+    },
+    {
+     "note": "google_maps_waze_israel_gaza_traffic_halt.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       38
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "micromobility_late_2023",
+   "title": "Micromobility products and events, late 2023",
+   "notes": [
+    {
+     "note": "micromobility_america_2023_announcements.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       17,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "bird_ebike_relaunch_and_delisting.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       18
+      ]
+     }
+    },
+    {
+     "note": "bolt_mobility_distance_based_pricing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       22
+      ]
+     }
+    },
+    {
+     "note": "novel_electric_two_wheeler_concepts_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0514": [
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "gogoro_mih_project_x_minicar.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0537": [
+       13,
+       14,
+       15
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "fortnite_and_gaming_nostalgia",
+   "title": "Fortnite Chapter 1 return and gaming's nostalgia cycle",
+   "notes": [
+    {
+     "note": "fortnite_chapter_1_map_return.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0549": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "fortnite_og_streamer_promotion_campaign.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0549": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "fortnite_battle_royale_live_service_model.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0549": [
+       8,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "fortnite_peak_and_current_popularity.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0549": [
+       9,
+       13
+      ]
+     }
+    },
+    {
+     "note": "fortnite_map_as_source_of_player_nostalgia.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0549": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "gaming_nostalgia_trend_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0549": [
+       2,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "nostalgia_driven_major_game_releases_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0549": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "world_of_warcraft_classic_origin.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0549": [
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "retro_relaunch_quality_of_life_tension.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0549": [
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "game_preservation_ship_of_theseus_problem.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0549": [
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "accelerating_game_nostalgia_cycles.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0549": [
+       29
+      ]
+     }
+    },
+    {
+     "note": "nostalgia_demand_and_developer_incentives.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0549": [
+       30,
+       31
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "twitchcon_2023_las_vegas",
+   "title": "TwitchCon 2023 in Las Vegas",
+   "notes": [
+    {
+     "note": "twitchcon_2023_las_vegas_reception.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0551": [
+       2,
+       3,
+       4,
+       9
+      ]
+     }
+    },
+    {
+     "note": "dan_clancy_twitch_leadership_transition.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0551": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "twitchcon_attendee_venue_complaints.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0551": [
+       8,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "twitchcon_venue_history_and_site_selection.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0551": [
+       10,
+       14
+      ]
+     }
+    },
+    {
+     "note": "twitchcon_2022_san_diego_crowding_problems.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0551": [
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "twitch_convention_scaling_response.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0551": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "third_place_sociological_concept.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0551": [
+       20
+      ]
+     }
+    },
+    {
+     "note": "moni_uservoice_twitchcon_critique.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0551": [
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "las_vegas_strip_navigation_and_accessibility_problems.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0551": [
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "twitch_demographics_versus_las_vegas_culture.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0551": [
+       27,
+       28,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "loss_of_spontaneous_creator_meetups.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0551": [
+       31,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "third_places_and_twitch_community_building.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0551": [
+       19,
+       34
+      ]
+     }
+    },
+    {
+     "note": "twitchcon_future_location_proposals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0551": [
+       35,
+       36
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "pebble_twitter_alternative_shutdown",
+   "title": "Pebble (T2) and the Twitter-alternative market",
+   "notes": [
+    {
+     "note": "pebble_t2_shutdown_and_winddown.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0593": [
+       1,
+       20,
+       23
+      ]
+     }
+    },
+    {
+     "note": "twitter_alternative_market_competition.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0593": [
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "pebble_traction_metrics_and_angel_funding.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0593": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "pebble_moderation_first_market_hypothesis.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0593": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "pebble_moderation_approach_defense.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0593": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "kindness_versus_engagement_tradeoff.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0593": [
+       11,
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "pebble_missing_native_mobile_app.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0593": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "t2_to_pebble_rebrand_misstep.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0593": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "pebble_shutdown_multifactor_explanation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0593": [
+       19
+      ]
+     }
+    },
+    {
+     "note": "founder_lessons_from_pebble.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0593": [
+       24,
+       25,
+       26
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "palestine_gaza_tech_industry_war",
+   "title": "Palestine's tech industry and the Israel-Hamas war",
+   "notes": [
+    {
+     "note": "gaza_tech_outsourcing_hub.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0598": [
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "gaza_sky_geeks_accelerator.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0598": [
+       5,
+       14
+      ]
+     }
+    },
+    {
+     "note": "israel_hamas_war_october_2023_context.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0598": [
+       7,
+       8,
+       9,
+       11,
+       42
+      ]
+     }
+    },
+    {
+     "note": "gaza_tech_infrastructure_destruction.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0598": [
+       6,
+       10,
+       12,
+       13,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "palestinian_tech_ecosystem_growth_before_the_war.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0598": [
+       17,
+       18,
+       19,
+       20,
+       21,
+       33
+      ]
+     }
+    },
+    {
+     "note": "west_bank_tech_activity_freeze.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0598": [
+       22,
+       34,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "manara_assessment_of_gaza_tech_sector.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0598": [
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "gaza_tech_workers_connectivity_collapse.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0598": [
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "dalia_awad_gaza_engineer_account.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0598": [
+       29,
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "mohammad_alnobani_middle_frame_displacement.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0598": [
+       37,
+       38,
+       39,
+       40,
+       41
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "uk_climate_tech_policy",
+   "title": "UK net-zero U-turn and climate tech policy consistency",
+   "notes": [
+    {
+     "note": "sunak_net_zero_uturn_september_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0599": [
+       1,
+       2,
+       5
+      ]
+     }
+    },
+    {
+     "note": "uk_green_tech_leadership_before_the_uturn.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0599": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "policy_inconsistency_signal_to_climate_tech.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0599": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "government_role_in_technology_innovation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0599": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "uk_climate_tech_economic_potential.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0599": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "climate_policy_reversal_impact_on_ev_businesses.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0599": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "call_for_consistent_macroeconomic_policy.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0599": [
+       15
+      ]
+     }
+    },
+    {
+     "note": "uk_rd_tax_credit_policy_reversal.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0599": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "call_for_consistent_climate_policy.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0599": [
+       17,
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "meta_eu_ad_free_subscription",
+   "title": "Meta's EU ad-free subscription and privacy regulation",
+   "notes": [
+    {
+     "note": "meta_ad_free_subscription_eu_pricing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0608": [
+       1,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "meta_legal_basis_for_ad_tracking_in_eu.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0608": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "cjeu_appropriate_fee_ruling.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0608": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "noyb_pay_or_okay_challenge.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0608": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "irish_dpc_assessment_of_meta_consent_model.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0608": [
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "dsa_dma_oversight_of_meta_ad_tracking.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0608": [
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "meta_justification_for_subscription_choice.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0608": [
+       17
+      ]
+     }
+    },
+    {
+     "note": "meta_subscription_age_restriction_and_teens.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0608": [
+       18,
+       19
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "chatgpt_launch_and_2023_growth",
+   "title": "ChatGPT's launch and first-half 2023 growth",
+   "notes": [
+    {
+     "note": "chatgpt_first_year_overview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "gpt_model_lineage_and_chatgpt_launch.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0099": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "generative_ai_public_priming_by_dalle_2.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0099": [
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_100_million_user_milestone.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "microsoft_openai_investment_and_early_capability_tests.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_integration_wave_early_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_plus_and_plugin_platform.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "ai_development_moratorium_open_letter.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0099": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "italy_chatgpt_ban_over_gdpr.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_mobile_app_and_availability_expansion.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       17
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "chatgpt_backlash_and_openai_turmoil",
+   "title": "ChatGPT backlash, governance and OpenAI's Q4 turmoil",
+   "notes": [
+    {
+     "note": "chatgpt_hallucination_legal_filing_incident.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       18
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_mid_2023_usage_decline.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       19
+      ]
+     }
+    },
+    {
+     "note": "openai_trust_and_safety_departure_and_ftc_probe.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       21
+      ]
+     }
+    },
+    {
+     "note": "openai_training_data_copyright_lawsuits.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       22
+      ]
+     }
+    },
+    {
+     "note": "associated_press_openai_licensing_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       23
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_political_disinformation_guardrail_failure.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0099": [
+       24
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_enterprise_and_multimodal_features.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       25
+      ]
+     }
+    },
+    {
+     "note": "openai_q4_2023_product_launches.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       27
+      ]
+     }
+    },
+    {
+     "note": "openai_ai_chip_ambitions.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       28
+      ]
+     }
+    },
+    {
+     "note": "sam_altman_firing_and_reinstatement.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0099": [
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_durability_and_regulatory_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0099": [
+       31,
+       32,
+       33
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "steam_deck_oled",
+   "title": "Valve Steam Deck OLED",
+   "notes": [
+    {
+     "note": "steam_deck_oled_mid_cycle_refresh.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0169": [
+       1
+      ],
+      "doc_0524": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "steam_deck_oled_display_upgrade.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0169": [
+       2,
+       11
+      ],
+      "doc_0524": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "steam_deck_oled_review_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0169": [
+       3,
+       4,
+       5,
+       6,
+       7,
+       8,
+       9,
+       33
+      ]
+     }
+    },
+    {
+     "note": "steam_deck_oled_custom_amd_apu.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0169": [
+       15
+      ],
+      "doc_0524": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "steam_deck_oled_size_and_ergonomics.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0169": [
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "steam_deck_oled_thermals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0169": [
+       23
+      ]
+     }
+    },
+    {
+     "note": "steam_deck_oled_wireless_and_charging_improvements.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0169": [
+       24
+      ],
+      "doc_0524": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "steam_deck_oled_as_couch_console.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0169": [
+       26
+      ]
+     }
+    },
+    {
+     "note": "steam_deck_game_compatibility_labels.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0169": [
+       27
+      ]
+     }
+    },
+    {
+     "note": "steam_deck_oled_pricing_and_lineup.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0169": [
+       29
+      ],
+      "doc_0524": [
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       18
+      ]
+     }
+    },
+    {
+     "note": "handheld_pc_gaming_market_growth.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0169": [
+       32
+      ]
+     }
+    },
+    {
+     "note": "valve_future_handheld_and_hardware_plans.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0524": [
+       16,
+       17
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "apple_airpods_and_watch_holiday_deals",
+   "title": "Apple AirPods and Apple Watch holiday 2023 deals",
+   "notes": [
+    {
+     "note": "apple_holiday_2023_sale_overview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       2
+      ],
+      "doc_0104": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "apple_airpods_pro_2nd_gen_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       5
+      ],
+      "doc_0104": [
+       6
+      ],
+      "doc_0222": [
+       13,
+       14
+      ],
+      "doc_0404": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "apple_airpods_max_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       8
+      ],
+      "doc_0104": [
+       9
+      ],
+      "doc_0404": [
+       18
+      ]
+     }
+    },
+    {
+     "note": "apple_airpods_3rd_gen_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       11
+      ],
+      "doc_0104": [
+       11
+      ],
+      "doc_0222": [
+       16
+      ],
+      "doc_0404": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "apple_airpods_2nd_gen_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "apple_watch_ultra_2_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       14
+      ],
+      "doc_0104": [
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "apple_watch_series_9_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       19,
+       20
+      ],
+      "doc_0104": [
+       29,
+       30
+      ],
+      "doc_0222": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "apple_watch_se_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       17
+      ],
+      "doc_0104": [
+       33
+      ],
+      "doc_0222": [
+       11
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "apple_ipad_and_accessory_holiday_deals",
+   "title": "Apple iPad and accessory holiday 2023 deals",
+   "notes": [
+    {
+     "note": "ipad_9th_generation_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       30
+      ],
+      "doc_0104": [
+       36
+      ],
+      "doc_0222": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "ipad_10th_generation_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       24
+      ],
+      "doc_0104": [
+       38
+      ],
+      "doc_0222": [
+       20
+      ]
+     }
+    },
+    {
+     "note": "ipad_air_m1_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       26
+      ],
+      "doc_0104": [
+       40
+      ],
+      "doc_0222": [
+       18
+      ]
+     }
+    },
+    {
+     "note": "ipad_mini_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       28
+      ],
+      "doc_0104": [
+       42
+      ]
+     }
+    },
+    {
+     "note": "apple_magic_keyboard_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0104": [
+       47
+      ]
+     }
+    },
+    {
+     "note": "apple_pencil_lineup_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       49
+      ],
+      "doc_0104": [
+       52
+      ]
+     }
+    },
+    {
+     "note": "apple_airtags_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       47
+      ],
+      "doc_0104": [
+       50
+      ],
+      "doc_0222": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "apple_tv_4k_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       51
+      ],
+      "doc_0104": [
+       54
+      ]
+     }
+    },
+    {
+     "note": "apple_gift_card_amazon_credit_deal.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0091": [
+       45
+      ],
+      "doc_0104": [
+       45
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "apple_mac_holiday_deals",
+   "title": "Apple Mac holiday 2023 deals",
+   "notes": [
+    {
+     "note": "macbook_pro_14_inch_m3_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       34
+      ],
+      "doc_0104": [
+       14
+      ],
+      "doc_0222": [
+       24
+      ]
+     }
+    },
+    {
+     "note": "macbook_air_15_inch_m2_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       37,
+       38
+      ],
+      "doc_0104": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "macbook_air_13_inch_m2_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       40
+      ],
+      "doc_0104": [
+       20
+      ]
+     }
+    },
+    {
+     "note": "macbook_air_13_inch_m1_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       42
+      ],
+      "doc_0104": [
+       22
+      ]
+     }
+    },
+    {
+     "note": "mac_mini_m2_holiday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0091": [
+       53
+      ],
+      "doc_0104": [
+       56
+      ],
+      "doc_0222": [
+       22
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "premium_headphone_black_friday_deals",
+   "title": "Premium headphone and earbud Black Friday 2023 deals",
+   "notes": [
+    {
+     "note": "black_friday_2023_headphone_deals_overview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "sony_wh_1000xm5_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       4,
+       5
+      ],
+      "doc_0222": [
+       70
+      ]
+     }
+    },
+    {
+     "note": "sony_wf_1000xm5_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       7
+      ],
+      "doc_0222": [
+       72
+      ]
+     }
+    },
+    {
+     "note": "sony_wh_1000xm4_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "bose_quietcomfort_ultra_headphones_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       20,
+       21
+      ],
+      "doc_0222": [
+       74
+      ]
+     }
+    },
+    {
+     "note": "bose_quietcomfort_ultra_earbuds_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       23
+      ]
+     }
+    },
+    {
+     "note": "beats_fit_pro_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       25
+      ]
+     }
+    },
+    {
+     "note": "beats_studio_pro_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       27
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "budget_and_gaming_headphone_deals",
+   "title": "Budget earbud and gaming headset Black Friday 2023 deals",
+   "notes": [
+    {
+     "note": "anker_soundcore_space_q45_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       35
+      ]
+     }
+    },
+    {
+     "note": "audio_technica_ath_m20xbt_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       37
+      ]
+     }
+    },
+    {
+     "note": "earfun_free_2s_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       39
+      ]
+     }
+    },
+    {
+     "note": "jabra_elite_3_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       43
+      ]
+     }
+    },
+    {
+     "note": "jlab_go_air_pop_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       45
+      ]
+     }
+    },
+    {
+     "note": "beyerdynamic_dt_900_pro_x_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       49
+      ]
+     }
+    },
+    {
+     "note": "sennheiser_open_back_headphone_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       51,
+       52
+      ]
+     }
+    },
+    {
+     "note": "astro_a40_tr_gaming_headset_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       54
+      ]
+     }
+    },
+    {
+     "note": "hyperx_cloud_stinger_2_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       56
+      ]
+     }
+    },
+    {
+     "note": "logitech_g535_wireless_headset_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0404": [
+       58
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "black_friday_gaming_hardware_deals",
+   "title": "Black Friday 2023 gaming hardware deals",
+   "notes": [
+    {
+     "note": "xbox_series_s_game_pass_bundle_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       40
+      ]
+     }
+    },
+    {
+     "note": "console_gift_card_black_friday_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       34
+      ]
+     }
+    },
+    {
+     "note": "playstation_dualsense_controller_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       94
+      ]
+     }
+    },
+    {
+     "note": "xbox_wireless_controller_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       96
+      ]
+     }
+    },
+    {
+     "note": "ps5_spider_man_2_bundle_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       98
+      ]
+     }
+    },
+    {
+     "note": "ps5_slim_call_of_duty_bundle_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       100
+      ]
+     }
+    },
+    {
+     "note": "nintendo_switch_oled_smash_bros_bundle_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       102
+      ]
+     }
+    },
+    {
+     "note": "backbone_one_mobile_controller_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       104,
+       105
+      ]
+     }
+    },
+    {
+     "note": "black_friday_2023_video_game_sales.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       107,
+       108,
+       109
+      ]
+     }
+    },
+    {
+     "note": "meta_quest_2_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       45
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "black_friday_smart_home_and_streaming_deals",
+   "title": "Black Friday 2023 smart home, audio and TV deals",
+   "notes": [
+    {
+     "note": "sonos_black_friday_2023_sale.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       49,
+       50,
+       51,
+       52
+      ]
+     }
+    },
+    {
+     "note": "google_nest_hub_smart_display_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       86,
+       87
+      ]
+     }
+    },
+    {
+     "note": "amazon_echo_speaker_black_friday_sale.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       80,
+       81
+      ]
+     }
+    },
+    {
+     "note": "amazon_echo_show_black_friday_sale.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       83,
+       84
+      ]
+     }
+    },
+    {
+     "note": "roku_streaming_stick_4k_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       47
+      ]
+     }
+    },
+    {
+     "note": "amazon_fire_tv_stick_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       68
+      ]
+     }
+    },
+    {
+     "note": "tp_link_kasa_smart_plug_mini_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       32
+      ]
+     }
+    },
+    {
+     "note": "tp_link_deco_ex75_mesh_router_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       36
+      ]
+     }
+    },
+    {
+     "note": "irobot_roomba_black_friday_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       62
+      ]
+     }
+    },
+    {
+     "note": "dyson_v15_detect_vacuum_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       78
+      ]
+     }
+    },
+    {
+     "note": "samsung_the_frame_qled_tv_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       126
+      ]
+     }
+    },
+    {
+     "note": "lg_a2_oled_tv_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       132
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "black_friday_computing_and_mobile_deals",
+   "title": "Black Friday 2023 computing, mobile and camera deals",
+   "notes": [
+    {
+     "note": "google_pixel_8_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       56
+      ]
+     }
+    },
+    {
+     "note": "microsoft_surface_pro_9_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       134,
+       135
+      ]
+     }
+    },
+    {
+     "note": "lenovo_ideapad_flex_5i_chromebook_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       137
+      ]
+     }
+    },
+    {
+     "note": "samsung_smart_monitor_m80c_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       120
+      ]
+     }
+    },
+    {
+     "note": "motorola_razr_plus_foldable_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       122
+      ]
+     }
+    },
+    {
+     "note": "samsung_t9_portable_ssd_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       89
+      ]
+     }
+    },
+    {
+     "note": "samsung_microsd_card_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       91,
+       92
+      ]
+     }
+    },
+    {
+     "note": "fitbit_charge_6_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       66
+      ]
+     }
+    },
+    {
+     "note": "dji_osmo_action_3_creator_combo_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       111
+      ]
+     }
+    },
+    {
+     "note": "anker_charger_and_power_bank_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       42,
+       43
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "black_friday_home_lifestyle_and_subscription_deals",
+   "title": "Black Friday 2023 subscription, home and lifestyle deals",
+   "notes": [
+    {
+     "note": "hulu_black_friday_subscription_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       26
+      ]
+     }
+    },
+    {
+     "note": "masterclass_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       113
+      ]
+     }
+    },
+    {
+     "note": "headspace_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       115,
+       116
+      ]
+     }
+    },
+    {
+     "note": "surfshark_vpn_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       118
+      ]
+     }
+    },
+    {
+     "note": "protonvpn_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       130
+      ]
+     }
+    },
+    {
+     "note": "dyson_airwrap_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       28
+      ]
+     }
+    },
+    {
+     "note": "ember_smart_mug_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       30
+      ]
+     }
+    },
+    {
+     "note": "breville_smart_oven_air_fryer_pro_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       64
+      ]
+     }
+    },
+    {
+     "note": "solo_stove_black_friday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       128
+      ]
+     }
+    },
+    {
+     "note": "black_friday_2023_extended_sale_period.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "black_friday_2023_dates_and_retailer_schedules.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0222": [
+       140,
+       142,
+       144,
+       146
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0458": [
+   0
+  ],
+  "doc_0465": [
+   0,
+   1,
+   4,
+   8,
+   49
+  ],
+  "doc_0468": [
+   0,
+   1,
+   25,
+   33
+  ],
+  "doc_0511": [
+   0,
+   2
+  ],
+  "doc_0528": [
+   0,
+   1,
+   19
+  ],
+  "doc_0514": [
+   0,
+   1,
+   2,
+   3,
+   7,
+   14,
+   15,
+   16,
+   21,
+   25,
+   30,
+   34,
+   40,
+   41,
+   46,
+   57,
+   59,
+   62
+  ],
+  "doc_0537": [
+   0,
+   1,
+   2,
+   10,
+   11,
+   12,
+   16,
+   17,
+   18,
+   22,
+   28,
+   29,
+   31,
+   37,
+   40,
+   43
+  ],
+  "doc_0549": [
+   0,
+   1,
+   14,
+   19
+  ],
+  "doc_0551": [
+   0,
+   1
+  ],
+  "doc_0593": [
+   0,
+   21,
+   22
+  ],
+  "doc_0598": [
+   0,
+   1
+  ],
+  "doc_0599": [
+   0,
+   13,
+   14
+  ],
+  "doc_0608": [
+   0
+  ],
+  "doc_0099": [
+   0,
+   6,
+   15,
+   20,
+   26,
+   34
+  ],
+  "doc_0169": [
+   0,
+   10,
+   12,
+   14,
+   16,
+   17,
+   21,
+   25,
+   28,
+   30,
+   31
+  ],
+  "doc_0524": [
+   0,
+   7,
+   15
+  ],
+  "doc_0091": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   7,
+   9,
+   10,
+   12,
+   13,
+   15,
+   16,
+   18,
+   21,
+   22,
+   23,
+   25,
+   27,
+   29,
+   31,
+   32,
+   33,
+   35,
+   36,
+   39,
+   41,
+   43,
+   44,
+   46,
+   48,
+   50,
+   52,
+   54
+  ],
+  "doc_0104": [
+   0,
+   1,
+   4,
+   5,
+   7,
+   8,
+   10,
+   12,
+   13,
+   15,
+   16,
+   19,
+   21,
+   23,
+   24,
+   27,
+   28,
+   31,
+   32,
+   34,
+   35,
+   37,
+   39,
+   41,
+   43,
+   44,
+   46,
+   48,
+   49,
+   51,
+   53,
+   55,
+   57
+  ],
+  "doc_0404": [
+   0,
+   1,
+   3,
+   6,
+   8,
+   10,
+   13,
+   15,
+   17,
+   19,
+   22,
+   24,
+   26,
+   28,
+   30,
+   32,
+   34,
+   36,
+   38,
+   40,
+   42,
+   44,
+   46,
+   48,
+   50,
+   53,
+   55,
+   57,
+   59,
+   62
+  ],
+  "doc_0222": [
+   0,
+   1,
+   4,
+   6,
+   8,
+   10,
+   12,
+   15,
+   17,
+   19,
+   21,
+   23,
+   25,
+   27,
+   29,
+   31,
+   33,
+   35,
+   37,
+   39,
+   41,
+   44,
+   46,
+   48,
+   53,
+   55,
+   57,
+   59,
+   61,
+   63,
+   65,
+   67,
+   69,
+   71,
+   73,
+   75,
+   77,
+   79,
+   82,
+   85,
+   88,
+   90,
+   93,
+   95,
+   97,
+   99,
+   101,
+   103,
+   106,
+   110,
+   112,
+   114,
+   117,
+   119,
+   121,
+   123,
+   125,
+   127,
+   129,
+   131,
+   133,
+   136,
+   138,
+   139,
+   141,
+   143,
+   145,
+   147
+  ]
+ },
+ "genre_note": "302 notes across 30 sub-plans. The cluster splits into three genres that decompose very differently.\n\n(1) Reported features and interviews (doc_0458, 0465, 0468, 0511, 0528, 0549, 0551, 0593, 0598, 0599, 0608, 0099, 0169, 0524). These behave as expected: dominated by empirical_observation (dated events, figures, named testimony) with concept notes for entities (Gaza Sky Geeks, Alliance DAO's eight portfolio startups, the MIT Leg Lab, the \"third place\"). argument/counter_argument appear where a source stakes a claim with grounds \u2014 the UK climate op-ed (doc_0599) is almost entirely argument, and Pebble's post-mortem (doc_0593) yields a clean argument/counter_argument pair (moderation worked / it went too far into \"kindness\"). model is used only where the source actually traces a mechanism: Meta's GDPR-consent chain, the Twitter-alternative network-effect explanation, Amazon's ML flow/fleet stack, cars-and-robotics convergence.\n\nhypothesis occurs exactly once in the whole cluster and is not manufactured: doc_0593 block 8 states Pebble's founding hypothesis verbatim (\"consumers were hungry for a Twitter alternative that prioritized trust, safety and moderation\"), and the article then reports it disconfirmed. Everything else that looks forward-looking (OpenAI's chip ambitions, Valve's \"successive generations of handhelds\", Musk's 250k Cybertrucks/year) is a reported corporate statement, so it is empirical_observation. procedure occurs once (the Apple gift-card + Amazon-credit offer, which is a coupon-code procedure). No navigation notes were produced.\n\n(2) Newsletter roundups (doc_0514, doc_0537 \u2014 TechCrunch's The Station). These are the case the brief warns about: two ~1,500\u20132,000-word documents holding roughly fifty unrelated items. They were decomposed item-by-item (50 notes over five sub-plans), never merged by section. Their section scaffolding (\"Micromobbin'\", \"Deal of the week\", \"Autonomous vehicles\", tip-line boilerplate, host handoffs) is the bulk of the dropped blocks. Convoy and Flexport are the load-bearing cross-document entities here: Convoy's collapse is reported in doc_0514 and its afterlife (Flexport acquiring the technology) in doc_0537, and Flexport's 20%/600-person layoff is stated in both, so flexport_leadership_change_and_layoffs carries blocks from each.\n\n(3) Deals roundups (doc_0091, 0104, 0222, 0404 \u2014 Engadget). Four documents, ~11k words, ~120 notes. Coherence forced per-product notes: doc_0222 alone is 53 unrelated items. The decisive structural fact is that the same products recur across all four articles at different sale events, so 21 product notes are shared rather than duplicated \u2014 apple_airpods_pro_2nd_gen_holiday_deal draws on doc_0091, doc_0104, doc_0222 and doc_0404; apple_watch_series_9, apple_airtags, mac_mini_m2, ipad_air_m1 and others span three. Writing separate Black Friday and Cyber Monday notes would have split exactly the evidence a cross-article question needs (e.g. the Apple Watch Ultra 2, which is one of the few Apple products whose price went UP from Black Friday's $730 to Cyber Monday's $739 \u2014 a fact that only exists inside a shared note).\n\nCoverage: the reported features run 95\u201399% assigned. The two newsletters land near 90% (~10% is section headers and tip-line/subscribe boilerplate). The four deals articles are the honest shortfall at roughly 88\u201390%: each carries a 35-word affiliate disclosure, a 58-word Yahoo cross-promotion footer, ~25 two-to-five-word product sub-headers, and a dozen \"Read our full review\" / \"Check out our guide\" links \u2014 all chrome, but enough of it to hold those documents just under the 90% target. Nothing substantive was dropped from them.\n\nTwo dropped-block judgement calls went the other way, per the warning about corrections: doc_0598 block 42 (\"This piece was later edited to include relevant information about the attacks by Hamas\") was ASSIGNED to israel_hamas_war_october_2023_context rather than discarded, because it is a scope condition on the article's framing; and doc_0528 blocks 41\u201342, Brady's non-answer on whether Amazon buys or leases Agility robots (\"no one-size-fits-all\u2026 [Amazon declined to comment further]\"), were assigned to the Innovation Fund note rather than dropped as contentless, since the refusal is itself the reported state of the arrangement."
+}

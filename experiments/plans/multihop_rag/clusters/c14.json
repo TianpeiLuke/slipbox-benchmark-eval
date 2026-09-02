@@ -1,0 +1,177 @@
+{
+ "cluster": "c14",
+ "subplans": [
+  {
+   "slug": "novel_canine_pathogen_discovery",
+   "title": "The Unknown Bacterium: Discovery and Biology",
+   "notes": [
+    {
+     "note": "canine_atypical_respiratory_illness_2023_outbreak.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0565": [
+       1,
+       9
+      ]
+     }
+    },
+    {
+     "note": "unh_novel_canine_bacterium_sequencing_discovery.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0565": [
+       2,
+       3,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "atypical_small_genome_canine_microbiome_bacterium.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0565": [
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "small_pathogen_lung_penetration_mechanism_dogs.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0565": [
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "unculturable_canine_bacterium_doxycycline_antibiotic_choice.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0565": [
+       17
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "canine_illness_surveillance_and_cause_attribution",
+   "title": "Surveillance, Case Counts, and Disputed Cause",
+   "notes": [
+    {
+     "note": "usda_aphis_canine_respiratory_illness_statement.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0565": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "canine_respiratory_illness_state_case_reports_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0565": [
+       12,
+       13,
+       15
+      ]
+     }
+    },
+    {
+     "note": "canine_illness_true_case_count_likely_thousands.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0565": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "canine_respiratory_illness_cause_evidence_caveats.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0565": [
+       26,
+       27,
+       28
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "canine_illness_symptoms_and_owner_guidance",
+   "title": "Clinical Presentation and Owner Guidance",
+   "notes": [
+    {
+     "note": "canine_respiratory_illness_three_clinical_presentations.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0565": [
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "akc_owner_and_vet_action_guidance_canine_illness.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0565": [
+       25,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "holiday_kennel_and_dog_park_avoidance_guidance.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0565": [
+       37,
+       38,
+       39,
+       40
+      ]
+     }
+    },
+    {
+     "note": "house_sitter_dog_walker_boarding_alternative.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0565": [
+       41,
+       42,
+       43
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0565": [
+   0,
+   14,
+   20,
+   29,
+   44
+  ]
+ },
+ "genre_note": "Single-document science/health cluster (Yahoo News syndication of an NBC News report on the 2023 mysterious canine respiratory illness). The document is topically unified but has four clearly separable sub-topics, so it splits on coherence, not size: (a) the UNH sequencing discovery and the biology of the unnamed bacterium, (b) government/state surveillance and case counts, (c) the contested causal attribution, and (d) symptom recognition plus owner advice. Building-block distribution matches the news genre: empirical_observation and concept dominate (dated findings, agency statements, state case tallies, entity descriptions of the illness and the bacterium). One genuine model note exists \u2014 Jandrey's causal chain from small pathogen size to evasion of upper-respiratory defenses to pneumonia. One argument (no diagnostic test plus symptom overlap with canine influenza and Bordetella, therefore the true case count likely runs to thousands) and one counter_argument (negative viral testing, Parrish's claim that a viral signature would have surfaced in days, and the caveat that the UNH result still needs confirmation) are both explicitly grounded in the text. procedure is unusually well-attested for a news piece because roughly a third of the article is step-shaped advisory content from the AKC chief veterinarian and from the Oregon State lab director. No hypothesis note was produced \u2014 the only forward-looking sentence is a confirmation caveat on an existing finding, which belongs with the counter_argument rather than being inflated into a testable prediction. Absence of hypothesis is a finding, not a gap. Two entity-shaped subjects (the illness itself, the bacterium) are each held by exactly one note so that evidence is not split across near-duplicates; since the cluster has only one document, no cross-document block sharing was needed."
+}

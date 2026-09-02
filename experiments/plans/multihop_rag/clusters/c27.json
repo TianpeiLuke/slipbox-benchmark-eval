@@ -1,0 +1,1810 @@
+{
+ "cluster": "c27",
+ "subplans": [
+  {
+   "slug": "google_ai_and_news_publisher_antitrust",
+   "title": "Google, AI Search and the News Publisher Antitrust Suit",
+   "notes": [
+    {
+     "note": "helena_world_chronicle_v_google_antitrust_suit.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0033": [
+       1,
+       2,
+       13,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "google_knowledge_graph_and_featured_snippets.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0033": [
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "ai_search_publisher_traffic_loss_projections.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0033": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "google_sge_and_bard_content_appropriation_claims.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0033": [
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "google_news_content_payment_deal_with_canada.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0033": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "us_doj_antitrust_lawsuits_against_google.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0033": [
+       15
+      ]
+     }
+    },
+    {
+     "note": "google_rebuttal_to_publisher_antitrust_suit.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0033": [
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "openai_preparedness_framework_and_safety_governance",
+   "title": "OpenAI's Preparedness Framework and Safety Governance",
+   "notes": [
+    {
+     "note": "openai_preparedness_framework_update.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0117": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "openai_catastrophic_risk_definition.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0117": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "openai_three_tier_ai_safety_team_structure.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0117": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "openai_model_risk_categories_and_deployment_thresholds.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0117": [
+       8,
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "openai_safety_advisory_group_and_board_veto_process.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0117": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "skepticism_about_openai_board_veto_enforcement.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0117": [
+       15,
+       16,
+       17
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "google_gemini_launch_and_early_performance",
+   "title": "Google Gemini: Launch Claims and Early Performance",
+   "notes": [
+    {
+     "note": "google_gemini_model_family_and_capability_claims.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0126": [
+       1,
+       25,
+       26
+      ],
+      "doc_0334": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "gemini_pro_falls_short_of_googles_benchmark_claims.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0126": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "gemini_pro_factual_errors_and_confabulation.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0126": [
+       4,
+       5,
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "gemini_pro_translation_and_multilingual_weakness.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0126": [
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "gemini_pro_news_summarization_refusals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0126": [
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "gemini_pro_coding_task_failures.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0126": [
+       17,
+       18,
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "gemini_pro_jailbreak_by_robust_intelligence.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0126": [
+       23,
+       24
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "eu_digital_services_act_probe_of_x",
+   "title": "The EU's First DSA Investigation: Elon Musk's X",
+   "notes": [
+    {
+     "note": "eu_dsa_formal_proceedings_against_x.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0153": [
+       1,
+       2,
+       5,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "eu_commission_prior_requests_for_information_to_x.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0153": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "scope_of_eu_dsa_investigation_into_x.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0153": [
+       6,
+       7,
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "dsa_enforcement_powers_and_penalties.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0153": [
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "x_response_to_eu_dsa_investigation.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0153": [
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "x_content_moderation_retrenchment_under_musk.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0153": [
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "dsa_probe_as_test_of_eu_enforcement_resolve.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0153": [
+       21,
+       22
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "enterprise_generative_ai_adoption_by_cios",
+   "title": "How Enterprise CIOs Are Pacing Generative AI",
+   "notes": [
+    {
+     "note": "enterprise_generative_ai_adoption_caution.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0160": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "cio_tension_between_ai_pressure_and_caution.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0160": [
+       5,
+       6,
+       15
+      ]
+     }
+    },
+    {
+     "note": "deloitte_guidance_on_structuring_enterprise_ai_adoption.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0160": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "enterprise_generative_ai_use_case_pilots.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0160": [
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "measuring_generative_ai_productivity_at_juniper_networks.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0160": [
+       13,
+       14
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "gogoro_india_entry_and_battery_swapping",
+   "title": "Gogoro's India Entry and the Battery-Swapping Bet",
+   "notes": [
+    {
+     "note": "gogoro_company_profile_and_open_platform_model.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0216": [
+       5,
+       9
+      ]
+     }
+    },
+    {
+     "note": "gogoro_india_market_entry_rationale.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0216": [
+       2,
+       3,
+       6
+      ]
+     }
+    },
+    {
+     "note": "gogoro_india_commercial_launch_and_investments.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0216": [
+       4,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "gogoro_hero_motocorp_partnership_stall.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0216": [
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "gogoro_india_station_rollout_targets.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0216": [
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "gogoro_taiwan_business_decline.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0216": [
+       17,
+       18,
+       19,
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "india_electric_two_wheeler_market_conditions.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0216": [
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "gogoro_battery_swapping_service_revenue_growth.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0216": [
+       25
+      ]
+     }
+    },
+    {
+     "note": "battery_swapping_ecosystem_and_unit_economics_challenges.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0216": [
+       26,
+       27,
+       28
+      ],
+      "doc_0334": [
+       23
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "author_holiday_book_recommendations",
+   "title": "Eight Authors and Their Holiday Book Picks",
+   "notes": [
+    {
+     "note": "author_endorsements_in_book_publishing.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0243": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "jon_evans_recommends_the_steerswoman.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0243": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "kashmir_hill_recommends_the_listeners_wiretapping_history.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0243": [
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "jerry_neumann_recommends_how_data_happened.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0243": [
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "barr_moses_recommends_dare_to_lead.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0243": [
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "polina_marinova_pompliano_recommends_its_what_i_do.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0243": [
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "georgiana_laudi_recommends_loved_product_marketing.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0243": [
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "scott_hurff_recommends_getting_real_by_37signals.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0243": [
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "james_wise_recommends_the_coming_wave.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0243": [
+       34,
+       35
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ai_alliance_open_source_coalition",
+   "title": "The Meta-IBM AI Alliance",
+   "notes": [
+    {
+     "note": "ai_alliance_founding_by_meta_and_ibm.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0268": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "ai_alliance_working_groups_and_governance_plan.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0268": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "ai_alliance_case_for_open_ai_development.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0268": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "meta_open_source_ai_strategy_and_motives.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0268": [
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "ibm_generative_ai_business_motive_in_ai_alliance.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0268": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "ai_alliance_notable_non_members.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0268": [
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "ai_alliance_membership_roster.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0268": [
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "doubts_about_ai_alliance_effectiveness.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0268": [
+       22,
+       24,
+       25
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "small_and_affordable_evs_lost_in_2023",
+   "title": "The Small and Affordable EVs That Died in 2023",
+   "notes": [
+    {
+     "note": "case_against_supersized_electric_vehicles.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0318": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "electrameccanica_solo_discontinuation.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0318": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "honda_e_production_end.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0318": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "sono_sion_solar_ev_cancellation.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0318": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "gm_honda_affordable_ev_partnership_cancellation.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0318": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "mazda_mx_30_us_discontinuation.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0318": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "revel_moped_sharing_shutdown.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0318": [
+       20
+      ]
+     }
+    },
+    {
+     "note": "vanmoof_bankruptcy_and_lavoie_acquisition.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0318": [
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "surviving_small_ev_and_bike_share_options.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0318": [
+       26,
+       27
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "december_2023_ai_and_security_briefs",
+   "title": "December 2023 Briefs: AI Launches and Security Failures",
+   "notes": [
+    {
+     "note": "google_black_summit_offensive_notebook_incident.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "anduril_roadrunner_counter_air_vehicle.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "23andme_data_breach_scope.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "dicom_medical_imaging_server_exposure.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "imagine_with_meta_ai_image_generator.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       11
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "december_2023_business_and_media_briefs",
+   "title": "December 2023 Briefs: Business, Media and Markets",
+   "notes": [
+    {
+     "note": "grand_theft_auto_vi_trailer_youtube_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "spotify_2023_workforce_reduction.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "tusimple_exits_the_us_market.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "zestmoney_shutdown.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "trible_no_code_app_builder_and_creator_economy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       17
+      ]
+     }
+    },
+    {
+     "note": "masterclass_founder_david_rogier_seed_round.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       18
+      ]
+     }
+    },
+    {
+     "note": "david_pakman_coinfund_venture_background.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       19
+      ]
+     }
+    },
+    {
+     "note": "bitcoin_ascent_to_44000_dollars.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       22
+      ]
+     }
+    },
+    {
+     "note": "consumer_trading_recovery_coinbase_and_robinhood.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0334": [
+       24
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ai_predictions_for_2024",
+   "title": "Eight Predictions for AI in 2024",
+   "notes": [
+    {
+     "note": "ai_hype_meets_reality_in_2024.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0365": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "prediction_openai_becomes_a_product_company.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0365": [
+       4,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "prediction_ai_agents_and_generative_media_mature.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0365": [
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "prediction_limits_of_monolithic_llms.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0365": [
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "prediction_ai_marketing_claims_meet_reality.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0365": [
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "prediction_apple_enters_the_ai_market.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0365": [
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "prediction_ai_copyright_lawsuits_stall_and_multiply.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0365": [
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "prediction_ai_compliance_industry_and_slow_regulation.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0365": [
+       29,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "prediction_generative_ai_disinformation_in_2024_election.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0365": [
+       33,
+       34,
+       35,
+       36,
+       37
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "us_app_store_rankings_2023",
+   "title": "Apple's 2023 U.S. App Store Rankings",
+   "notes": [
+    {
+     "note": "temu_top_us_iphone_app_of_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0384": [
+       1,
+       5
+      ]
+     }
+    },
+    {
+     "note": "us_tech_giant_app_download_rankings_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0384": [
+       2,
+       3,
+       6
+      ]
+     }
+    },
+    {
+     "note": "chinese_apps_rise_in_us_app_store_rankings.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0384": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "apple_2023_top_iphone_apps_and_games_lists.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0384": [
+       7,
+       8,
+       9,
+       14,
+       16,
+       18,
+       20
+      ]
+     }
+    },
+    {
+     "note": "apple_2023_top_ipad_apps_and_games_lists.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0384": [
+       10,
+       11,
+       22,
+       24,
+       26,
+       28
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "scalable_capital_and_european_neobrokers",
+   "title": "Scalable Capital and the European Neobroker Market",
+   "notes": [
+    {
+     "note": "scalable_capital_65m_flat_valuation_round.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0398": [
+       1,
+       2,
+       5,
+       15
+      ]
+     }
+    },
+    {
+     "note": "scalable_capital_brokerage_platform_and_scale.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0398": [
+       3,
+       12
+      ]
+     }
+    },
+    {
+     "note": "european_neobroker_competitive_landscape.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0398": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "scalable_capital_banking_license_decision.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0398": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "european_startup_funding_and_market_headwinds.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0398": [
+       4,
+       11
+      ]
+     }
+    },
+    {
+     "note": "investing_countercyclically_in_a_cooled_market.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0398": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "balderton_investment_thesis_on_scalable_capital.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0398": [
+       14
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "beeper_mini_versus_apple_imessage",
+   "title": "Beeper Mini vs. Apple's iMessage Lockout",
+   "notes": [
+    {
+     "note": "apple_blocks_beeper_mini_imessage_access.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0402": [
+       1,
+       4,
+       14
+      ]
+     }
+    },
+    {
+     "note": "elizabeth_warren_criticism_of_apple_blocking_beeper.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0402": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "beeper_mini_service_restoration_and_apple_id_workaround.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0402": [
+       6,
+       7,
+       8,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "beeper_security_audit_challenge_to_apple.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0402": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "beeper_mini_imessage_client_for_android.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0402": [
+       2,
+       3
+      ],
+      "doc_0540": [
+       1,
+       2,
+       5,
+       6
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "boston_dynamics_robotics_outlook",
+   "title": "Boston Dynamics on the Future of Robotics",
+   "notes": [
+    {
+     "note": "boston_dynamics_view_on_generative_ai_in_robotics.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0420": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "boston_dynamics_view_on_humanoid_form_factor.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0420": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "next_industries_for_robotics_adoption.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0420": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "barriers_to_general_purpose_robots.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0420": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "outlook_for_home_robots_beyond_vacuums.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0420": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "robotics_supply_chain_as_underappreciated_trend.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0420": [
+       16,
+       17
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "simply_homes_affordable_housing_proptech",
+   "title": "Simply Homes and AI-Underwritten Affordable Housing",
+   "notes": [
+    {
+     "note": "affordable_housing_supply_gap_for_low_income_renters.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0430": [
+       1,
+       2,
+       5
+      ]
+     }
+    },
+    {
+     "note": "simply_homes_company_profile_and_funding.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0430": [
+       3,
+       12,
+       17,
+       19
+      ]
+     }
+    },
+    {
+     "note": "simply_homes_social_mobility_mission.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0430": [
+       4,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "simply_homes_operating_metrics_and_markets.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0430": [
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "simply_homes_interest_rate_underwriting_resilience.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0430": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "simply_homes_ai_underwriting_model.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0430": [
+       15,
+       16,
+       18
+      ]
+     }
+    },
+    {
+     "note": "investor_case_for_affordable_starter_home_supply.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0430": [
+       20,
+       21,
+       22
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "gag_city_viral_meme_marketing",
+   "title": "Gag City: A Fan Meme as Album Marketing",
+   "notes": [
+    {
+     "note": "gag_city_meme_origin_and_meaning.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0469": [
+       1,
+       2,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "gag_city_fan_generated_lore_and_stan_wars.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0469": [
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "brand_accounts_co_opting_the_gag_city_meme.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0469": [
+       15
+      ]
+     }
+    },
+    {
+     "note": "criticism_of_brand_co_option_and_ai_generated_art.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0469": [
+       16,
+       20
+      ]
+     }
+    },
+    {
+     "note": "gag_city_as_free_marketing_win_for_nicki_minaj.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0469": [
+       3,
+       17,
+       18,
+       19
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "technologists_in_product_innovation",
+   "title": "The Technologist's Role in Product Innovation",
+   "notes": [
+    {
+     "note": "product_design_in_the_ai_and_spatial_computing_era.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0496": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "innovation_as_perpetual_and_mundane.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0496": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "product_design_as_a_decision_making_process.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0496": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "strategic_role_of_technologists_in_product_innovation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0496": [
+       9,
+       10,
+       17
+      ]
+     }
+    },
+    {
+     "note": "technology_innovation_must_solve_a_business_problem.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0496": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "experimental_nature_of_product_innovation_and_the_technology_product_gap.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0496": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "digital_technology_as_a_design_material.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0496": [
+       15,
+       16
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "flipboard_joins_the_fediverse",
+   "title": "Flipboard's ActivityPub Federation",
+   "notes": [
+    {
+     "note": "flipboard_activitypub_federation_launch.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0507": [
+       1,
+       4,
+       5,
+       7
+      ]
+     }
+    },
+    {
+     "note": "flipboard_social_magazine_platform.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0507": [
+       3,
+       11,
+       15
+      ]
+     }
+    },
+    {
+     "note": "flipboard_path_to_the_fediverse.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0507": [
+       2,
+       6
+      ]
+     }
+    },
+    {
+     "note": "how_flipboard_flips_publish_to_mastodon.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0507": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "mainstream_platform_adoption_of_activitypub.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0507": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "flipboard_front_end_redesign_questions.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0507": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "mccue_thesis_on_the_federated_web.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0507": [
+       16,
+       17,
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "mrbeast_stunt_economy_and_american_debt",
+   "title": "MrBeast's Stunt Economy and American Debt",
+   "notes": [
+    {
+     "note": "mrbeast_100_days_room_challenge.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0509": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "mrbeast_stunt_escalation_and_audience_demands.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0509": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "mrbeast_contestants_motivated_by_debt.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0509": [
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "squid_game_parallel_to_mrbeast_challenges.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0509": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "american_debt_burden_and_the_new_american_dream.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0509": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "suzie_taylor_converts_winnings_into_creator_career.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0509": [
+       15,
+       16,
+       17
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0033": [
+   0,
+   19,
+   20,
+   21
+  ],
+  "doc_0117": [
+   0
+  ],
+  "doc_0126": [
+   0,
+   19
+  ],
+  "doc_0153": [
+   0,
+   20
+  ],
+  "doc_0160": [
+   0
+  ],
+  "doc_0216": [
+   0,
+   1,
+   14
+  ],
+  "doc_0243": [
+   0,
+   1,
+   3,
+   4,
+   5,
+   9,
+   13,
+   17,
+   21,
+   25,
+   29,
+   33
+  ],
+  "doc_0268": [
+   0,
+   8,
+   17,
+   23
+  ],
+  "doc_0318": [
+   0,
+   5,
+   8,
+   10,
+   13,
+   16,
+   19,
+   21,
+   25
+  ],
+  "doc_0334": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   15,
+   16,
+   20,
+   21
+  ],
+  "doc_0365": [
+   0,
+   1,
+   3,
+   8,
+   12,
+   16,
+   20,
+   24,
+   28,
+   32
+  ],
+  "doc_0384": [
+   0,
+   12,
+   13,
+   15,
+   17,
+   19,
+   21,
+   23,
+   25,
+   27,
+   29
+  ],
+  "doc_0398": [
+   0
+  ],
+  "doc_0402": [
+   0
+  ],
+  "doc_0420": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "doc_0430": [
+   0
+  ],
+  "doc_0469": [
+   0
+  ],
+  "doc_0496": [
+   0,
+   5,
+   8
+  ],
+  "doc_0507": [
+   0
+  ],
+  "doc_0509": [
+   0
+  ]
+ },
+ "genre_note": "Verified with `python3 scripts/verify_cluster_plan.py multihop_rag --plan c27.json` \u2192 PASS (21 sub-plans, 145 notes, 20 docs, no duplicate source, no note over the 1,800-word ceiling).\n\nCOVERAGE. 19 of 20 documents land at 94.2\u201399.2% assigned. The exception is doc_0334 at 83.3%: it is TechCrunch's \"Week in Review\" newsletter, and the 223 unassigned words are its greeting/subscribe pitch (block 1), a table-of-contents recap that verbatim restates the items below it (block 2), a second sign-up reminder (block 3), a TC+ subscription pitch (block 21), a podcast-roster teaser (block 16), and four bare section labels. Assigning the TOC block would have created a note that is retrieved for eight subjects and answers none. I report this honestly rather than inflate the number.\n\nROUNDUPS WERE SPLIT, NOT MERGED. Five of the twenty documents are multi-item roundups where size-before-coherence would have been fatal. doc_0334 (newsletter, 11 unrelated news items + 3 unrelated podcast guests + 3 TC+ teasers) became 14 single-item notes across two sub-plans. doc_0243 (8 authors, 8 book picks) became 8 recommendation notes plus one on the blurb-economy premise \u2014 each author's bio travels with their own pick, because \"who recommended what\" is the atomic fact. doc_0318 (7 dead EVs) became one note per vehicle. doc_0384 (app-store charts) separated narrative analysis from the raw ranked lists, and split iPhone from iPad. doc_0365 (8 predictions) became one note per prediction. Merging any of these would have produced a note retrieved for everything and answering nothing.\n\nSHARED ENTITIES (Step 3). Two notes draw blocks from two documents rather than being duplicated: `google_gemini_model_family_and_capability_claims.md` takes doc_0126[1,25,26] (what Gemini/Pro/Ultra are, the GPT-3.5 comparison baseline) plus doc_0334[5] (the launch and the staged demo), so one note carries the whole Gemini-launch subject; and `battery_swapping_ecosystem_and_unit_economics_challenges.md` takes doc_0216[26,27,28] (Bain/Blume forecast, the USB-C-style interoperability argument, Luke's ecosystem caveat) plus doc_0334[23] (consumer battery-swapping unit economics). Other cross-document overlaps (X/Twitter across doc_0153/0469/0507, Meta across doc_0268/0334/0384, OpenAI across doc_0117/0365, MrBeast across doc_0509/0334) are genuinely different subjects per document \u2014 the GTA VI trailer breaking a MrBeast view record is not the same subject as MrBeast's stunt economy \u2014 so they stay separate rather than being force-merged.\n\nWHAT I DID NOT DROP. Three blocks that read like chrome carry load and were assigned. doc_0398[15] is labelled an update notice but corrects the 2021 round from $140M to $180M \u2014 the figure the article's own valuation comparison rests on; it goes into `scalable_capital_65m_flat_valuation_round.md`. doc_0126[25] reads as a closing caveat but is the scope condition on the entire piece: Gemini Pro is not Gemini Ultra, and Google benchmarked it against GPT-3.5, a year-old model \u2014 it anchors the concept note. doc_0117[12] is a reporter's \"I've asked OpenAI and will update\" line, but it names an unresolved gap in the risk taxonomy (where photorealistic fake video falls), so it rides with the risk-category procedure. doc_0033[21] (an editor's note recording only that a Google statement was added) was dropped because that statement is already its own note from block 18.\n\nBUILDING BLOCKS. The distribution is what the genre predicts: empirical_observation dominates (~65 notes), then argument (~35) and concept (~28). Two blocks are genuinely rare and were NOT manufactured. `hypothesis` appears 10 times and all 10 are real: 9 from doc_0365, which is explicitly an eight-predictions-for-2024 piece, and 1 from doc_0420 (Boston Dynamics' dated forecast that multifunctional in-home robots are more than a decade out). No other document contains a testable forward claim, and none was invented. `procedure` appears only 4 times (OpenAI's risk rubric and its board-veto flow, Deloitte's adoption structure, the AI Alliance's stand-up plan) \u2014 news rarely gives ordered steps. `model` appears 4 times where a real mechanism is described (Simply Homes' HUD-data \u2192 ML underwriting chain, Flipboard's flip \u2192 Mastodon post mechanics, the Squid Game/MrBeast structural parallel, technology-as-design-material). `counter_argument` appears 7 times and every one is an identifiable rebuttal by a named party (Google's \"meritless\" statement, X's compliance reply, Warren on Apple, the doubt cast on OpenAI's board veto and on the AI Alliance, the anecdotal case against Gemini's benchmarks, the critique of brand meme co-option). `navigation` was not produced, per instruction."
+}

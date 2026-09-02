@@ -1,0 +1,2101 @@
+{
+ "cluster": "c03",
+ "subplans": [
+  {
+   "slug": "geopolitical_risk_and_indian_power_sector",
+   "title": "Israel-Hamas Market Risk and NTPC's Capacity Story",
+   "notes": [
+    {
+     "note": "israel_hamas_conflict_limited_market_impact_base_case.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0111": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "india_israel_bilateral_trade_exposure_2022_23.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0111": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "israel_hamas_war_full_escalation_scenario.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0111": [
+       4,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "middle_east_crude_and_shipping_chokepoint_disruption.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0111": [
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "war_escalation_transmission_to_indian_equities.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0111": [
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "india_renewable_and_thermal_capacity_policy_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0601": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "ntpc_stock_rerating_and_accumulate_call.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0601": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "ntpc_cost_plus_tariff_and_coal_supply_model.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0601": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "ntpc_h1_fy24_operating_performance.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0601": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "ntpc_capacity_expansion_and_ngel_ipo_plan.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0601": [
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "hni_alternative_investments_india",
+   "title": "Alternative Investment Avenues for Indian HNIs",
+   "notes": [
+    {
+     "note": "indian_high_net_worth_investor_population_growth.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0252": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "case_for_alternatives_in_hni_portfolios.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0252": [
+       2,
+       3,
+       4,
+       26
+      ]
+     }
+    },
+    {
+     "note": "alternative_investment_funds_sebi_framework.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0252": [
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "aif_sub_fund_strategies_available_to_hnis.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0252": [
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "portfolio_management_services_india.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0252": [
+       19,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "market_linked_debentures_india.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0252": [
+       24,
+       25
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "relative_valuation_method",
+   "title": "The Art of Relative Valuation",
+   "notes": [
+    {
+     "note": "relative_valuation_definition_and_prevalence.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0418": [
+       1,
+       2,
+       3,
+       7,
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "why_analysts_use_relative_valuation_over_dcf.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0418": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "equity_multiples_and_shareholder_line_items.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0418": [
+       12,
+       13,
+       14,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "price_to_ebitda_ignores_debt_worked_example.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0418": [
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "switching_from_book_value_to_market_value_multiples.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0418": [
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "enterprise_value_multiples.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0418": [
+       23,
+       24,
+       25,
+       28
+      ]
+     }
+    },
+    {
+     "note": "bharti_airtel_ev_ebitda_valuation_case.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0418": [
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "non_pl_multiples_require_a_credible_story.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0418": [
+       29
+      ]
+     }
+    },
+    {
+     "note": "leverage_amplifies_ev_change_on_equity_value.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0418": [
+       30
+      ]
+     }
+    },
+    {
+     "note": "ketchup_economics_peer_multiple_fallacy.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0418": [
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "layered_comparison_against_growth_and_own_history.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0418": [
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "equity_valuations_versus_rising_bond_yields.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0418": [
+       37,
+       38
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "icc_world_cup_2023_tournament",
+   "title": "ICC ODI World Cup 2023: Knockouts and Leaderboards",
+   "notes": [
+    {
+     "note": "icc_world_cup_2023_knockout_stage_and_final.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0133": [
+       1
+      ],
+      "doc_0246": [
+       3
+      ],
+      "doc_0482": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "india_world_cup_semifinal_appearances_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0133": [
+       3,
+       4,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "icc_world_cup_2023_top_run_scorers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0482": [
+       5,
+       8,
+       10,
+       12,
+       14,
+       16,
+       18,
+       20,
+       22,
+       24,
+       26
+      ]
+     }
+    },
+    {
+     "note": "icc_world_cup_2023_leading_wicket_takers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0482": [
+       28,
+       31,
+       33,
+       35,
+       37,
+       39,
+       41,
+       43,
+       45,
+       47,
+       49
+      ]
+     }
+    },
+    {
+     "note": "india_australia_odi_world_cup_head_to_head_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0246": [
+       1,
+       5,
+       8
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "india_world_cup_semifinal_history",
+   "title": "India's World Cup Semi-Finals, 1983 to 2019",
+   "notes": [
+    {
+     "note": "india_1983_world_cup_semifinal_vs_england.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0133": [
+       13,
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "india_1987_world_cup_semifinal_vs_england.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0133": [
+       20,
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "india_1996_world_cup_semifinal_vs_sri_lanka.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0133": [
+       26,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "india_2003_world_cup_semifinal_vs_kenya.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0133": [
+       35,
+       36,
+       37,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "india_2011_world_cup_semifinal_vs_pakistan.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0133": [
+       41,
+       42,
+       43,
+       44,
+       45,
+       46
+      ]
+     }
+    },
+    {
+     "note": "india_2019_world_cup_semifinal_vs_new_zealand.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0133": [
+       52,
+       53,
+       54,
+       55,
+       56,
+       57
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "india_australia_world_cup_meetings",
+   "title": "India vs Australia in ODI World Cups, 1983 to 2023",
+   "notes": [
+    {
+     "note": "india_australia_1983_world_cup_group_matches.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0246": [
+       12,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "india_australia_1987_world_cup_group_matches.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0246": [
+       17,
+       19
+      ]
+     }
+    },
+    {
+     "note": "india_australia_1992_world_cup_brisbane_rain_match.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0246": [
+       21
+      ]
+     }
+    },
+    {
+     "note": "india_australia_1996_world_cup_mumbai_match.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0246": [
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "india_australia_1999_world_cup_the_oval_match.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0246": [
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "india_australia_2003_world_cup_centurion_group_match.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0246": [
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "india_australia_2003_world_cup_final_johannesburg.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0246": [
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "india_australia_2011_world_cup_quarterfinal_ahmedabad.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0246": [
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "india_australia_2015_world_cup_semifinal_sydney.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0133": [
+       48,
+       49,
+       50
+      ],
+      "doc_0246": [
+       40,
+       41,
+       42
+      ]
+     }
+    },
+    {
+     "note": "india_australia_2019_world_cup_the_oval_match.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0246": [
+       44
+      ]
+     }
+    },
+    {
+     "note": "india_australia_2023_world_cup_chennai_league_match.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0246": [
+       46,
+       47,
+       48
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "capitol_music_group_leadership_and_structure",
+   "title": "Capitol Music Group: Leadership, Restructuring, Labels",
+   "notes": [
+    {
+     "note": "capitol_music_group_leadership_turmoil_2020_2021.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0212": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "capitol_music_group_pre_2021_decline_diagnosis.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0212": [
+       27,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "capitol_music_group_organisational_reset_priorities.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0212": [
+       32,
+       34,
+       35,
+       36,
+       38,
+       39,
+       40,
+       41,
+       42
+      ]
+     }
+    },
+    {
+     "note": "capitol_music_group_turnaround_results_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0212": [
+       9,
+       33,
+       51,
+       52,
+       53,
+       55,
+       56
+      ]
+     }
+    },
+    {
+     "note": "caroline_virgin_music_group_spin_out_from_cmg.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0212": [
+       21,
+       22,
+       57,
+       58,
+       59,
+       61,
+       62
+      ]
+     }
+    },
+    {
+     "note": "motown_spin_out_and_return_to_capitol.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0212": [
+       23,
+       63,
+       64
+      ]
+     }
+    },
+    {
+     "note": "cmg_partner_labels_quality_control_and_10k_projects.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0212": [
+       24,
+       25,
+       65
+      ]
+     }
+    },
+    {
+     "note": "capitol_hip_hop_and_rnb_executive_build_out.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0212": [
+       67,
+       68,
+       69
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "capitol_music_group_artists_and_industry_views",
+   "title": "Capitol's 2023 Artist Campaigns and Jubelirer's Industry Views",
+   "notes": [
+    {
+     "note": "ice_spice_breakout_and_capitol_10k_partnership.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0212": [
+       11,
+       12,
+       13,
+       78,
+       79,
+       80,
+       82,
+       83,
+       84,
+       85,
+       87
+      ]
+     }
+    },
+    {
+     "note": "sam_smith_unholy_capitol_campaign.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0212": [
+       10,
+       72,
+       73,
+       74,
+       75,
+       76,
+       77
+      ]
+     }
+    },
+    {
+     "note": "doechii_what_it_is_block_boy_campaign.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0212": [
+       14,
+       15,
+       45,
+       46
+      ]
+     }
+    },
+    {
+     "note": "beatles_now_and_then_2023_release.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0212": [
+       20,
+       88,
+       89,
+       90,
+       92,
+       93,
+       94
+      ]
+     }
+    },
+    {
+     "note": "capitol_2023_frontline_roster_highlights.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0212": [
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "capitol_international_first_and_direct_to_fan_strategy.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0212": [
+       43,
+       44,
+       48,
+       49,
+       50
+      ]
+     }
+    },
+    {
+     "note": "genre_labels_should_not_define_music.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0212": [
+       70,
+       71
+      ]
+     }
+    },
+    {
+     "note": "music_industry_diversity_and_women_in_label_leadership.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0212": [
+       95,
+       96,
+       97,
+       99,
+       100,
+       101
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "independent_distribution_and_believe",
+   "title": "Believe, I\u00f1igo Quintero and the Independent Artist Shift",
+   "notes": [
+    {
+     "note": "believe_distributor_profile_and_alejandra_olea.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0211": [
+       1,
+       7
+      ]
+     }
+    },
+    {
+     "note": "inigo_quintero_si_no_estas_breakthrough.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0211": [
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "believe_marketing_playbook_for_si_no_estas.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0211": [
+       10,
+       11,
+       12,
+       13,
+       15,
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "digital_first_artist_development_model.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0211": [
+       20,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "believe_local_scouting_and_acqustic_partnership.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0211": [
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "spanish_language_music_global_growth.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0211": [
+       28,
+       29,
+       30,
+       32
+      ]
+     }
+    },
+    {
+     "note": "artists_seeking_control_transparency_and_masters_ownership.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0211": [
+       33,
+       34,
+       36
+      ]
+     }
+    },
+    {
+     "note": "global_hits_without_major_label_deals.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0211": [
+       35,
+       37,
+       38,
+       40,
+       41,
+       42
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "hipgnosis_songs_fund_valuation_dispute",
+   "title": "Hipgnosis Songs Fund's Valuation Standoff, December 2023",
+   "notes": [
+    {
+     "note": "hipgnosis_songs_fund_results_delay_december_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0263": [
+       3,
+       4,
+       5,
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "hsf_board_versus_hipgnosis_song_management_dispute.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0263": [
+       10,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "hsf_board_appoints_and_oversees_its_own_valuer.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0263": [
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "hsf_coded_signal_and_mercuriadis_call_option.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0263": [
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "citrin_cooperman_discount_rate_controversy.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0263": [
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "hsf_eight_day_delay_in_flagging_valuation_concern.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0263": [
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "jp_morgan_note_on_hsf_valuation_credibility.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0263": [
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       40,
+       41,
+       42,
+       43
+      ]
+     }
+    },
+    {
+     "note": "hsm_conflict_of_interest_in_valuation_opinion.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0263": [
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "hsf_underlying_catalogue_performance_questions.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0263": [
+       45,
+       46,
+       47,
+       48,
+       49
+      ]
+     }
+    },
+    {
+     "note": "hsf_q4_2023_catalogue_revenue_drivers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0263": [
+       50,
+       51,
+       52
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asx_and_wall_street_october_2023",
+   "title": "ASX and Wall Street Through October 2023",
+   "notes": [
+    {
+     "note": "asx_sector_movers_october_4_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0029": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "asx_and_wall_street_rebound_october_4_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0029": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "us_treasury_yields_and_fed_rate_expectations_october_2023.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0029": [
+       4
+      ],
+      "doc_0074": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "us_jobs_and_services_data_early_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0029": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "oil_slump_and_house_speaker_vacancy_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0029": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "australian_christmas_retail_spending_outlook_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0029": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "asx_laggards_october_12_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0074": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "asx_and_wall_street_selloff_october_12_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0074": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "crude_oil_prices_and_gaza_supply_risk_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0074": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "us_q3_earnings_season_and_corporate_movers_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0074": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "atlassian_loom_acquisition_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0074": [
+       7
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "israel_office_property_market",
+   "title": "Israel's Office Market Under Wartime Conditions",
+   "notes": [
+    {
+     "note": "ai21_labs_tel_aviv_office_lease.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0217": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "azrieli_group_office_portfolio_q3_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0217": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "amot_investments_portfolio_and_war_scenario_assessment.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0217": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "israel_office_space_oversupply.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0217": [
+       9,
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "israel_office_demand_recovery_after_october_7.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0217": [
+       15,
+       16,
+       17,
+       18,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "naimi_park_office_development_messubim.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0217": [
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "why_israeli_office_rents_have_not_fallen.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0217": [
+       27,
+       28,
+       29,
+       30
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "israeli_public_diplomacy",
+   "title": "Eylon Levy and Israel's Wartime Public Diplomacy",
+   "notes": [
+    {
+     "note": "eylon_levy_israeli_government_spokesperson.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0413": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "eylon_levy_kay_burley_sky_news_interview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0413": [
+       6,
+       7,
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "hostile_interview_questions_to_israeli_spokespeople.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0413": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "israeli_case_for_continuing_the_gaza_war.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0413": [
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "national_public_diplomacy_directorate.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0413": [
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "gaza_information_war_and_hamas_narrative.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0413": [
+       24,
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "eylon_levy_george_galloway_oxford_debate_2013.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0413": [
+       30,
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "eylon_levy_aliyah_and_idf_service.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0413": [
+       35,
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "israeli_unity_after_october_7_versus_judicial_reform.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0413": [
+       39,
+       40,
+       41,
+       42
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "global_big_pharma_pipelines",
+   "title": "Unmet Needs and Investment Cases in Global Big Pharma",
+   "notes": [
+    {
+     "note": "us_big_pharma_investment_rationale_for_indian_investors.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0239": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "cancer_immunotherapy_checkpoint_inhibitors.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0239": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "antibody_drug_conjugates_market.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0239": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "car_t_cell_therapy.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0239": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "glp1_receptor_agonists_diabetes_and_weight_loss.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0239": [
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "hiv_antiretroviral_therapy_and_cure_research.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0239": [
+       22,
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "alzheimers_lecanemab_and_aducanumab_approvals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0239": [
+       28,
+       29,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "framework_for_valuing_us_pharma_stocks.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0239": [
+       33,
+       38
+      ]
+     }
+    },
+    {
+     "note": "novo_nordisk_abbvie_merck_stock_calls.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0239": [
+       34,
+       35,
+       36,
+       37
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "coinbase_and_crypto_regulation",
+   "title": "Coinbase's 2023 Rally and Crypto's Legal Reckoning",
+   "notes": [
+    {
+     "note": "coinbase_stock_rally_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0375": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "bankman_fried_and_zhao_convictions_and_binance_aftermath.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0375": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "coinbase_sec_standoff_and_regulatory_clarity.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0375": [
+       2,
+       7
+      ]
+     }
+    },
+    {
+     "note": "spot_bitcoin_etfs_and_coinbase_competitive_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0375": [
+       9
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "us_china_relations_2023",
+   "title": "U.S.-China Relations and the San Francisco Summit",
+   "notes": [
+    {
+     "note": "biden_xi_san_francisco_summit_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0385": [
+       1,
+       2,
+       13
+      ]
+     }
+    },
+    {
+     "note": "us_china_relations_deterioration_and_thaw_2023.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0385": [
+       4,
+       6
+      ]
+     }
+    },
+    {
+     "note": "us_export_controls_on_china_and_taiwan_flashpoint.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0385": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "us_china_areas_of_cooperation_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0385": [
+       10
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "philippine_sustainable_development_strategy",
+   "title": "The Philippine Strategy for Sustainable Development",
+   "notes": [
+    {
+     "note": "public_policy_objectives_efficiency_equity_stability.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0410": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "philippine_development_plan_2023_2028_targets.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0410": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "philippine_investment_liberalisation_and_rcep.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0410": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "philippine_human_capital_institutions_and_infrastructure.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0410": [
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "philippine_debt_and_fiscal_consolidation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0410": [
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "philippine_inflation_2023_and_government_response.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0410": [
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "philippine_climate_resilience_strategy.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0410": [
+       23,
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "private_sector_role_in_philippine_sustainable_development.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0410": [
+       29,
+       30
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "philippine_education_financing_reform",
+   "title": "From FAPE/PEAC to a Philippine Education Development Fund",
+   "notes": [
+    {
+     "note": "doh_versus_deped_service_delivery_comparison.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0463": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "philed_education_development_fund_proposal.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0463": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "three_filipino_education_dreams_and_philed_programs.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0463": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "fape_and_peac_history_and_programs.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0463": [
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "folding_fape_peac_into_philed_transition_plan.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0463": [
+       12,
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "philhealth_earmarked_revenue_model_as_philed_template.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0463": [
+       17,
+       18,
+       19,
+       20,
+       21,
+       22
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ai_industry_origins_and_rivalries",
+   "title": "How Ego and Fear Fuelled the Rise of AI",
+   "notes": [
+    {
+     "note": "ai_risk_paradox_among_tech_billionaires.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0027": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "openai_founding_and_2023_board_crisis.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0027": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "deepmind_founding_and_thiel_investment.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0027": [
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "deepmind_neural_networks_and_atari_demonstration.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0027": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "hinton_2012_paper_and_lake_tahoe_talent_auction.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0027": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "deepmind_google_acquisition_and_facebook_ai_lab.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0027": [
+       11
+      ]
+     }
+    },
+    {
+     "note": "deepmind_ethics_board_single_meeting_2015.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0027": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "alphago_as_evidence_for_ai_risk_concerns.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0027": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "musk_openai_founding_and_departure.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0027": [
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "anthropic_founding_by_openai_researchers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0027": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "gpt4_demonstration_to_bill_gates.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0027": [
+       19
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0111": [
+   0,
+   8,
+   13,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25
+  ],
+  "doc_0252": [
+   0,
+   5,
+   20,
+   23,
+   27
+  ],
+  "doc_0418": [
+   0,
+   4,
+   11,
+   22,
+   31,
+   34,
+   39
+  ],
+  "doc_0133": [
+   0,
+   2,
+   8,
+   9,
+   10,
+   11,
+   12,
+   18,
+   19,
+   25,
+   34,
+   40,
+   47,
+   51,
+   58,
+   59
+  ],
+  "doc_0246": [
+   0,
+   2,
+   4,
+   6,
+   7,
+   9,
+   10,
+   11,
+   13,
+   16,
+   18,
+   20,
+   22,
+   25,
+   28,
+   31,
+   34,
+   35,
+   39,
+   43,
+   45,
+   49,
+   50
+  ],
+  "doc_0482": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   7,
+   9,
+   11,
+   13,
+   15,
+   17,
+   19,
+   21,
+   23,
+   25,
+   27,
+   29,
+   30,
+   32,
+   34,
+   36,
+   38,
+   40,
+   42,
+   44,
+   46,
+   48,
+   50
+  ],
+  "doc_0211": [
+   0,
+   8,
+   9,
+   14,
+   21,
+   31,
+   39
+  ],
+  "doc_0212": [
+   0,
+   26,
+   28,
+   31,
+   37,
+   47,
+   54,
+   60,
+   66,
+   81,
+   86,
+   91,
+   98
+  ],
+  "doc_0263": [
+   0,
+   1,
+   2,
+   18,
+   28,
+   35,
+   39,
+   44,
+   53
+  ],
+  "doc_0029": [
+   0
+  ],
+  "doc_0074": [
+   0
+  ],
+  "doc_0217": [
+   0,
+   3,
+   8,
+   14,
+   19,
+   26,
+   31,
+   32
+  ],
+  "doc_0413": [
+   0,
+   5,
+   21,
+   29,
+   43,
+   44
+  ],
+  "doc_0239": [
+   0,
+   5,
+   13,
+   21,
+   27,
+   32
+  ],
+  "doc_0601": [
+   0,
+   5,
+   9,
+   12
+  ],
+  "doc_0375": [
+   0,
+   1,
+   4,
+   6,
+   8
+  ],
+  "doc_0385": [
+   0,
+   3,
+   5,
+   7,
+   9,
+   11,
+   12
+  ],
+  "doc_0410": [
+   0,
+   3,
+   4,
+   10,
+   15,
+   19,
+   22,
+   28,
+   31,
+   32
+  ],
+  "doc_0463": [
+   0,
+   23
+  ],
+  "doc_0027": [
+   0
+  ]
+ },
+ "genre_note": "153 notes over 19 sub-plans; verified with scripts/verify_cluster_plan.py (PASS: block ranges valid, no duplicate (doc,block), one BB per note, none over the 1,800-word ceiling, all sub-plans 4-15, coverage floor met).\n\nBB distribution: empirical_observation 81, argument 28, model 20, concept 15, procedure 5, counter_argument 4, hypothesis 0. This is what the material actually is. The cluster splits into two genres despite the shared \"business\" label. Straight reporting (ASX/Wall Street dailies, cricket match recaps, the Coinbase and Biden-Xi pieces, the AI oral history) is almost entirely dated fact, hence the empirical_observation mass. The other half is opinion-column and analyst-column writing (Business Line's investing columns, Business World's policy op-eds, MBW Explains, the Globes office-rent survey), which is where every argument, model and counter_argument comes from \u2014 a claim plus its grounds is the whole point of those pieces.\n\nhypothesis: ZERO instances. Nothing in these 20 documents states a testable prediction and offers it as testable. The nearest miss is doc_0111's \"what if the current hostilities turn into a full-scale conflict?\" \u2014 but the author is not proposing it for testing, he is rebutting the market's non-escalation base case, so it is filed as counter_argument (`israel_hamas_war_full_escalation_scenario.md`). Amot Investments' \"if the war stays southern and under three months, impact is not material\" (doc_0217) is a conditional in a filed financial statement, i.e. a dated corporate disclosure, so empirical_observation. Absence is the finding; I did not manufacture the block.\n\ncounter_argument is also genuinely scarce (4). Real rebuttals appear only where someone is on record contradicting a named party: Larry Summers'/Krugman's ketchup-economics attack on peer-multiple reasoning, MBW's observation that HSF's board appoints the very valuer it is now disowning, and JP Morgan's note calling the board's move an \"own goal\".\n\nprocedure is rarer than expected (5) because most \"how to\" content in news columns is really descriptive taxonomy, not ordered steps. I used it only where the source genuinely sequences: Believe's discovery\u2192TikTok\u2192playlist\u2192YouTube\u2192radio campaign, Jubelirer's day-one reorganisation agenda, the pharma expiry/ramp/pipeline screen, the FAPE\u2192PhilEd transfer mechanics, and the layered-comparison pointers in the valuation column.\n\nCross-document sharing (Step 3), 3 notes carry blocks from more than one document:\n- `icc_world_cup_2023_knockout_stage_and_final.md` \u2014 doc_0133[1] + doc_0246[3] + doc_0482[1]. Three publications describe the same knockout stage at three different moments (before the semi, before the final, after the final); one note holds the whole event rather than three near-duplicates splitting it.\n- `india_australia_2015_world_cup_semifinal_sydney.md` \u2014 doc_0133[48-50] + doc_0246[40-42]. The same Sydney semi-final reported once as an India-semi-final and once as an India-Australia fixture.\n- `us_treasury_yields_and_fed_rate_expectations_october_2023.md` \u2014 doc_0029[4] + doc_0074[3,4]. Two Age market wraps eight days apart tracking the same 10-year-yield/Fed-expectation mechanism; keeping them apart would have split the evidence for any question spanning the month.\n\nCoverage. Sixteen of 20 documents land 93-100%. Four land lower, all for the same structural reason and all honestly:\n- doc_0482 81.6% \u2014 a ranked-list article. 22 of its 51 blocks are one-line rank headers (\"4. Jasprit Bumrah, India\") plus \"*Still Batting\"/\"*Still Bowling\" markers; the names and countries they carry are already inside the assigned table blocks [5] and [28], so assigning them would double-count.\n- doc_0246 82.3% \u2014 7 \"Also Read\" cross-promo blocks (169 words) and 13 match-header lines.\n- doc_0133 85.5% \u2014 5 \"Also Read\" blocks (124 words), 8 section headers, plus a \"ZeeBiz will take you through memory lane\" nav block and the stub \"2023 World Cup, against New Zealand / To be played\".\n- doc_0263 87.5% \u2014 the \"MBW Explains\u2026 supported by JKBX\" sponsor blurb and the closing JKBX advertorial (98 words) plus two verbatim pull-quote repeats.\n- doc_0212 89.6% \u2014 10 pull-quotes that repeat the adjacent body paragraph word-for-word (344 words). I read each one before dropping it; none adds a clause the body block lacks.\n\nTwo drops I reconsidered and reversed after inspecting them, per the warning about deleting scope conditions: doc_0212[50] (\"Have you seen the Ice Spice American Flag or Chia Pet?\") reads as a throwaway aside but names two actual merchandise products, so it went into the direct-to-fan strategy note; doc_0375[2] looks like a photo credit but states that Armstrong slammed the SEC and that Coinbase is looking to invest outside the U.S. \u2014 a live scope condition on the article's bullish headline \u2014 so it went into the SEC-standoff note.\n\nOne segmentation artifact worth flagging for the writing stage: a few source blocks are single paragraphs that straddle two subjects and cannot be split at the block level \u2014 doc_0029[6] (oil slump + McCarthy ouster), doc_0074[5] (bond commentary + crude + airlines), doc_0375[9] (SEC litigation + spot-bitcoin-ETF threat, 457 words), doc_0385[8] (export controls + Taiwan flashpoint, 301 words). I named each note for its dominant subject rather than manufacture a false split."
+}

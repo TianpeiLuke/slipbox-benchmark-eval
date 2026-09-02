@@ -1,0 +1,1786 @@
+{
+ "cluster": "c10",
+ "subplans": [
+  {
+   "slug": "taylor_swift_1989_album_and_rerecording",
+   "title": "Taylor Swift's 1989: the album, the re-recording campaign and the vault",
+   "notes": [
+    {
+     "note": "taylor_swift_1989_taylors_version_rerecording.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0257": [
+       1,
+       3,
+       6,
+       7,
+       8,
+       120
+      ]
+     }
+    },
+    {
+     "note": "taylor_swift_1989_original_album_success_and_tour.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0257": [
+       2,
+       4,
+       5,
+       20,
+       45,
+       60,
+       87,
+       99
+      ]
+     }
+    },
+    {
+     "note": "taylor_swift_1989_pivot_from_country_to_pop.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0257": [
+       12,
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "taylor_swift_1989_vault_tracks.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0257": [
+       127,
+       128,
+       129,
+       130,
+       131,
+       132,
+       133,
+       134,
+       135,
+       136
+      ]
+     }
+    },
+    {
+     "note": "taylor_swift_album_track_selection_philosophy.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0257": [
+       137,
+       138,
+       139,
+       140
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "taylor_swift_1989_tracks_one_to_eight",
+   "title": "1989 track-by-track: Welcome To New York through Bad Blood",
+   "notes": [
+    {
+     "note": "welcome_to_new_york_taylor_swift_song.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       11,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "blank_space_taylor_swift_song.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       22,
+       23,
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "style_taylor_swift_song.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       28,
+       30,
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "out_of_the_woods_taylor_swift_song.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0257": [
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44
+      ]
+     }
+    },
+    {
+     "note": "all_you_had_to_do_was_stay_taylor_swift_song.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       47,
+       48,
+       49,
+       50
+      ]
+     }
+    },
+    {
+     "note": "shake_it_off_taylor_swift_song.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       51,
+       53,
+       54,
+       55,
+       56,
+       57,
+       58,
+       59
+      ]
+     }
+    },
+    {
+     "note": "i_wish_you_would_taylor_swift_song.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       62,
+       63,
+       64,
+       65
+      ]
+     }
+    },
+    {
+     "note": "bad_blood_taylor_swift_katy_perry_feud.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0257": [
+       67,
+       68,
+       69,
+       70,
+       71,
+       72,
+       73
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "taylor_swift_1989_tracks_nine_to_sixteen",
+   "title": "1989 track-by-track: Wildest Dreams through New Romantics",
+   "notes": [
+    {
+     "note": "wildest_dreams_taylor_swift_song.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       75,
+       76,
+       77,
+       78,
+       79,
+       80
+      ]
+     }
+    },
+    {
+     "note": "how_you_get_the_girl_taylor_swift_song.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       82,
+       83,
+       84,
+       85,
+       86
+      ]
+     }
+    },
+    {
+     "note": "this_love_taylor_swift_song.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       89,
+       90,
+       91,
+       92,
+       93
+      ]
+     }
+    },
+    {
+     "note": "i_know_places_taylor_swift_song.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       95,
+       96,
+       97,
+       98
+      ]
+     }
+    },
+    {
+     "note": "clean_taylor_swift_song_imogen_heap.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       101,
+       102,
+       103,
+       104,
+       105
+      ]
+     }
+    },
+    {
+     "note": "wonderland_taylor_swift_song.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       106,
+       108,
+       109,
+       110,
+       111,
+       112,
+       113
+      ]
+     }
+    },
+    {
+     "note": "you_are_in_love_taylor_swift_song.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       115,
+       116,
+       117,
+       118,
+       119
+      ]
+     }
+    },
+    {
+     "note": "new_romantics_taylor_swift_song.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0257": [
+       122,
+       123,
+       124,
+       125
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "bill_kenwright_everton_and_west_end",
+   "title": "Bill Kenwright: Everton chairmanship, theatre career and death",
+   "notes": [
+    {
+     "note": "bill_kenwright_death_aged_78.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0543": [
+       3,
+       4,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       16
+      ]
+     }
+    },
+    {
+     "note": "bill_kenwright_everton_chairmanship_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0543": [
+       2,
+       5,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "everton_ownership_moshiri_and_777_partners.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0543": [
+       20,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "everton_fan_no_confidence_in_kenwright_board.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0543": [
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "bill_kenwright_coronation_street_acting_career.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0543": [
+       6,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "bill_kenwright_west_end_theatre_productions.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0543": [
+       7,
+       15,
+       33,
+       34,
+       35,
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "tributes_to_bill_kenwright_rooney_mckellen.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0543": [
+       39,
+       40,
+       41,
+       42,
+       43
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "melissa_lucashenko_and_edenglassie",
+   "title": "Melissa Lucashenko and the novel Edenglassie",
+   "notes": [
+    {
+     "note": "edenglassie_novel_melissa_lucashenko.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0283": [
+       1,
+       3
+      ]
+     }
+    },
+    {
+     "note": "lucashenko_on_aboriginal_survival_and_the_dying_race_trope.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0283": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "dundalli_public_hanging_brisbane_1855.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0283": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "melissa_lucashenko_family_history_and_writing_career.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0283": [
+       9
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "shameless_media_founders",
+   "title": "Shameless Media: Michelle Andrews and Zara McDonald",
+   "notes": [
+    {
+     "note": "shameless_media_podcast_company_profile.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0523": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "shameless_founders_friendship_and_parenthood_question.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0523": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "shameless_media_contingency_plan_and_audience_trust.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0523": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "shameless_founders_on_the_space_between_and_4am.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0523": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "ask_shameless_advice_column_lessons.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0523": [
+       9
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "horror_films_international_and_world_cinema",
+   "title": "Polygon horror recommendations: international and world cinema",
+   "notes": [
+    {
+     "note": "encounters_of_the_spooky_kind_sammo_hung.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "cure_1997_kiyoshi_kurosawa_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       38,
+       39,
+       40,
+       41,
+       42
+      ]
+     }
+    },
+    {
+     "note": "the_host_2006_bong_joon_ho_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       62,
+       63,
+       64,
+       65,
+       66
+      ]
+     }
+    },
+    {
+     "note": "house_1977_nobuhiko_obayashi_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       68,
+       69,
+       70,
+       71,
+       72
+      ]
+     }
+    },
+    {
+     "note": "let_the_right_one_in_2008_vampire_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       80,
+       81,
+       82,
+       83,
+       84
+      ]
+     }
+    },
+    {
+     "note": "rec_2007_spanish_found_footage_horror.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       113,
+       114,
+       115,
+       116
+      ]
+     }
+    },
+    {
+     "note": "suspiria_1977_dario_argento_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       126,
+       127,
+       128,
+       129,
+       130,
+       131
+      ]
+     }
+    },
+    {
+     "note": "possession_1981_andrzej_zulawski_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       105,
+       106,
+       107,
+       108,
+       109,
+       110,
+       111
+      ]
+     }
+    },
+    {
+     "note": "sputnik_2020_russian_sci_fi_horror.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       118,
+       119,
+       120,
+       121,
+       122,
+       123,
+       124
+      ]
+     }
+    },
+    {
+     "note": "climax_2018_gaspar_noe_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "horror_films_american_classics",
+   "title": "Polygon horror recommendations: American genre classics",
+   "notes": [
+    {
+     "note": "night_of_the_living_dead_1968_george_romero.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       99,
+       100,
+       101,
+       102,
+       103
+      ]
+     }
+    },
+    {
+     "note": "the_texas_chain_saw_massacre_1974_tobe_hooper.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       133,
+       134,
+       135,
+       136,
+       137
+      ]
+     }
+    },
+    {
+     "note": "the_thing_1982_john_carpenter_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       139,
+       140,
+       141,
+       142,
+       143,
+       144
+      ]
+     }
+    },
+    {
+     "note": "in_the_mouth_of_madness_john_carpenter_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       74,
+       75,
+       76,
+       77,
+       78
+      ]
+     }
+    },
+    {
+     "note": "hellraiser_1987_clive_barker_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       49,
+       50,
+       51,
+       52
+      ]
+     }
+    },
+    {
+     "note": "the_mist_2007_frank_darabont_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       92,
+       93,
+       94,
+       95,
+       96,
+       97
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "horror_films_contemporary",
+   "title": "Polygon horror recommendations: contemporary horror",
+   "notes": [
+    {
+     "note": "hereditary_2018_ari_aster_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       54,
+       55,
+       56,
+       57,
+       58,
+       59,
+       60
+      ]
+     }
+    },
+    {
+     "note": "annihilation_2018_alex_garland_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       19,
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "malignant_2021_james_wan_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       86,
+       87,
+       88,
+       89,
+       90
+      ]
+     }
+    },
+    {
+     "note": "us_2019_jordan_peele_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       154,
+       155,
+       156,
+       157,
+       158,
+       159
+      ]
+     }
+    },
+    {
+     "note": "alone_2020_john_hyams_film.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "unfriended_screenlife_horror_movies.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       146,
+       147,
+       148,
+       149,
+       150,
+       152
+      ]
+     }
+    },
+    {
+     "note": "crimes_of_the_future_2022_david_cronenberg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0563": [
+       30,
+       31,
+       32,
+       34,
+       35,
+       36
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "dropout_collegehumor_rebrand",
+   "title": "Dropout at five: retiring CollegeHumor and the shows behind it",
+   "notes": [
+    {
+     "note": "collegehumor_iac_layoffs_and_sale_to_sam_reich.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0586": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "dropout_fifth_anniversary_name_change_announcement.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0586": [
+       3,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "why_dropout_retired_the_collegehumor_name.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0586": [
+       33,
+       34,
+       35,
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "dimension_20_burrows_end_stoat_season.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0586": [
+       4,
+       5,
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "sam_reich_advice_on_off_platform_business_models.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0586": [
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "digital_creator_jail_and_anthology_formats.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0586": [
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "reich_and_mulligan_early_performing_gigs.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0586": [
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "dropout_improv_shows_and_wayne_brady_endorsement.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0586": [
+       38,
+       39,
+       40,
+       42,
+       43,
+       44
+      ]
+     }
+    },
+    {
+     "note": "very_important_people_dropout_show.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0586": [
+       45,
+       46,
+       47,
+       48
+      ]
+     }
+    },
+    {
+     "note": "dropout_anniversary_video_easter_eggs.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0586": [
+       50,
+       51,
+       52,
+       53
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "canada_ski_resorts",
+   "title": "Ski holidays in Canada: resort by resort",
+   "notes": [
+    {
+     "note": "canada_ski_holidays_overview.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0572": [
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "whistler_blackcomb_ski_resort.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0572": [
+       8,
+       9,
+       10,
+       12,
+       13
+      ],
+      "doc_0573": [
+       21,
+       22,
+       24
+      ]
+     }
+    },
+    {
+     "note": "mont_tremblant_quebec_ski_resort.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0572": [
+       16,
+       17,
+       18,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "sunshine_village_banff_ski_resort.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0572": [
+       23,
+       24,
+       25,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "fernie_alpine_ski_resort.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0572": [
+       30,
+       31,
+       32,
+       33,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "big_white_ski_resort_british_columbia.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0572": [
+       38,
+       39,
+       40,
+       41,
+       43,
+       44
+      ]
+     }
+    },
+    {
+     "note": "lake_louise_ski_resort_banff.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0572": [
+       46,
+       47,
+       48,
+       50,
+       51
+      ]
+     }
+    },
+    {
+     "note": "revelstoke_mountain_ski_resort.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0572": [
+       53,
+       54,
+       55,
+       57,
+       58
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "luxury_ski_resorts_worldwide",
+   "title": "Five-star luxury ski resorts around the world",
+   "notes": [
+    {
+     "note": "luxury_ski_holiday_overview.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0573": [
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "zermatt_switzerland_ski_resort.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0573": [
+       8,
+       9,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "megeve_france_ski_resort.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0573": [
+       15,
+       16,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "vail_colorado_ski_resort.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0573": [
+       26,
+       27,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "lech_austria_ski_resort.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0573": [
+       32,
+       33,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "olafsfjordur_iceland_heliskiing.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0573": [
+       38,
+       39,
+       41,
+       42
+      ]
+     }
+    },
+    {
+     "note": "niseko_japan_ski_resort.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0573": [
+       44,
+       45,
+       47
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "adam_grant_on_potential_and_careers",
+   "title": "Adam Grant on developing potential and choosing careers",
+   "notes": [
+    {
+     "note": "parents_imposing_outdated_career_models.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0147": [
+       1,
+       3
+      ]
+     }
+    },
+    {
+     "note": "soft_skills_premium_in_the_labour_market.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0147": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "potential_is_developed_not_innate.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0147": [
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "extrinsic_rewards_are_poor_proxies_for_mattering.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0147": [
+       6
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "december_streaming_guide",
+   "title": "December streaming guide across Australian platforms",
+   "notes": [
+    {
+     "note": "streaming_exclusivity_erosion_and_maestro.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0154": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "yellowjackets_rebel_moon_and_strife_december_releases.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0154": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "vigil_bump_and_ben_roberts_smith_documentary_releases.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0154": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "dr_death_reacher_and_prisoners_daughter_releases.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0154": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "snoopy_show_and_family_plan_apple_tv_releases.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0154": [
+       9
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "celebrity_fathers_raising_children_alone",
+   "title": "Celebrity fathers raising children on their own",
+   "notes": [
+    {
+     "note": "charlie_sheen_single_dad_to_twins.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0255": [
+       2,
+       3,
+       4,
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "john_travolta_parenting_after_kelly_preston_death.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0255": [
+       12,
+       13,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "liam_neeson_raising_sons_after_natasha_richardson_death.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0255": [
+       19,
+       20,
+       21,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "kevin_federline_custody_of_britney_spears_sons.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0255": [
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       35
+      ]
+     }
+    },
+    {
+     "note": "dean_cain_sole_custody_and_career_tradeoff.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0255": [
+       37,
+       38,
+       40,
+       41,
+       42,
+       44,
+       45
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "in_god_we_trust_national_motto",
+   "title": "'In God We Trust' and the state of American faith",
+   "notes": [
+    {
+     "note": "in_god_we_trust_motto_origins_and_founding_documents.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0501": [
+       2,
+       17,
+       18,
+       19,
+       20,
+       21,
+       22,
+       24,
+       25,
+       26,
+       28,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "in_god_we_trust_on_us_currency_and_courts.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0501": [
+       31,
+       32,
+       34,
+       35,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "decline_of_religious_faith_in_america.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0501": [
+       1,
+       7,
+       8,
+       11
+      ]
+     }
+    },
+    {
+     "note": "loss_of_faith_as_driver_of_social_decay.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0501": [
+       9,
+       14,
+       39
+      ]
+     }
+    },
+    {
+     "note": "pastor_jesse_bradley_on_abiding_with_god.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0501": [
+       3,
+       5,
+       6,
+       10,
+       12,
+       13,
+       15,
+       33,
+       40,
+       41,
+       43,
+       44
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "dubai_seasonal_travel_guide",
+   "title": "Dubai season by season: desert, heritage, beach and water parks",
+   "notes": [
+    {
+     "note": "dubai_winter_season_travel.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0513": [
+       1,
+       2,
+       11
+      ]
+     }
+    },
+    {
+     "note": "dubai_desert_adventure_activities.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0513": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "dubai_creek_al_fahidi_and_hatta_heritage.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0513": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "dubai_beach_clubs_and_food_festival.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0513": [
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "dubai_water_parks_and_night_sightseeing.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0513": [
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "british_airways_holidays_dubai_packages.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0513": [
+       3,
+       22,
+       23,
+       24
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "uk_northern_lights_viewing_sites",
+   "title": "Seeing the Northern Lights in the UK",
+   "notes": [
+    {
+     "note": "northern_lights_uk_visibility_and_aurora_mechanism.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0555": [
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "hebrides_aurora_viewing.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0555": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "shetland_isles_aurora_viewing.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0555": [
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "cairngorms_dark_sky_aurora_viewing.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0555": [
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "yorkshire_dales_dark_sky_aurora_viewing.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0555": [
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "northumberland_national_park_dark_skies.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0555": [
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "snowdonia_dark_sky_reserve_aurora_viewing.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0555": [
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "lake_district_aurora_viewing.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0555": [
+       31,
+       32
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0257": [
+   0,
+   9,
+   10,
+   21,
+   29,
+   35,
+   46,
+   52,
+   61,
+   66,
+   74,
+   81,
+   88,
+   94,
+   100,
+   107,
+   114,
+   121,
+   126
+  ],
+  "doc_0543": [
+   0,
+   1,
+   17,
+   30,
+   38
+  ],
+  "doc_0283": [
+   0,
+   2,
+   4,
+   6,
+   8,
+   10
+  ],
+  "doc_0523": [
+   0,
+   2,
+   4,
+   6,
+   8,
+   10
+  ],
+  "doc_0563": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   13,
+   18,
+   24,
+   29,
+   33,
+   37,
+   43,
+   48,
+   53,
+   61,
+   67,
+   73,
+   79,
+   85,
+   91,
+   98,
+   104,
+   112,
+   117,
+   125,
+   132,
+   138,
+   145,
+   151,
+   153
+  ],
+  "doc_0586": [
+   0,
+   20,
+   32,
+   41,
+   49
+  ],
+  "doc_0572": [
+   0,
+   1,
+   2,
+   7,
+   11,
+   14,
+   15,
+   19,
+   22,
+   26,
+   29,
+   34,
+   37,
+   42,
+   45,
+   49,
+   52,
+   56,
+   59
+  ],
+  "doc_0573": [
+   0,
+   1,
+   2,
+   7,
+   10,
+   11,
+   14,
+   17,
+   20,
+   23,
+   25,
+   28,
+   31,
+   34,
+   37,
+   40,
+   43,
+   46,
+   48
+  ],
+  "doc_0147": [
+   0
+  ],
+  "doc_0154": [
+   0,
+   2,
+   4,
+   6,
+   8,
+   10
+  ],
+  "doc_0255": [
+   0,
+   1,
+   5,
+   10,
+   11,
+   14,
+   18,
+   22,
+   26,
+   34,
+   36,
+   39,
+   43
+  ],
+  "doc_0501": [
+   0,
+   4,
+   16,
+   23,
+   27,
+   36,
+   42
+  ],
+  "doc_0513": [
+   0,
+   4,
+   12,
+   17,
+   25,
+   26
+  ],
+  "doc_0555": [
+   0,
+   1,
+   2,
+   7,
+   11,
+   15,
+   16,
+   20,
+   24,
+   27,
+   30,
+   33
+  ]
+ },
+ "genre_note": "119 notes across 14 entertainment/lifestyle documents, in 18 sub-plans of 4-11 notes. Verified programmatically before submitting: no (doc, block) pair is assigned twice, and every block index is either assigned to exactly one note or listed in dropped.\n\nBUILDING BLOCKS \u2014 what the genre actually contains, not what the enum offers. concept dominates (~78 notes) because more than half this cluster is catalogue journalism: 24 horror-film capsules, 15 ski resorts, 8 aurora sites, 6 Dubai sections, 16 Taylor Swift track entries \u2014 every item answers \"what is X?\". empirical_observation is next (~28): the Kenwright obituary chain, the celebrity-custody roundup, the CollegeHumor/IAC sale and layoffs, the December release slate, the motto-on-currency dates. argument appears 9 times (Adam Grant on outdated career models and on developed potential; Sam Reich on business models; Pastor Bradley; why Dropout dropped the CollegeHumor name; Swift's country-to-pop defence and her cutting-room-floor rule; Lucashenko on survival; the streaming-exclusivity thesis). model appears 4 times, only where a real mechanism is stated: the aurora's charged-particle chain, Adam Conover's \"digital jail\" with anthology series as the escape, the faith-loss-to-social-decay causal claim, and the explicit Shameless analogy between the founders' relationship and their audience relationship. counter_argument appears 3 times and only where a claim is genuinely rebutted: the Everton fans' group no-confidence set against the obituary's eulogy framing, and Grant's rebuttal of extrinsic rewards as proxies for mattering. hypothesis does not occur anywhere in these 14 documents \u2014 no testable prediction is advanced \u2014 so none was manufactured; that absence is the finding. No navigation notes were produced.\n\nSHARED ENTITIES. whistler_blackcomb_ski_resort.md is the one cross-document entity here and takes blocks from both doc_0572 (Canada roundup: acreage, village, Westin package) and doc_0573 (luxury roundup: North America's largest resort, Fairmont Chateau Whistler). Two near-duplicate Whistler notes would have split that evidence. Within doc_0257, image-caption blocks were pulled out of the track sections they sit in and given to the album-level notes they actually describe (three Grammys, label's risk assessment, tour receipts of 2.2m tickets/$250m, deluxe-edition Polaroids, re-recording artwork), and blocks 12-16 were separated from Welcome To New York into a dedicated note on the country-to-pop pivot, because the label's plea for three country-leaning songs is a distinct claim from the song itself.\n\nSEGMENTATION LIMITS worth carrying into execution. doc_0154, doc_0283 and doc_0523 arrive as 200-570-word monolithic blocks that straddle topic boundaries. doc_0154's blocks each cross two or three unrelated shows and a platform boundary, so per-item notes are impossible at this segmentation; the five notes are named for the shows they actually carry rather than pretending to be atomic. In doc_0283, block 5 carries both the Aboriginal-identity argument and the core Dundalli execution facts, while block 7 carries the Dundalli interpretation and the start of the family history; the split chosen keeps a Dundalli-named note and a coherent biography, at the cost of Dundalli evidence sitting in two notes.\n\nCOVERAGE (words assigned / total): doc_0283 99.4%, doc_0154 99.4%, doc_0586 98.9%, doc_0147 98.6%, doc_0523 98.5%, doc_0257 97.4%, doc_0543 96.7%, doc_0563 95.4%, doc_0513 94.7%, doc_0572 93.3%, doc_0555 90.5%. Three land below 90% and the cause is chrome density, reported rather than padded: doc_0501 89.9% (seven interstitial all-caps cross-promo headlines plus app/newsletter CTAs), doc_0255 88.1% (a 63-word Fox subscription wall, six all-caps \"read more\" links, a 21-word section transition), doc_0573 87.7% (an 83-word Simon Calder newsletter signup, seven \"How to ski in X\" section headers, two read-more lines). doc_0513 is a British Airways advertorial; rather than drop its sponsor content I kept the concrete offer terms (low deposit, 23kg baggage, 24/7 helpline) as one package note and dropped only the closing CTA and T&Cs.\n\nDROPS WERE INSPECTED, not pattern-matched. doc_0501's pull-quote blocks were assigned even though they duplicate body text; doc_0255's 12-word \"Mueller's rep declined to comment\" was assigned because a refusal to comment is a scope condition on Sheen's claim about the twins' mother; doc_0543's board-exit and threatening-correspondence blocks were kept and typed as counter_argument because they contradict the obituary's own framing; doc_0563 block 3 (list methodology, \"our latest update added Encounters of the Spooky Kind\") was dropped only after confirming that film has a full note of its own. Everything dropped is a title carried in an H1, a film/resort/person section header, an \"Advertisement\" spacer, a newsletter signup or app CTA, a \"read more\" cross-link, or a contentless interview reaction (\"Mulligan: Yeah.\", \"Hell yeah\", \"Aw, thanks, man\")."
+}

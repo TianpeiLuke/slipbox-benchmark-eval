@@ -1,0 +1,2841 @@
+{
+ "cluster": "c32",
+ "subplans": [
+  {
+   "slug": "openai_leadership_crisis_november_2023",
+   "title": "The OpenAI Leadership Crisis of November 2023",
+   "notes": [
+    {
+     "note": "sam_altman_fired_as_openai_ceo_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0516": [
+       1,
+       2,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       14
+      ],
+      "doc_0415": [
+       1,
+       55,
+       58,
+       59,
+       60
+      ],
+      "doc_0048": [
+       54,
+       55,
+       56
+      ]
+     }
+    },
+    {
+     "note": "greg_brockman_departure_from_openai.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0415": [
+       56,
+       57,
+       66,
+       67,
+       68,
+       69,
+       70,
+       72,
+       73,
+       74,
+       75,
+       76,
+       77
+      ]
+     }
+    },
+    {
+     "note": "openai_board_negotiations_over_altman_reinstatement.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0415": [
+       15,
+       16,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       41,
+       50,
+       51,
+       52,
+       53
+      ],
+      "doc_0048": [
+       52,
+       53
+      ]
+     }
+    },
+    {
+     "note": "openai_denial_of_malfeasance_in_altman_ouster.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0415": [
+       42,
+       43,
+       44
+      ]
+     }
+    },
+    {
+     "note": "openai_board_composition_and_helen_toner_dispute.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0415": [
+       17,
+       18
+      ],
+      "doc_0516": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "sam_altman_reinstated_as_openai_ceo_with_new_board.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0415": [
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14
+      ],
+      "doc_0048": [
+       45,
+       46
+      ]
+     }
+    },
+    {
+     "note": "sam_altman_next_move_after_openai_firing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0415": [
+       20,
+       21,
+       22,
+       28,
+       29,
+       47,
+       48,
+       49
+      ],
+      "doc_0048": [
+       49,
+       50,
+       51
+      ]
+     }
+    },
+    {
+     "note": "openai_employee_revolt_and_sutskever_reversal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0415": [
+       23,
+       24,
+       25,
+       26,
+       27,
+       61,
+       62
+      ]
+     }
+    },
+    {
+     "note": "openai_board_merger_approach_to_anthropic.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0415": [
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "openai_share_sale_and_valuation_risk_after_firing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0415": [
+       45,
+       46
+      ],
+      "doc_0516": [
+       18
+      ]
+     }
+    },
+    {
+     "note": "openai_nonprofit_governance_and_capped_profit_structure.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0516": [
+       19,
+       20,
+       22
+      ]
+     }
+    },
+    {
+     "note": "microsoft_openai_partnership_and_response_to_firing.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0415": [
+       63,
+       64,
+       65
+      ],
+      "doc_0516": [
+       21,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "sam_altman_career_and_public_profile.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0516": [
+       12,
+       15,
+       16,
+       17
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "chatgpt_product_and_platform",
+   "title": "ChatGPT Product, Platform and Business Timeline",
+   "notes": [
+    {
+     "note": "chatgpt_overview_and_significance.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0048": [
+       2,
+       3,
+       4,
+       6
+      ]
+     }
+    },
+    {
+     "note": "openai_devday_2023_announcements.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       5,
+       27,
+       28,
+       65,
+       66,
+       69,
+       70,
+       79,
+       80
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_subscription_tiers_and_pricing.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0048": [
+       10,
+       11,
+       12,
+       59,
+       60,
+       110,
+       111,
+       172,
+       173,
+       174,
+       220,
+       221,
+       223,
+       224
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_mobile_app_launches_and_revenue.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       30,
+       31,
+       82,
+       83,
+       92,
+       93,
+       130,
+       131,
+       132,
+       133,
+       134,
+       152,
+       153,
+       154,
+       158,
+       159,
+       160,
+       161,
+       162,
+       163,
+       164,
+       165
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_adoption_milestones_and_usage_statistics.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       32,
+       33,
+       34,
+       35,
+       36,
+       71,
+       72,
+       112,
+       113
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_voice_and_speech_features.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       43,
+       44,
+       47,
+       48,
+       98,
+       99
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_web_browsing_and_plugins.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       86,
+       87,
+       95,
+       96,
+       97,
+       146,
+       147,
+       148,
+       208,
+       209
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_custom_instructions_and_file_analysis.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       84,
+       85,
+       124,
+       125,
+       135,
+       136,
+       137
+      ]
+     }
+    },
+    {
+     "note": "dalle_3_image_generation_in_chatgpt.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       88,
+       89,
+       102,
+       103
+      ]
+     }
+    },
+    {
+     "note": "openai_developer_platform_and_api_releases.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       67,
+       68,
+       73,
+       74,
+       114,
+       115,
+       116,
+       117,
+       118,
+       119,
+       120,
+       142,
+       143,
+       144,
+       214,
+       215
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_third_party_integrations_and_ecosystem.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       104,
+       105,
+       106,
+       149,
+       150,
+       151,
+       179,
+       180,
+       181,
+       185,
+       186,
+       193,
+       194,
+       195,
+       196,
+       197,
+       198,
+       199,
+       212,
+       213,
+       217,
+       218,
+       219,
+       226,
+       227
+      ]
+     }
+    },
+    {
+     "note": "gpt_model_releases_from_gpt35_to_gpt4.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       210,
+       211,
+       229,
+       230
+      ]
+     }
+    },
+    {
+     "note": "openai_corporate_deals_and_business_moves.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       13,
+       14,
+       75,
+       76,
+       121,
+       122,
+       123,
+       170,
+       171,
+       175,
+       176,
+       177,
+       178
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "chatgpt_governance_safety_and_reception",
+   "title": "ChatGPT Safety, Regulation and Public Reception",
+   "notes": [
+    {
+     "note": "independent_research_and_reviews_of_chatgpt_flaws.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       61,
+       62,
+       77,
+       78,
+       90,
+       91,
+       190,
+       191,
+       192
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_security_incidents_and_malicious_use.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       23,
+       24,
+       37,
+       38,
+       39,
+       40,
+       63,
+       64,
+       166,
+       167,
+       168
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_in_education_and_academic_integrity.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       15,
+       16,
+       57,
+       58,
+       108,
+       109
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_use_in_government_and_courts.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       21,
+       22,
+       25,
+       26,
+       41,
+       42,
+       156,
+       157
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_winter_break_laziness_hypothesis.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0048": [
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "regulatory_investigations_into_openai_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       100,
+       101,
+       126,
+       127,
+       128,
+       138,
+       139,
+       140,
+       141,
+       182,
+       183,
+       184,
+       187,
+       188,
+       189,
+       200,
+       201,
+       202
+      ]
+     }
+    },
+    {
+     "note": "open_letter_calling_for_six_month_ai_training_pause.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0048": [
+       204,
+       205,
+       206,
+       207
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "chatgpt_reference_faq",
+   "title": "ChatGPT Reference FAQ",
+   "notes": [
+    {
+     "note": "chatgpt_faq_basics_and_definitions.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0048": [
+       232,
+       233,
+       234,
+       235,
+       236,
+       237,
+       238,
+       239,
+       240,
+       241,
+       242,
+       243,
+       244,
+       245,
+       246,
+       250,
+       251,
+       252,
+       258,
+       259,
+       262,
+       263
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_faq_capabilities_and_limits.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0048": [
+       253,
+       254,
+       260,
+       261,
+       264,
+       265,
+       266,
+       267,
+       268,
+       269,
+       270,
+       271,
+       286,
+       287,
+       288,
+       289
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_legal_and_privacy_controversies.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0048": [
+       255,
+       256,
+       257,
+       276,
+       277,
+       278,
+       279,
+       280,
+       281,
+       282,
+       283,
+       284,
+       285,
+       290,
+       291,
+       292,
+       293,
+       294,
+       295,
+       296,
+       297
+      ]
+     }
+    },
+    {
+     "note": "chatgpt_competitors_and_alternatives.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0048": [
+       247,
+       248,
+       249,
+       272,
+       273,
+       274,
+       275
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tech_layoffs_2023",
+   "title": "The 2023 Tech Layoff Wave",
+   "notes": [
+    {
+     "note": "tech_layoffs_2023_overview_and_totals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0049": [
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "tech_layoffs_december_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0049": [
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55,
+       56,
+       57,
+       58,
+       59,
+       60,
+       61,
+       62,
+       63,
+       64
+      ]
+     }
+    },
+    {
+     "note": "tech_layoffs_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0049": [
+       66,
+       67,
+       68,
+       69,
+       70,
+       71,
+       72,
+       73,
+       74,
+       75,
+       76,
+       77,
+       78,
+       79,
+       80,
+       81,
+       82,
+       83,
+       84,
+       85,
+       86,
+       87,
+       88,
+       89,
+       90,
+       91,
+       92,
+       93,
+       94,
+       95,
+       96,
+       97,
+       98,
+       99,
+       100,
+       101,
+       102,
+       103,
+       104,
+       105,
+       106,
+       107,
+       108,
+       109,
+       110,
+       111,
+       112,
+       113,
+       114,
+       115,
+       116,
+       117,
+       118,
+       119,
+       120,
+       121,
+       122,
+       123,
+       124,
+       125,
+       126,
+       127,
+       128,
+       129,
+       130,
+       131,
+       132,
+       133,
+       134,
+       135,
+       136,
+       137,
+       138,
+       139,
+       140,
+       141,
+       142,
+       143,
+       144,
+       145,
+       146,
+       147,
+       148,
+       149
+      ]
+     }
+    },
+    {
+     "note": "tech_layoffs_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0049": [
+       151,
+       152,
+       153,
+       154,
+       155,
+       156,
+       157,
+       158,
+       159,
+       160,
+       161,
+       162,
+       163,
+       164,
+       165,
+       166,
+       167,
+       168,
+       169,
+       170,
+       171,
+       172,
+       173,
+       174,
+       175,
+       176,
+       177,
+       178,
+       179,
+       180,
+       181,
+       182,
+       183,
+       184,
+       185,
+       186,
+       187,
+       188,
+       189,
+       190,
+       191,
+       192,
+       193,
+       194,
+       195,
+       196,
+       197,
+       198,
+       199,
+       200,
+       201,
+       202,
+       203,
+       204,
+       205,
+       206
+      ]
+     }
+    },
+    {
+     "note": "tech_layoffs_september_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0049": [
+       208,
+       209,
+       210,
+       211,
+       212,
+       213,
+       214,
+       215,
+       216,
+       217,
+       218,
+       219,
+       220,
+       221,
+       222,
+       223,
+       224,
+       225
+      ]
+     }
+    },
+    {
+     "note": "tech_layoffs_august_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0049": [
+       227,
+       228,
+       229,
+       230,
+       231,
+       232,
+       233,
+       234,
+       235,
+       236,
+       237,
+       238,
+       239,
+       240,
+       241,
+       242,
+       243,
+       244,
+       245,
+       246,
+       247,
+       248,
+       249,
+       250
+      ]
+     }
+    },
+    {
+     "note": "tech_layoffs_july_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0049": [
+       252,
+       253,
+       254,
+       255,
+       256,
+       257,
+       258,
+       259,
+       260,
+       261,
+       262,
+       263
+      ]
+     }
+    },
+    {
+     "note": "tech_layoffs_june_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0049": [
+       265,
+       266,
+       267,
+       268,
+       269,
+       270,
+       271,
+       272,
+       273,
+       274,
+       275,
+       276,
+       277,
+       278,
+       279,
+       280,
+       281,
+       282
+      ]
+     }
+    },
+    {
+     "note": "tech_layoffs_may_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0049": [
+       284,
+       285,
+       286,
+       287,
+       288,
+       289,
+       290,
+       291,
+       292,
+       293,
+       294,
+       295,
+       296,
+       297,
+       298,
+       299,
+       300,
+       301,
+       302,
+       303,
+       304,
+       305,
+       306,
+       307,
+       308
+      ]
+     }
+    },
+    {
+     "note": "tech_layoffs_april_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0049": [
+       310,
+       311,
+       312,
+       313,
+       314,
+       315,
+       316,
+       317,
+       318,
+       319,
+       320,
+       321,
+       322,
+       323,
+       324,
+       325,
+       326,
+       327,
+       328
+      ]
+     }
+    },
+    {
+     "note": "tech_layoffs_march_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0049": [
+       330,
+       331,
+       332,
+       333,
+       334,
+       335,
+       336,
+       337,
+       338,
+       339,
+       340,
+       341,
+       342,
+       343,
+       344,
+       345,
+       346,
+       347,
+       348,
+       349,
+       350,
+       351,
+       352,
+       353,
+       354,
+       355,
+       356,
+       357,
+       358,
+       359,
+       360,
+       361,
+       362,
+       363,
+       364,
+       365,
+       366,
+       367,
+       368,
+       369,
+       370,
+       371,
+       372,
+       373,
+       374,
+       375,
+       376,
+       377,
+       378,
+       379,
+       380,
+       381
+      ]
+     }
+    },
+    {
+     "note": "tech_layoffs_february_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0049": [
+       383,
+       384,
+       385,
+       386,
+       387,
+       388,
+       389,
+       390,
+       391,
+       392,
+       393,
+       394,
+       395,
+       396,
+       397,
+       398,
+       399,
+       400,
+       401,
+       402,
+       403,
+       404,
+       405,
+       406,
+       407,
+       408,
+       409,
+       410,
+       411,
+       412,
+       413,
+       414,
+       415,
+       416,
+       417,
+       418,
+       419,
+       420,
+       421,
+       422
+      ]
+     }
+    },
+    {
+     "note": "tech_layoffs_january_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0049": [
+       424,
+       425,
+       426,
+       427,
+       428,
+       429,
+       430,
+       431,
+       432,
+       433,
+       434,
+       435,
+       436,
+       437,
+       438,
+       439,
+       440,
+       441,
+       442,
+       443,
+       444,
+       445,
+       446,
+       447,
+       448,
+       449,
+       450,
+       451,
+       452,
+       453,
+       454,
+       455,
+       456,
+       457,
+       458,
+       459,
+       460,
+       461,
+       462,
+       463,
+       464,
+       465,
+       466,
+       467,
+       468,
+       469,
+       470,
+       471,
+       472,
+       473,
+       474,
+       475,
+       476,
+       477,
+       478,
+       479,
+       480,
+       481
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "eu_ai_act_deal_and_prohibitions",
+   "title": "The EU AI Act Political Deal and Its Prohibitions",
+   "notes": [
+    {
+     "note": "eu_ai_act_political_agreement_december_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0564": [
+       1,
+       2,
+       3,
+       4
+      ],
+      "doc_0525": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "eu_lawmaker_reactions_to_the_ai_act_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0564": [
+       35,
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43
+      ]
+     }
+    },
+    {
+     "note": "eu_ai_act_prohibited_ai_practices.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0564": [
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "eu_ai_act_remote_biometric_identification_exceptions.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0564": [
+       13,
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "eu_ai_act_scope_exclusions_national_security_and_research.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0564": [
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "civil_society_criticism_of_eu_ai_act_biometrics_limits.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0564": [
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "eu_ai_act_high_risk_ai_system_obligations.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0564": [
+       23,
+       24,
+       30
+      ]
+     }
+    },
+    {
+     "note": "eu_ai_act_penalties_for_non_compliance.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0564": [
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "eu_ai_act_phased_entry_into_force_timeline.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0564": [
+       34,
+       45
+      ],
+      "doc_0525": [
+       19,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "france_and_mistral_opposition_to_gpai_rules.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0564": [
+       47,
+       48,
+       49,
+       50
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "eu_ai_act_general_purpose_ai_rules",
+   "title": "EU AI Act Rules for General Purpose AI",
+   "notes": [
+    {
+     "note": "eu_ai_act_two_tier_rules_for_general_purpose_ai.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0564": [
+       25,
+       26,
+       27,
+       29
+      ],
+      "doc_0525": [
+       4,
+       5,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "flops_threshold_for_systemic_risk_gpai_classification.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0525": [
+       6,
+       7,
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "general_purpose_ai_terminology_choice_in_eu_ai_act.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0525": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "eu_ai_act_watermarking_and_transparency_obligations.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0525": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "eu_ai_act_copyright_obligations_for_gpai_makers.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0525": [
+       15
+      ]
+     }
+    },
+    {
+     "note": "eu_ai_office_and_scientific_advisory_panel.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0525": [
+       16,
+       17,
+       18
+      ],
+      "doc_0564": [
+       46
+      ]
+     }
+    },
+    {
+     "note": "eu_ai_pact_voluntary_stopgap_for_gpai_makers.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0564": [
+       28
+      ],
+      "doc_0525": [
+       20
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "eu_disinformation_code_and_generative_ai",
+   "title": "The EU Disinformation Code and Generative AI Risks",
+   "notes": [
+    {
+     "note": "eu_code_of_practice_on_disinformation.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0248": [
+       8,
+       9,
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "eu_warning_on_deepfake_election_risks.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0248": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "google_generative_ai_disinformation_measures.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0248": [
+       15,
+       16,
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "microsoft_generative_ai_disinformation_measures.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0248": [
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "tiktok_synthetic_media_policy_and_disinformation_measures.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0248": [
+       30,
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "meta_generative_ai_disinformation_measures.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0248": [
+       36,
+       37,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "kremlin_propaganda_and_platform_countermeasures.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0248": [
+       41,
+       42,
+       43,
+       44,
+       45,
+       46
+      ]
+     }
+    },
+    {
+     "note": "eu_demands_on_fact_checking_and_researcher_data_access.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0248": [
+       47,
+       48
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "x_twitter_and_eu_platform_enforcement",
+   "title": "X (Twitter) Under EU Platform Enforcement",
+   "notes": [
+    {
+     "note": "x_platform_worst_disinformation_ratio_eu_finding.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0396": [
+       1,
+       2,
+       3,
+       4,
+       8
+      ],
+      "doc_0248": [
+       49,
+       51
+      ]
+     }
+    },
+    {
+     "note": "x_exit_from_eu_disinformation_code_under_musk.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0396": [
+       5,
+       6
+      ],
+      "doc_0248": [
+       50
+      ]
+     }
+    },
+    {
+     "note": "x_rebuttal_to_eu_disinformation_finding.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0396": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "musk_removal_of_trust_signals_and_community_notes.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0396": [
+       7,
+       17
+      ]
+     }
+    },
+    {
+     "note": "digital_services_act_obligations_for_very_large_online_platforms.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0396": [
+       10,
+       11,
+       13,
+       14
+      ],
+      "doc_0248": [
+       52
+      ]
+     }
+    },
+    {
+     "note": "x_revenue_decline_and_information_network_decay_argument.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0396": [
+       15,
+       16
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "meta_gdpr_consent_and_tracking_ads",
+   "title": "Meta's GDPR Fight Over Consentless Tracking Ads",
+   "notes": [
+    {
+     "note": "norway_ban_on_meta_consentless_tracking_ads.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0107": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "meta_legal_basis_chain_for_personalized_ads_under_gdpr.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0107": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "meta_response_to_norwegian_dpa_referral.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0107": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "analysis_of_meta_delay_tactics_on_consent_switch.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0107": [
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "macbook_pro_m3_max_review",
+   "title": "Apple 16-inch M3 Max MacBook Pro Review",
+   "notes": [
+    {
+     "note": "macbook_pro_16_inch_m3_max_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0526": [
+       1,
+       2,
+       3,
+       40,
+       41
+      ]
+     }
+    },
+    {
+     "note": "m3_macbook_pro_lineup_and_configurations.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0526": [
+       5,
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "macbook_pro_design_ports_and_space_black_finish.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0526": [
+       11,
+       12,
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "macbook_pro_display_camera_and_audio_systems.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0526": [
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "apple_m3_chip_architecture_and_gpu_features.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0526": [
+       23,
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "m3_max_gaming_performance_on_macos.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0526": [
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "apple_silicon_chip_naming_and_relative_performance.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0526": [
+       30,
+       31,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "m3_max_benchmark_results.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0526": [
+       34,
+       35,
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "m3_max_macbook_pro_battery_runtime_test.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0526": [
+       39
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "anti_prime_day_deals_roundup",
+   "title": "Anti-Prime Big Deal Day Deals Roundup",
+   "notes": [
+    {
+     "note": "anti_prime_big_deal_day_competing_sales.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0584": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "sony_headphone_and_earbud_deals_prime_day.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0584": [
+       5,
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "ipad_and_kindle_oasis_deals_prime_day.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0584": [
+       11,
+       12,
+       14
+      ]
+     }
+    },
+    {
+     "note": "echo_show_5_and_nest_hub_smart_display_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0584": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "inzone_h9_and_seagate_xbox_expansion_card_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0584": [
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "samsung_frame_tv_and_roku_streambar_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0584": [
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "samsung_galaxy_watch_4_prime_day_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0584": [
+       26
+      ]
+     }
+    },
+    {
+     "note": "ring_and_blink_security_camera_and_doorbell_deals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0584": [
+       29,
+       31,
+       32,
+       33,
+       34,
+       35
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "spill_post_twitter_social_app",
+   "title": "Spill and the Post-Twitter Social App Landscape",
+   "notes": [
+    {
+     "note": "spill_social_app_overview.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0488": [
+       1,
+       2,
+       4
+      ]
+     }
+    },
+    {
+     "note": "spill_seed_extension_funding_round.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0488": [
+       3,
+       9,
+       10,
+       20
+      ]
+     }
+    },
+    {
+     "note": "post_twitter_social_app_landscape.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0488": [
+       5,
+       7
+      ]
+     }
+    },
+    {
+     "note": "spill_community_quality_over_growth_argument.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0488": [
+       6,
+       8
+      ]
+     }
+    },
+    {
+     "note": "spill_tea_party_feature_and_celebrity_users.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0488": [
+       11,
+       12,
+       14
+      ]
+     }
+    },
+    {
+     "note": "spill_user_reception_and_in_person_community.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0488": [
+       13,
+       15
+      ]
+     }
+    },
+    {
+     "note": "spill_public_launch_and_creator_payment_plans.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0488": [
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "kick_streaming_platform_controversy",
+   "title": "The Kick Streaming Platform Safety Controversy",
+   "notes": [
+    {
+     "note": "kick_streamer_exodus_over_sex_worker_stream.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0405": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "ice_poseidon_sex_worker_prank_stream_incident.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0405": [
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "paul_denino_defense_of_the_kick_stream.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0405": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "kick_platform_model_and_controversy_history.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0405": [
+       8,
+       20
+      ]
+     }
+    },
+    {
+     "note": "kick_corporate_response_to_the_incident.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0405": [
+       9,
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "streamers_who_left_kick_after_the_incident.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0405": [
+       16,
+       17,
+       18,
+       19,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "streamers_who_cannot_afford_to_leave_kick.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0405": [
+       14,
+       15,
+       23
+      ]
+     }
+    },
+    {
+     "note": "twitch_revenue_split_and_partner_plus_program.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0405": [
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "mrsviolence_income_comparison_twitch_versus_kick.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0405": [
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "streamer_case_for_government_regulation_of_platforms.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0405": [
+       29,
+       30,
+       31,
+       32
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "softbank_cubic_telecom_deal",
+   "title": "SoftBank's Investment in Cubic Telecom",
+   "notes": [
+    {
+     "note": "softbank_corp_majority_stake_in_cubic_telecom.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0510": [
+       2,
+       3,
+       8,
+       9,
+       16
+      ]
+     }
+    },
+    {
+     "note": "cubic_telecom_connected_vehicle_platform.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0510": [
+       1,
+       4,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "connected_car_market_growth_forecasts.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0510": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "softbank_beyond_japan_strategy_via_cubic_partnership.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0510": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "future_of_vehicle_connectivity_provisioning_esim.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0510": [
+       15
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "meltwater_verdane_investment",
+   "title": "Verdane's Investment in Meltwater",
+   "notes": [
+    {
+     "note": "verdane_stake_in_meltwater_via_fountain_venture.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0580": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "european_tech_valuation_pressure_and_pe_dealmaking.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0580": [
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "meltwater_media_monitoring_business_evolution.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0580": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "generative_ai_as_competitive_threat_to_meltwater.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0580": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "lyseggen_netscape_moment_rebuttal_on_meltwater_ai.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0580": [
+       13,
+       14
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "palo_alto_security_acquisitions",
+   "title": "Palo Alto Networks' Israeli Security Acquisitions",
+   "notes": [
+    {
+     "note": "palo_alto_talks_to_acquire_talon_and_dig.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0372": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "cybersecurity_spending_resilience_and_breach_costs.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0372": [
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "cybersecurity_consolidation_wave_2023.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0372": [
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "enterprise_browser_and_cloud_data_security_categories.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0372": [
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "platform_versus_point_solution_pendulum_in_security.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0372": [
+       21,
+       22
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "beeper_mini_imessage_on_android",
+   "title": "Beeper Mini: iMessage on Android",
+   "notes": [
+    {
+     "note": "beeper_mini_encryption_and_audit_status.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0540": [
+       3,
+       4,
+       9
+      ]
+     }
+    },
+    {
+     "note": "beeper_push_notification_service_architecture.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0540": [
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "legal_exposure_of_reverse_engineering_imessage.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0540": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "beeper_mini_hands_on_test_results.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0540": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "beeper_open_source_transparency_effort.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0540": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "beeper_company_background_and_founders.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0540": [
+       15,
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "beeper_product_lineup_pricing_and_availability.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0540": [
+       20,
+       21,
+       25,
+       27
+      ]
+     }
+    },
+    {
+     "note": "beeper_funding_and_investors.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0540": [
+       22,
+       23,
+       24
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tesla_cybertruck",
+   "title": "The Tesla Cybertruck",
+   "notes": [
+    {
+     "note": "tesla_cybertruck_launch_and_first_deliveries.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0547": [
+       2,
+       3,
+       4,
+       5,
+       33
+      ]
+     }
+    },
+    {
+     "note": "cybertruck_variants_and_specifications.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0547": [
+       7,
+       8,
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "cybertruck_stainless_steel_design_and_aesthetic.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0547": [
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "cybertruck_availability_pricing_and_ev_tax_credit.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0547": [
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "cybertruck_resale_restrictions_walked_back.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0547": [
+       23
+      ]
+     }
+    },
+    {
+     "note": "cybertruck_bed_size_and_cargo_capacity.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0547": [
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "environmental_case_against_large_electric_pickups.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0547": [
+       29,
+       30,
+       31
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "daye_tampon_diagnostics",
+   "title": "Daye's Tampon-Based Diagnostics",
+   "notes": [
+    {
+     "note": "daye_sti_diagnostic_tampon_service.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0603": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "daye_vaginal_microbiome_screening_service.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0603": [
+       3,
+       4,
+       19
+      ]
+     }
+    },
+    {
+     "note": "tampons_as_diagnostic_sample_collection_devices.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0603": [
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "pcr_testing_in_daye_sti_screening.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0603": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "daye_planned_test_expansion_hpv_gbs_herpes.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0603": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "daye_sti_test_pricing_and_user_workflow.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0603": [
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "risk_of_missing_hiv_screening_with_at_home_tests.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0603": [
+       17,
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "thanksgiving_2023_online_shopping",
+   "title": "Thanksgiving 2023 Online Shopping Data",
+   "notes": [
+    {
+     "note": "thanksgiving_2023_online_sales_figures.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0450": [
+       1,
+       2,
+       3,
+       8
+      ]
+     }
+    },
+    {
+     "note": "cyber_week_2023_online_spend_forecasts.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0450": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "mobile_share_of_thanksgiving_2023_ecommerce.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0450": [
+       4,
+       5,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "holiday_discounting_as_driver_of_2023_online_spend.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0450": [
+       9,
+       10,
+       16
+      ]
+     }
+    },
+    {
+     "note": "buy_now_pay_later_usage_on_thanksgiving_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0450": [
+       17
+      ]
+     }
+    },
+    {
+     "note": "adobe_analytics_and_salesforce_measurement_methodology.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0450": [
+       11
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0415": [
+   0,
+   2,
+   3,
+   4,
+   5,
+   6,
+   19,
+   32,
+   40,
+   54,
+   71
+  ],
+  "doc_0516": [
+   0,
+   3,
+   4,
+   5
+  ],
+  "doc_0048": [
+   0,
+   1,
+   7,
+   8,
+   9,
+   29,
+   81,
+   94,
+   107,
+   129,
+   145,
+   155,
+   169,
+   203,
+   216,
+   222,
+   225,
+   228,
+   231
+  ],
+  "doc_0049": [
+   0,
+   1,
+   7,
+   8,
+   65,
+   150,
+   207,
+   226,
+   251,
+   264,
+   283,
+   309,
+   329,
+   382,
+   423,
+   482
+  ],
+  "doc_0525": [
+   0
+  ],
+  "doc_0564": [
+   0,
+   5,
+   22,
+   31,
+   44,
+   51
+  ],
+  "doc_0248": [
+   0,
+   14,
+   21,
+   29,
+   35,
+   40
+  ],
+  "doc_0396": [
+   0,
+   12,
+   18
+  ],
+  "doc_0107": [
+   0
+  ],
+  "doc_0526": [
+   0,
+   4,
+   10,
+   17,
+   22,
+   38
+  ],
+  "doc_0584": [
+   0,
+   1,
+   4,
+   10,
+   13,
+   15,
+   16,
+   19,
+   22,
+   25,
+   27,
+   28,
+   30,
+   36,
+   37,
+   38,
+   39
+  ],
+  "doc_0488": [
+   0
+  ],
+  "doc_0405": [
+   0,
+   1
+  ],
+  "doc_0510": [
+   0
+  ],
+  "doc_0580": [
+   0
+  ],
+  "doc_0372": [
+   0
+  ],
+  "doc_0540": [
+   0,
+   26
+  ],
+  "doc_0547": [
+   0,
+   1,
+   6,
+   13,
+   17,
+   22,
+   24,
+   28,
+   32
+  ],
+  "doc_0603": [
+   0
+  ],
+  "doc_0450": [
+   0,
+   12,
+   18
+  ]
+ },
+ "genre_note": "163 notes over 20 documents (39,375 words); 98.8% of words assigned corpus-wide, median note 205 source words, largest 1,006 (tech_layoffs_november_2023) \u2014 every note well inside the 1,800-word cap, so no split was forced by density alone.\n\nBB distribution: empirical_observation 90, concept 41, argument 13, model 9, counter_argument 8, hypothesis 1, procedure 1. This matches the genre expectation \u2014 tech news is overwhelmingly dated events plus entity descriptions. I did not manufacture the rare blocks. `hypothesis` occurs exactly once and it is genuine: doc_0048 blocks 17-20 state the \"winter break hypothesis\" \u2014 a falsifiable prediction that GPT-4 degrades in December because it \"learned\" to do less work over the holidays, with OpenAI confirming the behaviour but not the cause. `procedure` occurs once (doc_0603 14-16, Daye's ordered send-kit \u2192 self-swab \u2192 post-to-lab \u2192 digital-result \u2192 optional \u00a329 nurse consult workflow). `model` was reserved for real causal/relational mechanisms, not summaries: the 10^25 FLOPs threshold as the classification mechanism for systemic-risk GPAIs, Meta's forced legal-basis chain (contractual necessity rejected \u2192 legitimate interests quashed by CJEU \u2192 consent), Apple's chip-naming vs. thermal-envelope explanation for why an M2 Ultra beats an M3, Beeper's BPNs workaround for Android lacking native APNs, and tampon-vs-swab sample-collection surface area.\n\nThree roundup documents drove the shape of the plan. doc_0049 (2023 tech layoffs, 483 blocks, 200+ companies) is one document but hundreds of unrelated items; splitting by month gives 12 topically coherent notes (each = one month of the layoff wave) plus an overview, all 157-1,006 words. doc_0048 (ChatGPT explainer, 298 blocks) was decomposed thematically rather than by month, because a \"November 2023\" note would mix a DDoS outage, GPT-4 Turbo and a Pew poll; the 24 resulting notes split across three sub-plans (product/platform, safety & regulation, reference FAQ). doc_0584 (Verge deals) was split by product category.\n\nEntity sharing: eight notes draw blocks from more than one document. The Altman firing note pulls from doc_0516, doc_0415 and doc_0048; the reinstatement, negotiation and Altman's-next-move notes each merge doc_0415 with doc_0048; the EU AI Act two-tier GPAI rules, entry-into-force timeline, AI Office and political-agreement notes merge doc_0564 with doc_0525; the X disinformation and DSA notes merge doc_0396 with doc_0248. No (doc, block) pair is assigned twice \u2014 verified programmatically.\n\nCorrections were inspected rather than discarded, and two contradict their own headlines, so both are assigned: doc_0488 block 20 states Spill's seed extension is $2 million, not the $2.7M in the headline (assigned to spill_seed_extension_funding_round); doc_0540 block 27 corrects Beeper Mini's price to $1.99/mo, not $2.99 (assigned to beeper_product_lineup_pricing_and_availability). By contrast doc_0564 block 51 is a genuine no-op update notice listing additions already present in the body, and was dropped.\n\nCoverage is \u226594% on 19 of 20 documents. The one exception is doc_0584 at 88.4%: the Verge anti-Prime Day roundup is structurally promotional \u2014 11 \"The best X deals\" category headers, three of which (\"smart speaker\", \"Mesh router\", \"Miscellaneous\") have no content at all, plus a Verge Deals X-follow plug and a newsletter signup block with reCAPTCHA boilerplate. 178 of its 1,531 words are chrome with no retrievable claim. Everything with an actual price or product fact is assigned."
+}

@@ -1,0 +1,2835 @@
+{
+ "cluster": "c09",
+ "subplans": [
+  {
+   "slug": "baldurs_gate_3_class_selection_basics",
+   "title": "Baldur's Gate 3: choosing a class",
+   "notes": [
+    {
+     "note": "bg3_class_and_subclass_selection_overview.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       1,
+       2,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "bg3_no_single_best_class_argument.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0016": [
+       3,
+       4
+      ],
+      "doc_0017": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "bg3_ability_scores_shape_out_of_combat_skills.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0016": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "bg3_custom_character_vs_origin_character.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "bg3_fighter_class_and_subclasses.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       14,
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "bg3_ranger_class_and_subclasses.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       19,
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "bg3_barbarian_class_and_subclasses.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "bg3_rogue_class_and_subclasses.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       32,
+       33,
+       34,
+       35
+      ]
+     }
+    },
+    {
+     "note": "bg3_monk_class_and_subclasses.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       39,
+       40,
+       41,
+       42
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "baldurs_gate_3_caster_and_hybrid_classes",
+   "title": "Baldur's Gate 3: caster and hybrid classes",
+   "notes": [
+    {
+     "note": "bg3_druid_class_and_circles.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       28,
+       29,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "bg3_paladin_class_and_oaths.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "bg3_cleric_class_and_domains.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       47,
+       48,
+       49,
+       50
+      ]
+     }
+    },
+    {
+     "note": "bg3_bard_class_and_colleges.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       51,
+       52,
+       53,
+       54
+      ]
+     }
+    },
+    {
+     "note": "bg3_wizard_class_and_schools_of_magic.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       55,
+       56,
+       57,
+       58
+      ]
+     }
+    },
+    {
+     "note": "bg3_sorcerer_class_and_subclasses.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       59,
+       60,
+       61,
+       62
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "baldurs_gate_3_warlock_build",
+   "title": "Baldur's Gate 3: the Warlock class in depth",
+   "notes": [
+    {
+     "note": "bg3_warlock_class_overview.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       43,
+       44
+      ],
+      "doc_0017": [
+       1,
+       2,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "bg3_warlock_hit_points_and_proficiencies.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0017": [
+       8,
+       9,
+       10,
+       11,
+       12,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "bg3_warlock_cantrip_list.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0017": [
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "bg3_warlock_spell_list.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0017": [
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "bg3_warlock_subclasses_fiend_great_old_one_archfey.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0016": [
+       45,
+       46
+      ],
+      "doc_0017": [
+       19,
+       20,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "bg3_warlock_race_and_ability_score_build.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0017": [
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46
+      ]
+     }
+    },
+    {
+     "note": "bg3_warlock_recommended_feats.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0017": [
+       47,
+       48,
+       49,
+       50,
+       51,
+       52
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "baldurs_gate_3_shadow_curse_quest",
+   "title": "Baldur's Gate 3: lifting the Shadow Curse",
+   "notes": [
+    {
+     "note": "bg3_shadow_curse_and_art_cullagh_quest_overview.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0399": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "bg3_wake_art_cullagh_battered_lute.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0399": [
+       4,
+       5,
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "bg3_rescue_thaniel_portal_defense.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0399": [
+       10,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "bg3_reunite_oliver_and_thaniel.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0399": [
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "pc_gaming_controllers",
+   "title": "Controllers for PC gaming",
+   "notes": [
+    {
+     "note": "pc_game_controller_selection_criteria.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0236": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "microsoft_xbox_wireless_controller.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0236": [
+       4,
+       5,
+       6,
+       7,
+       8,
+       10
+      ]
+     }
+    },
+    {
+     "note": "xbox_elite_series_2_controller.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0236": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "8bitdo_usb_adapter_2.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0236": [
+       9,
+       22
+      ]
+     }
+    },
+    {
+     "note": "sony_dualsense_controller_features.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0236": [
+       13,
+       14,
+       18,
+       21
+      ]
+     }
+    },
+    {
+     "note": "dualsense_pc_setup_steaminput_and_ds4windows.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0236": [
+       15,
+       16,
+       17,
+       19
+      ]
+     }
+    },
+    {
+     "note": "sony_dualsense_edge_controller.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0236": [
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "nintendo_switch_pro_controller.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0236": [
+       25,
+       26,
+       28,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "switch_pro_controller_on_windows_pc.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0236": [
+       27,
+       29
+      ]
+     }
+    },
+    {
+     "note": "8bitdo_ultimate_2_4g_controller.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0236": [
+       32,
+       33,
+       34,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "8bitdo_ultimate_bluetooth_hall_effect_controller.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0236": [
+       37,
+       38
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "steam_deck_oled",
+   "title": "Steam Deck OLED",
+   "notes": [
+    {
+     "note": "steam_deck_oled_upgrade_summary.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0354": [
+       1,
+       2,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "steam_deck_oled_hdr_display.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0354": [
+       7,
+       8,
+       9,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "steam_deck_oled_hardware_refinements.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0354": [
+       15,
+       16,
+       17,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "steam_deck_oled_models_and_pricing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0354": [
+       21,
+       22,
+       23,
+       24,
+       25,
+       28
+      ]
+     }
+    },
+    {
+     "note": "should_you_upgrade_to_steam_deck_oled.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0354": [
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "steam_deck_oled_battery_life.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0354": [
+       10,
+       14
+      ],
+      "doc_0169": [
+       13,
+       22
+      ],
+      "doc_0524": [
+       5
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "portable_chargers_for_gaming_gear",
+   "title": "Portable chargers for gaming gear",
+   "notes": [
+    {
+     "note": "power_bank_capacity_and_port_basics.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0519": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "power_bank_for_phones_and_tablets.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0519": [
+       5,
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "power_bank_for_nintendo_switch.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0519": [
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "power_bank_for_steam_deck.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0519": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "power_bank_for_usb_c_laptops.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0519": [
+       17,
+       18,
+       19,
+       20,
+       21,
+       22
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "home_theater_hardware",
+   "title": "Home theater hardware and services",
+   "notes": [
+    {
+     "note": "home_theater_upgrade_rationale.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0454": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "lg_c3_oled_tv.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0454": [
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "lg_sound_bar_c_sc9.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0454": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "disney_bundle_trio_streaming_package.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0454": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "crunchyroll_anime_streaming_service.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0454": [
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "chromecast_with_google_tv_4k.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0454": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "vudu_digital_movie_storefront.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0454": [
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "panasonic_dp_ub420_4k_blu_ray_player.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0454": [
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "roku_streambar_pro.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0454": [
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "vizio_m512a_h6_dolby_atmos_soundbar.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0454": [
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "couchconsole_sofa_caddy.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0454": [
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "netgear_powerline_2000_adapter.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0454": [
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "govee_envisual_tv_backlight_kit.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0454": [
+       30,
+       31,
+       32
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "black_friday_2023_shopping_strategy",
+   "title": "Black Friday 2023 shopping strategy",
+   "notes": [
+    {
+     "note": "black_friday_2023_deal_timing_shift.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0574": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "retailer_memberships_for_early_deal_access.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0574": [
+       4,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "amazon_prime_free_games_and_dlc.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0574": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "holiday_price_matching_policies_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0574": [
+       11,
+       12,
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "holiday_return_policy_windows_into_january_2024.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0574": [
+       17,
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "deals_continue_after_black_friday.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0574": [
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "price_tracking_with_camelcamelcamel_and_honey.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0574": [
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "december_2023_game_and_entertainment_deals",
+   "title": "December 2023 game and entertainment deals",
+   "notes": [
+    {
+     "note": "polygon_weekend_deals_december_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0308": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "steam_game_awards_winners_sale_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0308": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "cocoon_best_indie_game_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0308": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "hi_fi_rush_audio_design_award_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0308": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "xbox_series_x_holiday_price_drop_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0308": [
+       7,
+       9
+      ]
+     }
+    },
+    {
+     "note": "8bitdo_arcade_stick_for_xbox_series_x.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0308": [
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "legend_of_vox_machina_soundtrack_vinyl.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0308": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "victrola_revolution_go_record_player.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0308": [
+       17
+      ]
+     }
+    },
+    {
+     "note": "lego_razor_crest_mandalorian_set.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0308": [
+       18
+      ]
+     }
+    },
+    {
+     "note": "criterion_collection_4k_blu_ray_sale.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0308": [
+       19,
+       20
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nintendo_switch_starter_games",
+   "title": "First games for a new Nintendo Switch",
+   "notes": [
+    {
+     "note": "nintendo_switch_starter_library_guide.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0292": [
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "classic_nintendo_switch_franchise_picks.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0292": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "the_legend_of_zelda_breath_of_the_wild.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0292": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "animal_crossing_new_horizons.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0292": [
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "super_mario_odyssey.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0292": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "indie_games_suit_the_switch_portability.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0292": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "hades_roguelite.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0292": [
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "stardew_valley.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0292": [
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "hollow_knight.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0292": [
+       20,
+       21
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "noirvember_essential_films",
+   "title": "Noirvember: the essential noirs",
+   "notes": [
+    {
+     "note": "noirvember_annual_noir_watching_challenge.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "noir_viewing_tiers_and_extra_recommendations.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       5,
+       18,
+       20,
+       30,
+       32,
+       59
+      ]
+     }
+    },
+    {
+     "note": "the_maltese_falcon_1941.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "sunset_boulevard_1950.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "double_indemnity_1944.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "m_1931_fritz_lang.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "notorious_1946_alfred_hitchcock.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "noir_deep_cuts",
+   "title": "Noir deep cuts",
+   "notes": [
+    {
+     "note": "detour_1945_edgar_g_ulmer.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "sudden_fear_1952.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       40,
+       41,
+       42,
+       43
+      ]
+     }
+    },
+    {
+     "note": "born_to_kill_1947.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       44,
+       45,
+       46,
+       47
+      ]
+     }
+    },
+    {
+     "note": "lured_1947_douglas_sirk.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       48,
+       49,
+       50,
+       51,
+       52
+      ]
+     }
+    },
+    {
+     "note": "murder_by_contract_1958.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       53,
+       54,
+       55,
+       56,
+       57,
+       58
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "neo_noir_films",
+   "title": "Neo-noir films",
+   "notes": [
+    {
+     "note": "neo_noir_genre_boundaries.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       61,
+       83
+      ]
+     }
+    },
+    {
+     "note": "the_last_seduction_1994.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       62,
+       63,
+       64,
+       65
+      ]
+     }
+    },
+    {
+     "note": "blood_simple_1984.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       66,
+       67,
+       68,
+       69
+      ]
+     }
+    },
+    {
+     "note": "brick_2005_rian_johnson.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       70,
+       71,
+       72,
+       73,
+       74
+      ]
+     }
+    },
+    {
+     "note": "bad_times_at_the_el_royale_2018.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       75,
+       76,
+       77,
+       78
+      ]
+     }
+    },
+    {
+     "note": "twilight_1998_robert_benton.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0327": [
+       79,
+       80,
+       81,
+       82
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "streaming_debuts_november_2023",
+   "title": "Streaming debuts, early November 2023",
+   "notes": [
+    {
+     "note": "polygon_weekend_streaming_roundup_november_3_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "spider_man_across_the_spider_verse_netflix_debut.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "jawan_shah_rukh_khan_action_thriller.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "insidious_the_red_door.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29
+      ],
+      "doc_0392": [
+       88
+      ]
+     }
+    },
+    {
+     "note": "sly_sylvester_stallone_documentary.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36
+      ],
+      "doc_0392": [
+       79,
+       80
+      ]
+     }
+    },
+    {
+     "note": "nyad_diana_nyad_biographical_drama.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43
+      ],
+      "doc_0392": [
+       75,
+       76
+      ]
+     }
+    },
+    {
+     "note": "wingwomen_melanie_laurent_action_film.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50
+      ],
+      "doc_0392": [
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "a_haunting_in_venice_poirot_mystery.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       52,
+       53,
+       54,
+       55,
+       56,
+       57,
+       58
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "video_on_demand_debuts_november_2023",
+   "title": "Hulu, Prime Video, Peacock and VOD debuts, November 2023",
+   "notes": [
+    {
+     "note": "quiz_lady_2023_comedy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       59,
+       60,
+       61,
+       62,
+       63,
+       64,
+       65
+      ]
+     }
+    },
+    {
+     "note": "freaks_vs_the_reich_italian_superhero_film.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       67,
+       68,
+       69,
+       70,
+       71,
+       72,
+       73
+      ]
+     }
+    },
+    {
+     "note": "my_big_fat_greek_wedding_3.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       75,
+       76,
+       77,
+       78,
+       79,
+       80,
+       81
+      ]
+     }
+    },
+    {
+     "note": "sympathy_for_the_devil_nicolas_cage_thriller.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       83,
+       84,
+       85,
+       86,
+       87,
+       88,
+       89
+      ]
+     }
+    },
+    {
+     "note": "paw_patrol_the_mighty_movie.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       91,
+       92,
+       93,
+       94,
+       95,
+       96,
+       97
+      ]
+     }
+    },
+    {
+     "note": "the_kill_room_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       98,
+       99,
+       100,
+       101,
+       102,
+       103,
+       104
+      ]
+     }
+    },
+    {
+     "note": "outlaw_johnny_black_michael_jai_white.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       105,
+       106,
+       107,
+       108,
+       109,
+       110,
+       111
+      ]
+     }
+    },
+    {
+     "note": "sound_of_freedom_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0382": [
+       112,
+       113,
+       114,
+       115,
+       116,
+       117,
+       118
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "netflix_november_2023_catalog",
+   "title": "Netflix's November 2023 catalog",
+   "notes": [
+    {
+     "note": "netflix_november_2023_slate_overview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0392": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "the_social_network_netflix_editors_pick.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0392": [
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "netflix_games_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0392": [
+       8,
+       9,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "netflix_originals_premiering_november_1_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0392": [
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "netflix_licensed_library_additions_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0392": [
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55,
+       72,
+       86,
+       87,
+       89,
+       91,
+       115,
+       117,
+       132,
+       135,
+       141,
+       142,
+       145,
+       166,
+       179,
+       222
+      ]
+     }
+    },
+    {
+     "note": "netflix_originals_premiering_november_2_and_3_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0392": [
+       57,
+       58,
+       59,
+       60,
+       61,
+       62,
+       63,
+       64,
+       65,
+       66,
+       68,
+       69,
+       70,
+       71,
+       73,
+       74,
+       77,
+       78,
+       81,
+       82,
+       83,
+       84
+      ]
+     }
+    },
+    {
+     "note": "netflix_originals_premiering_november_7_to_10_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0392": [
+       92,
+       93,
+       95,
+       96,
+       97,
+       98,
+       99,
+       100,
+       101,
+       102,
+       103,
+       104,
+       106,
+       107,
+       108,
+       109,
+       111,
+       112,
+       113,
+       114
+      ]
+     }
+    },
+    {
+     "note": "netflix_originals_premiering_november_14_to_16_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0392": [
+       119,
+       120,
+       121,
+       122,
+       123,
+       124,
+       125,
+       126,
+       127,
+       128,
+       130,
+       131,
+       133,
+       134,
+       137,
+       138,
+       139,
+       140,
+       143,
+       144
+      ]
+     }
+    },
+    {
+     "note": "netflix_originals_premiering_november_17_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0392": [
+       147,
+       148,
+       149,
+       150,
+       151,
+       152,
+       153,
+       154,
+       155,
+       156,
+       157,
+       158,
+       159,
+       160,
+       161,
+       162,
+       163,
+       164
+      ]
+     }
+    },
+    {
+     "note": "netflix_originals_premiering_november_21_to_24_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0392": [
+       168,
+       169,
+       171,
+       172,
+       173,
+       174,
+       175,
+       176,
+       177,
+       180,
+       181,
+       182,
+       183,
+       185,
+       186,
+       187,
+       188,
+       189,
+       190,
+       191,
+       192,
+       193,
+       194,
+       195,
+       196
+      ]
+     }
+    },
+    {
+     "note": "netflix_originals_premiering_november_27_to_30_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0392": [
+       198,
+       199,
+       201,
+       202,
+       203,
+       204,
+       205,
+       206,
+       207,
+       208,
+       210,
+       211,
+       212,
+       214,
+       215,
+       216,
+       217,
+       218,
+       219,
+       220,
+       221,
+       223,
+       224
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "vampire_authors_field_guide",
+   "title": "Which vampire authors were vampires?",
+   "notes": [
+    {
+     "note": "english_language_vampire_fiction_lineage.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0452": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "which_vampire_authors_were_vampires_premise.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0452": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "john_william_polidori_the_vampyre.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0452": [
+       5,
+       6,
+       7,
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "bram_stoker_dracula_vampire_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0452": [
+       11,
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "stephen_king_salems_lot_vampire_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0452": [
+       16,
+       17,
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "anne_rice_vampire_chronicles_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0452": [
+       22,
+       23,
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "laurell_k_hamilton_anita_blake_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0452": [
+       28,
+       29,
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "taika_waititi_what_we_do_in_the_shadows_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0452": [
+       33,
+       34,
+       35,
+       36,
+       37
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "surprise_vampires_in_media",
+   "title": "Surprise vampires in non-vampire stories",
+   "notes": [
+    {
+     "note": "surprise_vampire_trope.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0453": [
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "astarion_baldurs_gate_3_vampire_companion.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0453": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "matrix_reloaded_merovingian_henchmen_as_vampires.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0453": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "elder_scrolls_playable_vampirism.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0453": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "cassidy_preacher_vampire.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0453": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "morbius_in_spider_man_the_animated_series.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0453": [
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "miguel_ohara_spider_man_2099_vampire.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0453": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "marceline_the_vampire_queen_adventure_time.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0453": [
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "the_count_sesame_street.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0453": [
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "vamp_metal_gear_solid_2.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0453": [
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "the_anchorites_the_bone_clocks.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0453": [
+       25,
+       26
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "concert_films_and_pop_fandom",
+   "title": "Concert films and pop music fandom",
+   "notes": [
+    {
+     "note": "concert_ticket_access_barriers.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0462": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "bts_yet_to_come_concert_film.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0462": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "bts_busan_concert_in_person_conditions.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0462": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "concert_film_versus_live_concert_experience.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0462": [
+       5,
+       6,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "concert_films_flatten_fandom_hierarchy.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0462": [
+       11,
+       12
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "spider_man_and_thanksgiving",
+   "title": "Spider-Man and Thanksgiving",
+   "notes": [
+    {
+     "note": "marvel_relatable_superhero_formula.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0279": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "thanksgiving_as_communal_need_fulfillment.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0279": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "spider_man_embodies_ordinary_struggle.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0279": [
+       4,
+       11
+      ]
+     }
+    },
+    {
+     "note": "spider_man_2002_thanksgiving_dinner_scene.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0279": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "spectacular_spider_man_thanksgiving_finale.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0279": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "spider_man_macys_thanksgiving_parade_balloon.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0279": [
+       10
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "disney_centennial_nostalgia_critique",
+   "title": "Disney's centennial and its nostalgia problem",
+   "notes": [
+    {
+     "note": "disney_centennial_wish_nostalgia_thesis.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0434": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "disney_legacy_projects_are_financially_safe.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0434": [
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "disney_direct_to_video_sequel_era.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0434": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "disney_remake_and_franchise_oversaturation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0434": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "disney_innovation_as_its_real_legacy.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0434": [
+       11,
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "nostalgia_works_best_as_a_side_ingredient.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0434": [
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "disney_fans_conflicting_nostalgic_demands.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0434": [
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "disney_must_take_creative_risks_to_last.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0434": [
+       22,
+       23
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tabletop_rpgs_of_2023_narrative_and_larp",
+   "title": "Best tabletop RPGs of 2023: narrative games and LARPs",
+   "notes": [
+    {
+     "note": "tabletop_rpg_renaissance_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0591": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "city_of_winter_ttrpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "dead_after_dinner_ttrpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "desperation_ttrpg_jason_morningstar.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "orestes_choice_chamber_larp.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "dungeon_crawl_classics_rpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "dungeons_and_dragons_2023_play_experiences.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0591": [
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "eating_oranges_in_the_shower_larp.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tabletop_rpgs_of_2023_worlds_and_bestiaries",
+   "title": "Best tabletop RPGs of 2023: settings, bestiaries and solo games",
+   "notes": [
+    {
+     "note": "exquisite_biome_worldbuilding_ttrpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       30,
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "fetch_my_blade_solo_journaling_rpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       35,
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "home_haunted_house_ttrpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       39,
+       40,
+       41,
+       42,
+       43,
+       44
+      ]
+     }
+    },
+    {
+     "note": "the_luminant_age_pathfinder_setting.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       45,
+       46,
+       47,
+       48
+      ]
+     }
+    },
+    {
+     "note": "marvel_multiverse_role_playing_game.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       49,
+       50
+      ]
+     }
+    },
+    {
+     "note": "masks_of_the_masks_comic_book_ttrpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       51,
+       52
+      ]
+     }
+    },
+    {
+     "note": "the_monster_overhaul_bestiary.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       53,
+       54
+      ]
+     }
+    },
+    {
+     "note": "reach_of_the_roach_god_setting.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       55,
+       56
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tabletop_rpgs_of_2023_indie_standouts",
+   "title": "Best tabletop RPGs of 2023: indie standouts",
+   "notes": [
+    {
+     "note": "monsterhearts_ttrpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       57,
+       58,
+       59
+      ]
+     }
+    },
+    {
+     "note": "mork_borg_ttrpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       60,
+       61,
+       62,
+       63
+      ]
+     }
+    },
+    {
+     "note": "im_sorry_did_you_say_street_magic.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       64,
+       65,
+       66
+      ]
+     }
+    },
+    {
+     "note": "triangle_agency_ttrpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       67,
+       68,
+       69,
+       70,
+       71,
+       72
+      ]
+     }
+    },
+    {
+     "note": "twilight_2000_ttrpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       73,
+       74,
+       75,
+       76,
+       77
+      ]
+     }
+    },
+    {
+     "note": "project_ecco_solo_ttrpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       78,
+       79,
+       80,
+       81,
+       82
+      ]
+     }
+    },
+    {
+     "note": "the_quiet_year_map_drawing_game.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       83,
+       84,
+       85
+      ]
+     }
+    },
+    {
+     "note": "what_dust_remains_ttrpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       86,
+       87,
+       88
+      ]
+     }
+    },
+    {
+     "note": "the_wildsea_ttrpg.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0591": [
+       89,
+       90,
+       91,
+       92
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "warhammer_40k_rogue_trader",
+   "title": "Warhammer 40,000: Rogue Trader",
+   "notes": [
+    {
+     "note": "warhammer_40k_rogue_trader_premise.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0592": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "rogue_trader_crpg_structure_and_moral_paths.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0592": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "rogue_trader_koronus_expanse_campaign.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0592": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "rogue_trader_turn_based_squad_combat.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0592": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "rogue_trader_companion_cast.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0592": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "rogue_trader_40k_lore_fidelity.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0592": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "rogue_trader_pacing_and_voidship_combat_flaws.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0592": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "rogue_trader_verdict_and_release_details.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0592": [
+       14,
+       15
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0016": [
+   0,
+   63
+  ],
+  "doc_0017": [
+   0,
+   4,
+   53
+  ],
+  "doc_0236": [
+   0,
+   1,
+   20,
+   39
+  ],
+  "doc_0279": [
+   0
+  ],
+  "doc_0292": [
+   0,
+   1
+  ],
+  "doc_0308": [
+   0,
+   3,
+   8,
+   14,
+   15
+  ],
+  "doc_0327": [
+   0,
+   1,
+   4,
+   19,
+   31,
+   60
+  ],
+  "doc_0354": [
+   0,
+   3,
+   18
+  ],
+  "doc_0382": [
+   0,
+   1,
+   3,
+   4,
+   51,
+   66,
+   74,
+   82,
+   90
+  ],
+  "doc_0392": [
+   0,
+   7,
+   10,
+   19,
+   56,
+   67,
+   85,
+   90,
+   94,
+   105,
+   110,
+   116,
+   118,
+   129,
+   136,
+   146,
+   165,
+   167,
+   170,
+   178,
+   184,
+   197,
+   200,
+   209,
+   213
+  ],
+  "doc_0399": [
+   0,
+   3
+  ],
+  "doc_0434": [
+   0
+  ],
+  "doc_0452": [
+   0,
+   2
+  ],
+  "doc_0453": [
+   0,
+   1,
+   5
+  ],
+  "doc_0454": [
+   0,
+   1
+  ],
+  "doc_0462": [
+   0
+  ],
+  "doc_0519": [
+   0,
+   1,
+   2,
+   13,
+   16,
+   23
+  ],
+  "doc_0574": [
+   0
+  ],
+  "doc_0591": [
+   0
+  ],
+  "doc_0592": [
+   0
+  ]
+ },
+ "genre_note": "c09 is not news. All 20 documents are Polygon service/enthusiast journalism from Nov-Dec 2023: buying guides, listicle roundups, game walkthroughs, reviews, and opinion essays. That changes the building-block mix sharply from what the news default predicts.\n\nBB distribution across 204 notes: concept ~127 (products, films, games, classes, TTRPGs \u2014 \"what is X?\"), empirical_observation ~52 (dated streaming premieres, deal prices, award wins, hardware specs and launch dates), argument ~19 (the four opinion pieces plus recommendation verdicts), procedure ~7 (the BG3 Shadow Curse walkthrough, controller-on-PC setup, price tracking, power-bank sizing), counter_argument 2, model 2. hypothesis: ZERO. No document in this cluster makes a testable prediction \u2014 the closest is the concert-film essay's claim that filmed concerts are \"the future of pop fandom\", which is a normative argument about the present, not a falsifiable forecast. navigation: none produced, as instructed. Absence of hypothesis is a real finding about the genre, not a gap in the decomposition.\n\nWhere coherence fought size. Three documents are pure roundups where the \"one document, fifteen unrelated items\" trap is live, and they got item-level notes rather than merged summaries: doc_0382 (15 separate film releases with their own director/cast/runtime/review), doc_0454 (13 unrelated home-theater products), doc_0591 (22 distinct TTRPGs, each praised by a different named contributor). doc_0392 is the hard case \u2014 225 blocks of a Netflix catalog listing where individual entries are 25-word publisher blurbs. One note per title would produce ~100 notes each too thin to retrieve on, and merging the whole thing gives a note retrieved for everything. I split it on the document's own organizing axis, availability date, into seven contiguous-date notes plus separate notes for the Netflix Games entries, the licensed library back-catalog (bare title lines with no descriptions \u2014 a genuinely different kind of content from the originals), the month overview, and the Social Network editor's pick (an argument, not a listing).\n\nShared entity notes (the multi-hop payload). Four titles appear in both doc_0382 and doc_0392 and got ONE note each drawing blocks from both: insidious_the_red_door, sly_sylvester_stallone_documentary, nyad_diana_nyad_biographical_drama, wingwomen_melanie_laurent_action_film. Two Baldur's Gate 3 subjects are split across doc_0016 and doc_0017 and got one note each: bg3_warlock_class_overview and bg3_warlock_subclasses_fiend_great_old_one_archfey. The verbatim \"there's no single best class\" paragraph appears in both BG3 articles and is one note, bg3_no_single_best_class_argument. Inside doc_0236, the 8BitDo USB Adapter 2 is pitched three times in different product sections and is one note, not three.\n\nDeliberate splits that resisted entity-merging. doc_0382's Across the Spider-Verse note (a dated Netflix debut, empirical_observation) and doc_0453's Miguel O'Hara note (a character's vampirism, concept) concern the same film but answer different questions under different building blocks, so rule 2 forces them apart. Same reasoning for Baldur's Gate 3, which appears in five documents: the class guide, the Warlock guide, the quest walkthrough, Astarion-as-surprise-vampire, and as a comparison point in the Rogue Trader review \u2014 each is a different subject, not a duplicate of one \"BG3\" entity.\n\nDropped and inspected. 141 blocks dropped, ~1,050 words: article H1s, \"New on Netflix\"/\"Available Nov. 14\" section headers, Polygon's What to Buy / What to Watch / What to Play / Polygon Recommends house promos, Vox Media affiliate disclosures, the vampire-week banner repeated in doc_0452 and doc_0453, \"Related:\" cross-links, and two price-check update stamps. I deliberately did NOT drop headers that carry a claim rather than a label: doc_0016's \"Best melee class for beginners: Fighter\", doc_0574's \"Most Black Friday return policies extend through January 2024\", doc_0452's \"Verdict: Vampire\" lines, and doc_0454's product names are all assigned, because each states something a reader would ask about. The two update notices (\"Checked prices and links for accuracy\") were read before dropping and add no scope condition. Coverage: every document lands 90.4% or above; the floor is doc_0519, where 91 of 952 words are affiliate boilerplate and house promo.\n\nVerified mechanically with scripts/verify_cluster_plan.py at --min-coverage 0.90: PASS on block ranges, no duplicate (doc, block), one BB per note, no note over the 1,800-word ceiling, all 26 sub-plans within 4-15 notes, all 204 filenames unique lowercase slugs. Quarantine held \u2014 only data/corpus/multihop_rag/*.txt and its index.json were read; MultiHopRAG.json and anything under data/raw/ were never opened."
+}

@@ -106,6 +106,38 @@ def main() -> None:
         print("  Read both before merging. A wrong merge destroys evidence; leaving a real "
               "duplicate splits it. Neither is automatic.")
 
+    # Global coverage: every block assigned anywhere counts, wherever its note now lives.
+    import re as _re
+    CH_W, CH_P = 12, _re.compile(
+        r"table of contents|sign up|subscribe|newsletter|why we like it|read more|"
+        r"check out our|unlock free|fire up our|join our free|more deals|expand tweet|"
+        r"deals\b|shop |view deal|contributed to this|this report was updated|"
+        r"follow along|in this edition|in this issue|this week we|we won.t delay|"
+        r"on the hunt for|look no further|our roster|our podcasts?\b", _re.I)
+    assigned = defaultdict(set)
+    for v in notes.values():
+        for d, ids in v["blocks"].items():
+            assigned[d] |= set(ids)
+    lowcov = []
+    for d in sorted(claimed):
+        bs = [b.strip() for b in (CORPUS / a.slug / f"{d}.txt").read_text().split("\n\n")
+              if b.strip()]
+        tot = sum(len(b.split()) for b in bs)
+        cov = sum(len(bs[i].split()) for i in assigned[d] if i < len(bs))
+        drop = [i for i in range(len(bs)) if i not in assigned[d]]
+        dw = sum(len(bs[i].split()) for i in drop)
+        ch = sum(len(bs[i].split()) for i in drop
+                 if i == 0 or len(bs[i].split()) <= CH_W or CH_P.search(bs[i]))
+        if tot and cov / tot < 0.80 and (ch / dw if dw else 1) < 0.75:
+            lowcov.append((d, cov / tot, ch / dw if dw else 1))
+    print(f"\ncoverage   {sum(len(v) for v in assigned.values())} blocks assigned across "
+          f"{len(assigned)} documents")
+    if lowcov:
+        issues += len(lowcov)
+        print(f"LOW-COVERAGE — below 80% with non-chrome losses ({len(lowcov)}):")
+        for d, p_, c_ in lowcov[:15]:
+            print(f"  {d}: {100*p_:.1f}% assigned, {100*c_:.0f}% of dropped words chrome")
+
     orphan = sorted(set(idx) - claimed)
     if orphan:
         print(f"\nORPHAN-DOC — claimed by no cluster ({len(orphan)}): {', '.join(orphan[:15])}")

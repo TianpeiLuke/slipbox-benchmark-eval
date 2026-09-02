@@ -1,0 +1,2030 @@
+{
+ "cluster": "c20",
+ "subplans": [
+  {
+   "slug": "manchester_united_ownership_and_recruitment",
+   "title": "Manchester United ownership change and the Ratcliffe recruitment plan",
+   "notes": [
+    {
+     "note": "manchester_united_takeover_bidding_process_2022_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0366": [
+       1,
+       2,
+       6,
+       9,
+       10,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "glazer_family_control_of_manchester_united.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0366": [
+       7,
+       8,
+       19,
+       22
+      ],
+      "doc_0166": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "jim_ratcliffe_twenty_five_percent_stake_agreement.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0366": [
+       4,
+       16,
+       20,
+       21,
+       23
+      ],
+      "doc_0166": [
+       1,
+       2,
+       6
+      ]
+     }
+    },
+    {
+     "note": "ineos_plan_for_manchester_united_football_operations.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0366": [
+       11,
+       26,
+       27,
+       28,
+       29,
+       30,
+       31
+      ],
+      "doc_0166": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "paul_mitchell_recruitment_career_record.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0166": [
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       17,
+       18,
+       19,
+       20,
+       22,
+       23,
+       32
+      ]
+     }
+    },
+    {
+     "note": "paul_mitchell_long_term_recruitment_philosophy.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0166": [
+       24,
+       25,
+       26,
+       27,
+       28,
+       29,
+       31
+      ]
+     }
+    },
+    {
+     "note": "paul_mitchell_blueprint_for_manchester_united_rebuild.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0166": [
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "manchester_united_champions_league_exit_2023",
+   "title": "Manchester United's 2023-24 Champions League group-stage exit",
+   "notes": [
+    {
+     "note": "manchester_united_bayern_munich_defeat_december_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0546": [
+       7,
+       12,
+       13,
+       16,
+       17,
+       18,
+       19,
+       20
+      ],
+      "doc_0219": [
+       4,
+       10
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_champions_league_group_stage_record_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0219": [
+       5,
+       6,
+       12,
+       14
+      ],
+      "doc_0546": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "erik_ten_hag_position_after_champions_league_exit.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0219": [
+       3,
+       8,
+       9
+      ],
+      "doc_0546": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_european_decline_since_ferguson.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0546": [
+       3,
+       4,
+       9,
+       11,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "andre_onana_goalkeeping_errors_2023_champions_league.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0012": [
+       17,
+       24,
+       25,
+       26,
+       27,
+       28
+      ],
+      "doc_0546": [
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_galatasaray_three_three_draw.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0012": [
+       1,
+       2,
+       4,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_game_management_criticism_fernandes_ten_hag.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0012": [
+       9,
+       10,
+       11,
+       13,
+       14,
+       15,
+       18,
+       19,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_defensive_imbalance_ferdinand_critique.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0012": [
+       8,
+       16,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "harry_kane_the_striker_manchester_united_did_not_sign.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0219": [
+       7
+      ],
+      "doc_0546": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "erik_ten_hag_selection_u_turns_varane_maguire.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0219": [
+       11,
+       13
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "manchester_united_domestic_form_and_pressing",
+   "title": "Manchester United's domestic form, pressing data and striker problem",
+   "notes": [
+    {
+     "note": "ten_hag_rebuttal_of_carragher_going_backwards_claim.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0571": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_pressing_statistics_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0571": [
+       14,
+       15,
+       16,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "ppda_passes_allowed_per_defensive_action.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0571": [
+       17
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_striker_scoring_problem_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0571": [
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "multisport_saturday_21_october_2023",
+   "title": "The 21 October 2023 sporting card: Premier League, rugby, cricket and UFC",
+   "notes": [
+    {
+     "note": "liverpool_everton_merseyside_derby_october_2023_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0300": [
+       2,
+       4,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "sheffield_united_versus_manchester_united_october_2023_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0300": [
+       33,
+       34,
+       35,
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "england_south_africa_rugby_world_cup_semi_final_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0300": [
+       41,
+       42,
+       43,
+       44
+      ]
+     }
+    },
+    {
+     "note": "england_cricket_world_cup_2023_qualification_crisis.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0300": [
+       45,
+       46,
+       47,
+       48,
+       49,
+       50
+      ]
+     }
+    },
+    {
+     "note": "ufc_294_makhachev_volkanovski_rematch.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0300": [
+       53,
+       54,
+       55,
+       56
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "chelsea_arsenal_derby_arteta_pochettino",
+   "title": "Chelsea v Arsenal and the Arteta-Pochettino bond",
+   "notes": [
+    {
+     "note": "arsenal_chelsea_london_derby_october_2023_form_guide.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0300": [
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "chelsea_arsenal_derby_team_news_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0300": [
+       30,
+       31
+      ],
+      "doc_0110": [
+       36,
+       37,
+       38,
+       39,
+       40,
+       41
+      ]
+     }
+    },
+    {
+     "note": "pochettino_mentorship_of_arteta_at_psg.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0110": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       8,
+       9,
+       10,
+       11,
+       18,
+       19,
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "pochettino_assessment_of_arteta_as_coach.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0110": [
+       12,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "arteta_pochettino_derby_day_competitive_edge.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0110": [
+       25,
+       26,
+       27,
+       28,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "havertz_jorginho_return_to_stamford_bridge.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0110": [
+       32,
+       33,
+       34
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "newcastle_united_2023_24_season",
+   "title": "Newcastle United's 2023-24 European campaign and domestic form",
+   "notes": [
+    {
+     "note": "newcastle_versus_crystal_palace_october_2023_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0300": [
+       17,
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "newcastle_ac_milan_champions_league_defeat_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0425": [
+       6,
+       7,
+       8,
+       12,
+       14
+      ]
+     }
+    },
+    {
+     "note": "newcastle_group_of_death_elimination_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0425": [
+       3,
+       4,
+       16
+      ]
+     }
+    },
+    {
+     "note": "joelinton_newcastle_midfield_reinvention.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0425": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "newcastle_squad_depth_deficit_in_europe.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0425": [
+       5,
+       11,
+       15
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "shohei_ohtani_dodgers_contract",
+   "title": "Shohei Ohtani's $700 million move to the Dodgers",
+   "notes": [
+    {
+     "note": "shohei_ohtani_seven_hundred_million_dodgers_contract.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0531": [
+       1,
+       3,
+       4,
+       10
+      ]
+     }
+    },
+    {
+     "note": "mlb_luxury_tax_deferrals_and_average_annual_value.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0531": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "shohei_ohtani_elbow_surgery_and_2024_pitching_absence.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0531": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "shohei_ohtani_two_way_production_and_babe_ruth_comparison.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0531": [
+       6,
+       13,
+       15,
+       17
+      ]
+     }
+    },
+    {
+     "note": "shohei_ohtani_postseason_ambition_with_dodgers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0531": [
+       5,
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "mlb_postseason_home_field_environments",
+   "title": "Ranking the 2023 MLB playoff teams' home-field environments",
+   "notes": [
+    {
+     "note": "mlb_home_field_advantage_varies_by_ballpark.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0008": [
+       2,
+       4,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "chase_field_arizona_diamondbacks_postseason_atmosphere.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0008": [
+       8,
+       9,
+       10,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "globe_life_field_texas_rangers_postseason_atmosphere.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0008": [
+       14,
+       15,
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "target_field_minnesota_twins_postseason_atmosphere.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0008": [
+       20,
+       21,
+       23,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "minute_maid_park_houston_astros_postseason_atmosphere.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0008": [
+       27,
+       28,
+       29,
+       31
+      ]
+     }
+    },
+    {
+     "note": "truist_park_atlanta_braves_postseason_atmosphere.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0008": [
+       32,
+       33,
+       34,
+       36,
+       37,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "camden_yards_baltimore_orioles_postseason_atmosphere.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0008": [
+       40,
+       41,
+       42,
+       43,
+       45,
+       46,
+       47
+      ]
+     }
+    },
+    {
+     "note": "dodger_stadium_los_angeles_dodgers_postseason_atmosphere.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0008": [
+       48,
+       49,
+       50,
+       52,
+       53,
+       54
+      ]
+     }
+    },
+    {
+     "note": "citizens_bank_park_philadelphia_phillies_postseason_atmosphere.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0008": [
+       55,
+       56,
+       57,
+       59,
+       60
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nfl_super_bowl_contenders_week_six_2023",
+   "title": "NFL executives on the ten Super Bowl contenders, Week 6 of 2023",
+   "notes": [
+    {
+     "note": "nfl_super_bowl_contenders_week_six_2023_landscape.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0316": [
+       2,
+       4,
+       5,
+       14
+      ]
+     }
+    },
+    {
+     "note": "san_francisco_49ers_brock_purdy_evaluation_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0316": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "kansas_city_chiefs_declining_explosive_passing_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0316": [
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "philadelphia_eagles_explosive_pass_play_decline_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0316": [
+       25,
+       27
+      ]
+     }
+    },
+    {
+     "note": "buffalo_bills_defensive_injuries_2023_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0316": [
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "miami_dolphins_tua_tagovailoa_durability_question.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0316": [
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "dallas_cowboys_2023_contender_credentials.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0316": [
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "detroit_lions_defensive_improvement_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0316": [
+       40,
+       41
+      ]
+     }
+    },
+    {
+     "note": "baltimore_ravens_pass_oriented_offense_shift.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0316": [
+       43,
+       45
+      ]
+     }
+    },
+    {
+     "note": "jacksonville_jaguars_contender_readiness_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0316": [
+       47,
+       48
+      ]
+     }
+    },
+    {
+     "note": "cincinnati_bengals_joe_burrow_durability_and_line.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0316": [
+       50,
+       51
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nfl_strategy_and_roster_building_themes_2023",
+   "title": "NFL strategy, game management and roster-building themes, October 2023",
+   "notes": [
+    {
+     "note": "nfl_aggressiveness_versus_traditional_game_management.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0316": [
+       53,
+       54,
+       55,
+       56,
+       57,
+       58,
+       59,
+       60,
+       62,
+       63,
+       64
+      ]
+     }
+    },
+    {
+     "note": "rookie_kickers_in_the_nfl_postseason.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0316": [
+       65,
+       66,
+       67,
+       68,
+       69,
+       70,
+       72
+      ]
+     }
+    },
+    {
+     "note": "denver_broncos_payton_wilson_clock_management_friction.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0316": [
+       73,
+       74,
+       75,
+       76,
+       77,
+       78,
+       79,
+       80,
+       82
+      ]
+     }
+    },
+    {
+     "note": "winning_too_soon_and_coaching_regime_expectations.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0316": [
+       83,
+       84,
+       85,
+       86,
+       87,
+       88,
+       89,
+       91
+      ]
+     }
+    },
+    {
+     "note": "miami_dolphins_record_comeback_as_heavy_favorite.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0316": [
+       92,
+       93
+      ]
+     }
+    },
+    {
+     "note": "tyreek_hill_receiving_yards_pace_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0316": [
+       94,
+       95
+      ]
+     }
+    },
+    {
+     "note": "jared_goff_and_hendon_hooker_trade_value.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0316": [
+       96,
+       97
+      ]
+     }
+    },
+    {
+     "note": "anthony_richardson_season_ending_shoulder_surgery.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0316": [
+       98
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "jordan_poyer_ayahuasca_feature",
+   "title": "Jordan Poyer: alcoholism, ayahuasca and a rebuilt life",
+   "notes": [
+    {
+     "note": "jordan_poyer_versatile_safety_role_buffalo_bills.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0322": [
+       1,
+       2,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "jordan_poyer_alcoholism_and_sobriety.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0322": [
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "jordan_poyer_marriage_to_rachel_bush.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0322": [
+       17,
+       19,
+       80,
+       82,
+       83,
+       86
+      ]
+     }
+    },
+    {
+     "note": "jordan_poyer_search_for_purpose_and_improbable_career.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0322": [
+       29,
+       30,
+       31,
+       32,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       40
+      ]
+     }
+    },
+    {
+     "note": "ayahuasca_psychedelic_brew.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0322": [
+       42,
+       43
+      ]
+     }
+    },
+    {
+     "note": "jordan_poyer_resonance_costa_rica_ayahuasca_retreat.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0322": [
+       44,
+       45,
+       46,
+       48,
+       49,
+       50,
+       51,
+       52
+      ]
+     }
+    },
+    {
+     "note": "jordan_poyer_ayahuasca_ceremony_experience.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0322": [
+       53,
+       54,
+       55,
+       56,
+       57,
+       59,
+       60,
+       61,
+       62
+      ]
+     }
+    },
+    {
+     "note": "jordan_poyer_football_performance_after_ayahuasca.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0322": [
+       63,
+       64,
+       65,
+       66,
+       67,
+       68
+      ]
+     }
+    },
+    {
+     "note": "jordan_poyer_ego_and_perspective_shift.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0322": [
+       69,
+       70,
+       72,
+       73,
+       75,
+       76
+      ]
+     }
+    },
+    {
+     "note": "jordan_poyer_reconciliation_with_biological_father.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0322": [
+       77,
+       78,
+       79
+      ]
+     }
+    },
+    {
+     "note": "jordan_poyer_social_media_withdrawal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0322": [
+       84,
+       85
+      ]
+     }
+    },
+    {
+     "note": "jordan_poyer_contract_status_and_post_career_plans.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0322": [
+       87,
+       88,
+       89,
+       90,
+       92,
+       93
+      ]
+     }
+    },
+    {
+     "note": "jordan_poyer_handpan_and_sound_healing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0322": [
+       94,
+       95,
+       96,
+       97
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "college_football_playoff_2023_selection",
+   "title": "The 2023 College Football Playoff selection and the Florida State snub",
+   "notes": [
+    {
+     "note": "college_football_playoff_2023_final_four_field.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0155": [
+       4,
+       5,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "college_football_best_versus_most_deserving_debate.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0155": [
+       1,
+       2,
+       6
+      ]
+     }
+    },
+    {
+     "note": "florida_state_exclusion_and_jordan_travis_injury.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0155": [
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "cfp_committee_florida_state_different_team_justification.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0155": [
+       18,
+       19,
+       20,
+       22
+      ]
+     }
+    },
+    {
+     "note": "mike_norvell_reaction_to_florida_state_snub.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0155": [
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "alabama_texas_sec_selection_dilemma_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0155": [
+       14,
+       15,
+       16,
+       17,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "cfp_twelve_team_expansion_and_regular_season_sanctity.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0155": [
+       13,
+       29,
+       31,
+       32
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "aflw_2023_finals_race",
+   "title": "The 2023 AFLW finals race and final ladder",
+   "notes": [
+    {
+     "note": "aflw_2023_finals_qualification_and_week_one_fixture.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0209": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "st_kilda_2023_aflw_finals_near_miss.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0209": [
+       2
+      ],
+      "doc_0208": [
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "sydney_swans_first_aflw_finals_berth.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0209": [
+       3
+      ],
+      "doc_0208": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "brisbane_lions_2023_aflw_top_four_finish.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0209": [
+       4,
+       5,
+       6
+      ],
+      "doc_0208": [
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "geelong_cats_2023_aflw_finals_qualification.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0209": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "melbourne_narrm_2023_aflw_ladder_position.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0208": [
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "north_melbourne_2023_aflw_top_four_finish.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0209": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "western_bulldogs_2023_aflw_winless_season.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0209": [
+       13
+      ],
+      "doc_0208": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "gold_coast_suns_second_aflw_finals_appearance.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0209": [
+       14,
+       15
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "aflw_2023_matches_retirements_and_tribunal",
+   "title": "AFLW 2023: round matches, retirements and tribunal decisions",
+   "notes": [
+    {
+     "note": "aflw_2023_tackle_and_bump_suspension_debate.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0208": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "west_coast_eagles_upset_win_over_essendon_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0208": [
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "collingwood_geelong_wind_and_rain_contest_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0208": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "richmond_tigers_comeback_win_in_cairns_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0208": [
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "erin_phillips_aflw_retirement.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0209": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "richelle_cranston_kidney_disease_and_retirement.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0208": [
+       12
+      ],
+      "doc_0209": [
+       11
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "davis_cup_2023_final_qualification",
+   "title": "The 2023 Davis Cup: Sinner's double over Djokovic and Australia's final berth",
+   "notes": [
+    {
+     "note": "jannik_sinner_double_win_over_djokovic_davis_cup.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0451": [
+       1,
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "australia_davis_cup_semi_final_win_over_finland.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0451": [
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "alexei_popyrin_davis_cup_breakthrough.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0451": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "australia_italy_davis_cup_final_2023_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0451": [
+       4,
+       9
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "boxing_unorthodox_fight_endings",
+   "title": "Boxing's most unorthodox fight endings",
+   "notes": [
+    {
+     "note": "boxing_unorthodox_fight_endings_ranking_scope.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0228": [
+       1,
+       2,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "mayweather_ortiz_2011_knockout_after_headbutt.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0228": [
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "ricky_hatton_stephen_smith_2002_disqualification.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0228": [
+       13,
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "bernard_hopkins_robert_allen_1998_referee_fall.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0228": [
+       19,
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "efe_ajagba_curtis_harper_2018_walkout.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0228": [
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "riddick_bowe_elijah_tillery_1991_ring_brawl.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0228": [
+       30,
+       31,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "kermit_cintron_paul_williams_2004_ring_exit.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0228": [
+       35,
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "adolpho_washington_virgil_hill_1993_camera_stoppage.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0228": [
+       40,
+       41
+      ]
+     }
+    },
+    {
+     "note": "oliver_mccall_breakdown_against_lennox_lewis_1997.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0228": [
+       43,
+       44,
+       45,
+       46
+      ]
+     }
+    },
+    {
+     "note": "tony_wilson_steve_mccarthy_1989_shoe_intervention.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0228": [
+       49,
+       50,
+       51,
+       52,
+       53
+      ]
+     }
+    },
+    {
+     "note": "tyson_holyfield_1997_bite_fight.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0228": [
+       55,
+       56,
+       57,
+       58
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "wallabies_rugby_world_cup_2023",
+   "title": "The Wallabies' 2023 Rugby World Cup exit and Samu Kerevi",
+   "notes": [
+    {
+     "note": "wallabies_rugby_world_cup_2023_pool_c_elimination_scenario.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0168": [
+       3,
+       4,
+       5,
+       7,
+       8,
+       9,
+       14
+      ]
+     }
+    },
+    {
+     "note": "samu_kerevi_rugby_world_cup_2023_disappointment.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0168": [
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "samu_kerevi_defence_of_eddie_jones.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0168": [
+       25,
+       27,
+       28,
+       29,
+       31,
+       32,
+       33,
+       35
+      ]
+     }
+    },
+    {
+     "note": "samu_kerevi_message_on_state_of_australian_rugby.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0168": [
+       36,
+       37,
+       38,
+       39,
+       40
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "womens_nations_league_belgium_england",
+   "title": "Belgium 3-2 England in the 2023-24 UEFA Women's Nations League",
+   "notes": [
+    {
+     "note": "belgium_england_womens_nations_league_result_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0151": [
+       1,
+       2,
+       4,
+       23
+      ]
+     }
+    },
+    {
+     "note": "belgium_england_first_half_goals_and_incidents.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0151": [
+       3,
+       6,
+       7,
+       8,
+       12,
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "alex_greenwood_head_injury_versus_belgium.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0151": [
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "belgium_england_second_half_and_wullaert_penalty.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0151": [
+       17,
+       18,
+       19,
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "womens_nations_league_group_a1_qualification_scenarios.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0151": [
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "belgium_england_lineups_and_referee_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0151": [
+       28,
+       29,
+       30,
+       31,
+       32
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0155": [
+   0,
+   3,
+   12,
+   21,
+   30,
+   33
+  ],
+  "doc_0322": [
+   0,
+   3,
+   16,
+   18,
+   33,
+   41,
+   47,
+   58,
+   71,
+   74,
+   81,
+   91,
+   98,
+   99
+  ],
+  "doc_0531": [
+   0,
+   2,
+   7,
+   14,
+   16,
+   19,
+   20
+  ],
+  "doc_0166": [
+   0,
+   3,
+   4,
+   15,
+   16,
+   21,
+   30
+  ],
+  "doc_0300": [
+   0,
+   1,
+   3,
+   5,
+   6,
+   7,
+   16,
+   25,
+   32,
+   39,
+   40,
+   51,
+   52,
+   57
+  ],
+  "doc_0366": [
+   0,
+   3,
+   5,
+   15,
+   17,
+   18,
+   24,
+   25
+  ],
+  "doc_0219": [
+   0,
+   1,
+   2
+  ],
+  "doc_0425": [
+   0,
+   1,
+   2,
+   13
+  ],
+  "doc_0546": [
+   0,
+   1,
+   2,
+   8,
+   21
+  ],
+  "doc_0008": [
+   0,
+   1,
+   3,
+   11,
+   22,
+   24,
+   30,
+   35,
+   44,
+   51,
+   58,
+   61
+  ],
+  "doc_0316": [
+   0,
+   1,
+   3,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   15,
+   16,
+   19,
+   20,
+   24,
+   26,
+   28,
+   29,
+   32,
+   35,
+   36,
+   39,
+   42,
+   44,
+   46,
+   49,
+   52,
+   61,
+   71,
+   81,
+   90,
+   99,
+   100
+  ],
+  "doc_0012": [
+   0,
+   3,
+   12,
+   20,
+   29
+  ],
+  "doc_0228": [
+   0,
+   3,
+   6,
+   10,
+   11,
+   12,
+   18,
+   24,
+   29,
+   34,
+   38,
+   39,
+   42,
+   47,
+   48,
+   54
+  ],
+  "doc_0110": [
+   0,
+   7,
+   13,
+   17,
+   24,
+   31,
+   35,
+   42
+  ],
+  "doc_0571": [
+   0,
+   7,
+   12,
+   13,
+   21,
+   22
+  ],
+  "doc_0209": [
+   0
+  ],
+  "doc_0208": [
+   0
+  ],
+  "doc_0451": [
+   0
+  ],
+  "doc_0151": [
+   0,
+   5,
+   24,
+   27,
+   33
+  ],
+  "doc_0168": [
+   0,
+   1,
+   2,
+   6,
+   10,
+   11,
+   12,
+   13,
+   21,
+   26,
+   30,
+   34
+  ]
+ },
+ "genre_note": "140 notes over 20 sports documents (31,150 words). Building-block distribution matches the genre exactly as expected: empirical_observation dominates (~105 notes \u2014 match reports, dated results, statistics, quoted testimony), with concept used only where a document genuinely defines an entity or metric (PPDA, ayahuasca, the Glazer ownership structure, Paul Mitchell as an executive, the boxing listicle's stated inclusion criteria). argument (~22) is concentrated in the opinion columns \u2014 The Athletic's CFP snub essay, the NFL Pick Six exec Q&As, Mitchell's blueprint, Ferdinand on United's imbalance, the ballpark rankings' framing. counter_argument (5) is real and not manufactured: Ten Hag's point-by-point rebuttal of Carragher, the CFP chair's \"different team\" defence and the writer's rebuttal of it, the NFL exec's pushback against win-probability-driven aggressiveness, and Kerevi's defence of Eddie Jones against fan criticism. model appears once (MLB deferrals lowering average annual value and therefore luxury-tax payroll) \u2014 a genuine mechanism, not a restatement. hypothesis does NOT occur anywhere in this cluster: news reporting states outcomes and opinions but never frames a testable prediction as a hypothesis, so none were manufactured. No navigation notes were produced.\n\nCross-document entity sharing was heavily exercised. Nine notes draw blocks from two documents each: the Glazer family and the Ratcliffe stake (doc_0366 + doc_0166), the INEOS football-operations plan (doc_0366 + doc_0166), Onana's errors (doc_0012 + doc_0546), Harry Kane as the striker United passed on (doc_0219 + doc_0546), United's Bayern defeat, group record and Ten Hag's position (doc_0219 + doc_0546), the Chelsea-Arsenal team news (doc_0300 + doc_0110), and four AFLW club notes plus the Richelle Cranston note (doc_0208 + doc_0209). doc_0300 in particular was split into eight separate notes routed into three different sub-plans, because it is one talkSPORT document containing five unrelated fixture previews plus rugby, cricket and UFC items; merging it would have produced a note retrieved for everything and answering nothing. The same treatment was applied to doc_0316 (16 notes across two sub-plans), doc_0008 (nine ballpark notes), doc_0228 (ten separate fight endings) and doc_0322 (13 notes from one long feature).\n\nCoverage: 17 of 20 documents land at 89%+ words assigned, most above 93% and the two AFLW round-ups above 99%. Three fall lower and the cause is documented chrome, not compression: doc_0300 (84%) is a fixture roundup with eight section headers, duplicate title lines and a navigational \"here's what's on today\" preamble; doc_0546 (87%) and doc_0219 (89%) each carry an 86-word Independent newsletter sign-up block plus mustache-template error strings; doc_0168 (86%) carries three \"READ MORE\" link stubs, a Stan Sport broadcast promo, a podcast plug and four contentless training-session photo captions. Dropped blocks are titles (carried in each note's H1), section headers, \"Advertisement\" markers, bylines, newsletter and broadcast promotion, \"GO DEEPER\" link stubs, photo credits and captions that merely restate an adjacent sentence.\n\nCaptions were inspected rather than dropped wholesale, and several were assigned because they carry facts the body never states: doc_0366[11] (Ratcliffe also owns Lausanne, not just Nice), doc_0228[17] (dates the Hatton-Smith fight to 2002), doc_0228[23] (says the Hopkins-Allen rematch was in 2004, which contradicts the body's \"a year later\" \u2014 kept precisely because it is a scope condition on the body's claim), doc_0008[46] (the Orioles clinching the AL East and the No. 1 seed), doc_0008[17] (record Globe Life Field crowd), doc_0300[15] (names Sean Dyche as Everton's manager), doc_0300[24] (Tonali faced a possible ban, not just being sent home), doc_0300[44] (Owen Farrell), doc_0219[6] (United missing the Europa League place), and doc_0546[15] (Kane's assist). Two notes were kept deliberately small rather than merged upward: ppda_passes_allowed_per_defensive_action.md is a single 55-word metric definition that is reusable across any pressing discussion, and anthony_richardson_season_ending_shoulder_surgery.md is one 99-word two-minute-drill item that shares nothing with the items on either side of it."
+}

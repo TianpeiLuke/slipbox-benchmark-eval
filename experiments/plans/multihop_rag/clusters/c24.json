@@ -1,0 +1,2226 @@
+{
+ "cluster": "c24",
+ "subplans": [
+  {
+   "slug": "mlb_ohtani_and_yamamoto_free_agency",
+   "title": "MLB 2023-24 free agency: the Ohtani and Yamamoto sweepstakes",
+   "notes": [
+    {
+     "note": "mlb_2023_24_offseason_market_overview.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0422": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "ohtani_free_agency_market_expectations_and_timeline.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0426": [
+       1,
+       2,
+       3,
+       52,
+       53,
+       54,
+       55,
+       56,
+       57,
+       58,
+       59,
+       64
+      ]
+     }
+    },
+    {
+     "note": "shohei_ohtani_dodgers_ten_year_700_million_contract.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0426": [
+       8,
+       9,
+       10,
+       11
+      ],
+      "doc_0422": [
+       144,
+       145,
+       146,
+       147,
+       148,
+       149,
+       168,
+       169,
+       170,
+       171,
+       172,
+       173
+      ]
+     }
+    },
+    {
+     "note": "shohei_ohtani_contract_deferral_structure.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       150,
+       151,
+       152,
+       153,
+       154,
+       155
+      ]
+     }
+    },
+    {
+     "note": "shohei_ohtani_free_agency_suitors_and_finalists.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0426": [
+       4,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50,
+       51,
+       60,
+       61,
+       62,
+       63
+      ]
+     }
+    },
+    {
+     "note": "shohei_ohtani_toronto_reports_and_denials.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0426": [
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "blue_jays_roster_implications_of_ohtani_pursuit.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0426": [
+       65,
+       66,
+       67,
+       68,
+       69
+      ]
+     }
+    },
+    {
+     "note": "yoshinobu_yamamoto_dodgers_12_year_325_million_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "yoshinobu_yamamoto_free_agent_team_meetings.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       19,
+       20,
+       21,
+       22,
+       23,
+       64,
+       65,
+       66,
+       67,
+       73,
+       74,
+       75,
+       76,
+       77,
+       98,
+       99,
+       100,
+       101,
+       102,
+       108,
+       109,
+       110,
+       111,
+       112,
+       128,
+       129,
+       130,
+       131,
+       132,
+       138,
+       139,
+       140,
+       141,
+       142,
+       157,
+       158,
+       159,
+       160,
+       161
+      ]
+     }
+    },
+    {
+     "note": "yamamoto_bidding_process_and_giants_exit.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       15,
+       16,
+       17,
+       18,
+       51,
+       52,
+       53,
+       54
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "mlb_2023_offseason_signings_and_trades",
+   "title": "MLB 2023-24 offseason: other signings and trades",
+   "notes": [
+    {
+     "note": "tyler_glasnow_dodgers_trade_and_extension.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       83,
+       84,
+       85,
+       86,
+       87,
+       88,
+       89,
+       90,
+       91,
+       92,
+       113,
+       114,
+       115,
+       116,
+       117
+      ]
+     }
+    },
+    {
+     "note": "cody_bellinger_free_agent_market_and_suitors.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       34,
+       35,
+       36,
+       37,
+       38,
+       103,
+       104,
+       105,
+       106,
+       107
+      ]
+     }
+    },
+    {
+     "note": "angels_pursuit_of_blake_snell.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       29,
+       30,
+       31,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "yuki_matsui_padres_five_year_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       7,
+       8,
+       9,
+       10,
+       39,
+       40,
+       41,
+       42
+      ]
+     }
+    },
+    {
+     "note": "san_francisco_giants_2023_offseason_signings.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       43,
+       44,
+       45,
+       46,
+       123,
+       124,
+       125,
+       126,
+       127
+      ]
+     }
+    },
+    {
+     "note": "pittsburgh_pirates_2023_offseason_signings.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       24,
+       25,
+       26,
+       27,
+       28,
+       47,
+       48,
+       49,
+       50,
+       118,
+       119,
+       120,
+       121,
+       122
+      ]
+     }
+    },
+    {
+     "note": "kansas_city_royals_2023_offseason_signings.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       78,
+       79,
+       80,
+       81,
+       82,
+       133,
+       134,
+       135,
+       136,
+       137,
+       163,
+       164,
+       165,
+       166,
+       167
+      ]
+     }
+    },
+    {
+     "note": "red_sox_acquire_tyler_oneill_from_cardinals.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       175,
+       176,
+       177,
+       178,
+       179
+      ]
+     }
+    },
+    {
+     "note": "lourdes_gurriel_jr_diamondbacks_re_signing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       68,
+       69,
+       70,
+       71,
+       72
+      ]
+     }
+    },
+    {
+     "note": "jack_flaherty_tigers_one_year_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       93,
+       94,
+       95,
+       96,
+       97
+      ]
+     }
+    },
+    {
+     "note": "braves_release_matt_carpenter.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       55,
+       56,
+       57,
+       58
+      ]
+     }
+    },
+    {
+     "note": "twins_kepler_and_polanco_trade_market.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0422": [
+       59,
+       60,
+       61,
+       62,
+       63
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nfl_week_13_2023_results_roundup",
+   "title": "NFL Week 13 2023: game-by-game results",
+   "notes": [
+    {
+     "note": "san_francisco_49ers_42_19_philadelphia_eagles.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0150": [
+       1,
+       2,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "dre_greenlaw_dom_disandro_sideline_ejections.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0150": [
+       3,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "chargers_6_0_patriots_shutout_week_13.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0150": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "dolphins_45_15_commanders_week_13.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0150": [
+       11,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "lions_33_28_saints_week_13.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0150": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "packers_27_19_chiefs_week_13.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0150": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "texans_22_17_broncos_week_13.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0150": [
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "colts_31_28_titans_overtime_week_13.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0150": [
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "falcons_13_8_jets_week_13.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0150": [
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "rams_36_19_browns_week_13.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0150": [
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "cardinals_24_10_steelers_week_13.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0150": [
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "buccaneers_21_18_panthers_mike_evans_milestone.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0150": [
+       31,
+       32
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "patriots_broncos_christmas_eve_game",
+   "title": "Patriots 26-23 Broncos, Christmas Eve 2023",
+   "notes": [
+    {
+     "note": "patriots_26_23_broncos_christmas_eve_result.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0449": [
+       1,
+       2,
+       12
+      ]
+     }
+    },
+    {
+     "note": "patriots_broncos_playoff_and_draft_implications.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0449": [
+       3,
+       8
+      ]
+     }
+    },
+    {
+     "note": "russell_wilson_performance_vs_patriots_week_16.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0449": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "broncos_fourth_quarter_comeback_and_ryland_game_winner.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0449": [
+       15,
+       16,
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "patriots_third_quarter_scoring_surge_vs_broncos.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0449": [
+       21,
+       22,
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "patriots_broncos_first_half_play_by_play.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0449": [
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "patriots_broncos_pregame_inactives_and_lineups.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0449": [
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45
+      ]
+     }
+    },
+    {
+     "note": "patriots_broncos_start_time_and_broadcast_details.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0449": [
+       46,
+       47,
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55,
+       56,
+       57
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "baker_mayfield_lambeau_performance",
+   "title": "Baker Mayfield's Week 15 performance at Lambeau Field",
+   "notes": [
+    {
+     "note": "baker_mayfield_2023_buccaneers_renaissance.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0447": [
+       1,
+       2,
+       3,
+       8,
+       9,
+       10,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "baker_mayfield_week_15_stat_line_at_lambeau.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0447": [
+       4,
+       6,
+       7,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       26
+      ]
+     }
+    },
+    {
+     "note": "baker_mayfield_zone_coverage_and_four_level_passing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0447": [
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "baker_mayfield_perfect_passer_rating_road_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0447": [
+       25,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "bills_chargers_week_16_betting_preview",
+   "title": "Bills vs. Chargers Week 16: odds, props and prediction",
+   "notes": [
+    {
+     "note": "bills_chargers_week_16_matchup_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0376": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "buffalo_bills_afc_wild_card_position_week_16.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0376": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "chargers_fire_brandon_staley_and_tom_telesco.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0376": [
+       4,
+       15
+      ]
+     }
+    },
+    {
+     "note": "bills_against_the_spread_trends_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0376": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "james_cook_bills_rushing_workload_surge.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0376": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "chargers_betting_trends_with_easton_stick.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0376": [
+       14,
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "bills_chargers_week_16_player_props.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0376": [
+       20,
+       21,
+       22,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "bills_chargers_week_16_pick_and_rationale.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0376": [
+       26,
+       27,
+       28
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nfl_dfs_week_15_value_plays",
+   "title": "NFL DFS Week 15: sleepers and value plays by position",
+   "notes": [
+    {
+     "note": "dfs_sleeper_and_value_lineup_construction_method.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0544": [
+       1,
+       2,
+       3,
+       6,
+       7,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "week_14_dfs_sleeper_results_scorecard.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0544": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "nfl_dfs_week_15_quarterback_values.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0544": [
+       16,
+       17,
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "nfl_dfs_week_15_running_back_values.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0544": [
+       24,
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "nfl_dfs_week_15_wide_receiver_values.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0544": [
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "nfl_dfs_week_15_tight_end_values.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0544": [
+       42,
+       43,
+       44,
+       45
+      ]
+     }
+    },
+    {
+     "note": "nfl_dfs_week_15_defense_special_teams_values.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0544": [
+       46,
+       47,
+       48,
+       49
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "single_game_dfs_showdown_lineups",
+   "title": "Single-game DFS showdown lineups and contest formats",
+   "notes": [
+    {
+     "note": "superdraft_dfs_scoring_multiplier_format.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0386": [
+       20,
+       22
+      ],
+      "doc_0583": [
+       13,
+       14,
+       16
+      ],
+      "doc_0544": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "draftkings_showdown_and_fanduel_single_game_scoring_rules.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0386": [
+       2
+      ],
+      "doc_0583": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "eagles_seahawks_week_15_monday_night_context.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0386": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "dk_metcalf_and_geno_smith_seahawks_showdown_stack.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0386": [
+       3,
+       4,
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "devonta_smith_eagles_showdown_value.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0386": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "dandre_swift_eagles_run_game_showdown_pick.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0386": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "dallas_goedert_eagles_tight_end_showdown_pick.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0386": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "noah_fant_seahawks_showdown_punt_play.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0386": [
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "eagles_seahawks_superdraft_single_game_lineup.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0386": [
+       18,
+       19,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "patriots_steelers_week_14_thursday_night_context.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0583": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "ezekiel_elliott_patriots_lead_back_fanduel_mvp.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0583": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "najee_harris_steelers_ground_game_fanduel_pick.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0583": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "patriots_steelers_defense_and_kicker_low_scoring_plays.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0583": [
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "patriots_steelers_superdraft_single_game_lineup.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0583": [
+       12,
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "week_14_fantasy_quarterback_rankings",
+   "title": "Fantasy football Week 14: quarterback rankings and advice",
+   "notes": [
+    {
+     "note": "week_14_fantasy_quarterback_landscape.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0553": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "week_14_quarterback_byes_murray_and_howell.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0553": [
+       4,
+       5,
+       8
+      ]
+     }
+    },
+    {
+     "note": "week_14_top_fantasy_quarterback_starts.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0553": [
+       11,
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "week_14_fantasy_quarterback_streamers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0553": [
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "week_14_fantasy_quarterback_busts.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0553": [
+       22,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "week_14_quarterback_injury_report.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0553": [
+       28,
+       29,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "week_14_fantasy_quarterback_rankings_top_30.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0553": [
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55,
+       56,
+       57,
+       58,
+       59,
+       60,
+       61,
+       62,
+       63,
+       64,
+       65
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "week_14_fantasy_tight_end_rankings",
+   "title": "Fantasy football Week 14: tight end PPR rankings and advice",
+   "notes": [
+    {
+     "note": "week_14_fantasy_tight_end_landscape.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0552": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "week_14_tight_end_byes_thomas_and_mcbride.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0552": [
+       4,
+       5,
+       8
+      ]
+     }
+    },
+    {
+     "note": "week_14_top_fantasy_tight_end_starts.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0552": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "week_14_fantasy_tight_end_sleepers_and_streamers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0552": [
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "week_14_fantasy_tight_end_busts.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0552": [
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "week_14_tight_end_injury_report.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0552": [
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "week_14_tight_end_ppr_rankings_top_30.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0552": [
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55,
+       56,
+       57,
+       58,
+       59,
+       60,
+       61
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "college_football_bowl_season_and_playoff",
+   "title": "2023-24 college bowl season, CFP and bowl betting",
+   "notes": [
+    {
+     "note": "college_football_bowl_betting_market_types.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0433": [
+       1,
+       62,
+       63,
+       64,
+       65,
+       66,
+       67,
+       68
+      ]
+     }
+    },
+    {
+     "note": "2023_bowl_season_betting_trends.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0433": [
+       2,
+       3,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "december_2023_bowl_game_schedule_and_matchups.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0433": [
+       4,
+       5,
+       6,
+       8,
+       9,
+       11,
+       12,
+       14,
+       15,
+       17,
+       18,
+       20,
+       21,
+       23,
+       24,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "2023_bowl_season_completed_game_results.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0433": [
+       29,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50,
+       51,
+       52
+      ]
+     }
+    },
+    {
+     "note": "cfp_semifinal_rose_and_sugar_bowl_matchups.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0433": [
+       53,
+       54,
+       55,
+       57,
+       58
+      ]
+     }
+    },
+    {
+     "note": "how_to_open_a_sportsbook_account_and_place_bowl_bets.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0433": [
+       69,
+       70,
+       71,
+       72
+      ]
+     }
+    },
+    {
+     "note": "college_football_playoff_and_new_years_six_bowls.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0433": [
+       74,
+       75,
+       76,
+       77,
+       78,
+       79,
+       80,
+       81,
+       82,
+       83,
+       84,
+       85,
+       86,
+       87
+      ]
+     }
+    },
+    {
+     "note": "cfp_national_championship_game_format_and_schedule.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0433": [
+       60,
+       61,
+       88,
+       89,
+       90,
+       91,
+       92,
+       93,
+       94,
+       95
+      ]
+     }
+    },
+    {
+     "note": "cfp_national_championship_winners_2015_to_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0433": [
+       96,
+       97,
+       98,
+       99,
+       100,
+       101,
+       102,
+       103,
+       104,
+       105,
+       106
+      ]
+     }
+    },
+    {
+     "note": "college_bowl_season_faq_game_count_and_ny6.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0433": [
+       108,
+       109,
+       110,
+       111,
+       112,
+       113,
+       114,
+       115,
+       116,
+       117
+      ]
+     }
+    },
+    {
+     "note": "timing_a_futures_bet_on_the_national_championship.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0433": [
+       118,
+       119,
+       120,
+       121
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "west_indies_england_first_t20i",
+   "title": "West Indies v England, first T20I in Barbados",
+   "notes": [
+    {
+     "note": "first_t20i_barbados_match_summary.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0063": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "england_171_all_out_first_t20i.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0063": [
+       38,
+       42,
+       43,
+       44,
+       45
+      ]
+     }
+    },
+    {
+     "note": "andre_russell_comeback_first_t20i.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0063": [
+       3,
+       39,
+       40
+      ]
+     }
+    },
+    {
+     "note": "west_indies_powerplay_first_t20i_chase.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0063": [
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "rehan_ahmed_and_rashid_middle_overs_first_t20i.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0063": [
+       20,
+       24,
+       25,
+       26,
+       29
+      ]
+     }
+    },
+    {
+     "note": "rain_delay_and_dls_position_first_t20i.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0063": [
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "west_indies_death_overs_win_first_t20i.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0063": [
+       4,
+       6,
+       7,
+       8,
+       9,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "west_indies_england_t20_series_decider",
+   "title": "West Indies v England: the deciding fifth T20I and series verdict",
+   "notes": [
+    {
+     "note": "west_indies_england_2023_t20i_series_outcome.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0064": [
+       4,
+       6
+      ],
+      "doc_0371": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "adil_rashid_t20i_milestones_and_series_form.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0063": [
+       22,
+       27
+      ],
+      "doc_0064": [
+       17
+      ],
+      "doc_0371": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "england_132_all_out_t20_series_decider.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0064": [
+       43,
+       44,
+       46,
+       48,
+       49
+      ],
+      "doc_0371": [
+       3,
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "west_indies_powerplay_t20_decider_chase.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0064": [
+       31,
+       32,
+       33,
+       34,
+       36,
+       38,
+       40,
+       41,
+       42
+      ]
+     }
+    },
+    {
+     "note": "west_indies_middle_overs_t20_decider_chase.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0064": [
+       18,
+       19,
+       20,
+       21,
+       22,
+       24,
+       25,
+       26,
+       27,
+       28,
+       30
+      ]
+     }
+    },
+    {
+     "note": "west_indies_final_overs_t20_series_clinch.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0064": [
+       8,
+       9,
+       10,
+       11,
+       12,
+       14
+      ],
+      "doc_0371": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "shai_hope_anchor_innings_t20_decider.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0064": [
+       13,
+       16
+      ],
+      "doc_0371": [
+       15
+      ]
+     }
+    },
+    {
+     "note": "england_camp_verdict_on_t20_series_defeat.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0064": [
+       1,
+       2
+      ],
+      "doc_0371": [
+       4
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "european_club_football_roundup_december_2023",
+   "title": "European club football roundup, December 2023",
+   "notes": [
+    {
+     "note": "eintracht_frankfurt_5_1_bayern_munich.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0093": [
+       1,
+       2,
+       3,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "rb_leipzig_3_2_borussia_dortmund.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0093": [
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "real_betis_1_1_real_madrid.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0093": [
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "inter_milan_4_0_udinese.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0093": [
+       18,
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "atalanta_3_2_ac_milan.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0093": [
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "psg_2_1_nantes_ligue_1.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0093": [
+       25,
+       26,
+       27
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "manchester_united_ten_hag_december_2023",
+   "title": "Manchester United under Erik ten Hag, December 2023",
+   "notes": [
+    {
+     "note": "manchester_united_crisis_news_cycle_under_ten_hag.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0242": [
+       1,
+       2,
+       7
+      ],
+      "doc_0370": [
+       5,
+       14
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_win_over_chelsea_shot_dominance.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0242": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "scott_mctominay_advanced_role_and_goal_threat.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0242": [
+       5,
+       6,
+       8
+      ]
+     }
+    },
+    {
+     "note": "ten_hag_attacking_gamble_and_defensive_gaps.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0242": [
+       9,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_squad_incoherence_and_old_trafford_decline.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0370": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_2023_champions_league_group_stage_exit.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0370": [
+       6,
+       7,
+       8,
+       13
+      ]
+     }
+    },
+    {
+     "note": "bayern_munich_1_0_manchester_united_old_trafford.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0370": [
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "three_concurrent_roles_of_a_manchester_united_manager.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0370": [
+       15,
+       16
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "england_lionesses_nations_league_2023",
+   "title": "England Lionesses, Nations League and Olympic qualification",
+   "notes": [
+    {
+     "note": "england_lionesses_olympic_qualification_heartbreak.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0184": [
+       1,
+       3,
+       19
+      ]
+     }
+    },
+    {
+     "note": "england_6_0_scotland_hampden_match_report.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0184": [
+       7,
+       9,
+       10,
+       12,
+       14,
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "england_and_scotland_lineup_changes_nations_league_finale.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0184": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "scotland_commitment_row_and_gulf_in_class.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0184": [
+       4,
+       8,
+       11
+      ]
+     }
+    },
+    {
+     "note": "england_3_2_netherlands_wembley_toone_winner.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0206": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "england_lionesses_defensive_brittleness_and_dropped_points.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0206": [
+       6,
+       7,
+       8,
+       9,
+       10
+      ],
+      "doc_0184": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "nations_league_prestige_and_congested_international_cycle.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0206": [
+       12,
+       13,
+       14
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0376": [
+   0,
+   5,
+   6,
+   7
+  ],
+  "doc_0386": [
+   0,
+   17,
+   21,
+   23
+  ],
+  "doc_0422": [
+   0,
+   4,
+   5,
+   6,
+   143,
+   156,
+   162,
+   174
+  ],
+  "doc_0426": [
+   0,
+   5,
+   6,
+   7
+  ],
+  "doc_0433": [
+   0,
+   7,
+   10,
+   13,
+   16,
+   19,
+   22,
+   25,
+   28,
+   56,
+   59,
+   73,
+   107
+  ],
+  "doc_0447": [
+   0,
+   5,
+   11,
+   12,
+   13
+  ],
+  "doc_0449": [
+   0,
+   4,
+   9,
+   10,
+   11,
+   13,
+   14
+  ],
+  "doc_0544": [
+   0,
+   4,
+   5,
+   11,
+   13,
+   22,
+   23,
+   30,
+   31,
+   40,
+   41
+  ],
+  "doc_0552": [
+   0,
+   6,
+   7,
+   9,
+   10,
+   14,
+   15,
+   20,
+   21,
+   28,
+   29
+  ],
+  "doc_0553": [
+   0,
+   6,
+   7,
+   9,
+   10,
+   20,
+   21,
+   26,
+   27,
+   32,
+   33
+  ],
+  "doc_0583": [
+   0,
+   3,
+   4,
+   15,
+   17
+  ],
+  "doc_0063": [
+   0,
+   2,
+   5,
+   10,
+   15,
+   19,
+   21,
+   23,
+   28,
+   41
+  ],
+  "doc_0064": [
+   0,
+   3,
+   5,
+   7,
+   15,
+   23,
+   29,
+   35,
+   37,
+   39,
+   45,
+   47
+  ],
+  "doc_0093": [
+   0,
+   4,
+   5,
+   6,
+   7,
+   19
+  ],
+  "doc_0150": [
+   0,
+   20
+  ],
+  "doc_0184": [
+   0,
+   13
+  ],
+  "doc_0206": [
+   0,
+   11
+  ],
+  "doc_0242": [
+   0,
+   10
+  ],
+  "doc_0370": [
+   0,
+   12
+  ],
+  "doc_0371": [
+   0,
+   10,
+   11,
+   12,
+   13,
+   14
+  ]
+ },
+ "genre_note": "136 notes across 16 sub-plans. Distribution is what the enum predicts for news: ~85% empirical_observation, then concept (9 notes: MLB offseason market state, DFS contest scoring formats, CFP/NY6 structure, bowl betting market types). Rarer blocks appear only where the text genuinely supplies them and were not manufactured anywhere else: argument x7 (Heyman's conditional reasoning about Toronto trading Bichette/Guerrero; the Bills-Chargers pick with its grounds; futures-bet timing risk/reward; Liew on Ten Hag's attacking trade-off; Ronay on United's squad and decline; the Nations League prestige/congested-cycle case), counter_argument x2 (doc_0184 [4] explicitly rebuts the charge that Scotland under-tried \u2014 \"that would be unfair\" \u2014 and doc_0206 [6-10] rebuts the euphoria of the Toone win), model x2 (McTominay's role mechanism, Ronay's \"three concurrent roles\" framework for a United manager), procedure x2 (the weekly DFS sleeper method, opening a sportsbook account). hypothesis: ZERO instances. Nothing in 20 sports documents states a testable prediction as a hypothesis rather than as a reported claim or an argued judgement; the closest candidate (Blue Jays trading infielders if they sign Ohtani) is a claim with stated grounds, so it is filed as argument. Absence recorded rather than filled. navigation: none produced, per instruction. Cross-document entity sharing: Ohtani (doc_0422+doc_0426), the WI-England T20 series outcome / Shai Hope / Adil Rashid / England's 132 all out / the England camp verdict (doc_0063+doc_0064+doc_0371), SuperDraft and DraftKings/FanDuel scoring formats (doc_0386+doc_0583+doc_0544 \u2014 verbatim-repeated boilerplate that would otherwise have been three near-duplicate notes), Ten Hag's blame/pressure (doc_0242+doc_0370), and England's defensive brittleness (doc_0184+doc_0206). Splitting discipline: doc_0150 is a 12-game roundup and doc_0093 a 6-match roundup \u2014 each was split per match rather than merged, since a merged roundup note would be retrieved for everything and answer nothing; doc_0422 (3,475 words, ~60 tracker entries) was split by transaction subject, not by word count, which is why Yamamoto's meetings tour is one 700-word note while Matt Carpenter's release is a 70-word note. Coverage: 15 of 20 documents land at 92-98% of words assigned. Five land lower and all five are chrome-heavy Guardian pages, not compression failures \u2014 doc_0093 ~83% and doc_0371 ~81% (each carries the identical 84-word \"how to sign up for sport breaking news alerts\" app guide plus a ~90-word newsletter-promotion block), doc_0206 ~88%, doc_0184 ~90%, doc_0242 ~89% and doc_0370 ~90% (each one 89-102-word newsletter promotion). Nothing dropped states a scope condition on its document's central claim: I re-read every dropped block, and the only borderline calls were doc_0449 [4] (\"Chad Ryland redeems himself with game-winning field goal\") and doc_0447 [5]/[11], all of which are read-more links whose substance is fully carried by assigned blocks in the same document. The \"Updated at HH.MM GMT\" timestamps in the two cricket live blogs (20 blocks, 4 words each) are the only other systematic drop."
+}

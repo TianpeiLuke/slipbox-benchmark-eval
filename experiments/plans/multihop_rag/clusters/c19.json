@@ -1,0 +1,2894 @@
+{
+ "cluster": "c19",
+ "subplans": [
+  {
+   "slug": "mlb_offseason_trade_market_headliners",
+   "title": "MLB 2023-24 Offseason: Headline Trade Candidates",
+   "notes": [
+    {
+     "note": "mlb_2023_24_offseason_trade_market_landscape.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "mlbtr_trade_candidate_ranking_methodology.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0118": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "juan_soto_padres_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "corbin_burnes_willy_adames_brewers_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "shane_bieber_guardians_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       22,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "tyler_glasnow_rays_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       26,
+       27,
+       28,
+       29,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "dylan_cease_white_sox_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "alex_verdugo_red_sox_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       39,
+       40,
+       41,
+       42,
+       43
+      ]
+     }
+    },
+    {
+     "note": "trent_grisham_ha_seong_kim_padres_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50,
+       51
+      ]
+     }
+    },
+    {
+     "note": "gleyber_torres_yankees_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       52,
+       53,
+       54,
+       55,
+       56
+      ]
+     }
+    },
+    {
+     "note": "jonathan_india_reds_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       57,
+       58,
+       59,
+       60
+      ]
+     }
+    },
+    {
+     "note": "eloy_jimenez_white_sox_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       61,
+       62,
+       63,
+       64,
+       65
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "mlb_offseason_trade_market_secondary_candidates",
+   "title": "MLB 2023-24 Offseason: Secondary Trade Candidates",
+   "notes": [
+    {
+     "note": "max_kepler_jorge_polanco_twins_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       66,
+       67,
+       68,
+       69,
+       70,
+       71,
+       72
+      ]
+     }
+    },
+    {
+     "note": "randy_arozarena_rays_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       73,
+       74,
+       75,
+       76
+      ]
+     }
+    },
+    {
+     "note": "mariners_young_starting_pitcher_trade_candidates.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       77,
+       78,
+       79,
+       80,
+       81
+      ]
+     }
+    },
+    {
+     "note": "dylan_carlson_cardinals_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       82,
+       83,
+       84,
+       85
+      ]
+     }
+    },
+    {
+     "note": "paul_blackburn_athletics_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       86,
+       87,
+       88
+      ]
+     }
+    },
+    {
+     "note": "alek_manoah_blue_jays_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       89,
+       90,
+       91,
+       92,
+       93
+      ]
+     }
+    },
+    {
+     "note": "brandon_drury_angels_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       94,
+       95,
+       96
+      ]
+     }
+    },
+    {
+     "note": "brendan_donovan_cardinals_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       97,
+       98,
+       99,
+       100,
+       101
+      ]
+     }
+    },
+    {
+     "note": "christopher_morel_cubs_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       102,
+       103,
+       104,
+       105,
+       106,
+       107
+      ]
+     }
+    },
+    {
+     "note": "christian_vazquez_twins_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       108,
+       109,
+       110,
+       111,
+       112
+      ]
+     }
+    },
+    {
+     "note": "luis_robert_jr_white_sox_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       113,
+       114,
+       115,
+       116
+      ]
+     }
+    },
+    {
+     "note": "pete_alonso_mets_trade_candidacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       117,
+       118,
+       119,
+       120
+      ]
+     }
+    },
+    {
+     "note": "mlb_secondary_trade_candidates_by_team_list.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0118": [
+       122,
+       123,
+       124,
+       125,
+       126,
+       127,
+       128,
+       129,
+       130,
+       131,
+       132,
+       133,
+       134,
+       135,
+       136,
+       137,
+       138,
+       139,
+       140
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nhl_minnesota_wild_coaching_change",
+   "title": "NHL: Minnesota Wild Fire Dean Evason for John Hynes",
+   "notes": [
+    {
+     "note": "minnesota_wild_fire_dean_evason_hire_john_hynes.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0340": [
+       1,
+       2,
+       3,
+       10,
+       15
+      ]
+     }
+    },
+    {
+     "note": "dean_evason_coaching_career_path.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0340": [
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "minnesota_wild_2023_24_slump_causes.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0340": [
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "john_hynes_contract_and_predators_permission.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0340": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "minnesota_wild_turnaround_outlook_under_hynes.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0340": [
+       13,
+       14
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nfc_hot_seats_east_and_west",
+   "title": "NFL: Hottest Seats in the NFC East and NFC West",
+   "notes": [
+    {
+     "note": "nfc_hottest_seat_roundup_premise.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0437": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "trevon_diggs_cowboys_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "daniel_jones_giants_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "quez_watkins_eagles_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "josh_harris_commanders_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "kyler_murray_cardinals_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "cooper_kupp_rams_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "kyle_shanahan_49ers_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       11
+      ]
+     }
+    },
+    {
+     "note": "geno_smith_seahawks_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       12
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nfc_hot_seats_north_and_south",
+   "title": "NFL: Hottest Seats in the NFC North and NFC South",
+   "notes": [
+    {
+     "note": "matt_eberflus_bears_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "aaron_glenn_lions_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       15
+      ]
+     }
+    },
+    {
+     "note": "christian_watson_packers_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "alexander_mattison_vikings_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       17
+      ]
+     }
+    },
+    {
+     "note": "desmond_ridder_falcons_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       19
+      ]
+     }
+    },
+    {
+     "note": "scott_fitterer_panthers_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       20
+      ]
+     }
+    },
+    {
+     "note": "dennis_allen_saints_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       21
+      ]
+     }
+    },
+    {
+     "note": "todd_bowles_buccaneers_hot_seat.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0437": [
+       22
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "afc_midseason_mvps_east_and_west",
+   "title": "NFL: AFC East and AFC West Midseason Team MVPs",
+   "notes": [
+    {
+     "note": "afc_midseason_team_mvp_roundup_premise.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0515": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "josh_allen_bills_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "tyreek_hill_dolphins_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "quincy_williams_jets_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "jabrill_peppers_patriots_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "patrick_surtain_ii_broncos_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "patrick_mahomes_chiefs_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "maxx_crosby_raiders_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "keenan_allen_chargers_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       11
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "afc_midseason_mvps_north_and_south",
+   "title": "NFL: AFC North and AFC South Midseason Team MVPs",
+   "notes": [
+    {
+     "note": "lamar_jackson_ravens_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "myles_garrett_browns_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "joe_burrow_bengals_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       15
+      ]
+     }
+    },
+    {
+     "note": "tj_watt_steelers_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "cj_stroud_texans_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       18
+      ]
+     }
+    },
+    {
+     "note": "zack_moss_colts_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       19
+      ]
+     }
+    },
+    {
+     "note": "travis_etienne_jaguars_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       20
+      ]
+     }
+    },
+    {
+     "note": "jeffery_simmons_titans_midseason_mvp.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0515": [
+       21
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nfl_week_13_injury_reports",
+   "title": "NFL Week 13 Final Injury Reports",
+   "notes": [
+    {
+     "note": "nfl_week_13_injury_report_overview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0289": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_13_injuries_chargers_at_patriots.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0289": [
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_13_injuries_lions_at_saints.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0289": [
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_13_injuries_falcons_at_jets.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0289": [
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_13_injuries_cardinals_at_steelers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0289": [
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_13_injuries_colts_at_titans.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0289": [
+       16,
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_13_injuries_dolphins_at_commanders.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0289": [
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_13_injuries_broncos_at_texans.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0289": [
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_13_injuries_panthers_at_buccaneers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0289": [
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_13_injuries_49ers_at_eagles.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0289": [
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_13_injuries_browns_at_rams.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0289": [
+       33,
+       34,
+       35,
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_13_injuries_chiefs_at_packers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0289": [
+       38,
+       39,
+       40
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_13_injuries_bengals_at_jaguars.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0289": [
+       41,
+       42,
+       43,
+       44,
+       45
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "fantasy_football_week_16_wide_receivers",
+   "title": "Fantasy Football Week 16 Wide Receiver Preview",
+   "notes": [
+    {
+     "note": "rashee_rice_week_16_must_start_case.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0146": [
+       1,
+       2,
+       3,
+       4,
+       13
+      ]
+     }
+    },
+    {
+     "note": "week_16_wide_receivers_ruled_out.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0146": [
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "deebo_samuel_yards_per_target_pace.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0146": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "puka_nacua_rookie_reception_record_chase.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0146": [
+       15
+      ]
+     }
+    },
+    {
+     "note": "tyreek_hill_2000_yard_season_pursuit.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0146": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "drake_london_home_road_fantasy_split.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0146": [
+       17
+      ]
+     }
+    },
+    {
+     "note": "noah_brown_boom_bust_fantasy_profile.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0146": [
+       18
+      ]
+     }
+    },
+    {
+     "note": "week_16_wide_receiver_matchup_projection_table.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0146": [
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "curtis_samuel_week_16_waiver_target.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0146": [
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "demario_douglas_week_16_waiver_target.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0146": [
+       30
+      ]
+     }
+    },
+    {
+     "note": "dontayvion_wicks_week_16_waiver_target.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0146": [
+       31
+      ]
+     }
+    },
+    {
+     "note": "ceedee_lamb_week_16_top_dfs_play.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0146": [
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "jaylen_waddle_week_16_contrarian_dfs_play.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0146": [
+       35,
+       36
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nascar_media_rights_and_driver_rankings",
+   "title": "NASCAR: The $7.7bn Media Deal and the Autosport Top 50 Snubs",
+   "notes": [
+    {
+     "note": "nascar_7_7_billion_media_rights_deal.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0186": [
+       2,
+       4,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "nascar_media_deal_streaming_diversification_rationale.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0186": [
+       9,
+       10,
+       11,
+       12,
+       13,
+       15
+      ]
+     }
+    },
+    {
+     "note": "nascar_media_deal_cable_simulcast_ratings_drawback.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0186": [
+       16,
+       18,
+       20,
+       21,
+       23
+      ]
+     }
+    },
+    {
+     "note": "autosport_top_50_drivers_2023_nascar_representation.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0297": [
+       1,
+       3,
+       32
+      ]
+     }
+    },
+    {
+     "note": "chris_buescher_2023_season_autosport_snub.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0297": [
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "denny_hamlin_2023_season_autosport_snub.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0297": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "christopher_bell_2023_season_autosport_snub.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0297": [
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "tyler_reddick_2023_season_autosport_snub.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0297": [
+       20,
+       21,
+       23
+      ]
+     }
+    },
+    {
+     "note": "ross_chastain_2023_season_autosport_snub.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0297": [
+       25,
+       26,
+       27,
+       29
+      ]
+     }
+    },
+    {
+     "note": "supercars_drivers_in_2023_nascar_races.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0297": [
+       30
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nascar_2024_offseason_moves",
+   "title": "NASCAR 2024 Offseason: Testing, Crews and Driver Moves",
+   "notes": [
+    {
+     "note": "nascar_2024_offseason_preparation_window.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0487": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "nascar_phoenix_next_gen_short_track_test.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0487": [
+       4,
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "nascar_next_gen_muffler_noise_reduction_test.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0487": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "nascar_2024_spotter_changes_elliott_and_blaney.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0487": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "spire_motorsports_2024_personnel_hires.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0487": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "aric_almirola_joe_gibbs_racing_xfinity_move.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0487": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "noah_gragson_stewart_haas_no_10_seat.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0487": [
+       19,
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "kaulig_racing_no_16_2024_driver_uncertainty.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0487": [
+       23,
+       24
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "golf_ball_rollback_policy_debate",
+   "title": "Golf: The R&A/USGA Ball Rollback Policy Debate",
+   "notes": [
+    {
+     "note": "golf_ball_rollback_policy.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0490": [
+       1,
+       3
+      ]
+     }
+    },
+    {
+     "note": "golf_ball_rollback_application_to_mens_majors.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0490": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "golf_ball_rollback_exclusion_of_womens_golf.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0490": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "justin_thomas_opposition_to_golf_ball_rollback.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0490": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "bryson_dechambeau_opposition_to_golf_ball_rollback.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0490": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "rory_mcilroy_support_for_golf_ball_rollback.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0490": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "tiger_woods_support_for_pro_amateur_ball_split.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0490": [
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "golf_ball_rollback_effect_on_liv_golf.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0490": [
+       19,
+       20,
+       22
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nba_golden_state_warriors_decline",
+   "title": "NBA: Golden State's Draft Misses and Ageing Core",
+   "notes": [
+    {
+     "note": "warriors_2021_draft_kuminga_and_moody.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0522": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "warriors_collapse_vs_kings_in_season_tournament.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0522": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "warriors_aging_core_curry_thompson_green.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0522": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "warriors_two_timeline_plan_failure.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0522": [
+       7,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "warriors_2020_and_2021_draft_misses.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0522": [
+       12,
+       13,
+       19
+      ]
+     }
+    },
+    {
+     "note": "warriors_recent_draft_class_outcomes.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0522": [
+       14,
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "warriors_roster_reorientation_around_curry_window.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0522": [
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nba_durant_legacy_and_holiday_traditions",
+   "title": "NBA: Durant's Standing and the Christmas Day Tradition",
+   "notes": [
+    {
+     "note": "kevin_durant_career_accolades_and_scoring_ranks.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0441": [
+       4,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "kevin_durant_most_disrespected_superstar_claim.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0441": [
+       2,
+       7
+      ]
+     }
+    },
+    {
+     "note": "kevin_durant_sensitivity_and_burner_account_criticism.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0441": [
+       11,
+       12,
+       14
+      ]
+     }
+    },
+    {
+     "note": "kevin_durant_2016_move_to_warriors_legacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0441": [
+       17,
+       19
+      ]
+     }
+    },
+    {
+     "note": "nba_christmas_day_games_tradition.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0281": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "nfl_thanksgiving_day_games_2023_viewership.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0281": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "nba_christmas_vs_nfl_thanksgiving_tradition_comparison.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0281": [
+       1,
+       3,
+       9
+      ]
+     }
+    },
+    {
+     "note": "nfl_christmas_day_scheduling_threat_to_nba.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0281": [
+       11,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "nba_2023_christmas_day_game_slate.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0281": [
+       17,
+       19
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "boxing_day_of_reckoning_riyadh",
+   "title": "Boxing: Day of Reckoning in Riyadh",
+   "notes": [
+    {
+     "note": "day_of_reckoning_riyadh_boxing_card.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0137": [
+       1,
+       2,
+       22,
+       25,
+       27,
+       28,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "joshua_vs_wilder_2024_superfight_prospect.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0137": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "eddie_hearn_on_day_of_reckoning_card_assembly.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0137": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "boxing_marination_and_upset_risk.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0137": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "deontay_wilder_on_pressure_ahead_of_parker_bout.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0137": [
+       9
+      ]
+     }
+    },
+    {
+     "note": "deontay_wilder_comeback_after_fury_trilogy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0137": [
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0137": [
+       13,
+       14,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "otto_wallin_fighter_profile.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0137": [
+       18
+      ]
+     }
+    },
+    {
+     "note": "joseph_parker_fighter_profile.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0137": [
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "day_of_reckoning_predictions_and_picks.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0137": [
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "premier_league_everton_points_deduction",
+   "title": "Premier League: Everton's 10-Point Deduction",
+   "notes": [
+    {
+     "note": "everton_ten_point_deduction_for_psr_breach.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0092": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "everton_squad_response_to_points_deduction.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0092": [
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "everton_appeal_against_points_deduction.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0092": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "sean_dyche_on_everton_survival_prospects.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0092": [
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "everton_fan_protests_and_siege_mentality.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0092": [
+       10,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "everton_case_implications_for_manchester_city_and_chelsea.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0092": [
+       14
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "chelsea_autumn_2023_matches",
+   "title": "Chelsea in Autumn 2023: Cup Run and the 4-4 at Stamford Bridge",
+   "notes": [
+    {
+     "note": "chelsea_2_0_blackburn_carabao_cup_last_16.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0101": [
+       1,
+       2,
+       11,
+       13,
+       14,
+       16,
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "cole_palmer_chelsea_performance_vs_blackburn.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0101": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "carabao_cup_2023_quarter_final_draw.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0101": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "reece_james_return_from_injury_chelsea.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0101": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "blackburn_rovers_decline_and_youthful_selection.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0101": [
+       9,
+       10,
+       12
+      ]
+     }
+    },
+    {
+     "note": "chelsea_4_4_manchester_city_stamford_bridge.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0142": [
+       1,
+       3,
+       5,
+       9,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       20,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "cole_palmer_stoppage_time_penalty_vs_manchester_city.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0142": [
+       2,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "pochettino_reaction_to_chelsea_city_draw.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0142": [
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "guardiola_reaction_to_chelsea_city_draw.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0142": [
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "liverpool_3_0_brentford_salah_200th_english_goal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0142": [
+       35,
+       36,
+       37,
+       39,
+       41
+      ]
+     }
+    },
+    {
+     "note": "premier_league_standings_and_other_results_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0142": [
+       10,
+       42,
+       43
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "manchester_united_europe_and_socceroos",
+   "title": "Manchester United in Istanbul and Arnold's Socceroos Record",
+   "notes": [
+    {
+     "note": "manchester_united_1993_galatasaray_istanbul_exit.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0013": [
+       1,
+       2,
+       4
+      ]
+     }
+    },
+    {
+     "note": "galatasaray_istanbul_hostile_atmosphere_1993.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0013": [
+       5,
+       8
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_2023_galatasaray_group_decider.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0013": [
+       3,
+       7
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_recent_champions_league_failures.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0013": [
+       6,
+       9
+      ]
+     }
+    },
+    {
+     "note": "istanbul_1993_defeat_as_formative_experience.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0013": [
+       10,
+       12
+      ]
+     }
+    },
+    {
+     "note": "garnacho_and_mainoo_united_teenagers_vs_everton.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0013": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "graham_arnold_2022_world_cup_qualification_crisis.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0172": [
+       1,
+       2,
+       3,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "graham_arnold_socceroos_coaching_appearance_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0172": [
+       7,
+       13,
+       19,
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "james_johnson_tribute_to_graham_arnold.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0172": [
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "andrew_redmayne_substitution_in_peru_playoff.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0172": [
+       14,
+       15,
+       17
+      ]
+     }
+    },
+    {
+     "note": "graham_arnold_reflections_on_coaching_development.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0172": [
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "afc_2026_world_cup_qualifying_format.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0172": [
+       18,
+       28,
+       29,
+       30
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "afl_draft_prospects_brown_to_gothard",
+   "title": "2023 AFL Draft Prospects: Brown to Gothard",
+   "notes": [
+    {
+     "note": "kevin_sheehan_2023_afl_draft_top_40_prospects_list.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "kynan_brown_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "nate_caddy_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       19,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "caiden_cleary_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "lance_collard_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       45,
+       46
+      ]
+     }
+    },
+    {
+     "note": "jordan_croft_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       47,
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55,
+       56,
+       57
+      ]
+     }
+    },
+    {
+     "note": "daniel_curtin_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       58,
+       59,
+       60,
+       61,
+       62,
+       63,
+       64,
+       65,
+       66
+      ]
+     }
+    },
+    {
+     "note": "harry_demattia_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       68,
+       69,
+       70,
+       71,
+       72,
+       73,
+       74,
+       75,
+       76,
+       77
+      ]
+     }
+    },
+    {
+     "note": "zane_duursma_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       78,
+       79,
+       80,
+       81,
+       82,
+       83,
+       84,
+       85,
+       86
+      ]
+     }
+    },
+    {
+     "note": "charlie_edwards_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       87,
+       88,
+       89,
+       90,
+       91,
+       92,
+       93,
+       94,
+       95
+      ]
+     }
+    },
+    {
+     "note": "mitchell_edwards_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       96,
+       97,
+       98,
+       99,
+       100,
+       101,
+       103,
+       104,
+       105
+      ]
+     }
+    },
+    {
+     "note": "joel_freijah_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       106,
+       107,
+       108,
+       109,
+       110,
+       111,
+       112,
+       113,
+       114,
+       115
+      ]
+     }
+    },
+    {
+     "note": "taylor_goad_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       116,
+       117,
+       118,
+       119,
+       120,
+       121,
+       122,
+       123,
+       124,
+       125,
+       126
+      ]
+     }
+    },
+    {
+     "note": "phoenix_gothard_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       128,
+       129,
+       130,
+       131,
+       132,
+       133,
+       134,
+       135,
+       136
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "afl_draft_prospects_graham_to_read",
+   "title": "2023 AFL Draft Prospects: Graham to Read",
+   "notes": [
+    {
+     "note": "will_graham_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       137,
+       138,
+       139,
+       140,
+       141,
+       142,
+       143,
+       144,
+       145
+      ]
+     }
+    },
+    {
+     "note": "will_green_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       146,
+       147,
+       148,
+       149,
+       150,
+       151,
+       152,
+       153,
+       154
+      ]
+     }
+    },
+    {
+     "note": "clay_hall_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       155,
+       156,
+       157,
+       158,
+       159,
+       160,
+       162,
+       163,
+       164
+      ]
+     }
+    },
+    {
+     "note": "riley_hardeman_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       165,
+       166,
+       167,
+       168,
+       169,
+       170,
+       171,
+       172,
+       173
+      ]
+     }
+    },
+    {
+     "note": "angus_hastie_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       174,
+       175,
+       176,
+       177,
+       178,
+       179,
+       180,
+       181,
+       182
+      ]
+     }
+    },
+    {
+     "note": "tew_jiath_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       183,
+       184,
+       185,
+       186,
+       187,
+       188,
+       189,
+       190,
+       191,
+       192
+      ]
+     }
+    },
+    {
+     "note": "james_leake_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       194,
+       195,
+       196,
+       197,
+       198,
+       199,
+       200,
+       201,
+       202,
+       203,
+       204
+      ]
+     }
+    },
+    {
+     "note": "kane_mcauliffe_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       205,
+       206,
+       207,
+       208,
+       209,
+       210,
+       211,
+       212,
+       213
+      ]
+     }
+    },
+    {
+     "note": "will_mccabe_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       214,
+       215,
+       216,
+       217,
+       218,
+       219,
+       220,
+       221,
+       222
+      ]
+     }
+    },
+    {
+     "note": "colby_mckercher_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       224,
+       225,
+       226,
+       227,
+       228,
+       229,
+       230,
+       231,
+       232
+      ]
+     }
+    },
+    {
+     "note": "ashton_moya_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       233,
+       234,
+       235,
+       236,
+       237,
+       238,
+       239,
+       240,
+       241,
+       242
+      ]
+     }
+    },
+    {
+     "note": "ollie_murphy_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       243,
+       244,
+       245,
+       246,
+       247,
+       248,
+       249,
+       250,
+       251
+      ]
+     }
+    },
+    {
+     "note": "connor_osullivan_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       252,
+       253,
+       254,
+       255,
+       256,
+       257,
+       259,
+       260,
+       261
+      ]
+     }
+    },
+    {
+     "note": "ethan_read_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       262,
+       263,
+       264,
+       265,
+       266,
+       267,
+       268,
+       269,
+       270
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "afl_draft_prospects_reid_to_windsor",
+   "title": "2023 AFL Draft Prospects: Reid to Windsor",
+   "notes": [
+    {
+     "note": "archer_reid_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       273,
+       274,
+       275,
+       276,
+       277,
+       278,
+       279,
+       280,
+       281
+      ]
+     }
+    },
+    {
+     "note": "harley_reid_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       283,
+       284,
+       285,
+       286,
+       287,
+       288,
+       289,
+       290,
+       291
+      ]
+     }
+    },
+    {
+     "note": "archie_roberts_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       292,
+       293,
+       294,
+       295,
+       296,
+       297,
+       298,
+       299,
+       300
+      ]
+     }
+    },
+    {
+     "note": "jake_rogers_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       301,
+       302,
+       303,
+       304,
+       305,
+       306,
+       307,
+       308,
+       309
+      ]
+     }
+    },
+    {
+     "note": "ryley_sanders_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       311,
+       312,
+       313,
+       314,
+       315,
+       316,
+       317,
+       318,
+       319
+      ]
+     }
+    },
+    {
+     "note": "ari_schoenmaker_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       320,
+       321,
+       322,
+       323,
+       324,
+       325,
+       326,
+       327,
+       328,
+       329
+      ]
+     }
+    },
+    {
+     "note": "cooper_simpson_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       330,
+       331,
+       332,
+       333,
+       334,
+       335,
+       336,
+       337,
+       338
+      ]
+     }
+    },
+    {
+     "note": "george_stevens_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       339,
+       340,
+       341,
+       342,
+       343,
+       344,
+       346,
+       347,
+       348
+      ]
+     }
+    },
+    {
+     "note": "koltyn_tholstrup_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       349,
+       350,
+       351,
+       352,
+       353,
+       354,
+       355,
+       356,
+       357,
+       358
+      ]
+     }
+    },
+    {
+     "note": "jed_walter_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       359,
+       360,
+       361,
+       362,
+       363,
+       364,
+       365,
+       366,
+       367
+      ]
+     }
+    },
+    {
+     "note": "nick_watson_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       368,
+       369,
+       370,
+       371,
+       372,
+       373,
+       374,
+       375,
+       376
+      ]
+     }
+    },
+    {
+     "note": "darcy_wilson_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       380,
+       381,
+       382,
+       383,
+       384,
+       385,
+       386,
+       387,
+       388
+      ]
+     }
+    },
+    {
+     "note": "caleb_windsor_afl_draft_prospect_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0244": [
+       389,
+       390,
+       391,
+       392,
+       393,
+       394,
+       395,
+       396,
+       397
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0118": [
+   0,
+   121
+  ],
+  "doc_0340": [
+   0
+  ],
+  "doc_0437": [
+   0,
+   3,
+   8,
+   13,
+   18
+  ],
+  "doc_0515": [
+   0,
+   2,
+   7,
+   12,
+   17
+  ],
+  "doc_0522": [
+   0
+  ],
+  "doc_0186": [
+   0,
+   1,
+   3,
+   5,
+   6,
+   14,
+   17,
+   19,
+   22,
+   24
+  ],
+  "doc_0281": [
+   0,
+   2,
+   4,
+   5,
+   7,
+   10,
+   12,
+   15,
+   16,
+   18,
+   20
+  ],
+  "doc_0297": [
+   0,
+   2,
+   4,
+   5,
+   10,
+   14,
+   19,
+   22,
+   24,
+   28,
+   31
+  ],
+  "doc_0441": [
+   0,
+   1,
+   3,
+   5,
+   6,
+   10,
+   13,
+   15,
+   16,
+   18,
+   20
+  ],
+  "doc_0490": [
+   0,
+   2,
+   4,
+   5,
+   9,
+   12,
+   17,
+   18,
+   21,
+   23
+  ],
+  "doc_0137": [
+   0,
+   15,
+   23,
+   24,
+   26,
+   31
+  ],
+  "doc_0146": [
+   0,
+   5,
+   6,
+   7,
+   12,
+   19,
+   27,
+   32,
+   37,
+   38
+  ],
+  "doc_0289": [
+   0
+  ],
+  "doc_0487": [
+   0,
+   3,
+   11,
+   16,
+   25
+  ],
+  "doc_0013": [
+   0,
+   11
+  ],
+  "doc_0092": [
+   0,
+   11
+  ],
+  "doc_0101": [
+   0,
+   15
+  ],
+  "doc_0142": [
+   0,
+   4,
+   8,
+   11,
+   19,
+   21,
+   24,
+   25,
+   30,
+   38,
+   40
+  ],
+  "doc_0172": [
+   0,
+   4,
+   8,
+   16,
+   23
+  ],
+  "doc_0244": [
+   0,
+   4,
+   5,
+   6,
+   18,
+   44,
+   67,
+   102,
+   127,
+   161,
+   193,
+   223,
+   258,
+   271,
+   272,
+   282,
+   310,
+   345,
+   377,
+   378,
+   379
+  ]
+ },
+ "genre_note": "212 notes / 21 sub-plans; 29,707 of 31,112 words assigned (95.5%); zero (doc, block) reused; no note exceeds 1,800 source words.\n\nSHAPE OF THE CLUSTER. Eleven of the twenty documents are list/roundup formats, not narratives: a 25-player MLB trade-candidate ranking (doc_0118), a 40-player AFL draft prospect catalogue (doc_0244, 6,318 words), a 12-game NFL injury report (doc_0289), one-item-per-team NFL roundups (doc_0437 NFC hot seats, doc_0515 AFC MVPs), a fantasy WR preview (doc_0146), a NASCAR offseason news roundup (doc_0487) and a five-driver \"snubs\" list (doc_0297). These were decomposed item-by-item rather than section-by-section: one player, one team, one game, one prospect per note. doc_0244 alone yields 40 prospect notes plus one list-provenance note; doc_0118 yields 24 candidate notes plus a landscape note and a methodology note. Merging any of these would produce exactly the failure the brief warns about \u2014 a note retrieved for everything that answers nothing.\n\nBUILDING-BLOCK DISTRIBUTION. empirical_observation 93, argument 56, concept 53, model 4, counter_argument 4, procedure 2, hypothesis 0, navigation 0. As expected for news, dated events and entity profiles dominate. The unusually high argument count is a genre artifact, not manufacture: the two Yardbarker roundups (24 notes) and the Autosport snub piece (5 notes) consist of verdicts stated with grounds (\"X's seat is hottest because\u2026\", \"Hamlin's 998 laps led make his omission unjustified\"), which is the argument form even though the payload is statistical.\n\nABSENCES ARE REAL. hypothesis does not occur anywhere in this cluster \u2014 sports journalism makes predictions (Wilder via KO8; Joshua via UD12) but frames them as picks backed by reasons, so they were classified argument, not hypothesis. No navigation notes were produced. procedure occurs only twice and both are marginal: the AFC 2026 World Cup qualifying pathway (doc_0172, staged group-to-group advancement rules) and the MLBTR ranking construction rule (doc_0118 blocks 6-7). Neither is a how-to in the ordinary sense; I classified them procedure rather than force them into concept, but a reviewer could reasonably reassign both.\n\nSHARED ENTITIES. Cole Palmer appears in two documents (doc_0101 Chelsea v Blackburn, doc_0142 Chelsea v Man City) and both are grouped in the chelsea_autumn_2023_matches sub-plan, but they cover genuinely different events (his creative role in a cup win vs. his 95th-minute equalising penalty), so they stayed separate notes rather than one merged entity note \u2014 merging would have blurred two distinct dated events. Tyreek Hill likewise appears as a Dolphins MVP case (doc_0515) and as a 2,000-yard-pace fantasy note (doc_0146); different claims, different documents, kept separate. No two documents in this cluster discuss the same event, so no note needed blocks from more than one document.\n\nCOVERAGE BELOW 90%: FIVE DOCUMENTS, ALL PUBLISHER CHROME. doc_0142 (91.0%), doc_0092 (89.6%), doc_0490 (89.8%), doc_0281 (88.6%), doc_0441 (87.6%), doc_0186 (86.9%). The four EssentiallySports pieces (0186, 0281, 0441, 0490) carry 10-11 chrome blocks each: \"America's Favorite Video Today\", repeated \"ADVERTISEMENT Article continues below this ad\", question-form section headers, decorative Getty/Reuters credits, and a trailing \"Watch this Story:\" cross-promotion. The Guardian pieces (0092, 0101, 0013) each lose ~89 words to an identical \"skip past newsletter promotion / Football Daily\" block. doc_0142 (The Roar) loses eleven embedded-tweet handles and stream links. Nothing substantive was dropped from these; the ceiling is set by the publishers.\n\nINSPECTED DROPS THAT WERE REVERSED. Photo captions were not dropped wholesale. Several carry facts the body does not state, and those were assigned: doc_0297 block 8 (Buescher won the Cook Out 400 at Richmond, Jul 30), block 16 (Bell won the Food City Dirt Race at Bristol, Apr 9), block 26 (Chastain won the Championship race at Phoenix, Nov 5) \u2014 these three alone lift doc_0297 from 87% to 95.6%; doc_0013 block 7 (Icardi's winner in Galatasaray's 3-2 at Old Trafford, the return fixture the article never scores); doc_0092 block 7 (Everton's sixth win in nine at Palace); doc_0101 block 11 (Badiashile's opener). Conversely, captions that were bare credits with no fact beyond the article's own text (doc_0186 block 1's unrelated Roval 400 image, doc_0441 block 1's Suns-Nuggets playoff photo) were dropped. Similarly doc_0142 blocks 17 and 23 were initially dropped as tweet duplicates and then reassigned \u2014 17 states Haaland's 13th league goal and 23 confirms City reaching four \u2014 while block 24 (\"Limbs in the away end\") stayed dropped as contentless reaction.\n\nSCOPE CONDITIONS PRESERVED. Two blocks that read like throwaway asides actually qualify their own headline and were deliberately kept: doc_0490 block 8, which states the rollback applies only to the two men's majors and NOT to the Women's Open or U.S. Women's Open because LPGA driving distance sits within accepted norms \u2014 an exclusion the headline (\"might redefine the golfing world\") flatly contradicts; and doc_0281 block 14, which notes NFL executives have said they will not schedule Christmas games falling outside their broadcast window, walking back the piece's own \"threat to the NBA\" framing. Each got its own note (golf_ball_rollback_exclusion_of_womens_golf.md; folded into nfl_christmas_day_scheduling_threat_to_nba.md).\n\nONE DELIBERATE MERGE. week_16_wide_receiver_matchup_projection_table.md (doc_0146 blocks 20-26) holds six players' projection lines in one note. These blocks are pure tabular stat dumps with no prose analysis; the table is the artifact and splitting it would produce six 44-word fragments that lose their comparative frame. Every doc_0146 block that does carry prose analysis (waiver targets, DFS plays, the six \"Numbers to Know\" nuggets) was split per player. Note that doc_0146's \"Numbers to Know\" and \"Matchups\" blocks each repeat the previous block's text before adding the new stat; block indices were assigned on the NEW stat each block ends with, so Deebo Samuel is block 14, Puka Nacua 15, Tyreek Hill 16, Drake London 17, Noah Brown 18.\n\nQUARANTINE. Only data/corpus/multihop_rag/*.txt was read, via scripts/plan_coverage.py --segment and cat. data/raw/multihop_rag/MultiHopRAG.json was never opened, listed, or grepped."
+}

@@ -1,0 +1,1269 @@
+{
+ "cluster": "c21",
+ "subplans": [
+  {
+   "slug": "collingwood_2023_afl_premiership_aftermath",
+   "title": "Collingwood's 2023 AFL premiership aftermath",
+   "notes": [
+    {
+     "note": "collingwood_2023_premiership_players_who_missed_out.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0220": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "jeremy_howe_rib_injury_2023_afl_grand_final.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0220": [
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "oleg_markov_collingwood_premiership_journey.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0220": [
+       7,
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "brayden_maynard_collingwood_dynasty_ambition.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0220": [
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "craig_mcrae_44_sons_shirt_collar_message.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0220": [
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "collingwood_post_premiership_celebration_and_club_history.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0220": [
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "european_football_2023_calendar_year_goalscorers",
+   "title": "Top goalscorers of the 2023 calendar year",
+   "notes": [
+    {
+     "note": "calendar_year_2023_top_goalscorer_race.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0277": [
+       1,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "cristiano_ronaldo_al_nassr_move_and_2023_goal_tally.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0277": [
+       2,
+       3,
+       4,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54
+      ]
+     }
+    },
+    {
+     "note": "jamie_carragher_criticism_of_ronaldo_saudi_transfer.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0277": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "lautaro_martinez_2023_goalscoring_form.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0277": [
+       9,
+       10,
+       11,
+       12,
+       13
+      ],
+      "doc_0352": [
+       13,
+       14,
+       15,
+       16,
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "santiago_gimenez_feyenoord_2023_goal_tally.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0277": [
+       14,
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "romelu_lukaku_roma_2023_goal_tally.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0277": [
+       19,
+       20,
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "erling_haaland_manchester_city_2023_goal_tally.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0277": [
+       25,
+       26,
+       27,
+       28,
+       29,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "kylian_mbappe_psg_2023_goal_tally_and_contract.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0277": [
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "harry_kane_bayern_munich_2023_scoring_records.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0277": [
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48
+      ],
+      "doc_0352": [
+       6
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "european_league_roundup_late_october_2023",
+   "title": "European league roundup, late October 2023",
+   "notes": [
+    {
+     "note": "bayern_munich_2_2_draw_at_rb_leipzig.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0352": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       7
+      ]
+     }
+    },
+    {
+     "note": "real_madrid_3_0_win_over_girona_bellingham.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0352": [
+       8,
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "ac_milan_2_0_win_over_lazio_and_serie_a_standings.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0352": [
+       21,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "monaco_3_2_win_over_marseille_ligue_1.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0352": [
+       28,
+       29,
+       30,
+       31
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "manchester_united_fulham_premier_league_preview_2023",
+   "title": "Manchester United vs Fulham, November 2023 preview",
+   "notes": [
+    {
+     "note": "man_united_vs_fulham_november_2023_fixture.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0260": [
+       2,
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_form_slump_autumn_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0260": [
+       4,
+       6,
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "fulham_form_and_league_position_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0260": [
+       7,
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "manchester_united_injury_list_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0260": [
+       1,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "fulham_injury_list_and_striker_choice_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0260": [
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "premier_league_india_broadcast_and_streaming_rights.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0260": [
+       28,
+       29
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tottenham_chelsea_premier_league_november_2023",
+   "title": "Tottenham 1-4 Chelsea, November 2023",
+   "notes": [
+    {
+     "note": "tottenham_1_4_chelsea_november_2023_result.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0478": [
+       1,
+       4,
+       5,
+       8
+      ]
+     }
+    },
+    {
+     "note": "nicolas_jackson_first_premier_league_hat_trick.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0478": [
+       2,
+       3,
+       27,
+       28,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "tottenham_early_lead_and_first_half_chances_vs_chelsea.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0478": [
+       10,
+       11,
+       12,
+       13,
+       20
+      ]
+     }
+    },
+    {
+     "note": "spurs_chelsea_red_cards_and_var_decisions.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0478": [
+       14,
+       15,
+       16,
+       17,
+       18,
+       21,
+       22,
+       23,
+       25
+      ]
+     }
+    },
+    {
+     "note": "chelsea_second_half_pressure_and_finishing_problems.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0478": [
+       24,
+       26,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "ange_postecoglou_reaction_and_unbeaten_home_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0478": [
+       6,
+       7,
+       33
+      ]
+     }
+    },
+    {
+     "note": "tottenham_and_chelsea_next_fixtures_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0478": [
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "tottenham_chelsea_line_ups_and_referee_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0478": [
+       38,
+       39,
+       40,
+       41,
+       42
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "cole_palmer_chelsea_and_england_rise",
+   "title": "Cole Palmer's rise at Chelsea and England",
+   "notes": [
+    {
+     "note": "cole_palmer_move_to_chelsea_and_settling_in_london.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0445": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "cole_palmer_goal_against_manchester_city_4_4_draw.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0445": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "cole_palmer_penalty_taking_role_and_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0445": [
+       8,
+       9
+      ],
+      "doc_0478": [
+       19
+      ]
+     }
+    },
+    {
+     "note": "cole_palmer_england_call_up_and_upbringing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0445": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "cole_palmer_42_5m_transfer_and_chelsea_squad_turnover.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0445": [
+       13,
+       14,
+       15
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ipl_2024_auction_context_and_build_up",
+   "title": "IPL 2024 auction: format, purses and build-up",
+   "notes": [
+    {
+     "note": "ipl_2024_auction_record_breaking_summary.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       1,
+       2,
+       3,
+       4,
+       188,
+       236
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_auction_venue_date_and_slot_structure.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0307": [
+       227,
+       228,
+       232,
+       237,
+       238,
+       239,
+       240,
+       241,
+       242
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_season_window_and_bcci_venue_directive.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       215,
+       216
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_auction_team_purse_tracker.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50,
+       51,
+       201,
+       202,
+       203,
+       204,
+       205,
+       206,
+       207,
+       208,
+       209,
+       210,
+       211,
+       212,
+       243,
+       244,
+       245,
+       246,
+       247,
+       248,
+       249,
+       250,
+       251,
+       252,
+       253
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_auction_expert_previews_and_team_strategy.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0307": [
+       186,
+       187,
+       192,
+       193,
+       194,
+       195,
+       196,
+       197
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_auction_overseas_availability_concerns.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0307": [
+       214,
+       226
+      ]
+     }
+    },
+    {
+     "note": "harshal_patel_vijay_hazare_trophy_form_before_ipl_auction.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       217,
+       218
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_pre_auction_briefing_and_reactions.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       200,
+       220,
+       221,
+       222,
+       224,
+       225,
+       229
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ipl_2024_auction_bidding_results",
+   "title": "IPL 2024 auction: bidding results by set",
+   "notes": [
+    {
+     "note": "mitchell_starc_kkr_record_ipl_signing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       52,
+       53,
+       103,
+       107,
+       108,
+       109,
+       110,
+       111,
+       230
+      ]
+     }
+    },
+    {
+     "note": "pat_cummins_sunrisers_hyderabad_record_signing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       117,
+       143,
+       152,
+       153
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_auction_capped_batters_set.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       162,
+       163,
+       164,
+       165,
+       166,
+       167,
+       168,
+       169,
+       170,
+       171,
+       172,
+       173,
+       174,
+       175,
+       176,
+       177,
+       178,
+       179,
+       180,
+       181,
+       182,
+       183,
+       184,
+       185
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_auction_all_rounders_set.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       136,
+       137,
+       138,
+       139,
+       140,
+       141,
+       142,
+       144,
+       145,
+       146,
+       147,
+       148,
+       149,
+       150,
+       151,
+       154,
+       155,
+       156,
+       157,
+       158,
+       159,
+       160,
+       161
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_auction_capped_wicketkeepers_set.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       123,
+       124,
+       125,
+       126,
+       127,
+       128,
+       129,
+       130,
+       131,
+       132
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_auction_capped_pace_and_spin_sets.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       87,
+       88,
+       89,
+       90,
+       91,
+       92,
+       93,
+       94,
+       95,
+       96,
+       97,
+       98,
+       99,
+       100,
+       101,
+       102,
+       104,
+       105,
+       106,
+       112,
+       113,
+       114,
+       115,
+       116,
+       118,
+       119,
+       120,
+       121,
+       122
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_auction_uncapped_batters_and_keepers_phase.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       68,
+       69,
+       70,
+       71,
+       72,
+       73,
+       74,
+       75,
+       76,
+       77,
+       78,
+       79,
+       80,
+       81,
+       82,
+       83,
+       84,
+       85,
+       86
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_auction_uncapped_bowlers_and_spinners.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       55,
+       56,
+       57,
+       58,
+       59,
+       60,
+       61,
+       62,
+       63,
+       64,
+       65,
+       66,
+       67
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_auction_first_accelerated_round.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       40,
+       54
+      ]
+     }
+    },
+    {
+     "note": "ipl_2024_auction_final_round_results.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0307": [
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "brock_purdy_and_the_2022_nfl_quarterback_class",
+   "title": "Brock Purdy and the 2022 NFL quarterback class",
+   "notes": [
+    {
+     "note": "mr_irrelevant_nfl_draft_final_pick_title.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0362": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "brock_purdy_49ers_career_trajectory.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0362": [
+       1,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "quarterbacks_selected_before_brock_purdy_2022_draft.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0362": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "nfl_2022_draft_quarterback_class_grades.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0362": [
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29,
+       30
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "kyle_larson_high_limit_racing_sprint_cars",
+   "title": "Kyle Larson and High Limit Racing",
+   "notes": [
+    {
+     "note": "high_limit_racing_sprint_car_series.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0443": [
+       1,
+       18
+      ]
+     }
+    },
+    {
+     "note": "dale_earnhardt_jr_visit_to_high_limit_commonwealth_clash.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0443": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "kyle_larson_origins_of_high_limit_racing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0443": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "high_limit_racing_purse_escalation_mechanism.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0443": [
+       9,
+       10,
+       12
+      ]
+     }
+    },
+    {
+     "note": "kyle_larson_lernerville_late_race_mistake.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0443": [
+       14,
+       15
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "arizona_wildcats_42_18_utah_november_2023",
+   "title": "Arizona 42-18 Utah, November 2023",
+   "notes": [
+    {
+     "note": "arizona_42_18_win_over_utah_november_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0475": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "arizona_wildcats_scoring_plays_versus_utah.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0475": [
+       6,
+       7,
+       8,
+       9,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "arizona_defensive_performance_versus_utah.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0475": [
+       4,
+       5,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "jedd_fisch_on_arizona_program_trajectory.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0475": [
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "jordan_morgan_senior_day_at_arizona_stadium.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0475": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "arizona_versus_arizona_state_territorial_cup_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0475": [
+       19,
+       20
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ireland_new_zealand_2023_rugby_world_cup_quarter_final",
+   "title": "Ireland vs New Zealand, 2023 Rugby World Cup quarter-final",
+   "notes": [
+    {
+     "note": "ireland_rugby_world_cup_quarter_final_curse.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0538": [
+       3,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "ireland_37_phase_final_attack_versus_new_zealand.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0538": [
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "ireland_greatest_team_yet_no_knockout_win.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0538": [
+       6,
+       10
+      ]
+     }
+    },
+    {
+     "note": "ian_foster_all_blacks_turnaround_and_succession.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0538": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "new_zealand_28_24_ireland_2023_world_cup_quarter_final.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0538": [
+       14,
+       15,
+       17,
+       18,
+       19,
+       20,
+       21,
+       23,
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0220": [
+   0,
+   11,
+   15
+  ],
+  "doc_0260": [
+   0,
+   3,
+   5,
+   8,
+   12
+  ],
+  "doc_0277": [
+   0,
+   8
+  ],
+  "doc_0307": [
+   0,
+   133,
+   134,
+   135,
+   189,
+   190,
+   191,
+   198,
+   199,
+   213,
+   219,
+   223,
+   231,
+   233,
+   234,
+   235,
+   254
+  ],
+  "doc_0352": [
+   0,
+   17,
+   22,
+   23,
+   24,
+   25
+  ],
+  "doc_0362": [
+   0,
+   3,
+   4,
+   6,
+   10,
+   11,
+   31,
+   32
+  ],
+  "doc_0443": [
+   0,
+   2,
+   4,
+   5,
+   11,
+   13,
+   16,
+   17,
+   19
+  ],
+  "doc_0445": [
+   0,
+   1,
+   2,
+   7,
+   12
+  ],
+  "doc_0475": [
+   0
+  ],
+  "doc_0478": [
+   0,
+   9,
+   34,
+   37,
+   43
+  ],
+  "doc_0538": [
+   0,
+   1,
+   2,
+   9,
+   16,
+   22
+  ]
+ },
+ "genre_note": "76 notes over 11 documents; 92.7% of cluster words assigned (14,345/15,483), verified programmatically. Per-doc: doc_0220 99.2%, doc_0475 99.1%, doc_0478 98.3%, doc_0277 96.5%, doc_0260 96.2%, doc_0307 93.9%, doc_0443 90.0%, doc_0538 89.5%, doc_0445 86.7%, doc_0352 83.7%, doc_0362 76.1%. Four documents land below 90% for structural reasons, not careless deletion: doc_0362 (Sportskeeda) carries 234 words of betting promos, a draft-simulator ad, a start/sit plug and a 167-word prediction-game terms-and-conditions block; doc_0352 (Guardian) carries a 90-word newsletter promotion plus an 84-word \"how to turn on sport notifications\" app guide; doc_0445 and doc_0538 (both Independent) each open with roughly 85 words of newsletter sign-up boilerplate and Mustache template error strings. Everything else dropped is article titles (carried in the note H1), bylines, \"Also Read\" / \"Watch This Story\" / \"Embed from Getty Images\" furniture, ADVERTISEMENT separators, contentless section headers, decorative team tweets, and one empty timestamp (doc_0307 block 213).\n\nBuilding-block distribution matches the genre. 64 of 76 notes are empirical_observation: dated events, scorelines, transfer fees, auction hammer prices, quotes, injury lists. 5 are concept (the Mr. Irrelevant draft title, High Limit Racing as an entity, the Premier League's Indian broadcast and streaming arrangement, the IPL 2024 auction's venue/date/slot structure, and Ireland's Rugby World Cup quarter-final curse as a named phenomenon). 5 are argument (the Sportskeeda draft-class grades, which are claims with grounds rather than facts; Jedd Fisch on what beating Utah signifies about his program; the Independent's \"greatest Ireland team, yet no knockout win\" thesis; the IPL pundit previews, each reasoning from a stated ground such as \"RCB will focus on the bowlers because it is difficult to defend at the Chinnaswamy Stadium\"; and the claim that English and Australian players' mid-tournament unavailability should depress their bids). 1 is counter_argument (Jamie Carragher calling Ronaldo's Saudi move a \"sad end\" \u2014 the only genuine rebuttal in the cluster). 1 is model (the causal chain by which High Limit Racing's $50,000 purses pressure weekend sprint-car promoters to raise their own purses, lift team merchandise revenue, and keep small dirt tracks maintained).\n\nTwo blocks were NOT manufactured: there is no procedure and no hypothesis anywhere in this cluster. The closest candidate to procedure was doc_0260's \"subscribe to Hotstar VIP to stream\" passage, which describes rights and channels rather than ordered steps, so it is filed as concept. The closest to hypothesis was doc_0443's closing speculation about Larson's post-NASCAR hopes for the series \u2014 an aspiration, not a testable prediction \u2014 so it sits in the High Limit Racing concept note. Absence here is a finding, not a gap.\n\nThree roundup/live-blog documents drove the decomposition and were split on topical, not size, grounds. doc_0277 is a seven-item ranked listicle: each ranked player is a separate subject, so it became eight player notes plus a race-framing note, never one \"top scorers\" note. doc_0352 is a four-league European roundup \u2014 Bundesliga, LaLiga, Serie A and Ligue 1 items share nothing but the page \u2014 so it became four match notes plus two cross-document player notes. doc_0307 is a 255-block, 3,696-word IPL 2024 auction live blog: it was cut along the auction's own structure (capped batters, all-rounders, wicketkeepers, pace and spin, the uncapped phase, two accelerated rounds), with the two record signings and the purse tracker lifted out; because that yields 18 notes it is split across two sub-plans as required.\n\nThree notes are shared entity notes drawing blocks from two documents each, per Step 3: harry_kane_bayern_munich_2023_scoring_records (doc_0277 blocks 39-48 plus doc_0352 block 6, his eighth Bundesliga goal and the Haaland comparison); lautaro_martinez_2023_goalscoring_form (doc_0277 blocks 9-13 plus doc_0352 blocks 13-20 \u2014 the whole Inter item in doc_0352 is in substance a Lautaro item, so no separate Salernitana match note was created); cole_palmer_penalty_taking_role_and_record (doc_0445 blocks 8-9 plus doc_0478 block 19, the deflected 35th-minute penalty at Tottenham). No (doc, block) pair is assigned twice, and assigned-plus-dropped exactly partitions all 553 blocks \u2014 both checked by script.\n\nOne block deserves flagging for whoever writes the notes. doc_0478 is headlined \"Tottenham's Unbeaten Run Ends With 4-1 Home Loss to Chelsea\", but its own summary block 1 says Tottenham \"suffered their first loss of the Premier League campaign in a fiery 2-1 defeat\". The body unambiguously supports 4-1 (Kulusevski, Palmer's penalty, then Jackson at 75', 94' and 97'). The 2-1 is a publisher error rather than a scope condition, but block 1 is retained and assigned rather than silently deleted, and it carries two load-bearing facts the headline omits: Spurs finished with nine men, and this ended their unbeaten start. The note should record 4-1 and may note the source's internal inconsistency."
+}

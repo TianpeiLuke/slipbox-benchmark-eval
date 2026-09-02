@@ -1,0 +1,2067 @@
+{
+ "cluster": "c18",
+ "subplans": [
+  {
+   "slug": "fantasy_football_week_13_matchup_previews",
+   "title": "Fantasy Football Week 13: game-by-game matchup previews",
+   "notes": [
+    {
+     "note": "fantasy_football_weekly_lineup_matchup_method.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0057": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "fantasy_week_13_seahawks_at_cowboys_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       6,
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "fantasy_week_13_broncos_at_texans_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "fantasy_week_13_chargers_at_patriots_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "fantasy_week_13_saints_at_lions_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       30,
+       31,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "fantasy_week_13_falcons_jets_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       35,
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "fantasy_week_13_cardinals_at_steelers_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       39,
+       40,
+       41,
+       42
+      ]
+     }
+    },
+    {
+     "note": "fantasy_week_13_colts_titans_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       46,
+       47,
+       48,
+       49
+      ]
+     }
+    },
+    {
+     "note": "fantasy_week_13_dolphins_commanders_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       51,
+       52,
+       53,
+       54
+      ]
+     }
+    },
+    {
+     "note": "fantasy_week_13_panthers_at_buccaneers_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       56,
+       57,
+       58,
+       59
+      ]
+     }
+    },
+    {
+     "note": "fantasy_week_13_browns_at_rams_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       63,
+       64,
+       65,
+       66
+      ]
+     }
+    },
+    {
+     "note": "fantasy_week_13_eagles_49ers_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       72,
+       73,
+       74
+      ]
+     }
+    },
+    {
+     "note": "fantasy_week_13_packers_at_chiefs_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       76,
+       77,
+       78
+      ]
+     }
+    },
+    {
+     "note": "fantasy_week_13_jaguars_bengals_outlook.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       80
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "fantasy_football_week_13_player_verdicts",
+   "title": "Fantasy Football Week 13: individual start/sit verdicts",
+   "notes": [
+    {
+     "note": "dk_metcalf_week_13_start_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "tyler_lockett_week_13_flex_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "jake_ferguson_week_13_sit_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "russell_wilson_week_13_start_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "devin_singletary_week_13_start_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "james_conner_week_13_sit_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       43,
+       44
+      ]
+     }
+    },
+    {
+     "note": "chris_godwin_week_13_sit_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       60,
+       61
+      ]
+     }
+    },
+    {
+     "note": "amari_cooper_week_13_start_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       67,
+       68
+      ]
+     }
+    },
+    {
+     "note": "cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0057": [
+       69,
+       70
+      ],
+      "doc_0113": [
+       14
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nfl_2023_week_11_injuries_and_week_12_picks",
+   "title": "NFL Week 11 injury roundup and Prisco's Week 12 picks",
+   "notes": [
+    {
+     "note": "nfl_week_11_2023_quarterback_injuries.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0113": [
+       1,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_11_2023_running_back_injuries.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0113": [
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_11_2023_wide_receiver_injuries.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0113": [
+       13,
+       15
+      ]
+     }
+    },
+    {
+     "note": "nfl_week_11_2023_defensive_player_injuries.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0113": [
+       17,
+       19
+      ]
+     }
+    },
+    {
+     "note": "aaron_jones_2023_hamstring_injury_timeline.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0113": [
+       7
+      ],
+      "doc_0282": [
+       57
+      ]
+     }
+    },
+    {
+     "note": "prisco_2023_week_12_picks_season_record.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0343": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "prisco_week_12_thanksgiving_and_black_friday_picks.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0343": [
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "prisco_week_12_sunday_early_window_picks.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0343": [
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "prisco_week_12_sunday_late_afternoon_picks.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0343": [
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50
+      ]
+     }
+    },
+    {
+     "note": "prisco_week_12_sunday_night_and_monday_night_picks.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0343": [
+       51,
+       52,
+       53,
+       54,
+       55,
+       56
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nfl_2024_mock_draft_round_one",
+   "title": "2024 NFL Mock Draft: first-round projections by position",
+   "notes": [
+    {
+     "note": "mock_draft_2024_round_1_quarterbacks.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0179": [
+       1,
+       2,
+       11,
+       21
+      ]
+     }
+    },
+    {
+     "note": "mock_draft_2024_round_1_wide_receivers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0179": [
+       3,
+       15,
+       18,
+       22,
+       27
+      ]
+     }
+    },
+    {
+     "note": "mock_draft_2024_round_1_offensive_tackles.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0179": [
+       4,
+       6,
+       7,
+       12,
+       23,
+       28,
+       30
+      ]
+     }
+    },
+    {
+     "note": "mock_draft_2024_round_1_edge_rushers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0179": [
+       5,
+       9,
+       10,
+       19,
+       20,
+       24
+      ]
+     }
+    },
+    {
+     "note": "mock_draft_2024_round_1_defensive_backs.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0179": [
+       14,
+       16,
+       17,
+       25,
+       26,
+       29
+      ]
+     }
+    },
+    {
+     "note": "mock_draft_2024_round_1_interior_defenders_and_tight_end.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0179": [
+       8,
+       13,
+       31
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "college_football_coaching_carousel_2023",
+   "title": "Michigan State's hire of Jonathan Smith and its fallout",
+   "notes": [
+    {
+     "note": "michigan_state_hires_jonathan_smith_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0411": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "jonathan_smith_oregon_state_tenure_and_coaching_career.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0411": [
+       8,
+       11
+      ]
+     }
+    },
+    {
+     "note": "oregon_state_coaching_search_and_pac_12_breakup.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0411": [
+       9,
+       10,
+       12
+      ]
+     }
+    },
+    {
+     "note": "mel_tucker_firing_and_michigan_state_decline.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0411": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "michigan_state_2024_schedule_after_big_ten_expansion.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0411": [
+       16
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "benavidez_vs_andrade_2023_boxing_card",
+   "title": "David Benavidez vs Demetrius Andrade: preview, undercard and pick",
+   "notes": [
+    {
+     "note": "benavidez_vs_andrade_2023_bout_details_and_odds.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0446": [
+       1,
+       3,
+       10,
+       28,
+       29,
+       33,
+       34,
+       35,
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "demetrius_andrade_career_and_avoided_opponents.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0446": [
+       2,
+       4,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "david_benavidez_career_and_canelo_alvarez_pursuit.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0446": [
+       5,
+       6,
+       7,
+       8,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "benavidez_andrade_undercard_and_jermall_charlo_return.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0446": [
+       26,
+       30,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "benavidez_vs_andrade_stylistic_breakdown_and_pick.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0446": [
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       39,
+       40,
+       41,
+       42,
+       43
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "canelo_alvarez_2023_fight_and_boxing_economics",
+   "title": "Canelo vs Charlo card and the Canelo-McGregor money story",
+   "notes": [
+    {
+     "note": "canelo_alvarez_defeats_jermell_charlo_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0245": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       16
+      ]
+     }
+    },
+    {
+     "note": "canelo_alvarez_next_opponents_after_charlo_win.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0245": [
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "canelo_charlo_round_by_round_scorecard.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0245": [
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42
+      ]
+     }
+    },
+    {
+     "note": "lubin_vs_ramos_2023_co_main_event.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0245": [
+       43,
+       44,
+       45,
+       46,
+       47,
+       48
+      ]
+     }
+    },
+    {
+     "note": "barrios_vs_ugas_interim_wbc_welterweight_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0245": [
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55
+      ]
+     }
+    },
+    {
+     "note": "elijah_garcia_stops_armando_resendiz_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0245": [
+       56,
+       57,
+       58,
+       59
+      ]
+     }
+    },
+    {
+     "note": "canelo_charlo_ppv_card_schedule.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0245": [
+       60,
+       61
+      ]
+     }
+    },
+    {
+     "note": "crossover_boxing_and_the_mcgregor_canelo_feud.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0194": [
+       1,
+       3
+      ]
+     }
+    },
+    {
+     "note": "canelo_alvarez_undisputed_titles_and_net_worth.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0194": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "canelo_vs_mcgregor_superfight_revenue_case.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0194": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "canelo_and_mcgregor_pay_per_view_purse_history.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0194": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "floyd_mayweather_net_worth_and_career_earnings.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0194": [
+       8,
+       16,
+       18
+      ]
+     }
+    },
+    {
+     "note": "canelo_projected_path_to_mayweather_wealth.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0194": [
+       19,
+       21
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ufc_295_and_influencer_mma_feuds",
+   "title": "UFC 295 betting card and the Danis-Paul feud",
+   "notes": [
+    {
+     "note": "ufc_295_card_changes_and_main_events.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0577": [
+       1,
+       2,
+       3,
+       4,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "ufc_295_lopes_vs_sabatini_best_bet.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0577": [
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "ufc_295_frevola_vs_saint_denis_best_bet.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0577": [
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "ufc_295_dern_vs_andrade_best_bet.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0577": [
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "ufc_295_pavlovich_vs_aspinall_best_bet.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0577": [
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "ufc_295_prochazka_vs_pereira_best_bet.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0577": [
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "dillon_danis_feud_with_the_paul_brothers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0274": [
+       1,
+       3
+      ]
+     }
+    },
+    {
+     "note": "savannah_montano_and_the_2020_jake_paul_callout.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0274": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "jake_paul_savannah_montano_hookup_claims_and_denial.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0274": [
+       10,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "dillon_danis_and_savannah_montano_relationship_status.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0274": [
+       16,
+       18,
+       20
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "astros_2017_sign_stealing_scandal",
+   "title": "The Houston Astros sign-stealing scandal and its aftermath",
+   "notes": [
+    {
+     "note": "houston_astros_front_office_rebuild_under_crane_and_luhnow.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0007": [
+       1,
+       3,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "sign_stealing_rules_and_mlb_countermeasures.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0007": [
+       10,
+       33
+      ]
+     }
+    },
+    {
+     "note": "astros_camera_and_trash_can_sign_stealing_scheme.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0007": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "astros_sign_stealing_exposure_and_mlb_penalties.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0007": [
+       8,
+       15,
+       16,
+       25
+      ]
+     }
+    },
+    {
+     "note": "why_mlb_let_the_astros_keep_the_2017_title.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0007": [
+       18,
+       20
+      ]
+     }
+    },
+    {
+     "note": "astros_players_immunity_and_mike_fiers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0007": [
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "backlash_to_the_astros_cheating_scandal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0007": [
+       27,
+       28,
+       31,
+       36
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "mlb_2023_offseason_manager_and_roster_decisions",
+   "title": "MLB managerial vacancies and the Yankees' Gleyber Torres question",
+   "notes": [
+    {
+     "note": "mlb_2023_managerial_vacancies_overview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0416": [
+       1,
+       3,
+       26
+      ]
+     }
+    },
+    {
+     "note": "los_angeles_angels_manager_search_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0416": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "houston_astros_manager_search_after_dusty_baker.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0416": [
+       10,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "cleveland_guardians_manager_search_after_francona.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0416": [
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "new_york_mets_manager_search_after_showalter.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0416": [
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "san_diego_padres_manager_search_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0416": [
+       22,
+       24
+      ]
+     }
+    },
+    {
+     "note": "yankees_2023_season_failure_and_2024_reset.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0429": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "gleyber_torres_2023_season_and_trade_speculation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0429": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "yankees_second_base_options_without_gleyber_torres.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0429": [
+       5,
+       7,
+       9
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "vermont_sportsbook_operator_offers",
+   "title": "Per-operator Vermont sportsbook welcome offers",
+   "notes": [
+    {
+     "note": "fanduel_vermont_sportsbook_welcome_offer.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0072": [
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21,
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "fanduel_vermont_welcome_offer_tradeoffs.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0072": [
+       24,
+       25,
+       26,
+       28,
+       29,
+       30,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "draftkings_vermont_sportsbook_welcome_offer.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0072": [
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       56,
+       57,
+       58,
+       59
+      ]
+     }
+    },
+    {
+     "note": "draftkings_vermont_welcome_offer_tradeoffs.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0072": [
+       49,
+       50,
+       51,
+       53,
+       54,
+       55,
+       60,
+       61
+      ]
+     }
+    },
+    {
+     "note": "betmgm_vermont_sportsbook_welcome_offer.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0072": [
+       63,
+       64,
+       65,
+       66,
+       67,
+       68,
+       69,
+       70,
+       71,
+       81,
+       82,
+       83,
+       84
+      ]
+     }
+    },
+    {
+     "note": "betmgm_vermont_welcome_offer_tradeoffs.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0072": [
+       74,
+       75,
+       76,
+       78,
+       79,
+       80,
+       85,
+       86
+      ]
+     }
+    },
+    {
+     "note": "fanatics_sportsbook_vermont_launch_plans.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0072": [
+       88,
+       89,
+       90,
+       91
+      ]
+     }
+    },
+    {
+     "note": "espn_bet_vermont_launch_and_expected_offer.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0072": [
+       93,
+       94,
+       95,
+       96
+      ]
+     }
+    },
+    {
+     "note": "caesars_vermont_sportsbook_welcome_offer.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0072": [
+       100,
+       101,
+       102,
+       103,
+       104,
+       105,
+       106,
+       107
+      ]
+     }
+    },
+    {
+     "note": "betrivers_vermont_sportsbook_welcome_offer.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0072": [
+       109,
+       110,
+       111,
+       112,
+       113,
+       114,
+       115,
+       116
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "vermont_sports_betting_market_and_bonus_mechanics",
+   "title": "Vermont's betting law, bonus types and bonus terms",
+   "notes": [
+    {
+     "note": "vermont_online_sports_betting_law_and_launch.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0072": [
+       1,
+       2,
+       3,
+       10,
+       98
+      ]
+     }
+    },
+    {
+     "note": "vermont_sportsbook_prelive_sign_up_offers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0072": [
+       5,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "vermont_sportsbook_bonus_pros_and_cons.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0072": [
+       118
+      ]
+     }
+    },
+    {
+     "note": "types_of_sportsbook_promotional_offers.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0072": [
+       120,
+       121,
+       122,
+       123,
+       124,
+       125,
+       126,
+       127,
+       128,
+       129,
+       130,
+       131,
+       132,
+       133,
+       134,
+       135,
+       136,
+       137,
+       138
+      ]
+     }
+    },
+    {
+     "note": "sportsbook_bonus_terms_and_conditions.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0072": [
+       140,
+       141,
+       142,
+       143,
+       144,
+       145,
+       146,
+       147,
+       148,
+       149,
+       150
+      ]
+     }
+    },
+    {
+     "note": "vermont_sport_specific_betting_promotions.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0072": [
+       152,
+       153
+      ]
+     }
+    },
+    {
+     "note": "how_to_claim_a_vermont_sportsbook_bonus.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0072": [
+       155,
+       156
+      ]
+     }
+    },
+    {
+     "note": "vermont_sportsbook_promo_code_faq.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0072": [
+       158,
+       159,
+       160,
+       161,
+       162,
+       163,
+       164,
+       165
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lions_packers_week_4_2023",
+   "title": "Lions at Packers, Week 4 2023: DFS preview and live game log",
+   "notes": [
+    {
+     "note": "lions_packers_rivalry_shift_2022_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0183": [
+       1,
+       2,
+       3,
+       26
+      ]
+     }
+    },
+    {
+     "note": "lions_packers_week_4_fanduel_single_game_lineup.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0183": [
+       6,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "lions_packers_week_4_superdraft_lineup_and_scoring.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0183": [
+       16,
+       17,
+       19,
+       21,
+       22,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "lions_defeat_packers_week_4_2023_recap.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0282": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8,
+       12
+      ]
+     }
+    },
+    {
+     "note": "lions_packers_week_4_fourth_quarter_log.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0282": [
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "lions_packers_week_4_third_quarter_log.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0282": [
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35
+      ]
+     }
+    },
+    {
+     "note": "lions_packers_week_4_first_half_and_pregame_log.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0282": [
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55,
+       56,
+       58
+      ]
+     }
+    },
+    {
+     "note": "lions_packers_week_4_broadcast_and_streaming_details.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0282": [
+       60,
+       61,
+       62,
+       64,
+       65,
+       66,
+       67,
+       68,
+       69,
+       70,
+       71
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "swift_kelce_and_nfl_business_strategy",
+   "title": "The Swift-Kelce story as NFL business and betting phenomenon",
+   "notes": [
+    {
+     "note": "chiefs_jets_week_4_swift_sideshow_and_prop_stars_menu.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0311": [
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "travis_kelce_touchdown_props_chiefs_jets_week_4.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0311": [
+       8,
+       9,
+       10,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       23,
+       24,
+       25,
+       29,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "chiefs_jets_week_4_team_level_props.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0311": [
+       11,
+       12,
+       13,
+       20,
+       21,
+       22,
+       26,
+       27,
+       28,
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "backlash_to_traylor_media_coverage.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0344": [
+       1
+      ],
+      "doc_0311": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "nfl_revenue_growth_and_goodell_27_billion_target.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0344": [
+       3,
+       11,
+       13
+      ]
+     }
+    },
+    {
+     "note": "taylor_swift_effect_on_nfl_audience_and_revenue.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0344": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "nfl_international_games_and_player_safety_initiatives.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0344": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "nba_1970s_image_crisis_and_david_stern_turnaround.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0344": [
+       14,
+       16
+      ]
+     }
+    },
+    {
+     "note": "nfl_scandals_and_cte_controversy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0344": [
+       18
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "premier_league_var_and_pgmol_apologies",
+   "title": "PGMOL's apologies for VAR and refereeing errors",
+   "notes": [
+    {
+     "note": "pgmol_and_var_review_in_english_football.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0395": [
+       1,
+       4,
+       7
+      ]
+     }
+    },
+    {
+     "note": "pgmol_apologies_2023_24_season_opening_months.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0395": [
+       2,
+       3,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "pgmol_apologies_spring_2023_incidents.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0395": [
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "pgmol_apologies_autumn_2022_incidents.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0395": [
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45,
+       46,
+       47,
+       48
+      ]
+     }
+    },
+    {
+     "note": "everton_manchester_city_2022_handball_var_error.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0395": [
+       49,
+       50,
+       51
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nfl_christmas_day_2023_tripleheader",
+   "title": "Christmas Day 2023 NFL tripleheader previews",
+   "notes": [
+    {
+     "note": "raiders_at_chiefs_christmas_day_2023_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0003": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "giants_at_eagles_christmas_day_2023_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0003": [
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "ravens_at_49ers_christmas_day_2023_preview.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0003": [
+       16,
+       17,
+       21,
+       22,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "brock_purdy_lamar_jackson_2023_mvp_race.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0003": [
+       18,
+       19,
+       20
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0057": [
+   0,
+   5,
+   16,
+   24,
+   29,
+   34,
+   38,
+   45,
+   50,
+   55,
+   62,
+   71,
+   75,
+   79
+  ],
+  "doc_0113": [
+   0,
+   2,
+   6,
+   11,
+   12,
+   16,
+   18
+  ],
+  "doc_0179": [
+   0
+  ],
+  "doc_0343": [
+   0,
+   27
+  ],
+  "doc_0411": [
+   0,
+   7,
+   13
+  ],
+  "doc_0446": [
+   0,
+   9,
+   27,
+   38
+  ],
+  "doc_0577": [
+   0,
+   5,
+   8,
+   24
+  ],
+  "doc_0007": [
+   0,
+   2,
+   4,
+   5,
+   9,
+   14,
+   17,
+   19,
+   21,
+   24,
+   26,
+   29,
+   30,
+   32,
+   34,
+   35
+  ],
+  "doc_0194": [
+   0,
+   2,
+   4,
+   5,
+   9,
+   12,
+   15,
+   17,
+   20,
+   22
+  ],
+  "doc_0274": [
+   0,
+   2,
+   4,
+   5,
+   9,
+   15,
+   17,
+   19,
+   21
+  ],
+  "doc_0344": [
+   0,
+   2,
+   4,
+   5,
+   9,
+   12,
+   15,
+   17,
+   19,
+   20,
+   21
+  ],
+  "doc_0416": [
+   0,
+   2,
+   4,
+   5,
+   9,
+   14,
+   18,
+   21,
+   23,
+   25,
+   27
+  ],
+  "doc_0429": [
+   0,
+   2,
+   4,
+   6,
+   8,
+   10
+  ],
+  "doc_0072": [
+   0,
+   4,
+   6,
+   9,
+   11,
+   22,
+   23,
+   27,
+   37,
+   47,
+   48,
+   52,
+   62,
+   72,
+   73,
+   77,
+   87,
+   92,
+   97,
+   99,
+   108,
+   117,
+   119,
+   139,
+   151,
+   154,
+   157,
+   166
+  ],
+  "doc_0183": [
+   0,
+   4,
+   5,
+   7,
+   8,
+   15,
+   18,
+   20
+  ],
+  "doc_0245": [
+   0,
+   17,
+   62
+  ],
+  "doc_0282": [
+   0,
+   9,
+   10,
+   11,
+   13,
+   14,
+   59,
+   63
+  ],
+  "doc_0311": [
+   0,
+   6,
+   7
+  ],
+  "doc_0395": [
+   0,
+   5,
+   6,
+   21,
+   39
+  ],
+  "doc_0003": [
+   0
+  ]
+ },
+ "genre_note": "132 notes across 16 sub-plans; 31,254 of 32,975 words assigned (94.8%), verified programmatically for zero duplicate (doc, block) assignments and zero notes above the 1,800-word density cap.\n\nSTRUCTURE. This cluster is dominated by the roundup/listicle form, so size never set a boundary \u2014 topic did. Nine of the twenty documents are one article containing many unrelated items: doc_0057 (5,148w) is thirteen separate NFL games plus nine standalone player cards; doc_0179 is thirty-one independent draft-prospect capsules; doc_0343 is sixteen game picks; doc_0072 (4,104w) is seven sportsbook operators plus generic bonus-mechanics reference; doc_0416 is five team-by-team manager searches; doc_0395 is twelve dated refereeing incidents; doc_0311 is nine themed prop bets. Each was split at its item boundary, then re-grouped only where an item was too thin to stand alone and the grouping was the source's own (mock-draft picks by position, PGMOL apologies by season window, Prisco's picks by kickoff slot, Kelce props vs team props). Only doc_0429 and doc_0411 are conventional single-subject articles.\n\nBUILDING BLOCKS. As expected of news, empirical_observation (79 notes) and argument (40) carry almost everything. Notable absences and rarities, reported rather than manufactured: hypothesis occurs exactly once (canelo_projected_path_to_mayweather_wealth \u2014 a genuine testable prediction that a McGregor bout would lift Canelo to ~$240M); model occurs twice (the Astros' camera-to-trash-can mechanism; the NBA's 1970s decline-and-Stern-recovery causal chain used as an NFL analogy); counter_argument three times (Manfred's rationale against vacating the 2017 title, Savannah Montano's on-record denial, the Lindsay/Russo backlash to Swift-Kelce coverage). procedure (7) appears only where the source really is ordered steps \u2014 sportsbook claim sequences and the weekly fantasy-lineup method. concept (7) covers the durable definitional material: what sign stealing is, what PGMOL is, Vermont's betting law, bonus types and terms. No navigation notes were produced.\n\nSHARED ENTITY NOTES. Three notes draw blocks from two documents each, so one note satisfies both pieces of evidence rather than splitting it: cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict (doc_0113 Week 11 injury + doc_0057 Week 13 bench call, where the injury is literally the stated grounds); aaron_jones_2023_hamstring_injury_timeline (doc_0282 Week 4 return + doc_0113 Week 11 reaggravation); backlash_to_traylor_media_coverage (Rachel Lindsay in doc_0344 + Chris Russo in doc_0311). Other cross-document entities (Travis Kelce, Canelo, the Astros, Jermall Charlo, Lions-Packers, Jaguars-Texans) recur across docs but as genuinely different subjects \u2014 a cheating scandal and a manager vacancy are not near-duplicates \u2014 so they stay separate and bridge by name.\n\nDROPPED CHROME, AND WHAT SURVIVED INSPECTION. Drops are titles, section headers, one-word Pros/Cons labels, \"ADVERTISEMENT Article continues below this ad\", \"America's Favorite Video Today\", \"Watch This Story\" teasers, related-article links, editorial disclaimers, and newsletter/SportsLine/SuperDraft promos. Two things I deliberately kept after inspecting them: doc_0343's parenthetical \"(Result: Packers 29, Lions 22)\" appendices, which contradict four of Prisco's own picks and are exactly the scope condition a careless summariser deletes; and doc_0446's start-time discrepancy (block 3 says 8 p.m. ET, block 36 says 9 p.m. ET) \u2014 both blocks are assigned to the same note so the conflict stays visible. Photo captions carrying dated facts (Swift beside Donna Kelce; the Canelo-Charlo weigh-in; Mayweather at a Liberty-Aces game; Paul-Woodley II) were assigned; one stock caption of an unrelated 2021 Suns-Spurs scuffle (doc_0344 block 15) was not.\n\nBELOW-90% DOCUMENTS, REPORTED HONESTLY. Five land under the 90% target, all for promotional or structural reasons rather than compression: doc_0344 (85.2%) \u2014 an editorial disclaimer, two related-article teasers, three ad markers and the unrelated stock caption; doc_0113 (85.7%) \u2014 a 111-word Pick Six newsletter block plus five one-word position headers in a 923-word article; doc_0007 (88.4%) \u2014 sixteen dropped blocks, almost all interrogative section headers, ad markers and cross-promo links; doc_0577 (88.7%) \u2014 a newsletter subscription pitch, a CBS live-coverage plug and a SportsLine upsell totalling 118 words of a 1,158-word piece; doc_0072 (97.0% but with 28 dropped blocks) \u2014 high count, low word cost, since its chrome is dozens of two-to-eight-word headers. The Essentially Sports documents as a class carry the heaviest chrome load in this cluster."
+}

@@ -1,0 +1,2157 @@
+{
+ "cluster": "c06",
+ "subplans": [
+  {
+   "slug": "britney_spears_the_woman_in_me_memoir",
+   "title": "Britney Spears' memoir The Woman in Me",
+   "notes": [
+    {
+     "note": "britney_spears_memoir_early_fame_loss_of_freedom.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0052": [
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "britney_spears_memoir_body_scrutiny_and_diet_control.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0052": [
+       6,
+       7,
+       9
+      ]
+     }
+    },
+    {
+     "note": "britney_spears_virginity_marketing_and_timberlake_cheating_claim.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0052": [
+       11,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "britney_spears_memoir_barbs_at_timberlake_and_federline.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0052": [
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "britney_spears_motherhood_and_postpartum_depression.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0052": [
+       19,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "britney_spears_arrested_development_under_conservatorship.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0052": [
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "britney_spears_music_making_from_baby_one_more_time_to_blackout.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0052": [
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "the_woman_in_me_memoir_publication_details.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0052": [
+       31
+      ],
+      "doc_0582": [
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "britney_spears_conservatorship_restrictions_and_swat_holds.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0052": [
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "britney_spears_solitary_rehab_facility_confinement.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0052": [
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "freebritney_movement_and_conservatorship_termination_2021.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0052": [
+       39
+      ]
+     }
+    },
+    {
+     "note": "britney_spears_estrangement_from_her_family.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0052": [
+       41,
+       42,
+       43,
+       44
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "indigenous_and_black_portraiture_exhibitions",
+   "title": "Portrait artists on show: Tyler Mitchell and Vincent Namatjira",
+   "notes": [
+    {
+     "note": "tyler_mitchell_vogue_covers_and_ngv_triennial_works.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0171": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "tyler_mitchell_staged_black_leisure_photography.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0171": [
+       3,
+       5
+      ]
+     }
+    },
+    {
+     "note": "tyler_mitchell_career_trajectory_and_artistic_outlook.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0171": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "vincent_namatjira_childhood_foster_care_and_return_to_country.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0284": [
+       1,
+       2,
+       7,
+       8,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "vincent_namatjira_ramsay_and_archibald_prize_wins.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0284": [
+       3,
+       4,
+       6
+      ]
+     }
+    },
+    {
+     "note": "albert_namatjira_hermannsburg_watercolour_painter.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0284": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "vincent_namatjira_choosing_his_own_path_from_alberts_legacy.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0284": [
+       9,
+       13,
+       14,
+       15,
+       33,
+       34,
+       35
+      ]
+     }
+    },
+    {
+     "note": "vincent_namatjira_guerilla_humour_portrait_practice.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0284": [
+       5,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "vincent_namatjira_painting_royals_on_country.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0284": [
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "vincent_namatjira_call_for_foster_care_apology.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0284": [
+       23,
+       32
+      ]
+     }
+    },
+    {
+     "note": "vincent_namatjira_australia_in_colour_survey_exhibition.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0284": [
+       29,
+       30,
+       31,
+       36
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "screen_actors_and_filmmakers",
+   "title": "Screen figures: Eli Roth, Robin Williams, Owen Teale",
+   "notes": [
+    {
+     "note": "thanksgiving_film_origin_in_grindhouse_fake_trailer.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0221": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "thanksgiving_black_friday_opening_as_consumerism_critique.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0221": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "eli_roth_horror_filmography_and_acting_roles.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0221": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "robin_williams_stand_up_origins_and_mork_fame.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0227": [
+       1,
+       2,
+       3,
+       4,
+       6
+      ]
+     }
+    },
+    {
+     "note": "robin_williams_cocaine_use_at_the_comedy_store.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0227": [
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "robin_williams_cocaine_material_in_his_stand_up_act.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0227": [
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "robin_williams_quitting_cocaine_after_belushi_death.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0227": [
+       21,
+       22,
+       23,
+       24,
+       26
+      ]
+     }
+    },
+    {
+     "note": "robin_williams_lewy_body_dementia_and_2014_death.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0227": [
+       27,
+       28,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "owen_teale_barry_the_bear_route_into_acting.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0578": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "owen_teale_family_and_recent_villain_roles.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0578": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "owen_teale_sourcing_darkness_for_scrooge_and_alliser_thorne.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0578": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "jon_snow_death_scene_fan_reactions_to_owen_teale.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0578": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "owen_teale_missed_leading_man_opportunities.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0578": [
+       9
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "shayda_iranian_diaspora_film",
+   "title": "Shayda: Noora Niasari's debut feature",
+   "notes": [
+    {
+     "note": "shayda_festival_run_and_australian_oscar_selection.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0347": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "noora_niasari_childhood_shelter_and_shayda_script_origin.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0347": [
+       1,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "shayda_film_plot_and_cast.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0347": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "noora_niasari_on_dramatising_her_own_trauma.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0347": [
+       7,
+       8,
+       11
+      ]
+     }
+    },
+    {
+     "note": "shayda_balancing_family_violence_with_persian_ritual.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0347": [
+       12,
+       13,
+       14,
+       16
+      ]
+     }
+    },
+    {
+     "note": "mahsa_amini_death_and_iranian_womens_stories.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0347": [
+       17,
+       18,
+       19
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "october_album_reviews_mcrae_and_gabriel",
+   "title": "Album reviews: Tate McRae and Peter Gabriel",
+   "notes": [
+    {
+     "note": "tate_mcrae_greedy_tiktok_breakthrough.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0579": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "tate_mcrae_think_later_album_review.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0579": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "peter_gabriel_from_genesis_to_eighties_pop_ubiquity.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0579": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "peter_gabriel_io_first_solo_album_in_two_decades.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0579": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "peter_gabriel_io_mortality_themes_and_overlong_tracks.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0579": [
+       5
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "craig_morgan_music_and_army_reserve",
+   "title": "Craig Morgan: country music and the Army Reserve",
+   "notes": [
+    {
+     "note": "craig_morgan_once_a_soldier_always_a_soldier.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0348": [
+       1,
+       2,
+       3,
+       5,
+       7,
+       9
+      ]
+     }
+    },
+    {
+     "note": "craig_morgan_on_military_service_and_recruiting_shortfall.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0348": [
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "craig_morgan_on_military_time_demands_on_families.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0348": [
+       14,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "craig_morgan_coordinating_touring_with_reserve_duty.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0348": [
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "craig_morgan_army_service_record_and_2023_reenlistment.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0348": [
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "craig_morgan_enlisted_ep_and_guest_artists.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0348": [
+       25,
+       26,
+       27,
+       29,
+       31
+      ]
+     }
+    },
+    {
+     "note": "craig_morgan_on_lainey_wilson_and_blake_shelton.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0348": [
+       32,
+       33,
+       35,
+       36,
+       38
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "sphere_las_vegas_immersive_venue",
+   "title": "The Sphere: a $2.3b immersive concert venue",
+   "notes": [
+    {
+     "note": "sphere_las_vegas_venue_and_display_specifications.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0560": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "sphere_and_abba_voyage_immersive_show_comparison.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0560": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "sphere_plug_and_play_touring_economics.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0560": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "sphere_beam_forming_audio_and_haptic_effects.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0560": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "immersive_screen_lineage_from_cinerama_to_postcard_from_earth.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0560": [
+       5
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "taylor_swift_fandom_and_nfl_crossover",
+   "title": "Taylor Swift: the NFL crossover and a viral CD",
+   "notes": [
+    {
+     "note": "travis_kelce_taylor_swift_first_contact_and_eras_tour_bracelet.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0044": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "travis_kelce_moustache_remark_and_new_york_visit.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0044": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "nfl_broadcasters_taylor_swift_lyric_references.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0044": [
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "travis_kelce_invites_taylor_swift_to_arrowhead.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0044": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "taylor_swift_arrowhead_stadium_appearance_and_easter_eggs.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0044": [
+       7
+      ]
+     }
+    },
+    {
+     "note": "swifties_struggle_to_open_1989_taylors_version_cd.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0128": [
+       1,
+       2,
+       3,
+       5,
+       6,
+       7,
+       8,
+       10,
+       35
+      ]
+     }
+    },
+    {
+     "note": "cd_unfamiliarity_as_generational_marker.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0128": [
+       11,
+       12,
+       13,
+       15,
+       16,
+       17,
+       30,
+       37,
+       38
+      ]
+     }
+    },
+    {
+     "note": "taylor_swift_comment_on_viral_cd_tiktok.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0128": [
+       18,
+       19,
+       21,
+       22,
+       23,
+       24,
+       31,
+       32,
+       33,
+       36,
+       44,
+       46
+      ]
+     }
+    },
+    {
+     "note": "swifties_second_video_operating_a_cd_player.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0128": [
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "compact_disc_history_from_philips_to_itunes.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0128": [
+       39,
+       41,
+       42,
+       43
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "living_with_parents_and_ageing_parents",
+   "title": "Multigenerational living and caring for ageing parents",
+   "notes": [
+    {
+     "note": "alexandra_moving_home_at_37_and_solo_motherhood.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0020": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "tess_moone_selling_perth_home_and_rental_crisis.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0020": [
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "rachel_claire_photographer_returning_to_the_family_home.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0020": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "sandwich_generation_parenting_ageing_parents.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0605": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "digital_engagement_protects_the_ageing_brain.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0605": [
+       4,
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "daily_walking_reduces_late_life_depression.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0605": [
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "dementia_research_register_and_trial_participation.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0605": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "multivitamins_and_cognition_in_older_adults.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0605": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "protein_intake_guidelines_for_older_adults.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0605": [
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "age_well_daily_habits_for_the_over_fifties.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0605": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "uk_support_organisations_for_older_adults.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0605": [
+       18,
+       19,
+       20,
+       21,
+       22
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "celebrity_tough_love_parenting",
+   "title": "Celebrity tough-love parenting",
+   "notes": [
+    {
+     "note": "celebrity_tough_love_parenting_in_hollywood.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0177": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "arnold_schwarzenegger_drill_instructor_discipline.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0177": [
+       6,
+       7,
+       8,
+       9,
+       11,
+       12,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "schwarzenegger_warning_on_a_generation_of_wimps.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0177": [
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "reese_witherspoon_on_letting_children_fail.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0177": [
+       20,
+       21,
+       22,
+       23,
+       25,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "daniel_craig_against_leaving_an_inheritance.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0177": [
+       30,
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "gellar_and_prinze_strict_household_rules.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0177": [
+       37,
+       38,
+       39,
+       40,
+       42,
+       43,
+       44
+      ]
+     }
+    },
+    {
+     "note": "kutcher_and_kunis_keeping_their_children_grounded.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0177": [
+       46,
+       47,
+       48,
+       49,
+       50,
+       51
+      ]
+     }
+    },
+    {
+     "note": "candace_cameron_bure_strict_but_loving_boundaries.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0177": [
+       54,
+       55,
+       56,
+       57,
+       59,
+       60
+      ]
+     }
+    },
+    {
+     "note": "kristen_bell_shared_bedroom_character_building.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0177": [
+       63,
+       64,
+       65,
+       66
+      ]
+     }
+    },
+    {
+     "note": "kristen_bell_household_screen_time_rules.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0177": [
+       68,
+       69,
+       70
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "emily_hand_hostage_case",
+   "title": "Emily Hand and the Bring Them Home Now campaign",
+   "notes": [
+    {
+     "note": "emily_hand_ninth_birthday_in_gaza_captivity.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0596": [
+       1,
+       2,
+       3,
+       61,
+       63,
+       64
+      ]
+     }
+    },
+    {
+     "note": "emily_hand_abduction_from_kibbutz_beeri.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0596": [
+       5,
+       6,
+       7,
+       28,
+       29,
+       30,
+       32,
+       33,
+       34,
+       35
+      ]
+     }
+    },
+    {
+     "note": "emily_hand_dancing_talent_and_beyonce_routines.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0596": [
+       8,
+       9,
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "bring_them_home_now_hostage_billboard_campaign.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0596": [
+       10,
+       12,
+       13,
+       14,
+       15,
+       52,
+       53,
+       55
+      ]
+     }
+    },
+    {
+     "note": "thomas_hand_grief_and_irish_background.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0596": [
+       16,
+       18,
+       19,
+       26,
+       27,
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       46,
+       60
+      ]
+     }
+    },
+    {
+     "note": "beeri_kibbutz_casualties_and_displaced_residents.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0596": [
+       47,
+       48,
+       49,
+       50,
+       51
+      ]
+     }
+    },
+    {
+     "note": "hostage_poster_tearing_in_midtown_manhattan.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0596": [
+       25,
+       56,
+       57,
+       58
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "marcus_urann_and_the_cranberry_industry",
+   "title": "Marcus Urann and the American cranberry industry",
+   "notes": [
+    {
+     "note": "marcus_urann_cranberry_king_biography.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0130": [
+       9,
+       12,
+       22,
+       24,
+       38,
+       65,
+       66,
+       67,
+       68,
+       69,
+       71
+      ]
+     }
+    },
+    {
+     "note": "phi_kappa_phi_honor_society_founding.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0130": [
+       20,
+       25,
+       26,
+       27,
+       29,
+       30,
+       31,
+       33,
+       34,
+       35,
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "urann_canned_cranberry_sauce_invention_1912.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0130": [
+       11,
+       13,
+       49,
+       50,
+       52,
+       53,
+       54,
+       55
+      ]
+     }
+    },
+    {
+     "note": "cranberry_wet_harvesting_method.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0130": [
+       56,
+       58,
+       59
+      ]
+     }
+    },
+    {
+     "note": "ocean_spray_cranberry_cooperative.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0130": [
+       60,
+       61,
+       62,
+       63
+      ]
+     }
+    },
+    {
+     "note": "cranberry_industry_scale_and_urann_legacy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0130": [
+       17,
+       18,
+       19,
+       72,
+       73,
+       74,
+       75,
+       77,
+       78,
+       79
+      ]
+     }
+    },
+    {
+     "note": "cranberries_and_new_england_regional_identity.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0130": [
+       80,
+       82,
+       83,
+       84,
+       86
+      ]
+     }
+    },
+    {
+     "note": "no_evidence_cranberries_at_the_first_thanksgiving.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0130": [
+       2,
+       3,
+       4,
+       6,
+       7,
+       8,
+       40,
+       41,
+       42,
+       43,
+       44,
+       46,
+       47,
+       48
+      ]
+     }
+    },
+    {
+     "note": "american_cranberry_native_range_and_harvest_window.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0130": [
+       1,
+       14,
+       15
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "october_book_releases",
+   "title": "October book releases reviewed",
+   "notes": [
+    {
+     "note": "killing_for_country_david_marr.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0582": [
+       2
+      ]
+     }
+    },
+    {
+     "note": "unfinished_woman_robyn_davidson_memoir.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0582": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "stone_yard_devotional_charlotte_wood.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0582": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "the_fall_michael_wolff_on_the_murdoch_empire.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0582": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "my_life_as_a_jew_michael_gawenda.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0582": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "gunflower_stories_laura_jean_mckay.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0582": [
+       12
+      ]
+     }
+    },
+    {
+     "note": "going_infinite_michael_lewis_on_sam_bankman_fried.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0582": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "mr_einsteins_secretary_matthew_reilly.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0582": [
+       17
+      ]
+     }
+    },
+    {
+     "note": "the_seven_chris_hammer_crime_novel.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0582": [
+       19
+      ]
+     }
+    },
+    {
+     "note": "life_as_we_knew_it_australian_pandemic_account.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0582": [
+       21
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "amazon_cyber_monday_2023_deals",
+   "title": "Amazon Cyber Monday 2023 sale",
+   "notes": [
+    {
+     "note": "amazon_cyber_monday_2023_sale_schedule.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0000": [
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "amazon_echo_show_audible_and_fire_tv_offers.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0000": [
+       9,
+       12,
+       18
+      ]
+     }
+    },
+    {
+     "note": "ipad_10th_generation_cyber_monday_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0000": [
+       25
+      ]
+     }
+    },
+    {
+     "note": "amazon_65_inch_fire_tv_qled_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0000": [
+       34
+      ]
+     }
+    },
+    {
+     "note": "microsoft_surface_laptop_go_3_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0000": [
+       41
+      ]
+     }
+    },
+    {
+     "note": "meta_quest_2_black_friday_bundle_price.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0000": [
+       60
+      ],
+      "doc_0558": [
+       49
+      ]
+     }
+    },
+    {
+     "note": "bose_quietcomfort_45_headphones.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0000": [
+       49
+      ],
+      "doc_0595": [
+       45,
+       46
+      ],
+      "doc_0250": [
+       19
+      ]
+     }
+    },
+    {
+     "note": "xbox_series_x_diablo_iv_bundle_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       41
+      ],
+      "doc_0222": [
+       38
+      ]
+     }
+    },
+    {
+     "note": "google_pixel_buds_pro.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0069": [
+       5,
+       6
+      ],
+      "doc_0595": [
+       62,
+       63
+      ],
+      "doc_0250": [
+       21
+      ],
+      "doc_0404": [
+       47
+      ],
+      "doc_0222": [
+       58
+      ]
+     }
+    },
+    {
+     "note": "anker_soundcore_space_a40_earbuds.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0595": [
+       29,
+       30
+      ],
+      "doc_0250": [
+       17
+      ],
+      "doc_0404": [
+       31
+      ],
+      "doc_0222": [
+       76
+      ]
+     }
+    },
+    {
+     "note": "anker_soundcore_liberty_4_nc_earbuds.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0595": [
+       32,
+       33
+      ],
+      "doc_0404": [
+       33
+      ]
+     }
+    },
+    {
+     "note": "bose_quietcomfort_earbuds_ii.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0595": [
+       42,
+       43
+      ],
+      "doc_0250": [
+       48
+      ],
+      "doc_0222": [
+       124
+      ]
+     }
+    },
+    {
+     "note": "amazon_echo_buds_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0595": [
+       56,
+       57
+      ],
+      "doc_0404": [
+       29
+      ]
+     }
+    },
+    {
+     "note": "shokz_openrun_pro_bone_conduction_headphones.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0595": [
+       59,
+       60
+      ],
+      "doc_0567": [
+       19
+      ],
+      "doc_0404": [
+       60,
+       61
+      ]
+     }
+    },
+    {
+     "note": "google_pixel_tablet.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0250": [
+       41,
+       42
+      ],
+      "doc_0222": [
+       60
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "walmart_black_friday_2023_sale_mechanics",
+   "title": "Walmart Black Friday 2023: timing and access",
+   "notes": [
+    {
+     "note": "walmart_black_friday_2023_deal_rollout.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "walmart_black_friday_2023_store_hours.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "walmart_cyber_monday_2023_early_access.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "lego_star_wars_baby_yoda_deal_and_doorbuster_decline.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       94
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "walmart_black_friday_product_deals",
+   "title": "Walmart Black Friday 2023 product picks",
+   "notes": [
+    {
+     "note": "walmart_55_inch_qled_tv_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "hp_business_2_in_1_laptop_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       21
+      ]
+     }
+    },
+    {
+     "note": "airpods_pro_second_generation_lightning_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       28
+      ]
+     }
+    },
+    {
+     "note": "onn_budget_tablet_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       33
+      ]
+     }
+    },
+    {
+     "note": "apple_watch_se_record_low_price.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       37
+      ]
+     }
+    },
+    {
+     "note": "jbl_charge_portable_speaker_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       53
+      ]
+     }
+    },
+    {
+     "note": "dyson_v15_detect_absolute_vacuum_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       57
+      ]
+     }
+    },
+    {
+     "note": "shark_matrix_robot_vacuum_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       66
+      ]
+     }
+    },
+    {
+     "note": "vitamix_explorian_refurbished_blender_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       70
+      ]
+     }
+    },
+    {
+     "note": "solo_stove_ranger_2_fire_pit_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       77
+      ]
+     }
+    },
+    {
+     "note": "apple_watch_series_9_walmart_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       82
+      ]
+     }
+    },
+    {
+     "note": "tractive_dog_gps_tracker_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       86
+      ]
+     }
+    },
+    {
+     "note": "echelon_connect_sport_exercise_bike_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0558": [
+       90
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "amazon_cyber_monday_2023_deals_merged",
+   "title": "Amazon Cyber Monday 2023 sale \u2014 merged cross-cluster notes",
+   "notes": [
+    {
+     "note": "google_nest_thermostat.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0567": [
+       27,
+       28
+      ],
+      "doc_0222": [
+       54
+      ]
+     }
+    },
+    {
+     "note": "samsung_galaxy_buds_2_pro_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0369": [
+       62,
+       63
+      ],
+      "doc_0527": [
+       26
+      ],
+      "doc_0404": [
+       41
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0020": [
+   0
+  ],
+  "doc_0171": [
+   0,
+   2,
+   4,
+   6,
+   8
+  ],
+  "doc_0221": [
+   0,
+   2,
+   4,
+   6
+  ],
+  "doc_0579": [
+   0
+  ],
+  "doc_0052": [
+   0,
+   1,
+   5,
+   8,
+   10,
+   12,
+   15,
+   18,
+   20,
+   23,
+   27,
+   30,
+   35,
+   38,
+   40
+  ],
+  "doc_0284": [
+   0,
+   22,
+   24
+  ],
+  "doc_0347": [
+   0,
+   9,
+   10,
+   15
+  ],
+  "doc_0605": [
+   0,
+   5,
+   9,
+   17,
+   23
+  ],
+  "doc_0128": [
+   0,
+   4,
+   9,
+   14,
+   20,
+   25,
+   29,
+   34,
+   40,
+   45
+  ],
+  "doc_0130": [
+   0,
+   5,
+   10,
+   16,
+   21,
+   23,
+   28,
+   32,
+   39,
+   45,
+   51,
+   57,
+   64,
+   70,
+   76,
+   81,
+   85,
+   87
+  ],
+  "doc_0596": [
+   0,
+   4,
+   11,
+   17,
+   24,
+   31,
+   45,
+   54,
+   59,
+   62,
+   65
+  ],
+  "doc_0177": [
+   0,
+   4,
+   5,
+   10,
+   18,
+   19,
+   24,
+   28,
+   29,
+   35,
+   36,
+   41,
+   45,
+   52,
+   53,
+   58,
+   61,
+   62,
+   67
+  ],
+  "doc_0227": [
+   0,
+   5,
+   13,
+   20,
+   25,
+   31
+  ],
+  "doc_0348": [
+   0,
+   4,
+   6,
+   8,
+   10,
+   15,
+   21,
+   24,
+   28,
+   30,
+   34,
+   37
+  ],
+  "doc_0560": [
+   0
+  ],
+  "doc_0578": [
+   0,
+   2,
+   4,
+   6,
+   8,
+   10
+  ],
+  "doc_0582": [
+   0,
+   1,
+   3,
+   5,
+   7,
+   9,
+   11,
+   18,
+   20
+  ],
+  "doc_0044": [
+   0
+  ],
+  "doc_0000": [
+   0,
+   1,
+   6,
+   7,
+   8,
+   10,
+   11,
+   13,
+   14,
+   15,
+   16,
+   17,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82
+  ],
+  "doc_0558": [
+   0,
+   1,
+   5,
+   9,
+   11,
+   12,
+   13,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   29,
+   30,
+   31,
+   32,
+   34,
+   35,
+   36,
+   38,
+   39,
+   40,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   50,
+   51,
+   52,
+   54,
+   55,
+   56,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   67,
+   68,
+   69,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   78,
+   79,
+   80,
+   81,
+   83,
+   84,
+   85,
+   87,
+   88,
+   89,
+   91,
+   92,
+   93,
+   95
+  ]
+ },
+ "genre_note": "140 notes over 16 sub-plans; 25,598 of 27,872 words assigned (91.8%), verified programmatically for no duplicate (doc, block) assignment and no out-of-range indices.\n\nBUILDING-BLOCK DISTRIBUTION. empirical_observation dominates (~100 notes), as expected for news: dated events, testimony, prices, festival results, autopsy findings. concept is second (~24): entities and works \u2014 Albert Namatjira, Phi Kappa Phi, Ocean Spray, the compact disc, the Sphere, ten book capsules, the sandwich generation. argument (~13) appears wherever a reviewer or subject states a claim with grounds: the Thanksgiving Black Friday opening as consumerist critique, Namatjira on painting royals \"on country\", Witherspoon/Craig/Bell/Schwarzenegger on parenting, the Guardian's case that cranberries were absent from the first Thanksgiving. model (7) only where a genuine mechanism is spelled out: conservatorship \u2192 regression to \"child-robot\"; digital engagement \u2192 cognition; cranberries' four air chambers \u2192 wet-harvest floating; Sphere beam-forming \u2192 equal per-seat volume; Teale's own emptiness \u2192 his villains. procedure (5) only for real policies with steps: protein guidelines, joining Dementia Research, the age-well daily routine, Bell's screen-time rules.\n\nABSENCES (findings, not gaps). hypothesis does not occur \u2014 none of these 20 documents advances a testable prediction; nothing was manufactured. counter_argument also does not occur as a standalone note. The nearest candidates are embedded mid-block and cannot be separated at block granularity: Eli Roth waving away the political readings of his own film (\"I want people to escape into a rollercoaster ride\"), inside doc_0221 block 3 which is the critic's argument; and the \"seems doubtful\" rebuttal to the Pilgrims-and-cranberries story, which sits inside the argument note that already carries the claim it rebuts.\n\nSHARED-ENTITY NOTES (multi-document). Two notes draw blocks from two documents each: the_woman_in_me_memoir_publication_details.md joins the Guardian's release framing (doc_0052 b31) with the Age's publication capsule \u2014 Simon & Schuster, $49.99, 25 October, reported $US15m advance (doc_0582 b15-16); meta_quest_2_black_friday_bundle_price.md joins the Amazon listing (doc_0000 b60) with the Walmart listing (doc_0558 b49). Other cross-document links exist but could not be given shared notes without splitting blocks: Taylor Swift's 1989 re-release (doc_0044 b7 / doc_0128 b1), Black Friday as retail event vs. film premise (doc_0000, doc_0558 / doc_0221), the Pilgrims at Plymouth (doc_0130 / doc_0221), and Beyonc\u00e9 (doc_0171 / doc_0596). Those mentions sit inside blocks whose dominant subject is elsewhere.\n\nBLOCK-BOUNDARY COMPROMISE WORTH FLAGGING. doc_0579 block 3 straddles two reviews: it closes the Tate McRae piece (her place in a pop landscape of Swift, SZA, Rodrigo, Eilish, Lipa, Doja Cat, PinkPantheress) and opens the Peter Gabriel review (Genesis, Sledgehammer as MTV's most-played video, In Your Eyes in Say Anything, Miami Vice). Since a block cannot be split, it went to the Gabriel note, where the majority and the harder facts sit; the McRae note therefore lacks its concluding paragraph.\n\nCOVERAGE HONESTY. Sixteen documents land at 84\u201399%. Four fall short for structural reasons: doc_0000 (Amazon deals, 67.2%) is 71 blocks of one-to-six-word section headers plus a table of contents and an emoji legend \u2014 only seven \"why we like it\" blurbs and the sale-schedule preamble are prose; doc_0558 (Walmart deals, 82.0%) has the same shape but a much longer prose preamble on hours and Cyber Monday access; doc_0130 (85.9%) and doc_0128 (86.5%) are Fox News Digital pieces where roughly one block in five is an all-caps cross-promotion headline or a pull-quote duplicating body text verbatim; doc_0347 (84.6%) loses 95 words to a Guardian newsletter promotion plus a pull-quote and a photo caption that both repeat block 18 word for word \u2014 assigning them would double-count the same sentence.\n\nWHAT WAS INSPECTED BEFORE DROPPING. Photo captions were assigned, not dropped, wherever they carried a fact not stated elsewhere (the Archibald portrait's title \"Stand Strong for Who You Are\"; the Legends and Vincent & Donald series; Emily Hand's images). doc_0000 block 2 and doc_0558 block 2 are timestamped \"UPDATE\" notices that look like routine chrome but fix the sale state the article describes, so both were assigned to their sale-schedule notes. Genuinely dropped: article titles (carried in each note's H1), the celebrity-name and book-title section headers, \"Advertisement\", newsletter sign-up blocks, all-caps cross-promotion links, \"CLICK HERE\" lines, contributor bylines, table-of-contents and \"listed above under\u2026\" navigation, and pull-quotes/captions that reproduce body text verbatim."
+}

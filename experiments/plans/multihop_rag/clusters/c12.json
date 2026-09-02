@@ -1,0 +1,1399 @@
+{
+ "cluster": "c12",
+ "subplans": [
+  {
+   "slug": "influenza_severity_and_flu_vaccination",
+   "title": "Severe influenza complications and the case for annual flu vaccination",
+   "notes": [
+    {
+     "note": "allison_miller_influenza_sepsis_and_leg_amputation.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0065": [
+       3,
+       5,
+       6,
+       7,
+       8,
+       9,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       18,
+       19,
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "allison_miller_life_after_amputation_and_organ_damage.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0065": [
+       23,
+       25,
+       26,
+       27,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "allison_miller_case_for_annual_flu_vaccination.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0065": [
+       17,
+       30,
+       34,
+       35,
+       36,
+       38,
+       39,
+       40
+      ]
+     }
+    },
+    {
+     "note": "influenza_secondary_bacterial_infection_mechanism.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0065": [
+       1,
+       2,
+       31,
+       41,
+       42,
+       44
+      ]
+     }
+    },
+    {
+     "note": "flu_vaccine_timing_and_severity_reduction_sylvester.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0065": [
+       45,
+       46,
+       47,
+       49
+      ]
+     }
+    },
+    {
+     "note": "recognizing_severe_flu_and_seeking_early_care.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0065": [
+       32,
+       33,
+       50,
+       51,
+       52,
+       53
+      ]
+     }
+    },
+    {
+     "note": "cdc_2021_2022_flu_burden_and_vaccination_recommendation.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0065": [
+       55,
+       56
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "glp1_weight_loss_drug_gastrointestinal_risks",
+   "title": "GLP-1 weight-loss drugs and gastrointestinal adverse events",
+   "notes": [
+    {
+     "note": "glp1_receptor_agonists_drug_class_and_us_usage_scale.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0066": [
+       3,
+       15,
+       17
+      ]
+     }
+    },
+    {
+     "note": "gastroparesis_pancreatitis_bowel_obstruction_and_ileus.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0066": [
+       5,
+       6,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "ubc_jama_study_glp1_gastrointestinal_adverse_events.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0066": [
+       1,
+       2,
+       7,
+       9
+      ]
+     }
+    },
+    {
+     "note": "persistence_of_gastroparesis_after_stopping_glp1_drugs.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0066": [
+       8,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "case_for_adding_gastroparesis_to_glp1_warning_labels.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0066": [
+       14,
+       16,
+       18,
+       19,
+       20,
+       23,
+       38
+      ]
+     }
+    },
+    {
+     "note": "individualized_glp1_benefit_risk_assessment.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0066": [
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "limitations_of_the_ubc_glp1_claims_analysis.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0066": [
+       24,
+       25,
+       27
+      ]
+     }
+    },
+    {
+     "note": "cardiovascular_benefits_outweigh_glp1_gi_risks.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0066": [
+       28,
+       29,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "novo_nordisk_response_to_glp1_gastroparesis_findings.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0066": [
+       37,
+       39,
+       40,
+       41,
+       42,
+       44,
+       45
+      ]
+     }
+    },
+    {
+     "note": "louisiana_lawsuit_over_ozempic_and_mounjaro_gi_injuries.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0066": [
+       35,
+       36
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "pediatric_suicide_prevention_caring_contacts",
+   "title": "Caring Contacts: pediatric suicide-prevention follow-up at Children's Nebraska",
+   "notes": [
+    {
+     "note": "suicide_and_crisis_lifeline_988_advisory.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0158": [
+       1
+      ]
+     }
+    },
+    {
+     "note": "caring_contacts_program_at_childrens_nebraska.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0158": [
+       2,
+       3,
+       5
+      ]
+     }
+    },
+    {
+     "note": "caring_contacts_origin_and_may_2020_launch.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0158": [
+       6,
+       7,
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "youth_depression_and_suicide_screening_rates_after_covid.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0158": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "caring_contacts_enrollment_and_consent_process.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0158": [
+       14,
+       15,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "pediatric_suicide_follow_up_care_gap.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0158": [
+       24,
+       25,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "caring_contacts_repeat_attempt_rate_outcomes.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0158": [
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "why_caring_contacts_works_schalley_explanation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0158": [
+       31,
+       32,
+       33,
+       34
+      ]
+     }
+    },
+    {
+     "note": "caring_contacts_effect_on_social_work_staff.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0158": [
+       36,
+       37,
+       38,
+       39,
+       40,
+       42,
+       43,
+       44,
+       45
+      ]
+     }
+    },
+    {
+     "note": "caring_contacts_replication_kit_and_national_interest.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0158": [
+       46,
+       47
+      ]
+     }
+    },
+    {
+     "note": "handwritten_cards_as_low_tech_suicide_prevention.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0158": [
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       56,
+       57
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ai_leadership_in_health_care",
+   "title": "Mayo Clinic's chief AI officer and clinical AI adoption",
+   "notes": [
+    {
+     "note": "bhavik_patel_appointed_mayo_clinic_arizona_chief_ai_officer.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0163": [
+       1,
+       2,
+       3,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "shortage_of_ai_trained_physicians.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0163": [
+       7,
+       8,
+       10
+      ]
+     }
+    },
+    {
+     "note": "why_health_systems_need_a_chief_ai_officer.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0163": [
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       19,
+       20,
+       21,
+       22,
+       23
+      ]
+     }
+    },
+    {
+     "note": "core_functions_of_a_health_care_chief_ai_officer.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0163": [
+       25,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       34
+      ]
+     }
+    },
+    {
+     "note": "bhavik_patel_day_to_day_chief_ai_officer_duties.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0163": [
+       35,
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43
+      ]
+     }
+    },
+    {
+     "note": "mayo_clinic_ai_models_for_heart_attack_and_cancer_risk.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0163": [
+       44,
+       46,
+       47,
+       48,
+       50
+      ]
+     }
+    },
+    {
+     "note": "clinical_benefits_of_ai_in_health_care.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0163": [
+       49,
+       52,
+       53,
+       54,
+       55,
+       56,
+       58,
+       59,
+       60,
+       61,
+       62
+      ]
+     }
+    },
+    {
+     "note": "risks_and_limitations_of_clinical_ai.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0163": [
+       64,
+       65,
+       67,
+       68,
+       70,
+       71,
+       72,
+       73,
+       75
+      ]
+     }
+    },
+    {
+     "note": "ai_as_clinician_ally_not_replacement.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0163": [
+       69,
+       76,
+       78,
+       79,
+       81,
+       82
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ultra_processed_food_addiction",
+   "title": "Ultra-processed food addiction and the dopamine reward debate",
+   "notes": [
+    {
+     "note": "university_of_michigan_ultra_processed_food_addiction_review.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0467": [
+       1,
+       2,
+       3,
+       5,
+       7
+      ]
+     }
+    },
+    {
+     "note": "ultra_processed_foods_definition_and_addictive_properties.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0467": [
+       6,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "case_for_classifying_ultra_processed_foods_as_addictive.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0467": [
+       11,
+       12,
+       20,
+       22
+      ]
+     }
+    },
+    {
+     "note": "warning_signs_of_food_addiction.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0467": [
+       13,
+       14,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "global_policy_responses_to_ultra_processed_foods.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0467": [
+       18,
+       19,
+       23,
+       25
+      ]
+     }
+    },
+    {
+     "note": "skepticism_that_food_is_addictive_like_drugs.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0467": [
+       21,
+       26,
+       27,
+       28,
+       29,
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "dopamine_reward_tolerance_and_compulsive_consumption.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0467": [
+       33,
+       34,
+       35
+      ],
+      "doc_0518": [
+       35,
+       37
+      ]
+     }
+    },
+    {
+     "note": "limits_of_review_evidence_on_food_addiction.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0467": [
+       36,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "managing_disordered_eating_and_food_cravings.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0467": [
+       40,
+       41,
+       42,
+       44
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "youth_smartphone_use_and_harms",
+   "title": "Common Sense Media study on youth smartphone use and its harms",
+   "notes": [
+    {
+     "note": "common_sense_media_teen_smartphone_study_design_and_scope.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0518": [
+       1,
+       2,
+       3,
+       53,
+       55,
+       57
+      ]
+     }
+    },
+    {
+     "note": "kids_daily_smartphone_use_volume_and_timing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0518": [
+       4,
+       6,
+       7,
+       8,
+       9,
+       11,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "smartphone_notification_volume_for_teens.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0518": [
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "teen_time_spent_on_tiktok_snapchat_and_instagram.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0518": [
+       18,
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "under_13_access_to_age_inappropriate_apps.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0518": [
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "teen_self_reported_difficulty_managing_phone_use.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0518": [
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "social_and_developmental_costs_of_heavy_phone_use.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0518": [
+       26,
+       27,
+       28,
+       29,
+       30,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "online_predation_and_sextortion_risk_for_children.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0518": [
+       34,
+       44,
+       46,
+       47
+      ]
+     }
+    },
+    {
+     "note": "parental_rules_for_delaying_and_limiting_phone_access.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0518": [
+       36,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       48
+      ]
+     }
+    },
+    {
+     "note": "harmful_content_categories_and_staged_digital_access.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0518": [
+       49,
+       50,
+       51,
+       52,
+       54
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "fasting_and_alzheimers_disease",
+   "title": "Time-restricted fasting and Alzheimer's disease pathology",
+   "notes": [
+    {
+     "note": "ucsd_time_restricted_feeding_alzheimers_mouse_study.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0309": [
+       1,
+       2,
+       3,
+       5,
+       6,
+       7,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "circadian_clock_realignment_through_meal_timing.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0309": [
+       8,
+       10,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "translating_time_restricted_eating_to_human_alzheimers_trials.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0309": [
+       13,
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "limitations_of_the_ucsd_fasting_mouse_study.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0309": [
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "usc_fasting_mimicking_diet_alzheimers_studies.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0309": [
+       25,
+       26,
+       27,
+       29,
+       35,
+       36
+      ]
+     }
+    },
+    {
+     "note": "longo_recommendation_to_pair_fasting_with_standard_care.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0309": [
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "time_restricted_eating_versus_calorie_restricted_fasting.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0309": [
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "brain_mechanisms_of_fasting_ketosis_and_autophagy.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0309": [
+       28,
+       37,
+       38,
+       39,
+       40,
+       41,
+       43,
+       44,
+       45,
+       48,
+       50
+      ]
+     }
+    },
+    {
+     "note": "alzheimers_disease_prevalence_and_early_detection.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0309": [
+       46,
+       47,
+       51
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ketamine_safety_and_matthew_perry_death",
+   "title": "Ketamine: therapeutic use, abuse risk, and Matthew Perry's death",
+   "notes": [
+    {
+     "note": "matthew_perry_death_from_acute_ketamine_effects.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0390": [
+       1,
+       2,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "ketamine_as_anesthetic_and_dissociative_drug.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0390": [
+       3,
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "toxicology_of_ketamine_induced_drowning.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0390": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "ketamine_fda_approval_history_and_approved_uses.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0390": [
+       14,
+       15,
+       16,
+       18
+      ]
+     }
+    },
+    {
+     "note": "ketamine_dependence_and_abuse_potential.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0390": [
+       20,
+       21,
+       22,
+       23,
+       24,
+       28
+      ]
+     }
+    },
+    {
+     "note": "obtaining_ketamine_only_through_a_licensed_prescriber.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0390": [
+       26,
+       27,
+       29,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "adulterated_street_ketamine_risks.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0390": [
+       32,
+       34
+      ]
+     }
+    },
+    {
+     "note": "risks_of_intranasal_and_micro_dosed_ketamine.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0390": [
+       36,
+       37,
+       38,
+       39,
+       40,
+       43
+      ]
+     }
+    },
+    {
+     "note": "weaning_off_ketamine_and_dose_titration.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0390": [
+       42,
+       44
+      ]
+     }
+    },
+    {
+     "note": "when_ketamine_becomes_dangerous_home_use_and_interactions.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0390": [
+       46,
+       47,
+       48,
+       49,
+       51,
+       52,
+       53,
+       54
+      ]
+     }
+    },
+    {
+     "note": "askp3_forthcoming_at_home_ketamine_guidelines.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0390": [
+       56,
+       57
+      ]
+     }
+    },
+    {
+     "note": "distinguishing_anesthetic_therapeutic_and_recreational_ketamine_use.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0390": [
+       59,
+       60
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "zoom_fatigue_and_remote_work",
+   "title": "Zoom fatigue in remote work: causes, effects, and mitigation",
+   "notes": [
+    {
+     "note": "zoom_fatigue_definition_and_symptoms.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0590": [
+       1,
+       2,
+       3,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "pandemic_shift_to_videoconferencing.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0590": [
+       9,
+       10,
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "why_video_calls_are_more_tiring_than_in_person_meetings.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0590": [
+       14,
+       15,
+       19,
+       22,
+       23,
+       24,
+       26
+      ]
+     }
+    },
+    {
+     "note": "mental_health_consequences_of_zoom_fatigue.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0590": [
+       17,
+       18,
+       20,
+       39,
+       41,
+       42
+      ]
+     }
+    },
+    {
+     "note": "personal_video_use_compounding_screen_fatigue.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0590": [
+       25,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "strategies_to_reduce_zoom_fatigue.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0590": [
+       30,
+       31,
+       32,
+       33,
+       34,
+       36,
+       37,
+       38
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "pediatric_liver_transplantation",
+   "title": "Pediatric liver transplantation: Lucas Goeller and the donor shortage",
+   "notes": [
+    {
+     "note": "lucas_goeller_biliary_atresia_and_failing_transplant.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0594": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "lucas_goeller_first_liver_transplant_and_2015_campaign.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0594": [
+       5,
+       6,
+       7,
+       8,
+       9,
+       11,
+       12,
+       13,
+       18
+      ]
+     }
+    },
+    {
+     "note": "lucas_goeller_eight_healthy_years_and_relapse.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0594": [
+       16,
+       17,
+       19,
+       34,
+       35
+      ]
+     }
+    },
+    {
+     "note": "lucas_goeller_current_liver_failure_symptoms.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0594": [
+       20,
+       21,
+       22,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "save_lucas_campaign_and_living_donor_criteria.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0594": [
+       29,
+       30,
+       36
+      ]
+     }
+    },
+    {
+     "note": "pediatric_liver_transplant_allocation_challenge.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0594": [
+       39,
+       41,
+       42,
+       43
+      ]
+     }
+    },
+    {
+     "note": "partial_liver_transplants_to_reduce_waitlist_mortality.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0594": [
+       44,
+       45
+      ]
+     }
+    },
+    {
+     "note": "transplant_center_capacity_and_starzl_network.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0594": [
+       47,
+       48,
+       52,
+       53
+      ]
+     }
+    },
+    {
+     "note": "case_for_organ_donation_and_living_donor_awareness.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0594": [
+       31,
+       33,
+       46,
+       49,
+       50,
+       55,
+       57,
+       58
+      ]
+     }
+    },
+    {
+     "note": "us_pediatric_organ_transplant_waiting_list_figures.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0594": [
+       38,
+       54
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0065": [
+   0,
+   4,
+   10,
+   24,
+   37,
+   43,
+   48,
+   54
+  ],
+  "doc_0066": [
+   0,
+   4,
+   10,
+   26,
+   34,
+   43,
+   46
+  ],
+  "doc_0158": [
+   0,
+   4,
+   11,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   28,
+   35,
+   41,
+   48,
+   55
+  ],
+  "doc_0163": [
+   0,
+   4,
+   9,
+   11,
+   18,
+   24,
+   26,
+   33,
+   45,
+   51,
+   57,
+   63,
+   66,
+   74,
+   77,
+   80
+  ],
+  "doc_0467": [
+   0,
+   4,
+   10,
+   15,
+   24,
+   30,
+   37,
+   43,
+   45
+  ],
+  "doc_0518": [
+   0,
+   5,
+   10,
+   17,
+   23,
+   31,
+   45,
+   56,
+   58
+  ],
+  "doc_0309": [
+   0,
+   4,
+   9,
+   18,
+   22,
+   34,
+   42,
+   49
+  ],
+  "doc_0390": [
+   0,
+   4,
+   9,
+   12,
+   13,
+   17,
+   19,
+   25,
+   33,
+   35,
+   41,
+   45,
+   50,
+   55,
+   58
+  ],
+  "doc_0590": [
+   0,
+   4,
+   8,
+   11,
+   16,
+   21,
+   29,
+   35,
+   40
+  ],
+  "doc_0594": [
+   0,
+   4,
+   10,
+   14,
+   15,
+   23,
+   27,
+   28,
+   32,
+   37,
+   40,
+   51,
+   56
+  ]
+ },
+ "genre_note": "Cluster c12 is ten unrelated FOX News Health features, each a single-topic long-form piece (941-1,614 words) built from a reporter's frame plus 2-4 named expert sources. Because each document is already one subject, coherence-driven splitting here means splitting *within* a document at its internal sub-topic seams \u2014 patient narrative vs. clinical mechanism vs. policy guidance vs. dissenting expert \u2014 not merging documents. That yields 93 notes; no note approaches the 1,800-word ceiling (largest ~275 words), so density never drove a boundary.\n\nBB distribution reflects the genre honestly: empirical_observation dominates (43), then argument (14), concept (14), procedure (12), counter_argument (9), model (10). hypothesis occurs exactly ONCE, in doc_0309 blocks 13-17, where the UC San Diego team states a forward-looking, testable proposition (time-restricted eating may deliver metabolic, sleep and cognitive benefit in elderly humans) with a pilot trial explicitly pending funding. No other document contains a genuine testable prediction, and none was manufactured. navigation was not produced.\n\nOne cross-document note exists: `dopamine_reward_tolerance_and_compulsive_consumption.md` draws doc_0467 blocks 33-35 (Palinski-Wade on dopamine tolerance from added-sugar/fat foods) together with doc_0518 blocks 35 and 37 (Kelman on apps triggering the same dopamine release as drugs, plus withdrawal on limiting access). Both sources assert the same mechanism \u2014 engineered stimulus -> dopamine -> tolerance -> craving/withdrawal \u2014 from different domains, so a single note carries evidence from both articles rather than splitting it. I deliberately did NOT merge doc_0390's ketamine-dependence material into it: that content is drug-pharmacology-specific (half-life, physical vs. psychological dependence) and merging would have produced a note retrieved for everything and precise about nothing. Beyond this, the ten documents share no genuine entity \u2014 the apparent overlaps (a doc_0390 promo link to the Ozempic story, a doc_0390 link to the ultraprocessed-food story) are cross-promotional chrome, dropped.\n\nTwo structural features of this publisher shaped assignment. First, pull quotes: every article repeats one or two sentences verbatim as inline callouts (e.g. doc_0066 blocks 18/38 and 20/23; doc_0163 blocks 69/82; doc_0518 blocks 26/33 and 34/46). I assigned each duplicate to the SAME note as its original rather than dropping it, which preserves word coverage and guarantees no (doc, block) pair lands in two notes. Second, chrome is heavy and formulaic: an ALL-CAPS related-article promo every 3-5 paragraphs, plus \"CLICK HERE TO SIGN UP FOR OUR HEALTH NEWSLETTER\" and \"CLICK HERE TO GET THE FOX NEWS APP\" near the end of all ten. These, article titles (carried in each note's H1), section headers, image-carousel navigation (\"prev next Image 1 of 6\"), bylines, and \"Fox News Digital reached out for comment\" lines are the entire dropped set.\n\nDeliberate non-drops, per the instruction to inspect what looks routine. doc_0518 block 57 reads like a boilerplate methodology footnote but is a hard scope condition on the headline \"97% of kids\" finding: the study covered ANDROID USERS ONLY, because Apple does not share third-party app names with researchers. It is assigned to the study-design note alongside blocks 53 and 55. doc_0066 block 45 is Novo Nordisk pointing out that the study window (2006-2020) predates Wegovy's market entry entirely and postdates Ozempic's approval by only three years \u2014 a scope condition that materially narrows the headline claim; it sits in the company-response note. doc_0158 block 1 is a standing suicide-lifeline advisory that I assigned rather than dropped, since it carries the actual 988 / 1-800-273-TALK contact information. doc_0590 block 39 (long-term effects of video calling are not yet known) is kept with the mental-health-consequences claim it qualifies.\n\nCoverage: 11,294 of 12,510 words assigned (90.3% overall). Per document: doc_0066 93.4%, doc_0309 92.0%, doc_0065 91.5%, doc_0518 91.0%, doc_0590 90.9%, doc_0158 89.5%, doc_0163 89.5%, doc_0594 89.2%, doc_0467 88.5%, doc_0390 88.4%. The four below 90% are not promotional documents \u2014 they are the ones carrying the most non-content furniture: doc_0163 and doc_0390 are structured with H2 section headers (\"Why is the chief AI officer role important?\", \"Myth No. 3\", \"When ketamine becomes dangerous\") that are pure navigation, and doc_0158 and doc_0594 each embed image-carousel navigation strings (34 and 20 words). Excluding headers and carousel strings, every document assigns above 91% of its prose."
+}
