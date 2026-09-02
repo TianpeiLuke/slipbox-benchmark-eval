@@ -2,7 +2,14 @@
 
 Does converting a document corpus into **typed atomic notes with a link graph** retrieve better than chunking the raw documents — and if so, *why*?
 
-This repo holds the corpus-ingestion skill, the fetch scripts, the derived note vaults, and the evaluation harness for answering that on **public benchmarks with externally authored questions**.
+This repo holds the corpus-ingestion skills, the fetch scripts, the derived note vaults, and the evaluation harness for answering that on **public benchmarks with externally authored questions**.
+
+**Continuing this work on another machine? Start at [docs/HANDOFF.md](docs/HANDOFF.md).**
+
+**Status.** The corpus is ingested: **4,925 notes over 609 documents**, 30,968
+resolved links, all gates passing. The chunk baseline is measured. **The notes
+arm has not been scored yet** — that comparison is the result this repo exists
+to produce, and it does not exist.
 
 ## Why this exists
 
@@ -24,12 +31,20 @@ The ingestion pipeline under test does something more specific than "summarisati
 
 Chosen to match the evaluation protocol of HippoRAG and HippoRAG 2, so results can be reported against published baselines instead of standing alone.
 
-| Dataset | Queries | Passages | Category | License |
-|---|---|---|---|---|
-| MuSiQue (answerable) | ~1,000 | 11,656 | compositional 2–4 hop | CC BY 4.0 |
-| 2WikiMultiHopQA | ~1,000 | 6,119 | entity-centric multi-hop | Apache-2.0 |
-| HotpotQA (distractor) | ~1,000 | 9,221 | 2-hop, *weaker signal* | CC BY-SA 4.0 |
-| NarrativeQA | 293 | 4,111 | sense-making, 10 novels | Apache-2.0 (annotations) |
+| Dataset | Queries | Documents | Category | License | Status |
+|---|---|---|---|---|---|
+| **MultiHop-RAG** | 2,556 | 609 | news, 2–4 hop, 49 publishers | ODC-BY-1.0 | **ingested** |
+| QASPER | — | — | scientific papers | CC BY 4.0 | candidate secondary |
+| MuSiQue / 2WikiMultiHopQA / HotpotQA | ~1,000 each | 6k–11k | Wikipedia multi-hop | see LICENSE | fetchers ready, not ingested |
+
+MultiHop-RAG is primary on measured grounds rather than convenience. Its
+document sizes land where the note pipeline actually operates (implying ~840-word
+notes against a 842-word vault median, where QASPER implies 1,159–3,476 and
+NarrativeQA 15,000). Its budget pressure binds at both ends — 100% of documents
+exceed 512 and 1,024 tokens while only 1.6% exceed 8,192 — which is the range an
+experiment about context budget needs in order to show a slope. And its corpus
+and questions ship as **separate files**, so quarantine is a matter of not
+reading one of them rather than of de-duplicating questions out of a corpus.
 
 Published baselines to situate against: BM25, Contriever, GTR, ColBERTv2, NV-Embed-v2, **Propositionizer** (the closest existing analogue to atomic notes), RAPTOR, GraphRAG, LightRAG, HippoRAG, HippoRAG 2.
 
