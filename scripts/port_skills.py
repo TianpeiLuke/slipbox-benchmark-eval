@@ -126,6 +126,11 @@ REWRITES: list[tuple[str, str]] = [
     (r'(?:python3\s+|bash\s+)?"?scripts/update_notes_database\.sh"?[^\n`]*', 'python3 scripts/build_local_db.py "$VAULT"'),
     (r'(?:python3\s+|bash\s+)?"?scripts/(?:bm25|dense)_search\.py"?[^\n`]*', 'python3 scripts/retrieval.py "$VAULT" --query "..." --strategy hybrid'),
     (r'scripts/output/', 'experiments/output/'),
+    # BB definitions live in this repo, not in a vault note that was never copied
+    (r'`?\$VAULT/\$VAULT/term_knowledge_building_blocks\.md`?', '`docs/BUILDING_BLOCKS.md` (in this repo)'),
+    (r'`?\$VAULT/term_knowledge_building_blocks\.md`?', '`docs/BUILDING_BLOCKS.md` (in this repo)'),
+    # collapse doubling introduced when a path already carried $VAULT
+    (r'(?:\$VAULT/)+(\$VAULT/)', r'\1'),
     # frontmatter fields that only mean something in the source vault
     (r'^related_skill_headers:\n(?:  - .*\n)+', ""),
     (r'^access_control_group:.*\n', ""),
@@ -139,6 +144,7 @@ FORBIDDEN = [
     r"amzn_", r"from config import", r"config\.py", r"SLIPBOX_PACKAGE_DIR",
     r"w\.amazon", r"quip", r"slipbot", r"athelas", r"tessellum", r"cursus",
     r"VAULT_PATH_STR", r"DB_PATH_STR",
+    r"\$VAULT/\$VAULT", r"term_knowledge_building_blocks",
     r"(?<![a-z])scripts/(?!validate_notes|build_local_db|build_embeddings|retrieval|scrub_check|fetch_benchmarks|port_skills|selftest|output|$| )",
 ]
 

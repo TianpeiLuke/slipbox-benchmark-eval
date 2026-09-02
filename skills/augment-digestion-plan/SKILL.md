@@ -875,6 +875,31 @@ Ready to execute? Or review specific sections first?
 4. **Verbatim code** — mark in the plan which source sections contain code that MUST be preserved character-for-character.
 5. **No orphaned sections** — every source H2/H3 must appear in the coverage map. "Skip" with documented reason is acceptable; silent omission is not.
 
+## Knowledge Building Blocks (reference)
+
+Every note carries exactly **one** `building_block:`. Closed enum — any other
+value is rejected by `scripts/validate_notes.py` (rule `FM-003`):
+
+| Type | Answers | Must retain |
+|---|---|---|
+| `concept` | *What is X?* | definition, discriminating features, boundary cases |
+| `model` | *How does X relate to Y?* | structure, relations, the range over which they hold |
+| `procedure` | *How do I do X?* | ordered steps, preconditions, where it does not apply |
+| `empirical_observation` | *What happened?* | the event, its source, time anchor, conditions |
+| `argument` | *Why believe P?* | claim, grounds, and the warrant joining them |
+| `counter_argument` | *Why might that be wrong?* | which premise or inference it attacks |
+| `hypothesis` | *Might P be true?* | the proposition and what would falsify it |
+| `navigation` | *Where do I find things?* | index or routing only, no substantive claims |
+
+The type is chosen **before** writing, because it is a retention contract: the
+"must retain" column names the fields that have to survive. Scope conditions —
+preconditions, authority, time anchors, applicability bounds — are the class an
+unconditioned summariser reliably deletes, since they qualify claims rather than
+being claims. Never mix two building blocks in one note.
+
+Full definitions, the source-classification table, and the benchmark-corpus
+caveats: `docs/BUILDING_BLOCKS.md`.
+
 ## Error Handling <!-- :: section_id = error_handling :: -->
 
 | Error | Cause | Recovery |

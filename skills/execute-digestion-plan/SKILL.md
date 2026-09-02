@@ -449,6 +449,31 @@ If the run touched ≥30 notes or used ≥3 fix-loop rounds, consider writing a 
 | Accept a validator `pass` when source-auth was down | An LLM "passes" on internal-consistency/plausibility, not a real source diff — unverified notes look green (B2) | Fail closed: source-reading agents return `auth_blocked` + `source_fetch_ok=false`; run a pre-flight auth probe; `pass` requires a real source re-read (5f) |
 | Let a `null`/failed downstream agent be swallowed into a green report | Phase-3 (entry-rows/inlinks) or a validator that dies on 403 returns `null`; the success path ignores it → graph-islands ship "complete" | Schema every stage; compute an explicit `overall_ok`/`needs_remediation`; `log()` incompleteness; Step 6 sweep is the backstop (5c.6, 5f) |
 
+## Knowledge Building Blocks (reference)
+
+Every note carries exactly **one** `building_block:`. Closed enum — any other
+value is rejected by `scripts/validate_notes.py` (rule `FM-003`):
+
+| Type | Answers | Must retain |
+|---|---|---|
+| `concept` | *What is X?* | definition, discriminating features, boundary cases |
+| `model` | *How does X relate to Y?* | structure, relations, the range over which they hold |
+| `procedure` | *How do I do X?* | ordered steps, preconditions, where it does not apply |
+| `empirical_observation` | *What happened?* | the event, its source, time anchor, conditions |
+| `argument` | *Why believe P?* | claim, grounds, and the warrant joining them |
+| `counter_argument` | *Why might that be wrong?* | which premise or inference it attacks |
+| `hypothesis` | *Might P be true?* | the proposition and what would falsify it |
+| `navigation` | *Where do I find things?* | index or routing only, no substantive claims |
+
+The type is chosen **before** writing, because it is a retention contract: the
+"must retain" column names the fields that have to survive. Scope conditions —
+preconditions, authority, time anchors, applicability bounds — are the class an
+unconditioned summariser reliably deletes, since they qualify claims rather than
+being claims. Never mix two building blocks in one note.
+
+Full definitions, the source-classification table, and the benchmark-corpus
+caveats: `docs/BUILDING_BLOCKS.md`.
+
 ## Error Handling <!-- :: section_id = error_handling :: -->
 
 | Error | Cause | Recovery |

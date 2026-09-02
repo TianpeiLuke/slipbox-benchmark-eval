@@ -50,7 +50,7 @@ PLANS="experiments/plans/$CORPUS"
 
 - **Plans directory**: `$PLANS_PATH` (project root `experiments/plans/`)
 - **Existing plans**: Read 1-2 completed plans in `$PLANS_PATH` to calibrate format (e.g., `plan_digest_builder_mcp_user_guide.md`, `plan_digest_meshclaw_wiki.md`)
-- **Building block definitions**: `$VAULT/$VAULT/term_knowledge_building_blocks.md`
+- **Building block definitions**: `docs/BUILDING_BLOCKS.md` (in this repo)
 - **Vault DB**: `$DB` for searching existing notes (avoid duplication)
 - **Digest wiki site skill**: `$VAULT/resources/skills/skill_slipbox_digest_wiki_site.md` (reference for GATE definitions)
 

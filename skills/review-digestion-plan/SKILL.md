@@ -336,15 +336,15 @@ If sub-tables exist, spot-check 3 random rows:
 - **Collision spot-check**: for a removed row, verify the named existing note actually exists in the vault and has ≥30 lines + `status: active`:
   ```bash
   grep -E "term_[a-z_]+\.md" "$PLAN_FILE" | head -5  # pull a removed-row's existing-note ref
-  ls -la "$VAULT/$VAULT/<existing_note>.md"
-  wc -l "$VAULT/$VAULT/<existing_note>.md"
+  ls -la "$VAULT/<existing_note>.md"
+  wc -l "$VAULT/<existing_note>.md"
   ```
   Missing existing note OR <30 lines OR stub status → audit was sloppy → **FAIL**.
 
 For renamed slugs: verify the new slug does NOT collide with any OTHER existing vault note (re-running existence check post-rename):
 ```bash
 for new_slug in $(grep -oE 'renamed_to[: ]*`term_[a-z_]+`' "$PLAN_FILE" | grep -oE 'term_[a-z_]+'); do
-  f="$VAULT/$VAULT/${new_slug}.md"
+  f="$VAULT/${new_slug}.md"
   [ -f "$f" ] && echo "POST-RENAME COLLISION: $new_slug"
 done
 ```
@@ -409,6 +409,31 @@ If any FAIL: Report which checkpoints failed and what needs to be fixed. Do NOT 
 4. **Review is the final gate before execution** — once READY, execution can begin immediately.
 5. **Record the review** — append a `## Review Sign-Off` section to the plan with date, result, and any notes.
 6. **CP7 requires actual page reads** — the reviewer MUST WebFetch/Read 2-3 pages to verify word counts. This cannot be done from memory. If you cannot read the pages (e.g., auth required), mark CP7 as "DEFERRED — verify during execution" and note which pages were unverifiable.
+
+## Knowledge Building Blocks (reference)
+
+Every note carries exactly **one** `building_block:`. Closed enum — any other
+value is rejected by `scripts/validate_notes.py` (rule `FM-003`):
+
+| Type | Answers | Must retain |
+|---|---|---|
+| `concept` | *What is X?* | definition, discriminating features, boundary cases |
+| `model` | *How does X relate to Y?* | structure, relations, the range over which they hold |
+| `procedure` | *How do I do X?* | ordered steps, preconditions, where it does not apply |
+| `empirical_observation` | *What happened?* | the event, its source, time anchor, conditions |
+| `argument` | *Why believe P?* | claim, grounds, and the warrant joining them |
+| `counter_argument` | *Why might that be wrong?* | which premise or inference it attacks |
+| `hypothesis` | *Might P be true?* | the proposition and what would falsify it |
+| `navigation` | *Where do I find things?* | index or routing only, no substantive claims |
+
+The type is chosen **before** writing, because it is a retention contract: the
+"must retain" column names the fields that have to survive. Scope conditions —
+preconditions, authority, time anchors, applicability bounds — are the class an
+unconditioned summariser reliably deletes, since they qualify claims rather than
+being claims. Never mix two building blocks in one note.
+
+Full definitions, the source-classification table, and the benchmark-corpus
+caveats: `docs/BUILDING_BLOCKS.md`.
 
 ## Error Handling <!-- :: section_id = error_handling :: -->
 
