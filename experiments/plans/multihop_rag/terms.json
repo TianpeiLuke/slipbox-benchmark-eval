@@ -439,5 +439,216 @@
   "Community Guidelines",
   "terms and conditions",
   "public interest policy"
+ ],
+ "national_football_league": [
+  "NFL",
+  "National Football League"
+ ],
+ "national_basketball_association": [
+  "NBA",
+  "National Basketball Association"
+ ],
+ "major_league_baseball": [
+  "MLB",
+  "Major League Baseball"
+ ],
+ "premier_league": [
+  "Premier League"
+ ],
+ "world_cup": [
+  "World Cup"
+ ],
+ "super_bowl": [
+  "Super Bowl"
+ ],
+ "most_valuable_player": [
+  "MVP",
+  "Most Valuable Player"
+ ],
+ "daily_fantasy_sports": [
+  "DFS",
+  "daily fantasy",
+  "fantasy football",
+  "fantasy lineup"
+ ],
+ "sports_betting_odds": [
+  "odds",
+  "moneyline",
+  "point spread",
+  "over/under",
+  "sportsbook"
+ ],
+ "player_injury_report": [
+  "injury report",
+  "questionable",
+  "ruled out",
+  "injured reserve"
+ ],
+ "trade_and_free_agency": [
+  "free agent",
+  "free agency",
+  "traded",
+  "trade deadline"
+ ],
+ "draft_pick": [
+  "draft pick",
+  "first-round",
+  "drafted"
+ ],
+ "playoff_seeding": [
+  "playoff",
+  "postseason",
+  "seeding",
+  "wild card"
+ ],
+ "transfer_window": [
+  "transfer window",
+  "transfer fee",
+  "on loan"
+ ],
+ "coaching_change": [
+  "fired",
+  "sacked",
+  "head coach",
+  "manager"
+ ],
+ "contract_extension": [
+  "contract extension",
+  "signed a",
+  "deal worth"
+ ],
+ "box_office": [
+  "box office",
+  "opening weekend",
+  "domestic gross"
+ ],
+ "streaming_service": [
+  "streaming",
+  "Netflix",
+  "Disney+",
+  "Max",
+  "Prime Video"
+ ],
+ "video_game_release": [
+  "game release",
+  "launch title",
+  "early access"
+ ],
+ "game_patch_notes": [
+  "patch",
+  "update",
+  "quality-of-life",
+  "season 2"
+ ],
+ "console_hardware": [
+  "Xbox Series",
+  "PlayStation 5",
+  "Steam Deck",
+  "Nintendo Switch"
+ ],
+ "film_awards_season": [
+  "Oscar",
+  "Academy Award",
+  "Golden Globe",
+  "nominated"
+ ],
+ "concert_tour": [
+  "tour",
+  "Eras Tour",
+  "residency",
+  "setlist"
+ ],
+ "actors_and_writers_strike": [
+  "SAG-AFTRA",
+  "WGA",
+  "strike",
+  "picket"
+ ],
+ "black_friday_cyber_monday": [
+  "Black Friday",
+  "Cyber Monday",
+  "holiday deal"
+ ],
+ "discount_and_msrp": [
+  "discount",
+  "off its usual",
+  "MSRP",
+  "list price",
+  "lowest price"
+ ],
+ "noise_cancelling_headphones": [
+  "noise cancelling",
+  "noise-canceling",
+  "ANC"
+ ],
+ "wearable_fitness_tracker": [
+  "fitness tracker",
+  "smartwatch",
+  "step count"
+ ],
+ "smart_home_device": [
+  "smart home",
+  "smart speaker",
+  "smart display",
+  "thermostat"
+ ],
+ "battery_life_and_charging": [
+  "battery life",
+  "fast charging",
+  "USB-C",
+  "mAh"
+ ],
+ "clinical_trial": [
+  "clinical trial",
+  "phase 3",
+  "placebo"
+ ],
+ "public_health_guidance": [
+  "CDC",
+  "WHO",
+  "vaccination",
+  "booster"
+ ],
+ "covid_19": [
+  "COVID",
+  "coronavirus",
+  "pandemic"
+ ],
+ "space_mission": [
+  "NASA",
+  "SpaceX",
+  "launch vehicle",
+  "orbit"
+ ],
+ "nobel_prize": [
+  "Nobel"
+ ],
+ "earnings_report": [
+  "earnings",
+  "quarterly results",
+  "revenue rose",
+  "guidance"
+ ],
+ "layoffs_and_restructuring": [
+  "layoffs",
+  "laid off",
+  "restructuring",
+  "job cuts"
+ ],
+ "regulatory_approval": [
+  "approval",
+  "approved by",
+  "cleared by regulators"
+ ],
+ "class_action_settlement": [
+  "settlement",
+  "settled",
+  "damages"
+ ],
+ "data_breach": [
+  "data breach",
+  "breach",
+  "hacked",
+  "leaked"
  ]
 }

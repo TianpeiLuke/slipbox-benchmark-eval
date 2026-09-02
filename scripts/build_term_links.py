@@ -58,12 +58,22 @@ def main() -> None:
     mapping: dict[str, list] = {}
     term_use: dict[str, int] = defaultdict(int)
 
-    for f in sorted(P.glob("*_assignments.json")):
-        for note, m in json.loads(f.read_text()).items():
+    def assignments():
+        """Every planned note, from both plan shapes: the hand-built sub-plan
+        assignment files and the agent-produced cluster plans."""
+        for f in sorted(P.glob("*_assignments.json")):
+            yield from json.loads(f.read_text()).items()
+        for f in sorted((P / "clusters").glob("c*.json")) if (P / "clusters").is_dir() else []:
+            for sub in json.loads(f.read_text())["subplans"]:
+                for n in sub["notes"]:
+                    yield n["note"], n["blocks"]
+
+    for note, m in assignments():
+        if True:
             text = []
             for d, ids in m.items():
                 cache.setdefault(d, blocks(a.slug, d))
-                text += [cache[d][i] for i in ids]
+                text += [cache[d][i] for i in ids if i < len(cache[d])]
             body = "\n".join(text)
             hits = [(t, len(p.findall(body))) for t, p in pats.items()]
             hits = sorted([h for h in hits if h[1]], key=lambda x: -x[1])

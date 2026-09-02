@@ -39,6 +39,24 @@ STOP = {"The", "This", "That", "These", "Those", "But", "And", "For", "With",
         "TechCrunch", "TC", "I", "We", "They", "He", "She", "A", "An", "So",
         "US", "U", "S", "EU", "AI", "CEO", "CTO", "VC", "VCs", "PR", "Q", "X"}
 
+# A news page repeats its own furniture on every article, so raw frequency finds
+# the furniture before it finds any concept. These are filtered by KIND rather
+# than by a growing blocklist: shouted navigation words, legal boilerplate, photo
+# credits, and the position abbreviations that make a sports table.
+SHOUTED = {"MORE", "UP", "SIGN", "THE", "TO", "HERE", "FOR", "CLICK", "APP",
+           "NEWS", "GET", "AND", "OK", "OF", "OUR", "NOW", "SEE", "READ", "WATCH",
+           "ALL", "NEW", "BUY", "SHOP", "VIEW", "JOIN", "FREE", "OFF", "OUT",
+           "OPEN", "OWN", "OR", "OOO", "OMG", "OWL"}
+BOILERPLATE = re.compile(
+    r"privacy (notice|policy)|terms of service|getty images|"
+    r"all rights reserved|associated press|reuters|"
+    r"news digital|sign up|newsletter|subscribe|cookie", re.I)
+# Sports position and stat codes: real vocabulary, but they label table columns
+# rather than name a concept a note would ever be about.
+POSITIONS = {"QB", "RB", "WR", "TE", "TD", "PPR", "ADP", "IR", "OL", "DL", "LB",
+             "CB", "DB", "FB", "K", "DST", "ET", "PT", "CT", "GP", "MIN", "REB",
+             "AST", "STL", "BLK", "FG", "FT", "OT", "AFC", "NFC"}
+
 
 def mine(slug: str, docs: list[str], top: int) -> list[tuple]:
     spread: dict[str, set] = defaultdict(set)
@@ -47,12 +65,14 @@ def mine(slug: str, docs: list[str], top: int) -> list[tuple]:
         text = (CORPUS / slug / f"{d}.txt").read_text(encoding="utf-8")
         found = set()
         for m in ACRONYM.findall(text):
+            if m in SHOUTED or m in POSITIONS:
+                continue
             if m not in STOP and len(m) >= 2:
                 found.add(m)
                 freq[m] += 1
         for m in PROPER.findall(text) + QUOTED.findall(text):
             m = m.strip()
-            if m.split()[0] in STOP or len(m) < 5:
+            if m.split()[0] in STOP or len(m) < 5 or BOILERPLATE.search(m):
                 continue
             found.add(m)
             freq[m] += 1
