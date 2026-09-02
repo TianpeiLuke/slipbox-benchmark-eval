@@ -20,6 +20,8 @@ vaults/*/notes.db-wal
 vaults/*/notes.db-shm
 
 # rebuildable dense index
-*/embeddings.npy
-*/embedding_ids.json
-tests/fixture_vault/notes.db*
+**/embeddings.npy
+**/embedding_ids.json
+**/notes.db
+**/notes.db-wal
+**/notes.db-shm
