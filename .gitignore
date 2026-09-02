@@ -1,6 +1,19 @@
-# Benchmark corpora are NEVER committed — fetched by scripts/fetch_benchmarks.py
+# Benchmark data is NEVER committed. It is reconstructed locally from the
+# scripts, which ARE committed:
+#     bash scripts/rebuild_data.sh          # fetch + prepare everything
+# data/manifest.json is deliberately NOT ignored: it records each source's URL,
+# license and sha256, so a rebuild can be verified rather than merely assumed.
+# gitignore does NOT support trailing comments -- a pattern with one appended
+# matches nothing. Keep every comment on its own line.
+# as-downloaded benchmark archives
 data/raw/
 data/cache/
+# documents derived from the corpus half (still the publishers' content)
+data/corpus/
+# chunk-baseline index built from those documents
+data/chunks/
+# anything derived from the questions half
+data/gold/
 *.jsonl.gz
 *.zip
 

@@ -29,5 +29,21 @@
     "sha256": "c0d8b60b9026b728fb07ad74c5252a0f188f6942e8ba5c02df4dfa369502ea8d"
    }
   }
+ },
+ "multihop_rag": {
+  "name": "MultiHop-RAG (news, 609 docs / 2,556 queries)",
+  "license": "ODC-BY-1.0",
+  "homepage": "https://github.com/yixuantt/MultiHop-RAG",
+  "paper": "Tang & Yang, 2024, arXiv:2401.15391",
+  "files": {
+   "corpus.json": {
+    "bytes": 6785567,
+    "sha256": "20b61b5ab84de84a927420c5d265b7ec8d859ae49980699958a787ade9e4d28f"
+   },
+   "MultiHopRAG.json": {
+    "bytes": 5171312,
+    "sha256": "03cfb4926461f868684903aadc8024447bdda5bb3f6804741424cce338515bff"
+   }
+  }
  }
 }

@@ -41,6 +41,24 @@ MANIFEST = ROOT / "data" / "manifest.json"
 
 # license is recorded because derived notes inherit it -- see LICENSE
 SOURCES: dict[str, dict] = {
+    # PRIMARY. Chosen because its document sizes land where our note-writing
+    # pipeline actually operates, and because corpus and queries ship as
+    # SEPARATE files -- quarantine is a matter of not reading one of them,
+    # rather than of de-duplicating questions out of the corpus.
+    "multihop_rag": {
+        "name": "MultiHop-RAG (news, 609 docs / 2,556 queries)",
+        "license": "ODC-BY-1.0",
+        "homepage": "https://github.com/yixuantt/MultiHop-RAG",
+        "paper": "Tang & Yang, 2024, arXiv:2401.15391",
+        "files": {
+            "corpus.json":
+                "https://huggingface.co/datasets/yixuantt/MultiHopRAG/resolve/main/corpus.json",
+            "MultiHopRAG.json":
+                "https://huggingface.co/datasets/yixuantt/MultiHopRAG/resolve/main/MultiHopRAG.json",
+        },
+        "note": "corpus.json is the ONLY file an ingesting agent may read. "
+                "MultiHopRAG.json holds the questions and their gold evidence.",
+    },
     "musique": {
         "name": "MuSiQue (answerable)",
         "license": "CC BY 4.0",
