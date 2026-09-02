@@ -39,13 +39,34 @@ Metrics mirror those papers: **Recall@2 / Recall@5**, **All-Recall@k** (fraction
 
 ```
 scripts/fetch_benchmarks.py   download corpora (never committed)
+scripts/build_local_db.py     build a self-contained DB per corpus vault
 scripts/scrub_check.py        publication gate for derived notes
 skills/                       the corpus-ingestion skill
 data/manifest.json            URLs, licenses, checksums (committed)
 data/raw/                     corpora (gitignored)
-vaults/<corpus>/              derived note vaults (committed)
+vaults/<corpus>/              derived notes (committed) + notes.db (rebuilt)
 experiments/                  harness and results
 ```
+
+## Isolation
+
+**Every corpus gets its own database, its own link graph and its own full-text
+index, inside this repository.** No script here reads or writes anything
+outside it.
+
+That is a correctness condition rather than housekeeping. A digestion pipeline
+resolves "Related Notes" and inlinks against whatever vault it runs in, so a
+corpus ingested against some other vault would carry that vault's links
+outward — contaminating both the published notes and the evaluation. The link
+builder therefore resolves links **only** within the corpus vault and reports
+any link that escapes it as a contamination signal:
+
+```bash
+python3 scripts/build_local_db.py vaults/musique --stats
+# links  4821  (4821 resolved in-vault, 0 unresolved/external)
+```
+
+A non-zero external count must be inspected before the vault is used.
 
 ## Data policy
 

@@ -13,3 +13,8 @@ __pycache__/
 
 # Local, organisation-specific scrub patterns (never published)
 .scrub-patterns
+
+# Per-vault databases are rebuilt from the notes by scripts/build_local_db.py
+vaults/*/notes.db
+vaults/*/notes.db-wal
+vaults/*/notes.db-shm
