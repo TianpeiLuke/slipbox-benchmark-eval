@@ -1,0 +1,521 @@
+{
+ "induced_ai_workflow_automation.md": {
+  "doc_0011": [
+   5
+  ]
+ },
+ "google_pixel_8_launch.md": {
+  "doc_0011": [
+   6,
+   7
+  ],
+  "doc_0043": [
+   17
+  ]
+ },
+ "flexport_leadership_turmoil.md": {
+  "doc_0011": [
+   8
+  ]
+ },
+ "gmail_bulk_sender_rules.md": {
+  "doc_0011": [
+   10
+  ]
+ },
+ "tiktok_ad_free_tier.md": {
+  "doc_0011": [
+   11
+  ],
+  "doc_0043": [
+   24
+  ]
+ },
+ "linkedin_ai_tools.md": {
+  "doc_0011": [
+   12
+  ]
+ },
+ "x_post_volume_discrepancy.md": {
+  "doc_0011": [
+   13
+  ]
+ },
+ "ironnet_shutdown.md": {
+  "doc_0011": [
+   14
+  ]
+ },
+ "breathe_battery_software.md": {
+  "doc_0011": [
+   23
+  ]
+ },
+ "acurable_respiratory_wearables.md": {
+  "doc_0011": [
+   18
+  ]
+ },
+ "founder_event_attendance_debate.md": {
+  "doc_0043": [
+   2,
+   3,
+   4
+  ]
+ },
+ "openai_chip_and_nvidia_position.md": {
+  "doc_0043": [
+   7,
+   8
+  ]
+ },
+ "adobe_generative_ai_tools.md": {
+  "doc_0043": [
+   9,
+   12
+  ]
+ },
+ "tidalflow_llm_integration.md": {
+  "doc_0043": [
+   11
+  ]
+ },
+ "consumer_ar_vr_hardware.md": {
+  "doc_0043": [
+   15
+  ]
+ },
+ "sonos_google_patent_reversal.md": {
+  "doc_0043": [
+   16
+  ]
+ },
+ "pc_shipment_decline_2023.md": {
+  "doc_0043": [
+   18
+  ]
+ },
+ "reddit_api_third_party_apps.md": {
+  "doc_0043": [
+   20
+  ]
+ },
+ "creator_economy_sustainability.md": {
+  "doc_0043": [
+   21,
+   23
+  ]
+ },
+ "mastodon_and_x_traffic_figures.md": {
+  "doc_0043": [
+   22
+  ]
+ },
+ "passkeys_default_signin.md": {
+  "doc_0043": [
+   27
+  ]
+ },
+ "upi_commercial_sustainability.md": {
+  "doc_0043": [
+   28
+  ]
+ },
+ "brave_software_layoffs.md": {
+  "doc_0043": [
+   29
+  ]
+ },
+ "rainforest_embedded_payments.md": {
+  "doc_0075": [
+   2,
+   3,
+   5,
+   6,
+   7,
+   8
+  ]
+ },
+ "rainforest_investor_thesis.md": {
+  "doc_0075": [
+   4,
+   9,
+   10,
+   11
+  ]
+ },
+ "paypal_anti_steering_lawsuit.md": {
+  "doc_0075": [
+   13,
+   14,
+   15
+  ]
+ },
+ "payment_gatekeeper_antitrust_view.md": {
+  "doc_0075": [
+   16,
+   17,
+   18
+  ]
+ },
+ "bolt_sec_probe.md": {
+  "doc_0075": [
+   19,
+   20,
+   21,
+   22,
+   23,
+   24
+  ]
+ },
+ "synapse_layoffs.md": {
+  "doc_0075": [
+   26
+  ]
+ },
+ "visa_generative_ai_fund.md": {
+  "doc_0075": [
+   27
+  ]
+ },
+ "slice_bank_merger_india.md": {
+  "doc_0075": [
+   28
+  ]
+ },
+ "cred_revenue_growth.md": {
+  "doc_0075": [
+   29
+  ]
+ },
+ "fintech_startup_rankings_2023.md": {
+  "doc_0075": [
+   31,
+   32
+  ]
+ },
+ "fintech_funding_roundup_oct_2023.md": {
+  "doc_0075": [
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58
+  ]
+ },
+ "biden_ai_executive_order.md": {
+  "doc_0098": [
+   0,
+   1,
+   2,
+   16,
+   17
+  ]
+ },
+ "ai_legislation_gap.md": {
+  "doc_0098": [
+   3,
+   4,
+   5,
+   6
+  ]
+ },
+ "reaction_to_biden_ai_order.md": {
+  "doc_0098": [
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15
+  ]
+ },
+ "llm_stack_layers.md": {
+  "doc_0161": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   17,
+   18,
+   19,
+   20
+  ]
+ },
+ "ai_startup_defensibility.md": {
+  "doc_0161": [
+   1,
+   2,
+   3,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   23,
+   24,
+   21,
+   22
+  ],
+  "doc_0011": [
+   24
+  ]
+ },
+ "ai_pricing_models.md": {
+  "doc_0161": [
+   28,
+   29,
+   30,
+   31
+  ]
+ },
+ "ai_market_spending_forecasts.md": {
+  "doc_0161": [
+   25,
+   26,
+   27
+  ]
+ },
+ "explore_with_alexa.md": {
+  "doc_0188": [
+   0,
+   1,
+   2
+  ]
+ },
+ "alexa_kids_llm_guardrails.md": {
+  "doc_0188": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   24,
+   25
+  ]
+ },
+ "alexa_kids_interaction_design.md": {
+  "doc_0188": [
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15
+  ]
+ },
+ "alexa_kids_privacy_and_hardware.md": {
+  "doc_0188": [
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23
+  ]
+ },
+ "keep_labs_device.md": {
+  "doc_0230": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ "keep_labs_cannabis_repositioning.md": {
+  "doc_0230": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ },
+ "keep_labs_pivot_and_leadership.md": {
+  "doc_0230": [
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19
+  ]
+ },
+ "keep_labs_enterprise_partnerships.md": {
+  "doc_0230": [
+   20,
+   21,
+   22
+  ]
+ },
+ "keep_labs_security_posture.md": {
+  "doc_0230": [
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30
+  ]
+ },
+ "keep_labs_funding_and_roadmap.md": {
+  "doc_0230": [
+   32,
+   33,
+   34,
+   35,
+   36
+  ]
+ },
+ "google_antitrust_case.md": {
+  "doc_0237": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "google_default_search_payments.md": {
+  "doc_0237": [
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ]
+ },
+ "google_apple_chrome_agreement.md": {
+  "doc_0237": [
+   12,
+   13,
+   14,
+   15,
+   16,
+   17
+  ]
+ },
+ "google_deleted_chat_logs.md": {
+  "doc_0237": [
+   18,
+   19,
+   20,
+   21
+  ]
+ },
+ "google_default_hypocrisy_argument.md": {
+  "doc_0237": [
+   22,
+   23,
+   24,
+   25,
+   26,
+   27
+  ]
+ },
+ "big_tech_antitrust_outlook.md": {
+  "doc_0237": [
+   30,
+   31,
+   32,
+   33,
+   29
+  ]
+ },
+ "scotus_social_media_cases.md": {
+  "doc_0256": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ]
+ },
+ "texas_florida_moderation_laws.md": {
+  "doc_0256": [
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ]
+ },
+ "first_amendment_editorial_judgment.md": {
+  "doc_0256": [
+   13,
+   14,
+   15,
+   16,
+   17
+  ]
+ },
+ "scotus_ruling_consequences.md": {
+  "doc_0256": [
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26
+  ]
+ },
+ "sbf_trial_arguments.md": {
+  "doc_0011": [
+   22
+  ]
+ },
+ "valor_applied_ai_thesis.md": {
+  "doc_0161": [
+   32,
+   33,
+   34,
+   35,
+   36,
+   37
+  ]
+ },
+ "going_infinite_lewis_account.md": {
+  "doc_0011": [
+   9
+  ]
+ }
+}

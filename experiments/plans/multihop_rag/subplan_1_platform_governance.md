@@ -122,6 +122,14 @@ rather than discarded by rule:
 | Reaction with no content | "THEY TRY TO SILENCE US" | Sentiment without an assertion to retain |
 | Byline / update notice | "Dominic-Madori Davis contributed" | Metadata about the article |
 
+**One duplicate was found after this plan was first written.** `doc_0010[5]`
+had been assigned to both `alameda_research.md` and `ftx.md`. Coverage summing
+cannot detect that — a block counted twice still looks covered — so
+`plan_coverage.py --crossplan` now checks every sub-plan for source assigned to
+more than one note, and G10 in the master plan makes it blocking. The block
+describes Alameda's founding and its relation to FTX, so it belongs to the
+Alameda note.
+
 **One block was recovered after review.** `doc_0024[29]` reads as a routine
 correction notice, but states that the EU had **not** opened an investigation —
 contradicting that article's own headline. It is a scope condition on the
@@ -205,6 +213,70 @@ single note satisfy several pieces of gold evidence.
 3. Cross-reference pass: every note to at least three related notes by content search
 4. `entry_platform_governance.md` last, once every note it indexes exists
 5. Gates G1–G7 from the master plan
+
+## Pacing Rules
+
+- One phase at a time; validate every GATE before starting the next
+- **Re-read the source block before writing each note** — never write from memory
+- Each note under 400 lines; if a note passes 350 while writing, stop and split
+- Quotations verbatim — never reformat or improve a quotation
+- After each phase: verify GATEs, then commit and push
+- **BB atomicity**: if a note starts mixing building blocks, split it
+- No rush. A wrong note costs more than a slow one, because fan-out multiplies it
+
+## Per-Phase GATEs
+
+| Phase | Contents | GATE |
+|---|---|---|
+| 1 | Entity and hub notes first | G1 format, G5 provenance |
+| 2 | Remaining content notes | G1, G5, G8 ceiling |
+| 3 | Term notes and glossary registration | G1, G5, glossary entry per term |
+| 4 | Cross-reference pass, 3+ per note | G2 links, G3 ghosts, G9 links |
+| 5 | Inlinks from existing notes | G2, G3, zero orphans |
+| 6 | Entry point | G1, G4 index, zero unresolved |
+
+Gate commands are in the [master plan](plan_digest_multihop_rag_slice.md).
+
+## Related Notes Mapping
+
+Per-note link targets are **not enumerated here**, and that is deliberate. The
+upstream skill asks for a hand-built table of at least eight term links per
+note, which assumes a mature vault. This corpus vault starts empty, so such a
+table written now would be a guess at what the vault will later contain — and a
+planned link to a note that never gets written becomes a ghost reference the
+gates then reject. Links are instead resolved **at execution time, against the
+vault as it then exists**:
+
+```bash
+python3 scripts/retrieval.py vaults/multihop_rag \
+    --query "<the note's opening claim>" --strategy hybrid --k 8
+```
+
+Floor: **three or more outbound links per note**, each stating how the notes
+relate, plus one link from the batch entry point. Keep only links carrying a
+real relation — `bfs` and `ppr` traverse every edge given, so a spurious edge
+degrades the arm under test as surely as a missing one.
+
+## Inlink Mapping
+
+Every note needs at least one inbound link, and inlinks are **executed and
+verified**, not merely planned:
+
+```bash
+python3 scripts/build_local_db.py vaults/multihop_rag --stats
+```
+
+The orphan count must be zero. An orphan is retrievable by name and unreachable
+by traversal, so it is invisible to the graph arm — which is the arm the
+experiment exists to measure.
+
+## Follow-ups
+
+- This sub-plan owns `doc_0009, doc_0010, doc_0024, doc_0025, doc_0030, doc_0106, doc_0195, doc_0335`. A later batch may extend a note here with a
+  further document; that is expected, and must never produce a second note on
+  the same subject.
+- Record any building block that stayed empty. Absence is a finding about the
+  corpus, not a gap to fill.
 
 ## Related Notes
 

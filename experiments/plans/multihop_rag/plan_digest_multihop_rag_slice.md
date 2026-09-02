@@ -59,13 +59,18 @@ The master never duplicates the sub-plan note tables.
 
 | Sub-plan | Documents | Words | Notes | Status |
 |---|---|---|---|---|
-| [Sub-plan 1 — Platform Governance](subplan_1_platform_governance.md) | 8 | 11,588 | 37 + 2 nav | **planned, verified** |
-| Sub-plan 2 — Startups, Funding and Product | 9 | 12,594 | 15 | pending read |
-| Sub-plan 3 — Policy, Courts and Culture | 8 | 11,713 | 14 | pending read |
+| [Sub-plan 1 — Platform Governance](subplan_1_platform_governance.md) | 8 | 11,696 | 37 | **planned, verified** |
+| [Sub-plan 2 — Startups, Funding and Product](subplan_2_startups_funding_and_product.md) | 9 | 12,695 | 64 | **planned, verified** |
+| [Sub-plan 3 — Policy, Courts and Culture](subplan_3_policy_courts_and_culture.md) | 8 | 11,800 | 33 | **planned, verified** |
 
-Sub-plans 2 and 3 are deliberately not written yet. Step 1b requires reading
-every source page before classifying it, and inventing a note table for
-documents nobody has read would be a guess wearing a plan's formatting.
+All 25 documents have been read, segmented into paragraph blocks, and assigned
+block by block. **132 distinct notes** across the slice, two of which are
+shared: a later sub-plan extends a note an earlier one owns rather than creating
+a second note on the same subject.
+
+Coverage is measured over the documents each sub-plan **owns**. A note extended
+by another batch does not credit that batch with source it does not own, so
+`--own-docs` separates the two.
 
 ## Step 2: Routing
 
@@ -176,10 +181,13 @@ built on. Two rules follow.
 | G7 coverage | `python3 scripts/plan_coverage.py <slug> --check <assignments>` — every block assigned or explicitly dropped | yes |
 | G8 ceiling | same command: no note over 1,800 source words | yes |
 | G9 links | every note has ≥3 `Related Notes` by content relevance | yes |
+| G10 no duplicate source | `python3 scripts/plan_coverage.py <slug> --crossplan experiments/plans/<slug>/` — no source block assigned to two notes | yes |
 
 ## Related Notes
 
-- [Sub-plan 1 — Platform Governance](subplan_1_platform_governance.md): 37 content notes + glossary + entry point, 95.7% source coverage
+- [Sub-plan 1 — Platform Governance](subplan_1_platform_governance.md): 37 notes, 95.7% coverage
+- [Sub-plan 2 — Startups, Funding and Product](subplan_2_startups_funding_and_product.md): 64 notes, 93.5% coverage
+- [Sub-plan 3 — Policy, Courts and Culture](subplan_3_policy_courts_and_culture.md): 33 notes, 99.3% coverage
 
 ## References
 

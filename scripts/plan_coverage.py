@@ -42,6 +42,14 @@ def main() -> None:
     ap.add_argument("slug")
     ap.add_argument("--segment")
     ap.add_argument("--check")
+    ap.add_argument("--crossplan", help="directory of *_assignments.json; report any source "
+                                        "block assigned to more than one note")
+    ap.add_argument("--own-docs",
+                    help="comma-separated docs this plan is responsible for. Coverage is "
+                         "reported over these only; other docs appearing in the assignment "
+                         "are cross-references from another sub-plan, where a note gains an "
+                         "extra source document. Counting those as coverage would understate "
+                         "a plan for correctly reusing a note instead of duplicating it.")
     a = ap.parse_args()
 
     if a.segment:
@@ -52,12 +60,35 @@ def main() -> None:
             print(f"[{i:>2}] {len(b.split()):>4}w  {b[:96]}")
         return
 
+    if a.crossplan:
+        # A source block assigned to two different notes duplicates evidence: both
+        # notes then carry the same claim, retrieval splits between them, and the
+        # dedup rule that makes one note serve several gold documents is defeated.
+        seen: dict[tuple[str, int], list[str]] = {}
+        for f in sorted(Path(a.crossplan).glob("*_assignments.json")):
+            for note, m in json.loads(f.read_text()).items():
+                for d, ids in m.items():
+                    for i in ids:
+                        seen.setdefault((d, i), []).append(f"{f.stem.split('_')[1]}:{note}")
+        dupes = {k: v for k, v in seen.items() if len({x.split(':')[1] for x in v}) > 1}
+        print(f"checked {len(seen)} block assignments across "
+              f"{len(list(Path(a.crossplan).glob('*_assignments.json')))} sub-plans")
+        if not dupes:
+            print("no source block assigned to more than one note")
+            return
+        print(f"\nDUPLICATE: {len(dupes)} block(s) assigned to several notes:")
+        for (d, i), notes in sorted(dupes.items()):
+            print(f"  {d}[{i}] -> " + ", ".join(sorted(set(notes))))
+        sys.exit(1)
+
     if not a.check:
         ap.error("pass --segment or --check")
 
     asg = json.loads(Path(a.check).read_text())
     docs = sorted({d for m in asg.values() for d in m})
     cache = {d: blocks(a.slug, d) for d in docs}
+    own = set(a.own_docs.split(",")) if a.own_docs else set(docs)
+    xref = [d for d in docs if d not in own]
 
     print(f"{'note':<44}{'src words':>10}  {'ceiling':>8}")
     over = 0
@@ -70,7 +101,7 @@ def main() -> None:
 
     print(f"\n{'doc':<10}{'words':>7}{'covered':>9}{'pct':>7}  unassigned blocks")
     tot = cov = 0
-    for d in docs:
+    for d in sorted(own):
         used = {i for m in asg.values() for i in m.get(d, [])}
         dw = sum(len(b.split()) for b in cache[d])
         cw = sum(len(cache[d][i].split()) for i in used)
@@ -79,6 +110,10 @@ def main() -> None:
         missing = [i for i in range(len(cache[d])) if i not in used]
         print(f"{d:<10}{dw:>7}{cw:>9}{100*cw/dw:>6.1f}%  {missing}")
     print(f"\ntotal {tot:,} words, {cov:,} covered ({100*cov/tot:.1f}%)")
+    if xref:
+        n = sum(len(ids) for m in asg.values() for d, ids in m.items() if d in xref)
+        print(f"cross-references: {n} block(s) from {len(xref)} document(s) owned "
+              f"elsewhere ({', '.join(xref)}) — notes reused rather than duplicated")
     print(f"notes over the {CEILING}-word source ceiling: {over}")
     if over:
         sys.exit(1)
