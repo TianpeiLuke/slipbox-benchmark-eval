@@ -293,6 +293,25 @@ REWRITES: list[tuple[str, str]] = [
      r"WHERE note_name LIKE 'term\_%' ESCAPE '\\'"),
     (r"REPLACE\(REPLACE\(target_note_id, '\$VAULT/', ''\), '\.md', ''\)",
      r"REPLACE(target_note_id, '.md', '')"),
+    (r'- \*\*Digest wiki site skill\*\*: `\$VAULT/`\.md` \(reference for GATE definitions\)',
+     r'- **GATE definitions**: `skills/validate-note-gates/SKILL.md` (in this repo)'),
+    (r'\$PLANS_PATH \(project root `experiments/plans/`\)', r'`$PLANS` (see Setup)'),
+    (r'\$PLANS_PATH', r'$PLANS'),
+    (r'Read 1-2 completed plans in `\$PLANS` to calibrate format \(e\.g\.,[^)]*\)',
+     r'Read any completed plan in `$PLANS` to calibrate format; on a fresh corpus '
+     r'there are none, and this plan becomes the calibration for the next'),
+    # dangling FZ pointers to notes that live only in the source vault
+    (r'^- \*\*FZ [0-9a-z]+ reference\*\*: `\$VAULT/`\.md`\n', ''),
+    # a two-place search collapsed into the same place twice by the flattening
+    (r'search \*\*both\*\* `\$VAULT/` AND `\$VAULT/`\. The most common real miss is a planned',
+     r'search `$VAULT/` for BOTH `term_*.md` and topic notes. The most common real miss is a planned'),
+    # scaffolding templates that were never ported into this repo
+    (r'- \*\*Reusable scaffolding \(Steps 3-6\)\*\*: `experiments/plans/templates/`[^\n]*',
+     r'- **Gate**: `python3 scripts/validate_notes.py "$VAULT" --gate` — one validator '
+     r'for frontmatter, structure, broken links and ghosts; see '
+     r'`skills/validate-note-gates/SKILL.md`. (The upstream per-campaign workflow '
+     r'templates are not ported: this repo drives execution from the plan file '
+     r'directly.)'),
     # frontmatter fields that only mean something in the source vault
     (r'^related_skill_headers:\n(?:  - .*\n)+', ""),
     (r'^access_control_group:.*\n', ""),

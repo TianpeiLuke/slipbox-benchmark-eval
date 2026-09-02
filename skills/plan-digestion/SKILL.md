@@ -48,11 +48,11 @@ PLANS="experiments/plans/$CORPUS"
 
 ## Resources <!-- :: section_id = resources :: -->
 
-- **Plans directory**: `$PLANS_PATH` (project root `experiments/plans/`)
-- **Existing plans**: Read 1-2 completed plans in `$PLANS_PATH` to calibrate format (e.g., `plan_digest_builder_mcp_user_guide.md`, `plan_digest_meshclaw_wiki.md`)
+- **Plans directory**: `$PLANS` (project root `experiments/plans/`)
+- **Existing plans**: Read any completed plan in `$PLANS` to calibrate format; on a fresh corpus there are none, and this plan becomes the calibration for the next
 - **Building block definitions**: `docs/BUILDING_BLOCKS.md` (in this repo)
 - **Vault DB**: `$DB` for searching existing notes (avoid duplication)
-- **Digest wiki site skill**: `$VAULT/`.md` (reference for GATE definitions)
+- **GATE definitions**: `skills/validate-note-gates/SKILL.md` (in this repo)
 
 ---
 
@@ -509,7 +509,7 @@ Include validation scripts (bash) in the plan for automated checking.
 
 ## Step 6: Write the Plan File <!-- :: section_id = step_6_write_plan :: -->
 
-Create the plan at: `$PLANS_PATH/plan_digest_<TOPIC_SLUG>.md`
+Create the plan at: `$PLANS/plan_digest_<TOPIC_SLUG>.md`
 
 ### Required Plan Sections
 

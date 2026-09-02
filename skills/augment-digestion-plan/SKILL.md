@@ -50,9 +50,8 @@ PLANS="experiments/plans/$CORPUS"
 
 ## Resources <!-- :: section_id = resources :: -->
 
-- **Plan to augment**: `$PLANS_PATH/plan_digest_<topic>.md` (must already exist)
-- **FZ 28c reference**: `$VAULT/`.md`
-- **Best-plan examples**: `$PLANS_PATH/plan_digest_builder_mcp_user_guide.md`, `$PLANS_PATH/plan_digest_meshclaw_wiki.md`
+- **Plan to augment**: `$PLANS/plan_digest_<topic>.md` (must already exist)
+- **Best-plan examples**: `$PLANS/plan_digest_builder_mcp_user_guide.md`, `$PLANS/plan_digest_meshclaw_wiki.md`
 - **Vault DB**: `$DB` for cross-reference search
 
 ---
@@ -82,7 +81,7 @@ Report "Master passes N/8 shared-section checks. Missing: [list]."
 
 ## Step 1: Read the Existing Draft Plan <!-- :: section_id = step_1_read_draft :: -->
 
-Read the plan file at `$PLANS_PATH/plan_digest_<topic>.md` (or the specific sub-plan file if augmenting within a master+sub-plan structure).
+Read the plan file at `$PLANS/plan_digest_<topic>.md` (or the specific sub-plan file if augmenting within a master+sub-plan structure).
 
 Identify which of the 11 mandatory sections are PRESENT and which are MISSING:
 
@@ -705,7 +704,7 @@ For every too-general slug, RENAME it in the Undigested Terms Plan table AND add
 
 > **Generalize beyond term slugs (added 2026-06-13).** Run this collision audit for **EVERY planned note
 > in the Planned Notes table — documentation concept/procedure notes too, not only `term_*` slugs** — and
-> search **both** `$VAULT/` AND `$VAULT/`. The most common real miss is a planned
+> search `$VAULT/` for BOTH `term_*.md` and topic notes. The most common real miss is a planned
 > documentation concept note (e.g. `cc_mcp`, `cc_skill`) that duplicates an existing **term** note
 > (`term_mcp`, `term_skills`) — the term-only check never catches it. Substantive same-concept match (term
 > OR doc) → REMOVE from the plan; link or enrich the existing note instead. Confirm every DUP verdict with

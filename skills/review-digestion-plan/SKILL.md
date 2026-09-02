@@ -48,8 +48,7 @@ PLANS="experiments/plans/$CORPUS"
 
 ## Resources <!-- :: section_id = resources :: -->
 
-- **Plan to review**: `$PLANS_PATH/plan_digest_<topic>.md`
-- **FZ 28d reference**: `$VAULT/`.md`
+- **Plan to review**: `$PLANS/plan_digest_<topic>.md`
 - **Format checker**: `python3 scripts/validate_notes.py "$VAULT"`
 - **Target directory**: read existing notes in target dir to verify format alignment
 

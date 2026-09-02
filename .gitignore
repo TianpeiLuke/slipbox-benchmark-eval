@@ -38,3 +38,5 @@ vaults/*/notes.db-shm
 **/notes.db
 **/notes.db-wal
 **/notes.db-shm
+experiments/output/*
+!experiments/output/README.md

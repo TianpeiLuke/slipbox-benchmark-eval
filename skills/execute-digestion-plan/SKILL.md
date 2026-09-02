@@ -54,10 +54,10 @@ PLANS="experiments/plans/$CORPUS"
 
 ## Resources <!-- :: section_id = resources :: -->
 
-- **Plan to execute**: `$PLANS_PATH/plan_digest_<topic>.md` (must have `status: ready`)
+- **Plan to execute**: `$PLANS/plan_digest_<topic>.md` (must have `status: ready`)
 - **Methodology**: [Runbook: Large-Scale Note Processing with Multi-Agent Pipelines (FZ 28f1)](../policy_sops/runbook_large_scale_note_processing_multiagent.md) — the playbook this skill implements
 - **Empirical reference**: Deep Dive: VCL Variable Note Enrichment Multi-Agent Pipeline (FZ 28f2) — case study (130 notes, 18 batches, 221 agents, all gates passed); Deep Dive: Causal Handbook Digest Campaign (FZ 28f3) — generative case study (139 notes) + the rate-limit/fan-out-cap learnings
-- **Reusable scaffolding (Steps 3-6)**: `experiments/plans/templates/` — `wf_digest_execute.template.js` (workflow), `contract_digest_shared.template.md` (contract), `link_resolution_gen.py` (path table), and `experiments/plans/templates/README.md` (fill-in guide + gate presets). **Generic gate**: `python3 scripts/validate_notes.py "$VAULT" --gate` — config-driven (env vars), replaces per-campaign `gate_*.sh`; calibrated for both term and digest notes. Copy a template per campaign, fill `<<FILL: ...>>`, and configure the gate via env rather than re-authoring.
+- **Gate**: `python3 scripts/validate_notes.py "$VAULT" --gate` — one validator for frontmatter, structure, broken links and ghosts; see `skills/validate-note-gates/SKILL.md`. (The upstream per-campaign workflow templates are not ported: this repo drives execution from the plan file directly.)
 - **Dynamic workflow announcement**: Claude Code Dynamic Workflows (2026-06-12) — feature: unlimited subagents, `/workflows` panel, requires Opus 4.7/4.8 + `/effort ultracode`
 - **Validation skills (closing gates)**: `/slipbox-check-note-format`, `/slipbox-check-broken-links`, `/slipbox-run-full-database-rebuild`
 
@@ -67,8 +67,8 @@ PLANS="experiments/plans/$CORPUS"
 
 ```bash
 # Confirm plan exists and has status: ready
-test -f "$PLANS_PATH/$PLAN_FILE" || { echo "Plan not found"; exit 1; }
-grep -E '^status:\s*ready' "$PLANS_PATH/$PLAN_FILE" || {
+test -f "$PLANS/$PLAN_FILE" || { echo "Plan not found"; exit 1; }
+grep -E '^status:\s*ready' "$PLANS/$PLAN_FILE" || {
   echo "Plan status is not 'ready' — run /slipbox-review-digestion-plan first"; exit 1; }
 ```
 
@@ -169,7 +169,7 @@ The completed pilot note path goes into the per-batch contract (Step 4) as `WORK
 
 ### 4a. The shared contract (one per execution run)
 
-Extract these sections from the plan and concatenate into `$PLANS_PATH/contract_<plan_slug>_shared.md`:
+Extract these sections from the plan and concatenate into `$PLANS/contract_<plan_slug>_shared.md`:
 
 | From the plan | Extracted into the shared contract |
 |---|---|
@@ -214,7 +214,7 @@ Every sub-agent returns:
 
 ### 4b. Per-batch assignments
 
-For each batch defined in the plan's batch table, extract the per-note rows into `$PLANS_PATH/contract_<plan_slug>_batch_<N>.md`:
+For each batch defined in the plan's batch table, extract the per-note rows into `$PLANS/contract_<plan_slug>_batch_<N>.md`:
 
 ```markdown
 # Batch <N> Assignments
