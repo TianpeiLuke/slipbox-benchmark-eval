@@ -14,6 +14,9 @@ data/corpus/
 data/chunks/
 # anything derived from the questions half
 data/gold/
+# writing briefs inline the corpus text, so they are the publishers' content
+# rather than our notes; regenerate with scripts/emit_write_brief.py
+experiments/plans/*/briefs/
 *.jsonl.gz
 *.zip
 

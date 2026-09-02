@@ -31,6 +31,30 @@ ROOT = Path(__file__).resolve().parent.parent
 CORPUS = ROOT / "data" / "corpus"
 
 
+def compile_forms(forms: list[str]) -> re.Pattern:
+    """One pattern per term, with the two properties a naive join gets wrong.
+
+    WORD BOUNDARIES. Without them "bot" matches inside "both", "NFL" inside
+    "influenza", and "trial" inside "clinical trial" -- so a canine-illness note
+    acquires links to bot detection and criminal trials. Every such edge is
+    fabricated, and bfs and ppr traverse every edge they are given.
+
+    CASE. An acronym is case-SENSITIVE: "WHO" is an organisation, "who" is a
+    pronoun. A lowercase phrase is not, because it may open a sentence.
+    """
+    parts = []
+    for f in forms:
+        esc = re.escape(f)
+        # a form starting/ending with a word character needs a boundary there
+        left = r"\b" if f[:1].isalnum() else ""
+        right = r"\b" if f[-1:].isalnum() else ""
+        if f.isupper() and len(f) <= 6 and f.isalpha():
+            parts.append(f"(?-i:{left}{esc}{right})")   # acronym: exact case
+        else:
+            parts.append(f"{left}{esc}{right}")
+    return re.compile("|".join(parts), re.I)
+
+
 def blocks(slug: str, doc: str) -> list[str]:
     return [b.strip() for b in (CORPUS / slug / f"{doc}.txt").read_text().split("\n\n") if b.strip()]
 
@@ -49,10 +73,7 @@ def main() -> None:
 
     P = Path(a.plans)
     terms = json.loads((P / "terms.json").read_text())
-    # Case-insensitive: a term at the start of a sentence is the same term, and a
-    # case-sensitive match silently reports zero for notes that clearly discuss it.
-    pats = {t: re.compile("|".join(re.escape(s) for s in forms), re.I)
-            for t, forms in terms.items()}
+    pats = {t: compile_forms(forms) for t, forms in terms.items()}
 
     cache: dict[str, list[str]] = {}
     mapping: dict[str, list] = {}
