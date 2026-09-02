@@ -39,14 +39,48 @@ Metrics mirror those papers: **Recall@2 / Recall@5**, **All-Recall@k** (fraction
 
 ```
 scripts/fetch_benchmarks.py   download corpora (never committed)
-scripts/build_local_db.py     build a self-contained DB per corpus vault
+scripts/build_local_db.py     lexical half: FTS5 + link graph, per vault
+scripts/build_embeddings.py   dense half: sentence embeddings, per vault
+scripts/retrieval.py          bm25 / dense / hybrid / bfs / ppr
 scripts/scrub_check.py        publication gate for derived notes
+scripts/selftest.sh           end-to-end check on a tiny committed fixture
 skills/                       the corpus-ingestion skill
+tests/fixture_vault/          4-note fixture; no downloads needed
 data/manifest.json            URLs, licenses, checksums (committed)
 data/raw/                     corpora (gitignored)
-vaults/<corpus>/              derived notes (committed) + notes.db (rebuilt)
+vaults/<corpus>/              derived notes (committed) + indexes (rebuilt)
 experiments/                  harness and results
 ```
+
+## Retrieval
+
+Five strategies over a vault's own hybrid index. Nothing reads outside the repo.
+
+| Strategy | What it does |
+|---|---|
+| `bm25` | FTS5 over title and body — the lexical baseline |
+| `dense` | cosine over sentence embeddings (all-MiniLM-L6-v2, 384-dim) |
+| `hybrid` | reciprocal-rank fusion of the two |
+| `bfs` | hybrid seeds, best-first expansion over resolved links, hop-discounted |
+| `ppr` | hybrid seeds as the teleport set, personalised PageRank (α=0.85) |
+
+`bfs` and `ppr` are the **graph-based arm**. They exist to test whether a typed
+link graph reaches gold evidence that similarity alone misses — the central
+claim of graph RAG, and why multi-hop benchmarks are the right venue.
+
+**Traversal follows only links that resolve inside the vault.** An unresolved
+link points outside and is never followed, which is what keeps a corpus's
+retrieval isolated from anything else on disk.
+
+```bash
+./scripts/selftest.sh     # builds, indexes, retrieves, scrubs — no downloads
+```
+
+On the committed 4-note fixture the query *"where is Alpha Protocol deployed"*
+is answered in `gamma.md`, which shares no terms with the query, while
+`beta.md` is the bridge between them. `ppr` ranks the bridge node **first**
+where `bm25` misses it entirely — an illustration of the mechanism under test,
+not evidence for it. The evidence has to come from the benchmarks.
 
 ## Isolation
 
