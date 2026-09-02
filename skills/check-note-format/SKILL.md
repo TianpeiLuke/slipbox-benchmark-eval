@@ -256,6 +256,78 @@ Present the summary table from the script output, then highlight:
 - `/slipbox-capture-term-note` — run after to verify output; also for orphan term stubs
 - `/slipbox-digest-paper` — run after to verify output
 
+## Where Notes Go, and What They Must Carry
+
+**Every note this skill creates is written to `$VAULT/<slug>.md` — flat, one
+directory, no subtree.** `scripts/build_local_db.py` indexes `$VAULT/**/*.md`
+and uses the vault-relative path as the note id, so a flat layout makes the id
+equal to the filename and lets links be bare filenames that always resolve.
+
+The source vault's `resources/` / `areas/` / `projects/` tree is deliberately
+**not** reproduced. That tree encodes a personal-vault organising scheme; here
+it would only make a note's id depend on a routing decision, adding a free
+parameter to the retrieval comparison for no benefit.
+
+### Required frontmatter
+
+```yaml
+---
+building_block: <one of the eight>   # FM-002 / FM-003 — closed enum
+source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this note
+---
+```
+
+Both are **enforced**, not conventional. `building_block` is what the retrieval
+arms stratify on. `source_docs` is what makes the note scorable at all: gold
+labels in these benchmarks are passage-level, so a note that cannot name the
+documents it came from cannot be credited when it is retrieved. A note without
+it is invisible to the evaluation even when it is correct.
+
+`tags`, `keywords`, `topics`, `status`, `language` and `date of note` may be
+included and are preserved, but the database does not read them — do not spend
+effort on them at the expense of the two fields above.
+
+### Required structure
+
+- **H1 first** — the first content line after the frontmatter (`ST-001`/`ST-002`).
+  It becomes the note title in the database and in every retrieval result.
+- **Links are bare filenames** — `[Other Note](other_note.md)`, resolved inside
+  `$VAULT` only. A link that escapes the vault is reported as `LN-002`
+  contamination, because it means the note was written against a different vault.
+
+### Verify before considering the note written
+
+```bash
+python3 scripts/validate_notes.py "$VAULT" --gate
+python3 scripts/build_local_db.py "$VAULT" --stats
+```
+
+The second must report **zero unresolved links**.
+
+## Knowledge Building Blocks (reference)
+
+Every note carries exactly **one** `building_block:`. Closed enum — any other
+value is rejected by `scripts/validate_notes.py` (rule `FM-003`):
+
+| Type | Answers | Must retain |
+|---|---|---|
+| `concept` | *What is X?* | definition, discriminating features, boundary cases |
+| `model` | *How does X relate to Y?* | structure, relations, the range over which they hold |
+| `procedure` | *How do I do X?* | ordered steps, preconditions, where it does not apply |
+| `empirical_observation` | *What happened?* | the event, its source, time anchor, conditions |
+| `argument` | *Why believe P?* | claim, grounds, and the warrant joining them |
+| `counter_argument` | *Why might that be wrong?* | which premise or inference it attacks |
+| `hypothesis` | *Might P be true?* | the proposition and what would falsify it |
+| `navigation` | *Where do I find things?* | index or routing only, no substantive claims |
+
+The type is chosen **before** writing, because it is a retention contract: the
+"must retain" column names the fields that have to survive. Scope conditions —
+preconditions, authority, time anchors, applicability bounds — are the class an
+unconditioned summariser reliably deletes, since they qualify claims rather than
+being claims. Never mix two building blocks in one note.
+
+Full definitions and the benchmark-corpus caveats: `docs/BUILDING_BLOCKS.md`.
+
 ## Error Handling <!-- :: section_id = error_handling :: -->
 
 | Error | Cause | Recovery |

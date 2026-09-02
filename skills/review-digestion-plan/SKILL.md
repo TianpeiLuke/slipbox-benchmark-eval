@@ -49,7 +49,7 @@ PLANS="experiments/plans/$CORPUS"
 ## Resources <!-- :: section_id = resources :: -->
 
 - **Plan to review**: `$PLANS_PATH/plan_digest_<topic>.md`
-- **FZ 28d reference**: `$VAULT/resources/analysis_thoughts/thought_digestion_plan_final_review.md`
+- **FZ 28d reference**: `$VAULT/`.md`
 - **Format checker**: `python3 scripts/validate_notes.py "$VAULT"`
 - **Target directory**: read existing notes in target dir to verify format alignment
 
@@ -71,7 +71,7 @@ Read the plan file. Confirm it has `status: pending` (not already completed or i
 - OR inline specification in the Planned Notes table
 
 **Minimum requirement**:
-- **Floor**: Each note must link to **≥8 relevancy-selected `term_dictionary/` term notes** + ≥1 entry point back-link (raised ≥3 → ≥6 2026-06-13, ≥6 → ≥8 2026-06-21; terms chosen by content relevancy, not padding). Each term goes in the note's `## Related Notes` (reference) section as an indexed markdown link **with a term description AND its relevancy to this note** (`- Term — desc; relevance: …`); a bare link with no relevancy statement FAILs CP1. Other related notes (tools/repos/areas/siblings) are additional.
+- **Floor**: Each note must link to **≥8 relevancy-selected `$VAULT/` term notes** + ≥1 entry point back-link (raised ≥3 → ≥6 2026-06-13, ≥6 → ≥8 2026-06-21; terms chosen by content relevancy, not padding). Each term goes in the note's `## Related Notes` (reference) section as an indexed markdown link **with a term description AND its relevancy to this note** (`- Term — desc; relevance: …`); a bare link with no relevancy statement FAILs CP1. Other related notes (tools/repos/areas/siblings) are additional.
 - **Target**: If `/slipbox-search-notes` returns many highly-relevant matches (PPR score >0.5 or direct keyword match), increase to ≥6-8 related notes per note. More cross-references = better graph connectivity and discoverability.
 - **Guideline**: Notes on well-documented topics (e.g., MeshClaw, Builder MCP, OTF) should have 6-8 references. Notes on niche or new topics may only have 3-4.
 
@@ -121,14 +121,14 @@ Search the vault for ALL entry points that relate to the topic:
 sqlite3 "$DB" \
   "SELECT note_id, note_name, file_path
    FROM notes
-   WHERE note_location LIKE '%0_entry_points%'
+   WHERE note_location LIKE 'entry_%'
      AND (note_name LIKE '%<TOPIC_KEYWORD_1>%'
           OR note_name LIKE '%<TOPIC_KEYWORD_2>%'
           OR keywords LIKE '%<TOPIC_KEYWORD>%')
    ORDER BY static_ppr_score DESC LIMIT 10;"
 ```
 
-Also run `/slipbox-search-notes <TOPIC> --type entry_point` or browse `0_entry_points/` to find any entry points the keyword search may have missed.
+Also run `/slipbox-search-notes <TOPIC> --type entry_point` or browse `$VAULT/` to find any entry points the keyword search may have missed.
 
 ### 4c. Decide if plan should update additional entry points
 
@@ -410,6 +410,54 @@ If any FAIL: Report which checkpoints failed and what needs to be fixed. Do NOT 
 5. **Record the review** — append a `## Review Sign-Off` section to the plan with date, result, and any notes.
 6. **CP7 requires actual page reads** — the reviewer MUST WebFetch/Read 2-3 pages to verify word counts. This cannot be done from memory. If you cannot read the pages (e.g., auth required), mark CP7 as "DEFERRED — verify during execution" and note which pages were unverifiable.
 
+## Where Notes Go, and What They Must Carry
+
+**Every note this skill creates is written to `$VAULT/<slug>.md` — flat, one
+directory, no subtree.** `scripts/build_local_db.py` indexes `$VAULT/**/*.md`
+and uses the vault-relative path as the note id, so a flat layout makes the id
+equal to the filename and lets links be bare filenames that always resolve.
+
+The source vault's `resources/` / `areas/` / `projects/` tree is deliberately
+**not** reproduced. That tree encodes a personal-vault organising scheme; here
+it would only make a note's id depend on a routing decision, adding a free
+parameter to the retrieval comparison for no benefit.
+
+### Required frontmatter
+
+```yaml
+---
+building_block: <one of the eight>   # FM-002 / FM-003 — closed enum
+source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this note
+---
+```
+
+Both are **enforced**, not conventional. `building_block` is what the retrieval
+arms stratify on. `source_docs` is what makes the note scorable at all: gold
+labels in these benchmarks are passage-level, so a note that cannot name the
+documents it came from cannot be credited when it is retrieved. A note without
+it is invisible to the evaluation even when it is correct.
+
+`tags`, `keywords`, `topics`, `status`, `language` and `date of note` may be
+included and are preserved, but the database does not read them — do not spend
+effort on them at the expense of the two fields above.
+
+### Required structure
+
+- **H1 first** — the first content line after the frontmatter (`ST-001`/`ST-002`).
+  It becomes the note title in the database and in every retrieval result.
+- **Links are bare filenames** — `[Other Note](other_note.md)`, resolved inside
+  `$VAULT` only. A link that escapes the vault is reported as `LN-002`
+  contamination, because it means the note was written against a different vault.
+
+### Verify before considering the note written
+
+```bash
+python3 scripts/validate_notes.py "$VAULT" --gate
+python3 scripts/build_local_db.py "$VAULT" --stats
+```
+
+The second must report **zero unresolved links**.
+
 ## Knowledge Building Blocks (reference)
 
 Every note carries exactly **one** `building_block:`. Closed enum — any other
@@ -432,8 +480,7 @@ preconditions, authority, time anchors, applicability bounds — are the class a
 unconditioned summariser reliably deletes, since they qualify claims rather than
 being claims. Never mix two building blocks in one note.
 
-Full definitions, the source-classification table, and the benchmark-corpus
-caveats: `docs/BUILDING_BLOCKS.md`.
+Full definitions and the benchmark-corpus caveats: `docs/BUILDING_BLOCKS.md`.
 
 ## Error Handling <!-- :: section_id = error_handling :: -->
 

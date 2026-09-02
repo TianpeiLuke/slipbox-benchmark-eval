@@ -34,6 +34,10 @@ from pathlib import Path
 #
 #     echo 'internal-hostname\nproject-codename' > .scrub-patterns
 #
+# --tokens-only scans a tree that is prose ABOUT notes (skills/, docs/) rather
+# than notes: it applies the internal-token check and skips the link and
+# provenance checks, whose premises do not hold there.
+#
 # One regex per line, blank lines and #-comments ignored.
 INTERNAL = [
     r"\b[a-z0-9.-]+\.corp\b", r"\b[a-z0-9.-]+\.internal\b",
@@ -57,7 +61,7 @@ FOREIGN_DIRS = ["resources/analysis_thoughts", "resources/term_dictionary",
 LINK = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
 
 
-def scan(root: Path) -> int:
+def scan(root: Path, tokens_only: bool = False) -> int:
     notes = sorted(root.rglob("*.md"))
     if not notes:
         print(f"FAIL: no notes found under {root}")
@@ -73,6 +77,12 @@ def scan(root: Path) -> int:
             m = re.search(pat, low)
             if m:
                 fails.append(f"{rel}: INTERNAL TOKEN {m.group(0)!r}")
+
+        if tokens_only:
+            # Skills and docs are prose about notes, not notes: their example
+            # links (`other_note.md`) are illustrations, and they cite no corpus
+            # source. Only the internal-token check applies to them.
+            continue
 
         for target in LINK.findall(text):
             if target.startswith(("http://", "https://", "#")):
@@ -108,4 +118,6 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print(__doc__)
         sys.exit(2)
-    sys.exit(max(scan(Path(a)) for a in sys.argv[1:]))
+    args = [a for a in sys.argv[1:] if a != "--tokens-only"]
+    tokens_only = "--tokens-only" in sys.argv[1:]
+    sys.exit(max(scan(Path(a), tokens_only) for a in args))

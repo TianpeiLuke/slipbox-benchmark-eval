@@ -65,19 +65,10 @@ If 0, report "No broken links found" and stop.
 sqlite3 -header -column $DB "
 SELECT
   CASE
-    WHEN broken_path NOT LIKE 'resources/%'
-     AND correct_note_id LIKE 'resources/%'
-     AND 'resources/' || broken_path = correct_note_id
-    THEN 'missing_resources_prefix'
-    WHEN broken_path LIKE 'resources/resources/%'
-     AND correct_note_id LIKE 'resources/%'
-    THEN 'double_resources_prefix'
-    WHEN broken_path LIKE 'resources/areas/%'
-     AND correct_note_id LIKE 'areas/%'
-    THEN 'areas_under_resources'
-    WHEN broken_path LIKE 'documentation/%'
-     AND correct_note_id LIKE 'resources/documentation/%'
-    THEN 'missing_resources_prefix'
+    WHEN instr(broken_path, '/') > 0
+    THEN 'has_directory_component'   -- this vault is flat; a slash is itself the bug
+    WHEN lower(broken_path) = lower(correct_note_id)
+    THEN 'case_mismatch'
     ELSE 'other'
   END AS error_pattern,
   COUNT(*) AS link_count,

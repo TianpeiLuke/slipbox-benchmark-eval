@@ -52,7 +52,7 @@ PLANS="experiments/plans/$CORPUS"
 - **Existing plans**: Read 1-2 completed plans in `$PLANS_PATH` to calibrate format (e.g., `plan_digest_builder_mcp_user_guide.md`, `plan_digest_meshclaw_wiki.md`)
 - **Building block definitions**: `docs/BUILDING_BLOCKS.md` (in this repo)
 - **Vault DB**: `$DB` for searching existing notes (avoid duplication)
-- **Digest wiki site skill**: `$VAULT/resources/skills/skill_slipbox_digest_wiki_site.md` (reference for GATE definitions)
+- **Digest wiki site skill**: `$VAULT/`.md` (reference for GATE definitions)
 
 ---
 
@@ -62,9 +62,9 @@ PLANS="experiments/plans/$CORPUS"
 
 | Source Type | How to Read | Examples |
 |-------------|-------------|---------|
-| docs.hub.amazon.dev (corpus) | `local file read` | https://docs.hub.amazon.dev/... |
-| code.amazon.com (docs package) | `local file read` | https://code.amazon.com/packages/.../blobs/mainline/--/... |
-| External URL | `WebFetch` | https://docs.aws.amazon.com/... |
+| Corpus document | `Read` tool | `corpus/<doc_id>.txt` |
+| Source repository | `Read` tool | a checked-out path |
+| External URL | `WebFetch` | any public documentation URL |
 | Local file/PDF | `Read` tool | File path provided by user |
 
 ### 1b. Read the root page and all leaf pages
@@ -169,14 +169,14 @@ Quick reference for common sources:
 
 | Source Type | Content Style | Target Directory | Prefix Pattern |
 |-------------|--------------|-----------------|----------------|
-| corpus docs (docs.hub.amazon.dev) | Reference/guide | `$VAULT/` | `builderhub_<topic>_*.md` |
+| Corpus document | Reference/guide | `$VAULT/` | `builderhub_<topic>_*.md` |
 | User guide / onboarding guide (any platform) | Step-by-step tutorial sequence | `$VAULT/` | `tutorial_<topic>_*.md` |
-| External (books, blogs, open-source docs) | Digest | `resources/digest/` | `digest_<topic>_*.md` |
-| AWS service docs (docs.aws.amazon.com) | Reference/guide | `$VAULT/` | `aws_<service>_<topic>_*.md` |
+| External (books, blogs, open-source docs) | Digest | `$VAULT/` | `digest_<topic>_*.md` |
+| External vendor docs | Reference/guide | `$VAULT/` | `aws_<service>_<topic>_*.md` |
 
-**Routing heuristic**: Sequential user guide → `tutorials/`. Reference/inventory → platform subfolder. When in doubt, run `/slipbox-search-notes <topic>` to find where similar content already lives.
+**Routing**: this vault is flat — every note is written to `$VAULT/<slug>.md` and the prefix carries the distinction that a directory would. Run `python3 scripts/retrieval.py "$VAULT" --query "<topic>" --strategy hybrid` to find where similar content already lives.
 
-> **Corollary**: If a cohesive series will produce >15 notes, a dedicated subfolder is justified. Otherwise, use file prefixes within the existing folder.
+> **Corollary**: A cohesive series shares a filename prefix rather than a subfolder, so that a note id stays equal to its filename.
 
 ### 2c. Document routing decision in plan
 
@@ -284,7 +284,7 @@ sqlite3 "$DB" \
 For each planned note, use `/slipbox-search-notes` with key concepts from that note to discover related vault notes (any type — terms, tools, repos, snippets, areas, howtos, projects, etc.). List the top matches in a per-note reference mapping.
 
 > **Minimum ≥8 term notes per planned note (added 2026-06-13; raised ≥6 → ≥8 on 2026-06-21).** Every planned note's reference mapping
-> MUST include **≥8 `term_dictionary/` term notes**, selected by **content relevancy** to that note — the
+> MUST include **≥8 `$VAULT/` term notes**, selected by **content relevancy** to that note — the
 > terms whose concepts the note actually uses, relevancy-ranked (BM25/dense/graph), **NOT padded with
 > unrelated terms**. Other related notes (tools/repos/areas/howtos/siblings/entry points) are *additional*,
 > not a substitute. If genuinely fewer than 8 relevant term notes exist for a niche note, broaden the
@@ -308,7 +308,7 @@ Two actions are possible: UPDATE an existing entry point, or CREATE a new dedica
 
 #### When CREATE: file naming + template
 
-- **File**: `0_entry_points/entry_<source_slug>.md`
+- **File**: `$VAULT/entry_<source_slug>.md`
 - **Slug**: same slug used in `plan_digest_<source_slug>_master.md` (e.g. `entry_aws_lambda.md`, `entry_causal_inference_handbook.md`, `entry_aws_bedrock_agentcore.md`)
 - **YAML**: `building_block: navigation`, `tags: [entry_point, ...]`, `keywords: [<source name>, <key concepts>]`
 - **Required body sections**:
@@ -324,10 +324,10 @@ After creating the dedicated entry point, ADD a row to the parent hub so the new
 
 | Source type | Parent hub to update |
 |---|---|
-| AWS service docs (docs.aws.amazon.com) | `0_entry_points/entry_aws_services_hub.md` |
-| Internal wiki (the corpus) | `0_entry_points/entry_wiki_hub.md` (or equivalent index) |
-| corpus (docs.hub.amazon.dev) | `0_entry_points/entry_builderhub.md` |
-| External book / blog / open-source docs | `0_entry_points/entry_digest_index.md` (or equivalent) |
+| External vendor docs | `$VAULT/entry_aws_services_hub.md` |
+| Internal wiki (the corpus) | `$VAULT/entry_wiki_hub.md` (or equivalent index) |
+| Corpus document | `$VAULT/entry_builderhub.md` |
+| External book / blog / open-source docs | `$VAULT/entry_digest_index.md` (or equivalent) |
 
 Without the parent-hub back-link, the new entry point is an orphan and won't be reached via normal navigation.
 
@@ -389,7 +389,7 @@ Also try canonical-acronym normalization variants before declaring undigested �
 The vault organizes terms by **acronym glossary** notes that group terms by domain. List them:
 
 ```bash
-ls "$VAULT/0_entry_points/" | grep '^acronym_glossary'
+ls "$VAULT/" | grep '^acronym_glossary'
 ```
 
 Pick the glossary whose existing entries are most topically aligned with the undigested term. If no existing glossary fits and the term cluster is large (>5 sibling terms from the same source), propose a NEW glossary as a separate plan phase.
@@ -598,6 +598,78 @@ If any issue found, update the plan before marking ready.
 6. **Quality over speed** — re-read source if uncertain about density or BB classification
 7. **Code blocks MUST be verbatim in plan** — note which source sections have code that must be preserved exactly
 8. **Measured, not estimated** — word counts in the Source table MUST come from actual page reads (tool output), never from training knowledge or guesswork. A page not read is a page not measurable. If you cannot read it, mark as "unread — estimate only" and flag for verification during augmentation.
+
+## Where Notes Go, and What They Must Carry
+
+**Every note this skill creates is written to `$VAULT/<slug>.md` — flat, one
+directory, no subtree.** `scripts/build_local_db.py` indexes `$VAULT/**/*.md`
+and uses the vault-relative path as the note id, so a flat layout makes the id
+equal to the filename and lets links be bare filenames that always resolve.
+
+The source vault's `resources/` / `areas/` / `projects/` tree is deliberately
+**not** reproduced. That tree encodes a personal-vault organising scheme; here
+it would only make a note's id depend on a routing decision, adding a free
+parameter to the retrieval comparison for no benefit.
+
+### Required frontmatter
+
+```yaml
+---
+building_block: <one of the eight>   # FM-002 / FM-003 — closed enum
+source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this note
+---
+```
+
+Both are **enforced**, not conventional. `building_block` is what the retrieval
+arms stratify on. `source_docs` is what makes the note scorable at all: gold
+labels in these benchmarks are passage-level, so a note that cannot name the
+documents it came from cannot be credited when it is retrieved. A note without
+it is invisible to the evaluation even when it is correct.
+
+`tags`, `keywords`, `topics`, `status`, `language` and `date of note` may be
+included and are preserved, but the database does not read them — do not spend
+effort on them at the expense of the two fields above.
+
+### Required structure
+
+- **H1 first** — the first content line after the frontmatter (`ST-001`/`ST-002`).
+  It becomes the note title in the database and in every retrieval result.
+- **Links are bare filenames** — `[Other Note](other_note.md)`, resolved inside
+  `$VAULT` only. A link that escapes the vault is reported as `LN-002`
+  contamination, because it means the note was written against a different vault.
+
+### Verify before considering the note written
+
+```bash
+python3 scripts/validate_notes.py "$VAULT" --gate
+python3 scripts/build_local_db.py "$VAULT" --stats
+```
+
+The second must report **zero unresolved links**.
+
+## Knowledge Building Blocks (reference)
+
+Every note carries exactly **one** `building_block:`. Closed enum — any other
+value is rejected by `scripts/validate_notes.py` (rule `FM-003`):
+
+| Type | Answers | Must retain |
+|---|---|---|
+| `concept` | *What is X?* | definition, discriminating features, boundary cases |
+| `model` | *How does X relate to Y?* | structure, relations, the range over which they hold |
+| `procedure` | *How do I do X?* | ordered steps, preconditions, where it does not apply |
+| `empirical_observation` | *What happened?* | the event, its source, time anchor, conditions |
+| `argument` | *Why believe P?* | claim, grounds, and the warrant joining them |
+| `counter_argument` | *Why might that be wrong?* | which premise or inference it attacks |
+| `hypothesis` | *Might P be true?* | the proposition and what would falsify it |
+| `navigation` | *Where do I find things?* | index or routing only, no substantive claims |
+
+The type is chosen **before** writing, because it is a retention contract: the
+"must retain" column names the fields that have to survive. Scope conditions —
+preconditions, authority, time anchors, applicability bounds — are the class an
+unconditioned summariser reliably deletes, since they qualify claims rather than
+being claims. Never mix two building blocks in one note.
+
+Full definitions and the benchmark-corpus caveats: `docs/BUILDING_BLOCKS.md`.
 
 ## Error Handling <!-- :: section_id = error_handling :: -->
 

@@ -51,7 +51,7 @@ PLANS="experiments/plans/$CORPUS"
 ## Resources <!-- :: section_id = resources :: -->
 
 - **Plan to augment**: `$PLANS_PATH/plan_digest_<topic>.md` (must already exist)
-- **FZ 28c reference**: `$VAULT/resources/analysis_thoughts/thought_digestion_plan_augmentation.md`
+- **FZ 28c reference**: `$VAULT/`.md`
 - **Best-plan examples**: `$PLANS_PATH/plan_digest_builder_mcp_user_guide.md`, `$PLANS_PATH/plan_digest_meshclaw_wiki.md`
 - **Vault DB**: `$DB` for cross-reference search
 
@@ -323,13 +323,13 @@ Add a section to the plan:
 | Planned Note | Related Notes to Include in ## Related Notes |
 |--------------|---------------------------------------------|
 | wiki_topic_overview.md | [term_topic](path), [tool_topic](path), [repo_topic](path), [entry_topic](path) |
-| wiki_topic_install.md | [howto_install_topic](path), [term_midway](path), [term_toolbox](path) |
+| wiki_topic_install.md | [howto_install_topic](path), [term_example](path), [term_toolbox](path) |
 | ... | ... |
 ```
 
 ### 8c. Minimum per note
 
-Each planned note MUST have **≥8 `term_dictionary/` term notes**, selected by **content relevancy** to that note (the concepts the note actually uses — relevancy-ranked via `/slipbox-search-notes` BM25/dense/graph,
+Each planned note MUST have **≥8 `$VAULT/` term notes**, selected by **content relevancy** to that note (the concepts the note actually uses — relevancy-ranked via `/slipbox-search-notes` BM25/dense/graph,
 **NOT padded with unrelated terms**), PLUS other related vault notes (tools/repos/areas/howtos/siblings) and
 **≥1 entry point back-link**. Augmentation must DB-verify every listed term note exists (G5). If fewer than
 8 truly-relevant term notes exist for a niche note, broaden the search keywords / check adjacent concepts; only fall below 8 with an explicit per-note justification recorded in the mapping (do not pad with irrelevant terms). (raised ≥3 → ≥6 2026-06-13, ≥6 → ≥8 2026-06-21 — relevancy-selected term coverage drives graph retrieval quality; the causal-handbook sub-plans used ≥8.)
@@ -425,10 +425,10 @@ Scan the Undigested Terms table; any row with `Capture Phase: TBD` (or empty) is
 
 For each row, confirm:
 ```bash
-ls "$VAULT/0_entry_points/${BEST_FIT_GLOSSARY}"   # must exist
+ls "$VAULT/glossary.md"   # must exist
 ```
 
-If a row's best-fit glossary doesn't exist in `0_entry_points/`, EITHER (a) re-pick a glossary that does exist OR (b) plan to CREATE the new glossary as an explicit phase (this is a separate phase from the term capture; do not bundle).
+If a row's best-fit glossary doesn't exist in `$VAULT/`, EITHER (a) re-pick a glossary that does exist OR (b) plan to CREATE the new glossary as an explicit phase (this is a separate phase from the term capture; do not bundle).
 
 ### 10.5d Add the Term-Note Authoring Requirements section to the plan
 
@@ -454,7 +454,12 @@ keywords:
 topics:
   - <topic_1>
   - <topic_2>
-language: markdown date of note: <YYYY-MM-DD> status: active                # or `stub` if Pattern B Phase-0 stub building_block: concept       # MUST be concept for term notes access_control_group: ["general"] related_wiki: <primary_wiki_url_or_null> ---
+language: markdown
+date of note: <YYYY-MM-DD>
+status: active
+building_block: concept       # MUST be concept for term notes
+source_docs: [<corpus_doc_id>, ...]   # REQUIRED — see the note contract below
+---
 ```
 
 ### Required H1 + H2 Sections (in order)
@@ -462,7 +467,7 @@ language: markdown date of note: <YYYY-MM-DD> status: active                # or
 | Section | Required | Content |
 |---|---|---|
 | `# <ACRONYM> - <Full Name>` H1 | Yes | Exact `# ACRONYM - Full Name` pattern |
-| `## Definition` | Yes | 1-2 paragraphs; what it is, what problem it solves, who uses it (buyer-abuse context where applicable) |
+| `## Definition` | Yes | 1-2 paragraphs; what it is, what problem it solves, who uses it (the source domain context where applicable) |
 | `## Context` | Yes | Which teams / systems / programs / workflows use or reference this term |
 | `## Key Characteristics` | Yes | Bullet list of distinctive properties; technical approach + deployment scale where applicable |
 | `## Performance / Metrics` | Optional | Include ONLY if metrics found in research; omit entirely otherwise |
@@ -577,7 +582,7 @@ The plan must specify which depth tier each undigested term is expected to land 
 
 Outward `## Related Terms` (8-12 minimum) is ONE direction. The capture skill also requires INWARD backlinks from existing vault notes:
 
-1. **6a-6d Backlink existing non-term notes** that mention the term in plain text — `grep -rl` across `areas/`, `resources/`, `projects/`, `0_entry_points/` (excluding `term_dictionary/`); convert the first plain-text mention in each qualifying note to a markdown link. Target: 1-2 backlinks minimum; optional if no candidates exist.
+1. **6a-6d Backlink existing non-term notes** that mention the term in plain text — `grep -rl` across `$VAULT/`, `resources/`, `$VAULT/`, `$VAULT/` (excluding `$VAULT/`); convert the first plain-text mention in each qualifying note to a markdown link. Target: 1-2 backlinks minimum; optional if no candidates exist.
 2. **6e Expand inlinks from existing term notes** — query for in-domain + cross-domain term notes that lack a link to the new term but should have one; add the new term to their `## Related Terms` sections using the standard bold markdown link format. **Target: 5-10 inlinks (mix of in-domain + cross-domain).**
 
 The plan must require both directions, not just outward Related Terms. Without backlinks, the new term sits at low in-degree and gets buried in PPR rankings.
@@ -587,7 +592,7 @@ The plan must require both directions, not just outward Related Terms. Without b
 | Position | Section | Content |
 |---|---|---|
 | Bottom-3 | `## Related Terms` | ALL vault-internal `.md` links (`term_*.md`, other notes). Bold markdown link + description per line. |
-| Bottom-2 | `## References` | ONLY external URLs (wiki, corpus document, papers, docs.hub, Wikipedia). **NO `.md` links here.** |
+| Bottom-2 | `## References` | ONLY external URLs (wiki, corpus document, papers, vendor docs, Wikipedia). **NO `.md` links here.** |
 | Bottom-1 (optional) | Footer block | `---` separator + `**Last Updated**:` + `**Status**:` lines |
 
 Both rules are LOAD-BEARING:
@@ -602,9 +607,9 @@ If the captured term note exceeds 200 lines, the capture skill DECOMPOSES it. Th
 
 | Section Building Block | Child Note Type | Target Directory |
 |---|---|---|
-| Procedure (Steps, How-To, Workflow, Detection, Prevention, Enforcement) | `sop_<entity>_<topic>.md` | `resources/policy_sops/` |
-| Model / Empirical Observation / Argument / Hypothesis / Counter-argument | `thought_<entity>_<topic>.md` | `resources/analysis_thoughts/` |
-| KEEP in parent | Concept + Navigation (Definition, Description, Related Terms, References) | parent stays in `term_dictionary/` |
+| Procedure (Steps, How-To, Workflow, Detection, Prevention, Enforcement) | `sop_<entity>_<topic>.md` | `$VAULT/` (flat) |
+| Model / Empirical Observation / Argument / Hypothesis / Counter-argument | `thought_<entity>_<topic>.md` | `$VAULT/` (flat) |
+| KEEP in parent | Concept + Navigation (Definition, Description, Related Terms, References) | parent stays at `$VAULT/term_<name>.md` |
 
 The decomposed parent gets a `## Key Highlights` summary + `## See Also` listing child notes. Children get `decomposed_from: <parent_path>` YAML field + `## Source` linking back. Verify: `parent_after_lines + sum(children_lines) ≥ parent_before_lines` (zero information loss).
 
@@ -700,7 +705,7 @@ For every too-general slug, RENAME it in the Undigested Terms Plan table AND add
 
 > **Generalize beyond term slugs (added 2026-06-13).** Run this collision audit for **EVERY planned note
 > in the Planned Notes table — documentation concept/procedure notes too, not only `term_*` slugs** — and
-> search **both** `term_dictionary/` AND `resources/documentation/`. The most common real miss is a planned
+> search **both** `$VAULT/` AND `$VAULT/`. The most common real miss is a planned
 > documentation concept note (e.g. `cc_mcp`, `cc_skill`) that duplicates an existing **term** note
 > (`term_mcp`, `term_skills`) — the term-only check never catches it. Substantive same-concept match (term
 > OR doc) → REMOVE from the plan; link or enrich the existing note instead. Confirm every DUP verdict with
@@ -718,7 +723,7 @@ for slug in $(grep -oE '`term_[a-z_]+`' "$PLAN_FILE" | tr -d '`' | sort -u); do
   echo "=== Synonym scan: $slug — looking for '$keywords' under different names ==="
   # 1. Filesystem: list terms whose name contains ANY keyword
   for kw in $(echo "$topic" | tr '_' ' '); do
-    find "$VAULT/resources/term_dictionary" -name "term_*${kw}*.md" -type f 2>/dev/null
+    find "$VAULT" -name "term_*${kw}*.md" -type f 2>/dev/null
   done | sort -u
   # 2. DB query: BM25 search across term_dictionary for the topic
   sqlite3 "$DB" "SELECT note_id, line_count FROM notes WHERE note_id LIKE '$VAULT/term_%' AND title MATCH '$keywords' LIMIT 5" 2>/dev/null
@@ -742,7 +747,7 @@ If any sub-check fails, append a FAIL row to a `## Augmentation Failures` sectio
 ## Step 10.6: Documentation-Note Authoring Spec (for non-term notes) <!-- :: section_id = step_10_6_doc_note_spec :: -->
 
 > Added 2026-06-13 (gap fix). Step 10.5d specifies Term-Note Authoring Requirements in depth, but the
-> **bulk of most digests is `documentation/` concept/procedure notes**, which had no equivalent authoring
+> **bulk of most digests is `$VAULT/` concept/procedure notes**, which had no equivalent authoring
 > spec — leaving their format to an un-derived "Note Format Definition" (the format-drift gap). Augmentation
 > MUST verify the plan's Documentation-Note Authoring Spec is present and **derived from existing target-dir
 > notes** (plan-digestion Step 2d), not invented.
@@ -798,7 +803,7 @@ The plan's `## Entry Point Decision` for CREATE must include:
 
 ```bash
 # For each existing entry point named in the plan:
-ls "$VAULT/0_entry_points/<entry_X.md>"
+ls "$VAULT/<entry_X.md>"
 ```
 
 If the named entry point doesn't exist → FAIL — the plan author named a non-existent target. Either pick a real entry point OR convert to CREATE.
@@ -875,6 +880,54 @@ Ready to execute? Or review specific sections first?
 4. **Verbatim code** — mark in the plan which source sections contain code that MUST be preserved character-for-character.
 5. **No orphaned sections** — every source H2/H3 must appear in the coverage map. "Skip" with documented reason is acceptable; silent omission is not.
 
+## Where Notes Go, and What They Must Carry
+
+**Every note this skill creates is written to `$VAULT/<slug>.md` — flat, one
+directory, no subtree.** `scripts/build_local_db.py` indexes `$VAULT/**/*.md`
+and uses the vault-relative path as the note id, so a flat layout makes the id
+equal to the filename and lets links be bare filenames that always resolve.
+
+The source vault's `resources/` / `areas/` / `projects/` tree is deliberately
+**not** reproduced. That tree encodes a personal-vault organising scheme; here
+it would only make a note's id depend on a routing decision, adding a free
+parameter to the retrieval comparison for no benefit.
+
+### Required frontmatter
+
+```yaml
+---
+building_block: <one of the eight>   # FM-002 / FM-003 — closed enum
+source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this note
+---
+```
+
+Both are **enforced**, not conventional. `building_block` is what the retrieval
+arms stratify on. `source_docs` is what makes the note scorable at all: gold
+labels in these benchmarks are passage-level, so a note that cannot name the
+documents it came from cannot be credited when it is retrieved. A note without
+it is invisible to the evaluation even when it is correct.
+
+`tags`, `keywords`, `topics`, `status`, `language` and `date of note` may be
+included and are preserved, but the database does not read them — do not spend
+effort on them at the expense of the two fields above.
+
+### Required structure
+
+- **H1 first** — the first content line after the frontmatter (`ST-001`/`ST-002`).
+  It becomes the note title in the database and in every retrieval result.
+- **Links are bare filenames** — `[Other Note](other_note.md)`, resolved inside
+  `$VAULT` only. A link that escapes the vault is reported as `LN-002`
+  contamination, because it means the note was written against a different vault.
+
+### Verify before considering the note written
+
+```bash
+python3 scripts/validate_notes.py "$VAULT" --gate
+python3 scripts/build_local_db.py "$VAULT" --stats
+```
+
+The second must report **zero unresolved links**.
+
 ## Knowledge Building Blocks (reference)
 
 Every note carries exactly **one** `building_block:`. Closed enum — any other
@@ -897,8 +950,7 @@ preconditions, authority, time anchors, applicability bounds — are the class a
 unconditioned summariser reliably deletes, since they qualify claims rather than
 being claims. Never mix two building blocks in one note.
 
-Full definitions, the source-classification table, and the benchmark-corpus
-caveats: `docs/BUILDING_BLOCKS.md`.
+Full definitions and the benchmark-corpus caveats: `docs/BUILDING_BLOCKS.md`.
 
 ## Error Handling <!-- :: section_id = error_handling :: -->
 

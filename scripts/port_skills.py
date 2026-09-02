@@ -61,6 +61,89 @@ DB="$VAULT/notes.db"            # this corpus's own database
 PLANS="experiments/plans/$CORPUS"
 ```"""
 
+
+# Injected into every skill that creates or validates notes. The port is the
+# only place these are written, so a re-port cannot drift from the scripts.
+
+BB_BLOCK = """## Knowledge Building Blocks (reference)
+
+Every note carries exactly **one** `building_block:`. Closed enum — any other
+value is rejected by `scripts/validate_notes.py` (rule `FM-003`):
+
+| Type | Answers | Must retain |
+|---|---|---|
+| `concept` | *What is X?* | definition, discriminating features, boundary cases |
+| `model` | *How does X relate to Y?* | structure, relations, the range over which they hold |
+| `procedure` | *How do I do X?* | ordered steps, preconditions, where it does not apply |
+| `empirical_observation` | *What happened?* | the event, its source, time anchor, conditions |
+| `argument` | *Why believe P?* | claim, grounds, and the warrant joining them |
+| `counter_argument` | *Why might that be wrong?* | which premise or inference it attacks |
+| `hypothesis` | *Might P be true?* | the proposition and what would falsify it |
+| `navigation` | *Where do I find things?* | index or routing only, no substantive claims |
+
+The type is chosen **before** writing, because it is a retention contract: the
+"must retain" column names the fields that have to survive. Scope conditions —
+preconditions, authority, time anchors, applicability bounds — are the class an
+unconditioned summariser reliably deletes, since they qualify claims rather than
+being claims. Never mix two building blocks in one note.
+
+Full definitions and the benchmark-corpus caveats: `docs/BUILDING_BLOCKS.md`.
+"""
+
+NOTE_CONTRACT = """## Where Notes Go, and What They Must Carry
+
+**Every note this skill creates is written to `$VAULT/<slug>.md` — flat, one
+directory, no subtree.** `scripts/build_local_db.py` indexes `$VAULT/**/*.md`
+and uses the vault-relative path as the note id, so a flat layout makes the id
+equal to the filename and lets links be bare filenames that always resolve.
+
+The source vault's `resources/` / `areas/` / `projects/` tree is deliberately
+**not** reproduced. That tree encodes a personal-vault organising scheme; here
+it would only make a note's id depend on a routing decision, adding a free
+parameter to the retrieval comparison for no benefit.
+
+### Required frontmatter
+
+```yaml
+---
+building_block: <one of the eight>   # FM-002 / FM-003 — closed enum
+source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this note
+---
+```
+
+Both are **enforced**, not conventional. `building_block` is what the retrieval
+arms stratify on. `source_docs` is what makes the note scorable at all: gold
+labels in these benchmarks are passage-level, so a note that cannot name the
+documents it came from cannot be credited when it is retrieved. A note without
+it is invisible to the evaluation even when it is correct.
+
+`tags`, `keywords`, `topics`, `status`, `language` and `date of note` may be
+included and are preserved, but the database does not read them — do not spend
+effort on them at the expense of the two fields above.
+
+### Required structure
+
+- **H1 first** — the first content line after the frontmatter (`ST-001`/`ST-002`).
+  It becomes the note title in the database and in every retrieval result.
+- **Links are bare filenames** — `[Other Note](other_note.md)`, resolved inside
+  `$VAULT` only. A link that escapes the vault is reported as `LN-002`
+  contamination, because it means the note was written against a different vault.
+
+### Verify before considering the note written
+
+```bash
+python3 scripts/validate_notes.py "$VAULT" --gate
+python3 scripts/build_local_db.py "$VAULT" --stats
+```
+
+The second must report **zero unresolved links**.
+"""
+
+# skills that create or validate notes; link-only skills get neither block
+CONTRACT_SKILLS = {"plan-digestion", "augment-digestion-plan", "review-digestion-plan",
+                   "execute-digestion-plan", "validate-note-gates", "check-note-format",
+                   "fix-ghost-references"}
+
 # (pattern, replacement) applied in order
 REWRITES: list[tuple[str, str]] = [
     # kill config-based path resolution wholesale
@@ -131,6 +214,78 @@ REWRITES: list[tuple[str, str]] = [
     (r'`?\$VAULT/term_knowledge_building_blocks\.md`?', '`docs/BUILDING_BLOCKS.md` (in this repo)'),
     # collapse doubling introduced when a path already carried $VAULT
     (r'(?:\$VAULT/)+(\$VAULT/)', r'\1'),
+    # ---- flat corpus vault: the source vault's PARA subtree does not exist here
+    (r'`?\$VAULT/resources/(?:documentation|analysis_thoughts|policy_sops|term_dictionary|skills)/[a-z_0-9]*`?',
+     r'`$VAULT/`'),
+    (r'`(?:resources/)?(?:documentation|analysis_thoughts|policy_sops|term_dictionary)/`', r'`$VAULT/`'),
+    (r'`(?:areas|projects|0_entry_points|archives/deep_dive_analysis)/`', r'`$VAULT/`'),
+    (r'\| `(sop|thought)_<entity>_<topic>\.md` \| `[^`]*` \|', r'| `\1_<entity>_<topic>.md` | `$VAULT/` (flat) |'),
+    (r'parent stays in `[^`]*`', r'parent stays at `$VAULT/term_<name>.md`'),
+    (r'`resources/documentation/[A-Za-z_<>/]*wiki_topic_overview\.md`?', r'$VAULT/topic_overview.md'),
+    (r'resources/documentation/X/wiki_topic_overview\.md', r'topic_overview.md'),
+    (r'"?projects/project_obsolete\.md"?', r'"obsolete_note.md"'),
+    (r'`archives/deep_dive_analysis/YYYY-MM-DD_<topic>_execution\.md`',
+     r'`experiments/plans/$CORPUS/YYYY-MM-DD_<topic>_execution.md`'),
+    # SQL classifier for source-vault path prefixes: meaningless in a flat vault
+    (r'(?s)  CASE\n    WHEN broken_path NOT LIKE.*?  END AS error_pattern,',
+     "  CASE\n"
+     "    WHEN instr(broken_path, '/') > 0\n"
+     "    THEN 'has_directory_component'   -- this vault is flat; a slash is itself the bug\n"
+     "    WHEN lower(broken_path) = lower(correct_note_id)\n"
+     "    THEN 'case_mismatch'\n"
+     "    ELSE 'other'\n"
+     "  END AS error_pattern,"),
+    # upstream ships this YAML template collapsed onto ONE line -- invalid as written
+    (r'^language: markdown date of note: <YYYY-MM-DD> status: active.*related_wiki:.*---$',
+     "language: markdown\n"
+     "date of note: <YYYY-MM-DD>\n"
+     "status: active\n"
+     "building_block: concept       # MUST be concept for term notes\n"
+     "source_docs: [<corpus_doc_id>, ...]   # REQUIRED — see the note contract below\n"
+     "---"),
+    (r' See `archives/deep_dive_analysis/[^`]*` and\s*`[^`]*`\.',
+     r' (The campaign that measured this over-counting is recorded in the source '
+     r'vault, not here.)'),
+    # ---- generalise source types: the upstream names internal hosts as examples
+    (r'\| `?docs\.hub\.amazon\.dev`? \(corpus\) \| `local file read` \| https://docs\.hub\.amazon\.dev/\.\.\. \|',
+     r'| Corpus document | `Read` tool | `corpus/<doc_id>.txt` |'),
+    (r'\| `?code\.amazon\.com`? \(docs package\) \| `local file read` \| https://code\.amazon\.com[^|]*\|',
+     r'| Source repository | `Read` tool | a checked-out path |'),
+    (r'\| External URL \| `WebFetch` \| https://docs\.aws\.amazon\.com/\.\.\. \|',
+     r'| External URL | `WebFetch` | any public documentation URL |'),
+    (r'\|[^|\n]*\(docs\.aws\.amazon\.com\)[^|\n]*\|', r'| External vendor docs |'),
+    (r'\|[^|\n]*docs\.hub\.amazon\.dev[^|\n]*\|', r'| Corpus document |'),
+    (r'\(docs\.hub\.amazon\.dev\)|docs\.hub\.amazon\.dev', r'the corpus'),
+    (r'docs\.aws\.amazon\.com', r'vendor documentation'),
+    (r'code\.amazon\.com', r'a source repository'),
+    (r'\(host\.amazon\.com/\.\.\.\)', r'(example.com/...)'),
+    (r'\bdocs\.hub\b', r'vendor docs'),
+    (r'\bMidway\b', r'the authenticated fetch path'),
+    (r'\bmidway-gated\b', r'auth-gated'),
+    (r'restore the authenticated fetch path / re-run', r'restore auth / re-run'),
+    # entry points live flat in this vault -- every remaining form
+    (r'`0_entry_points/entry_([a-z_<>]+)\.md`', r'`$VAULT/entry_\1.md`'),
+    (r'\$VAULT/resources/(?:term_dictionary|documentation|analysis_thoughts|policy_sops|skills)(?=["\s`])', r'$VAULT'),
+    (r'\bterm_midway\b', r'term_example'),
+    (r'(?i)buyer[-_ ]abuse', r'the source domain'),
+    (r'\$VAULT/0_entry_points/\$\{BEST_FIT_GLOSSARY\}', r'$VAULT/glossary.md'),
+    (r'\$VAULT/0_entry_points/<?entry_([a-z_<>]+)\.md>?', r'$VAULT/entry_\1.md'),
+    (r'\$VAULT/0_entry_points/', r'$VAULT/'),
+    (r"'%0_entry_points%'", r"'entry_%'"),
+    (r'`0_entry_points`,', r'`$VAULT`,'),
+    (r'`0_entry_points/entry_([a-z_]+)\.md`', r'`$VAULT/entry_\1.md`'),
+    (r'`0_entry_points/`', r'`$VAULT/`'),
+    # target-directory tables: this vault is flat
+    (r'\| `resources/digest/` \|', r'| `$VAULT/` |'),
+    (r'\*\*Routing heuristic\*\*.*$',
+     r'**Routing**: this vault is flat — every note is written to `$VAULT/<slug>.md` '
+     r'and the prefix carries the distinction that a directory would. Run '
+     r'`python3 scripts/retrieval.py "$VAULT" --query "<topic>" --strategy hybrid` '
+     r'to find where similar content already lives.'),
+    (r'> \*\*Corollary\*\*: If a cohesive series will produce >15 notes.*$',
+     r'> **Corollary**: A cohesive series shares a filename prefix rather than a '
+     r'subfolder, so that a note id stays equal to its filename.'),
+    (r'/slipbox-search-notes <topic>', r'scripts/retrieval.py'),
     # frontmatter fields that only mean something in the source vault
     (r'^related_skill_headers:\n(?:  - .*\n)+', ""),
     (r'^access_control_group:.*\n', ""),
@@ -140,11 +295,15 @@ REWRITES: list[tuple[str, str]] = [
 
 # after porting, none of these may remain
 FORBIDDEN = [
-    r"/Users/", r"github_workspace", r"buyer_abuse", r"abuse_slipbox",
+    r"/Users/", r"github_workspace", r"buyer[-_ ]abuse", r"abuse_slipbox",
     r"amzn_", r"from config import", r"config\.py", r"SLIPBOX_PACKAGE_DIR",
     r"w\.amazon", r"quip", r"slipbot", r"athelas", r"tessellum", r"cursus",
     r"VAULT_PATH_STR", r"DB_PATH_STR",
     r"\$VAULT/\$VAULT", r"term_knowledge_building_blocks",
+    r"resources/(?:documentation|analysis_thoughts|policy_sops|term_dictionary|skills)\\b",
+    r"archives/deep_dive_analysis", r"language: markdown date of note:",
+    r"amazon", r"\bmidway\b", r"isengard", r"\bbrazil\b", r"0_entry_points",
+    r"resources/digest",
     r"(?<![a-z])scripts/(?!validate_notes|build_local_db|build_embeddings|retrieval|scrub_check|fetch_benchmarks|port_skills|selftest|output|$| )",
 ]
 
@@ -159,6 +318,11 @@ def port(text: str, name: str) -> str:
     else:
         text = re.sub(r'(^# .+\n)', r'\1\n## Setup\n\n' + SETUP_BLOCK + "\n",
                       text, count=1, flags=re.M)
+    if name in CONTRACT_SKILLS:
+        anchor = re.search(r'^## (Error Handling|Checklist|Related Entry Point)', text, re.M)
+        blocks = NOTE_CONTRACT + "\n" + BB_BLOCK + "\n"
+        text = (text[:anchor.start()] + blocks + text[anchor.start():]) if anchor \
+            else text.rstrip() + "\n\n" + blocks
     banner = (
         f"\n> **Ported skill.** Adapted from an upstream vault canonical for use in this\n"
         f"> repository. All paths are local: notes live under `vaults/$CORPUS`, the database\n"

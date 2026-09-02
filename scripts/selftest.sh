@@ -22,3 +22,6 @@ python3 scripts/retrieval.py "$V" --query "where is Alpha Protocol deployed" \
 echo
 echo "=== 4. publication gate ==="
 python3 scripts/scrub_check.py "$V"
+# skills and docs ship publicly too -- scan them for internal tokens.
+# Omitting this is how internal hostnames reached a public commit.
+python3 scripts/scrub_check.py skills docs --tokens-only

@@ -16,6 +16,7 @@ Checks
   FM-001  missing or malformed YAML frontmatter
   FM-002  required field absent (building_block)
   FM-003  building_block outside the closed enum
+  FM-004  no source_docs -- the note cannot be scored against passage-level gold
   ST-001  no H1
   ST-002  H1 not the first content line
   LN-001  link target does not exist in this vault        (broken)
@@ -80,6 +81,9 @@ def validate(vault: Path, fix: bool) -> list[tuple[str, str, str, str]]:
                 issues.append((ERROR, "FM-002", rel, "no building_block"))
             elif bb not in CLOSED_BB:
                 issues.append((ERROR, "FM-003", rel, f"building_block {bb!r} not in closed enum"))
+            if not fm.get("source_docs", "").strip("[] "):
+                issues.append((ERROR, "FM-004", rel,
+                               "no source_docs — note cannot be traced to corpus evidence"))
 
         h1 = H1.search(body)
         if not h1:

@@ -79,7 +79,7 @@ python3 scripts/validate_notes.py "$VAULT" --fix
 
 The report lists each ghost, every source note that links to it (with `link_text` and `link_context`), and **ranked redirect candidates** (real notes whose filename/slug is similar — this surfaces obvious rename targets such as `term_bcce.md` → `term_bcce_buyer_code_of_conduct_enforcements.md`).
 
-> ⚠️ **The script's filename-similarity candidates are a FIRST PASS only, never the decision.** Past resolution campaigns proved that naive string similarity over-counts redirect targets by ~13× (a 0.88 ratio match flagged 472 "renames" where component/canonical-aware matching found only ~36 real ones): short acronyms 1 char apart (`term_nr`≠`term_dnr`, `term_sota`≠`term_sopa`), career levels (`_i_`≠`_ii_`), versioned rulesets, and sibling models (`model_pda_xgboost`≠`model_ida_xgboost`) all score high but are **distinct concepts**. You MUST run the hybrid semantic search in Step 2 and confirm same-sense by reading the candidate — do not redirect on filename score alone. See `archives/deep_dive_analysis/2026-06-13_ghost_note_wrong_name_vs_missing_analysis.md` and `..._2026-06-15_ghost_note_triage_review.md`.
+> ⚠️ **The script's filename-similarity candidates are a FIRST PASS only, never the decision.** Past resolution campaigns proved that naive string similarity over-counts redirect targets by ~13× (a 0.88 ratio match flagged 472 "renames" where component/canonical-aware matching found only ~36 real ones): short acronyms 1 char apart (`term_nr`≠`term_dnr`, `term_sota`≠`term_sopa`), career levels (`_i_`≠`_ii_`), versioned rulesets, and sibling models (`model_pda_xgboost`≠`model_ida_xgboost`) all score high but are **distinct concepts**. You MUST run the hybrid semantic search in Step 2 and confirm same-sense by reading the candidate — do not redirect on filename score alone. (The campaign that measured this over-counting is recorded in the source vault, not here.)
 
 ### 2. Hybrid candidate search + two-sided verification <!-- :: section_id = 2_hybrid_candidate_search_two_sided_verification :: -->
 
@@ -87,7 +87,7 @@ For each ghost (or, for large batches, **dispatch one agent per ~8 ghosts** — 
 
 **2a. Recover intended sense (source side).** Read the ghost's `link_text` + `link_context` for every referrer (they may differ across sources). This is *what the author meant* — the target you search for.
 
-**2b. Hybrid search for a same-topic destination.** Run all three layers, scoped first to the ghost's own namespace, then to `term_dictionary/`:
+**2b. Hybrid search for a same-topic destination.** Run all three layers, scoped first to the ghost's own namespace, then to `$VAULT/`:
 
 ```bash
 # Layer 1 — filesystem / slug variants (exact, separator, acronym↔expansion, singular↔plural)
@@ -115,7 +115,7 @@ Classify each ghost into one of three verdicts (observed distribution from 924 t
 **Heuristics carried from the campaigns:**
 - **Same-sense before redirect** — never redirect on a shared acronym or sibling name without reading the candidate (`term_seller_abuse`≠`term_reseller_abuse`).
 - **Per-reference context** — an acronym-collision ghost (e.g. `term_bcce.md`) may redirect *different sources to different targets*; verify `link_context` per referrer.
-- **Capture skews** to `data_sources`, `tables`/`staging_tables`, `teams`, `models` (real schemas/orgs/models); **drop skews** to `0_entry_points`, `areas`, `resources` (planned-but-unbuilt hubs, superseded sub-notes, one-off mentions).
+- **Capture skews** to `data_sources`, `tables`/`staging_tables`, `teams`, `models` (real schemas/orgs/models); **drop skews** to `$VAULT`, `areas`, `resources` (planned-but-unbuilt hubs, superseded sub-notes, one-off mentions).
 - **Conflict-safe slugs + ghost-inbound-resolution** — if a ghost is deferred to capture, the new note's slug must match the inbound link (or the inbound links get redirected to the canonical slug) so the ghost actually resolves after authoring.
 
 ### 3. Write the decisions file <!-- :: section_id = 3_write_the_decisions_file :: -->
@@ -128,7 +128,7 @@ Record confirmed decisions as JSON (only `redirect`/`drop`; omit deferred ghosts
     {"ghost_note_id": "$VAULT/term_bcce.md",
      "action": "redirect",
      "target_note_id": "$VAULT/term_bcce_buyer_code_of_conduct_enforcements.md"},
-    {"ghost_note_id": "projects/project_obsolete.md", "action": "drop"}
+    {"ghost_note_id": "obsolete_note.md", "action": "drop"}
   ]
 }
 ```
@@ -189,7 +189,55 @@ Defer the ghost (omit from the decisions file) and chain to the relevant capture
 
 ### Overlap with ghost *term* matches <!-- :: section_id = overlap_with_ghost_term_matches :: -->
 
-For ghosts confined to `term_dictionary/` that need deep acronym↔full-name reasoning, `/slipbox-resolve-ghost-term-matches` offers a term-specialized two-sided workflow. This skill is the general, all-directory detect+fix tool (redirect or drop) for ghosts of any note type.
+For ghosts confined to `$VAULT/` that need deep acronym↔full-name reasoning, `/slipbox-resolve-ghost-term-matches` offers a term-specialized two-sided workflow. This skill is the general, all-directory detect+fix tool (redirect or drop) for ghosts of any note type.
+
+## Where Notes Go, and What They Must Carry
+
+**Every note this skill creates is written to `$VAULT/<slug>.md` — flat, one
+directory, no subtree.** `scripts/build_local_db.py` indexes `$VAULT/**/*.md`
+and uses the vault-relative path as the note id, so a flat layout makes the id
+equal to the filename and lets links be bare filenames that always resolve.
+
+The source vault's `resources/` / `areas/` / `projects/` tree is deliberately
+**not** reproduced. That tree encodes a personal-vault organising scheme; here
+it would only make a note's id depend on a routing decision, adding a free
+parameter to the retrieval comparison for no benefit.
+
+### Required frontmatter
+
+```yaml
+---
+building_block: <one of the eight>   # FM-002 / FM-003 — closed enum
+source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this note
+---
+```
+
+Both are **enforced**, not conventional. `building_block` is what the retrieval
+arms stratify on. `source_docs` is what makes the note scorable at all: gold
+labels in these benchmarks are passage-level, so a note that cannot name the
+documents it came from cannot be credited when it is retrieved. A note without
+it is invisible to the evaluation even when it is correct.
+
+`tags`, `keywords`, `topics`, `status`, `language` and `date of note` may be
+included and are preserved, but the database does not read them — do not spend
+effort on them at the expense of the two fields above.
+
+### Required structure
+
+- **H1 first** — the first content line after the frontmatter (`ST-001`/`ST-002`).
+  It becomes the note title in the database and in every retrieval result.
+- **Links are bare filenames** — `[Other Note](other_note.md)`, resolved inside
+  `$VAULT` only. A link that escapes the vault is reported as `LN-002`
+  contamination, because it means the note was written against a different vault.
+
+### Verify before considering the note written
+
+```bash
+python3 scripts/validate_notes.py "$VAULT" --gate
+python3 scripts/build_local_db.py "$VAULT" --stats
+```
+
+The second must report **zero unresolved links**.
 
 ## Knowledge Building Blocks (reference)
 
@@ -213,8 +261,7 @@ preconditions, authority, time anchors, applicability bounds — are the class a
 unconditioned summariser reliably deletes, since they qualify claims rather than
 being claims. Never mix two building blocks in one note.
 
-Full definitions, the source-classification table, and the benchmark-corpus
-caveats: `docs/BUILDING_BLOCKS.md`.
+Full definitions and the benchmark-corpus caveats: `docs/BUILDING_BLOCKS.md`.
 
 ## Related Entry Point <!-- :: section_id = related_entry_point :: -->
 

@@ -17,6 +17,7 @@ links outward and contaminate both the notes and the evaluation.
 
 Schema (deliberately minimal -- only what retrieval and scoring need):
     notes(note_id, title, building_block, body, words, source_doc)
+               source_doc comes from the note's own `source_docs:` frontmatter
     note_links(source_note_id, target_note_id, resolved)
     notes_fts  -- FTS5 over title + body
 """
@@ -85,10 +86,12 @@ def build(vault: Path, provenance: dict[str, str]) -> sqlite3.Connection:
         fm = parse_frontmatter(raw)
         body = FM.sub("", raw)
         h1 = H1.search(body)
+        # provenance: frontmatter source_docs is authoritative; provenance.json is a fallback
+        src = fm.get("source_docs", "").strip("[] ").replace('"', "").replace("'", "")
         con.execute(
             "INSERT OR REPLACE INTO notes VALUES (?,?,?,?,?,?)",
             (nid, h1.group(1) if h1 else p.stem, fm.get("building_block", ""),
-             body, len(body.split()), provenance.get(nid, "")),
+             body, len(body.split()), src or provenance.get(nid, "")),
         )
         con.execute("INSERT INTO notes_fts VALUES (?,?,?)",
                     (nid, h1.group(1) if h1 else p.stem, body))

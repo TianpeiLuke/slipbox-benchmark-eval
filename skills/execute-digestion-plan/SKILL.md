@@ -223,7 +223,7 @@ Reads: contract_<plan_slug>_shared.md
 
 | Note | Target Path | Source Path / URL | Per-Note Related Notes (from plan) | Per-Note Inlinks (from plan) |
 |---|---|---|---|---|
-| note_1 | resources/documentation/X/wiki_topic_overview.md | https://... | [term:A], [tool:B], [entry:C] | from repo_X.md, snippet_Y.md |
+| note_1 | topic_overview.md | https://... | [term:A], [tool:B], [entry:C] | from repo_X.md, snippet_Y.md |
 | ... | ... | ... | ... | ... |
 ```
 
@@ -291,7 +291,7 @@ pipeline(batches,
 3. **Concurrency is auto-capped** (~min(16, cores−2)); pass all items, the platform queues them.
 4. **Label agents** for the `/workflows` panel — `capture:<note>`, `validate:batch-N`, `fix:<note>` makes live progress readable.
 5. **Filter nulls** before consuming results — an agent that dies on a terminal error returns `null`.
-6. **Auth fail-closed + a pre-flight probe** (added 2026-06-24 after the Pipelines B2 incident — see 5f). Every agent that reads source via an authenticated tool (`local file read`, midway-gated fetches) MUST treat an auth failure as a *failure*, not a silent pass; and a wave SHOULD open with one cheap auth-probe agent that fails the whole wave fast if Midway is down — far cheaper than fanning out a wave that silently produces unverified notes.
+6. **Auth fail-closed + a pre-flight probe** (added 2026-06-24 after the Pipelines B2 incident — see 5f). Every agent that reads source via an authenticated tool (`local file read`, auth-gated fetches) MUST treat an auth failure as a *failure*, not a silent pass; and a wave SHOULD open with one cheap auth-probe agent that fails the whole wave fast if the authenticated fetch path is down — far cheaper than fanning out a wave that silently produces unverified notes.
 
 ### 5d. The master validator (Stage 2) does FOUR things — automation alone is not enough
 
@@ -304,11 +304,11 @@ Verdict: `pass` only if gates pass AND a **real source re-read** confirmed no fa
 
 ### 5f. Auth fail-closed — the silent-degradation guard (added 2026-06-24, Pipelines B2 incident)
 
-> **What happened (FZ — Pipelines B2).** Mid-wave, Midway auth expired. `local file read` started returning login pages instead of doc content. The note-writers and the validator kept going — the validator returned `verdict: pass` on **internal-consistency signals** (self-consistent ARNs, preserved source typos) rather than a real source diff, and the entry-rows/inlinks (Phase-3) agents died on the 403 returning `null`, which the success path ignored. The whole wave **looked complete and green** while being unverified-against-source and graph-islanded. It was caught only by the *independent post-hoc on-disk sweep* (Step 6), then remediated after auth was restored. An LLM agent's "pass" is not proof the source was actually read.
+> **What happened (FZ — Pipelines B2).** Mid-wave, the authenticated fetch path auth expired. `local file read` started returning login pages instead of doc content. The note-writers and the validator kept going — the validator returned `verdict: pass` on **internal-consistency signals** (self-consistent ARNs, preserved source typos) rather than a real source diff, and the entry-rows/inlinks (Phase-3) agents died on the 403 returning `null`, which the success path ignored. The whole wave **looked complete and green** while being unverified-against-source and graph-islanded. It was caught only by the *independent post-hoc on-disk sweep* (Step 6), then remediated after auth was restored. An LLM agent's "pass" is not proof the source was actually read.
 
 Make auth degradation **fail closed** at three points:
 
-1. **Pre-flight probe (cheapest fix, highest ROV).** Before fan-out, dispatch ONE low-effort agent that fetches a single known source page and returns `{auth_ok, evidence}`. If `auth_ok=false`, **abort the wave before fan-out** with a clear "restore Midway / re-run" message — turning a wasted multi-agent wave into an instant, obvious stop. (One probe ≪ one wave.)
+1. **Pre-flight probe (cheapest fix, highest ROV).** Before fan-out, dispatch ONE low-effort agent that fetches a single known source page and returns `{auth_ok, evidence}`. If `auth_ok=false`, **abort the wave before fan-out** with a clear "restore auth / re-run" message — turning a wasted multi-agent wave into an instant, obvious stop. (One probe ≪ one wave.)
 2. **Per-agent fail-closed status.** Give source-reading agents a `source_fetch_ok: boolean` field and an `auth_blocked` value in their status/verdict enum. Instruct them: *if any source fetch returns a login page / 403 / "Please run /login" / "security token expired" / empty body, set `source_fetch_ok=false` and status/verdict=`auth_blocked`; do NOT fall back to memory/plausibility to claim success.* Treat `auth_blocked` exactly like `fail` in the bounded fix loop.
 3. **Honest run rollup.** The orchestration's final `return` MUST compute an explicit `overall_ok` that is false if ANY sub-stage is `auth_blocked`, any `source_fetch_ok=false`, OR any Phase-3 (entry-rows / inlinks) agent did not return `ok=true`. Schema Phase-3 agents too (don't leave them schema-less returning free text that the success path can ignore). Never let a `null`/failed downstream agent be swallowed into a green report — `log()` the incompleteness and emit `needs_remediation`.
 
@@ -430,7 +430,7 @@ Append a `## Execution Report` section to the plan and update plan status `ready
 Execution complete. Plan moves from `ready` → `completed`.
 ```
 
-If the run touched ≥30 notes or used ≥3 fix-loop rounds, consider writing a deep-dive note at `archives/deep_dive_analysis/YYYY-MM-DD_<topic>_execution.md` (the empirical record + transferable lessons), following the FZ 28f2 case-study template.
+If the run touched ≥30 notes or used ≥3 fix-loop rounds, consider writing a deep-dive note at `experiments/plans/$CORPUS/YYYY-MM-DD_<topic>_execution.md` (the empirical record + transferable lessons), following the FZ 28f2 case-study template.
 
 ---
 
@@ -448,6 +448,54 @@ If the run touched ≥30 notes or used ≥3 fix-loop rounds, consider writing a 
 | Judge completion by `git status` after a long run | Concurrent sync can hide your changes | Verify via `git show HEAD:<path>` |
 | Accept a validator `pass` when source-auth was down | An LLM "passes" on internal-consistency/plausibility, not a real source diff — unverified notes look green (B2) | Fail closed: source-reading agents return `auth_blocked` + `source_fetch_ok=false`; run a pre-flight auth probe; `pass` requires a real source re-read (5f) |
 | Let a `null`/failed downstream agent be swallowed into a green report | Phase-3 (entry-rows/inlinks) or a validator that dies on 403 returns `null`; the success path ignores it → graph-islands ship "complete" | Schema every stage; compute an explicit `overall_ok`/`needs_remediation`; `log()` incompleteness; Step 6 sweep is the backstop (5c.6, 5f) |
+
+## Where Notes Go, and What They Must Carry
+
+**Every note this skill creates is written to `$VAULT/<slug>.md` — flat, one
+directory, no subtree.** `scripts/build_local_db.py` indexes `$VAULT/**/*.md`
+and uses the vault-relative path as the note id, so a flat layout makes the id
+equal to the filename and lets links be bare filenames that always resolve.
+
+The source vault's `resources/` / `areas/` / `projects/` tree is deliberately
+**not** reproduced. That tree encodes a personal-vault organising scheme; here
+it would only make a note's id depend on a routing decision, adding a free
+parameter to the retrieval comparison for no benefit.
+
+### Required frontmatter
+
+```yaml
+---
+building_block: <one of the eight>   # FM-002 / FM-003 — closed enum
+source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this note
+---
+```
+
+Both are **enforced**, not conventional. `building_block` is what the retrieval
+arms stratify on. `source_docs` is what makes the note scorable at all: gold
+labels in these benchmarks are passage-level, so a note that cannot name the
+documents it came from cannot be credited when it is retrieved. A note without
+it is invisible to the evaluation even when it is correct.
+
+`tags`, `keywords`, `topics`, `status`, `language` and `date of note` may be
+included and are preserved, but the database does not read them — do not spend
+effort on them at the expense of the two fields above.
+
+### Required structure
+
+- **H1 first** — the first content line after the frontmatter (`ST-001`/`ST-002`).
+  It becomes the note title in the database and in every retrieval result.
+- **Links are bare filenames** — `[Other Note](other_note.md)`, resolved inside
+  `$VAULT` only. A link that escapes the vault is reported as `LN-002`
+  contamination, because it means the note was written against a different vault.
+
+### Verify before considering the note written
+
+```bash
+python3 scripts/validate_notes.py "$VAULT" --gate
+python3 scripts/build_local_db.py "$VAULT" --stats
+```
+
+The second must report **zero unresolved links**.
 
 ## Knowledge Building Blocks (reference)
 
@@ -471,8 +519,7 @@ preconditions, authority, time anchors, applicability bounds — are the class a
 unconditioned summariser reliably deletes, since they qualify claims rather than
 being claims. Never mix two building blocks in one note.
 
-Full definitions, the source-classification table, and the benchmark-corpus
-caveats: `docs/BUILDING_BLOCKS.md`.
+Full definitions and the benchmark-corpus caveats: `docs/BUILDING_BLOCKS.md`.
 
 ## Error Handling <!-- :: section_id = error_handling :: -->
 
@@ -485,7 +532,7 @@ caveats: `docs/BUILDING_BLOCKS.md`.
 | Validator round 2 still failing | Gate bug or contract bug | STOP. Surface to user with the validator's problem list; do not loop further |
 | Independent sweep flags residual issue | In-loop validators missed a class of issue | Patch in place + re-rebuild; update the runbook with the residual class as a future check |
 | Concurrent sync committed mid-run | Expected on long runs | Verify via `git show HEAD:<note_path>`; check log for sync commits sweeping the changes |
-| Agent returns `status=auth_blocked` / `source_fetch_ok=false` | Midway/auth expired mid-wave; `local file read` returns login pages (5f) | Restore auth (`mwinit` / `/login`), then re-dispatch the affected agents; never accept the wave as complete while any `auth_blocked` remains. The wave's `overall_ok` must be false |
+| Agent returns `status=auth_blocked` / `source_fetch_ok=false` | the authenticated fetch path/auth expired mid-wave; `local file read` returns login pages (5f) | Restore auth (`mwinit` / `/login`), then re-dispatch the affected agents; never accept the wave as complete while any `auth_blocked` remains. The wave's `overall_ok` must be false |
 | Wave reports done but Step 6 finds graph-islands / unverified notes | A downstream agent (validator / Phase-3 entry-rows-inlinks) silently failed or died `null` and was swallowed (the B2 incident) | This is exactly why Step 6 is non-negotiable. Re-run the failed phase once auth/cause is fixed; harden the workflow to schema + fail-close the swallowing point (5c.6, 5f) |
 
 ## Related Entry Point <!-- :: section_id = related_entry_point :: -->
