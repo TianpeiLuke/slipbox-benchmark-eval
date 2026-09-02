@@ -1,0 +1,2206 @@
+{
+ "subplans": [
+  {
+   "slug": "sam_bankman_fried_fraud_trial",
+   "title": "FTX Fraud Trial: Opening Statements and First Witnesses",
+   "notes": [
+    {
+     "note": "sbf_trial_day_two_jury_and_courtroom.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0031": [
+       1,
+       2,
+       3,
+       5
+      ]
+     }
+    },
+    {
+     "note": "prosecution_opening_statement_against_bankman_fried.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0031": [
+       6,
+       7,
+       10
+      ]
+     }
+    },
+    {
+     "note": "alameda_research_as_alleged_conduit_for_ftx_customer_funds.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0031": [
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "defense_good_faith_case_for_bankman_fried.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0031": [
+       12,
+       13,
+       14,
+       15,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "marc_antoine_julliard_ftx_customer_testimony.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0031": [
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "adam_yedidia_testimony_and_immunity_deal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0031": [
+       22,
+       23,
+       24,
+       25
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "us_housing_market_2023_freeze",
+   "title": "US Housing Market 2023: The 1980s Analogy and the Sales Freeze",
+   "notes": [
+    {
+     "note": "us_home_price_peak_and_partial_recovery_2022_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0112": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "note": "bank_of_america_housing_turbulence_warning_2023.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0112": [
+       4,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "housing_market_1980s_analogy_rather_than_2008.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0112": [
+       5,
+       12
+      ],
+      "doc_0479": [
+       9,
+       13
+      ]
+     }
+    },
+    {
+     "note": "why_2023_is_not_a_repeat_of_the_2008_housing_crash.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0112": [
+       7,
+       8,
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "volcker_and_powell_rate_hiking_cycles_compared.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0112": [
+       13,
+       14,
+       15
+      ],
+      "doc_0479": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "millennials_as_the_new_boomer_homebuying_cohort.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0112": [
+       16,
+       17
+      ],
+      "doc_0479": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "us_existing_home_sales_september_2023_13_year_low.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0479": [
+       1,
+       2,
+       3,
+       19
+      ]
+     }
+    },
+    {
+     "note": "us_housing_inventory_shortage_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0479": [
+       5,
+       17
+      ]
+     }
+    },
+    {
+     "note": "us_mortgage_rate_lock_in_effect_2023.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0479": [
+       18,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "housing_affordability_worse_than_2006_peak.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0479": [
+       4,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "goldman_sachs_home_price_forecast_2023_2024.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0479": [
+       16
+      ]
+     }
+    },
+    {
+     "note": "zero_rate_era_to_eight_percent_mortgage_rates.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0479": [
+       6,
+       7
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "gaza_blockade_economy_and_un_aid",
+   "title": "Gaza's Blockade Economy and the UN Aid System",
+   "notes": [
+    {
+     "note": "gaza_humanitarian_crisis_october_2023_supply_cutoff.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0135": [
+       1,
+       2,
+       3,
+       4,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "israeli_blockade_of_gaza_since_2007.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0135": [
+       9,
+       10,
+       11,
+       12,
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "gaza_economic_isolation_and_poverty_indicators.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0135": [
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "gaza_food_insecurity_and_import_dependence.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0135": [
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "unrwa_as_parallel_government_in_gaza.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0135": [
+       23,
+       24,
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "gaza_displacement_and_casualties_october_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0135": [
+       29,
+       38
+      ]
+     }
+    },
+    {
+     "note": "us_funding_of_unrwa_across_administrations.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0135": [
+       31,
+       32,
+       33,
+       34,
+       36
+      ]
+     }
+    },
+    {
+     "note": "criticism_of_unrwa_textbooks_and_internal_governance.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0135": [
+       35,
+       37
+      ]
+     }
+    },
+    {
+     "note": "humanitarian_corridor_proposal_for_gaza.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0135": [
+       39
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "egypt_regional_powerbroker_economics",
+   "title": "Egypt as Regional Powerbroker: Refugees, the IMF and Western Leverage",
+   "notes": [
+    {
+     "note": "egypt_role_in_israel_hamas_war_and_western_leverage.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0218": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "egypt_economic_crisis_and_imf_rescue_program.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0218": [
+       3,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "israeli_plan_to_temporarily_house_gazans_in_sinai.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0218": [
+       4,
+       5
+      ]
+     }
+    },
+    {
+     "note": "egypt_refusal_to_host_palestinian_refugees.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0218": [
+       6,
+       18,
+       19,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "egypt_too_big_to_fail_thesis.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0218": [
+       7,
+       10
+      ]
+     }
+    },
+    {
+     "note": "cairo_diplomatic_surge_and_summit_for_peace_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0218": [
+       11,
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "egypt_strategic_value_to_europe_gas_and_security.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0218": [
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "1991_gulf_war_egyptian_debt_forgiveness.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0218": [
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "limits_of_repeating_the_1991_debt_relief_bargain.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0218": [
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "saudi_co_leadership_as_egypts_way_out.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0218": [
+       28,
+       29,
+       30
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "gen_z_generational_profile",
+   "title": "Gen Z: Digital Nativity, Distress and Workplace Power",
+   "notes": [
+    {
+     "note": "gen_z_definition_and_formative_events.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0138": [
+       1,
+       2,
+       5,
+       23
+      ]
+     }
+    },
+    {
+     "note": "gen_z_news_distress_impairing_work_performance.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0138": [
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "gen_z_mental_health_and_climate_anxiety.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0138": [
+       7,
+       8,
+       9,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "gen_z_workplace_purpose_and_esg_priorities.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0138": [
+       13,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "gen_z_financial_stress_and_saving_avoidance.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0138": [
+       17,
+       18,
+       19,
+       21
+      ]
+     }
+    },
+    {
+     "note": "youth_hopelessness_as_societal_sustainability_risk.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0138": [
+       20,
+       25
+      ]
+     }
+    },
+    {
+     "note": "gen_z_collective_online_political_action.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0138": [
+       24
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "rogers_family_control_fight",
+   "title": "The Rogers Family Control Fight at Rogers Communications",
+   "notes": [
+    {
+     "note": "rogers_sisters_oppression_lawsuit_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0156": [
+       1,
+       2,
+       3,
+       5,
+       15,
+       16,
+       18
+      ]
+     }
+    },
+    {
+     "note": "rogers_communications_company_profile.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0156": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "rogers_family_boardroom_battle_2021.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0156": [
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "rogers_family_truce_during_shaw_takeover.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0156": [
+       8,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "rogers_communications_rebuttal_on_information_access.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0156": [
+       13,
+       17
+      ]
+     }
+    },
+    {
+     "note": "rogers_governance_committee_investigation_of_2021_events.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0156": [
+       19,
+       20
+      ]
+     }
+    },
+    {
+     "note": "rogers_control_trust_and_family_power_shifts.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0156": [
+       21,
+       22
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "house_speaker_crisis_2023",
+   "title": "The 2023 House Speaker Crisis and Jim Jordan's Failed Bid",
+   "notes": [
+    {
+     "note": "jim_jordan_second_ballot_defeat.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0377": [
+       1,
+       3,
+       4,
+       7,
+       8,
+       9,
+       12
+      ]
+     }
+    },
+    {
+     "note": "jim_jordan_third_ballot_defeat_and_withdrawal.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0223": [
+       1,
+       2,
+       3,
+       8,
+       10,
+       11,
+       14,
+       15,
+       16,
+       17,
+       23
+      ]
+     }
+    },
+    {
+     "note": "house_speakership_vacancy_paralysis_after_mccarthy_ouster.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0223": [
+       4,
+       5,
+       6,
+       7,
+       12,
+       20,
+       21,
+       22,
+       27
+      ],
+      "doc_0377": [
+       5,
+       6
+      ]
+     }
+    },
+    {
+     "note": "house_gop_narrow_majority_vote_math.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0223": [
+       13
+      ],
+      "doc_0377": [
+       11
+      ]
+     }
+    },
+    {
+     "note": "patrick_mchenry_expanded_speaker_pro_tempore_proposal.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0223": [
+       18,
+       19,
+       30
+      ],
+      "doc_0377": [
+       2,
+       13
+      ]
+     }
+    },
+    {
+     "note": "obstacles_to_empowering_an_interim_speaker.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0223": [
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "gingrich_and_boehner_endorse_interim_speaker_plan.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0377": [
+       14,
+       15,
+       16,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "republican_holdouts_case_against_jim_jordan.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0223": [
+       9,
+       24,
+       25
+      ],
+      "doc_0377": [
+       10,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "jim_jordan_political_profile_and_record.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0223": [
+       33,
+       34
+      ],
+      "doc_0377": [
+       31,
+       32
+      ]
+     }
+    },
+    {
+     "note": "trump_backing_of_jim_jordan_speaker_bid.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0223": [
+       31,
+       32
+      ],
+      "doc_0377": [
+       25,
+       29,
+       30
+      ]
+     }
+    },
+    {
+     "note": "hakeem_jeffries_bipartisan_offer_to_reopen_the_house.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0223": [
+       26
+      ],
+      "doc_0377": [
+       19,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "tom_cole_nomination_case_for_jim_jordan.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0377": [
+       20,
+       21,
+       22
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "nobel_chemistry_2023_quantum_dots",
+   "title": "The 2023 Chemistry Nobel: Quantum Dots and a Leaked Announcement",
+   "notes": [
+    {
+     "note": "nobel_prize_chemistry_2023_quantum_dots.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0262": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "quantum_dots_definition_and_size_color_relationship.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0262": [
+       4,
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "laboratory_development_of_quantum_dots_1980s_to_1993.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0262": [
+       8
+      ]
+     }
+    },
+    {
+     "note": "quantum_dot_applications_displays_and_biomedical_imaging.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0262": [
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "premature_leak_of_2023_chemistry_nobel_announcement.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0262": [
+       3,
+       13,
+       14,
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "nobel_prize_nomination_and_selection_procedure.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0262": [
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "reactions_of_2023_chemistry_nobel_laureates.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0262": [
+       19,
+       20,
+       23,
+       24,
+       25,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "nobel_laureates_on_basic_research_motivation.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0262": [
+       21,
+       22,
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "nobel_prizes_2023_across_categories.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0262": [
+       30,
+       31,
+       32,
+       33
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "billie_jean_king_womens_sports_investment",
+   "title": "Billie Jean King and the Investment Case for Women's Sports",
+   "notes": [
+    {
+     "note": "billie_jean_king_2023_activities_and_ownership_stakes.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0412": [
+       1,
+       2,
+       3,
+       5,
+       10,
+       11
+      ]
+     }
+    },
+    {
+     "note": "womens_sports_investment_tipping_point.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0412": [
+       4,
+       21
+      ]
+     }
+    },
+    {
+     "note": "billie_jean_king_1973_landmark_year.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0412": [
+       6,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "fiftieth_anniversary_of_us_open_equal_prize_money.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0412": [
+       7,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "king_riggs_battle_of_the_sexes_social_impact.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0412": [
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "pwhl_professional_womens_hockey_league_launch.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0412": [
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "media_coverage_share_as_barrier_for_womens_sports.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0412": [
+       23,
+       24
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "eras_tour_concert_film_and_exhibition",
+   "title": "The Eras Tour Film and the Reinvention of Theatrical Exhibition",
+   "notes": [
+    {
+     "note": "taylor_swift_eras_tour_concert_film_launch.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0419": [
+       3,
+       4,
+       13,
+       14,
+       15,
+       19
+      ]
+     }
+    },
+    {
+     "note": "amc_taylor_swift_direct_distribution_deal.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0419": [
+       7,
+       17,
+       18
+      ]
+     }
+    },
+    {
+     "note": "movie_theaters_pivot_to_alternative_content.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0419": [
+       6,
+       8,
+       9,
+       10,
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "marcus_corporation_preparations_for_eras_tour_screenings.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0419": [
+       1,
+       2,
+       5,
+       28,
+       29
+      ]
+     }
+    },
+    {
+     "note": "paramount_consent_decrees_termination_and_distribution.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0419": [
+       23,
+       24,
+       25,
+       26
+      ]
+     }
+    },
+    {
+     "note": "biggest_concert_films_box_office_records.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0419": [
+       27
+      ]
+     }
+    },
+    {
+     "note": "theatrical_exhibition_innovation_during_industry_disruption.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0419": [
+       20,
+       22
+      ]
+     }
+    },
+    {
+     "note": "north_american_box_office_2023_forecast.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0419": [
+       21
+      ]
+     }
+    },
+    {
+     "note": "travis_kelce_relationship_and_eras_tour_film_publicity.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0419": [
+       16
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "central_bank_policy_rethink",
+   "title": "Central Bankers Rethink Targets, QE and Fiscal Coordination",
+   "notes": [
+    {
+     "note": "post_tightening_monetary_policy_autopsy_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0503": [
+       1,
+       2,
+       3,
+       4
+      ]
+     }
+    },
+    {
+     "note": "inflation_target_flexibility_debate.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0503": [
+       5,
+       7,
+       8,
+       14,
+       15
+      ]
+     }
+    },
+    {
+     "note": "case_for_raising_the_inflation_target.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0503": [
+       9,
+       11
+      ]
+     }
+    },
+    {
+     "note": "objection_to_moving_an_unmet_inflation_target.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0503": [
+       10
+      ]
+     }
+    },
+    {
+     "note": "preemptive_central_bank_response_to_supply_shocks.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0503": [
+       12,
+       13
+      ]
+     }
+    },
+    {
+     "note": "quantitative_easing_mechanism_and_fiscal_cost.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0503": [
+       17,
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "criticism_of_qe_and_its_narrower_future_role.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0503": [
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "quantitative_tightening_and_balance_sheet_unwind.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0503": [
+       22,
+       23,
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "monetary_and_fiscal_policy_coordination_debate.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0503": [
+       27,
+       28,
+       29,
+       30,
+       31
+      ]
+     }
+    },
+    {
+     "note": "powell_rejection_of_monetary_fiscal_coordination.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0503": [
+       32
+      ]
+     }
+    },
+    {
+     "note": "central_bankers_call_for_fiscal_restraint_and_structural_growth.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0503": [
+       33,
+       34
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asx_and_wall_street_september_2023_selloff",
+   "title": "The September 2023 Selloff: ASX and Wall Street",
+   "notes": [
+    {
+     "note": "asx_stock_and_sector_moves_late_september_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0001": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "australian_market_resilience_and_range_bound_commentary.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0001": [
+       3
+      ]
+     }
+    },
+    {
+     "note": "wall_street_september_2023_selloff_and_bond_yields.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0001": [
+       4
+      ]
+     }
+    },
+    {
+     "note": "us_government_shutdown_risk_and_market_history.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0001": [
+       5
+      ]
+     }
+    },
+    {
+     "note": "big_tech_declines_and_amazon_ftc_antitrust_lawsuit.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0001": [
+       6
+      ]
+     }
+    },
+    {
+     "note": "crude_oil_prices_and_qantas_senate_inquiry.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0001": [
+       7
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "container_shipping_downturn",
+   "title": "Container Shipping's Boom-to-Bust Cycle",
+   "notes": [
+    {
+     "note": "container_shipping_boom_to_bust_cycle_2021_2024.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0321": [
+       1,
+       2,
+       3,
+       5,
+       6,
+       8
+      ]
+     }
+    },
+    {
+     "note": "shipping_overcapacity_supply_demand_mechanism.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0321": [
+       4,
+       12
+      ]
+     }
+    },
+    {
+     "note": "container_carrier_capacity_management_tools.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0321": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "shipping_price_war_risk_and_carrier_restraint.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0321": [
+       9,
+       10,
+       14
+      ]
+     }
+    },
+    {
+     "note": "falling_freight_rates_and_goods_disinflation.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0321": [
+       15,
+       16,
+       17,
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "rising_shipping_costs_canals_and_decarbonization.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0321": [
+       21,
+       22,
+       23,
+       24
+      ]
+     }
+    },
+    {
+     "note": "cma_cgm_diversification_strategy.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0321": [
+       25,
+       26
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "openai_altman_firing",
+   "title": "OpenAI's Board Fires Sam Altman",
+   "notes": [
+    {
+     "note": "openai_board_firing_of_sam_altman.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0332": [
+       1,
+       2,
+       4,
+       8,
+       9
+      ]
+     }
+    },
+    {
+     "note": "greg_brockman_account_of_altman_removal.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0332": [
+       5,
+       6,
+       7
+      ]
+     }
+    },
+    {
+     "note": "openai_board_composition_november_2023.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0332": [
+       15
+      ]
+     }
+    },
+    {
+     "note": "openai_nonprofit_to_for_profit_structure.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0332": [
+       20,
+       21,
+       22
+      ]
+     }
+    },
+    {
+     "note": "sam_altman_career_before_openai.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0332": [
+       18,
+       19
+      ]
+     }
+    },
+    {
+     "note": "sam_altman_rise_as_face_of_generative_ai.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0332": [
+       3,
+       11,
+       12,
+       23
+      ]
+     }
+    },
+    {
+     "note": "altman_argument_on_ai_promise_and_existential_risk.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0332": [
+       13
+      ]
+     }
+    },
+    {
+     "note": "criticism_of_far_off_ai_risk_focus_and_ftc_probe.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0332": [
+       14
+      ]
+     }
+    },
+    {
+     "note": "openai_partnerships_with_microsoft_and_associated_press.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0332": [
+       10,
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "analyst_assessment_of_altman_departure_impact.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0332": [
+       24,
+       25
+      ]
+     }
+    },
+    {
+     "note": "analyst_view_that_altman_exit_was_not_a_business_problem.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0332": [
+       26,
+       27
+      ]
+     }
+    },
+    {
+     "note": "sam_altman_side_ventures_helion_retro_worldcoin.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0332": [
+       28,
+       29
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "humanoid_robotics_startups",
+   "title": "Humanoid Robot Startups and the Warehouse Labor Market",
+   "notes": [
+    {
+     "note": "humanoid_robot_development_state_of_the_art_2023.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0421": [
+       1,
+       2
+      ]
+     }
+    },
+    {
+     "note": "agility_robotics_digit_warehouse_robot.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0421": [
+       4,
+       6
+      ]
+     }
+    },
+    {
+     "note": "amazon_testing_of_digit_in_warehouses.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0421": [
+       5,
+       19,
+       21
+      ]
+     }
+    },
+    {
+     "note": "human_centric_versus_humanoid_robot_design.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0421": [
+       3,
+       20
+      ]
+     }
+    },
+    {
+     "note": "figure_ai_purist_humanoid_market_thesis.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0421": [
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "humanoid_prototype_reality_check_figure_and_optimus.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0421": [
+       9,
+       10
+      ]
+     }
+    },
+    {
+     "note": "value_of_humanoid_research_beyond_the_final_form.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0421": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "boston_dynamics_humanoid_research_yielding_non_humanoid_robot.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0421": [
+       13,
+       14
+      ]
+     }
+    },
+    {
+     "note": "dexterity_and_world_understanding_as_hardest_robotics_problem.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0421": [
+       15,
+       16
+      ]
+     }
+    },
+    {
+     "note": "sanctuary_ai_phoenix_bipedal_robot.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0421": [
+       17
+      ]
+     }
+    },
+    {
+     "note": "robot_labor_supply_and_artificial_general_intelligence_goal.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0421": [
+       18
+      ]
+     }
+    },
+    {
+     "note": "agility_robotics_prediction_of_ubiquitous_humanoids.md",
+     "bb": "hypothesis",
+     "blocks": {
+      "doc_0421": [
+       22,
+       23
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "fifth_third_cash_back_card_review",
+   "title": "Fifth Third 1.67% Cash/Back Card Review",
+   "notes": [
+    {
+     "note": "fifth_third_1_67_cash_back_card_overview.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0470": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       18
+      ]
+     }
+    },
+    {
+     "note": "fifth_third_1_67_card_rates_and_fees.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0470": [
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       59
+      ]
+     }
+    },
+    {
+     "note": "fifth_third_1_67_card_rewards_earning_rate.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0470": [
+       23,
+       24,
+       26,
+       57
+      ]
+     }
+    },
+    {
+     "note": "fifth_third_1_67_card_redemption_options.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0470": [
+       28,
+       30,
+       31,
+       33,
+       35
+      ]
+     }
+    },
+    {
+     "note": "fifth_third_1_67_card_cardholder_benefits.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0470": [
+       37,
+       38,
+       39,
+       40,
+       41
+      ]
+     }
+    },
+    {
+     "note": "fifth_third_bank_relationship_eligibility_requirement.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0470": [
+       20,
+       21
+      ]
+     }
+    },
+    {
+     "note": "no_annual_fee_and_waived_foreign_transaction_fee_value.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0470": [
+       19
+      ]
+     }
+    },
+    {
+     "note": "fifth_third_card_case_for_simplicity_over_maximized_rewards.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0470": [
+       43,
+       44,
+       55
+      ]
+     }
+    },
+    {
+     "note": "flat_rate_cash_back_alternatives_to_fifth_third_card.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0470": [
+       46,
+       48,
+       49,
+       51
+      ]
+     }
+    },
+    {
+     "note": "citi_double_cash_tradeoffs_versus_fifth_third_card.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0470": [
+       52
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "amex_cash_magnet_card_review",
+   "title": "American Express Cash Magnet Card Review",
+   "notes": [
+    {
+     "note": "amex_cash_magnet_card_overview.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0471": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       18
+      ]
+     }
+    },
+    {
+     "note": "amex_cash_magnet_rates_and_fees.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0471": [
+       8,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       19
+      ]
+     }
+    },
+    {
+     "note": "amex_cash_magnet_rewards_structure_and_exclusions.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0471": [
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28
+      ]
+     }
+    },
+    {
+     "note": "amex_cash_magnet_welcome_bonus_terms.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0471": [
+       30,
+       32,
+       33
+      ]
+     }
+    },
+    {
+     "note": "amex_cash_magnet_welcome_bonus_criticism.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0471": [
+       31
+      ]
+     }
+    },
+    {
+     "note": "amex_cash_magnet_redemption_process.md",
+     "bb": "procedure",
+     "blocks": {
+      "doc_0471": [
+       35,
+       36,
+       37
+      ]
+     }
+    },
+    {
+     "note": "amex_cash_magnet_cardholder_benefits.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0471": [
+       39,
+       40,
+       41,
+       42,
+       43
+      ]
+     }
+    },
+    {
+     "note": "amex_cash_magnet_travel_limitations.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0471": [
+       20,
+       46
+      ]
+     }
+    },
+    {
+     "note": "amex_cash_magnet_best_fit_cardholder_profile.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0471": [
+       45
+      ]
+     }
+    },
+    {
+     "note": "alternatives_to_amex_cash_magnet_card.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0471": [
+       48,
+       50,
+       51,
+       52,
+       53,
+       54,
+       57
+      ]
+     }
+    },
+    {
+     "note": "category_bonus_cards_versus_amex_cash_magnet_flat_rate.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0471": [
+       55,
+       58
+      ]
+     }
+    },
+    {
+     "note": "amex_cash_magnet_approval_odds_and_credit_limits.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0471": [
+       61,
+       62,
+       64,
+       66
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "epstein_estate_usvi_litigation",
+   "title": "Denise George, the Epstein Estate and Power in the US Virgin Islands",
+   "notes": [
+    {
+     "note": "denise_george_firing_as_usvi_attorney_general.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0477": [
+       1,
+       2,
+       4,
+       47,
+       48,
+       49
+      ]
+     }
+    },
+    {
+     "note": "denise_george_profile_and_epstein_case_role.md",
+     "bb": "concept",
+     "blocks": {
+      "doc_0477": [
+       6,
+       7,
+       8
+      ]
+     }
+    },
+    {
+     "note": "epstein_related_settlements_with_us_virgin_islands.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0477": [
+       9,
+       10,
+       42,
+       46
+      ]
+     }
+    },
+    {
+     "note": "jpmorgan_and_jes_staley_epstein_disclosures.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0477": [
+       11,
+       12
+      ]
+     }
+    },
+    {
+     "note": "governor_bryan_pressure_to_settle_epstein_cases.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0477": [
+       3,
+       5,
+       14,
+       15,
+       41
+      ]
+     }
+    },
+    {
+     "note": "governor_bryan_account_of_george_dismissal.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0477": [
+       16,
+       17
+      ]
+     }
+    },
+    {
+     "note": "epstein_web_of_influence_in_us_virgin_islands.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0477": [
+       18,
+       19,
+       21,
+       23
+      ]
+     }
+    },
+    {
+     "note": "cecile_de_jongh_role_and_deposition_denial.md",
+     "bb": "counter_argument",
+     "blocks": {
+      "doc_0477": [
+       20
+      ]
+     }
+    },
+    {
+     "note": "epstein_sex_offender_waiver_request_and_denial.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0477": [
+       24,
+       25,
+       26,
+       27,
+       28,
+       29,
+       32
+      ]
+     }
+    },
+    {
+     "note": "kellerhals_ferguson_kroblin_ties_to_governor_bryan.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0477": [
+       30,
+       31,
+       38,
+       39
+      ]
+     }
+    },
+    {
+     "note": "george_claim_of_epstein_political_influence.md",
+     "bb": "argument",
+     "blocks": {
+      "doc_0477": [
+       33,
+       34,
+       35
+      ]
+     }
+    },
+    {
+     "note": "epstein_estate_civil_racketeering_pursuit.md",
+     "bb": "empirical_observation",
+     "blocks": {
+      "doc_0477": [
+       36,
+       37,
+       40,
+       44,
+       45
+      ]
+     }
+    },
+    {
+     "note": "usvi_attorney_general_authority_versus_governor_purse_strings.md",
+     "bb": "model",
+     "blocks": {
+      "doc_0477": [
+       43
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "doc_0031": [
+   0,
+   4,
+   11,
+   18
+  ],
+  "doc_0112": [
+   0,
+   6,
+   11,
+   20
+  ],
+  "doc_0135": [
+   0,
+   5,
+   8,
+   15,
+   22,
+   30,
+   40,
+   41
+  ],
+  "doc_0138": [
+   0,
+   6,
+   12,
+   16,
+   22
+  ],
+  "doc_0156": [
+   0,
+   9,
+   14,
+   23
+  ],
+  "doc_0218": [
+   0,
+   12,
+   27
+  ],
+  "doc_0223": [
+   0
+  ],
+  "doc_0262": [
+   0,
+   34,
+   35
+  ],
+  "doc_0377": [
+   0,
+   33,
+   34
+  ],
+  "doc_0412": [
+   0,
+   12,
+   13,
+   20,
+   22
+  ],
+  "doc_0419": [
+   0
+  ],
+  "doc_0421": [
+   0,
+   24,
+   25
+  ],
+  "doc_0479": [
+   0,
+   8
+  ],
+  "doc_0503": [
+   0,
+   6,
+   16,
+   26
+  ],
+  "doc_0321": [
+   0,
+   7,
+   11,
+   20
+  ],
+  "doc_0332": [
+   0,
+   30,
+   31
+  ],
+  "doc_0470": [
+   0,
+   7,
+   8,
+   22,
+   25,
+   27,
+   29,
+   32,
+   34,
+   36,
+   42,
+   45,
+   47,
+   50,
+   53,
+   54,
+   56,
+   58,
+   60
+  ],
+  "doc_0471": [
+   0,
+   7,
+   9,
+   21,
+   29,
+   34,
+   38,
+   44,
+   47,
+   49,
+   56,
+   59,
+   60,
+   63,
+   65,
+   67,
+   68,
+   69,
+   70
+  ],
+  "doc_0477": [
+   0,
+   13,
+   22
+  ],
+  "doc_0001": [
+   0
+  ]
+ },
+ "genre_note": "Twenty news articles published by Fortune and the Sydney Morning Herald (much of it syndicated AP and Bloomberg copy). The \"business\" label is loose: only about half is finance/markets/corporate. The rest is national politics (the House speaker fight), international affairs and conflict economics (Gaza, Egypt), science (the chemistry Nobel), sports (Billie Jean King), entertainment/exhibition economics (the Eras Tour film), a generational trend piece (Gen Z), a long investigative feature (the Epstein estate in the US Virgin Islands), and two Fortune Recommends credit-card product reviews that are structurally not news at all.\n\nDecomposition followed the documents' own shape. Single-story articles decomposed one-to-one into a sub-plan. Two pairs shared entities and got shared notes rather than near-duplicates: doc_0223 + doc_0377 are the same Jim Jordan speaker race two days apart, so `house_gop_narrow_majority_vote_math`, `jim_jordan_political_profile_and_record`, `trump_backing_of_jim_jordan_speaker_bid`, `republican_holdouts_case_against_jim_jordan`, `patrick_mchenry_expanded_speaker_pro_tempore_proposal`, `house_speakership_vacancy_paralysis_after_mccarthy_ouster` and `hakeem_jeffries_bipartisan_offer_to_reopen_the_house` each draw blocks from both. doc_0112 + doc_0479 are two takes on the same 2023 housing thesis, so `housing_market_1980s_analogy_rather_than_2008`, `volcker_and_powell_rate_hiking_cycles_compared` and `millennials_as_the_new_boomer_homebuying_cohort` are shared across both (Jeseo Park of BofA appears in both documents by name).\n\nBuilding-block distribution is exactly what the guidance predicts. Of 170 notes: empirical_observation and concept dominate; argument and counter_argument are unusually well represented because this corpus is heavy with attributed claims and their rebuttals \u2014 prosecution vs. defense (doc_0031), the sisters' petition vs. the Rogers spokesperson (doc_0156), Blanchard/Constancio vs. Nagel and Lagarde vs. Powell (doc_0503), Figure AI's purist humanoid thesis vs. Boston Dynamics' non-humanoid result (doc_0421), George vs. Governor Bryan (doc_0477). Four procedure notes exist because four documents genuinely contain ordered steps: the Nobel nomination/selection process, carriers' capacity-management levers, and the two card redemption workflows. Only four hypothesis notes were written, and each is an explicit forward-looking prediction from a named source (Goldman's price path, Egypt-offers-Saudi-co-leadership, the 2023 box office forecast, Shelton's 10-to-20-year humanoid ubiquity claim). No navigation notes were produced.\n\nCoverage: seventeen of twenty documents land above 92% of words assigned; every dropped block in those is an article title, a section header, a \"Read More\" teaser, a contributor byline, or a republication/attribution notice. The two credit-card reviews are the exceptions, at roughly 90% (doc_0470) and 87% (doc_0471) \u2014 their dropped material is almost entirely one-to-twelve-word section headers, FAQ question stubs, and boilerplate legal/rate disclaimers, which is the genre's chrome. Judgement calls made in favour of assignment: doc_0412's interview question blocks 14, 16 and 18 were kept because they carry substantive framing and the PWHL city list, while the two purely contentless prompts (20, 22) were dropped; doc_0332 block 10, the AP/OpenAI licensing disclosure, was assigned to the partnerships note rather than dropped as boilerplate; doc_0223 block 19 (\"A betrayal,\" Banks) reads like a contentless reaction but records the hard-right rejection of the McHenry off-ramp, so it stayed with block 18. The one correction notice in the corpus, doc_0112 block 20, was inspected and dropped: it says only that a \"mistaken term used to refer to Jeseo Park\" was fixed, without naming the term or touching any claim in the article, so it carries no scope condition."
+}
