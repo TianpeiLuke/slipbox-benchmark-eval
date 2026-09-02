@@ -120,6 +120,8 @@ def main() -> None:
     ap.add_argument("--strategies", default="bm25,hybrid,ppr")
     ap.add_argument("--k", default="2,5,10")
     ap.add_argument("--limit", type=int, default=0, help="score only the first N questions")
+    ap.add_argument("--covered-only", action="store_true",
+                    help="score only questions whose gold documents were ALL ingested")
     ap.add_argument("--json", help="write results to this path")
     a = ap.parse_args()
 
@@ -148,6 +150,23 @@ def main() -> None:
                 con.execute("SELECT note_id, source_doc FROM notes")}
         con.close()
         unit_docs = lambda nid: cmap.get(nid, set())          # noqa: E731
+
+    if a.covered_only:
+        # Scoring a partial ingestion against the whole question set measures
+        # how much of the corpus is present, not how well the arm retrieves.
+        # Both are real numbers; only one is the comparison being made.
+        ingested = set()
+        for docs in (prov.values() if a.arm == "notes" else cmap.values()):
+            ingested |= docs
+        before = len(questions)
+        questions = [x for x in questions if x["gold"] and x["gold"] <= ingested]
+        print(f"covered-only: {len(questions)}/{before} questions have all their "
+              f"gold documents among the {len(ingested)} ingested")
+        if not questions:
+            print("\nNo question is fully covered by what has been ingested. "
+                  "Scoring now would compare arms on evidence neither can reach; "
+                  "ingest more documents first.")
+            sys.exit(1)
 
     results = {}
     for strat in a.strategies.split(","):

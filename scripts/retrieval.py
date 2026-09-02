@@ -69,7 +69,11 @@ def dense(vault: Path, query: str, k: int) -> list[tuple[str, float]]:
     import numpy as np
     epath, ipath = vault / "embeddings.npy", vault / "embedding_ids.json"
     if not epath.exists():
-        return []
+        # Returning [] here would make hybrid silently equal bm25 and dense
+        # silently equal nothing -- a missing index would read as a real result.
+        raise FileNotFoundError(
+            f"no dense index at {epath}. Run: python3 scripts/build_embeddings.py {vault}\n"
+            f"(bm25, bfs and ppr work without it; dense and hybrid do not.)")
     global _MODEL
     meta = json.loads(ipath.read_text())
     if _MODEL is None:
