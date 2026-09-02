@@ -1,0 +1,33 @@
+{
+ "hotpotqa": {
+  "name": "HotpotQA (distractor dev)",
+  "license": "CC BY-SA 4.0  (share-alike -- derived notes inherit this)",
+  "homepage": "https://hotpotqa.github.io/",
+  "paper": "Yang et al., EMNLP 2018, arXiv:1809.09600",
+  "files": {}
+ },
+ "musique": {
+  "name": "MuSiQue (answerable)",
+  "license": "CC BY 4.0",
+  "homepage": "https://github.com/StonyBrookNLP/musique",
+  "paper": "Trivedi et al., TACL 2022, arXiv:2108.00573",
+  "files": {
+   "musique_ans_v1.0_dev.jsonl": {
+    "bytes": 30439728,
+    "sha256": "15fa63794d18a94ce12411aca6e2327e65b6e83b0b1490efab3f1962e48abf3b"
+   }
+  }
+ },
+ "2wiki": {
+  "name": "2WikiMultiHopQA",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Alab-NII/2wikimultihop",
+  "paper": "Ho et al., COLING 2020",
+  "files": {
+   "dev.parquet": {
+    "bytes": 30056098,
+    "sha256": "c0d8b60b9026b728fb07ad74c5252a0f188f6942e8ba5c02df4dfa369502ea8d"
+   }
+  }
+ }
+}

@@ -1,0 +1,12 @@
+# Benchmark corpora are NEVER committed — fetched by scripts/fetch_benchmarks.py
+data/raw/
+data/cache/
+*.jsonl.gz
+*.zip
+
+# Local experiment outputs
+experiments/runs/
+figures/
+__pycache__/
+*.pyc
+.DS_Store
