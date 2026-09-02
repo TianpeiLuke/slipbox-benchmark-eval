@@ -910,6 +910,17 @@ it is invisible to the evaluation even when it is correct.
 included and are preserved, but the database does not read them — do not spend
 effort on them at the expense of the two fields above.
 
+### One note, one topic — then one building block, then a size budget
+
+**Topical coherence decides where a note ends.** One note covers one subject, so
+that retrieving it returns the whole of one thing rather than part of several.
+Within that subject, the note carries exactly one building block.
+
+**Density then constrains size, it does not set boundaries.** Past 1,800 source
+words a coherent unit splits again — at a sub-topic boundary, never at a word
+count. Applying size first merges unrelated subjects that happen to be short,
+producing a note that is retrieved for everything and answers nothing.
+
 ### Related Notes — by content relevance, minimum three
 
 Every note carries a `## Related Notes` section with **at least three** outbound

@@ -1,0 +1,443 @@
+{
+ "digital_services_act": [
+  "Digital Services Act",
+  "DSA"
+ ],
+ "very_large_online_platform": [
+  "very large online platform",
+  "VLOP",
+  "VLOPs"
+ ],
+ "community_notes": [
+  "Community Notes"
+ ],
+ "shadowbanning": [
+  "shadowban",
+  "shadowbanning",
+  "shadowbanned"
+ ],
+ "content_moderation": [
+  "content moderation",
+  "moderation policies",
+  "moderate content"
+ ],
+ "disinformation": [
+  "disinformation",
+  "misinformation"
+ ],
+ "crisis_response_mechanism": [
+  "crisis response"
+ ],
+ "dangerous_organizations_policy": [
+  "Dangerous Organizations",
+  "terrorist organization",
+  "dangerous organisations"
+ ],
+ "section_230": [
+  "Section 230"
+ ],
+ "first_amendment": [
+  "First Amendment"
+ ],
+ "editorial_judgment": [
+  "editorial judgment",
+  "editorial judgement"
+ ],
+ "csam_scanning": [
+  "CSAM",
+  "child sexual abuse material"
+ ],
+ "microtargeting": [
+  "microtarget",
+  "microtargeted",
+  "microtargeting"
+ ],
+ "ftt_token": [
+  "FTT"
+ ],
+ "chapter_11": [
+  "Chapter 11"
+ ],
+ "bank_run": [
+  "bank run"
+ ],
+ "line_of_credit": [
+  "line of credit"
+ ],
+ "venture_capital": [
+  "venture capital",
+  "VC firm",
+  "Series A",
+  "Series C",
+  "Series D",
+  "seed round",
+  "pre-Series A"
+ ],
+ "class_action": [
+  "class action",
+  "class-action"
+ ],
+ "multidistrict_litigation": [
+  "multidistrict litigation",
+  "consolidated into federal court"
+ ],
+ "antitrust": [
+  "antitrust",
+  "anticompetitive",
+  "monopoly",
+  "monopolistic"
+ ],
+ "anti_steering_rules": [
+  "anti-steering"
+ ],
+ "default_search_engine": [
+  "default search engine",
+  "search default"
+ ],
+ "litigation_hold": [
+  "litigation hold"
+ ],
+ "executive_order": [
+  "executive order",
+  "EO"
+ ],
+ "large_language_model": [
+  "large language model",
+  "LLM",
+  "LLMs"
+ ],
+ "generative_ai": [
+  "generative AI",
+  "gen AI",
+  "GenAI"
+ ],
+ "foundation_model": [
+  "foundation model",
+  "foundational model"
+ ],
+ "model_fine_tuning": [
+  "fine-tuning",
+  "fine tuning"
+ ],
+ "prompt_engineering": [
+  "prompt engineering"
+ ],
+ "llm_observability": [
+  "observability"
+ ],
+ "ai_hallucination": [
+  "hallucinate",
+  "hallucination"
+ ],
+ "red_teaming": [
+  "red-teaming",
+  "red teaming"
+ ],
+ "proprietary_data": [
+  "proprietary data"
+ ],
+ "usage_based_pricing": [
+  "usage-based pricing",
+  "consumption",
+  "by the token"
+ ],
+ "saas_pricing": [
+  "SaaS pricing",
+  "SaaS"
+ ],
+ "defensibility": [
+  "defensible",
+  "defensibility"
+ ],
+ "total_addressable_market": [
+  "TAM",
+  "market share",
+  "marketshare"
+ ],
+ "embedded_finance": [
+  "embed financial services",
+  "embedded"
+ ],
+ "payment_processor": [
+  "payment processor",
+  "processors",
+  "payments"
+ ],
+ "banking_as_a_service": [
+  "Banking-as-a-service",
+  "banking-as-a-service"
+ ],
+ "know_your_customer": [
+  "KYC"
+ ],
+ "creator_economy": [
+  "creator economy",
+  "content creators",
+  "creators"
+ ],
+ "revenue_split": [
+  "revenue split",
+  "rev share",
+  "revenue share"
+ ],
+ "simulcasting": [
+  "simulcast",
+  "simulcasting"
+ ],
+ "subscription_model": [
+  "subscription",
+  "subscribers"
+ ],
+ "bot_detection": [
+  "bot",
+  "bots",
+  "spam",
+  "spammers"
+ ],
+ "captcha": [
+  "CAPTCHA",
+  "CAPTCHAs"
+ ],
+ "identity_verification": [
+  "ID verification",
+  "phone verification",
+  "account verification"
+ ],
+ "digital_divide": [
+  "digital divide"
+ ],
+ "generative_ai_guardrails": [
+  "guardrails"
+ ],
+ "harm_reduction": [
+  "harm reduction"
+ ],
+ "medication_adherence": [
+  "medication adherence",
+  "medication management",
+  "medication compliance"
+ ],
+ "hipaa": [
+  "HIPAA",
+  "PIPEDA"
+ ],
+ "encryption_at_rest": [
+  "encrypted",
+  "encryption",
+  "AES-256",
+  "TLS"
+ ],
+ "multi_factor_authentication": [
+  "multi-factor authentication",
+  "MFA"
+ ],
+ "passkeys": [
+  "Passkeys",
+  "passkeys"
+ ],
+ "livestreaming": [
+  "livestream",
+  "livestreaming",
+  "Live"
+ ],
+ "hashtag_blocking": [
+  "hashtag blocking",
+  "non-searchable"
+ ],
+ "appeals_process": [
+  "appeals process",
+  "appeal"
+ ],
+ "judicial_reform": [
+  "judicial reform"
+ ],
+ "reserve_mobilisation": [
+  "reserves",
+  "mobilized",
+  "called up"
+ ],
+ "value_added_services": [
+  "VAS",
+  "Value-Added Services"
+ ],
+ "telco_distribution": [
+  "telecommunications operators",
+  "telcos",
+  "mobile operators"
+ ],
+ "in_car_surveillance": [
+  "in-car cameras",
+  "in-vehicle",
+  "surveillance cameras"
+ ],
+ "criminal_trial": [
+  "trial",
+  "testified",
+  "testimony",
+  "prosecution",
+  "defense",
+  "jury",
+  "verdict"
+ ],
+ "fraud": [
+  "fraud",
+  "defraud",
+  "money laundering",
+  "conspiracy"
+ ],
+ "plea_agreement": [
+  "pleaded guilty",
+  "plead",
+  "not guilty",
+  "cooperate with prosecutors"
+ ],
+ "bail": [
+  "bail",
+  "house arrest",
+  "extradited",
+  "arrested"
+ ],
+ "cross_examination": [
+  "cross-examination",
+  "take the stand",
+  "taking the stand"
+ ],
+ "initial_public_offering": [
+  "going public",
+  "IPO",
+  "stock price",
+  "publicly traded"
+ ],
+ "layoffs": [
+  "laid off",
+  "layoffs",
+  "shuttered",
+  "workforce"
+ ],
+ "patent_litigation": [
+  "patent",
+  "patents",
+  "unenforceable",
+  "federal judge"
+ ],
+ "acquisition": [
+  "acquires",
+  "acquisition",
+  "merger",
+  "merging",
+  "M&A"
+ ],
+ "valuation": [
+  "valuation",
+  "valued at",
+  "billion",
+  "unicorn"
+ ],
+ "product_launch": [
+  "launch",
+  "launched",
+  "unveiled",
+  "shipping",
+  "available for purchase"
+ ],
+ "hardware_device": [
+  "device",
+  "hardware",
+  "speaker",
+  "camera",
+  "screen"
+ ],
+ "board_governance": [
+  "board",
+  "resigned",
+  "stepped down",
+  "co-founder",
+  "CEO"
+ ],
+ "regulatory_investigation": [
+  "investigation",
+  "probe",
+  "subpoenaed",
+  "request for information"
+ ],
+ "fine_penalty": [
+  "fine",
+  "fines",
+  "penalties",
+  "annual turnover"
+ ],
+ "lobbying_political_donations": [
+  "political",
+  "donated",
+  "candidates",
+  "campaign"
+ ],
+ "celebrity_endorsement": [
+  "endorsement",
+  "partnered with celebrities",
+  "naming rights",
+  "sponsor"
+ ],
+ "user_generated_content": [
+  "user-generated",
+  "UGC",
+  "posts",
+  "Stories"
+ ],
+ "recommendation_algorithm": [
+  "recommend",
+  "algorithmically",
+  "reach",
+  "visibility",
+  "engagement"
+ ],
+ "machine_translation": [
+  "translated",
+  "translation",
+  "mistranslat"
+ ],
+ "accessibility_localisation": [
+  "English only",
+  "internationalization",
+  "dialects",
+  "Arabic",
+  "Hebrew"
+ ],
+ "wearable_device": [
+  "wearable",
+  "medical device",
+  "diagnose"
+ ],
+ "battery_technology": [
+  "battery",
+  "lithium-ion",
+  "charging"
+ ],
+ "cloud_computing": [
+  "cloud computing",
+  "cloud provider",
+  "compute"
+ ],
+ "open_source": [
+  "open source",
+  "open-source"
+ ],
+ "market_competition": [
+  "competition",
+  "competitors",
+  "rivals",
+  "market"
+ ],
+ "data_privacy": [
+  "privacy",
+  "personal data",
+  "data protection",
+  "data handling"
+ ],
+ "terms_of_service": [
+  "T&Cs",
+  "Community Guidelines",
+  "terms and conditions",
+  "public interest policy"
+ ]
+}

@@ -138,6 +138,30 @@ No note may draw on more than 1,800 words of source. Verify with
 `scripts/plan_coverage.py --check`, which sums assigned block words per note and
 exits non-zero on a breach. Sub-plan 1's maximum is 911.
 
+### 3b. Topical coherence governs; density constrains
+
+The two rules are not peers, and their order matters.
+
+**Topical coherence decides where a note ends.** One note covers one subject.
+This is what makes a note answerable: a reader retrieving it gets the whole of
+one thing rather than part of several.
+
+**Density then constrains how large that note may be.** If a topically coherent
+unit exceeds 1,800 source words, it splits again — at a sub-topic boundary,
+never at an arbitrary word count.
+
+Applying them in the other order produces the failure this corpus makes obvious.
+A newsletter roundup runs 1,195 words, so the size rule alone says "one note" —
+but that note would hold fifteen unrelated items, a $8B logistics shake-up
+beside a phone camera review. It would answer no question well, and retrieval
+would surface it for everything and satisfy nothing. Size is a budget, not a
+boundary.
+
+The reverse case is equally clear: `doc_0106` is a single coherent argument
+about moderation bias, and coherence alone would keep it whole at 2,943 words.
+Density forces the split, taken at building-block boundaries — claim, mechanism,
+observation, rebuttal.
+
 ### 3c. Density thresholds
 
 Applied per the skill: split above 1800 words, 400 lines, 6 code blocks, or 6
@@ -163,10 +187,52 @@ built on. Two rules follow.
    (`scripts/retrieval.py --strategy hybrid`) rather than by recall. Keep only
    links carrying a real relation: `bfs` and `ppr` traverse every edge given, so
    a spurious link degrades the arm under test as surely as a missing one.
-3. **Terms may be enriched from the web**, in a separate `## Background
+3. **Term links are derived, not hand-tabled.** `scripts/build_term_links.py`
+   links a term to a note when the term's surface forms appear in that note's
+   own source blocks, so relevance is corpus evidence rather than recollection.
+   Measured floor is **3**, not the upstream 8: with 93 curated terms the median
+   note reaches 4 evidence-backed term links, and forcing 8 would add 425 edges
+   with nothing behind them — **40% of the graph fabricated**. Since `bfs` and
+   `ppr` traverse every edge, that does not merely fail to help, it degrades the
+   arm under test. Link density has an optimum, not a maximum.
+4. **Terms may be enriched from the web**, in a separate `## Background
    (external)` section with `external_refs` in frontmatter. `source_docs` stays
    corpus-only, so the scorer counts corpus evidence and nothing else, and the
    enrichment can be ablated to test whether any advantage survives without it.
+
+## Undigested Terms Plan
+
+**93 terms**, curated from candidates mined by `scripts/mine_terms.py`
+(ranked by document spread, since a term appearing across many documents becomes
+a hub several notes link to, while one appearing forty times in a single article
+is that article's subject rather than a shared concept).
+
+Every term is referenced by at least one note. A term note nothing links to is a
+graph island — retrievable by name, unreachable by traversal — which is the exact
+failure the term list exists to prevent, so unreferenced candidates were dropped
+rather than captured.
+
+Captured by `capture-term-note` in **Phase 3**, before the Phase 4 linking pass.
+That ordering is what keeps the derived term links from becoming ghost references.
+
+Most-linked terms:
+
+| Term | Notes linking to it |
+|---|---|
+| `term_executive_order` | 67 |
+| `term_board_governance` | 34 |
+| `term_market_competition` | 34 |
+| `term_bot_detection` | 30 |
+| `term_hardware_device` | 27 |
+| `term_recommendation_algorithm` | 24 |
+| `term_valuation` | 22 |
+| `term_criminal_trial` | 19 |
+| `term_lobbying_political_donations` | 18 |
+| `term_user_generated_content` | 17 |
+| `term_creator_economy` | 16 |
+| `term_product_launch` | 16 |
+
+Full mapping: `term_links.json`. Surface forms: `terms.json`.
 
 ## Step 5: Validation Gates
 

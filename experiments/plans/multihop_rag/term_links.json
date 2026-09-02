@@ -1,0 +1,892 @@
+{
+ "sbf_trial_proceedings.md": [
+  "criminal_trial",
+  "fraud",
+  "board_governance",
+  "executive_order",
+  "bot_detection",
+  "plea_agreement",
+  "cross_examination",
+  "valuation",
+  "hardware_device"
+ ],
+ "sbf_trial_testimony.md": [
+  "criminal_trial",
+  "valuation",
+  "board_governance",
+  "executive_order",
+  "line_of_credit",
+  "class_action",
+  "bot_detection",
+  "fraud",
+  "lobbying_political_donations"
+ ],
+ "sbf_trial_arguments.md": [
+  "criminal_trial",
+  "fraud",
+  "executive_order"
+ ],
+ "sbf_taking_the_stand.md": [
+  "criminal_trial",
+  "fraud"
+ ],
+ "sam_bankman_fried.md": [
+  "fraud",
+  "plea_agreement",
+  "valuation",
+  "executive_order",
+  "criminal_trial",
+  "bail",
+  "board_governance"
+ ],
+ "sbf_arrest_and_bail.md": [
+  "bail",
+  "executive_order",
+  "board_governance"
+ ],
+ "sbf_defense_counsel.md": [
+  "criminal_trial"
+ ],
+ "ftx.md": [
+  "valuation",
+  "venture_capital",
+  "criminal_trial",
+  "lobbying_political_donations"
+ ],
+ "alameda_research.md": [
+  "ftt_token",
+  "valuation"
+ ],
+ "ftx_marketing_and_influence.md": [
+  "lobbying_political_donations",
+  "celebrity_endorsement",
+  "criminal_trial",
+  "valuation",
+  "recommendation_algorithm",
+  "market_competition"
+ ],
+ "ftx_collapse_mechanism.md": [
+  "valuation",
+  "ftt_token",
+  "board_governance",
+  "chapter_11",
+  "bank_run",
+  "executive_order",
+  "market_competition"
+ ],
+ "ftx_bankruptcy_and_leadership.md": [
+  "fraud"
+ ],
+ "ftx_cooperating_witnesses.md": [
+  "plea_agreement",
+  "board_governance",
+  "executive_order",
+  "bot_detection",
+  "criminal_trial",
+  "fine_penalty"
+ ],
+ "crypto_contagion_after_ftx.md": [
+  "chapter_11",
+  "executive_order",
+  "board_governance",
+  "market_competition"
+ ],
+ "going_infinite_lewis_account.md": [
+  "criminal_trial",
+  "acquisition",
+  "lobbying_political_donations"
+ ],
+ "reaction_to_lewis_portrayal.md": [
+  "executive_order",
+  "market_competition"
+ ],
+ "digital_services_act.md": [
+  "digital_services_act",
+  "very_large_online_platform",
+  "fine_penalty",
+  "disinformation",
+  "crisis_response_mechanism",
+  "recommendation_algorithm",
+  "valuation",
+  "board_governance",
+  "regulatory_investigation",
+  "terms_of_service",
+  "content_moderation",
+  "user_generated_content"
+ ],
+ "eu_enforcement_against_x.md": [
+  "digital_services_act",
+  "regulatory_investigation",
+  "disinformation",
+  "fine_penalty",
+  "crisis_response_mechanism",
+  "recommendation_algorithm",
+  "content_moderation",
+  "executive_order",
+  "board_governance",
+  "user_generated_content",
+  "market_competition",
+  "terms_of_service"
+ ],
+ "eu_warning_letter_to_x.md": [
+  "disinformation",
+  "digital_services_act",
+  "content_moderation",
+  "executive_order",
+  "recommendation_algorithm",
+  "market_competition"
+ ],
+ "x_moderation_capacity.md": [
+  "disinformation",
+  "community_notes",
+  "content_moderation",
+  "digital_services_act",
+  "executive_order",
+  "identity_verification",
+  "layoffs",
+  "valuation",
+  "recommendation_algorithm"
+ ],
+ "disinformation_on_x_gaza.md": [
+  "executive_order",
+  "user_generated_content",
+  "disinformation",
+  "recommendation_algorithm"
+ ],
+ "x_response_to_eu.md": [
+  "digital_services_act",
+  "executive_order",
+  "board_governance",
+  "user_generated_content"
+ ],
+ "musk_position_on_disinformation.md": [
+  "disinformation",
+  "digital_services_act",
+  "valuation",
+  "hardware_device",
+  "fine_penalty",
+  "recommendation_algorithm"
+ ],
+ "eu_warnings_to_other_platforms.md": [
+  "disinformation",
+  "digital_services_act",
+  "bot_detection",
+  "regulatory_investigation"
+ ],
+ "platform_transparency_after_x_private.md": [
+  "regulatory_investigation"
+ ],
+ "x_bot_countermeasures.md": [
+  "bot_detection",
+  "executive_order",
+  "identity_verification",
+  "livestreaming",
+  "payment_processor",
+  "creator_economy",
+  "subscription_model",
+  "captcha",
+  "value_added_services",
+  "acquisition",
+  "recommendation_algorithm",
+  "battery_technology",
+  "market_competition"
+ ],
+ "objections_to_x_bot_fee.md": [
+  "bot_detection",
+  "digital_divide",
+  "battery_technology",
+  "executive_order",
+  "value_added_services"
+ ],
+ "x_competitive_position.md": [
+  "market_competition",
+  "subscription_model",
+  "bot_detection",
+  "acquisition",
+  "open_source"
+ ],
+ "meta_moderation_bias.md": [
+  "accessibility_localisation",
+  "user_generated_content",
+  "shadowbanning",
+  "executive_order",
+  "bot_detection",
+  "board_governance",
+  "lobbying_political_donations",
+  "recommendation_algorithm"
+ ],
+ "meta_bias_mechanisms.md": [
+  "accessibility_localisation",
+  "digital_services_act",
+  "content_moderation",
+  "dangerous_organizations_policy",
+  "executive_order",
+  "hardware_device",
+  "lobbying_political_donations",
+  "user_generated_content",
+  "recommendation_algorithm"
+ ],
+ "instagram_palestine_suppression.md": [
+  "user_generated_content",
+  "accessibility_localisation",
+  "shadowbanning",
+  "terms_of_service",
+  "recommendation_algorithm",
+  "livestreaming",
+  "dangerous_organizations_policy",
+  "executive_order",
+  "total_addressable_market",
+  "creator_economy",
+  "appeals_process",
+  "hardware_device"
+ ],
+ "meta_response_to_suppression_claims.md": [
+  "user_generated_content",
+  "executive_order",
+  "recommendation_algorithm",
+  "shadowbanning",
+  "dangerous_organizations_policy",
+  "livestreaming",
+  "appeals_process",
+  "value_added_services",
+  "hardware_device",
+  "accessibility_localisation"
+ ],
+ "meta_2021_conflict_moderation.md": [
+  "dangerous_organizations_policy",
+  "product_launch",
+  "user_generated_content",
+  "recommendation_algorithm",
+  "accessibility_localisation"
+ ],
+ "meta_arabic_mistranslation.md": [
+  "machine_translation",
+  "accessibility_localisation",
+  "executive_order",
+  "hardware_device"
+ ],
+ "shadowban_workarounds.md": [
+  "user_generated_content",
+  "shadowbanning",
+  "creator_economy",
+  "bot_detection",
+  "recommendation_algorithm"
+ ],
+ "meta_crisis_response_measures.md": [
+  "livestreaming",
+  "executive_order",
+  "hashtag_blocking",
+  "recommendation_algorithm",
+  "accessibility_localisation",
+  "content_moderation",
+  "appeals_process",
+  "acquisition",
+  "hardware_device",
+  "data_privacy"
+ ],
+ "meta_enforcement_volume.md": [
+  "accessibility_localisation",
+  "dangerous_organizations_policy"
+ ],
+ "induced_ai_workflow_automation.md": [],
+ "google_pixel_8_launch.md": [
+  "hardware_device",
+  "livestreaming",
+  "product_launch"
+ ],
+ "flexport_leadership_turmoil.md": [
+  "valuation",
+  "board_governance",
+  "executive_order"
+ ],
+ "gmail_bulk_sender_rules.md": [
+  "bot_detection"
+ ],
+ "tiktok_ad_free_tier.md": [
+  "subscription_model",
+  "executive_order",
+  "board_governance",
+  "market_competition"
+ ],
+ "linkedin_ai_tools.md": [
+  "market_competition",
+  "product_launch",
+  "lobbying_political_donations"
+ ],
+ "x_post_volume_discrepancy.md": [
+  "user_generated_content",
+  "executive_order",
+  "board_governance"
+ ],
+ "ironnet_shutdown.md": [
+  "initial_public_offering",
+  "layoffs"
+ ],
+ "breathe_battery_software.md": [
+  "battery_technology"
+ ],
+ "acurable_respiratory_wearables.md": [
+  "wearable_device",
+  "hardware_device"
+ ],
+ "founder_event_attendance_debate.md": [
+  "board_governance"
+ ],
+ "openai_chip_and_nvidia_position.md": [
+  "user_generated_content",
+  "bot_detection",
+  "market_competition"
+ ],
+ "adobe_generative_ai_tools.md": [
+  "generative_ai"
+ ],
+ "tidalflow_llm_integration.md": [
+  "large_language_model"
+ ],
+ "consumer_ar_vr_hardware.md": [],
+ "sonos_google_patent_reversal.md": [
+  "patent_litigation"
+ ],
+ "pc_shipment_decline_2023.md": [
+  "cloud_computing",
+  "hardware_device"
+ ],
+ "reddit_api_third_party_apps.md": [
+  "subscription_model"
+ ],
+ "creator_economy_sustainability.md": [
+  "creator_economy",
+  "venture_capital"
+ ],
+ "mastodon_and_x_traffic_figures.md": [],
+ "passkeys_default_signin.md": [
+  "passkeys",
+  "hardware_device"
+ ],
+ "upi_commercial_sustainability.md": [
+  "acquisition",
+  "market_competition"
+ ],
+ "brave_software_layoffs.md": [
+  "layoffs"
+ ],
+ "rainforest_embedded_payments.md": [
+  "payment_processor",
+  "embedded_finance",
+  "board_governance",
+  "executive_order",
+  "total_addressable_market",
+  "market_competition"
+ ],
+ "rainforest_investor_thesis.md": [
+  "payment_processor",
+  "market_competition",
+  "venture_capital",
+  "saas_pricing",
+  "total_addressable_market",
+  "livestreaming",
+  "user_generated_content"
+ ],
+ "paypal_anti_steering_lawsuit.md": [
+  "anti_steering_rules",
+  "class_action",
+  "antitrust",
+  "executive_order",
+  "payment_processor",
+  "regulatory_investigation",
+  "market_competition"
+ ],
+ "payment_gatekeeper_antitrust_view.md": [
+  "antitrust",
+  "anti_steering_rules",
+  "bot_detection",
+  "market_competition"
+ ],
+ "bolt_sec_probe.md": [
+  "regulatory_investigation",
+  "board_governance",
+  "executive_order",
+  "valuation",
+  "recommendation_algorithm"
+ ],
+ "synapse_layoffs.md": [
+  "layoffs",
+  "executive_order",
+  "banking_as_a_service",
+  "board_governance"
+ ],
+ "visa_generative_ai_fund.md": [
+  "generative_ai",
+  "payment_processor"
+ ],
+ "slice_bank_merger_india.md": [
+  "acquisition",
+  "valuation",
+  "recommendation_algorithm"
+ ],
+ "cred_revenue_growth.md": [],
+ "fintech_startup_rankings_2023.md": [],
+ "fintech_funding_roundup_oct_2023.md": [
+  "venture_capital",
+  "acquisition",
+  "product_launch",
+  "board_governance",
+  "executive_order",
+  "total_addressable_market",
+  "payment_processor",
+  "know_your_customer"
+ ],
+ "biden_ai_executive_order.md": [
+  "executive_order"
+ ],
+ "ai_legislation_gap.md": [
+  "executive_order"
+ ],
+ "reaction_to_biden_ai_order.md": [
+  "executive_order",
+  "red_teaming",
+  "bot_detection",
+  "value_added_services",
+  "criminal_trial",
+  "board_governance",
+  "market_competition",
+  "data_privacy"
+ ],
+ "llm_stack_layers.md": [
+  "market_competition",
+  "large_language_model",
+  "fine_penalty",
+  "generative_ai",
+  "foundation_model",
+  "defensibility",
+  "acquisition",
+  "venture_capital",
+  "model_fine_tuning",
+  "total_addressable_market",
+  "livestreaming",
+  "cloud_computing",
+  "open_source"
+ ],
+ "ai_startup_defensibility.md": [
+  "market_competition",
+  "large_language_model",
+  "foundation_model",
+  "defensibility",
+  "llm_observability",
+  "proprietary_data",
+  "generative_ai",
+  "fine_penalty",
+  "cloud_computing",
+  "model_fine_tuning",
+  "prompt_engineering",
+  "total_addressable_market"
+ ],
+ "ai_pricing_models.md": [
+  "usage_based_pricing",
+  "large_language_model",
+  "saas_pricing",
+  "payment_processor",
+  "bot_detection",
+  "cloud_computing"
+ ],
+ "ai_market_spending_forecasts.md": [
+  "valuation",
+  "cloud_computing",
+  "generative_ai",
+  "recommendation_algorithm",
+  "market_competition"
+ ],
+ "explore_with_alexa.md": [
+  "generative_ai",
+  "subscription_model",
+  "bot_detection",
+  "product_launch",
+  "hardware_device"
+ ],
+ "alexa_kids_llm_guardrails.md": [
+  "large_language_model",
+  "generative_ai",
+  "executive_order",
+  "ai_hallucination",
+  "bot_detection",
+  "generative_ai_guardrails",
+  "hardware_device"
+ ],
+ "alexa_kids_interaction_design.md": [
+  "generative_ai_guardrails"
+ ],
+ "alexa_kids_privacy_and_hardware.md": [
+  "hardware_device",
+  "large_language_model",
+  "bot_detection",
+  "product_launch",
+  "accessibility_localisation",
+  "data_privacy",
+  "executive_order",
+  "generative_ai",
+  "subscription_model"
+ ],
+ "keep_labs_device.md": [
+  "bot_detection",
+  "hardware_device",
+  "product_launch",
+  "harm_reduction",
+  "medication_adherence"
+ ],
+ "keep_labs_cannabis_repositioning.md": [
+  "market_competition",
+  "executive_order",
+  "hardware_device",
+  "harm_reduction",
+  "board_governance"
+ ],
+ "keep_labs_pivot_and_leadership.md": [
+  "executive_order",
+  "hardware_device",
+  "product_launch",
+  "market_competition",
+  "board_governance",
+  "lobbying_political_donations",
+  "recommendation_algorithm"
+ ],
+ "keep_labs_enterprise_partnerships.md": [
+  "executive_order",
+  "medication_adherence"
+ ],
+ "keep_labs_security_posture.md": [
+  "encryption_at_rest",
+  "data_privacy",
+  "hardware_device",
+  "hipaa",
+  "executive_order",
+  "subscription_model",
+  "bot_detection",
+  "harm_reduction",
+  "medication_adherence",
+  "multi_factor_authentication"
+ ],
+ "keep_labs_funding_and_roadmap.md": [
+  "product_launch",
+  "venture_capital",
+  "executive_order",
+  "hardware_device",
+  "board_governance"
+ ],
+ "google_antitrust_case.md": [
+  "market_competition",
+  "antitrust",
+  "criminal_trial",
+  "default_search_engine",
+  "executive_order",
+  "valuation",
+  "board_governance"
+ ],
+ "google_default_search_payments.md": [
+  "valuation",
+  "total_addressable_market",
+  "market_competition",
+  "default_search_engine",
+  "executive_order",
+  "criminal_trial",
+  "hardware_device"
+ ],
+ "google_apple_chrome_agreement.md": [
+  "executive_order",
+  "criminal_trial",
+  "board_governance",
+  "total_addressable_market",
+  "valuation",
+  "hardware_device",
+  "market_competition"
+ ],
+ "google_deleted_chat_logs.md": [
+  "litigation_hold",
+  "executive_order",
+  "bot_detection",
+  "criminal_trial",
+  "hardware_device"
+ ],
+ "google_default_hypocrisy_argument.md": [
+  "antitrust",
+  "default_search_engine",
+  "litigation_hold"
+ ],
+ "big_tech_antitrust_outlook.md": [
+  "antitrust",
+  "cloud_computing",
+  "criminal_trial",
+  "hardware_device"
+ ],
+ "scotus_social_media_cases.md": [
+  "lobbying_political_donations",
+  "content_moderation",
+  "disinformation",
+  "executive_order",
+  "user_generated_content"
+ ],
+ "texas_florida_moderation_laws.md": [
+  "bot_detection",
+  "first_amendment",
+  "criminal_trial",
+  "cloud_computing"
+ ],
+ "first_amendment_editorial_judgment.md": [
+  "first_amendment",
+  "content_moderation",
+  "editorial_judgment"
+ ],
+ "scotus_ruling_consequences.md": [
+  "executive_order",
+  "lobbying_political_donations",
+  "content_moderation",
+  "disinformation",
+  "first_amendment",
+  "bot_detection",
+  "section_230",
+  "creator_economy",
+  "value_added_services",
+  "recommendation_algorithm"
+ ],
+ "valor_applied_ai_thesis.md": [
+  "large_language_model",
+  "fine_penalty",
+  "market_competition",
+  "generative_ai",
+  "model_fine_tuning",
+  "llm_observability",
+  "usage_based_pricing",
+  "defensibility",
+  "bot_detection",
+  "acquisition",
+  "cloud_computing"
+ ],
+ "web_summit_cosgrave_controversy.md": [
+  "user_generated_content",
+  "dangerous_organizations_policy",
+  "executive_order",
+  "bot_detection",
+  "lobbying_political_donations"
+ ],
+ "israel_tech_industry_boycott.md": [
+  "executive_order",
+  "board_governance",
+  "celebrity_endorsement",
+  "value_added_services",
+  "lobbying_political_donations"
+ ],
+ "web_summit_business_impact.md": [
+  "executive_order",
+  "value_added_services",
+  "recommendation_algorithm"
+ ],
+ "ai_day_of_action_campaign.md": [
+  "lobbying_political_donations",
+  "product_launch"
+ ],
+ "creative_industries_ai_concerns.md": [
+  "product_launch",
+  "lobbying_political_donations"
+ ],
+ "ai_copyright_and_training_disputes.md": [
+  "generative_ai",
+  "fraud",
+  "hardware_device"
+ ],
+ "ftc_generative_ai_roundtable.md": [
+  "generative_ai",
+  "creator_economy",
+  "generative_ai_guardrails",
+  "livestreaming"
+ ],
+ "ohanian_social_media_critique.md": [
+  "board_governance",
+  "executive_order",
+  "disinformation",
+  "creator_economy"
+ ],
+ "reddit_moderation_history.md": [
+  "user_generated_content",
+  "executive_order",
+  "appeals_process",
+  "valuation"
+ ],
+ "platform_truth_arbitration.md": [
+  "executive_order",
+  "community_notes",
+  "board_governance"
+ ],
+ "ohanian_techno_optimism.md": [
+  "executive_order",
+  "livestreaming",
+  "board_governance",
+  "fine_penalty"
+ ],
+ "uber_assault_litigation.md": [
+  "in_car_surveillance",
+  "hardware_device",
+  "multidistrict_litigation",
+  "bot_detection",
+  "livestreaming",
+  "product_launch",
+  "data_privacy"
+ ],
+ "uber_safety_features.md": [
+  "hardware_device",
+  "executive_order",
+  "data_privacy"
+ ],
+ "in_car_camera_proposal.md": [
+  "executive_order",
+  "in_car_surveillance"
+ ],
+ "surveillance_privacy_tradeoff.md": [
+  "criminal_trial",
+  "class_action",
+  "livestreaming",
+  "patent_litigation",
+  "valuation"
+ ],
+ "twitch_revenue_split_controversy.md": [
+  "subscription_model",
+  "creator_economy",
+  "revenue_split",
+  "embedded_finance",
+  "value_added_services",
+  "product_launch",
+  "celebrity_endorsement"
+ ],
+ "twitch_partner_plus_program.md": [
+  "creator_economy",
+  "livestreaming",
+  "executive_order",
+  "revenue_split",
+  "simulcasting",
+  "subscription_model",
+  "bot_detection",
+  "board_governance"
+ ],
+ "twitch_advertising_strategy.md": [
+  "creator_economy",
+  "revenue_split",
+  "livestreaming",
+  "executive_order",
+  "subscription_model",
+  "product_launch"
+ ],
+ "twitch_sponsorship_and_amazon.md": [
+  "creator_economy",
+  "celebrity_endorsement",
+  "bot_detection",
+  "recommendation_algorithm",
+  "market_competition"
+ ],
+ "twitch_competitive_pressure.md": [
+  "executive_order",
+  "bot_detection",
+  "board_governance",
+  "creator_economy",
+  "revenue_split",
+  "simulcasting",
+  "livestreaming",
+  "product_launch",
+  "user_generated_content",
+  "market_competition"
+ ],
+ "israel_tech_sector_scale.md": [
+  "executive_order",
+  "valuation",
+  "venture_capital",
+  "bot_detection",
+  "criminal_trial"
+ ],
+ "israel_startup_funding_decline.md": [
+  "executive_order",
+  "reserve_mobilisation",
+  "judicial_reform",
+  "valuation",
+  "market_competition"
+ ],
+ "israel_tech_workforce_mobilisation.md": [
+  "executive_order",
+  "board_governance",
+  "venture_capital",
+  "reserve_mobilisation",
+  "layoffs"
+ ],
+ "israeli_founders_operating_at_war.md": [
+  "executive_order",
+  "reserve_mobilisation",
+  "board_governance",
+  "market_competition"
+ ],
+ "starnews_mobile_platform.md": [
+  "creator_economy",
+  "executive_order",
+  "telco_distribution",
+  "value_added_services",
+  "venture_capital",
+  "subscription_model",
+  "bot_detection",
+  "product_launch",
+  "board_governance",
+  "lobbying_political_donations",
+  "market_competition"
+ ],
+ "african_telco_distribution_model.md": [
+  "creator_economy",
+  "market_competition",
+  "subscription_model",
+  "acquisition",
+  "executive_order",
+  "telco_distribution",
+  "celebrity_endorsement"
+ ],
+ "starnews_content_and_growth.md": [
+  "market_competition",
+  "creator_economy",
+  "executive_order",
+  "telco_distribution",
+  "recommendation_algorithm"
+ ],
+ "starnews_funding_round.md": [
+  "creator_economy",
+  "venture_capital",
+  "market_competition",
+  "valuation"
+ ],
+ "eu_csam_scanning_proposal.md": [
+  "lobbying_political_donations",
+  "digital_services_act",
+  "csam_scanning",
+  "very_large_online_platform",
+  "microtargeting",
+  "data_privacy"
+ ],
+ "commission_microtargeted_ad_campaign.md": [
+  "executive_order",
+  "microtargeting",
+  "lobbying_political_donations",
+  "digital_services_act",
+  "data_privacy",
+  "embedded_finance",
+  "regulatory_investigation"
+ ],
+ "dsa_political_ad_restrictions.md": [
+  "lobbying_political_donations",
+  "microtargeting",
+  "csam_scanning"
+ ],
+ "johansson_parliament_hearing.md": [
+  "csam_scanning",
+  "disinformation",
+  "regulatory_investigation"
+ ],
+ "csam_proposal_opposition.md": [
+  "csam_scanning",
+  "data_privacy",
+  "executive_order",
+  "encryption_at_rest",
+  "hardware_device",
+  "recommendation_algorithm"
+ ]
+}

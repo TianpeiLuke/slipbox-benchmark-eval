@@ -96,6 +96,56 @@ cross-references: 1 block(s) from 1 document(s) owned elsewhere (doc_0043) — n
 notes over the 1800-word source ceiling: 0
 ```
 
+## Per-Note Term Links (derived, not hand-tabled)
+
+Each note's term links are **derived from the source blocks that note carries**:
+a term is linked when its surface forms appear in the note's own source text.
+That makes relevance evidence from the corpus rather than recollection, which is
+the difference between a relevancy-ranked mapping and a padded one. Regenerate with:
+
+```bash
+python3 scripts/build_term_links.py multihop_rag \
+    --plans experiments/plans/multihop_rag --floor 3
+```
+
+This batch: median **5** term links per note, max 11, 30/33 at or above the floor.
+
+| Note | Term links |
+|---|---|
+| `web_summit_cosgrave_controversy.md` | `term_user_generated_content`, `term_dangerous_organizations_policy`, `term_executive_order`, `term_bot_detection`, `term_lobbying_political_donations` |
+| `israel_tech_industry_boycott.md` | `term_executive_order`, `term_board_governance`, `term_celebrity_endorsement`, `term_value_added_services`, `term_lobbying_political_donations` |
+| `web_summit_business_impact.md` | `term_executive_order`, `term_value_added_services`, `term_recommendation_algorithm` |
+| `ai_day_of_action_campaign.md` | `term_lobbying_political_donations`, `term_product_launch` |
+| `creative_industries_ai_concerns.md` | `term_product_launch`, `term_lobbying_political_donations` |
+| `ai_copyright_and_training_disputes.md` | `term_generative_ai`, `term_fraud`, `term_hardware_device` |
+| `ftc_generative_ai_roundtable.md` | `term_generative_ai`, `term_creator_economy`, `term_generative_ai_guardrails`, `term_livestreaming` |
+| `ohanian_social_media_critique.md` | `term_board_governance`, `term_executive_order`, `term_disinformation`, `term_creator_economy` |
+| `reddit_moderation_history.md` | `term_user_generated_content`, `term_executive_order`, `term_appeals_process`, `term_valuation` |
+| `platform_truth_arbitration.md` | `term_executive_order`, `term_community_notes`, `term_board_governance` |
+| `ohanian_techno_optimism.md` | `term_executive_order`, `term_livestreaming`, `term_board_governance`, `term_fine_penalty` |
+| `uber_assault_litigation.md` | `term_in_car_surveillance`, `term_hardware_device`, `term_multidistrict_litigation`, `term_bot_detection`, `term_livestreaming`, `term_product_launch`, `term_data_privacy` |
+| `uber_safety_features.md` | `term_hardware_device`, `term_executive_order`, `term_data_privacy` |
+| `in_car_camera_proposal.md` | `term_executive_order`, `term_in_car_surveillance` |
+| `surveillance_privacy_tradeoff.md` | `term_criminal_trial`, `term_class_action`, `term_livestreaming`, `term_patent_litigation`, `term_valuation` |
+| `twitch_revenue_split_controversy.md` | `term_subscription_model`, `term_creator_economy`, `term_revenue_split`, `term_embedded_finance`, `term_value_added_services`, `term_product_launch`, `term_celebrity_endorsement` |
+| `twitch_partner_plus_program.md` | `term_creator_economy`, `term_livestreaming`, `term_executive_order`, `term_revenue_split`, `term_simulcasting`, `term_subscription_model`, `term_bot_detection`, `term_board_governance` |
+| `twitch_advertising_strategy.md` | `term_creator_economy`, `term_revenue_split`, `term_livestreaming`, `term_executive_order`, `term_subscription_model`, `term_product_launch` |
+| `twitch_sponsorship_and_amazon.md` | `term_creator_economy`, `term_celebrity_endorsement`, `term_bot_detection`, `term_recommendation_algorithm`, `term_market_competition` |
+| `twitch_competitive_pressure.md` | `term_executive_order`, `term_bot_detection`, `term_board_governance`, `term_creator_economy`, `term_revenue_split`, `term_simulcasting`, `term_livestreaming`, `term_product_launch`, `term_user_generated_content`, `term_market_competition` |
+| `israel_tech_sector_scale.md` | `term_executive_order`, `term_valuation`, `term_venture_capital`, `term_bot_detection`, `term_criminal_trial` |
+| `israel_startup_funding_decline.md` | `term_executive_order`, `term_reserve_mobilisation`, `term_judicial_reform`, `term_valuation`, `term_market_competition` |
+| `israel_tech_workforce_mobilisation.md` | `term_executive_order`, `term_board_governance`, `term_venture_capital`, `term_reserve_mobilisation`, `term_layoffs` |
+| `israeli_founders_operating_at_war.md` | `term_executive_order`, `term_reserve_mobilisation`, `term_board_governance`, `term_market_competition` |
+| `starnews_mobile_platform.md` | `term_creator_economy`, `term_executive_order`, `term_telco_distribution`, `term_value_added_services`, `term_venture_capital`, `term_subscription_model`, `term_bot_detection`, `term_product_launch`, `term_board_governance`, `term_lobbying_political_donations` |
+| `african_telco_distribution_model.md` | `term_creator_economy`, `term_market_competition`, `term_subscription_model`, `term_acquisition`, `term_executive_order`, `term_telco_distribution`, `term_celebrity_endorsement` |
+| `starnews_content_and_growth.md` | `term_market_competition`, `term_creator_economy`, `term_executive_order`, `term_telco_distribution`, `term_recommendation_algorithm` |
+| `starnews_funding_round.md` | `term_creator_economy`, `term_venture_capital`, `term_market_competition`, `term_valuation` |
+| `eu_csam_scanning_proposal.md` | `term_lobbying_political_donations`, `term_digital_services_act`, `term_csam_scanning`, `term_very_large_online_platform`, `term_microtargeting`, `term_data_privacy` |
+| `commission_microtargeted_ad_campaign.md` | `term_executive_order`, `term_microtargeting`, `term_lobbying_political_donations`, `term_digital_services_act`, `term_data_privacy`, `term_embedded_finance`, `term_regulatory_investigation` |
+| `dsa_political_ad_restrictions.md` | `term_lobbying_political_donations`, `term_microtargeting`, `term_csam_scanning` |
+| `johansson_parliament_hearing.md` | `term_csam_scanning`, `term_disinformation`, `term_regulatory_investigation` |
+| `csam_proposal_opposition.md` | `term_csam_scanning`, `term_data_privacy`, `term_executive_order`, `term_encryption_at_rest`, `term_hardware_device`, `term_recommendation_algorithm` |
+
 ## Pacing Rules
 
 - One phase at a time; validate every GATE before starting the next

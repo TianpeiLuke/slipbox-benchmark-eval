@@ -132,6 +132,97 @@ total 12,695 words, 11,871 covered (93.5%)
 notes over the 1800-word source ceiling: 0
 ```
 
+## Per-Note Term Links (derived, not hand-tabled)
+
+Each note's term links are **derived from the source blocks that note carries**:
+a term is linked when its surface forms appear in the note's own source text.
+That makes relevance evidence from the corpus rather than recollection, which is
+the difference between a relevancy-ranked mapping and a padded one. Regenerate with:
+
+```bash
+python3 scripts/build_term_links.py multihop_rag \
+    --plans experiments/plans/multihop_rag --floor 3
+```
+
+This batch: median **3** term links per note, max 13, 40/64 at or above the floor.
+
+| Note | Term links |
+|---|---|
+| `induced_ai_workflow_automation.md` | **none — see below** |
+| `google_pixel_8_launch.md` | `term_hardware_device`, `term_livestreaming`, `term_product_launch` |
+| `flexport_leadership_turmoil.md` | `term_valuation`, `term_board_governance`, `term_executive_order` |
+| `gmail_bulk_sender_rules.md` | `term_bot_detection` |
+| `tiktok_ad_free_tier.md` | `term_subscription_model`, `term_executive_order`, `term_board_governance`, `term_market_competition` |
+| `linkedin_ai_tools.md` | `term_market_competition`, `term_product_launch`, `term_lobbying_political_donations` |
+| `x_post_volume_discrepancy.md` | `term_user_generated_content`, `term_executive_order`, `term_board_governance` |
+| `ironnet_shutdown.md` | `term_initial_public_offering`, `term_layoffs` |
+| `breathe_battery_software.md` | `term_battery_technology` |
+| `acurable_respiratory_wearables.md` | `term_wearable_device`, `term_hardware_device` |
+| `founder_event_attendance_debate.md` | `term_board_governance` |
+| `openai_chip_and_nvidia_position.md` | `term_user_generated_content`, `term_bot_detection`, `term_market_competition` |
+| `adobe_generative_ai_tools.md` | `term_generative_ai` |
+| `tidalflow_llm_integration.md` | `term_large_language_model` |
+| `consumer_ar_vr_hardware.md` | **none — see below** |
+| `sonos_google_patent_reversal.md` | `term_patent_litigation` |
+| `pc_shipment_decline_2023.md` | `term_cloud_computing`, `term_hardware_device` |
+| `reddit_api_third_party_apps.md` | `term_subscription_model` |
+| `creator_economy_sustainability.md` | `term_creator_economy`, `term_venture_capital` |
+| `mastodon_and_x_traffic_figures.md` | **none — see below** |
+| `passkeys_default_signin.md` | `term_passkeys`, `term_hardware_device` |
+| `upi_commercial_sustainability.md` | `term_acquisition`, `term_market_competition` |
+| `brave_software_layoffs.md` | `term_layoffs` |
+| `rainforest_embedded_payments.md` | `term_payment_processor`, `term_embedded_finance`, `term_board_governance`, `term_executive_order`, `term_total_addressable_market`, `term_market_competition` |
+| `rainforest_investor_thesis.md` | `term_payment_processor`, `term_market_competition`, `term_venture_capital`, `term_saas_pricing`, `term_total_addressable_market`, `term_livestreaming`, `term_user_generated_content` |
+| `paypal_anti_steering_lawsuit.md` | `term_anti_steering_rules`, `term_class_action`, `term_antitrust`, `term_executive_order`, `term_payment_processor`, `term_regulatory_investigation`, `term_market_competition` |
+| `payment_gatekeeper_antitrust_view.md` | `term_antitrust`, `term_anti_steering_rules`, `term_bot_detection`, `term_market_competition` |
+| `bolt_sec_probe.md` | `term_regulatory_investigation`, `term_board_governance`, `term_executive_order`, `term_valuation`, `term_recommendation_algorithm` |
+| `synapse_layoffs.md` | `term_layoffs`, `term_executive_order`, `term_banking_as_a_service`, `term_board_governance` |
+| `visa_generative_ai_fund.md` | `term_generative_ai`, `term_payment_processor` |
+| `slice_bank_merger_india.md` | `term_acquisition`, `term_valuation`, `term_recommendation_algorithm` |
+| `cred_revenue_growth.md` | **none — see below** |
+| `fintech_startup_rankings_2023.md` | **none — see below** |
+| `fintech_funding_roundup_oct_2023.md` | `term_venture_capital`, `term_acquisition`, `term_product_launch`, `term_board_governance`, `term_executive_order`, `term_total_addressable_market`, `term_payment_processor`, `term_know_your_customer` |
+| `biden_ai_executive_order.md` | `term_executive_order` |
+| `ai_legislation_gap.md` | `term_executive_order` |
+| `reaction_to_biden_ai_order.md` | `term_executive_order`, `term_red_teaming`, `term_bot_detection`, `term_value_added_services`, `term_criminal_trial`, `term_board_governance`, `term_market_competition`, `term_data_privacy` |
+| `llm_stack_layers.md` | `term_market_competition`, `term_large_language_model`, `term_fine_penalty`, `term_generative_ai`, `term_foundation_model`, `term_defensibility`, `term_acquisition`, `term_venture_capital`, `term_model_fine_tuning`, `term_total_addressable_market` |
+| `ai_startup_defensibility.md` | `term_market_competition`, `term_large_language_model`, `term_foundation_model`, `term_defensibility`, `term_llm_observability`, `term_proprietary_data`, `term_generative_ai`, `term_fine_penalty`, `term_cloud_computing`, `term_model_fine_tuning` |
+| `ai_pricing_models.md` | `term_usage_based_pricing`, `term_large_language_model`, `term_saas_pricing`, `term_payment_processor`, `term_bot_detection`, `term_cloud_computing` |
+| `ai_market_spending_forecasts.md` | `term_valuation`, `term_cloud_computing`, `term_generative_ai`, `term_recommendation_algorithm`, `term_market_competition` |
+| `explore_with_alexa.md` | `term_generative_ai`, `term_subscription_model`, `term_bot_detection`, `term_product_launch`, `term_hardware_device` |
+| `alexa_kids_llm_guardrails.md` | `term_large_language_model`, `term_generative_ai`, `term_executive_order`, `term_ai_hallucination`, `term_bot_detection`, `term_generative_ai_guardrails`, `term_hardware_device` |
+| `alexa_kids_interaction_design.md` | `term_generative_ai_guardrails` |
+| `alexa_kids_privacy_and_hardware.md` | `term_hardware_device`, `term_large_language_model`, `term_bot_detection`, `term_product_launch`, `term_accessibility_localisation`, `term_data_privacy`, `term_executive_order`, `term_generative_ai`, `term_subscription_model` |
+| `keep_labs_device.md` | `term_bot_detection`, `term_hardware_device`, `term_product_launch`, `term_harm_reduction`, `term_medication_adherence` |
+| `keep_labs_cannabis_repositioning.md` | `term_market_competition`, `term_executive_order`, `term_hardware_device`, `term_harm_reduction`, `term_board_governance` |
+| `keep_labs_pivot_and_leadership.md` | `term_executive_order`, `term_hardware_device`, `term_product_launch`, `term_market_competition`, `term_board_governance`, `term_lobbying_political_donations`, `term_recommendation_algorithm` |
+| `keep_labs_enterprise_partnerships.md` | `term_executive_order`, `term_medication_adherence` |
+| `keep_labs_security_posture.md` | `term_encryption_at_rest`, `term_data_privacy`, `term_hardware_device`, `term_hipaa`, `term_executive_order`, `term_subscription_model`, `term_bot_detection`, `term_harm_reduction`, `term_medication_adherence`, `term_multi_factor_authentication` |
+| `keep_labs_funding_and_roadmap.md` | `term_product_launch`, `term_venture_capital`, `term_executive_order`, `term_hardware_device`, `term_board_governance` |
+| `google_antitrust_case.md` | `term_market_competition`, `term_antitrust`, `term_criminal_trial`, `term_default_search_engine`, `term_executive_order`, `term_valuation`, `term_board_governance` |
+| `google_default_search_payments.md` | `term_valuation`, `term_total_addressable_market`, `term_market_competition`, `term_default_search_engine`, `term_executive_order`, `term_criminal_trial`, `term_hardware_device` |
+| `google_apple_chrome_agreement.md` | `term_executive_order`, `term_criminal_trial`, `term_board_governance`, `term_total_addressable_market`, `term_valuation`, `term_hardware_device`, `term_market_competition` |
+| `google_deleted_chat_logs.md` | `term_litigation_hold`, `term_executive_order`, `term_bot_detection`, `term_criminal_trial`, `term_hardware_device` |
+| `google_default_hypocrisy_argument.md` | `term_antitrust`, `term_default_search_engine`, `term_litigation_hold` |
+| `big_tech_antitrust_outlook.md` | `term_antitrust`, `term_cloud_computing`, `term_criminal_trial`, `term_hardware_device` |
+| `scotus_social_media_cases.md` | `term_lobbying_political_donations`, `term_content_moderation`, `term_disinformation`, `term_executive_order`, `term_user_generated_content` |
+| `texas_florida_moderation_laws.md` | `term_bot_detection`, `term_first_amendment`, `term_criminal_trial`, `term_cloud_computing` |
+| `first_amendment_editorial_judgment.md` | `term_first_amendment`, `term_content_moderation`, `term_editorial_judgment` |
+| `scotus_ruling_consequences.md` | `term_executive_order`, `term_lobbying_political_donations`, `term_content_moderation`, `term_disinformation`, `term_first_amendment`, `term_bot_detection`, `term_section_230`, `term_creator_economy`, `term_value_added_services`, `term_recommendation_algorithm` |
+| `sbf_trial_arguments.md` | `term_criminal_trial`, `term_fraud`, `term_executive_order` |
+| `valor_applied_ai_thesis.md` | `term_large_language_model`, `term_fine_penalty`, `term_market_competition`, `term_generative_ai`, `term_model_fine_tuning`, `term_llm_observability`, `term_usage_based_pricing`, `term_defensibility`, `term_bot_detection`, `term_acquisition` |
+| `going_infinite_lewis_account.md` | `term_criminal_trial`, `term_acquisition`, `term_lobbying_political_donations` |
+
+Notes with no term link are **not padded**. Each is a single narrow fact that
+uses no shared concept; they take their three links from neighbouring content
+notes instead, and the entry point supplies the inbound edge:
+
+- `induced_ai_workflow_automation.md`
+- `consumer_ar_vr_hardware.md`
+- `mastodon_and_x_traffic_figures.md`
+- `cred_revenue_growth.md`
+- `fintech_startup_rankings_2023.md`
+
 ## Pacing Rules
 
 - One phase at a time; validate every GATE before starting the next

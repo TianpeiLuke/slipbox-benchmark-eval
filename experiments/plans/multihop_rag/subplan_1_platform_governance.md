@@ -214,6 +214,60 @@ single note satisfy several pieces of gold evidence.
 4. `entry_platform_governance.md` last, once every note it indexes exists
 5. Gates G1–G7 from the master plan
 
+## Per-Note Term Links (derived, not hand-tabled)
+
+Each note's term links are **derived from the source blocks that note carries**:
+a term is linked when its surface forms appear in the note's own source text.
+That makes relevance evidence from the corpus rather than recollection, which is
+the difference between a relevancy-ranked mapping and a padded one. Regenerate with:
+
+```bash
+python3 scripts/build_term_links.py multihop_rag \
+    --plans experiments/plans/multihop_rag --floor 3
+```
+
+This batch: median **5** term links per note, max 13, 30/37 at or above the floor.
+
+| Note | Term links |
+|---|---|
+| `sbf_trial_proceedings.md` | `term_criminal_trial`, `term_fraud`, `term_board_governance`, `term_executive_order`, `term_bot_detection`, `term_plea_agreement`, `term_cross_examination`, `term_valuation`, `term_hardware_device` |
+| `sbf_trial_testimony.md` | `term_criminal_trial`, `term_valuation`, `term_board_governance`, `term_executive_order`, `term_line_of_credit`, `term_class_action`, `term_bot_detection`, `term_fraud`, `term_lobbying_political_donations` |
+| `sbf_trial_arguments.md` | `term_criminal_trial`, `term_fraud`, `term_executive_order` |
+| `sbf_taking_the_stand.md` | `term_criminal_trial`, `term_fraud` |
+| `sam_bankman_fried.md` | `term_fraud`, `term_plea_agreement`, `term_valuation`, `term_executive_order`, `term_criminal_trial`, `term_bail`, `term_board_governance` |
+| `sbf_arrest_and_bail.md` | `term_bail`, `term_executive_order`, `term_board_governance` |
+| `sbf_defense_counsel.md` | `term_criminal_trial` |
+| `ftx.md` | `term_valuation`, `term_venture_capital`, `term_criminal_trial`, `term_lobbying_political_donations` |
+| `alameda_research.md` | `term_ftt_token`, `term_valuation` |
+| `ftx_marketing_and_influence.md` | `term_lobbying_political_donations`, `term_celebrity_endorsement`, `term_criminal_trial`, `term_valuation`, `term_recommendation_algorithm`, `term_market_competition` |
+| `ftx_collapse_mechanism.md` | `term_valuation`, `term_ftt_token`, `term_board_governance`, `term_chapter_11`, `term_bank_run`, `term_executive_order`, `term_market_competition` |
+| `ftx_bankruptcy_and_leadership.md` | `term_fraud` |
+| `ftx_cooperating_witnesses.md` | `term_plea_agreement`, `term_board_governance`, `term_executive_order`, `term_bot_detection`, `term_criminal_trial`, `term_fine_penalty` |
+| `crypto_contagion_after_ftx.md` | `term_chapter_11`, `term_executive_order`, `term_board_governance`, `term_market_competition` |
+| `going_infinite_lewis_account.md` | `term_criminal_trial`, `term_acquisition`, `term_lobbying_political_donations` |
+| `reaction_to_lewis_portrayal.md` | `term_executive_order`, `term_market_competition` |
+| `digital_services_act.md` | `term_digital_services_act`, `term_very_large_online_platform`, `term_fine_penalty`, `term_disinformation`, `term_crisis_response_mechanism`, `term_recommendation_algorithm`, `term_valuation`, `term_board_governance`, `term_regulatory_investigation`, `term_terms_of_service` |
+| `eu_enforcement_against_x.md` | `term_digital_services_act`, `term_regulatory_investigation`, `term_disinformation`, `term_fine_penalty`, `term_crisis_response_mechanism`, `term_recommendation_algorithm`, `term_content_moderation`, `term_executive_order`, `term_board_governance`, `term_user_generated_content` |
+| `eu_warning_letter_to_x.md` | `term_disinformation`, `term_digital_services_act`, `term_content_moderation`, `term_executive_order`, `term_recommendation_algorithm`, `term_market_competition` |
+| `x_moderation_capacity.md` | `term_disinformation`, `term_community_notes`, `term_content_moderation`, `term_digital_services_act`, `term_executive_order`, `term_identity_verification`, `term_layoffs`, `term_valuation`, `term_recommendation_algorithm` |
+| `disinformation_on_x_gaza.md` | `term_executive_order`, `term_user_generated_content`, `term_disinformation`, `term_recommendation_algorithm` |
+| `x_response_to_eu.md` | `term_digital_services_act`, `term_executive_order`, `term_board_governance`, `term_user_generated_content` |
+| `musk_position_on_disinformation.md` | `term_disinformation`, `term_digital_services_act`, `term_valuation`, `term_hardware_device`, `term_fine_penalty`, `term_recommendation_algorithm` |
+| `eu_warnings_to_other_platforms.md` | `term_disinformation`, `term_digital_services_act`, `term_bot_detection`, `term_regulatory_investigation` |
+| `platform_transparency_after_x_private.md` | `term_regulatory_investigation` |
+| `x_bot_countermeasures.md` | `term_bot_detection`, `term_executive_order`, `term_identity_verification`, `term_livestreaming`, `term_payment_processor`, `term_creator_economy`, `term_subscription_model`, `term_captcha`, `term_value_added_services`, `term_acquisition` |
+| `objections_to_x_bot_fee.md` | `term_bot_detection`, `term_digital_divide`, `term_battery_technology`, `term_executive_order`, `term_value_added_services` |
+| `x_competitive_position.md` | `term_market_competition`, `term_subscription_model`, `term_bot_detection`, `term_acquisition`, `term_open_source` |
+| `meta_moderation_bias.md` | `term_accessibility_localisation`, `term_user_generated_content`, `term_shadowbanning`, `term_executive_order`, `term_bot_detection`, `term_board_governance`, `term_lobbying_political_donations`, `term_recommendation_algorithm` |
+| `meta_bias_mechanisms.md` | `term_accessibility_localisation`, `term_digital_services_act`, `term_content_moderation`, `term_dangerous_organizations_policy`, `term_executive_order`, `term_hardware_device`, `term_lobbying_political_donations`, `term_user_generated_content`, `term_recommendation_algorithm` |
+| `instagram_palestine_suppression.md` | `term_user_generated_content`, `term_accessibility_localisation`, `term_shadowbanning`, `term_terms_of_service`, `term_recommendation_algorithm`, `term_livestreaming`, `term_dangerous_organizations_policy`, `term_executive_order`, `term_total_addressable_market`, `term_creator_economy` |
+| `meta_response_to_suppression_claims.md` | `term_user_generated_content`, `term_executive_order`, `term_recommendation_algorithm`, `term_shadowbanning`, `term_dangerous_organizations_policy`, `term_livestreaming`, `term_appeals_process`, `term_value_added_services`, `term_hardware_device`, `term_accessibility_localisation` |
+| `meta_2021_conflict_moderation.md` | `term_dangerous_organizations_policy`, `term_product_launch`, `term_user_generated_content`, `term_recommendation_algorithm`, `term_accessibility_localisation` |
+| `meta_arabic_mistranslation.md` | `term_machine_translation`, `term_accessibility_localisation`, `term_executive_order`, `term_hardware_device` |
+| `shadowban_workarounds.md` | `term_user_generated_content`, `term_shadowbanning`, `term_creator_economy`, `term_bot_detection`, `term_recommendation_algorithm` |
+| `meta_crisis_response_measures.md` | `term_livestreaming`, `term_executive_order`, `term_hashtag_blocking`, `term_recommendation_algorithm`, `term_accessibility_localisation`, `term_content_moderation`, `term_appeals_process`, `term_acquisition`, `term_hardware_device`, `term_data_privacy` |
+| `meta_enforcement_volume.md` | `term_accessibility_localisation`, `term_dangerous_organizations_policy` |
+
 ## Pacing Rules
 
 - One phase at a time; validate every GATE before starting the next
