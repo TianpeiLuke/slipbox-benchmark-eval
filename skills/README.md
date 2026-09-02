@@ -12,6 +12,7 @@ No skill here reads or writes any vault outside this repo.
 | `augment-digestion-plan` | add coverage map, split decisions, validation gates |
 | `review-digestion-plan` | sign-off checkpoints before execution |
 | `execute-digestion-plan` | write the notes, run the gates |
+| `capture-term-note` | create a term note from corpus evidence and register it in the glossary |
 | `validate-note-gates` | the shared gate every authoring skill ends with |
 | `check-note-format` / `check-broken-links` / `fix-broken-links` / `fix-ghost-references` | validation and repair |
 
@@ -31,10 +32,15 @@ Re-run it against an updated source with:
 python3 scripts/port_skills.py /path/to/source/vault
 ```
 
-Two upstream skills are deliberately **not** ported:
+**`capture-term-note` is rewritten by hand rather than ported.** The digestion
+plan calls it for every undigested term, so it cannot simply be dropped — but
+upstream researches each term against internal wikis and routes it into one of
+several established domain glossaries. Neither is available here: external
+research is forbidden by the blind-ingestion rule, and a fresh corpus has no
+glossary at all. The local version researches **the corpus and vault only**, and
+`scripts/glossary.py` **creates the glossary on first capture**, keeping it a
+single alphabetical file until the corpus is large enough for domains to be
+visible in the data rather than guessed up front.
 
-- **capture-term-note** — its research steps fetch internal wikis and documents.
-  That is both unavailable here and forbidden by the blind-ingestion rule:
-  corpus notes must derive from the corpus alone.
-- **search-notes** — superseded by `scripts/retrieval.py`, which is
-  self-contained and runs on this repo's own hybrid index.
+**`search-notes` is not ported** — superseded by `scripts/retrieval.py`, which is
+self-contained and runs on this repo's own hybrid index.

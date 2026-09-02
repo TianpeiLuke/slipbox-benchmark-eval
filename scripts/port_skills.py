@@ -35,9 +35,10 @@ OUT = ROOT / "skills"
 
 # canonical stem -> ported filename
 # Deliberately NOT ported:
-#   capture-term-note  its research steps fetch internal wikis/docs, which is both
-#                      unavailable here and forbidden by the blind-ingestion rule --
-#                      corpus notes must derive from the corpus alone.
+#   capture-term-note  REWRITTEN by hand at skills/capture-term-note/ rather than
+#                      ported: upstream researches internal wikis/docs (forbidden by
+#                      the blind-ingestion rule) and routes into pre-existing domain
+#                      glossaries (which a fresh corpus does not have).
 #   search-notes       superseded by scripts/retrieval.py, which is self-contained
 #                      and operates on this repo's own hybrid index.
 SKILLS = {
