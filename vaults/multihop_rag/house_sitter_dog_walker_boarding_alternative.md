@@ -3,20 +3,24 @@ building_block: procedure
 source_docs: [doc_0565]
 ---
 
-# Hire A House Sitter Or Dog Walker Instead Of Boarding
+# House Sitter and Dog Walker as a Boarding Alternative
 
-Another option is for owners to hire a house sitter, Needle said. "Or hire a dog walker," he added. "It might not be perfect, but it's better than nothing. Also, you might want to consider having Thanksgiving at home." The procedure is an alternative to sending a dog away, with the holiday-at-home suggestion attached as a further option.
+Another option is for owners to hire a house sitter, Needle said. "Or hire a dog walker," he added — the two are offered as substitutes for boarding, with a walker stopping by multiple times during the day.
 
-Needle states its limits as he states the step: it might not be perfect, but it is better than nothing. The recommendation is therefore explicitly a partial measure rather than full protection.
+Needle is explicit that the substitute is imperfect rather than ideal: "It might not be perfect, but it's better than nothing." He adds a third step for owners whose travel is what creates the problem in the first place: "Also, you might want to consider having Thanksgiving at home."
 
-Jandrey gives the same advice with a reason drawn from the dog's own preferences: ultimately, your dog might be happier at home with a house sitter or a dog walker stopping by multiple times during the day than going to a kennel. The visit pattern matters to that comparison — multiple stops during the day, not a single check-in. "It's best to leave them in their own environment," he added, which is the principle the procedure implements: keep the dog in its own environment and bring the care to it.
+Jandrey gives the comparative reason for preferring these arrangements. Ultimately, your dog might be happier at home with a house sitter or a dog walker stopping by multiple times during the day than going to a kennel, he said: "It's best to leave them in their own environment." The advantage claimed is keeping the dog in its own environment, and it is stated as a likelihood about the dog's happiness rather than as a guarantee.
 
 ## Related Notes
 
-- [Keep Dogs Out Of Kennels And Dog Parks Over The Holidays](holiday_kennel_and_dog_park_avoidance_guidance.md): states the avoidance advice for which this note supplies the practical alternative.
-- [Owner And Veterinarian Actions Recommended By The AKC](akc_owner_and_vet_action_guidance_canine_illness.md): another owner-facing procedure, covering veterinary steps rather than boarding arrangements.
-- [Mysterious Canine Respiratory Illness Of 2023](canine_atypical_respiratory_illness_2023_outbreak.md): the illness that makes keeping a dog out of a kennel worth the trouble.
-- [Three Clinical Presentations Of The Canine Respiratory Illness](canine_respiratory_illness_three_clinical_presentations.md): describes what a dog risks developing, which is the stake behind this precaution.
+- [AKC Owner and Vet Action Guidance for Canine Illness](akc_owner_and_vet_action_guidance_canine_illness.md): the companion owner-and-vet steps this alternative fits into, from the same Yahoo News report (doc_0565).
+- [Atypical Small-Genome Canine Microbiome Bacterium](atypical_small_genome_canine_microbiome_bacterium.md): the candidate pathogen avoiding boarding is meant to dodge, from the same report (doc_0565).
+- [Canine Atypical Respiratory Illness of 2023](canine_atypical_respiratory_illness_2023_outbreak.md): the illness prompting owners to look for boarding alternatives, from the same report (doc_0565).
+- [Canine Illness True Case Count Likely in the Thousands](canine_illness_true_case_count_likely_thousands.md): the scale that makes keeping dogs home worth the trouble, from the same report (doc_0565).
+- [Canine Respiratory Illness Cause Evidence and Caveats](canine_respiratory_illness_cause_evidence_caveats.md): the unresolved cause behind the precaution, from the same report (doc_0565).
+- [Canine Respiratory Illness State Case Reports 2023](canine_respiratory_illness_state_case_reports_2023.md): where the cases prompting the advice have been reported, from the same report (doc_0565).
+- [Canine Respiratory Illness Three Clinical Presentations](canine_respiratory_illness_three_clinical_presentations.md): the outcomes owners are trying to avoid, from the same report (doc_0565).
+- [Holiday Kennel and Dog Park Avoidance Guidance](holiday_kennel_and_dog_park_avoidance_guidance.md): the kennel-avoidance advice this option answers, from the same report (doc_0565).
 
 ## Source
 

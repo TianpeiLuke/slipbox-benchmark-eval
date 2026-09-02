@@ -88,6 +88,8 @@ def main() -> None:
     ap.add_argument("--plans", required=True)
     ap.add_argument("--floor", type=int, default=3)
     ap.add_argument("--max", type=int, default=8)
+    ap.add_argument("--keep-single-term", action="store_true",
+                    help="keep edges justified by ONE shared term (default: drop them)")
     ap.add_argument("--min-sim", type=float, default=0.10,
                     help="cosine floor for a content-relevance edge; below this the two "
                          "notes share vocabulary rather than a subject")
@@ -232,10 +234,16 @@ def main() -> None:
                 scored[o] = (3, f"shares {', '.join(sorted(ts)[:3])}; "
                                 f"different source document")
 
-        # 2b — a single shared term: kept, but ranked below planner grouping
-        for o, ts in shared.items():
-            if o not in scored:
-                scored[o] = (1, f"shares {ts[0]}; different source document")
+        # A single shared term is DROPPED, not merely down-ranked. Two execution
+        # agents independently reported these as noise, and inspection agreed: one
+        # shared term linked an FTX trial note to a football recap. Across the plan
+        # they were 22.9% of all edges. An edge bfs and ppr will traverse has to
+        # mean something; a coincidental token match does not, and a weak edge is
+        # not free -- it moves probability mass onto an unrelated note.
+        if a.keep_single_term:
+            for o, ts in shared.items():
+                if o not in scored:
+                    scored[o] = (1, f"shares {ts[0]}; different source document")
 
         # 2 — grouped by the planner, still crossing an article boundary
         for o in by_sub[sub_of[n]]:

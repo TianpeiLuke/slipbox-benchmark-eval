@@ -3,20 +3,24 @@ building_block: empirical_observation
 source_docs: [doc_0565]
 ---
 
-# USDA APHIS Says The Cause Is Not Yet Definitively Identified
+# USDA APHIS Statement on the Canine Respiratory Illness
 
-"APHIS and partners have not yet definitively identified the cause of illness," Mike Stepien, a spokesperson for the USDA Animal and Plant Health Inspection Service, responded in an email. He added: "There are no reports of human illness affiliated with these cases at this time."
+Mike Stepien, a spokesperson for the USDA Animal and Plant Health Inspection Service (APHIS), said in an email Wednesday that the agency is working with multiple state animal health officials and diagnostic labs regarding the respiratory illness in dogs that, "in rare cases, has progressed rapidly to death."
 
-Stepien said in an email Wednesday, in a statement reported on 2023-11-21, that the agency is working with multiple state animal health officials and diagnostic labs regarding the respiratory illness in dogs that, "in rare cases, has progressed rapidly to death." The federal response is therefore a coordination effort across state officials and diagnostic laboratories rather than a completed investigation.
+Two limits were stated explicitly in that response. "APHIS and partners have not yet definitively identified the cause of illness," Stepien wrote. He added: "There are no reports of human illness affiliated with these cases at this time."
 
-Two scope conditions carry the weight of this observation. The rapid progression to death is characterized as occurring in rare cases, not as typical. And the absence of human illness is qualified as of the time of the statement — "at this time" — so it is a snapshot of reports received by the agency as of that email, not a standing conclusion about the germ's ability to infect people.
+The scope conditions are federal, provisional and time-stamped: the statement comes from an APHIS spokesperson by email on a Wednesday, as reported by Yahoo News on November 21, 2023, it describes rapid progression to death as rare, and both the unidentified cause and the absence of human cases are stated as of that moment rather than as settled conclusions.
 
 ## Related Notes
 
-- [Mysterious Canine Respiratory Illness Of 2023](canine_atypical_respiratory_illness_2023_outbreak.md): the illness whose cause APHIS says remains unidentified.
-- [State Case Reports Of The Canine Respiratory Illness](canine_respiratory_illness_state_case_reports_2023.md): supplies the state-level counts behind the state officials and diagnostic labs APHIS says it is working with.
-- [Why The Illness Is Unlikely To Be Viral, And Why The Bacterial Finding Is Not Settled](canine_respiratory_illness_cause_evidence_caveats.md): examines the candidate causes that APHIS declines to endorse.
-- [UNH Sequencing Discovery Of A Previously Unknown Canine Germ](unh_novel_canine_bacterium_sequencing_discovery.md): the pre-publication candidate identification that stands against this "not yet definitively identified" position.
+- [Influenza Secondary Bacterial Infection Mechanism](influenza_secondary_bacterial_infection_mechanism.md): shares illness, health and respiratory vocabulary, from a different source article.
+- [AKC Owner and Vet Action Guidance for Canine Illness](akc_owner_and_vet_action_guidance_canine_illness.md): the owner-facing counterpart to this official statement, from the same Yahoo News report (doc_0565).
+- [Atypical Small-Genome Canine Microbiome Bacterium](atypical_small_genome_canine_microbiome_bacterium.md): the candidate cause that APHIS has not confirmed, from the same report (doc_0565).
+- [Canine Atypical Respiratory Illness of 2023](canine_atypical_respiratory_illness_2023_outbreak.md): the illness APHIS is responding to, from the same report (doc_0565).
+- [Canine Illness True Case Count Likely in the Thousands](canine_illness_true_case_count_likely_thousands.md): the case-count picture behind the agency response, from the same report (doc_0565).
+- [Canine Respiratory Illness Cause Evidence and Caveats](canine_respiratory_illness_cause_evidence_caveats.md): the scientific dispute over the cause APHIS has not identified, from the same report (doc_0565).
+- [Canine Respiratory Illness State Case Reports 2023](canine_respiratory_illness_state_case_reports_2023.md): the state-level reports APHIS is coordinating with, from the same report (doc_0565).
+- [Canine Respiratory Illness Three Clinical Presentations](canine_respiratory_illness_three_clinical_presentations.md): the disease courses including the rapid fatal one, from the same report (doc_0565).
 
 ## Source
 

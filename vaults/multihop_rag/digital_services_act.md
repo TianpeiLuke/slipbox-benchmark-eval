@@ -1,0 +1,30 @@
+---
+building_block: concept
+source_docs: [doc_0024, doc_0025, doc_0335]
+---
+
+# The Digital Services Act
+
+The Digital Services Act (DSA) is the European Union's pan-EU content moderation rulebook: a regulation that places governance obligations on digital services and platforms carrying user-generated content, with the aim of ensuring companies respond to reports of illegal content, and that layers heavier duties on the largest platforms. Its baseline obligations apply to digital services and platforms generally — respond diligently to notices of illegal content, clearly communicate terms and conditions to users, and be able to demonstrate proper enforcement of those terms.
+
+The discriminating feature of the regime is its second tier. Platforms designated as "very large online platforms" (VLOPs) carry additional obligations to identify and mitigate systemic risks such as disinformation, gender-based violence, or negative effects on the exercise of fundamental rights. The Commission designated 19 VLOPs in April 2023, including Meta-owned Facebook and Instagram; X is also a designated VLOP. Compliance for VLOPs kicked in over the summer of 2023 — TechCrunch dates Meta's compliance start to August.
+
+The regime's boundary case is disinformation itself. Unlike terrorism content, disinformation is not illegal in the EU per se. The DSA therefore does not reach it through the illegal-content removal route at all; it reaches it through the systemic-risk route, obliging a VLOP such as X to mitigate the risks attached to harmful falsehoods while separately acting diligently on reports of genuinely illegal content. The two duties run on different legal tracks even when they concern the same posts.
+
+Penalties for confirmed breaches can be as high as 6% of global annual turnover, and the bloc holds a further power, in extremis, to block access to a service in the region for repeated infringements — meaning a platform that repeatedly fails to correct course could be shut off in the EU. TechCrunch illustrates the scale on both ends: Elon Musk last projected revenues of about $3 billion for 2023 for X, which by that example would cap a fine at up to $180 million, while in Meta's case the same 6% ceiling could run to multiple billions.
+
+The regulation also contains a "crisis response" mechanism (Article 36) which enables the Commission to adopt rapid-fire measures on larger platforms in situations of "serious threat", such as war. As of TechCrunch's October 2023 reporting this part of the regulation was not yet operative: it would not start operating until February 17 of the following year, because it requires an advisory body — the European Board for Digital Services — to be operational before it can recommend that the Commission adopt a crisis response mechanism, and the Board's set-up was itself waiting on Member States to establish national Digital Services Coordinators, the bodies that oversee DSA compliance for non-VLOPs.
+
+## Related Notes
+
+- [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): another account of the Digital Services Act, from a different source document.
+- [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): overlapping coverage of Elon Musk, from a different source document.
+- [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): overlapping coverage of Elon Musk, from a different source document.
+- [Cybertruck Bed Size And Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): overlapping coverage of Elon Musk, from a different source document.
+- [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): shares the fine-penalty and regulatory-investigation themes, from a different source document.
+
+## Source
+
+- doc_0024: TechCrunch, 2023-10-13
+- doc_0025: TechCrunch, 2023-10-10
+- doc_0335: TechCrunch, 2023-10-13

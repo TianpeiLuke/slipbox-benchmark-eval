@@ -1,0 +1,25 @@
+---
+building_block: concept
+source_docs: [doc_0213]
+---
+
+# Dead Space (2023 Remake)
+
+Motive Studio's Dead Space remake, for PlayStation 5, Windows PC, and Xbox Series X, is ranked 14 on Polygon's best video games of 2023 list of 2023-10-31. Polygon frames 2023 as already a banner year for survival horror, with The Last of Us on HBO and Resident Evil 4 back in the conversation, and says the remake is no exception.
+
+The original Dead Space, following in the footsteps of Resident Evil 4, brought that third-person-action focus to a deteriorating ship in outer space; in the vein of Event Horizon, Sunshine, and Alien, it was a paragon for sci-fi horror in a confined and claustrophobic setting.
+
+Critic M. Mahardy writes that the remake brings that same vision to gorgeous new life with quality-of-life changes and underappreciated updates — it has made several previously useless weapons into viable tools in protagonist Isaac Clarke's arsenal — making it hard to imagine ever going back to Visceral Games' phenomenal original.
+
+## Related Notes
+
+- [8BitDo Arcade Stick for Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): both discuss the Xbox Series hardware, from a different source document
+- [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): both reference Xbox Series consoles, from a separate article
+- [Inzone H9 and Seagate Xbox Expansion Card Deals](inzone_h9_and_seagate_xbox_expansion_card_deals.md): another Xbox Series-related note from a different document
+- [LG C3 OLED TV](lg_c3_oled_tv.md): another Xbox Series-referencing hardware note
+- [M3 Max Gaming Performance on macOS](m3_max_gaming_performance_on_macos.md): another note touching Xbox Series hardware, from a separate source
+- [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
+
+## Source
+
+- doc_0213: Polygon, 2023-10-31

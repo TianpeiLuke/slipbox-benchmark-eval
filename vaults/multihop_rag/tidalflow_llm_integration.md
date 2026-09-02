@@ -1,0 +1,22 @@
+---
+building_block: empirical_observation
+source_docs: [doc_0043]
+---
+
+# Tidalflow Exits Stealth With Gradient Ventures Backing
+
+TechCrunch reported on 2023-10-13 that the Dutch startup Tidalflow exited stealth with backing from Google's Gradient Ventures, aiming to help any software play nice with ChatGPT and other LLM ecosystems.
+
+The scope of the stated aim is deliberately broad — any software, and LLM ecosystems in general rather than ChatGPT alone. The report gives the company's nationality, its investor and its ambition as of the exit from stealth; it does not give a round size, a product, or customers.
+
+## Related Notes
+
+- [Colorado vs. Arizona State 2023: Venue And Broadcast Details](colorado_arizona_state_2023_venue_and_broadcast.md): incidental term overlap on "mountain", from a different source document.
+- [The French Founder Stealth AI Startup Wave](french_founder_stealth_ai_startup_wave.md): overlaps on stealth startups and venture backing, from a different source document.
+- [TuSimple Exits The US Market](tusimple_exits_the_us_market.md): overlaps on the language of exits, from a different source document.
+- [Adobe's Firefly Generative AI Tools And Project Stardust](adobe_generative_ai_tools.md): drawn from the same source document (doc_0043).
+- [AI Day Of Action Campaign](ai_day_of_action_campaign.md): drawn from the same source document (doc_0043).
+
+## Source
+
+- doc_0043: TechCrunch, 2023-10-13

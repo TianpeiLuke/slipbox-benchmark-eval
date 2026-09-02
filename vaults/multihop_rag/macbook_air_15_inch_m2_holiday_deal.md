@@ -1,0 +1,21 @@
+---
+building_block: empirical_observation
+source_docs: [doc_0091, doc_0104]
+---
+
+# 15-Inch MacBook Air M2 Holiday Deal
+
+The 15-inch MacBook Air arrived in June and added a little more screen real estate to an already great machine. It came down to $1,049 at Amazon and Best Buy for both Black Friday and Cyber Monday 2023 — the same as the all-time low it had hit a few times over the past couple of months — and it was $200 off at B&H Photo.
+
+Engadget gave it a 96 in its review and liked how the bigger screen let you get the most out of the M2 processor. One timing note: now that the M3 MacBook Pros have arrived, Engadget guesses Apple will come out with M3-enabled Air models in 2024 — but the M2 still has plenty of processing power and will serve well as a casual machine for playing games and watching shows while holding its own with productivity tasks.
+
+## Related Notes
+
+- [Apple MacBook Air 15-Inch M2](apple_macbook_air_15_inch_m2.md): overlaps in content on this exact machine, from a different source document.
+- [Apple M3 Mac Reviews And Chip Lineup](apple_m3_mac_reviews_and_chip_lineup.md): overlaps in content on MacBook Pros and Apple's chip lineup, from a different source document.
+- [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): also concerns Cyber Monday, from a different source document.
+
+## Source
+
+- doc_0091: Engadget, 2023-11-27
+- doc_0104: Engadget, 2023-11-24

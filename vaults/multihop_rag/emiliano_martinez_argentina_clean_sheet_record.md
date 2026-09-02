@@ -1,0 +1,24 @@
+---
+building_block: empirical_observation
+source_docs: [doc_0534]
+---
+
+# Emiliano Martinez's Argentina Clean-Sheet Record
+
+Emiliano Martinez set a new Argentina national team record for a shutout streak during the 1-0 win over Paraguay on Oct. 12, 2023, crossing 609 minutes of play without conceding a goal — Argentina had not been breached since Kylian Mbappe's dramatic 118th-minute equalizer in the 2022 World Cup final.
+
+The record was noted at the 89th minute as the game sputtered towards its conclusion. The Sporting News tempered the achievement in fairness to the circumstances: it is an impressive mark nonetheless, but Martinez had almost nothing to do that night, making just one — admittedly impressive — save. Four minutes of stoppage time were shown, and B/R Football marked the milestone as "609 minutes and counting".
+
+The same shutout carried a second record: Lionel Scaloni has still never been beaten in World Cup qualifying as Argentina head coach.
+
+## Related Notes
+
+- [Argentina Squad and Lineup vs Paraguay October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): another document covering Lionel Scaloni's selection, different source
+- [Calendar Year 2023 Top Goalscorer Race](calendar_year_2023_top_goalscorer_race.md): another document covering Kylian Mbappe, different source
+- [Eddie Jones Commitment to Wallabies Job 2023](eddie_jones_commitment_to_wallabies_job_2023.md): another coach-and-World-Cup-cycle document, different sport and source
+- [Emma Hayes Appointed USWNT Head Coach](emma_hayes_appointed_uswnt_head_coach.md): another national-team coaching document, different source
+- [Erasmus Nienaber Springboks Coaching Departure 2023](erasmus_nienaber_springboks_coaching_departure_2023.md): another undefeated-coach World Cup story, different sport and source
+
+## Source
+
+- doc_0534: Sporting News, 2023-10-12

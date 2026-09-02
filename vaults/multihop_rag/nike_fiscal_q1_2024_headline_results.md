@@ -1,0 +1,22 @@
+---
+building_block: empirical_observation
+source_docs: [doc_0215]
+---
+
+# Nike Fiscal Q1 2024 Headline Results
+
+Nike reported revenue on Thursday 28 September 2023 that fell short of Wall Street's sales expectations for the first time in two years, but beat on earnings and gross margin estimates, sending its stock soaring in after-hours trading.
+
+Measured against a survey of analysts by LSEG, formerly Refinitiv, earnings per share came in at 94 cents versus 75 cents expected, while revenue was $12.94 billion versus $12.98 billion expected. Reported net income for the three-month period ended 31 August was $1.45 billion, or 94 cents per share, compared with $1.47 billion, or 93 cents per share, a year earlier. Sales rose to $12.94 billion, up about 2% from $12.69 billion a year earlier, just shy of analysts' expectations. Nike shares rose about 8% in extended trading that Thursday.
+
+## Related Notes
+
+- [Alameda Research](alameda_research.md): another note reporting billion-scale revenue and trading figures.
+- [Check Point Recent Quarterly Financials](check_point_recent_quarterly_financials.md): a comparable quarterly earnings-and-revenue report.
+- [Cleveland-Cliffs Q3 2023 Earnings Preview](cleveland_cliffs_q3_2023_earnings_preview.md): another analyst-expectation-versus-results comparison.
+- [Cyber Week 2023 Online Spend Forecasts](cyber_week_2023_online_spend_forecasts.md): related consumer-spending context for the same retail period.
+- [GameStop Q3 FY2023 Earnings Preview](gamestop_q3_fy2023_earnings_preview.md): another retail earnings report framed against analyst estimates.
+
+## Source
+
+- doc_0215: CNBC, 2023-09-28

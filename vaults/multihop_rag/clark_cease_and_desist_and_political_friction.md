@@ -1,0 +1,22 @@
+---
+building_block: empirical_observation
+source_docs: [doc_0536]
+---
+
+# Clark's Cease-And-Desist, The Political Friction, And The Firing For Cause
+
+Clark's cease-and-desist letter cited two documents that had been presented to the board — a pre-acquisition financial analysis of the Deliverr deal, presented by the co-CEOs for board approval and shaped by multiple prior board meetings, and a review of Flexport's first-quarter numbers — both viewed by CNBC.
+
+Clark's camp suggested other factors may have led to the abrupt firing, among them politics. Days after Clark was ousted, Petersen sent him a message, seen by CNBC, blasting one of his key female executives for wasting her days at the company on "far left-wing political activism"; the executive is a registered Republican. Trae Stephens, the Founders Fund partner, had also shared his contempt for that executive weeks before Clark's departure, a person familiar with the board told CNBC, and Stephens did not respond to a request for comment. Petersen is also a venture partner at Founders Fund, the firm started by Peter Thiel, a prominent supporter of President Trump's 2016 campaign who more recently bankrolled Senate candidates in Ohio and Arizona, and many of Thiel's closest confidantes at Founders Fund and elsewhere in venture are outspoken conservatives — though Petersen's sole public political contribution in 2023 was to a Democratic political action committee associated with Sen. Joe Manchin of West Virginia, and he does not talk much about politics. Clark has donated to candidates on both sides of the aisle; upon his departure The Wall Street Journal reported he was considering running for governor of Texas, but two people familiar with his thinking say that is not happening anytime soon. Flexport told CNBC that an employee's politics are not relevant in personnel decisions: "Ryan Petersen does not care at all about anyone's political or personal affiliations. That is their business. It is inappropriate for any employee to spend an excessive amount of time during work hours on activities unrelated to their role." A person familiar with the female executive said her noncorporate endeavors were largely related to charitable organizations. Clark has largely remained silent since he was forced to resign on Sept. 5, though in private he has expressed frustration at how his former team was treated, as many of his allies from Amazon who joined him at Flexport were summarily fired by Petersen shortly after his departure. On Sept. 13, Flexport chief legal counsel Chris Ferro contacted Clark to tell him his resignation a week earlier had not been accepted: instead, Flexport's board met the day after Clark resigned and voted to fire him for cause, though the board minutes did not yet reflect why. Ferro allegedly told Clark that Flexport would give him a block of 2 million shares — worth millions of dollars — if he signed a separation agreement including nondisclosure and nondisparagement clauses; Clark declined. Shortly after, Clark took the stage at the same Phoenix supply chain conference Petersen had spoken at earlier that day and did not hold back: "The only thing I really regret from the past year was I sort of picked the wrong founder. Basically, it was a place of extending my reputational halo to a group that, in my opinion, didn't deserve it. Largely, because about half the team was let go last week on Friday, the most brutal nonseverance packages I've ever seen in my life. It was about as disrespectful a way as humanly possible."
+
+## Related Notes
+
+- [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also discusses Peter Thiel, from a different source document.
+- [Fifth Third Bank Relationship Eligibility Requirement](fifth_third_bank_relationship_eligibility_requirement.md): also discusses West Virginia, from a different source document.
+- [Flexport Leadership Change and Layoffs](flexport_leadership_change_and_layoffs.md): also discusses Ryan Petersen, from a different source document.
+- [Flexport Leadership Turmoil](flexport_leadership_turmoil.md): another account of the same episode, from a different source document.
+- [FTX Inner Circle Family and Friends Implicated](ftx_inner_circle_family_and_friends_implicated.md): overlaps on board governance, lobbying political donations subject matter, from a different source document.
+
+## Source
+
+- doc_0536: Cnbc | World Business News Leader, 2023-10-02

@@ -3,20 +3,24 @@ building_block: concept
 source_docs: [doc_0565]
 ---
 
-# A Funky Bacterium With A Small Genome, Likely From The Dog Microbiome
+# Atypical Small-Genome Canine Microbiome Bacterium
 
-The pathogen is "a funky bacterium," said Dr. David Needle, pathology section chief at the College of Life Sciences and Agriculture at the University of New Hampshire. Its discriminating feature is smallness on two axes at once: "It's smaller than a normal bacterium in its size and in the size of its genome. Long story short, it's a weird bacterium that can be tough to find and sequence."
+The candidate pathogen is "a funky bacterium," in the words of Dr. David Needle, pathology section chief at the College of Life Sciences and Agriculture at the University of New Hampshire. Its defining feature is smallness on two axes at once: "It's smaller than a normal bacterium in its size and in the size of its genome. Long story short, it's a weird bacterium that can be tough to find and sequence."
 
-That double smallness is what makes the organism hard to detect. Being unusual in both cell size and genome size is precisely why it can be tough to find and sequence, which distinguishes it from the ordinary bacteria a diagnostic lab expects to encounter.
+Those two properties — small cell, small genome — are what make it hard to detect, so the difficulty of finding and sequencing it is a consequence of the definition rather than a separate fact about it.
 
-Its origin is the second discriminating feature, and it is stated with a deliberate hedge. The germ "is new as a potential cause of disease, but it is likely to be — or to have evolved from — a component of the dog microbiome," Needle said. Newness as a disease agent is therefore not the same as newness as an organism: it may have been resident all along. Dogs as well as humans have multiple types of harmless bacteria and other microorganisms living both inside and outside the body, and in the gut these are thought to aid in digestion — so a microbiome origin places the germ among normally harmless residents rather than among foreign invaders.
+Its second discriminating feature concerns origin rather than size. The germ "is new as a potential cause of disease, but it is likely to be — or to have evolved from — a component of the dog microbiome," Needle said. That places it on the boundary between resident flora and pathogen: dogs, as well as humans, have multiple types of harmless bacteria and other microorganisms living both inside and outside the body, and in the gut these are thought to aid in digestion. Novelty here is therefore novelty as a suspected disease agent, not necessarily novelty as an organism in dogs.
 
 ## Related Notes
 
-- [UNH Sequencing Discovery Of A Previously Unknown Canine Germ](unh_novel_canine_bacterium_sequencing_discovery.md): the sequencing work that turned up the organism characterized here.
-- [Why A Smaller Pathogen Reaches The Lungs](small_pathogen_lung_penetration_mechanism_dogs.md): converts the smallness described here into a proposed mechanism of severe disease.
-- [The New Bacterium Will Not Grow In The Lab, So Antibiotic Choice Rests On Its Structure](unculturable_canine_bacterium_doxycycline_antibiotic_choice.md): shows how the organism's structure, rather than culture, guides treatment.
-- [Mysterious Canine Respiratory Illness Of 2023](canine_atypical_respiratory_illness_2023_outbreak.md): the illness this organism is proposed as a potential cause of.
+- [Mexican Cavefish as an Autism Model](mexican_cavefish_as_an_autism_model.md): another life-sciences research topic, from a different source article.
+- [AKC Owner and Vet Action Guidance for Canine Illness](akc_owner_and_vet_action_guidance_canine_illness.md): what owners and vets are told to do about the illness this germ may cause, from the same Yahoo News report (doc_0565).
+- [Canine Atypical Respiratory Illness of 2023](canine_atypical_respiratory_illness_2023_outbreak.md): the illness this bacterium is a candidate cause of, from the same report (doc_0565).
+- [Canine Illness True Case Count Likely in the Thousands](canine_illness_true_case_count_likely_thousands.md): how many dogs the suspected illness may have reached, from the same report (doc_0565).
+- [Canine Respiratory Illness Cause Evidence and Caveats](canine_respiratory_illness_cause_evidence_caveats.md): the confirmation this candidate still needs, from the same report (doc_0565).
+- [Canine Respiratory Illness State Case Reports 2023](canine_respiratory_illness_state_case_reports_2023.md): the geographic spread of the associated cases, from the same report (doc_0565).
+- [Canine Respiratory Illness Three Clinical Presentations](canine_respiratory_illness_three_clinical_presentations.md): the disease forms this organism is suspected of producing, from the same report (doc_0565).
+- [Holiday Kennel and Dog Park Avoidance Guidance](holiday_kennel_and_dog_park_avoidance_guidance.md): exposure advice for the outbreak this germ is linked to, from the same report (doc_0565).
 
 ## Source
 

@@ -3,20 +3,24 @@ building_block: argument
 source_docs: [doc_0565]
 ---
 
-# The True Case Count Is Likely In The Thousands
+# Canine Illness True Case Count Likely in the Thousands
 
-It is likely that thousands of dogs have been affected by the respiratory illness, even though it is unknown exactly how many have been. The claim is an inference about the unobserved total, not a count.
+The claim is that the true number of affected dogs is likely in the thousands, even though it is unknown exactly how many dogs have been affected.
 
-The grounds are twofold. First, the count is necessarily incomplete: there is no test yet for the illness, and many of the symptoms are similar to other respiratory infections, such as canine influenza and Bordetella (kennel cough), so cases cannot be reliably distinguished or tallied. Second, hundreds of cases have already been identified by symptoms reported in Oregon alone.
+The grounds are that hundreds of cases have been identified by symptoms reported only in Oregon. That single state's tally is offered as a partial count, not a national one.
 
-The warrant joining grounds to claim is that a single state's symptom-based tally is only a fraction of the whole. If hundreds turn up in Oregon on symptom reports alone, while no diagnostic test exists to catch the cases that symptom-matching misses or misattributes to canine influenza or kennel cough, then the national figure must be considerably larger — likely in the thousands. The argument's strength depends on both conditions holding: the absence of a test, and the symptom overlap that makes attribution ambiguous.
+The warrant joining grounds to claim is the reason the exact count is unavailable in the first place: there is no test yet for the illness, and many of the symptoms are similar to other respiratory infections, such as canine influenza and Bordetella (kennel cough). Because cases can only be identified by symptoms that other diseases share, and because one state alone already yields hundreds, the reported figure is treated as a floor that the national total exceeds — hence, likely thousands.
 
 ## Related Notes
 
-- [State Case Reports Of The Canine Respiratory Illness](canine_respiratory_illness_state_case_reports_2023.md): supplies the Oregon reports that serve as this argument's factual ground.
-- [Mysterious Canine Respiratory Illness Of 2023](canine_atypical_respiratory_illness_2023_outbreak.md): the illness whose true extent this argument estimates.
-- [USDA APHIS Says The Cause Is Not Yet Definitively Identified](usda_aphis_canine_respiratory_illness_statement.md): records the federal position that the cause is still unidentified, which sits alongside this argument's premise that no test yet exists.
-- [Three Clinical Presentations Of The Canine Respiratory Illness](canine_respiratory_illness_three_clinical_presentations.md): details the symptom-based picture that has to substitute for a diagnostic test.
+- [American Public Climate Worry Polling](american_public_climate_worry_polling.md): shares vocabulary about what is reported and who is affected, from a different source article.
+- [Flu Vaccine Timing and Severity Reduction](flu_vaccine_timing_and_severity_reduction_sylvester.md): shares symptom, influenza and respiratory vocabulary, from a different source article.
+- [Influenza Secondary Bacterial Infection Mechanism](influenza_secondary_bacterial_infection_mechanism.md): shares influenza, illness and respiratory vocabulary, from a different source article.
+- [AKC Owner and Vet Action Guidance for Canine Illness](akc_owner_and_vet_action_guidance_canine_illness.md): the response advice for an outbreak of this scale, from the same Yahoo News report (doc_0565).
+- [Atypical Small-Genome Canine Microbiome Bacterium](atypical_small_genome_canine_microbiome_bacterium.md): the candidate pathogen behind these uncounted cases, from the same report (doc_0565).
+- [Canine Atypical Respiratory Illness of 2023](canine_atypical_respiratory_illness_2023_outbreak.md): the illness whose scale is being estimated, from the same report (doc_0565).
+- [Canine Respiratory Illness Cause Evidence and Caveats](canine_respiratory_illness_cause_evidence_caveats.md): the parallel uncertainty about the cause, from the same report (doc_0565).
+- [Canine Respiratory Illness State Case Reports 2023](canine_respiratory_illness_state_case_reports_2023.md): supplies the Oregon count this estimate is built on, from the same report (doc_0565).
 
 ## Source
 

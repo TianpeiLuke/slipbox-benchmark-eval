@@ -1,0 +1,21 @@
+---
+building_block: empirical_observation
+source_docs: [doc_0404]
+---
+
+# Black Friday 2023 Headphone Deals Overview
+
+Black Friday is often a boon for deals on headphones and earbuds, and 2023 was no different, Engadget reported on 2023-11-24: the shopping holiday brought a plethora of deals on all kinds of headphones, including several top picks from its guides to the best wireless headphones, wireless earbuds, budget wireless earbuds and gaming headsets.
+
+Other popular models from the likes of Sony, Beats, Bose and Apple were discounted as well, which Engadget says makes it an ideal time to pick up a new set — whether as a gift for someone on a holiday shopping list or to replace aging cans. The roundup collects the best Black Friday deals on headphones and earbuds it could find for 2023.
+
+## Related Notes
+
+- [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): same source document; a budget option in the same roundup.
+- [Black Friday 2023 Dates And Retailer Schedules](black_friday_2023_dates_and_retailer_schedules.md): overlaps in content on Black Friday shopping timing, from a different source document.
+- [Black Friday 2023 Extended Sale Period](black_friday_2023_extended_sale_period.md): overlaps in content on the deal window, from a different source document.
+- [Bose QuietComfort Earbuds II](bose_quietcomfort_earbuds_ii.md): overlaps in content on wireless earbuds from Bose, from a different source document.
+
+## Source
+
+- doc_0404: Engadget, 2023-11-24

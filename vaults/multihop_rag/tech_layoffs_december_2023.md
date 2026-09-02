@@ -1,0 +1,24 @@
+---
+building_block: empirical_observation
+source_docs: [doc_0049]
+---
+
+# Tech Layoffs In December 2023
+
+December 2023 brought a fresh wave of tech job cuts, with Spotify's elimination of about 1,500 jobs and Cruise's cut of 900 employees the largest single announcements of the month.
+
+The biggest names moved early in the month. Bending Spoons laid off the entire staff of Filmic, the team behind popular video and photo-editing apps that Bending Spoons had acquired in July. Spotify announced on December 4 that it was eliminating about 1,500 jobs, its third round of layoffs that year. Twilio announced hundreds of job cuts on December 4, amounting to 5% of its workforce. On December 5 Bill said it would cut around 15% of its workforce and close its Sydney office to increase profitability; CourseHero announced it had eliminated 23 employees across engineering, operations and development; and the Nigerian fintech startup Pivo, which had previously raised $2 million in a seed round, shut down operations. Incredibuild, a software development startup that raised $35 million in a Series B in 2022, laid off 20% of its workforce. Navan, the travel startup previously known as TripActions, cut about 145 roles as it planned to become public. ZestMoney, the Goldman Sachs-backed "buy now, pay later" startup once valued at $450 million, shut down operations. Tidal confirmed to TechCrunch on December 7 that it was laying off more than 10% of its staff. Atmosphere, the business-focused streaming TV service that raised $100 million in 2022, reportedly eliminated a large part of its workforce. D2iQ shut down its operations and sold its assets to Nutanix. Zulily said it would lay off more than 500 employees after closing fulfillment centers in Ohio and Nevada in February 2024. Sunfolding was reportedly winding down operations, and Y Combinator categorizes it as an "inactive" company on its website. SmileDirectClub shut down three months after filing for Chapter 11 bankruptcy, citing $900 million of debt. Chipper Cash reportedly laid off 15 people across various departments, which would be the fintech unicorn's fourth round of layoffs that year.
+
+Mid-month cuts continued. Etsy laid off 11% of its workforce, with CEO Josh Silverman citing a "very challenging macro and competitive environment" in a letter to employees on December 13. Cruise, the embattled self-driving car company, cut 900 employees — 24% of its workforce — according to a December 14 email from new president and CTO Mo Elshenawy obtained exclusively by TechCrunch. Bolt, the e-commerce company known for its one-click checkout technology and at one time the subject of a federal probe, confirmed on December 15 that it had laid off 29% of its staff. Superpedestrian shut down its U.S.-based shared scooter operation and was exploring a sale of its European business, TechCrunch exclusively learned. Intel reported to state employment officials on December 15 that it would cut 235 employees at its Folsom office campus at the end of the year. eBay reportedly eliminated nearly 10% of its workforce in Israel, its second round of layoffs that year. Delivery Hero said on December 18 that it was shutting down operations in Taiwan and Turkey and planned to eliminate roles at its Berlin headquarters. Arm Holdings PLC reportedly laid off more than 70 software engineers in China and planned to relocate some roles. Enphase reduced its workforce by around 10%, affecting roughly 350 contractors and employees, president and CEO Badri Kothandaraman wrote in a December 18 blog post. Udaan, the business-to-business e-commerce startup that scored $340 million in new funding that month, reportedly laid off up to 150 employees in a restructuring effort. Insightec reportedly laid off 100 employees, 60 of them from the company's Israel headquarters. ShareChat cut 15% of its workforce in a "strategic restructuring" effort for 2024.
+
+## Related Notes
+
+- [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs and layoffs and restructuring theme, from a different source document.
+- [Blockcast Decentralized Broadcast Network](blockcast_decentralized_broadcast_network.md): shares the streaming service and venture capital theme, from a different source document.
+- [Boeing Q3 2023 Earnings Preview and 737 Max Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): shares the streaming service and valuation theme, from a different source document.
+- [Brave Software Layoffs](brave_software_layoffs.md): substantial content overlap on workforce, laid, software, from a different source document.
+- [Collegehumor IAC Layoffs and Sale to Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares the layoffs, layoffs and restructuring and streaming service theme, from a different source document.
+
+## Source
+
+- doc_0049: TechCrunch, 2023-09-28

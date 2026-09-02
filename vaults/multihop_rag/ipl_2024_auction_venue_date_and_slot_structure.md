@@ -1,0 +1,27 @@
+---
+building_block: concept
+source_docs: [doc_0307]
+---
+
+# IPL 2024 Auction: Venue, Date And Slot Structure
+
+The IPL 2024 auction was defined by a fixed set of parameters: date 19 December, a Tuesday; venue the Coca-Cola Arena in Dubai; start time 1:00 PM IST; 77 total slots, of which 30 were overseas slots. A total of 333 players went under the hammer against those 77 places.
+
+The overseas cap is the discriminating feature of the structure: out of the 77 players that could be bought, only 30 were reserved for overseas players. Alongside the auction itself, the opening of the trade window could see some surprising moves.
+
+The player list was not fixed until shortly before the event. At 10.10 AM, Kaushal Tambe (Maharashtra) and Sahil Dhiwan (Rajasthan) were added to the list of players to go under the hammer, and South African Nandre Burger was moved to the capped players list.
+
+## Related Notes
+
+- [Blackhawks-Penguins 2023 Start Time and Arena](blackhawks_penguins_2023_start_time_and_arena.md): parallel arena, date and start-time listing, from a different source document.
+- [Bill Kenwright Death Aged 78](bill_kenwright_death_aged_78.md): shares the Premier League topic tag, from a different source document.
+- [Bill Kenwright's Everton Chairmanship Record](bill_kenwright_everton_chairmanship_record.md): shares the Premier League topic tag, from a different source document.
+- [Blackburn Rovers' Decline and Youthful Selection](blackburn_rovers_decline_and_youthful_selection.md): shares the Premier League topic tag, from a different source document.
+- [Carabao Cup 2023-24 Second Round Results](carabao_cup_2023_24_second_round_results.md): shares the Premier League topic tag, from a different source document.
+- [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): shares the Premier League topic tag, from a different source document.
+- [Carabao Cup Format and Round Schedule 2023-24](carabao_cup_format_and_round_schedule_2023_24.md): shares the Premier League topic tag, from a different source document.
+- [Carabao Cup Naming History and Sponsorship](carabao_cup_naming_history_and_sponsorship.md): shares the Premier League topic tag, from a different source document.
+
+## Source
+
+- doc_0307: Insidesport, 2023-12-18

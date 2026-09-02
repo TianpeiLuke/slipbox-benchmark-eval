@@ -1,0 +1,21 @@
+---
+building_block: empirical_observation
+source_docs: [doc_0032]
+---
+
+# Wired's Retracted Claim That Google Manipulates Search Queries
+
+In October 2023, Wired posted an opinion article by lawyer and privacy advocate Megan Gray alleging that Google had accidentally revealed during the trial that it manipulates people's search queries for maximum ad revenue — the example given being the replacement of a search for "children's clothing" with "NIKOLAI-brand kidswear" — and Wired subsequently removed the article for not meeting its standards.
+
+Google rejected the claim in very strong terms, saying the piece was misleading and inaccurate and denying that it ever altered search terms. The Age drew a lesson from the episode's reach: the degree to which the article was shared on social media and boosted in write-ups at other outlets shows just how willing people are to accept foul play on Google's part, and a suspicion of privacy invasion and inappropriate data handling follows the company at all times. The article placed the episode in the wider context of the US case — which, having to prove Google somehow broke the law to achieve the status quo, could be an uphill battle for the government, but which offers everyone else a rare opportunity for insight into what the tech giant does with its enormous market share, and whether it is still focused on being the best or uses its ubiquity to squeeze users for money at the expense of product quality.
+
+## Related Notes
+
+- [Google's Top Revenue Search Queries Disclosure](google_top_revenue_search_queries_disclosure.md): overlapping coverage of Google, search and queries, from a different source document.
+- [The Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): part of the same account of US v. Google, search defaults and search quality, from a different source document.
+- [Closed Sessions Limited The Public Record Of Cue's Testimony](closed_sessions_limited_the_public_record_of_cue_testimony.md): part of the same account of US v. Google, search defaults and search quality, from a different source document.
+- [The DOJ Theory That Google's Default Deals Foreclose Search Rivals](doj_theory_that_google_default_deals_foreclose_search_rivals.md): part of the same account of US v. Google, search defaults and search quality, from a different source document.
+
+## Source
+
+- doc_0032: The Age, 2023-10-22

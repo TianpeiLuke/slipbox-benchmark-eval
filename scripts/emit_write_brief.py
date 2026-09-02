@@ -38,18 +38,32 @@ def main() -> None:
         f = P / f"subplan_{a.cluster}_assignments.json"
         if not f.exists():
             raise SystemExit(f"no plan for {a.cluster}")
+        # The assignment file carries blocks but not building blocks; those live in
+        # the sub-plan's own table. Emitting an empty bb here silently strips the
+        # scoring key from the brief, and an agent copying it faithfully would
+        # write 130 unusable notes.
+        import re as _re
+        md = P / f"subplan_{a.cluster}.md"
+        bbmap = {}
+        if md.exists():
+            for m in _re.finditer(r"\|\s*\d+\s*\|\s*`([^`]+\.md)`[^|]*\|\s*`([a-z_]+)`", md.read_text()):
+                bbmap[m.group(1)] = m.group(2)
+        missing = [n for n in json.loads(f.read_text()) if n not in bbmap]
+        if missing:
+            raise SystemExit(f"no building_block for {len(missing)} note(s) in {md.name}: "
+                             f"{missing[:3]} — refusing to emit a brief without the scoring key")
         plan = {"subplans": [{"slug": a.cluster, "title": a.cluster,
-                              "notes": [{"note": n, "bb": "", "blocks": m}
+                              "notes": [{"note": n, "bb": bbmap[n], "blocks": m}
                                         for n, m in json.loads(f.read_text()).items()]}]}
     else:
         plan = json.loads(f.read_text())
 
     idx = json.loads((CORPUS / a.slug / "index.json").read_text())
     cache: dict[str, list[str]] = {}
-    tl = {}
-    tlp = P / "term_links.json"
-    if tlp.exists():
-        tl = json.loads(tlp.read_text())
+    nl = {}
+    nlp = P / "note_links.json"
+    if nlp.exists():
+        nl = json.loads(nlp.read_text())
 
     out = [f"# Writing brief — {a.cluster}", ""]
     n_notes = 0
@@ -62,9 +76,12 @@ def main() -> None:
             out.append(f"### `{note['note']}`")
             out.append(f"- building_block: `{note['bb']}`")
             out.append(f"- source_docs: [{', '.join(docs)}]")
-            if tl.get(note["note"]):
-                out.append(f"- term links available: "
-                           + ", ".join(f"`term_{t}`" for t in tl[note['note']][:8]))
+            rel = nl.get(note["note"], [])
+            if rel:
+                out.append("- **Related Notes to use** (already chosen by content relevance; "
+                           "copy the reason into the note):")
+                for r in rel:
+                    out.append(f"    - `{r['note']}` — {r['why']}")
             out.append("")
             out.append("SOURCE (write only from this):")
             out.append("")

@@ -1,0 +1,22 @@
+---
+building_block: empirical_observation
+source_docs: [doc_0422]
+---
+
+# The Angels' Pursuit Of Blake Snell
+
+After coming up empty on bringing back Shohei Ohtani, the Angels held discussions with two-time Cy Young winner Blake Snell, MLB Network's Jon Morosi reported on Tuesday, Dec. 19, 2023.
+
+Morosi's report framed the pursuit as Los Angeles looking to land another splashy name on the free-agent market. He added that the Angels were not believed to be a strong contender for Yoshinobu Yamamoto, which allowed them to put more effort into landing Snell rather than waiting for Yamamoto to make a decision.
+
+## Related Notes
+
+- [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): overlaps on the Angels' post-Ohtani roster moves, from a different document.
+- [Juan Soto Traded From Padres to Yankees](juan_soto_traded_from_padres_to_yankees.md): also relies on reporting by Jon Morosi, from a different document.
+- [Mariners Offseason Payroll Space and Trade Talks](mariners_offseason_payroll_space_and_trade_talks.md): also relies on reporting by Jon Morosi, from a different document.
+- [MLB 2023 Offseason Starting Pitcher Trade Market](mlb_2023_offseason_starting_pitcher_trade_market.md): also covers Blake Snell and reporting by Jon Morosi, from a different document.
+- [Obstacles to Mike Trout Leaving the Angels](obstacles_to_mike_trout_leaving_the_angels.md): overlaps on the Angels' position after losing Ohtani, from a different document.
+
+## Source
+
+- doc_0422: Sporting News, 2023-12-23

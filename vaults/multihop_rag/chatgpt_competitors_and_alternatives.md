@@ -1,0 +1,24 @@
+---
+building_block: concept
+source_docs: [doc_0048]
+---
+
+# ChatGPT Competitors And Alternatives
+
+There are multiple AI-powered chatbot competitors to ChatGPT — Together, Google's Bard and Anthropic's Claude among them — and developers are creating open source alternatives, though the latter are harder, if not impossible, to run today.
+
+Bard is the closest comparison. Much like ChatGPT, Bard is a chatbot that answers questions in natural language; Google announced at its 2023 I/O event that it would soon add multimodal content to Bard, meaning it can deliver answers in more than just text, with rich visuals — pictures for now, and later possibly maps, charts and other items. The discriminating advantage claimed for ChatGPT is time in the field: its generative AI has had a longer lifespan and thus has been "learning" for a longer period than Bard.
+
+Two further challengers were in development. The Google-owned research lab DeepMind claimed that its next LLM would rival, or even best, ChatGPT; DeepMind is using techniques from AlphaGo — its AI system that was the first to defeat a professional human player at the board game Go — to make a ChatGPT-rivaling chatbot called Gemini. Apple is developing AI tools to challenge OpenAI, Google and others, and has created a chatbot that some engineers internally refer to as "Apple GPT," although Apple has yet to determine a strategy for releasing the AI to consumers.
+
+## Related Notes
+
+- [AI Startup Defensibility](ai_startup_defensibility.md): shares the generative AI and large language model theme, from a different source document.
+- [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the generative AI and large language model theme, from a different source document.
+- [Alexa Kids Privacy and Hardware](alexa_kids_privacy_and_hardware.md): shares the generative AI and large language model theme, from a different source document.
+- [Alphago as Evidence for AI Risk Concerns](alphago_as_evidence_for_ai_risk_concerns.md): substantial content overlap on deepmind, google, claimed, from a different source document.
+- [ChatGPT Adoption Gap Survey Evidence](chatgpt_adoption_gap_survey_evidence.md): substantial content overlap on chatbot, chatgpt, questions, from a different source document.
+
+## Source
+
+- doc_0048: TechCrunch, 2023-09-28
