@@ -16,9 +16,10 @@ links outward and contaminate both the notes and the evaluation.
     python3 scripts/build_local_db.py vaults/musique --stats
 
 Schema (deliberately minimal -- only what retrieval and scoring need):
-    notes(note_id, title, building_block, body, words, source_doc)
+    notes(note_id, note_name, title, building_block, body, words, source_doc)
                source_doc comes from the note's own `source_docs:` frontmatter
-    note_links(source_note_id, target_note_id, resolved)
+    note_links(source_note_id, target_note_id, link_text, resolved)
+    broken_links / ghost_notes / ghost_note_references  -- link-repair diagnostics
     notes_fts  -- FTS5 over title + body
 """
 
@@ -28,6 +29,7 @@ import argparse
 import json
 import re
 import sqlite3
+from difflib import SequenceMatcher
 import sys
 from pathlib import Path
 
@@ -39,6 +41,7 @@ DDL = """
 PRAGMA journal_mode=WAL;
 CREATE TABLE IF NOT EXISTS notes (
     note_id        TEXT PRIMARY KEY,
+    note_name      TEXT,          -- filename stem; what humans and skills call the note
     title          TEXT,
     building_block TEXT,
     body           TEXT,
@@ -48,6 +51,7 @@ CREATE TABLE IF NOT EXISTS notes (
 CREATE TABLE IF NOT EXISTS note_links (
     source_note_id TEXT NOT NULL,
     target_note_id TEXT NOT NULL,
+    link_text      TEXT,          -- anchor text; how the source note NAMES the target
     resolved       INTEGER NOT NULL DEFAULT 0,
     UNIQUE(source_note_id, target_note_id)
 );
@@ -55,7 +59,35 @@ CREATE INDEX IF NOT EXISTS idx_links_src ON note_links(source_note_id);
 CREATE INDEX IF NOT EXISTS idx_links_tgt ON note_links(target_note_id);
 CREATE VIRTUAL TABLE IF NOT EXISTS notes_fts
     USING fts5(note_id UNINDEXED, title, body, tokenize='porter unicode61');
+
+-- Link-repair diagnostics. The gate skills query these directly; they are
+-- materialised at build time because ranking candidates needs a string-
+-- similarity function SQLite does not provide.
+--
+-- A link whose target is missing is BROKEN if some existing note is a
+-- plausible intended target, and a GHOST if nothing in the vault resembles it.
+-- The distinction is what separates "fix the path" from "write the note or
+-- drop the reference".
+CREATE TABLE IF NOT EXISTS broken_links (
+    source_note_id  TEXT NOT NULL,
+    broken_path     TEXT NOT NULL,
+    correct_note_id TEXT NOT NULL,
+    link_text       TEXT,
+    similarity      REAL NOT NULL
+);
+CREATE TABLE IF NOT EXISTS ghost_notes (
+    ghost_note_id   TEXT PRIMARY KEY,
+    reference_count INTEGER NOT NULL
+);
+CREATE TABLE IF NOT EXISTS ghost_note_references (
+    ghost_note_id  TEXT NOT NULL,
+    source_note_id TEXT NOT NULL,
+    UNIQUE(ghost_note_id, source_note_id)
+);
+CREATE INDEX IF NOT EXISTS idx_broken_src ON broken_links(source_note_id);
 """
+
+SIM_FLOOR = 0.75   # below this a candidate is noise, not a suggestion
 
 
 def parse_frontmatter(text: str) -> dict:
@@ -89,8 +121,8 @@ def build(vault: Path, provenance: dict[str, str]) -> sqlite3.Connection:
         # provenance: frontmatter source_docs is authoritative; provenance.json is a fallback
         src = fm.get("source_docs", "").strip("[] ").replace('"', "").replace("'", "")
         con.execute(
-            "INSERT OR REPLACE INTO notes VALUES (?,?,?,?,?,?)",
-            (nid, h1.group(1) if h1 else p.stem, fm.get("building_block", ""),
+            "INSERT OR REPLACE INTO notes VALUES (?,?,?,?,?,?,?)",
+            (nid, p.stem, h1.group(1) if h1 else p.stem, fm.get("building_block", ""),
              body, len(body.split()), src or provenance.get(nid, "")),
         )
         con.execute("INSERT INTO notes_fts VALUES (?,?,?)",
@@ -100,7 +132,7 @@ def build(vault: Path, provenance: dict[str, str]) -> sqlite3.Connection:
     for p in notes:
         nid = str(p.relative_to(vault))
         body = FM.sub("", p.read_text(encoding="utf-8", errors="replace"))
-        for _, target in LINK.findall(body):
+        for text_, target in LINK.findall(body):
             if target.startswith(("http://", "https://")):
                 continue
             resolved_path = (p.parent / target).resolve()
@@ -108,11 +140,46 @@ def build(vault: Path, provenance: dict[str, str]) -> sqlite3.Connection:
                 tid = str(resolved_path.relative_to(vault.resolve()))
             except ValueError:
                 # link escapes this vault -- record unresolved, never follow it
-                con.execute(
-                    "INSERT OR IGNORE INTO note_links VALUES (?,?,0)", (nid, target))
+                con.execute("INSERT OR IGNORE INTO note_links VALUES (?,?,?,0)",
+                            (nid, target, text_))
                 continue
-            con.execute("INSERT OR IGNORE INTO note_links VALUES (?,?,?)",
-                        (nid, tid, 1 if tid in ids else 0))
+            con.execute("INSERT OR IGNORE INTO note_links VALUES (?,?,?,?)",
+                        (nid, tid, text_, 1 if tid in ids else 0))
+    # ---- link-repair diagnostics -------------------------------------------
+    # Candidates come from an exact basename match first (a moved note), then
+    # from stem similarity. Filename similarity ALONE is not evidence: short
+    # names one character apart are routinely distinct concepts, so these rows
+    # are a first pass for a human or agent to confirm, never a decision.
+    by_name: dict[str, list[str]] = {}
+    for nid in ids:
+        by_name.setdefault(Path(nid).name.lower(), []).append(nid)
+
+    ghosts: dict[str, set[str]] = {}
+    for src, tgt, ltext, resolved in con.execute(
+            "SELECT source_note_id, target_note_id, link_text, resolved "
+            "FROM note_links").fetchall():
+        if resolved:
+            continue
+        base = Path(tgt).name.lower()
+        cands = [(c, 1.0) for c in by_name.get(base, [])]
+        if not cands:
+            stem = Path(tgt).stem.lower()
+            cands = [(nid, r) for nid in ids
+                     if (r := SequenceMatcher(None, stem, Path(nid).stem.lower()).ratio())
+                     >= SIM_FLOOR]
+        if cands:
+            for nid, r in sorted(cands, key=lambda x: -x[1])[:5]:
+                con.execute("INSERT INTO broken_links VALUES (?,?,?,?,?)",
+                            (src, tgt, nid, ltext, r))
+        else:
+            ghosts.setdefault(tgt, set()).add(src)
+
+    for ghost, srcs in ghosts.items():
+        con.execute("INSERT OR REPLACE INTO ghost_notes VALUES (?,?)", (ghost, len(srcs)))
+        for src in srcs:
+            con.execute("INSERT OR IGNORE INTO ghost_note_references VALUES (?,?)",
+                        (ghost, src))
+
     con.commit()
     return con
 
@@ -159,6 +226,11 @@ def main() -> None:
             "SELECT COUNT(*) FROM notes WHERE note_id NOT IN "
             "(SELECT target_note_id FROM note_links WHERE resolved=1)").fetchone()[0]
         print(f"orphans (no inbound resolved link): {orphan}")
+        bl = con.execute("SELECT COUNT(DISTINCT source_note_id || broken_path) "
+                         "FROM broken_links").fetchone()[0]
+        gh = con.execute("SELECT COUNT(*) FROM ghost_notes").fetchone()[0]
+        print(f"broken links (repair candidate exists): {bl}")
+        print(f"ghost targets (nothing resembles them): {gh}")
     con.close()
 
 

@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # End-to-end check on a tiny committed fixture -- no downloads, no API keys.
-# Verifies: DB build, link resolution, escape detection, hybrid index, and all
-# five retrieval strategies.
+# Verifies: DB build, link resolution, escape detection, hybrid index, all
+# five retrieval strategies, the publication gate, and the note-format /
+# broken-link / ghost-reference gates.
 set -euo pipefail
 cd "$(dirname "$0")/.."
 V=tests/fixture_vault
@@ -25,3 +26,7 @@ python3 scripts/scrub_check.py "$V"
 # skills and docs ship publicly too -- scan them for internal tokens.
 # Omitting this is how internal hostnames reached a public commit.
 python3 scripts/scrub_check.py skills docs --tokens-only
+
+echo
+echo "=== 5. gates: note format, broken links, ghost references ==="
+bash scripts/test_gates.sh

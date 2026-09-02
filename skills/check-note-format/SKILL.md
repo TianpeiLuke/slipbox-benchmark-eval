@@ -52,7 +52,7 @@ PLANS="experiments/plans/$CORPUS"
 
 **Database schema**:
 ```
-notes: note_id (PK, relative path), note_name, note_category, note_second_category,
+notes: note_id (PK, vault-relative path), note_name (filename stem), title, building_block, body, words, source_doc
        note_status, note_creation_date, file_path, tags (JSON), keywords (JSON), topics (JSON)
 
 note_links: source_note_id -> target_note_id, link_context, link_type
@@ -175,10 +175,9 @@ Query the database for term notes whose names match keywords in the note's conte
 ```bash
 sqlite3 "$DB" "
 SELECT note_name, note_id FROM notes
-WHERE note_second_category = 'terminology'
-  AND note_status = 'active'
+WHERE note_name LIKE 'term\_%' ESCAPE '\'
   AND note_name NOT IN (
-    SELECT REPLACE(REPLACE(target_note_id, '$VAULT/', ''), '.md', '')
+    SELECT REPLACE(target_note_id, '.md', '')
     FROM note_links WHERE source_note_id = '<current_note_id>'
   )
 ORDER BY note_name;

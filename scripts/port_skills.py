@@ -286,6 +286,13 @@ REWRITES: list[tuple[str, str]] = [
      r'> **Corollary**: A cohesive series shares a filename prefix rather than a '
      r'subfolder, so that a note id stays equal to its filename.'),
     (r'/slipbox-search-notes <topic>', r'scripts/retrieval.py'),
+    (r'notes: note_id \(PK, relative path\), note_name, note_category, note_second_category,[^\n]*',
+     r'notes: note_id (PK, vault-relative path), note_name (filename stem), title, '
+     r'building_block, body, words, source_doc'),
+    (r"WHERE note_second_category = 'terminology'\n  AND note_status = 'active'",
+     r"WHERE note_name LIKE 'term\_%' ESCAPE '\\'"),
+    (r"REPLACE\(REPLACE\(target_note_id, '\$VAULT/', ''\), '\.md', ''\)",
+     r"REPLACE(target_note_id, '.md', '')"),
     # frontmatter fields that only mean something in the source vault
     (r'^related_skill_headers:\n(?:  - .*\n)+', ""),
     (r'^access_control_group:.*\n', ""),
