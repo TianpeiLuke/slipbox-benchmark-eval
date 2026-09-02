@@ -28,13 +28,26 @@ import sys
 from pathlib import Path
 
 # Patterns that must never appear in a published note.
+# Generic defaults only. Organisation-specific terms (internal hostnames, tool
+# names, project codenames) belong in a LOCAL, GITIGNORED file so that
+# publishing this detector does not itself disclose them:
+#
+#     echo 'internal-hostname\nproject-codename' > .scrub-patterns
+#
+# One regex per line, blank lines and #-comments ignored.
 INTERNAL = [
-    r"\bw\.amazon\b", r"\bquip-amazon\b", r"\bcode\.amazon\b", r"\bsim/issues\b",
-    r"\bamazon\.com/[a-z]", r"\bmidway\b", r"\bbrazil\b", r"\bisengard\b",
-    r"\bbuyer[_ ]abuse\b", r"\babuse[_ ]slipbox\b", r"\bslipbot\b",
-    r"\bathelas\b", r"\bnexustrace\b", r"\btessellum\b", r"\bcursus\b",
-    r"\bmcp__", r"\bSLIPBOX_PACKAGE_DIR\b",
+    r"\b[a-z0-9.-]+\.corp\b", r"\b[a-z0-9.-]+\.internal\b",
+    r"\bintranet\b", r"\bconfidential\b", r"\bproprietary\b",
+    r"\bdo[- ]not[- ]distribute\b",
+    r"\bmcp__", r"_PACKAGE_DIR\b",
+    r"\b(?:AKIA|ASIA)[A-Z0-9]{16}\b",          # access key ids
+    r"\barn:aws:[a-z0-9-]+:", r"\b\d{12}\b",   # cloud arns / account ids
 ]
+
+_LOCAL = Path(__file__).resolve().parent.parent / ".scrub-patterns"
+if _LOCAL.exists():
+    INTERNAL += [ln.strip() for ln in _LOCAL.read_text().splitlines()
+                 if ln.strip() and not ln.startswith("#")]
 
 # Directories that indicate a link escaped into the production vault.
 FOREIGN_DIRS = ["resources/analysis_thoughts", "resources/term_dictionary",

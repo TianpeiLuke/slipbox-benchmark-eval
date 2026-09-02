@@ -10,3 +10,6 @@ figures/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Local, organisation-specific scrub patterns (never published)
+.scrub-patterns
