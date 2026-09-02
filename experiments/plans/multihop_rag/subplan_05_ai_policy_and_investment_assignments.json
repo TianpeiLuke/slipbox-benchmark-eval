@@ -1,0 +1,92 @@
+{
+ "ai_legislation_gap.md": {
+  "doc_0098": [
+   3,
+   4,
+   5,
+   6
+  ]
+ },
+ "ai_market_spending_forecasts.md": {
+  "doc_0161": [
+   25,
+   26,
+   27
+  ]
+ },
+ "ai_pricing_models.md": {
+  "doc_0161": [
+   28,
+   29,
+   30,
+   31
+  ]
+ },
+ "ai_startup_defensibility.md": {
+  "doc_0161": [
+   1,
+   2,
+   3,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   23,
+   24,
+   21,
+   22
+  ],
+  "doc_0011": [
+   24
+  ]
+ },
+ "biden_ai_executive_order.md": {
+  "doc_0098": [
+   0,
+   1,
+   2,
+   16,
+   17
+  ]
+ },
+ "llm_stack_layers.md": {
+  "doc_0161": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   17,
+   18,
+   19,
+   20
+  ]
+ },
+ "reaction_to_biden_ai_order.md": {
+  "doc_0098": [
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15
+  ]
+ },
+ "valor_applied_ai_thesis.md": {
+  "doc_0161": [
+   32,
+   33,
+   34,
+   35,
+   36,
+   37
+  ]
+ }
+}

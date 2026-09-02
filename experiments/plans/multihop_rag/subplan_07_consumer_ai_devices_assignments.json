@@ -1,0 +1,103 @@
+{
+ "alexa_kids_interaction_design.md": {
+  "doc_0188": [
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15
+  ]
+ },
+ "alexa_kids_llm_guardrails.md": {
+  "doc_0188": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   24,
+   25
+  ]
+ },
+ "alexa_kids_privacy_and_hardware.md": {
+  "doc_0188": [
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23
+  ]
+ },
+ "explore_with_alexa.md": {
+  "doc_0188": [
+   0,
+   1,
+   2
+  ]
+ },
+ "keep_labs_cannabis_repositioning.md": {
+  "doc_0230": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ },
+ "keep_labs_device.md": {
+  "doc_0230": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ "keep_labs_enterprise_partnerships.md": {
+  "doc_0230": [
+   20,
+   21,
+   22
+  ]
+ },
+ "keep_labs_funding_and_roadmap.md": {
+  "doc_0230": [
+   32,
+   33,
+   34,
+   35,
+   36
+  ]
+ },
+ "keep_labs_pivot_and_leadership.md": {
+  "doc_0230": [
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19
+  ]
+ },
+ "keep_labs_security_posture.md": {
+  "doc_0230": [
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30
+  ]
+ }
+}

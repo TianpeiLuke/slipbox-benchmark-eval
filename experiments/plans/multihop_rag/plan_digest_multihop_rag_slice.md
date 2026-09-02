@@ -57,12 +57,32 @@ document**.
 40 notes exceeds the 30-note threshold, so this is a master plan with sub-plans.
 The master never duplicates the sub-plan note tables.
 
-| Sub-plan | Documents | Words | Notes | Status |
-|---|---|---|---|---|
-| [Sub-plan 1 — Platform Governance](subplan_1_platform_governance.md) | 8 | 11,696 | 37 | **planned, verified** |
-| [Sub-plan 2 — Startups, Funding and Product](subplan_2_startups_funding_and_product.md) | 9 | 12,695 | 64 | **planned, verified** |
-| [Sub-plan 3 — Policy, Courts and Culture](subplan_3_policy_courts_and_culture.md) | 8 | 11,800 | 33 | **planned, verified** |
+| Sub-plan | Pri | Docs | Words | Notes | Status |
+|---|---|---|---|---|---|
+| [01 FTX Trial and Collapse](subplan_01_ftx_trial.md) | P1 | 3 | 3,569 | 14 | ready |
+| [02 EU Enforcement Against X](subplan_02_eu_x_enforcement.md) | P1 | 3 | 4,114 | 11 | ready |
+| [03 Meta Moderation](subplan_03_meta_moderation.md) | P1 | 2 | 3,905 | 10 | ready |
+| [04 Antitrust and Speech Law](subplan_04_antitrust_and_speech.md) | P1 | 2 | 2,446 | 10 | ready |
+| [05 AI Policy and Investment](subplan_05_ai_policy_and_investment.md) | P2 | 2 | 3,026 | 8 | ready |
+| [06 Fintech Funding and Payments](subplan_06_fintech.md) | P2 | 1 | 1,921 | 11 | ready |
+| [07 Consumer AI and Devices](subplan_07_consumer_ai_devices.md) | P2 | 2 | 2,821 | 10 | ready |
+| [08 Creator Economy and Platform Safety](subplan_08_creator_economy_and_safety.md) | P2 | 3 | 3,929 | 13 | ready |
+| [09 Platform Governance Debate](subplan_09_platform_governance_debate.md) | P2 | 2 | 2,427 | 7 | ready |
+| [10 Global Tech Ecosystems](subplan_10_global_ecosystems.md) | P3 | 2 | 2,861 | 8 | ready |
+| [11 EU CSAM Scanning Proposal](subplan_11_eu_csam.md) | P3 | 1 | 2,496 | 5 | ready |
+| [12 Week in Review Roundup](subplan_12_weekly_review_roundup.md) | P3 | 1 | 1,179 | 12 | ready |
+| [13 Startups Weekly Roundup](subplan_13_startups_weekly_roundup.md) | P3 | 1 | 1,201 | 13 | ready |
 
+**13 sub-plans, 132 notes, every one in the 4–15 range.**
+The skill's rule is that a sub-plan producing more than 15 notes splits further;
+an earlier three-batch structure held 37, 64 and 33 and failed that check.
+
+Each sub-plan is **independently executable** — no sub-plan waits on another.
+Cross-references between them are added after execution, not during.
+
+**Execution order is by priority.** P1 builds the entities that P2 and P3 link
+to (FTX, X, Meta, the DSA, the antitrust cases), so running them first means the
+later batches find real link targets instead of creating ghosts.
 All 25 documents have been read, segmented into paragraph blocks, and assigned
 block by block. **132 distinct notes** across the slice, two of which are
 shared: a later sub-plan extends a note an earlier one owns rather than creating
@@ -234,6 +254,43 @@ Most-linked terms:
 
 Full mapping: `term_links.json`. Surface forms: `terms.json`.
 
+
+## Entry Point Decision
+
+**132 notes → CREATE a dedicated entry point, plus a parent hub link.** The
+threshold is size-driven: under 15 notes update an existing entry point; 15–30
+create one; above 30 with sub-plans, creating one is required.
+
+| | |
+|---|---|
+| Create | `vaults/multihop_rag/entry_multihop_rag.md` |
+| Parent hub | none exists — this vault is new, so this entry point **is** the root and must say so |
+| Building block | `navigation` (indexes rather than asserts, so `FM-004` exempts it) |
+| Written | last, after every note it indexes exists |
+
+Required body sections:
+
+| Section | Contents |
+|---|---|
+| Quick Stats | document count, note count, building-block distribution, link count |
+| Per-section table | one section per sub-plan; one row per note giving title, BB, and the question it answers |
+| Related Entry Points | none yet; state that explicitly rather than omitting the section |
+| References | the corpus, its licence, and the master plan |
+
+Every note links back to the entry point. A note with no inbound link is
+retrievable by name and unreachable by traversal, so it is invisible to the
+graph arm — which is the arm the experiment measures.
+
+## Pacing Rules (shared)
+
+- One sub-plan at a time, in priority order; validate every GATE before the next
+- **Re-read the source block before writing each note** — never from memory
+- Each note under 400 lines; passing 350 while writing means stop and split
+- Quotations verbatim
+- Commit and push after each sub-plan
+- **BB atomicity**: a note that starts mixing building blocks gets split
+- No rush — fan-out multiplies the cost of a wrong method
+
 ## Step 5: Validation Gates
 
 | Gate | Command | Blocking |
@@ -252,9 +309,19 @@ Full mapping: `term_links.json`. Surface forms: `terms.json`.
 
 ## Related Notes
 
-- [Sub-plan 1 — Platform Governance](subplan_1_platform_governance.md): 37 notes, 95.7% coverage
-- [Sub-plan 2 — Startups, Funding and Product](subplan_2_startups_funding_and_product.md): 64 notes, 93.5% coverage
-- [Sub-plan 3 — Policy, Courts and Culture](subplan_3_policy_courts_and_culture.md): 33 notes, 99.3% coverage
+- [01 FTX Trial and Collapse](subplan_01_ftx_trial.md) — P1, 14 notes
+- [02 EU Enforcement Against X](subplan_02_eu_x_enforcement.md) — P1, 11 notes
+- [03 Meta Moderation](subplan_03_meta_moderation.md) — P1, 10 notes
+- [04 Antitrust and Speech Law](subplan_04_antitrust_and_speech.md) — P1, 10 notes
+- [05 AI Policy and Investment](subplan_05_ai_policy_and_investment.md) — P2, 8 notes
+- [06 Fintech Funding and Payments](subplan_06_fintech.md) — P2, 11 notes
+- [07 Consumer AI and Devices](subplan_07_consumer_ai_devices.md) — P2, 10 notes
+- [08 Creator Economy and Platform Safety](subplan_08_creator_economy_and_safety.md) — P2, 13 notes
+- [09 Platform Governance Debate](subplan_09_platform_governance_debate.md) — P2, 7 notes
+- [10 Global Tech Ecosystems](subplan_10_global_ecosystems.md) — P3, 8 notes
+- [11 EU CSAM Scanning Proposal](subplan_11_eu_csam.md) — P3, 5 notes
+- [12 Week in Review Roundup](subplan_12_weekly_review_roundup.md) — P3, 12 notes
+- [13 Startups Weekly Roundup](subplan_13_startups_weekly_roundup.md) — P3, 13 notes
 
 ## References
 

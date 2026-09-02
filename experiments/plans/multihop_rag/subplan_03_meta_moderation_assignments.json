@@ -1,0 +1,118 @@
+{
+ "eu_warnings_to_other_platforms.md": {
+  "doc_0024": [
+   28
+  ],
+  "doc_0335": [
+   20,
+   21
+  ]
+ },
+ "instagram_palestine_suppression.md": {
+  "doc_0106": [
+   2,
+   3,
+   4,
+   6,
+   12,
+   19,
+   20,
+   22,
+   23,
+   28,
+   29,
+   30,
+   31,
+   32,
+   34,
+   35,
+   37,
+   38,
+   39,
+   13,
+   14,
+   27
+  ]
+ },
+ "meta_2021_conflict_moderation.md": {
+  "doc_0106": [
+   46,
+   47,
+   51,
+   55
+  ]
+ },
+ "meta_arabic_mistranslation.md": {
+  "doc_0106": [
+   56,
+   57,
+   58,
+   59
+  ]
+ },
+ "meta_bias_mechanisms.md": {
+  "doc_0106": [
+   8,
+   43,
+   44,
+   45,
+   52,
+   53,
+   54
+  ]
+ },
+ "meta_crisis_response_measures.md": {
+  "doc_0335": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   13,
+   14
+  ]
+ },
+ "meta_enforcement_volume.md": {
+  "doc_0335": [
+   12
+  ]
+ },
+ "meta_moderation_bias.md": {
+  "doc_0106": [
+   1,
+   7,
+   9,
+   41,
+   42,
+   48,
+   49
+  ]
+ },
+ "meta_response_to_suppression_claims.md": {
+  "doc_0106": [
+   5,
+   10,
+   11,
+   17,
+   18,
+   24,
+   25,
+   26,
+   33,
+   36
+  ]
+ },
+ "shadowban_workarounds.md": {
+  "doc_0106": [
+   60,
+   61,
+   62
+  ]
+ }
+}

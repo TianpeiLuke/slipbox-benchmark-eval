@@ -1,0 +1,134 @@
+{
+ "alameda_research.md": {
+  "doc_0010": [
+   5,
+   12
+  ]
+ },
+ "crypto_contagion_after_ftx.md": {
+  "doc_0010": [
+   23
+  ],
+  "doc_0030": [
+   23
+  ]
+ },
+ "ftx.md": {
+  "doc_0010": [
+   1,
+   4,
+   6
+  ],
+  "doc_0030": [
+   15
+  ]
+ },
+ "ftx_bankruptcy_and_leadership.md": {
+  "doc_0010": [
+   19
+  ]
+ },
+ "ftx_collapse_mechanism.md": {
+  "doc_0010": [
+   9,
+   10,
+   11,
+   13,
+   14,
+   15
+  ],
+  "doc_0030": [
+   21
+  ]
+ },
+ "ftx_cooperating_witnesses.md": {
+  "doc_0010": [
+   20,
+   21
+  ]
+ },
+ "ftx_marketing_and_influence.md": {
+  "doc_0010": [
+   7
+  ],
+  "doc_0030": [
+   14,
+   16,
+   17,
+   18,
+   19
+  ]
+ },
+ "reaction_to_lewis_portrayal.md": {
+  "doc_0030": [
+   3,
+   4,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29
+  ]
+ },
+ "sam_bankman_fried.md": {
+  "doc_0010": [
+   2,
+   3,
+   8,
+   16,
+   22
+  ],
+  "doc_0030": [
+   22
+  ]
+ },
+ "sbf_arrest_and_bail.md": {
+  "doc_0010": [
+   17,
+   18
+  ]
+ },
+ "sbf_defense_counsel.md": {
+  "doc_0010": [
+   24,
+   25
+  ]
+ },
+ "sbf_taking_the_stand.md": {
+  "doc_0009": [
+   3,
+   4,
+   5
+  ]
+ },
+ "sbf_trial_proceedings.md": {
+  "doc_0009": [
+   0,
+   1,
+   2,
+   9,
+   10,
+   29
+  ],
+  "doc_0030": [
+   1,
+   2
+  ]
+ },
+ "sbf_trial_testimony.md": {
+  "doc_0009": [
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   25,
+   27,
+   28
+  ]
+ }
+}
