@@ -41,12 +41,16 @@ Convert a **public QA-benchmark document corpus** into the digestion-pipeline in
 ## Setup <!-- :: section_id = setup :: -->
 
 ```bash
-SCRIPTS_DIR="./scripts"
-BENCH_ROOT="./experiments/benchmarks/<benchmark_slug>"     # corpus + questions, kept SEPARATE
-EXP_VAULT="./experiments/vaults/<benchmark_slug>"           # isolated vault, NOT the production vault
+# Paths are LOCAL to this repository — the same layout every other skill and script uses.
+CORPUS="${CORPUS:?set CORPUS, e.g. multihop_rag}"
+VAULT="vaults/$CORPUS"                 # notes for this corpus — its own isolated vault, inside the repo
+DB="$VAULT/notes.db"                   # this corpus's own database
+PLANS="experiments/plans/$CORPUS"      # plans + provenance for this corpus
+CORPUS_DIR="data/corpus/$CORPUS"       # ingestible documents (scripts/prepare_corpus.py output)
+QUESTIONS="data/raw/$CORPUS"           # raw download incl. the gold questions file — QUARANTINED
 ```
 
-**Never point this skill at the production vault.** The experiment vault is a fresh directory with its own database and its own index; the production vault is neither read from nor written to during ingestion.
+**Notes are written only under `vaults/$CORPUS` — inside this repo.** Each corpus gets its own vault, database and index there, and that per-corpus isolation *is* the experiment boundary (see the Isolation section of `README.md`); this repo has no separate "production" vault. A link that escapes `vaults/$CORPUS` is reported as `LN-002` contamination.
 
 ## Resources <!-- :: section_id = resources :: -->
 
@@ -55,16 +59,16 @@ EXP_VAULT="./experiments/vaults/<benchmark_slug>"           # isolated vault, NO
 - **Validator**: `scripts/validate_notes.py` — frontmatter, structure, broken links, ghosts, and the vault-escape check (`--fix` repairs, `--gate` blocks a commit)
 - **Indexers**: `scripts/build_local_db.py` (FTS5 + link graph), `scripts/build_embeddings.py` (dense half)
 - **Retrieval**: `scripts/retrieval.py` — bm25, dense, hybrid, bfs, ppr
-- **Corpus layout**: `<BENCH_ROOT>/corpus/` (documents), `<BENCH_ROOT>/questions/` (**quarantined**), `<BENCH_ROOT>/manifest.json`
+- **Corpus layout**: `data/corpus/$CORPUS/` (documents, from `scripts/prepare_corpus.py`), `data/raw/$CORPUS/` (raw download incl. the **quarantined** questions file), `data/manifest.json` (URLs, licenses, sha256)
 - **Experiment note**: Context-Budget Renormalization
 
 ## Step 0: Pre-flight and the circularity quarantine <!-- :: section_id = step_0_pre_flight :: -->
 
 1. Confirm the benchmark ships a **fixed, ingestible document corpus** — not a live-web or closed-index benchmark. If it does not, stop; this skill does not apply.
-2. Download the benchmark and **immediately separate questions from corpus**: documents under `<BENCH_ROOT>/corpus/`, everything question-shaped (questions, answers, gold passage ids, supporting-fact labels) under `<BENCH_ROOT>/questions/`.
-3. **Declare the quarantine.** For the remainder of ingestion, `<BENCH_ROOT>/questions/` is off limits — do not read it, do not grep it, do not pass its paths to a sub-agent. State this constraint verbatim in every sub-agent contract you dispatch.
+2. Download the benchmark and **keep questions and corpus separate**: `python3 scripts/fetch_benchmarks.py $CORPUS` writes the raw files (incl. the question file) to `data/raw/$CORPUS/`, and `python3 scripts/prepare_corpus.py $CORPUS` writes the ingestible documents to `data/corpus/$CORPUS/` reading the corpus file **only** — so the corpus half an agent sees never contains the questions.
+3. **Declare the quarantine.** For the remainder of ingestion, the gold questions file under `data/raw/$CORPUS/` (e.g. `MultiHopRAG.json`) is off limits — do not read it, do not grep it, do not pass its path to a sub-agent. State this constraint verbatim in every sub-agent contract you dispatch.
 4. Record the corpus baseline before touching it: document count, word-count distribution (median, p10, p90, min, max, **coefficient of variation**), and frontmatter presence. These become the *before* half of the renormalization measurement.
-5. Create the isolated vault and confirm it is empty and separate from production.
+5. Create the corpus vault `vaults/$CORPUS/` and confirm it is empty (a fresh corpus starts with no notes).
 
 ## Step 1: Probe the corpus (agent decision input) <!-- :: section_id = step_1_probe :: -->
 
@@ -110,7 +114,7 @@ Typed notes alone are not the treatment; the graph is. Three things must exist b
 
 ## Step 5: Emit the provenance map <!-- :: section_id = step_5_provenance :: -->
 
-Write `<EXP_VAULT>/provenance.json` mapping each source document to the notes derived from it, and each note back to its source spans. **Without this the evaluation cannot score the note arm at all**, because the benchmark's gold labels reference source documents while retrieval returns notes. Include per-document fan-out and word ratio so the renormalization measurement is reproducible from the artifact.
+Write `$VAULT/provenance.json` mapping each source document to the notes derived from it, and each note back to its source spans. **Without this the evaluation cannot score the note arm at all**, because the benchmark's gold labels reference source documents while retrieval returns notes. Include per-document fan-out and word ratio so the renormalization measurement is reproducible from the artifact.
 
 ## Step 6: Verify the contract and the quarantine <!-- :: section_id = step_6_verify :: -->
 
@@ -166,7 +170,7 @@ caveats: `docs/BUILDING_BLOCKS.md`.
 - [ ] Validators pass with zero errors
 - [ ] Renormalization measurement computed and compared against baseline
 - [ ] Quarantine re-verified and the verification stated in the experiment record
-- [ ] Production vault confirmed untouched
+- [ ] Notes written only under `vaults/$CORPUS`; no link escaped the repo vault
 
 ## Related Entry Point <!-- :: section_id = related_entry_point :: -->
 

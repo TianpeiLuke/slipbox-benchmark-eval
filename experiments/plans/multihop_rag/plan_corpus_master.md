@@ -29,6 +29,18 @@ the pilot sub-plans; this file never duplicates a note table.
 | Term links | **16,394**, every one backed by source |
 | Fan-out | 8.09 notes per document |
 
+## Layout — where data is read and notes are written
+
+| | |
+|---|---|
+| Source documents (read-only) | `data/corpus/multihop_rag/doc_*.txt` + `index.json`, prepared by `scripts/prepare_corpus.py` |
+| Quarantined questions (never read during ingestion) | `data/raw/multihop_rag/MultiHopRAG.json` |
+| Notes (written here) | `vaults/multihop_rag/` — flat, one file per note; the DB uses the vault-relative path as the note id |
+
+Every cluster and sub-plan below names bare `doc_*` ids and bare note filenames;
+they resolve against `data/corpus/multihop_rag/` (load) and `vaults/multihop_rag/`
+(save) respectively — the same paths every script and skill uses.
+
 ## Clusters
 
 | Cluster | Category | Docs | Words | Sub-plans | Notes |
