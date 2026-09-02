@@ -212,6 +212,11 @@ source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this n
 ---
 ```
 
+`navigation` notes — glossaries, entry points, indexes — are **exempt from
+`source_docs`**. They index rather than assert, so there is no document to trace
+them to; their links are their provenance. Every other building block requires
+it.
+
 Both are **enforced**, not conventional. `building_block` is what the retrieval
 arms stratify on. `source_docs` is what makes the note scorable at all: gold
 labels in these benchmarks are passage-level, so a note that cannot name the
@@ -233,28 +238,37 @@ words a coherent unit splits again — at a sub-topic boundary, never at a word
 count. Applying size first merges unrelated subjects that happen to be short,
 producing a note that is retrieved for everything and answers nothing.
 
-### Related Notes — by content relevance, minimum three
+### Related Notes — derived from evidence, minimum three
 
 Every note carries a `## Related Notes` section with **at least three** outbound
 links, each naming **how** the notes relate, not merely that they do.
 
-Find them by searching on the note's own content rather than by recalling what
-you wrote earlier:
+Two ways to find them, and both beat recall:
 
 ```bash
+# already-written notes: search on this note's own content
 python3 scripts/retrieval.py "$VAULT" --query "<the note's opening claim>"     --strategy hybrid --k 8
+
+# planned term notes: derive from the source blocks this note carries
+python3 scripts/build_term_links.py <slug> --plans experiments/plans/<slug> --floor 3
 ```
 
-Keep the results that carry a real relation; discard those that merely share
-vocabulary. A spurious edge is not harmless — the `bfs` and `ppr` arms traverse
-every edge they are given, so a false link actively degrades the arm under test.
-Equally, a note with no inbound link is a graph island: retrievable by name,
-unreachable by traversal. Since the graph IS the treatment being measured, an
-under-linked vault removes the thing the experiment exists to test.
+The second is what makes a per-note term table possible before the vault exists.
+A term links to a note when the term's surface forms appear in **that note's own
+source text**, so relevance is corpus evidence rather than recollection. That is
+the whole difference between a relevancy-ranked mapping and a padded one.
 
-Three is a floor for a connected graph, not a quota to pad to. A genuinely
-peripheral note with two real links is better than one with three where the
-third is invented.
+**The floor is a floor, never a quota.** A spurious edge is not harmless: `bfs`
+and `ppr` traverse every edge they are given, so a false link degrades the arm
+under test as surely as a missing one. Link density has an **optimum, not a
+maximum**. If a floor cannot be met from evidence, the answer is to widen the
+term list or accept the note as peripheral — never to invent an edge. On this
+corpus a floor of 8 would have fabricated 40% of the graph, which is why the
+measured floor is 3.
+
+A note with no inbound link is a graph island: retrievable by name, unreachable
+by traversal. Since the graph IS the treatment being measured, an under-linked
+vault removes the thing the experiment exists to test.
 
 ### Required structure
 

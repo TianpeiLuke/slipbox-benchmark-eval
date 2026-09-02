@@ -72,12 +72,22 @@ Read a **sample of documents, never the whole corpus**, and decide the questions
 
 Record the genre assessment explicitly. Our digestion pipeline was tuned on technical documentation; a genre mismatch is the leading risk to external validity and must be stated in the experiment note, not discovered later.
 
+## Step 1b: Rule precedence — topical coherence governs, density constrains
+
+**Topical coherence decides where a note ends.** One note covers one subject, so that retrieving it returns the whole of one thing rather than part of several. Within that subject, the note carries exactly one building block.
+
+**Density then constrains size; it does not set boundaries.** Past 1,800 source words a coherent unit splits again, at a sub-topic boundary rather than a word count.
+
+Getting the order wrong is not a subtle error in a benchmark corpus. A newsletter roundup runs about 1,200 words, so a size-first rule says "one note" — but that note would hold fifteen unrelated items, and it would be retrieved for everything while answering nothing. The reverse case is a 2,900-word single argument, which coherence alone would keep whole and density correctly splits. **Size is a budget, not a boundary.**
+
 ## Step 2: Pilot one document (mandatory — pilot before full) <!-- :: section_id = step_2_pilot :: -->
 
 Digest **one** document end to end through the full four-phase pipeline. Then inspect the output against three questions before proceeding:
 
 - **Fidelity**: does every substantive claim in the source appear in some note? Read both and check by hand; do not delegate this.
 - **Fan-out and expansion**: how many notes per document, and what is the word ratio? Our measured baseline on technical documentation is 0.7 to 2.7 notes per document at 1.15x words. A ratio far below 1.0 means the pipeline is compressing this genre, which changes what the experiment measures and must be reported.
+
+Fan-out far ABOVE the baseline is not automatically wrong — it is a genre signal. News reporting decomposes into many more, smaller notes than technical documentation does, because a news article is a sequence of atomically small facts (one named witness, one dated filing, one figure) where a documentation section is one large one. Report the ratio and say which it is; do not tune the pipeline to hit a number measured on a different genre.
 - **Type honesty**: are the assigned building-block types the ones a careful reader would assign, or did the pipeline default everything to one type?
 
 If any check fails, fix the plan and re-pilot. **Fan-out multiplies the cost of a wrong method by the corpus size**, so a bad pilot caught here costs one document and caught later costs the whole run.
@@ -93,6 +103,8 @@ Dedup discipline is intrinsic and must not be skipped: a benchmark corpus freque
 Typed notes alone are not the treatment; the graph is. Three things must exist before the vault is usable as an arm:
 
 1. **Typed links** — cross-references between notes, resolved and indexed. Verify with a link-count query, not by inspection; the link extractor only indexes the standard markdown link form, so a non-indexed format yields notes that look linked and are not.
+
+   Derive links from evidence rather than recall: `scripts/build_term_links.py` links a term to a note when the term's surface forms appear in **that note's own source blocks**, and `scripts/retrieval.py --strategy hybrid` finds related content notes. **Set the floor from measurement, not from another vault's number.** Link density has an optimum, not a maximum: `bfs` and `ppr` traverse every edge given, so a fabricated edge degrades the arm under test as surely as a missing one. On a 132-note news vault, an 8-link floor borrowed from a mature technical vault would have invented 40% of the graph; the measured floor was 3.
 2. **Folgezettel trails** — a benchmark corpus has no natural argumentative trail, so do not invent one. Use the corpus's own structure (document, section, entity) as the hierarchy and record that this is a *structural* rather than *dialectic* trail. Verify the prefix-derivable property.
 3. **The index** — full database build plus the retrieval indexes, in the isolated vault.
 

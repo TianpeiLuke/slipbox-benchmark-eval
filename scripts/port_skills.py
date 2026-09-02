@@ -111,6 +111,11 @@ source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this n
 ---
 ```
 
+`navigation` notes — glossaries, entry points, indexes — are **exempt from
+`source_docs`**. They index rather than assert, so there is no document to trace
+them to; their links are their provenance. Every other building block requires
+it.
+
 Both are **enforced**, not conventional. `building_block` is what the retrieval
 arms stratify on. `source_docs` is what makes the note scorable at all: gold
 labels in these benchmarks are passage-level, so a note that cannot name the
@@ -132,29 +137,38 @@ words a coherent unit splits again — at a sub-topic boundary, never at a word
 count. Applying size first merges unrelated subjects that happen to be short,
 producing a note that is retrieved for everything and answers nothing.
 
-### Related Notes — by content relevance, minimum three
+### Related Notes — derived from evidence, minimum three
 
 Every note carries a `## Related Notes` section with **at least three** outbound
 links, each naming **how** the notes relate, not merely that they do.
 
-Find them by searching on the note's own content rather than by recalling what
-you wrote earlier:
+Two ways to find them, and both beat recall:
 
 ```bash
+# already-written notes: search on this note's own content
 python3 scripts/retrieval.py "$VAULT" --query "<the note's opening claim>" \
     --strategy hybrid --k 8
+
+# planned term notes: derive from the source blocks this note carries
+python3 scripts/build_term_links.py <slug> --plans experiments/plans/<slug> --floor 3
 ```
 
-Keep the results that carry a real relation; discard those that merely share
-vocabulary. A spurious edge is not harmless — the `bfs` and `ppr` arms traverse
-every edge they are given, so a false link actively degrades the arm under test.
-Equally, a note with no inbound link is a graph island: retrievable by name,
-unreachable by traversal. Since the graph IS the treatment being measured, an
-under-linked vault removes the thing the experiment exists to test.
+The second is what makes a per-note term table possible before the vault exists.
+A term links to a note when the term's surface forms appear in **that note's own
+source text**, so relevance is corpus evidence rather than recollection. That is
+the whole difference between a relevancy-ranked mapping and a padded one.
 
-Three is a floor for a connected graph, not a quota to pad to. A genuinely
-peripheral note with two real links is better than one with three where the
-third is invented.
+**The floor is a floor, never a quota.** A spurious edge is not harmless: `bfs`
+and `ppr` traverse every edge they are given, so a false link degrades the arm
+under test as surely as a missing one. Link density has an **optimum, not a
+maximum**. If a floor cannot be met from evidence, the answer is to widen the
+term list or accept the note as peripheral — never to invent an edge. On this
+corpus a floor of 8 would have fabricated 40% of the graph, which is why the
+measured floor is 3.
+
+A note with no inbound link is a graph island: retrievable by name, unreachable
+by traversal. Since the graph IS the treatment being measured, an under-linked
+vault removes the thing the experiment exists to test.
 
 ### Required structure
 
@@ -174,10 +188,55 @@ python3 scripts/build_local_db.py "$VAULT" --stats
 The second must report **zero unresolved links**.
 """
 
+
+PLANNING_BLOCK = """## Planning Accounting (this repo)
+
+A plan asserts three things about every note. Here they are **checked by
+script**, because two of them cannot be seen by reading the plan.
+
+```bash
+# per-note source ceiling + per-document coverage
+python3 scripts/plan_coverage.py <slug> --check <assignments>.json --own-docs doc_a,doc_b
+
+# no source block assigned to two notes, across ALL sub-plans at once
+python3 scripts/plan_coverage.py <slug> --crossplan experiments/plans/<slug>/
+
+# per-note term links, derived from each note's own source blocks
+python3 scripts/build_term_links.py <slug> --plans experiments/plans/<slug> --floor 3
+```
+
+**Assignments are block-level.** `--segment` splits a source into paragraph
+blocks; the plan records which blocks each note carries, as JSON beside the
+plan. That file is what makes the numbers reproducible instead of narrated.
+
+**Coverage is measured over documents the plan OWNS.** A note extended by
+another sub-plan brings that sub-plan's documents along; counting them here
+would penalise a plan for correctly reusing a note instead of duplicating one.
+
+**Duplicate source assignment is invisible to coverage.** A block counted twice
+still looks covered, so summing can never find it — only the cross-plan check
+can. It matters because two notes then carry the same claim, retrieval splits
+between them, and the dedup rule that lets one note satisfy several pieces of
+gold evidence is defeated.
+
+**Dropped source must be listed, not just subtracted.** Publisher chrome —
+titles already in the H1, section labels, newsletter promotion, contentless
+reaction, bylines — carries no claim and should go. But the same subtraction
+hides genuine omission, so enumerate what was dropped and inspect it. On this
+corpus that review recovered a block that read as a routine correction notice
+and in fact stated the opposite of its article's headline: a scope condition on
+the central claim, which is precisely the class an unconditioned summariser
+deletes.
+"""
+
 # skills that create or validate notes; link-only skills get neither block
 CONTRACT_SKILLS = {"plan-digestion", "augment-digestion-plan", "review-digestion-plan",
                    "execute-digestion-plan", "validate-note-gates", "check-note-format",
                    "fix-ghost-references"}
+
+# the planning-accounting block goes only to the skills that build or check plans
+PLANNING_SKILLS = {"plan-digestion", "augment-digestion-plan", "review-digestion-plan",
+                   "execute-digestion-plan"}
 
 # (pattern, replacement) applied in order
 REWRITES: list[tuple[str, str]] = [
@@ -365,7 +424,11 @@ FORBIDDEN = [
     r"archives/deep_dive_analysis", r"language: markdown date of note:",
     r"amazon", r"\bmidway\b", r"isengard", r"\bbrazil\b", r"0_entry_points",
     r"resources/digest",
-    r"(?<![a-z])scripts/(?!validate_notes|build_local_db|build_embeddings|retrieval|scrub_check|fetch_benchmarks|port_skills|selftest|output|$| )",
+    # every script that actually exists here; anything else is a source-vault leftover
+    r"(?<![a-z])scripts/(?!validate_notes|build_local_db|build_embeddings|retrieval"
+    r"|scrub_check|fetch_benchmarks|port_skills|selftest|glossary|prepare_corpus"
+    r"|score_retrieval|build_chunk_baseline|select_slice|plan_coverage|mine_terms"
+    r"|build_term_links|rebuild_data|test_gates|output|$| )",
 ]
 
 
@@ -382,6 +445,8 @@ def port(text: str, name: str) -> str:
     if name in CONTRACT_SKILLS:
         anchor = re.search(r'^## (Error Handling|Checklist|Related Entry Point)', text, re.M)
         blocks = NOTE_CONTRACT + "\n" + BB_BLOCK + "\n"
+        if name in PLANNING_SKILLS:
+            blocks += PLANNING_BLOCK + "\n"
         text = (text[:anchor.start()] + blocks + text[anchor.start():]) if anchor \
             else text.rstrip() + "\n\n" + blocks
     banner = (
