@@ -1,0 +1,271 @@
+---
+tags:
+  - resource
+  - skill
+  - procedure
+  - organize
+  - vault-maintenance
+keywords:
+  - check note format
+  - slipbox-check-note-format
+  - in-vault skill canonical
+topics:
+  - Skill Procedures
+  - Vault Tools
+language: markdown
+date of note: 2026-04-28
+status: active
+building_block: procedure
+---
+
+# Procedure: slipbox-check-note-format (Canonical Body)
+
+> **Ported skill.** Adapted from an upstream vault canonical for use in this
+> repository. All paths are local: notes live under `vaults/$CORPUS`, the database
+> is that corpus's own `notes.db`, and plans go to `experiments/plans/`. This skill
+> never reads or writes any vault outside this repo.
+
+This is the **single canonical body** for the `slipbox-check-note-format` skill (FZ 12a). The thin headers under `.claude/skills/slipbox-check-note-format/SKILL.md` and `.kiro/skills/slipbox-check-note-format/SKILL.md` point an invoking agent here for the procedural content; only the format-specific frontmatter + ecosystem-required headers live in those thin shims.
+
+## Skill description <!-- :: section_id = skill_description :: -->
+
+Check if vault notes follow required format standards. Runs automated structural validation (YAML frontmatter, H1/H2 sections, internal links) via check_note_format.py, then adds semantic analysis for single-note checks. Supports single note, type filter, and full vault modes. Optional --fix mode auto-corrects simple issues.
+
+## Setup <!-- :: section_id = setup :: -->
+
+```bash
+# Paths are LOCAL to this repository. Nothing here reads or writes any other vault.
+CORPUS="${CORPUS:?set CORPUS, e.g. musique}"
+VAULT="vaults/$CORPUS"          # notes for this corpus
+DB="$VAULT/notes.db"            # this corpus's own database
+PLANS="experiments/plans/$CORPUS"
+```
+
+## Resources <!-- :: section_id = resources :: -->
+
+- **Hard-line script**: `python3 scripts/validate_notes.py "$VAULT"`
+- **Comprehensive script**: `python3 scripts/validate_notes.py "$VAULT"`
+- **Database**: `$DB` (resolved from config)
+- **Vault root**: `$VAULT` (resolved from config)
+- **YAML standard**: `slipbox/2_design/yaml_frontmatter_standard.md`
+- **Note type designs**: `slipbox/2_design/note_type_*.md`
+
+**Database schema**:
+```
+notes: note_id (PK, relative path), note_name, note_category, note_second_category,
+       note_status, note_creation_date, file_path, tags (JSON), keywords (JSON), topics (JSON)
+
+note_links: source_note_id -> target_note_id, link_context, link_type
+```
+
+## Validation Rules Reference <!-- :: section_id = validation_rules_reference :: -->
+
+### Error Rules (required for database indexing) <!-- :: section_id = error_rules_required_for_database_indexing :: -->
+
+| Rule | Check |
+|------|-------|
+| YAML-001 | YAML frontmatter must exist |
+| YAML-010 | tags field must be present |
+
+### Warning Rules (recommended) <!-- :: section_id = warning_rules_recommended :: -->
+
+| Rule | Check |
+|------|-------|
+| YAML-011-015 | tags type, count, P.A.R.A. convention, lowercase, string type (no integers) |
+| YAML-020-022 | keywords presence, type, count |
+| YAML-030-032 | topics presence, type, count |
+| YAML-040 | language field recommended |
+| YAML-050-051 | date of note presence and YYYY-MM-DD format |
+| YAML-060-061 | status presence and valid value |
+| YAML-062-063 | building_block presence and valid value (concept, model, procedure, empirical_observation, argument, hypothesis, counter_argument, navigation) |
+| YAML-070-081 | Type-specific fields for lit notes and paper sections |
+| YAML-090 | book_title or source_url for digest notes |
+| YAML-100 | No wiki links `[[...]]` in YAML fields |
+| YAML-101 | No markdown links `[...](...)` in YAML fields |
+| LINK-001 | Internal links must have .md extension |
+| LINK-002 | Internal links should use relative paths |
+| LINK-003 | Link target file should exist on disk |
+| LINK-006 | Note should have at least one internal link (no orphans) |
+
+### Info Rules (informational) <!-- :: section_id = info_rules_informational :: -->
+
+H1-001/002 (heading count and prefix), H2-001/002 (required and unrecognized sections), PROSE-001 (mid-paragraph hard-wrapped prose — a prose line ending mid-sentence immediately followed by another prose line; a single newline renders as a space, so keep each paragraph on one logical source line), LINK-004 (Related Terms links), LINK-005 (paper back-links).
+
+## When to Use <!-- :: section_id = when_to_use :: -->
+
+- **After capture/digest skills** — verify output of `/slipbox-capture-term-note`, `/slipbox-capture-model-note`, `/slipbox-digest-paper`, etc.
+- **Weekly vault health check** — run `--all --summary` to catch drift across the vault
+- **Before git push** — spot-check recently modified notes
+- **When a user asks** "does this note follow the format?" or "check my note format"
+- **After batch changes** — e.g., after building_block backfill, tag renames, or decomposition campaigns
+
+## When NOT to Use <!-- :: section_id = when_not_to_use :: -->
+
+- For broken link repair — use `/slipbox-fix-broken-links`
+- For atomicity/size analysis — use `/slipbox-detect-atomicity-drift`
+- For content quality or semantic relevance — use `/slipbox-analyze-term-relevance`
+- For ghost note resolution — use `/slipbox-resolve-ghost-term-matches`
+
+## Step 1: Parse Arguments and Select Mode <!-- :: section_id = step_1_parse_arguments_and_select_mode :: -->
+
+Parse `$ARGUMENTS` to determine invocation mode:
+
+| Input Pattern | Mode | Action |
+|---------------|------|--------|
+| `<note_name>` | Single-note | Deep check with semantic analysis |
+| `--type <subcategory>` | Type filter | Batch check all notes of one type |
+| `--all` | Full vault | Vault-wide health report |
+| `--fix` | Fix mode | Auto-correct simple issues (combine with any above) |
+| No arguments | Help | Show usage instructions |
+
+## Step 2: Run Hard-Line YAML Check First <!-- :: section_id = step_2_run_hard_line_yaml_check_first :: -->
+
+Always run the strict YAML validator first. This catches MUST-FIX issues (missing `---`, missing required fields, links in YAML, non-string tags):
+
+```bash
+# Single file
+python3 scripts/validate_notes.py "$VAULT"
+
+# Full vault (summary)
+python3 scripts/validate_notes.py "$VAULT"
+
+# Specific directory
+python3 scripts/validate_notes.py "$VAULT"
+```
+
+If hard-line errors exist, fix them BEFORE proceeding to Step 3.
+
+## Step 3: Run Comprehensive Format Check <!-- :: section_id = step_3_run_comprehensive_format_check :: -->
+
+Run the full format checker for structural validation (YAML warnings, H1/H2, links):
+
+```bash
+# Single note
+python3 scripts/validate_notes.py "$VAULT"
+
+# Type filter
+python3 scripts/validate_notes.py "$VAULT"
+
+# Full vault summary
+python3 scripts/validate_notes.py "$VAULT"
+
+# Full vault with JSON details
+python3 scripts/validate_notes.py "$VAULT"
+
+# Filter by severity
+python3 scripts/validate_notes.py "$VAULT"
+```
+
+Parse the JSON output and present results in a structured table.
+
+## Step 4: Semantic Analysis (single-note mode only) <!-- :: section_id = step_4_semantic_analysis_single_note_mode_only :: -->
+
+For single-note checks, go beyond structural validation:
+
+### 4a. Related Terms Quality <!-- :: section_id = 4a_related_terms_quality :: -->
+
+Read the note's Related Terms section. For each linked term:
+- Verify the term note exists and is not a stub
+- Check if the linked term is semantically relevant to the note's content
+
+### 4b. Missing Link Detection <!-- :: section_id = 4b_missing_link_detection :: -->
+
+Query the database for term notes whose names match keywords in the note's content but are not currently linked:
+
+```bash
+sqlite3 "$DB" "
+SELECT note_name, note_id FROM notes
+WHERE note_second_category = 'terminology'
+  AND note_status = 'active'
+  AND note_name NOT IN (
+    SELECT REPLACE(REPLACE(target_note_id, '$VAULT/', ''), '.md', '')
+    FROM note_links WHERE source_note_id = '<current_note_id>'
+  )
+ORDER BY note_name;
+"
+```
+
+Search the note content for matches against these term names. Report potential missing links. This also helps address LINK-006 (orphan notes).
+
+### 4c. YAML Field Quality <!-- :: section_id = 4c_yaml_field_quality :: -->
+
+Assess whether:
+- keywords actually appear in or relate to the note content
+- topics accurately categorize the note
+- tags follow the P.A.R.A. convention (first tag = category type)
+
+## Step 5: Fix Mode (--fix) <!-- :: section_id = step_5_fix_mode_fix :: -->
+
+When `--fix` is specified, auto-correct issues with confirmation before applying.
+
+### Hard-Line Fixes (from check_yaml_frontmatter.py) <!-- :: section_id = hard_line_fixes_from_check_yaml_frontmatter_py :: -->
+
+| Issue | Auto-Fix |
+|-------|----------|
+| Missing opening `---` | Prepend `---\n` to file |
+| Missing `date of note` | Add `date of note: YYYY-MM-DD` (today) |
+| Missing `status` | Add `status: active` |
+| Missing `building_block` | Identify from content: concept (definitions), procedure (how-tos/SOPs), model (system descriptions), empirical_observation (data/experiments), argument (claims with evidence), hypothesis (testable predictions), counter_argument (critiques), navigation (entry points/indexes) |
+| Missing `keywords` | Add `keywords:\n  - <note_name>` (itemized list with note name as first keyword) |
+| Missing `topics` | Add `topics:\n  - <inferred_topic>` (itemized list with inferred topic) |
+| Tags not strings (integers) | Wrap in quotes: `2026` → `"2026"` |
+| Wiki links in YAML | Remove `[[` and `]]` wrappers, keep path |
+
+### Soft Fixes (from check_note_format.py) <!-- :: section_id = soft_fixes_from_check_note_format_py :: -->
+
+| Issue | Auto-Fix |
+|-------|----------|
+| YAML-040: Missing language | Add `language: markdown` |
+| YAML-015: Tags not lowercase | Convert to lowercase with underscores |
+| LINK-001: Missing .md extension | Append .md to internal link targets |
+
+### Fix Process <!-- :: section_id = fix_process :: -->
+1. Run hard-line check first → collect fixable issues
+2. Show summary table of proposed changes
+3. Wait for user confirmation
+4. Apply fixes with Edit tool
+5. Re-run both validators to verify
+
+Do NOT auto-fix: missing tags (human judgment), H2 issues (structural), LINK-003 (use /slipbox-fix-broken-links), LINK-006 (use /slipbox-add-inlinks).
+
+## Step 6: Report Results <!-- :: section_id = step_6_report_results :: -->
+
+### Single-note format <!-- :: section_id = single_note_format :: -->
+
+Present a structured report with:
+- Type, category, and status header
+- Structural validation table (severity, rule ID, message)
+- Result summary (error/warning/info counts)
+- Semantic analysis findings (Related Terms quality, potential missing links, YAML quality)
+- Specific recommendations
+
+### Batch/vault format <!-- :: section_id = batch_vault_format :: -->
+
+Present the summary table from the script output, then highlight:
+- Note types with highest warning counts
+- Most common issues across the vault
+- Orphan notes (LINK-006) by type with suggested remediation
+- Specific notes needing attention
+
+## Cross-References <!-- :: section_id = cross_references :: -->
+
+- `/slipbox-detect-atomicity-drift` — complementary (size vs format)
+- `/slipbox-check-broken-links` — overlaps on LINK-003 (but this skill has broader scope)
+- `/slipbox-fix-broken-links` — run after this skill to fix LINK-003 path issues
+- `/slipbox-analyze-term-relevance` — deeper link analysis for Step 3b
+- `/slipbox-capture-term-note` — run after to verify output; also for orphan term stubs
+- `/slipbox-digest-paper` — run after to verify output
+
+## Error Handling <!-- :: section_id = error_handling :: -->
+
+| Error | Cause | Recovery |
+|-------|-------|----------|
+| Script not found | check_note_format.py missing | Verify scripts/ directory and run from repo root |
+| Note not found | Invalid name or path | Script lists fuzzy matches; try with full relative path |
+| YAML parse failure | Malformed frontmatter | Reported as YAML-002 error; manual fix required |
+| Database unavailable | DB not built or path wrong | Run `/slipbox-run-full-database-rebuild` first |
+| Fix mode conflict | Edit fails on ambiguous string | Use more specific old_string context for Edit tool |
+
+## Related Entry Point <!-- :: section_id = related_entry_point :: -->
+
+- Skill Catalog — full vault skill index, organized by C.O.D.E. stage; this skill's row in the catalog has a back-link to this canonical body

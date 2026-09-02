@@ -52,8 +52,9 @@ EXP_VAULT="./experiments/vaults/<benchmark_slug>"           # isolated vault, NO
 
 - **Downstream pipeline**: `/slipbox-plan-digestion` then `/slipbox-augment-digestion-plan` then `/slipbox-review-digestion-plan` then `/slipbox-execute-digestion-plan` — used unchanged
 - **Sibling adapter**: skill_slipbox_ingest_book — the same input contract, for PDFs
-- **Validators**: `scripts/check_note_format.py`, `scripts/check_yaml_frontmatter.py`, `scripts/fz_fix_numbering.py`
-- **Indexers**: `scripts/build_notes_database.py`, `scripts/update_notes_database.sh`
+- **Validator**: `scripts/validate_notes.py` — frontmatter, structure, broken links, ghosts, and the vault-escape check (`--fix` repairs, `--gate` blocks a commit)
+- **Indexers**: `scripts/build_local_db.py` (FTS5 + link graph), `scripts/build_embeddings.py` (dense half)
+- **Retrieval**: `scripts/retrieval.py` — bm25, dense, hybrid, bfs, ppr
 - **Corpus layout**: `<BENCH_ROOT>/corpus/` (documents), `<BENCH_ROOT>/questions/` (**quarantined**), `<BENCH_ROOT>/manifest.json`
 - **Experiment note**: Context-Budget Renormalization
 
