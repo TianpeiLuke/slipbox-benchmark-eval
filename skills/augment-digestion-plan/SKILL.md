@@ -1013,7 +1013,17 @@ python3 scripts/plan_coverage.py <slug> --crossplan experiments/plans/<slug>/
 
 # per-note term links, derived from each note's own source blocks
 python3 scripts/build_term_links.py <slug> --plans experiments/plans/<slug> --floor 3
+
+# audit an existing mapping: every link must be backed by source
+python3 scripts/build_term_links.py <slug> --plans experiments/plans/<slug> \
+    --verify experiments/plans/<slug>/term_links.json
 ```
+
+**A link the source does not support is a fabricated edge, and it is not inert.**
+`bfs` and `ppr` traverse every edge given, so it moves probability mass onto a
+note the evidence never connected — degrading the arm the experiment exists to
+measure, and showing up later only as a retrieval number that looks
+disappointing for no visible reason. `--verify` blocks it at plan time instead.
 
 **Assignments are block-level.** `--segment` splits a source into paragraph
 blocks; the plan records which blocks each note carries, as JSON beside the

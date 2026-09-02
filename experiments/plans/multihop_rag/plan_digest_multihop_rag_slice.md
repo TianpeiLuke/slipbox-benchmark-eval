@@ -247,6 +247,7 @@ Full mapping: `term_links.json`. Surface forms: `terms.json`.
 | G7 coverage | `python3 scripts/plan_coverage.py <slug> --check <assignments>` — every block assigned or explicitly dropped | yes |
 | G8 ceiling | same command: no note over 1,800 source words | yes |
 | G9 links | every note has ≥3 `Related Notes` by content relevance | yes |
+| G11 no fabricated edges | `python3 scripts/build_term_links.py <slug> --plans experiments/plans/<slug> --verify <term_links>.json` — every link backed by an occurrence in that note's own source | yes |
 | G10 no duplicate source | `python3 scripts/plan_coverage.py <slug> --crossplan experiments/plans/<slug>/` — no source block assigned to two notes | yes |
 
 ## Related Notes

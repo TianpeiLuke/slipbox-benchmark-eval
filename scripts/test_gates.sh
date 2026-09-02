@@ -78,6 +78,19 @@ ck "moved link rewritten to the real path" "[Moved](target_note.md)" "$(cat "$V/
 ck "ghost left alone (needs a decision)"   "no_such_thing_anywhere.md" "$(cat "$V/good.md")"
 
 echo
+echo "=== fabricated-edge guard (term links must be backed by source) ==="
+if [ -f experiments/plans/multihop_rag/term_links.json ]; then
+  out=$(python3 scripts/build_term_links.py multihop_rag \
+          --plans experiments/plans/multihop_rag \
+          --verify experiments/plans/multihop_rag/term_links.json 2>&1)
+  if grep -q "every link is backed" <<<"$out"
+  then echo "  ok    $(grep 'backed by source' <<<"$out" | tr -s ' ')"
+  else echo "  FAIL  unbacked term links present"; echo "$out" | sed 's/^/        /'; fails=$((fails+1)); fi
+else
+  echo "  skip  no term_links.json yet"
+fi
+
+echo
 rm -rf "$(dirname "$V")"
 if [ "$fails" -eq 0 ]; then echo "GATES PASS — format, broken links and ghosts all fire"; exit 0
 else echo "GATES FAIL — $fails check(s) failed"; exit 1; fi

@@ -23,6 +23,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 from collections import defaultdict
 from pathlib import Path
 
@@ -40,6 +41,10 @@ def main() -> None:
     ap.add_argument("--plans", required=True)
     ap.add_argument("--floor", type=int, default=8)
     ap.add_argument("--out")
+    ap.add_argument("--verify", metavar="TERM_LINKS_JSON",
+                    help="audit an existing mapping: every link must be backed by an "
+                         "occurrence of the term in that note's own source blocks. Exits "
+                         "non-zero on any unbacked link.")
     a = ap.parse_args()
 
     P = Path(a.plans)
@@ -65,6 +70,34 @@ def main() -> None:
             mapping[note] = hits
             for t, _ in hits:
                 term_use[t] += 1
+
+    if a.verify:
+        # A link nothing in the source supports is a fabricated edge. It is not
+        # inert: bfs and ppr traverse every edge given, so it moves probability
+        # mass onto a note the evidence never connected, degrading the arm the
+        # experiment exists to measure. Cheaper to block than to detect later in
+        # a retrieval number that merely looks disappointing.
+        claimed = json.loads(Path(a.verify).read_text())
+        backed = {n: {t for t, _ in v} for n, v in mapping.items()}
+        bad = []
+        for note, ts in claimed.items():
+            if note not in backed:
+                bad.append((note, "<not in any assignment>"))
+                continue
+            bad += [(note, t) for t in ts if t not in backed[note]]
+        total = sum(len(v) for v in claimed.values())
+        print(f"links claimed   {total}")
+        print(f"backed by source {total - len(bad)}")
+        print(f"UNBACKED         {len(bad)}")
+        for note, t in bad[:20]:
+            print(f"  {note} -> {t}")
+        if bad:
+            print("\nA link the source does not support is a fabricated edge. Remove it, "
+                  "or add the term's real surface form to terms.json if the match was "
+                  "missed. Never keep it to reach a floor.")
+            sys.exit(1)
+        print("\nevery link is backed by an occurrence in that note's own source")
+        return
 
     short = {n: len(v) for n, v in mapping.items() if len(v) < a.floor}
     print(f"notes            {len(mapping)}")
