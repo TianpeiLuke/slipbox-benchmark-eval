@@ -13,6 +13,7 @@ Las Vegas then set about running clock. The Raiders started at the 25 with 11:58
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): tracks the Raiders and Jets in the same wild-card picture, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): also discusses Garrett Wilson, from a different document.
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): also discusses Las Vegas, from a different document.
@@ -21,6 +22,8 @@ Las Vegas then set about running clock. The Raiders started at the 25 with 11:58
 - [Jets and Raiders Week 10 Season Implications](jets_and_raiders_week_10_season_implications.md): what the win meant for both teams, from the same document.
 - [Jets Final Drive and Spillane Interception](jets_final_drive_and_spillane_interception.md): how the Jets' comeback attempt ended, from the same document.
 - [Jets Raiders Broadcast and Kickoff Details](jets_raiders_broadcast_and_kickoff_details.md): the broadcast details for this game, from the same document.
+- [Jets-Raiders First Quarter Field Goals And Interception](jets_raiders_first_quarter_field_goals_and_interception.md): same source document (doc_0439)
+- [Jets-Raiders Second Quarter Scoring](jets_raiders_second_quarter_scoring.md): same source document (doc_0439)
 
 ## Source
 

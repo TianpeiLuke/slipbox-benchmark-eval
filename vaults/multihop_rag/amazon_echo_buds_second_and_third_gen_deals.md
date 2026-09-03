@@ -11,12 +11,19 @@ The 2021 edition of the Echo Buds is a great value: Amazon's second-generation t
 
 ## Related Notes
 
+
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): also concerns the Amazon Echo Buds, from a different source document.
 - [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): overlapping coverage of Echo devices, Alexa and all-time low prices, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): overlapping coverage of Echo devices, Alexa and all-time low prices, from a different source document.
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): also concerns the Amazon Echo Buds, from a different source document.
 - [Anker Soundcore Space A40 Earbuds](anker_soundcore_space_a40_earbuds.md): shares the battery-technology and noise-cancelling themes, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0369).
+- [Apple AirPods Second-Gen, Third-Gen And AirPods Max Deals](apple_airpods_second_third_gen_and_airpods_max_deals.md): same source document (doc_0369)
+- [Beats Fit Pro Deal Listings](beats_fit_pro_deal_listings.md): same source document (doc_0369)
+- [Beats Studio Pro Deal Listings](beats_studio_pro_deal_listings.md): same source document (doc_0369)
+- [Bose QuietComfort Headphone And Earbud Deals](bose_quietcomfort_headphone_and_earbud_deals.md): same source document (doc_0369)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
 
 ## Source
 

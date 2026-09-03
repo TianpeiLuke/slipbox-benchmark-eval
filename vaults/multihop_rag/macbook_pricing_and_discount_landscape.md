@@ -13,11 +13,17 @@ One boundary case is explicitly excluded. The Verge does not recommend buying an
 
 ## Related Notes
 
+
 - [Anti-Prime Big Deal Day Competing Sales](anti_prime_big_deal_day_competing_sales.md): overlaps on discounting patterns across retailers, from a different source document.
 - [Apple M3 Mac Reviews and Chip Lineup](apple_m3_mac_reviews_and_chip_lineup.md): overlaps on the MacBook and chip lineup, from a different source document.
 - [Apple MacBook Air 15-Inch M2](apple_macbook_air_15_inch_m2.md): overlaps on discounted MacBook models, from a different source document.
 - [Beeper Mini, an iMessage Client for Android](beeper_mini_imessage_client_for_android.md): also mentions the Mac Mini, from a different source document.
 - [Mac Mini M2 Holiday Deal](mac_mini_m2_holiday_deal.md): also concerns Mac Mini pricing, from a different source document.
+- [Mac Mini M2 Deals](mac_mini_m2_deals.md): same source document (doc_0351)
+- [MacBook Air M1 And M2 Deals](macbook_air_m1_and_m2_deals.md): same source document (doc_0351)
+- [MacBook Pro M2 And M1 Generation Deals](macbook_pro_m2_and_m1_generation_deals.md): same source document (doc_0351)
+- [MacBook Pro M3 Generation Deals](macbook_pro_m3_generation_deals.md): same source document (doc_0351)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

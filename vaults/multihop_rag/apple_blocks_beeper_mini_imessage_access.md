@@ -13,11 +13,19 @@ Apple had not yet gotten in touch directly with Beeper, having only released a s
 
 ## Related Notes
 
+
 - [Beeper Company Background And Founders](beeper_company_background_and_founders.md): overlapping coverage of Beeper and its iMessage work, from a different source document.
 - [Beeper Funding And Investors](beeper_funding_and_investors.md): overlapping coverage of Beeper, from a different source document.
 - [Beeper Mini Encryption And Audit Status](beeper_mini_encryption_and_audit_status.md): also concerns Beeper Mini's security claims, from a different source document.
 - [Beeper Mini Hands-On Test Results](beeper_mini_hands_on_test_results.md): also concerns Beeper Mini in use, from a different source document.
 - [Beeper Product Lineup, Pricing And Availability](beeper_product_lineup_pricing_and_availability.md): also concerns Beeper Mini's pricing and availability, from a different source document.
+- [Beeper Mini As An iMessage Client For Android](beeper_mini_imessage_client_for_android.md): same source document (doc_0402)
+- [Beeper Mini's Service Restoration And Apple ID Workaround](beeper_mini_service_restoration_and_apple_id_workaround.md): same source document (doc_0402)
+- [Beeper's Security Audit Challenge To Apple](beeper_security_audit_challenge_to_apple.md): same source document (doc_0402)
+- [Elizabeth Warren's Criticism Of Apple Blocking Beeper](elizabeth_warren_criticism_of_apple_blocking_beeper.md): same source document (doc_0402)
+- [Bot Detection](term_bot_detection.md): uses the concept bot detection
+- [Encryption at Rest](term_encryption_at_rest.md): uses the concept encryption at rest
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

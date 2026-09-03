@@ -13,6 +13,7 @@ On fight night, Holyfield, unlike the vast majority of Tyson's opponents, came t
 
 ## Related Notes
 
+
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): also concerns Las Vegas.
 - [Britney Spears Jason Alexander 55 Hour Marriage](britney_spears_jason_alexander_55_hour_marriage.md): also concerns Las Vegas.
 - [Britney Spears Memoir Body Scrutiny and Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): also concerns Las Vegas.
@@ -21,6 +22,8 @@ On fight night, Holyfield, unlike the vast majority of Tyson's opponents, came t
 - [Corrales vs Castillo 2005 Lightweight Classic](corrales_vs_castillo_2005_lightweight_classic.md): another of the five greatest Showtime fights, same source document.
 - [Duran vs Barkley 1989 WBC Middleweight Upset](duran_vs_barkley_1989_wbc_middleweight_upset.md): another of the five greatest Showtime fights, same source document.
 - [Hagler vs Mugabi 1986 Showtime Debut Fight](hagler_vs_mugabi_1986_showtime_debut_fight.md): another of the five greatest Showtime fights, same source document.
+- [Showtime Championship Boxing Ends After 37 Years With A December 2023 Finale](showtime_championship_boxing_series_ends_2023.md): same source document (doc_0273)
+- [Vazquez SD 12 Marquez III: The Best Of The Most Exciting Modern Trilogy](vazquez_vs_marquez_iii_2008_super_bantamweight_trilogy.md): same source document (doc_0273)
 
 ## Source
 

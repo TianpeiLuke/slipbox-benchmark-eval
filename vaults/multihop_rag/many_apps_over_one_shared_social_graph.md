@@ -11,6 +11,7 @@ The grounds are the absurdity of the current arrangement: it doesn't make sense 
 
 ## Related Notes
 
+
 - [Travis Kelce's Relationship And Eras Tour Film Publicity](travis_kelce_relationship_and_eras_tour_film_publicity.md): overlapping phrasing about having a dozen of something, from a different source document.
 - [ActivityPub And Rival Social Protocols](activitypub_and_rival_social_protocols.md): drawn from the same source document (doc_0508).
 - [The ActivityPub Data Model Of Senders, Messages And Inboxes](activitypub_data_model_of_senders_messages_and_inboxes.md): drawn from the same source document (doc_0508).
@@ -19,6 +20,8 @@ The grounds are the absurdity of the current arrangement: it doesn't make sense 
 - [Decentralization As A Free Market, Not An Anti-Capitalist Project](decentralization_as_a_free_market_not_an_anti_capitalist_project.md): drawn from the same source document (doc_0508).
 - [Early Fediverse Messiness As A Product Opportunity](early_fediverse_messiness_as_a_product_opportunity.md): drawn from the same source document (doc_0508).
 - [Federation Alone Is Not A Product Advantage](federation_alone_is_not_a_product_advantage.md): drawn from the same source document (doc_0508).
+- [The Fediverse Definition And The Email Analogy](fediverse_definition_and_the_email_analogy.md): same source document (doc_0508)
+- [Jack Dorsey On Twitter As A Protocol And The Origins Of Bluesky](jack_dorsey_on_twitter_as_a_protocol_and_the_origins_of_bluesky.md): same source document (doc_0508)
 
 ## Source
 

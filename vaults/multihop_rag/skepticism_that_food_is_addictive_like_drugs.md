@@ -13,6 +13,7 @@ In place of an addiction model she offers a multi-causal account of cravings. "F
 
 ## Related Notes
 
+
 - [Circadian Clock Realignment through Meal Timing](circadian_clock_realignment_through_meal_timing.md): overlapping vocabulary on food, feeding, habits, from a different source document.
 - [Case for Classifying Ultra Processed Foods as Addictive](case_for_classifying_ultra_processed_foods_as_addictive.md): drawn from the same source document (doc_0467).
 - [Dopamine Reward Tolerance and Compulsive Consumption](dopamine_reward_tolerance_and_compulsive_consumption.md): drawn from the same source document (doc_0467).
@@ -21,6 +22,7 @@ In place of an addiction model she offers a multi-causal account of cravings. "F
 - [Managing Disordered Eating and Food Cravings](managing_disordered_eating_and_food_cravings.md): drawn from the same source document (doc_0467).
 - [Ultra Processed Foods Definition and Addictive Properties](ultra_processed_foods_definition_and_addictive_properties.md): drawn from the same source document (doc_0467).
 - [University of Michigan Ultra Processed Food Addiction Review](university_of_michigan_ultra_processed_food_addiction_review.md): drawn from the same source document (doc_0467).
+- [Warning Signs Of Food Addiction](warning_signs_of_food_addiction.md): same source document (doc_0467)
 
 ## Source
 

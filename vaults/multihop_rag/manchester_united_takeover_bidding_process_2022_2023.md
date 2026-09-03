@@ -13,11 +13,17 @@ It had initially been hoped the process would conclude in time for the summer tr
 
 ## Related Notes
 
+
 - [Cole Palmer Chelsea Performance vs Blackburn](cole_palmer_chelsea_performance_vs_blackburn.md): also concerns Todd Boehly, from a different document.
 - [Erik Ten Hag Position After Champions League Exit](erik_ten_hag_position_after_champions_league_exit.md): also concerns Sir Jim Ratcliffe, from a different document.
 - [Erik Ten Hag Position Under Ratcliffe](erik_ten_hag_position_under_ratcliffe.md): also concerns Sir Jim Ratcliffe, from a different document.
 - [Fulham Form and League Position November 2023](fulham_form_and_league_position_november_2023.md): also refers to the Red Devils, from a different document.
 - [Glazer Communications Silence and Ratcliffe PR Task](glazer_communications_silence_and_ratcliffe_pr_task.md): overlaps on the Glazers, Ratcliffe and United, from a different document.
+- [Glazer Family Control Of Manchester United](glazer_family_control_of_manchester_united.md): same source document (doc_0366)
+- [The INEOS Plan For Manchester United's Football Operations](ineos_plan_for_manchester_united_football_operations.md): same source document (doc_0366)
+- [Jim Ratcliffe's Twenty-Five Per Cent Stake Agreement](jim_ratcliffe_twenty_five_percent_stake_agreement.md): same source document (doc_0366)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Transfer Window](term_transfer_window.md): uses the concept transfer window
 
 ## Source
 

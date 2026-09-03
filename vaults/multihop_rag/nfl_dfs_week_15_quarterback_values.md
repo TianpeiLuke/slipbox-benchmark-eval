@@ -11,11 +11,20 @@ The column noted it usually does not feature players with salaries higher than $
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also covers Brock Purdy, from a different document.
 - [49ers Rout Cowboys, Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also covers Brock Purdy, from a different document.
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also concerns Green Bay, from a different document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers Joe Flacco, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also covers Derek Carr, from a different document.
+- [The DFS Sleeper And Value Lineup Construction Method](dfs_sleeper_and_value_lineup_construction_method.md): same source document (doc_0544)
+- [NFL DFS Week 15 Defense And Special Teams Values](nfl_dfs_week_15_defense_special_teams_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Running Back Values](nfl_dfs_week_15_running_back_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Tight End Values](nfl_dfs_week_15_tight_end_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Wide Receiver Values](nfl_dfs_week_15_wide_receiver_values.md): same source document (doc_0544)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

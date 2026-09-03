@@ -13,11 +13,18 @@ The counterweight is the recent history of this fixture and what the game means 
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): covers where Alabama and the Texas programs ended up at season's end, from a different document.
 - [Alabama's 2023 CFP Case And The SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): covers the Tide's later playoff case built on this SEC run, from a different document.
 - [Alabama's 2023 Strength Of Schedule And Record Metrics](alabama_2023_strength_of_schedule_and_record_metrics.md): measures the same Alabama season, from a different document.
 - [Alabama CFP Head-To-Head Debates: Texas And Florida State](alabama_cfp_head_to_head_debates_texas_florida_state.md): weighs the same Tide résumé later in the year, from a different document.
 - [Alabama's CFP-Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also covers Alabama's path through the SEC, from a different document.
+- [The College Football Week 6 2023 Ranked Matchup Slate](college_football_week6_2023_ranked_matchup_slate.md): same source document (doc_0259)
+- [The Remaining College Football Week 6 2023 Betting Lines](college_football_week6_2023_remaining_betting_lines.md): same source document (doc_0259)
+- [Kentucky At Georgia: The 2023 Week 6 Betting Line](kentucky_at_georgia_2023_week6_betting_line.md): same source document (doc_0259)
+- [LSU At Missouri: The 2023 Week 6 Betting Line](lsu_at_missouri_2023_week6_betting_line.md): same source document (doc_0259)
+- [Notre Dame At Louisville: The 2023 Week 6 Betting Line](notre_dame_at_louisville_2023_week6_betting_line.md): same source document (doc_0259)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

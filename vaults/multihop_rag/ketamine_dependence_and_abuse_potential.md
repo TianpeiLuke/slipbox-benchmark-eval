@@ -15,6 +15,7 @@ Dr. Sandhya Prashad, president of the American Society Of Ketamine Physicians, P
 
 ## Related Notes
 
+
 - [University of Michigan Ultra Processed Food Addiction Review](university_of_michigan_ultra_processed_food_addiction_review.md): overlapping vocabulary on addiction, craving, substance, from a different source document.
 - [Warning Signs of Food Addiction](warning_signs_of_food_addiction.md): overlapping vocabulary on addiction, withdrawal, craving, from a different source document.
 - [Adulterated Street Ketamine Risks](adulterated_street_ketamine_risks.md): drawn from the same source document (doc_0390).
@@ -23,6 +24,8 @@ Dr. Sandhya Prashad, president of the American Society Of Ketamine Physicians, P
 - [Ketamine as Anesthetic and Dissociative Drug](ketamine_as_anesthetic_and_dissociative_drug.md): drawn from the same source document (doc_0390).
 - [Ketamine FDA Approval History and Approved Uses](ketamine_fda_approval_history_and_approved_uses.md): drawn from the same source document (doc_0390).
 - [Matthew Perry Death from Acute Ketamine Effects](matthew_perry_death_from_acute_ketamine_effects.md): drawn from the same source document (doc_0390).
+- [Obtaining Ketamine Only Through A Licensed Prescriber](obtaining_ketamine_only_through_a_licensed_prescriber.md): same source document (doc_0390)
+- [Why Small Self-Administered Ketamine Doses Are Not Safer](risks_of_intranasal_and_micro_dosed_ketamine.md): same source document (doc_0390)
 
 ## Source
 

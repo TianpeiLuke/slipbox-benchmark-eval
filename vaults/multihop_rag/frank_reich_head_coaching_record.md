@@ -13,11 +13,16 @@ Reich made the postseason in two of his first three seasons with the Colts, and 
 
 ## Related Notes
 
+
 - [Anthony Richardson Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): overlaps on the Colts' quarterback situation in Indianapolis, from a different document.
 - [Buccaneers 21-18 Panthers: Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): overlaps on Panthers records across seasons, from a different document.
 - [Buffalo Bills AFC Wild Card Position Week 16](buffalo_bills_afc_wild_card_position_week_16.md): overlaps on the Colts and postseason positioning, from a different document.
 - [Chargers Fire Brandon Staley and Tom Telesco](chargers_fire_brandon_staley_and_tom_telesco.md): shares the coaching-change and playoff-seeding themes, from a different document.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): shares the coaching-change and playoff-seeding themes, from a different document.
+- [Frank Reich's Hot Seat Under David Tepper](frank_reich_hot_seat_under_david_tepper.md): same source document (doc_0474)
+- [Panthers Offense Struggles Under Bryce Young](panthers_offense_struggles_under_bryce_young.md): same source document (doc_0474)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

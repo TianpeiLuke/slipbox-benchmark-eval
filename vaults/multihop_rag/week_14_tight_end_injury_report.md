@@ -11,6 +11,7 @@ Waller could be back that week, though the Giants really had no reason to bring 
 
 ## Related Notes
 
+
 - [Darren Waller Week 6 2023 Start Recommendation](darren_waller_week6_2023_start_recommendation.md): also covers Darren Waller in the Giants offense, from a different document.
 - [Fantasy Week 13 Browns at Rams Outlook](fantasy_week_13_browns_at_rams_outlook.md): also covers Tyler Higbee, from a different document.
 - [Jake Ferguson Week 5 2023 Start Recommendation](jake_ferguson_week5_2023_start_recommendation.md): also covers Darren Waller and Tyler Higbee, from a different document.
@@ -19,6 +20,8 @@ Waller could be back that week, though the Giants really had no reason to bring 
 - [The Week 14 Fantasy Tight End Landscape](week_14_fantasy_tight_end_landscape.md): the same column's framing of the week, from the same document.
 - [Week 14 Fantasy Tight End Sleepers and Streamers](week_14_fantasy_tight_end_sleepers_and_streamers.md): covers Schultz's effect on Brevin Jordan's outlook, from the same document.
 - [Week 14 Tight End Byes: Logan Thomas and Trey McBride](week_14_tight_end_byes_thomas_and_mcbride.md): the other absences shaping the same week, from the same document.
+- [Week 14 Tight End PPR Rankings, Top 30](week_14_tight_end_ppr_rankings_top_30.md): same source document (doc_0552)
+- [Week 14's Top Fantasy Tight End Starts](week_14_top_fantasy_tight_end_starts.md): same source document (doc_0552)
 
 ## Source
 

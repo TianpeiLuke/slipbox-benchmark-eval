@@ -13,6 +13,7 @@ In return, Boston got Weissert and two pitching prospects headlined by Fitts —
 
 ## Related Notes
 
+
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): also discusses Alex Verdugo and Mookie Betts, from a different document.
 - [Camden Yards Baltimore Orioles Postseason Atmosphere](camden_yards_baltimore_orioles_postseason_atmosphere.md): also concerns the American League, from a different document.
 - [Dodger Stadium Los Angeles Dodgers Postseason Atmosphere](dodger_stadium_los_angeles_dodgers_postseason_atmosphere.md): also discusses Mookie Betts, from a different document.
@@ -21,6 +22,8 @@ In return, Boston got Weissert and two pitching prospects headlined by Fitts —
 - [Braves Acquire Jarred Kelenic From Mariners](braves_acquire_jarred_kelenic_from_mariners.md): another trade from the same tracker (doc_0120).
 - [Eduardo Rodriguez Signs With Diamondbacks](eduardo_rodriguez_signs_with_diamondbacks.md): another move from the same tracker (doc_0120).
 - [Juan Soto Traded From Padres to Yankees](juan_soto_traded_from_padres_to_yankees.md): the trade this deal preceded, from the same document.
+- [Jung Hoo Lee Posted From The KBO To MLB](jung_hoo_lee_kbo_posting_to_mlb.md): same source document (doc_0120)
+- [Mariners' Cleared Payroll Space And Winter Meetings Trade Talks](mariners_offseason_payroll_space_and_trade_talks.md): same source document (doc_0120)
 
 ## Source
 

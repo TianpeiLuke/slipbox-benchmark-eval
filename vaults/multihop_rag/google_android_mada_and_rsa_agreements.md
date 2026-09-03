@@ -13,6 +13,7 @@ Rosenberg defended the arrangement on two grounds — that Google apps like Sear
 
 ## Related Notes
 
+
 - [Activision $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): also concerns Google Play contracting, from a different document.
 - [Activision, Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): also concerns Google Play and Android distribution, from a different document.
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): covers the app-store side of the same Android distribution question, from a different document.
@@ -20,6 +21,10 @@ Rosenberg defended the arrangement on two grounds — that Google apps like Sear
 - [Beeper Mini Service Restoration And Apple ID Workaround](beeper_mini_service_restoration_and_apple_id_workaround.md): also concerns Google Play distribution, from a different document.
 - [Expedia Testimony On Google Search Ads](expedia_testimony_on_google_search_ads.md): drawn from the same source document (doc_0015).
 - [Firefox Decline: The Chrome Share Alternative Explanation](firefox_decline_alternative_explanation_chrome_share.md): drawn from the same source document (doc_0015).
+- [Firefox's Yahoo Default Search Switch, As Recounted By Mitchell Baker](firefox_yahoo_default_search_switch.md): same source document (doc_0015)
+- ["Go Big In Europe": Google's Post-Fine Search Quality Push](google_go_big_in_europe_search_quality_push.md): same source document (doc_0015)
+- [Google's Parallel Antitrust Proceedings In Late 2023](google_parallel_antitrust_proceedings_2023.md): same source document (doc_0015)
+- [Revenue Split](term_revenue_split.md): uses the concept revenue split
 
 ## Source
 

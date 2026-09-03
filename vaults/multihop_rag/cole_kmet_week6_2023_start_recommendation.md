@@ -13,6 +13,7 @@ The matchup grounds cut against the yardage but not the scoring. The Vikings all
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also discusses George Kittle, one of the tight ends Kmet is ranked above, from a different document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also discusses George Kittle, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another "Start Him" verdict in the same weekly-decision format, from a different document.
@@ -20,6 +21,9 @@ The matchup grounds cut against the yardage but not the scoring. The Vikings all
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also discusses Travis Kelce, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another lineup call from the same Week 6 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this start call applies, from the same column.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
+- [Dak Prescott As A Week 6 2023 Sit At The Chargers](dak_prescott_week6_2023_sit_recommendation.md): same source document (doc_0149)
 
 ## Source
 

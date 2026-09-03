@@ -11,6 +11,7 @@ Its investments in seasonal Christmas evergreens continue to pay off too, with c
 
 ## Related Notes
 
+
 - [All You Had To Do Was Stay Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): also concerns Taylor Swift's catalogue, from a different source document.
 - [American Pie Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): also concerns Taylor Swift, from a different source document.
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also concerns Taylor Swift, from a different source document.
@@ -19,6 +20,8 @@ Its investments in seasonal Christmas evergreens continue to pay off too, with c
 - [Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): drawn from the same article and covers the valuation applied to these revenue-producing assets.
 - [Hipgnosis Songs Fund Results Delay December 2023](hipgnosis_songs_fund_results_delay_december_2023.md): drawn from the same article and is the delayed disclosure that would report this performance.
 - [HSF Board Appoints And Oversees Its Own Valuer](hsf_board_appoints_and_oversees_its_own_valuer.md): drawn from the same article and covers the governance argument running alongside this commercial picture.
+- [The HSF Board Versus Hipgnosis Song Management](hsf_board_versus_hipgnosis_song_management_dispute.md): same source document (doc_0263)
+- [The Announcement As A Coded Signal About Mercuriadis' Call Option](hsf_coded_signal_and_mercuriadis_call_option.md): same source document (doc_0263)
 
 ## Source
 

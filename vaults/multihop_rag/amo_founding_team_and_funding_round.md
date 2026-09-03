@@ -13,12 +13,18 @@ TechCrunch flags why that is remarkable on three counts at once: it is a highly 
 
 ## Related Notes
 
+
 - [Cred's Revenue Growth](cred_revenue_growth.md): overlaps on startup funding and scale milestones, from a different document.
 - [The French Founder Stealth AI Startup Wave](french_founder_stealth_ai_startup_wave.md): overlaps on Zenly alumni raising rounds, from a different document.
 - [FTX](ftx.md): overlaps on funding rounds and valuations, from a different document.
 - [Mistral AI, The French LLM Startup](mistral_ai_french_llm_startup.md): another French startup raising large early rounds, from a different document.
 - [Ola Electric's 2023 Funding Round](ola_electric_funding_round_2023.md): overlaps on startup funding rounds, from a different document.
 - [ID: Amo's Creative Social App](amo_id_social_app_launch.md): drawn from the same source document (doc_0196).
+- [Amo's Scale Ambition And Product Roadmap](amo_scale_ambition_and_product_roadmap.md): same source document (doc_0196)
+- [The Empty Canvas Analogy For ID](empty_canvas_design_analogy_for_id.md): same source document (doc_0196)
+- [ID's Profile Canvas Mechanics](id_app_profile_canvas_mechanics.md): same source document (doc_0196)
+- [ID's Emergent Social Gameplay](id_emergent_social_gameplay.md): same source document (doc_0196)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

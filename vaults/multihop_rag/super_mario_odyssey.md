@@ -11,11 +11,17 @@ The game perfectly mixes classic, whimsical Mario platforming with the expansive
 
 ## Related Notes
 
+
 - [Classic Nintendo Franchise Picks For The Switch](classic_nintendo_switch_franchise_picks.md): same source; the category this pick belongs to.
 - [Super Mario 3D World On Switch](super_mario_3d_world_switch.md): another Switch Mario platformer, from a different source document.
 - [Mario Kart 8 Deluxe](mario_kart_8_deluxe.md): another Switch Mario title, from a different source document.
 - [Cocoon Wins Best Indie Game, 2023](cocoon_best_indie_game_2023.md): overlaps in content on odyssey, game, favorite, from a different source document.
 - [Nostalgia Driven Major Game Releases 2023](nostalgia_driven_major_game_releases_2023.md): overlaps in content on mario, super, game, from a different source document.
+- [Shovel Knight: Treasure Trove](shovel_knight_treasure_trove.md): content overlap 0.12 on platforming, switch, includes; different source document
+- [Animal Crossing: New Horizons](animal_crossing_new_horizons.md): same source document (doc_0292)
+- [Hades](hades_roguelite.md): same source document (doc_0292)
+- [Hollow Knight](hollow_knight.md): same source document (doc_0292)
+- [Indie Games Suit The Switch's Portability](indie_games_suit_the_switch_portability.md): same source document (doc_0292)
 
 ## Source
 

@@ -13,11 +13,18 @@ Yet through his personal grief and the torment of a war that would claim nearly 
 
 ## Related Notes
 
+
 - [Bazella and Geerts' Mother-Daughter Reunion](bazella_and_geerts_mother_daughter_reunion.md): also concerns Christmas Day, from a different source document.
 - [In God We Trust: Motto Origins](in_god_we_trust_motto_origins_and_founding_documents.md): also concerns the Civil War era, from a different source document.
 - [In God We Trust on US Currency and in Courts](in_god_we_trust_on_us_currency_and_courts.md): also concerns the Civil War era, from a different source document.
 - [Last-Minute Digital Gifts and Subscriptions Guide](last_minute_digital_gifts_and_subscriptions_guide.md): also concerns Christmas Day, from a different source document.
 - [Liverpool-Arsenal Draw at Anfield, December 2023](liverpool_arsenal_draw_at_anfield_december_2023.md): also concerns Christmas Day, from a different source document.
+- [Carol of the Bells and Its Biblical Roots](carol_of_the_bells_biblical_roots.md): same source document (doc_0270)
+- [Carols Express Both Joy and Sorrow](carols_express_both_joy_and_sorrow.md): same source document (doc_0270)
+- [Christmas Carols and Advertising](christmas_carols_and_advertising.md): same source document (doc_0270)
+- [Christmas Hope Amid War and Suffering](christmas_hope_amid_war_and_suffering.md): same source document (doc_0270)
+- [The Structure of "I Heard the Bells"](i_heard_the_bells_poem_structure.md): same source document (doc_0270)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

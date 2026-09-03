@@ -11,10 +11,18 @@ What defines the system is that both of its claimed gains — intake speed and o
 
 ## Related Notes
 
+
 - [Amazon's Delivering The Future 2023 Event](amazon_delivering_the_future_2023_event.md): same source document; the event at which it was presented.
 - [Best Buy Holiday 2023 Shipping And Pickup Cutoffs](best_buy_holiday_2023_shipping_and_pickup_cutoffs.md): overlaps in content on same-day shipping and delivery, from a different source document.
 - [Amazon Prime Holiday 2023 Delivery Cutoffs](amazon_prime_holiday_2023_delivery_cutoffs.md): overlaps in content on same-day and next-day delivery, from a different source document.
 - [Walmart Holiday 2023 Shipping And Pickup Cutoffs](walmart_holiday_2023_shipping_and_pickup_cutoffs.md): overlaps in content on shipping and delivery deadlines, from a different source document.
+- [FedEx 2023 Holiday Shipping Deadlines](fedex_2023_holiday_shipping_deadlines.md): content overlap 0.13 on same-day, shipping, arrive; different source document
+- [Target Holiday 2023 Delivery And Shipt Cutoffs](target_holiday_2023_delivery_and_shipt_cutoffs.md): content overlap 0.19 on same-day, shipping, delivery; different source document
+- [Amazon's Agility Digit Humanoid Pilot As A Test Case](amazon_agility_digit_humanoid_pilot.md): same source document (doc_0528)
+- [Generative AI In Amazon's Robotics Simulation](amazon_generative_ai_in_robotics_simulation.md): same source document (doc_0528)
+- [Amazon's Greenfield And Brownfield Retrofit Capability](amazon_greenfield_brownfield_retrofit_capability.md): same source document (doc_0528)
+- [Amazon's Industrial Innovation Fund And Agility](amazon_industrial_innovation_fund_and_agility.md): same source document (doc_0528)
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

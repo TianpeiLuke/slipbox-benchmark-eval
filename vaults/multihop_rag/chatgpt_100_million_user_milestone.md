@@ -11,9 +11,17 @@ By the following January, ChatGPT was a certified phenomenon, surpassing 100 mil
 
 ## Related Notes
 
+
 - [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): also concerns Sam Altman and ChatGPT's user figures, from a different source document.
 - [Anthropic's Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): also concerns Sam Altman, from a different source document.
 - [ChatGPT Overview And Significance](chatgpt_overview_and_significance.md): also concerns Sam Altman and ChatGPT's rise, from a different source document.
+- [The AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): both discuss Sam Altman; different source document
+- [ChatGPT's Launch And Its First Year Of Evolution](chatgpt_launch_and_first_year_evolution.md): both discuss Sam Altman; different source document
+- [The AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): same source document (doc_0099)
+- [Associated Press And OpenAI's Licensing Deal](associated_press_openai_licensing_deal.md): same source document (doc_0099)
+- [ChatGPT's Durability And Regulatory Outlook](chatgpt_durability_and_regulatory_outlook.md): same source document (doc_0099)
+- [ChatGPT Enterprise And Multimodal Features](chatgpt_enterprise_and_multimodal_features.md): same source document (doc_0099)
+- [ChatGPT's First Year Overview](chatgpt_first_year_overview.md): same source document (doc_0099)
 
 ## Source
 

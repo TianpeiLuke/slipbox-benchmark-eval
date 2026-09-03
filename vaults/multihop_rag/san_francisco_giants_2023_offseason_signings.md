@@ -11,6 +11,7 @@ The New York Post's Jon Heyman reported the Lee agreement, framing it as San Fra
 
 ## Related Notes
 
+
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): also relies on reporting by Ken Rosenthal, from a different document.
 - [Blue Jays Roster Implications of the Ohtani Pursuit](blue_jays_roster_implications_of_ohtani_pursuit.md): also relies on reporting by Jon Heyman, from a different document.
 - [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): overlaps on a Giants franchise and contract questions, from a different document.
@@ -18,6 +19,10 @@ The New York Post's Jon Heyman reported the Lee agreement, framing it as San Fra
 - [MLB 2023 Offseason Starting Pitcher Trade Market](mlb_2023_offseason_starting_pitcher_trade_market.md): also relies on reporting by Jon Heyman, from a different document.
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): another entry from the same free agency tracker, from the same document.
 - [Braves Release Matt Carpenter](braves_release_matt_carpenter.md): another entry from the same free agency tracker, from the same document.
+- [Cody Bellinger's Market And Suitors After Ohtani Signed](cody_bellinger_free_agent_market_and_suitors.md): same source document (doc_0422)
+- [Jack Flaherty's One-Year Deal With The Tigers](jack_flaherty_tigers_one_year_deal.md): same source document (doc_0422)
+- [Kansas City Royals' December 2023 Signings](kansas_city_royals_2023_offseason_signings.md): same source document (doc_0422)
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

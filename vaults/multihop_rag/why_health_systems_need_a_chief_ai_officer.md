@@ -17,6 +17,7 @@ Castro agreed that the importance of this role is evident as AI becomes a pivota
 
 ## Related Notes
 
+
 - [Autobrains Hires Uri Yacovy as COO](autobrains_hires_uri_yacovy_as_coo.md): overlapping vocabulary on officer, chief, from a different source document.
 - [E-E-A-T and the Shift to Institutional Authority](eeat_and_the_shift_to_institutional_authority.md): also concerns Mayo Clinic, from a different source document.
 - [Gastroparesis Pancreatitis Bowel Obstruction and Ileus](gastroparesis_pancreatitis_bowel_obstruction_and_ileus.md): also concerns Mayo Clinic, from a different source document.
@@ -25,6 +26,8 @@ Castro agreed that the importance of this role is evident as AI becomes a pivota
 - [AI as Clinician Ally not Replacement](ai_as_clinician_ally_not_replacement.md): drawn from the same source document (doc_0163).
 - [Bhavik Patel Appointed Mayo Clinic Arizona Chief AI Officer](bhavik_patel_appointed_mayo_clinic_arizona_chief_ai_officer.md): drawn from the same source document (doc_0163).
 - [Bhavik Patel Day to Day Chief AI Officer Duties](bhavik_patel_day_to_day_chief_ai_officer_duties.md): drawn from the same source document (doc_0163).
+- [The Clinical Benefits Of AI In Health Care](clinical_benefits_of_ai_in_health_care.md): same source document (doc_0163)
+- [Core Functions Of A Health Care Chief AI Officer](core_functions_of_a_health_care_chief_ai_officer.md): same source document (doc_0163)
 
 ## Source
 

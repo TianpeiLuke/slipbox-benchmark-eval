@@ -13,11 +13,18 @@ The character has a long history across media. Amanda Waller was introduced to D
 
 ## Related Notes
 
+
 - [Darren Waller Week 6 2023 Start Recommendation](darren_waller_week6_2023_start_recommendation.md): incidental name overlap on "Waller" from an unrelated sports document
 - [Suicide and Crisis Lifeline 988 Advisory](suicide_and_crisis_lifeline_988_advisory.md): incidental term overlap from a different source
 - [Will and Jada Life Partnership Framing](will_and_jada_life_partnership_framing.md): both mention Suicide Squad, from a separate article
 - [Aquaman and the Lost Kingdom](aquaman_and_the_lost_kingdom.md): another DC project from the same slate article
 - [Arkham Asylum: The Batman Prequel Series](arkham_asylum_the_batman_prequel_series.md): a fellow DC series in the same roundup
+- [The 'Black Superman' Movie (Ta-Nehisi Coates)](black_superman_movie_ta_nehisi_coates.md): same source document (doc_0081)
+- [Booster Gold TV Series](booster_gold_tv_series.md): same source document (doc_0081)
+- [Brave and the Bold (Damian Wayne Film)](brave_and_the_bold_damian_wayne_film.md): same source document (doc_0081)
+- [Creature Commandos Animated Series](creature_commandos_animated_series.md): same source document (doc_0081)
+- [The DC Extended Universe (DCEU)](dc_extended_universe_dceu.md): same source document (doc_0081)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

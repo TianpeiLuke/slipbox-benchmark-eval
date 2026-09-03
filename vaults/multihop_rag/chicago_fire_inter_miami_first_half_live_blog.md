@@ -13,11 +13,20 @@ The rest of the half traded near-misses. In the 21st minute two Fire players com
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): shares the playoff-race framing across leagues.
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also discusses Facundo Farias.
 - [Argentina Squad and Lineup vs Paraguay October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): also discusses Facundo Farias.
 - [Bears Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): also concerns Soldier Field.
 - [Bears Panthers Pregame Storylines Week 10](bears_panthers_pregame_storylines_week_10.md): also concerns the Windy City.
+- [Chicago Fire Beat Inter Miami 4-1 Before A Record Soldier Field Crowd](chicago_fire_4_1_inter_miami_october_2023_recap.md): same source document (doc_0041)
+- [Chicago Fire-Inter Miami Second Half: Four Goals In 23 Minutes](chicago_fire_inter_miami_second_half_live_blog.md): same source document (doc_0041)
+- [Chicago Fire-Inter Miami Lineups, Absentees And Pre-Match Outlook](chicago_fire_inter_miami_team_news_and_match_outlook.md): same source document (doc_0041)
+- [Inter Miami Eliminated From The 2023 MLS Playoff Race With Two Games Left](inter_miami_2023_mls_playoff_elimination.md): same source document (doc_0041)
+- [Kei Kamara Sat On The Bench One Goal Short Of Landon Donovan](kei_kamara_chicago_fire_role_and_scoring_record.md): same source document (doc_0041)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

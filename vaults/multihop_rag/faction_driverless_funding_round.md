@@ -9,11 +9,18 @@ Faction, the driverless tech developer, raised an undisclosed amount in a round 
 
 ## Related Notes
 
+
 - [Cruise's California Permit Suspension](cruise_california_permit_suspension.md): same source document; the regulatory turmoil in driverless technology that same week.
 - [Cruise Nationwide Driverless Pause](cruise_nationwide_driverless_pause.md): same source document; the sector setback this investment sits against.
 - [Mobility And Logistics Funding Rounds, October 2023](mobility_logistics_funding_rounds_october_2023.md): overlaps in content on funding rounds and their participants, from a different source document.
 - [Beeper Funding And Investors](beeper_funding_and_investors.md): overlaps in content on venture capital rounds, from a different source document.
 - [QI Tech Series B, Brazil Banking-As-A-Service](qi_tech_series_b_brazil_banking_as_a_service.md): overlaps in content on raising capital, from a different source document.
+- [FTX](ftx.md): content overlap 0.12 on round, capital, raised; different source document
+- [Scalable Capital's $65M Flat-Valuation Round](scalable_capital_65m_flat_valuation_round.md): content overlap 0.11 on round, capital, raised; different source document
+- [California Robotaxi Opposition Groups](california_robotaxi_opposition_groups.md): same source document (doc_0537)
+- [Flexport And Convoy Technology Acquisition Talks](flexport_convoy_technology_acquisition_talks.md): same source document (doc_0537)
+- [Flexport Leadership Change And Layoffs](flexport_leadership_change_and_layoffs.md): same source document (doc_0537)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

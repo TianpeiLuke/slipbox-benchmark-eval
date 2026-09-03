@@ -11,6 +11,7 @@ The inference he draws is explicit about what that demands of the systems: "The 
 
 ## Related Notes
 
+
 - [Agility Robotics' Digit Warehouse Robot](agility_robotics_digit_warehouse_robot.md): drawn from the same source document (doc_0421).
 - [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): drawn from the same source document (doc_0421).
 - [Amazon's Testing Of Digit In Warehouses](amazon_testing_of_digit_in_warehouses.md): drawn from the same source document (doc_0421).
@@ -19,6 +20,8 @@ The inference he draws is explicit about what that demands of the systems: "The 
 - [Figure AI's Purist Humanoid Market Thesis](figure_ai_purist_humanoid_market_thesis.md): drawn from the same source document (doc_0421).
 - [Human-Centric Versus Humanoid Robot Design](human_centric_versus_humanoid_robot_design.md): drawn from the same source document (doc_0421).
 - [Humanoid Prototype Reality Check: Figure And Optimus](humanoid_prototype_reality_check_figure_and_optimus.md): drawn from the same source document (doc_0421).
+- [The State Of Humanoid Robot Development In 2023](humanoid_robot_development_state_of_the_art_2023.md): same source document (doc_0421)
+- [Sanctuary AI's Phoenix Bipedal Robot](sanctuary_ai_phoenix_bipedal_robot.md): same source document (doc_0421)
 
 ## Source
 

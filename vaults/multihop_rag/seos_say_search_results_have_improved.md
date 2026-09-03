@@ -13,6 +13,7 @@ The effect on the writer was disorientation rather than conviction. This was not
 
 ## Related Notes
 
+
 - [Google Local Search Ranking Factors](google_local_search_ranking_factors.md): also concerns claims about the quality of Google's results, from a different source document.
 - [The Affiliate Marketing Alligator Party](affiliate_marketing_alligator_party.md): drawn from the same source document (doc_0115).
 - [AI-Generated Content Will Overwhelm Search](ai_generated_content_will_overwhelm_search_prediction.md): drawn from the same source document (doc_0115).
@@ -21,6 +22,8 @@ The effect on the writer was disorientation rather than conviction. This was not
 - [Cade Lee, From Black Hat SEO To Construction](cade_lee_from_black_hat_seo_to_construction.md): drawn from the same source document (doc_0115).
 - [Danny Sullivan, From Journalist To Google Liaison](danny_sullivan_from_journalist_to_google_liaison.md): drawn from the same source document (doc_0115).
 - [The Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): drawn from the same source document (doc_0115).
+- [Duane Forrester, Bing, And The Search Engine's View](duane_forrester_bing_and_the_search_engine_view.md): same source document (doc_0115)
+- [Missy Ward, Daron Babin And Darren Blatt: The Early Operators](early_seo_operators_ward_babin_and_blatt.md): same source document (doc_0115)
 
 ## Source
 

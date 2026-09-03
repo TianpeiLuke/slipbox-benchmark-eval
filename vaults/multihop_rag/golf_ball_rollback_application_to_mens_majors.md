@@ -11,6 +11,7 @@ Those two bodies had reacted differently. Seth Waugh, the PGA of America CEO, de
 
 ## Related Notes
 
+
 - [Handicap Betting In Tennis And Golf](handicap_betting_in_tennis_and_golf.md): also discusses Tiger Woods, from a different document.
 - [Masters Betting Markets And Augusta National Factors](masters_betting_markets_and_augusta_national_factors.md): also discusses Augusta National, from a different document.
 - [Moneyline Odds Examples By Sport](moneyline_odds_examples_by_sport.md): also discusses Tiger Woods, from a different document.
@@ -19,6 +20,8 @@ Those two bodies had reacted differently. Seth Waugh, the PGA of America CEO, de
 - [Golf Ball Rollback Exclusion Of Women's Golf](golf_ball_rollback_exclusion_of_womens_golf.md): the scope limit on the same policy, from the same document.
 - [Golf Ball Rollback Policy](golf_ball_rollback_policy.md): defines the policy applied here, from the same document.
 - [Justin Thomas Opposition To Golf Ball Rollback](justin_thomas_opposition_to_golf_ball_rollback.md): a player reaction to the same policy, from the same document.
+- [Rory McIlroy Support For Golf Ball Rollback](rory_mcilroy_support_for_golf_ball_rollback.md): same source document (doc_0490)
+- [Tiger Woods Support For Pro Amateur Ball Split](tiger_woods_support_for_pro_amateur_ball_split.md): same source document (doc_0490)
 
 ## Source
 

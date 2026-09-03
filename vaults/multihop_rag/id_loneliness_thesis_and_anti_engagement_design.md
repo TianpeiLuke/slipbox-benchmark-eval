@@ -13,6 +13,7 @@ The design follows the argument to its conclusion: Amo does not want you to spen
 
 ## Related Notes
 
+
 - [The Global Burden Of Antibiotic-Resistant Infections](global_burden_of_antibiotic_resistant_infections.md): also cites the World Health Organization, from a different document.
 - [Teen Time Spent On TikTok, Snapchat And Instagram](teen_time_spent_on_tiktok_snapchat_and_instagram.md): quantifies the hours spent that this argument targets, from a different document.
 - [Amo's Founding Team And Funding Round](amo_founding_team_and_funding_round.md): drawn from the same source document (doc_0196).
@@ -21,6 +22,8 @@ The design follows the argument to its conclusion: Amo does not want you to spen
 - [The Empty Canvas Analogy For ID](empty_canvas_design_analogy_for_id.md): drawn from the same source document (doc_0196).
 - [ID's Profile Canvas Mechanics](id_app_profile_canvas_mechanics.md): drawn from the same source document (doc_0196).
 - [ID's Emergent Social Gameplay](id_emergent_social_gameplay.md): drawn from the same source document (doc_0196), and is the active alternative to passive feeds.
+- [Social Networks' Drift From Connection To Algorithmic Feeds](social_networks_drift_from_connection_to_algorithmic_feeds.md): same source document (doc_0196)
+- [Zenly's Acquisition And Shutdown By Snap](zenly_acquisition_and_shutdown_by_snap.md): same source document (doc_0196)
 
 ## Source
 

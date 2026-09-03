@@ -13,6 +13,7 @@ The small Pacific Northwest island was home to a serial killing in which Abby, p
 
 ## Related Notes
 
+
 - [6PPD-Quinone and Coho Salmon Die-Offs](6ppd_quinone_and_coho_salmon_die_offs.md): both concern the Pacific Northwest, from a different source document
 - [Efe Ajagba and Curtis Harper's 2018 Walkout](efe_ajagba_curtis_harper_2018_walkout.md): incidental name overlap from an unrelated sports article
 - [Gen V (Prime Video)](gen_v_prime_video.md): another write-up by the same critic, Zosha Millman, from a separate document
@@ -21,6 +22,8 @@ The small Pacific Northwest island was home to a serial killing in which Abby, p
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
 - [American Horror Story: NYC Season](american_horror_story_nyc_season.md): another TV entry in the same countdown
 - [Apostle (Gareth Evans Folk Horror)](apostle_gareth_evans_folk_horror.md): another recommendation from the same source
+- [Cat People (1942) and the Origin of the Jump Scare](cat_people_1942_jump_scare_origin.md): same source document (doc_0165)
+- [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): same source document (doc_0165)
 
 ## Source
 

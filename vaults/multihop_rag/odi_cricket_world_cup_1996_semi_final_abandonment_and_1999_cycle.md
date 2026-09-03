@@ -13,6 +13,7 @@ The reason was a scheduling experiment. Following the 1996 event the ICC opted t
 
 ## Related Notes
 
+
 - [Boycott Criticism of Bairstow and Woakes Selection](boycott_criticism_of_bairstow_and_woakes_selection.md): another document involving Sri Lanka, different source
 - [England 2023 Cricket World Cup Title Defence Collapse](england_2023_cricket_world_cup_title_defence_collapse.md): another World Cup campaign involving Sri Lanka, different source document
 - [ICC World Cup 2023 Knockout Stage and Final](icc_world_cup_2023_knockout_stage_and_final.md): a later knockout stage, also involving Eden Gardens and Sri Lanka
@@ -21,6 +22,8 @@ The reason was a scheduling experiment. Following the 1996 event the ICC opted t
 - [First ODI Cricket World Cup 1975](first_odi_cricket_world_cup_1975.md): the tournament's origins, same source document
 - [ICC ODI Cricket World Cup Overview](icc_odi_cricket_world_cup_overview.md): the competition whose cycle this altered, same source document
 - [ODI Cricket World Cup 1987 Format Change](odi_cricket_world_cup_1987_format_change.md): an earlier structural change to the tournament, same source document
+- [The 1992 World Cup: White Ball, Coloured Kits And South Africa's Return](odi_cricket_world_cup_1992_white_ball_coloured_kits.md): same source document (doc_0409)
+- [The 2011 World Cup: India's Last Hosting Before 2023](odi_cricket_world_cup_2011_india_hosting.md): same source document (doc_0409)
 
 ## Source
 

@@ -13,10 +13,13 @@ On the head-to-head record, Popyrin won his only ATP Tour clash with Lorenzo Mus
 
 ## Related Notes
 
+
 - [Corretja Doubts Djokovic's 2024 Golden Slam](corretja_doubts_djokovic_2024_golden_slam.md): also concerns the Davis Cup, from a different document.
 - [Lleyton Hewitt's United Cup 2024 Captaincy](lleyton_hewitt_united_cup_2024_captaincy.md): also concerns Lleyton Hewitt, from a different document.
 - [Australia's Davis Cup Semi-Final Win Over Finland](australia_davis_cup_semi_final_win_over_finland.md): drawn from the same document (doc_0451).
 - [Australia vs Italy: 2023 Davis Cup Final Preview](australia_italy_davis_cup_final_2023_preview.md): drawn from the same document (doc_0451).
+- [Jannik Sinner's Double Win Over Djokovic In The Davis Cup](jannik_sinner_double_win_over_djokovic_davis_cup.md): same source document (doc_0451)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

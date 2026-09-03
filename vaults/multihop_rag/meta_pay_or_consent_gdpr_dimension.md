@@ -13,11 +13,18 @@ TechCrunch's reading of the incentive: Meta is likely banking on another multi-y
 
 ## Related Notes
 
+
 - [Analysis Of Meta's Delay Tactics On The Consent Switch](analysis_of_meta_delay_tactics_on_consent_switch.md): develops the same delay-by-litigation reading, from a different document.
 - [CJEU Appropriate Fee Ruling](cjeu_appropriate_fee_ruling.md): the CJEU line of authority this dispute may end up at, from a different document.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also concerns GDPR compliance, from a different document.
 - [CPPA Draft ADMT Regulations](cppa_draft_admt_regulations.md): compares a US rulemaking against the GDPR, from a different document.
 - [DSA And DMA Oversight Of Meta Ad Tracking](dsa_dma_oversight_of_meta_ad_tracking.md): overlaps on GDPR and Meta's ad-tracking compliance, from a different document.
+- [BEUC And 18 Member Groups File A CPC Complaint Against Meta](beuc_consumer_complaint_meta_pay_or_consent.md): same source document (doc_0140)
+- [BEUC's Consumer-Law Case Against Meta's Pay-Or-Consent Model](beuc_consumer_law_objections_to_meta_model.md): same source document (doc_0140)
+- [BEUC: The Choice And Its Implementation Cannot Be Separated](beuc_position_choice_versus_implementation.md): same source document (doc_0140)
+- [How CPC Network Consumer Protection Enforcement Works](cpc_network_consumer_protection_enforcement.md): same source document (doc_0140)
+- [DMA And DSA Oversight Of Meta's Advertising Consent](dma_dsa_oversight_of_meta_advertising_consent.md): same source document (doc_0140)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

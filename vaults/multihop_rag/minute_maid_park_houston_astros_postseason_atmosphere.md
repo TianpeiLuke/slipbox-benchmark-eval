@@ -13,11 +13,19 @@ The case for a higher ranking is strong on volume: one of the writers called it 
 
 ## Related Notes
 
+
 - [Astros Camera and Trash-Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): also concerns Minute Maid Park, from a different document.
 - [Astros Players' Immunity and Mike Fiers](astros_players_immunity_and_mike_fiers.md): overlaps on the Houston Astros, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): shares the MLB and postseason-seeding themes, from a different document.
 - [Cleveland Guardians Manager Search After Francona](cleveland_guardians_manager_search_after_francona.md): shares the MLB and postseason-seeding themes, from a different document.
 - [Houston Astros Manager Search After Dusty Baker](houston_astros_manager_search_after_dusty_baker.md): overlaps on the Houston Astros, from a different document.
+- [Camden Yards: Baltimore Orioles Postseason Atmosphere](camden_yards_baltimore_orioles_postseason_atmosphere.md): same source document (doc_0008)
+- [Chase Field: Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): same source document (doc_0008)
+- [Citizens Bank Park: Philadelphia Phillies Postseason Atmosphere](citizens_bank_park_philadelphia_phillies_postseason_atmosphere.md): same source document (doc_0008)
+- [Dodger Stadium: Los Angeles Dodgers Postseason Atmosphere](dodger_stadium_los_angeles_dodgers_postseason_atmosphere.md): same source document (doc_0008)
+- [Globe Life Field: Texas Rangers Postseason Atmosphere](globe_life_field_texas_rangers_postseason_atmosphere.md): same source document (doc_0008)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

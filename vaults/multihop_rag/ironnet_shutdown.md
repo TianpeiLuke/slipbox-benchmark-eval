@@ -11,6 +11,7 @@ The Virginia-based company was founded in 2014 by retired four-star general Keit
 
 ## Related Notes
 
+
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs and restructuring theme, from a different source document.
 - [Brave Software Layoffs](brave_software_layoffs.md): another tech-company layoff story, from a different source document.
 - [CollegeHumor, IAC Layoffs And Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): another shutdown-and-layoffs story, from a different source document.
@@ -18,6 +19,11 @@ The Virginia-based company was founded in 2014 by retired four-star general Keit
 - [Costs Of Relinquishing Independence After Acquisition](costs_of_relinquishing_independence_after_acquisition.md): shares the layoffs and restructuring theme, from a different source document.
 - [Acurable's Patient-Friendly Respiratory Wearables](acurable_respiratory_wearables.md): another item from the same October 7, 2023 Week in Review (doc_0011).
 - [AI Startup Defensibility](ai_startup_defensibility.md): another item from the same source document (doc_0011).
+- [Breathe Battery Technologies' Charging Software](breathe_battery_software.md): same source document (doc_0011)
+- [Flexport Leadership Turmoil](flexport_leadership_turmoil.md): same source document (doc_0011)
+- [Gmail's New Rules For Bulk Senders](gmail_bulk_sender_rules.md): same source document (doc_0011)
+- [Initial Public Offering (IPO)](term_initial_public_offering.md): uses the concept initial public offering
+- [Layoffs](term_layoffs.md): uses the concept layoffs
 
 ## Source
 

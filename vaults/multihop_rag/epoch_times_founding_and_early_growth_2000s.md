@@ -13,11 +13,18 @@ Through the early aughts, The Epoch Times grew from an online effort into a week
 
 ## Related Notes
 
+
 - [Best Buy Price Match Guarantee](best_buy_price_match_guarantee.md): also mentions Thanksgiving Day, from a different source document.
 - [Dell Price Match Policy](dell_price_match_policy.md): also mentions Thanksgiving Day, from a different source document.
 - [Friendsgiving Alternative Activity Ideas](friendsgiving_alternative_activity_ideas.md): also mentions Thanksgiving Day, from a different source document.
 - [James Paterson's Call For A TikTok Privacy Investigation](james_paterson_call_for_tiktok_privacy_investigation.md): also concerns the Chinese Communist Party, from a different source document.
 - [NBA Christmas Versus NFL Thanksgiving Tradition Comparison](nba_christmas_vs_nfl_thanksgiving_tradition_comparison.md): also mentions Thanksgiving Day, from a different source document.
+- [Chinese Government Ban And Crackdown On Falun Gong, 1999](chinese_government_ban_and_crackdown_on_falun_gong_1999.md): same source document (doc_0076)
+- [Conservative Endorsements Of The Epoch Times' Credibility](conservative_endorsements_of_epoch_times_credibility.md): same source document (doc_0076)
+- [The Epoch Times, The 2020 Election And Pro-Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): same source document (doc_0076)
+- [Epoch Times Ad Spending And Falun Gong Affiliate Grants](epoch_times_ad_spending_and_falun_gong_affiliate_grants.md): same source document (doc_0076)
+- [Epoch Times Conservative Donor Funding](epoch_times_conservative_donor_funding.md): same source document (doc_0076)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

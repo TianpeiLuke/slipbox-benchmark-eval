@@ -13,10 +13,19 @@ The warrant is a low bar on what "open" has to mean to win the moment: Meta's de
 
 ## Related Notes
 
+
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): also covers Hugging Face and the open-AI camp, from a different document.
 - [Meta's Open Source AI Strategy And Motives](meta_open_source_ai_strategy_and_motives.md): the strongest overlap, on why Meta pursues openness, from a different document.
 - [Prediction: OpenAI Becomes A Product Company](prediction_openai_becomes_a_product_company.md): another reading of where the crisis leaves OpenAI, from a different document.
 - [Dismissed Theories: A Murati Coup And A Personal Matter](dismissed_theories_murati_coup_and_personal_matter.md): covers the crisis this argument reads consequences from, from a different document in this sub-plan.
+- [Theory: Altman Circumvented The Board On A Deal](theory_altman_circumvented_board_on_a_deal.md): same sub-plan (The OpenAI board crisis and the open-versus-closed AI debate), different source document
+- [Google's "No Moat" Memo On Open Source AI](google_no_moat_memo_open_source_ai.md): same source document (doc_0054)
+- [Llama's Open Source Licensing Limits](llama_open_source_licensing_limits.md): same source document (doc_0054)
+- [Mozilla's Open Letter On AI Openness](mozilla_open_letter_on_ai_openness.md): same source document (doc_0054)
+- [The OpenAI Board Ousts Sam Altman, November 2023](openai_board_ousts_sam_altman_november_2023.md): same source document (doc_0054)
+- [The OpenAI Crisis As A Case Against Centralized AI Control](openai_crisis_risk_of_centralized_ai_control.md): same source document (doc_0054)
+- [Open Source](term_open_source.md): uses the concept open source
+- [Embedded Finance](term_embedded_finance.md): uses the concept embedded finance
 
 ## Source
 

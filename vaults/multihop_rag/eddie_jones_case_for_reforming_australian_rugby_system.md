@@ -13,11 +13,18 @@ Earlier, on Oct. 10, Jones advocated specifically for Australian rugby to move t
 
 ## Related Notes
 
+
 - [Case for Schmidt Bringing Rugby Smarts to the Wallabies](case_for_schmidt_bringing_rugby_smarts_to_the_wallabies.md): a rival prescription for the same problem, different source document
 - [England South Africa Semifinal Prediction and Form](england_south_africa_semifinal_prediction_and_form.md): another document covering Eddie Jones, different source
 - [Ian Foster Rejects Favourites Label vs Argentina](ian_foster_rejects_favourites_label_vs_argentina.md): another document referencing Eddie Jones, different source
 - [Nucifora Argument Against Returning to Australian Rugby](nucifora_argument_against_returning_to_australian_rugby.md): a counterweight view on fixing Australian rugby, different source document
 - [Peter Horne Rugby Australia High Performance Director Appointment](peter_horne_rugby_australia_high_performance_director_appointment.md): the governing body's own reform staffing, different source document
+- [Eddie Jones Commits To The Wallabies Job After The 2023 World Cup](eddie_jones_commitment_to_wallabies_job_2023.md): same source document (doc_0407)
+- [Jones Defends Leaving Cooper And Hooper Out Of The World Cup Squad](eddie_jones_defends_youth_selection_over_cooper_and_hooper.md): same source document (doc_0407)
+- [Eddie Jones Denies Talks Over The Japan Head Coach Role](eddie_jones_denies_japan_head_coach_talks.md): same source document (doc_0407)
+- [The NSW Waratahs' Licence Handover To Rugby Australia](nsw_waratahs_licence_handover_to_rugby_australia.md): same source document (doc_0492)
+- [The QRU Refuses To Centralise Commercial Functions](qru_refusal_to_centralise_commercial_functions.md): same source document (doc_0492)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

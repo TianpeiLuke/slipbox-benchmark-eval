@@ -13,6 +13,7 @@ The reviewer's verdict is that it is "a lot of crash-bang-wallop fun and Reilly 
 
 ## Related Notes
 
+
 - [Killing For Country David Marr](killing_for_country_david_marr.md): another October title in the same roundup
 - [Gunflower Stories Laura Jean Mckay](gunflower_stories_laura_jean_mckay.md): another October title in the same roundup
 - [Going Infinite Michael Lewis On Sam Bankman Fried](going_infinite_michael_lewis_on_sam_bankman_fried.md): another October title in the same roundup
@@ -20,6 +21,9 @@ The reviewer's verdict is that it is "a lot of crash-bang-wallop fun and Reilly 
 - [I Married A Witch 1942 Rene Clair Comedy](i_married_a_witch_1942_rene_clair_comedy.md): shares the World War period tag, unrelated subject
 - [Freaks Vs The Reich Italian Superhero Film](freaks_vs_the_reich_italian_superhero_film.md): also concerns Nazi-era settings, different document
 - [Amnesia The Bunker](amnesia_the_bunker.md): shares the World War tag, unrelated subject
+- [Gen Z: Definition And Formative Events](gen_z_definition_and_formative_events.md): both discuss World War; different source document
+- [An Australian Pandemic Account By Aisha Dow And Melissa Cunningham](life_as_we_knew_it_australian_pandemic_account.md): same source document (doc_0582)
+- [Michael Gawenda's Exploration Of His Jewish Identity](my_life_as_a_jew_michael_gawenda.md): same source document (doc_0582)
 
 ## Source
 

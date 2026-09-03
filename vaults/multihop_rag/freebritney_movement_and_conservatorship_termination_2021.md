@@ -13,6 +13,7 @@ When freedom came in November 2021, she says she felt shock, relief, elation, sa
 
 ## Related Notes
 
+
 - [Britney Spears Conservatorship Under Jamie Spears](britney_spears_conservatorship_under_jamie_spears.md): strong overlap on the conservatorship and the granting of freedom, from another document
 - [Britney Spears David Lucado Relationship](britney_spears_david_lucado_relationship.md): overlaps on the conservatorship years and her father, from a different source
 - [Justin Timberlake Apology And Support For Britney Spears](justin_timberlake_apology_and_support_for_britney_spears.md): overlaps on the conservatorship hearing coverage, reported elsewhere
@@ -21,6 +22,8 @@ When freedom came in November 2021, she says she felt shock, relief, elation, sa
 - [Britney Spears Estrangement From Her Family](britney_spears_estrangement_from_her_family.md): same source, on the father she reported to 911
 - [Britney Spears Memoir Barbs At Timberlake And Federline](britney_spears_memoir_barbs_at_timberlake_and_federline.md): same source document
 - [Britney Spears Memoir Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): same source, on what freedom afterwards looked like
+- [Britney Spears' Memoir On Early Fame And The Loss Of Freedom](britney_spears_memoir_early_fame_loss_of_freedom.md): same source document (doc_0052)
+- [Britney Spears On Motherhood And Postpartum Depression](britney_spears_motherhood_and_postpartum_depression.md): same source document (doc_0052)
 
 ## Source
 

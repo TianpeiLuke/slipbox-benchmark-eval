@@ -13,6 +13,7 @@ In fairness, the reporter added, he was clearer and much easier to understand th
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): also concerns prosecutor Danielle Sassoon, from a different source document.
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): another witness examination at the same trial, from a different source document.
 - [Cohen's Cross-Examination of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): also concerns Mark Cohen, from a different source document.
@@ -21,6 +22,10 @@ In fairness, the reporter added, he was clearer and much easier to understand th
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): a claim he made in the same testimony (doc_0053).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): another claim from the same day on the stand (doc_0053).
 - [Alameda Research's Origins and Naming](alameda_research_origins_and_naming.md): the account of the firm he gave that day (doc_0053).
+- [FTX's Absence Of A Chief Risk Officer](ftx_absence_of_chief_risk_officer.md): same source document (doc_0053)
+- [Allow_negative: Alameda's Exemption From FTX Liquidation](ftx_alameda_allow_negative_liquidation_exemption.md): same source document (doc_0053)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Cross-Examination](term_cross_examination.md): uses the concept cross examination
 
 ## Source
 

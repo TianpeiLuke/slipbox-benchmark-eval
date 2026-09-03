@@ -11,11 +11,16 @@ The grounds are the character's circumstances. Peter Parker is often the most fi
 
 ## Related Notes
 
+
 - [Marvel's Relatable Superhero Formula](marvel_relatable_superhero_formula.md): same source; the editorial strategy this character is the best case of.
 - [The 2002 Spider-Man Thanksgiving Dinner Scene](spider_man_2002_thanksgiving_dinner_scene.md): same source; the film scene that dramatises the argument.
 - [The Spectacular Spider-Man Thanksgiving Finale](spectacular_spider_man_thanksgiving_finale.md): same source; the episode where the same needs are met rather than frustrated.
 - [Marvel's Spider-Man 2](marvels_spider_man_2_game.md): another treatment of the same character, from a different source document.
 - [Mary Jane Missions Spider Man 2 Reception Improvement](mary_jane_missions_spider_man_2_reception_improvement.md): also covers Peter Parker, from a different source document.
+- [Meta AI Assistant Limits On Smart Glasses](meta_ai_assistant_limits_on_smart_glasses.md): both discuss Peter Parker; different source document
+- [PS5 Spider-Man 2 Bundle Deal](ps5_spider_man_2_bundle_deal.md): both discuss Peter Parker; different source document
+- [Spider-Man's Macy's Thanksgiving Parade Balloon](spider_man_macys_thanksgiving_parade_balloon.md): same source document (doc_0279)
+- [Thanksgiving As Communal Need Fulfillment](thanksgiving_as_communal_need_fulfillment.md): same source document (doc_0279)
 
 ## Source
 

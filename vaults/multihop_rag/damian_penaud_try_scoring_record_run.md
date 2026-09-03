@@ -13,11 +13,17 @@ Galthié spread the credit: "It's easy to congratulate Damian for his attacking 
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): also discusses South Africa, from a different document.
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): also discusses South Africa, from a different document.
 - [ChatGPT Use in Government and Courts](chatgpt_use_in_government_and_courts.md): also discusses South Africa, from a different document.
 - [England Cricket World Cup 2023 Qualification Crisis](england_cricket_world_cup_2023_qualification_crisis.md): also discusses South Africa, from a different document.
 - [England South Africa 2023 Semifinal Routes](england_south_africa_2023_semifinal_routes.md): also discusses South Africa, from a different document.
+- [France Beat Italy To Top Rugby World Cup Pool A](france_beat_italy_to_top_rugby_world_cup_pool_a.md): same source document (doc_0414)
+- [France's Eight-Try Sequence Against Italy](france_eight_try_sequence_against_italy.md): same source document (doc_0414)
+- [France's Injury Setbacks: Dupont And Capuozzo's HIA](france_injury_setbacks_dupont_and_capuozzo.md): same source document (doc_0414)
+- [Kieran Crowley Criticises The Italian Rugby Federation](kieran_crowley_criticises_italian_rugby_federation.md): same source document (doc_0414)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

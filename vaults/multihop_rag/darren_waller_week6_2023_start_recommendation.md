@@ -13,6 +13,7 @@ The matchup grounds explain the ceiling. Buffalo got its first test against tigh
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another "Start Him" verdict in the same weekly-decision format, from a different document.
 - [Bears Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also discusses Cole Kmet, the tight end Waller is grouped with, from a different document.
 - [Dallas Goedert Week 5 2023 Bust Warning](dallas_goedert_week5_2023_bust_warning.md): also discusses Cole Kmet and Kyle Pitts, the same tight end tier, from the companion Week 5 column.
@@ -20,6 +21,9 @@ The matchup grounds explain the ceiling. Buffalo got its first test against tigh
 - [Devin Singletary Week 13 Start Verdict](devin_singletary_week_13_start_verdict.md): another "Start Him" verdict, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another lineup call from the same Week 6 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this start call applies, from the same column.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
 
 ## Source
 

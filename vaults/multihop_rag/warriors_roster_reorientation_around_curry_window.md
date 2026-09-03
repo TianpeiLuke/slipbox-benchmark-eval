@@ -11,6 +11,7 @@ The grounds are converging contract deadlines: for years the picks and players h
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): overlaps on salary-matching mechanics, from a different document.
 - [Recent NBA MVP Winners Since 2010](recent_nba_mvp_winners_since_2010.md): also discusses Curry and Golden State, from a different document.
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): shares the trade and free agency theme, from a different document.
@@ -19,6 +20,13 @@ The grounds are converging contract deadlines: for years the picks and players h
 - [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): shares the trade and free agency theme, from a different document.
 - [Collingwood 2023 Premiership Players Who Missed Out](collingwood_2023_premiership_players_who_missed_out.md): shares the trade and free agency theme, from a different document.
 - [Corbin Burnes And Willy Adames Brewers Trade Candidacy](corbin_burnes_willy_adames_brewers_trade_candidacy.md): shares the trade and free agency theme, from a different document.
+- [Warriors 2020 And 2021 Draft Misses](warriors_2020_and_2021_draft_misses.md): same source document (doc_0522)
+- [Warriors 2021 Draft Kuminga And Moody](warriors_2021_draft_kuminga_and_moody.md): same source document (doc_0522)
+- [Warriors Aging Core Curry Thompson Green](warriors_aging_core_curry_thompson_green.md): same source document (doc_0522)
+- [Warriors Collapse Vs Kings In-Season Tournament](warriors_collapse_vs_kings_in_season_tournament.md): same source document (doc_0522)
+- [Warriors Recent Draft Class Outcomes](warriors_recent_draft_class_outcomes.md): same source document (doc_0522)
+- [Warriors Two-Timeline Plan Failure](warriors_two_timeline_plan_failure.md): same source document (doc_0522)
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

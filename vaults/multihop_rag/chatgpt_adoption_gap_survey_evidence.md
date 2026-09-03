@@ -13,6 +13,7 @@ TechCrunch's proposed explanation for the gap is the product itself: ChatGPT's l
 
 ## Related Notes
 
+
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): overlaps on polling of Americans, from a different document.
 - [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): also draws on Pew Research adoption data, from a different document.
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): overlaps on what people use chatbots for, from a different document.
@@ -21,6 +22,8 @@ TechCrunch's proposed explanation for the gap is the product itself: ChatGPT's l
 - [ChatGPT As A User Experience Breakthrough](chatgpt_as_user_experience_breakthrough.md): drawn from the same source document (doc_0047), and is the mainstreaming claim this evidence bounds.
 - [The Competitive Response To ChatGPT Across The AI Industry](chatgpt_competitive_response_across_ai_industry.md): drawn from the same source document (doc_0047).
 - [ChatGPT's Hallucination And Bias Limitations](chatgpt_hallucination_and_bias_limitations.md): drawn from the same source document (doc_0047), and supplies the limitations blamed here.
+- [ChatGPT's Launch And Its First Year Of Evolution](chatgpt_launch_and_first_year_evolution.md): same source document (doc_0047)
+- [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): same source document (doc_0047)
 
 ## Source
 

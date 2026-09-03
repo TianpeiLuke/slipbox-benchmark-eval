@@ -13,6 +13,7 @@ McLean took the loss of the record graciously. "There is something to be said fo
 
 ## Related Notes
 
+
 - [All You Had To Do Was Stay](all_you_had_to_do_was_stay_taylor_swift_song.md): also concerns "All Too Well" and Taylor Swift, from a different source document.
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also concerns Taylor Swift, from a different source document.
 - [Bad Blood: Taylor Swift and Katy Perry](bad_blood_taylor_swift_katy_perry_feud.md): also concerns Taylor Swift, from a different source document.
@@ -21,6 +22,8 @@ McLean took the loss of the record graciously. "There is something to be said fo
 - [Don McLean's Career Honours and Recognition](don_mclean_career_honours_and_recognition.md): drawn from the same source document, doc_0393.
 - [Don McLean's Christmas Memories Album](don_mclean_christmas_memories_album.md): drawn from the same source document, doc_0393.
 - [Don McLean on the Emotional Power of Music](don_mclean_on_the_emotional_power_of_music.md): drawn from the same source document, doc_0393.
+- [Don McLean's Upcoming Albums and Touring](don_mclean_upcoming_albums_and_touring.md): same source document (doc_0393)
+- [Don McLean's "Vincent" and the Children's Book](don_mclean_vincent_song_and_childrens_book.md): same source document (doc_0393)
 
 ## Source
 

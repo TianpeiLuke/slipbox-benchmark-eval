@@ -13,11 +13,18 @@ The reporter's assessment was that Sassoon demolished any points Cohen had attem
 
 ## Related Notes
 
+
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): overlaps on Ellison, Bankman-Fried and Alameda, from a different source document.
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): the taking of customer funds she confessed to, from a different source document.
 - [Code Evidence Outweighs Deleted Signal Messages](code_evidence_outweighs_deleted_signal_messages.md): another instance of durable evidence surviving deletion, from a different source document.
 - [Ellison's Risk Spreadsheet for Venture Investments](ellison_risk_spreadsheet_for_venture_investments.md): the same witness's documentary evidence, from a different source document.
 - [FTX's Inner Circle: Family and Friends Implicated](ftx_inner_circle_family_and_friends_implicated.md): also concerns Barbara Fried, from a different source document.
+- [Cohen's Cross-Examination Of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): same source document (doc_0293)
+- [FTX's Collapse And Bankruptcy, November 2022](ftx_collapse_and_bankruptcy_november_2022.md): same source document (doc_0293)
+- [FTX Fraud Charges And The SEC's Allegation](ftx_fraud_charges_and_sec_allegation.md): same source document (doc_0293)
+- [Why FTX Trial Coverage Favors The Prosecution](why_ftx_trial_coverage_favors_the_prosecution.md): same source document (doc_0293)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Board Governance](term_board_governance.md): uses the concept board governance
 
 ## Source
 

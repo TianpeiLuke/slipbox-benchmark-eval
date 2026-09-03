@@ -13,11 +13,19 @@ Asked what the fastest-growing demographic actually does on the platform, Baszuc
 
 ## Related Notes
 
+
 - [Apple's 2023 Top iPhone Apps and Games Lists](apple_2023_top_iphone_apps_and_games_lists.md): also mentions Grand Theft Auto, from a different source document.
 - [Google's Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): shares the creator-economy and earnings themes, from a different source document.
 - [Grand Theft Auto VI Trailer's YouTube Record](grand_theft_auto_vi_trailer_youtube_record.md): also concerns Grand Theft Auto, from a different source document.
 - [Roblox, the Online Game Platform](roblox_online_game_platform.md): overlaps on Roblox's platform and demographics, from a different source document.
 - [Take-Two, Grand Theft Auto VI's 2025 Release and the Stock Reaction](take_two_grand_theft_auto_vi_2025_release_stock_reaction.md): also concerns Grand Theft Auto, from a different source document.
+- [Metaverse Interoperability And 3D File Formats](metaverse_interoperability_and_3d_file_formats.md): same source document (doc_0539)
+- [Roblox Advertising And Brand Experiences](roblox_advertising_and_brand_experiences.md): same source document (doc_0539)
+- [Roblox As A Communication Platform, Not A Game](roblox_as_communication_platform_not_game.md): same source document (doc_0539)
+- [Roblox's China Strategy And Tencent](roblox_china_strategy_and_tencent.md): same source document (doc_0539)
+- [Roblox's Content Delivery Architecture Versus App Stores](roblox_content_delivery_architecture_vs_app_stores.md): same source document (doc_0539)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

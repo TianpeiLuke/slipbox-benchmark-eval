@@ -11,6 +11,7 @@ The grounds the DOJ pressed through Eddy Cue's testimony were framed as a single
 
 ## Related Notes
 
+
 - [Apple Versus Google Antitrust Conduct Contrast](apple_versus_google_antitrust_conduct_contrast.md): overlapping coverage of Google, Apple and their deals, from a different source document.
 - [Deft's Competitive Landscape Against Search Incumbents](deft_competitive_landscape_search_incumbents.md): overlapping coverage of Google, search and product quality, from a different source document.
 - [Firefox Decline: The Alternative Chrome-Share Explanation](firefox_decline_alternative_explanation_chrome_share.md): overlapping coverage of Google, defaults and search, from a different source document.
@@ -19,6 +20,9 @@ The grounds the DOJ pressed through Eddy Cue's testimony were framed as a single
 - [The Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): drawn from the same source document (doc_0014).
 - [Apple's Privacy Stance Versus Google's Default Payments](apple_privacy_stance_versus_google_default_payments.md): drawn from the same source document (doc_0014).
 - [Closed Sessions Limited The Public Record Of Cue's Testimony](closed_sessions_limited_the_public_record_of_cue_testimony.md): drawn from the same source document (doc_0014).
+- [Eddy Cue's Testimony In US V. Google](eddy_cue_testimony_in_us_v_google.md): same source document (doc_0014)
+- [Google's Defense That Safari Succeeded On Product Integration](google_defense_that_safari_succeeded_on_product_integration.md): same source document (doc_0014)
+- [Default Search Engine](term_default_search_engine.md): uses the concept default search engine
 
 ## Source
 

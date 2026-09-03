@@ -13,11 +13,18 @@ Two facts framed the second leg. Jamaica have never won in Canada, though they s
 
 ## Related Notes
 
+
 - [Belgium-England Women's Nations League Result, October 2023](belgium_england_womens_nations_league_result_october_2023.md): another Nations League item, from a different document.
 - [Canada-Jamaica Second Leg Kickoff and Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): the return fixture in this qualification path, separately sourced.
 - [Canada-Jamaica Second Leg Result](canada_jamaica_second_leg_result.md): where this Copa America and Nations League path was settled, in a different document.
 - [Canada-Jamaica Second Leg Second Half](canada_jamaica_second_leg_second_half.md): the closing play of that decisive leg, from a separate source.
 - [Canada-Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also concerns Michail Antonio's availability, in a different document.
+- [Fallout From John Herdman's Departure From Canada Soccer](canada_soccer_john_herdman_departure_fallout.md): same source document (doc_0157)
+- [How To Watch Jamaica vs Canada, First Leg](jamaica_canada_first_leg_broadcast.md): same source document (doc_0157)
+- [The First Half Of Jamaica 0-1 Canada](jamaica_canada_first_leg_first_half.md): same source document (doc_0157)
+- [The Rain Postponement Of Jamaica vs Canada](jamaica_canada_first_leg_rain_postponement.md): same source document (doc_0157)
+- [Canada Beat Jamaica 2-1 In The Nations League Quarterfinal First Leg](jamaica_canada_first_leg_result.md): same source document (doc_0157)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

@@ -13,6 +13,7 @@ The method is one of several innovations in cranberry farming that Urann pioneer
 
 ## Related Notes
 
+
 - [Marcus Urann Cranberry King Biography](marcus_urann_cranberry_king_biography.md): same article, on the innovator who pioneered this
 - [American Cranberry Native Range And Harvest Window](american_cranberry_native_range_and_harvest_window.md): same article, on the bogs and harvest window this applies to
 - [Cranberry Industry Scale And Urann Legacy](cranberry_industry_scale_and_urann_legacy.md): same article, on the industry these methods built
@@ -20,6 +21,9 @@ The method is one of several innovations in cranberry farming that Urann pioneer
 - [Cranberry Air Pockets And Seed Dispersal](cranberry_air_pockets_and_seed_dispersal.md): also explains the air pockets that make berries float, different document
 - [Cranberry Domestication And Us Cultivation History](cranberry_domestication_and_us_cultivation_history.md): overlaps on vines and cultivation, different document
 - [Why Cranberries Belong To Thanksgiving](why_cranberries_belong_to_thanksgiving.md): overlaps on cranberries and berries, different document
+- [Cranberry Flower and Pollination Biology](cranberry_flower_and_pollination_biology.md): content overlap 0.10 on cranberries, cranberry, four; different source document
+- [No Evidence Cranberries Were At The First Thanksgiving](no_evidence_cranberries_at_the_first_thanksgiving.md): same source document (doc_0130)
+- [Ocean Spray, The Cranberry Cooperative](ocean_spray_cranberry_cooperative.md): same source document (doc_0130)
 
 ## Source
 

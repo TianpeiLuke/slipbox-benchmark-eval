@@ -11,9 +11,20 @@ The enforcement gap is the second ground: influencer marketing agencies on both 
 
 ## Related Notes
 
+
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): shares political-advertising and regulatory-investigation themes, from a different source document.
 - [Regulatory Investigations Into OpenAI, 2023](regulatory_investigations_into_openai_2023.md): shares the regulatory-investigation theme, from a different source document.
 - [NMPA Submission: Generative AI As Greatest Risk](nmpa_submission_generative_ai_greatest_risk.md): shares creator-economy and lobbying themes, from a different source document.
+- [Gio Reyna's Return Under Berhalter, And His 45 Minutes Against Germany](gio_reyna_usmnt_return_and_berhalter_reconciliation.md): shares lobbying_political_donations, regulatory_investigation; different source document
+- [What A Ruling For Texas And Florida Would Do To Platforms](scotus_ruling_consequences.md): shares creator_economy, lobbying_political_donations; different source document
+- [Annie Wu Henry On Gen Z Authenticity](annie_wu_henry_on_gen_z_authenticity.md): same source document (doc_0468)
+- [AOC's Twitch "Among Us" Stream](aoc_twitch_among_us_stream.md): same source document (doc_0468)
+- [Democratic Dominance In Campaign Social Media](democratic_social_media_campaign_dominance.md): same source document (doc_0468)
+- [Doug Mastriano's Facebook Live Campaign](doug_mastriano_facebook_live_campaign.md): same source document (doc_0468)
+- [Gen Z Policy Misalignment With The Republican Party](gen_z_policy_misalignment_republican_party.md): same source document (doc_0468)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
 
 ## Source
 

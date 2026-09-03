@@ -11,6 +11,7 @@ The well-reviewed Japanese blockbuster, distributed by Toho International, cost 
 
 ## Related Notes
 
+
 - [Amnesia the Bunker](amnesia_the_bunker.md): also discusses World War, from a different source document.
 - [Canada Jamaica Second Leg Kickoff and Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): also discusses North American, from a different source document.
 - [Crosby Malkin Letang Eighteenth Season Together](crosby_malkin_letang_eighteenth_season_together.md): also discusses North American, from a different source document.
@@ -19,6 +20,8 @@ The well-reviewed Japanese blockbuster, distributed by Toho International, cost 
 - [Amc Theatres Direct Distribution of Concert Films](amc_theatres_direct_distribution_of_concert_films.md): another note drawn from the same source document (doc_0173).
 - [December 2023 Box Office Weekend Slowdown](december_2023_box_office_weekend_slowdown.md): the weak weekend this opening landed in (doc_0173).
 - [Hunger Games, Trolls, Wish and Napoleon Holdovers](hunger_games_trolls_wish_napoleon_holdovers.md): the holdover titles it outgrossed or trailed (doc_0173).
+- ["Renaissance: A Film by Beyoncé" Opens At $21 Million](renaissance_beyonce_concert_film_opening.md): same source document (doc_0173)
+- [Comparing "Renaissance" And "The Eras Tour" As Concert Films](renaissance_versus_eras_tour_concert_film_comparison.md): same source document (doc_0173)
 
 ## Source
 

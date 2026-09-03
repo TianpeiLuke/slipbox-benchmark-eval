@@ -11,6 +11,7 @@ The company is inseparable from the prominent Toronto family behind it, and the 
 
 ## Related Notes
 
+
 - [Blue Jays Roster Implications Of The Ohtani Pursuit](blue_jays_roster_implications_of_ohtani_pursuit.md): overlapping coverage of the Toronto Blue Jays from a different source document.
 - [Cody Bellinger Free Agent Market And Suitors](cody_bellinger_free_agent_market_and_suitors.md): overlapping coverage of the Blue Jays and Rogers, from a different source document.
 - [Houston Astros Manager Search After Dusty Baker](houston_astros_manager_search_after_dusty_baker.md): also concerns the Toronto Blue Jays, from a different source document.
@@ -19,6 +20,8 @@ The company is inseparable from the prominent Toronto family behind it, and the 
 - [The Rogers Control Trust And Family Power Shifts](rogers_control_trust_and_family_power_shifts.md): drawn from the same source document (doc_0156).
 - [The Rogers Family Boardroom Battle Of 2021](rogers_family_boardroom_battle_2021.md): drawn from the same source document (doc_0156).
 - [The Rogers Family Truce During The Shaw Takeover](rogers_family_truce_during_shaw_takeover.md): drawn from the same source document (doc_0156).
+- [The Rogers Governance Committee Investigation Of The 2021 Events](rogers_governance_committee_investigation_of_2021_events.md): same source document (doc_0156)
+- [The Rogers Sisters' Oppression Lawsuit Of 2023](rogers_sisters_oppression_lawsuit_2023.md): same source document (doc_0156)
 
 ## Source
 

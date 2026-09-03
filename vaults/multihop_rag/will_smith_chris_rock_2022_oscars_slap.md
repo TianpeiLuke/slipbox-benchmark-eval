@@ -11,6 +11,7 @@ The incident was reassessed in October 2023 after Pinkett Smith revealed the cou
 
 ## Related Notes
 
+
 - [Gemini Pro Factual Errors And Confabulation](gemini_pro_factual_errors_and_confabulation.md): an unrelated article that also references a Best Actor award
 - [Streaming Exclusivity Erosion And Maestro](streaming_exclusivity_erosion_and_maestro.md): separate coverage that also concerns the Academy Awards
 - [Will Smith Baltimore Book Event Remarks On Brutiful Marriage](will_smith_baltimore_book_event_remarks_on_brutiful_marriage.md): his later public account of defending and supporting his wife
@@ -19,6 +20,8 @@ The incident was reassessed in October 2023 after Pinkett Smith revealed the cou
 - [Expert Debate Over The Oscars Slap Given The Separation](expert_debate_over_the_oscars_slap_given_the_separation.md): the fuller expert disagreement over what the slap meant, same article
 - [Expert Signs It Is Time To End A Marriage](expert_signs_it_is_time_to_end_a_marriage.md): the divorce-threshold discussion carried in the same article
 - [Jada Pinkett Smith 2023 Separation Disclosure](jada_pinkett_smith_2023_separation_disclosure.md): the revelation that placed the slap inside the separation period
+- [Jada Pinkett Smith's "Entanglement" With August Alsina](jada_pinkett_smith_august_alsina_entanglement.md): same source document (doc_0018)
+- [Separation As An Alternative To Divorce: The "LAT" Partnership](separation_as_an_alternative_to_divorce_lat_partnership.md): same source document (doc_0036)
 
 ## Source
 

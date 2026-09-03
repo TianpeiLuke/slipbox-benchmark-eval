@@ -13,6 +13,7 @@ Speaking at the company's launch in New Delhi in December 2023, Luke said the co
 
 ## Related Notes
 
+
 - [India World Cup Semifinal Appearances Record](india_world_cup_semifinal_appearances_record.md): overlapping India-focused coverage, from a different source document.
 - [Battery Swapping Ecosystem And Unit Economics Challenges](battery_swapping_ecosystem_and_unit_economics_challenges.md): drawn from the same source document (doc_0216), on the obstacles to the India bet.
 - [Gogoro Battery Swapping Service Revenue Growth](gogoro_battery_swapping_service_revenue_growth.md): drawn from the same source document (doc_0216), on the business line being exported.
@@ -21,6 +22,7 @@ Speaking at the company's launch in New Delhi in December 2023, Luke said the co
 - [Gogoro India Commercial Launch And Investments](gogoro_india_commercial_launch_and_investments.md): drawn from the same source document (doc_0216), on what the company has actually committed in India.
 - [Gogoro India Station Rollout Targets](gogoro_india_station_rollout_targets.md): drawn from the same source document (doc_0216), on the scale being planned.
 - [Gogoro Taiwan Business Decline](gogoro_taiwan_business_decline.md): drawn from the same source document (doc_0216), the home-market pressure behind the move.
+- [India's Electric Two-Wheeler Market Conditions](india_electric_two_wheeler_market_conditions.md): same source document (doc_0216)
 
 ## Source
 

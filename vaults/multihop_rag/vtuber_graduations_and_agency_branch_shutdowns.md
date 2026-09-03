@@ -13,9 +13,14 @@ In some cases VTubers are not given a choice and can be graduated prematurely, t
 
 ## Related Notes
 
+
 - [Alliance DAO All11 Cohort Selectivity](alliance_dao_all11_cohort_selectivity.md): incidental "graduating" vocabulary overlap from an unrelated source document
 - [Calls for Creative Experimentation in VTuber Agencies](calls_for_creative_experimentation_in_vtuber_agencies.md): the remedy proposed in the same document
 - [Corporate VTubing Remains Viable (Counterpoint)](corporate_vtubing_remains_viable_counterpoint.md): the counterpoint to this bleak picture, in the same article
+- [VTuber Agency Management and Nondisclosure Agreements](vtuber_agency_management_and_nondisclosure_agreements.md): same source document (doc_0550)
+- [VTubing's Market Saturation and Loss of Novelty](vtubing_market_saturation_and_loss_of_novelty.md): same source document (doc_0550)
+- [VTubing's Rise on Twitch and Hololive's English Debut](vtubing_rise_on_twitch_and_hololive_debut.md): same source document (doc_0550)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
 
 ## Source
 

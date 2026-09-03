@@ -11,6 +11,7 @@ The track marks the boundary of 1989's quality: originally a deluxe edition bonu
 
 ## Related Notes
 
+
 - [Microsoft Gaming Studio Acquisition Portfolio](microsoft_gaming_studio_acquisition_portfolio.md): shares Getty Images picture credits as an incidental overlap, from a different document
 - [Ubisoft Cloud Gaming Rights To Activision Blizzard Catalogue](ubisoft_cloud_gaming_rights_to_activision_blizzard_catalogue.md): shares Getty Images picture credits as an incidental overlap, from a different document
 - [UK Games Industry Impact Of Activision Acquisition](uk_games_industry_impact_of_activision_acquisition.md): shares Getty Images picture credits as an incidental overlap, from a different document
@@ -19,6 +20,8 @@ The track marks the boundary of 1989's quality: originally a deluxe edition bonu
 - [Blank Space](blank_space_taylor_swift_song.md): another 1989 track from the same BBC article
 - [Clean, Written With Imogen Heap](clean_taylor_swift_song_imogen_heap.md): another 1989 track from the same BBC article
 - [How You Get The Girl](how_you_get_the_girl_taylor_swift_song.md): another 1989 track from the same BBC article
+- [I Know Places: A Love Song About Hiding From The Cameras](i_know_places_taylor_swift_song.md): same source document (doc_0257)
+- [I Wish You Would: A 2am Song Whose Real Story Runs In Reverse](i_wish_you_would_taylor_swift_song.md): same source document (doc_0257)
 
 ## Source
 

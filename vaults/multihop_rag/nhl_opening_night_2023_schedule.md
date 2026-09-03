@@ -13,6 +13,7 @@ Before the Vegas game, the Golden Knights would hold a ceremony to raise their 2
 
 ## Related Notes
 
+
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): another Tampa Bay document, different sport and source
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): another Tampa Bay document, different source
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): another Tampa Bay document, different source
@@ -21,6 +22,8 @@ Before the Vegas game, the Golden Knights would hold a ceremony to raise their 2
 - [Blackhawks Penguins 2023 Broadcast Coverage](blackhawks_penguins_2023_broadcast_coverage.md): the coverage of the middle game on this schedule, same source document
 - [Blackhawks Penguins 2023 First Period Rust Opener](blackhawks_penguins_2023_first_period_rust_opener.md): the middle game itself, same source document
 - [Blackhawks Penguins 2023 Opening Night Lineups](blackhawks_penguins_2023_opening_night_lineups.md): the rosters in that game, same source document
+- [Second Period: Bedard's First NHL Point](blackhawks_penguins_2023_second_period_bedard_first_point.md): same source document (doc_0483)
+- [Blackhawks vs. Penguins 2023: Start Time And Arena](blackhawks_penguins_2023_start_time_and_arena.md): same source document (doc_0483)
 
 ## Source
 

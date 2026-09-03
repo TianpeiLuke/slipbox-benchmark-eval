@@ -13,6 +13,7 @@ Comedian and friend Steven Pearl described the change during the Vice documentar
 
 ## Related Notes
 
+
 - [Robin Williams Cocaine Use At The Comedy Store](robin_williams_cocaine_use_at_the_comedy_store.md): same source, on the earlier drug years the autopsy ruled out
 - [Robin Williams Cocaine Material In His Stand Up Act](robin_williams_cocaine_material_in_his_stand_up_act.md): same source document
 - [Robin Williams Quitting Cocaine After Belushi Death](robin_williams_quitting_cocaine_after_belushi_death.md): same source, on his earlier recovery
@@ -21,6 +22,7 @@ Comedian and friend Steven Pearl described the change during the Vice documentar
 - [Dementia Research Register And Trial Participation](dementia_research_register_and_trial_participation.md): overlaps on dementia, from a different document
 - [Bhavik Patel Appointed Mayo Clinic Arizona Chief Ai Officer](bhavik_patel_appointed_mayo_clinic_arizona_chief_ai_officer.md): also cites the Mayo Clinic, unrelated subject
 - [Eeat And The Shift To Institutional Authority](eeat_and_the_shift_to_institutional_authority.md): also references the Mayo Clinic, unrelated subject
+- [Robin Williams' Stand-Up Origins And Mork Fame](robin_williams_stand_up_origins_and_mork_fame.md): same source document (doc_0227)
 
 ## Source
 

@@ -11,6 +11,7 @@ The questions that matter are posed as three: how are HSF's assets performing ve
 
 ## Related Notes
 
+
 - [Hipgnosis 440 Million Catalog Sale To Hipgnosis Songs Capital](hipgnosis_440_million_catalog_sale_to_hipgnosis_songs_capital.md): also concerns Hipgnosis Songs Fund and Merck Mercuriadis, from a different source document.
 - [Hipgnosis Songs Fund Continuation Vote](hipgnosis_songs_fund_continuation_vote.md): covers the discontinuation vote referred to here, from a different source document.
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): shares a corpus acquisition tag, from a different source document.
@@ -19,6 +20,15 @@ The questions that matter are posed as three: how are HSF's assets performing ve
 - [ASX And Wall Street Selloff October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): shares a corpus acquisition tag, from a different source document.
 - [Beeper Funding And Investors](beeper_funding_and_investors.md): shares a corpus acquisition tag, from a different source document.
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): shares a corpus acquisition tag, from a different source document.
+- [The Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): same source document (doc_0263)
+- [Hipgnosis Songs Fund's Results Delay, December 2023](hipgnosis_songs_fund_results_delay_december_2023.md): same source document (doc_0263)
+- [The Board Appoints And Oversees Its Own Valuer](hsf_board_appoints_and_oversees_its_own_valuer.md): same source document (doc_0263)
+- [The HSF Board Versus Hipgnosis Song Management](hsf_board_versus_hipgnosis_song_management_dispute.md): same source document (doc_0263)
+- [The Announcement As A Coded Signal About Mercuriadis' Call Option](hsf_coded_signal_and_mercuriadis_call_option.md): same source document (doc_0263)
+- [The Eight-Day Delay In Flagging The Valuation Concern](hsf_eight_day_delay_in_flagging_valuation_concern.md): same source document (doc_0263)
+- [HSF's Q4 2023 Catalogue Revenue Drivers](hsf_q4_2023_catalogue_revenue_drivers.md): same source document (doc_0263)
+- [HSM's Conflict Of Interest In Opining On The Valuation](hsm_conflict_of_interest_in_valuation_opinion.md): same source document (doc_0263)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

@@ -11,6 +11,7 @@ TechCrunch sets a countervailing consideration alongside it. As companies hear a
 
 ## Related Notes
 
+
 - [Generative AI As Competitive Threat To Meltwater](generative_ai_as_competitive_threat_to_meltwater.md): overlapping treatment of enterprise pressure from generative AI, from a different source document.
 - [Adobe Generative AI Tools](adobe_generative_ai_tools.md): shares the generative-AI theme, from a different source document.
 - [AI Copyright And Training Disputes](ai_copyright_and_training_disputes.md): shares the generative-AI theme, from a different source document.
@@ -19,6 +20,11 @@ TechCrunch sets a countervailing consideration alongside it. As companies hear a
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the generative-AI theme, from a different source document.
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): shares the generative-AI theme, from a different source document.
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the generative-AI theme, from a different source document.
+- [Deloitte's Guidance On Structuring Enterprise AI Adoption](deloitte_guidance_on_structuring_enterprise_ai_adoption.md): same source document (doc_0160)
+- [Enterprise Caution On Generative AI Adoption](enterprise_generative_ai_adoption_caution.md): same source document (doc_0160)
+- [Enterprise Generative AI Use-Case Pilots](enterprise_generative_ai_use_case_pilots.md): same source document (doc_0160)
+- [Measuring Generative AI Productivity At Juniper Networks](measuring_generative_ai_productivity_at_juniper_networks.md): same source document (doc_0160)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

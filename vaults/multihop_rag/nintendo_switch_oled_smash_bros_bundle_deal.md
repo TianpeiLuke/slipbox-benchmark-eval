@@ -11,9 +11,19 @@ Smash Bros. Ultimate was released way back in 2018, so it's hard to call this an
 
 ## Related Notes
 
+
 - [Classic Nintendo Switch Franchise Picks](classic_nintendo_switch_franchise_picks.md): also concerns Nintendo Switch games, from a different source document.
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): also concerns Nintendo Switch accessories, from a different source document.
 - [8BitDo Ultimate Bluetooth Hall Effect Controller](8bitdo_ultimate_bluetooth_hall_effect_controller.md): overlaps in content on Nintendo Switch controllers, from a different source document.
+- [Blasphemous 2](blasphemous_2.md): both discuss Nintendo Switch; different source document
+- [Chants of Sennaar](chants_of_sennaar.md): both discuss Nintendo Switch; different source document
+- [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): same source document (doc_0222)
+- [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): same source document (doc_0222)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0222)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

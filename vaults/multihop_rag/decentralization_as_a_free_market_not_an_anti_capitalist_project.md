@@ -11,6 +11,7 @@ The premise attacked is that decentralization is hostile to large commercial suc
 
 ## Related Notes
 
+
 - [Contested Evidence On Social Media Harm](contested_evidence_on_social_media_harm.md): overlapping coverage of capitalism and social media, from a different source document.
 - [The Fediverse ActivityPub Protocol](fediverse_activitypub_protocol.md): overlapping coverage of Mastodon and fediverse networking, from a different source document.
 - [Flipboard's Path To The Fediverse](flipboard_path_to_the_fediverse.md): overlapping coverage of Mastodon and the social fediverse, from a different source document.
@@ -19,6 +20,8 @@ The premise attacked is that decentralization is hostile to large commercial suc
 - [ActivityPub And Rival Social Protocols](activitypub_and_rival_social_protocols.md): drawn from the same source document (doc_0508).
 - [The ActivityPub Data Model Of Senders, Messages And Inboxes](activitypub_data_model_of_senders_messages_and_inboxes.md): drawn from the same source document (doc_0508).
 - [Craigslist Unbundling As A Model For Social Media](craigslist_unbundling_as_a_model_for_social_media.md): drawn from the same source document (doc_0508).
+- [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): same source document (doc_0508)
+- [Early Fediverse Messiness As A Product Opportunity](early_fediverse_messiness_as_a_product_opportunity.md): same source document (doc_0508)
 
 ## Source
 

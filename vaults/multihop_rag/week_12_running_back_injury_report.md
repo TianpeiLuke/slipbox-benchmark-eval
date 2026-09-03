@@ -13,6 +13,7 @@ Dolphins rookie De'Von Achane, who looked like the runaway Offensive Rookie of t
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also discusses Fred Warner, from a different document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also discusses Fred Warner, from a different document.
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also discusses Aaron Jones and Green Bay, from a different document.
@@ -21,6 +22,8 @@ Dolphins rookie De'Von Achane, who looked like the runaway Offensive Rookie of t
 - [Bye-Free Weeks Complicate Lineup Decisions](bye_free_weeks_complicate_lineup_decisions.md): frames the injury bug as one of the week's complications, from the same document.
 - [Fantasy Week 12 Schedule and No-Bye Teams](fantasy_week_12_schedule_and_no_bye_teams.md): the scheduling context for these injuries, from the same document.
 - [Josh Jacobs and Breece Hall 2023 Workloads](josh_jacobs_and_breece_hall_2023_workloads.md): another of the week's workload-driven calls, from the same document.
+- [Tony Pollard's Fantasy Outlook In 2023](tony_pollard_fantasy_outlook_2023.md): same source document (doc_0494)
+- [Week 12 RB Busts To Avoid](week_12_rb_busts_to_avoid.md): same source document (doc_0494)
 
 ## Source
 

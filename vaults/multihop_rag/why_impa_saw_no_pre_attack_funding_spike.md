@@ -11,6 +11,7 @@ Her grounds are that the money flow is continuous rather than event-driven, and 
 
 ## Related Notes
 
+
 - [Gaza Displacement and Casualties October 2023](gaza_displacement_and_casualties_october_2023.md): shares vocabulary around hamas, israel and since, from a different source document.
 - [Fatf Iran Isolation and Cash Dependency](fatf_iran_isolation_and_cash_dependency.md): another note drawn from the same source document (doc_0486).
 - [Hamas Fundraising After October 7](hamas_fundraising_after_october_7.md): the ongoing, non-spiking fundraising pattern (doc_0486).
@@ -19,6 +20,8 @@ Her grounds are that the money flow is continuous rather than event-driven, and 
 - [International Terror Finance Task Force](international_terror_finance_task_force.md): another note drawn from the same source document (doc_0486).
 - [Iran's State Funding of Hamas](iran_state_funding_of_hamas.md): the state budget that dwarfs campaign fundraising (doc_0486).
 - [Israel's Money Laundering and Terror Financing Prohibition Authority](israel_money_laundering_and_terror_financing_authority.md): the authority whose pre-war record is at issue (doc_0486).
+- [Private Sector Volunteers In Terror Finance Tracking](private_sector_volunteers_in_terror_finance_tracking.md): same source document (doc_0486)
+- [The Surge In Terror Financing Reports After October 7](surge_in_terror_financing_reports_after_october_7.md): same source document (doc_0486)
 
 ## Source
 

@@ -13,6 +13,7 @@ The combined result: less harmful rubber, more grip, better wear, and better ran
 
 ## Related Notes
 
+
 - [6PPD-Quinone And Coho Salmon Die-Offs](6ppd_quinone_and_coho_salmon_die_offs.md): drawn from the same source document (doc_0190).
 - [Bridgestone's Wireless In-Wheel EV Charging](bridgestone_wireless_in_wheel_ev_charging.md): drawn from the same source document (doc_0190).
 - [Cutting Wear Mass May Raise Toxicity](cutting_wear_mass_may_raise_toxicity.md): drawn from the same source document (doc_0190).
@@ -21,6 +22,8 @@ The combined result: less harmful rubber, more grip, better wear, and better ran
 - [Non-Pneumatic And Concept Future Tires](non_pneumatic_and_concept_future_tires.md): drawn from the same source document (doc_0190).
 - [Tire And Road Wear Particles](tire_and_road_wear_particles.md): drawn from the same source document (doc_0190).
 - [Tire Compound Composition And Its Performance Tradeoffs](tire_compound_composition_and_performance_tradeoffs.md): drawn from the same source document (doc_0190).
+- [The Tire Industry's Response To 6PPD Regulation](tire_industry_response_to_6ppd_regulation.md): same source document (doc_0190)
+- [Tire Lifespan, Scrappage And Retreading](tire_lifespan_scrappage_and_retreading.md): same source document (doc_0190)
 
 ## Source
 

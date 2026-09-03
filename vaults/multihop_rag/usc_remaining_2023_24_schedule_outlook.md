@@ -13,6 +13,7 @@ The counterweight is the back half: the Trojans play Arizona and UCLA twice, so 
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): overlaps on the Pac-12, Oregon and Alabama, from a different document.
 - [Alabama 2023 CFP Case and SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): overlaps on the Pac-12, Oregon and Alabama, from a different document.
 - [Alabama CFP Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): overlaps on the Pac-12 and the Ducks, from a different document.
@@ -21,6 +22,8 @@ The counterweight is the back half: the Trojans play Arizona and UCLA twice, so 
 - [Bronny James USC Collegiate Debut](bronny_james_usc_collegiate_debut.md): the difference-maker this outlook is conditional on, from the same document.
 - [Long Beach State 49ers Profile and USC Betting Odds](long_beach_state_49ers_profile_and_usc_betting_odds.md): the game that precedes this stretch, from the same document.
 - [USC Basketball Futures Odds: Pac-12 and National Title](usc_basketball_futures_odds_pac_12_and_national_title.md): the futures prices this outlook argues are attractive, from the same document.
+- [USC's Player Of The Year Candidates: Isaiah Collier And Boogie Ellis](usc_player_of_the_year_candidates_collier_and_ellis.md): same source document (doc_0103)
+- [USC Had Not Forged An Identity Eight Games Into 2023-24](usc_trojans_2023_24_early_season_struggles.md): same source document (doc_0103)
 
 ## Source
 

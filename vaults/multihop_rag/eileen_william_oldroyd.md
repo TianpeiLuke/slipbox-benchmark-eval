@@ -13,6 +13,7 @@ Polygon's Joshua Rivera describes the film as taking a compact and uncomfortably
 
 ## Related Notes
 
+
 - [Eileen and Jeff Shiffrin Met Through Skiing](eileen_and_jeff_shiffrin_met_through_skiing.md): incidental name overlap on "Eileen" from an unrelated source document
 - [Fading Afternoon](fading_afternoon.md): another write-up by the same critic, Joshua Rivera, in a different document
 - [Netflix November 2023 Slate Overview](netflix_november_2023_slate_overview.md): both reference David Fincher, from a separate article
@@ -21,6 +22,8 @@ Polygon's Joshua Rivera describes the film as taking a compact and uncomfortably
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 article
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): a fellow entry on the same ranked list
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
 
 ## Source
 

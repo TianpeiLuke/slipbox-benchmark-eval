@@ -11,6 +11,7 @@ Jubelirer cites the track as a case in point for the company's methods: it is pl
 
 ## Related Notes
 
+
 - [Beatles Now And Then 2023 Release](beatles_now_and_then_2023_release.md): drawn from the same interview and is another of the year's headline campaigns.
 - [Capitol 2023 Frontline Roster Highlights](capitol_2023_frontline_roster_highlights.md): drawn from the same interview and covers the wider roster this campaign sits within.
 - [Capitol Hip Hop And RnB Executive Build Out](capitol_hip_hop_and_rnb_executive_build_out.md): drawn from the same interview and covers the hip-hop and R&B capability behind such signings.
@@ -19,6 +20,8 @@ Jubelirer cites the track as a case in point for the company's methods: it is pl
 - [Capitol Music Group Organisational Reset Priorities](capitol_music_group_organisational_reset_priorities.md): drawn from the same interview and gives the tailored-plan rule this campaign follows.
 - [Capitol Music Group Pre 2021 Decline Diagnosis](capitol_music_group_pre_2021_decline_diagnosis.md): drawn from the same interview and describes the roster stagnation such signings addressed.
 - [Capitol Music Group Turnaround Results 2023](capitol_music_group_turnaround_results_2023.md): drawn from the same interview and reports the aggregate results this campaign fed into.
+- [Caroline And Virgin Music Group's Spin-Out From CMG](caroline_virgin_music_group_spin_out_from_cmg.md): same source document (doc_0212)
+- [CMG's Partner Labels: Quality Control And 10K Projects](cmg_partner_labels_quality_control_and_10k_projects.md): same source document (doc_0212)
 
 ## Source
 

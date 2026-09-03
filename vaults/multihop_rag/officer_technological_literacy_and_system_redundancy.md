@@ -11,6 +11,7 @@ His grounds are comparative and engineering-based. On training: "At the West Poi
 
 ## Related Notes
 
+
 - [Robot Labor Supply and Artificial General Intelligence Goal](robot_labor_supply_and_artificial_general_intelligence_goal.md): shares vocabulary around systems, understand and understanding, from a different source document.
 - [Shield AI Funding Round 2023](shield_ai_funding_round_2023.md): overlaps on military systems and aircraft autonomy, from a different source document.
 - [Berlin Wall Low Tech Defense Lesson](berlin_wall_low_tech_defense_lesson.md): another note drawn from the same source document (doc_0078).
@@ -19,6 +20,8 @@ His grounds are comparative and engineering-based. On training: "At the West Poi
 - [Iron Dome's Strategic Paradox](iron_dome_strategic_paradox.md): another system whose limits shaped doctrine (doc_0078).
 - [Israeli Leaders Claims About the Gaza Barrier](israeli_leaders_claims_about_the_gaza_barrier.md): another note drawn from the same source document (doc_0078).
 - [Israeli Restraint Policy Toward Gaza](israeli_restraint_policy_toward_gaza.md): another note drawn from the same source document (doc_0078).
+- [The Technological Failure Of The Barrier On October 7](october_7_technological_failure_of_the_barrier.md): same source document (doc_0078)
+- [Strategic Surprise As A Recurring Pattern](strategic_surprise_pattern_across_history.md): same source document (doc_0078)
 
 ## Source
 

@@ -13,6 +13,7 @@ The limits of the model are its own unpredictability. Although numerous UK locat
 
 ## Related Notes
 
+
 - [Aurora Displays Over Britain And Ireland, November 2023](aurora_displays_over_britain_and_ireland_november_2023.md): a specific UK aurora event reported in a different document
 - [English Language Vampire Fiction Lineage](english_language_vampire_fiction_lineage.md): also concerns the British Isles, in an unrelated context
 - [How Geomagnetic Storms Produce Auroras](how_geomagnetic_storms_produce_auroras.md): the physical mechanism explained at greater length in a different document
@@ -21,6 +22,8 @@ The limits of the model are its own unpredictability. Although numerous UK locat
 - [Cairngorms Dark Sky Aurora Viewing](cairngorms_dark_sky_aurora_viewing.md): one of the UK sites listed in the same guide
 - [Hebrides Aurora Viewing](hebrides_aurora_viewing.md): one of the UK sites listed in the same guide
 - [Lake District Aurora Viewing](lake_district_aurora_viewing.md): one of the UK sites listed in the same guide
+- [Northumberland: The Darkest Skies In The UK, But Storm-Dependent](northumberland_national_park_dark_skies.md): same source document (doc_0555)
+- [Shetland: Britain's Most Northerly Point, Closest To The North Pole](shetland_isles_aurora_viewing.md): same source document (doc_0555)
 
 ## Source
 

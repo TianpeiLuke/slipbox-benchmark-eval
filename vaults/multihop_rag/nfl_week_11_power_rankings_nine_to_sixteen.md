@@ -13,11 +13,16 @@ The Cincinnati Bengals fell to 14th at 5-4 (7), battling key injuries that left 
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys on Week 5 Sunday Night Football](49ers_rout_cowboys_week_5_sunday_night_recap.md): also discusses Dak Prescott, from a different document.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also references the Buffalo Bills, separately sourced.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers the Jacksonville Jaguars, in a different document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also covers the Bills and Bengals, from a separate source.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another Dak Prescott item, in a different document.
+- [NFL Week 11 Power Rankings, 1-8](nfl_week_11_power_rankings_one_to_eight.md): same source document (doc_0119)
+- [NFL Week 11 Power Rankings, 17-24](nfl_week_11_power_rankings_seventeen_to_twenty_four.md): same source document (doc_0119)
+- [NFL Week 11 Power Rankings, 25-32](nfl_week_11_power_rankings_twenty_five_to_thirty_two.md): same source document (doc_0119)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

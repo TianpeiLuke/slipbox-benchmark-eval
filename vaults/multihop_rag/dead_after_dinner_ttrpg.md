@@ -11,11 +11,17 @@ The premise is fixed and the outcome is not: everyone is part of a miserable fam
 
 ## Related Notes
 
+
 - [Desperation](desperation_ttrpg_jason_morningstar.md): same source; the game designed by this entry's recommender.
 - [City Of Winter](city_of_winter_ttrpg.md): same source; another narrative-driven pick in the same list.
 - [Brick (2005)](brick_2005_rian_johnson.md): another work connected to the Knives Out mysteries, from a different source document.
 - [Eating Oranges In The Shower](eating_oranges_in_the_shower_larp.md): same source; another light, pick-up-and-play social game in the roundup.
 - [Missing 2023 Screenlife Mystery](missing_2023_screenlife_mystery.md): also covers Knives Out, from a different source document.
+- [Dungeon Crawl Classics](dungeon_crawl_classics_rpg.md): same source document (doc_0591)
+- [Dungeons & Dragons In 2023](dungeons_and_dragons_2023_play_experiences.md): same source document (doc_0591)
+- [Exquisite Biome](exquisite_biome_worldbuilding_ttrpg.md): same source document (doc_0591)
+- [Fetch My Blade](fetch_my_blade_solo_journaling_rpg.md): same source document (doc_0591)
+- [Home](home_haunted_house_ttrpg.md): same source document (doc_0591)
 
 ## Source
 

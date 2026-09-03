@@ -13,11 +13,22 @@ For golf betting: DraftKings offers markets and props for PGA Tour events and ma
 
 ## Related Notes
 
+
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): also assesses Caesars Sportsbook for futures markets.
 - [BetMGM First Bet Bonus Offer December 2023](betmgm_first_bet_bonus_offer_december_2023.md): a specific BetMGM deposit-and-offer listing.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): the fuller account of BetMGM's markets.
 - [BetMGM Vermont Sportsbook Welcome Offer](betmgm_vermont_sportsbook_welcome_offer.md): a state-level BetMGM offer.
 - [Caesars Sportsbook First Bet Offer December 2023](caesars_sportsbook_first_bet_offer_december_2023.md): a specific Caesars Sportsbook offer.
+- [Betting The Other Majors And Team Golf Events](betting_on_golf_majors_and_team_events.md): same source document (doc_0207)
+- [The Bet Types Available In Golf Betting](golf_betting_bet_types_explained.md): same source document (doc_0207)
+- [How To Open A Sportsbook Account, Download The App, And Place A Bet](how_to_open_a_sportsbook_account_and_place_a_bet.md): same source document (doc_0062)
+- [Live In-Play Golf Betting](live_in_play_golf_betting.md): same source document (doc_0207)
+- [Betting The Masters: Markets And The Augusta National Factors](masters_betting_markets_and_augusta_national_factors.md): same source document (doc_0207)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

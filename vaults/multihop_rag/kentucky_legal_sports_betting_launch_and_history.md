@@ -13,11 +13,18 @@ Two features distinguish the market. There are no restrictions on which sports c
 
 ## Related Notes
 
+
 - [ESPN Bet's Vermont Launch And Expected Offer](espn_bet_vermont_launch_and_expected_offer.md): another state-level legal sports betting launch, from a different document.
 - [NBA MVP Futures And Other NBA Futures Markets](nba_mvp_futures_and_other_nba_futures_markets.md): covers the kinds of markets these sportsbooks offer, from a different document.
 - [NBA Prop Bets: Definition And Common Markets](nba_prop_bets_definition_and_common_markets.md): covers the prop betting Kentucky permits without restriction, from a different document.
 - [NBA Rookie Of The Year Futures Betting Market](nba_rookie_of_the_year_futures_betting_market.md): another futures market available at these sportsbooks, from a different document.
 - [Prop Bet Examples By Sport](prop_bet_examples_by_sport.md): illustrates the prop bets Kentucky allows across sports, from a different document.
+- [Bet365 Sportsbook In Kentucky](bet365_sportsbook_kentucky.md): same source document (doc_0071)
+- [BetMGM Sportsbook In Kentucky](betmgm_sportsbook_kentucky.md): same source document (doc_0071)
+- [Betting On Kentucky And Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): same source document (doc_0071)
+- [Caesars Sportsbook In Kentucky](caesars_sportsbook_kentucky.md): same source document (doc_0071)
+- [DraftKings Sportsbook In Kentucky](draftkings_sportsbook_kentucky.md): same source document (doc_0071)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

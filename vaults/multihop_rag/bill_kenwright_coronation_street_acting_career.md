@@ -11,6 +11,7 @@ He left Weatherfield the following year, but appeared back on screen with occasi
 
 ## Related Notes
 
+
 - [Opera, Dario Argento](opera_dario_argento.md): incidental overlap on the words Betty and opera, from a different source document
 - [The Count, Sesame Street](the_count_sesame_street.md): incidental overlap on "street" in a title, from a different document
 - [Theater Camp, 2023 Comedy](theater_camp_2023_comedy.md): incidental overlap on the name Gordon, from a different document
@@ -19,6 +20,7 @@ He left Weatherfield the following year, but appeared back on screen with occasi
 - [Bill Kenwright's West End Theatre Productions](bill_kenwright_west_end_theatre_productions.md): the producing career that grew out of this acting start
 - [Everton Fans' No Confidence In The Kenwright Board](everton_fan_no_confidence_in_kenwright_board.md): from the same BBC obituary
 - [Everton's Ownership: Moshiri And 777 Partners](everton_ownership_moshiri_and_777_partners.md): from the same BBC obituary
+- [Tributes To Kenwright From Rooney, Carragher, Burnham And McKellen](tributes_to_bill_kenwright_rooney_mckellen.md): same source document (doc_0543)
 
 ## Source
 

@@ -13,6 +13,7 @@ Cantor Fitzgerald's initiation ran the consolidation premise the other way. It a
 
 ## Related Notes
 
+
 - [Consolidation Leaves Studios Vulnerable to Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): argues the downside of the consolidation dynamic these analysts treat as a benefit, overlapping on consolidation and potential benefits, from a different source document.
 - [Palo Alto Networks and Fortinet Billings Weakness](palo_alto_networks_and_fortinet_billings_weakness.md): also carries a Cantor Fitzgerald view on enterprise software, from a different source document.
 - [Simply Homes AI Underwriting Model](simply_homes_ai_underwriting_model.md): another note involving Cantor Fitzgerald, from a different source document.
@@ -21,6 +22,8 @@ Cantor Fitzgerald's initiation ran the consolidation premise the other way. It a
 - [DocuSign Q3 FY2024 Earnings Preview](docusign_q3_fy2024_earnings_preview.md): the other enterprise-software preview in the same article, from the same source document.
 - [Earnings Week Ahead: December 4-8, 2023](earnings_week_ahead_december_4_8_2023.md): the calendar these ratings were published into, from the same source document.
 - [GameStop Meme Stock Rally, December 2023](gamestop_meme_stock_rally_december_2023.md): another case in the same article of analysts reading a share-price run-up, from the same source document.
+- [GameStop Q3 Earnings Preview, December 2023](gamestop_q3_fy2023_earnings_preview.md): same source document (doc_0581)
+- [GitLab Q3 Earnings Preview, December 2023](gitlab_q3_fy2024_earnings_preview.md): same source document (doc_0581)
 
 ## Source
 

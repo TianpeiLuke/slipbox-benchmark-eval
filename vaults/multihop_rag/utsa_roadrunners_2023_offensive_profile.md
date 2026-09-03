@@ -13,11 +13,18 @@ By team metrics, UTSA averaged 31.7 points and 424.6 total yards per game, ranki
 
 ## Related Notes
 
+
 - [Baker Mayfield Zone Coverage and Four-Level Passing](baker_mayfield_zone_coverage_and_four_level_passing.md): overlaps on passing yardage and touchdown production, from a different document.
 - [Josh Allen Bills Midseason MVP](josh_allen_bills_midseason_mvp.md): overlaps on offensive production rates, from a different document.
 - [Lamar Jackson Ravens Midseason MVP](lamar_jackson_ravens_midseason_mvp.md): overlaps on dual-threat passing and rushing production, from a different document.
 - [North Texas Mean Green 2023 Profile](north_texas_mean_green_2023_profile.md): another team profile that references UTSA's passing numbers, from a different document.
 - [Quez Watkins Eagles Hot Seat](quez_watkins_eagles_hot_seat.md): overlaps on receiver yardage and touchdowns, from a different document.
+- [BetMGM Player Props For The Scooter's Coffee Frisco Bowl](frisco_bowl_player_prop_bets_at_betmgm.md): same source document (doc_0005)
+- [Marshall's Transfer Portal Exodus Before The Frisco Bowl](marshall_frisco_bowl_transfer_portal_exodus.md): same source document (doc_0005)
+- [Marshall's Frisco Bowl Profile: Pennington Starting, Ali Carrying The Offense](marshall_thundering_herd_2023_frisco_bowl_profile.md): same source document (doc_0005)
+- [UTSA vs Marshall In The 2023 Scooter's Coffee Frisco Bowl](scooters_coffee_frisco_bowl_2023_utsa_vs_marshall.md): same source document (doc_0005)
+- [UTSA's Transfer Portal Absences For The Frisco Bowl](utsa_frisco_bowl_transfer_portal_opt_outs.md): same source document (doc_0005)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

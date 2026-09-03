@@ -13,11 +13,19 @@ The remaining terms describe the market's participants and mechanics. The underd
 
 ## Related Notes
 
+
 - [Best Sportsbooks For NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): applies the futures and MVP-odds terms defined here, from a different document.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): covers the markets these terms describe, from a different document.
 - [Betting Favorites And Underdogs](betting_favorites_and_underdogs.md): covers the favorite and underdog definitions in more depth, from a different document.
 - [Brock Purdy And Lamar Jackson's 2023 MVP Race](brock_purdy_lamar_jackson_2023_mvp_race.md): an example of the MVP futures market named here, from a different document.
 - [College Football Bowl Betting Market Types](college_football_bowl_betting_market_types.md): applies the parlay, underdog and outright terms to bowl games, from a different document.
+- [Bet365 Sportsbook In Kentucky](bet365_sportsbook_kentucky.md): same source document (doc_0071)
+- [BetMGM Sportsbook In Kentucky](betmgm_sportsbook_kentucky.md): same source document (doc_0071)
+- [Betting On Kentucky And Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): same source document (doc_0071)
+- [Caesars Sportsbook In Kentucky](caesars_sportsbook_kentucky.md): same source document (doc_0071)
+- [DraftKings Sportsbook In Kentucky](draftkings_sportsbook_kentucky.md): same source document (doc_0071)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
 
 ## Source
 

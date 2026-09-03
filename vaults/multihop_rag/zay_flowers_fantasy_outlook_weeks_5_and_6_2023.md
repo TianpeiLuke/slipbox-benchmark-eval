@@ -13,12 +13,18 @@ The Week 6 case, published 12 October 2023 ahead of a game at Tennessee, weakens
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another lineup verdict argued from air-yards evidence that also discusses Marquise Brown, from a different document.
 - [Baltimore Ravens Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): covers the Ravens passing balance and Lamar Jackson, the variable this call hinges on, from a different document.
 - [Bears Vikings MNF First Half](bears_vikings_mnf_first_half.md): also discusses Jordan Addison, whom Flowers is ranked above in Week 5, from a different document.
 - [Bears Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): also discusses Jordan Addison, from a different document.
 - [Betting On Kentucky And Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also discusses Lamar Jackson, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another receiver call from the same Week 6 column.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

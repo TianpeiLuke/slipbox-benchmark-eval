@@ -11,11 +11,19 @@ The grounds are qualifying excellence and playoff progression. The #20 Toyota Ca
 
 ## Related Notes
 
+
 - [Dale Earnhardt Jr. Visit To High Limit Commonwealth Clash](dale_earnhardt_jr_visit_to_high_limit_commonwealth_clash.md): also concerns the Cup Series, from a different document.
 - [Dean Evason Coaching Career Path](dean_evason_coaching_career_path.md): shares thematic tagging with this note, from a different document.
 - [Graham Arnold 2022 World Cup Qualification Crisis](graham_arnold_2022_world_cup_qualification_crisis.md): shares thematic tagging with this note, from a different document.
 - [High Limit Racing Purse Escalation Mechanism](high_limit_racing_purse_escalation_mechanism.md): overlaps on dirt-track and driver terms, from a different document.
 - [High Limit Racing Sprint Car Series](high_limit_racing_sprint_car_series.md): also concerns the Cup Series, from a different document.
+- [Autosport Top 50 Drivers 2023 NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): same source document (doc_0297)
+- [Chris Buescher 2023 Season Autosport Snub](chris_buescher_2023_season_autosport_snub.md): same source document (doc_0297)
+- [Denny Hamlin 2023 Season Autosport Snub](denny_hamlin_2023_season_autosport_snub.md): same source document (doc_0297)
+- [Ross Chastain 2023 Season Autosport Snub](ross_chastain_2023_season_autosport_snub.md): same source document (doc_0297)
+- [Supercars Drivers In 2023 NASCAR Races](supercars_drivers_in_2023_nascar_races.md): same source document (doc_0297)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

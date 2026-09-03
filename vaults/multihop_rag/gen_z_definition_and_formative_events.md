@@ -13,11 +13,18 @@ The boundary case the account itself raises is that every generation has lived t
 
 ## Related Notes
 
+
 - [Amnesia: The Bunker](amnesia_the_bunker.md): also references a World War setting, from a different source document.
 - [Epoch Times 2020 Election And Pro-Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): also concerns President Donald Trump, from a different source document.
 - [Freaks Vs The Reich: Italian Superhero Film](freaks_vs_the_reich_italian_superhero_film.md): also references the World War era, from a different source document.
 - [Gaza Border Barrier Construction](gaza_border_barrier_construction.md): also concerns President Donald Trump, from a different source document.
 - [Godzilla Minus One US Opening](godzilla_minus_one_us_opening.md): also references the World War era, from a different source document.
+- [Gen Z Collective Online Political Action](gen_z_collective_online_political_action.md): same source document (doc_0138)
+- [Gen Z Financial Stress And Saving Avoidance](gen_z_financial_stress_and_saving_avoidance.md): same source document (doc_0138)
+- [Gen Z Mental Health And Climate Anxiety](gen_z_mental_health_and_climate_anxiety.md): same source document (doc_0138)
+- [Gen Z News Distress Impairing Work Performance](gen_z_news_distress_impairing_work_performance.md): same source document (doc_0138)
+- [Gen Z Workplace Purpose And ESG Priorities](gen_z_workplace_purpose_and_esg_priorities.md): same source document (doc_0138)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

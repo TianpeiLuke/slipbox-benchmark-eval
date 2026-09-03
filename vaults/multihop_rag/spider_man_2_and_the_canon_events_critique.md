@@ -15,6 +15,7 @@ The critic also registers what the game gestures at but cannot develop: hints of
 
 ## Related Notes
 
+
 - [Amazon Prime Free Games and DLC](amazon_prime_free_games_and_dlc.md): both reference Star Wars, from a different source document
 - [Andor (Disney Plus)](andor_disney_plus.md): another Star Wars subject from a separate article
 - [Disney Bundle Trio Streaming Package](disney_bundle_trio_streaming_package.md): another Star Wars-adjacent note from a different document
@@ -23,6 +24,7 @@ The critic also registers what the game gestures at but cannot develop: hints of
 - [Marvel's Spider-Man 2 (Insomniac Games)](marvels_spider_man_2_game.md): the game this argument evaluates, in the same article
 - [Retelling as a Narrative Strategy](retelling_as_a_narrative_strategy.md): the framework this critique applies
 - [Spider-Man 2: Venom Origin and Miles Morales' Story](spider_man_2_venom_origin_and_miles_morales_story.md): the two storylines judged against that standard
+- [Spider-Man: Across the Spider-Verse](spider_man_across_the_spider_verse.md): same source document (doc_0383)
 
 ## Source
 

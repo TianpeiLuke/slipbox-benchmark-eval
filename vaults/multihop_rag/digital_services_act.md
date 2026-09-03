@@ -17,14 +17,25 @@ The regulation also contains a "crisis response" mechanism (Article 36) which en
 
 ## Related Notes
 
+
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): another account of the Digital Services Act, from a different source document.
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): overlapping coverage of Elon Musk, from a different source document.
 - [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): overlapping coverage of Elon Musk, from a different source document.
 - [Cybertruck Bed Size And Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): overlapping coverage of Elon Musk, from a different source document.
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): shares the fine-penalty and regulatory-investigation themes, from a different source document.
-
-
-
+- [Disinformation On X After The Hamas Attacks On Israel](disinformation_on_x_gaza.md): same source document (doc_0025)
+- [EU Enforcement Steps Against X Over DSA Compliance](eu_enforcement_against_x.md): same source document (doc_0025)
+- [The EU's Urgent Warning Letter To X](eu_warning_letter_to_x.md): same source document (doc_0025)
+- [EU Warnings To Other Platforms](eu_warnings_to_other_platforms.md): same source document (doc_0335)
+- [Meta Crisis Response Measures](meta_crisis_response_measures.md): same source document (doc_0335)
+- [Very Large Online Platform (VLOP)](term_very_large_online_platform.md): uses the concept very large online platform
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Crisis Response Mechanism](term_crisis_response_mechanism.md): uses the concept crisis response mechanism
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Terms of Service](term_terms_of_service.md): uses the concept terms of service
+- [Content Moderation](term_content_moderation.md): uses the concept content moderation
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Corpus References
 

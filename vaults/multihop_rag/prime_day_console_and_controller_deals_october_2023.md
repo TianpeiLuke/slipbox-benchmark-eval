@@ -13,11 +13,20 @@ Steam Deck accessories also featured: the Jsaux Mod Case was $24, down from $30,
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick for Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): overlaps on Xbox controllers and sticks, from a different source document.
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): the 2.4GHz-only sibling of a controller listed here, from a different source document.
 - [8BitDo Ultimate Bluetooth Hall Effect Controller](8bitdo_ultimate_bluetooth_hall_effect_controller.md): overlaps on controller buttons and Hall effect sticks, from a different source document.
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): also concerns the Nintendo Switch, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-and-charging deal theme, from a different source document.
+- [October 2023 Prime Day Gaming Deals Overview](october_2023_prime_day_gaming_deals_overview.md): same source document (doc_0235)
+- [Prime Day Console And PC Storage Deals, October 2023](prime_day_console_and_pc_storage_deals_october_2023.md): same source document (doc_0235)
+- [Prime Day Gaming Laptop, Headset And Stream Deck Deals](prime_day_gaming_laptop_headset_and_stream_deck_deals.md): same source document (doc_0235)
+- [Prime Day Tabletop Game Deals, October 2023](prime_day_tabletop_game_deals_october_2023.md): same source document (doc_0235)
+- [Prime Day Video Game Title Deals, October 2023](prime_day_video_game_title_deals_october_2023.md): same source document (doc_0235)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

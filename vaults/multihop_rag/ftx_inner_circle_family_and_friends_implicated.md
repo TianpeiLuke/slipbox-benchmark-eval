@@ -13,11 +13,23 @@ The consequences outlast the trial. Wang, Singh, and Ellison are now felons; eve
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): also concerns Adam Yedidia, from a different source document.
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): also concerns Sam Bankman-Fried, from a different source document.
 - [Alameda Research](alameda_research.md): also concerns Alameda Research, from a different source document.
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): the taking of customer funds that ruined them, from a different source document.
 - [Alameda Research's Origins and Naming](alameda_research_origins_and_naming.md): also concerns Alameda Research and Caroline Ellison, from a different source document.
+- [Alameda's $65 Billion Line Of Credit At FTX](alameda_65_billion_line_of_credit_at_ftx.md): same source document (doc_0121)
+- [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): same source document (doc_0121)
+- [The Escalation Of Alameda's Negative Balance](alameda_negative_balance_escalation.md): same source document (doc_0121)
+- [Can Sun's Testimony On Fabricated Justifications](can_sun_testimony_on_fabricated_justifications.md): same source document (doc_0121)
+- [Allow_negative: Alameda's Exemption From FTX Liquidation](ftx_alameda_allow_negative_liquidation_exemption.md): same source document (doc_0121)
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Plea Agreement](term_plea_agreement.md): uses the concept plea agreement
+- [Bail](term_bail.md): uses the concept bail
+- [Board Governance](term_board_governance.md): uses the concept board governance
 
 ## Source
 

@@ -11,6 +11,7 @@ The weathering link works because these plants produce acids that dissolve rock,
 
 ## Related Notes
 
+
 - [Deep Ocean Deoxygenation from Climate Change](deep_ocean_deoxygenation_from_climate_change.md): another account of what controls oxygen levels in the ocean and atmosphere.
 - [The Cambrian Explosion and the Rise of Oxygen](cambrian_explosion_and_the_rise_of_oxygen.md): from the same excerpt, on the earlier phase of the oxygen rise.
 - [Cynodonts, the Surviving Mammal Ancestors](cynodonts_the_surviving_mammal_ancestors.md): from the same excerpt, on the lineage that outlived the oxygen crash.
@@ -19,6 +20,7 @@ The weathering link works because these plants produce acids that dissolve rock,
 - [The Ordovician Glaciation Mass Extinction](ordovician_glaciation_mass_extinction.md): from the same excerpt, on an earlier weathering-driven CO2 drawdown.
 - [Permian-Triassic Boundary Warming and Oxygen Collapse](permian_triassic_boundary_warming_and_oxygen_collapse.md): from the same excerpt, on the reversal of this oxygen rise.
 - [The Permian-Triassic Extinction: Scale of Losses](permian_triassic_extinction_scale_of_losses.md): from the same excerpt, on the extinction that followed.
+- [Synapsids and Therapsids: Permian Dominance](synapsids_and_therapsids_permian_dominance.md): same source document (doc_0460)
 
 ## Source
 

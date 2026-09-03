@@ -11,11 +11,18 @@ Goedert was healthy once again, having returned against the Cowboys the previous
 
 ## Related Notes
 
+
 - [Cole Kmet Week 6 2023 Start Recommendation](cole_kmet_week6_2023_start_recommendation.md): also covers Dallas Goedert, from a different document.
 - [Dallas Goedert Week 5 2023 Bust Warning](dallas_goedert_week5_2023_bust_warning.md): also assesses Goedert in the Eagles offense, from a different document.
 - [Dolphins-Eagles First Half Live Blog](dolphins_eagles_first_half_live_blog.md): also covers Dallas Goedert, from a different document.
 - [Eagles-Seahawks Week 15 MNF Playoff Stakes](eagles_seahawks_week_15_mnf_playoff_stakes.md): covers the same game and Philadelphia's slide behind the Cowboys, from a different document.
 - [Jake Ferguson Week 5 2023 Start Recommendation](jake_ferguson_week5_2023_start_recommendation.md): also covers Dallas Goedert, from a different document.
+- [D'Andre Swift And The Eagles' Run Game In The Showdown Lineup](dandre_swift_eagles_run_game_showdown_pick.md): same source document (doc_0386)
+- [DeVonta Smith's Value In The Eagles-Seahawks Showdown](devonta_smith_eagles_showdown_value.md): same source document (doc_0386)
+- [The Metcalf-Geno Smith Seahawks Showdown Stack](dk_metcalf_and_geno_smith_seahawks_showdown_stack.md): same source document (doc_0386)
+- [DraftKings Showdown And FanDuel Single-Game Scoring Rules](draftkings_showdown_and_fanduel_single_game_scoring_rules.md): same source document (doc_0386)
+- [The Eagles-Seahawks SuperDraft Single-Game Lineup](eagles_seahawks_superdraft_single_game_lineup.md): same source document (doc_0386)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

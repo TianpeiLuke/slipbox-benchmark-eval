@@ -11,6 +11,7 @@ The premise stressed that even the Philadelphia Eagles and Dallas Cowboys — tw
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also concerns the Cowboys, from a different document.
 - [Brock Purdy 49ers Career Trajectory](brock_purdy_49ers_career_trajectory.md): also concerns the Philadelphia Eagles, from a different document.
 - [Criticism That The NFL Overdid Its Taylor Swift Coverage](criticism_that_the_nfl_overdid_its_taylor_swift_coverage.md): also concerns the Philadelphia Eagles, from a different document.
@@ -18,6 +19,10 @@ The premise stressed that even the Philadelphia Eagles and Dallas Cowboys — tw
 - [Eagles Seahawks Week 15 MNF Playoff Stakes](eagles_seahawks_week_15_mnf_playoff_stakes.md): overlaps on Philadelphia and Dallas, from a different document.
 - [Aaron Glenn Lions Hot Seat](aaron_glenn_lions_hot_seat.md): one of the entries this premise introduces, from the same document.
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): one of the entries this premise introduces, from the same document.
+- [Christian Watson Packers Hot Seat](christian_watson_packers_hot_seat.md): same source document (doc_0437)
+- [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md): same source document (doc_0437)
+- [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): same source document (doc_0437)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

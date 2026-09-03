@@ -11,6 +11,7 @@ The company itself confirmed the figure, so the 9% is Brave's own number rather 
 
 ## Related Notes
 
+
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs and restructuring theme, from a different source document.
 - [CollegeHumor's IAC Layoffs And Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares the layoffs and restructuring theme, from a different source document.
 - [Consolidation Leaves Studios Vulnerable To Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): shares the layoffs and restructuring theme, from a different source document.
@@ -18,6 +19,10 @@ The company itself confirmed the figure, so the 9% is Brave's own number rather 
 - [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): shares the layoffs and restructuring theme, from a different source document.
 - [Adobe's Firefly Generative AI Tools And Project Stardust](adobe_generative_ai_tools.md): drawn from the same source document (doc_0043).
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): drawn from the same source document (doc_0043).
+- [Meta Quest 3 And The Affordable End Of AR/VR Hardware](consumer_ar_vr_hardware.md): same source document (doc_0043)
+- [Creator Economy Sustainability And Creator Venture Capital](creator_economy_sustainability.md): same source document (doc_0043)
+- [Whether Founders Should Attend Events](founder_event_attendance_debate.md): same source document (doc_0043)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
 
 ## Source
 

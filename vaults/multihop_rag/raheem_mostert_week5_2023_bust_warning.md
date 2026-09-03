@@ -13,6 +13,7 @@ The matchup is the reason the column stops short of a sit. The Giants are about 
 
 ## Related Notes
 
+
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): also discusses Isiah Pacheco, ranked ahead of Mostert here, from a different document.
 - [Chiefs Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): also discusses Breece Hall and Isiah Pacheco, from a different document.
 - [Chiefs Jets Second Half Live Blog](chiefs_jets_second_half_live_blog.md): also discusses Breece Hall, from a different document.
@@ -21,6 +22,8 @@ The matchup is the reason the column stops short of a sit. The Giants are about 
 - [Brock Purdy Fantasy Outlook Weeks 5 And 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another lineup call from the same Week 5 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this bust warning applies, from the same column.
 - [Dallas Goedert Week 5 2023 Bust Warning](dallas_goedert_week5_2023_bust_warning.md): the other bust warning in the same Week 5 column.
+- [Dameon Pierce As A Week 5 2023 Sit At Atlanta](dameon_pierce_week5_2023_sit_recommendation.md): same source document (doc_0058)
+- [DeAndre Hopkins As A Week 5 2023 Start At Indianapolis](deandre_hopkins_week5_2023_start_recommendation.md): same source document (doc_0058)
 
 ## Source
 

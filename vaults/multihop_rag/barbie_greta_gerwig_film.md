@@ -13,6 +13,7 @@ Critic Tasha Robinson calls it perky, playful, and deceptively caustic, one of j
 
 ## Related Notes
 
+
 - [Danny Elfman Coachella Performances](danny_elfman_coachella_performances.md): both mention Noah Baumbach, from a different source document
 - [Wilma Mankiller Barbie Inspiring Women Doll](wilma_mankiller_barbie_inspiring_women_doll.md): overlapping Barbie and Mattel subject matter from a separate article
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): shares the streaming-service topic tag
@@ -21,6 +22,15 @@ Critic Tasha Robinson calls it perky, playful, and deceptively caustic, one of j
 - [Amazon Fire HD 8 and Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): shares the streaming-service tag from a different source
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): another streaming-service-tagged hardware note
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the streaming-service topic tag
+- [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): same source document (doc_0094)
+- [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): same source document (doc_0094)
+- [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): same source document (doc_0094)
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): same source document (doc_0094)
+- [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): same source document (doc_0094)
+- [Creed III (Michael B. Jordan)](creed_iii_michael_b_jordan.md): same source document (doc_0094)
+- [Dream Scenario (Kristoffer Borgli)](dream_scenario_kristoffer_borgli.md): same source document (doc_0094)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

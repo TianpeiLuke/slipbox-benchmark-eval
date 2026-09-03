@@ -13,11 +13,18 @@ Other territories with broadcast options for the match were Malaysia (Astro Supe
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and the Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): also concerns Hong Kong as a territory.
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also concerns the United Kingdom as a territory.
 - [Anthony Joshua Mental Rebuild After Usyk and Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): also concerns Saudi Arabia and the United Kingdom.
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also names Astro Supersport and L'Equipe Web for this fixture.
 - [Australia Davis Cup Semi Final Win Over Finland](australia_davis_cup_semi_final_win_over_finland.md): shares the streaming-service and World Cup themes.
+- [Argentina's Squad And Starting XI Against Paraguay, October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): same source document (doc_0105)
+- [Argentina Host Paraguay At The Monumental In 2026 World Cup Qualifying](argentina_vs_paraguay_2026_world_cup_qualifier_preview.md): same source document (doc_0105)
+- [Messi's Four-Game Injury Absence And His 35-Minute Return](lionel_messi_2023_injury_absence_and_return.md): same source document (doc_0105)
+- [Paraguay's Outlook And Lineup Under New Coach Daniel Garnero](paraguay_national_team_2026_qualifying_squad_and_outlook.md): same source document (doc_0105)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

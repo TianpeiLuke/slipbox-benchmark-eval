@@ -11,6 +11,7 @@ Cost and delivery are the practical constraints on that route. Both medicines ar
 
 ## Related Notes
 
+
 - [HIV Pre-Exposure Prophylaxis and Other Prevention Tools](hiv_pre_exposure_prophylaxis_prevention_tools.md): another case where effective medicines' reach depends on how they are supplied.
 - [US Youth Fentanyl Overdose Death Statistics](us_youth_fentanyl_overdose_death_statistics.md): another item citing a National Institute as an authority.
 - [The Blood-Brain Barrier and Active Drug Transport](blood_brain_barrier_and_active_drug_transport.md): from the same article, on delivery challenges of a different kind.
@@ -19,6 +20,7 @@ Cost and delivery are the practical constraints on that route. Both medicines ar
 - [The First Drugs to Treat the Cause of Alzheimer's](first_drugs_to_treat_the_cause_of_alzheimers.md): from the same article, on the case for the drugs under review.
 - [Lecanemab and Donanemab: The Amyloid Drugs](lecanemab_and_donanemab_amyloid_drugs.md): from the same article, naming the drugs entering this process.
 - [UK Dementia Burden and Projections](uk_dementia_burden_and_projections.md): from the same article, on the population these decisions affect.
+- [The UK Dementia Diagnosis Bottleneck](uk_dementia_diagnosis_bottleneck.md): same source document (doc_0427)
 
 ## Source
 

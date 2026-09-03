@@ -13,6 +13,7 @@ Against that backdrop, Nicole Livingstone, general manager of women's football a
 
 ## Related Notes
 
+
 - [AFLW 2023 Finals Qualification and Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): also discusses the Gold Coast, from a different document.
 - [Gold Coast Suns Second AFLW Finals Appearance](gold_coast_suns_second_aflw_finals_appearance.md): also discusses the Gold Coast, from a different document.
 - [Oleg Markov Collingwood Premiership Journey](oleg_markov_collingwood_premiership_journey.md): also discusses the Gold Coast, from a different document.
@@ -21,6 +22,8 @@ Against that backdrop, Nicole Livingstone, general manager of women's football a
 - [AFLW Longer Quarters and Interchange Cap Rule Changes](aflw_longer_quarters_and_interchange_cap_rule_changes.md): the league's other lever on the spectacle, from the same document.
 - [The 'Matildas Effect' and Its Limited Impact on Domestic Women's Sport](matildas_effect_limited_impact_on_domestic_womens_sport.md): examines the round-one attendance explanation cited here, from the same document.
 - [The Swans' Matchday Experience Model for Local Attendance](swans_matchday_experience_drives_local_attendance.md): the club offering Livingstone praised, from the same document.
+- [The Swans' On-Field Turnaround Under Chloe Molloy](swans_on_field_turnaround_under_chloe_molloy.md): same source document (doc_0210)
+- [Sydney Swans Top The AFLW Attendance Charts](sydney_swans_top_aflw_attendance_charts.md): same source document (doc_0210)
 
 ## Source
 

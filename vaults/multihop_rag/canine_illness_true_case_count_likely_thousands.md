@@ -13,6 +13,7 @@ The warrant joining grounds to claim is the reason the exact count is unavailabl
 
 ## Related Notes
 
+
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): shares vocabulary about what is reported and who is affected, from a different source article.
 - [Flu Vaccine Timing and Severity Reduction](flu_vaccine_timing_and_severity_reduction_sylvester.md): shares symptom, influenza and respiratory vocabulary, from a different source article.
 - [Influenza Secondary Bacterial Infection Mechanism](influenza_secondary_bacterial_infection_mechanism.md): shares influenza, illness and respiratory vocabulary, from a different source article.
@@ -21,6 +22,8 @@ The warrant joining grounds to claim is the reason the exact count is unavailabl
 - [Canine Atypical Respiratory Illness of 2023](canine_atypical_respiratory_illness_2023_outbreak.md): the illness whose scale is being estimated, from the same report (doc_0565).
 - [Canine Respiratory Illness Cause Evidence and Caveats](canine_respiratory_illness_cause_evidence_caveats.md): the parallel uncertainty about the cause, from the same report (doc_0565).
 - [Canine Respiratory Illness State Case Reports 2023](canine_respiratory_illness_state_case_reports_2023.md): supplies the Oregon count this estimate is built on, from the same report (doc_0565).
+- [Canine Respiratory Illness: Three Clinical Presentations](canine_respiratory_illness_three_clinical_presentations.md): same source document (doc_0565)
+- [Holiday Kennel and Dog Park Avoidance Guidance](holiday_kennel_and_dog_park_avoidance_guidance.md): same source document (doc_0565)
 
 ## Source
 

@@ -13,11 +13,19 @@ Altman responded on X: "i loved my time at openai. it was transformative for me 
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also covers Sam Altman, from a different source document.
 - [Anthropic Founding by OpenAI Researchers](anthropic_founding_by_openai_researchers.md): also covers Greg Brockman, Sam Altman, from a different source document.
 - [Biden Xi San Francisco Summit November 2023](biden_xi_san_francisco_summit_november_2023.md): also covers Pacific Economic Cooperation, from a different source document.
 - [ChatGPT 100 Million User Milestone](chatgpt_100_million_user_milestone.md): also covers Sam Altman, from a different source document.
 - [ChatGPT Launch and First Year Evolution](chatgpt_launch_and_first_year_evolution.md): also covers Sam Altman, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): same source document (doc_0048)
+- [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): same source document (doc_0048)
+- [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): same source document (doc_0048)
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Board Governance](term_board_governance.md): uses the concept board governance
 
 ## Source
 

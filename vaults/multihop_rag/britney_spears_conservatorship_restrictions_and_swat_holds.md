@@ -13,9 +13,18 @@ The conservatorship was ruled by her father, whom she alleges was "an alcoholic,
 
 ## Related Notes
 
+
 - [Britney Spears Arrested Development Under Conservatorship](britney_spears_arrested_development_under_conservatorship.md): same source, generalising these restrictions into a model
 - [Britney Spears Estrangement From Her Family](britney_spears_estrangement_from_her_family.md): same source, on the father who ruled the arrangement
 - [Jordan Poyer Alcoholism And Sobriety](jordan_poyer_alcoholism_and_sobriety.md): another Alcoholics Anonymous story in the corpus, different subject
+- [Britney Spears' Memoir Barbs At Timberlake And Federline](britney_spears_memoir_barbs_at_timberlake_and_federline.md): same source document (doc_0052)
+- [Britney Spears On Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): same source document (doc_0052)
+- [Britney Spears' Memoir On Early Fame And The Loss Of Freedom](britney_spears_memoir_early_fame_loss_of_freedom.md): same source document (doc_0052)
+- [Britney Spears On Motherhood And Postpartum Depression](britney_spears_motherhood_and_postpartum_depression.md): same source document (doc_0052)
+- [Britney Spears On Music Making From Baby One More Time To Blackout](britney_spears_music_making_from_baby_one_more_time_to_blackout.md): same source document (doc_0052)
+- [Britney Spears' Confinement In A Solitary Rehab Facility](britney_spears_solitary_rehab_facility_confinement.md): same source document (doc_0052)
+- [Britney Spears On Virginity Marketing And Timberlake's Cheating Claim](britney_spears_virginity_marketing_and_timberlake_cheating_claim.md): same source document (doc_0052)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

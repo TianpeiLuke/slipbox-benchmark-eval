@@ -11,11 +11,18 @@ The summary statistic given on 11 November 2023 is that in their last six World 
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): also concerns South Africa, host of the 2003 edition mentioned here, from a different source document.
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also concerns South Africa, from a different source document.
 - [Australia Women Test Defeat To India Mumbai 2023](australia_women_test_defeat_to_india_mumbai_2023.md): concerns India, hosts and England in a cricket setting, from a different source document.
 - [ChatGPT Use In Government And Courts](chatgpt_use_in_government_and_courts.md): also concerns South Africa, from a different source document.
 - [Damian Penaud Try Scoring Record Run](damian_penaud_try_scoring_record_run.md): also concerns South Africa, from a different source document.
+- [ICC ODI World Cup 2023: Knockout Stage And Final](icc_world_cup_2023_knockout_stage_and_final.md): same source document (doc_0133)
+- [India's 1983 World Cup Semi-Final Against England](india_1983_world_cup_semifinal_vs_england.md): same source document (doc_0133)
+- [India's 1987 World Cup Semi-Final Against England](india_1987_world_cup_semifinal_vs_england.md): same source document (doc_0133)
+- [India's 1996 World Cup Semi-Final Against Sri Lanka](india_1996_world_cup_semifinal_vs_sri_lanka.md): same source document (doc_0133)
+- [India's 2003 World Cup Semi-Final Against Kenya](india_2003_world_cup_semifinal_vs_kenya.md): same source document (doc_0133)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

@@ -13,11 +13,19 @@ The EU's sharper focus on X has a documented antecedent in the same reporting: b
 
 ## Related Notes
 
+
 - [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): overlapping vocabulary about the bloc, disinformation and its spread, from a different source document.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): shares the Digital Services Act and regulatory-investigation themes, from a different source document.
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): also concerns Elon Musk, from a different source document.
 - [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): also concerns Elon Musk, from a different source document.
 - [Cybertruck Bed Size And Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): also concerns Elon Musk, from a different source document.
+- [The Digital Services Act](digital_services_act.md): same source document (doc_0335)
+- [Disinformation On X After The Hamas Attacks On Israel](disinformation_on_x_gaza.md): same source document (doc_0024)
+- [EU Enforcement Steps Against X Over DSA Compliance](eu_enforcement_against_x.md): same source document (doc_0024)
+- [The EU's Urgent Warning Letter To X](eu_warning_letter_to_x.md): same source document (doc_0024)
+- [Meta Crisis Response Measures](meta_crisis_response_measures.md): same source document (doc_0335)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
 
 ## Source
 

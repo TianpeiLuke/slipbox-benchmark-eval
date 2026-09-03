@@ -11,9 +11,18 @@ Hall prefaces the pick with a caveat about the format: he believes tabletop role
 
 ## Related Notes
 
+
 - [Netflix Originals Premiering November 7 To 10, 2023](netflix_originals_premiering_november_7_to_10_2023.md): also covers Cold War, from a different source document.
 - [Possession 1981 Andrzej Zulawski Film](possession_1981_andrzej_zulawski_film.md): also covers Cold War, from a different source document.
 - [Sputnik 2020 Russian Sci Fi Horror](sputnik_2020_russian_sci_fi_horror.md): also covers Cold War, from a different source document.
+- [City Of Winter](city_of_winter_ttrpg.md): same source document (doc_0591)
+- [Dead After Dinner](dead_after_dinner_ttrpg.md): same source document (doc_0591)
+- [Desperation](desperation_ttrpg_jason_morningstar.md): same source document (doc_0591)
+- [Dungeon Crawl Classics](dungeon_crawl_classics_rpg.md): same source document (doc_0591)
+- [Dungeons & Dragons In 2023](dungeons_and_dragons_2023_play_experiences.md): same source document (doc_0591)
+- [Eating Oranges In The Shower](eating_oranges_in_the_shower_larp.md): same source document (doc_0591)
+- [Exquisite Biome](exquisite_biome_worldbuilding_ttrpg.md): same source document (doc_0591)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

@@ -15,11 +15,19 @@ After Phoenix's lead ballooned to 17 points midway through the third, experience
 
 ## Related Notes
 
+
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): a later Adelaide result covering Dejan Vasiljevic and Sunday Dech
 - [Collingwood Post-Premiership Celebration and Club History](collingwood_post_premiership_celebration_and_club_history.md): shares coaching and Browne references, from a different source document
 - [South East Melbourne Phoenix Beat New Zealand Breakers Round 5](south_east_melbourne_phoenix_beat_new_zealand_breakers_round_5.md): the Phoenix's next win, also featuring Alan Williams and Gary Browne
 - [Adelaide 36ers Beat Perth Wildcats Round 4](adelaide_36ers_beat_perth_wildcats_round_4.md): the response to this defeat, same source document
 - [Aron Baynes Suspension Brisbane Bullets 2023](aron_baynes_suspension_brisbane_bullets_2023.md): another story in the same round-up, same source document
+- [The Vasiljevic Dispute Between The Kings And The 36ers](dejan_vasiljevic_transfer_dispute_between_kings_and_36ers.md): same source document (doc_0406)
+- [Melbourne United Beat Illawarra 101-91 In Wollongong](melbourne_united_beat_illawarra_hawks_in_wollongong_round_4.md): same source document (doc_0406)
+- [Melbourne United Beat New Zealand 97-88 In Round 4](melbourne_united_beat_new_zealand_breakers_round_4.md): same source document (doc_0406)
+- [South East Melbourne Phoenix Beat Brisbane Bullets 96-73](south_east_melbourne_phoenix_beat_brisbane_bullets_round_4.md): same source document (doc_0406)
+- [JackJumpers Set A Club-Record Score Beating The Kings](tasmania_jackjumpers_record_score_beat_sydney_kings_round_4.md): same source document (doc_0406)
+- [Reserve Mobilisation](term_reserve_mobilisation.md): uses the concept reserve mobilisation
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

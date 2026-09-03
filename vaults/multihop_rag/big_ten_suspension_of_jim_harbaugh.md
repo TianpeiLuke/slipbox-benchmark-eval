@@ -11,6 +11,7 @@ The stated basis was a conference rule violation rather than an NCAA finding. In
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): another Big Ten item from a different document.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also discusses the Big Ten and Ohio State, separately sourced.
 - [Alabama-Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): another item involving Ohio State's playoff standing, from a different source.
@@ -19,6 +20,8 @@ The stated basis was a conference rule violation rather than an NCAA finding. In
 - [The Big Ten's 2023 Run of Scandals](big_ten_conference_scandal_run_2023.md): drawn from the same Sporting News piece, doc_0079.
 - [Big Ten Deliberation Over Harbaugh's Punishment](big_ten_deliberation_over_harbaugh_punishment.md): the run-up to this ruling in the same source document, doc_0180.
 - [The Big Ten's Head-Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): the rationale the conference gave for this suspension, from the same document.
+- [Chris Partridge's Firing And The Evidence-Destruction Allegation](chris_partridge_firing_and_evidence_destruction.md): same source document (doc_0180)
+- [Connor Stalions And The In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): same source document (doc_0180)
 
 ## Source
 

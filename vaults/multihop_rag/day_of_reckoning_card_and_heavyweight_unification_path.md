@@ -13,6 +13,7 @@ The stakes beyond that are stated precisely: the winner of that March fight hope
 
 ## Related Notes
 
+
 - [AFC 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): also concerns major sport staged in the Middle East, from a different document.
 - [Anthony Joshua's Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): also discusses Otto Wallin and Saudi-hosted boxing, from a different document.
 - [Argentina-Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also discusses Saudi Arabia in sport, from a different document.
@@ -20,6 +21,9 @@ The stakes beyond that are stated precisely: the winner of that March fight hope
 - [Boxing's Unorthodox Fight Endings: Ranking Scope](boxing_unorthodox_fight_endings_ranking_scope.md): also discusses Tyson Fury, whose February bout decides the title referenced here, from a different document.
 - [Anthony Joshua's Fifth-Round Stoppage Of Otto Wallin](anthony_joshua_fifth_round_stoppage_of_otto_wallin.md): the main event described here, from the same report.
 - [Day Of Reckoning Undercard Results: Bivol, Dubois, Kabayel](day_of_reckoning_undercard_results_bivol_dubois_kabayel.md): the rest of the same card, from the same report.
+- [Eddie Hearn On Opetaia Emulating Usyk And Unifying Cruiserweight](eddie_hearn_on_opetaia_emulating_usyk_and_unifying_cruiserweight.md): same source document (doc_0561)
+- [Jai Opetaia's First-Round Knockout Of Ellis Zorro](jai_opetaia_first_round_knockout_of_ellis_zorro.md): same source document (doc_0561)
+- [Joseph Parker's Upset Win Over Deontay Wilder](joseph_parker_upset_win_over_deontay_wilder.md): same source document (doc_0561)
 
 ## Source
 

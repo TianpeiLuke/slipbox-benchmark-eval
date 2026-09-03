@@ -13,11 +13,17 @@ Looking ahead, Uber anticipates gross bookings of $36.5 billion to $37.5 billion
 
 ## Related Notes
 
+
 - [Check Point's Recent Quarterly Financials](check_point_recent_quarterly_financials.md): overlaps on per-share quarterly reporting, from a different document.
 - [Hello Group (Momo) Q3 2023 Earnings Preview](hello_group_momo_q3_2023_earnings_preview.md): overlaps on revenue versus analyst estimates, from a different document.
 - [In-Car Camera Proposal](in_car_camera_proposal.md): also concerns Uber's ride-hail business, from a different document.
 - [Lucid Q3 2023 Deliveries](lucid_q3_2023_deliveries.md): overlaps on quarterly growth and share reaction, from a different document.
 - [Nike Fiscal Q1 2024 Headline Results](nike_fiscal_q1_2024_headline_results.md): the closest structural overlap on headline quarterly results, from a different document.
+- [Uber Freight's Revenue Decline](uber_freight_revenue_decline.md): same source document (doc_0337)
+- [Uber's Q3 2023 Bookings By Segment](uber_q3_2023_bookings_by_segment.md): same source document (doc_0337)
+- [Uber's Q3 2023 Profitability Metrics](uber_q3_2023_profitability_metrics.md): same source document (doc_0337)
+- [Uber's Results As A Macro Signal For Startups](uber_results_as_macro_signal_for_startups.md): same source document (doc_0337)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

@@ -13,11 +13,19 @@ The DSA also contains provisions intended to combat unfair or deceptive design, 
 
 ## Related Notes
 
+
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also concerns the Digital Services Act and ad targeting, from a different document.
 - [Digital Services Act](digital_services_act.md): defines the rulebook applied here, from a different document.
 - [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): sets out the VLOP obligations Facebook and Instagram fall under, from a different document.
 - [DSA And DMA Oversight Of Meta Ad Tracking](dsa_dma_oversight_of_meta_ad_tracking.md): covers the same two laws applied to Meta's ad tracking, from a different document.
 - [DSA Enforcement Powers And Penalties](dsa_enforcement_powers_and_penalties.md): covers what the Commission can do as sole DSA enforcer over VLOPs, from a different document.
+- [BEUC And 18 Member Groups File A CPC Complaint Against Meta](beuc_consumer_complaint_meta_pay_or_consent.md): same source document (doc_0140)
+- [BEUC's Consumer-Law Case Against Meta's Pay-Or-Consent Model](beuc_consumer_law_objections_to_meta_model.md): same source document (doc_0140)
+- [BEUC: The Choice And Its Implementation Cannot Be Separated](beuc_position_choice_versus_implementation.md): same source document (doc_0140)
+- [How CPC Network Consumer Protection Enforcement Works](cpc_network_consumer_protection_enforcement.md): same source document (doc_0140)
+- [The GDPR Track Running Alongside The Consumer Complaint](meta_pay_or_consent_gdpr_dimension.md): same source document (doc_0140)
+- [Very Large Online Platform (VLOP)](term_very_large_online_platform.md): uses the concept very large online platform
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

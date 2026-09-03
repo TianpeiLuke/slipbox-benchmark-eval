@@ -11,12 +11,18 @@ Its grounds are doctrinal and practical. Doctrinally: "US copyright law is an op
 
 ## Related Notes
 
+
 - [Dream Track Artist Selection and Licensing Questions](dream_track_artist_selection_and_licensing_questions.md): also discusses Copyright Office, from a different source document.
 - [Ed Newton-Rex Resignation From Stability AI](ed_newton_rex_resignation_stability_ai.md): a resignation over an opposing Copyright Office filing, from a different source document.
 - [EU AI Act Copyright Obligations for GPAI Makers](eu_ai_act_copyright_obligations_for_gpai_makers.md): the European treatment of opt-out for AI training, from a different source document.
 - [Fair Use Doctrine Plain Explanation](fair_use_doctrine_plain_explanation.md): the doctrine that would make consent moot if it applied, from a different source document.
 - [Google Filing Versus Youtube Music Reassurances](google_filing_versus_youtube_music_reassurances.md): also discusses Copyright Office, from a different source document.
 - [AI-Assisted Works Copyright Eligibility](ai_assisted_works_copyright_eligibility.md): another policy position in the same filing (doc_0271).
+- [Works Created Principally Through AI Should Not Be Copyrightable](ai_generated_works_should_not_be_copyrightable.md): same source document (doc_0271)
+- [The NMPA Argument That AI Training Fails Every Fair Use Factor](ai_training_fails_fair_use_test.md): same source document (doc_0271)
+- [AI Training Transparency And Recordkeeping Requirements](ai_training_transparency_and_recordkeeping.md): same source document (doc_0271)
+- [Anthropic's Fair Use Defense For AI Training](anthropic_fair_use_defense_for_ai_training.md): same source document (doc_0271)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

@@ -11,6 +11,7 @@ Marine organisms were hit especially hard, with 96% of species perishing. Gone w
 
 ## Related Notes
 
+
 - [Deep-Sea Mining and Hydrothermal Vent Protection](deep_sea_mining_and_hydrothermal_vent_protection.md): another discussion of species loss and extinction risk.
 - [Dubai Desert Adventure Activities](dubai_desert_adventure_activities.md): linked by shared vocabulary about species and reptiles rather than subject matter.
 - [The Cambrian Explosion and the Rise of Oxygen](cambrian_explosion_and_the_rise_of_oxygen.md): from the same excerpt, on the groups that originated before this loss.
@@ -19,6 +20,8 @@ Marine organisms were hit especially hard, with 96% of species perishing. Gone w
 - [The Great Dying as an Analogue for Modern Climate Extinction](great_dying_as_analogue_for_modern_climate_extinction.md): from the same excerpt, on the modern parallel being drawn.
 - [The Ordovician Glaciation Mass Extinction](ordovician_glaciation_mass_extinction.md): from the same excerpt, the earlier event the trilobites survived.
 - [Permian-Triassic Boundary Warming and Oxygen Collapse](permian_triassic_boundary_warming_and_oxygen_collapse.md): from the same excerpt, giving the causes of these losses.
+- [Synapsids and Therapsids: Permian Dominance](synapsids_and_therapsids_permian_dominance.md): same source document (doc_0460)
+- [Vascular Plants, Weathering and the Paleozoic Oxygen Rise](vascular_plants_weathering_and_paleozoic_oxygen_rise.md): same source document (doc_0460)
 
 ## Source
 

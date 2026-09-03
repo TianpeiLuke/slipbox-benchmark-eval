@@ -11,9 +11,19 @@ Economist Larry Summers termed this Ketchup economists or ketchup economics, a s
 
 ## Related Notes
 
+
 - [Sam Altman Reinstated As OpenAI CEO With New Board](sam_altman_reinstated_as_openai_ceo_with_new_board.md): also discusses Larry Summers, from a different source document.
 - [Skepticism About OpenAI Board Veto Enforcement](skepticism_about_openai_board_veto_enforcement.md): also discusses Larry Summers, from a different source document.
 - [Bharti Airtel EV EBITDA Valuation Case](bharti_airtel_ev_ebitda_valuation_case.md): drawn from the same article and is a peer-multiple comparison of the kind this note tells investors to sanity-check.
+- [Enterprise Value Multiples](enterprise_value_multiples.md): same source document (doc_0418)
+- [Equity Multiples Must Use Shareholder Line Items](equity_multiples_and_shareholder_line_items.md): same source document (doc_0418)
+- [Equity Valuations Must Be Judged Against Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): same source document (doc_0418)
+- [Layering Comparisons Against Growth And A Stock's Own History](layered_comparison_against_growth_and_own_history.md): same source document (doc_0418)
+- [Leverage Amplifies The Effect Of An EV Change On Equity Value](leverage_amplifies_ev_change_on_equity_value.md): same source document (doc_0418)
+- [Non-P&L Multiples Are Only Usable With A Credible Story](non_pl_multiples_require_a_credible_story.md): same source document (doc_0418)
+- [Price To EBITDA Hides Debt: A Worked Example](price_to_ebitda_ignores_debt_worked_example.md): same source document (doc_0418)
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Nobel Prize](term_nobel_prize.md): uses the concept nobel prize
 
 ## Source
 

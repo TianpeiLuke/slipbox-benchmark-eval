@@ -11,6 +11,7 @@ The mechanism runs as follows. HIV infects immune cells that are normally used t
 
 ## Related Notes
 
+
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): another Live Science account of why an HIV cure remains out of reach.
 - [Beyond Antibiotics: The Emerging Therapeutic Arsenal](beyond_antibiotics_emerging_therapeutic_arsenal.md): another Live Science piece on treatments that must outmanoeuvre a persistent pathogen.
 - [Cancer Immunotherapy and Checkpoint Inhibitors](cancer_immunotherapy_checkpoint_inhibitors.md): another treatment story built around immune cells and how they are manipulated.
@@ -19,6 +20,8 @@ The mechanism runs as follows. HIV infects immune cells that are normally used t
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): from the same article, on the cART therapy whose limits this reservoir defines.
 - [CRISPR-Cas System Mechanism](crispr_cas_system_mechanism.md): from the same article, describing the tool proposed to excise reservoir DNA.
 - [EBT-101 CRISPR HIV Gene Therapy](ebt_101_crispr_hiv_gene_therapy.md): from the same article, on the therapy built to attack this reservoir.
+- [EBT-101 Trial Next Steps and Follow-Up](ebt_101_trial_next_steps_and_follow_up.md): same source document (doc_0472)
+- [EBT-101 Trial Safety Results](ebt_101_trial_safety_results.md): same source document (doc_0472)
 
 ## Source
 

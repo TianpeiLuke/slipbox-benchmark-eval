@@ -11,6 +11,7 @@ The defining feature of the Canadian offer is breadth across skier types. Famili
 
 ## Related Notes
 
+
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): also discusses North America, in a different document
 - [Aging With HIV And The Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): also discusses North America, from a different source
 - [The Case Against Supersized Electric Vehicles](case_against_supersized_electric_vehicles.md): also discusses North America, from a different source
@@ -19,6 +20,8 @@ The defining feature of the Canadian offer is breadth across skier types. Famili
 - [Big White Ski Resort, British Columbia](big_white_ski_resort_british_columbia.md): one of the beginner-friendly resorts named here, from the same guide
 - [Fernie Alpine Ski Resort](fernie_alpine_ski_resort.md): the expert area named here, from the same guide
 - [Lake Louise Ski Resort, Banff](lake_louise_ski_resort_banff.md): another Banff National Park resort from the same guide
+- [Mont Tremblant: Quebec's Premier Resort With Old Quebec Charm](mont_tremblant_quebec_ski_resort.md): same source document (doc_0572)
+- [Revelstoke: The Continent's Longest Vertical, Still Under Construction](revelstoke_mountain_ski_resort.md): same source document (doc_0572)
 
 ## Source
 

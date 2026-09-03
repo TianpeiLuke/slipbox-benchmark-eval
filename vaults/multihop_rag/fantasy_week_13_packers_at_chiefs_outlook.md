@@ -11,6 +11,7 @@ A second strand caps the Packers pass-catchers: only one receiver has had more t
 
 ## Related Notes
 
+
 - [Backlash to Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): covers Travis Kelce off the field, from a different source document.
 - [Backlash to Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also covers Travis Kelce's public profile, from a different source document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another quarterback outlook covering Jordan Love, from a different source document.
@@ -19,6 +20,8 @@ A second strand caps the Packers pass-catchers: only one receiver has had more t
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
 
 ## Source
 

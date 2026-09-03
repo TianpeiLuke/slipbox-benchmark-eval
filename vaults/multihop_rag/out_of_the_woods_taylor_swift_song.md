@@ -13,11 +13,18 @@ Swift framed the revelation as a message to the press: "It was almost like this 
 
 ## Related Notes
 
+
 - [Biggest Concert Films Box Office Records](biggest_concert_films_box_office_records.md): also mentions Justin Bieber, in a different document
 - [Britney Spears, Sam Asghari Marriage And Divorce](britney_spears_sam_asghari_marriage_and_divorce.md): also mentions Selena Gomez, from a separate source
 - [Danny Elfman Coachella Performances](danny_elfman_coachella_performances.md): also draws on Rolling Stone reporting, in a different document
 - [Renaissance Versus Eras Tour Concert Film Comparison](renaissance_versus_eras_tour_concert_film_comparison.md): also mentions Justin Bieber, from a different source
 - [All You Had To Do Was Stay](all_you_had_to_do_was_stay_taylor_swift_song.md): another 1989 track from the same BBC article
+- [Bad Blood, The Katy Perry Feud And Rolling Stone's Last Place](bad_blood_taylor_swift_katy_perry_feud.md): same source document (doc_0257)
+- [Blank Space As Satire Of The "Psycho Serial Dater" Caricature](blank_space_taylor_swift_song.md): same source document (doc_0257)
+- [Clean: The Imogen Heap Collaboration That Closed 1989](clean_taylor_swift_song_imogen_heap.md): same source document (doc_0257)
+- [How You Get The Girl As A Step-By-Step Reconciliation Tutorial](how_you_get_the_girl_taylor_swift_song.md): same source document (doc_0257)
+- [I Know Places: A Love Song About Hiding From The Cameras](i_know_places_taylor_swift_song.md): same source document (doc_0257)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

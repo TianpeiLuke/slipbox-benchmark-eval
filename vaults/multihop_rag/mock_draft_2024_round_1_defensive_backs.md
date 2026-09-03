@@ -11,6 +11,7 @@ At Pick 25, Miami takes Denzel Burke, CB, Ohio State, a junior at 6'1" and 190 l
 
 ## Related Notes
 
+
 - [Alabama CFP Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also covers Ohio State, Denzel Burke's program, from a different source document.
 - [Alabama Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): also covers Ohio State, from a different source document.
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): also involves Las Vegas, from a different source document.
@@ -19,6 +20,8 @@ At Pick 25, Miami takes Denzel Burke, CB, Ohio State, a junior at 6'1" and 190 l
 - [2024 Mock Draft Round 1 Edge Rushers](mock_draft_2024_round_1_edge_rushers.md): the edge-rusher projections from the same mock draft (doc_0179).
 - [2024 Mock Draft Round 1 Interior Defenders and Tight End](mock_draft_2024_round_1_interior_defenders_and_tight_end.md): the interior-defender and tight-end projections from the same mock draft (doc_0179).
 - [2024 Mock Draft Round 1 Offensive Tackles](mock_draft_2024_round_1_offensive_tackles.md): the offensive-line projections from the same mock draft (doc_0179).
+- [2024 Mock Draft: Four Quarterbacks Off The Board In Round 1](mock_draft_2024_round_1_quarterbacks.md): same source document (doc_0179)
+- [2024 Mock Draft: Five Wide Receivers Projected In Round 1](mock_draft_2024_round_1_wide_receivers.md): same source document (doc_0179)
 
 ## Source
 

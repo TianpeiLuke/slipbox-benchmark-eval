@@ -11,6 +11,7 @@ Stephen Thaler, who owns a computer system he calls the "Creativity Machine," ha
 
 ## Related Notes
 
+
 - [Apple Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): another District Court intellectual-property matter, from a different source document.
 - [CJEU 2020 Ruling on the Rental and Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): another court ruling shaping copyright scope, from a different source document.
 - [Dream Track Artist Selection and Licensing Questions](dream_track_artist_selection_and_licensing_questions.md): also discusses Copyright Office, from a different source document.
@@ -19,6 +20,8 @@ Stephen Thaler, who owns a computer system he calls the "Creativity Machine," ha
 - [AI Assisted Works Copyright Eligibility](ai_assisted_works_copyright_eligibility.md): another note drawn from the same source document (doc_0271).
 - [AI Generated Works Should not Be Copyrightable](ai_generated_works_should_not_be_copyrightable.md): another note drawn from the same source document (doc_0271).
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): the NMPA position this precedent is said to support (doc_0271).
+- [AI Training Transparency And Recordkeeping Requirements](ai_training_transparency_and_recordkeeping.md): same source document (doc_0271)
+- [Anthropic's Fair Use Defense For AI Training](anthropic_fair_use_defense_for_ai_training.md): same source document (doc_0271)
 
 ## Source
 

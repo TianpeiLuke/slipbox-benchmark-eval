@@ -13,11 +13,18 @@ Seeking Alpha author The Asian Investor supplied the bear case: DocuSign's net d
 
 ## Related Notes
 
+
 - [Alphabet Q3 2023 Earnings Preview](alphabet_q3_2023_earnings_preview.md): same structure of Consensus Revenue Estimates set against a Quant Rating, from a different source document.
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): another consensus-revenue-estimate preview to compare guidance framing against, from a different source document.
 - [Boeing Q3 2023 Earnings Preview and 737 MAX Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): pairs Consensus Revenue Estimates with a Quant Rating in the same way, from a different source document.
 - [Chevron and Exxon Mobil Q3 2023 Earnings Preview](chevron_and_exxon_mobil_q3_2023_earnings_preview.md): another Seeking Alpha preview contrasting the Quant Rating with sell-side consensus, from a different source document.
 - [Cleveland-Cliffs Q3 2023 Earnings Preview](cleveland_cliffs_q3_2023_earnings_preview.md): a parallel Consensus Revenue Estimates and Quant Rating preview, from a different source document.
+- [Broadcom Q4 Earnings Preview and VMware Integration](broadcom_q4_fy2023_earnings_preview_and_vmware_integration.md): same source document (doc_0581)
+- [December 2023 Earnings Week Secondary Reporters](december_2023_earnings_week_secondary_reporters.md): same source document (doc_0581)
+- [Earnings Week Ahead: December 4-8, 2023](earnings_week_ahead_december_4_8_2023.md): same source document (doc_0581)
+- [GameStop Meme Stock Rally, December 2023](gamestop_meme_stock_rally_december_2023.md): same source document (doc_0581)
+- [GameStop Q3 Earnings Preview, December 2023](gamestop_q3_fy2023_earnings_preview.md): same source document (doc_0581)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

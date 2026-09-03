@@ -11,6 +11,7 @@ The article offers a higher-risk alternative with its own supporting evidence: S
 
 ## Related Notes
 
+
 - [Boxing Marination and Upset Risk](boxing_marination_and_upset_risk.md): shares the fights-and-fighters matchmaking framing, from a different source document.
 - [Dillon Danis and Savannah Montano Relationship Status](dillon_danis_and_savannah_montano_relationship_status.md): part of the same sub-plan on UFC 295 and influencer MMA feuds, from a different source document.
 - [Dillon Danis Feud With the Paul Brothers](dillon_danis_feud_with_the_paul_brothers.md): part of the same sub-plan, from a different source document.
@@ -19,6 +20,8 @@ The article offers a higher-risk alternative with its own supporting evidence: S
 - [UFC 295 Card Changes and Main Events](ufc_295_card_changes_and_main_events.md): the card this bet sits on, from the same article (doc_0577).
 - [UFC 295 Dern vs Andrade Best Bet](ufc_295_dern_vs_andrade_best_bet.md): another best bet from the same article (doc_0577).
 - [UFC 295 Lopes vs Sabatini Best Bet](ufc_295_lopes_vs_sabatini_best_bet.md): another best bet from the same article (doc_0577).
+- [UFC 295 Best Bet: Tom Aspinall's Moneyline In A Fight Likely To End Fast](ufc_295_pavlovich_vs_aspinall_best_bet.md): same source document (doc_0577)
+- [UFC 295 Best Bet: Over 1.5 Rounds In Prochazka vs Pereira](ufc_295_prochazka_vs_pereira_best_bet.md): same source document (doc_0577)
 
 ## Source
 

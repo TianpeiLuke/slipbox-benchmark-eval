@@ -13,6 +13,7 @@ The scope of the Google change as reported is the default, applied to all users 
 
 ## Related Notes
 
+
 - [The CPPA ADMT Opt-Out Right And Its Exemptions](cppa_admt_opt_out_right_and_exemptions.md): overlaps on alternative methods and security provisions, from a different source document.
 - [Jordan Poyer's Social Media Withdrawal](jordan_poyer_social_media_withdrawal.md): overlaps on password coverage, from a different source document.
 - [Adobe's Firefly Generative AI Tools And Project Stardust](adobe_generative_ai_tools.md): drawn from the same source document (doc_0043).
@@ -21,6 +22,8 @@ The scope of the Google change as reported is the default, applied to all users 
 - [Meta Quest 3 And The Affordable End Of AR/VR Hardware](consumer_ar_vr_hardware.md): drawn from the same source document (doc_0043).
 - [Creator Economy Sustainability And Creator Venture Capital](creator_economy_sustainability.md): drawn from the same source document (doc_0043).
 - [Whether Founders Should Attend Events](founder_event_attendance_debate.md): drawn from the same source document (doc_0043).
+- [Google Pixel 8 Launch](google_pixel_8_launch.md): same source document (doc_0043)
+- [Mastodon's Undercounted Users And Twitter's Traffic](mastodon_and_x_traffic_figures.md): same source document (doc_0043)
 
 ## Source
 

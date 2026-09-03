@@ -13,6 +13,7 @@ Critic PV calls it a gorgeous movie filled with fields of flowers and excellent 
 
 ## Related Notes
 
+
 - [Sympathy for the Devil (Nicolas Cage Thriller)](sympathy_for_the_devil_nicolas_cage_thriller.md): overlapping cast-and-credits vocabulary from a different source document
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 list
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): a fellow entry on the same ranked list
@@ -21,6 +22,8 @@ Critic PV calls it a gorgeous movie filled with fields of flowers and excellent 
 - [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): another entry from the same ranked list
 - [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): a fellow pick in the same article
 - [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): another film from the same list
+- [Creed III (Michael B. Jordan)](creed_iii_michael_b_jordan.md): same source document (doc_0094)
+- [Dream Scenario (Kristoffer Borgli)](dream_scenario_kristoffer_borgli.md): same source document (doc_0094)
 
 ## Source
 

@@ -11,6 +11,7 @@ An HIV diagnosis has not been a death sentence for years, thanks to powerful med
 
 ## Related Notes
 
+
 - [CDC 2021-2022 Flu Burden and Vaccination Recommendation](cdc_2021_2022_flu_burden_and_vaccination_recommendation.md): another disease-burden tally reported in terms of deaths and the vaccines available against it.
 - [Global Burden of Antibiotic-Resistant Infections](global_burden_of_antibiotic_resistant_infections.md): a parallel accounting of infections and deaths from a different global health threat.
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): from the same Live Science article, on what happens as the HIV-positive population grows older.
@@ -19,6 +20,8 @@ An HIV diagnosis has not been a death sentence for years, thanks to powerful med
 - [CRISPR-Cas System Mechanism](crispr_cas_system_mechanism.md): from the same article on CRISPR and HIV that supplies the 39 million figure.
 - [EBT-101 CRISPR HIV Gene Therapy](ebt_101_crispr_hiv_gene_therapy.md): from the same article, on an experimental attempt at the cure that does not yet exist.
 - [EBT-101 Trial Next Steps and Follow-Up](ebt_101_trial_next_steps_and_follow_up.md): from the same article on CRISPR-based HIV research.
+- [EBT-101 Trial Safety Results](ebt_101_trial_safety_results.md): same source document (doc_0472)
+- [HIV Key Population Treatment Gaps](hiv_key_population_treatment_gaps.md): same source document (doc_0238)
 
 ## Source
 

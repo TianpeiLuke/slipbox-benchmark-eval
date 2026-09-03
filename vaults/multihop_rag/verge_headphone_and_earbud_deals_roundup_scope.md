@@ -11,6 +11,7 @@ The rationale for curating rather than listing everything is the shape of the ca
 
 ## Related Notes
 
+
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): overlapping coverage of wireless headphones and earbuds, from a different source document.
 - [Anker Soundcore Space A40 Earbuds](anker_soundcore_space_a40_earbuds.md): overlapping coverage of headphones and earbuds, from a different source document.
 - [Audio-Technica ATH-M20xBT Deal](audio_technica_ath_m20xbt_deal.md): overlapping coverage of wireless headphones, from a different source document.
@@ -18,6 +19,10 @@ The rationale for curating rather than listing everything is the shape of the ca
 - [Black Friday 2023 Headphone Deals Overview](black_friday_2023_headphone_deals_overview.md): overlapping coverage of headphone and wireless earbud deals, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0369).
 - [Amazon Echo Buds Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): drawn from the same source document (doc_0369).
+- [Apple AirPods Second-Gen, Third-Gen And AirPods Max Deals](apple_airpods_second_third_gen_and_airpods_max_deals.md): same source document (doc_0369)
+- [Beats Fit Pro Deal Listings](beats_fit_pro_deal_listings.md): same source document (doc_0369)
+- [Beats Studio Pro Deal Listings](beats_studio_pro_deal_listings.md): same source document (doc_0369)
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
 
 ## Source
 

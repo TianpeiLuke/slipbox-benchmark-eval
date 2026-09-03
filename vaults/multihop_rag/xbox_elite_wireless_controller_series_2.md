@@ -15,11 +15,20 @@ The premium features come at a steep cost. The Elite Series 2 is normally $179.9
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick For Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): another Xbox Series input device, from a different source document.
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): another controller with rear buttons and customization, from a different source document.
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): also concerns Xbox controller connectivity, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the rechargeable-battery hardware theme, from a different source document.
 - [Alan Wake 2](alan_wake_2.md): shares the Xbox Series platform, from a different source document.
+- [Nacon Revolution X Controller](nacon_revolution_x_controller.md): same source document (doc_0350)
+- [PowerA Enhanced Wired Controller](powera_enhanced_wired_controller.md): same source document (doc_0350)
+- [PowerA Fusion Pro 3 Controller](powera_fusion_pro_3_controller.md): same source document (doc_0350)
+- [Scuf Instinct Pro Controller](scuf_instinct_pro_controller.md): same source document (doc_0350)
+- [Turtle Beach Recon Controller](turtle_beach_recon_controller.md): same source document (doc_0350)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

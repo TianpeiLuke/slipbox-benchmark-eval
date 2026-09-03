@@ -11,11 +11,18 @@ Engadget also lists the other companies with unions established in the past two 
 
 ## Related Notes
 
+
 - [Activision, Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): also concerns Activision Blizzard, from a different source document.
 - [Activision Titles On Xbox Game Pass](activision_titles_on_xbox_game_pass.md): also concerns Activision Blizzard, from a different source document.
 - [Fan Opposition To Activision Console Exclusivity Risk](fan_opposition_to_activision_console_exclusivity_risk.md): overlapping coverage of Activision and Microsoft, from a different source document.
 - [Google's Project Hug Developer Incentive Program](google_project_hug_developer_incentive_program.md): also concerns Activision Blizzard, from a different source document.
 - [Microsoft Q3 2023 Earnings Preview And The Activision Deal](microsoft_q3_2023_earnings_preview_and_activision_deal.md): also concerns Activision Blizzard, from a different source document.
+- [Consolidation Leaves Studios Vulnerable To Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): same source document (doc_0050)
+- [The Costs Of Relinquishing Independence After Acquisition](costs_of_relinquishing_independence_after_acquisition.md): same source document (doc_0050)
+- [Embracer Group's Restructuring And Studio Closures](embracer_group_restructuring_and_studio_closures.md): same source document (doc_0050)
+- [Epic Games' 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): same source document (doc_0050)
+- [Layoffs At Unity, Bungie, EA And Other Studios In 2023](layoffs_at_unity_bungie_ea_and_other_studios_in_2023.md): same source document (doc_0050)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

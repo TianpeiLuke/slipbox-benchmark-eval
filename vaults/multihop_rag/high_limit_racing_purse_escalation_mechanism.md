@@ -13,6 +13,7 @@ The mechanism extends to the venues as well. Events like these help keep smaller
 
 ## Related Notes
 
+
 - [Autosport Top 50 Drivers 2023: NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): also discusses Kyle Larson, from a different source document.
 - [Christopher Bell's 2023 Season and Autosport Snub](christopher_bell_2023_season_autosport_snub.md): overlapping race and speedway vocabulary, from a different source document.
 - [NASCAR Next Gen Muffler Noise Reduction Test](nascar_next_gen_muffler_noise_reduction_test.md): also discusses Kyle Larson, from a different source document.
@@ -21,6 +22,7 @@ The mechanism extends to the venues as well. Events like these help keep smaller
 - [Dale Earnhardt Jr's Visit to High Limit's Commonwealth Clash](dale_earnhardt_jr_visit_to_high_limit_commonwealth_clash.md): same source document, on the event where Larson explained this goal.
 - [High Limit Racing: Kyle Larson's Sprint Car Series](high_limit_racing_sprint_car_series.md): same source document, describing the series this mechanism belongs to.
 - [Kyle Larson's Late-Race Mistake at Lernerville](kyle_larson_lernerville_late_race_mistake.md): same source document, on the race where the $50,000 was on offer.
+- [Kyle Larson On The Origins Of High Limit Racing](kyle_larson_origins_of_high_limit_racing.md): same source document (doc_0443)
 
 ## Source
 

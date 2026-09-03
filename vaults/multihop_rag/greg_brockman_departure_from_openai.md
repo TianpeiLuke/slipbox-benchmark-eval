@@ -13,6 +13,7 @@ Brockman's account also places events the day before, on November 16: according 
 
 ## Related Notes
 
+
 - [Anthropic Founding by OpenAI Researchers](anthropic_founding_by_openai_researchers.md): also covers Greg Brockman, from a different source document.
 - [GPT-4 Demonstration to Bill Gates](gpt4_demonstration_to_bill_gates.md): substantial content overlap on brockman, altman, openai, from a different source document.
 - [Greg Brockman Account of Altman Removal](greg_brockman_account_of_altman_removal.md): also covers Greg Brockman, from a different source document.
@@ -21,6 +22,8 @@ Brockman's account also places events the day before, on November 16: according 
 - [Microsoft OpenAI Partnership and Response to Firing](microsoft_openai_partnership_and_response_to_firing.md): drawn from the same source document, doc_0415.
 - [OpenAI Board Composition and Helen Toner Dispute](openai_board_composition_and_helen_toner_dispute.md): drawn from the same source document, doc_0415.
 - [OpenAI Board Merger Approach to Anthropic](openai_board_merger_approach_to_anthropic.md): drawn from the same source document, doc_0415.
+- [OpenAI Board Negotiations Over Altman Reinstatement](openai_board_negotiations_over_altman_reinstatement.md): same source document (doc_0415)
+- [OpenAI Denial Of Malfeasance In Altman Ouster](openai_denial_of_malfeasance_in_altman_ouster.md): same source document (doc_0415)
 
 ## Source
 

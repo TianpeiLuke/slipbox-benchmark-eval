@@ -13,6 +13,7 @@ Verdugo had not become the All-Star player the Sox envisioned when building the 
 
 ## Related Notes
 
+
 - [Dodger Stadium Los Angeles Dodgers Postseason Atmosphere](dodger_stadium_los_angeles_dodgers_postseason_atmosphere.md): also concerns Mookie Betts, from a different document.
 - [Dodgers Payroll Constraints Against Signing Ohtani And Trout](dodgers_payroll_constraints_against_signing_ohtani_and_trout.md): also concerns Mookie Betts, from a different document.
 - [Juan Soto Traded From Padres To Yankees](juan_soto_traded_from_padres_to_yankees.md): also discusses Alex Verdugo, from a different document.
@@ -21,6 +22,8 @@ Verdugo had not become the All-Star player the Sox envisioned when building the 
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): another candidate on the same list, from the same document.
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
+- [Christopher Morel Cubs Trade Candidacy](christopher_morel_cubs_trade_candidacy.md): same source document (doc_0118)
 
 ## Source
 

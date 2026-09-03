@@ -13,6 +13,7 @@ The defense has a limit the article presses on. The existence of good SEOs does 
 
 ## Related Notes
 
+
 - [Gemini Pro News Summarization Refusals](gemini_pro_news_summarization_refusals.md): also concerns Google Search output quality, from a different source document.
 - [Google's Defense That Search Defaults Are Easy To Change](google_defense_that_search_defaults_are_easy_to_change.md): another defense of Google Search practices, from a different source document.
 - [Google's Denial That Ad Keyword Matching Affects Organic Results](google_denial_that_ad_keyword_matching_affects_organic_results.md): another defense of how organic results are produced, from a different source document.
@@ -21,6 +22,8 @@ The defense has a limit the article presses on. The existence of good SEOs does 
 - [The Affiliate Marketing Alligator Party](affiliate_marketing_alligator_party.md): drawn from the same source document (doc_0115).
 - [AI-Generated Content Will Overwhelm Search](ai_generated_content_will_overwhelm_search_prediction.md): drawn from the same source document (doc_0115).
 - [Mass-Generated AI SEO Spam And Churn And Burn](ai_mass_generated_seo_spam_churn_and_burn.md): drawn from the same source document (doc_0115).
+- [The Blurred Line Between SEO And Spam](blurred_line_between_seo_and_spam.md): same source document (doc_0115)
+- [Cade Lee, From Black Hat SEO To Construction](cade_lee_from_black_hat_seo_to_construction.md): same source document (doc_0115)
 
 ## Source
 

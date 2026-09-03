@@ -11,12 +11,18 @@ It was in this traditional "lull" that AMC Theatres found a good opportunity for
 
 ## Related Notes
 
+
 - [Don Mclean Christmas Memories Album](don_mclean_christmas_memories_album.md): also discusses Silent Night, from a different source document.
 - [Godzilla Minus One Takashi Yamazaki](godzilla_minus_one_takashi_yamazaki.md): covers one of the competing new releases, from a different source document.
 - [North American Box Office 2023 Forecast](north_american_box_office_2023_forecast.md): a parallel Dergarabedian forecast of the annual total, from a different source document.
 - [Thanksgiving Film Origin in Grindhouse Fake Trailer](thanksgiving_film_origin_in_grindhouse_fake_trailer.md): also discusses Silent Night, from a different source document.
 - [Theatrical Exhibition Innovation During Industry Disruption](theatrical_exhibition_innovation_during_industry_disruption.md): also quotes Paul Dergarabedian on exhibition, from a different source document.
 - [AMC Theatres Direct Distribution of Concert Films](amc_theatres_direct_distribution_of_concert_films.md): the distribution route that exploited the lull (doc_0173).
+- ["Godzilla Minus One" Takes Third With $11 Million](godzilla_minus_one_us_opening.md): same source document (doc_0173)
+- [Holdover Performance Of Hunger Games, Trolls, Wish And Napoleon](hunger_games_trolls_wish_napoleon_holdovers.md): same source document (doc_0173)
+- ["Renaissance: A Film by Beyoncé" Opens At $21 Million](renaissance_beyonce_concert_film_opening.md): same source document (doc_0173)
+- [Comparing "Renaissance" And "The Eras Tour" As Concert Films](renaissance_versus_eras_tour_concert_film_comparison.md): same source document (doc_0173)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

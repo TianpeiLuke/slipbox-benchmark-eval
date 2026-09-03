@@ -11,9 +11,14 @@ The hearing featured eight executives in all, including the four retail bank CEO
 
 ## Related Notes
 
+
 - [CFPB Consumer Redress Ordered From The Big Four Banks](cfpb_consumer_redress_ordered_from_big_four_banks.md): the redress questioning that took place at this same hearing (doc_0097).
 - [CFPB Funding Structure Supreme Court Challenge](cfpb_funding_structure_supreme_court_challenge.md): the regulatory threat Menendez raised in defence of the CFPB at this hearing (doc_0097).
 - [Citigroup Overdraft Fee Elimination](citigroup_overdraft_fee_elimination.md): another exchange from the same hearing (doc_0097).
+- [Overdraft Fees Are A Choice That Disproportionately Harms Black And Brown Communities](overdraft_fees_racial_disparity_argument.md): same source document (doc_0097)
+- [Partial Overdraft Fee Rollbacks At JPMorgan, Wells Fargo And Bank of America](partial_overdraft_fee_rollbacks_jpmorgan_wells_bofa.md): same source document (doc_0097)
+- [Robert Menendez's Bribery Indictment](robert_menendez_bribery_indictment.md): same source document (doc_0097)
+- [Reserve Mobilisation](term_reserve_mobilisation.md): uses the concept reserve mobilisation
 
 ## Source
 

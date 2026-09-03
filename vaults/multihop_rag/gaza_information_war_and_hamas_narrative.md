@@ -11,6 +11,7 @@ His second ground is a structural claim about where information from Gaza comes 
 
 ## Related Notes
 
+
 - [Disinformation On X Gaza](disinformation_on_x_gaza.md): concerns the same contest over Hamas, missile and Gaza claims online, from a different source document.
 - [FATF Iran Isolation And Cash Dependency](fatf_iran_isolation_and_cash_dependency.md): also concerns Islamic Jihad among the armed groups in Gaza, from a different source document.
 - [Hamas Fundraising After October 7](hamas_fundraising_after_october_7.md): also concerns Islamic Jihad and Hamas' operations, from a different source document.
@@ -19,6 +20,8 @@ His second ground is a structural claim about where information from Gaza comes 
 - [Eylon Levy Aliyah And IDF Service](eylon_levy_aliyah_and_idf_service.md): drawn from the same interview and gives the speaker's background.
 - [Eylon Levy George Galloway Oxford Debate 2013](eylon_levy_george_galloway_oxford_debate_2013.md): drawn from the same interview and shows an earlier stage of this advocacy.
 - [Eylon Levy Israeli Government Spokesperson](eylon_levy_israeli_government_spokesperson.md): drawn from the same interview and defines the role from which he makes this case.
+- [Eylon Levy's Kay Burley Sky News Interview](eylon_levy_kay_burley_sky_news_interview.md): same source document (doc_0413)
+- [Hostile Interview Questions Put To Israeli Spokespeople](hostile_interview_questions_to_israeli_spokespeople.md): same source document (doc_0413)
 
 ## Source
 

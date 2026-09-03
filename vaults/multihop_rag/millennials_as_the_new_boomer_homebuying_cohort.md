@@ -11,6 +11,7 @@ The relation Bank of America draws from this holds over a specific range. "Some 
 
 ## Related Notes
 
+
 - [Affordable Housing Supply Gap For Low-Income Renters](affordable_housing_supply_gap_for_low_income_renters.md): overlapping coverage of housing, homes and mortgages from a different source document.
 - [Gen Z News Distress Impairing Work Performance](gen_z_news_distress_impairing_work_performance.md): overlapping generational framing across millennials and boomers, from a different source document.
 - [Investor Case For Affordable Starter Home Supply](investor_case_for_affordable_starter_home_supply.md): overlapping coverage of the housing market and home supply, from a different source document.
@@ -19,6 +20,8 @@ The relation Bank of America draws from this holds over a specific range. "Some 
 - [Housing Affordability Worse Than The 2006 Peak](housing_affordability_worse_than_2006_peak.md): drawn from the same source document (doc_0479).
 - [Housing Market 1980s Analogy Rather Than 2008](housing_market_1980s_analogy_rather_than_2008.md): drawn from the same source document (doc_0479).
 - [US Existing Home Sales September 2023 13-Year Low](us_existing_home_sales_september_2023_13_year_low.md): drawn from the same source document (doc_0479).
+- [US Home Prices Peaked In June 2022 And Returned To A Record High By July 2023](us_home_price_peak_and_partial_recovery_2022_2023.md): same source document (doc_0112)
+- [The US Housing Inventory Shortage Of 2023](us_housing_inventory_shortage_2023.md): same source document (doc_0479)
 
 ## Source
 

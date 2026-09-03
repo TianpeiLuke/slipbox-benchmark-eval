@@ -11,6 +11,7 @@ Although made famous as a powerful gene-editing tool, CRISPR technology was actu
 
 ## Related Notes
 
+
 - [Antibiotic Stewardship Practices](antibiotic_stewardship_practices.md): from the same superbugs article, on the conventional half of the response to resistant bacteria.
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): from the same HIV article, on the therapy CRISPR is meant to go beyond.
 - [Bacteriophage Therapy Basics](bacteriophage_therapy_basics.md): from the same superbugs article, on the phages whose attacks bacteria evolved CRISPR-Cas to repel.
@@ -18,6 +19,10 @@ Although made famous as a powerful gene-editing tool, CRISPR technology was actu
 - [Brussels Airport Bombing Superbug Case](brussels_airport_bombing_superbug_case.md): from the same superbugs article.
 - [CRISPR-Based Antibacterial Therapy](crispr_based_antibacterial_therapy.md): from the same superbugs article, applying this mechanism against bacteria.
 - [EBT-101 CRISPR HIV Gene Therapy](ebt_101_crispr_hiv_gene_therapy.md): from the same HIV article, applying this mechanism in human patients.
+- [EBT-101 Trial Next Steps and Follow-Up](ebt_101_trial_next_steps_and_follow_up.md): same source document (doc_0472)
+- [EBT-101 Trial Safety Results](ebt_101_trial_safety_results.md): same source document (doc_0472)
+- [Global Burden of Antibiotic-Resistant Infections](global_burden_of_antibiotic_resistant_infections.md): same source document (doc_0566)
+- [Embedded Finance](term_embedded_finance.md): uses the concept embedded finance
 
 ## Source
 

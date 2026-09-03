@@ -11,11 +11,19 @@ The second step is pipeline valuation, and the article works an example. Biogen'
 
 ## Related Notes
 
+
 - [Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): shares corpus tags on discounts and valuation and turns on a valuation assumption, from a different source document.
 - [Epic Fortnite Project Liberty Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): shares corpus tags on discounts and valuation, from a different source document.
 - [Hipgnosis Songs Fund Results Delay December 2023](hipgnosis_songs_fund_results_delay_december_2023.md): shares corpus tags on discounts and valuation, from a different source document.
 - [HSF Eight Day Delay In Flagging Valuation Concern](hsf_eight_day_delay_in_flagging_valuation_concern.md): shares corpus tags on discounts and valuation, from a different source document.
 - [JP Morgan Note On HSF Valuation Credibility](jp_morgan_note_on_hsf_valuation_credibility.md): shares corpus tags on discounts and valuation and works a similar sensitivity, from a different source document.
+- [Alzheimer's: The Lecanemab And Aducanumab Approvals](alzheimers_lecanemab_and_aducanumab_approvals.md): same source document (doc_0239)
+- [Antibody Drug Conjugates And Their Market](antibody_drug_conjugates_market.md): same source document (doc_0239)
+- [Cancer Immunotherapy And Checkpoint Inhibitors](cancer_immunotherapy_checkpoint_inhibitors.md): same source document (doc_0239)
+- [CAR-T Cell Therapy](car_t_cell_therapy.md): same source document (doc_0239)
+- [GLP-1 Receptor Agonists In Diabetes And Weight Loss](glp1_receptor_agonists_diabetes_and_weight_loss.md): same source document (doc_0239)
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

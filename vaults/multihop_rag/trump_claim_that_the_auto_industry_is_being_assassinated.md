@@ -11,11 +11,19 @@ He also cast the union's strike as largely pointless and — in what The Verge c
 
 ## Related Notes
 
+
 - [England 132 All Out In The T20 Series Decider](england_132_all_out_t20_series_decider.md): shares the strike and penalty themes, from a different source document.
 - [Letitia James's Asset Inflation Allegations](letitia_james_asset_inflation_allegations.md): overlapping coverage of Trump and his business, from a different source document.
 - [Letitia James's History Of Investigating Trump](letitia_james_history_of_investigating_trump.md): overlapping coverage of Trump, penalties and his business, from a different source document.
 - [Notre Dame Vs USC 2023: Second Quarter](notre_dame_usc_2023_second_quarter.md): shares the strike and penalty themes, from a different source document.
 - [Real Betis 1-1 Real Madrid](real_betis_1_1_real_madrid.md): shares the strike and penalty themes, from a different source document.
+- [Biden's Picket Line Visit And EV Worker Messaging](biden_picket_line_visit_and_ev_worker_messaging.md): same source document (doc_0319)
+- [EV Battery Plant Locations And Union Organizing](ev_battery_plant_locations_and_union_organizing.md): same source document (doc_0319)
+- [EV Transition Momentum Despite Affordability Concerns](ev_transition_momentum_despite_affordability_concerns.md): same source document (doc_0319)
+- [GOP Attacks On EVs As "Faux Populism"](gop_attacks_on_evs_as_faux_populism.md): same source document (doc_0319)
+- [Pew Polling On American EV Purchase Intent](pew_polling_on_american_ev_purchase_intent.md): same source document (doc_0319)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

@@ -11,6 +11,7 @@ The warrant connecting that goal to Jordan specifically was a claim about his te
 
 ## Related Notes
 
+
 - [Jim Jordan's Third-Ballot Defeat And Withdrawal](jim_jordan_third_ballot_defeat_and_withdrawal.md): part of the same speaker-crisis account, from a different source document.
 - [Obstacles To Empowering An Interim Speaker](obstacles_to_empowering_an_interim_speaker.md): part of the same speaker-crisis account, from a different source document.
 - [Gingrich And Boehner Endorse The Interim Speaker Plan](gingrich_and_boehner_endorse_interim_speaker_plan.md): drawn from the same source document (doc_0377).
@@ -19,6 +20,8 @@ The warrant connecting that goal to Jordan specifically was a claim about his te
 - [The House Paralysis Following Kevin McCarthy's Ouster](house_speakership_vacancy_paralysis_after_mccarthy_ouster.md): drawn from the same source document (doc_0377).
 - [Jim Jordan's Political Profile And Record](jim_jordan_political_profile_and_record.md): drawn from the same source document (doc_0377).
 - [Jim Jordan's Second-Ballot Defeat](jim_jordan_second_ballot_defeat.md): drawn from the same source document (doc_0377).
+- [The Proposal To Expand Patrick McHenry's Speaker Pro Tempore Powers](patrick_mchenry_expanded_speaker_pro_tempore_proposal.md): same source document (doc_0377)
+- [The Republican Holdouts' Case Against Jim Jordan](republican_holdouts_case_against_jim_jordan.md): same source document (doc_0377)
 
 ## Source
 

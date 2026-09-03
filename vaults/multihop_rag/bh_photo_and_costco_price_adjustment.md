@@ -11,6 +11,7 @@ Costco does not price-match with competitors. According to its website, however,
 
 ## Related Notes
 
+
 - [Holiday Price Matching Policies, 2023](holiday_price_matching_policies_2023.md): overlaps on price adjustments after purchase, from a different source document.
 - [Thanksgiving 2023: Stores Closed on the Holiday](thanksgiving_2023_stores_closed_on_the_holiday.md): overlaps on Costco warehouse locations, from a different source document.
 - [Amazon Price Matching and Return Policy](amazon_price_matching_and_return_policy.md): another retailer without price matching, same roundup (doc_0403).
@@ -19,6 +20,8 @@ Costco does not price-match with competitors. According to its website, however,
 - [Dell Price Match Policy](dell_price_match_policy.md): another named-competitor matching policy, same roundup (doc_0403).
 - [eBay Best Price Guarantee](ebay_best_price_guarantee.md): another conditional matching scheme, same roundup (doc_0403).
 - [GameStop and Google Store Price Matching](gamestop_and_google_store_price_matching.md): other informal or limited policies, same roundup (doc_0403).
+- [Home Depot And Lowe's Price Match Policies](home_depot_and_lowes_price_match_policies.md): same source document (doc_0403)
+- [HP Price Match Policy](hp_price_match_policy.md): same source document (doc_0403)
 
 ## Source
 

@@ -11,11 +11,15 @@ It has a fantastic, full cast of gods who give you various powers to mix and mat
 
 ## Related Notes
 
+
 - [Indie Games Suit The Switch's Portability](indie_games_suit_the_switch_portability.md): same source; the portability argument this game is the clearest case for.
 - [Stardew Valley](stardew_valley.md): same source; another of the three indie picks.
 - [Hollow Knight](hollow_knight.md): same source; the third indie pick.
 - [Six Games To Play First On A New Nintendo Switch](nintendo_switch_starter_library_guide.md): same source; the guide this is one of six picks in.
 - [Classic Nintendo Franchise Picks For The Switch](classic_nintendo_switch_franchise_picks.md): same source; the first-party half of the same list.
+- [Animal Crossing: New Horizons](animal_crossing_new_horizons.md): same source document (doc_0292)
+- [Super Mario Odyssey](super_mario_odyssey.md): same source document (doc_0292)
+- [The Legend Of Zelda: Breath Of The Wild](the_legend_of_zelda_breath_of_the_wild.md): same source document (doc_0292)
 
 ## Source
 

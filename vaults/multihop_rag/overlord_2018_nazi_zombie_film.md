@@ -13,6 +13,7 @@ Polygon's Pete Volk calls it a gleeful, intentionally ridiculous Nazi-zombie-bas
 
 ## Related Notes
 
+
 - [Amnesia: The Bunker](amnesia_the_bunker.md): both concern World War settings, from a different source document
 - [Book Club (2018 Romantic Comedy)](book_club_2018_romantic_comedy.md): both reference Paramount Plus, from a separate article
 - [Clueless (1995 Teen Comedy, Emma Adaptation)](clueless_1995_teen_comedy_emma_adaptation.md): another Paramount Plus title from a different document
@@ -21,6 +22,8 @@ Polygon's Pete Volk calls it a gleeful, intentionally ridiculous Nazi-zombie-bas
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
 - [American Horror Story: NYC Season](american_horror_story_nyc_season.md): a fellow entry in the same countdown document
 - [Apostle (Gareth Evans Folk Horror)](apostle_gareth_evans_folk_horror.md): another recommendation from the same source
+- [Cat People (1942) and the Origin of the Jump Scare](cat_people_1942_jump_scare_origin.md): same source document (doc_0165)
+- [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): same source document (doc_0165)
 
 ## Source
 

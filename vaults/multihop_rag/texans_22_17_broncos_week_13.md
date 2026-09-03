@@ -11,6 +11,7 @@ Nico Collins had a career-high 191 receiving yards and a fourth-quarter touchdow
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also covers the Denver Broncos' position, from a different document.
 - [Broncos Fourth Quarter Comeback and Ryland Game Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): also covers Lucas Krull and Russell Wilson, from a different document.
 - [CJ Stroud Texans Midseason MVP](cj_stroud_texans_midseason_mvp.md): also covers CJ Stroud and Houston, from a different document.
@@ -19,6 +20,8 @@ Nico Collins had a career-high 191 receiving yards and a fourth-quarter touchdow
 - [Buccaneers 21-18 Panthers, Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): another game from the same Week 13 roundup, from the same document.
 - [Cardinals 24-10 Steelers, Week 13](cardinals_24_10_steelers_week_13.md): another game from the same Week 13 roundup, from the same document.
 - [Chargers 6-0 Patriots Shutout, Week 13](chargers_6_0_patriots_shutout_week_13.md): another game from the same Week 13 roundup, from the same document.
+- [Colts 31-28 Titans In Overtime, Week 13 2023](colts_31_28_titans_overtime_week_13.md): same source document (doc_0150)
+- [Dolphins 45-15 Commanders, Week 13 2023](dolphins_45_15_commanders_week_13.md): same source document (doc_0150)
 
 ## Source
 

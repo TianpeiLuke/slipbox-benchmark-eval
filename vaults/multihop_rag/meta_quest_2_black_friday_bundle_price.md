@@ -13,6 +13,7 @@ Mashable's Walmart doorbuster roundup of 25 November 2023 listed the same headli
 
 ## Related Notes
 
+
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): same Amazon roundup, on the sale window
 - [Amazon 65 Inch Fire Tv Qled Deal](amazon_65_inch_fire_tv_qled_deal.md): same Amazon roundup, another featured deal
 - [Airpods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): from the same Walmart doorbuster roundup
@@ -20,6 +21,9 @@ Mashable's Walmart doorbuster roundup of 25 November 2023 listed the same headli
 - [Apple Gift Card Amazon Credit Deal](apple_gift_card_amazon_credit_deal.md): another store-credit promotion, different document
 - [Apple Store Credit And Gift Card Promotion November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): another free-credit offer, different document
 - [Cat Quest 2](cat_quest_2.md): overlaps only on the word Quest, unrelated subject
+- [How to Earn Pumpkin Tickets in Monster Hunter Now](how_to_earn_pumpkin_tickets_in_monster_hunter_now.md): content overlap 0.17 on quest; different source document
+- [Amazon Echo Show, Audible And Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): same source document (doc_0000)
+- [Apple Watch SE At A Record-Low Price](apple_watch_se_record_low_price.md): same source document (doc_0558)
 
 ## Source
 

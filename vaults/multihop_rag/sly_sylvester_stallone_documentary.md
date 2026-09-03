@@ -11,11 +11,18 @@ Polygon describes it as a close look at the life of one of the great American mo
 
 ## Related Notes
 
+
 - [Arnold Schwarzenegger On Drill-Instructor Discipline](arnold_schwarzenegger_drill_instructor_discipline.md): also concerns Arnold Schwarzenegger, from a different source document.
 - [Celebrity Tough Love Parenting in Hollywood](celebrity_tough_love_parenting_in_hollywood.md): also covers Arnold Schwarzenegger, from a different source document.
 - [Flu Vaccine Timing and Severity Reduction Sylvester](flu_vaccine_timing_and_severity_reduction_sylvester.md): overlaps in content on sylvester, from a different source document.
 - [Influenza Secondary Bacterial Infection Mechanism](influenza_secondary_bacterial_infection_mechanism.md): overlaps in content on sylvester, from a different source document.
 - [A Haunting In Venice](a_haunting_in_venice_poirot_mystery.md): drawn from the same source document (doc_0382).
+- [Freaks Vs. The Reich](freaks_vs_the_reich_italian_superhero_film.md): same source document (doc_0382)
+- [Insidious: The Red Door](insidious_the_red_door.md): same source document (doc_0382)
+- [Jawan](jawan_shah_rukh_khan_action_thriller.md): same source document (doc_0382)
+- [My Big Fat Greek Wedding 3](my_big_fat_greek_wedding_3.md): same source document (doc_0382)
+- [Netflix Games, November 2023](netflix_games_november_2023.md): same source document (doc_0392)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

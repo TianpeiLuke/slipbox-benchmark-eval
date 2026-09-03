@@ -11,6 +11,7 @@ The Patriots inactives were Slater (hamstring), DT Sam Roberts, third/emergency 
 
 ## Related Notes
 
+
 - [Chargers 6-0 Patriots Shutout, Week 13](chargers_6_0_patriots_shutout_week_13.md): also covers Mac Jones, from a different document.
 - [Colts Backfield Split: Zack Moss and Jonathan Taylor, Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): also covers Rhamondre Stevenson, from a different document.
 - [Connor Bedard Debut Performance and Pregame Scenes](connor_bedard_debut_performance_and_pregame_scenes.md): another account of pregame warmup scenes, from a different document.
@@ -19,6 +20,8 @@ The Patriots inactives were Slater (hamstring), DT Sam Roberts, third/emergency 
 - [Broncos Fourth Quarter Comeback and Ryland Game Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): gives the closing sequence of the game these lineups played, from the same document.
 - [Patriots 26-23 Broncos on Christmas Eve 2023](patriots_26_23_broncos_christmas_eve_result.md): gives the final result, from the same document.
 - [Patriots-Broncos First Half Play by Play](patriots_broncos_first_half_play_by_play.md): gives the first half of the same game, from the same document.
+- [Playoff And Draft Implications Of Patriots-Broncos](patriots_broncos_playoff_and_draft_implications.md): same source document (doc_0449)
+- [Patriots-Broncos Start Time And Broadcast Details](patriots_broncos_start_time_and_broadcast_details.md): same source document (doc_0449)
 
 ## Source
 

@@ -11,11 +11,17 @@ Familiar shorthand distinctions â€” caster versus puncher, melee versus ranged â
 
 ## Related Notes
 
+
 - [BG3 Ability Scores Shape Out-Of-Combat Skills](bg3_ability_scores_shape_out_of_combat_skills.md): from the same guide; explains the non-combat half of what a class choice buys you.
 - [BG3 Cleric Class And Domains](bg3_cleric_class_and_domains.md): another of the classes ranked in the same guide.
 - [Astarion, Baldur's Gate 3 Vampire Companion](astarion_baldurs_gate_3_vampire_companion.md): covers a Baldur's Gate 3 party member from a different source document.
 - [Baldur's Gate 3](baldurs_gate_3.md): general coverage of the same game from a different source.
 - [Art Cullagh And The Shadow Curse Quest In Baldur's Gate 3](bg3_shadow_curse_and_art_cullagh_quest_overview.md): overlaps in content on gate, baldur, across, from a different source document.
+- [Diablo 4 Season 2 Vampiric Powers](diablo_4_season_2_vampiric_powers.md): content overlap 0.11 on class, character, total; different source document
+- [BG3 Barbarian: The Damage Class](bg3_barbarian_class_and_subclasses.md): same source document (doc_0016)
+- [BG3 Bard: The Support Class And Its Colleges](bg3_bard_class_and_colleges.md): same source document (doc_0016)
+- [Custom Character Versus Origin Character In Baldur's Gate 3](bg3_custom_character_vs_origin_character.md): same source document (doc_0016)
+- [BG3 Druid: The Nature Caster](bg3_druid_class_and_circles.md): same source document (doc_0016)
 
 ## Source
 

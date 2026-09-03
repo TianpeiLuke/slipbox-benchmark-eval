@@ -13,9 +13,16 @@ Besides expanding into new markets, the company plans to use its new capital in 
 
 ## Related Notes
 
+
 - [GitLab Sell-Side Analyst Theses Late 2023](gitlab_sell_side_analyst_theses_late_2023.md): also concerns Cantor Fitzgerald, from a different source document.
 - [Palo Alto Networks And Fortinet Billings Weakness](palo_alto_networks_and_fortinet_billings_weakness.md): also concerns Cantor Fitzgerald, from a different source document.
 - [The Affordable Housing Supply Gap For Low-Income Renters](affordable_housing_supply_gap_for_low_income_renters.md): drawn from the same source document (doc_0430), the market failure this model exploits.
+- [The Investor Case For Affordable Starter Home Supply](investor_case_for_affordable_starter_home_supply.md): same source document (doc_0430)
+- [Simply Homes: Company Profile And Funding](simply_homes_company_profile_and_funding.md): same source document (doc_0430)
+- [Simply Homes' Interest-Rate Underwriting Resilience](simply_homes_interest_rate_underwriting_resilience.md): same source document (doc_0430)
+- [Simply Homes' Operating Metrics And Markets](simply_homes_operating_metrics_and_markets.md): same source document (doc_0430)
+- [Simply Homes' Social Mobility Mission](simply_homes_social_mobility_mission.md): same source document (doc_0430)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

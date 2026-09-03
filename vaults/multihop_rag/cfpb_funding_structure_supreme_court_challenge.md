@@ -11,11 +11,18 @@ The CFPB itself is the watchdog created in 2011 in the wake of the 2008 Financia
 
 ## Related Notes
 
+
 - [Epic Fortnite Project Liberty Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): also involves Supreme Court proceedings, from a different source document.
 - [Epic v Apple Ruling as Precedent](epic_v_apple_ruling_as_precedent.md): another matter turning on Supreme Court action, from a different source document.
 - [Gen Z Collective Online Political Action](gen_z_collective_online_political_action.md): also touches Supreme Court matters, from a different source document.
 - [Google Parallel Antitrust Proceedings 2023](google_parallel_antitrust_proceedings_2023.md): another regulatory case whose outcome depends on the courts, from a different source document.
 - [GOP Attacks on EVs as Faux Populism](gop_attacks_on_evs_as_faux_populism.md): also references Supreme Court politics, from a different source document.
+- [CFPB Consumer Redress Ordered From The Big Four Banks](cfpb_consumer_redress_ordered_from_big_four_banks.md): same source document (doc_0097)
+- [Citigroup's Elimination Of Overdraft Fees](citigroup_overdraft_fee_elimination.md): same source document (doc_0097)
+- [Overdraft Fees Are A Choice That Disproportionately Harms Black And Brown Communities](overdraft_fees_racial_disparity_argument.md): same source document (doc_0097)
+- [Partial Overdraft Fee Rollbacks At JPMorgan, Wells Fargo And Bank of America](partial_overdraft_fee_rollbacks_jpmorgan_wells_bofa.md): same source document (doc_0097)
+- [Robert Menendez's Bribery Indictment](robert_menendez_bribery_indictment.md): same source document (doc_0097)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

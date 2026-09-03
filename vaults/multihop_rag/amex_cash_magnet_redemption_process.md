@@ -11,6 +11,7 @@ Statement credits are applied to the account within three days. The one restrict
 
 ## Related Notes
 
+
 - [Caesars Sportsbook Kentucky](caesars_sportsbook_kentucky.md): overlapping coverage of redeeming credits and rewards, from a different source document.
 - [Chase Ink Business Preferred Card Comparison](chase_ink_business_preferred_card_comparison.md): overlapping coverage of card rewards and credits, from a different source document.
 - [Delta SkyMiles Gold Business Rewards Rates](delta_skymiles_gold_business_rewards_rates.md): overlapping coverage of Amex reward dollars, from a different source document.
@@ -19,6 +20,8 @@ Statement credits are applied to the account within three days. The one restrict
 - [Alternatives To The Amex Cash Magnet Card](alternatives_to_amex_cash_magnet_card.md): drawn from the same source document (doc_0471).
 - [Amex Cash Magnet Approval Odds And Credit Limits](amex_cash_magnet_approval_odds_and_credit_limits.md): drawn from the same source document (doc_0471).
 - [The Amex Cash Magnet Best-Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): drawn from the same source document (doc_0471).
+- [American Express Cash Magnet Card: Overview](amex_cash_magnet_card_overview.md): same source document (doc_0471)
+- [Amex Cash Magnet Cardholder Benefits](amex_cash_magnet_cardholder_benefits.md): same source document (doc_0471)
 
 ## Source
 

@@ -11,6 +11,7 @@ At 8:56 p.m. ET Garcia finished the job in style. Although Resendiz was in the f
 
 ## Related Notes
 
+
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): shares surname-level subject overlap in another sport, from a different source document.
 - [Benavidez Andrade Undercard and Jermall Charlo Return](benavidez_andrade_undercard_and_jermall_charlo_return.md): another middleweight undercard bout, from a different source document.
 - [Joseph Parker Upset Win Over Deontay Wilder](joseph_parker_upset_win_over_deontay_wilder.md): shares the punches-landed and momentum framing of a live boxing report, from a different source document.
@@ -19,6 +20,8 @@ At 8:56 p.m. ET Garcia finished the job in style. Although Resendiz was in the f
 - [Barrios vs Ugas Interim WBC Welterweight 2023](barrios_vs_ugas_interim_wbc_welterweight_2023.md): another bout from the same live coverage (doc_0245).
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): the main event of the same card (doc_0245).
 - [Canelo Alvarez Next Opponents After Charlo Win](canelo_alvarez_next_opponents_after_charlo_win.md): the aftermath of the same card (doc_0245).
+- [Canelo-Charlo: Early Prelim Results And Main Card Start Times](canelo_charlo_ppv_card_schedule.md): same source document (doc_0245)
+- [Canelo vs Charlo: Sporting News' Round-By-Round Unofficial Scorecard](canelo_charlo_round_by_round_scorecard.md): same source document (doc_0245)
 
 ## Source
 

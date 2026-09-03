@@ -13,6 +13,7 @@ The range over which the simpler feature holds is set by that narrower purpose: 
 
 ## Related Notes
 
+
 - [Apple-Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): also carries photography by Amelia Holowaty Krales, from a different source document.
 - [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): also carries photography by Amelia Holowaty Krales, from a different source document.
 - [Apple Watch SE and Reseller Inventory Remain Available](apple_watch_se_and_reseller_inventory_remain_available.md): also carries photography by Amelia Holowaty Krales, from a different source document.
@@ -21,6 +22,8 @@ The range over which the simpler feature holds is set by that narrower purpose: 
 - [Apple's Double Tap User Research and Naming](apple_double_tap_user_research_and_naming.md): the research that set what a double tap should do (doc_0491).
 - [The Apple Watch Double Tap Gesture](apple_watch_double_tap_gesture.md): the feature being distinguished here (doc_0491).
 - [Double Tap's Customization Limits](double_tap_customization_limits.md): where the simpler feature runs out (doc_0491).
+- [The S9 Chip's Neural Engines Enable Double Tap](s9_chip_neural_engines_enable_double_tap.md): same source document (doc_0491)
+- [Smartwatch Gestures And Phone Independence](smartwatch_gestures_and_phone_independence.md): same source document (doc_0491)
 
 ## Source
 

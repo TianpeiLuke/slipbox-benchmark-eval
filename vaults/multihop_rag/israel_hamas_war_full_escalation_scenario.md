@@ -11,11 +11,17 @@ The escalation pathway runs through regional actors. A massive strike by Israel 
 
 ## Related Notes
 
+
 - [AFC 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): also concerns the Middle East, from a different source document.
 - [Anthony Joshua Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): also involves Saudi Arabia, from a different source document.
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also involves Saudi Arabia, from a different source document.
 - [Boxing Marination And Upset Risk](boxing_marination_and_upset_risk.md): also involves Saudi Arabia, from a different source document.
 - [Cairo Diplomatic Surge And Summit For Peace 2023](cairo_diplomatic_surge_and_summit_for_peace_2023.md): also concerns Middle East diplomacy around the same conflict, from a different source document.
+- [India-Israel Bilateral Trade Exposure In 2022-23](india_israel_bilateral_trade_exposure_2022_23.md): same source document (doc_0111)
+- [Israel-Hamas Conflict: The Limited-Market-Impact Base Case](israel_hamas_conflict_limited_market_impact_base_case.md): same source document (doc_0111)
+- [Middle East Crude And Shipping Chokepoint Disruption](middle_east_crude_and_shipping_chokepoint_disruption.md): same source document (doc_0111)
+- [How War Escalation Transmits To Indian Equities](war_escalation_transmission_to_indian_equities.md): same source document (doc_0111)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

@@ -13,6 +13,7 @@ The exposed sectors he names are tourism, commerce, transport services, entertai
 
 ## Related Notes
 
+
 - [Twitch as an Alternative Sports Viewing Platform](twitch_as_an_alternative_sports_viewing_platform.md): shares corpus-level content tags with this note.
 - [AI Pricing Models](ai_pricing_models.md): shares a corpus-level content tag with this note.
 - [Amazon Seller Skepticism of the FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares the Covid-19 content tag used across the corpus.
@@ -21,6 +22,14 @@ The exposed sectors he names are tourism, commerce, transport services, entertai
 - [Apple M3 Chip Architecture and GPU Features](apple_m3_chip_architecture_and_gpu_features.md): shares a corpus-level content tag with this note.
 - [Ayman Sadiq Ten Minute School Origin](ayman_sadiq_ten_minute_school_origin.md): shares the Covid-19 content tag used across the corpus.
 - [Bank of Israel Interest Rate Policy During the War](bank_of_israel_interest_rate_policy_during_the_war.md): the monetary response to the consumption decline described here.
+- [Bank of Israel Thirty Billion Dollar FX Intervention](bank_of_israel_thirty_billion_dollar_fx_intervention.md): same source document (doc_0125)
+- [Fiscal Cost Channels of the Israel-Gaza War](fiscal_cost_channels_of_the_israel_gaza_war.md): same source document (doc_0125)
+- [Israeli Economy in the First Week of the Gaza War](israeli_economy_in_the_first_week_of_the_gaza_war.md): same source document (doc_0125)
+- [Israeli Post-War Economic Rehabilitation Planning Proposal](israeli_post_war_economic_rehabilitation_planning_proposal.md): same source document (doc_0125)
+- [Leiderman's "There Are No Sacred Numbers" Deficit Argument](leiderman_there_are_no_sacred_numbers_deficit_argument.md): same source document (doc_0125)
+- [War Duration and Scenarios Driving Israeli Growth Damage](war_duration_and_scenarios_driving_israeli_growth_damage.md): same source document (doc_0125)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

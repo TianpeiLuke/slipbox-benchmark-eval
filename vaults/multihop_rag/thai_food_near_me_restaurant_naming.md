@@ -13,6 +13,7 @@ The Verge, writing on October 26th, 2023, framed the restaurant — located on a
 
 ## Related Notes
 
+
 - [Bawendi's Controlled Quantum Dot Synthesis](bawendi_controlled_quantum_dot_synthesis.md): also mentions Murray Hill, from a different source document.
 - [A Defense of SEO as Legitimate Work](defense_of_seo_as_legitimate_work.md): also concerns Google Search optimization, from a different source document.
 - [Gemini Pro's News Summarization Refusals](gemini_pro_news_summarization_refusals.md): also concerns Google Search, from a different source document.
@@ -21,6 +22,8 @@ The Verge, writing on October 26th, 2023, framed the restaurant — located on a
 - [Barber Shop Near Me and Felix Silva](barber_shop_near_me_felix_silva.md): another business using the same naming strategy (doc_0127).
 - [Google Local Search Ranking Factors](google_local_search_ranking_factors.md): the ranking system the name is aimed at (doc_0127).
 - [The "Near Me" Business Naming Trend](near_me_business_naming_trend.md): the wider pattern this restaurant belongs to (doc_0127).
+- [Restaurants Optimizing Menus For Algorithms](restaurants_optimizing_menus_for_algorithms.md): same source document (doc_0127)
+- [The SEO Naming Effect On Customer Acquisition](seo_naming_effect_on_customer_acquisition.md): same source document (doc_0127)
 
 ## Source
 

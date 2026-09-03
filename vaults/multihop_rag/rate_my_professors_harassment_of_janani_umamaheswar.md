@@ -13,6 +13,7 @@ In December, Southern Connecticut State University police contacted Umamaheswar'
 
 ## Related Notes
 
+
 - [FTX's Inner Circle: Family and Friends Implicated](ftx_inner_circle_family_and_friends_implicated.md): shares the arrest-and-prosecution theme, from a different source document.
 - [Gary Wang's Ownership Stake and Cooperation Deal](gary_wang_ownership_and_cooperation.md): shares the arrest-and-prosecution theme, from a different source document.
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): shares the criminal-proceedings theme, from a different source document.
@@ -21,6 +22,16 @@ In December, Southern Connecticut State University police contacted Umamaheswar'
 - [Anne Rice's Vampire Chronicles Verdict](anne_rice_vampire_chronicles_verdict.md): shares the criminal-proceedings theme, from a different source document.
 - [AOC's Twitch Among Us Stream](aoc_twitch_among_us_stream.md): shares the COVID-19 context, from a different source document.
 - [Ayman Sadiq and Ten Minute School's Origin](ayman_sadiq_ten_minute_school_origin.md): shares the COVID-19 context, from a different source document.
+- [Campus Stalking Research On Students And Faculty](campus_stalking_of_students_and_faculty_research.md): same source document (doc_0136)
+- [Catherine Tan's Public Disclosure And Law Enforcement Gaps](catherine_tan_public_disclosure_and_law_enforcement_gaps.md): same source document (doc_0136)
+- [The Cyberstalker's Twitter Campaign Against Asian Academics](cyberstalker_twitter_campaign_against_asian_academics.md): same source document (doc_0136)
+- [Documenting Cyberstalking As Unpaid Labor](documenting_cyberstalking_as_unpaid_labor.md): same source document (doc_0136)
+- [False Title IX Complaints To Vassar And George Mason](false_title_ix_complaints_to_vassar_and_george_mason.md): same source document (doc_0136)
+- [Title IX Weaponized Against Faculty](title_ix_weaponized_against_faculty.md): same source document (doc_0136)
+- [The University Response Gap To Faculty Online Abuse](university_response_gap_to_faculty_online_abuse.md): same source document (doc_0136)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Bail](term_bail.md): uses the concept bail
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

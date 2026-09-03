@@ -11,11 +11,23 @@ The suit was covered as one over allegedly "Draconian" payment policies. When so
 
 ## Related Notes
 
+
 - [The Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): another matter involving the Justice Department, from a different source document.
 - [Apple Versus Google: Antitrust Conduct Contrast](apple_versus_google_antitrust_conduct_contrast.md): shares the antitrust and payment-processor themes, from a different source document.
 - [Bankman-Fried And Zhao Convictions And The Binance Aftermath](bankman_fried_and_zhao_convictions_and_binance_aftermath.md): another Justice Department matter, from a different source document.
 - [Britney Spears And Kevin Federline: Marriage And Divorce](britney_spears_kevin_federline_marriage_and_divorce.md): shares the class-action-settlement and payment-processor theme tags, from an otherwise unrelated source document.
 - [Closed Sessions Limited The Public Record Of Cue's Testimony](closed_sessions_limited_the_public_record_of_cue_testimony.md): another Justice Department proceeding, from a different source document.
+- [Bolt's SEC Probe Closed Without An Enforcement Recommendation](bolt_sec_probe.md): same source document (doc_0075)
+- [CRED's 255% Operating Revenue Growth To $168.1 Million](cred_revenue_growth.md): same source document (doc_0075)
+- [Fintech Funding Roundup, October 2023](fintech_funding_roundup_oct_2023.md): same source document (doc_0075)
+- [Fintech Startups On The 2023 Ranking Lists](fintech_startup_rankings_2023.md): same source document (doc_0075)
+- [Gatekeeper Platforms Will Keep Drawing Antitrust Suits Over Their Fees](payment_gatekeeper_antitrust_view.md): same source document (doc_0075)
+- [Anti-Steering Rules](term_anti_steering_rules.md): uses the concept anti steering rules
+- [Class Action](term_class_action.md): uses the concept class action
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

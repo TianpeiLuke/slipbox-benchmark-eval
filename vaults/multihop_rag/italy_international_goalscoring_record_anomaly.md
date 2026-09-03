@@ -13,11 +13,18 @@ The explanatory grounds are twofold. Italy's shortcoming clearly isn't about a c
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United At Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also discusses Harry Kane, one of the comparison scorers, from a different document.
 - [Bayern Munich's 2-2 Draw At RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also discusses Harry Kane, from a different document.
 - [Calendar Year 2023 Top Goalscorer Race](calendar_year_2023_top_goalscorer_race.md): also discusses Harry Kane's scoring, from a different document.
 - [Cole Palmer's £42.5m Transfer And Chelsea Squad Turnover](cole_palmer_42_5m_transfer_and_chelsea_squad_turnover.md): also concerns the European Championship cycle referenced here, from a different document.
 - [Criticism Of Germany's Travel To North America In 2023](criticism_of_germany_travel_to_north_america_2023.md): also concerns European Championship preparation, from a different document.
+- [Haaland's Chase Of Norway's International Goalscoring Record](haaland_chase_of_norway_international_goalscoring_record.md): same source document (doc_0400)
+- [Haaland's Major Tournament Prospects With Norway](haaland_major_tournament_prospects_with_norway.md): same source document (doc_0400)
+- [Jorgen Juve's Norway Goalscoring Record](jorgen_juve_norway_goalscoring_record.md): same source document (doc_0400)
+- [The Longest-Standing International Goalscoring Records](longest_standing_international_goalscoring_records.md): same source document (doc_0400)
+- [Norway's Historical Absence From Major Tournaments](norway_historical_absence_from_major_tournaments.md): same source document (doc_0400)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

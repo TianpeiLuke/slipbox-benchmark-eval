@@ -11,6 +11,7 @@ The pitch followed a month of conferences on the same question. Throughout Septe
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and the Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): shares Hong Kong as a financial-centre setting.
 - [Argentina-Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): shares Hong Kong as a location tag.
 - [CONMEBOL 2026 Qualifying Broadcast Rights and Channels](conmebol_2026_qualifying_broadcast_rights_and_channels.md): shares Hong Kong as a location tag.
@@ -19,6 +20,8 @@ The pitch followed a month of conferences on the same question. Throughout Septe
 - [Capital Rotation from China into Japanese Assets](capital_rotation_from_china_into_japanese_assets.md): the flow Kishida's pitch is aimed at capturing, same article.
 - [Family Offices and the "This Time Is Different" Test for Japan](family_offices_and_the_this_time_is_different_test_for_japan.md): the persuasion problem named here, same article.
 - [Japan Asset Management Reform and NISA Expansion](japan_asset_management_reform_and_nisa_expansion.md): the policy content behind the pitch, same article.
+- [Japanese Corporate Governance Reform and Shareholder Alignment](japanese_corporate_governance_reform_and_shareholder_alignment.md): same source document (doc_0182)
+- [Renewed Global Investor Interest in Japanese Equities](renewed_global_investor_interest_in_japanese_equities.md): same source document (doc_0182)
 
 ## Source
 

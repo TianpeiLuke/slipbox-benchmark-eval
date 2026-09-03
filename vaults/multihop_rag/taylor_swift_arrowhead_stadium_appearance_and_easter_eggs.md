@@ -13,6 +13,7 @@ None of this actually confirms Swift and Kelce are dating, the piece notes. But 
 
 ## Related Notes
 
+
 - [Travis Kelce Invites Taylor Swift To Arrowhead](travis_kelce_invites_taylor_swift_to_arrowhead.md): same timeline, the invitation that produced this appearance
 - [Nfl Broadcasters Taylor Swift Lyric References](nfl_broadcasters_taylor_swift_lyric_references.md): same timeline, the broadcast build-up
 - [Swift Kelce Dating Rumours Go Public September 2023](swift_kelce_dating_rumours_go_public_september_2023.md): heavily overlapping coverage of the same rumours, different document
@@ -20,6 +21,9 @@ None of this actually confirms Swift and Kelce are dating, the piece notes. But 
 - [Nfl Defence Of Its Taylor Swift Themed Promotion](nfl_defence_of_its_taylor_swift_themed_promotion.md): the league's response to this cultural moment, different document
 - [Nfl Statement Defending Its Taylor Swift Coverage](nfl_statement_defending_its_taylor_swift_coverage.md): a related league statement, different document
 - [Kim Kardashian Roblox Sex Tape Minigame Dispute](kim_kardashian_roblox_sex_tape_minigame_dispute.md): also concerns Kim Kardashian, unrelated subject
+- [Travis Kelce's Moustache Remark And New York Visit](travis_kelce_moustache_remark_and_new_york_visit.md): same source document (doc_0044)
+- [Travis Kelce's First Contact Attempt And The Eras Tour Bracelet](travis_kelce_taylor_swift_first_contact_and_eras_tour_bracelet.md): same source document (doc_0044)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

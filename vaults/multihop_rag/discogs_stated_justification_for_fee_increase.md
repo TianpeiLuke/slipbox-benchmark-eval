@@ -13,11 +13,19 @@ The one promotional gesture the company did make drew the same objection. Discog
 
 ## Related Notes
 
+
 - [Amazon Seller Fee and Pricing Complaints](amazon_seller_fee_and_pricing_complaints.md): overlaps on sellers, fees and sales, from a different source document.
 - [Dracula 2000, Dimension Films](dracula_2000_dimension_films.md): also mentions Olivia Rodrigo, from a different source document.
 - [Ice Spice's Breakout and Capitol 10K Partnership](ice_spice_breakout_and_capitol_10k_partnership.md): also mentions Olivia Rodrigo, from a different source document.
 - [Music Streaming and Vinyl Subscription Gifts](music_streaming_and_vinyl_subscription_gifts.md): also mentions Olivia Rodrigo, from a different source document.
 - [Tate McRae's Think Later Album Review](tate_mcrae_think_later_album_review.md): also mentions Olivia Rodrigo, from a different source document.
+- [Discogs' 2023 Seller Fee Increase](discogs_2023_seller_fee_increase.md): same source document (doc_0096)
+- [Discogs' Compounding Cost Pressures](discogs_compounding_cost_pressures.md): same source document (doc_0096)
+- [Discogs' Database Completeness At Risk](discogs_database_completeness_at_risk.md): same source document (doc_0096)
+- [Discogs As Music Database And Marketplace](discogs_music_database_and_marketplace.md): same source document (doc_0096)
+- [Discogs Seller Livelihoods](discogs_seller_livelihoods.md): same source document (doc_0096)
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

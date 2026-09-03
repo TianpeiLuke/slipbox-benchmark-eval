@@ -13,6 +13,7 @@ His prescription attacks the manager's framing directly by naming two concrete f
 
 ## Related Notes
 
+
 - [Bruno Fernandes' Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): covers the same Manchester United team and its goalscoring problems, from a different document.
 - [Canada-Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also discusses West Ham players, from a different document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also covers West Ham in the same season, from a different document.
@@ -20,6 +21,9 @@ His prescription attacks the manager's framing directly by naming two concrete f
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): also covers West Ham, from a different document.
 - [Liverpool-Arsenal Draw At Anfield, December 2023](liverpool_arsenal_draw_at_anfield_december_2023.md): another match from the same matchday report.
 - [Bournemouth's Comeback Win At Nottingham Forest With A Solanke Hat-Trick](bournemouth_comeback_win_at_nottingham_forest_solanke_hat_trick.md): another match from the same report.
+- [Kostas Tsimikas' Collarbone Break In The Klopp Collision](kostas_tsimikas_collarbone_break_in_klopp_collision.md): same source document (doc_0438)
+- [Luton Town's Win Over Newcastle After Lockyer's Cardiac Arrest](luton_town_win_over_newcastle_after_lockyer_cardiac_arrest.md): same source document (doc_0438)
+- [Manchester United's Defeat To West Ham In December 2023](manchester_united_home_defeat_to_west_ham_december_2023.md): same source document (doc_0438)
 
 ## Source
 

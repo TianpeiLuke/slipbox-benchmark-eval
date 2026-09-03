@@ -15,6 +15,7 @@ Eva Doescher, a licensed clinical social worker in Nebraska, shared similar feed
 
 ## Related Notes
 
+
 - [Paul Denino Defense of the Kick Stream](paul_denino_defense_of_the_kick_stream.md): overlapping vocabulary on licensed, worker, interaction, from a different source document.
 - [Caring Contacts Enrollment and Consent Process](caring_contacts_enrollment_and_consent_process.md): drawn from the same source document (doc_0158).
 - [Caring Contacts Origin and May 2020 Launch](caring_contacts_origin_and_may_2020_launch.md): drawn from the same source document (doc_0158).
@@ -23,6 +24,8 @@ Eva Doescher, a licensed clinical social worker in Nebraska, shared similar feed
 - [Caring Contacts Replication Kit and National Interest](caring_contacts_replication_kit_and_national_interest.md): drawn from the same source document (doc_0158).
 - [Handwritten Cards as Low Tech Suicide Prevention](handwritten_cards_as_low_tech_suicide_prevention.md): drawn from the same source document (doc_0158).
 - [Pediatric Suicide Follow up Care Gap](pediatric_suicide_follow_up_care_gap.md): drawn from the same source document (doc_0158).
+- [The 988 Suicide And Crisis Lifeline Advisory](suicide_and_crisis_lifeline_988_advisory.md): same source document (doc_0158)
+- [Why Caring Contacts Works, According To Schalley](why_caring_contacts_works_schalley_explanation.md): same source document (doc_0158)
 
 ## Source
 

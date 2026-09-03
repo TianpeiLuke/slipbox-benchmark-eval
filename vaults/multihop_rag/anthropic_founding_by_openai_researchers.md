@@ -11,12 +11,18 @@ In 2021 the group of about 15 engineers and scientists created a new lab called 
 
 ## Related Notes
 
+
 - [ChatGPT 100 Million User Milestone](chatgpt_100_million_user_milestone.md): also concerns Sam Altman's OpenAI, from a different source document.
 - [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): also concerns Sam Altman's OpenAI, from a different source document.
 - [ChatGPT Launch And First Year Evolution](chatgpt_launch_and_first_year_evolution.md): also concerns Sam Altman and the models descended from GPT-3, from a different source document.
 - [ChatGPT Overview And Significance](chatgpt_overview_and_significance.md): also concerns Sam Altman's company and its language models, from a different source document.
 - [ChatGPT Subscription Tiers And Pricing](chatgpt_subscription_tiers_and_pricing.md): also concerns Sam Altman's company, from a different source document.
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): drawn from the same article and states the safety-versus-ambition paradox this split illustrates.
+- [AlphaGo As Evidence For AI Risk Concerns](alphago_as_evidence_for_ai_risk_concerns.md): same source document (doc_0027)
+- [DeepMind's Ethics Board And Its Single Meeting In 2015](deepmind_ethics_board_single_meeting_2015.md): same source document (doc_0027)
+- [DeepMind's Founding And Thiel's Investment](deepmind_founding_and_thiel_investment.md): same source document (doc_0027)
+- [DeepMind's Sale To Google And Facebook's AI Lab](deepmind_google_acquisition_and_facebook_ai_lab.md): same source document (doc_0027)
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
 
 ## Source
 

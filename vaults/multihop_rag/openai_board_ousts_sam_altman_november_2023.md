@@ -13,11 +13,20 @@ TechCrunch cautioned on November 18 that the full truth would not be known for a
 
 ## Related Notes
 
+
 - [The AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also discusses Sam Altman, from a different document.
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the generative-AI subject area, from a different document.
 - [Anthropic's Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): also discusses Greg Brockman and Sam Altman, from a different document.
 - [ChatGPT's 100 Million User Milestone](chatgpt_100_million_user_milestone.md): also discusses Sam Altman and the product at the center of this, from a different document.
 - [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): also discusses Sam Altman, from a different document.
+- [Dismissed Theories: A Murati Coup And A Personal Matter](dismissed_theories_murati_coup_and_personal_matter.md): same source document (doc_0333)
+- [Google's "No Moat" Memo On Open Source AI](google_no_moat_memo_open_source_ai.md): same source document (doc_0054)
+- [Llama's Open Source Licensing Limits](llama_open_source_licensing_limits.md): same source document (doc_0054)
+- [Meta Positioned To Benefit From The OpenAI Turmoil](meta_positioned_to_benefit_from_openai_turmoil.md): same source document (doc_0054)
+- [Mozilla's Open Letter On AI Openness](mozilla_open_letter_on_ai_openness.md): same source document (doc_0054)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Board Governance](term_board_governance.md): uses the concept board governance
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

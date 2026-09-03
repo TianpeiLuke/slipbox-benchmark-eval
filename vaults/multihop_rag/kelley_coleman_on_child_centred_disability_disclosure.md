@@ -13,6 +13,7 @@ She grants that the bucket does educational work, but subordinates it: "The blue
 
 ## Related Notes
 
+
 - [The Christmas "Give List" Versus the Wish List](christmas_give_list_versus_wish_list.md): overlapping coverage of teaching children and parents, from a different source document.
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): shares the data-privacy topic, from a different source document.
 - [AI Civil Rights and Consumer Protections in the EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): shares the data-privacy topic, from a different source document.
@@ -21,6 +22,10 @@ She grants that the bucket does educational work, but subordinates it: "The blue
 - [Apple Blocks Beeper Mini's iMessage Access](apple_blocks_beeper_mini_imessage_access.md): shares the data-privacy topic, from a different source document.
 - [Apple iOS Security Fixes and Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares the data-privacy topic, from a different source document.
 - [Apple's Privacy Stance Versus Google Default Payments](apple_privacy_stance_versus_google_default_payments.md): shares the data-privacy topic, from a different source document.
+- [The Blue Halloween Bucket Autism Awareness Trend](blue_halloween_bucket_autism_awareness_trend.md): same source document (doc_0388)
+- [Michele Borba on Labelling a Child](michele_borba_on_labelling_a_child.md): same source document (doc_0388)
+- [Objections to Blue Halloween Buckets](objections_to_blue_halloween_buckets.md): same source document (doc_0388)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

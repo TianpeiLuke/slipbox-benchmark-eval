@@ -13,6 +13,7 @@ As for a true post-credits scene that actually plays at the tail end of the cred
 
 ## Related Notes
 
+
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): both mention Five Nights at Freddy's, from a different source document
 - [Apple 2023 Top iPhone Apps and Games Lists](apple_2023_top_iphone_apps_and_games_lists.md): another Five Nights reference from a separate article
 - [KO II Pattern, Scene Structure and Missing Song Mode](ko_ii_pattern_scene_structure_and_missing_song_mode.md): incidental vocabulary overlap from an unrelated document
@@ -21,6 +22,7 @@ As for a true post-credits scene that actually plays at the tail end of the cred
 - [Five Nights at Freddy's Movie Age Appropriateness](five_nights_at_freddys_movie_age_appropriateness.md): a fellow entry in the same Q&A
 - [Five Nights at Freddy's Movie Development and Release](five_nights_at_freddys_movie_development_and_release.md): the production history opening the same article
 - [Five Nights at Freddy's Movie Simplified Lore for Fans](five_nights_at_freddys_movie_simplified_lore_for_fans.md): the fan-facing counterpart answer in the same guide
+- [Willy's Wonderland (Nicolas Cage Animatronic Horror)](willys_wonderland_nicolas_cage_animatronic_horror.md): same source document (doc_0387)
 
 ## Source
 

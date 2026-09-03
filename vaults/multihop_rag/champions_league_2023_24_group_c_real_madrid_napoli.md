@@ -13,6 +13,7 @@ The results were: Sept. 20, Real Madrid 1-0 Union Berlin; Sept. 20, Braga 1-2 Na
 
 ## Related Notes
 
+
 - [Arsenal 2-1 Win at Sevilla, Group B](arsenal_2_1_win_at_sevilla_group_b.md): also concerns the Europa League, from a different document.
 - [Chelsea Women's Team Succession After Hayes](chelsea_womens_team_succession_after_hayes.md): also mentions Real Madrid, from a different document.
 - [Eintracht Frankfurt 5-1 Bayern Munich](eintracht_frankfurt_5_1_bayern_munich.md): also mentions Union Berlin, from a different document.
@@ -21,6 +22,8 @@ The results were: Sept. 20, Real Madrid 1-0 Union Berlin; Sept. 20, Braga 1-2 Na
 - [Champions League 2023-24 Group A: Bayern and Copenhagen](champions_league_2023_24_group_a_bayern_copenhagen.md): a sibling group review, from the same document.
 - [Champions League 2023-24 Group B: Arsenal and PSV](champions_league_2023_24_group_b_arsenal_psv.md): a sibling group review, from the same document.
 - [Champions League 2023-24 Group D: Real Sociedad and Inter](champions_league_2023_24_group_d_real_sociedad_inter.md): a sibling group review, from the same document.
+- [Champions League 2023/24 Group E: Atletico Madrid And Lazio Qualify](champions_league_2023_24_group_e_atletico_lazio.md): same source document (doc_0187)
+- [Champions League 2023/24 Group F: Borussia Dortmund And PSG Qualify](champions_league_2023_24_group_f_dortmund_psg.md): same source document (doc_0187)
 
 ## Source
 

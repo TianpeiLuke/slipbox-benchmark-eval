@@ -11,6 +11,7 @@ Earnhardt Jr and Brad Sweet used to have a working relationship, as Sweet was a 
 
 ## Related Notes
 
+
 - [Autosport Top 50 Drivers 2023: NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): also discusses the Cup Series and Kyle Larson, from a different source document.
 - [Chris Buescher's 2023 Season and Autosport Snub](chris_buescher_2023_season_autosport_snub.md): also discusses the Cup Series, from a different source document.
 - [Christopher Bell's 2023 Season and Autosport Snub](christopher_bell_2023_season_autosport_snub.md): also discusses the Cup Series, from a different source document.
@@ -19,6 +20,7 @@ Earnhardt Jr and Brad Sweet used to have a working relationship, as Sweet was a 
 - [High Limit Racing's Purse Escalation Mechanism](high_limit_racing_purse_escalation_mechanism.md): same source document, on the goal Larson revealed to Earnhardt Jr at this event.
 - [High Limit Racing: Kyle Larson's Sprint Car Series](high_limit_racing_sprint_car_series.md): same source document, on the series hosting this race.
 - [Kyle Larson's Late-Race Mistake at Lernerville](kyle_larson_lernerville_late_race_mistake.md): same source document, on how Larson's race at this event ended.
+- [Kyle Larson On The Origins Of High Limit Racing](kyle_larson_origins_of_high_limit_racing.md): same source document (doc_0443)
 
 ## Source
 

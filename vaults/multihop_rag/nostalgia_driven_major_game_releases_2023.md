@@ -11,11 +11,17 @@ Competition is stiff, more so now that Nintendo just casually dropped Super Mari
 
 ## Related Notes
 
+
 - [Accelerating Game Nostalgia Cycles](accelerating_game_nostalgia_cycles.md): same source document; the claim that the cycle is compressing.
 - [Fortnite's Chapter 1 Map Return](fortnite_chapter_1_map_return.md): same source document; the release that prompted the comparison.
 - [Final Fantasy 16](final_fantasy_16.md): also concerns Final Fantasy and Square Enix, from a different source document.
 - [Mario Kart 8 Deluxe](mario_kart_8_deluxe.md): overlaps in content on Mario and Nintendo games, from a different source document.
 - [Classic Nintendo Switch Franchise Picks](classic_nintendo_switch_franchise_picks.md): overlaps in content on Mario, Zelda and Nintendo, from a different source document.
+- [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): both discuss Final Fantasy; different source document
+- [Kids' Toy And Playset Gifts 2023](kids_toy_and_playset_gifts_2023.md): both discuss Super Mario Bros; different source document
+- [Fortnite's Battle Royale Live-Service Model](fortnite_battle_royale_live_service_model.md): same source document (doc_0549)
+- [Fortnite's Map As A Source Of Player Nostalgia](fortnite_map_as_source_of_player_nostalgia.md): same source document (doc_0549)
+- [Fortnite OG Streamer Promotion Campaign](fortnite_og_streamer_promotion_campaign.md): same source document (doc_0549)
 
 ## Source
 

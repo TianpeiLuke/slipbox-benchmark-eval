@@ -15,6 +15,7 @@ The model has a stated scope limit. Polygon's editorial note says the story cove
 
 ## Related Notes
 
+
 - [Five Nights at Freddy's Movie Development and Release](five_nights_at_freddys_movie_development_and_release.md): both discuss Warner Bros., from a different source document
 - [NASCAR $7.7 Billion Media Rights Deal](nascar_7_7_billion_media_rights_deal.md): another Warner Bros. reference from a separate article
 - [NASCAR Media Deal Cable Simulcast Ratings Drawback](nascar_media_deal_cable_simulcast_ratings_drawback.md): shares Warner Bros. coverage in a different document
@@ -23,6 +24,8 @@ The model has a stated scope limit. Polygon's editorial note says the story cove
 - [Arkham Asylum: The Batman Prequel Series](arkham_asylum_the_batman_prequel_series.md): one of the projects on the docket described here
 - [Black Superman Movie (Ta-Nehisi Coates)](black_superman_movie_ta_nehisi_coates.md): another slate item from the same document
 - [Booster Gold TV Series](booster_gold_tv_series.md): an example of reaching into deeper corners of the DC canon
+- [Brave and the Bold (Damian Wayne Film)](brave_and_the_bold_damian_wayne_film.md): same source document (doc_0081)
+- [Creature Commandos Animated Series](creature_commandos_animated_series.md): same source document (doc_0081)
 
 ## Source
 

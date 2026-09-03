@@ -11,6 +11,7 @@ Biogen's aducanumab had a peculiar start: the company itself stopped development
 
 ## Related Notes
 
+
 - [Blood Tests And Brain Health Clinics For Earlier Diagnosis](blood_tests_and_brain_health_clinics_for_earlier_diagnosis.md): concerns earlier Alzheimer's diagnosis alongside these treatments, from a different source document.
 - [Lecanemab And Donanemab Amyloid Drugs](lecanemab_and_donanemab_amyloid_drugs.md): covers lecanemab's approval and the amyloid drug class directly, from a different source document.
 - [UCSD Time Restricted Feeding Alzheimer's Mouse Study](ucsd_time_restricted_feeding_alzheimers_mouse_study.md): concerns amyloid and cognitive outcomes in Alzheimer's research, from a different source document.
@@ -18,6 +19,11 @@ Biogen's aducanumab had a peculiar start: the company itself stopped development
 - [Antibody Drug Conjugates Market](antibody_drug_conjugates_market.md): drawn from the same article and covers another antibody-based therapeutic area.
 - [Cancer Immunotherapy Checkpoint Inhibitors](cancer_immunotherapy_checkpoint_inhibitors.md): drawn from the same article and covers the monoclonal antibody platform behind such drugs.
 - [CAR-T Cell Therapy](car_t_cell_therapy.md): drawn from the same article and covers another advanced therapy area it surveys.
+- [A Framework For Valuing US Pharma Stocks](framework_for_valuing_us_pharma_stocks.md): same source document (doc_0239)
+- [GLP-1 Receptor Agonists In Diabetes And Weight Loss](glp1_receptor_agonists_diabetes_and_weight_loss.md): same source document (doc_0239)
+- [HIV Antiretroviral Therapy And Cure Research](hiv_antiretroviral_therapy_and_cure_research.md): same source document (doc_0239)
+- [Clinical Trial](term_clinical_trial.md): uses the concept clinical trial
+- [Board Governance](term_board_governance.md): uses the concept board governance
 
 ## Source
 

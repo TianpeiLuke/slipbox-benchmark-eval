@@ -11,6 +11,7 @@ The Toffees left it late, with goals from Dwight McNeil, Abdoulaye Doucoure and 
 
 ## Related Notes
 
+
 - [Bill Kenwright's Everton Chairmanship Record](bill_kenwright_everton_chairmanship_record.md): also concerns Everton and Goodison Park, from a different document.
 - [Bill Kenwright's Tribute At Anfield](bill_kenwright_tribute_at_anfield.md): also concerns Goodison Park and the Everton club, from a different document.
 - [Carabao Cup 2023-24 Quarter-Final Results](carabao_cup_2023_24_quarterfinal_results.md): another Everton-Newcastle meeting in the same season, from a different document.
@@ -18,6 +19,9 @@ The Toffees left it late, with goals from Dwight McNeil, Abdoulaye Doucoure and 
 - [Everton's Appeal Against The Points Deduction](everton_appeal_against_points_deduction.md): covers the ten-point penalty and relegation-zone context referenced here, from a different document.
 - [Dyche On Everton's Points Deduction And Appeal](dyche_on_everton_points_deduction_and_appeal.md): the manager's reaction to this result, from the same report.
 - [Howe On Newcastle's Inconsistency And Injury Load](howe_on_newcastle_inconsistency_and_injury_load.md): the losing manager's reaction, from the same report.
+- [Moyes On West Ham's Win At Tottenham](moyes_on_west_ham_win_at_tottenham.md): same source document (doc_0541)
+- [Postecoglou's Response To Tottenham's Losing Run](postecoglou_response_to_tottenham_losing_run.md): same source document (doc_0541)
+- [Sherwood's Analysis Of Tottenham Over-Attacking After Leading](sherwood_analysis_tottenham_over_attacking_after_leading.md): same source document (doc_0541)
 
 ## Source
 

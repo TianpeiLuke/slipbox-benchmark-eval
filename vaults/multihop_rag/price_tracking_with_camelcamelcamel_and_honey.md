@@ -11,11 +11,17 @@ If you only shop on Amazon, CamelCamelCamel remains one of the best tools for tr
 
 ## Related Notes
 
+
 - [Black Friday Is Not Your Last Chance To Save](deals_continue_after_black_friday.md): same source; the argument whose qualifier — cuts go unnoticed unless you track them — this procedure answers.
 - [Black Friday 2023 Deals Started A Week Early](black_friday_2023_deal_timing_shift.md): same source; the lengthened sale window these tools are meant to cover.
 - [Holiday Price Matching Policies, 2023](holiday_price_matching_policies_2023.md): same source; what tracked price drops can be turned into after purchase.
 - [Amazon Prime Free Games And DLC](amazon_prime_free_games_and_dlc.md): same source; another ongoing offer worth watching year-round.
 - [Anti-Prime Big Deal Day Competing Sales](anti_prime_big_deal_day_competing_sales.md): covers cross-retailer deal pricing, from a different source document.
+- [Deft's Revenue Model And Pricing Tiers](deft_revenue_model_and_pricing_tiers.md): content overlap 0.12 on products, extension, manually; different source document
+- [WIRED's Prime Big Deal Days 2023 Roundup Scope](prime_big_deal_days_2023_wired_roundup_scope.md): content overlap 0.10 on products, deals, amazon; different source document
+- [Vermont Sportsbook Promo Codes: What They Cover And Who Can Use Them](vermont_sportsbook_promo_code_faq.md): content overlap 0.13 on codes, promo, limit; different source document
+- [Holiday Return Policy Windows Into January 2024](holiday_return_policy_windows_into_january_2024.md): same source document (doc_0574)
+- [Retailer Memberships For Early Deal Access](retailer_memberships_for_early_deal_access.md): same source document (doc_0574)
 
 ## Source
 

@@ -13,6 +13,7 @@ The evidence that the saga of S. is far from an anomaly comes from other academi
 
 ## Related Notes
 
+
 - [Criticism of Wilma Mankiller Barbie Inaccuracies](criticism_of_wilma_mankiller_barbie_inaccuracies.md): also concerns Arizona State University, from a different source document.
 - [VPN Use Cases and Prerequisites](vpn_use_cases_and_prerequisites.md): also concerns Arizona State University, from a different source document.
 - [Campus Stalking Research on Students and Faculty](campus_stalking_of_students_and_faculty_research.md): the research base on faculty targeting (doc_0136).
@@ -21,6 +22,7 @@ The evidence that the saga of S. is far from an anomaly comes from other academi
 - [Documenting Cyberstalking as Unpaid Labor](documenting_cyberstalking_as_unpaid_labor.md): the evidentiary burden falling on the accused (doc_0136).
 - [False Title IX Complaints to Vassar and George Mason](false_title_ix_complaints_to_vassar_and_george_mason.md): the concrete instance of this weaponization (doc_0136).
 - [Rate My Professors Harassment of Janani Umamaheswar](rate_my_professors_harassment_of_janani_umamaheswar.md): the first Title IX complaint in this saga (doc_0136).
+- [The University Response Gap To Faculty Online Abuse](university_response_gap_to_faculty_online_abuse.md): same source document (doc_0136)
 
 ## Source
 

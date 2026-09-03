@@ -13,6 +13,7 @@ A third option removes the step entirely: enroll in auto-redemption, which empti
 
 ## Related Notes
 
+
 - [Alternatives To The Amex Cash Magnet Card](alternatives_to_amex_cash_magnet_card.md): overlapping coverage of earning and using card rewards, from a different source document.
 - [Amex Cash Magnet Approval Odds And Credit Limits](amex_cash_magnet_approval_odds_and_credit_limits.md): overlapping coverage of card and credit terms, from a different source document.
 - [The Amex Cash Magnet Best-Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): overlapping coverage of cash back use, from a different source document.
@@ -21,6 +22,8 @@ A third option removes the step entirely: enroll in auto-redemption, which empti
 - [Citi Double Cash Tradeoffs Versus The Fifth Third Card](citi_double_cash_tradeoffs_versus_fifth_third_card.md): drawn from the same source document (doc_0470).
 - [Fifth Third 1.67% Card Cardholder Benefits](fifth_third_1_67_card_cardholder_benefits.md): drawn from the same source document (doc_0470).
 - [Fifth Third 1.67% Card Rates And Fees](fifth_third_1_67_card_rates_and_fees.md): drawn from the same source document (doc_0470).
+- [The Fifth Third 1.67% Card's Rewards Earning Rate](fifth_third_1_67_card_rewards_earning_rate.md): same source document (doc_0470)
+- [The Fifth Third 1.67% Cash/Back Card: Overview](fifth_third_1_67_cash_back_card_overview.md): same source document (doc_0470)
 
 ## Source
 

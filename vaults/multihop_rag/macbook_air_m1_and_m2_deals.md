@@ -13,11 +13,19 @@ The 15-inch M2 Air is a lot like a blown-up 13-inch Air, and judging from The Ve
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the discount-and-MSRP listing format, from a different source document.
 - [AirPods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): shares the discount-and-MSRP listing format, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery-and-charging deal theme, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery-and-charging deal theme, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares the battery-and-charging theme, from a different source document.
+- [Mac Mini M2 Deals](mac_mini_m2_deals.md): same source document (doc_0351)
+- [MacBook Pricing And Discount Landscape](macbook_pricing_and_discount_landscape.md): same source document (doc_0351)
+- [MacBook Pro M2 And M1 Generation Deals](macbook_pro_m2_and_m1_generation_deals.md): same source document (doc_0351)
+- [MacBook Pro M3 Generation Deals](macbook_pro_m3_generation_deals.md): same source document (doc_0351)
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

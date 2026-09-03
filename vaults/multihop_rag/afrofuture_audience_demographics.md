@@ -11,6 +11,7 @@ He describes AfroFuture as a global platform that invites people from all over t
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares South Africa as a market of interest.
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): shares North America as a geographic subject.
 - [Anthony Joshua Mental Rebuild After Usyk and Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): shares the United Kingdom as a geographic subject.
@@ -19,6 +20,8 @@ He describes AfroFuture as a global platform that invites people from all over t
 - [Abdul Karim Abdullah's Path into the Music Business](abdul_karim_abdullah_path_into_the_music_business.md): from the same interview.
 - [Abdullah on Product Over Profit in the Music Industry](abdullah_on_product_over_profit_in_the_music_industry.md): from the same interview.
 - [AfroFuture Festival, Accra, Ghana](afrofuture_festival_accra_ghana.md): the event whose audience is described here.
+- [AfroFuture Foundation Philanthropy Programmes](afrofuture_foundation_philanthropy_programmes.md): same source document (doc_0085)
+- [AfroFuture Founding Vision and Mission Pillars](afrofuture_founding_vision_and_mission_pillars.md): same source document (doc_0085)
 
 ## Source
 

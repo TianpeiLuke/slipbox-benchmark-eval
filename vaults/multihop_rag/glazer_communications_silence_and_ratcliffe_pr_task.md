@@ -13,6 +13,7 @@ The stakes are set by the state of the relationship he inherits: football fans c
 
 ## Related Notes
 
+
 - [Arsenal-Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): shares Manchester City as a reference point.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): shares Manchester City as a reference point.
 - [Bruno Fernandes Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): another Manchester United note from a different article.
@@ -21,6 +22,8 @@ The stakes are set by the state of the relationship he inherits: football fans c
 - [Erik Ten Hag's Position Under Ratcliffe](erik_ten_hag_position_under_ratcliffe.md): another item on the same in-tray.
 - [Jean-Claude Blanc and the United Chief Executive Challenge](jean_claude_blanc_and_the_united_chief_executive_challenge.md): another item on the same in-tray.
 - [John Murtough's Future and the Casemiro Signing](john_murtough_future_and_the_casemiro_signing.md): another item on the same in-tray.
+- [Old Trafford and Carrington Infrastructure Decay](old_trafford_and_carrington_infrastructure_decay.md): same source document (doc_0089)
+- [Ratcliffe-Glazer Ownership Split and Control Risk](ratcliffe_glazer_ownership_split_and_control_risk.md): same source document (doc_0089)
 
 ## Source
 

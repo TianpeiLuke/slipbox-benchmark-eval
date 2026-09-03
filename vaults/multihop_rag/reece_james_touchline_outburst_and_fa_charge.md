@@ -13,11 +13,18 @@ The ban did not arrive in time for Chelsea's visit to Fulham on 2 October, when 
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also discusses Aston Villa, from a different document.
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Stamford Bridge, from a different document.
 - [Bournemouth Comeback Win at Nottingham Forest: Solanke Hat-Trick](bournemouth_comeback_win_at_nottingham_forest_solanke_hat_trick.md): also discusses Nottingham Forest, from a different document.
 - [Carabao Cup 2023-24 Second Round Results](carabao_cup_2023_24_second_round_results.md): also discusses Nottingham Forest, from a different document.
 - [Carabao Cup 2023-24 Semifinal Draw and Fixtures](carabao_cup_2023_24_semifinal_draw_and_fixtures.md): overlaps on Chelsea, Fulham and Liverpool, from a different document.
+- [Chelsea's Selection Crisis And Fixture Run](chelsea_selection_crisis_and_fixture_run.md): same source document (doc_0109)
+- [Pochettino And Arteta's Friendship From PSG](pochettino_arteta_friendship_from_psg.md): same source document (doc_0109)
+- [Pochettino Defends James And His 'Chelsea DNA'](pochettino_defends_james_and_chelsea_dna.md): same source document (doc_0109)
+- [Reece James' Hamstring Injury And Return Timeline](reece_james_hamstring_injury_and_return_timeline.md): same source document (doc_0109)
+- [Premier League](term_premier_league.md): uses the concept premier league
+- [Box Office](term_box_office.md): uses the concept box office
 
 ## Source
 

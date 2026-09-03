@@ -13,12 +13,17 @@ The origin story runs through their former employer. Nine years ago Andrews and 
 
 ## Related Notes
 
+
 - [Edenglassie, A Novel By Melissa Lucashenko](edenglassie_novel_melissa_lucashenko.md): another feature carrying the same publisher page furniture
 - [Owen Teale On Barry The Bear And His Route Into Acting](owen_teale_barry_the_bear_route_into_acting.md): another arts interview sharing the same site boilerplate
 - [Streaming Exclusivity Erosion And Maestro](streaming_exclusivity_erosion_and_maestro.md): another culture piece sharing the same site boilerplate
 - [Thanksgiving Film Origin In Grindhouse Fake Trailer](thanksgiving_film_origin_in_grindhouse_fake_trailer.md): another culture piece sharing the same site boilerplate
 - [Tyler Mitchell Vogue Covers And NGV Triennial Works](tyler_mitchell_vogue_covers_and_ngv_triennial_works.md): another arts feature sharing the same site boilerplate
 - [Ask Shameless Advice Column Lessons](ask_shameless_advice_column_lessons.md): the advice arm of the same company, from the same profile
+- [The Parenthood Conversation Shameless's Founders Had To Have As Business Partners](shameless_founders_friendship_and_parenthood_question.md): same source document (doc_0523)
+- [Andrews And McDonald On Regretting The Space Between And Writing 4am](shameless_founders_on_the_space_between_and_4am.md): same source document (doc_0523)
+- [How Shameless Works: Contingency Through Team Growth, Trust Through Escalation](shameless_media_contingency_plan_and_audience_trust.md): same source document (doc_0523)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

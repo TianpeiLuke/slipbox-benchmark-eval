@@ -13,11 +13,18 @@ Dinich also mapped the possible outcomes and a limit on the conference's own aut
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): another Big Ten item from a different document.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also concerns the Big Ten, separately sourced.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): the pressure that shaped this day's outcome, reported elsewhere.
 - [Big Ten Commissioner Petitti's Punishment Dilemma](big_ten_commissioner_petitti_punishment_dilemma.md): the decision awaited here, in a different document.
 - [The Big Ten's 2023 Run of Scandals](big_ten_conference_scandal_run_2023.md): another Big Ten governance item from a separate source.
+- [The Big Ten's Deliberation Over Harbaugh's Punishment](big_ten_deliberation_over_harbaugh_punishment.md): same source document (doc_0180)
+- [The Big Ten's Head-Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): same source document (doc_0180)
+- [The Big Ten Suspends Jim Harbaugh For Three Games](big_ten_suspension_of_jim_harbaugh.md): same source document (doc_0180)
+- [Chris Partridge's Firing And The Evidence-Destruction Allegation](chris_partridge_firing_and_evidence_destruction.md): same source document (doc_0180)
+- [Connor Stalions And The In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): same source document (doc_0180)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

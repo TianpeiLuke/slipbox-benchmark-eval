@@ -11,6 +11,7 @@ The framing matters: it was Woods, whose astounding power behind the shots in th
 
 ## Related Notes
 
+
 - [Handicap Betting In Tennis And Golf](handicap_betting_in_tennis_and_golf.md): also discusses Tiger Woods, from a different document.
 - [Moneyline Odds Examples By Sport](moneyline_odds_examples_by_sport.md): also discusses Tiger Woods, from a different document.
 - [Bryson DeChambeau Opposition To Golf Ball Rollback](bryson_dechambeau_opposition_to_golf_ball_rollback.md): the opposing player view, from the same document.
@@ -19,6 +20,7 @@ The framing matters: it was Woods, whose astounding power behind the shots in th
 - [Golf Ball Rollback Exclusion Of Women's Golf](golf_ball_rollback_exclusion_of_womens_golf.md): the scope limit on the same policy, from the same document.
 - [Golf Ball Rollback Policy](golf_ball_rollback_policy.md): defines the policy he supports, from the same document.
 - [Justin Thomas Opposition To Golf Ball Rollback](justin_thomas_opposition_to_golf_ball_rollback.md): the opposing player view, from the same document.
+- [Rory McIlroy Support For Golf Ball Rollback](rory_mcilroy_support_for_golf_ball_rollback.md): same source document (doc_0490)
 
 ## Source
 

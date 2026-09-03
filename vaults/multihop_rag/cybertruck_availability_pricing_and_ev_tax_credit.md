@@ -13,6 +13,7 @@ Price also determines tax treatment. The federal tax credit for EVs has a number
 
 ## Related Notes
 
+
 - [Cybertruck Unlikely to Be Sold in Europe](cybertruck_unlikely_to_be_sold_in_europe.md): substantial content overlap on cybertruck, tesla, higher, from a different source document.
 - [Ebay Best Price Guarantee](ebay_best_price_guarantee.md): substantial content overlap on ebay, price, verify, from a different source document.
 - [IIHS Finding That Tall Blunt Front Ends Raise Pedestrian Risk](iihs_finding_that_tall_blunt_front_ends_raise_pedestrian_risk.md): substantial content overlap on cybertruck, suvs, trucks, from a different source document.
@@ -21,6 +22,8 @@ Price also determines tax treatment. The federal tax credit for EVs has a number
 - [Cybertruck Bed Size and Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): drawn from the same source document, doc_0547.
 - [Cybertruck Resale Restrictions Walked Back](cybertruck_resale_restrictions_walked_back.md): drawn from the same source document, doc_0547.
 - [Cybertruck Stainless Steel Design and Aesthetic](cybertruck_stainless_steel_design_and_aesthetic.md): drawn from the same source document, doc_0547.
+- [Cybertruck Variants And Specifications](cybertruck_variants_and_specifications.md): same source document (doc_0547)
+- [The Environmental Case Against Large Electric Pickups](environmental_case_against_large_electric_pickups.md): same source document (doc_0547)
 
 ## Source
 

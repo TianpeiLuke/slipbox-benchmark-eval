@@ -11,6 +11,7 @@ Tampa Bay had greater depth in the outfield than on its injury-riddled pitching 
 
 ## Related Notes
 
+
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): also concerns Tampa Bay, from a different document.
 - [Baker Mayfield Week 15 Stat Line At Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also concerns Tampa Bay, from a different document.
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): also concerns Tampa Bay, from a different document.
@@ -19,6 +20,8 @@ Tampa Bay had greater depth in the outfield than on its injury-riddled pitching 
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): another candidate on the same list, from the same document.
+- [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
 
 ## Source
 

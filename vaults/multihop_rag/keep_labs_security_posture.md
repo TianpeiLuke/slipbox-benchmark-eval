@@ -15,11 +15,23 @@ The same customer-contact habit runs alongside the enterprise program: the compa
 
 ## Related Notes
 
+
 - [Apple Blocks Beeper Mini's iMessage Access](apple_blocks_beeper_mini_imessage_access.md): shares the data-privacy and encryption themes, from a different source document.
 - [CSAM Proposal Opposition](csam_proposal_opposition.md): shares the data-privacy and encryption themes, from a different source document.
 - [Engadget's VPN Testing Methodology](engadget_vpn_testing_methodology.md): shares the data-privacy and encryption themes, from a different source document.
 - [The Online Safety Act's Accredited Technology And Encryption](online_safety_act_accredited_technology_and_encryption.md): shares the data-privacy and encryption themes, from a different source document.
 - [What A VPN Is And What It Does Not Hide](what_a_vpn_is_and_what_it_does_not_hide.md): shares the data-privacy, encryption-at-rest and multi-factor-authentication themes, from a different source document.
+- [Keep Labs' Repositioning From Cannabis To Medicine](keep_labs_cannabis_repositioning.md): same source document (doc_0230)
+- [The Keep, A Lockable Smart Storage Container For Medicine](keep_labs_device.md): same source document (doc_0230)
+- [Keep Labs' Enterprise Turn And The Pharmacist Co-Lead](keep_labs_enterprise_partnerships.md): same source document (doc_0230)
+- [Keep Labs' Funding And Second-Gen Roadmap](keep_labs_funding_and_roadmap.md): same source document (doc_0230)
+- [Keep Labs' COVID Pivot And Leadership Change](keep_labs_pivot_and_leadership.md): same source document (doc_0230)
+- [Encryption at Rest](term_encryption_at_rest.md): uses the concept encryption at rest
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [HIPAA](term_hipaa.md): uses the concept hipaa
+- [Harm Reduction](term_harm_reduction.md): uses the concept harm reduction
+- [Medication Adherence](term_medication_adherence.md): uses the concept medication adherence
+- [Multi-Factor Authentication (MFA)](term_multi_factor_authentication.md): uses the concept multi factor authentication
 
 ## Source
 

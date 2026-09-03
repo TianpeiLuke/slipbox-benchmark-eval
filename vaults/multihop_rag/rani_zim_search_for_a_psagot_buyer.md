@@ -11,11 +11,19 @@ Immediately after acquiring Psagot's business, which mainly consisted of managem
 
 ## Related Notes
 
+
 - [Cybersecurity Consolidation Wave 2023](cybersecurity_consolidation_wave_2023.md): overlaps on acquisition, valuation subject matter, from a different source document.
 - [Dave Clark's Ouster From Flexport](dave_clark_ouster_from_flexport.md): another leadership change amid valuation pressure, from a different source document.
 - [Hsm Conflict of Interest in Valuation Opinion](hsm_conflict_of_interest_in_valuation_opinion.md): overlaps on acquisition, valuation subject matter, from a different source document.
 - [Openai Corporate Deals and Business Moves](openai_corporate_deals_and_business_moves.md): overlaps on acquisition, valuation subject matter, from a different source document.
 - [Relative Valuation Definition and Prevalence](relative_valuation_definition_and_prevalence.md): overlaps on acquisition, valuation subject matter, from a different source document.
+- [Three Causes Of Psagot's Value Decline](causes_of_psagot_value_decline.md): same source document (doc_0073)
+- [Group Psagot's Debt Refinancing Plan](group_psagot_debt_refinancing_plan.md): same source document (doc_0073)
+- [Group Psagot's Share Price Collapse](group_psagot_share_price_collapse.md): same source document (doc_0073)
+- [Psagot's Asset Growth Without Profit](psagot_asset_growth_without_profit.md): same source document (doc_0073)
+- [Psagot's Asset Sales To Kessem And The Phoenix Holdings Group](psagot_asset_sales_to_kessem_phoenix.md): same source document (doc_0073)
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

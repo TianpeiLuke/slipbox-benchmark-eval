@@ -17,6 +17,7 @@ The winning drive took four plays. Fields hit D.J. Moore for 16 on the first pla
 
 ## Related Notes
 
+
 - [Alexander Mattison and the Vikings' Hot Seat](alexander_mattison_vikings_hot_seat.md): also concerns Alexander Mattison, from a different document.
 - [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also features Justin Jones, separately sourced.
 - [Browns-Bears Week 15 Fourth-Quarter Comeback](browns_bears_week_15_fourth_quarter_comeback.md): another late Bears sequence under Matt Eberflus, in a different document.
@@ -25,6 +26,8 @@ The winning drive took four plays. Fields hit D.J. Moore for 16 on the first pla
 - [Bears-Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): the coverage details for this game, same source document.
 - [Bears-Vikings MNF First Half](bears_vikings_mnf_first_half.md): the earlier play of this game, same source document.
 - [Playoff and Roster Stakes in Bears-Vikings on Monday Night](bears_vikings_mnf_playoff_and_roster_stakes.md): what this finish meant in the standings, same source document.
+- [Bears 12, Vikings 10 On Monday Night Football](bears_vikings_mnf_result_and_recap.md): same source document (doc_0144)
+- [The Third Quarter Of Bears 12, Vikings 10](bears_vikings_mnf_third_quarter.md): same source document (doc_0144)
 
 ## Source
 

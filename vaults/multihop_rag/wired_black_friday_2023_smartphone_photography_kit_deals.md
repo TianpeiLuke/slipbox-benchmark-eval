@@ -13,6 +13,7 @@ The Peak Design Creator Kit plays a different role: it acts as the link between 
 
 ## Related Notes
 
+
 - [DJI Osmo Action 3 Creator Combo Deal](dji_osmo_action_3_creator_combo_deal.md): overlaps on mounts, GoPro compatibility and magnetic mounting, from a different source document.
 - [Apple Store Credit And Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): drawn from the same source document (doc_0576).
 - [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): drawn from the same source document (doc_0576).
@@ -21,6 +22,8 @@ The Peak Design Creator Kit plays a different role: it acts as the link between 
 - [WIRED's 2023 Holiday Deal Guide Selection And Pricing Method](wired_2023_holiday_deal_guide_selection_and_pricing_method.md): drawn from the same source document (doc_0576).
 - [WIRED Black Friday 2023 Apple Pencil And iPad Accessory Deals](wired_black_friday_2023_apple_pencil_and_ipad_accessory_deals.md): drawn from the same source document (doc_0576).
 - [WIRED Black Friday 2023 iPad Model Deals](wired_black_friday_2023_ipad_model_deals.md): drawn from the same source document (doc_0576).
+- [WIRED Black Friday 2023 iPhone And iPad Case Deals](wired_black_friday_2023_iphone_and_ipad_case_deals.md): same source document (doc_0576)
+- [WIRED Black Friday 2023 iPhone Car And Bike Mount Deals](wired_black_friday_2023_iphone_car_and_bike_mount_deals.md): same source document (doc_0576)
 
 ## Source
 

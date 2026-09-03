@@ -11,6 +11,7 @@ The experimental system was chosen to probe the influence of Daam1 on Rnf43 and 
 
 ## Related Notes
 
+
 - [Adult Stem Cells and Tissue Renewal](adult_stem_cells_and_tissue_renewal.md): the cells organoids are derived from.
 - [Amazon Marketplace Foreclosure Theory of Harm](amazon_marketplace_foreclosure_theory_of_harm.md): shares a corpus-level content tag with this note.
 - [Astros Players' Immunity and Mike Fiers](astros_players_immunity_and_mike_fiers.md): shares a corpus-level content tag with this note.
@@ -19,6 +20,12 @@ The experimental system was chosen to probe the influence of Daam1 on Rnf43 and 
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): shares a corpus-level content tag with this note.
 - [Bolt SEC Probe](bolt_sec_probe.md): shares a corpus-level content tag with this note.
 - [Case That Michigan Sign-Stealing Was Systematic Cheating](case_that_michigan_sign_stealing_was_systematic_cheating.md): shares a corpus-level content tag with this note.
+- [Daam1 Controls Paneth Cell Fate in Mice](daam1_controls_paneth_cell_fate_in_mice.md): same source document (doc_0302)
+- [Daam1 Intestinal Stem Cell Study Overview](daam1_intestinal_stem_cell_study_overview.md): same source document (doc_0302)
+- [Intestinal Stem Cell Balance and Wnt Signalling](intestinal_stem_cell_balance_and_wnt_signalling.md): same source document (doc_0302)
+- [Paneth Cell Niche Explains Organoid Versus Intestine Divergence](paneth_cell_niche_explains_organoid_versus_intestine_divergence.md): same source document (doc_0302)
+- [Rnf43-Daam1 Frizzled Degradation Mechanism](rnf43_daam1_frizzled_degradation_mechanism.md): same source document (doc_0302)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
 
 ## Source
 

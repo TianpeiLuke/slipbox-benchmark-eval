@@ -11,6 +11,7 @@ The grounds are the state of the cycle as read by an insider: "The crypto indust
 
 ## Related Notes
 
+
 - [Alliance DAO Accelerator Program](alliance_dao_accelerator_program.md): same source document; the program funding startups under these conditions.
 - [Alliance DAO All11 Cohort Selectivity](alliance_dao_all11_cohort_selectivity.md): same source document; the falling application count that reflects the downturn.
 - [Alliance DAO All11 Mentor Roster](alliance_dao_all11_mentor_roster.md): same source document; the advisers guiding teams through the trough.
@@ -18,6 +19,9 @@ The grounds are the state of the cycle as read by an insider: "The crypto indust
 - [Inco Encrypted EVM FHE Network](inco_encrypted_evm_fhe_network.md): same source document; another of the novel ideas cited.
 - [FTX Trial Stakes For The Wider Crypto Industry](ftx_trial_stakes_for_the_wider_crypto_industry.md): overlaps in content on the crypto industry's outlook, from a different source document.
 - [Consumer Trading Recovery At Coinbase And Robinhood](consumer_trading_recovery_coinbase_and_robinhood.md): overlaps in content on crypto market cycles, from a different source document.
+- [Fintech Startups On The 2023 Ranking Lists](fintech_startup_rankings_2023.md): content overlap 0.10 on startups; different source document
+- [Kravata, LatAm Fiat-Crypto On-Ramp](kravata_latam_fiat_crypto_onramp.md): same source document (doc_0465)
+- [Sleepagotchi, NFT-Powered Sleep Game](sleepagotchi_nft_sleep_game.md): same source document (doc_0465)
 
 ## Source
 

@@ -11,6 +11,7 @@ Chan and his colleagues found one of the first uses for quantum dots in the 1990
 
 ## Related Notes
 
+
 - [Nobel Laureates on Basic Research Motivation](nobel_laureates_on_basic_research_motivation.md): another account of how the quantum dot chemistry prize was received.
 - [Nobel Prize in Chemistry 2023: Quantum Dots](nobel_prize_chemistry_2023_quantum_dots.md): another report on the same award.
 - [Premature Leak of the 2023 Chemistry Nobel Announcement](premature_leak_of_2023_chemistry_nobel_announcement.md): another item about the announcement of this prize.
@@ -18,6 +19,10 @@ Chan and his colleagues found one of the first uses for quantum dots in the 1990
 - [Quantum Dots: Definition and the Size-Colour Relationship](quantum_dots_definition_and_size_color_relationship.md): another account of the technology from theory through manufacture.
 - [Bawendi's Controlled Quantum Dot Synthesis](bawendi_controlled_quantum_dot_synthesis.md): from the same article, on the synthesis step Giordan highlights.
 - [Ekimov and Brus's Discovery of Quantum Dots](ekimov_and_brus_discovery_of_quantum_dots.md): from the same article, on the foundational work Chan credits.
+- [Quantum Dot Applications in Displays, Medicine and Solar](quantum_dot_applications_in_displays_medicine_and_solar.md): same source document (doc_0436)
+- [Quantum Dot Size-Dependent Properties](quantum_dot_size_dependent_properties.md): same source document (doc_0436)
+- [The 2023 Chemistry Nobel for Quantum Dots](quantum_dots_2023_chemistry_nobel_award.md): same source document (doc_0436)
+- [Nobel Prize](term_nobel_prize.md): uses the concept nobel prize
 
 ## Source
 

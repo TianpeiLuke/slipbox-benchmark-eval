@@ -13,11 +13,19 @@ The irony is rich in Denver, where Payton's predecessor Nathaniel Hackett was mo
 
 ## Related Notes
 
+
 - [Aaron Jones' 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also concerns Green Bay, from a different document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also concerns the Denver Broncos, from a different document.
 - [Baker Mayfield's Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also concerns Green Bay, from a different document.
 - [Broncos' Fourth-Quarter Comeback and the Ryland Game Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): also concerns Russell Wilson, from a different document.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): shares the coaching-change and NFL themes, from a different document.
+- [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): same source document (doc_0316)
+- [The Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): same source document (doc_0316)
+- [Buffalo Bills Defensive Injuries And The 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): same source document (doc_0316)
+- [Cincinnati Bengals: Joe Burrow's Durability And The Line](cincinnati_bengals_joe_burrow_durability_and_line.md): same source document (doc_0316)
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

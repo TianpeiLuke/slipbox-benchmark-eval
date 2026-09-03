@@ -11,6 +11,7 @@ Coupled climate models simulate a freely evolving ocean surface and hence have t
 
 ## Related Notes
 
+
 - [Climate Sweet Spots and Pattern-Dependent Feedbacks](climate_sweet_spots_and_pattern_dependent_feedbacks.md): from the same article, on why these particular regions matter for feedbacks.
 - [Emerging Tools for Quantifying the Pattern Effect](emerging_tools_for_quantifying_the_pattern_effect.md): from the same article, on observations that could diagnose these biases.
 - [Equilibrium Climate Sensitivity and Its Uncertainty](equilibrium_climate_sensitivity_and_its_uncertainty.md): from the same article, on the estimate these model errors affect.
@@ -19,6 +20,8 @@ Coupled climate models simulate a freely evolving ocean surface and hence have t
 - [Historical Warming Does Not Bound Climate Sensitivity](historical_warming_does_not_bound_climate_sensitivity.md): from the same article, on the eastern Pacific cooling that models miss.
 - [The Magnitude of the Observed Pattern Effect Is Disputed](magnitude_of_the_observed_pattern_effect_is_disputed.md): from the same article, on the uncertainty these model limits contribute to.
 - [The Model Versus Observation Climate Sensitivity Discrepancy](model_versus_observation_climate_sensitivity_discrepancy.md): from the same article, on the discrepancy these pattern errors underlie.
+- [Open Questions on SST Patterns and Earth's Radiation Budget](open_questions_on_sst_patterns_and_earths_radiation_budget.md): same source document (doc_0139)
+- [Paleorecords Must Account for the Pattern Effect](paleorecords_must_account_for_the_pattern_effect.md): same source document (doc_0139)
 
 ## Source
 

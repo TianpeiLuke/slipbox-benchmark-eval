@@ -11,6 +11,7 @@ The grounds start with team context: 2023 was a year of milestones for 23XI Raci
 
 ## Related Notes
 
+
 - [Dale Earnhardt Jr. Visit To High Limit Commonwealth Clash](dale_earnhardt_jr_visit_to_high_limit_commonwealth_clash.md): also concerns the Cup Series, from a different document.
 - [Ford F-150 Outsells Mustang Among NASCAR Fans](ford_f150_outsells_mustang_among_nascar_fans.md): overlaps on NASCAR series terms, from a different document.
 - [High Limit Racing Sprint Car Series](high_limit_racing_sprint_car_series.md): also concerns the Cup Series, from a different document.
@@ -19,6 +20,8 @@ The grounds start with team context: 2023 was a year of milestones for 23XI Raci
 - [Autosport Top 50 Drivers 2023 NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): the list this exclusion is measured against, from the same document.
 - [Chris Buescher 2023 Season Autosport Snub](chris_buescher_2023_season_autosport_snub.md): another claimed exclusion, from the same document.
 - [Christopher Bell 2023 Season Autosport Snub](christopher_bell_2023_season_autosport_snub.md): another claimed exclusion, from the same document.
+- [Denny Hamlin 2023 Season Autosport Snub](denny_hamlin_2023_season_autosport_snub.md): same source document (doc_0297)
+- [Ross Chastain 2023 Season Autosport Snub](ross_chastain_2023_season_autosport_snub.md): same source document (doc_0297)
 
 ## Source
 

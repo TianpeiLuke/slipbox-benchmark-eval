@@ -11,11 +11,19 @@ The grounds are the specific picks passed over. During a two-year, injury-riddle
 
 ## Related Notes
 
+
 - [FTX Marketing And Influence](ftx_marketing_and_influence.md): also discusses Steph Curry, from a different document.
 - [Kevin Durant Career Accolades And Scoring Ranks](kevin_durant_career_accolades_and_scoring_ranks.md): shares the draft-pick and NBA themes, from a different document.
 - [Mr. Irrelevant NFL Draft Final Pick Title](mr_irrelevant_nfl_draft_final_pick_title.md): overlaps on draft-pick ordering, from a different document.
 - [NBA MVP 2024 Odds Favourites](nba_mvp_2024_odds_favourites.md): shares the draft-pick and NBA themes, from a different document.
 - [NBA MVP Award Voting Format And History](nba_mvp_award_voting_format_and_history.md): also discusses Steph Curry, from a different document.
+- [Warriors 2021 Draft Kuminga And Moody](warriors_2021_draft_kuminga_and_moody.md): same source document (doc_0522)
+- [Warriors Aging Core Curry Thompson Green](warriors_aging_core_curry_thompson_green.md): same source document (doc_0522)
+- [Warriors Collapse Vs Kings In-Season Tournament](warriors_collapse_vs_kings_in_season_tournament.md): same source document (doc_0522)
+- [Warriors Recent Draft Class Outcomes](warriors_recent_draft_class_outcomes.md): same source document (doc_0522)
+- [Warriors Roster Reorientation Around Curry Window](warriors_roster_reorientation_around_curry_window.md): same source document (doc_0522)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

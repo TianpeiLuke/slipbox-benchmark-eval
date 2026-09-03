@@ -11,11 +11,16 @@ Asked plainly by Jason whether the NFL was overdoing it, Kelce first said "I thi
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): unrelated NFL coverage of the same Kansas City Chiefs
 - [All You Had To Do Was Stay Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): another article about the artist at the centre of the coverage
 - [American Pie Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): separate coverage of Swift's cultural reach
 - [Backlash To Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): another controversy involving the same player's public remarks
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): a fuller account of the same media-saturation complaint
+- [Donna Kelce At The 2023 Chiefs-Jets Game](donna_kelce_at_the_2023_chiefs_jets_game.md): same source document (doc_0559)
+- [The NFL's Statement Defending Its Taylor Swift Coverage](nfl_statement_defending_its_taylor_swift_coverage.md): same source document (doc_0559)
+- [The Swift Effect On NFL Ratings And Kelce Jersey Sales](swift_effect_on_nfl_ratings_and_kelce_jersey_sales.md): same source document (doc_0559)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

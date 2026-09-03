@@ -13,6 +13,7 @@ His second is the predictability of the revenue: "The other piece of that is we 
 
 ## Related Notes
 
+
 - [Bank Of America Housing Turbulence Warning 2023](bank_of_america_housing_turbulence_warning_2023.md): overlapping coverage of interest rates and housing risk, from a different source document.
 - [Housing Market: 1980s Analogy Rather Than 2008](housing_market_1980s_analogy_rather_than_2008.md): overlapping coverage of high interest rates in housing, from a different source document.
 - [Treasury Yields And Fed Higher For Longer](treasury_yields_and_fed_higher_for_longer.md): overlapping coverage of high interest rates, from a different source document.
@@ -21,6 +22,8 @@ His second is the predictability of the revenue: "The other piece of that is we 
 - [Investor Case For Affordable Starter Home Supply](investor_case_for_affordable_starter_home_supply.md): drawn from the same source document (doc_0430), the investor's view of the model.
 - [Simply Homes AI Underwriting Model](simply_homes_ai_underwriting_model.md): drawn from the same source document (doc_0430), the underwriting machinery itself.
 - [Simply Homes Company Profile And Funding](simply_homes_company_profile_and_funding.md): drawn from the same source document (doc_0430), the company and its revenue model.
+- [Simply Homes' Operating Metrics And Markets](simply_homes_operating_metrics_and_markets.md): same source document (doc_0430)
+- [Simply Homes' Social Mobility Mission](simply_homes_social_mobility_mission.md): same source document (doc_0430)
 
 ## Source
 

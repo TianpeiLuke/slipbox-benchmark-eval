@@ -13,6 +13,7 @@ Set in a seemingly abandoned bunker sealed by explosions during World War I, the
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick for Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): both discuss the Xbox Series hardware, from a different source document
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): both reference Xbox Series consoles, from a separate article
 - [Freaks vs. the Reich (Italian Superhero Film)](freaks_vs_the_reich_italian_superhero_film.md): both concern World War settings, from a different document
@@ -20,6 +21,10 @@ Set in a seemingly abandoned bunker sealed by explosions during World War I, the
 - [Godzilla Minus One US Opening](godzilla_minus_one_us_opening.md): another World War-connected subject from a different article
 - [Alan Wake 2](alan_wake_2.md): another horror game ranked in the same article
 - [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): another 2023 game from the same document
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Chants of Sennaar](chants_of_sennaar.md): same source document (doc_0213)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

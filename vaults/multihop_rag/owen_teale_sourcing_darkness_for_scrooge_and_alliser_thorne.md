@@ -13,6 +13,7 @@ The range over which the mechanism holds is demonstrated by his most famous scen
 
 ## Related Notes
 
+
 - [Jon Snow Death Scene Fan Reactions To Owen Teale](jon_snow_death_scene_fan_reactions_to_owen_teale.md): same interview, on the aftermath of the scene described here
 - [Owen Teale Family And Recent Villain Roles](owen_teale_family_and_recent_villain_roles.md): same interview, listing the dark characters this mechanism serves
 - [Owen Teale Barry The Bear Route Into Acting](owen_teale_barry_the_bear_route_into_acting.md): same interview, on how he came to acting at all
@@ -21,6 +22,7 @@ The range over which the mechanism holds is demonstrated by his most famous scen
 - [Robin Williams Cocaine Use At The Comedy Store](robin_williams_cocaine_use_at_the_comedy_store.md): part of the same screen-figures grouping, different source
 - [Robin Williams Cocaine Material In His Stand Up Act](robin_williams_cocaine_material_in_his_stand_up_act.md): part of the same screen-figures grouping
 - [Robin Williams Lewy Body Dementia And 2014 Death](robin_williams_lewy_body_dementia_and_2014_death.md): part of the same screen-figures grouping
+- [Owen Teale's Missed Leading Man Opportunities](owen_teale_missed_leading_man_opportunities.md): same source document (doc_0578)
 
 ## Source
 

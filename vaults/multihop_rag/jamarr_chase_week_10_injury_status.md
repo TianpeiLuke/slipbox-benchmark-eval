@@ -13,11 +13,18 @@ The fantasy conclusion followed the two branches: if Chase suited up, owners sho
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also discusses Joe Burrow, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): another Joe Burrow item, separately sourced.
 - [The First Quarter of Bengals 24, Bills 18](bills_bengals_snf_first_quarter.md): also features Andrei Iosivas and Tyler Boyd, in a different document.
 - [The Fourth Quarter of Bengals 24, Bills 18](bills_bengals_snf_fourth_quarter.md): also mentions Sam Hubbard, from a separate source.
 - [Pregame Notes from Bills at Bengals](bills_bengals_snf_pregame_notes.md): another Joe Burrow item around the same stretch, in a different document.
+- [Curtis Samuel's Week 10 Injury Status](curtis_samuel_week_10_injury_status.md): same source document (doc_0288)
+- [Justin Jefferson's Week 10 Injury Status](justin_jefferson_week_10_injury_status.md): same source document (doc_0288)
+- [T.J. Hockenson's Week 10 Injury Status](tj_hockenson_week_10_injury_status.md): same source document (doc_0288)
+- [Week 10 Fantasy Pass-Catcher Injury Overview](week_10_fantasy_pass_catcher_injury_overview.md): same source document (doc_0288)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

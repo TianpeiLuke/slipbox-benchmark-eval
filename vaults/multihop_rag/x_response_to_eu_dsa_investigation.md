@@ -11,11 +11,19 @@ The statement therefore concedes no breach, and adds a premise of its own: that 
 
 ## Related Notes
 
+
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also concerns the Digital Services Act, from a different source document.
 - [Digital Services Act](digital_services_act.md): also concerns the Digital Services Act, from a different source document.
 - [DMA DSA Oversight Of Meta Advertising Consent](dma_dsa_oversight_of_meta_advertising_consent.md): also concerns the Digital Services Act, from a different source document.
 - [DSA DMA Oversight Of Meta Ad Tracking](dsa_dma_oversight_of_meta_ad_tracking.md): also concerns the Digital Services Act, from a different source document.
 - [EU Code Of Practice On Disinformation](eu_code_of_practice_on_disinformation.md): also concerns the Digital Services Act, from a different source document.
+- [DSA Enforcement Powers And Penalties](dsa_enforcement_powers_and_penalties.md): same source document (doc_0153)
+- [The X Probe As A Test Of EU Enforcement Resolve](dsa_probe_as_test_of_eu_enforcement_resolve.md): same source document (doc_0153)
+- [The Commission's Earlier Requests For Information To X](eu_commission_prior_requests_for_information_to_x.md): same source document (doc_0153)
+- [The EU's First Formal DSA Proceeding, Against X](eu_dsa_formal_proceedings_against_x.md): same source document (doc_0153)
+- [The Scope Of The EU's DSA Investigation Into X](scope_of_eu_dsa_investigation_into_x.md): same source document (doc_0153)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

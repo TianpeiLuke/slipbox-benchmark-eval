@@ -13,11 +13,21 @@ The Life Q30's tradeoffs are clear against its sibling: it is not built as well 
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-technology and discount theme, from a different source document.
 - [Amazon Echo Buds Second And Third Generation Deals](amazon_echo_buds_second_and_third_gen_deals.md): covers competing discounted noise-cancelling earbuds, from a different source document.
 - [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): another discounted Anker product, from a different source document.
 - [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): another set of discounted Anker products, from a different source document.
 - [Anker Prime Early Black Friday Charger Sale](anker_prime_early_black_friday_charger_sale.md): another Anker sale event, from a different source document.
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): same source document (doc_0595)
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): same source document (doc_0595)
+- [Anker Soundcore Liberty 4 NC Earbuds Deal Prices](anker_soundcore_liberty_4_nc_earbuds.md): same source document (doc_0595)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0595)
+- [Apple AirPods Pro, Second Generation](apple_airpods_pro_second_generation.md): same source document (doc_0595)
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

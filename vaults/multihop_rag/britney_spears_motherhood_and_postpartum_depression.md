@@ -13,6 +13,7 @@ She has a keen sense of injustice about a contract with the public and the press
 
 ## Related Notes
 
+
 - [Britney Spears Arrested Development Under Conservatorship](britney_spears_arrested_development_under_conservatorship.md): same memoir summary, on how the postnatal period fed her regression
 - [Britney Spears Conservatorship Restrictions And Swat Holds](britney_spears_conservatorship_restrictions_and_swat_holds.md): same source, on the custody fears that followed
 - [Britney Spears Estrangement From Her Family](britney_spears_estrangement_from_her_family.md): same source document
@@ -21,6 +22,8 @@ She has a keen sense of injustice about a contract with the public and the press
 - [Britney Spears Memoir Early Fame Loss Of Freedom](britney_spears_memoir_early_fame_loss_of_freedom.md): same source, on the freedom she had already lost
 - [Britney Spears Music Making From Baby One More Time To Blackout](britney_spears_music_making_from_baby_one_more_time_to_blackout.md): same source document
 - [Britney Spears Solitary Rehab Facility Confinement](britney_spears_solitary_rehab_facility_confinement.md): same source document
+- [Britney Spears On Virginity Marketing And Timberlake's Cheating Claim](britney_spears_virginity_marketing_and_timberlake_cheating_claim.md): same source document (doc_0052)
+- [The Fan Movement And The 2021 End Of Britney Spears' Conservatorship](freebritney_movement_and_conservatorship_termination_2021.md): same source document (doc_0052)
 
 ## Source
 

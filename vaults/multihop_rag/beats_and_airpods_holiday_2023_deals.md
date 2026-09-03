@@ -13,11 +13,20 @@ The Beats Studio Pro Wireless Headphones (7/10, WIRED Review) pack excellent noi
 
 ## Related Notes
 
+
 - [AirPods Pro (2nd Generation) Deal Listings](airpods_pro_second_generation_deal_listings.md): also covers Conversation Awareness, from a different source document.
 - [AirPods Pro (2nd Generation) Lightning Deal](airpods_pro_second_generation_lightning_deal.md): shares the battery-life-and-charging and discount-versus-MSRP themes, from a different source document.
 - [Amazon Echo Buds (2023)](amazon_echo_buds_2023.md): shares the battery-life-and-charging and battery-technology themes, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): also references Prime Day pricing, from a different source document.
 - [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): also references Prime Day pricing, from a different source document.
+- [Apple Store Credit And Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): same source document (doc_0576)
+- [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): same source document (doc_0576)
+- [Walmart Cyber Monday 2023 Dolby Atmos Soundbar Deals](walmart_cyber_monday_2023_dolby_atmos_soundbar_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Fitness Tracker And Smart Ring Deals](walmart_cyber_monday_2023_fitness_tracker_and_smart_ring_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Home Security Camera Deals](walmart_cyber_monday_2023_home_security_camera_deals.md): same source document (doc_0320)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

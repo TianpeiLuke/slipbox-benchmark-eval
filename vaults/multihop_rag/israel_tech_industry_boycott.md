@@ -15,11 +15,16 @@ Cosgrave's response over the same window moved in both directions. By 16 October
 
 ## Related Notes
 
+
 - [Clark Cease and Desist and Political Friction](clark_cease_and_desist_and_political_friction.md): another account involving Founders Fund, whose partner Keith Rabois features here, from a different source document.
 - [Conservative Endorsements of Epoch Times Credibility](conservative_endorsements_of_epoch_times_credibility.md): shares the celebrity-endorsement and political-donation themes running through this boycott, from a different source document.
 - [Flexport Board Composition](flexport_board_composition.md): also concerns Founders Fund, from a different source document.
 - [FTX Marketing and Influence](ftx_marketing_and_influence.md): shares the celebrity-endorsement and political-donation themes, from a different source document.
 - [Jake Paul Endorsement Backlash](jake_paul_endorsement_backlash.md): another case of named individuals withdrawing or facing backlash over an endorsement, from a different source document.
+- [Web Summit Business Impact](web_summit_business_impact.md): same source document (doc_0267)
+- [Web Summit and the Paddy Cosgrave Controversy](web_summit_cosgrave_controversy.md): same source document (doc_0267)
+- [Celebrity Endorsement](term_celebrity_endorsement.md): uses the concept celebrity endorsement
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

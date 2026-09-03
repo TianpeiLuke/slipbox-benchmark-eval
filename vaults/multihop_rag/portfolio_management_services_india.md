@@ -11,9 +11,14 @@ The discriminating features are drawn against mutual funds. Both PMS and mutual 
 
 ## Related Notes
 
+
 - [Psagot Asset Sales To Kessem Phoenix](psagot_asset_sales_to_kessem_phoenix.md): concerns mutual funds and managed portfolios in another market, from a different source document.
 - [AIF Sub Fund Strategies Available To HNIs](aif_sub_fund_strategies_available_to_hnis.md): drawn from the same article and covers the AIF strategies PMS sits beside.
 - [Alternative Investment Funds SEBI Framework](alternative_investment_funds_sebi_framework.md): drawn from the same article and gives the other regulated HNI vehicle with a higher minimum ticket.
+- [The Case For Alternatives In HNI Portfolios](case_for_alternatives_in_hni_portfolios.md): same source document (doc_0252)
+- [Growth In India's High-Net-Worth Investor Population](indian_high_net_worth_investor_population_growth.md): same source document (doc_0252)
+- [Market Linked Debentures In India](market_linked_debentures_india.md): same source document (doc_0252)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

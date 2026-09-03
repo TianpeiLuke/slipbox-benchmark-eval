@@ -13,6 +13,7 @@ Each has a slightly different perk: Luigi can get a bit more air in his jump, wh
 
 ## Related Notes
 
+
 - [Classic Nintendo Switch Franchise Picks](classic_nintendo_switch_franchise_picks.md): overlapping Mario and Switch subject matter from a different source document
 - [Miscellaneous Budget Tech and Household Deals](miscellaneous_budget_tech_and_household_deals.md): incidental Mario-cast vocabulary overlap from an unrelated article
 - [Nostalgia-Driven Major Game Releases 2023](nostalgia_driven_major_game_releases_2023.md): both discuss Super Mario releases, from a different document
@@ -21,6 +22,8 @@ Each has a slightly different perk: Luigi can get a bit more air in his jump, wh
 - [Captain Toad: Treasure Tracker](captain_toad_treasure_tracker.md): another pick from the same couch co-op roundup
 - [Cat Quest 2](cat_quest_2.md): a fellow entry in the same Switch co-op article
 - [Crypt of the NecroDancer](crypt_of_the_necrodancer.md): another local co-op recommendation from the same document
+- [Cuphead (Local Co-Op)](cuphead_local_co_op.md): same source document (doc_0428)
+- [Diablo 3 (Switch Local Multiplayer)](diablo_3_switch_local_multiplayer.md): same source document (doc_0428)
 
 ## Source
 

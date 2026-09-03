@@ -11,11 +11,19 @@ Petersen was surprised that Clark showed up, according to people with knowledge 
 
 ## Related Notes
 
+
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also discusses North America, from a different source document.
 - [Aging with Hiv and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): also discusses North America, from a different source document.
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): overlaps on Silicon Valley power dynamics, from a different source document.
 - [Blackberry Matt Johnson Film](blackberry_matt_johnson_film.md): also discusses Silicon Valley, from a different source document.
 - [Canada Ski Holidays Overview](canada_ski_holidays_overview.md): also discusses North America, from a different source document.
+- [Clark's Cease-And-Desist, The Political Friction, And The Firing For Cause](clark_cease_and_desist_and_political_friction.md): same source document (doc_0536)
+- [Dave Clark's Hiring And Flexport's IPO Plan](dave_clark_hiring_and_flexport_ipo_plan.md): same source document (doc_0536)
+- [Flexport's Board Composition](flexport_board_composition.md): same source document (doc_0536)
+- [The Flexport Forecast Dispute And The Contested Whistleblower Claim](flexport_forecast_dispute_and_whistleblower_claim.md): same source document (doc_0536)
+- [Flexport Versus Amazon In End-To-End Supply Chain Services](flexport_versus_amazon_supply_chain_service.md): same source document (doc_0536)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

@@ -13,11 +13,18 @@ The rebuttal also concedes the disanalogy and then answers it. The difference be
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): also concerns the Big Ten and Florida State, from a different document.
 - [Alabama's 2023 CFP Case and the SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): also concerns the College Football Playoff, from a different document.
 - [Alabama CFP Head-to-Head Debates: Texas and Florida State](alabama_cfp_head_to_head_debates_texas_florida_state.md): also concerns Florida State, from a different document.
 - [Alabama's Preferred CFP Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also concerns the Big Ten and the College Football Playoff, from a different document.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): also concerns the Big Ten, from a different document.
+- [Alabama, Texas And The SEC Selection Dilemma, 2023](alabama_texas_sec_selection_dilemma_2023.md): same source document (doc_0155)
+- [CFP Twelve-Team Expansion And The Sanctity Of The Regular Season](cfp_twelve_team_expansion_and_regular_season_sanctity.md): same source document (doc_0155)
+- [College Football's "Best Versus Most Deserving" Debate](college_football_best_versus_most_deserving_debate.md): same source document (doc_0155)
+- [The 2023 College Football Playoff Final Four Field](college_football_playoff_2023_final_four_field.md): same source document (doc_0155)
+- [Florida State's Exclusion And Jordan Travis' Injury](florida_state_exclusion_and_jordan_travis_injury.md): same source document (doc_0155)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

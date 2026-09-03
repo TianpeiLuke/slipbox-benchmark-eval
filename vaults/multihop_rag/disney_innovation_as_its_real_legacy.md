@@ -11,11 +11,17 @@ The grounds are a record of risk. Over the past 100 years Disney has taken big, 
 
 ## Related Notes
 
+
 - [Disney's Centennial And The Wish Nostalgia Thesis](disney_centennial_wish_nostalgia_thesis.md): same source; the thesis this counter-history is the backbone of.
 - [Disney's Legacy Projects Are Financially Safe](disney_legacy_projects_are_financially_safe.md): same source; the safety these risky swings are contrasted with.
 - [Disney Must Take Creative Risks To Last](disney_must_take_creative_risks_to_last.md): same source; the prescription that follows from this history.
 - [Danny Elfman as Jack Skellington in Nightmare Before Christmas](danny_elfman_as_jack_skellington_in_nightmare_before_christmas.md): also covers Disney Renaissance, from a different source document.
 - [The Road to El Dorado 2000 Animated Comedy](the_road_to_el_dorado_2000_animated_comedy.md): also covers Disney Renaissance, from a different source document.
+- [The Disney Direct-To-Video Sequel Era](disney_direct_to_video_sequel_era.md): same source document (doc_0434)
+- [Disney Fans' Conflicting Nostalgic Demands](disney_fans_conflicting_nostalgic_demands.md): same source document (doc_0434)
+- [Disney's Remake And Franchise Oversaturation](disney_remake_and_franchise_oversaturation.md): same source document (doc_0434)
+- [Nostalgia Works Best As A Side Ingredient](nostalgia_works_best_as_a_side_ingredient.md): same source document (doc_0434)
+- [Machine Translation](term_machine_translation.md): uses the concept machine translation
 
 ## Source
 

@@ -11,11 +11,20 @@ Levy served in the command centre of the IDF coordinator of activities in the ad
 
 ## Related Notes
 
+
 - [Disinformation On X Gaza](disinformation_on_x_gaza.md): also concerns the Gaza Strip, from a different source document.
 - [EU Warning Letter To X](eu_warning_letter_to_x.md): also concerns the Gaza Strip, from a different source document.
 - [Gaza Border Barrier Construction](gaza_border_barrier_construction.md): also concerns the Gaza Strip and its security coordination, from a different source document.
 - [Gaza Humanitarian Crisis October 2023 Supply Cutoff](gaza_humanitarian_crisis_october_2023_supply_cutoff.md): also concerns the Gaza Strip, from a different source document.
 - [Gaza Internet Blackout And Connectivity](gaza_internet_blackout_and_connectivity.md): also concerns the Gaza Strip, from a different source document.
+- [Eylon Levy's 2013 Oxford Debate With George Galloway](eylon_levy_george_galloway_oxford_debate_2013.md): same source document (doc_0413)
+- [Eylon Levy, Israeli Government Spokesperson](eylon_levy_israeli_government_spokesperson.md): same source document (doc_0413)
+- [Eylon Levy's Kay Burley Sky News Interview](eylon_levy_kay_burley_sky_news_interview.md): same source document (doc_0413)
+- [The Gaza Information War And The Hamas Narrative](gaza_information_war_and_hamas_narrative.md): same source document (doc_0413)
+- [Hostile Interview Questions Put To Israeli Spokespeople](hostile_interview_questions_to_israeli_spokespeople.md): same source document (doc_0413)
+- [Judicial Reform (Israel, 2023)](term_judicial_reform.md): uses the concept judicial reform
+- [Machine Translation](term_machine_translation.md): uses the concept machine translation
+- [Accessibility Localisation](term_accessibility_localisation.md): uses the concept accessibility localisation
 
 ## Source
 

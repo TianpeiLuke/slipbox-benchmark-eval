@@ -13,6 +13,7 @@ A third lever is ingredient bans. Freirich noted that many countries have banned
 
 ## Related Notes
 
+
 - [AI Pricing Models](ai_pricing_models.md): shares the usage based pricing theme, from a different source document.
 - [Amot Investments Portfolio and War Scenario Assessment](amot_investments_portfolio_and_war_scenario_assessment.md): shares the usage based pricing theme, from a different source document.
 - [Apple M3 Chip Architecture and GPU Features](apple_m3_chip_architecture_and_gpu_features.md): shares the usage based pricing theme, from a different source document.
@@ -21,6 +22,14 @@ A third lever is ingredient bans. Freirich noted that many countries have banned
 - [Cavefish Ketogenic Diet Behavioral Results](cavefish_ketogenic_diet_behavioral_results.md): shares the usage based pricing theme, from a different source document.
 - [China Recovery Greenshoots and Commodity Price Outlook](china_recovery_greenshoots_and_commodity_price_outlook.md): shares the usage based pricing theme, from a different source document.
 - [Digital Twins Deployed for Sustainability Goals](digital_twins_deployed_for_sustainability_goals.md): shares the usage based pricing theme, from a different source document.
+- [Dopamine Reward, Tolerance And Compulsive Consumption](dopamine_reward_tolerance_and_compulsive_consumption.md): same source document (doc_0467)
+- [Limits Of Review Evidence On Food Addiction](limits_of_review_evidence_on_food_addiction.md): same source document (doc_0467)
+- [Managing Disordered Eating And Food Cravings](managing_disordered_eating_and_food_cravings.md): same source document (doc_0467)
+- [Skepticism That Food Is Addictive The Way Drugs Are](skepticism_that_food_is_addictive_like_drugs.md): same source document (doc_0467)
+- [Ultra-Processed Foods: Definition And Addictive Properties](ultra_processed_foods_definition_and_addictive_properties.md): same source document (doc_0467)
+- [The University Of Michigan Review Of Ultra-Processed Food Addiction](university_of_michigan_ultra_processed_food_addiction_review.md): same source document (doc_0467)
+- [Warning Signs Of Food Addiction](warning_signs_of_food_addiction.md): same source document (doc_0467)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
 
 ## Source
 

@@ -13,6 +13,7 @@ The day ended with a document shared between Ellison and Bankman-Fried, his comm
 
 ## Related Notes
 
+
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): overlaps on Ellison, Alameda and Bankman-Fried, from a different source document.
 - [Alameda Research](alameda_research.md): background on the borrower being modelled, from a different source document.
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): the same reliance on FTX customer money, from a different source document.
@@ -21,6 +22,8 @@ The day ended with a document shared between Ellison and Bankman-Fried, his comm
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the facility the "FTX borrows" row drew on (doc_0086).
 - [Caroline Ellison's Guilty Plea and First Day Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): the same witness's testimony, same source document (doc_0086).
 - [The FTT Token and the "Sam Coins"](ftt_token_and_sam_coins.md): the balance-sheet assets shown to the same lenders (doc_0086).
+- [FTX Fraud Charges And The SEC's Allegation](ftx_fraud_charges_and_sec_allegation.md): same source document (doc_0086)
+- [FTX Ventures Was Funded By Alameda](ftx_ventures_funded_by_alameda.md): same source document (doc_0086)
 
 ## Source
 

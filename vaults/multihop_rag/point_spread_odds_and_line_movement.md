@@ -11,11 +11,18 @@ Point spread odds are not fixed once set; the shifts are commonly called "line m
 
 ## Related Notes
 
+
 - [Fractional and Decimal Odds Formats](fractional_and_decimal_odds_formats.md): expands on the decimal and fractional payout formats named here, from a different document.
 - [How Sportsbooks Set and Move Betting Lines](how_sportsbooks_set_and_move_betting_lines.md): covers the same line-setting and line-moving behavior by sportsbooks, from a different document.
 - [Line Shopping for the Best Betting Odds](line_shopping_for_the_best_betting_odds.md): overlaps on odds differing across sportsbooks and lines, from a different document.
 - [NBA Rookie of the Year Futures Betting Market](nba_rookie_of_the_year_futures_betting_market.md): overlaps on odds posted and moved by sportsbooks, from a different document.
 - [Reading a Totals Line and Its Odds](reading_a_totals_line_and_its_odds.md): applies the same odds-and-payout reading to totals rather than spreads, from a different document.
+- [Determining A Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): same source document (doc_0359)
+- [Handicap Betting In Tennis And Golf](handicap_betting_in_tennis_and_golf.md): same source document (doc_0359)
+- [Line Movement As A Signal Of Betting Value](line_movement_as_a_signal_of_betting_value.md): same source document (doc_0359)
+- [Point Spread Bet Definition](point_spread_bet_definition.md): same source document (doc_0359)
+- [Point Spread Push And Half-Point Lines](point_spread_push_and_half_point_lines.md): same source document (doc_0359)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

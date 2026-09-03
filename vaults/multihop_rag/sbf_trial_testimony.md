@@ -15,11 +15,18 @@ The third week featured a couple of noteworthy moments for the prosecution. FTX'
 
 ## Related Notes
 
+
 - [Adam Yedidia's First Testimony And His Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): also concerns Gary Wang and Matt Huang, from a different source document.
 - [Alameda's $65 Billion Line Of Credit At FTX](alameda_65_billion_line_of_credit_at_ftx.md): also about Alameda Research and the line of credit Ellison describes, from a different source document.
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): also concerns Alameda Research and Matt Huang, from a different source document.
 - [The Escalation Of Alameda's Negative Balance](alameda_negative_balance_escalation.md): also about Alameda Research, from a different source document.
 - [Alameda Research](alameda_research.md): also about Alameda Research, from a different source document.
+- [SBF Taking The Stand As A "Hail Mary"](sbf_taking_the_stand.md): same source document (doc_0009)
+- [The SBF Trial Proceedings](sbf_trial_proceedings.md): same source document (doc_0009)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Line Of Credit](term_line_of_credit.md): uses the concept line of credit
+- [Class Action](term_class_action.md): uses the concept class action
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

@@ -11,11 +11,17 @@ Manchester United 3-1 Arsenal, September 4, 2022: Arsenal's first defeat of the 
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also covers Aston Villa, from a different source document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also set at Old Trafford, from a different source document.
 - [Bournemouth Comeback Win at Nottingham Forest: Solanke Hat-Trick](bournemouth_comeback_win_at_nottingham_forest_solanke_hat_trick.md): also covers Nottingham Forest, from a different source document.
 - [Canada Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also covers West Ham players, from a different source document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also covers Man United and West Ham, from a different source document.
+- [Everton 0-1 Manchester City: The Rodri Handball VAR Error Of February 2022](everton_manchester_city_2022_handball_var_error.md): same source document (doc_0395)
+- [PGMOL: The Body That Apologises For Refereeing And VAR Mistakes](pgmol_and_var_review_in_english_football.md): same source document (doc_0395)
+- [PGMOL Apologies In The Opening Months Of 2023/24](pgmol_apologies_2023_24_season_opening_months.md): same source document (doc_0395)
+- [PGMOL Apologies From Spring 2023](pgmol_apologies_spring_2023_incidents.md): same source document (doc_0395)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

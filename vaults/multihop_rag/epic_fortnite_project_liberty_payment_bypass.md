@@ -15,12 +15,21 @@ Epic did not try to hide it in court. Epic mentioned Project Liberty in its own 
 
 ## Related Notes
 
+
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): also concerns the Google Play Store's control over distribution, from a different source document.
 - [Apple AirPods Pro, Second Generation](apple_airpods_pro_second_generation.md): shares a pricing-and-discount theme tag, from a different source document.
 - [Beeper Product Lineup, Pricing And Availability](beeper_product_lineup_pricing_and_availability.md): also concerns the Google Play Store, from a different source document.
 - [CFPB Funding Structure Supreme Court Challenge](cfpb_funding_structure_supreme_court_challenge.md): also involves a pending Supreme Court question, from a different source document.
 - [Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): shares the discount-and-valuation theme, from a different source document.
 - [Activision's $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): drawn from the same source document (doc_0299).
+- [The Market Definition Fight In Epic v. Google](android_app_distribution_market_definition.md): same source document (doc_0355)
+- [Hypocrisy On Both Sides Of The Courtroom](epic_and_google_courtroom_hypocrisy.md): same source document (doc_0355)
+- [Epic's Antitrust Claims Against Google Play](epic_antitrust_claims_against_google_play.md): same source document (doc_0299)
+- [Epic's Opening Statement: Bribes And Blocks](epic_opening_statement_bribes_and_blocks.md): same source document (doc_0299)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

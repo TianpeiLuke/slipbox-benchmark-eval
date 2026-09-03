@@ -13,11 +13,18 @@ Against its predecessor it is significantly lighter, has a more compact case, an
 
 ## Related Notes
 
+
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): another controller with rear buttons, from a different source document.
 - [Microsoft Xbox Wireless Controller](microsoft_xbox_wireless_controller.md): the standard controller this one is priced against, from a different source document.
 - [PC Game Controller Selection Criteria](pc_game_controller_selection_criteria.md): applies comparable criteria to controller choice, from a different source document.
 - [Prime Day Console And Controller Deals, October 2023](prime_day_console_and_controller_deals_october_2023.md): also covers rear-button controllers on sale, from a different source document.
 - [Sony DualSense Edge Controller](sony_dualsense_edge_controller.md): the PlayStation counterpart to the Xbox Elite Series, from a different source document.
+- [Nacon Revolution X Controller](nacon_revolution_x_controller.md): same source document (doc_0350)
+- [PowerA Enhanced Wired Controller](powera_enhanced_wired_controller.md): same source document (doc_0350)
+- [Scuf Instinct Pro Controller](scuf_instinct_pro_controller.md): same source document (doc_0350)
+- [Turtle Beach Recon Controller](turtle_beach_recon_controller.md): same source document (doc_0350)
+- [How The Verge Evaluates Xbox Controllers](xbox_controller_evaluation_criteria.md): same source document (doc_0350)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

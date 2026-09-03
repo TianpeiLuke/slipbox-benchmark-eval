@@ -13,6 +13,7 @@ An earlier and separate use of customer money came in the summer of 2021, when B
 
 ## Related Notes
 
+
 - [Alameda Research](alameda_research.md): overlaps on Bankman-Fried and the firm's finances, from a different source document.
 - [Alameda Research's Origins and Naming](alameda_research_origins_and_naming.md): overlaps on Bankman-Fried, Ellison and Singh, from a different source document.
 - [Alameda's Special Privileges in FTX's Code](alameda_special_privileges_in_ftx_code.md): overlaps on Bankman-Fried, Singh and the funds, from a different source document.
@@ -20,6 +21,10 @@ An earlier and separate use of customer money came in the summer of 2021, when B
 - [College Football Week 6 2023 Ranked Matchup Slate](college_football_week6_2023_ranked_matchup_slate.md): also mentions Notre Dame, from a different source document.
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the mechanism that moved the money (doc_0121).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): another use of Alameda's books to hold FTX's exposure (doc_0121).
+- [The Escalation Of Alameda's Negative Balance](alameda_negative_balance_escalation.md): same source document (doc_0121)
+- [Can Sun's Testimony On Fabricated Justifications](can_sun_testimony_on_fabricated_justifications.md): same source document (doc_0121)
+- [Caroline Ellison's Guilty Plea And First Day Of Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): same source document (doc_0086)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

@@ -11,6 +11,7 @@ She anchored the timeline to the 2022 Academy Awards, when Will Smith slapped Ch
 
 ## Related Notes
 
+
 - [Diamondbacks Late Rally World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): a different article that also involves a Will Smith, illustrating a name collision across the corpus
 - [Kansas City Royals 2023 Offseason Signings](kansas_city_royals_2023_offseason_signings.md): another unrelated article featuring a Will Smith
 - [Streaming Exclusivity Erosion And Maestro](streaming_exclusivity_erosion_and_maestro.md): separate coverage that also touches on the Academy Awards
@@ -19,6 +20,8 @@ She anchored the timeline to the 2022 Academy Awards, when Will Smith slapped Ch
 - [Expert Debate Over The Oscars Slap Given The Separation](expert_debate_over_the_oscars_slap_given_the_separation.md): the commentary that reinterprets the slap in light of this revelation, from the same source article
 - [Expert Signs It Is Time To End A Marriage](expert_signs_it_is_time_to_end_a_marriage.md): the "when should couples divorce" answer this disclosure prompted, same source article
 - [Jada Pinkett Smith August Alsina Entanglement](jada_pinkett_smith_august_alsina_entanglement.md): the earlier separation-era relationship reported alongside this disclosure
+- [Separation As An Alternative To Divorce: The "LAT" Partnership](separation_as_an_alternative_to_divorce_lat_partnership.md): same source document (doc_0036)
+- [The Terms Of A Separation Agreement Determine Its Outcome](terms_of_a_separation_agreement_determine_its_outcome.md): same source document (doc_0036)
 
 ## Source
 

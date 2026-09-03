@@ -13,6 +13,7 @@ Scoot Henderson has been placed as Damian Lillard's successor by a restructured 
 
 ## Related Notes
 
+
 - [Warriors 2021 Draft Kuminga and Moody](warriors_2021_draft_kuminga_and_moody.md): also discusses the G League Ignite pathway.
 - [ActivityPub Data Model of Senders Messages and Inboxes](activitypub_data_model_of_senders_messages_and_inboxes.md): shares a corpus-level tag with this note.
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): shares the NBA subject tag applied across the corpus.
@@ -21,6 +22,16 @@ Scoot Henderson has been placed as Damian Lillard's successor by a restructured 
 - [BetRivers Sportsbook Betting Markets](betrivers_sportsbook_betting_markets.md): shares the NBA subject area.
 - [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): shares the NBA subject area.
 - [Capitol Hip Hop and R&B Executive Build Out](capitol_hip_hop_and_rnb_executive_build_out.md): shares a corpus-level tag with this note.
+- [The 2023-24 NBA Season Calendar](nba_2023_24_season_calendar.md): same sub-plan (NBA betting markets and the Rookie of the Year futures race), different source document
+- [The Three Staple NBA Bet Types: Point Spreads, Moneylines And Totals](nba_core_betting_markets_spreads_moneylines_totals.md): same sub-plan (NBA betting markets and the Rookie of the Year futures race), different source document
+- [NBA In-Game Betting: Wagering While The Game Unfolds](nba_live_in_game_betting.md): same sub-plan (NBA betting markets and the Rookie of the Year futures race), different source document
+- [Why Basketball Odds Fluctuate More Than Other Sports](why_nba_odds_move_more_than_other_sports.md): same sub-plan (NBA betting markets and the Rookie of the Year futures race), different source document
+- [How To Open A Sportsbook Account, Download The App, And Place A Bet](how_to_open_a_sportsbook_account_and_place_a_bet.md): same source document (doc_0062)
+- [NBA Props And Futures: What They Cover And When To Bet Them](nba_props_and_futures_betting_markets.md): same source document (doc_0062)
+- [The NBA Rookie Of The Year Futures Market](nba_rookie_of_the_year_futures_betting_market.md): same source document (doc_0062)
+- [NBA Rookie Of The Year Winners Since 2010](nba_rookie_of_the_year_winners_since_2010.md): same source document (doc_0062)
+- [The Four Recommended Sportsbook Apps: DraftKings, FanDuel, BetMGM, Caesars](sportsbook_app_rankings_draftkings_fanduel_betmgm_caesars.md): same source document (doc_0062)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

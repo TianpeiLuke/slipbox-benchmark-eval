@@ -11,6 +11,7 @@ In the original deal the Braves acquired Carpenter and took on $4 million while 
 
 ## Related Notes
 
+
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): also relies on reporting by Ken Rosenthal, from a different document.
 - [Juan Soto Traded From Padres to Yankees](juan_soto_traded_from_padres_to_yankees.md): another reported trade involving the Padres, from a different document.
 - [Rosenthal Report: Ohtani May Wait for Yamamoto](rosenthal_report_ohtani_may_wait_for_yamamoto.md): also relies on reporting by Ken Rosenthal, from a different document.
@@ -19,6 +20,8 @@ In the original deal the Braves acquired Carpenter and took on $4 million while 
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): another entry from the same free agency tracker, from the same document.
 - [Cody Bellinger Free Agent Market and Suitors](cody_bellinger_free_agent_market_and_suitors.md): another entry from the same free agency tracker, from the same document.
 - [Jack Flaherty Tigers One-Year Deal](jack_flaherty_tigers_one_year_deal.md): another entry from the same free agency tracker, from the same document.
+- [Kansas City Royals' December 2023 Signings](kansas_city_royals_2023_offseason_signings.md): same source document (doc_0422)
+- [Lourdes Gurriel Jr. Re-Signs With The Diamondbacks](lourdes_gurriel_jr_diamondbacks_re_signing.md): same source document (doc_0422)
 
 ## Source
 

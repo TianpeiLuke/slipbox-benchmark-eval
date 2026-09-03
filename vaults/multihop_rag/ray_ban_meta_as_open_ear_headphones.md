@@ -13,10 +13,18 @@ Lens choice determines how usable they are as headphones. Meta sent a pair of su
 
 ## Related Notes
 
+
 - [Echo Frames Call Quality and Multi-Device Pairing](echo_frames_call_quality_and_multi_device_pairing.md): overlaps on smart-glasses call audio, from a different source document.
 - [Echo Frames Lens, Frame Options and Pricing Tiers](echo_frames_lens_frame_options_and_pricing_tiers.md): overlaps on lens and sunglasses options, from a different source document.
 - [Echo Frames Open-Ear Audio and Bass Performance](echo_frames_open_ear_audio_and_bass_performance.md): the same open-ear audio tradeoff in a rival product, from a different source document.
 - [Tekton Everybit Tech Rescue Kit](tekton_everybit_tech_rescue_kit.md): also involves Alex Cranz, from a different source document.
+- [Meta AI Assistant Limits On Smart Glasses](meta_ai_assistant_limits_on_smart_glasses.md): same source document (doc_0364)
+- [Ray-Ban Meta As A Smart Glasses Turning Point](ray_ban_meta_as_smart_glasses_turning_point.md): same source document (doc_0364)
+- [Ray-Ban Meta: Camera Quality And Quirks](ray_ban_meta_camera_quality_and_quirks.md): same source document (doc_0364)
+- [Ray-Ban Meta: Design And Discreetness](ray_ban_meta_design_and_discreetness.md): same source document (doc_0364)
+- [Ray-Ban Meta Livestreaming And Meta's Walled Garden](ray_ban_meta_livestreaming_walled_garden.md): same source document (doc_0364)
+- [Ray-Ban Meta: Media Import And Battery Life](ray_ban_meta_media_import_and_battery_life.md): same source document (doc_0364)
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
 
 ## Source
 

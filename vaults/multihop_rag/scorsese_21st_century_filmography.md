@@ -13,6 +13,7 @@ But its claim about the later work is that decades from now, the nine features m
 
 ## Related Notes
 
+
 - [Murder by Contract (1958)](murder_by_contract_1958.md): both discuss Taxi Driver, from a different source document
 - [Neo-Noir Genre Boundaries](neo_noir_genre_boundaries.md): both discuss Shutter Island, from a separate article
 - [Scorsese's Answers to Internet Slang Terms](scorsese_answers_to_internet_slang_terms.md): both reference Killers of the Flower Moon and Taxi Driver, from a different document
@@ -21,6 +22,8 @@ But its claim about the later work is that decades from now, the nine features m
 - [Scorsese's Late-Career Genre Departures](scorsese_late_career_genre_departures.md): the outlier titles within this filmography
 - [Scorsese's Late Career Refutes Tarantino's Decline Claim](scorsese_late_career_refutes_tarantino_decline_claim.md): the argument this filmography supports
 - [Scorsese's Late Films Revisit Earlier Themes](scorsese_late_films_revisit_earlier_themes.md): the pattern these later films follow
+- [Scorsese's Maximalist, Improvisational Late Style](scorsese_maximalist_improvisational_late_style.md): same source document (doc_0192)
+- [Scorsese's Self-Implication in Killers of the Flower Moon](scorsese_self_implication_in_killers_of_the_flower_moon.md): same source document (doc_0192)
 
 ## Source
 

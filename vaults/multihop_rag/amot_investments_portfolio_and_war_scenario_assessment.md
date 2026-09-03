@@ -11,9 +11,17 @@ Amot raises concerns about the continuation of the war leading to damage to the 
 
 ## Related Notes
 
+
 - [AI Pricing Models](ai_pricing_models.md): shares corpus topic tags with this note, from a different source document.
 - [War Duration And Scenarios Driving Israeli Growth Damage](war_duration_and_scenarios_driving_israeli_growth_damage.md): builds the same kind of duration-and-front scenario for economic damage, from a different source document.
 - [AI21 Labs Tel Aviv Office Lease](ai21_labs_tel_aviv_office_lease.md): drawn from the same article and gives the pre-war benchmark deal in this market.
+- [Azrieli Group's Office Portfolio In Q3 2023](azrieli_group_office_portfolio_q3_2023.md): same source document (doc_0217)
+- [Israeli Office Demand Recovery After October 7](israel_office_demand_recovery_after_october_7.md): same source document (doc_0217)
+- [Israel's Office Space Oversupply](israel_office_space_oversupply.md): same source document (doc_0217)
+- [The Naimi Park Office Development At Messubim](naimi_park_office_development_messubim.md): same source document (doc_0217)
+- [Why Israeli Office Rents Have Not Fallen](why_israeli_office_rents_have_not_fallen.md): same source document (doc_0217)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
 
 ## Source
 

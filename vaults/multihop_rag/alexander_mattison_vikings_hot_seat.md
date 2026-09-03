@@ -11,6 +11,7 @@ The grounds are production and volume together — zero rushing touchdowns on a 
 
 ## Related Notes
 
+
 - [Bears Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): also concerns the Vikings, from a different document.
 - [Bears Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): also discusses Alexander Mattison, from a different document.
 - [Bears Vikings MNF Third Quarter](bears_vikings_mnf_third_quarter.md): also discusses Alexander Mattison, from a different document.
@@ -19,6 +20,8 @@ The grounds are production and volume together — zero rushing touchdowns on a 
 - [Aaron Glenn Lions Hot Seat](aaron_glenn_lions_hot_seat.md): another entry in the same roundup, from the same document.
 - [Christian Watson Packers Hot Seat](christian_watson_packers_hot_seat.md): another entry in the same roundup, from the same document.
 - [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md): another entry in the same roundup, from the same document.
+- [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): same source document (doc_0437)
+- [Dennis Allen Saints Hot Seat](dennis_allen_saints_hot_seat.md): same source document (doc_0437)
 
 ## Source
 

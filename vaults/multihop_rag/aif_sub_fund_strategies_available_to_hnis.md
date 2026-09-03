@@ -11,6 +11,7 @@ The remaining strategies are defined by instrument rather than stage. Hedge fund
 
 ## Related Notes
 
+
 - [Psagot Asset Sales To Kessem Phoenix](psagot_asset_sales_to_kessem_phoenix.md): concerns funds, portfolios and mutual-fund style vehicles, from a different source document.
 - [AliveCor EKG Import Ban And The PTAB Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): shares a corpus topic tag with this note, from a different source document.
 - [Alternative Investment Funds SEBI Framework](alternative_investment_funds_sebi_framework.md): drawn from the same article and gives the regulatory container these strategies sit inside.
@@ -19,6 +20,12 @@ The remaining strategies are defined by instrument rather than stage. Hedge fund
 - [Bad Times At The El Royale 2018](bad_times_at_the_el_royale_2018.md): shares a corpus topic tag with this note, from a different source document.
 - [Bankman Fried And Zhao Convictions And Binance Aftermath](bankman_fried_and_zhao_convictions_and_binance_aftermath.md): shares a corpus public-offering tag, from a different source document.
 - [Bankman Fried Defense Strategy And Appeal Groundwork](bankman_fried_defense_strategy_and_appeal_groundwork.md): shares a corpus topic tag with this note, from a different source document.
+- [The Case For Alternatives In HNI Portfolios](case_for_alternatives_in_hni_portfolios.md): same source document (doc_0252)
+- [Growth In India's High-Net-Worth Investor Population](indian_high_net_worth_investor_population_growth.md): same source document (doc_0252)
+- [Market Linked Debentures In India](market_linked_debentures_india.md): same source document (doc_0252)
+- [Portfolio Management Services In India](portfolio_management_services_india.md): same source document (doc_0252)
+- [Initial Public Offering (IPO)](term_initial_public_offering.md): uses the concept initial public offering
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
 
 ## Source
 

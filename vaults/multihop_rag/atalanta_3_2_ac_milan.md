@@ -11,6 +11,7 @@ Muriel struck in the 95th minute, two minutes after Milan defender Davide Calabr
 
 ## Related Notes
 
+
 - [AC Milan's 2-0 Win Over Lazio and the Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): also covers Christian Pulisic and Milan in Serie A, from a different document.
 - [Champions League 2023-24 Group D: Real Sociedad and Inter](champions_league_2023_24_group_d_real_sociedad_inter.md): also covers a Milan club in Europe, from a different document.
 - [Champions League 2023-24 Group F: Dortmund and PSG](champions_league_2023_24_group_f_dortmund_psg.md): another late-snatched result and points table, from a different document.
@@ -19,6 +20,8 @@ Muriel struck in the 95th minute, two minutes after Milan defender Davide Calabr
 - [Eintracht Frankfurt 5-1 Bayern Munich](eintracht_frankfurt_5_1_bayern_munich.md): another result from the same European roundup, from the same document.
 - [Inter Milan 4-0 Udinese](inter_milan_4_0_udinese.md): the other Serie A result in the same roundup, from the same document.
 - [PSG 2-1 Nantes in Ligue 1](psg_2_1_nantes_ligue_1.md): another result from the same European roundup, from the same document.
+- [RB Leipzig 3-2 Borussia Dortmund](rb_leipzig_3_2_borussia_dortmund.md): same source document (doc_0093)
+- [Real Betis 1-1 Real Madrid](real_betis_1_1_real_madrid.md): same source document (doc_0093)
 
 ## Source
 

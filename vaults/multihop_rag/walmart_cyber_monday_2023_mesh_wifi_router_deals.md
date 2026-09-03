@@ -13,6 +13,7 @@ The Google Nest Wi-Fi Pro (7/10, WIRED Recommends) is one of WIRED's favourite m
 
 ## Related Notes
 
+
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): overlaps heavily on mesh Wi-Fi systems, from a different source document.
 - [Budget Smart Home And Networking Deals](budget_smart_home_and_networking_deals.md): overlaps on Wi-Fi, TP-Link and connected devices, from a different source document.
 - [Google Nest Cam (Battery Model)](google_nest_cam_battery_model.md): also covers Google Nest hardware, from a different source document.
@@ -21,6 +22,8 @@ The Google Nest Wi-Fi Pro (7/10, WIRED Recommends) is one of WIRED's favourite m
 - [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): drawn from the same source document (doc_0320).
 - [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): drawn from the same source document (doc_0320).
 - [Walmart Cyber Monday 2023 Dolby Atmos Soundbar Deals](walmart_cyber_monday_2023_dolby_atmos_soundbar_deals.md): drawn from the same source document (doc_0320).
+- [Walmart Cyber Monday 2023 Fitness Tracker And Smart Ring Deals](walmart_cyber_monday_2023_fitness_tracker_and_smart_ring_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Home Security Camera Deals](walmart_cyber_monday_2023_home_security_camera_deals.md): same source document (doc_0320)
 
 ## Source
 

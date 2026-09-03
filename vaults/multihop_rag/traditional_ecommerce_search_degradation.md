@@ -13,6 +13,7 @@ The warrant tying them together is that each mechanism moves cost onto the user:
 
 ## Related Notes
 
+
 - [Expedia Testimony On Google Search Ads](expedia_testimony_on_google_search_ads.md): the same complaint about ads displacing organic listings, from a different document.
 - [The Google-Apple Chrome Agreement](google_apple_chrome_agreement.md): overlaps on how users reach search engines, from a different document.
 - [Google Default Search Payments](google_default_search_payments.md): overlaps on search engines and default behavior, from a different document.
@@ -21,6 +22,8 @@ The warrant tying them together is that each mechanism moves cost onto the user:
 - [Consumer Search Startup Switching Barriers](consumer_search_startup_switching_barriers.md): drawn from the same source document (doc_0301), and bounds whether this problem is enough to move users.
 - [Deft's Competitive Landscape: Search Incumbents](deft_competitive_landscape_search_incumbents.md): drawn from the same source document (doc_0301).
 - [Deft, The E-Commerce Search Startup](deft_ecommerce_search_startup.md): drawn from the same source document (doc_0301), and is the proposed remedy.
+- [Deft's Funding And Traction Metrics](deft_funding_and_traction_metrics.md): same source document (doc_0301)
+- [Deft's Multimodal Search Capabilities](deft_multimodal_search_capabilities.md): same source document (doc_0301)
 
 ## Source
 

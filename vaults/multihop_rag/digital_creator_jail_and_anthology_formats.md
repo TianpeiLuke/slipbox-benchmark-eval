@@ -13,9 +13,19 @@ The range over which the trade-off bites is relentlessness rather than hardship.
 
 ## Related Notes
 
+
 - [Epoch Times 2020 Election And Pro-Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): shares the COVID-19 and user-generated content topic tags across the corpus
 - [Gunflower Stories, Laura Jean McKay](gunflower_stories_laura_jean_mckay.md): shares the COVID-19 and user-generated content topic tags across the corpus
 - [Netflix Originals Premiering November 7 To 10, 2023](netflix_originals_premiering_november_7_to_10_2023.md): shares the COVID-19 and user-generated content topic tags across the corpus
+- [CollegeHumor's IAC Layoffs And Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): same source document (doc_0586)
+- [Burrow's End: Dimension 20's Stoat Season And The Specificity Rule](dimension_20_burrows_end_stoat_season.md): same source document (doc_0586)
+- [Easter Eggs In Dropout's Anniversary Video](dropout_anniversary_video_easter_eggs.md): same source document (doc_0586)
+- [Dropout's Fifth Anniversary Announcement: CollegeHumor Is No More](dropout_fifth_anniversary_name_change_announcement.md): same source document (doc_0586)
+- [Dropout's Place In Improv History And Wayne Brady's Verdict](dropout_improv_shows_and_wayne_brady_endorsement.md): same source document (doc_0586)
+- [The Early Gigs Reich And Mulligan Came Up Through](reich_and_mulligan_early_performing_gigs.md): same source document (doc_0586)
+- [Sam Reich's Advice To Creators: Find A Better Business Model](sam_reich_advice_on_off_platform_business_models.md): same source document (doc_0586)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

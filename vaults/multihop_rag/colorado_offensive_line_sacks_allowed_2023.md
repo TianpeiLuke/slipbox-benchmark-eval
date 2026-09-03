@@ -13,6 +13,7 @@ The same passage supplies a contrast that sharpens the point: Colorado's own def
 
 ## Related Notes
 
+
 - [Colorado UCLA Game Live Blog](colorado_ucla_game_live_blog.md): another Colorado live blog covering the Buffaloes and Sanders
 - [Jeffery Simmons Titans Midseason MVP](jeffery_simmons_titans_midseason_mvp.md): overlaps on sacks and defensive-pressure vocabulary, different source document
 - [Packers 27-19 Chiefs Week 13](packers_27_19_chiefs_week_13.md): shares bowl and interception vocabulary, different source document
@@ -21,6 +22,8 @@ The same passage supplies a contrast that sharpens the point: Colorado's own def
 - [Colorado 27-24 Arizona State 2023 Recap](colorado_27_24_arizona_state_2023_recap.md): the game result this critique attaches to, same source document
 - [Colorado Arizona State 2023 First Half](colorado_arizona_state_2023_first_half.md): the half in which several of the sacks occurred, same source document
 - [Colorado Arizona State 2023 Pregame Notes](colorado_arizona_state_2023_pregame_notes.md): pregame context for the same game, same source document
+- [Colorado's Second Half Against Arizona State, Oct. 7 2023](colorado_arizona_state_2023_second_half.md): same source document (doc_0568)
+- [Colorado vs. Arizona State 2023: Venue And Broadcast Details](colorado_arizona_state_2023_venue_and_broadcast.md): same source document (doc_0568)
 
 ## Source
 

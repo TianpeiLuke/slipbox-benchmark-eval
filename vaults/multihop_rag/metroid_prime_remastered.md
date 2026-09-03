@@ -13,12 +13,18 @@ Wearing Samus' suit, aggressive alien lifeforms could now get right in the playe
 
 ## Related Notes
 
+
 - [Console Subscription and Store Gift Cards for Gamers](console_subscription_and_store_gift_cards_for_gamers.md): both discuss Nintendo Switch Online, from a different source document
 - [Nintendo Switch OLED Smash Bros Bundle Deal](nintendo_switch_oled_smash_bros_bundle_deal.md): another Nintendo Switch Online reference from a separate article
 - [Prime Day Video Game Title Deals, October 2023](prime_day_video_game_title_deals_october_2023.md): both mention Metroid Fusion, from a different document
 - [Walmart Cyber Monday 2023 Laptop and Gaming Hardware Deals](walmart_cyber_monday_2023_laptop_and_gaming_hardware_deals.md): another Nintendo Switch Online-referencing note
 - [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
 - [Amnesia: The Bunker](amnesia_the_bunker.md): a fellow entry on the same ranked games list
+- [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): same source document (doc_0213)
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Chants of Sennaar](chants_of_sennaar.md): same source document (doc_0213)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

@@ -13,6 +13,7 @@ On size, he called the opportunity "interestingly big" but arguably undetermined
 
 ## Related Notes
 
+
 - [Rivian's Amazon Delivery Van Fleet](rivian_amazon_delivery_van_fleet.md): overlaps on vans, from a different source document.
 - [Zipcar's NHTSA Recall Fine](zipcar_nhtsa_recall_fine.md): overlaps on vans and platform operations, from a different source document.
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): shares the acquisition theme, from a different source document.
@@ -21,6 +22,15 @@ On size, he called the opportunity "interestingly big" but arguably undetermined
 - [ASX and Wall Street Selloff, October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): shares the market-and-acquisition theme, from a different source document.
 - [Beeper's Funding and Investors](beeper_funding_and_investors.md): shares the acquisition theme, from a different source document.
 - [Brandon Drury's Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): shares the acquisition theme, from a different source document.
+- [Metaverse Interoperability And 3D File Formats](metaverse_interoperability_and_3d_file_formats.md): same source document (doc_0539)
+- [Roblox Aging Up: An Older User Base](roblox_aging_up_older_user_base.md): same source document (doc_0539)
+- [Roblox As A Communication Platform, Not A Game](roblox_as_communication_platform_not_game.md): same source document (doc_0539)
+- [Roblox's China Strategy And Tencent](roblox_china_strategy_and_tencent.md): same source document (doc_0539)
+- [Roblox's Content Delivery Architecture Versus App Stores](roblox_content_delivery_architecture_vs_app_stores.md): same source document (doc_0539)
+- [Roblox's Dating Prediction](roblox_dating_prediction.md): same source document (doc_0539)
+- [Roblox Fashion Design And Direct-To-Avatar](roblox_fashion_design_and_direct_to_avatar.md): same source document (doc_0539)
+- [Roblox's Hiring And Recruiting Layoffs](roblox_hiring_and_recruiting_layoffs.md): same source document (doc_0539)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

@@ -11,6 +11,7 @@ The counter-evidence offered against Carragher's reading is Ronaldo's own output
 
 ## Related Notes
 
+
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): overlapping Ballon d'Or vocabulary, from a different source document.
 - [Ten Hag's Rebuttal of Carragher's "Going Backwards" Claim](ten_hag_rebuttal_of_carragher_going_backwards_claim.md): also covers a Jamie Carragher criticism and the response to it, from a different source document.
 - [Tributes to Bill Kenwright: Rooney and McKellen](tributes_to_bill_kenwright_rooney_mckellen.md): also features Jamie Carragher, from a different source document.
@@ -19,6 +20,8 @@ The counter-evidence offered against Carragher's reading is Ronaldo's own output
 - [Erling Haaland's Manchester City 2023 Goal Tally](erling_haaland_manchester_city_2023_goal_tally.md): same source document, on a rival scorer in the same list.
 - [Harry Kane's Bayern Munich 2023 Scoring Records](harry_kane_bayern_munich_2023_scoring_records.md): same source document, on another rival scorer.
 - [Kylian Mbappe's PSG 2023 Goal Tally and Contract](kylian_mbappe_psg_2023_goal_tally_and_contract.md): same source document, on another rival scorer.
+- [Lautaro Martinez's 2023 Goalscoring Form For Inter Milan](lautaro_martinez_2023_goalscoring_form.md): same source document (doc_0277)
+- [Romelu Lukaku's 40-Goal 2023 At Roma And With Belgium](romelu_lukaku_roma_2023_goal_tally.md): same source document (doc_0277)
 
 ## Source
 

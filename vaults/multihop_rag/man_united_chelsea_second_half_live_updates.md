@@ -13,11 +13,19 @@ In the 70th minute came the goal for 2-1 United and McTominay's brace: a great b
 
 ## Related Notes
 
+
 - [Canada Jamaica Second Leg Second Half](canada_jamaica_second_leg_second_half.md): linked through shared corpus tags, from a different document.
 - [Chelsea 4-4 Manchester City at Stamford Bridge](chelsea_4_4_manchester_city_stamford_bridge.md): also discusses Reece James, from a different document.
 - [Chelsea Arsenal Derby Team News October 2023](chelsea_arsenal_derby_team_news_october_2023.md): also discusses Reece James, from a different document.
 - [Manchester United Galatasaray Three-Three Draw](manchester_united_galatasaray_three_three_draw.md): overlaps on Garnacho and McTominay, from a different document.
 - [Reece James Elbow on Udogie: No Red Card](reece_james_elbow_on_udogie_no_red_card.md): also discusses Reece James, from a different document.
+- [Erik Ten Hag Under Pressure In December 2023](erik_ten_hag_under_pressure_december_2023.md): same source document (doc_0129)
+- [Manchester United 2-1 Chelsea, December 2023](man_united_2_1_chelsea_december_2023_result.md): same source document (doc_0129)
+- [How The Goals Came In Manchester United 2-1 Chelsea](man_united_chelsea_december_2023_goal_sequence.md): same source document (doc_0129)
+- [Team News And Lineups For Manchester United vs Chelsea, December 2023](man_united_chelsea_december_2023_team_news_and_lineups.md): same source document (doc_0129)
+- [First Half Live Updates From Manchester United 2-1 Chelsea](man_united_chelsea_first_half_live_updates.md): same source document (doc_0129)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

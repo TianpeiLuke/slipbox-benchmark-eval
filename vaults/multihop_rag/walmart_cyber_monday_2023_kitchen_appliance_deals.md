@@ -13,6 +13,7 @@ The Stilosa is WIRED's favourite among the rare good budget espresso machines, w
 
 ## Related Notes
 
+
 - [Prime Day 2023 Coffee And Espresso Gear Deals](prime_day_2023_coffee_and_espresso_gear_deals.md): overlaps on espresso, coffee and brewing gear, from a different source document.
 - [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): drawn from the same source document (doc_0320).
 - [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): drawn from the same source document (doc_0320).
@@ -21,6 +22,8 @@ The Stilosa is WIRED's favourite among the rare good budget espresso machines, w
 - [Walmart Cyber Monday 2023 Home Security Camera Deals](walmart_cyber_monday_2023_home_security_camera_deals.md): drawn from the same source document (doc_0320).
 - [Walmart Cyber Monday 2023 Laptop And Gaming Hardware Deals](walmart_cyber_monday_2023_laptop_and_gaming_hardware_deals.md): drawn from the same source document (doc_0320).
 - [Walmart Cyber Monday 2023 Mesh Wi-Fi Router Deals](walmart_cyber_monday_2023_mesh_wifi_router_deals.md): drawn from the same source document (doc_0320).
+- [Walmart Cyber Monday 2023 Over-Ear Headphone Deals](walmart_cyber_monday_2023_over_ear_headphone_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Portable Bluetooth Speaker Deals](walmart_cyber_monday_2023_portable_bluetooth_speaker_deals.md): same source document (doc_0320)
 
 ## Source
 

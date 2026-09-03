@@ -11,11 +11,17 @@ Polygon credits her with being key to what Adventure Time went on to do so well:
 
 ## Related Notes
 
+
 - [Morbius In Spider-Man: The Animated Series](morbius_in_spider_man_the_animated_series.md): same source; another vampire introduced into children's animation.
 - [Cassidy In Preacher](cassidy_preacher_vampire.md): same source; another vampire entering an already-strange world.
 - [The Elder Scrolls: Vampires Everywhere](elder_scrolls_playable_vampirism.md): same source; another world whose weirdness includes vampires.
 - [Anne Rice: Vampire Verdict](anne_rice_vampire_chronicles_verdict.md): covers vampires used to carry serious themes, from a different source document.
 - [Gravity Falls Northwest Mansion Mystery](gravity_falls_northwest_mansion_mystery.md): also covers Adventure Time, from a different source document.
+- [Astarion, Baldur's Gate 3 Vampire Companion](astarion_baldurs_gate_3_vampire_companion.md): same source document (doc_0453)
+- [The Merovingian's Henchmen In The Matrix Reloaded](matrix_reloaded_merovingian_henchmen_as_vampires.md): same source document (doc_0453)
+- [Miguel O'Hara, Spider-Man 2099](miguel_ohara_spider_man_2099_vampire.md): same source document (doc_0453)
+- [The Surprise Vampire Trope](surprise_vampire_trope.md): same source document (doc_0453)
+- [The Anchorites In The Bone Clocks](the_anchorites_the_bone_clocks.md): same source document (doc_0453)
 
 ## Source
 

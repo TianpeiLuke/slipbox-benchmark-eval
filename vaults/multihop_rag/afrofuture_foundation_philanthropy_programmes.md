@@ -13,6 +13,7 @@ The AfroFuture Feeds strand aims to bring awareness to and eradicate hunger in G
 
 ## Related Notes
 
+
 - [COP28 Final Text Language on Transitioning Away from Fossil Fuels](cop28_final_text_language_on_transitioning_away_from_fossil_fuels.md): also concerns United Nations frameworks and goals.
 - [COP28 Fossil Fuel Deal Slipped Away at the Last Hour](cop28_fossil_fuel_deal_slipped_away_at_the_last_hour.md): also concerns a United Nations process.
 - [Fossil Fuel Lobbyist Access at COP28 in Dubai](fossil_fuel_lobbyist_access_at_cop28_in_dubai.md): also concerns a United Nations process.
@@ -21,6 +22,8 @@ The AfroFuture Feeds strand aims to bring awareness to and eradicate hunger in G
 - [Abdul Karim Abdullah's Path into the Music Business](abdul_karim_abdullah_path_into_the_music_business.md): from the same interview.
 - [Abdullah on Product Over Profit in the Music Industry](abdullah_on_product_over_profit_in_the_music_industry.md): from the same interview.
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): from the same interview.
+- [AfroFuture Festival, Accra, Ghana](afrofuture_festival_accra_ghana.md): same source document (doc_0085)
+- [AfroFuture Founding Vision and Mission Pillars](afrofuture_founding_vision_and_mission_pillars.md): same source document (doc_0085)
 
 ## Source
 

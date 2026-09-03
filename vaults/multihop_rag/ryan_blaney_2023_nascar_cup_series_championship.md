@@ -13,12 +13,15 @@ The framing offered around it is that the victory was a moment of pride and cele
 
 ## Related Notes
 
+
 - [Autosport Top 50 Drivers 2023: NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): also discusses the Cup Series and Kyle Larson, from a different document.
 - [Chris Buescher's 2023 Season Autosport Snub](chris_buescher_2023_season_autosport_snub.md): also discusses the Cup Series and the Ford Mustang, from a different document.
 - [Christopher Bell's 2023 Season Autosport Snub](christopher_bell_2023_season_autosport_snub.md): also discusses the Cup Series, from a different document.
 - [Dale Earnhardt Jr.'s Visit To The High Limit Commonwealth Clash](dale_earnhardt_jr_visit_to_high_limit_commonwealth_clash.md): also discusses the Cup Series and Kyle Larson, from a different document.
 - [Ford F-150 Outsells The Mustang Among NASCAR Fans](ford_f150_outsells_mustang_among_nascar_fans.md): the marketing point this championship is used to make, from the same report.
 - [Roger Penske Calming Blaney At The Phoenix Finale](roger_penske_calming_blaney_at_phoenix_finale.md): how the title was secured in the closing laps, from the same report.
+- [Ford Shuts Down VIIZR, Its Field Service SaaS](ford_viizr_field_service_saas_shutdown.md): content overlap 0.11 on ford; different source document
+- [Ford Racing Success As A Brand Marketing Engine](ford_racing_success_as_brand_marketing_engine.md): same source document (doc_0481)
 
 ## Source
 

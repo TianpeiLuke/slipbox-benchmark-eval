@@ -13,6 +13,7 @@ Access has long been the boundary condition on its reputation. Outside the most 
 
 ## Related Notes
 
+
 - [Netflix Originals Premiering November 7 To 10, 2023](netflix_originals_premiering_november_7_to_10_2023.md): also involves Cold War subject matter, from a different document
 - [Twilight 2000 TTRPG](twilight_2000_ttrpg.md): another Cold War-set work covered in a different document
 - [Wingwomen, Mélanie Laurent Action Film](wingwomen_melanie_laurent_action_film.md): another film featuring Isabelle Adjani's contemporaries, from a different document
@@ -21,6 +22,8 @@ Access has long been the boundary condition on its reputation. Outside the most 
 - [Climax, 2018, Gaspar Noé](climax_2018_gaspar_noe_film.md): another pick from the same Polygon horror guide
 - [Crimes Of The Future, 2022, David Cronenberg](crimes_of_the_future_2022_david_cronenberg.md): another pick from the same Polygon horror guide
 - [Cure, 1997, Kiyoshi Kurosawa](cure_1997_kiyoshi_kurosawa_film.md): another pick from the same Polygon horror guide
+- [Encounters Of The Spooky Kind: Sammo Hung's Jiangshi Martial Arts Comedy](encounters_of_the_spooky_kind_sammo_hung.md): same source document (doc_0563)
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0563)
 
 ## Source
 

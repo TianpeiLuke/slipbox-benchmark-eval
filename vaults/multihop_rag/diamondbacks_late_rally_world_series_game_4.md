@@ -15,6 +15,7 @@ The Diamondbacks got two of them. Chris Stratton had warmed up to start the inni
 
 ## Related Notes
 
+
 - [Brandon Pfaadt Start World Series Game 3](brandon_pfaadt_start_world_series_game_3.md): the previous game, also featuring Evan Carter and Jonah Heim
 - [Chase Field Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): the same venue, described from a different source document
 - [Diamondbacks Ninth Inning Insurance Runs](diamondbacks_ninth_inning_insurance_runs.md): a comparable late-inning Rangers-Diamondbacks account, different source document
@@ -22,6 +23,10 @@ The Diamondbacks got two of them. Chris Stratton had warmed up to start the inni
 - [Jon Gray Emergency Relief World Series Game 3](jon_gray_emergency_relief_world_series_game_3.md): also covers Bruce Bochy and Gabriel Moreno, different source document
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): the Rangers absence during this game, same source document
 - [Corey Seager Home Runs 2023 World Series](corey_seager_home_runs_2023_world_series.md): the Rangers hitter who doubled to open the ninth here, same source document
+- [Ketel Marte's 20-Game Postseason Hitting Streak](ketel_marte_20_game_postseason_hitting_streak_2023.md): same source document (doc_0408)
+- [Marcus Semien's Big Hits In World Series Games 3 And 4](marcus_semien_five_rbi_world_series_game_4.md): same source document (doc_0408)
+- [Max Scherzer's Back Injury And Removal From The Rangers' World Series Roster](max_scherzer_back_injury_and_roster_removal_2023_world_series.md): same source document (doc_0408)
+- [Reserve Mobilisation](term_reserve_mobilisation.md): uses the concept reserve mobilisation
 
 ## Source
 

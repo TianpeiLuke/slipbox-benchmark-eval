@@ -13,9 +13,19 @@ The tension between Discogs' old-internet charm and its attempts at growth came 
 
 ## Related Notes
 
+
 - [Amazon Seller Fee and Pricing Complaints](amazon_seller_fee_and_pricing_complaints.md): overlaps on sellers and platform fees, from a different source document.
 - [Amazon Seller Skepticism of the FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): overlaps on sellers and shipping costs, from a different source document.
 - [Apple's USB-C Accessory Transition](apple_usb_c_accessory_transition.md): shares the product-launch theme, from a different source document.
+- [Discogs' Compounding Cost Pressures](discogs_compounding_cost_pressures.md): same source document (doc_0096)
+- [Discogs' Database Completeness At Risk](discogs_database_completeness_at_risk.md): same source document (doc_0096)
+- [Discogs As Music Database And Marketplace](discogs_music_database_and_marketplace.md): same source document (doc_0096)
+- [Discogs Seller Livelihoods](discogs_seller_livelihoods.md): same source document (doc_0096)
+- [Discogs' Site Dysfunction And Redesign](discogs_site_dysfunction_and_redesign.md): same source document (doc_0096)
+- [Discogs' Stated Justification For The Fee Increase](discogs_stated_justification_for_fee_increase.md): same source document (doc_0096)
+- [Discogs Versus eBay And Amazon For Sellers](discogs_versus_ebay_and_amazon_for_sellers.md): same source document (doc_0096)
+- [Product Launch](term_product_launch.md): uses the concept product launch
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

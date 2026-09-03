@@ -11,6 +11,7 @@ Applied to the specific case, when you compare companies and invest in one based
 
 ## Related Notes
 
+
 - [AI21 Labs Tel Aviv Office Lease](ai21_labs_tel_aviv_office_lease.md): shares a corpus valuation tag, from a different source document.
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): shares a corpus valuation tag, from a different source document.
 - [AMO Founding Team And Funding Round](amo_founding_team_and_funding_round.md): shares a corpus valuation tag, from a different source document.
@@ -19,6 +20,16 @@ Applied to the specific case, when you compare companies and invest in one based
 - [Boeing Q3 2023 Earnings Preview And 737 MAX Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): shares a corpus valuation tag, from a different source document.
 - [Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): concerns whether a valuation input is credible, from a different source document.
 - [Cloud Stock Multiples And Startup Valuations](cloud_stock_multiples_and_startup_valuations.md): shares a corpus valuation tag and applies multiples to loss-making growth companies, from a different source document.
+- [Enterprise Value Multiples](enterprise_value_multiples.md): same source document (doc_0418)
+- [Equity Multiples Must Use Shareholder Line Items](equity_multiples_and_shareholder_line_items.md): same source document (doc_0418)
+- [Equity Valuations Must Be Judged Against Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): same source document (doc_0418)
+- [Ketchup Economics: The Peer-Multiple Fallacy](ketchup_economics_peer_multiple_fallacy.md): same source document (doc_0418)
+- [Layering Comparisons Against Growth And A Stock's Own History](layered_comparison_against_growth_and_own_history.md): same source document (doc_0418)
+- [Leverage Amplifies The Effect Of An EV Change On Equity Value](leverage_amplifies_ev_change_on_equity_value.md): same source document (doc_0418)
+- [Price To EBITDA Hides Debt: A Worked Example](price_to_ebitda_ignores_debt_worked_example.md): same source document (doc_0418)
+- [Relative Valuation: Definition And Prevalence](relative_valuation_definition_and_prevalence.md): same source document (doc_0418)
+- [Switching From Book Value To Market Value Multiples](switching_from_book_value_to_market_value_multiples.md): same source document (doc_0418)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

@@ -11,11 +11,17 @@ Hardcore Disney fans are not always keen on new things: they cry out for a retur
 
 ## Related Notes
 
+
 - [Disney's Legacy Projects Are Financially Safe](disney_legacy_projects_are_financially_safe.md): same source; the demand-based justification this passage undercuts.
 - [Innovation Is Disney's Real Legacy](disney_innovation_as_its_real_legacy.md): same source; the alternative that supplies the discovery fans actually want.
 - [Disney's Centennial And The Wish Nostalgia Thesis](disney_centennial_wish_nostalgia_thesis.md): same source; the overall thesis this defends.
 - [Danny Elfman as Jack Skellington in Nightmare Before Christmas](danny_elfman_as_jack_skellington_in_nightmare_before_christmas.md): also covers Disney Renaissance, from a different source document.
 - [Disney Bundle Trio Streaming Package](disney_bundle_trio_streaming_package.md): overlaps in content on disney, maybe, good, from a different source document.
+- [Streaming Subscription Gifts For Film And TV Fans](streaming_subscription_gifts_for_film_and_tv_fans.md): content overlap 0.11 on disney, movie, fans; different source document
+- [The Road To El Dorado (2000): The Animated Buddy Comedy](the_road_to_el_dorado_2000_animated_comedy.md): both discuss Disney Renaissance; different source document
+- [The Disney Direct-To-Video Sequel Era](disney_direct_to_video_sequel_era.md): same source document (doc_0434)
+- [Disney Must Take Creative Risks To Last](disney_must_take_creative_risks_to_last.md): same source document (doc_0434)
+- [Disney's Remake And Franchise Oversaturation](disney_remake_and_franchise_oversaturation.md): same source document (doc_0434)
 
 ## Source
 

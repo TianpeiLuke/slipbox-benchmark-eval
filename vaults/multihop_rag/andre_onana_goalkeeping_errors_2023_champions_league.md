@@ -13,11 +13,18 @@ Two weeks later, at the Bayern defeat, the finish was almost too easy for the sc
 
 ## Related Notes
 
+
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): also concerns Aston Villa, from a different document.
 - [Chelsea Women's Team Succession After Hayes](chelsea_womens_team_succession_after_hayes.md): also concerns Aston Villa, from a different document.
 - [Erik Ten Hag Position Under Ratcliffe](erik_ten_hag_position_under_ratcliffe.md): also concerns Ten Hag, from a different document.
 - [Erik Ten Hag Selection U-Turns on Varane and Maguire](erik_ten_hag_selection_u_turns_varane_maguire.md): also concerns Ten Hag, from a different document.
 - [Europa Conference League Round-Up: Villa and Klaksvik](europa_conference_league_round_up_villa_and_klaksvik.md): also concerns Aston Villa, from a different document.
+- [Erik Ten Hag's Position After The Champions League Exit](erik_ten_hag_position_after_champions_league_exit.md): same source document (doc_0546)
+- [Harry Kane, The Striker Manchester United Did Not Sign](harry_kane_the_striker_manchester_united_did_not_sign.md): same source document (doc_0546)
+- [Manchester United's 1-0 Defeat To Bayern Munich, December 2023](manchester_united_bayern_munich_defeat_december_2023.md): same source document (doc_0546)
+- [Manchester United's 2023-24 Champions League Group-Stage Record](manchester_united_champions_league_group_stage_record_2023.md): same source document (doc_0546)
+- [Manchester United's Defensive Imbalance: Ferdinand's Critique](manchester_united_defensive_imbalance_ferdinand_critique.md): same source document (doc_0012)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

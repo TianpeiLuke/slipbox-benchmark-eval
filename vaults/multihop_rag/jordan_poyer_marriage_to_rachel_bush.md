@@ -13,6 +13,7 @@ Rachel has no interest in taking ayahuasca herself, but she is grateful her husb
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 of the 2023 Season](afc_playoff_seeding_after_week_13_2023.md): also concerns the Cleveland Browns, from a different document.
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also concerns Jordan Poyer, from a different document.
 - [Bills Bengals SNF Third Quarter](bills_bengals_snf_third_quarter.md): also concerns Jordan Poyer, from a different document.
@@ -21,6 +22,8 @@ Rachel has no interest in taking ayahuasca herself, but she is grateful her husb
 - [Ayahuasca, the Psychedelic Brew](ayahuasca_psychedelic_brew.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Alcoholism and Sobriety](jordan_poyer_alcoholism_and_sobriety.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Ayahuasca Ceremony Experience](jordan_poyer_ayahuasca_ceremony_experience.md): drawn from the same document (doc_0322).
+- [Jordan Poyer's Contract Status And Post-Career Plans](jordan_poyer_contract_status_and_post_career_plans.md): same source document (doc_0322)
+- [Jordan Poyer's Ego And Perspective Shift](jordan_poyer_ego_and_perspective_shift.md): same source document (doc_0322)
 
 ## Source
 

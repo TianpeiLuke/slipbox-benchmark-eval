@@ -13,12 +13,17 @@ Urann saw what cranberries could be far beyond the land of the Pilgrims, and clo
 
 ## Related Notes
 
+
 - [Cranberry Industry Scale And Urann Legacy](cranberry_industry_scale_and_urann_legacy.md): same article, on how far beyond New England the industry reached
 - [American Cranberry Native Range And Harvest Window](american_cranberry_native_range_and_harvest_window.md): same article, on the regional growing conditions
 - [Cranberry Wet Harvesting Method](cranberry_wet_harvesting_method.md): same source document
 - [Thanksgiving Origins And Lincoln Proclamation](thanksgiving_origins_and_lincoln_proclamation.md): overlaps on Pilgrims and Massachusetts, different document
 - [Cranberry Domestication And Us Cultivation History](cranberry_domestication_and_us_cultivation_history.md): overlaps on bogs and cranberry cultivation, different document
 - [Gaza Conflict Information Environment Late 2023](gaza_conflict_information_environment_late_2023.md): also cites the Associated Press, unrelated subject
+- [Cranberry Air Pockets and Seed Dispersal](cranberry_air_pockets_and_seed_dispersal.md): content overlap 0.12 on bogs, cranberries, cranberry; different source document
+- [Cranberry Flower and Pollination Biology](cranberry_flower_and_pollination_biology.md): content overlap 0.12 on bogs, cranberries, cranberry; different source document
+- [Marcus Urann, The "Cranberry King"](marcus_urann_cranberry_king_biography.md): same source document (doc_0130)
+- [No Evidence Cranberries Were At The First Thanksgiving](no_evidence_cranberries_at_the_first_thanksgiving.md): same source document (doc_0130)
 
 ## Source
 

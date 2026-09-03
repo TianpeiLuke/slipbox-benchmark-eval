@@ -11,6 +11,7 @@ The grounds are an asymmetry in the available evidence: there is lots of data sh
 
 ## Related Notes
 
+
 - [Cybertruck Resale Restrictions Walked Back](cybertruck_resale_restrictions_walked_back.md): overlapping coverage of the Cybertruck and its vehicles, from a different source document.
 - [The Environmental Case Against Large Electric Pickups](environmental_case_against_large_electric_pickups.md): overlapping coverage of the Cybertruck, pedestrians and vehicles, from a different source document.
 - [NHTSA Investigation Of Cruise Pedestrian Incidents](nhtsa_investigation_of_cruise_pedestrian_incidents.md): also concerns the National Highway Traffic Safety Administration, from a different source document.
@@ -19,6 +20,8 @@ The grounds are an asymmetry in the available evidence: there is lots of data sh
 - [Crumple Zones And The Stainless Steel Concern](crumple_zones_and_the_stainless_steel_concern.md): drawn from the same source document (doc_0548).
 - [The Cybertruck May Have An Unseen Shock-Absorbing Mechanism](cybertruck_may_have_an_unseen_shock_absorbing_mechanism.md): drawn from the same source document (doc_0548).
 - [The Cybertruck Pedestrian Safety Backlash](cybertruck_pedestrian_safety_backlash.md): drawn from the same source document (doc_0548).
+- [The Cybertruck Is Unlikely To Be Sold In Europe](cybertruck_unlikely_to_be_sold_in_europe.md): same source document (doc_0548)
+- [Cybertruck Visibility, Mirrors And Steer-By-Wire Design Choices](cybertruck_visibility_mirrors_and_steer_by_wire_design_choices.md): same source document (doc_0548)
 
 ## Source
 

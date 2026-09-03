@@ -13,11 +13,22 @@ The boundary the founders draw is that the Keep is not merely a secure box. To t
 
 ## Related Notes
 
+
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares the hardware-device and smart-home-device themes, from a different source document.
 - [Black Friday Deals Under $25 Roundup](black_friday_deals_under_25_roundup.md): shares the hardware-device and smart-home-device themes, from a different source document.
 - [Echo Fourth-Gen Smart Speaker Prime Day Deal](echo_fourth_gen_smart_speaker_prime_day_deal.md): shares the hardware-device and smart-home-device themes, from a different source document.
 - [Echo Show 5 And Nest Hub Smart Display Deals](echo_show_5_and_nest_hub_smart_display_deals.md): shares the hardware-device and smart-home-device themes, from a different source document.
 - [Google Pixel 8 Launch](google_pixel_8_launch.md): shares the hardware-device and product-launch themes, from a different source document.
+- [Keep Labs' Repositioning From Cannabis To Medicine](keep_labs_cannabis_repositioning.md): same source document (doc_0230)
+- [Keep Labs' Enterprise Turn And The Pharmacist Co-Lead](keep_labs_enterprise_partnerships.md): same source document (doc_0230)
+- [Keep Labs' Funding And Second-Gen Roadmap](keep_labs_funding_and_roadmap.md): same source document (doc_0230)
+- [Keep Labs' COVID Pivot And Leadership Change](keep_labs_pivot_and_leadership.md): same source document (doc_0230)
+- [How Keep Labs Says It Safeguards Patient Data](keep_labs_security_posture.md): same source document (doc_0230)
+- [Harm Reduction](term_harm_reduction.md): uses the concept harm reduction
+- [Medication Adherence](term_medication_adherence.md): uses the concept medication adherence
+- [Product Launch](term_product_launch.md): uses the concept product launch
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

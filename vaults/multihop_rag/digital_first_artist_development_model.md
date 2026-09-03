@@ -11,6 +11,7 @@ The model's components and their relations are stated together: the key to succe
 
 ## Related Notes
 
+
 - [TikTok Glocalization Of International Music](tiktok_glocalization_of_international_music.md): concerns artists, music and discovery through the same platform dynamics, from a different source document.
 - [TikTok Music Discovery And Sharing Rates](tiktok_music_discovery_and_sharing_rates.md): concerns how audiences discover artists on social platforms, from a different source document.
 - [Artists Seeking Control Transparency And Masters Ownership](artists_seeking_control_transparency_and_masters_ownership.md): drawn from the same interview and covers the deal structures this model is offered through.
@@ -19,6 +20,7 @@ The model's components and their relations are stated together: the key to succe
 - [Believe Marketing Playbook For Si No Estas](believe_marketing_playbook_for_si_no_estas.md): drawn from the same interview and is the worked instance of this model.
 - [Global Hits Without Major Label Deals](global_hits_without_major_label_deals.md): drawn from the same interview and generalises the model's outcome across markets.
 - [Inigo Quintero Si No Estas Breakthrough](inigo_quintero_si_no_estas_breakthrough.md): drawn from the same interview and is the case the model is drawn from.
+- [Why Spanish-Language Music Keeps Growing Globally](spanish_language_music_global_growth.md): same source document (doc_0211)
 
 ## Source
 

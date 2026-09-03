@@ -11,6 +11,7 @@ Those two rules are what distinguish FanDuel's format from other operators' for 
 
 ## Related Notes
 
+
 - [DraftKings NFL DFS Contest Format and Scoring](draftkings_nfl_dfs_contest_format_and_scoring.md): the equivalent rules for the rival operator, from a different document.
 - [DraftKings Showdown and FanDuel Single Game Scoring Rules](draftkings_showdown_and_fanduel_single_game_scoring_rules.md): the single-game versions of these scoring rules, from a different document.
 - [FanDuel Moneyline Bonus Bet Offer December 2023](fanduel_moneyline_bonus_bet_offer_december_2023.md): another FanDuel product covered in the same period, from a different document.
@@ -19,6 +20,8 @@ Those two rules are what distinguish FanDuel's format from other operators' for 
 - [FanDuel Week 14 DFS QB and RB Picks](fanduel_week_14_dfs_qb_and_rb_picks.md): picks made under these rules (doc_0276).
 - [FanDuel Week 14 DFS WR, TE, Flex and Defense Picks](fanduel_week_14_dfs_wr_te_flex_and_defense_picks.md): picks made under these rules (doc_0276).
 - [FanDuel Week 15 DFS QB and RB Picks](fanduel_week_15_dfs_qb_and_rb_picks.md): picks made under these rules (doc_0056).
+- [FanDuel Week 15 DFS Receiver, Tight End, Flex And Defense Picks](fanduel_week_15_dfs_wr_te_flex_and_defense_picks.md): same source document (doc_0056)
+- [SuperDraft's Multiplier-Based DFS Scoring Format](superdraft_dfs_multiplier_scoring_format.md): same source document (doc_0056)
 
 ## Source
 

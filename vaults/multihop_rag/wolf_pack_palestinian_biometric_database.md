@@ -13,6 +13,7 @@ As Matthew Mahmoudi, an Amnesty International researcher on AI and human rights,
 
 ## Related Notes
 
+
 - [ChatGPT Political Disinformation Guardrail Failure](chatgpt_political_disinformation_guardrail_failure.md): also cites the Washington Post, from a different source document.
 - [Civil Society Criticism Of The EU AI Act's Biometrics Limits](civil_society_criticism_of_eu_ai_act_biometrics_limits.md): overlaps on facial recognition and rights, from a different source document.
 - [Gaza Economic Isolation And Poverty Indicators](gaza_economic_isolation_and_poverty_indicators.md): also concerns the West Bank, from a different source document.
@@ -21,6 +22,8 @@ As Matthew Mahmoudi, an Amnesty International researcher on AI and human rights,
 - [Amnesty's Automated Apartheid Report On West Bank Surveillance](amnesty_automated_apartheid_report_on_west_bank_surveillance.md): drawn from the same source document (doc_0336).
 - [Amnesty's Verification Of CCTV-Identified Detentions](amnesty_verification_of_cctv_identified_detentions.md): drawn from the same source document (doc_0336).
 - [Hikvision Ethnicity Detection And Protest Alarm Features](hikvision_ethnicity_detection_and_protest_alarm_features.md): drawn from the same source document (doc_0336).
+- [Hikvision's Human Rights Compliance Denial](hikvision_human_rights_compliance_denial.md): same source document (doc_0336)
+- [Hikvision Video Surveillance Company Profile](hikvision_video_surveillance_company_profile.md): same source document (doc_0336)
 
 ## Source
 

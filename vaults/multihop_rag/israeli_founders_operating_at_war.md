@@ -17,11 +17,16 @@ Investors quoted took the long view. OurCrowd founder and CEO Jon Medved believe
 
 ## Related Notes
 
+
 - [Call for Consistent Macroeconomic Policy](call_for_consistent_macroeconomic_policy.md): overlapping language about startups keeping operations and businesses going, from a different source document.
 - [Fintech Startup Rankings 2023](fintech_startup_rankings_2023.md): overlapping coverage of startups and fintech, from a different source document.
 - [African Telco Distribution Model](african_telco_distribution_model.md): another global tech ecosystem in the same batch, from a different source document.
 - [StarNews Content and Growth](starnews_content_and_growth.md): another global tech ecosystem in the same batch, from a different source document.
 - [StarNews Funding Round](starnews_funding_round.md): another venture round in the same batch, from a different source document.
+- [Israel's Startup Funding Decline Before The War](israel_startup_funding_decline.md): same source document (doc_0448)
+- [The Scale Of Israel's Technology Sector In 2022](israel_tech_sector_scale.md): same source document (doc_0448)
+- [Reserve Mobilisation Inside Israeli Tech Companies](israel_tech_workforce_mobilisation.md): same source document (doc_0448)
+- [Reserve Mobilisation](term_reserve_mobilisation.md): uses the concept reserve mobilisation
 
 ## Source
 

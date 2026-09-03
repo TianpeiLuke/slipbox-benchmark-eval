@@ -13,11 +13,18 @@ The valuation was the same as the last time Scalable Capital raised money: $180 
 
 ## Related Notes
 
+
 - [AMO Founding Team And Funding Round](amo_founding_team_and_funding_round.md): overlapping coverage of a startup funding round and valuation, from a different source document.
 - [Faction Driverless Funding Round](faction_driverless_funding_round.md): overlapping coverage of a venture round, from a different source document.
 - [FTX](ftx.md): overlapping coverage of capital raised across rounds, from a different source document.
 - [Leverage Amplifies EV Change On Equity Value](leverage_amplifies_ev_change_on_equity_value.md): overlapping treatment of equity and company valuation, from a different source document.
 - [Ola Electric Funding Round 2023](ola_electric_funding_round_2023.md): overlapping coverage of a startup's funding round, from a different source document.
+- [Balderton's Investment Thesis On Scalable Capital](balderton_investment_thesis_on_scalable_capital.md): same source document (doc_0398)
+- [The European Neobroker Competitive Landscape](european_neobroker_competitive_landscape.md): same source document (doc_0398)
+- [European Startup Funding And Market Headwinds](european_startup_funding_and_market_headwinds.md): same source document (doc_0398)
+- [Investing Countercyclically In A Cooled Market](investing_countercyclically_in_a_cooled_market.md): same source document (doc_0398)
+- [Scalable Capital's Decision Not To Seek A Banking License](scalable_capital_banking_license_decision.md): same source document (doc_0398)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

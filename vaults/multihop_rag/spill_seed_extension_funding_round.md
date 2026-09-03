@@ -11,6 +11,7 @@ The reason for raising the extension was operational strain caused by sudden gro
 
 ## Related Notes
 
+
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): shares the game patch notes theme, from a different source document.
 - [Apple Airpods Pro Second Generation](apple_airpods_pro_second_generation.md): shares the game patch notes theme, from a different source document.
 - [Apple Watch Double Tap Gesture](apple_watch_double_tap_gesture.md): shares the game patch notes theme, from a different source document.
@@ -19,6 +20,13 @@ The reason for raising the extension was operational strain caused by sudden gro
 - [Atlassian Critical Security Flaw Warning](atlassian_critical_security_flaw_warning.md): shares the game patch notes theme, from a different source document.
 - [Balderton Investment Thesis on Scalable Capital](balderton_investment_thesis_on_scalable_capital.md): shares the game patch notes theme, from a different source document.
 - [Beeper Mini Service Restoration and Apple ID Workaround](beeper_mini_service_restoration_and_apple_id_workaround.md): shares the game patch notes theme, from a different source document.
+- [The Post-Twitter Social App Landscape](post_twitter_social_app_landscape.md): same source document (doc_0488)
+- [Spill's Community-Quality-Over-Growth Argument](spill_community_quality_over_growth_argument.md): same source document (doc_0488)
+- [Spill's Public Launch And Creator Payment Plans](spill_public_launch_and_creator_payment_plans.md): same source document (doc_0488)
+- [Spill Social App Overview](spill_social_app_overview.md): same source document (doc_0488)
+- [Spill's Tea Party Feature And Celebrity Users](spill_tea_party_feature_and_celebrity_users.md): same source document (doc_0488)
+- [Spill's User Reception And In-Person Community](spill_user_reception_and_in_person_community.md): same source document (doc_0488)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

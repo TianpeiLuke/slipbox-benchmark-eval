@@ -13,6 +13,7 @@ The results were: Sept. 20, Sevilla 1-1 Lens; Sept. 20, Arsenal 4-0 PSV; Oct. 3,
 
 ## Related Notes
 
+
 - [Arsenal 2-1 Win at Sevilla, Group B](arsenal_2_1_win_at_sevilla_group_b.md): covers one of this group's fixtures, from a different document.
 - [Gabriel Jesus Goal and Assist Against Sevilla](gabriel_jesus_goal_and_assist_against_sevilla.md): overlaps on Arsenal against Sevilla, from a different document.
 - [Guardiola Reaction to Chelsea City Draw](guardiola_reaction_to_chelsea_city_draw.md): overlaps on Arsenal's results, from a different document.
@@ -21,6 +22,8 @@ The results were: Sept. 20, Sevilla 1-1 Lens; Sept. 20, Arsenal 4-0 PSV; Oct. 3,
 - [Champions League 2023-24 Group A: Bayern and Copenhagen](champions_league_2023_24_group_a_bayern_copenhagen.md): a sibling group review, from the same document.
 - [Champions League 2023-24 Group C: Real Madrid and Napoli](champions_league_2023_24_group_c_real_madrid_napoli.md): a sibling group review, from the same document.
 - [Champions League 2023-24 Group D: Real Sociedad and Inter](champions_league_2023_24_group_d_real_sociedad_inter.md): a sibling group review, from the same document.
+- [Champions League 2023/24 Group E: Atletico Madrid And Lazio Qualify](champions_league_2023_24_group_e_atletico_lazio.md): same source document (doc_0187)
+- [Champions League 2023/24 Group F: Borussia Dortmund And PSG Qualify](champions_league_2023_24_group_f_dortmund_psg.md): same source document (doc_0187)
 
 ## Source
 

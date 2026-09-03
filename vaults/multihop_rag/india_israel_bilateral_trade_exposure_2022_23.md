@@ -11,6 +11,7 @@ Two disruption conditions are attached to the observation. Trade can be adversel
 
 ## Related Notes
 
+
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): shares the same percentage-move reporting style for market exposure, from a different source document.
 - [ASX October 2023 Laggards](asx_october_2023_laggards.md): another October 2023 percentage-based market readout, from a different source document.
 - [ASX Sector Movers October 4 2023](asx_sector_movers_october_4_2023.md): reports share-level percentage moves over the same period, from a different source document.
@@ -19,6 +20,7 @@ Two disruption conditions are attached to the observation. Trade can be adversel
 - [Israel Hamas Conflict Limited Market Impact Base Case](israel_hamas_conflict_limited_market_impact_base_case.md): drawn from the same article and sets the non-escalation base case against which this trade exposure is measured.
 - [Israel Hamas War Full Escalation Scenario](israel_hamas_war_full_escalation_scenario.md): drawn from the same article and describes the escalation that would activate the port-disruption condition.
 - [Middle East Crude And Shipping Chokepoint Disruption](middle_east_crude_and_shipping_chokepoint_disruption.md): drawn from the same article and covers the wider trade-route disruption channel.
+- [How War Escalation Transmits To Indian Equities](war_escalation_transmission_to_indian_equities.md): same source document (doc_0111)
 
 ## Source
 

@@ -15,11 +15,18 @@ To explain the Supreme Court's decision to wade into these issues — and what h
 
 ## Related Notes
 
+
 - [Catherine Tan On Public Disclosure And Law Enforcement Gaps](catherine_tan_public_disclosure_and_law_enforcement_gaps.md): shares the human-rights institutional framing, from a different source document.
 - [The CFPB Funding Structure Supreme Court Challenge](cfpb_funding_structure_supreme_court_challenge.md): another case before the same Supreme Court, from a different source document.
 - [ChatGPT's Political Disinformation Guardrail Failure](chatgpt_political_disinformation_guardrail_failure.md): shares the political disinformation theme, from a different source document.
 - [Contested Evidence On Social Media Harm](contested_evidence_on_social_media_harm.md): another dispute about what research does and does not show about platforms, from a different source document.
 - [The Digital Services Act](digital_services_act.md): another legal regime governing platform content moderation, from a different source document.
+- [Whose First Amendment Rights Are At Stake: Editorial Judgment](first_amendment_editorial_judgment.md): same source document (doc_0256)
+- [What A Ruling For Texas And Florida Would Do To Platforms](scotus_ruling_consequences.md): same source document (doc_0256)
+- [How The Texas And Florida Laws Reached The Supreme Court](texas_florida_moderation_laws.md): same source document (doc_0256)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Content Moderation](term_content_moderation.md): uses the concept content moderation
+- [Disinformation](term_disinformation.md): uses the concept disinformation
 
 ## Source
 

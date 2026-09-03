@@ -13,11 +13,20 @@ The reason prices differ is that lines move. Movement depends on multiple factor
 
 ## Related Notes
 
+
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): shares the NBA and betting-odds themes.
 - [Crosby Malkin Letang Eighteenth Season Together](crosby_malkin_letang_eighteenth_season_together.md): shares the MLB and NBA subject tags.
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): explains how the shopped lines settle.
 - [FanDuel Vermont Sportsbook Welcome Offer](fanduel_vermont_sportsbook_welcome_offer.md): shares the NBA and betting-odds themes.
 - [How Sportsbooks Set and Move Betting Lines](how_sportsbooks_set_and_move_betting_lines.md): the line-setting mechanics behind the price differences exploited here.
+- [Bet365 In The US: Daily MLB Odds Boosts And Live Betting](bet365_sportsbook_us_mlb_markets.md): same source document (doc_0264)
+- [BetMGM Sportsbook: Deep MLB Markets And The Only NBA Live-Streaming App](betmgm_sportsbook_betting_markets.md): same source document (doc_0264)
+- [BetRivers Sportsbook: Alternate Lines, An Integrated Casino, And iRush Rewards](betrivers_sportsbook_betting_markets.md): same source document (doc_0264)
+- [Caesars Sportsbook: MLB Odds, Futures And Early Cash-Out](caesars_sportsbook_mlb_markets.md): same source document (doc_0264)
+- [DraftKings Sportsbook: MLB And NBA Markets And Promotions](draftkings_sportsbook_betting_markets.md): same source document (doc_0264)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

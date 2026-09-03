@@ -11,6 +11,7 @@ Matsui was one of NPB's best arms out of the bullpen, starring for the Tohoku Ra
 
 ## Related Notes
 
+
 - [Affiliate Marketing Alligator Party](affiliate_marketing_alligator_party.md): also references the Sunshine State, from a different document.
 - [December 2023 Bowl Game Schedule and Matchups](december_2023_bowl_game_schedule_and_matchups.md): also concerns San Diego, from a different document.
 - [Eduardo Rodriguez Signs With Diamondbacks](eduardo_rodriguez_signs_with_diamondbacks.md): another pitcher free-agent contract with innings and deal terms, from a different document.
@@ -19,6 +20,8 @@ Matsui was one of NPB's best arms out of the bullpen, starring for the Tohoku Ra
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): another entry from the same free agency tracker, from the same document.
 - [Braves Release Matt Carpenter](braves_release_matt_carpenter.md): another entry from the same free agency tracker, from the same document.
 - [Cody Bellinger Free Agent Market and Suitors](cody_bellinger_free_agent_market_and_suitors.md): another entry from the same free agency tracker, from the same document.
+- [Jack Flaherty's One-Year Deal With The Tigers](jack_flaherty_tigers_one_year_deal.md): same source document (doc_0422)
+- [Kansas City Royals' December 2023 Signings](kansas_city_royals_2023_offseason_signings.md): same source document (doc_0422)
 
 ## Source
 

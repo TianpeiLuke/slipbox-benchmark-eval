@@ -15,6 +15,7 @@ The complication Holland's framing has to absorb is that the interests within a 
 
 ## Related Notes
 
+
 - [In-Car Camera Proposal](in_car_camera_proposal.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [Surveillance Privacy Tradeoff](surveillance_privacy_tradeoff.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [Twitch Advertising Strategy](twitch_advertising_strategy.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
@@ -22,6 +23,8 @@ The complication Holland's framing has to absorb is that the interests within a 
 - [Twitch Partner Plus Program](twitch_partner_plus_program.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [AI Copyright And Training Disputes](ai_copyright_and_training_disputes.md): drawn from the same source document; the label-level version of the same dispute.
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): drawn from the same source document; the campaign this argument was built to justify.
+- [FTC Generative AI Roundtable](ftc_generative_ai_roundtable.md): same source document (doc_0272)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

@@ -11,11 +11,16 @@ The veteran hurler turned back the clock with ruthless efficiency in a campaign 
 
 ## Related Notes
 
+
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): also covers Tampa Bay, from a different document.
 - [FanDuel Week 14 DFS WR, TE, Flex and Defense Picks](fanduel_week_14_dfs_wr_te_flex_and_defense_picks.md): also covers Baker Mayfield, from a different document.
 - [Fantasy RB Week 14 Busts, PPR](fantasy_rb_week_14_busts_ppr.md): also covers Tampa Bay, from a different document.
 - [Fantasy Week 13 Panthers at Buccaneers Outlook](fantasy_week_13_panthers_at_buccaneers_outlook.md): also covers Baker Mayfield, from a different document.
 - [MLB 2023-24 Offseason Trade Market Landscape](mlb_2023_24_offseason_trade_market_landscape.md): also covers a Tampa Bay franchise, from a different document.
+- [Mayfield's Perfect Passer Rating And Road Record](baker_mayfield_perfect_passer_rating_road_record.md): same source document (doc_0447)
+- [Baker Mayfield's Week 15 Stat Line At Lambeau Field](baker_mayfield_week_15_stat_line_at_lambeau.md): same source document (doc_0447)
+- [Mayfield Against Zone Coverage And At All Four Levels](baker_mayfield_zone_coverage_and_four_level_passing.md): same source document (doc_0447)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

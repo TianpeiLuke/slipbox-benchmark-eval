@@ -11,11 +11,20 @@ The Rams had been destroyed by MVP candidate Lamar Jackson and the high-flying R
 
 ## Related Notes
 
+
 - [Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): also covers Lamar Jackson, from a different document.
 - [Bears-Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): also covers the Chicago Bears, from a different document.
 - [Bears-Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): also covers the Chicago Bears, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also covers Lamar Jackson, from a different document.
 - [Brock Purdy and Lamar Jackson, 2023 MVP Race](brock_purdy_lamar_jackson_2023_mvp_race.md): also covers Lamar Jackson as an MVP candidate, from a different document.
+- [The DFS Sleeper And Value Lineup Construction Method](dfs_sleeper_and_value_lineup_construction_method.md): same source document (doc_0544)
+- [NFL DFS Week 15 Quarterback Values](nfl_dfs_week_15_quarterback_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Running Back Values](nfl_dfs_week_15_running_back_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Tight End Values](nfl_dfs_week_15_tight_end_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Wide Receiver Values](nfl_dfs_week_15_wide_receiver_values.md): same source document (doc_0544)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

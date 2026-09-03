@@ -11,6 +11,7 @@ Eater's Wine Club is listed at $70: a subscription that automatically sends eith
 
 ## Related Notes
 
+
 - [Console Gift Card Black Friday Deals](console_gift_card_black_friday_deals.md): overlapping coverage of gift cards sold at retailers like Target, from a different source document.
 - [Console Subscription And Store Gift Cards For Gamers](console_subscription_and_store_gift_cards_for_gamers.md): drawn from the same source document (doc_0291).
 - [Ebook, Comic And Book Club Subscription Gifts](ebook_comic_and_book_club_subscription_gifts.md): drawn from the same source document (doc_0291).
@@ -19,6 +20,8 @@ Eater's Wine Club is listed at $70: a subscription that automatically sends eith
 - [The Last-Minute Digital Gifts And Subscriptions Guide](last_minute_digital_gifts_and_subscriptions_guide.md): drawn from the same source document (doc_0291).
 - [Music Streaming And Vinyl Subscription Gifts](music_streaming_and_vinyl_subscription_gifts.md): drawn from the same source document (doc_0291).
 - [Online Class And Creative Software Subscription Gifts](online_class_and_creative_software_subscription_gifts.md): drawn from the same source document (doc_0291).
+- [Streaming Subscription Gifts For Film And TV Fans](streaming_subscription_gifts_for_film_and_tv_fans.md): same source document (doc_0291)
+- [Travel And Language Learning Gift Cards](travel_and_language_learning_gift_cards.md): same source document (doc_0291)
 
 ## Source
 

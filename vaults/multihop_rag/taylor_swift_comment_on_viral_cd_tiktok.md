@@ -13,6 +13,7 @@ It was the comment from the A-list singer that really got the girls' attention. 
 
 ## Related Notes
 
+
 - [Cd Unfamiliarity As Generational Marker](cd_unfamiliarity_as_generational_marker.md): same report, on the wider viewer reaction
 - [Swifties Second Video Operating A Cd Player](swifties_second_video_operating_a_cd_player.md): same report, on the girls' follow-up video
 - [Compact Disc History From Philips To Itunes](compact_disc_history_from_philips_to_itunes.md): same report, on the "antiquated piece of technology" in question
@@ -20,6 +21,8 @@ It was the comment from the A-list singer that really got the girls' attention. 
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): another Taylor Swift media story, different document
 - [Bad Blood Taylor Swift Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): another Taylor Swift story, different document
 - [American Pie Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): another Taylor Swift story, different document
+- [Biggest Concert Films: The Box Office Records](biggest_concert_films_box_office_records.md): both discuss Taylor Swift; different source document
+- [Young Swifties Struggle To Open The 1989 (Taylor's Version) CD](swifties_struggle_to_open_1989_taylors_version_cd.md): same source document (doc_0128)
 
 ## Source
 

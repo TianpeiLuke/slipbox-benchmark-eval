@@ -11,6 +11,7 @@ The boy was emaciated and had duct tape around his ankles and wrists but would n
 
 ## Related Notes
 
+
 - [Bankman Fried Post Bankruptcy Media Tour](bankman_fried_post_bankruptcy_media_tour.md): overlaps on bail subject matter, from a different source document.
 - [Britney Spears Jason Alexander 55 Hour Marriage](britney_spears_jason_alexander_55_hour_marriage.md): overlaps on bail subject matter, from a different source document.
 - [Campus Stalking of Students and Faculty Research](campus_stalking_of_students_and_faculty_research.md): overlaps on bail subject matter, from a different source document.
@@ -19,6 +20,11 @@ The boy was emaciated and had duct tape around his ankles and wrists but would n
 - [Documenting Cyberstalking as Unpaid Labor](documenting_cyberstalking_as_unpaid_labor.md): overlaps on bail subject matter, from a different source document.
 - [Eight Passengers YouTube Parenting Channel](eight_passengers_youtube_parenting_channel.md): the family's earlier public presentation of its parenting (doc_0269).
 - [Epstein Sex Offender Waiver Request and Denial](epstein_sex_offender_waiver_request_and_denial.md): overlaps on custody and bail questions in a criminal case, from a different source document.
+- [The Franke Defense That Hildebrandt's Influence Drove The Abuse](franke_defense_blaming_hildebrandt_influence.md): same source document (doc_0269)
+- [What Franke Admitted In The Plea Agreement](franke_plea_agreement_abuse_details.md): same source document (doc_0269)
+- [Jodi Hildebrandt's Role And Pending Case](jodi_hildebrandt_role_and_pending_case.md): same source document (doc_0269)
+- [Ruby Franke's Guilty Plea To Child Abuse](ruby_franke_guilty_plea_child_abuse.md): same source document (doc_0269)
+- [Bail](term_bail.md): uses the concept bail
 
 ## Source
 

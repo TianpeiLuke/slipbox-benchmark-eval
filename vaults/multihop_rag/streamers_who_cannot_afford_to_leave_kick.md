@@ -13,6 +13,7 @@ The warrant joining those grounds to the conclusion is economic dependence: unli
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares the creator economy theme, from a different source document.
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): shares the creator economy theme, from a different source document.
 - [AI Assisted Works Copyright Eligibility](ai_assisted_works_copyright_eligibility.md): shares the creator economy theme, from a different source document.
@@ -21,6 +22,16 @@ The warrant joining those grounds to the conclusion is economic dependence: unli
 - [Amo Scale Ambition and Product Roadmap](amo_scale_ambition_and_product_roadmap.md): shares the creator economy theme, from a different source document.
 - [AOC Twitch Among US Stream](aoc_twitch_among_us_stream.md): shares the creator economy theme, from a different source document.
 - [Azarus CEO on Curated versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): shares the creator economy theme, from a different source document.
+- [The Ice Poseidon Sex Worker "Prank" Stream Incident](ice_poseidon_sex_worker_prank_stream_incident.md): same source document (doc_0405)
+- [Kick's Corporate Response To The Incident](kick_corporate_response_to_the_incident.md): same source document (doc_0405)
+- [Kick's Platform Model And Controversy History](kick_platform_model_and_controversy_history.md): same source document (doc_0405)
+- [Kick Streamer Exodus Over The Sex Worker Stream](kick_streamer_exodus_over_sex_worker_stream.md): same source document (doc_0405)
+- [MrsViolence's Income Comparison Between Twitch And Kick](mrsviolence_income_comparison_twitch_versus_kick.md): same source document (doc_0405)
+- [Paul Denino's Defense Of The Kick Stream](paul_denino_defense_of_the_kick_stream.md): same source document (doc_0405)
+- [A Streamer's Case For Government Regulation Of Platforms](streamer_case_for_government_regulation_of_platforms.md): same source document (doc_0405)
+- [Streamers Who Left Kick After The Incident](streamers_who_left_kick_after_the_incident.md): same source document (doc_0405)
+- [Twitch's Revenue Split And Partner Plus Program](twitch_revenue_split_and_partner_plus_program.md): same source document (doc_0405)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

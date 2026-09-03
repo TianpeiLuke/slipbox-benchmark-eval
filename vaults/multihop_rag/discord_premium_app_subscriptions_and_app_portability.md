@@ -13,6 +13,7 @@ Discord promised to share more about its efforts around app portability in the n
 
 ## Related Notes
 
+
 - [Ofcom's Recommended Practices And Enforcement For Illegal Harms](ofcom_illegal_harms_codes_of_practice.md): the UK regulatory backdrop for platforms operating in this market, from a different source document.
 - [The Accredited Technology Clause And The Encryption Objection](online_safety_act_accredited_technology_and_encryption.md): concerns the same platform-regulation landscape, from a different source document.
 - [Technology Neutrality: How The Online Safety Act Covers AI Content](online_safety_act_technology_neutral_treatment_of_ai.md): concerns the same platform-regulation landscape, from a different source document.
@@ -21,6 +22,7 @@ Discord promised to share more about its efforts around app portability in the n
 - [Scrutiny Of Discord's CSAM Response After The NBC News Report](discord_csam_scrutiny_after_nbc_news_report.md): drawn from the same source document (doc_0505).
 - [Discord's Graduated Warning System And Account Standing](discord_graduated_warning_system_and_account_standing.md): drawn from the same source document (doc_0505).
 - [Discord's Shop, Remix And Client Improvements](discord_shop_remix_and_client_improvements.md): drawn from the same source document (doc_0505).
+- [Discord Teen Safety Assist](discord_teen_safety_assist.md): same source document (doc_0505)
 
 ## Source
 

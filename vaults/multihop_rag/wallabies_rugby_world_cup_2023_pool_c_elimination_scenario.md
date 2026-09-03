@@ -13,11 +13,16 @@ Wallabies centre Samu Kerevi, who was born in Fiji, spoke after an open training
 
 ## Related Notes
 
+
 - [The Case for Schmidt Bringing Rugby Smarts to the Wallabies](case_for_schmidt_bringing_rugby_smarts_to_the_wallabies.md): overlaps on the Wallabies and Australian rugby, from a different document.
 - [Eddie Jones' Case for Reforming the Australian Rugby System](eddie_jones_case_for_reforming_australian_rugby_system.md): overlaps on the Wallabies and the World Cup, from a different document.
 - [England South Africa 2023 Semifinal Routes](england_south_africa_2023_semifinal_routes.md): also concerns the Rugby World Cup, from a different document.
 - [England South Africa Rugby World Cup Rivalry and the 2019 Final](england_south_africa_rugby_world_cup_rivalry_and_2019_final.md): also concerns the Rugby World Cup, from a different document.
 - [England vs South Africa: 2023 Rugby World Cup Semi-Final](england_south_africa_rugby_world_cup_semi_final_2023.md): also concerns the Rugby World Cup, from a different document.
+- [Samu Kerevi's Defence Of Eddie Jones](samu_kerevi_defence_of_eddie_jones.md): same source document (doc_0168)
+- [Samu Kerevi's Message On The State Of Australian Rugby](samu_kerevi_message_on_state_of_australian_rugby.md): same source document (doc_0168)
+- [Samu Kerevi's 2023 Rugby World Cup Disappointment](samu_kerevi_rugby_world_cup_2023_disappointment.md): same source document (doc_0168)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

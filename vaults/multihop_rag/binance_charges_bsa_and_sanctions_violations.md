@@ -13,9 +13,17 @@ The scale of the benefit at issue: the crypto exchange collected about $1.35 bil
 
 ## Related Notes
 
+
 - [Amex Cash Magnet Travel Limitations](amex_cash_magnet_travel_limitations.md): overlaps on foreign transaction charges and fees, from a different document.
 - [Bankman-Fried And Zhao Convictions And Binance Aftermath](bankman_fried_and_zhao_convictions_and_binance_aftermath.md): covers Zhao and Binance's exposure, from a different document.
 - [Coinbase Stock Rally, November 2023](coinbase_stock_rally_november_2023.md): also discusses the Bank Secrecy Act in the crypto context, from a different document.
+- [Binance And Zhao's Plea Agreement Terms](binance_and_zhao_plea_agreement_terms.md): same source document (doc_0374)
+- [Binance's CEO Succession: Richard Teng](binance_ceo_succession_richard_teng.md): same source document (doc_0374)
+- [Binance's $4.3B DOJ Resolution And CZ's Guilty Plea](binance_doj_resolution_and_cz_guilty_plea.md): same source document (doc_0374)
+- [Binance's Market Position And Its 2023 Setbacks](binance_market_position_and_2023_setbacks.md): same source document (doc_0374)
+- [Kraken's SEC Charges And Staking Settlement](kraken_sec_charges_and_staking_settlement.md): same source document (doc_0374)
+- [Prior SEC And CFTC Actions Against Binance](prior_sec_and_cftc_actions_against_binance.md): same source document (doc_0374)
+- [Fraud](term_fraud.md): uses the concept fraud
 
 ## Source
 

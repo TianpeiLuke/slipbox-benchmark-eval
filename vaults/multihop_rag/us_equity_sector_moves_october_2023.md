@@ -11,6 +11,7 @@ A measure of US-listed Chinese shares added 3 per cent amid reports that the Asi
 
 ## Related Notes
 
+
 - [Asx Laggards October 12 2023](asx_laggards_october_12_2023.md): shares vocabulary around cent, consumer and laggards, from a different source document.
 - [Asx Outlook and Rba Rate Expectations September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): shares vocabulary around cent, consumer and composite, from a different source document.
 - [Asx September 2023 Session Decliners](asx_september_2023_session_decliners.md): shares vocabulary around cent, consumer and staples, from a different source document.
@@ -19,6 +20,8 @@ A measure of US-listed Chinese shares added 3 per cent amid reports that the Asi
 - [Asx October 2023 Laggards](asx_october_2023_laggards.md): another note drawn from the same source document (doc_0298).
 - [ASX Rally Drivers: Bond Market and China Stimulus](asx_rally_drivers_bond_market_and_china_stimulus.md): the China stimulus rumour that lifted resource names locally (doc_0298).
 - [Fed Dovish Comments and Yield Retreat October 2023](fed_dovish_comments_and_yield_retreat_october_2023.md): the rate commentary driving these sector moves (doc_0298).
+- [Melbourne CBD Confidence And The New Fair Work Ombudsman On Wage Underpayment](melbourne_cbd_confidence_and_wage_underpayment.md): same source document (doc_0298)
+- [The Middle East Conflict As A Market Risk In October 2023](middle_east_conflict_as_market_risk_october_2023.md): same source document (doc_0298)
 
 ## Source
 

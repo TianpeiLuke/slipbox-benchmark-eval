@@ -11,6 +11,7 @@ Lucas also attacks the second premise — that a promise never to divorce is a s
 
 ## Related Notes
 
+
 - [AI Startup Defensibility](ai_startup_defensibility.md): surfaced by the corpus similarity index on a shared indexed feature, from an unrelated article
 - [Alameda Negative Balance Escalation](alameda_negative_balance_escalation.md): another shared-feature match from the similarity index, on unrelated subject matter
 - [Alexa Limitations As An On The Go Assistant On Echo Frames](alexa_limitations_as_an_on_the_go_assistant_on_echo_frames.md): a similarity-index neighbour from a different domain
@@ -19,6 +20,17 @@ Lucas also attacks the second premise — that a promise never to divorce is a s
 - [Beats Fit Pro Black Friday Deal](beats_fit_pro_black_friday_deal.md): another similarity-index neighbour from a different source document
 - [Beyerdynamic DT 900 Pro X Deal](beyerdynamic_dt_900_pro_x_deal.md): a shared-feature match drawn from unrelated product coverage
 - [BG3 Custom Character Vs Origin Character](bg3_custom_character_vs_origin_character.md): another index-level neighbour with no topical overlap
+- [Expert Disagreement Over What The Oscars Slap Meant Given The Separation](expert_debate_over_the_oscars_slap_given_the_separation.md): same source document (doc_0036)
+- [Expert Signs That It Is Time To End A Marriage](expert_signs_it_is_time_to_end_a_marriage.md): same source document (doc_0036)
+- [Jada Pinkett Smith's 2023 Disclosure Of A Seven-Year Separation](jada_pinkett_smith_2023_separation_disclosure.md): same source document (doc_0036)
+- [Jada Pinkett Smith's "Entanglement" With August Alsina](jada_pinkett_smith_august_alsina_entanglement.md): same source document (doc_0036)
+- [Separation As An Alternative To Divorce: The "LAT" Partnership](separation_as_an_alternative_to_divorce_lat_partnership.md): same source document (doc_0036)
+- [The Terms Of A Separation Agreement Determine Its Outcome](terms_of_a_separation_agreement_determine_its_outcome.md): same source document (doc_0036)
+- [Will And Jada As A New, Unconventional Marriage Model](will_and_jada_as_an_unconventional_marriage_model.md): same source document (doc_0036)
+- [Why Will Smith And Jada Pinkett Smith Never Signed A Prenup](will_and_jada_no_prenuptial_agreement.md): same source document (doc_0036)
+- [The Smiths' Promise That Divorce Would Never Be Necessary](will_and_jada_promise_never_to_divorce.md): same source document (doc_0036)
+- [Will Smith's Slap Of Chris Rock At The 2022 Oscars](will_smith_chris_rock_2022_oscars_slap.md): same source document (doc_0036)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

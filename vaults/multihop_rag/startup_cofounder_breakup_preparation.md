@@ -13,6 +13,7 @@ The framing TechCrunch gives it: hope for the best, prepare for the worst.
 
 ## Related Notes
 
+
 - [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): overlaps on co-founder perspectives and preparing for what comes, from a different document.
 - [Amo's Founding Team And Funding Round](amo_founding_team_and_funding_round.md): a startup with ten co-founders, from a different document.
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): drawn from the same source document (doc_0199).
@@ -21,6 +22,8 @@ The framing TechCrunch gives it: hope for the best, prepare for the worst.
 - [Atlassian's Critical Security Flaw Warning](atlassian_critical_security_flaw_warning.md): drawn from the same source document (doc_0199).
 - [Cloud Stock Multiples And Startup Valuations](cloud_stock_multiples_and_startup_valuations.md): drawn from the same source document (doc_0199).
 - [EV Sector Setbacks: Arrival And US Automakers](ev_sector_setbacks_arrival_and_us_automakers.md): drawn from the same source document (doc_0199).
+- [Gaza's Internet Blackout And Connectivity](gaza_internet_blackout_and_connectivity.md): same source document (doc_0199)
+- [Google Maps' AI Feature Rollout](google_maps_ai_feature_rollout.md): same source document (doc_0199)
 
 ## Source
 

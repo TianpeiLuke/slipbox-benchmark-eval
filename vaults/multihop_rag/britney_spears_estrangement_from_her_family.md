@@ -13,6 +13,7 @@ Returning home from the forced stint in a brutal rehab facility, she found that 
 
 ## Related Notes
 
+
 - [Britney Spears David Lucado Relationship](britney_spears_david_lucado_relationship.md): overlaps on Britney, her father and the conservatorship, from a different document
 - [Britney Spears Memoir The Woman In Me](britney_spears_memoir_the_woman_in_me.md): another account of the same memoir elsewhere in the corpus
 - [Justin Timberlake Apology And Support For Britney Spears](justin_timberlake_apology_and_support_for_britney_spears.md): overlaps on her father and the restrictions she lived under
@@ -21,6 +22,8 @@ Returning home from the forced stint in a brutal rehab facility, she found that 
 - [Britney Spears Arrested Development Under Conservatorship](britney_spears_arrested_development_under_conservatorship.md): same source document
 - [Britney Spears Conservatorship Restrictions And Swat Holds](britney_spears_conservatorship_restrictions_and_swat_holds.md): same source, on the father-run conservatorship
 - [Britney Spears Memoir Barbs At Timberlake And Federline](britney_spears_memoir_barbs_at_timberlake_and_federline.md): same source document
+- [Britney Spears On Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): same source document (doc_0052)
+- [Britney Spears' Memoir On Early Fame And The Loss Of Freedom](britney_spears_memoir_early_fame_loss_of_freedom.md): same source document (doc_0052)
 
 ## Source
 

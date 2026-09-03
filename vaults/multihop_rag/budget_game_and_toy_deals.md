@@ -13,6 +13,7 @@ Love Letter was on sale at Amazon for $6.29, around $9 off. The fairly simple ca
 
 ## Related Notes
 
+
 - [Baldur's Gate 3](baldurs_gate_3.md): shares an RPG-and-Mass-Effect games reference, from a different source document.
 - [Kids' Toy And Playset Gifts 2023](kids_toy_and_playset_gifts_2023.md): also covers Nerf blasters as gifts, from a different source document.
 - [PowerA Enhanced Wired Controller](powera_enhanced_wired_controller.md): shares a Mass Effect licensed-design reference, from a different source document.
@@ -21,6 +22,8 @@ Love Letter was on sale at Amazon for $6.29, around $9 off. The fairly simple ca
 - [The Verge's Black Friday Deals Under $25](black_friday_deals_under_25_roundup.md): drawn from the same source document (doc_0090).
 - [Bluetooth Item Tracker Deals](bluetooth_item_tracker_deals.md): drawn from the same source document (doc_0090).
 - [Budget Smart Home And Networking Deals](budget_smart_home_and_networking_deals.md): drawn from the same source document (doc_0090).
+- [ChomChom Pet Hair Remover](chomchom_pet_hair_remover.md): same source document (doc_0090)
+- [Epicka Universal Travel Adapter](epicka_universal_travel_adapter.md): same source document (doc_0090)
 
 ## Source
 

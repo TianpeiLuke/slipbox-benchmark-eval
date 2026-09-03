@@ -11,6 +11,7 @@ The chain runs on to consumer behaviour as well. With inflation eating away at t
 
 ## Related Notes
 
+
 - [The Case For Raising The Inflation Target](case_for_raising_the_inflation_target.md): overlapping coverage of inflation and central bank economists, from a different source document.
 - [FedEx 2023 Holiday Shipping Deadlines](fedex_2023_holiday_shipping_deadlines.md): overlapping coverage of FedEx Express shipping, from a different source document.
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares a product-market theme from a different source document.
@@ -19,6 +20,13 @@ The chain runs on to consumer behaviour as well. With inflation eating away at t
 - [Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): shares a goods-market theme from a different source document.
 - [Amazon Seller Skepticism Of The FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares a goods-pricing theme from a different source document.
 - [Amazon Sequoia Fulfillment System](amazon_sequoia_fulfillment_system.md): shares a logistics-cost theme from a different source document.
+- [CMA CGM's Diversification Strategy](cma_cgm_diversification_strategy.md): same source document (doc_0321)
+- [Container Carriers' Capacity Management Tools](container_carrier_capacity_management_tools.md): same source document (doc_0321)
+- [Container Shipping's Boom-To-Bust Cycle, 2021 To 2024](container_shipping_boom_to_bust_cycle_2021_2024.md): same source document (doc_0321)
+- [Rising Shipping Costs: Canals And Decarbonization](rising_shipping_costs_canals_and_decarbonization.md): same source document (doc_0321)
+- [The Shipping Overcapacity Supply-Demand Mechanism](shipping_overcapacity_supply_demand_mechanism.md): same source document (doc_0321)
+- [Shipping Price War Risk And The Case For Carrier Restraint](shipping_price_war_risk_and_carrier_restraint.md): same source document (doc_0321)
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

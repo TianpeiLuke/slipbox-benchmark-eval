@@ -13,6 +13,7 @@ The warrant he leans on is that the method was proven on its authors' own produc
 
 ## Related Notes
 
+
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares the product-launch theme, from a different source document.
 - [Amazon Buy Box Price Parity Enforcement](amazon_buy_box_price_parity_enforcement.md): shares the product-and-market theme, from a different source document.
 - [Amazon Prime Holiday 2023 Delivery Cutoffs](amazon_prime_holiday_2023_delivery_cutoffs.md): shares the product-launch theme, from a different source document.
@@ -21,6 +22,15 @@ The warrant he leans on is that the method was proven on its authors' own produc
 - [Amazon Sequoia Fulfillment System](amazon_sequoia_fulfillment_system.md): shares the product-launch theme, from a different source document.
 - [AMO Scale Ambition And Product Roadmap](amo_scale_ambition_and_product_roadmap.md): shares the product-building theme, from a different source document.
 - [Apple USB-C Accessory Transition](apple_usb_c_accessory_transition.md): shares the product-launch theme, from a different source document.
+- [Author Endorsements In Book Publishing](author_endorsements_in_book_publishing.md): same source document (doc_0243)
+- [Barr Moses Recommends "Dare To Lead"](barr_moses_recommends_dare_to_lead.md): same source document (doc_0243)
+- [Georgiana Laudi Recommends "Loved"](georgiana_laudi_recommends_loved_product_marketing.md): same source document (doc_0243)
+- [James Wise Recommends "The Coming Wave"](james_wise_recommends_the_coming_wave.md): same source document (doc_0243)
+- [Jerry Neumann Recommends "How Data Happened"](jerry_neumann_recommends_how_data_happened.md): same source document (doc_0243)
+- [Jon Evans Recommends "The Steerswoman"](jon_evans_recommends_the_steerswoman.md): same source document (doc_0243)
+- [Kashmir Hill Recommends "The Listeners"](kashmir_hill_recommends_the_listeners_wiretapping_history.md): same source document (doc_0243)
+- [Polina Marinova Pompliano Recommends "It's What I Do"](polina_marinova_pompliano_recommends_its_what_i_do.md): same source document (doc_0243)
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

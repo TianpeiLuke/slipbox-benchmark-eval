@@ -11,6 +11,7 @@ Google made an offer, so did Microsoft, and DeepMind quickly bowed out as the pr
 
 ## Related Notes
 
+
 - [Apple Watch ITC Import Ban And Preemptive Sales Halt](apple_watch_itc_import_ban_and_preemptive_sales_halt.md): shares the Big Tech framing, from a different source document.
 - [Big Tech Antitrust Outlook](big_tech_antitrust_outlook.md): also concerns Big Tech's power, from a different source document.
 - [Big Tech Declines And Amazon FTC Antitrust Lawsuit](big_tech_declines_and_amazon_ftc_antitrust_lawsuit.md): also concerns Big Tech, from a different source document.
@@ -19,6 +20,8 @@ Google made an offer, so did Microsoft, and DeepMind quickly bowed out as the pr
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): drawn from the same article and gives the rivalry this auction sharpened.
 - [AlphaGo As Evidence For AI Risk Concerns](alphago_as_evidence_for_ai_risk_concerns.md): drawn from the same article and follows DeepMind after the sale.
 - [Anthropic Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): drawn from the same article and follows one of the auctioned students to OpenAI's founding team.
+- [DeepMind's Ethics Board And Its Single Meeting In 2015](deepmind_ethics_board_single_meeting_2015.md): same source document (doc_0027)
+- [DeepMind's Founding And Thiel's Investment](deepmind_founding_and_thiel_investment.md): same source document (doc_0027)
 
 ## Source
 

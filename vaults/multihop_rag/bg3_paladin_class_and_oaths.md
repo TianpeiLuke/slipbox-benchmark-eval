@@ -11,11 +11,17 @@ Paladins get all armors and shields along with a good mix of weapons. Their subc
 
 ## Related Notes
 
+
 - [Choosing A Class And Subclass In Baldur's Gate 3](bg3_class_and_subclass_selection_overview.md): the overview that ranks Paladin among the 12 classes.
 - [BG3 Cleric Class And Domains](bg3_cleric_class_and_domains.md): same source; described as the other side of the Paladin's magic-and-melee mix.
 - [BG3 Fighter Class And Subclasses](bg3_fighter_class_and_subclasses.md): same source; the pure melee comparison point.
 - [BG3 Barbarian Class And Subclasses](bg3_barbarian_class_and_subclasses.md): same source; the damage-focused melee alternative.
 - [Ability Scores Link BG3 Classes To Out-Of-Combat Skills](bg3_ability_scores_shape_out_of_combat_skills.md): same source; explains what a class's primary ability buys outside combat.
+- [BG3 Bard: The Support Class And Its Colleges](bg3_bard_class_and_colleges.md): same source document (doc_0016)
+- [Custom Character Versus Origin Character In Baldur's Gate 3](bg3_custom_character_vs_origin_character.md): same source document (doc_0016)
+- [BG3 Druid: The Nature Caster](bg3_druid_class_and_circles.md): same source document (doc_0016)
+- [BG3 Monk: The Speed Class](bg3_monk_class_and_subclasses.md): same source document (doc_0016)
+- [There Is No Single Best Class In Baldur's Gate 3](bg3_no_single_best_class_argument.md): same source document (doc_0016)
 
 ## Source
 

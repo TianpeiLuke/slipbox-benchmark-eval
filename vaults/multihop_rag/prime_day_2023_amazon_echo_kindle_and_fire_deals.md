@@ -11,11 +11,21 @@ On the store offers: a discount applies automatically at checkout once you meet 
 
 ## Related Notes
 
+
 - [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): also concerns the Echo Show, from a different source document.
 - [Amazon Echo Show Audible And Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): also concerns the Echo Show, from a different source document.
 - [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): also concerns the Echo Show, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): overlapping coverage of Amazon's Echo and Alexa devices, from a different source document.
 - [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): overlapping coverage of Fire tablets on sale, from a different source document.
+- [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): same source document (doc_0520)
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

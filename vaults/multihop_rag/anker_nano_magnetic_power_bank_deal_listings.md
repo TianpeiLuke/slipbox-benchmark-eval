@@ -11,12 +11,18 @@ WIRED's general roundup calls it one of its favorite portable power banks, parti
 
 ## Related Notes
 
+
 - [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): overlapping coverage of Anker's Nano power products for phones, from a different source document.
 - [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): overlapping coverage of Anker's USB-C Nano power banks, from a different source document.
 - [Anker Prime Early Black Friday Charger Sale](anker_prime_early_black_friday_charger_sale.md): overlapping coverage of Anker's Nano power bank wattage, from a different source document.
 - [Apple AirPods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): overlapping coverage of USB-C versus Lightning connectors, from a different source document.
 - [Apple USB-C Accessory Transition](apple_usb_c_accessory_transition.md): overlapping coverage of the USB-C and Lightning switch, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

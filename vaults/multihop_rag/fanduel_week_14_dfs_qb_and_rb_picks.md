@@ -13,11 +13,19 @@ Mixon (Bengals vs. Colts) had been forced to step up without Burrow under center
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): shares the NFL and playoff-seeding themes, from a different document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also discusses Joe Burrow, from a different document.
 - [Anthony Richardson Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): also discusses Gardner Minshew, from a different document.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): shares the NFL and playoff-seeding themes, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also discusses Joe Burrow, from a different document.
+- [FanDuel NFL DFS Contest Format And Scoring Rules](fanduel_nfl_dfs_contest_format_and_scoring.md): same source document (doc_0276)
+- [FanDuel Week 14 DFS Receiver, Tight End, Flex And Defense Picks](fanduel_week_14_dfs_wr_te_flex_and_defense_picks.md): same source document (doc_0276)
+- [SuperDraft's Multiplier-Based DFS Scoring Format](superdraft_dfs_multiplier_scoring_format.md): same source document (doc_0276)
+- [SuperDraft Week 14 NFL DFS Lineup](superdraft_week_14_nfl_dfs_lineup.md): same source document (doc_0276)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

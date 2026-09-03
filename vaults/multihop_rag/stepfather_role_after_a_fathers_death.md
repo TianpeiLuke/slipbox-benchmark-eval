@@ -13,6 +13,7 @@ The bond with the late father remained the stronger one. While she had a close r
 
 ## Related Notes
 
+
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the fines-and-penalties topic, from a different source document.
 - [Alameda's Negative Balance Escalation](alameda_negative_balance_escalation.md): shares the fines-and-penalties topic, from a different source document.
 - [Alexa's Limitations as an On-the-Go Assistant](alexa_limitations_as_an_on_the_go_assistant_on_echo_frames.md): shares the fines-and-penalties topic, from a different source document.
@@ -21,6 +22,10 @@ The bond with the late father remained the stronger one. While she had a close r
 - [Beats Fit Pro Black Friday Deal](beats_fit_pro_black_friday_deal.md): shares the fines-and-penalties topic, from a different source document.
 - [Beyerdynamic DT 900 Pro X Deal](beyerdynamic_dt_900_pro_x_deal.md): shares the fines-and-penalties topic, from a different source document.
 - [BG3: Custom Character vs Origin Character](bg3_custom_character_vs_origin_character.md): shares the fines-and-penalties topic, from a different source document.
+- [Bride Asks Her Mother to Walk Her Down the Aisle](bride_asks_mother_to_walk_her_down_the_aisle.md): same source document (doc_0254)
+- [Reddit Commenters Defend the Bride's Mother](reddit_commenters_defend_the_brides_mother.md): same source document (doc_0254)
+- [The Stepfather's Objection to the Aisle Decision](stepfathers_objection_to_the_aisle_decision.md): same source document (doc_0254)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

@@ -11,6 +11,7 @@ The most pressing question, on its account, is whether climate model simulations
 
 ## Related Notes
 
+
 - [Climate Sweet Spots and Pattern-Dependent Feedbacks](climate_sweet_spots_and_pattern_dependent_feedbacks.md): from the same article, on the cloud processes high-resolution models could resolve.
 - [Coupled Models Fail to Reproduce Observed Warming Patterns](coupled_models_fail_to_reproduce_observed_warming_patterns.md): from the same article, on the biases this argument seeks to evaluate.
 - [Emerging Tools for Quantifying the Pattern Effect](emerging_tools_for_quantifying_the_pattern_effect.md): from the same article, listing further tools alongside these models.
@@ -19,6 +20,8 @@ The most pressing question, on its account, is whether climate model simulations
 - [Historical Warming Does Not Bound Climate Sensitivity](historical_warming_does_not_bound_climate_sensitivity.md): from the same article, on the limits of the observational record for evaluation.
 - [The Magnitude of the Observed Pattern Effect Is Disputed](magnitude_of_the_observed_pattern_effect_is_disputed.md): from the same article, on the uncertainty better models could reduce.
 - [The Model Versus Observation Climate Sensitivity Discrepancy](model_versus_observation_climate_sensitivity_discrepancy.md): from the same article, on the model-observation gap being probed.
+- [Open Questions on SST Patterns and Earth's Radiation Budget](open_questions_on_sst_patterns_and_earths_radiation_budget.md): same source document (doc_0139)
+- [Paleorecords Must Account for the Pattern Effect](paleorecords_must_account_for_the_pattern_effect.md): same source document (doc_0139)
 
 ## Source
 

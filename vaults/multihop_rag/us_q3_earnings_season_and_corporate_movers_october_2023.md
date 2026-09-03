@@ -11,6 +11,7 @@ Ford Motors slumped 1.9 per cent after the United Auto Workers union escalated i
 
 ## Related Notes
 
+
 - [CFPB Consumer Redress Ordered From Big Four Banks](cfpb_consumer_redress_ordered_from_big_four_banks.md): also concerns Wells Fargo, from a different source document.
 - [Partial Overdraft Fee Rollbacks JPMorgan Wells BofA](partial_overdraft_fee_rollbacks_jpmorgan_wells_bofa.md): also concerns Wells Fargo and JPMorgan, from a different source document.
 - [UAW 2023 Strike And The Just Transition Demand](uaw_2023_strike_and_the_just_transition_demand.md): also concerns the United Auto Workers strike escalating here, from a different source document.
@@ -19,6 +20,8 @@ Ford Motors slumped 1.9 per cent after the United Auto Workers union escalated i
 - [ASX And Wall Street Selloff October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): drawn from the same report and gives the index moves around these corporate stories.
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): drawn from the same report and lists the local decliners that session.
 - [Atlassian Loom Acquisition 2023](atlassian_loom_acquisition_2023.md): drawn from the same report and covers the other corporate story of the day.
+- [Crude Oil Prices And Gaza Supply Risk In October 2023](crude_oil_prices_and_gaza_supply_risk_october_2023.md): same source document (doc_0074)
+- [US Treasury Yields And Fed Rate Expectations In October 2023](us_treasury_yields_and_fed_rate_expectations_october_2023.md): same source document (doc_0074)
 
 ## Source
 

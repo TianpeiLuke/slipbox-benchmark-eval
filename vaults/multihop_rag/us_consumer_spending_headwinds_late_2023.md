@@ -11,11 +11,17 @@ Each channel is specified. Oil prices have jumped to their highest level in more
 
 ## Related Notes
 
+
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also discusses North America, from a different source document.
 - [Aging with Hiv and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): also discusses North America, from a different source document.
 - [Canada Ski Holidays Overview](canada_ski_holidays_overview.md): another North American consumer-spending subject, from a different source document.
 - [Case Against Supersized Electric Vehicles](case_against_supersized_electric_vehicles.md): another North American consumer-market analysis, from a different source document.
 - [Cranberry Domestication and US Cultivation History](cranberry_domestication_and_us_cultivation_history.md): also discusses North America, from a different source document.
+- [ASX Outlook And RBA Rate Expectations At End-September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): same source document (doc_0087)
+- [ASX Decliners In The Session Before The October 2023 RBA Meeting](asx_september_2023_session_decliners.md): same source document (doc_0087)
+- [How Treasury Yields And "Higher For Longer" Transmit To Equities](treasury_yields_and_fed_higher_for_longer.md): same source document (doc_0087)
+- [Wall Street Movers At The End Of September 2023](wall_street_movers_end_of_september_2023.md): same source document (doc_0087)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

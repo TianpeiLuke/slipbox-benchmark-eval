@@ -13,6 +13,7 @@ The bundle throws in a stand that allows it to safely burn on decks or green gra
 
 ## Related Notes
 
+
 - [Solo Stove Black Friday Deal](solo_stove_black_friday_deal.md): a closely overlapping listing for the same fire pit, different document
 - [Airpods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): another pick from the same Walmart roundup
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): another discount listing, different document
@@ -21,6 +22,15 @@ The bundle throws in a stand that allows it to safely burn on decks or green gra
 - [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): another discount listing, different document
 - [Airpods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): another discount listing, different document
 - [Amazon Buy Box Price Parity Enforcement](amazon_buy_box_price_parity_enforcement.md): concerns discounting and MSRP, different document
+- [Apple Watch SE At A Record-Low Price](apple_watch_se_record_low_price.md): same source document (doc_0558)
+- [Apple Watch Series 9 Walmart Black Friday Deal](apple_watch_series_9_walmart_deal.md): same source document (doc_0558)
+- [Dyson V15 Detect Absolute Vacuum Black Friday Deal](dyson_v15_detect_absolute_vacuum_deal.md): same source document (doc_0558)
+- [Echelon Connect Sport Exercise Bike Black Friday Deal](echelon_connect_sport_exercise_bike_deal.md): same source document (doc_0558)
+- [HP Business 2-In-1 Laptop Black Friday Deal](hp_business_2_in_1_laptop_deal.md): same source document (doc_0558)
+- [JBL Charge Portable Speaker Black Friday Deal](jbl_charge_portable_speaker_deal.md): same source document (doc_0558)
+- [LEGO Star Wars Baby Yoda Deal And The Decline Of The Doorbuster](lego_star_wars_baby_yoda_deal_and_doorbuster_decline.md): same source document (doc_0558)
+- [Meta Quest 2 Black Friday And Cyber Monday Bundle Price](meta_quest_2_black_friday_bundle_price.md): same source document (doc_0558)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

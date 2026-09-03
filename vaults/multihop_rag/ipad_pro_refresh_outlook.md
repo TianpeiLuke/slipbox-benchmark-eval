@@ -13,6 +13,7 @@ Other iPads could also get a refresh at the event, just in time for the holidays
 
 ## Related Notes
 
+
 - [Apple's Budget iPad And iPad Mini](apple_budget_ipad_and_ipad_mini.md): also concerns Apple's non-Pro iPad lineup, from a different source document.
 - [Apple iPad Ninth Generation Deal Listings](apple_ipad_ninth_generation_deal_listings.md): also concerns Apple's iPad lineup, from a different source document.
 - [Apple M3 Mac Reviews And Chip Lineup](apple_m3_mac_reviews_and_chip_lineup.md): covers what the Scary Fast event actually delivered, from a different source document.
@@ -21,6 +22,8 @@ Other iPads could also get a refresh at the event, just in time for the holidays
 - [Expectations For A 24-Inch iMac M3 Refresh](apple_24_inch_imac_m3_refresh_expectations.md): drawn from the same source document (doc_0287).
 - [The M3 Release Cadence Hypothesis](apple_m3_chip_release_cadence.md): drawn from the same source document (doc_0287).
 - [Apple's Scary Fast Event, October 2023](apple_scary_fast_event_october_2023.md): drawn from the same source document (doc_0287).
+- [Apple's USB-C Accessory Transition](apple_usb_c_accessory_transition.md): same source document (doc_0287)
+- [Supply Signals Pointing To A MacBook Pro M3 Refresh](macbook_pro_m3_refresh_supply_signals.md): same source document (doc_0287)
 
 ## Source
 

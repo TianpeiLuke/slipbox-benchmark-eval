@@ -13,12 +13,18 @@ Dealing Manoah to bring in a lower upside but higher floor pitcher would not be 
 
 ## Related Notes
 
+
 - [Blue Jays Roster Implications Of Ohtani Pursuit](blue_jays_roster_implications_of_ohtani_pursuit.md): another Toronto roster storyline that winter, from a different document.
 - [Rogers Communications Company Profile](rogers_communications_company_profile.md): overlaps on Toronto Blue Jays terms, from a different document.
 - [Shohei Ohtani Toronto Reports And Denials](shohei_ohtani_toronto_reports_and_denials.md): another Blue Jays offseason storyline, from a different document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): another candidate on the same list, from the same document.
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
+- [Christopher Morel Cubs Trade Candidacy](christopher_morel_cubs_trade_candidacy.md): same source document (doc_0118)
+- [Corbin Burnes And Willy Adames Brewers Trade Candidacy](corbin_burnes_willy_adames_brewers_trade_candidacy.md): same source document (doc_0118)
+- [Dylan Carlson Cardinals Trade Candidacy](dylan_carlson_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

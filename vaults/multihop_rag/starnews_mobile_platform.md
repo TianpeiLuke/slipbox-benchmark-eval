@@ -15,12 +15,20 @@ Kamgaing described the founding insight as joining an unmonetized supply of cont
 
 ## Related Notes
 
+
 - [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): shares the creator-economy and streaming-service themes, from a different source document.
 - [Blockcast Decentralized Broadcast Network](blockcast_decentralized_broadcast_network.md): shares the streaming-service and venture-capital themes, from a different source document.
 - [Calls for Creative Experimentation in VTuber Agencies](calls_for_creative_experimentation_in_vtuber_agencies.md): shares the creator-economy and streaming-service themes, from a different source document.
 - [Creator Economy Sustainability](creator_economy_sustainability.md): overlapping discussion of creators, content and network monetization, from a different source document.
 - [Dan Clancy on the Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): shares the creator-economy and streaming-service themes, from a different source document.
 - [African Telco Distribution Model](african_telco_distribution_model.md): the operator-led distribution model this platform runs on, drawn from the same source document (doc_0456).
+- [StarNews' Content Partnerships And Nigerian Growth](starnews_content_and_growth.md): same source document (doc_0456)
+- [StarNews Mobile's $3M Pre-Series A Round](starnews_funding_round.md): same source document (doc_0456)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Telco Distribution](term_telco_distribution.md): uses the concept telco distribution
+- [Value-Added Services (VAS)](term_value_added_services.md): uses the concept value added services
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

@@ -11,9 +11,19 @@ Engadget gave the pair a score of 86 in its review, praising its predictably com
 
 ## Related Notes
 
+
 - [Beats Studio Pro Deal Listings](beats_studio_pro_deal_listings.md): overlaps in content on discounted headphones and reviews, from a different source document.
 - [Anker Soundcore Space Q45 And Life Q30](anker_soundcore_space_q45_and_life_q30.md): shares noise-cancelling headphone discount coverage, from a different source document.
 - [Apple AirPods Pro, Second Generation](apple_airpods_pro_second_generation.md): shares noise-cancelling and discount framing, from a different source document.
+- [Apple AirPods Second-Gen, Third-Gen And AirPods Max Deals](apple_airpods_second_third_gen_and_airpods_max_deals.md): shares discount_and_msrp, noise_cancelling_headphones; different source document
+- [Beats Fit Pro Earbuds](beats_fit_pro_earbuds.md): shares discount_and_msrp, noise_cancelling_headphones; different source document
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): same source document (doc_0404)
+- [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): same source document (doc_0222)
+- [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): same source document (doc_0222)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
 
 ## Source
 

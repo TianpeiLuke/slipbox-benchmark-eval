@@ -13,11 +13,19 @@ The naming convention began in the 1990s, when corporations started paying to at
 
 ## Related Notes
 
+
 - [Carabao Cup 2023 Quarter Final Draw](carabao_cup_2023_quarter_final_draw.md): also concerns the Carabao Cup and the English Football League, from a different document.
 - [Hayes Reasons for Leaving Chelsea](hayes_reasons_for_leaving_chelsea.md): also mentions the English Football League, from a different document.
 - [Manchester United 2023 Champions League Group Stage Exit](manchester_united_2023_champions_league_group_stage_exit.md): also mentions the Carabao Cup, from a different document.
 - [Manchester United Form Slump Autumn 2023](manchester_united_form_slump_autumn_2023.md): also mentions the Carabao Cup, from a different document.
 - [Manchester United's Managers Since Sir Alex Ferguson](manchester_united_managers_since_sir_alex_ferguson.md): also references League Cup honours, from a different document.
+- [Carabao Cup 2023/24 First Round Format And Results](carabao_cup_2023_24_first_round_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): same source document (doc_0100)
+- [What The Carabao Cup Is And What Winning It Is Worth In 2023/24](carabao_cup_2023_24_overview_and_stakes.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Second Round Results](carabao_cup_2023_24_second_round_results.md): same source document (doc_0100)
+- [Celebrity Endorsement](term_celebrity_endorsement.md): uses the concept celebrity endorsement
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

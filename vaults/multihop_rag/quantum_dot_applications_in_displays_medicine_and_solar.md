@@ -11,6 +11,7 @@ Quantum dots can be used to subtly change the colour of LED lights, which can dr
 
 ## Related Notes
 
+
 - [Adult Stem Cells and Tissue Renewal](adult_stem_cells_and_tissue_renewal.md): another account of tagging and tracking specific cells in tissues.
 - [DAAM1 Controls Paneth Cell Fate in Mice](daam1_controls_paneth_cell_fate_in_mice.md): another study imaging cells in mouse intestines.
 - [Nobel Laureates on Basic Research Motivation](nobel_laureates_on_basic_research_motivation.md): another account of what quantum dots became useful for.
@@ -19,6 +20,8 @@ Quantum dots can be used to subtly change the colour of LED lights, which can dr
 - [Bawendi's Controlled Quantum Dot Synthesis](bawendi_controlled_quantum_dot_synthesis.md): from the same article, on the manufacturing control these uses require.
 - [Ekimov and Brus's Discovery of Quantum Dots](ekimov_and_brus_discovery_of_quantum_dots.md): from the same article, on the discoveries behind the technology.
 - [Quantum Dot Size-Dependent Properties](quantum_dot_size_dependent_properties.md): from the same article, on the tunability these applications exploit.
+- [The 2023 Chemistry Nobel for Quantum Dots](quantum_dots_2023_chemistry_nobel_award.md): same source document (doc_0436)
+- [Reactions to the Quantum Dot Nobel](reactions_to_the_quantum_dot_nobel.md): same source document (doc_0436)
 
 ## Source
 

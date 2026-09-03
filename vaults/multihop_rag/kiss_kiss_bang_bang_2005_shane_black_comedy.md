@@ -11,6 +11,7 @@ Polygon's reviewer calls it one of if not the funniest and most effortlessly coo
 
 ## Related Notes
 
+
 - [Activision $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): an unrelated article that also concerns Google Play
 - [Activision Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): another Google Play-related article from a different domain
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): further Google Play coverage with no topical overlap
@@ -19,6 +20,8 @@ Polygon's reviewer calls it one of if not the funniest and most effortlessly coo
 - [Book Club 2018 Romantic Comedy](book_club_2018_romantic_comedy.md): another pick from the same Polygon guide
 - [Catherine Called Birdy 2022 Lena Dunham Comedy](catherine_called_birdy_2022_lena_dunham_comedy.md): another entry in the same guide
 - [Charade 1963 Donen Comedy Thriller](charade_1963_donen_comedy_thriller.md): another comedy-thriller hybrid from the same guide
+- [Clueless (1995): The Teen-Comedy Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): same source document (doc_0597)
+- [Coming To America (1988): Eddie Murphy's Romantic Comedy](coming_to_america_1988_eddie_murphy_comedy.md): same source document (doc_0597)
 
 ## Source
 

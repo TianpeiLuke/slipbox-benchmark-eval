@@ -13,11 +13,16 @@ The third quarter belonged to Minnesota. Denver received to start the half but a
 
 ## Related Notes
 
+
 - [Alexander Mattison and the Vikings' Hot Seat](alexander_mattison_vikings_hot_seat.md): also concerns Alexander Mattison, from a different document.
 - [Bears-Vikings MNF First Half](bears_vikings_mnf_first_half.md): also features Brandon Powell and Greg Joseph, separately sourced.
 - [Bears-Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): also covers Mattison and Powell, in a different document.
 - [Bears-Vikings MNF Result and Recap](bears_vikings_mnf_result_and_recap.md): another game with Joshua Dobbs at quarterback, from a separate source.
 - [Bears-Vikings MNF Third Quarter](bears_vikings_mnf_third_quarter.md): also covers Mattison's role, in a different document.
+- [The Fourth Quarter Of Broncos 21, Vikings 20](vikings_broncos_snf_fourth_quarter_comeback.md): same source document (doc_0037)
+- [Vikings-Broncos Sunday Night Pregame And Broadcast](vikings_broncos_snf_pregame_and_broadcast.md): same source document (doc_0037)
+- [Broncos 21, Vikings 20 On Sunday Night Football](vikings_broncos_snf_result_and_comeback.md): same source document (doc_0037)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

@@ -11,6 +11,7 @@ His stated engineering constraint is the opposite end of the hardware range: int
 
 ## Related Notes
 
+
 - [Microsoft's Cloud Gaming and Device-Agnostic Strategy](microsoft_cloud_gaming_and_device_agnostic_strategy.md): overlaps on gaming across devices and the cloud, from a different source document.
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): shares the leaked-internal-information theme, from a different source document.
 - [Big Ten Conference Scandal Run, 2023](big_ten_conference_scandal_run_2023.md): shares the leaked-information theme, from a different source document.
@@ -19,6 +20,16 @@ His stated engineering constraint is the opposite end of the hardware range: int
 - [Chiefs-Packers Week 13 Third Quarter Sequence](chiefs_packers_week_13_third_quarter_sequence.md): shares a reporting-on-internal-detail theme, from a different source document.
 - [Epic's Rebuttal of Google's Leaked Email Summary](epic_rebuttal_of_googles_leaked_email_summary.md): also concerns leaked internal emails, from a different source document.
 - [EU CSAM Scanning Proposal](eu_csam_scanning_proposal.md): shares the disclosure-and-platform theme, from a different source document.
+- [Metaverse Interoperability And 3D File Formats](metaverse_interoperability_and_3d_file_formats.md): same source document (doc_0539)
+- [Roblox Advertising And Brand Experiences](roblox_advertising_and_brand_experiences.md): same source document (doc_0539)
+- [Roblox Aging Up: An Older User Base](roblox_aging_up_older_user_base.md): same source document (doc_0539)
+- [Roblox As A Communication Platform, Not A Game](roblox_as_communication_platform_not_game.md): same source document (doc_0539)
+- [Roblox's China Strategy And Tencent](roblox_china_strategy_and_tencent.md): same source document (doc_0539)
+- [Roblox's Content Delivery Architecture Versus App Stores](roblox_content_delivery_architecture_vs_app_stores.md): same source document (doc_0539)
+- [Roblox's Dating Prediction](roblox_dating_prediction.md): same source document (doc_0539)
+- [Roblox Fashion Design And Direct-To-Avatar](roblox_fashion_design_and_direct_to_avatar.md): same source document (doc_0539)
+- [Roblox's Hiring And Recruiting Layoffs](roblox_hiring_and_recruiting_layoffs.md): same source document (doc_0539)
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

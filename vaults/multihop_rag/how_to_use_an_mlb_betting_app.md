@@ -13,11 +13,19 @@ Fourth, bet from within legal states. As long as you are in a state with legal o
 
 ## Related Notes
 
+
 - [BetMGM Vermont Sportsbook Welcome Offer](betmgm_vermont_sportsbook_welcome_offer.md): a specific new-customer offer of the kind claimed in step one.
 - [BetRivers Vermont Sportsbook Welcome Offer](betrivers_vermont_sportsbook_welcome_offer.md): another new-customer offer.
 - [DraftKings Vermont Sportsbook Welcome Offer](draftkings_vermont_sportsbook_welcome_offer.md): another sportsbook sign-up offer accessed by links.
 - [FanDuel Vermont Welcome Offer Tradeoffs](fanduel_vermont_welcome_offer_tradeoffs.md): what to weigh when claiming such a bonus.
 - [How Sportsbooks Set and Move Betting Lines](how_sportsbooks_set_and_move_betting_lines.md): why the odds you track in-app keep shifting.
+- [Bet365 In The US: Daily MLB Odds Boosts And Live Betting](bet365_sportsbook_us_mlb_markets.md): same source document (doc_0264)
+- [BetMGM Sportsbook: Deep MLB Markets And The Only NBA Live-Streaming App](betmgm_sportsbook_betting_markets.md): same source document (doc_0264)
+- [BetRivers Sportsbook: Alternate Lines, An Integrated Casino, And iRush Rewards](betrivers_sportsbook_betting_markets.md): same source document (doc_0264)
+- [Caesars Sportsbook: MLB Odds, Futures And Early Cash-Out](caesars_sportsbook_mlb_markets.md): same source document (doc_0264)
+- [DraftKings Sportsbook: MLB And NBA Markets And Promotions](draftkings_sportsbook_betting_markets.md): same source document (doc_0264)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

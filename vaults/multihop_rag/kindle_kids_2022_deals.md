@@ -13,11 +13,19 @@ As of October 16th, 2023, there were no deals available: The Verge had recently 
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the Black Friday discount theme, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares the Black Friday discount theme, from a different source document.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the Black Friday discount theme, from a different source document.
 - [Amazon Kindle and Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): overlaps on Kindle devices and books, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): also concerns the Kindle Kids, from a different source document.
+- [Kindle 2022 Base Model Deals](kindle_2022_base_model_deals.md): same source document (doc_0521)
+- [The Kindle Lineup And Ad-Supported Models](kindle_lineup_and_ad_supported_models.md): same source document (doc_0521)
+- [Kindle Oasis 2019 Deals](kindle_oasis_2019_deals.md): same source document (doc_0521)
+- [Kindle Paperwhite 2021 Deals](kindle_paperwhite_2021_deals.md): same source document (doc_0521)
+- [Kindle Scribe Deals](kindle_scribe_deals.md): same source document (doc_0521)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

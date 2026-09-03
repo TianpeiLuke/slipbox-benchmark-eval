@@ -13,6 +13,7 @@ CEO Mike McCue framed the announcement as the start of a process rather than its
 
 ## Related Notes
 
+
 - [ActivityPub And Rival Social Protocols](activitypub_and_rival_social_protocols.md): overlapping coverage of ActivityPub and the fediverse, from a different source document.
 - [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): overlapping coverage of ActivityPub apps and Mastodon, from a different source document.
 - [Decentralization As A Free Market, Not An Anti-Capitalist Project](decentralization_as_a_free_market_not_an_anti_capitalist_project.md): overlapping coverage of Mastodon and decentralized social networking, from a different source document.
@@ -21,6 +22,8 @@ CEO Mike McCue framed the announcement as the start of a process rather than its
 - [Flipboard Front-End Redesign Questions](flipboard_front_end_redesign_questions.md): drawn from the same source document (doc_0507), on what federation implies for the app's interface.
 - [Flipboard's Path To The Fediverse](flipboard_path_to_the_fediverse.md): drawn from the same source document (doc_0507), on the steps that led here.
 - [Flipboard's Social Magazine Platform](flipboard_social_magazine_platform.md): drawn from the same source document (doc_0507), on the app being federated.
+- [How Flipboard "Flips" Publish To Mastodon](how_flipboard_flips_publish_to_mastodon.md): same source document (doc_0507)
+- [Mainstream Platform Adoption Of ActivityPub](mainstream_platform_adoption_of_activitypub.md): same source document (doc_0507)
 
 ## Source
 

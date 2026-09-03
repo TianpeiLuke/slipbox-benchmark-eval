@@ -13,6 +13,7 @@ After Ole Miss levelled at 14-14, Edwards ran in his second touchdown of the nig
 
 ## Related Notes
 
+
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): also discusses Ole Miss, from a different document.
 - [Broncos Fourth Quarter Comeback and Ryland Game Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): another touchdown-by-touchdown account of a game being tied and retaken, from a different document.
 - [CFP National Championship Winners 2015 to 2023](cfp_national_championship_winners_2015_to_2023.md): also discusses Georgia's Bulldogs, from a different document.
@@ -21,6 +22,8 @@ After Ole Miss levelled at 14-14, Edwards ran in his second touchdown of the nig
 - [Brock Bowers' Return from TightRope Surgery](brock_bowers_return_from_tightrope_surgery.md): a later Beck touchdown pass in the same game, from the same document.
 - [Georgia 52-17 Ole Miss: Week 11 Recap](georgia_52_17_ole_miss_week_11_recap.md): the full result and Beck's final line, from the same document.
 - [Georgia Clinches the SEC East and the Sanford Stadium Scene](georgia_clinches_sec_east_and_sanford_stadium_scene.md): what the win secured, from the same document.
+- [Georgia's Third-Quarter Field Goal And Lovett's Gain](georgia_third_quarter_field_goal_and_lovett_gain.md): same source document (doc_0484)
+- [Interceptions By Bullard And Daijahn Anthony](interceptions_by_bullard_and_daijahn_anthony.md): same source document (doc_0484)
 
 ## Source
 

@@ -13,6 +13,7 @@ The Nov. 30 case turns on the results of that opportunity and on the matchup. Th
 
 ## Related Notes
 
+
 - [Fantasy RB PPR Rankings Week 14 Full List](fantasy_rb_ppr_rankings_week_14_full_list.md): also ranks Kenneth Walker and Zach Charbonnet, from a different document.
 - [Fantasy RB Standard Rankings Week 14 Full List](fantasy_rb_standard_rankings_week_14_full_list.md): also ranks Kenneth Walker and Zach Charbonnet, from a different document.
 - [Fantasy RB Week 14 Busts PPR](fantasy_rb_week_14_busts_ppr.md): also discusses Kenneth Walker and Zach Charbonnet, from a different document.
@@ -21,6 +22,8 @@ The Nov. 30 case turns on the results of that opportunity and on the matchup. Th
 - [Bye-Free Weeks Complicate Lineup Decisions](bye_free_weeks_complicate_lineup_decisions.md): shares the Week 12 rankings context, from the same document.
 - [Cowboys Fantasy Start Recommendations Week 13](cowboys_fantasy_start_recommendations_week_13.md): the Dallas side of the same Week 13 column, from the same document.
 - [Fantasy Week 12 Schedule and No-Bye Teams](fantasy_week_12_schedule_and_no_bye_teams.md): the Week 12 scheduling context for the earlier ranking, from the same document.
+- [Josh Jacobs' And Breece Hall's 2023 Workloads](josh_jacobs_and_breece_hall_2023_workloads.md): same source document (doc_0494)
+- [Seahawks-Cowboys DFS Showdown Lineups](seahawks_cowboys_dfs_showdown_lineups.md): same source document (doc_0394)
 
 ## Source
 

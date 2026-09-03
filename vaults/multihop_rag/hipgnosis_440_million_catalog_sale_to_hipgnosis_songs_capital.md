@@ -13,6 +13,7 @@ Two benchmarks were given for the price. HSF confirmed earlier in September that
 
 ## Related Notes
 
+
 - [Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): the valuation basis against which this price was judged.
 - [Hipgnosis Songs Fund Results Delay December 2023](hipgnosis_songs_fund_results_delay_december_2023.md): a later development involving both HSF and Hipgnosis Songs Capital.
 - [HSF Board Appoints and Oversees Its Own Valuer](hsf_board_appoints_and_oversees_its_own_valuer.md): governance context for how the fund's value is set.
@@ -21,6 +22,8 @@ Two benchmarks were given for the price. HSF confirmed earlier in September that
 - [Hipgnosis Board Defence of Portfolio Value](hipgnosis_board_defence_of_portfolio_value.md): the board's argument for the value realised on this transaction.
 - [Hipgnosis Go-Shop Clause and Rival Bids](hipgnosis_go_shop_clause_and_rival_bids.md): the process by which rival bidders could compete for these 29 catalogs.
 - [Hipgnosis Investment Advisory Agreement Amendments](hipgnosis_investment_advisory_agreement_amendments.md): the adviser terms agreed alongside this transaction.
+- [Hipgnosis Songs Fund Board Changes September 2023](hipgnosis_songs_fund_board_changes_september_2023.md): same source document (doc_0464)
+- [Hipgnosis Songs Fund Continuation Vote](hipgnosis_songs_fund_continuation_vote.md): same source document (doc_0464)
 
 ## Source
 

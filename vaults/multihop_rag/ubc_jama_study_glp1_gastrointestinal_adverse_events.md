@@ -13,6 +13,7 @@ The comparison group was another weight loss drug, bupropion-naltrexone. Compare
 
 ## Related Notes
 
+
 - [Dexterity and World Understanding as Hardest Robotics Problem](dexterity_and_world_understanding_as_hardest_robotics_problem.md): also concerns British Columbia, from a different source document.
 - [GLP-1 Receptor Agonists Diabetes and Weight Loss](glp1_receptor_agonists_diabetes_and_weight_loss.md): overlapping vocabulary on wegovy, ozempic, weight, from a different source document.
 - [Cardiovascular Benefits Outweigh GLP-1 GI Risks](cardiovascular_benefits_outweigh_glp1_gi_risks.md): drawn from the same source document (doc_0066).
@@ -21,6 +22,8 @@ The comparison group was another weight loss drug, bupropion-naltrexone. Compare
 - [GLP-1 Receptor Agonists Drug Class and US Usage Scale](glp1_receptor_agonists_drug_class_and_us_usage_scale.md): drawn from the same source document (doc_0066).
 - [Individualized GLP-1 Benefit Risk Assessment](individualized_glp1_benefit_risk_assessment.md): drawn from the same source document (doc_0066).
 - [Limitations of the UBC GLP-1 Claims Analysis](limitations_of_the_ubc_glp1_claims_analysis.md): drawn from the same source document (doc_0066).
+- [The Louisiana Lawsuit Over Ozempic And Mounjaro GI Injuries](louisiana_lawsuit_over_ozempic_and_mounjaro_gi_injuries.md): same source document (doc_0066)
+- [Novo Nordisk's Response To The GLP-1 Gastroparesis Findings](novo_nordisk_response_to_glp1_gastroparesis_findings.md): same source document (doc_0066)
 
 ## Source
 

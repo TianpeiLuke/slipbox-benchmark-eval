@@ -13,6 +13,7 @@ Speaking to reporters, Blaney noted the biggest difference came in the alternate
 
 ## Related Notes
 
+
 - [Autosport Top 50 Drivers 2023 NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): also discusses the Cup Series and Kyle Larson, from a different document.
 - [Chris Buescher 2023 Season Autosport Snub](chris_buescher_2023_season_autosport_snub.md): also discusses Chris Buescher, from a different document.
 - [Christopher Bell 2023 Season Autosport Snub](christopher_bell_2023_season_autosport_snub.md): also discusses Christopher Bell, from a different document.
@@ -21,6 +22,8 @@ Speaking to reporters, Blaney noted the biggest difference came in the alternate
 - [Aric Almirola Joe Gibbs Racing Xfinity Move](aric_almirola_joe_gibbs_racing_xfinity_move.md): another storyline in the same roundup, from the same document.
 - [Kaulig Racing No. 16 2024 Driver Uncertainty](kaulig_racing_no_16_2024_driver_uncertainty.md): another storyline in the same roundup, from the same document.
 - [NASCAR 2024 Offseason Preparation Window](nascar_2024_offseason_preparation_window.md): the framing for this roundup, from the same document.
+- [NASCAR 2024 Spotter Changes Elliott And Blaney](nascar_2024_spotter_changes_elliott_and_blaney.md): same source document (doc_0487)
+- [NASCAR Next Gen Muffler Noise Reduction Test](nascar_next_gen_muffler_noise_reduction_test.md): same source document (doc_0487)
 
 ## Source
 

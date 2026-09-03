@@ -13,9 +13,19 @@ Moses also draws a link to the present AI moment: published in 2018 before the G
 
 ## Related Notes
 
+
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the generative-AI and data-observability themes, from a different source document.
 - [Dodi Fayed Engagement Ring: Night Of The Crash](dodi_fayed_engagement_ring_night_of_the_crash.md): also concerns Monte Carlo, from a different source document.
 - [Valor Applied AI Thesis](valor_applied_ai_thesis.md): shares the generative-AI and data-observability themes, from a different source document.
+- [Author Endorsements In Book Publishing](author_endorsements_in_book_publishing.md): same source document (doc_0243)
+- [Georgiana Laudi Recommends "Loved"](georgiana_laudi_recommends_loved_product_marketing.md): same source document (doc_0243)
+- [James Wise Recommends "The Coming Wave"](james_wise_recommends_the_coming_wave.md): same source document (doc_0243)
+- [Jerry Neumann Recommends "How Data Happened"](jerry_neumann_recommends_how_data_happened.md): same source document (doc_0243)
+- [Jon Evans Recommends "The Steerswoman"](jon_evans_recommends_the_steerswoman.md): same source document (doc_0243)
+- [Kashmir Hill Recommends "The Listeners"](kashmir_hill_recommends_the_listeners_wiretapping_history.md): same source document (doc_0243)
+- [Polina Marinova Pompliano Recommends "It's What I Do"](polina_marinova_pompliano_recommends_its_what_i_do.md): same source document (doc_0243)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [LLM Observability](term_llm_observability.md): uses the concept llm observability
 
 ## Source
 

@@ -13,6 +13,7 @@ The article's framing of why that happened: for a franchise to retain relevance 
 
 ## Related Notes
 
+
 - [The DC Extended Universe](dc_extended_universe_dceu.md): also concerns a franchise measured against the Marvel Cinematic Universe, from a different source document.
 - [Five Nights At Freddy's Movie Development And Release](five_nights_at_freddys_movie_development_and_release.md): shares a Harry Potter franchise reference, from a different source document.
 - [Kindle Kids 2022 Deals](kindle_kids_2022_deals.md): shares a Harry Potter reference, from a different source document.
@@ -21,6 +22,8 @@ The article's framing of why that happened: for a franchise to retain relevance 
 - [Pokémon Diamond And Pearl At The Sales Crossroads](pokemon_diamond_and_pearl_sales_crossroads.md): drawn from the same source document (doc_0346).
 - [Pokémon Garden As The First Brand Diversification](pokemon_garden_as_first_brand_diversification.md): drawn from the same source document (doc_0346).
 - [Pokémon Merchandising For Grown-Up Fans](pokemon_merchandising_for_grown_up_fans.md): drawn from the same source document (doc_0346).
+- [The Pokémon With You Foundation And Local Acts](pokemon_with_you_foundation_and_local_acts.md): same source document (doc_0346)
+- [The 2023 Pokémon World Championships In Yokohama](pokemon_world_championships_2023_yokohama.md): same source document (doc_0346)
 
 ## Source
 

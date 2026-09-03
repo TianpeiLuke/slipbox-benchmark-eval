@@ -13,11 +13,20 @@ A veteran evaluator entered the caveat that the numbers do not capture the momen
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also concerns the Super Bowl, from a different document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): shares the NFL and postseason-seeding themes, from a different document.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also concerns the Super Bowl, from a different document.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): shares the NFL and postseason-seeding themes, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also concerns the Super Bowl, from a different document.
+- [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): same source document (doc_0316)
+- [The Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): same source document (doc_0316)
+- [Buffalo Bills Defensive Injuries And The 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): same source document (doc_0316)
+- [Cincinnati Bengals: Joe Burrow's Durability And The Line](cincinnati_bengals_joe_burrow_durability_and_line.md): same source document (doc_0316)
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

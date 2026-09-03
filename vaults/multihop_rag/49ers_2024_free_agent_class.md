@@ -13,6 +13,7 @@ The Sporting News draws the inference that Young's quest to earn a deal with the
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): another document covering Sam Darnold, different source
 - [Cowboys 49ers Second Half Live Blog](cowboys_49ers_second_half_live_blog.md): covers Jauan Jennings and Kevin Givens, different source document
 - [Fantasy Week 13 Eagles 49ers Outlook](fantasy_week_13_eagles_49ers_outlook.md): another document covering Chase Young, different source
@@ -20,6 +21,10 @@ The Sporting News draws the inference that Young's quest to earn a deal with the
 - [Quiz Lady 2023 Comedy](quiz_lady_2023_comedy.md): shares the name Ferrell, in an unrelated source document
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): the money available to re-sign these players, same source document
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): the argument this thin class supports, same source document
+- [Projecting Chase Young's 2024 Contract Value](chase_young_2024_contract_value_projection.md): same source document (doc_0500)
+- [The 49ers Trade For Chase Young At The 2023 Deadline](chase_young_trade_to_49ers_2023_deadline.md): same source document (doc_0500)
+- [Why The Franchise Tag May Not Suit Chase Young](franchise_tag_option_for_chase_young.md): same source document (doc_0500)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

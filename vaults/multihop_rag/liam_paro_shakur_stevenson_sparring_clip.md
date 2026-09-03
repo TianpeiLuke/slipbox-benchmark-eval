@@ -13,11 +13,16 @@ He also kept the working relationship open. Paro, who along with Stevenson has s
 
 ## Related Notes
 
+
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): another boxing item connected to Las Vegas, from a different document.
 - [Britney Spears and Jason Alexander's 55-Hour Marriage](britney_spears_jason_alexander_55_hour_marriage.md): also set in Las Vegas, separately sourced.
 - [Britney Spears' Memoir on Body Scrutiny and Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): another Las Vegas-linked item, in a different document.
 - [Caesars Sportsbook Kentucky](caesars_sportsbook_kentucky.md): also references Las Vegas, from a separate source.
 - [Canelo Alvarez Defeats Jermell Charlo, 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): another Las Vegas boxing event, in a different document.
+- [Liam Paro's 2023 Injury Setbacks](liam_paro_2023_injury_setbacks.md): same source document (doc_0341)
+- [Liam Paro vs Montana Love, December 2023](liam_paro_vs_montana_love_december_2023.md): same source document (doc_0341)
+- [Liam Paro's World Title Ambitions](liam_paro_world_title_ambitions.md): same source document (doc_0341)
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

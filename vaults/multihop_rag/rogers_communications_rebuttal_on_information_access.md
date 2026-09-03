@@ -11,6 +11,7 @@ The company also disputed that the courtroom was the right venue and that the di
 
 ## Related Notes
 
+
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): shares an acquisition theme from a different source document.
 - [Activision Blizzard Union Stalling And Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): shares an acquisition theme from a different source document.
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares a telecom and acquisition theme from a different source document.
@@ -19,6 +20,13 @@ The company also disputed that the courtroom was the right venue and that the di
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): shares an acquisition theme from a different source document.
 - [Broadcom Q4 FY2023 Earnings Preview And VMware Integration](broadcom_q4_fy2023_earnings_preview_and_vmware_integration.md): shares a merger-integration theme from a different source document.
 - [CAR T-Cell Therapy](car_t_cell_therapy.md): shares an acquisition theme from a different source document.
+- [Rogers Communications Company Profile](rogers_communications_company_profile.md): same source document (doc_0156)
+- [The Rogers Control Trust And Family Power Shifts](rogers_control_trust_and_family_power_shifts.md): same source document (doc_0156)
+- [The Rogers Family Boardroom Battle Of 2021](rogers_family_boardroom_battle_2021.md): same source document (doc_0156)
+- [The Rogers Family Truce During The Shaw Takeover](rogers_family_truce_during_shaw_takeover.md): same source document (doc_0156)
+- [The Rogers Governance Committee Investigation Of The 2021 Events](rogers_governance_committee_investigation_of_2021_events.md): same source document (doc_0156)
+- [The Rogers Sisters' Oppression Lawsuit Of 2023](rogers_sisters_oppression_lawsuit_2023.md): same source document (doc_0156)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

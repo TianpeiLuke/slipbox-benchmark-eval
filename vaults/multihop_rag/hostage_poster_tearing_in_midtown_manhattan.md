@@ -13,12 +13,18 @@ The father, already deeply pained, was incensed. He shouted out angrily while th
 
 ## Related Notes
 
+
 - [Bring Them Home Now Hostage Billboard Campaign](bring_them_home_now_hostage_billboard_campaign.md): same interview, on billboards chosen because they cannot be torn down
 - [Emily Hand Abduction From Kibbutz Beeri](emily_hand_abduction_from_kibbutz_beeri.md): same source document
 - [Beeri Kibbutz Casualties And Displaced Residents](beeri_kibbutz_casualties_and_displaced_residents.md): same source document
 - [Cairo Diplomatic Surge And Summit For Peace 2023](cairo_diplomatic_surge_and_summit_for_peace_2023.md): shares the Middle East context, different document
 - [Afc 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): shares only a Middle East tag, unrelated subject
 - [Fed Dovish Comments And Yield Retreat October 2023](fed_dovish_comments_and_yield_retreat_october_2023.md): shares only a Middle East tag, unrelated subject
+- [Cristiano Ronaldo's Al Nassr Move And 53-Goal 2023](cristiano_ronaldo_al_nassr_move_and_2023_goal_tally.md): both discuss Middle East; different source document
+- [The Day Of Reckoning Card And The Heavyweight Unification Path](day_of_reckoning_card_and_heavyweight_unification_path.md): both discuss Middle East; different source document
+- [Emily Hand's Dancing Talent And Beyoncé Routines](emily_hand_dancing_talent_and_beyonce_routines.md): same source document (doc_0596)
+- [Emily Hand's Ninth Birthday In Gaza Captivity](emily_hand_ninth_birthday_in_gaza_captivity.md): same source document (doc_0596)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

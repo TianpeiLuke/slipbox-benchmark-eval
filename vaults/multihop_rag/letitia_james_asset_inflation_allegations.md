@@ -11,6 +11,7 @@ The lawsuit accused Trump and his company of routinely inflating the value of as
 
 ## Related Notes
 
+
 - [Argument That a Trump Presidency Would Not Doom Ukraine](argument_that_a_trump_presidency_would_not_doom_ukraine.md): another note on Trump and deal-making.
 - [Going Infinite: Lewis's Account](going_infinite_lewis_account.md): another account of a business figure accused of misrepresentation.
 - [Golf Ball Rollback Policy](golf_ball_rollback_policy.md): shares golf courses as a subject reference.
@@ -19,6 +20,8 @@ The lawsuit accused Trump and his company of routinely inflating the value of as
 - [Engoron's "Fantasy World" Finding on Trump Financial Statements](engoron_fantasy_world_finding_on_trump_financial_statements.md): the judicial finding on these allegations.
 - [Engoron Summary Judgment That Trump Committed Fraud](engoron_summary_judgment_that_trump_committed_fraud.md): the ruling resolving the key claim in this lawsuit.
 - [Letitia James History of Investigating Trump](letitia_james_history_of_investigating_trump.md): how the attorney general came to bring this case.
+- [Mar-a-Lago Valuation Dispute](mar_a_lago_valuation_dispute.md): same source document (doc_0529)
+- [Penalties Sought in the Letitia James Civil Fraud Lawsuit](penalties_sought_in_the_letitia_james_civil_fraud_lawsuit.md): same source document (doc_0529)
 
 ## Source
 

@@ -13,6 +13,7 @@ The model holds only under a stated precondition: it applies if it turns out tha
 
 ## Related Notes
 
+
 - [Flu Vaccine Timing and Severity Reduction](flu_vaccine_timing_and_severity_reduction_sylvester.md): shares respiratory-tract and infection-acquisition vocabulary, from a different source article.
 - [AKC Owner and Vet Action Guidance for Canine Illness](akc_owner_and_vet_action_guidance_canine_illness.md): the practical response to the illness this mechanism would explain, from the same Yahoo News report (doc_0565).
 - [Atypical Small-Genome Canine Microbiome Bacterium](atypical_small_genome_canine_microbiome_bacterium.md): supplies the smallness this mechanism turns into severity, from the same report (doc_0565).
@@ -21,6 +22,8 @@ The model holds only under a stated precondition: it applies if it turns out tha
 - [Canine Respiratory Illness Cause Evidence and Caveats](canine_respiratory_illness_cause_evidence_caveats.md): tests the conditional premise this mechanism depends on, from the same report (doc_0565).
 - [Canine Respiratory Illness State Case Reports 2023](canine_respiratory_illness_state_case_reports_2023.md): where the affected dogs have been reported, from the same report (doc_0565).
 - [Canine Respiratory Illness Three Clinical Presentations](canine_respiratory_illness_three_clinical_presentations.md): the pneumonia forms this mechanism points toward, from the same report (doc_0565).
+- [Holiday Kennel and Dog Park Avoidance Guidance](holiday_kennel_and_dog_park_avoidance_guidance.md): same source document (doc_0565)
+- [House Sitter and Dog Walker as a Boarding Alternative](house_sitter_dog_walker_boarding_alternative.md): same source document (doc_0565)
 
 ## Source
 

@@ -11,6 +11,7 @@ Quarraisha Abdool Karim, Sharma, Dr. Monica Gandhi and Dr. Raphael Landovitz agr
 
 ## Related Notes
 
+
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): shares North America as a population it breaks down.
 - [Beyond Antibiotics: The Emerging Therapeutic Arsenal](beyond_antibiotics_emerging_therapeutic_arsenal.md): another Live Science piece on the long search for better treatments.
 - [Canada Ski Holidays Overview](canada_ski_holidays_overview.md): shares North America as its geographic subject.
@@ -19,6 +20,8 @@ Quarraisha Abdool Karim, Sharma, Dr. Monica Gandhi and Dr. Raphael Landovitz agr
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): from the same article, describing the treatment that lets people grow old with HIV.
 - [Country Progress Toward the 95-95-95 Targets](country_progress_toward_95_95_95_targets.md): from the same article, on the national progress needed to reach this endpoint.
 - [Global HIV Burden in 2022](global_hiv_burden_2022.md): from the same article, giving the current infection and death burden.
+- [HIV Key Population Treatment Gaps](hiv_key_population_treatment_gaps.md): same source document (doc_0238)
+- [HIV Pre-Exposure Prophylaxis and Other Prevention Tools](hiv_pre_exposure_prophylaxis_prevention_tools.md): same source document (doc_0238)
 
 ## Source
 

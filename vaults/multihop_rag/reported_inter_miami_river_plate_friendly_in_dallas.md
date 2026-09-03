@@ -13,6 +13,7 @@ The match would supposedly be the second leg of a two-part trip for River Plate,
 
 ## Related Notes
 
+
 - [Chicago Fire 4-1 Inter Miami October 2023 Recap](chicago_fire_4_1_inter_miami_october_2023_recap.md): also discusses Inter Miami, from a different document.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): also discusses Inter Miami, from a different document.
 - [Chicago Fire Inter Miami Second Half Live Blog](chicago_fire_inter_miami_second_half_live_blog.md): also discusses Inter Miami, from a different document.
@@ -21,6 +22,8 @@ The match would supposedly be the second leg of a two-part trip for River Plate,
 - [Cancelled China Tour and the NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): another fixture that changed after being announced, from the same document.
 - [Inter Miami's 2024 Preseason Fixture List](inter_miami_2024_preseason_fixture_list.md): the schedule that lists this as unconfirmed, from the same document.
 - [Inter Miami's Friendly Against El Salvador](inter_miami_friendly_against_el_salvador.md): the confirmed fixture that conflicts with it, from the same document.
+- [Inter Miami's Hong Kong Leg Of The Asia Tour](inter_miami_hong_kong_leg_of_asia_tour.md): same source document (doc_0535)
+- [Inter Miami vs Vissel Kobe In Tokyo](inter_miami_vs_vissel_kobe_in_tokyo.md): same source document (doc_0535)
 
 ## Source
 

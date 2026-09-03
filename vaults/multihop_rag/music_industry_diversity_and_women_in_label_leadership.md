@@ -11,6 +11,7 @@ The supporting evidence is the scarcity at the top: there just are not enough wo
 
 ## Related Notes
 
+
 - [Hipgnosis Board Defence Of Portfolio Value](hipgnosis_board_defence_of_portfolio_value.md): also reported by Music Business Worldwide, from a different source document.
 - [Media Coverage Share As Barrier For Women's Sports](media_coverage_share_as_barrier_for_womens_sports.md): concerns diversity, change and women's representation in another industry, from a different source document.
 - [Music Catalog Acquisition Market Slowdown 2023](music_catalog_acquisition_market_slowdown_2023.md): also reported by Music Business Worldwide, from a different source document.
@@ -19,6 +20,8 @@ The supporting evidence is the scarcity at the top: there just are not enough wo
 - [Beatles Now And Then 2023 Release](beatles_now_and_then_2023_release.md): drawn from the same interview and covers another part of Jubelirer's account of the year.
 - [Capitol 2023 Frontline Roster Highlights](capitol_2023_frontline_roster_highlights.md): drawn from the same interview and covers the roster her leadership delivered.
 - [Capitol Hip Hop And RnB Executive Build Out](capitol_hip_hop_and_rnb_executive_build_out.md): drawn from the same interview and describes the internal promotion of Black executives this argument calls for.
+- [Capitol's International-First, Direct-To-Fan Campaign Model](capitol_international_first_and_direct_to_fan_strategy.md): same source document (doc_0212)
+- [Capitol Music Group's Leadership Turmoil, 2020-2021](capitol_music_group_leadership_turmoil_2020_2021.md): same source document (doc_0212)
 
 ## Source
 

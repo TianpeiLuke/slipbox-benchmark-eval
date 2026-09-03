@@ -13,6 +13,7 @@ The efficiency numbers, as reported Nov. 7, 2023, pointed the same way. SMU had 
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): also discusses Texas, Oregon and Washington teams, from a different document.
 - [2023 Bowl Season Betting Trends](2023_bowl_season_betting_trends.md): shares the sports-betting-odds subject area, separately sourced.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): another betting-market explainer, in a different document.
@@ -21,6 +22,12 @@ The efficiency numbers, as reported Nov. 7, 2023, pointed the same way. SMU had 
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): shares the betting-odds subject area, separately sourced.
 - [Bet365 Sportsbook Kentucky](bet365_sportsbook_kentucky.md): another sportsbook item on that theme, in a different document.
 - [Bet365 Sportsbook US MLB Markets](bet365_sportsbook_us_mlb_markets.md): also covers betting markets and odds, from a separate source.
+- [North Texas Mean Green 2023 Profile](north_texas_mean_green_2023_profile.md): same source document (doc_0006)
+- [The Against-The-Spread Pick In North Texas-SMU](north_texas_smu_against_the_spread_pick.md): same source document (doc_0006)
+- [North Texas-SMU Game Prop Markets](north_texas_smu_game_prop_markets.md): same source document (doc_0006)
+- [Preston Stone's Concussion Contingency](preston_stone_concussion_contingency.md): same source document (doc_0006)
+- [SMU Mustangs 2023 Offense Profile](smu_mustangs_2023_offense_profile.md): same source document (doc_0006)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

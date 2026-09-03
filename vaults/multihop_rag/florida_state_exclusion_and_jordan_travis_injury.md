@@ -13,6 +13,7 @@ Travis posted his own reaction on 3 December 2023: "devastated. heartbroken. In 
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): also concerns Florida State, from a different document.
 - [Alabama CFP Head-to-Head Debates: Texas and Florida State](alabama_cfp_head_to_head_debates_texas_florida_state.md): also concerns Florida State, from a different document.
 - [Alabama's Preferred CFP Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also concerns Florida State, from a different document.
@@ -21,6 +22,8 @@ Travis posted his own reaction on 3 December 2023: "devastated. heartbroken. In 
 - [Alabama, Texas and the SEC Selection Dilemma, 2023](alabama_texas_sec_selection_dilemma_2023.md): drawn from the same document (doc_0155).
 - [The CFP Committee's "Different Team" Justification for Florida State](cfp_committee_florida_state_different_team_justification.md): drawn from the same document (doc_0155).
 - [CFP Twelve-Team Expansion and the Sanctity of the Regular Season](cfp_twelve_team_expansion_and_regular_season_sanctity.md): drawn from the same document (doc_0155).
+- [College Football's "Best Versus Most Deserving" Debate](college_football_best_versus_most_deserving_debate.md): same source document (doc_0155)
+- [The 2023 College Football Playoff Final Four Field](college_football_playoff_2023_final_four_field.md): same source document (doc_0155)
 
 ## Source
 

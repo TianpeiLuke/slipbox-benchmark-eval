@@ -15,11 +15,18 @@ USC began its next drive at its own 33 with 6:38 left in the quarter. Williams w
 
 ## Related Notes
 
+
 - [Bills Bengals SNF Third Quarter](bills_bengals_snf_third_quarter.md): a comparable football play-by-play log, from a different source document
 - [College Football Week 6 2023 Ranked Matchup Slate](college_football_week6_2023_ranked_matchup_slate.md): another Notre Dame item, from a different source document
 - [Mock Draft 2024 Round 1 Offensive Tackles](mock_draft_2024_round_1_offensive_tackles.md): another document discussing Notre Dame
 - [Mock Draft 2024 Round 1 Quarterbacks](mock_draft_2024_round_1_quarterbacks.md): covers Caleb Williams from a different source document
 - [Mombies Costume and Makeup Preparation](mombies_costume_and_makeup_preparation.md): shares the name Michael Jackson, in an unrelated source document
+- [Notre Dame's Fourth Quarter Against USC, Oct. 14 2023](notre_dame_usc_2023_fourth_quarter.md): same source document (doc_0378)
+- [Notre Dame's Second Quarter Against USC, Oct. 14 2023](notre_dame_usc_2023_second_quarter.md): same source document (doc_0378)
+- [Notre Dame's Third Quarter Against USC, Oct. 14 2023](notre_dame_usc_2023_third_quarter.md): same source document (doc_0378)
+- [Turnovers, Not Yardage, Decided Notre Dame's Win Over USC](notre_dame_usc_2023_turnover_margin_analysis.md): same source document (doc_0378)
+- [USC vs. Notre Dame 2023: Broadcast And Venue Details](usc_notre_dame_2023_broadcast_and_venue.md): same source document (doc_0378)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

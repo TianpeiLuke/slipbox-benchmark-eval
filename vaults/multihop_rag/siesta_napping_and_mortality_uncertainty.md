@@ -11,12 +11,17 @@ The researchers themselves qualify that finding. Similar to the case of olive oi
 
 ## Related Notes
 
+
 - [Acurable Respiratory Wearables](acurable_respiratory_wearables.md): another discussion of sleep, sleep apnea and disease.
 - [Cardiovascular Benefits Outweigh GLP-1 GI Risks](cardiovascular_benefits_outweigh_glp1_gi_risks.md): another weighing of cardiovascular incidence against countervailing risks.
 - [Cannabis Exposure and Placental Dysfunction](cannabis_exposure_and_placental_dysfunction.md): from the same diet-and-health group of sources.
 - [The Cannabis Pregnancy Study's Urine Screening Method](cannabis_pregnancy_study_urine_screening_method.md): from the same diet-and-health group of sources.
 - [Cannabis Use and the Stillbirth Association](cannabis_use_and_stillbirth_association.md): another association weakened once confounders are considered.
 - [Adapting the Mediterranean Lifestyle to Other Cultures](adapting_the_mediterranean_lifestyle_to_other_cultures.md): from the same article, on which habits to promote.
+- [The Mediterranean Lifestyle Defined](mediterranean_lifestyle_definition.md): same source document (doc_0466)
+- [The Mediterranean Lifestyle UK Biobank Mortality Study](mediterranean_lifestyle_uk_biobank_mortality_study.md): same source document (doc_0466)
+- [The MEDLIFE Mediterranean Lifestyle Index](medlife_mediterranean_lifestyle_index.md): same source document (doc_0466)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
 
 ## Source
 

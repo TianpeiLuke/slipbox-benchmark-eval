@@ -13,11 +13,19 @@ On AR he was more speculative but saw a specific fit. He raised open questions â
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): also mentions the Vision Pro, from a different source document.
 - [Astro A40 TR Gaming Headset Deal](astro_a40_tr_gaming_headset_deal.md): overlaps on immersive headsets, from a different source document.
 - [Consumer AR and VR Hardware](consumer_ar_vr_hardware.md): also concerns the Meta Quest, from a different source document.
 - [Meta Quest 2 Black Friday Bundle Price](meta_quest_2_black_friday_bundle_price.md): also concerns the Meta Quest, from a different source document.
 - [Meta Quest 2 Black Friday Deal](meta_quest_2_black_friday_deal.md): overlaps on the Quest headset, from a different source document.
+- [Metaverse Interoperability And 3D File Formats](metaverse_interoperability_and_3d_file_formats.md): same source document (doc_0539)
+- [Roblox Advertising And Brand Experiences](roblox_advertising_and_brand_experiences.md): same source document (doc_0539)
+- [Roblox Aging Up: An Older User Base](roblox_aging_up_older_user_base.md): same source document (doc_0539)
+- [Roblox As A Communication Platform, Not A Game](roblox_as_communication_platform_not_game.md): same source document (doc_0539)
+- [Roblox's China Strategy And Tencent](roblox_china_strategy_and_tencent.md): same source document (doc_0539)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Machine Translation](term_machine_translation.md): uses the concept machine translation
 
 ## Source
 

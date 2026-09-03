@@ -11,9 +11,15 @@ He had taken Miguel Almiron's pass and teed himself up before thumping the ball 
 
 ## Related Notes
 
+
 - [Champions League 2023-24 Group F: Dortmund and PSG](champions_league_2023_24_group_f_dortmund_psg.md): overlaps on Newcastle taking the lead, from a different document.
 - [StarNews Funding Round](starnews_funding_round.md): also concerns Mike Maignan, from a different document.
 - [Newcastle vs Crystal Palace Preview, October 2023](newcastle_versus_crystal_palace_october_2023_preview.md): covers the same club's season, from a different document.
+- [Newcastle's Champions League Defeat To AC Milan](newcastle_ac_milan_champions_league_defeat_2023.md): same source document (doc_0425)
+- [Newcastle's Elimination From The Group Of Death](newcastle_group_of_death_elimination_2023.md): same source document (doc_0425)
+- [Newcastle's Squad-Depth Deficit In Europe](newcastle_squad_depth_deficit_in_europe.md): same source document (doc_0425)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

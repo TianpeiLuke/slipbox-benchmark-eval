@@ -13,10 +13,13 @@ The grounds for the criticism are two named tracks: Olive Tree and Live and Let 
 
 ## Related Notes
 
+
 - [Peter Gabriel Io First Solo Album In Two Decades](peter_gabriel_io_first_solo_album_in_two_decades.md): same review, describing the album under judgment
 - [Peter Gabriel From Genesis To Eighties Pop Ubiquity](peter_gabriel_from_genesis_to_eighties_pop_ubiquity.md): same review, on the career this record follows
 - [Tate Mcrae Think Later Album Review](tate_mcrae_think_later_album_review.md): the companion review in the same column, with a parallel complaint about pacing
 - [Springboks Beat All Blacks 12 11 Rwc 2023 Final](springboks_beat_all_blacks_12_11_rwc_2023_final.md): also mentions Nelson Mandela, from a different document
+- [Tate McRae's Greedy TikTok Breakthrough](tate_mcrae_greedy_tiktok_breakthrough.md): same source document (doc_0579)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

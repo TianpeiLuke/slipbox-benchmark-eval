@@ -11,6 +11,7 @@ The episode the profile centres on is Grant's recovery from a bike accident the 
 
 ## Related Notes
 
+
 - [Alameda Research Origins And Naming](alameda_research_origins_and_naming.md): a similarity-index neighbour on a shared tour feature, topically unrelated
 - [Alexei Popyrin Davis Cup Breakthrough](alexei_popyrin_davis_cup_breakthrough.md): another shared-feature match from unrelated sports coverage
 - [Animal Crossing New Horizons](animal_crossing_new_horizons.md): another index-level neighbour with no topical overlap
@@ -19,6 +20,15 @@ The episode the profile centres on is Grant's recovery from a bike accident the 
 - [Bad Blood Taylor Swift Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): another shared-feature match from a different music article
 - [Bankman Fried Post Bankruptcy Media Tour](bankman_fried_post_bankruptcy_media_tour.md): a further index-level neighbour with no topical connection
 - [Biggest Concert Films Box Office Records](biggest_concert_films_box_office_records.md): another touring-feature neighbour from separate reporting
+- [Carrie Underwood And Mike Fisher's Marriage](carrie_underwood_and_mike_fisher_marriage.md): same source document (doc_0019)
+- [Chris Stapleton And Morgane Stapleton's Marriage](chris_stapleton_and_morgane_stapleton_marriage.md): same source document (doc_0019)
+- [Country Music Couples And Their Advice On Lasting Marriages](country_music_couples_marriage_advice_roundup.md): same source document (doc_0019)
+- [Dolly Parton And Carl Thomas Dean's Marriage](dolly_parton_and_carl_thomas_dean_marriage.md): same source document (doc_0019)
+- [Garth Brooks And Trisha Yearwood's Marriage](garth_brooks_and_trisha_yearwood_marriage.md): same source document (doc_0019)
+- [Keith Urban And Nicole Kidman's Marriage](keith_urban_and_nicole_kidman_marriage.md): same source document (doc_0019)
+- [Martina McBride And John McBride's Marriage](martina_mcbride_and_john_mcbride_marriage.md): same source document (doc_0019)
+- [Tim McGraw And Faith Hill's Marriage](tim_mcgraw_and_faith_hill_marriage.md): same source document (doc_0019)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

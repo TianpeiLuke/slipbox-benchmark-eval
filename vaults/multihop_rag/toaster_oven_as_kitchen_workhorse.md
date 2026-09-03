@@ -13,6 +13,7 @@ Hers is a pretty basic model, but these days many come with other features, like
 
 ## Related Notes
 
+
 - [Apple-Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): also features Amelia Holowaty Krales' work, from a different source document.
 - [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): also features Amelia Holowaty Krales' work, from a different source document.
 - [Apple Watch Double Tap Gesture](apple_watch_double_tap_gesture.md): also features Amelia Holowaty Krales' work, from a different source document.
@@ -21,6 +22,8 @@ Hers is a pretty basic model, but these days many come with other features, like
 - [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): drawn from the same source document (doc_0575).
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): drawn from the same source document (doc_0575).
 - [Atumtek Bluetooth Selfie Tripod](atumtek_bluetooth_selfie_tripod.md): drawn from the same source document (doc_0575).
+- [Baboon To The Moon Fanny Pack](baboon_to_the_moon_fanny_pack.md): same source document (doc_0575)
+- [The Bedside Charging Station Habit](bedside_charging_station_habit.md): same source document (doc_0575)
 
 ## Source
 

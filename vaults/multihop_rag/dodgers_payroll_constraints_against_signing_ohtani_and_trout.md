@@ -13,10 +13,19 @@ The payroll grounds close the argument. The Dodgers already have six players the
 
 ## Related Notes
 
+
 - [Alex Verdugo's Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): also discusses Mookie Betts, one of the contracts on this payroll, from a different document.
 - [Dodger Stadium And The Los Angeles Dodgers' Postseason Atmosphere](dodger_stadium_los_angeles_dodgers_postseason_atmosphere.md): also discusses Freddie Freeman and Mookie Betts, from a different document.
 - [Juan Soto's Padres Trade Candidacy](juan_soto_padres_trade_candidacy.md): also discusses Shohei Ohtani in the same offseason market, from a different document.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares the Major League Baseball setting, from a different document.
+- [Boeing Q3 2023 Earnings Preview and 737 MAX Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): shares streaming_service, valuation; different source document
+- [The Angels' 2023 Offseason: Ohtani And Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): same source document (doc_0423)
+- [The Case For The Dodgers Signing Mike Trout Over Ohtani](case_for_dodgers_signing_mike_trout_over_ohtani.md): same source document (doc_0423)
+- [The Dodgers' Pitching Need Versus Ohtani's 2024 Elbow Injury](dodgers_pitching_need_versus_ohtani_2024_elbow_injury.md): same source document (doc_0423)
+- [Obstacles To Mike Trout Leaving The Angels](obstacles_to_mike_trout_leaving_the_angels.md): same source document (doc_0423)
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

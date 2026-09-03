@@ -13,6 +13,7 @@ Recent growth has been solid: FY21-23 revenue and EBITDA CAGR of 38 and 50 per c
 
 ## Related Notes
 
+
 - [Tech Layoffs May 2023](tech_layoffs_may_2023.md): another note concerning Reliance Retail.
 - [AI Pricing Models](ai_pricing_models.md): shares a corpus-level content tag with this note.
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the addressable-market framing used here.
@@ -21,6 +22,13 @@ Recent growth has been solid: FY21-23 revenue and EBITDA CAGR of 38 and 50 per c
 - [Bank of Israel Interest Rate Policy During the War](bank_of_israel_interest_rate_policy_during_the_war.md): shares a corpus-level content tag with this note.
 - [Bankman-Fried and Zhao Convictions and Binance Aftermath](bankman_fried_and_zhao_convictions_and_binance_aftermath.md): shares the addressable-market content tag used across the corpus.
 - [Bet365 Sportsbook Kentucky](bet365_sportsbook_kentucky.md): shares the addressable-market content tag used across the corpus.
+- [Reliance Green Energy Investment Programme](reliance_green_energy_investment_programme.md): same source document (doc_0253)
+- [Reliance Industries Share Price and Growth Catalysts](reliance_industries_share_price_and_growth_catalysts.md): same source document (doc_0253)
+- [Reliance Industries Sum-of-the-Parts Valuation Case](reliance_industries_sum_of_the_parts_valuation_case.md): same source document (doc_0253)
+- [Reliance Jio Telecom Growth Outlook](reliance_jio_telecom_growth_outlook.md): same source document (doc_0253)
+- [Reliance O2C and Exploration Business Economics](reliance_o2c_and_exploration_business_economics.md): same source document (doc_0253)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
+- [Total Addressable Market (TAM)](term_total_addressable_market.md): uses the concept total addressable market
 
 ## Source
 

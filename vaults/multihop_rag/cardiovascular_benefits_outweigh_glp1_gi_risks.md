@@ -13,6 +13,7 @@ His conclusion keeps the disclosure obligation while reversing the practical ver
 
 ## Related Notes
 
+
 - [GLP-1 Receptor Agonists Diabetes and Weight Loss](glp1_receptor_agonists_diabetes_and_weight_loss.md): overlapping vocabulary on cardiovascular, agonists, glp-1, from a different source document.
 - [Siesta Napping and Mortality Uncertainty](siesta_napping_and_mortality_uncertainty.md): overlapping vocabulary on cardiovascular, incidence, prevalence, from a different source document.
 - [Case for Adding Gastroparesis to GLP-1 Warning Labels](case_for_adding_gastroparesis_to_glp1_warning_labels.md): drawn from the same source document (doc_0066).
@@ -21,6 +22,8 @@ His conclusion keeps the disclosure obligation while reversing the practical ver
 - [Individualized GLP-1 Benefit Risk Assessment](individualized_glp1_benefit_risk_assessment.md): drawn from the same source document (doc_0066).
 - [Limitations of the UBC GLP-1 Claims Analysis](limitations_of_the_ubc_glp1_claims_analysis.md): drawn from the same source document (doc_0066).
 - [Louisiana Lawsuit over Ozempic and Mounjaro GI Injuries](louisiana_lawsuit_over_ozempic_and_mounjaro_gi_injuries.md): drawn from the same source document (doc_0066).
+- [Novo Nordisk's Response To The GLP-1 Gastroparesis Findings](novo_nordisk_response_to_glp1_gastroparesis_findings.md): same source document (doc_0066)
+- [Whether Gastroparesis Persists After Stopping GLP-1 Drugs](persistence_of_gastroparesis_after_stopping_glp1_drugs.md): same source document (doc_0066)
 
 ## Source
 

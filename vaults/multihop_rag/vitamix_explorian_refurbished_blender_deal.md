@@ -13,6 +13,7 @@ It has been cleaned and tested to work as good as new, save for a few hard-to-se
 
 ## Related Notes
 
+
 - [Airpods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): another pick from the same Walmart roundup
 - [Apple Watch Se Record Low Price](apple_watch_se_record_low_price.md): another pick from the same Walmart roundup
 - [Apple Watch Series 9 Walmart Deal](apple_watch_series_9_walmart_deal.md): another pick from the same Walmart roundup
@@ -21,6 +22,8 @@ It has been cleaned and tested to work as good as new, save for a few hard-to-se
 - [Hp Business 2 In 1 Laptop Deal](hp_business_2_in_1_laptop_deal.md): another pick from the same Walmart roundup
 - [Jbl Charge Portable Speaker Deal](jbl_charge_portable_speaker_deal.md): another pick from the same Walmart roundup
 - [Macbook Pricing And Discount Landscape](macbook_pricing_and_discount_landscape.md): also discusses refurbished pricing and warranties, different document
+- [LEGO Star Wars Baby Yoda Deal And The Decline Of The Doorbuster](lego_star_wars_baby_yoda_deal_and_doorbuster_decline.md): same source document (doc_0558)
+- [Meta Quest 2 Black Friday And Cyber Monday Bundle Price](meta_quest_2_black_friday_bundle_price.md): same source document (doc_0558)
 
 ## Source
 

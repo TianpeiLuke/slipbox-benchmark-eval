@@ -11,6 +11,7 @@ Mozilla — the mission-driven tech company behind the Firefox browser, Pocket r
 
 ## Related Notes
 
+
 - [ActivityPub And Rival Social Protocols](activitypub_and_rival_social_protocols.md): the strongest overlap, situating ActivityPub among competing protocols, from a different document.
 - [Apple Watch ITC Import Ban And Preemptive Sales Halt](apple_watch_itc_import_ban_and_preemptive_sales_halt.md): shares the Big Tech subject area, from a different document.
 - [Big Tech Antitrust Outlook](big_tech_antitrust_outlook.md): shares the Big Tech subject area, from a different document.
@@ -19,6 +20,8 @@ Mozilla — the mission-driven tech company behind the Firefox browser, Pocket r
 - [Apple's Generative AI Investment Stance](apple_generative_ai_investment_stance.md): drawn from the same source document (doc_0116).
 - [Apple M3 Mac Reviews And Chip Lineup](apple_m3_mac_reviews_and_chip_lineup.md): drawn from the same source document (doc_0116).
 - [Aseel: From Afghan Artisan Ecommerce To Humanitarian Aid](aseel_afghan_artisan_ecommerce_to_humanitarian_aid.md): drawn from the same source document (doc_0116).
+- [Bumble's CEO Transition To Lidiane Jones](bumble_ceo_transition_lidiane_jones.md): same source document (doc_0116)
+- [EV Sector Setbacks: Arrival And US Automakers](ev_sector_setbacks_arrival_and_us_automakers.md): same source document (doc_0116)
 
 ## Source
 

@@ -13,6 +13,7 @@ World of Warcraft now comes under the Microsoft umbrella, and the BBC lists more
 
 ## Related Notes
 
+
 - [Game Preservation's Ship Of Theseus Problem](game_preservation_ship_of_theseus_problem.md): overlaps on World of Warcraft and long-lived games, from a different source document.
 - [Microsoft Cloud Gaming And Device-Agnostic Strategy](microsoft_cloud_gaming_and_device_agnostic_strategy.md): overlaps on Microsoft's gaming studios and strategy, from a different source document.
 - [Microsoft Game Studio Portfolio](microsoft_game_studio_portfolio.md): overlaps closely on what Microsoft owns under its umbrella, from a different source document.
@@ -21,6 +22,8 @@ World of Warcraft now comes under the Microsoft umbrella, and the BBC lists more
 - [Activision Titles On Xbox Game Pass](activision_titles_on_xbox_game_pass.md): drawn from the same source document (doc_0214).
 - [Call Of Duty's PlayStation Availability After The Microsoft Deal](call_of_duty_playstation_availability_after_microsoft_deal.md): drawn from the same source document (doc_0214).
 - [Fan Opposition To Activision Console Exclusivity Risk](fan_opposition_to_activision_console_exclusivity_risk.md): drawn from the same source document (doc_0214).
+- [Gamer Reactions At EGX To The Microsoft-Activision Deal](gamer_reactions_at_egx_to_microsoft_activision_deal.md): same source document (doc_0214)
+- [Microsoft's Acquisition Of Activision Blizzard King](microsoft_activision_blizzard_king_acquisition.md): same source document (doc_0214)
 
 ## Source
 

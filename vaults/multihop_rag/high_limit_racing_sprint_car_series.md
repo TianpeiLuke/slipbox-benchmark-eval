@@ -11,6 +11,7 @@ The 2021 Cup Series champion is in the prime of his career and has a lot of year
 
 ## Related Notes
 
+
 - [Autosport Top 50 Drivers 2023: NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): also discusses the Cup Series and Kyle Larson, from a different source document.
 - [Chris Buescher's 2023 Season and Autosport Snub](chris_buescher_2023_season_autosport_snub.md): also discusses the Cup Series, from a different source document.
 - [Christopher Bell's 2023 Season and Autosport Snub](christopher_bell_2023_season_autosport_snub.md): also discusses the Cup Series, from a different source document.
@@ -19,6 +20,7 @@ The 2021 Cup Series champion is in the prime of his career and has a lot of year
 - [Dale Earnhardt Jr's Visit to High Limit's Commonwealth Clash](dale_earnhardt_jr_visit_to_high_limit_commonwealth_clash.md): same source document, on the visit that drew the crowd mentioned here.
 - [High Limit Racing's Purse Escalation Mechanism](high_limit_racing_purse_escalation_mechanism.md): same source document, on how the series is meant to lift purses elsewhere.
 - [Kyle Larson's Late-Race Mistake at Lernerville](kyle_larson_lernerville_late_race_mistake.md): same source document, on Larson's own run in one of his series' races.
+- [Kyle Larson On The Origins Of High Limit Racing](kyle_larson_origins_of_high_limit_racing.md): same source document (doc_0443)
 
 ## Source
 

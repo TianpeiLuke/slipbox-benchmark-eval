@@ -13,6 +13,7 @@ What distinguishes it is a particular attention to detail and some masterful son
 
 ## Related Notes
 
+
 - [American Horror Story: NYC Season](american_horror_story_nyc_season.md): another write-up by the same critic, Petrana Radulovic, in a different document
 - [Dungeons & Dragons 2023 Play Experiences](dungeons_and_dragons_2023_play_experiences.md): shares the same bylined critic across documents
 - [Hunger Games, Trolls, Wish, Napoleon, Holdovers](hunger_games_trolls_wish_napoleon_holdovers.md): covers the same prequel in a release-schedule article
@@ -21,6 +22,8 @@ What distinguishes it is a particular attention to detail and some masterful son
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): a fellow entry on the same ranked list
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
 - [Barbenheimer Summer 2023 Phenomenon](barbenheimer_summer_2023_phenomenon.md): the year-in-review framing published with this list
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): same source document (doc_0094)
 
 ## Source
 

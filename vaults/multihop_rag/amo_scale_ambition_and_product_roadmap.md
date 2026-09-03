@@ -13,6 +13,7 @@ TechCrunch's assessment is that ID is an opinionated take on social apps and whe
 
 ## Related Notes
 
+
 - [Age Well: Daily Habits For The Over-Fifties](age_well_daily_habits_for_the_over_fifties.md): overlaps on daily-habit framing, from a different document.
 - [YouTube's Dream Track Voice Cloning Experiment](youtube_dream_track_voice_cloning_experiment.md): shares the creator-economy and product-launch themes, from a different document.
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares the creator-economy theme, from a different document.
@@ -21,6 +22,16 @@ TechCrunch's assessment is that ID is an opinionated take on social apps and whe
 - [AI-Generated Works Should Not Be Copyrightable](ai_generated_works_should_not_be_copyrightable.md): shares the creator-economy theme, from a different document.
 - [AI Training Fails The Fair Use Test](ai_training_fails_fair_use_test.md): shares the creator-economy theme, from a different document.
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares the product-launch theme, from a different document.
+- [Amo's Founding Team And Funding Round](amo_founding_team_and_funding_round.md): same source document (doc_0196)
+- [ID: Amo's Creative Social App](amo_id_social_app_launch.md): same source document (doc_0196)
+- [The Empty Canvas Analogy For ID](empty_canvas_design_analogy_for_id.md): same source document (doc_0196)
+- [ID's Profile Canvas Mechanics](id_app_profile_canvas_mechanics.md): same source document (doc_0196)
+- [ID's Emergent Social Gameplay](id_emergent_social_gameplay.md): same source document (doc_0196)
+- [ID's Loneliness Thesis And Anti-Engagement Design](id_loneliness_thesis_and_anti_engagement_design.md): same source document (doc_0196)
+- [Social Networks' Drift From Connection To Algorithmic Feeds](social_networks_drift_from_connection_to_algorithmic_feeds.md): same source document (doc_0196)
+- [Zenly's Acquisition And Shutdown By Snap](zenly_acquisition_and_shutdown_by_snap.md): same source document (doc_0196)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

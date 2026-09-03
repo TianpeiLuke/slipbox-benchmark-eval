@@ -13,6 +13,7 @@ The mood and the picks rounded out the buildup. Joe Burrow arrived at the locker
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also discusses Joe Burrow, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): another Joe Burrow item, separately sourced.
 - [Brock Purdy's Fantasy Outlook, Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also references Joe Burrow, in a different document.
@@ -21,6 +22,8 @@ The mood and the picks rounded out the buildup. Joe Burrow arrived at the locker
 - [Bills-Bengals SNF Broadcast Details](bills_bengals_snf_broadcast_details.md): the coverage details for this game, same source document.
 - [The First Quarter of Bengals 24, Bills 18](bills_bengals_snf_first_quarter.md): the play that followed, same source document.
 - [The Fourth Quarter of Bengals 24, Bills 18](bills_bengals_snf_fourth_quarter.md): how the game finished, same source document.
+- [Bengals 24, Bills 18 On Sunday Night Football](bills_bengals_snf_result_and_recap.md): same source document (doc_0294)
+- [The Second Quarter Of Bengals 24, Bills 18](bills_bengals_snf_second_quarter.md): same source document (doc_0294)
 
 ## Source
 

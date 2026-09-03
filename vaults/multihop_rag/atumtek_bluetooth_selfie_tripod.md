@@ -13,6 +13,7 @@ It also extends up to 60 inches to squeeze everyone into a group selfie if you a
 
 ## Related Notes
 
+
 - [Wired's Black Friday 2023 Smartphone Photography Kit Deals](wired_black_friday_2023_smartphone_photography_kit_deals.md): covers competing smartphone tripods, from a different source document.
 - [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): drawn from the same source document (doc_0575).
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): drawn from the same source document (doc_0575).
@@ -21,6 +22,8 @@ It also extends up to 60 inches to squeeze everyone into a group selfie if you a
 - [ChomChom Pet Hair Remover](chomchom_pet_hair_remover.md): drawn from the same source document (doc_0575).
 - [Epicka Universal Travel Adapter](epicka_universal_travel_adapter.md): drawn from the same source document (doc_0575).
 - [FoodSaver Vacuum Sealer](foodsaver_vacuum_sealer.md): drawn from the same source document (doc_0575).
+- [The Fuzzy Cat Bed Office Companion](fuzzy_cat_bed_office_companion.md): same source document (doc_0575)
+- [iOttie Easy One Touch Qi Charger](iottie_easy_one_touch_qi_car_charger.md): same source document (doc_0575)
 
 ## Source
 

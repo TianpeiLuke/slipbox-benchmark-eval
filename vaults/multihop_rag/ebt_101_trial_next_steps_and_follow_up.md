@@ -11,12 +11,14 @@ The treatment-interruption step is necessary because cART therapies pump the bra
 
 ## Related Notes
 
+
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): from the same article, on the cART that must be interrupted to read out the result.
 - [CRISPR-Cas System Mechanism](crispr_cas_system_mechanism.md): from the same article, on the editing tool under test.
 - [EBT-101 CRISPR HIV Gene Therapy](ebt_101_crispr_hiv_gene_therapy.md): from the same article, describing the therapy this trial advances.
 - [EBT-101 Trial Safety Results](ebt_101_trial_safety_results.md): from the same article, reporting what the first phase has shown so far.
 - [Global HIV Burden in 2022](global_hiv_burden_2022.md): from the same article, giving the scale of the disease the trial addresses.
 - [The Latent HIV Reservoir Challenge](latent_hiv_reservoir_challenge.md): from the same article, explaining why treatment interruption is the only readout.
+- [Clinical Trial](term_clinical_trial.md): uses the concept clinical trial
 
 ## Source
 

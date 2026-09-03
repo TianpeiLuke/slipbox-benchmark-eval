@@ -13,11 +13,18 @@ The final drive followed the same laborious pattern. At 10:46 p.m. Bagent found 
 
 ## Related Notes
 
+
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): also discusses Prime Video, from a different document.
 - [Bears Vikings MNF First Half](bears_vikings_mnf_first_half.md): also discusses Roschon Johnson, from a different document.
 - [Bears Vikings MNF Third Quarter](bears_vikings_mnf_third_quarter.md): also discusses Roschon Johnson, from a different document.
 - [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): also discusses Prime Video, from a different document.
 - [Buccaneers 21-18 Panthers: Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): also discusses Bryce Young, from a different document.
+- [Bears 16, Panthers 13 On Thursday Night Football](bears_16_panthers_13_thursday_night_result.md): same source document (doc_0489)
+- [Bears-Panthers Broadcast And Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): same source document (doc_0489)
+- [Bears-Panthers Pregame Storylines](bears_panthers_pregame_storylines_week_10.md): same source document (doc_0489)
+- [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): same source document (doc_0489)
+- [Defence Of Reich's 59-Yard Field Goal Call](defence_of_reich_59_yard_field_goal_call.md): same source document (doc_0489)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

@@ -15,6 +15,7 @@ Ray herself is a 30-something jet-setter with black-line tattoos and an asymmetr
 
 ## Related Notes
 
+
 - [Bhavik Patel Appointed Mayo Clinic Arizona Chief AI Officer](bhavik_patel_appointed_mayo_clinic_arizona_chief_ai_officer.md): also concerns the Mayo Clinic, from a different source document.
 - [Gastroparesis, Pancreatitis, Bowel Obstruction And Ileus](gastroparesis_pancreatitis_bowel_obstruction_and_ileus.md): also cites Mayo Clinic health information, from a different source document.
 - [Mayo Clinic AI Models For Heart Attack And Cancer Risk](mayo_clinic_ai_models_for_heart_attack_and_cancer_risk.md): also concerns the Mayo Clinic, from a different source document.
@@ -23,6 +24,9 @@ Ray herself is a 30-something jet-setter with black-line tattoos and an asymmetr
 - [The Affiliate Marketing Alligator Party](affiliate_marketing_alligator_party.md): drawn from the same source document (doc_0115).
 - [AI-Generated Content Will Overwhelm Search](ai_generated_content_will_overwhelm_search_prediction.md): drawn from the same source document (doc_0115).
 - [Mass-Generated AI SEO Spam And Churn And Burn](ai_mass_generated_seo_spam_churn_and_burn.md): drawn from the same source document (doc_0115).
+- [The Blurred Line Between SEO And Spam](blurred_line_between_seo_and_spam.md): same source document (doc_0115)
+- [Cade Lee, From Black Hat SEO To Construction](cade_lee_from_black_hat_seo_to_construction.md): same source document (doc_0115)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
 
 ## Source
 

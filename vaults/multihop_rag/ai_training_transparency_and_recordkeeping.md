@@ -11,6 +11,7 @@ The grounds are an enforcement problem the submission makes repeatedly: enforcin
 
 ## Related Notes
 
+
 - [EU AI Act Copyright Obligations for GPAI Makers](eu_ai_act_copyright_obligations_for_gpai_makers.md): overlapping transparency requirements in EU law, from a different source document.
 - [Generative AI Deepfakes Harm to Artists](generative_ai_deepfakes_harm_to_artists.md): part of the same Music Industry AI Policy Demands sub-plan, from a different source document.
 - [Kooker on Tech Industry Distorted Copyright View](kooker_on_tech_industry_distorted_copyright_view.md): part of the same Music Industry AI Policy Demands sub-plan, from a different source document.
@@ -19,6 +20,8 @@ The grounds are an enforcement problem the submission makes repeatedly: enforcin
 - [AI Generated Works Should not Be Copyrightable](ai_generated_works_should_not_be_copyrightable.md): another note drawn from the same source document (doc_0271).
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): a companion argument from the same submission (doc_0271).
 - [Anthropic Fair Use Defense for AI Training](anthropic_fair_use_defense_for_ai_training.md): another note drawn from the same source document (doc_0271).
+- [The EU AI Act's Training Data Disclosure Rule](eu_ai_act_training_data_disclosure_rule.md): same source document (doc_0271)
+- [AI Developers Should Be Required To License Training Material](licensing_requirement_for_ai_training_material.md): same source document (doc_0271)
 
 ## Source
 

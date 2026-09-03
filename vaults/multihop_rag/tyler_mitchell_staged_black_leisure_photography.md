@@ -13,6 +13,7 @@ The warrant joining method to claim is his account of staging: "I'm creating wha
 
 ## Related Notes
 
+
 - [Tyler Mitchell Vogue Covers And Ngv Triennial Works](tyler_mitchell_vogue_covers_and_ngv_triennial_works.md): same interview, describing the works this argument justifies
 - [Tyler Mitchell Career Trajectory And Artistic Outlook](tyler_mitchell_career_trajectory_and_artistic_outlook.md): same interview, on his path into photography
 - [Albert Namatjira Hermannsburg Watercolour Painter](albert_namatjira_hermannsburg_watercolour_painter.md): part of the same portraiture-exhibitions grouping, different source
@@ -20,6 +21,7 @@ The warrant joining method to claim is his account of staging: "I'm creating wha
 - [Vincent Namatjira Call For Foster Care Apology](vincent_namatjira_call_for_foster_care_apology.md): another artist using portraiture as political argument, different source
 - [Gen Z Definition And Formative Events](gen_z_definition_and_formative_events.md): also discusses Black Lives Matter, from a different document
 - [Snap Map As Civic Documentation Tool](snap_map_as_civic_documentation_tool.md): also discusses Black Lives Matter, from a different document
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

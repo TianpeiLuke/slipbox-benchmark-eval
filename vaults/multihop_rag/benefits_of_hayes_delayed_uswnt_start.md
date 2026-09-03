@@ -13,6 +13,7 @@ Hayes' side is personal rather than professional. She will benefit in ways other
 
 ## Related Notes
 
+
 - [Rocket League](rocket_league.md): shares only a soccer-adjacent tagging theme, from a different document.
 - [Chelsea's Early Announcement Of Hayes' Departure](chelsea_early_announcement_of_hayes_departure.md): how the timing became public, from the same article.
 - [Chelsea Players' Reaction To Hayes' Departure](chelsea_players_reaction_to_hayes_departure.md): the effect at the club she stays with, from the same article.
@@ -21,6 +22,8 @@ Hayes' side is personal rather than professional. She will benefit in ways other
 - [Emma Hayes As The Highest-Paid Women's Soccer Coach](emma_hayes_highest_paid_womens_soccer_coach.md): the compensation side of the same deal, from the same article.
 - [Hayes' Delayed Start And Her Chelsea Commitment](hayes_delayed_start_and_chelsea_commitment.md): the commitment that creates this delay, from the same article.
 - [Hayes' Reasons For Leaving Chelsea](hayes_reasons_for_leaving_chelsea.md): the personal reasons that align with these benefits, from the same article.
+- [The USWNT Head Coach Search Process In 2023](uswnt_head_coach_search_process_2023.md): same source document (doc_0108)
+- [The USWNT's Interim Transition Under Twila Kilgore](uswnt_interim_transition_under_twila_kilgore.md): same source document (doc_0108)
 
 ## Source
 

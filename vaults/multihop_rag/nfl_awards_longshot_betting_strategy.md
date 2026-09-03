@@ -13,11 +13,19 @@ The counterweight, and the warrant for the sizing advice, is that there is alway
 
 ## Related Notes
 
+
 - [American Odds Format](american_odds_format.md): shares the NFL and sports-betting-odds themes, from a different document.
 - [Brock Purdy Lamar Jackson 2023 MVP Race](brock_purdy_lamar_jackson_2023_mvp_race.md): shares the NFL and sports-betting-odds themes, from a different document.
 - [Chiefs Jets Week 4 Team-Level Props](chiefs_jets_week_4_team_level_props.md): shares the NFL and sports-betting-odds themes, from a different document.
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): shares the NFL and sports-betting-odds themes, from a different document.
 - [FanDuel Bet Five Get 150 Moneyline Promo](fanduel_bet_five_get_150_moneyline_promo.md): overlaps on odds and bonus bets, from a different document.
+- [2023 NFL Coach Of The Year: Campbell Favored, Payton The Longshot Case](nfl_coach_of_the_year_2023_odds.md): same source document (doc_0145)
+- [2023 NFL Comeback Player Of The Year: Hamlin Favored, Wilson The Longshot](nfl_comeback_player_of_the_year_2023_odds.md): same source document (doc_0145)
+- [2023 NFL Defensive Player Of The Year: Danielle Hunter As The Longshot](nfl_defensive_player_of_the_year_2023_odds.md): same source document (doc_0145)
+- [2023 NFL MVP Favorites And The Longshot Cases For Goff And Stroud](nfl_mvp_2023_odds_and_longshot_cases.md): same source document (doc_0145)
+- [2023 NFL Offensive Player Of The Year: Hill The Favorite, Lamb The Longshot](nfl_offensive_player_of_the_year_2023_odds.md): same source document (doc_0145)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

@@ -13,6 +13,7 @@ Luke described the same sequencing about partners generally: "Everybody's waitin
 
 ## Related Notes
 
+
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): shares the battery-technology theme, from a different source document.
 - [8BitDo Ultimate Bluetooth Hall Effect Controller](8bitdo_ultimate_bluetooth_hall_effect_controller.md): shares the battery-technology theme, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-technology theme, from a different source document.
@@ -21,6 +22,15 @@ Luke described the same sequencing about partners generally: "Everybody's waitin
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery-technology theme, from a different source document.
 - [Anker 2-in-1 MagSafe StandBy Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): shares the battery-technology theme, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares the battery-technology theme, from a different source document.
+- [The Ecosystem And Unit-Economics Challenge Of Battery Swapping](battery_swapping_ecosystem_and_unit_economics_challenges.md): same source document (doc_0216)
+- [Growth In Gogoro's Battery-Swapping Service Revenue](gogoro_battery_swapping_service_revenue_growth.md): same source document (doc_0216)
+- [Gogoro's Company Profile And Open Platform Model](gogoro_company_profile_and_open_platform_model.md): same source document (doc_0216)
+- [Gogoro's Indian Commercial Launch And Investments](gogoro_india_commercial_launch_and_investments.md): same source document (doc_0216)
+- [Gogoro's Rationale For Entering India](gogoro_india_market_entry_rationale.md): same source document (doc_0216)
+- [Gogoro's India Station Rollout Targets](gogoro_india_station_rollout_targets.md): same source document (doc_0216)
+- [Gogoro's Declining Taiwan Business](gogoro_taiwan_business_decline.md): same source document (doc_0216)
+- [India's Electric Two-Wheeler Market Conditions](india_electric_two_wheeler_market_conditions.md): same source document (doc_0216)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

@@ -11,12 +11,18 @@ Before CoinFund, Pakman spent 14 years at the venture capital firm Venrock. He a
 
 ## Related Notes
 
+
 - [Apple Gift Card Amazon Credit Deal](apple_gift_card_amazon_credit_deal.md): also concerns Apple Music, from a different source document.
 - [Music Streaming And Vinyl Subscription Gifts](music_streaming_and_vinyl_subscription_gifts.md): also concerns Apple Music, from a different source document.
 - [SBF Taking The Stand](sbf_taking_the_stand.md): also features the Chain Reaction podcast, from a different source document.
 - [SBF Trial Proceedings](sbf_trial_proceedings.md): also features the Chain Reaction podcast, from a different source document.
 - [Ten Minute School Pre-Series A Funding Round](ten_minute_school_pre_series_a_funding_round.md): overlapping venture-capital and managing-partner vocabulary, from a different source document.
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
+- [Anduril's Roadrunner Counter-Air Vehicle](anduril_roadrunner_counter_air_vehicle.md): same source document (doc_0334)
+- [The Ecosystem And Unit-Economics Challenge Of Battery Swapping](battery_swapping_ecosystem_and_unit_economics_challenges.md): same source document (doc_0334)
+- [Bitcoin's Ascent To $44,000](bitcoin_ascent_to_44000_dollars.md): same source document (doc_0334)
+- [The Consumer Trading Recovery At Coinbase And Robinhood](consumer_trading_recovery_coinbase_and_robinhood.md): same source document (doc_0334)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

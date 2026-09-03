@@ -13,6 +13,7 @@ The second is legal exposure independent of whether the criminals deliver: you m
 
 ## Related Notes
 
+
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): drawn from the same source document (doc_0199).
 - [Apple's iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): drawn from the same source document (doc_0199).
 - [Apple's M3 Chip Lineup And The M3 Mac Reviews](apple_m3_mac_reviews_and_chip_lineup.md): drawn from the same source document (doc_0199).
@@ -21,6 +22,8 @@ The second is legal exposure independent of whether the criminals deliver: you m
 - [EV Sector Setbacks: Arrival And US Automakers](ev_sector_setbacks_arrival_and_us_automakers.md): drawn from the same source document (doc_0199).
 - [Gaza's Internet Blackout And Connectivity](gaza_internet_blackout_and_connectivity.md): drawn from the same source document (doc_0199).
 - [Google Maps AI Feature Rollout](google_maps_ai_feature_rollout.md): drawn from the same source document (doc_0199).
+- [Hard Problems As A Startup Moat](hard_problems_as_startup_moat_thesis.md): same source document (doc_0199)
+- [Magic Leap's CEO Transition And Enterprise Pivot](magic_leap_ceo_transition_and_enterprise_pivot.md): same source document (doc_0199)
 
 ## Source
 

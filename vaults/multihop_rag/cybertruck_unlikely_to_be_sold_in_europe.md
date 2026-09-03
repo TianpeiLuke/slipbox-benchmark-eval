@@ -11,6 +11,7 @@ One of Tesla's lead designers said as much in an interview with TopGear Netherla
 
 ## Related Notes
 
+
 - [Cybertruck Availability, Pricing And The EV Tax Credit](cybertruck_availability_pricing_and_ev_tax_credit.md): overlapping coverage of the Cybertruck and Tesla, from a different source document.
 - [Cybertruck Resale Restrictions Walked Back](cybertruck_resale_restrictions_walked_back.md): overlapping coverage of the Cybertruck and Tesla, from a different source document.
 - [Cybertruck Stainless Steel Design And Aesthetic](cybertruck_stainless_steel_design_and_aesthetic.md): overlapping coverage of the Cybertruck's steel exterior, from a different source document.
@@ -19,6 +20,8 @@ One of Tesla's lead designers said as much in an interview with TopGear Netherla
 - [Crumple Zones And The Stainless Steel Concern](crumple_zones_and_the_stainless_steel_concern.md): drawn from the same source document (doc_0548).
 - [The Cybertruck's Danger Is A Large-Truck Problem](cybertruck_danger_is_a_large_truck_problem.md): drawn from the same source document (doc_0548).
 - [The Cybertruck May Have An Unseen Shock-Absorbing Mechanism](cybertruck_may_have_an_unseen_shock_absorbing_mechanism.md): drawn from the same source document (doc_0548).
+- [The Cybertruck Pedestrian Safety Backlash](cybertruck_pedestrian_safety_backlash.md): same source document (doc_0548)
+- [Cybertruck Visibility, Mirrors And Steer-By-Wire Design Choices](cybertruck_visibility_mirrors_and_steer_by_wire_design_choices.md): same source document (doc_0548)
 
 ## Source
 

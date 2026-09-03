@@ -11,9 +11,18 @@ Asked how his team thinks about the subject, Amazon Robotics chief technologist 
 
 ## Related Notes
 
+
 - [Amazon Generative AI In Robotics Simulation](amazon_generative_ai_in_robotics_simulation.md): same source document; the concrete robotics applications Brady goes on to describe.
 - [Amazon's Machine Learning Fleet And Flow Management](amazon_machine_learning_fleet_and_flow_management.md): same source document; the machine-learning systems Brady distinguishes from generative AI.
 - [Amazon's Delivering The Future 2023 Event](amazon_delivering_the_future_2023_event.md): same source document; the event where the claim was made.
+- [Amazon's Agility Digit Humanoid Pilot As A Test Case](amazon_agility_digit_humanoid_pilot.md): same source document (doc_0528)
+- [Amazon's Greenfield And Brownfield Retrofit Capability](amazon_greenfield_brownfield_retrofit_capability.md): same source document (doc_0528)
+- [Amazon's Industrial Innovation Fund And Agility](amazon_industrial_innovation_fund_and_agility.md): same source document (doc_0528)
+- [Amazon's Interest In Bipedal Locomotion](amazon_interest_in_bipedal_locomotion.md): same source document (doc_0528)
+- [Amazon, MIT And Ipsos Robot Perception Study](amazon_mit_ipsos_robot_perception_study.md): same source document (doc_0528)
+- [Amazon's Mobile Manipulation Program](amazon_mobile_manipulation_program.md): same source document (doc_0528)
+- [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): same source document (doc_0528)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

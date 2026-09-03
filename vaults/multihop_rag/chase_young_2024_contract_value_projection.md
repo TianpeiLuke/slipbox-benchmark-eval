@@ -13,12 +13,16 @@ The closest template offered is the extension the Packers gave Rashan Gary: four
 
 ## Related Notes
 
+
 - [MLB Luxury Tax Deferrals and Average Annual Value](mlb_luxury_tax_deferrals_and_average_annual_value.md): the same AAV concept in another sport, different source document
 - [Shohei Ohtani Contract Deferral Structure](shohei_ohtani_contract_deferral_structure.md): another contract-value breakdown, different sport and source
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): the free-agent field he would leave, same source document
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): the cap room this deal would need, same source document
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): how San Francisco could afford it, same source document
 - [Chase Young Trade to 49ers 2023 Deadline](chase_young_trade_to_49ers_2023_deadline.md): the trade that raised the question, same source document
+- [Why The Franchise Tag May Not Suit Chase Young](franchise_tag_option_for_chase_young.md): same source document (doc_0500)
+- [How NFL Contract Restructuring Works](nfl_contract_restructuring_mechanism.md): same source document (doc_0500)
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

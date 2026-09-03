@@ -11,6 +11,7 @@ Their absence slightly impacted the quarterback pool, but Sporting News judged t
 
 ## Related Notes
 
+
 - [Cardinals 24-10 Steelers, Week 13](cardinals_24_10_steelers_week_13.md): also covers Kyler Murray, from a different document.
 - [Dak Prescott Week 6 2023 Sit Recommendation](dak_prescott_week6_2023_sit_recommendation.md): also covers Sam Howell, from a different document.
 - [Dolphins 45-15 Commanders, Week 13](dolphins_45_15_commanders_week_13.md): also covers Sam Howell and the Washington defense, from a different document.
@@ -19,6 +20,8 @@ Their absence slightly impacted the quarterback pool, but Sporting News judged t
 - [Week 14 Fantasy Quarterback Busts](week_14_fantasy_quarterback_busts.md): the same column's bust warnings, from the same document.
 - [The Week 14 Fantasy Quarterback Landscape](week_14_fantasy_quarterback_landscape.md): the same column's framing of the week, from the same document.
 - [Week 14 Fantasy Quarterback Rankings, Top 30](week_14_fantasy_quarterback_rankings_top_30.md): the full ranking these byes shape, from the same document.
+- [Week 14 Fantasy Quarterback Streamers And Sleepers](week_14_fantasy_quarterback_streamers.md): same source document (doc_0553)
+- [Week 14 Quarterback Injury Report](week_14_quarterback_injury_report.md): same source document (doc_0553)
 
 ## Source
 

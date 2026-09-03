@@ -15,6 +15,7 @@ How far the harm extends is still open. "The product 6PPD-quinone, which was ide
 
 ## Related Notes
 
+
 - [Brayden Maynard And Collingwood's Dynasty Ambition](brayden_maynard_collingwood_dynasty_ambition.md): shares a West Coast reference, from a different source document.
 - [Flexport Forecast Dispute And Whistleblower Claim](flexport_forecast_dispute_and_whistleblower_claim.md): shares a West Coast reference, from a different source document.
 - [Harper's Island, The Slasher Series](harpers_island_slasher_series.md): shares a Pacific Northwest setting, from a different source document.
@@ -23,6 +24,8 @@ How far the harm extends is still open. "The product 6PPD-quinone, which was ide
 - [Bridgestone's Wireless In-Wheel EV Charging](bridgestone_wireless_in_wheel_ev_charging.md): drawn from the same source document (doc_0190).
 - [Cutting Wear Mass May Raise Toxicity](cutting_wear_mass_may_raise_toxicity.md): drawn from the same source document (doc_0190).
 - [Driver Actions That Reduce Tire Pollution](driver_actions_that_reduce_tire_pollution.md): drawn from the same source document (doc_0190).
+- [Guayule As A Renewable Natural Rubber](guayule_as_renewable_natural_rubber.md): same source document (doc_0190)
+- [Non-Pneumatic And Concept Future Tires](non_pneumatic_and_concept_future_tires.md): same source document (doc_0190)
 
 ## Source
 

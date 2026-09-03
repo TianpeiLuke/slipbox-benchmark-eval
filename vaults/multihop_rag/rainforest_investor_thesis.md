@@ -13,6 +13,7 @@ Infinity Ventures' Jeremy Jonker, a former PayPal executive, supplied the ground
 
 ## Related Notes
 
+
 - [AI Pricing Models](ai_pricing_models.md): shares the payment-processor and SaaS-pricing themes, from a different source document.
 - [The Unicorn Term: A Ten-Year Retrospective](unicorn_term_ten_year_retrospective.md): overlapping coverage of venture firms and founders, from a different source document.
 - [Adam Yedidia's Testimony And Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): shares the venture-capital theme, from a different source document.
@@ -21,6 +22,19 @@ Infinity Ventures' Jeremy Jonker, a former PayPal executive, supplied the ground
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the total-addressable-market theme and the argument about what makes a challenger defensible, from a different source document.
 - [Alan Wake 2](alan_wake_2.md): shares the user-generated-content theme tag, from an otherwise unrelated source document.
 - [Amex Cash Magnet Cardholder Benefits](amex_cash_magnet_cardholder_benefits.md): shares the payment-processor theme, from a different source document.
+- [Bolt's SEC Probe Closed Without An Enforcement Recommendation](bolt_sec_probe.md): same source document (doc_0075)
+- [CRED's 255% Operating Revenue Growth To $168.1 Million](cred_revenue_growth.md): same source document (doc_0075)
+- [Fintech Funding Roundup, October 2023](fintech_funding_roundup_oct_2023.md): same source document (doc_0075)
+- [Fintech Startups On The 2023 Ranking Lists](fintech_startup_rankings_2023.md): same source document (doc_0075)
+- [Gatekeeper Platforms Will Keep Drawing Antitrust Suits Over Their Fees](payment_gatekeeper_antitrust_view.md): same source document (doc_0075)
+- [PayPal's Anti-Steering Class Action](paypal_anti_steering_lawsuit.md): same source document (doc_0075)
+- [Rainforest's Embedded Payments For Software Platforms](rainforest_embedded_payments.md): same source document (doc_0075)
+- [Slice's Merger With North East Small Finance Bank](slice_bank_merger_india.md): same source document (doc_0075)
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
+- [SaaS Pricing](term_saas_pricing.md): uses the concept saas pricing
+- [Total Addressable Market (TAM)](term_total_addressable_market.md): uses the concept total addressable market
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

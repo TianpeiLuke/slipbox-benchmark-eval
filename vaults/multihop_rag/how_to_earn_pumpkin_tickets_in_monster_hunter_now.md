@@ -13,6 +13,7 @@ The timing consequence is that until Saturday morning players are capped in how 
 
 ## Related Notes
 
+
 - [Meta Quest 2 Black Friday Bundle Price](meta_quest_2_black_friday_bundle_price.md): incidental "quest" name collision from an unrelated source document
 - [Meta Quest 2 Black Friday Deal](meta_quest_2_black_friday_deal.md): another incidental "quest" collision from a separate article
 - [Monster Hunter Now (Niantic)](monster_hunter_now_niantic_game.md): covers the base game this event runs in, from a different document
@@ -21,6 +22,8 @@ The timing consequence is that until Saturday morning players are capped in how 
 - [Jack-o'-Head Armor's Solidarity (Pumpkin Hunt) Skill](jack_o_head_armor_solidarity_pumpkin_hunt_skill.md): the skill on the armor these tickets buy
 - [Monster Hunter Now Halloween Event Overview](monster_hunter_now_halloween_event_overview.md): the event framing from the same article
 - [Monster Hunter Now Halloween Event Schedule](monster_hunter_now_halloween_event_schedule.md): the dates that gate the second ticket source
+- [Monster Hunter Now Pumpkin Hunt Quest Steps](monster_hunter_now_pumpkin_hunt_quest_steps.md): same source document (doc_0499)
+- [Pumpkin Rock Kulu-Ya-Ku Halloween Monster](pumpkin_rock_kulu_ya_ku_halloween_monster.md): same source document (doc_0499)
 
 ## Source
 

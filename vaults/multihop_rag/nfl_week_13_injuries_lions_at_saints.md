@@ -11,9 +11,18 @@ On the Detroit side, the Lions had just designated Hooker for return — he had 
 
 ## Related Notes
 
+
 - [Dennis Allen Saints Hot Seat](dennis_allen_saints_hot_seat.md): also discusses Dennis Allen, from a different document.
 - [Fantasy Week 13 Saints At Lions Outlook](fantasy_week_13_saints_at_lions_outlook.md): previews the same matchup, from a different document.
 - [Jaguars Saints First Half Live Blog](jaguars_saints_first_half_live_blog.md): also discusses Dennis Allen, from a different document.
+- [NFL Week 13 Injuries 49ers At Eagles](nfl_week_13_injuries_49ers_at_eagles.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Bengals At Jaguars](nfl_week_13_injuries_bengals_at_jaguars.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Broncos At Texans](nfl_week_13_injuries_broncos_at_texans.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Browns At Rams](nfl_week_13_injuries_browns_at_rams.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Cardinals At Steelers](nfl_week_13_injuries_cardinals_at_steelers.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Chargers At Patriots](nfl_week_13_injuries_chargers_at_patriots.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Chiefs At Packers](nfl_week_13_injuries_chiefs_at_packers.md): same source document (doc_0289)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

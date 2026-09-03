@@ -11,6 +11,7 @@ The distinguishing structural feature of DraftKings Showdown is the Captain slot
 
 ## Related Notes
 
+
 - [DraftKings NFL DFS Contest Format and Scoring](draftkings_nfl_dfs_contest_format_and_scoring.md): gives the same platform's full-point PPR contest rules in the season-long format, from a different document.
 - [FanDuel NFL DFS Contest Format and Scoring](fanduel_nfl_dfs_contest_format_and_scoring.md): gives the same platform's contest and strategy rules, from a different document.
 - [Lions-Packers Week 4 SuperDraft Lineup and Scoring](lions_packers_week_4_superdraft_lineup_and_scoring.md): gives another platform's single-game scoring rules, from a different document.
@@ -19,6 +20,8 @@ The distinguishing structural feature of DraftKings Showdown is the Captain slot
 - [Dallas Goedert Eagles Tight End Showdown Pick](dallas_goedert_eagles_tight_end_showdown_pick.md): a lineup pick made under these rules, from the same document.
 - [D'Andre Swift Eagles Run Game Showdown Pick](dandre_swift_eagles_run_game_showdown_pick.md): a lineup pick made under these rules, from the same document.
 - [DeVonta Smith Eagles Showdown Value](devonta_smith_eagles_showdown_value.md): a lineup pick made under these rules, from the same document.
+- [The Metcalf-Geno Smith Seahawks Showdown Stack](dk_metcalf_and_geno_smith_seahawks_showdown_stack.md): same source document (doc_0386)
+- [The Eagles-Seahawks SuperDraft Single-Game Lineup](eagles_seahawks_superdraft_single_game_lineup.md): same source document (doc_0386)
 
 ## Source
 

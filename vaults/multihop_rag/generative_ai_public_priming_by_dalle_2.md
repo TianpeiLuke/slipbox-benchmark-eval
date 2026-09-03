@@ -11,10 +11,17 @@ The priming mechanism has two parts. First, low-barrier entry: DALL-E 2, as well
 
 ## Related Notes
 
+
 - [ChatGPT's 100 Million User Milestone](chatgpt_100_million_user_milestone.md): same source document; the adoption the model explains.
 - [DALL-E 3 Image Generation In ChatGPT](dalle_3_image_generation_in_chatgpt.md): overlaps in content on DALL-E and text-to-image generation, from a different source document.
 - [Imagine With Meta AI Image Generator](imagine_with_meta_ai_image_generator.md): also concerns Stable Diffusion-era image generators, from a different source document.
 - [Meta's Open Source AI Strategy And Motives](meta_open_source_ai_strategy_and_motives.md): also concerns Stable Diffusion, from a different source document.
+- [The AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): same source document (doc_0099)
+- [Associated Press And OpenAI's Licensing Deal](associated_press_openai_licensing_deal.md): same source document (doc_0099)
+- [ChatGPT's Durability And Regulatory Outlook](chatgpt_durability_and_regulatory_outlook.md): same source document (doc_0099)
+- [ChatGPT Enterprise And Multimodal Features](chatgpt_enterprise_and_multimodal_features.md): same source document (doc_0099)
+- [ChatGPT's First Year Overview](chatgpt_first_year_overview.md): same source document (doc_0099)
+- [ChatGPT's Hallucinated Legal Filing Incident](chatgpt_hallucination_legal_filing_incident.md): same source document (doc_0099)
 
 ## Source
 

@@ -15,11 +15,18 @@ Reyna, in his first 45 minutes of international football under Berhalter since t
 
 ## Related Notes
 
+
 - [Champions League 2023-24 Group F Dortmund PSG](champions_league_2023_24_group_f_dortmund_psg.md): another Borussia Dortmund document, different source
 - [Champions League 2023-24 Round of 16 Qualifiers and Draw](champions_league_2023_24_round_of_16_qualifiers_and_draw.md): another Borussia Dortmund document, different source
 - [Criticism of Germany Travel to North America 2023](criticism_of_germany_travel_to_north_america_2023.md): also concerns Borussia Dortmund's schedule, different source document
 - [Germany Squad October 2023 North America Friendlies](germany_squad_october_2023_north_america_friendlies.md): the opposing squad, including Dortmund players, different source document
 - [Gio Reyna USMNT Return and Berhalter Reconciliation](gio_reyna_usmnt_return_and_berhalter_reconciliation.md): the background to Reyna's return, different source document
+- [Matt Turner's 8/10 Rating Against Germany](matt_turner_rating_vs_germany_2023.md): same source document (doc_0588)
+- [USMNT 1-3 Germany, Hartford, October 2023](usmnt_3_1_defeat_to_germany_hartford_2023.md): same source document (doc_0588)
+- [USMNT Attacking Ratings Against Germany, October 2023](usmnt_attacking_ratings_vs_germany_2023.md): same source document (doc_0588)
+- [The USMNT Back Line's Errors Against Germany](usmnt_back_line_defensive_errors_vs_germany_2023.md): same source document (doc_0588)
+- [USMNT Substitute Ratings Against Germany, October 2023](usmnt_substitute_ratings_vs_germany_2023.md): same source document (doc_0588)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

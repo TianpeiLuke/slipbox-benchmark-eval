@@ -11,6 +11,7 @@ Her account of the pros and cons is that Virgin, first as Caroline, was a major 
 
 ## Related Notes
 
+
 - [Thesis That Music Labels Are Headed For Irrelevance](thesis_that_music_labels_are_headed_for_irrelevance.md): concerns indie music and the role of labels, from a different source document.
 - [Beatles Now And Then 2023 Release](beatles_now_and_then_2023_release.md): drawn from the same interview and covers another part of the CMG story.
 - [Capitol 2023 Frontline Roster Highlights](capitol_2023_frontline_roster_highlights.md): drawn from the same interview and shows the frontline business left after the spin-out.
@@ -19,6 +20,8 @@ Her account of the pros and cons is that Virgin, first as Caroline, was a major 
 - [Capitol Music Group Leadership Turmoil 2020 2021](capitol_music_group_leadership_turmoil_2020_2021.md): drawn from the same interview and sets the period in which this restructuring happened.
 - [Capitol Music Group Organisational Reset Priorities](capitol_music_group_organisational_reset_priorities.md): drawn from the same interview and covers the restructuring Jubelirer did control.
 - [Capitol Music Group Pre 2021 Decline Diagnosis](capitol_music_group_pre_2021_decline_diagnosis.md): drawn from the same interview and describes the state of the company around this period.
+- [Capitol Music Group's Turnaround Results In 2023](capitol_music_group_turnaround_results_2023.md): same source document (doc_0212)
+- [CMG's Partner Labels: Quality Control And 10K Projects](cmg_partner_labels_quality_control_and_10k_projects.md): same source document (doc_0212)
 
 ## Source
 

@@ -15,11 +15,25 @@ A dissenting position within the same survey bears on how much weight the layer 
 
 ## Related Notes
 
+
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): shares the generative-AI, large-language-model and open-source themes, from a different source document.
 - [ChatGPT Third Party Integrations And Ecosystem](chatgpt_third_party_integrations_and_ecosystem.md): shares the large-language-model and open-source themes, from a different source document.
 - [Enterprise Generative AI Adoption Caution](enterprise_generative_ai_adoption_caution.md): shares the generative-AI and large-language-model themes, from a different source document.
+- [AI Market Spending Forecasts Reported In October 2023](ai_market_spending_forecasts.md): same source document (doc_0161)
+- [Pricing Models For AI Products](ai_pricing_models.md): same source document (doc_0161)
+- [AI Startup Defensibility](ai_startup_defensibility.md): same source document (doc_0161)
+- [Valor VC's Applied AI Thesis](valor_applied_ai_thesis.md): same source document (doc_0161)
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Defensibility](term_defensibility.md): uses the concept defensibility
+- [Foundation Model](term_foundation_model.md): uses the concept foundation model
+- [Model Fine-Tuning](term_model_fine_tuning.md): uses the concept model fine tuning
+- [Total Addressable Market (TAM)](term_total_addressable_market.md): uses the concept total addressable market
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Cloud Computing](term_cloud_computing.md): uses the concept cloud computing
+- [Open Source](term_open_source.md): uses the concept open source
 
 ## Source
 

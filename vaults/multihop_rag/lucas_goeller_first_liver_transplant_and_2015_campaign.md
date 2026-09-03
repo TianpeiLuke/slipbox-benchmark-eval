@@ -15,11 +15,19 @@ After that first transplant, her young son made a "miraculous recovery," Goeller
 
 ## Related Notes
 
+
 - [Baldurs Gate 3](baldurs_gate_3.md): shares the lobbying political donations, user generated content theme, from a different source document.
 - [Democratic Social Media Campaign Dominance](democratic_social_media_campaign_dominance.md): shares the lobbying political donations, user generated content theme, from a different source document.
 - [Epoch Times 2020 Election and Pro Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): shares the lobbying political donations, user generated content theme, from a different source document.
 - [Snap Map as Civic Documentation Tool](snap_map_as_civic_documentation_tool.md): shares the lobbying political donations, user generated content theme, from a different source document.
 - [Three Forces Climate Authoritarianism Internet](three_forces_climate_authoritarianism_internet.md): shares the lobbying political donations, user generated content theme, from a different source document.
+- [The Case For Organ Donation And Living Donor Awareness](case_for_organ_donation_and_living_donor_awareness.md): same source document (doc_0594)
+- [Lucas Goeller's Biliary Atresia And His Failing Transplant](lucas_goeller_biliary_atresia_and_failing_transplant.md): same source document (doc_0594)
+- [Lucas Goeller's Current Liver Failure Symptoms](lucas_goeller_current_liver_failure_symptoms.md): same source document (doc_0594)
+- [Lucas Goeller's Eight Healthy Years And His Relapse](lucas_goeller_eight_healthy_years_and_relapse.md): same source document (doc_0594)
+- [Partial Liver Transplants As A Way To End Wait List Mortality](partial_liver_transplants_to_reduce_waitlist_mortality.md): same source document (doc_0594)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

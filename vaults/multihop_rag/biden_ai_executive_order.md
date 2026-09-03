@@ -13,12 +13,15 @@ One line of response concerned the order's timing relative to the U.K. summit: "
 
 ## Related Notes
 
+
 - [AI Civil Rights And Consumer Protections In The EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): also covers White House action on AI, from a different source document.
 - [Don McLean Upcoming Albums And Touring](don_mclean_upcoming_albums_and_touring.md): also mentions the White House, from a different source document.
 - [Engoron Summary Judgment That Trump Committed Fraud](engoron_summary_judgment_that_trump_committed_fraud.md): also mentions the White House, from a different source document.
 - [Executive Order Limits Versus AI Legislation](executive_order_limits_versus_ai_legislation.md): overlapping coverage of the summit, Biden and Harris, from a different source document.
 - [Federal AI Watermarking And Content Provenance](federal_ai_watermarking_and_content_provenance.md): also covers White House action on AI, from a different source document.
 - [The AI Legislation Gap Behind Biden's Executive Order](ai_legislation_gap.md): drawn from the same source document, doc_0098.
+- [Reaction To Biden's AI Order](reaction_to_biden_ai_order.md): same source document (doc_0098)
+- [Executive Order](term_executive_order.md): uses the concept executive order
 
 ## Source
 

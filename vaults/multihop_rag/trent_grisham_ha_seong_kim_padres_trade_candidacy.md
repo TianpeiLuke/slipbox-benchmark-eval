@@ -13,6 +13,7 @@ It was a similar story with Kim: dealing him would free Jake Cronenworth to move
 
 ## Related Notes
 
+
 - [December 2023 Bowl Game Schedule And Matchups](december_2023_bowl_game_schedule_and_matchups.md): also concerns San Diego, from a different document.
 - [Juan Soto Traded From Padres To Yankees](juan_soto_traded_from_padres_to_yankees.md): also discusses San Diego and Trent Grisham, from a different document.
 - [Las Vegas Strip Navigation And Accessibility Problems](las_vegas_strip_navigation_and_accessibility_problems.md): also mentions San Diego, from a different document.
@@ -20,6 +21,11 @@ It was a similar story with Kim: dealing him would free Jake Cronenworth to move
 - [Third Place Sociological Concept](third_place_sociological_concept.md): also mentions San Diego, from a different document.
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): another candidate on the same list, from the same document.
+- [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): same source document (doc_0118)
+- [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

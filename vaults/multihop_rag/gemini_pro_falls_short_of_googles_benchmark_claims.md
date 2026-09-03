@@ -11,6 +11,7 @@ The grounds are the reception of the rollout itself. A "lite" version of Gemini,
 
 ## Related Notes
 
+
 - [ChatGPT Competitive Response Across AI Industry](chatgpt_competitive_response_across_ai_industry.md): overlapping coverage of Gemini and Bard as competitive responses, from a different source document.
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): overlapping coverage of Gemini and Bard, from a different source document.
 - [Prediction: OpenAI Becomes A Product Company](prediction_openai_becomes_a_product_company.md): overlapping discussion of Gemini and Bard's competitive position, from a different source document.
@@ -19,6 +20,7 @@ The grounds are the reception of the rollout itself. A "lite" version of Gemini,
 - [Gemini Pro Jailbreak By Robust Intelligence](gemini_pro_jailbreak_by_robust_intelligence.md): drawn from the same source document (doc_0126), on safety-filter failures.
 - [Gemini Pro News Summarization Refusals](gemini_pro_news_summarization_refusals.md): drawn from the same source document (doc_0126), on summarization shortcomings.
 - [Gemini Pro Translation And Multilingual Weakness](gemini_pro_translation_and_multilingual_weakness.md): drawn from the same source document (doc_0126), on multilingual shortcomings.
+- [Google's Gemini Model Family And Its Capability Claims](google_gemini_model_family_and_capability_claims.md): same source document (doc_0126)
 
 ## Source
 

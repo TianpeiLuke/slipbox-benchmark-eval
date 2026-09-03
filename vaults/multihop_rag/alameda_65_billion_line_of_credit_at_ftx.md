@@ -13,6 +13,7 @@ The boundary case is the source of the capital and Bankman-Fried's disclaimed kn
 
 ## Related Notes
 
+
 - [Alameda Research](alameda_research.md): background on the firm that held the credit line, from a different source document.
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): the same firm treated as the channel for customer money, from a different source document.
 - [Alameda's Special Privileges in FTX's Code](alameda_special_privileges_in_ftx_code.md): overlapping account of Alameda, Bankman-Fried and Wang, from a different source document.
@@ -21,6 +22,9 @@ The boundary case is the source of the capital and Bankman-Fried's disclaimed kn
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): another privilege running the other direction (doc_0121).
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): how the borrowing limit crept upward over time (doc_0121).
 - [Alameda Research's Origins and Naming](alameda_research_origins_and_naming.md): the firm's founding, from the same trial-day report (doc_0053).
+- [Can Sun's Testimony On Fabricated Justifications](can_sun_testimony_on_fabricated_justifications.md): same source document (doc_0121)
+- [Caroline Ellison's Guilty Plea And First Day Of Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): same source document (doc_0086)
+- [Line Of Credit](term_line_of_credit.md): uses the concept line of credit
 
 ## Source
 

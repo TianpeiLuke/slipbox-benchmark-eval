@@ -13,11 +13,23 @@ Engadget's Black Friday coverage moved the price lower: on 19 November 2023 it r
 
 ## Related Notes
 
+
 - [Airpods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): overlaps on earbuds and noise cancellation, different document
 - [Amazon Echo Buds Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): overlaps strongly on wireless earbud deals, different document
 - [Airpods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): another discounted earbud listing, different document
 - [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): the Prime Day event these October prices ran in, different document
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): another battery-powered device deal listing
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): same source document (doc_0595)
+- [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): same source document (doc_0250)
+- [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): same source document (doc_0250)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

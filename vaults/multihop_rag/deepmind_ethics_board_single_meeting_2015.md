@@ -11,12 +11,19 @@ The DeepMind founders reported that they were pushing ahead with their work but 
 
 ## Related Notes
 
+
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): also covers DeepMind, AlphaGo and Google in the AI landscape, from a different source document.
 - [Manara Assessment Of Gaza Tech Sector](manara_assessment_of_gaza_tech_sector.md): also involves Reid Hoffman, from a different source document.
 - [Sam Altman Career And Public Profile](sam_altman_career_and_public_profile.md): also involves Eric Schmidt and Reid Hoffman, from a different source document.
 - [The Host 2006 Bong Joon Ho Film](the_host_2006_bong_joon_ho_film.md): also concerns a South Korean subject, from a different source document.
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): drawn from the same article and gives the Musk-Page rift referenced here.
 - [AlphaGo As Evidence For AI Risk Concerns](alphago_as_evidence_for_ai_risk_concerns.md): drawn from the same article and follows what the AlphaGo win was taken to prove.
+- [Anthropic's Founding By Former OpenAI Researchers](anthropic_founding_by_openai_researchers.md): same source document (doc_0027)
+- [DeepMind's Founding And Thiel's Investment](deepmind_founding_and_thiel_investment.md): same source document (doc_0027)
+- [DeepMind's Sale To Google And Facebook's AI Lab](deepmind_google_acquisition_and_facebook_ai_lab.md): same source document (doc_0027)
+- [Neural Networks And DeepMind's Atari Demonstration](deepmind_neural_networks_and_atari_demonstration.md): same source document (doc_0027)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Space Mission](term_space_mission.md): uses the concept space mission
 
 ## Source
 

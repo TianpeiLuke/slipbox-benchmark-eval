@@ -13,10 +13,18 @@ Two conditions frame the claim. The first is that the stated justification is do
 
 ## Related Notes
 
+
 - [The Two-Way Interaction Design Of Explore With Alexa](alexa_kids_interaction_design.md): assigned to the same consumer-AI-and-devices batch, from a different source document.
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): assigned to the same consumer-AI-and-devices batch, from a different source document.
 - [Alexa Kids Data Handling And The Echo Pop Kids Launch](alexa_kids_privacy_and_hardware.md): assigned to the same consumer-AI-and-devices batch, from a different source document.
 - [Explore With Alexa](explore_with_alexa.md): assigned to the same consumer-AI-and-devices batch, from a different source document.
+- [Keep Labs' Repositioning From Cannabis To Medicine](keep_labs_cannabis_repositioning.md): same source document (doc_0230)
+- [The Keep, A Lockable Smart Storage Container For Medicine](keep_labs_device.md): same source document (doc_0230)
+- [Keep Labs' Funding And Second-Gen Roadmap](keep_labs_funding_and_roadmap.md): same source document (doc_0230)
+- [Keep Labs' COVID Pivot And Leadership Change](keep_labs_pivot_and_leadership.md): same source document (doc_0230)
+- [How Keep Labs Says It Safeguards Patient Data](keep_labs_security_posture.md): same source document (doc_0230)
+- [Medication Adherence](term_medication_adherence.md): uses the concept medication adherence
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

@@ -11,12 +11,18 @@ The blackout was visible on Snap Map in real time. Some are concerned that inter
 
 ## Related Notes
 
+
 - [Disinformation On X About Gaza](disinformation_on_x_gaza.md): also concerns the flow of information out of the Gaza Strip, from a different document.
 - [EU Warning Letter To X](eu_warning_letter_to_x.md): also concerns platform information during this conflict, from a different document.
 - [Eylon Levy's Aliyah And IDF Service](eylon_levy_aliyah_and_idf_service.md): also concerns the Gaza Strip, from a different document.
 - [Gaza Border Barrier Construction](gaza_border_barrier_construction.md): also concerns the Gaza Strip's physical isolation, from a different document.
 - [Gaza Displacement And Casualties, October 2023](gaza_displacement_and_casualties_october_2023.md): overlaps on conditions in Gaza during this period, from a different document.
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): drawn from the same source document (doc_0199).
+- [Apple's iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): same source document (doc_0199)
+- [Apple's M3 Chip Lineup And The M3 Mac Reviews](apple_m3_mac_reviews_and_chip_lineup.md): same source document (doc_0199)
+- [Atlassian's Critical Security Flaw Warning](atlassian_critical_security_flaw_warning.md): same source document (doc_0199)
+- [Cloud Stock Multiples And Startup Valuations](cloud_stock_multiples_and_startup_valuations.md): same source document (doc_0199)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

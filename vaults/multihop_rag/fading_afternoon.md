@@ -13,6 +13,7 @@ The game ends when Seiji's time runs out. Based on the choices you make, the con
 
 ## Related Notes
 
+
 - [Eileen (William Oldroyd)](eileen_william_oldroyd.md): another write-up by the same critic, Joshua Rivera, from a different source document
 - [Pan's Labyrinth (Guillermo del Toro)](pans_labyrinth_guillermo_del_toro.md): another Joshua Rivera piece in a separate article
 - [The Good Fight (Paramount Plus)](the_good_fight_paramount_plus.md): shares the same bylined critic across documents
@@ -21,6 +22,8 @@ The game ends when Seiji's time runs out. Based on the choices you make, the con
 - [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): another 2023 game from the same document
 - [Baldur's Gate 3](baldurs_gate_3.md): another top-ranked entry from the same list
 - [Blasphemous 2](blasphemous_2.md): another game from the same best-of-2023 article
+- [Chants of Sennaar](chants_of_sennaar.md): same source document (doc_0213)
+- [Cocoon (Geometric Interactive)](cocoon_geometric_interactive.md): same source document (doc_0213)
 
 ## Source
 

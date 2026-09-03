@@ -13,11 +13,16 @@ Naftalis spoke at length about what comes next in the trial, and addressed commo
 
 ## Related Notes
 
+
 - [Adam Yedidia's Testimony And The $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): shares the criminal-trial and fraud themes, from a different source document.
 - [Browns Survive Bears Game-Ending Hail Mary To Win 20-17](bears_game_ending_hail_mary_vs_browns.md): shares the "Hail Mary" figure of speech in its literal football sense, from a different source document.
 - [Caroline Ellison's Guilty Plea And First Day Of Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): shares the criminal-trial and fraud themes, from a different source document.
 - [Browns' Fourth Quarter Comeback Against The Bears](browns_bears_week_15_fourth_quarter_comeback.md): shares the "Hail Mary" figure of speech, from a different source document.
 - [Chiefs-Jets First Half: A 17-0 Start Trimmed To 20-12 At Halftime](chiefs_jets_first_half_live_blog.md): shares the "Hail Mary" figure of speech, from a different source document.
+- [The SBF Trial Proceedings](sbf_trial_proceedings.md): same source document (doc_0009)
+- [Testimony At The SBF Trial](sbf_trial_testimony.md): same source document (doc_0009)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Fraud](term_fraud.md): uses the concept fraud
 
 ## Source
 

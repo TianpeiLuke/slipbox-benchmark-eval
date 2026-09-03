@@ -11,12 +11,18 @@ Talanoa Hufanga of the 49ers, who emerged as a ballhawk for San Francisco's seco
 
 ## Related Notes
 
+
 - [Kyle Shanahan 49ers Hot Seat](kyle_shanahan_49ers_hot_seat.md): covers Kyle Shanahan, the coach who confirmed Hufanga's diagnosis, from a different source document.
 - [NFL Week 13 Injuries: Chargers at Patriots](nfl_week_13_injuries_chargers_at_patriots.md): tracks Chargers injury designations in the same questionable/ruled-out vocabulary, from a different source document.
 - [NFL Week 13 Injuries: Dolphins at Commanders](nfl_week_13_injuries_dolphins_at_commanders.md): another weekly injury report using the same questionable-and-knee-injury reporting, from a different source document.
 - [Prisco 2023 Week 12 Picks Season Record](prisco_2023_week_12_picks_season_record.md): part of the same sub-plan pairing the Week 11 injury roundup with Prisco's Week 12 picks, from a different source document.
 - [Prisco Week 12 Sunday Early Window Picks](prisco_week_12_sunday_early_window_picks.md): part of the same sub-plan, from a different source document.
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): another injury entry from the same Week 11 roundup (doc_0113).
+- [Cooper Kupp: A Week 11 Ankle Sprain And The Week 13 Case For Benching A Stud](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): same source document (doc_0113)
+- [NFL Week 11 2023: Three Starting Quarterbacks Hurt, All Three Stayed Or Returned](nfl_week_11_2023_quarterback_injuries.md): same source document (doc_0113)
+- [NFL Week 11 2023: Achane, Walker And Foreman All Exit With Injuries](nfl_week_11_2023_running_back_injuries.md): same source document (doc_0113)
+- [NFL Week 11 2023: Tyreek Hill Returns From A Hand Injury, Darius Slayton Does Not](nfl_week_11_2023_wide_receiver_injuries.md): same source document (doc_0113)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

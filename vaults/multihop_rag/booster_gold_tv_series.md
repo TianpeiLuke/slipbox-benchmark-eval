@@ -13,12 +13,18 @@ Polygon notes that this logline is pretty much Booster Gold's traditional comics
 
 ## Related Notes
 
+
 - [Aquaman and the Lost Kingdom](aquaman_and_the_lost_kingdom.md): another DC project from the same slate article
 - [Arkham Asylum: The Batman Prequel Series](arkham_asylum_the_batman_prequel_series.md): a fellow undated DC series in the same roundup
 - [Black Superman Movie (Ta-Nehisi Coates)](black_superman_movie_ta_nehisi_coates.md): another entry in the same DC lineup
 - [Brave and the Bold (Damian Wayne Film)](brave_and_the_bold_damian_wayne_film.md): a further project from the same document
 - [Creature Commandos Animated Series](creature_commandos_animated_series.md): another DC Studios project in the same lineup
 - [The DC Extended Universe (DCEU)](dc_extended_universe_dceu.md): the continuity context described in the same article
+- [The DC Studios DCU Reboot Under James Gunn and Peter Safran](dc_studios_dcu_reboot_under_gunn_and_safran.md): same source document (doc_0081)
+- [Dead Boy Detectives (Netflix Series)](dead_boy_detectives_netflix_series.md): same source document (doc_0081)
+- [Joker: Folie à Deux](joker_folie_a_deux.md): same source document (doc_0081)
+- [Lanterns (Green Lantern TV Series)](lanterns_green_lantern_tv_series.md): same source document (doc_0081)
+- [Public Health Guidance](term_public_health_guidance.md): uses the concept public health guidance
 
 ## Source
 

@@ -11,6 +11,7 @@ The exchange began with a tweet that launched a fiery exchange of words between 
 
 ## Related Notes
 
+
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): covers Canelo's most recent fight at the time, from a different source document.
 - [Canelo Charlo Round-by-Round Scorecard](canelo_charlo_round_by_round_scorecard.md): also covers Canelo Alvarez, from a different source document.
 - [Corrales vs Castillo 2005 Lightweight Classic](corrales_vs_castillo_2005_lightweight_classic.md): also covers Floyd Mayweather, from a different source document.
@@ -19,6 +20,8 @@ The exchange began with a tweet that launched a fiery exchange of words between 
 - [Canelo Alvarez Undisputed Titles and Net Worth](canelo_alvarez_undisputed_titles_and_net_worth.md): Canelo's titles and wealth, from the same article (doc_0194).
 - [Canelo and McGregor Pay-Per-View Purse History](canelo_and_mcgregor_pay_per_view_purse_history.md): the PPV numbers behind the money case, from the same article (doc_0194).
 - [Canelo Projected Path to Mayweather Wealth](canelo_projected_path_to_mayweather_wealth.md): the projection this feud feeds, from the same article (doc_0194).
+- [The Revenue Case For A Canelo-McGregor Superfight](canelo_vs_mcgregor_superfight_revenue_case.md): same source document (doc_0194)
+- [Floyd Mayweather's $450 Million Net Worth And Billion-Dollar Career Earnings](floyd_mayweather_net_worth_and_career_earnings.md): same source document (doc_0194)
 
 ## Source
 

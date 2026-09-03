@@ -13,6 +13,7 @@ RA is cognisant that not every Super Rugby franchise will follow suit immediatel
 
 ## Related Notes
 
+
 - [Case for Schmidt Bringing Rugby Smarts to the Wallabies](case_for_schmidt_bringing_rugby_smarts_to_the_wallabies.md): another Super Rugby-related document, different source
 - [David Nucifora Consultancy Approach by Rugby Australia](david_nucifora_consultancy_approach_by_rugby_australia.md): another RA high-performance governance move, different source document
 - [Joe Schmidt Coaching Record Ireland and All Blacks](joe_schmidt_coaching_record_ireland_and_all_blacks.md): another Super Rugby-related document, different source
@@ -21,6 +22,7 @@ RA is cognisant that not every Super Rugby franchise will follow suit immediatel
 - [Eddie Jones Case for Reforming Australian Rugby System](eddie_jones_case_for_reforming_australian_rugby_system.md): the argument this handover advances, same source document
 - [QRU Refusal to Centralise Commercial Functions](qru_refusal_to_centralise_commercial_functions.md): the state that declined to follow, same source document
 - [Queensland Rugby Union Stance on High Performance Centralisation](queensland_rugby_union_stance_on_high_performance_centralisation.md): the contrasting Queensland position, same source document
+- [Rugby Australia's Debt And Funding Position In 2023](rugby_australia_debt_and_funding_position_2023.md): same source document (doc_0492)
 
 ## Source
 

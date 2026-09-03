@@ -13,6 +13,7 @@ The Centre for Ageing Better provides information on working and living as an ol
 
 ## Related Notes
 
+
 - [Age Well Daily Habits For The Over Fifties](age_well_daily_habits_for_the_over_fifties.md): same article, the habits these organisations help sustain
 - [Daily Walking Reduces Late Life Depression](daily_walking_reduces_late_life_depression.md): same article, on walking as both exercise and social occasion
 - [Digital Engagement Protects The Ageing Brain](digital_engagement_protects_the_ageing_brain.md): same article, on new skills and sociability
@@ -21,6 +22,8 @@ The Centre for Ageing Better provides information on working and living as an ol
 - [Alexandra Moving Home At 37 And Solo Motherhood](alexandra_moving_home_at_37_and_solo_motherhood.md): part of the same multigenerational grouping, different source
 - [Rachel Claire Photographer Returning To The Family Home](rachel_claire_photographer_returning_to_the_family_home.md): part of the same multigenerational grouping, different source
 - [Tess Moone Selling Perth Home And Rental Crisis](tess_moone_selling_perth_home_and_rental_crisis.md): part of the same multigenerational grouping, different source
+- [Multivitamins And Cognition In Older Adults](multivitamins_and_cognition_in_older_adults.md): same source document (doc_0605)
+- [Protein Intake Guidelines For Older Adults](protein_intake_guidelines_for_older_adults.md): same source document (doc_0605)
 
 ## Source
 

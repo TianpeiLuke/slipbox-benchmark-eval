@@ -13,6 +13,7 @@ What would falsify it is straightforward from the way he framed it: if avatar-me
 
 ## Related Notes
 
+
 - [Britney Spears and Charlie Ebersol's Relationship](britney_spears_charlie_ebersol_relationship.md): overlaps on dating, from a different source document.
 - [Bumble's CEO Transition to Lidiane Jones](bumble_ceo_transition_lidiane_jones.md): concerns one of the dating apps named here, from a different source document.
 - [Metaverse Interoperability and 3D File Formats](metaverse_interoperability_and_3d_file_formats.md): another forward-looking claim from the same interview (doc_0539).
@@ -21,6 +22,8 @@ What would falsify it is straightforward from the way he framed it: if avatar-me
 - [Roblox as a Communication Platform, Not a Game](roblox_as_communication_platform_not_game.md): the communication framing that makes dating a natural extension (doc_0539).
 - [Roblox's China Strategy and Tencent](roblox_china_strategy_and_tencent.md): another strategic question from the same interview (doc_0539).
 - [Roblox's Content Delivery Architecture Versus App Stores](roblox_content_delivery_architecture_vs_app_stores.md): how such an app would reach users (doc_0539).
+- [Roblox Fashion Design And Direct-To-Avatar](roblox_fashion_design_and_direct_to_avatar.md): same source document (doc_0539)
+- [Roblox's Hiring And Recruiting Layoffs](roblox_hiring_and_recruiting_layoffs.md): same source document (doc_0539)
 
 ## Source
 

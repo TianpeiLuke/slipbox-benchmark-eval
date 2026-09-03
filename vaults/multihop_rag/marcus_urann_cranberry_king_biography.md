@@ -13,6 +13,7 @@ The defining summary is the one given in The Boston Globe's obituary of 4 April,
 
 ## Related Notes
 
+
 - [Ocean Spray Cranberry Cooperative](ocean_spray_cranberry_cooperative.md): same article, on the cooperative he formed
 - [Cranberry Wet Harvesting Method](cranberry_wet_harvesting_method.md): same article, on another of his farming innovations
 - [Phi Kappa Phi Honor Society Founding](phi_kappa_phi_honor_society_founding.md): same article, on the society he founded as a student
@@ -20,6 +21,8 @@ The defining summary is the one given in The Boston Globe's obituary of 4 April,
 - [Cranberries And New England Regional Identity](cranberries_and_new_england_regional_identity.md): same article, on his stated motive
 - [American Cranberry Native Range And Harvest Window](american_cranberry_native_range_and_harvest_window.md): same article, on the crop he bought into
 - [Near Me Business Naming Trend](near_me_business_naming_trend.md): also mentions Cape Cod, unrelated subject
+- [No Evidence Cranberries Were At The First Thanksgiving](no_evidence_cranberries_at_the_first_thanksgiving.md): same source document (doc_0130)
+- [Urann's Canned Cranberry Sauce, 1912](urann_canned_cranberry_sauce_invention_1912.md): same source document (doc_0130)
 
 ## Source
 

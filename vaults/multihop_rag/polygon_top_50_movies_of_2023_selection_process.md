@@ -13,6 +13,7 @@ Polygon frames the exercise as inherently difficult, likening a collaborative be
 
 ## Related Notes
 
+
 - [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): another Polygon roundup entry, showing what an individual pick looks like once a selection process has run
 - [Polygon 2023 Games of the Year Scope and Scale Thesis](polygon_2023_games_of_the_year_scope_and_scale_thesis.md): the editorial framing that accompanies Polygon's parallel games list
 - [Polygon Best New Streaming Series Roundup Scope](polygon_best_new_streaming_series_roundup_scope.md): a sibling roundup with its own stated scope and update policy
@@ -21,6 +22,8 @@ Polygon frames the exercise as inherently difficult, likening a collaborative be
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): one of the films selected through this process, from the same article
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): another entry produced by this same balloting process
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): a further pick from the same best-of-2023 list
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
 
 ## Source
 

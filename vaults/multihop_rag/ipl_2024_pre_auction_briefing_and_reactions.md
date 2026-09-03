@@ -13,6 +13,7 @@ At 11.06 AM the released players from CSK were listed — Akash Singh, Ambati Ra
 
 ## Related Notes
 
+
 - [England Cricket World Cup 2023 Qualification Crisis](england_cricket_world_cup_2023_qualification_crisis.md): also discusses Ben Stokes, from a different source document.
 - [India-Australia 2011 World Cup Quarter-Final in Ahmedabad](india_australia_2011_world_cup_quarterfinal_ahmedabad.md): also discusses Gautam Gambhir, from a different source document.
 - [Harshal Patel's Vijay Hazare Trophy Form Before the IPL Auction](harshal_patel_vijay_hazare_trophy_form_before_ipl_auction.md): same auction live blog, from the same pre-auction window.
@@ -21,6 +22,8 @@ At 11.06 AM the released players from CSK were listed — Akash Singh, Ambati Ra
 - [IPL 2024 Auction: Capped Pace and Spin Sets](ipl_2024_auction_capped_pace_and_spin_sets.md): same auction live blog.
 - [IPL 2024 Auction: Capped Wicketkeepers Set](ipl_2024_auction_capped_wicketkeepers_set.md): same auction live blog.
 - [IPL 2024 Auction: Expert Previews and Team Strategy](ipl_2024_auction_expert_previews_and_team_strategy.md): same auction live blog, on the previews from the same morning.
+- [IPL 2024 Auction: Final Round Results](ipl_2024_auction_final_round_results.md): same source document (doc_0307)
+- [IPL 2024 Auction: The Accelerated Round](ipl_2024_auction_first_accelerated_round.md): same source document (doc_0307)
 
 ## Source
 

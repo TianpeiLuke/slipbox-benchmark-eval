@@ -15,10 +15,18 @@ Cairns fell to 2-2 to start the season, having also dropped their two games agai
 
 ## Related Notes
 
+
 - [Melbourne United Beat Illawarra Hawks in Wollongong Round 4](melbourne_united_beat_illawarra_hawks_in_wollongong_round_4.md): the Hawks' previous game under Jacob Jackomas at the Entertainment Centre
 - [Tasmania JackJumpers Record Score Beat Sydney Kings Round 4](tasmania_jackjumpers_record_score_beat_sydney_kings_round_4.md): another NBL report referencing the Cairns Taipans, different source document
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): another round 5 result, same source document
 - [Aron Baynes Suspension Brisbane Bullets 2023](aron_baynes_suspension_brisbane_bullets_2023.md): another story in the same round-up, same source document
+- [Brisbane Outwork Perth 84-79 At RAC Arena](brisbane_bullets_beat_perth_wildcats_nbl_round_5.md): same source document (doc_0240)
+- [Brisbane Survive Tasmania's Fightback To Win 90-87](brisbane_bullets_beat_tasmania_jackjumpers_nbl_round_5.md): same source document (doc_0240)
+- [Cairns Beat Sydney 87-80 As Patrick Miller Is Injured](cairns_taipans_beat_sydney_kings_and_patrick_miller_injury.md): same source document (doc_0240)
+- [Melbourne United Beat Illawarra 96-84 In Round 5](melbourne_united_beat_illawarra_hawks_nbl_round_5.md): same source document (doc_0240)
+- [Melbourne United Beat Tasmania 90-82 In Hobart](melbourne_united_beat_tasmania_jackjumpers_in_hobart_round_5.md): same source document (doc_0240)
+- [Phoenix Survive A Late Scare To Beat New Zealand 103-100](south_east_melbourne_phoenix_beat_new_zealand_breakers_round_5.md): same source document (doc_0240)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

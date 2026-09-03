@@ -13,11 +13,19 @@ The sum-of-the-parts arithmetic supplies the warrant. Reliance Retail Ventures, 
 
 ## Related Notes
 
+
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): shares the earnings-and-valuation content tags used across the corpus.
 - [Bharti Airtel EV/EBITDA Valuation Case](bharti_airtel_ev_ebitda_valuation_case.md): a parallel Indian stock valuation argument.
 - [Boeing Q3 2023 Earnings Preview and 737 Max Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): shares the earnings-and-valuation content tags used across the corpus.
 - [Enterprise Value Multiples](enterprise_value_multiples.md): the multiple framework this sum-of-the-parts case applies.
 - [Equity Valuations Versus Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): the macro backdrop against which such valuations are judged.
+- [Reliance Green Energy Investment Programme](reliance_green_energy_investment_programme.md): same source document (doc_0253)
+- [Reliance Industries Share Price and Growth Catalysts](reliance_industries_share_price_and_growth_catalysts.md): same source document (doc_0253)
+- [Reliance Jio Telecom Growth Outlook](reliance_jio_telecom_growth_outlook.md): same source document (doc_0253)
+- [Reliance O2C and Exploration Business Economics](reliance_o2c_and_exploration_business_economics.md): same source document (doc_0253)
+- [Reliance Retail Ventures Store Expansion](reliance_retail_ventures_store_expansion.md): same source document (doc_0253)
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

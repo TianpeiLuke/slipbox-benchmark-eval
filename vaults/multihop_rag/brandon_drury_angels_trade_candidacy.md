@@ -11,11 +11,19 @@ His $8.5M salary for the following year looked like strong value, particularly i
 
 ## Related Notes
 
+
 - [Angels 2023 Offseason Ohtani And Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): another Angels offseason storyline involving Ohtani, from a different document.
 - [Angels Pursuit Of Blake Snell](angels_pursuit_of_blake_snell.md): another Angels offseason move, from a different document.
 - [Los Angeles Angels Manager Search 2023](los_angeles_angels_manager_search_2023.md): another Angels offseason storyline, from a different document.
 - [Shohei Ohtani Free Agency Market Overview](shohei_ohtani_free_agency_market_overview.md): covers the Ohtani decision this note treats as a condition, from a different document.
 - [Shohei Ohtani Postseason Ambition With Dodgers](shohei_ohtani_postseason_ambition_with_dodgers.md): also concerns the Angels and Ohtani, from a different document.
+- [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): same source document (doc_0118)
+- [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): same source document (doc_0118)
+- [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
+- [Christopher Morel Cubs Trade Candidacy](christopher_morel_cubs_trade_candidacy.md): same source document (doc_0118)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

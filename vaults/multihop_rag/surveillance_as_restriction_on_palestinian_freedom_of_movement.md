@@ -13,6 +13,7 @@ The warrant joining the technology to political effect is deterrence of dissent.
 
 ## Related Notes
 
+
 - [Meta Moderation Bias](meta_moderation_bias.md): also concerns East Jerusalem, from a different source document.
 - [Amnesty's Automated Apartheid Report On West Bank Surveillance](amnesty_automated_apartheid_report_on_west_bank_surveillance.md): drawn from the same source document (doc_0336).
 - [Amnesty's Verification Of CCTV-Identified Detentions](amnesty_verification_of_cctv_identified_detentions.md): drawn from the same source document (doc_0336).
@@ -21,6 +22,8 @@ The warrant joining the technology to political effect is deterrence of dissent.
 - [Hikvision Video Surveillance Company Profile](hikvision_video_surveillance_company_profile.md): drawn from the same source document (doc_0336).
 - [IPVM's Rebuttal Of Hikvision's Human Rights Record](ipvm_rebuttal_of_hikvision_human_rights_record.md): drawn from the same source document (doc_0336).
 - [Mabat 2000, The Israeli Facial Recognition Network](mabat_2000_israeli_facial_recognition_network.md): drawn from the same source document (doc_0336).
+- [Surveillance Camera Saturation In Occupied East Jerusalem](surveillance_camera_saturation_in_occupied_east_jerusalem.md): same source document (doc_0336)
+- [West Bank And Gaza Casualties, October-November 2023](west_bank_and_gaza_casualties_october_november_2023.md): same source document (doc_0336)
 
 ## Source
 

@@ -11,10 +11,17 @@ The deal applies to the digital version of the card. As of the writing of both r
 
 ## Related Notes
 
+
 - [Apple AirPods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): same source documents; a headline product deal alongside this promotion.
 - [Apple Store Credit And Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): overlaps in content on the same gift-card codes and promotion, from a different source document.
 - [Console Gift Card Black Friday Deals](console_gift_card_black_friday_deals.md): overlaps in content on gift cards and purchase-based credit, from a different source document.
 - [Apple's 2023 Top iPad Apps And Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): also concerns App Store spending, from a different source document.
+- [The $360 Million Activision Payment And Its Evidentiary Weakness](activision_360_million_payment_evidence_dispute.md): both discuss App Store; different source document
+- [The Amex Cash Magnet Best-Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): content overlap 0.14 on card, purchases, purchase; different source document
+- [Apple AirPods 3rd Gen Holiday Deal](apple_airpods_3rd_gen_holiday_deal.md): same source document (doc_0091)
+- [Apple AirPods Max Holiday Deal](apple_airpods_max_holiday_deal.md): same source document (doc_0091)
+- [Apple AirTags Holiday Deal](apple_airtags_holiday_deal.md): same source document (doc_0091)
+- [Apple Holiday 2023 Sale Overview](apple_holiday_2023_sale_overview.md): same source document (doc_0091)
 
 ## Source
 

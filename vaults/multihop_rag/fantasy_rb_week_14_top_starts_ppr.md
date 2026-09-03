@@ -15,11 +15,20 @@ De'Von Achane (vs. Titans) went right back to roughing up the opposition in his 
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): shares the NFL and playoff-seeding themes, from a different document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also discusses Joe Flacco, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): also discusses Joe Flacco, from a different document.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): shares the NFL and playoff-seeding themes, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): shares the NFL and playoff-seeding themes, from a different document.
+- [Week 14 Fantasy Running Back Rankings, Full-Point PPR (Full List)](fantasy_rb_ppr_rankings_week_14_full_list.md): same source document (doc_0317)
+- [Week 14 PPR Running Backs To Downgrade](fantasy_rb_week_14_busts_ppr.md): same source document (doc_0317)
+- [Week 14 Bye Week Impact On Fantasy Running Backs](fantasy_rb_week_14_bye_week_impact.md): same source document (doc_0317)
+- [Week 14 PPR Running Back Sleepers](fantasy_rb_week_14_sleepers_ppr.md): same source document (doc_0317)
+- [Week 14 Running Back Injury Report](nfl_week_14_running_back_injury_report.md): same source document (doc_0317)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

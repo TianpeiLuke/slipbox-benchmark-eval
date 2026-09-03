@@ -11,6 +11,7 @@ He tried to retire after that but got bored and started a couple of Facebook pag
 
 ## Related Notes
 
+
 - [Lawsuit Redactions As Signal: The Amazon Precedent](lawsuit_redactions_as_signal_amazon_precedent.md): shares a documents-and-disclosure framing, from a different source document.
 - [Platform Silos Make New Social Products Impossible To Build](platform_silos_make_new_social_products_impossible_to_build.md): also concerns Facebook followers and social distribution, from a different source document.
 - [The Affiliate Marketing Alligator Party](affiliate_marketing_alligator_party.md): drawn from the same source document (doc_0115).
@@ -19,6 +20,8 @@ He tried to retire after that but got bored and started a couple of Facebook pag
 - [The Blurred Line Between SEO And Spam](blurred_line_between_seo_and_spam.md): drawn from the same source document (doc_0115).
 - [Cade Lee, From Black Hat SEO To Construction](cade_lee_from_black_hat_seo_to_construction.md): drawn from the same source document (doc_0115).
 - [Danny Sullivan, From Journalist To Google Liaison](danny_sullivan_from_journalist_to_google_liaison.md): drawn from the same source document (doc_0115).
+- [The Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): same source document (doc_0115)
+- [Duane Forrester, Bing, And The Search Engine's View](duane_forrester_bing_and_the_search_engine_view.md): same source document (doc_0115)
 
 ## Source
 

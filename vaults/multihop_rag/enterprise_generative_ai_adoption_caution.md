@@ -13,11 +13,19 @@ Generative AI certainly has the potential to do that, but it also carries its ow
 
 ## Related Notes
 
+
 - [AI Pricing Models](ai_pricing_models.md): shares the large-language-model and SaaS pricing themes, from a different source document.
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): shares the generative-AI and large-language-model themes, from a different source document.
+- [The CIO Tension Between AI Pressure And Caution](cio_tension_between_ai_pressure_and_caution.md): same source document (doc_0160)
+- [Deloitte's Guidance On Structuring Enterprise AI Adoption](deloitte_guidance_on_structuring_enterprise_ai_adoption.md): same source document (doc_0160)
+- [Enterprise Generative AI Use-Case Pilots](enterprise_generative_ai_use_case_pilots.md): same source document (doc_0160)
+- [Measuring Generative AI Productivity At Juniper Networks](measuring_generative_ai_productivity_at_juniper_networks.md): same source document (doc_0160)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
+- [SaaS Pricing](term_saas_pricing.md): uses the concept saas pricing
 
 ## Source
 

@@ -11,6 +11,7 @@ The mitigating fact is acknowledged — he missed five games with a hamstring in
 
 ## Related Notes
 
+
 - [Buccaneers 21-18 Panthers Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): overlaps on receiving production terms, from a different document.
 - [Dolphins 45-15 Commanders Week 13](dolphins_45_15_commanders_week_13.md): overlaps on receiving production terms, from a different document.
 - [Dolphins Eagles First Half Live Blog](dolphins_eagles_first_half_live_blog.md): also discusses Julio Jones, from a different document.
@@ -19,6 +20,8 @@ The mitigating fact is acknowledged — he missed five games with a hamstring in
 - [Aaron Glenn Lions Hot Seat](aaron_glenn_lions_hot_seat.md): another entry in the same roundup, from the same document.
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): another entry in the same roundup, from the same document.
 - [Christian Watson Packers Hot Seat](christian_watson_packers_hot_seat.md): another entry in the same roundup, from the same document.
+- [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md): same source document (doc_0437)
+- [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): same source document (doc_0437)
 
 ## Source
 

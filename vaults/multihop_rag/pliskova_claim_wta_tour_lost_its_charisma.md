@@ -13,9 +13,18 @@ She extended the claim to the governing body and to observable consequences: "An
 
 ## Related Notes
 
+
 - [Handicap Betting In Tennis And Golf](handicap_betting_in_tennis_and_golf.md): also discusses Maria Sharapova and Serena Williams, the players Pliskova names, from a different document.
 - [Media Coverage Share As A Barrier For Women's Sports](media_coverage_share_as_barrier_for_womens_sports.md): covers the same question of promotion and visibility for women's sport, from a different document.
 - [Moneyline Odds Examples By Sport](moneyline_odds_examples_by_sport.md): also discusses Maria Sharapova and Serena Williams, from a different document.
+- [Becker's Claim That Kyrgios Owes His Career To Tennis' Trailblazers](becker_claim_kyrgios_owes_career_to_tennis_trailblazers.md): same source document (doc_0342)
+- [Corretja Doubts A Djokovic Golden Slam In 2024](corretja_doubts_djokovic_2024_golden_slam.md): same source document (doc_0342)
+- [Djokovic On His Relationship With Federer And Nadal](djokovic_on_his_relationship_with_federer_and_nadal.md): same source document (doc_0342)
+- [The Kyrgios-Becker Social Media Feud Of December 2023](kyrgios_becker_social_media_feud_december_2023.md): same source document (doc_0342)
+- [Kyrgios' Rebuttal That He Grew The Tennis Audience](kyrgios_rebuttal_that_he_grew_the_tennis_audience.md): same source document (doc_0342)
+- [Lleyton Hewitt's United Cup 2024 Captaincy](lleyton_hewitt_united_cup_2024_captaincy.md): same source document (doc_0342)
+- [Murray And Rune's Brisbane International Doubles Entry For 2024](murray_and_rune_brisbane_international_doubles_2024.md): same source document (doc_0342)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

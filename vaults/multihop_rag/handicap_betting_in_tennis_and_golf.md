@@ -13,11 +13,18 @@ For golf, betting often centers on outright winners or head-to-head matchups, wi
 
 ## Related Notes
 
+
 - [Betting on Golf Majors and Team Events](betting_on_golf_majors_and_team_events.md): overlaps on golf betting and head-to-head markets, from a different document.
 - [Bryson DeChambeau Opposition to Golf Ball Rollback](bryson_dechambeau_opposition_to_golf_ball_rollback.md): overlaps on golf and handicap terminology, from a different document.
 - [Golf Ball Rollback Application to Men's Majors](golf_ball_rollback_application_to_mens_majors.md): also discusses Tiger Woods, from a different document.
 - [Golf Betting Bet Types Explained](golf_betting_bet_types_explained.md): covers the outright and matchup golf markets named here, from a different document.
 - [Live In-Play Golf Betting](live_in_play_golf_betting.md): overlaps on golf betting and head-to-head wagers, from a different document.
+- [Determining A Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): same source document (doc_0359)
+- [Line Movement As A Signal Of Betting Value](line_movement_as_a_signal_of_betting_value.md): same source document (doc_0359)
+- [Point Spread Bet Definition](point_spread_bet_definition.md): same source document (doc_0359)
+- [Point Spread Odds And Line Movement](point_spread_odds_and_line_movement.md): same source document (doc_0359)
+- [Point Spread Push And Half-Point Lines](point_spread_push_and_half_point_lines.md): same source document (doc_0359)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

@@ -13,9 +13,13 @@ Between 2015 and 2019 the YouTube channel took on sponsors, including telecom op
 
 ## Related Notes
 
+
 - [Bangladesh K12 Education Access Gap](bangladesh_k12_education_access_gap.md): same source document; the structural inequality Sadiq encountered as a Dhaka coaching-center teacher.
 - [10 Minute School's Pre-Series A Investor Syndicate](ten_minute_school_pre_series_a_funding_round.md): same source document; the later round in which Surge returned as an investor.
 - [10 Minute School (10MS)](ten_minute_school_bangladesh_edtech.md): same source document; what the YouTube channel grew into.
+- [Shikho, A Bangladeshi Edtech Competitor](shikho_bangladesh_edtech_competitor.md): same source document (doc_0458)
+- [10 Minute School's Post-Round Investment Plans](ten_minute_school_growth_and_investment_plans.md): same source document (doc_0458)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

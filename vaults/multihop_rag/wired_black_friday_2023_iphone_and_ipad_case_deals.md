@@ -13,11 +13,19 @@ Totallee's cases will not give you the most protection, but they are some of the
 
 ## Related Notes
 
+
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the Black Friday / Cyber Monday and streaming-service themes, from a different source document.
 - [Backbone One Mobile Controller Deal](backbone_one_mobile_controller_deal.md): shares the Black Friday / Cyber Monday and streaming-service themes, from a different source document.
 - [Beeper Mini Hands-On Test Results](beeper_mini_hands_on_test_results.md): also concerns iPhone Pro Max models, from a different source document.
 - [ChatGPT Voice And Speech Features](chatgpt_voice_and_speech_features.md): also concerns Pro Max devices, from a different source document.
 - [iPad (9th Generation) Holiday Deal](ipad_9th_generation_holiday_deal.md): shares the Black Friday / Cyber Monday and streaming-service themes, from a different source document.
+- [Apple Store Credit And Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): same source document (doc_0576)
+- [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): same source document (doc_0576)
+- [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): same source document (doc_0576)
+- [Why iPhone Discounts Come From Carriers, Not Retailers](why_iphone_discounts_come_from_carriers_not_retailers.md): same source document (doc_0576)
+- [WIRED's 2023 Holiday Deal Guide Selection And Pricing Method](wired_2023_holiday_deal_guide_selection_and_pricing_method.md): same source document (doc_0576)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

@@ -13,11 +13,20 @@ On financing, OpenAI closed a $300 million share sale at a $27 billion to $29 bi
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): also covers Sequoia Capital, from a different source document.
 - [AI Search Publisher Traffic Loss Projections](ai_search_publisher_traffic_loss_projections.md): also covers Axel Springer, from a different source document.
 - [ChatGPT Launch and First Year Evolution](chatgpt_launch_and_first_year_evolution.md): substantial content overlap on openai, chatgpt, generative, from a different source document.
 - [Clark Cease and Desist and Political Friction](clark_cease_and_desist_and_political_friction.md): also covers Founders Fund, from a different source document.
 - [Cybersecurity Consolidation Wave 2023](cybersecurity_consolidation_wave_2023.md): shares the acquisition and valuation theme, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): same source document (doc_0048)
+- [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): same source document (doc_0048)
+- [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): same source document (doc_0048)
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

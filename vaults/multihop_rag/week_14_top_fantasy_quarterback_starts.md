@@ -11,11 +11,19 @@ Despite Buffalo being on the outside looking in for a playoff berth, Allen (at t
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys, Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also covers Dak Prescott, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also covers Dak Prescott, from a different document.
 - [Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): also covers Lamar Jackson, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also covers Lamar Jackson, from a different document.
 - [Bills-Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also covers Josh Allen, from a different document.
+- [Week 14's Biggest Potential Quarterback Busts](week_14_fantasy_quarterback_busts.md): same source document (doc_0553)
+- [The Week 14 Fantasy Quarterback Landscape](week_14_fantasy_quarterback_landscape.md): same source document (doc_0553)
+- [Week 14 Fantasy Quarterback Rankings, Top 30](week_14_fantasy_quarterback_rankings_top_30.md): same source document (doc_0553)
+- [Week 14 Fantasy Quarterback Streamers And Sleepers](week_14_fantasy_quarterback_streamers.md): same source document (doc_0553)
+- [Week 14 Quarterback Byes: Murray And Howell](week_14_quarterback_byes_murray_and_howell.md): same source document (doc_0553)
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

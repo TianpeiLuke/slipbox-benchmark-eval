@@ -13,6 +13,7 @@ Asked whether that means Warner Music can buy more if multiples are low enough, 
 
 ## Related Notes
 
+
 - [CMG Partner Labels Quality Control and 10K Projects](cmg_partner_labels_quality_control_and_10k_projects.md): another note involving Warner Music Group's position in the label market.
 - [Dream Track Artist Selection and Licensing Questions](dream_track_artist_selection_and_licensing_questions.md): another Warner Music Group rights-and-licensing note.
 - [EU-US Performance Rights Asymmetry](eu_us_performance_rights_asymmetry.md): concerns the same songwriter and rights-revenue economics.
@@ -21,6 +22,8 @@ Asked whether that means Warner Music can buy more if multiples are low enough, 
 - [Dispute Over Readiness of AI Content Detection Tooling](dispute_over_readiness_of_ai_content_detection_tooling.md): another takeaway from the same Q&A session.
 - [Kyncl Prediction Music First Industry to Feel AI Impact](kyncl_prediction_music_first_industry_to_feel_ai_impact.md): another takeaway from the same Q&A session.
 - [Kyncl Rebuttal: Labels Persist Like Ad Agencies After AdWords](kyncl_rebuttal_labels_persist_like_ad_agencies_after_adwords.md): another takeaway from the same Q&A session.
+- [Music Streaming Price Hikes and Emerging Market Growth](music_streaming_price_hikes_and_emerging_market_growth.md): same source document (doc_0455)
+- [Music Streaming Resilience Versus Streaming Video Downturn](music_streaming_resilience_versus_streaming_video_downturn.md): same source document (doc_0455)
 
 ## Source
 

@@ -11,12 +11,18 @@ Disney Illusion Island is described as a terrific intro to 2D side-scrolling "Me
 
 ## Related Notes
 
+
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): overlapping coverage of 8BitDo Switch controllers, from a different source document.
 - [8BitDo Ultimate Bluetooth Hall Effect Controller](8bitdo_ultimate_bluetooth_hall_effect_controller.md): overlapping coverage of 8BitDo and the Nintendo Switch, from a different source document.
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): also concerns the Nintendo Switch, from a different source document.
 - [Animal Crossing: New Horizons](animal_crossing_new_horizons.md): also concerns Animal Crossing, from a different source document.
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): also concerns the Nintendo Switch, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): drawn from the same source document (doc_0424).
+- [Apple iPad Ninth Generation Deal Listings](apple_ipad_ninth_generation_deal_listings.md): same source document (doc_0424)
+- [Kids' Apparel And Keepsake Gifts 2023](kids_apparel_and_keepsake_gifts_2023.md): same source document (doc_0424)
+- [Kids' Headphone, Speaker And Music Gifts 2023](kids_headphone_speaker_and_music_gifts_2023.md): same source document (doc_0424)
+- [Kids' Maker And DIY Kit Gifts 2023](kids_maker_and_diy_kit_gifts_2023.md): same source document (doc_0424)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

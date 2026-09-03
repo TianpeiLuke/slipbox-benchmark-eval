@@ -11,11 +11,15 @@ A second line of criticism attacked the factual premise of the story that revive
 
 ## Related Notes
 
+
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): the broader public reaction to the same couple's coverage
 - [Biggest Concert Films Box Office Records](biggest_concert_films_box_office_records.md): covers the Eras Tour whose schedule the second criticism rests on
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): NFL coverage of the same player from a different source
 - [Chiefs Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): live coverage of a game involving the same player
 - [Chiefs Jets Pregame Notes Taylor Swift And Rodgers](chiefs_jets_pregame_notes_taylor_swift_and_rodgers.md): another article on the Swift-Kelce story around Chiefs games
+- [Swift And Kelce's Public Appearances Together](swift_and_kelce_public_appearances_together.md): same source document (doc_0174)
+- [Travis Kelce's "Breeder" Remarks On The New Heights Podcast](travis_kelce_breeder_remarks_on_new_heights_podcast.md): same source document (doc_0174)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

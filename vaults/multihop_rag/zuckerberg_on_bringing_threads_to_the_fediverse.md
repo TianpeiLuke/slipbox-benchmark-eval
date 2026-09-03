@@ -11,6 +11,7 @@ The Verge's writer treated the remark as striking evidence for the fediverse cas
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also concerns Mark Zuckerberg, from a different source document.
 - [Critique Of Meta's App Store Parental Approval Proposal](critique_of_meta_app_store_parental_approval_proposal.md): also concerns Mark Zuckerberg, from a different source document.
 - [DeepMind's Google Acquisition And Facebook's AI Lab](deepmind_google_acquisition_and_facebook_ai_lab.md): overlapping coverage of Zuckerberg and what Meta builds, from a different source document.
@@ -19,6 +20,8 @@ The Verge's writer treated the remark as striking evidence for the fediverse cas
 - [ActivityPub And Rival Social Protocols](activitypub_and_rival_social_protocols.md): drawn from the same source document (doc_0508).
 - [The ActivityPub Data Model Of Senders, Messages And Inboxes](activitypub_data_model_of_senders_messages_and_inboxes.md): drawn from the same source document (doc_0508).
 - [Craigslist Unbundling As A Model For Social Media](craigslist_unbundling_as_a_model_for_social_media.md): drawn from the same source document (doc_0508).
+- [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): same source document (doc_0508)
+- [Decentralization As A Free Market, Not An Anti-Capitalist Project](decentralization_as_a_free_market_not_an_anti_capitalist_project.md): same source document (doc_0508)
 
 ## Source
 

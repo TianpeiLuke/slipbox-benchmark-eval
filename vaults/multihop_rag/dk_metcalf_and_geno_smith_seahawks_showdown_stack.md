@@ -11,12 +11,18 @@ The contest constraints were a $50,000 budget with at least one player required 
 
 ## Related Notes
 
+
 - [Bears-Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): also concerns Monday Night Football, from a different document.
 - [Bears-Vikings MNF Result and Recap](bears_vikings_mnf_result_and_recap.md): also concerns Monday Night Football, from a different document.
 - [Brock Purdy Fantasy Outlook, Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also covers Geno Smith, from a different document.
 - [Dolphins-Eagles Second Half Live Blog](dolphins_eagles_second_half_live_blog.md): also covers Darius Slay, from a different document.
 - [Eagles-Seahawks Week 15 MNF Playoff Stakes](eagles_seahawks_week_15_mnf_playoff_stakes.md): covers the same Monday night game, from a different document.
 - [Dallas Goedert Eagles Tight End Showdown Pick](dallas_goedert_eagles_tight_end_showdown_pick.md): another pick in the same Showdown lineup, from the same document.
+- [D'Andre Swift And The Eagles' Run Game In The Showdown Lineup](dandre_swift_eagles_run_game_showdown_pick.md): same source document (doc_0386)
+- [DeVonta Smith's Value In The Eagles-Seahawks Showdown](devonta_smith_eagles_showdown_value.md): same source document (doc_0386)
+- [DraftKings Showdown And FanDuel Single-Game Scoring Rules](draftkings_showdown_and_fanduel_single_game_scoring_rules.md): same source document (doc_0386)
+- [The Eagles-Seahawks SuperDraft Single-Game Lineup](eagles_seahawks_superdraft_single_game_lineup.md): same source document (doc_0386)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

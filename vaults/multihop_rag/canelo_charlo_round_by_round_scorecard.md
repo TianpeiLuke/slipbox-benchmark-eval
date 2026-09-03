@@ -11,6 +11,7 @@ Round Six: Charlo did nothing but let Canelo bully him around the ring, taking a
 
 ## Related Notes
 
+
 - [Benavidez Andrade Undercard and Jermall Charlo Return](benavidez_andrade_undercard_and_jermall_charlo_return.md): shares the Charlo and in-ring round subject matter, from a different source document.
 - [Canelo Alvarez Undisputed Titles and Net Worth](canelo_alvarez_undisputed_titles_and_net_worth.md): also covers Canelo Alvarez and Jermell Charlo, from a different source document.
 - [Canelo and McGregor Pay-Per-View Purse History](canelo_and_mcgregor_pay_per_view_purse_history.md): also covers Jermell Charlo, from a different source document.
@@ -19,6 +20,8 @@ Round Six: Charlo did nothing but let Canelo bully him around the ring, taking a
 - [Barrios vs Ugas Interim WBC Welterweight 2023](barrios_vs_ugas_interim_wbc_welterweight_2023.md): another bout on the same card (doc_0245).
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): the summary result of the fight scored here (doc_0245).
 - [Canelo Alvarez Next Opponents After Charlo Win](canelo_alvarez_next_opponents_after_charlo_win.md): what follows the fight, from the same coverage (doc_0245).
+- [Canelo-Charlo: Early Prelim Results And Main Card Start Times](canelo_charlo_ppv_card_schedule.md): same source document (doc_0245)
+- [Elijah Garcia Stops Armando Resendiz In The Eighth To Open The Canelo-Charlo PPV](elijah_garcia_stops_armando_resendiz_2023.md): same source document (doc_0245)
 
 ## Source
 

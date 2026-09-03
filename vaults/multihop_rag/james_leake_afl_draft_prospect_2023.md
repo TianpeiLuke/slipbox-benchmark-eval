@@ -11,12 +11,18 @@ With mercurial ability in the air and an uncanny knack around goals, he looks to
 
 ## Related Notes
 
+
 - [Sydney Swans Top AFLW Attendance Charts](sydney_swans_top_aflw_attendance_charts.md): also concerns the Sydney Swans, from a different document.
 - [Angus Hastie AFL Draft Prospect 2023](angus_hastie_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Archer Reid AFL Draft Prospect 2023](archer_reid_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Archie Roberts AFL Draft Prospect 2023](archie_roberts_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Ari Schoenmaker AFL Draft Prospect 2023](ari_schoenmaker_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Ashton Moya AFL Draft Prospect 2023](ashton_moya_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
+- [Caiden Cleary AFL Draft Prospect 2023](caiden_cleary_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Caleb Windsor AFL Draft Prospect 2023](caleb_windsor_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Charlie Edwards AFL Draft Prospect 2023](charlie_edwards_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Clay Hall AFL Draft Prospect 2023](clay_hall_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

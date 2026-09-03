@@ -11,11 +11,20 @@ On the query "kids BMX bike green," Google did pretty well, DuckDuckGo ignored t
 
 ## Related Notes
 
+
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares the hardware and smart-home device themes, from a different source document.
 - [Black Friday Deals Under $25 Roundup](black_friday_deals_under_25_roundup.md): shares the hardware and smart-home device themes, from a different source document.
 - [ChatGPT Mobile App And Availability Expansion](chatgpt_mobile_app_and_availability_expansion.md): overlapping coverage of Bing, search and chatbots, from a different source document.
 - [ChatGPT Overview And Significance](chatgpt_overview_and_significance.md): also concerns Bing Chat, from a different source document.
 - [Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): also concerns Google Search, from a different source document.
+- [Google's Defense That Search Defaults Are Easy To Change](google_defense_that_search_defaults_are_easy_to_change.md): same source document (doc_0032)
+- [Google's Denial That Ad Keyword Matching Affects Organic Results](google_denial_that_ad_keyword_matching_affects_organic_results.md): same source document (doc_0032)
+- [How Google Search Crawls, Indexes And Ranks Results](how_google_search_crawls_indexes_and_ranks_results.md): same source document (doc_0032)
+- [Search Quality Complaints Explained By Data Volume Growth](search_quality_complaints_explained_by_data_volume_growth.md): same source document (doc_0032)
+- [Wired's Retracted Claim That Google Manipulates Search Queries](wired_retracted_claim_that_google_manipulates_search_queries.md): same source document (doc_0032)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

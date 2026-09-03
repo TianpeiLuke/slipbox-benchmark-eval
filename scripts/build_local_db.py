@@ -28,7 +28,8 @@ and a per-row SQLite scan does not. They live in the same directory, are
 gitignored together, and are rebuilt together.
 
 Schema (deliberately minimal -- only what retrieval and scoring need):
-    notes(note_id, note_name, title, building_block, body, words, source_doc)
+    notes(note_id, note_name, title, tags, keywords, topics, status, language,
+          building_block, body, words, source_doc)
                source_doc comes from the note's own `source_docs:` frontmatter
     note_links(source_note_id, target_note_id, link_text, resolved)
     broken_links / ghost_notes / ghost_note_references  -- link-repair diagnostics
@@ -56,6 +57,17 @@ CREATE TABLE IF NOT EXISTS notes (
     note_id        TEXT PRIMARY KEY,
     note_name      TEXT,          -- filename stem; what humans and skills call the note
     title          TEXT,
+    -- Curated metadata, indexed because it is RETRIEVAL SURFACE and not
+    -- decoration: the source vault seeds graph traversal with
+    --   note_name LIKE ? OR keywords LIKE ? OR topics LIKE ? OR tags LIKE ?
+    -- so a vault without these fields cannot run keyword seeding at all. They
+    -- are also a denser, human-chosen statement of what a note is about than
+    -- its body, which is exactly what a short query matches against.
+    tags           TEXT,
+    keywords       TEXT,
+    topics         TEXT,
+    status         TEXT,
+    language       TEXT,
     building_block TEXT,
     body           TEXT,
     words          INTEGER,
@@ -103,6 +115,31 @@ CREATE INDEX IF NOT EXISTS idx_broken_src ON broken_links(source_note_id);
 SIM_FLOOR = 0.75   # below this a candidate is noise, not a suggestion
 
 
+def list_field(raw: str, key: str) -> str:
+    """Read a YAML list field into a comma string.
+
+    Frontmatter here uses itemised lists (`keywords:` then `  - one` per line),
+    which the flat key:value parser skips, so these have to be read separately.
+    """
+    m = FM.match(raw)
+    if not m:
+        return ""
+    out, grabbing = [], False
+    for line in m.group(1).splitlines():
+        if re.match(rf"^{key}\s*:", line):
+            rest = line.split(":", 1)[1].strip()
+            if rest:
+                return rest.strip("[]").replace('"', "").replace("'", "")
+            grabbing = True
+            continue
+        if grabbing:
+            if re.match(r"^\s*-\s+", line):
+                out.append(re.sub(r"^\s*-\s+", "", line).strip().strip('"\''))
+            elif line.strip() and not line.startswith(" "):
+                break
+    return ", ".join(out)
+
+
 def parse_frontmatter(text: str) -> dict:
     m = FM.match(text)
     if not m:
@@ -133,13 +170,19 @@ def build(vault: Path, provenance: dict[str, str]) -> sqlite3.Connection:
         h1 = H1.search(body)
         # provenance: frontmatter source_docs is authoritative; provenance.json is a fallback
         src = fm.get("source_docs", "").strip("[] ").replace('"', "").replace("'", "")
+        title = h1.group(1) if h1 else p.stem
+        meta = {k: list_field(raw, k) for k in ("tags", "keywords", "topics")}
         con.execute(
-            "INSERT OR REPLACE INTO notes VALUES (?,?,?,?,?,?,?)",
-            (nid, p.stem, h1.group(1) if h1 else p.stem, fm.get("building_block", ""),
-             body, len(body.split()), src or provenance.get(nid, "")),
+            "INSERT OR REPLACE INTO notes VALUES (?,?,?,?,?,?,?,?,?,?,?,?)",
+            (nid, p.stem, title, meta["tags"], meta["keywords"], meta["topics"],
+             fm.get("status", ""), fm.get("language", ""),
+             fm.get("building_block", ""), body, len(body.split()),
+             src or provenance.get(nid, "")),
         )
+        # keywords and topics join the FTS body: they are query-matching surface,
+        # and a term a curator chose is often the one a question uses.
         con.execute("INSERT INTO notes_fts VALUES (?,?,?)",
-                    (nid, h1.group(1) if h1 else p.stem, body))
+                    (nid, title, f"{meta['keywords']} {meta['topics']} {body}"))
 
     # links, resolved against THIS vault only
     for p in notes:

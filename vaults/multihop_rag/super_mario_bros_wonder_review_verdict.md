@@ -13,6 +13,7 @@ The warrant is comparative: in a lot of ways Wonder reminds the reviewer of his 
 
 ## Related Notes
 
+
 - [Classic Nintendo Switch Franchise Picks](classic_nintendo_switch_franchise_picks.md): also assesses Nintendo's classic franchises on Switch, from a different source document.
 - [Kids' Toy And Playset Gifts 2023](kids_toy_and_playset_gifts_2023.md): shares the Super Mario Bros. property, from a different source document.
 - [Mario Kart 8 Deluxe](mario_kart_8_deluxe.md): another Nintendo Mario title assessed on its own terms, from a different source document.
@@ -21,6 +22,8 @@ The warrant is comparative: in a lot of ways Wonder reminds the reviewer of his 
 - [Super Mario Bros. Wonder's Art And Overworld Map](super_mario_bros_wonder_art_and_overworld_map.md): drawn from the same source document (doc_0077).
 - [Badges And Level Variety In Super Mario Bros. Wonder](super_mario_bros_wonder_badges_and_level_variety.md): drawn from the same source document (doc_0077).
 - [How Wonder Fixes 2D Mario's Difficulty Pacing](super_mario_bros_wonder_difficulty_pacing_fix.md): drawn from the same source document (doc_0077).
+- [The Flower Kingdom Premise](super_mario_bros_wonder_flower_kingdom_premise.md): same source document (doc_0077)
+- [Minor Criticisms Of Super Mario Bros. Wonder](super_mario_bros_wonder_minor_criticisms.md): same source document (doc_0077)
 
 ## Source
 

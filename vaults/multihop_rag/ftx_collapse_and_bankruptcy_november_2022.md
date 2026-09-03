@@ -13,6 +13,7 @@ The day after the bankruptcy, on November 12th, Bankman-Fried directed Wang to s
 
 ## Related Notes
 
+
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): overlaps on Bankman-Fried, customer funds and Rehn, from a different source document.
 - [Alameda Research's Origins and Naming](alameda_research_origins_and_naming.md): overlaps on Wang, Bankman-Fried and crypto, from a different source document.
 - [Alameda's Special Privileges in FTX's Code](alameda_special_privileges_in_ftx_code.md): overlaps on Wang, Bankman-Fried and customer money, from a different source document.
@@ -20,6 +21,10 @@ The day after the bankruptcy, on November 12th, Bankman-Fried directed Wang to s
 - [Bankman-Fried's Post-Bankruptcy Media Tour](bankman_fried_post_bankruptcy_media_tour.md): overlaps on Bankman-Fried and the bankruptcy, from a different source document.
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the privilege that drained the exchange (doc_0305).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): the accounting that hid the hole until it opened (doc_0305).
+- [The Escalation Of Alameda's Negative Balance](alameda_negative_balance_escalation.md): same source document (doc_0305)
+- [Code Evidence Outweighs Deleted Signal Messages](code_evidence_outweighs_deleted_signal_messages.md): same source document (doc_0305)
+- [Cohen's Cross-Examination Of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): same source document (doc_0293)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

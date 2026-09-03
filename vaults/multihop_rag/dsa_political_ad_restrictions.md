@@ -19,11 +19,19 @@ The ad campaign was not the only line of questioning. While many of the question
 
 ## Related Notes
 
+
 - [DSA And DMA Oversight Of Meta Ad Tracking](dsa_dma_oversight_of_meta_ad_tracking.md): another case of the European Commission applying its own advertising and tracking rules, from a different source document.
 - [Amazon Response To EU iRobot Objections](amazon_response_to_eu_irobot_objections.md): another account of an actor answering the European Commission, from a different source document.
 - [CPC Network Consumer Protection Enforcement](cpc_network_consumer_protection_enforcement.md): another European Commission enforcement channel, from a different source document.
 - [EU AI Act Training Data Disclosure Rule](eu_ai_act_training_data_disclosure_rule.md): another European Commission legislative proposal and its transparency obligations, from a different source document.
 - [EU AI Office And Scientific Advisory Panel](eu_ai_office_and_scientific_advisory_panel.md): another European Commission body created to oversee a proposal it authored, from a different source document.
+- [The Commission's Microtargeted Ad Campaign For CSAM Scanning](commission_microtargeted_ad_campaign.md): same source document (doc_0457)
+- [Johansson's Rebuttals To The Case Against The CSAM Scanning Proposal](csam_proposal_opposition.md): same source document (doc_0457)
+- [The EU CSAM Scanning Proposal](eu_csam_scanning_proposal.md): same source document (doc_0457)
+- [Fotiadis Testimony And Johansson's Lobbying Contacts At The LIBE Hearing](johansson_parliament_hearing.md): same source document (doc_0457)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Microtargeting](term_microtargeting.md): uses the concept microtargeting
+- [CSAM Scanning](term_csam_scanning.md): uses the concept csam scanning
 
 ## Source
 

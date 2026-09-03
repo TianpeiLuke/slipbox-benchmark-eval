@@ -11,10 +11,17 @@ On the technical side: "Most people have lost cell phone connections and interne
 
 ## Related Notes
 
+
 - [Dalia Awad's Gaza Engineer Account](dalia_awad_gaza_engineer_account.md): same source document; a first-person description of the same 2G conditions.
 - [Gaza Tech Infrastructure Destruction](gaza_tech_infrastructure_destruction.md): same source document; the destroyed fiber lines and offices.
 - [Gaza Sky Geeks Accelerator](gaza_sky_geeks_accelerator.md): same source document; the institution that trained many of these engineers.
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also concerns Silicon Valley employers, from a different source document.
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): both discuss Silicon Valley; different source document
+- [ChatGPT's First Year Overview](chatgpt_first_year_overview.md): both discuss Silicon Valley; different source document
+- [ChatGPT Third-Party Integrations And Ecosystem](chatgpt_third_party_integrations_and_ecosystem.md): both discuss Silicon Valley; different source document
+- [Chinese Capital Stigma In US Fundraising](chinese_capital_stigma_in_us_fundraising.md): both discuss Silicon Valley; different source document
+- [Gaza As A Tech Outsourcing Hub](gaza_tech_outsourcing_hub.md): same source document (doc_0598)
+- [Israel-Hamas War Context, October 2023](israel_hamas_war_october_2023_context.md): same source document (doc_0598)
 
 ## Source
 

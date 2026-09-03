@@ -11,6 +11,7 @@ The grounds set aside the protocol advocacy: forget the hand-wavy protocol stuff
 
 ## Related Notes
 
+
 - [The Fediverse ActivityPub Protocol](fediverse_activitypub_protocol.md): overlapping coverage of ActivityPub as the fediverse protocol, from a different source document.
 - [Flipboard's Path To The Fediverse](flipboard_path_to_the_fediverse.md): overlapping coverage of embracing ActivityPub and the fediverse, from a different source document.
 - [ActivityPub And Rival Social Protocols](activitypub_and_rival_social_protocols.md): drawn from the same source document (doc_0508).
@@ -19,6 +20,8 @@ The grounds set aside the protocol advocacy: forget the hand-wavy protocol stuff
 - [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): drawn from the same source document (doc_0508).
 - [Decentralization As A Free Market, Not An Anti-Capitalist Project](decentralization_as_a_free_market_not_an_anti_capitalist_project.md): drawn from the same source document (doc_0508).
 - [Early Fediverse Messiness As A Product Opportunity](early_fediverse_messiness_as_a_product_opportunity.md): drawn from the same source document (doc_0508).
+- [Federation Alone Is Not A Product Advantage](federation_alone_is_not_a_product_advantage.md): same source document (doc_0508)
+- [The Fediverse Definition And The Email Analogy](fediverse_definition_and_the_email_analogy.md): same source document (doc_0508)
 
 ## Source
 

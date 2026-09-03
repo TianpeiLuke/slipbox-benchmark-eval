@@ -11,6 +11,7 @@ Jessica (Willcox), a recent widow, is in the midst of moving; on top of that str
 
 ## Related Notes
 
+
 - [Certified Copy, Abbas Kiarostami](certified_copy_abbas_kiarostami.md): another recommendation by the same Polygon critic, from a different document
 - [Detour, 1945, Edgar G. Ulmer](detour_1945_edgar_g_ulmer.md): another recommendation by the same Polygon critic, elsewhere
 - [Ginger Snaps, Werewolf Body Horror](ginger_snaps_werewolf_body_horror.md): another horror pick by the same critic, in a different list
@@ -19,6 +20,8 @@ Jessica (Willcox), a recent widow, is in the midst of moving; on top of that str
 - [Annihilation, 2018, Alex Garland](annihilation_2018_alex_garland_film.md): another pick from the same Polygon horror guide
 - [Climax, 2018, Gaspar Noé](climax_2018_gaspar_noe_film.md): another pick from the same Polygon horror guide
 - [Crimes Of The Future, 2022, David Cronenberg](crimes_of_the_future_2022_david_cronenberg.md): another pick from the same Polygon horror guide
+- [Cure: Kiyoshi Kurosawa's Horror Masterpiece About Violence As Contagion](cure_1997_kiyoshi_kurosawa_film.md): same source document (doc_0563)
+- [Encounters Of The Spooky Kind: Sammo Hung's Jiangshi Martial Arts Comedy](encounters_of_the_spooky_kind_sammo_hung.md): same source document (doc_0563)
 
 ## Source
 

@@ -13,11 +13,18 @@ The DualSense controller deal covers several different colour options at the sam
 
 ## Related Notes
 
+
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): overlaps on controller, Switch and bundled extras, from a different source document.
 - [8BitDo Ultimate Bluetooth Hall Effect Controller](8bitdo_ultimate_bluetooth_hall_effect_controller.md): overlaps on controller, Nintendo and Switch, from a different source document.
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): overlaps on controller, Nintendo and Switch, from a different source document.
 - [Console Subscription And Store Gift Cards For Gamers](console_subscription_and_store_gift_cards_for_gamers.md): also covers Nintendo Switch Online, from a different source document.
 - [Metroid Prime Remastered](metroid_prime_remastered.md): also covers Nintendo Switch Online, from a different source document.
+- [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): same source document (doc_0320)
+- [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Dolby Atmos Soundbar Deals](walmart_cyber_monday_2023_dolby_atmos_soundbar_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Fitness Tracker And Smart Ring Deals](walmart_cyber_monday_2023_fitness_tracker_and_smart_ring_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Home Security Camera Deals](walmart_cyber_monday_2023_home_security_camera_deals.md): same source document (doc_0320)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

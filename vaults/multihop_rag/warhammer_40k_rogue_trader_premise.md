@@ -11,11 +11,15 @@ Polygon's framing is that even in a merciless, brutal dystopia that grinds its p
 
 ## Related Notes
 
+
 - [Rogue Trader: CRPG Structure And Moral Paths](rogue_trader_crpg_structure_and_moral_paths.md): same source; how that agency is actually expressed in play.
 - [Rogue Trader: The Koronus Expanse Campaign](rogue_trader_koronus_expanse_campaign.md): same source; the campaign that follows from becoming a Rogue Trader.
 - [Rogue Trader: The Companion Cast](rogue_trader_companion_cast.md): same source; the loyal crew referred to here.
 - [Rogue Trader And 40K Lore Fidelity](rogue_trader_40k_lore_fidelity.md): same source; the argument about how deeply the game explores this setting.
 - [Rogue Trader: Verdict And Release Details](rogue_trader_verdict_and_release_details.md): same source; the review's conclusion about that grimdark appeal.
+- [Polygon's Selection Process for the Top 50 Games of 2023](polygon_top_50_games_of_2023_selection_process.md): both discuss Rogue Trader; different source document
+- [Rogue Trader: Pacing And Voidship Combat Flaws](rogue_trader_pacing_and_voidship_combat_flaws.md): same source document (doc_0592)
+- [Rogue Trader: Turn-Based Squad Combat](rogue_trader_turn_based_squad_combat.md): same source document (doc_0592)
 
 ## Source
 

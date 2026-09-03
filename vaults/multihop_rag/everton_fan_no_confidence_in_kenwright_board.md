@@ -11,9 +11,17 @@ The dispute had practical consequences. Kenwright and the rest of the board of d
 
 ## Related Notes
 
+
 - [Autobrains Hires Uri Yacovy As COO](autobrains_hires_uri_yacovy_as_coo.md): overlapping executive-officer subject matter, from a different source document
 - [Bill Kenwright Tribute At Anfield](bill_kenwright_tribute_at_anfield.md): another account of Kenwright as Everton chairman, from a different document
 - [Everton Appeal Against Points Deduction](everton_appeal_against_points_deduction.md): another Everton relegation-and-season story from a different source
+- [Kenwright's Coronation Street Role As Gordon Clegg](bill_kenwright_coronation_street_acting_career.md): same source document (doc_0543)
+- [Bill Kenwright Dies Aged 78 After Liver Cancer Surgery](bill_kenwright_death_aged_78.md): same source document (doc_0543)
+- [Kenwright's 19 Seasons As Everton Chairman](bill_kenwright_everton_chairmanship_record.md): same source document (doc_0543)
+- [Kenwright As Producer: More Than 500 Productions Across Six Decades](bill_kenwright_west_end_theatre_productions.md): same source document (doc_0543)
+- [Everton's Ownership: Kenwright To Moshiri To 777 Partners](everton_ownership_moshiri_and_777_partners.md): same source document (doc_0543)
+- [Tributes To Kenwright From Rooney, Carragher, Burnham And McKellen](tributes_to_bill_kenwright_rooney_mckellen.md): same source document (doc_0543)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

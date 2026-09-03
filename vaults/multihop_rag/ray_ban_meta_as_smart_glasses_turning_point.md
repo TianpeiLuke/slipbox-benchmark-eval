@@ -11,11 +11,18 @@ She kept the claim bounded. She has no idea whether these will succeed, and at h
 
 ## Related Notes
 
+
 - [Alexa's Limitations as an On-the-Go Assistant on Echo Frames](alexa_limitations_as_an_on_the_go_assistant_on_echo_frames.md): overlaps on smart glasses and the phone they aim to replace, from a different source document.
 - [Echo Fourth-Gen Smart Speaker Prime Day Deal](echo_fourth_gen_smart_speaker_prime_day_deal.md): shares the smart-device theme, from a different source document.
 - [Echo Frames Call Quality and Multi-Device Pairing](echo_frames_call_quality_and_multi_device_pairing.md): a competing pair of smart glasses, from a different source document.
 - [Echo Frames Open-Ear Audio and Bass Performance](echo_frames_open_ear_audio_and_bass_performance.md): a competing pair of smart glasses, from a different source document.
 - [Samsung Smart Monitor M8](samsung_smart_monitor_m8.md): shares the smart-device-with-camera theme, from a different source document.
+- [Meta AI Assistant Limits On Smart Glasses](meta_ai_assistant_limits_on_smart_glasses.md): same source document (doc_0364)
+- [Ray-Ban Meta As Open-Ear Headphones](ray_ban_meta_as_open_ear_headphones.md): same source document (doc_0364)
+- [Ray-Ban Meta: Camera Quality And Quirks](ray_ban_meta_camera_quality_and_quirks.md): same source document (doc_0364)
+- [Ray-Ban Meta: Design And Discreetness](ray_ban_meta_design_and_discreetness.md): same source document (doc_0364)
+- [Ray-Ban Meta Livestreaming And Meta's Walled Garden](ray_ban_meta_livestreaming_walled_garden.md): same source document (doc_0364)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

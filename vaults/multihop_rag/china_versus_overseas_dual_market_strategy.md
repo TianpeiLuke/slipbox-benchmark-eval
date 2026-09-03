@@ -13,6 +13,7 @@ The range over which the dual approach remains viable is narrow, and requires a 
 
 ## Related Notes
 
+
 - [AI Pricing Models](ai_pricing_models.md): shares the large-language-model subject area, from a different document.
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the large-language-model subject area, from a different document.
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the large-language-model subject area, from a different document.
@@ -21,6 +22,17 @@ The range over which the dual approach remains viable is narrow, and requires a 
 - [Anthropic's Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): shares the large-language-model subject area, from a different document.
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): shares the large-language-model subject area, from a different document.
 - [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): shares the large-language-model subject area, from a different document.
+- [China's Tech Crackdown And Investor Exit Risk](china_tech_crackdown_investor_exit_risk.md): same source document (doc_0181)
+- [Chinese Capital Stigma In US Fundraising](chinese_capital_stigma_in_us_fundraising.md): same source document (doc_0181)
+- [Chinese USD Fund Managers' Transitory Phase](chinese_usd_fund_managers_transitory_phase.md): same source document (doc_0181)
+- [Haigui And Guihai: The Returnee Founder Cycle](haigui_guihai_returnee_founder_cycle.md): same source document (doc_0181)
+- [The Outlook For US-China VC Dealmaking](outlook_for_us_china_vc_dealmaking.md): same source document (doc_0181)
+- [US Outbound Investment Restrictions On China](us_outbound_investment_restrictions_china.md): same source document (doc_0181)
+- [The Decline In US VC Investment In China: The Data](us_vc_investment_in_china_decline_data.md): same source document (doc_0181)
+- [The USD Fund Copycat Playbook In China](usd_fund_china_copycat_investment_playbook.md): same source document (doc_0181)
+- [USD Funds In China Turn To Overseas Deals](usd_funds_china_pivot_to_overseas_deals.md): same source document (doc_0181)
+- [Why USD Funds Follow Chinese Founders Abroad](usd_funds_following_chinese_founders_abroad.md): same source document (doc_0181)
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
 
 ## Source
 

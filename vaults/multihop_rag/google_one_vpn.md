@@ -13,6 +13,7 @@ Engadget has not fully tested the Google One VPN yet, but says it will add it to
 
 ## Related Notes
 
+
 - [Epic v. Google Jury Verdict, December 2023](epic_v_google_jury_verdict_december_2023.md): also concerns Google's Android services, from a different source document.
 - [Google's Rebuttal To The Publisher Antitrust Suit](google_rebuttal_to_publisher_antitrust_suit.md): also concerns Google's consumer services and access, from a different source document.
 - [US Tech Giant App Download Rankings 2023](us_tech_giant_app_download_rankings_2023.md): also concerns Google's consumer app portfolio, from a different source document.
@@ -21,6 +22,8 @@ Engadget has not fully tested the Google One VPN yet, but says it will add it to
 - [ExpressVPN For Streaming, Travel And Gaming](expressvpn_for_streaming_travel_and_gaming.md): drawn from the same source document (doc_0229).
 - [ProtonVPN, Best VPN Overall](protonvpn_best_overall_vpn.md): drawn from the same source document (doc_0229).
 - [Surfshark, Best For Multiple Devices](surfshark_unlimited_device_vpn.md): drawn from the same source document (doc_0229).
+- [VPN Services That Missed The Cut](vpn_services_that_missed_the_cut.md): same source document (doc_0229)
+- [VPN Use Cases And Prerequisites](vpn_use_cases_and_prerequisites.md): same source document (doc_0229)
 
 ## Source
 

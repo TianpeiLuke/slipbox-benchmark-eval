@@ -11,6 +11,7 @@ The operating rule that came out of the reset is that literally every plan at CM
 
 ## Related Notes
 
+
 - [Digital First Artist Development Model](digital_first_artist_development_model.md): describes another approach to developing artists in the modern music business, from a different source document.
 - [Taylor Swift Subsequent NFL Appearances And SNL Cameo](taylor_swift_subsequent_nfl_appearances_and_snl_cameo.md): also discusses Ice Spice, from a different source document.
 - [Beatles Now And Then 2023 Release](beatles_now_and_then_2023_release.md): drawn from the same interview and is a tailored campaign of the kind this reset produced.
@@ -19,6 +20,8 @@ The operating rule that came out of the reset is that literally every plan at CM
 - [Capitol International First And Direct To Fan Strategy](capitol_international_first_and_direct_to_fan_strategy.md): drawn from the same interview and covers the international and commerce functions this reset rewired.
 - [Capitol Music Group Leadership Turmoil 2020 2021](capitol_music_group_leadership_turmoil_2020_2021.md): drawn from the same interview and gives the leadership churn that preceded the reset.
 - [Capitol Music Group Pre 2021 Decline Diagnosis](capitol_music_group_pre_2021_decline_diagnosis.md): drawn from the same interview and states the problems this procedure was designed to fix.
+- [Capitol Music Group's Turnaround Results In 2023](capitol_music_group_turnaround_results_2023.md): same source document (doc_0212)
+- [Caroline And Virgin Music Group's Spin-Out From CMG](caroline_virgin_music_group_spin_out_from_cmg.md): same source document (doc_0212)
 
 ## Source
 

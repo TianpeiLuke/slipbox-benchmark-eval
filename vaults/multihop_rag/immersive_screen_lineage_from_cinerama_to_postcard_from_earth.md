@@ -13,6 +13,7 @@ The boundary condition is that scale is not the point. Like Lipson, Williams is 
 
 ## Related Notes
 
+
 - [Sphere Las Vegas Venue And Display Specifications](sphere_las_vegas_venue_and_display_specifications.md): same article, giving the screen this lineage culminates in
 - [Sphere Beam Forming Audio And Haptic Effects](sphere_beam_forming_audio_and_haptic_effects.md): same article, on the cinema mode Postcard From Earth uses
 - [Sphere And Abba Voyage Immersive Show Comparison](sphere_and_abba_voyage_immersive_show_comparison.md): same article, on the other immersive show compared
@@ -21,6 +22,7 @@ The boundary condition is that scale is not the point. Like Lipson, Williams is 
 - [Benavidez Vs Andrade 2023 Bout Details And Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): shares the Las Vegas setting, unrelated subject
 - [Caesars Sportsbook Kentucky](caesars_sportsbook_kentucky.md): shares the Las Vegas setting, unrelated subject
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): shares the Las Vegas setting, unrelated subject
+- [Sphere's Plug-And-Play Touring Economics](sphere_plug_and_play_touring_economics.md): same source document (doc_0560)
 
 ## Source
 

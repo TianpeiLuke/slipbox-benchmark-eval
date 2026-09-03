@@ -13,6 +13,7 @@ Hanks was pivotal for the Demons with 26 disposals, seven tackles and one goal, 
 
 ## Related Notes
 
+
 - [AFLW 2023 Finals Qualification and Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): also concerns North Melbourne, from a different document.
 - [Geelong Cats' 2023 AFLW Finals Qualification](geelong_cats_2023_aflw_finals_qualification.md): also concerns North Melbourne, from a different document.
 - [North Melbourne's 2023 AFLW Top-Four Finish](north_melbourne_2023_aflw_top_four_finish.md): also concerns Ash Riddell and North Melbourne, from a different document.
@@ -21,6 +22,8 @@ Hanks was pivotal for the Demons with 26 disposals, seven tackles and one goal, 
 - [Brisbane Lions' 2023 AFLW Top-Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): drawn from the same document (doc_0208).
 - [Collingwood-Geelong's Wind and Rain Contest, 2023](collingwood_geelong_wind_and_rain_contest_2023.md): drawn from the same document (doc_0208).
 - [Richelle Cranston's Kidney Disease and Retirement](richelle_cranston_kidney_disease_and_retirement.md): drawn from the same document (doc_0208).
+- [Richmond Tigers' Comeback Win In Cairns, 2023](richmond_tigers_comeback_win_in_cairns_2023.md): same source document (doc_0208)
+- [St Kilda's 2023 AFLW Finals Near Miss](st_kilda_2023_aflw_finals_near_miss.md): same source document (doc_0208)
 
 ## Source
 

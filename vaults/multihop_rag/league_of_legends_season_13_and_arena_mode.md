@@ -13,6 +13,7 @@ The other reason League had an outstanding 2023 is Arena, a new game mode introd
 
 ## Related Notes
 
+
 - [Alone (2020, John Hyams Film)](alone_2020_john_hyams_film.md): another write-up by the same critic, Pete Volk, from a different source document
 - [Certified Copy (Abbas Kiarostami)](certified_copy_abbas_kiarostami.md): shares the same bylined critic across documents
 - [Detour (1945, Edgar G. Ulmer)](detour_1945_edgar_g_ulmer.md): another Pete Volk recommendation in a separate article
@@ -21,6 +22,8 @@ The other reason League had an outstanding 2023 is Arena, a new game mode introd
 - [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
 - [Amnesia: The Bunker](amnesia_the_bunker.md): a fellow entry on the same ranked list
 - [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): another 2023 game from the same document
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
 
 ## Source
 

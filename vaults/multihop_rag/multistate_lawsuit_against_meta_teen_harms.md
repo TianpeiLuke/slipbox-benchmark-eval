@@ -13,6 +13,7 @@ In one respect at least the documentation obtained by the attorneys general of 4
 
 ## Related Notes
 
+
 - [Fediverse Definition And The Email Analogy](fediverse_definition_and_the_email_analogy.md): also discusses Adam Mosseri, from a different document.
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): shares the data-privacy subject area, from a different document.
 - [AI Civil Rights And Consumer Protections In The EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): shares the data-privacy subject area, from a different document.
@@ -21,6 +22,16 @@ In one respect at least the documentation obtained by the attorneys general of 4
 - [Apple Blocks Beeper Mini iMessage Access](apple_blocks_beeper_mini_imessage_access.md): shares the data-privacy subject area, from a different document.
 - [Apple iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares the data-privacy subject area, from a different document.
 - [Apple's Privacy Stance Versus Google Default Payments](apple_privacy_stance_versus_google_default_payments.md): shares the data-privacy subject area, from a different document.
+- [Bonta: The Numbers Are For Impact, The Violation Is The Point](bonta_argument_meta_choices_and_coppa_liability.md): same source document (doc_0304)
+- [The COPPA Allegations Against Meta](coppa_allegations_against_meta.md): same source document (doc_0304)
+- [Critique Of Meta's App Store Parental Approval Proposal](critique_of_meta_app_store_parental_approval_proposal.md): same source document (doc_0141)
+- [Lawsuit Redactions As Signal: The Amazon Precedent](lawsuit_redactions_as_signal_amazon_precedent.md): same source document (doc_0304)
+- [Meta's Internal Data On Under-13 Users](meta_internal_under_13_user_data.md): same source document (doc_0304)
+- [Meta's Proposal: Parental Approval For App Downloads At The App Store](meta_proposal_app_store_parental_approval.md): same source document (doc_0141)
+- [Meta Researchers Avoided Documenting Under-13 Users](meta_researchers_avoided_documenting_under_13_users.md): same source document (doc_0304)
+- [Meta's Response To The Underage-User Allegations](meta_response_to_underage_user_allegations.md): same source document (doc_0304)
+- [Arturo Bejar's Critique Of Meta's Teen Safety Self-Regulation](meta_teen_safety_self_regulation_and_bejar_critique.md): same source document (doc_0141)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

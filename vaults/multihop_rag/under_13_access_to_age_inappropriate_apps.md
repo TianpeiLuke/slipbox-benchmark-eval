@@ -11,6 +11,7 @@ TikTok was the most popular app used by kids aged 11 and 12, while nearly half -
 
 ## Related Notes
 
+
 - [MLB Live in Game Betting](mlb_live_in_game_betting.md): overlapping vocabulary on apps, sites, betting, from a different source document.
 - [State Patchwork of Teen Social Media Laws](state_patchwork_of_teen_social_media_laws.md): overlapping vocabulary on apps, teen, tiktok, from a different source document.
 - [TikTok Music Discovery and Sharing Rates](tiktok_music_discovery_and_sharing_rates.md): overlapping vocabulary on study, tiktok, social, from a different source document.
@@ -19,6 +20,8 @@ TikTok was the most popular app used by kids aged 11 and 12, while nearly half -
 - [Harmful Content Categories and Staged Digital Access](harmful_content_categories_and_staged_digital_access.md): drawn from the same source document (doc_0518).
 - [Kids Daily Smartphone Use Volume and Timing](kids_daily_smartphone_use_volume_and_timing.md): drawn from the same source document (doc_0518).
 - [Online Predation and Sextortion Risk for Children](online_predation_and_sextortion_risk_for_children.md): drawn from the same source document (doc_0518).
+- [Parental Rules For Delaying And Limiting Phone Access](parental_rules_for_delaying_and_limiting_phone_access.md): same source document (doc_0518)
+- [How Many Notifications Teens Receive Each Day](smartphone_notification_volume_for_teens.md): same source document (doc_0518)
 
 ## Source
 

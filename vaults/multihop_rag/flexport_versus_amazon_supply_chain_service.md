@@ -11,11 +11,19 @@ The project was spearheaded by Parisa Sadrzadeh, an executive vice president at 
 
 ## Related Notes
 
+
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): another Amazon logistics initiative, from a different source document.
 - [Brave Software Layoffs](brave_software_layoffs.md): another tech-sector restructuring, from a different source document.
 - [Collegehumor Iac Layoffs and Sale to Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): overlaps on layoffs, layoffs and restructuring subject matter, from a different source document.
 - [Consolidation Leaves Studios Vulnerable to Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): overlaps on layoffs, layoffs and restructuring subject matter, from a different source document.
 - [Costs of Relinquishing Independence after Acquisition](costs_of_relinquishing_independence_after_acquisition.md): overlaps on layoffs, layoffs and restructuring subject matter, from a different source document.
+- [Clark's Cease-And-Desist, The Political Friction, And The Firing For Cause](clark_cease_and_desist_and_political_friction.md): same source document (doc_0536)
+- [Dave Clark's Hiring And Flexport's IPO Plan](dave_clark_hiring_and_flexport_ipo_plan.md): same source document (doc_0536)
+- [Dave Clark's Ouster From Flexport](dave_clark_ouster_from_flexport.md): same source document (doc_0536)
+- [Flexport's Board Composition](flexport_board_composition.md): same source document (doc_0536)
+- [The Flexport Forecast Dispute And The Contested Whistleblower Claim](flexport_forecast_dispute_and_whistleblower_claim.md): same source document (doc_0536)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

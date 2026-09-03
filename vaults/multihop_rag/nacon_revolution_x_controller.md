@@ -15,11 +15,18 @@ The customization is physical too: the Revolution X comes with ring spacers to a
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick For Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): another Xbox input device with swappable parts, from a different source document.
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): another controller with rear buttons and analog stick options, from a different source document.
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): shares a Dolby Atmos reference, from a different source document.
 - [LG Sound Bar C SC9](lg_sound_bar_c_sc9.md): shares a Dolby Atmos reference, from a different source document.
 - [MacBook Pro Display, Camera And Audio Systems](macbook_pro_display_camera_and_audio_systems.md): shares a Dolby Atmos reference, from a different source document.
+- [PowerA Enhanced Wired Controller](powera_enhanced_wired_controller.md): same source document (doc_0350)
+- [PowerA Fusion Pro 3 Controller](powera_fusion_pro_3_controller.md): same source document (doc_0350)
+- [Scuf Instinct Pro Controller](scuf_instinct_pro_controller.md): same source document (doc_0350)
+- [Turtle Beach Recon Controller](turtle_beach_recon_controller.md): same source document (doc_0350)
+- [How The Verge Evaluates Xbox Controllers](xbox_controller_evaluation_criteria.md): same source document (doc_0350)
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

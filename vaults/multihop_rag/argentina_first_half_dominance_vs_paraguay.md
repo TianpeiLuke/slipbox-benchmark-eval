@@ -15,6 +15,7 @@ The closing stretch of the half brought three more. In the 34th Alvaro Campuzano
 
 ## Related Notes
 
+
 - [Argentina Squad and Lineup vs Paraguay October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): the selection behind this performance, covering Julian Alvarez and Lionel Scaloni
 - [Chelsea Arsenal Derby Team News October 2023](chelsea_arsenal_derby_team_news_october_2023.md): another document covering Enzo Fernandez, different source
 - [Lautaro Martinez 2023 Goalscoring Form](lautaro_martinez_2023_goalscoring_form.md): the striker who missed twice here, from a different source document
@@ -23,6 +24,9 @@ The closing stretch of the half brought three more. In the 34th Alvaro Campuzano
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): the match this half belongs to, same source document
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): how the match was shown, same source document
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): the sides that produced this half, same source document
+- [Argentina's Second Half And Messi's Introduction Against Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): same source document (doc_0534)
+- [Other CONMEBOL Results On Argentina-Paraguay Night](conmebol_2023_qualifying_round_other_results.md): same source document (doc_0534)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

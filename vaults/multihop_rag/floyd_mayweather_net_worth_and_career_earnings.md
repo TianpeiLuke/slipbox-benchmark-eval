@@ -11,6 +11,7 @@ The article also notes that Canelo's and McGregor's careers are intertwined with
 
 ## Related Notes
 
+
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): also set in Las Vegas, from a different source document.
 - [Britney Spears and Jason Alexander's 55-Hour Marriage](britney_spears_jason_alexander_55_hour_marriage.md): also involves Las Vegas, from a different source document.
 - [Britney Spears Memoir: Body Scrutiny and Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): also involves Las Vegas, from a different source document.
@@ -18,6 +19,10 @@ The article also notes that Canelo's and McGregor's careers are intertwined with
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): also set in Las Vegas, from a different source document.
 - [Canelo Alvarez Undisputed Titles and Net Worth](canelo_alvarez_undisputed_titles_and_net_worth.md): the comparison figure for Canelo, from the same article (doc_0194).
 - [Canelo and McGregor Pay-Per-View Purse History](canelo_and_mcgregor_pay_per_view_purse_history.md): the PPV records behind these fortunes, from the same article (doc_0194).
+- [Hypothesis: A McGregor Fight Would Lift Canelo's Net Worth To $240 Million](canelo_projected_path_to_mayweather_wealth.md): same source document (doc_0194)
+- [The Revenue Case For A Canelo-McGregor Superfight](canelo_vs_mcgregor_superfight_revenue_case.md): same source document (doc_0194)
+- [How An X Feud Turned Conor McGregor vs Canelo Alvarez Into A Crossover Boxing Prospect](crossover_boxing_and_the_mcgregor_canelo_feud.md): same source document (doc_0194)
+- [Terms of Service](term_terms_of_service.md): uses the concept terms of service
 
 ## Source
 

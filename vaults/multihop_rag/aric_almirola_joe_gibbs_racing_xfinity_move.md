@@ -11,6 +11,7 @@ According to Bob Pockrass, the expectation was that Almirola would drive part-ti
 
 ## Related Notes
 
+
 - [Dale Earnhardt Jr. Visit To High Limit Commonwealth Clash](dale_earnhardt_jr_visit_to_high_limit_commonwealth_clash.md): overlaps on NASCAR racing terms, from a different document.
 - [Denny Hamlin 2023 Season Autosport Snub](denny_hamlin_2023_season_autosport_snub.md): also concerns Joe Gibbs Racing, from a different document.
 - [Dolphins 45-15 Commanders Week 13](dolphins_45_15_commanders_week_13.md): also concerns the Washington Commanders, from a different document.
@@ -19,6 +20,8 @@ According to Bob Pockrass, the expectation was that Almirola would drive part-ti
 - [Kaulig Racing No. 16 2024 Driver Uncertainty](kaulig_racing_no_16_2024_driver_uncertainty.md): another storyline in the same roundup, from the same document.
 - [NASCAR 2024 Offseason Preparation Window](nascar_2024_offseason_preparation_window.md): the framing for this roundup, from the same document.
 - [NASCAR 2024 Spotter Changes Elliott And Blaney](nascar_2024_spotter_changes_elliott_and_blaney.md): another storyline in the same roundup, from the same document.
+- [NASCAR Next Gen Muffler Noise Reduction Test](nascar_next_gen_muffler_noise_reduction_test.md): same source document (doc_0487)
+- [NASCAR Phoenix Next Gen Short Track Test](nascar_phoenix_next_gen_short_track_test.md): same source document (doc_0487)
 
 ## Source
 

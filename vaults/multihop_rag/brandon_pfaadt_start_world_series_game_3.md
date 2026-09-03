@@ -13,6 +13,7 @@ His exit came in the sixth: Corey Seager flew out to center to start the inning,
 
 ## Related Notes
 
+
 - [Diamondbacks Late Rally World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): also covers Evan Carter and Jonah Heim, from a different source document
 - [Diamondbacks Ninth Inning Insurance Runs](diamondbacks_ninth_inning_insurance_runs.md): a comparable inning-level account of the same two teams, different source document
 - [Diamondbacks Win World Series Game 2](diamondbacks_win_world_series_game_2.md): Pfaadt's team's previous win, from a different source document
@@ -21,6 +22,8 @@ His exit came in the sixth: Corey Seager flew out to center to start the inning,
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): the batter Pfaadt walked to end his night, same source document
 - [Corey Seager Home Runs 2023 World Series](corey_seager_home_runs_2023_world_series.md): the home run charged to Pfaadt, same source document
 - [Jon Gray Emergency Relief World Series Game 3](jon_gray_emergency_relief_world_series_game_3.md): the opposing relief performance that night, same source document
+- [Marcus Semien's Big Hits In World Series Games 3 And 4](marcus_semien_five_rbi_world_series_game_4.md): same source document (doc_0495)
+- [Max Scherzer's Back Injury And Removal From The Rangers' World Series Roster](max_scherzer_back_injury_and_roster_removal_2023_world_series.md): same source document (doc_0495)
 
 ## Source
 

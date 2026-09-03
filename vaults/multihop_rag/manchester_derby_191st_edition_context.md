@@ -13,6 +13,7 @@ The previous season's derby at Old Trafford ended in a 2-1 win for United, with 
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also discusses Ten Hag and Onana, from a different document.
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Manchester City, from a different document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also discusses the Champions League and Old Trafford, from a different document.
@@ -21,6 +22,7 @@ The previous season's derby at Old Trafford ended in a 2-1 win for United, with 
 - [Bruno Fernandes' Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): the captain's expected role in this fixture, from the same document.
 - [Onana as an Extra Outfield Player](onana_as_an_extra_outfield_player.md): the tactical question this derby would test, from the same document.
 - [Onana Transfer Fee and Uneven Form at United](onana_transfer_fee_and_uneven_form_at_united.md): the form record Ten Hag was weighing, from the same document.
+- [Ratcliffe's Bid For A Manchester United Stake](ratcliffe_bid_for_manchester_united_stake.md): same source document (doc_0330)
 
 ## Source
 

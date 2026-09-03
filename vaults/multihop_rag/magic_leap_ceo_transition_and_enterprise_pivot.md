@@ -13,6 +13,7 @@ Her successor previously served as an executive at Belden and First Solar, and w
 
 ## Related Notes
 
+
 - [A Patent Redesign Must Be More Than A Colorable Difference](a_patent_redesign_must_be_more_than_a_colorable_difference.md): shares the hardware-device subject area, from a different document.
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): shares the hardware-and-platform theme, from a different document.
 - [AI Alliance Working Groups And Governance Plan](ai_alliance_working_groups_and_governance_plan.md): shares the hardware-and-platform theme, from a different document.
@@ -21,6 +22,15 @@ Her successor previously served as an executive at Belden and First Solar, and w
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): drawn from the same source document (doc_0199).
 - [Apple AirPods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): shares the hardware-device subject area, from a different document.
 - [Apple's iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): drawn from the same source document (doc_0199).
+- [Apple's M3 Chip Lineup And The M3 Mac Reviews](apple_m3_mac_reviews_and_chip_lineup.md): same source document (doc_0199)
+- [Atlassian's Critical Security Flaw Warning](atlassian_critical_security_flaw_warning.md): same source document (doc_0199)
+- [Cloud Stock Multiples And Startup Valuations](cloud_stock_multiples_and_startup_valuations.md): same source document (doc_0199)
+- [EV Sector Setbacks: Arrival And US Automakers](ev_sector_setbacks_arrival_and_us_automakers.md): same source document (doc_0199)
+- [Gaza's Internet Blackout And Connectivity](gaza_internet_blackout_and_connectivity.md): same source document (doc_0199)
+- [Google Maps' AI Feature Rollout](google_maps_ai_feature_rollout.md): same source document (doc_0199)
+- [Hard Problems As A Startup Moat](hard_problems_as_startup_moat_thesis.md): same source document (doc_0199)
+- [Palo Alto Networks Acquires Dig Security For $400 Million](palo_alto_networks_acquires_dig_security.md): same source document (doc_0199)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

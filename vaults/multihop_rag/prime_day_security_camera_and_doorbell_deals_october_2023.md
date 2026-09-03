@@ -11,11 +11,17 @@ Among the outdoor models, the Ring Floodlight Cam Wired Pro was $50 off at Amazo
 
 ## Related Notes
 
+
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): also an Amazon deal listing, from a different source document.
 - [Apple AirPods Pro Second Generation](apple_airpods_pro_second_generation.md): also an Amazon deal listing, from a different source document.
 - [Apple MacBook Air 15-Inch M2](apple_macbook_air_15_inch_m2.md): also an Amazon deal listing, from a different source document.
 - [Blink Mini Security Camera Two-Pack](blink_mini_security_camera_two_pack.md): overlaps on alerts, wired cameras and recordings, from a different source document.
 - [Blink Video Doorbell and Outdoor 4 Deal](blink_video_doorbell_and_outdoor_4_deal.md): overlaps on motion-activated camera alerts, from a different source document.
+- [Echo Fourth-Gen Smart Speaker Prime Day Deal](echo_fourth_gen_smart_speaker_prime_day_deal.md): same source document (doc_0205)
+- [October 2023 Prime Big Deal Days: Smart Home Overview](october_2023_prime_big_deal_days_smart_home_overview.md): same source document (doc_0205)
+- [Prime Day Robot Vacuum Deals, October 2023](prime_day_robot_vacuum_deals_october_2023.md): same source document (doc_0205)
+- [Prime Day Smart Lighting, Lock And Thermostat Deals, October 2023](prime_day_smart_lighting_lock_and_thermostat_deals_october_2023.md): same source document (doc_0205)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

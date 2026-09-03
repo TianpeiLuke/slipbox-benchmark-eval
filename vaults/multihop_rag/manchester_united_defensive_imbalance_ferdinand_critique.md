@@ -13,11 +13,16 @@ The warrant is that the tactical work was sound and the errors, not the plan, co
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns the Champions League, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns the Champions League, from a different document.
 - [Bruno Fernandes' Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): overlaps on Bruno Fernandes and his goals for the club, from a different document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also concerns Man United, from a different document.
 - [Champions League 2023-24 Group Stage Overview](champions_league_2023_24_group_stage_overview.md): also concerns the Champions League, from a different document.
+- [Andre Onana's Goalkeeping Errors In The 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): same source document (doc_0012)
+- [Manchester United's 3-3 Draw With Galatasaray](manchester_united_galatasaray_three_three_draw.md): same source document (doc_0012)
+- [Fernandes And Ten Hag On Manchester United's Game Management](manchester_united_game_management_criticism_fernandes_ten_hag.md): same source document (doc_0012)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

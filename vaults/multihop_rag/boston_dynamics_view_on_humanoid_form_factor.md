@@ -13,6 +13,7 @@ The scope of the concession is bounded: with that said, the company sees great p
 
 ## Related Notes
 
+
 - [Agility Robotics Digit Warehouse Robot](agility_robotics_digit_warehouse_robot.md): overlapping coverage of humanoid robots for material handling, from a different source document.
 - [Boston Dynamics Humanoid Research Yielding A Non-Humanoid Robot](boston_dynamics_humanoid_research_yielding_non_humanoid_robot.md): overlapping coverage of humanoid research producing a box-moving robot, from a different source document.
 - [Figure AI's Purist Humanoid Market Thesis](figure_ai_purist_humanoid_market_thesis.md): the contrasting argument that humanoids fit general tasks, from a different source document.
@@ -21,6 +22,8 @@ The scope of the concession is bounded: with that said, the company sees great p
 - [Barriers To General-Purpose Robots](barriers_to_general_purpose_robots.md): drawn from the same source document (doc_0420), on the gap still to be closed.
 - [Boston Dynamics On Generative AI's Role In Robotics](boston_dynamics_view_on_generative_ai_in_robotics.md): drawn from the same source document (doc_0420), another answer in the same Q&A.
 - [Next Industries For Robotics Adoption](next_industries_for_robotics_adoption.md): drawn from the same source document (doc_0420), on the path toward general purpose.
+- [Outlook For Home Robots Beyond Vacuums](outlook_for_home_robots_beyond_vacuums.md): same source document (doc_0420)
+- [The Robotics Supply Chain As An Underappreciated Trend](robotics_supply_chain_as_underappreciated_trend.md): same source document (doc_0420)
 
 ## Source
 

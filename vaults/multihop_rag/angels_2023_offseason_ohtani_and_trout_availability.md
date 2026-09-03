@@ -13,12 +13,16 @@ It also sets up the Dodgers angle. The Halos' cross-town rivals, the Los Angeles
 
 ## Related Notes
 
+
 - [Backlash To The Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): also discusses the Los Angeles Dodgers, from a different document.
 - [Billie Jean King's 2023 Activities And Ownership Stakes](billie_jean_king_2023_activities_and_ownership_stakes.md): also discusses the Los Angeles Dodgers, from a different document.
 - [Brandon Drury's Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): covers the same Angels roster situation around Ohtani, from a different document.
 - [Cody Bellinger's Free Agent Market And Suitors](cody_bellinger_free_agent_market_and_suitors.md): covers the same Los Angeles free agency market, from a different document.
 - [Juan Soto's Padres Trade Candidacy](juan_soto_padres_trade_candidacy.md): also discusses Shohei Ohtani in the same offseason, from a different document.
 - [Dodgers' Payroll Constraints Against Signing Ohtani And Trout](dodgers_payroll_constraints_against_signing_ohtani_and_trout.md): the financial reason the conquest may not happen, from the same feature.
+- [The Case For The Dodgers Signing Mike Trout Over Ohtani](case_for_dodgers_signing_mike_trout_over_ohtani.md): same source document (doc_0423)
+- [The Dodgers' Pitching Need Versus Ohtani's 2024 Elbow Injury](dodgers_pitching_need_versus_ohtani_2024_elbow_injury.md): same source document (doc_0423)
+- [Obstacles To Mike Trout Leaving The Angels](obstacles_to_mike_trout_leaving_the_angels.md): same source document (doc_0423)
 
 ## Source
 

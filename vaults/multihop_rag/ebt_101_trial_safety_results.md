@@ -11,6 +11,7 @@ Hope told Live Science in an email that the trial "is an important step forward 
 
 ## Related Notes
 
+
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): another Live Science piece on the unfinished search for an HIV cure.
 - [Beyond Antibiotics: The Emerging Therapeutic Arsenal](beyond_antibiotics_emerging_therapeutic_arsenal.md): another Live Science survey of early-stage therapies.
 - [Cannabis Use in Pregnancy: JAMA Study Findings](cannabis_use_in_pregnancy_jama_study_findings.md): another Live Science report weighing what a study can and cannot establish.
@@ -19,6 +20,8 @@ Hope told Live Science in an email that the trial "is an important step forward 
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): from the same article, on the cART that keeps trial patients suppressed.
 - [CRISPR-Cas System Mechanism](crispr_cas_system_mechanism.md): from the same article, explaining the editing whose off-target risk is at issue.
 - [EBT-101 CRISPR HIV Gene Therapy](ebt_101_crispr_hiv_gene_therapy.md): from the same article, describing the therapy being tested.
+- [EBT-101 Trial Next Steps and Follow-Up](ebt_101_trial_next_steps_and_follow_up.md): same source document (doc_0472)
+- [Global HIV Burden in 2022](global_hiv_burden_2022.md): same source document (doc_0472)
 
 ## Source
 

@@ -13,12 +13,19 @@ Google's answer contests the warrant rather than the fees: it says Epic's demand
 
 ## Related Notes
 
+
 - [Activision, Riot And Supercell's Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): also concerns rival stores that never launched on Google Play, from a different source document.
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): details the barriers Epic points to, from a different source document.
 - [Apple Versus Google Antitrust Conduct Contrast](apple_versus_google_antitrust_conduct_contrast.md): compares the two companies' store conduct, from a different source document.
 - [Beeper Mini Service Restoration And Apple ID Workaround](beeper_mini_service_restoration_and_apple_id_workaround.md): also concerns Google Play distribution, from a different source document.
 - [Beeper Product Lineup, Pricing And Availability](beeper_product_lineup_pricing_and_availability.md): also concerns the Google Play Store, from a different source document.
 - [Activision's $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): drawn from the same source document (doc_0299).
+- [The Market Definition Fight In Epic v. Google](android_app_distribution_market_definition.md): same source document (doc_0355)
+- [Hypocrisy On Both Sides Of The Courtroom](epic_and_google_courtroom_hypocrisy.md): same source document (doc_0355)
+- [Project Liberty: Epic's Deliberate Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): same source document (doc_0299)
+- [Epic's Opening Statement: Bribes And Blocks](epic_opening_statement_bribes_and_blocks.md): same source document (doc_0299)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
 
 ## Source
 

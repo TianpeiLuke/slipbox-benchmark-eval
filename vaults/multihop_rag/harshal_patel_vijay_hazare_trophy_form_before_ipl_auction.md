@@ -11,6 +11,7 @@ Three minutes earlier, at 12.01 PM, the live blog framed the open questions: wou
 
 ## Related Notes
 
+
 - [ICC World Cup 2023 Leading Wicket Takers](icc_world_cup_2023_leading_wicket_takers.md): overlapping bowling and wickets vocabulary, from a different source document.
 - [India 2003 World Cup Semi-Final vs Kenya](india_2003_world_cup_semifinal_vs_kenya.md): overlapping overs, wickets and runs vocabulary, from a different source document.
 - [India-Australia 1983 World Cup Group Matches](india_australia_1983_world_cup_group_matches.md): overlapping overs, wickets and runs vocabulary, from a different source document.
@@ -19,6 +20,8 @@ Three minutes earlier, at 12.01 PM, the live blog framed the open questions: wou
 - [IPL 2024 Auction: All-Rounders Set](ipl_2024_auction_all_rounders_set.md): same auction live blog, where Patel was sold in the all-rounder set.
 - [IPL 2024 Auction: Capped Batters Set](ipl_2024_auction_capped_batters_set.md): same auction live blog.
 - [IPL 2024 Auction: Capped Pace and Spin Sets](ipl_2024_auction_capped_pace_and_spin_sets.md): same auction live blog.
+- [IPL 2024 Auction: The Capped Wicketkeepers Set](ipl_2024_auction_capped_wicketkeepers_set.md): same source document (doc_0307)
+- [IPL 2024 Auction: Expert Previews And Team Strategy](ipl_2024_auction_expert_previews_and_team_strategy.md): same source document (doc_0307)
 
 ## Source
 

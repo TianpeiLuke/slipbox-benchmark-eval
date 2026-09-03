@@ -13,6 +13,7 @@ The reviewer's warrant for reading it is the author: "If anyone can be relied on
 
 ## Related Notes
 
+
 - [Killing For Country David Marr](killing_for_country_david_marr.md): another October title in the same roundup
 - [Gunflower Stories Laura Jean Mckay](gunflower_stories_laura_jean_mckay.md): the title listed immediately before it in the roundup
 - [Bankman Fried Pre Collapse Public Image Strategy](bankman_fried_pre_collapse_public_image_strategy.md): overlaps on Bankman-Fried and crypto, different document
@@ -20,6 +21,10 @@ The reviewer's warrant for reading it is the author: "If anyone can be relied on
 - [Alameda Special Privileges In Ftx Code](alameda_special_privileges_in_ftx_code.md): also concerns FTX and Bankman-Fried, different document
 - [Adam Yedidia Testimony And The Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): also concerns the FTX case, different document
 - [Cohen Cross Examination Of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): also concerns the trial referenced here, different document
+- [An Australian Pandemic Account By Aisha Dow And Melissa Cunningham](life_as_we_knew_it_australian_pandemic_account.md): same source document (doc_0582)
+- [Mr Einstein's Secretary By Matthew Reilly](mr_einsteins_secretary_matthew_reilly.md): same source document (doc_0582)
+- [Michael Gawenda's Exploration Of His Jewish Identity](my_life_as_a_jew_michael_gawenda.md): same source document (doc_0582)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

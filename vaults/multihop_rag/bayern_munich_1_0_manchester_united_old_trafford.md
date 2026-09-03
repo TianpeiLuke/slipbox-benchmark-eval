@@ -11,6 +11,7 @@ Bayern held the ball nicely and probed in neat, clipped, mannered attacks, with 
 
 ## Related Notes
 
+
 - [Bayern Munich's 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also covers Bayern Munich and the Champions League, from a different document.
 - [Bruno Fernandes' Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): covers the same United side against strong opposition, from a different document.
 - [Calendar Year 2023 Top Goalscorer Race](calendar_year_2023_top_goalscorer_race.md): also covers Harry Kane, from a different document.
@@ -19,6 +20,7 @@ Bayern held the ball nicely and probed in neat, clipped, mannered attacks, with 
 - [Manchester United's 2023 Champions League Group Stage Exit](manchester_united_2023_champions_league_group_stage_exit.md): gives the campaign this result completed, from the same document.
 - [The Manchester United Crisis News Cycle Under Ten Hag](manchester_united_crisis_news_cycle_under_ten_hag.md): covers how blame for the exit was framed, from the same document.
 - [United's Squad Incoherence and Old Trafford's Decline](manchester_united_squad_incoherence_and_old_trafford_decline.md): reads the same night as evidence of institutional decay, from the same document.
+- [The Three Concurrent Roles Of A Manchester United Manager](three_concurrent_roles_of_a_manchester_united_manager.md): same source document (doc_0370)
 
 ## Source
 

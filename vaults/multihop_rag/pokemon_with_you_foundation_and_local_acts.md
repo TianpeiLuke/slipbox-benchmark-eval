@@ -11,6 +11,7 @@ That was soon followed by partnerships with local governments across Japan for t
 
 ## Related Notes
 
+
 - [AfroFuture's Impact On Ghana Tourism](afrofuture_impact_on_ghana_tourism.md): also concerns a brand driving local tourism, from a different source document.
 - [External Studios Expand Pokémon Animation](external_studios_expand_pokemon_animation.md): drawn from the same source document (doc_0346).
 - [Pokémon As A Lifestyle: The Reinvention Thesis](pokemon_as_lifestyle_reinvention_thesis.md): drawn from the same source document (doc_0346).
@@ -19,6 +20,7 @@ That was soon followed by partnerships with local governments across Japan for t
 - [Pokémon Garden As The First Brand Diversification](pokemon_garden_as_first_brand_diversification.md): drawn from the same source document (doc_0346).
 - [Pokémon Merchandising For Grown-Up Fans](pokemon_merchandising_for_grown_up_fans.md): drawn from the same source document (doc_0346).
 - [The 2023 Pokémon World Championships In Yokohama](pokemon_world_championships_2023_yokohama.md): drawn from the same source document (doc_0346).
+- [PokéTsume, The Live-Action Pokémon Workplace Drama](poketsume_live_action_pokemon_drama.md): same source document (doc_0346)
 
 ## Source
 

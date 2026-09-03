@@ -13,11 +13,20 @@ The unresolved cases are the argument's real payload. Invited to an outdoor wedd
 
 ## Related Notes
 
+
 - [Apple-Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): also carries photography by Amelia Holowaty Krales, from a different source document.
 - [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): also carries photography by Amelia Holowaty Krales, from a different source document.
 - [The Apple Watch Double Tap Gesture](apple_watch_double_tap_gesture.md): also carries photography by Amelia Holowaty Krales, from a different source document.
 - [Apple Watch SE and Reseller Inventory Remain Available](apple_watch_se_and_reseller_inventory_remain_available.md): also carries photography by Amelia Holowaty Krales, from a different source document.
 - [AssistiveTouch Versus Double Tap](assistive_touch_versus_double_tap.md): also carries photography by Amelia Holowaty Krales, from a different source document.
+- [Meta AI Assistant Limits On Smart Glasses](meta_ai_assistant_limits_on_smart_glasses.md): same source document (doc_0364)
+- [Ray-Ban Meta As Open-Ear Headphones](ray_ban_meta_as_open_ear_headphones.md): same source document (doc_0364)
+- [Ray-Ban Meta As A Smart Glasses Turning Point](ray_ban_meta_as_smart_glasses_turning_point.md): same source document (doc_0364)
+- [Ray-Ban Meta: Camera Quality And Quirks](ray_ban_meta_camera_quality_and_quirks.md): same source document (doc_0364)
+- [Ray-Ban Meta: Design And Discreetness](ray_ban_meta_design_and_discreetness.md): same source document (doc_0364)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

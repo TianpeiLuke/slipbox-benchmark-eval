@@ -13,11 +13,20 @@ The fantasy read came with a caveat about the quarterback. Jefferson's outlook i
 
 ## Related Notes
 
+
 - [Baker Mayfield's Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also mentions Kirk Cousins, from a different document.
 - [Bears-Vikings MNF First Half](bears_vikings_mnf_first_half.md): also covers Jordan Addison, separately sourced.
 - [Bears-Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): also features Jordan Addison and Josh Dobbs, in a different document.
 - [Playoff and Roster Stakes in Bears-Vikings on Monday Night](bears_vikings_mnf_playoff_and_roster_stakes.md): another look at Josh Dobbs' Vikings tenure, from a separate source.
 - [Chicago Fire-Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): shares the coaching-change and league tags, in a different document.
+- [Curtis Samuel's Week 10 Injury Status](curtis_samuel_week_10_injury_status.md): same source document (doc_0288)
+- [Ja'Marr Chase's Week 10 Injury Status](jamarr_chase_week_10_injury_status.md): same source document (doc_0288)
+- [T.J. Hockenson's Week 10 Injury Status](tj_hockenson_week_10_injury_status.md): same source document (doc_0288)
+- [Week 10 Fantasy Pass-Catcher Injury Overview](week_10_fantasy_pass_catcher_injury_overview.md): same source document (doc_0288)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

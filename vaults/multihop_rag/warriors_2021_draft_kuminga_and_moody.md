@@ -11,6 +11,7 @@ Myers said at the time: "We're excited. I talk about the character first because
 
 ## Related Notes
 
+
 - [NBA 2023-24 Rookie Of The Year Favorites](nba_2023_24_rookie_of_the_year_favorites.md): also discusses the G-League Ignite program, from a different document.
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): shares the draft-pick theme, from a different document.
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): shares the draft-pick theme, from a different document.
@@ -19,6 +20,13 @@ Myers said at the time: "We're excited. I talk about the character first because
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): shares the draft-pick theme, from a different document.
 - [CCPA CPPA Regulatory Lineage](ccpa_cppa_regulatory_lineage.md): shares thematic tagging with this note, from a different document.
 - [ChatGPT Use In Government And Courts](chatgpt_use_in_government_and_courts.md): shares thematic tagging with this note, from a different document.
+- [Warriors 2020 And 2021 Draft Misses](warriors_2020_and_2021_draft_misses.md): same source document (doc_0522)
+- [Warriors Aging Core Curry Thompson Green](warriors_aging_core_curry_thompson_green.md): same source document (doc_0522)
+- [Warriors Collapse Vs Kings In-Season Tournament](warriors_collapse_vs_kings_in_season_tournament.md): same source document (doc_0522)
+- [Warriors Recent Draft Class Outcomes](warriors_recent_draft_class_outcomes.md): same source document (doc_0522)
+- [Warriors Roster Reorientation Around Curry Window](warriors_roster_reorientation_around_curry_window.md): same source document (doc_0522)
+- [Warriors Two-Timeline Plan Failure](warriors_two_timeline_plan_failure.md): same source document (doc_0522)
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

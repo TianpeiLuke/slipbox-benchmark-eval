@@ -15,6 +15,7 @@ Tears of the Kingdom does introduce new armor sets that can play with expression
 
 ## Related Notes
 
+
 - [Bankman-Fried and Zhao Convictions and Binance Aftermath](bankman_fried_and_zhao_convictions_and_binance_aftermath.md): shares a topic tag despite unrelated subject matter
 - [BetMGM Vermont Sportsbook Welcome Offer](betmgm_vermont_sportsbook_welcome_offer.md): shares a topic tag from a different document
 - [Boycott Defends Jos Buttler's Captaincy](boycott_defends_jos_buttler_captaincy.md): shares a topic tag from an unrelated sports article
@@ -23,6 +24,10 @@ Tears of the Kingdom does introduce new armor sets that can play with expression
 - [Caesars Vermont Sportsbook Welcome Offer](caesars_vermont_sportsbook_welcome_offer.md): shares a topic tag from a different document
 - [Canada-Jamaica Second Leg, Second Half](canada_jamaica_second_leg_second_half.md): shares a topic tag from an unrelated article
 - [Castlevania: Nocturne Surpasses the Original Netflix Series](castlevania_nocturne_surpasses_the_original_netflix_series.md): shares a topic tag from a separate document
+- [Gendered Assumptions About Link as Casual Misogyny](gendered_assumptions_about_link_as_casual_misogyny.md): same source document (doc_0389)
+- [Gerudo Town's Gender Segregation in Breath of the Wild](gerudo_town_gender_segregation_in_breath_of_the_wild.md): same source document (doc_0389)
+- [Tears of the Kingdom Forecloses Queer Expression](tears_of_the_kingdom_forecloses_queer_expression.md): same source document (doc_0389)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

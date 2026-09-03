@@ -13,11 +13,16 @@ The June 2022 testimony resonated most with the reporter. Asked whether he had a
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): also concerns Adam Yedidia and Danielle Sassoon, from a different source document.
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): the testimony he was confronted with, from a different source document.
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): overlaps on Bankman-Fried, Alameda and the sums involved, from a different source document.
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): how the borrowing he could not explain accumulated, from a different source document.
 - [Alameda Research](alameda_research.md): the firm that owed the money, from a different source document.
+- [FTX Fraud Charges And The SEC's Allegation](ftx_fraud_charges_and_sec_allegation.md): same source document (doc_0083)
+- [FTX's Ties To The Bahamian Government](ftx_ties_to_the_bahamian_government.md): same source document (doc_0083)
+- [Bankman-Fried's Decision To Testify Backfired](sbf_decision_to_testify_backfired.md): same source document (doc_0083)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

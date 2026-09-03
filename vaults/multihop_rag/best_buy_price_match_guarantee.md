@@ -13,6 +13,7 @@ Best Buy will also, upon request, match an in-store or online price that was low
 
 ## Related Notes
 
+
 - [Epoch Times Founding and Early Growth, 2000s](epoch_times_founding_and_early_growth_2000s.md): also mentions Thanksgiving Day, from a different source document.
 - [Friendsgiving Alternative Activity Ideas](friendsgiving_alternative_activity_ideas.md): also mentions Thanksgiving, from a different source document.
 - [NBA Christmas vs NFL Thanksgiving Tradition Comparison](nba_christmas_vs_nfl_thanksgiving_tradition_comparison.md): also mentions Thanksgiving Day, from a different source document.
@@ -21,6 +22,8 @@ Best Buy will also, upon request, match an in-store or online price that was low
 - [Amazon Price Matching and Return Policy](amazon_price_matching_and_return_policy.md): the retailer with no matching policy at all, same roundup (doc_0403).
 - [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): another policy in the same roundup (doc_0403).
 - [B&H Photo and Costco Price Adjustment](bh_photo_and_costco_price_adjustment.md): case-by-case and credit-based alternatives, same roundup (doc_0403).
+- [Dell Price Match Policy](dell_price_match_policy.md): same source document (doc_0403)
+- [eBay Best Price Guarantee](ebay_best_price_guarantee.md): same source document (doc_0403)
 
 ## Source
 

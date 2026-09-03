@@ -13,11 +13,17 @@ Kansas City then took the lead and kept it. Mahomes completed seven passes on a 
 
 ## Related Notes
 
+
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also discusses Zach Wilson, in a different document.
 - [Buffalo Bills Defensive Injuries 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): also concerns Kansas City, from a separate source.
 - [Chiefs Jets Week 4 Swift Sideshow and Prop Stars Menu](chiefs_jets_week_4_swift_sideshow_and_prop_stars_menu.md): covers Patrick Mahomes and Zach Wilson in the same matchup from another document.
 - [Chiefs Jets Week 4 Team Level Props](chiefs_jets_week_4_team_level_props.md): another view of Mahomes and Wilson in this game, separately sourced.
 - [Chiefs Packers Week 13 First Half Sequence](chiefs_packers_week_13_first_half_sequence.md): another Kansas City and Patrick Mahomes game account.
+- [Chiefs Beat Jets 23-20 On Week 4 Sunday Night Football](chiefs_beat_jets_week_4_sunday_night_recap.md): same source document (doc_0200)
+- [Chiefs-Jets First Half: A 17-0 Start Trimmed To 20-12 At Halftime](chiefs_jets_first_half_live_blog.md): same source document (doc_0200)
+- [Chiefs-Jets Pregame: Taylor Swift In Donna Kelce's Box, Rodgers Back On The Sideline](chiefs_jets_pregame_notes_taylor_swift_and_rodgers.md): same source document (doc_0200)
+- [NBC's 2023 Sunday Night Football Broadcast And Streaming Package](sunday_night_football_2023_nbc_broadcast_team.md): same source document (doc_0200)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

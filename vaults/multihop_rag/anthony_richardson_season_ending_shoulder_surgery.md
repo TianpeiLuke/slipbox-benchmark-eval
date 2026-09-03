@@ -13,6 +13,7 @@ The counter-evidence is Gardner Minshew's three-pick game against Jacksonville t
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 of the 2023 Season](afc_playoff_seeding_after_week_13_2023.md): also concerns the Indianapolis Colts, from a different document.
 - [Brock Purdy Fantasy Outlook, Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also concerns Anthony Richardson, from a different document.
 - [Colts 31-28 Titans Overtime Week 13](colts_31_28_titans_overtime_week_13.md): also concerns the Indianapolis Colts, from a different document.
@@ -21,6 +22,8 @@ The counter-evidence is Gardner Minshew's three-pick game against Jacksonville t
 - [Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): drawn from the same document (doc_0316).
 - [Buffalo Bills Defensive Injuries, 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): drawn from the same document (doc_0316).
 - [Cincinnati Bengals: Joe Burrow's Durability and the Line](cincinnati_bengals_joe_burrow_durability_and_line.md): drawn from the same document (doc_0316).
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
+- [Denver Broncos: Payton And Wilson's Clock-Management Friction](denver_broncos_payton_wilson_clock_management_friction.md): same source document (doc_0316)
 
 ## Source
 

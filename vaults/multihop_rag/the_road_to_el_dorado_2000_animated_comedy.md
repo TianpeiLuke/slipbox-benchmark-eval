@@ -11,11 +11,19 @@ The setup: two runaway con men from Spain somehow end up in South America, where
 
 ## Related Notes
 
+
 - [A Haunting In Venice Poirot Mystery](a_haunting_in_venice_poirot_mystery.md): another film write-up featuring Kenneth Branagh
 - [Britney Spears Music Making From Baby One More Time To Blackout](britney_spears_music_making_from_baby_one_more_time_to_blackout.md): an unrelated music article that also references Elton John
 - [Chelsea Arsenal Derby Team News October 2023](chelsea_arsenal_derby_team_news_october_2023.md): an unrelated article that also mentions South America
 - [Danny Elfman As Jack Skellington In Nightmare Before Christmas](danny_elfman_as_jack_skellington_in_nightmare_before_christmas.md): another animation article touching the Disney Renaissance era
 - [Deontay Wilder Comeback After Fury Trilogy](deontay_wilder_comeback_after_fury_trilogy.md): another South America-referencing article from a different domain
+- [Book Club (2018): The Raunchy Late-Life Romantic Comedy](book_club_2018_romantic_comedy.md): same source document (doc_0597)
+- [Catherine Called Birdy (2022): Lena Dunham's Coming-Of-Age Comedy](catherine_called_birdy_2022_lena_dunham_comedy.md): same source document (doc_0597)
+- [Charade (1963): Stanley Donen's Comedy Thriller](charade_1963_donen_comedy_thriller.md): same source document (doc_0597)
+- [Clueless (1995): The Teen-Comedy Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): same source document (doc_0597)
+- [Coming To America (1988): Eddie Murphy's Romantic Comedy](coming_to_america_1988_eddie_murphy_comedy.md): same source document (doc_0597)
+- [Product Launch](term_product_launch.md): uses the concept product launch
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

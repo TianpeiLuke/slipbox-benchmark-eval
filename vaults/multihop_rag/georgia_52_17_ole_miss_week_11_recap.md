@@ -13,11 +13,19 @@ For Ole Miss, Quinshon Judkins scored the only two touchdowns and finished with 
 
 ## Related Notes
 
+
 - [Alabama 2023 CFP Case and SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): also discusses the College Football Playoff and the SEC title game, from a different document.
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): also discusses Ole Miss, from a different document.
 - [Alabama CFP Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also discusses the College Football Playoff and Ohio State, from a different document.
 - [Alabama Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): also discusses Ohio State, from a different document.
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): also discusses Ohio State, from a different document.
+- [Brock Bowers' Return From TightRope Surgery](brock_bowers_return_from_tightrope_surgery.md): same source document (doc_0484)
+- [Georgia Clinches The SEC East And The Sanford Stadium Scene](georgia_clinches_sec_east_and_sanford_stadium_scene.md): same source document (doc_0484)
+- [Georgia's First-Half Touchdown Drives: Beck And Edwards](georgia_first_half_touchdown_drives_beck_and_edwards.md): same source document (doc_0484)
+- [Georgia's Third-Quarter Field Goal And Lovett's Gain](georgia_third_quarter_field_goal_and_lovett_gain.md): same source document (doc_0484)
+- [Interceptions By Bullard And Daijahn Anthony](interceptions_by_bullard_and_daijahn_anthony.md): same source document (doc_0484)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

@@ -11,11 +11,17 @@ Play works through short generative prompts tied to a deck of playing cards, wit
 
 ## Related Notes
 
+
 - [City Of Winter](city_of_winter_ttrpg.md): same source; another worldbuilding-first game in the same list.
 - [Fetch My Blade](fetch_my_blade_solo_journaling_rpg.md): same source; another prompt-driven, low-preparation game.
 - [Dimension 20 Burrows End Stoat Season](dimension_20_burrows_end_stoat_season.md): also covers David Attenborough, from a different source document.
 - [Dead After Dinner](dead_after_dinner_ttrpg.md): drawn from the same source document (doc_0591).
 - [Desperation](desperation_ttrpg_jason_morningstar.md): drawn from the same source document (doc_0591).
+- [Dungeon Crawl Classics](dungeon_crawl_classics_rpg.md): same source document (doc_0591)
+- [Dungeons & Dragons In 2023](dungeons_and_dragons_2023_play_experiences.md): same source document (doc_0591)
+- [Eating Oranges In The Shower](eating_oranges_in_the_shower_larp.md): same source document (doc_0591)
+- [Home](home_haunted_house_ttrpg.md): same source document (doc_0591)
+- [I'm Sorry Did You Say Street Magic](im_sorry_did_you_say_street_magic.md): same source document (doc_0591)
 
 ## Source
 

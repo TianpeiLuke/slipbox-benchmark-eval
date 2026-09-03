@@ -11,11 +11,18 @@ Walmart Plus subscribers get free next-day and two-day shipping with no order mi
 
 ## Related Notes
 
+
 - [Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): overlapping coverage of two-day shipping alongside Walmart, from a different source document.
 - [Amazon's Sequoia Fulfillment System](amazon_sequoia_fulfillment_system.md): overlapping coverage of next-day shipping on orders, from a different source document.
 - [Retailer Memberships For Early Deal Access](retailer_memberships_for_early_deal_access.md): also concerns Walmart Plus, from a different source document.
 - [Walmart Price Match Policy](walmart_price_match_policy.md): overlapping coverage of Walmart's retail offers, from a different source document.
 - [Amazon Prime Holiday 2023 Delivery Cutoffs](amazon_prime_holiday_2023_delivery_cutoffs.md): drawn from the same source document (doc_0473).
+- [Best Buy Holiday 2023 Shipping And Pickup Cutoffs](best_buy_holiday_2023_shipping_and_pickup_cutoffs.md): same source document (doc_0473)
+- [FedEx 2023 Holiday Shipping Deadlines](fedex_2023_holiday_shipping_deadlines.md): same source document (doc_0473)
+- [Holiday 2023 Shipping Deadline Planning](holiday_2023_shipping_deadline_planning.md): same source document (doc_0473)
+- [Target Holiday 2023 Delivery And Shipt Cutoffs](target_holiday_2023_delivery_and_shipt_cutoffs.md): same source document (doc_0473)
+- [UPS 2023 Holiday Shipping Deadlines](ups_2023_holiday_shipping_deadlines.md): same source document (doc_0473)
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

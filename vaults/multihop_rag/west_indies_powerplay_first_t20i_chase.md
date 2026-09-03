@@ -11,6 +11,7 @@ Brandon King got the home side off to a blistering start in the first over, send
 
 ## Related Notes
 
+
 - [Boycott's Criticism of Bairstow and Woakes Selection](boycott_criticism_of_bairstow_and_woakes_selection.md): also covers Chris Woakes, from a different document.
 - [England 132 All Out in the T20 Series Decider](england_132_all_out_t20_series_decider.md): also covers Sam Curran and West Indies, from a different document.
 - [First ODI, Cricket World Cup 1975](first_odi_cricket_world_cup_1975.md): also covers West Indies, from a different document.
@@ -19,6 +20,8 @@ Brandon King got the home side off to a blistering start in the first over, send
 - [Adil Rashid T20I Milestones and Series Form](adil_rashid_t20i_milestones_and_series_form.md): covers the England spinner who bowled later in this chase, from a different document.
 - [Andre Russell's Comeback in the First T20I](andre_russell_comeback_first_t20i.md): covers the batter who finished this chase, from the same document.
 - [England 171 All Out in the First T20I](england_171_all_out_first_t20i.md): gives the target being chased here, from the same document.
+- [First T20I In Barbados: Match Summary](first_t20i_barbados_match_summary.md): same source document (doc_0063)
+- [The Rain Delay And DLS Position In The First T20I](rain_delay_and_dls_position_first_t20i.md): same source document (doc_0063)
 
 ## Source
 

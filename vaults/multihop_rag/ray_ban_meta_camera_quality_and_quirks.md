@@ -13,6 +13,7 @@ The quirks follow from where the camera sits. What you see is not what the camer
 
 ## Related Notes
 
+
 - [Memory Card Holder and Reader](memory_card_holder_and_reader.md): also involves Becca Farsace, from a different source document.
 - [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): shares the livestreaming theme, from a different source document.
 - [Diablo 4 Season of Blood's Quality-of-Life Focus](diablo_4_season_of_blood_quality_of_life_focus.md): shares the livestreaming theme, from a different source document.
@@ -21,6 +22,14 @@ The quirks follow from where the camera sits. What you see is not what the camer
 - [Meta Crisis Response Measures](meta_crisis_response_measures.md): shares the livestreaming theme, from a different source document.
 - [Negative Sentiment as Profitable Streaming Discourse](negative_sentiment_as_profitable_streaming_discourse.md): shares the livestreaming theme, from a different source document.
 - [Prime Day Gaming Laptop, Headset and Stream Deck Deals](prime_day_gaming_laptop_headset_and_stream_deck_deals.md): shares the streaming-gear theme, from a different source document.
+- [Ray-Ban Meta As Open-Ear Headphones](ray_ban_meta_as_open_ear_headphones.md): same source document (doc_0364)
+- [Ray-Ban Meta As A Smart Glasses Turning Point](ray_ban_meta_as_smart_glasses_turning_point.md): same source document (doc_0364)
+- [Ray-Ban Meta: Design And Discreetness](ray_ban_meta_design_and_discreetness.md): same source document (doc_0364)
+- [Ray-Ban Meta Livestreaming And Meta's Walled Garden](ray_ban_meta_livestreaming_walled_garden.md): same source document (doc_0364)
+- [Ray-Ban Meta: Media Import And Battery Life](ray_ban_meta_media_import_and_battery_life.md): same source document (doc_0364)
+- [Ray-Ban Meta Smart Glasses: Verdict And Specs](ray_ban_meta_smart_glasses_verdict_and_specs.md): same source document (doc_0364)
+- [Smart Glasses Privacy And Bystander Consent](smart_glasses_privacy_and_bystander_consent.md): same source document (doc_0364)
+- [Livestreaming](term_livestreaming.md): uses the concept livestreaming
 
 ## Source
 

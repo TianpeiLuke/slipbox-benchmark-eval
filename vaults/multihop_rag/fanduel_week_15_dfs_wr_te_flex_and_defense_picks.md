@@ -13,11 +13,17 @@ Okonkwo (Titans vs. Texans) had emerged as a nice weapon for rookie quarterback 
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also discusses Deebo Samuel, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Derek Carr and Puka Nacua, from a different document.
 - [Backlash to Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): also discusses Travis Kelce, from a different document.
 - [Backlash to Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also discusses Travis Kelce, from a different document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also discusses Jordan Love, from a different document.
+- [FanDuel NFL DFS Contest Format And Scoring Rules](fanduel_nfl_dfs_contest_format_and_scoring.md): same source document (doc_0056)
+- [FanDuel Week 15 DFS Quarterback And Running Back Picks](fanduel_week_15_dfs_qb_and_rb_picks.md): same source document (doc_0056)
+- [SuperDraft's Multiplier-Based DFS Scoring Format](superdraft_dfs_multiplier_scoring_format.md): same source document (doc_0056)
+- [SuperDraft Week 15 NFL DFS Lineup](superdraft_week_15_nfl_dfs_lineup.md): same source document (doc_0056)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

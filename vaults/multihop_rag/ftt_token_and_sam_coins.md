@@ -13,6 +13,7 @@ The discriminating feature of the Sam coins was that their book value was not re
 
 ## Related Notes
 
+
 - [Alameda Research](alameda_research.md): overlaps on the token, Alameda and Bankman-Fried, from a different source document.
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): overlaps on Alameda and what Bankman-Fried directed, from a different source document.
 - [Alameda Research's Origins and Naming](alameda_research_origins_and_naming.md): overlaps on Alameda, Bankman-Fried and Wang, from a different source document.
@@ -21,9 +22,8 @@ The discriminating feature of the Sam coins was that their book value was not re
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the credit privilege FTT was invoked to justify (doc_0305).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): another Alameda-FTX accounting manoeuvre from the same code-review day (doc_0305).
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): FTT's value was the excuse offered as the balance went further negative (doc_0305).
-
-
-
+- [Caroline Ellison's Guilty Plea And First Day Of Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): same source document (doc_0086)
+- [Code Evidence Outweighs Deleted Signal Messages](code_evidence_outweighs_deleted_signal_messages.md): same source document (doc_0305)
 
 ## Corpus References
 

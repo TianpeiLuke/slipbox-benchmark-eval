@@ -11,6 +11,7 @@ He has already played nine matches at senior level with Peel Thunder, averaging 
 
 ## Related Notes
 
+
 - [Aurora Sightings Beyond Usual Latitudes Greece Turkey Australia](aurora_sightings_beyond_usual_latitudes_greece_turkey_australia.md): also mentions Western Australia, from a different document.
 - [Erin Phillips AFLW Retirement](erin_phillips_aflw_retirement.md): also concerns the Western Bulldogs, from a different document.
 - [North Melbourne 2023 AFLW Top Four Finish](north_melbourne_2023_aflw_top_four_finish.md): also concerns the Western Bulldogs, from a different document.
@@ -19,6 +20,8 @@ He has already played nine matches at senior level with Peel Thunder, averaging 
 - [Angus Hastie AFL Draft Prospect 2023](angus_hastie_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Archer Reid AFL Draft Prospect 2023](archer_reid_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Archie Roberts AFL Draft Prospect 2023](archie_roberts_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
+- [Ari Schoenmaker AFL Draft Prospect 2023](ari_schoenmaker_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Ashton Moya AFL Draft Prospect 2023](ashton_moya_afl_draft_prospect_2023.md): same source document (doc_0244)
 
 ## Source
 

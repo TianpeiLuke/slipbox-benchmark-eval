@@ -13,6 +13,7 @@ Polygon expects online fandom debates to go ballistic again as the release appro
 
 ## Related Notes
 
+
 - [Insidious: The Red Door](insidious_the_red_door.md): both discuss Patrick Wilson, from a different source document
 - [Keith Urban and Nicole Kidman Marriage](keith_urban_and_nicole_kidman_marriage.md): both reference Nicole Kidman, from a separate article
 - [Malignant (2021, James Wan)](malignant_2021_james_wan_film.md): another James Wan film covered in a different document
@@ -21,6 +22,8 @@ Polygon expects online fandom debates to go ballistic again as the release appro
 - [Booster Gold TV Series](booster_gold_tv_series.md): another entry from the same DC slate document
 - [Brave and the Bold (Damian Wayne Film)](brave_and_the_bold_damian_wayne_film.md): a fellow project in the same article
 - [Creature Commandos Animated Series](creature_commandos_animated_series.md): another DC Studios project from the same source
+- [The DC Extended Universe (DCEU)](dc_extended_universe_dceu.md): same source document (doc_0081)
+- [The DC Studios DCU Reboot Under James Gunn and Peter Safran](dc_studios_dcu_reboot_under_gunn_and_safran.md): same source document (doc_0081)
 
 ## Source
 

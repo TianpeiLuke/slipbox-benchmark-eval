@@ -11,10 +11,16 @@ They will then establish project standards and guidelines, and after that partne
 
 ## Related Notes
 
+
 - [AI Alliance Case For Open AI Development](ai_alliance_case_for_open_ai_development.md): drawn from the same source document (doc_0268), the rationale these structures serve.
 - [AI Alliance Founding By Meta And IBM](ai_alliance_founding_by_meta_and_ibm.md): drawn from the same source document (doc_0268), on the body being organised.
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): drawn from the same source document (doc_0268), listing the members who will staff these groups.
 - [AI Alliance Notable Non-Members](ai_alliance_notable_non_members.md): drawn from the same source document (doc_0268), on who is absent from them.
+- [Doubts About The AI Alliance's Effectiveness](doubts_about_ai_alliance_effectiveness.md): same source document (doc_0268)
+- [IBM's Generative AI Business Motive In The AI Alliance](ibm_generative_ai_business_motive_in_ai_alliance.md): same source document (doc_0268)
+- [Meta's Open Source AI Strategy And Motives](meta_open_source_ai_strategy_and_motives.md): same source document (doc_0268)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Open Source](term_open_source.md): uses the concept open source
 
 ## Source
 

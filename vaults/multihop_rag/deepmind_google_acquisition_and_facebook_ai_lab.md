@@ -11,6 +11,7 @@ Zuckerberg was determined to build an AI lab of his own and hired Yann LeCun, a 
 
 ## Related Notes
 
+
 - [BlackBerry Matt Johnson Film](blackberry_matt_johnson_film.md): also concerns Silicon Valley, from a different source document.
 - [ChatGPT First Year Overview](chatgpt_first_year_overview.md): also concerns Silicon Valley's AI race, from a different source document.
 - [ChatGPT Third Party Integrations And Ecosystem](chatgpt_third_party_integrations_and_ecosystem.md): also concerns Silicon Valley AI products, from a different source document.
@@ -19,6 +20,8 @@ Zuckerberg was determined to build an AI lab of his own and hired Yann LeCun, a 
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): drawn from the same article and names the rivals bidding here.
 - [AlphaGo As Evidence For AI Risk Concerns](alphago_as_evidence_for_ai_risk_concerns.md): drawn from the same article and follows DeepMind under Google ownership.
 - [Anthropic Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): drawn from the same article and shows the same safety-versus-commerce split recurring later.
+- [DeepMind's Ethics Board And Its Single Meeting In 2015](deepmind_ethics_board_single_meeting_2015.md): same source document (doc_0027)
+- [DeepMind's Founding And Thiel's Investment](deepmind_founding_and_thiel_investment.md): same source document (doc_0027)
 
 ## Source
 

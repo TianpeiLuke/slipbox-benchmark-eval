@@ -13,6 +13,7 @@ Now, a year later, it is her favorite place to sit that is not Lopatto's lap, an
 
 ## Related Notes
 
+
 - [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): drawn from the same source document (doc_0575).
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): drawn from the same source document (doc_0575).
 - [Atumtek Bluetooth Selfie Tripod](atumtek_bluetooth_selfie_tripod.md): drawn from the same source document (doc_0575).
@@ -21,6 +22,8 @@ Now, a year later, it is her favorite place to sit that is not Lopatto's lap, an
 - [ChomChom Pet Hair Remover](chomchom_pet_hair_remover.md): drawn from the same source document (doc_0575).
 - [Epicka Universal Travel Adapter](epicka_universal_travel_adapter.md): drawn from the same source document (doc_0575).
 - [FoodSaver Vacuum Sealer](foodsaver_vacuum_sealer.md): drawn from the same source document (doc_0575).
+- [iOttie Easy One Touch Qi Charger](iottie_easy_one_touch_qi_car_charger.md): same source document (doc_0575)
+- [Lumesner Carry-On Backpack](lumesner_carry_on_backpack.md): same source document (doc_0575)
 
 ## Source
 

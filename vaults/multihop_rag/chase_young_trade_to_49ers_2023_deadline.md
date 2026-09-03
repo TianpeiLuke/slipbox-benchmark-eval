@@ -13,6 +13,7 @@ The Sporting News framed the move alongside the previous year's splash, when San
 
 ## Related Notes
 
+
 - [Bears Vikings MNF First Half](bears_vikings_mnf_first_half.md): another document covering Montez Sweat, different source
 - [Colorado Offensive Line Sacks Allowed 2023](colorado_offensive_line_sacks_allowed_2023.md): another sacks-focused document, different sport and source
 - [Cowboys 49ers First Half Live Blog](cowboys_49ers_first_half_live_blog.md): another document covering Nick Bosa, different source
@@ -21,6 +22,10 @@ The Sporting News framed the move alongside the previous year's splash, when San
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): the free-agent context for keeping him, same source document
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): the cap picture behind the question, same source document
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): the argument that this is not a pure rental, same source document
+- [Projecting Chase Young's 2024 Contract Value](chase_young_2024_contract_value_projection.md): same source document (doc_0500)
+- [Why The Franchise Tag May Not Suit Chase Young](franchise_tag_option_for_chase_young.md): same source document (doc_0500)
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

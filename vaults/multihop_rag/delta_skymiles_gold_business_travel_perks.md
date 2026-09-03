@@ -11,6 +11,7 @@ The free first checked bag covers cardholders and up to nine of their guests; be
 
 ## Related Notes
 
+
 - [Alternatives to Amex Cash Magnet Card](alternatives_to_amex_cash_magnet_card.md): another American Express benefit comparison, from a different source document.
 - [Amex Cash Magnet Approval Odds and Credit Limits](amex_cash_magnet_approval_odds_and_credit_limits.md): also discusses American Express, from a different source document.
 - [Amex Cash Magnet Best Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): shares vocabulary around purchases, purchase and card, from a different source document.
@@ -19,6 +20,8 @@ The free first checked bag covers cardholders and up to nine of their guests; be
 - [Chase Ink Business Preferred Card Comparison](chase_ink_business_preferred_card_comparison.md): the alternative for cardholders who do not value Delta-specific perks (doc_0557).
 - [Delta Gold Business Card Fees and Eligibility](delta_gold_business_card_fees_and_eligibility.md): the $99 fee these perks are measured against (doc_0557).
 - [Delta SkyMiles Gold Business Amex Card](delta_skymiles_gold_business_amex_card.md): the card summary that lists these perks in brief (doc_0557).
+- [Delta SkyMiles Gold Business Card Rewards Rates](delta_skymiles_gold_business_rewards_rates.md): same source document (doc_0557)
+- [The Delta SkyMiles Gold Business Welcome Bonus](delta_skymiles_gold_business_welcome_bonus.md): same source document (doc_0557)
 
 ## Source
 

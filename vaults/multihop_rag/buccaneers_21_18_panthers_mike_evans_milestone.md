@@ -11,11 +11,19 @@ Evans finished with seven receptions for 162 yards, increasing his season totals
 
 ## Related Notes
 
+
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also covers Mike Evans, from a different document.
 - [Bears 16-13 Panthers Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): also covers Bryce Young, from a different document.
 - [Bears-Panthers Pregame Storylines, Week 10](bears_panthers_pregame_storylines_week_10.md): also covers Bryce Young and the Carolina Panthers, from a different document.
 - [Bears-Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also covers Bryce Young, from a different document.
 - [Colts-Panthers Week 9 Spread Pick](colts_panthers_week_9_spread_pick.md): also covers Bryce Young, from a different document.
+- [Cardinals 24-10 Steelers, Week 13 2023](cardinals_24_10_steelers_week_13.md): same source document (doc_0150)
+- [Chargers 6-0 Patriots, Week 13 2023](chargers_6_0_patriots_shutout_week_13.md): same source document (doc_0150)
+- [Colts 31-28 Titans In Overtime, Week 13 2023](colts_31_28_titans_overtime_week_13.md): same source document (doc_0150)
+- [Dolphins 45-15 Commanders, Week 13 2023](dolphins_45_15_commanders_week_13.md): same source document (doc_0150)
+- [The Greenlaw-DiSandro Sideline Ejections](dre_greenlaw_dom_disandro_sideline_ejections.md): same source document (doc_0150)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

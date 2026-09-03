@@ -15,11 +15,16 @@ The players' own framing matched. Just as the year before, McCarthy and Corum to
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): another Big Ten item from a different document.
 - [Alabama's 2023 CFP Case and the SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): also concerns the College Football Playoff, separately sourced.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): covers the Big Ten and Playoff picture from a different source.
 - [Alabama-Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): another item involving Ohio State, in a separate document.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): the off-field story referenced here, reported elsewhere.
+- [Michigan 30, Ohio State 24 In The 2023 Game](michigan_ohio_state_2023_the_game.md): same source document (doc_0224)
+- [Sherrone Moore's Case For Attacking Ohio State](sherrone_moore_aggressive_game_plan_vs_ohio_state.md): same source document (doc_0224)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

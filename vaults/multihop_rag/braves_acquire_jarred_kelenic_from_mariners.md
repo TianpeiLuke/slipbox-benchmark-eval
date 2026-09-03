@@ -13,9 +13,18 @@ Gonzales, 31, was also a decent rotation arm, with 65 wins, 665 strikeouts and a
 
 ## Related Notes
 
+
 - [Mariners Reported Out of the Ohtani Chase](mariners_reported_out_of_the_ohtani_chase.md): overlaps on Seattle's offseason reporting, from a different document.
 - [Mariners Young Starting Pitcher Trade Candidates](mariners_young_starting_pitcher_trade_candidates.md): overlaps on the Mariners' rotation and trade posture, from a different document.
 - [Pittsburgh Pirates 2023 Offseason Signings](pittsburgh_pirates_2023_offseason_signings.md): also discusses Marco Gonzales, from a different document.
+- [Diamondbacks Land Eduardo Rodriguez On A Four-Year Deal](eduardo_rodriguez_signs_with_diamondbacks.md): same source document (doc_0120)
+- [Juan Soto Traded From The Padres To The Yankees](juan_soto_traded_from_padres_to_yankees.md): same source document (doc_0120)
+- [Jung Hoo Lee Posted From The KBO To MLB](jung_hoo_lee_kbo_posting_to_mlb.md): same source document (doc_0120)
+- [Mariners' Cleared Payroll Space And Winter Meetings Trade Talks](mariners_offseason_payroll_space_and_trade_talks.md): same source document (doc_0120)
+- [The 2023-24 Offseason Starting Pitcher Trade Market](mlb_2023_offseason_starting_pitcher_trade_market.md): same source document (doc_0120)
+- [What The MLB Winter Meetings Are And Why The 2023 Edition Mattered](mlb_2023_winter_meetings_overview.md): same source document (doc_0120)
+- [How Reporting On Ohtani's Decision Timeline Shifted During The Winter Meetings](shohei_ohtani_free_agency_decision_timeline.md): same source document (doc_0120)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

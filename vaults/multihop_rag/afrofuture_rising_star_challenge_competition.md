@@ -13,6 +13,7 @@ In 2022 the format was extended with the Rising Star DJ Challenge, a call for DJ
 
 ## Related Notes
 
+
 - [Artists Seeking Control, Transparency and Masters Ownership](artists_seeking_control_transparency_and_masters_ownership.md): concerns the same TuneCore-adjacent world of emerging artists and deals.
 - [Shayda Festival Run and Australian Oscar Selection](shayda_festival_run_and_australian_oscar_selection.md): another festival selection-and-prize process.
 - [Abdul Karim Abdullah's Path into the Music Business](abdul_karim_abdullah_path_into_the_music_business.md): from the same interview.
@@ -21,6 +22,8 @@ In 2022 the format was extended with the Rising Star DJ Challenge, a call for DJ
 - [AfroFuture Festival, Accra, Ghana](afrofuture_festival_accra_ghana.md): the festival this competition feeds into.
 - [AfroFuture Foundation Philanthropy Programmes](afrofuture_foundation_philanthropy_programmes.md): the other structured programme AfroFuture runs.
 - [AfroFuture Founding Vision and Mission Pillars](afrofuture_founding_vision_and_mission_pillars.md): the mission this competition serves.
+- [AfroFuture Impact on Ghana Tourism](afrofuture_impact_on_ghana_tourism.md): same source document (doc_0085)
+- [Road to AfroFuture Geographic Brand Expansion](road_to_afrofuture_geographic_brand_expansion.md): same source document (doc_0085)
 
 ## Source
 

@@ -13,6 +13,7 @@ The warrant is that off-platform offerings restore independence, and he names se
 
 ## Related Notes
 
+
 - [Instagram Palestine Suppression](instagram_palestine_suppression.md): shares the creator economy and recommendation algorithm topic tags across the corpus
 - [SCOTUS Ruling Consequences](scotus_ruling_consequences.md): shares the creator economy and recommendation algorithm topic tags across the corpus
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares the creator economy topic tag across the corpus
@@ -21,6 +22,16 @@ The warrant is that off-platform offerings restore independence, and he names se
 - [AI-Generated Works Should Not Be Copyrightable](ai_generated_works_should_not_be_copyrightable.md): shares the creator economy topic tag across the corpus
 - [AI Training Fails The Fair Use Test](ai_training_fails_fair_use_test.md): shares the creator economy topic tag across the corpus
 - [Amazon Generative AI In Robotics Simulation](amazon_generative_ai_in_robotics_simulation.md): shares the recommendation algorithm topic tag across the corpus
+- [CollegeHumor's IAC Layoffs And Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): same source document (doc_0586)
+- [Digital Creator "Jail" And Why Anthology Formats Are The Escape](digital_creator_jail_and_anthology_formats.md): same source document (doc_0586)
+- [Burrow's End: Dimension 20's Stoat Season And The Specificity Rule](dimension_20_burrows_end_stoat_season.md): same source document (doc_0586)
+- [Easter Eggs In Dropout's Anniversary Video](dropout_anniversary_video_easter_eggs.md): same source document (doc_0586)
+- [Dropout's Fifth Anniversary Announcement: CollegeHumor Is No More](dropout_fifth_anniversary_name_change_announcement.md): same source document (doc_0586)
+- [Dropout's Place In Improv History And Wayne Brady's Verdict](dropout_improv_shows_and_wayne_brady_endorsement.md): same source document (doc_0586)
+- [The Early Gigs Reich And Mulligan Came Up Through](reich_and_mulligan_early_performing_gigs.md): same source document (doc_0586)
+- [Very Important People: A Reboot Of CollegeHumor's Hello My Name Is](very_important_people_dropout_show.md): same source document (doc_0586)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Recommendation Algorithm](term_recommendation_algorithm.md): uses the concept recommendation algorithm
 
 ## Source
 

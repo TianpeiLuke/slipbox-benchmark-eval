@@ -11,12 +11,19 @@ Wang, 30, was technology chief for FTX, which spiralled into bankruptcy in Novem
 
 ## Related Notes
 
+
 - [Alameda 65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): shares vocabulary around wang, bankman-fried and alameda, from a different source document.
 - [Alameda Negative Balance Escalation](alameda_negative_balance_escalation.md): the growth of the Alameda deficit, from a different source document.
 - [Code Evidence Outweighs Deleted Signal Messages](code_evidence_outweighs_deleted_signal_messages.md): shares vocabulary around wang, bankman-fried and alameda, from a different source document.
 - [FTT Token and Sam Coins](ftt_token_and_sam_coins.md): the assets behind Alameda's balance sheet, from a different source document.
 - [FTX Alameda Allow Negative Liquidation Exemption](ftx_alameda_allow_negative_liquidation_exemption.md): shares vocabulary around wang, bankman-fried and alameda, from a different source document.
 - [Adam Yedidia Testimony and the Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): another note drawn from the same source document (doc_0226).
+- [Alameda's Special Privileges Written Into FTX's Code](alameda_special_privileges_in_ftx_code.md): same source document (doc_0226)
+- [Gary Wang's Testimony At The FTX Fraud Trial](gary_wang_testimony_ftx_fraud_trial.md): same source document (doc_0226)
+- [Matt Huang And Paradigm's FTX Investment](matt_huang_paradigm_ftx_investment.md): same source document (doc_0226)
+- [Sam Bankman-Fried's Federal Fraud Trial](sam_bankman_fried_federal_fraud_trial.md): same source document (doc_0226)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

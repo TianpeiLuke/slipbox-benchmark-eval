@@ -11,6 +11,7 @@ The discriminating feature of this structure is where the power over AGI sits. T
 
 ## Related Notes
 
+
 - [Musk OpenAI Founding and Departure](musk_openai_founding_and_departure.md): substantial content overlap on nonprofit, for-profit, openai, from a different source document.
 - [OpenAI Board Firing of Sam Altman](openai_board_firing_of_sam_altman.md): substantial content overlap on openai, artificial, altman, from a different source document.
 - [OpenAI Board Merger Approach to Anthropic](openai_board_merger_approach_to_anthropic.md): substantial content overlap on openai, altman, board, from a different source document.
@@ -19,6 +20,8 @@ The discriminating feature of this structure is where the power over AGI sits. T
 - [Microsoft OpenAI Partnership and Response to Firing](microsoft_openai_partnership_and_response_to_firing.md): drawn from the same source document, doc_0516.
 - [OpenAI Board Composition and Helen Toner Dispute](openai_board_composition_and_helen_toner_dispute.md): drawn from the same source document, doc_0516.
 - [OpenAI Share Sale and Valuation Risk after Firing](openai_share_sale_and_valuation_risk_after_firing.md): drawn from the same source document, doc_0516.
+- [Sam Altman's Career And Public Profile](sam_altman_career_and_public_profile.md): same source document (doc_0516)
+- [Sam Altman Fired As OpenAI CEO In November 2023](sam_altman_fired_as_openai_ceo_november_2023.md): same source document (doc_0516)
 
 ## Source
 

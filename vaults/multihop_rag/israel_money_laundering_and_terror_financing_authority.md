@@ -11,6 +11,7 @@ Ostrovitch-Levi describes the pivot: "Already on that Saturday night, with Israe
 
 ## Related Notes
 
+
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): overlaps on lobbying political donations subject matter, from a different source document.
 - [AI Day of Action Campaign](ai_day_of_action_campaign.md): overlaps on lobbying political donations subject matter, from a different source document.
 - [AI Mass Generated Seo Spam Churn and Burn](ai_mass_generated_seo_spam_churn_and_burn.md): overlaps on lobbying political donations subject matter, from a different source document.
@@ -19,6 +20,18 @@ Ostrovitch-Levi describes the pivot: "Already on that Saturday night, with Israe
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): overlaps on lobbying political donations subject matter, from a different source document.
 - [Baldurs Gate 3](baldurs_gate_3.md): overlaps on lobbying political donations subject matter, from a different source document.
 - [Bank of Israel Thirty Billion Dollar FX Intervention](bank_of_israel_thirty_billion_dollar_fx_intervention.md): another Israeli financial-authority wartime response, from a different source document.
+- [Isolating Iran Through FATF, And The Cash Dependency Problem](fatf_iran_isolation_and_cash_dependency.md): same source document (doc_0486)
+- [Hamas Fundraising After October 7](hamas_fundraising_after_october_7.md): same source document (doc_0486)
+- [Hawala As The Main Money Transfer Channel Into Gaza](hawala_money_transfer_into_gaza.md): same source document (doc_0486)
+- [IMPA's Blocking Of A Hamas Fundraising Pipeline In Europe](impa_blocking_hamas_fundraising_in_europe.md): same source document (doc_0486)
+- [The International Terror Finance Task Force](international_terror_finance_task_force.md): same source document (doc_0486)
+- [Iran's State Funding Of Hamas](iran_state_funding_of_hamas.md): same source document (doc_0486)
+- [Private Sector Volunteers In Terror Finance Tracking](private_sector_volunteers_in_terror_finance_tracking.md): same source document (doc_0486)
+- [The Surge In Terror Financing Reports After October 7](surge_in_terror_financing_reports_after_october_7.md): same source document (doc_0486)
+- [Trade-Based Terror Financing Schemes](trade_based_terror_financing_schemes.md): same source document (doc_0486)
+- [The US Treasury's FinCEN And OFAC Response](us_treasury_fincen_and_ofac_response.md): same source document (doc_0486)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Reserve Mobilisation](term_reserve_mobilisation.md): uses the concept reserve mobilisation
 
 ## Source
 

@@ -13,11 +13,18 @@ By Dec. 13, 2023, Sporting News framed the situation as one in which, as Manches
 
 ## Related Notes
 
+
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also concerns Man United, from a different document.
 - [Fulham Injury List and Striker Choice November 2023](fulham_injury_list_and_striker_choice_november_2023.md): also concerns Man United, from a different document.
 - [Harry Kane Bayern Munich 2023 Scoring Records](harry_kane_bayern_munich_2023_scoring_records.md): also concerns Man United, from a different document.
 - [Man United Chelsea Recent Premier League Meetings](man_united_chelsea_recent_premier_league_meetings.md): overlaps on United's recent Premier League record, from a different document.
 - [Man United vs Fulham November 2023 Fixture](man_united_vs_fulham_november_2023_fixture.md): also concerns Man United, from a different document.
+- [Jim Ratcliffe Completes His 25% Stake In Manchester United](jim_ratcliffe_minority_stake_in_manchester_united.md): same source document (doc_0315)
+- [Manchester United's 2023/24 Champions League Elimination](man_united_2023_24_champions_league_elimination.md): same source document (doc_0315)
+- [Manchester United 2-1 Chelsea, December 2023](man_united_2_1_chelsea_december_2023_result.md): same source document (doc_0129)
+- [How The Goals Came In Manchester United 2-1 Chelsea](man_united_chelsea_december_2023_goal_sequence.md): same source document (doc_0129)
+- [Team News And Lineups For Manchester United vs Chelsea, December 2023](man_united_chelsea_december_2023_team_news_and_lineups.md): same source document (doc_0129)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

@@ -13,6 +13,7 @@ Kyncl also widened the label's job beyond breaking an artist. A label's value is
 
 ## Related Notes
 
+
 - [Roblox Three AI Clouds](roblox_three_ai_clouds.md): another set of remarks made at the Code Conference.
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): shares a corpus-level content tag with this note.
 - [AI Day of Action Campaign](ai_day_of_action_campaign.md): shares a corpus-level content tag with this note.
@@ -21,6 +22,15 @@ Kyncl also widened the label's job beyond breaking an artist. A label's value is
 - [Apple iOS Security Fixes and Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares a corpus-level content tag with this note.
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): shares a corpus-level content tag with this note.
 - [Baldur's Gate 3](baldurs_gate_3.md): shares a corpus-level content tag with this note.
+- [Dispute Over Readiness of AI Content Detection Tooling](dispute_over_readiness_of_ai_content_detection_tooling.md): same source document (doc_0455)
+- [Kyncl Prediction: Music Is the First Industry to Feel AI's Impact](kyncl_prediction_music_first_industry_to_feel_ai_impact.md): same source document (doc_0455)
+- [Music Catalog Acquisition Market Slowdown 2023](music_catalog_acquisition_market_slowdown_2023.md): same source document (doc_0455)
+- [Music Streaming Price Hikes and Emerging Market Growth](music_streaming_price_hikes_and_emerging_market_growth.md): same source document (doc_0455)
+- [Music Streaming Resilience Versus Streaming Video Downturn](music_streaming_resilience_versus_streaming_video_downturn.md): same source document (doc_0455)
+- [Robert Kyncl, Warner Music Group CEO](robert_kyncl_warner_music_group_ceo.md): same source document (doc_0455)
+- [Thesis That Music Labels Are Headed for Irrelevance](thesis_that_music_labels_are_headed_for_irrelevance.md): same source document (doc_0455)
+- [YouTube Content ID as Blueprint for AI Rights Management](youtube_content_id_as_blueprint_for_ai_rights_management.md): same source document (doc_0455)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

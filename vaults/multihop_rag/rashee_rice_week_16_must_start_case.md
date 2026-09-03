@@ -11,6 +11,7 @@ The grounds begin with recent form. While Rice was just WR29 on the season, that
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also discusses Deebo Samuel, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another start/sit verdict for a receiver, from a different document.
 - [Buccaneers 21-18 Panthers Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): overlaps on receiving production terms, from a different document.
@@ -19,6 +20,9 @@ The grounds begin with recent form. While Rice was just WR29 on the season, that
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): another entry in the same preview, from the same document.
 - [Curtis Samuel Week 16 Waiver Target](curtis_samuel_week_16_waiver_target.md): another entry in the same preview, from the same document.
 - [Deebo Samuel Yards Per Target Pace](deebo_samuel_yards_per_target_pace.md): the Deebo Samuel note from the same preview, from the same document.
+- [Demario Douglas Week 16 Waiver Target](demario_douglas_week_16_waiver_target.md): same source document (doc_0146)
+- [Dontayvion Wicks Week 16 Waiver Target](dontayvion_wicks_week_16_waiver_target.md): same source document (doc_0146)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

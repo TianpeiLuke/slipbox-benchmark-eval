@@ -13,6 +13,7 @@ The plaintiffs' rebuttal concedes the statute but disputes that Snap qualifies f
 
 ## Related Notes
 
+
 - [Brooke Badger's Fentanyl Overdose Death, 2021](brooke_badger_fentanyl_overdose_death_2021.md): drawn from the same source document (doc_0345).
 - [Ed Ternan's Case Against Suing Snap](ed_ternan_case_against_suing_snap.md): drawn from the same source document (doc_0345).
 - [Parent-Led Counterfeit Pill Awareness Campaigns](parent_led_counterfeit_pill_awareness_campaigns.md): drawn from the same source document (doc_0345).
@@ -20,6 +21,8 @@ The plaintiffs' rebuttal concedes the statute but disputes that Snap qualifies f
 - [Snapchat Design Features Alleged To Enable Drug Sales](snapchat_design_features_alleged_to_enable_drug_sales.md): drawn from the same source document (doc_0345).
 - [Snapchat's Perceived Safety For Teen Drug Purchases](snapchat_perceived_safety_for_teen_drug_purchases.md): drawn from the same source document (doc_0345).
 - [The Social Media Victims Law Center's Lawsuit Against Snap](social_media_victims_law_center_lawsuit_against_snap.md): drawn from the same source document (doc_0345).
+- [US Youth Fentanyl Overdose Death Statistics](us_youth_fentanyl_overdose_death_statistics.md): same source document (doc_0345)
+- [Section 230](term_section_230.md): uses the concept section 230
 
 ## Source
 

@@ -13,11 +13,16 @@ The second half was memorable mainly for misses. Gabriel Suazo squandered a glor
 
 ## Related Notes
 
+
 - [Liverpool 3-0 Brentford: Salah's 200th English Goal](liverpool_3_0_brentford_salah_200th_english_goal.md): also discusses Diogo Jota, from a different document.
 - [Liverpool Arsenal Draw at Anfield December 2023](liverpool_arsenal_draw_at_anfield_december_2023.md): also discusses Harvey Elliott and Trent Alexander-Arnold, from a different document.
 - [PGMOL Apologies 2023-24 Season Opening Months](pgmol_apologies_2023_24_season_opening_months.md): also discusses Curtis Jones and Diogo Jota, from a different document.
 - [Arsenal 2-1 Win at Sevilla Group B](arsenal_2_1_win_at_sevilla_group_b.md): the other English European away night covered alongside this one, from a different document.
 - [Gabriel Jesus' Goal and Assist Against Sevilla](gabriel_jesus_goal_and_assist_against_sevilla.md): the other English European performance covered alongside this one, from a different document.
+- [Bill Kenwright Tribute At Anfield](bill_kenwright_tribute_at_anfield.md): same source document (doc_0152)
+- [Europa Conference League Round-Up: Villa And Klaksvik](europa_conference_league_round_up_villa_and_klaksvik.md): same source document (doc_0152)
+- [Liverpool Beat Toulouse In The Europa League Group Stage](liverpool_beat_toulouse_in_europa_league_group.md): same source document (doc_0152)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

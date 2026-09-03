@@ -13,6 +13,7 @@ The distinguishing feature is how the real-world layer is used. Unlike in some o
 
 ## Related Notes
 
+
 - [How to Earn Pumpkin Tickets in Monster Hunter Now](how_to_earn_pumpkin_tickets_in_monster_hunter_now.md): covers an event in the same game, from a different source document
 - [Jack-O'-Head Armor Acquisition and Upgrades](jack_o_head_armor_acquisition_and_upgrades.md): another guide to the same game's event content
 - [Monster Hunter Now Halloween Event Overview](monster_hunter_now_halloween_event_overview.md): covers a live event in the same game, from a separate article
@@ -21,6 +22,8 @@ The distinguishing feature is how the real-world layer is used. Unlike in some o
 - [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
 - [Amnesia: The Bunker](amnesia_the_bunker.md): a fellow entry on the same ranked list
 - [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): another 2023 game from the same document
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
 
 ## Source
 

@@ -13,6 +13,7 @@ The third straight defeat left the Wildcats struggling at 2-4 for the season. Co
 
 ## Related Notes
 
+
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): Adelaide's next result, also covering Isaac Humphries
 - [Brisbane Bullets Beat Perth Wildcats NBL Round 5](brisbane_bullets_beat_perth_wildcats_nbl_round_5.md): another Perth defeat under John Rillie, different source document
 - [Aron Baynes Suspension Brisbane Bullets 2023](aron_baynes_suspension_brisbane_bullets_2023.md): another story in the same round-up, same source document
@@ -21,6 +22,7 @@ The third straight defeat left the Wildcats struggling at 2-4 for the season. Co
 - [Melbourne United Beat New Zealand Breakers Round 4](melbourne_united_beat_new_zealand_breakers_round_4.md): another round 4 result, same source document
 - [South East Melbourne Phoenix Beat Adelaide 36ers Round 4](south_east_melbourne_phoenix_beat_adelaide_36ers_round_4.md): the Thursday loss this win responded to, same source document
 - [South East Melbourne Phoenix Beat Brisbane Bullets Round 4](south_east_melbourne_phoenix_beat_brisbane_bullets_round_4.md): another round 4 result, same source document
+- [JackJumpers Set A Club-Record Score Beating The Kings](tasmania_jackjumpers_record_score_beat_sydney_kings_round_4.md): same source document (doc_0406)
 
 ## Source
 

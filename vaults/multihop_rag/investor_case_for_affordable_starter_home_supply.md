@@ -13,6 +13,7 @@ He also stresses the absence of competitors at that end of the market: "I haven'
 
 ## Related Notes
 
+
 - [Bank Of America Housing Turbulence Warning 2023](bank_of_america_housing_turbulence_warning_2023.md): overlapping coverage of affordability and the housing market, from a different source document.
 - [Housing Affordability Worse Than 2006 Peak](housing_affordability_worse_than_2006_peak.md): overlapping coverage of housing affordability, from a different source document.
 - [Housing Market: 1980s Analogy Rather Than 2008](housing_market_1980s_analogy_rather_than_2008.md): overlapping coverage of today's housing market, from a different source document.
@@ -21,6 +22,8 @@ He also stresses the absence of competitors at that end of the market: "I haven'
 - [The Affordable Housing Supply Gap For Low-Income Renters](affordable_housing_supply_gap_for_low_income_renters.md): drawn from the same source document (doc_0430), the demand-side statement of the same gap.
 - [Simply Homes AI Underwriting Model](simply_homes_ai_underwriting_model.md): drawn from the same source document (doc_0430), the method the investor is backing.
 - [Simply Homes Company Profile And Funding](simply_homes_company_profile_and_funding.md): drawn from the same source document (doc_0430), the company Gutter Capital co-led a round in.
+- [Simply Homes' Interest-Rate Underwriting Resilience](simply_homes_interest_rate_underwriting_resilience.md): same source document (doc_0430)
+- [Simply Homes' Operating Metrics And Markets](simply_homes_operating_metrics_and_markets.md): same source document (doc_0430)
 
 ## Source
 

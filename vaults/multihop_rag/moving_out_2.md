@@ -13,6 +13,7 @@ The job is attempting to move furniture, and other items, around some highly inc
 
 ## Related Notes
 
+
 - [Captain Toad: Treasure Tracker](captain_toad_treasure_tracker.md): another pick from the same couch co-op roundup
 - [Cat Quest 2](cat_quest_2.md): a fellow entry in the same Switch co-op article
 - [Crypt of the NecroDancer](crypt_of_the_necrodancer.md): another local co-op recommendation from the same document
@@ -21,6 +22,8 @@ The job is attempting to move furniture, and other items, around some highly inc
 - [Escape Academy](escape_academy.md): another co-op pick in the same list
 - [Good Job! (Nintendo Switch)](good_job_nintendo_switch.md): another chaotic-tasks co-op game in the same article
 - [Kirby and the Forgotten Land](kirby_and_the_forgotten_land.md): another Nintendo co-op title in the same roundup
+- [Lego Star Wars: The Skywalker Saga](lego_star_wars_the_skywalker_saga.md): same source document (doc_0428)
+- [Lovers in a Dangerous Spacetime](lovers_in_a_dangerous_spacetime.md): same source document (doc_0428)
 
 ## Source
 

@@ -11,12 +11,18 @@ Its layout is a triangle: a MagSafe pad charges iPhones at up to 15 watts at a s
 
 ## Related Notes
 
+
 - [AliveCor's EKG Import Ban And The PTAB Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): also concerns the Apple Watch, from a different source document.
 - [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): overlapping coverage of Anker chargers for Apple devices, from a different source document.
 - [Anker Prime Early Black Friday Charger Sale](anker_prime_early_black_friday_charger_sale.md): overlapping coverage of excellent Anker chargers, from a different source document.
 - [Anker Soundcore Liberty 4 NC Earbuds](anker_soundcore_liberty_4_nc_earbuds.md): overlapping coverage of Anker wireless gear alongside AirPods, from a different source document.
 - [Anker Soundcore Space A40 Earbuds](anker_soundcore_space_a40_earbuds.md): overlapping coverage of Anker wireless earbuds, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

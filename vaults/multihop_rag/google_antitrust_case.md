@@ -15,11 +15,19 @@ The trial is the venue in which the underlying numbers surface. Monday's hearing
 
 ## Related Notes
 
+
 - [The Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): also covers Sundar Pichai's role in the Apple search arrangement, from a different source document.
 - [Closed Sessions Limited The Public Record Of Cue's Testimony](closed_sessions_limited_the_public_record_of_cue_testimony.md): concerns testimony in the same search-engine dispute, from a different source document.
 - [The DOJ Theory That Google's Default Deals Foreclose Search Rivals](doj_theory_that_google_default_deals_foreclose_search_rivals.md): states the government's foreclosure theory in more detail, from a different source document.
 - [Eddy Cue's Testimony In US v. Google](eddy_cue_testimony_in_us_v_google.md): shares the antitrust and default-search-engine subject matter, from a different source document.
 - [The Epic v. Google Witness Lineup](epic_v_google_witness_lineup.md): also concerns Sundar Pichai as a testifying executive, from a different source document.
+- [What A Ruling Against Google Would Mean For Big Tech](big_tech_antitrust_outlook.md): same source document (doc_0237)
+- [Google's Agreement Not To Promote Chrome To Safari Users](google_apple_chrome_agreement.md): same source document (doc_0237)
+- [The Hypocrisy Argument: Google Became The Monopoly It Denounced](google_default_hypocrisy_argument.md): same source document (doc_0237)
+- [Google Paid $26.3 Billion In 2021 For Default Search Placement](google_default_search_payments.md): same source document (doc_0237)
+- [Google's Deleted Chat Logs Under A Litigation Hold](google_deleted_chat_logs.md): same source document (doc_0237)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [Default Search Engine](term_default_search_engine.md): uses the concept default search engine
 
 ## Source
 

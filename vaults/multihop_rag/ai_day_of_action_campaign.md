@@ -15,6 +15,7 @@ By the following week, on 2023-10-13, TechCrunch characterized the effort as a c
 
 ## Related Notes
 
+
 - [In-Car Camera Proposal](in_car_camera_proposal.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [Surveillance Privacy Tradeoff](surveillance_privacy_tradeoff.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [Twitch Advertising Strategy](twitch_advertising_strategy.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
@@ -22,6 +23,10 @@ By the following week, on 2023-10-13, TechCrunch characterized the effort as a c
 - [Twitch Partner Plus Program](twitch_partner_plus_program.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [Adobe Generative AI Tools](adobe_generative_ai_tools.md): drawn from the same source document (doc_0043).
 - [AI Copyright And Training Disputes](ai_copyright_and_training_disputes.md): drawn from the same source document (doc_0272); the grievances this campaign organizes around.
+- [Brave Software Lays Off 9% Of Its Workforce](brave_software_layoffs.md): same source document (doc_0043)
+- [Meta Quest 3 And The Affordable End Of AR/VR Hardware](consumer_ar_vr_hardware.md): same source document (doc_0043)
+- [Creative Industries AI Concerns](creative_industries_ai_concerns.md): same source document (doc_0272)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

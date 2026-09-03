@@ -13,6 +13,7 @@ The report also names one other returning captain: David Witt, who helped lead t
 
 ## Related Notes
 
+
 - [Alexei Popyrin's Davis Cup Breakthrough](alexei_popyrin_davis_cup_breakthrough.md): also discusses Lleyton Hewitt in his Davis Cup captaincy role, from a different document.
 - [Australia-Italy Davis Cup Final 2023 Preview](australia_italy_davis_cup_final_2023_preview.md): also discusses Lleyton Hewitt leading the Australian team, from a different document.
 - [Jannik Sinner's Double Win Over Djokovic In The Davis Cup](jannik_sinner_double_win_over_djokovic_davis_cup.md): also discusses Lleyton Hewitt and the same Australian squad, from a different document.
@@ -21,6 +22,8 @@ The report also names one other returning captain: David Witt, who helped lead t
 - [Becker's Claim That Kyrgios Owes His Career To Tennis Trailblazers](becker_claim_kyrgios_owes_career_to_tennis_trailblazers.md): another item in the same tennis news round-up.
 - [Corretja Doubts A Djokovic 2024 Golden Slam](corretja_doubts_djokovic_2024_golden_slam.md): another item in the same round-up.
 - [Djokovic On His Relationship With Federer And Nadal](djokovic_on_his_relationship_with_federer_and_nadal.md): another item in the same round-up.
+- [The Kyrgios-Becker Social Media Feud Of December 2023](kyrgios_becker_social_media_feud_december_2023.md): same source document (doc_0342)
+- [Kyrgios' Rebuttal That He Grew The Tennis Audience](kyrgios_rebuttal_that_he_grew_the_tennis_audience.md): same source document (doc_0342)
 
 ## Source
 

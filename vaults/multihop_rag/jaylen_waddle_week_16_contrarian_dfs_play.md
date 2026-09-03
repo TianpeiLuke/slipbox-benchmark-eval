@@ -11,6 +11,7 @@ The contrarian logic is that the writers expected Tyreek Hill to return that wee
 
 ## Related Notes
 
+
 - [Colts Backfield Split Zack Moss Jonathan Taylor Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): overlaps on projection-table statistics, from a different document.
 - [Dolphins 45-15 Commanders Week 13](dolphins_45_15_commanders_week_13.md): also discusses Tua Tagovailoa, from a different document.
 - [Dolphins Eagles First Half Live Blog](dolphins_eagles_first_half_live_blog.md): also discusses Waddle, Hill and Tagovailoa, from a different document.
@@ -18,6 +19,10 @@ The contrarian logic is that the writers expected Tyreek Hill to return that wee
 - [Dolphins Eagles Second Half Live Blog](dolphins_eagles_second_half_live_blog.md): also discusses Waddle, Hill and Tagovailoa, from a different document.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): the primary DFS pick this one contrasts with, from the same document.
 - [Curtis Samuel Week 16 Waiver Target](curtis_samuel_week_16_waiver_target.md): another entry in the same preview, from the same document.
+- [Deebo Samuel Yards Per Target Pace](deebo_samuel_yards_per_target_pace.md): same source document (doc_0146)
+- [Demario Douglas Week 16 Waiver Target](demario_douglas_week_16_waiver_target.md): same source document (doc_0146)
+- [Dontayvion Wicks Week 16 Waiver Target](dontayvion_wicks_week_16_waiver_target.md): same source document (doc_0146)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

@@ -13,6 +13,7 @@ An executive framed the same trend in terms of how the Eagles now win: "People a
 
 ## Related Notes
 
+
 - [Cole Kmet Week 6 2023 Start Recommendation](cole_kmet_week6_2023_start_recommendation.md): also concerns Dallas Goedert, from a different document.
 - [Cowboys Fantasy Start Recommendations Week 13](cowboys_fantasy_start_recommendations_week_13.md): also concerns Jalen Hurts, from a different document.
 - [Dallas Goedert Eagles Tight End Showdown Pick](dallas_goedert_eagles_tight_end_showdown_pick.md): also concerns Dallas Goedert, from a different document.
@@ -21,6 +22,8 @@ An executive framed the same trend in terms of how the Eagles now win: "People a
 - [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): drawn from the same document (doc_0316).
 - [Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): drawn from the same document (doc_0316).
 - [Buffalo Bills Defensive Injuries, 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): drawn from the same document (doc_0316).
+- [Cincinnati Bengals: Joe Burrow's Durability And The Line](cincinnati_bengals_joe_burrow_durability_and_line.md): same source document (doc_0316)
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
 
 ## Source
 

@@ -13,6 +13,7 @@ The Bayern game also showed one reason why Kane is at Germany's biggest club rat
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns Harry Kane in the Champions League, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns Harry Kane in the Champions League, from a different document.
 - [Calendar Year 2023 Top Goalscorer Race](calendar_year_2023_top_goalscorer_race.md): also concerns Harry Kane, from a different document.
@@ -21,6 +22,8 @@ The Bayern game also showed one reason why Kane is at Germany's biggest club rat
 - [Andre Onana Goalkeeping Errors in the 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): drawn from the same document (doc_0546).
 - [Erik Ten Hag Position After Champions League Exit](erik_ten_hag_position_after_champions_league_exit.md): drawn from the same document (doc_0546).
 - [Erik Ten Hag Selection U-Turns on Varane and Maguire](erik_ten_hag_selection_u_turns_varane_maguire.md): drawn from the same document (doc_0219).
+- [Manchester United's 1-0 Defeat To Bayern Munich, December 2023](manchester_united_bayern_munich_defeat_december_2023.md): same source document (doc_0546)
+- [Manchester United's 2023-24 Champions League Group-Stage Record](manchester_united_champions_league_group_stage_record_2023.md): same source document (doc_0546)
 
 ## Source
 

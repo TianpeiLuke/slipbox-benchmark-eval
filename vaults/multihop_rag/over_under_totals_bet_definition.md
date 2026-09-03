@@ -13,11 +13,19 @@ The category is broader than points. Over/under bets involve wagering on whether
 
 ## Related Notes
 
+
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): shares the NBA and sports betting odds themes, from a different document.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares the NBA and sports betting odds themes, from a different document.
 - [Caesars Sportsbook MLB Markets](caesars_sportsbook_mlb_markets.md): overlaps on totals and combined-score markets offered to bettors, from a different document.
 - [College Football Bowl Betting Market Types](college_football_bowl_betting_market_types.md): overlaps on totals as one of the combined-score betting markets, from a different document.
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): shares the NBA and sports betting odds themes and covers the spread alternative to totals, from a different document.
+- [Line Movement As A Signal Of Betting Value](line_movement_as_a_signal_of_betting_value.md): same source document (doc_0554)
+- [Over/Under Betting In MMA, Tennis And Golf](over_under_betting_in_mma_tennis_and_golf.md): same source document (doc_0554)
+- [Over/Under Totals By Team Sport](over_under_totals_by_team_sport.md): same source document (doc_0554)
+- [Reading A Totals Line And Its Odds](reading_a_totals_line_and_its_odds.md): same source document (doc_0554)
+- [Totals Bet Outcomes: Push And Overtime](totals_bet_outcomes_push_and_overtime.md): same source document (doc_0554)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

@@ -11,11 +11,22 @@ The Verge explains why they're the pick: compared with the base AirPods, the Pro
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): overlapping coverage of AirPods, USB-C and the earbuds, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery-life, charging and Black Friday themes, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares the Black Friday, discount and hardware themes, from a different source document.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the Black Friday and discount themes, from a different source document.
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): shares the Black Friday and discount themes, from a different source document.
+- [Amazon Echo Buds Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): same source document (doc_0369)
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

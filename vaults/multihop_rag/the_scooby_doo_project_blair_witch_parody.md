@@ -15,6 +15,7 @@ Critic AG argues it stands alongside the original Blair Witch not only as an imp
 
 ## Related Notes
 
+
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares the creator-economy topic tag despite unrelated subject matter
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): shares the creator-economy tag from a different document
@@ -23,6 +24,15 @@ Critic AG argues it stands alongside the original Blair Witch not only as an imp
 - [AI Training Fails the Fair Use Test](ai_training_fails_fair_use_test.md): shares the creator-economy tag from an unrelated document
 - [American Horror Story: NYC Season](american_horror_story_nyc_season.md): another TV entry in the same countdown
 - [AMO Scale Ambition and Product Roadmap](amo_scale_ambition_and_product_roadmap.md): shares the creator-economy tag from a separate source
+- [Apostle (Gareth Evans)](apostle_gareth_evans_folk_horror.md): same source document (doc_0165)
+- [Cat People (1942) and the Origin of the Jump Scare](cat_people_1942_jump_scare_origin.md): same source document (doc_0165)
+- [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): same source document (doc_0165)
+- [Curve (Tim Egan Horror Short)](curve_tim_egan_horror_short.md): same source document (doc_0165)
+- [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): same source document (doc_0165)
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0165)
+- [Ginger Snaps (Werewolf Body Horror)](ginger_snaps_werewolf_body_horror.md): same source document (doc_0165)
+- [Gravity Falls: Northwest Mansion Mystery](gravity_falls_northwest_mansion_mystery.md): same source document (doc_0165)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

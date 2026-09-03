@@ -13,12 +13,18 @@ Earlier in the season the Lions had ended Adelaide's unbeaten run with a three-p
 
 ## Related Notes
 
+
 - [Brayden Maynard's Collingwood Dynasty Ambition](brayden_maynard_collingwood_dynasty_ambition.md): also concerns the Brisbane Lions, from a different document.
 - [Joel Freijah, AFL Draft Prospect 2023](joel_freijah_afl_draft_prospect_2023.md): also concerns the Brisbane Lions, from a different document.
 - [Koltyn Tholstrup, AFL Draft Prospect 2023](koltyn_tholstrup_afl_draft_prospect_2023.md): also concerns the Brisbane Lions, from a different document.
 - [Lance Collard, AFL Draft Prospect 2023](lance_collard_afl_draft_prospect_2023.md): also concerns the Brisbane Lions, from a different document.
 - [AFLW 2023 Finals Qualification and Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): drawn from the same document (doc_0209).
 - [AFLW 2023 Tackle and Bump Suspension Debate](aflw_2023_tackle_and_bump_suspension_debate.md): drawn from the same document (doc_0208).
+- [Collingwood-Geelong's Wind And Rain Contest, 2023](collingwood_geelong_wind_and_rain_contest_2023.md): same source document (doc_0208)
+- [Erin Phillips' AFLW Retirement](erin_phillips_aflw_retirement.md): same source document (doc_0209)
+- [Geelong Cats' 2023 AFLW Finals Qualification](geelong_cats_2023_aflw_finals_qualification.md): same source document (doc_0209)
+- [Gold Coast Suns' Second AFLW Finals Appearance](gold_coast_suns_second_aflw_finals_appearance.md): same source document (doc_0209)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

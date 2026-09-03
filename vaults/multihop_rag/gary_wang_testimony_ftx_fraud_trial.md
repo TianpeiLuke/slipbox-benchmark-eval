@@ -11,6 +11,7 @@ Asked by Assistant U.S. Attorney Nicolas Roos, "Did you commit financial crimes 
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): another witness account involving Wang, from a different source document.
 - [Alameda 6.5 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the credit arrangement Wang described, from a different source document.
 - [Alameda Absorbed FTX Losses Mobilecoin](alameda_absorbed_ftx_losses_mobilecoin.md): also discusses Alameda Research, from a different source document.
@@ -18,6 +19,12 @@ Asked by Assistant U.S. Attorney Nicolas Roos, "Did you commit financial crimes 
 - [Alameda Research](alameda_research.md): also discusses Alameda Research, from a different source document.
 - [Adam Yedidia Testimony and the Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): another note drawn from the same source document (doc_0226).
 - [Alameda's Special Privileges in FTX's Code](alameda_special_privileges_in_ftx_code.md): the substance of what Wang told the court (doc_0226).
+- [FTX's Final Days And The Alameda Shortfall, As Wang Described Them](ftx_final_days_and_alameda_shortfall.md): same source document (doc_0226)
+- [Matt Huang And Paradigm's FTX Investment](matt_huang_paradigm_ftx_investment.md): same source document (doc_0226)
+- [Sam Bankman-Fried's Federal Fraud Trial](sam_bankman_fried_federal_fraud_trial.md): same source document (doc_0226)
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Plea Agreement](term_plea_agreement.md): uses the concept plea agreement
 
 ## Source
 

@@ -11,6 +11,7 @@ The forecast attached to this warning is qualified. Bank of America had previous
 
 ## Related Notes
 
+
 - [Affordable Housing Supply Gap For Low-Income Renters](affordable_housing_supply_gap_for_low_income_renters.md): overlapping coverage of housing, rates and mortgages from a different source document.
 - [The Case For Raising The Inflation Target](case_for_raising_the_inflation_target.md): overlapping coverage of rates and bank economists, from a different source document.
 - [Housing Affordability Worse Than The 2006 Peak](housing_affordability_worse_than_2006_peak.md): overlapping coverage of housing, rates and affordability, from a different source document.
@@ -19,6 +20,8 @@ The forecast attached to this warning is qualified. Bank of America had previous
 - [Housing Market 1980s Analogy Rather Than 2008](housing_market_1980s_analogy_rather_than_2008.md): drawn from the same source document (doc_0112).
 - [Millennials As The New Boomer Homebuying Cohort](millennials_as_the_new_boomer_homebuying_cohort.md): drawn from the same source document (doc_0112).
 - [US Home Price Peak And Partial Recovery 2022-2023](us_home_price_peak_and_partial_recovery_2022_2023.md): drawn from the same source document (doc_0112).
+- [Volcker's And Powell's Rate-Hiking Cycles Compared](volcker_and_powell_rate_hiking_cycles_compared.md): same source document (doc_0112)
+- [Why 2023 Is Not A Repeat Of The 2008 Housing Crash](why_2023_is_not_a_repeat_of_the_2008_housing_crash.md): same source document (doc_0112)
 
 ## Source
 

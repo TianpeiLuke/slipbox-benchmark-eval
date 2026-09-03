@@ -13,12 +13,18 @@ Sporting News characterised it as not exactly breaking news, since rumors had be
 
 ## Related Notes
 
+
 - [Eduardo Rodriguez Signs with Diamondbacks](eduardo_rodriguez_signs_with_diamondbacks.md): also cites Jeff Passan's reporting, from a different document.
 - [Kansas City Royals 2023 Offseason Signings](kansas_city_royals_2023_offseason_signings.md): also cites Jeff Passan's reporting, from a different document.
 - [Lourdes Gurriel Jr. Diamondbacks Re-Signing](lourdes_gurriel_jr_diamondbacks_re_signing.md): also cites Jeff Passan's reporting, from a different document.
 - [MLB 2023-24 Offseason Market Overview](mlb_2023_24_offseason_market_overview.md): also discusses Yoshinobu Yamamoto's market, from a different document.
 - [MLB 2023 Offseason Starting Pitcher Trade Market](mlb_2023_offseason_starting_pitcher_trade_market.md): also cites Jeff Passan and the Red Sox, from a different document.
 - [Alternative Reading of the Mariners Ohtani Leak](alternative_reading_of_the_mariners_ohtani_leak.md): another item from the same rumor tracker, from the same document.
+- [The Cubs' Ohtani Fit After The NL Designated Hitter](cubs_ohtani_fit_after_nl_designated_hitter.md): same source document (doc_0480)
+- [An Early Ohtani Signing Would Reshape The Offseason](early_ohtani_signing_would_reshape_the_offseason.md): same source document (doc_0480)
+- [The Mariners Reported Out Of The Ohtani Chase](mariners_reported_out_of_the_ohtani_chase.md): same source document (doc_0480)
+- [Ohtani's Camp Secrecy And The Reporting Blackout](ohtani_camp_secrecy_and_reporting_blackout.md): same source document (doc_0480)
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

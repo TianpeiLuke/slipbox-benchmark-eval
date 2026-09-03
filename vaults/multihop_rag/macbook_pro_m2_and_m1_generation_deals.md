@@ -13,11 +13,19 @@ Two-generation-old 2021 MacBook Pros could occasionally be had at steep enough d
 
 ## Related Notes
 
+
 - [Amazon Fire HD 8 and Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): shares the discount-and-MSRP listing format, from a different source document.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the discount-and-MSRP listing format, from a different source document.
 - [Apple AirPods Max Holiday Deal](apple_airpods_max_holiday_deal.md): shares the discount-and-MSRP listing format, from a different source document.
 - [Apple AirPods Second, Third Gen and AirPods Max Deals](apple_airpods_second_third_gen_and_airpods_max_deals.md): shares the discount-and-MSRP listing format, from a different source document.
 - [Apple iPad Ninth Generation Deal Listings](apple_ipad_ninth_generation_deal_listings.md): shares the discount-and-MSRP listing format, from a different source document.
+- [Mac Mini M2 Deals](mac_mini_m2_deals.md): same source document (doc_0351)
+- [MacBook Air M1 And M2 Deals](macbook_air_m1_and_m2_deals.md): same source document (doc_0351)
+- [MacBook Pricing And Discount Landscape](macbook_pricing_and_discount_landscape.md): same source document (doc_0351)
+- [MacBook Pro M3 Generation Deals](macbook_pro_m3_generation_deals.md): same source document (doc_0351)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

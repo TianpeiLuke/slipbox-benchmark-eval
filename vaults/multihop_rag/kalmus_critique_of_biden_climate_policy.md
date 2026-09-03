@@ -11,6 +11,7 @@ His frustration extends beyond the administration: not his suburban neighbours i
 
 ## Related Notes
 
+
 - [AfroFuture Foundation Philanthropy Programmes](afrofuture_foundation_philanthropy_programmes.md): also references United Nations programmes.
 - [Apple-Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): another item involving President Joe Biden.
 - [Biden-Xi San Francisco Summit, November 2023](biden_xi_san_francisco_summit_november_2023.md): another item involving President Joe Biden.
@@ -19,6 +20,8 @@ His frustration extends beyond the administration: not his suburban neighbours i
 - [Amazon Rainforest Tipping Point](amazon_rainforest_tipping_point.md): from the same article, on the outcomes he says current policy risks.
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): from the same article, on the public's own climate concern.
 - [Climate Grief Conversation at the Homestead](climate_grief_conversation_at_the_homestead.md): from the same article, on the despair that accompanies this critique.
+- [Daily Life at the Possibility Alliance](daily_life_at_the_possibility_alliance.md): same source document (doc_0233)
+- [Kalmus's Civil Disobedience and Arrests](kalmus_civil_disobedience_and_arrests.md): same source document (doc_0233)
 
 ## Source
 

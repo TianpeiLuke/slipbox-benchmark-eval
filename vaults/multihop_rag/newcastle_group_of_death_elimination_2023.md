@@ -13,11 +13,16 @@ The report's assessment is that Newcastle can nevertheless depart the competitio
 
 ## Related Notes
 
+
 - [AC Milan 2-0 Win Over Lazio and Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): also concerns Christian Pulisic, from a different document.
 - [Arsenal 2-1 Win at Sevilla, Group B](arsenal_2_1_win_at_sevilla_group_b.md): also concerns the Europa League, from a different document.
 - [Atalanta 3-2 AC Milan](atalanta_3_2_ac_milan.md): also concerns Christian Pulisic, from a different document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns Bayern Munich in the Champions League, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns Bayern Munich in the Champions League, from a different document.
+- [Joelinton's Reinvention In Newcastle's Midfield](joelinton_newcastle_midfield_reinvention.md): same source document (doc_0425)
+- [Newcastle's Champions League Defeat To AC Milan](newcastle_ac_milan_champions_league_defeat_2023.md): same source document (doc_0425)
+- [Newcastle's Squad-Depth Deficit In Europe](newcastle_squad_depth_deficit_in_europe.md): same source document (doc_0425)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

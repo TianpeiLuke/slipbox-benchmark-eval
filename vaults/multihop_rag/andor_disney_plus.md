@@ -13,6 +13,7 @@ Critic Toussaint Egan writes that Diego Luna, much like his character Cassian An
 
 ## Related Notes
 
+
 - [Amazon Prime Free Games and DLC](amazon_prime_free_games_and_dlc.md): both discuss Star Wars properties, from a different source document
 - [Apostle (Gareth Evans Folk Horror)](apostle_gareth_evans_folk_horror.md): both reference Rogue One, from a separate article
 - [Crimes of the Future (2022, David Cronenberg)](crimes_of_the_future_2022_david_cronenberg.md): another write-up by the same critic, Toussaint Egan
@@ -21,6 +22,8 @@ Critic Toussaint Egan writes that Diego Luna, much like his character Cassian An
 - [Castlevania: Nocturne (Netflix)](castlevania_nocturne_netflix.md): the Netflix pick in the same streaming roundup
 - [Gen V (Prime Video)](gen_v_prime_video.md): the Prime Video pick from the same article
 - [Hijack (Apple TV Plus)](hijack_apple_tv_plus.md): the Apple TV Plus pick in the same document
+- [Scope and Update Policy of Polygon's Best New Streaming Series Roundup](polygon_best_new_streaming_series_roundup_scope.md): same source document (doc_0185)
+- [Reservation Dogs (Hulu)](reservation_dogs_hulu.md): same source document (doc_0185)
 
 ## Source
 

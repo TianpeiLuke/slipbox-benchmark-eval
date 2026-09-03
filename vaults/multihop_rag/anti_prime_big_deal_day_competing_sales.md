@@ -11,11 +11,18 @@ In some cases retailers are matching Amazon's pricing, meaning shoppers can scor
 
 ## Related Notes
 
+
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): also covers Echo Pop, Prime Day, from a different source document.
 - [Amazon Kindle and Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): also covers Prime Day, from a different source document.
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): also covers Prime Day, from a different source document.
 - [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): also covers Prime Day, from a different source document.
 - [Amazon Prime Membership Requirement for Prime Day](amazon_prime_membership_requirement_for_prime_day.md): also covers Prime Day, from a different source document.
+- [Echo Show 5 And Nest Hub Smart Display Deals](echo_show_5_and_nest_hub_smart_display_deals.md): same source document (doc_0584)
+- [InZone H9 And Seagate Xbox Expansion Card Deals](inzone_h9_and_seagate_xbox_expansion_card_deals.md): same source document (doc_0584)
+- [iPad And Kindle Oasis Deals During Prime Big Deal Day](ipad_and_kindle_oasis_deals_prime_day.md): same source document (doc_0584)
+- [Ring And Blink Security Camera And Doorbell Deals](ring_and_blink_security_camera_and_doorbell_deals.md): same source document (doc_0584)
+- [Samsung Frame TV And Roku Streambar Deals](samsung_frame_tv_and_roku_streambar_deals.md): same source document (doc_0584)
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
 
 ## Source
 

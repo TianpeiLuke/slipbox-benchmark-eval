@@ -11,6 +11,7 @@ The test battery also delivered some surprising results. "The adhesion between t
 
 ## Related Notes
 
+
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): connected through a shared battery-technology tag.
 - [8BitDo Ultimate Bluetooth Hall Effect Controller](8bitdo_ultimate_bluetooth_hall_effect_controller.md): connected through a shared battery-technology tag.
 - [AirPods Pro (Second Generation) Deal Listings](airpods_pro_second_generation_deal_listings.md): connected through a shared battery-technology tag.
@@ -19,6 +20,12 @@ The test battery also delivered some surprising results. "The adhesion between t
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): connected through a shared battery-technology tag.
 - [Anker 2-in-1 MagSafe Standby Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): connected through a shared battery-technology tag.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): connected through a shared battery-technology tag.
+- [Barriers to Commercializing Zinc-Iodine Batteries](barriers_to_commercializing_zinc_iodine_batteries.md): same source document (doc_0286)
+- [Hetero-Polyionic Hydrogel Electrolyte Design](hetero_polyionic_hydrogel_electrolyte_design.md): same source document (doc_0286)
+- [Lithium-Ion Battery Demand and Thermal Runaway Risk](lithium_ion_battery_demand_and_thermal_runaway_risk.md): same source document (doc_0286)
+- [Zinc-Iodine Battery Advantages and the Dendrite Problem](zinc_iodine_battery_advantages_and_dendrite_problem.md): same source document (doc_0286)
+- [The Zincophilic and Iodophilic Hydrogel Mechanism](zincophilic_and_iodophilic_hydrogel_mechanism.md): same source document (doc_0286)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

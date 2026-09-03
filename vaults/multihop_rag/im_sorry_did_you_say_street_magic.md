@@ -11,11 +11,17 @@ The whimsically illustrated rulebook lays out the tools by which you lay bricks 
 
 ## Related Notes
 
+
 - [Exquisite Biome](exquisite_biome_worldbuilding_ttrpg.md): same source; the other Caro Asercion game in the list.
 - [City Of Winter](city_of_winter_ttrpg.md): same source; another game whose map anchors collaborative storytelling.
 - [Dead After Dinner](dead_after_dinner_ttrpg.md): drawn from the same source document (doc_0591).
 - [Desperation](desperation_ttrpg_jason_morningstar.md): drawn from the same source document (doc_0591).
 - [Dungeon Crawl Classics](dungeon_crawl_classics_rpg.md): drawn from the same source document (doc_0591).
+- [Dungeons & Dragons In 2023](dungeons_and_dragons_2023_play_experiences.md): same source document (doc_0591)
+- [Eating Oranges In The Shower](eating_oranges_in_the_shower_larp.md): same source document (doc_0591)
+- [Fetch My Blade](fetch_my_blade_solo_journaling_rpg.md): same source document (doc_0591)
+- [Home](home_haunted_house_ttrpg.md): same source document (doc_0591)
+- [Marvel Multiverse Role-Playing Game](marvel_multiverse_role_playing_game.md): same source document (doc_0591)
 
 ## Source
 

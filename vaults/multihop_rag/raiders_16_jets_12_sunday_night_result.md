@@ -13,6 +13,7 @@ It was not the quarterback showdown many might have expected in the preseason, w
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): tracks the Raiders and Jets in the same wild-card picture, from a different document.
 - [Baker Mayfield Zone Coverage and Four-Level Passing](baker_mayfield_zone_coverage_and_four_level_passing.md): overlaps on touchdowns, passing yards and field play, from a different document.
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): also discusses Las Vegas, from a different document.
@@ -21,6 +22,8 @@ It was not the quarterback showdown many might have expected in the preseason, w
 - [Jets and Raiders Week 10 Season Implications](jets_and_raiders_week_10_season_implications.md): what this result meant for both seasons, from the same document.
 - [Jets Final Drive and Spillane Interception](jets_final_drive_and_spillane_interception.md): the late interception that sealed it, from the same document.
 - [Jets Raiders Broadcast and Kickoff Details](jets_raiders_broadcast_and_kickoff_details.md): the broadcast details for this game, from the same document.
+- [Jets-Raiders First Quarter Field Goals And Interception](jets_raiders_first_quarter_field_goals_and_interception.md): same source document (doc_0439)
+- [Jets-Raiders Second Quarter Scoring](jets_raiders_second_quarter_scoring.md): same source document (doc_0439)
 
 ## Source
 

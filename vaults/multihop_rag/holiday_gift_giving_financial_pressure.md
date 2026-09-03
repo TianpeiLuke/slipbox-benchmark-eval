@@ -11,6 +11,7 @@ Plauché, who is both a mom and a new grad with a salary to match, says she can 
 
 ## Related Notes
 
+
 - [Console Gift Card Black Friday Deals](console_gift_card_black_friday_deals.md): overlaps on gifts for family and loved ones, from a different source document.
 - [Last Minute Digital Gifts and Subscriptions Guide](last_minute_digital_gifts_and_subscriptions_guide.md): another treatment of gift-giving under time and money pressure, from a different source document.
 - [Communicating Financial Limits With Family](communicating_financial_limits_with_family.md): the recommended next step after acknowledging the pressure (doc_0251).
@@ -19,6 +20,7 @@ Plauché, who is both a mom and a new grad with a salary to match, says she can 
 - [Fifty Thirty Twenty Budgeting Method](fifty_thirty_twenty_budgeting_method.md): the budgeting technique offered as a remedy (doc_0251).
 - [Low Cost Homemade Gift Alternatives](low_cost_homemade_gift_alternatives.md): another note drawn from the same source document (doc_0251).
 - [Responsible Credit Card Use During Holidays](responsible_credit_card_use_during_holidays.md): another note drawn from the same source document (doc_0251).
+- [Student Loan Borrowers Curtailing Holiday Gift Spending](student_loan_borrowers_curtailing_holiday_gift_spending.md): same source document (doc_0251)
 
 ## Source
 

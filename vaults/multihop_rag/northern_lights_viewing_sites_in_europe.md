@@ -15,11 +15,16 @@ One of the most unique places to see the display is the Jökulsárlón Glacier L
 
 ## Related Notes
 
+
 - [Aurora Displays Over Britain and Ireland, November 2023](aurora_displays_over_britain_and_ireland_november_2023.md): overlapping coverage of the Aurora Borealis, from a different source document.
 - [Aurora Sightings Beyond Usual Latitudes](aurora_sightings_beyond_usual_latitudes_greece_turkey_australia.md): overlapping coverage of where the Northern Lights can be seen, from a different source document.
 - [Cairngorms Dark Sky Aurora Viewing](cairngorms_dark_sky_aurora_viewing.md): also concerns the Northern Lights, from a different source document.
 - [Hebrides Aurora Viewing](hebrides_aurora_viewing.md): overlapping coverage of aurora viewing sites, from a different source document.
 - [How Geomagnetic Storms Produce Auroras](how_geomagnetic_storms_produce_auroras.md): overlapping coverage of the aurora mechanism, from a different source document.
+- [Northern Lights Viewing Conditions](northern_lights_viewing_conditions.md): same source document (doc_0326)
+- [Northern Lights Viewing Sites in the United States](northern_lights_viewing_sites_in_the_united_states.md): same source document (doc_0326)
+- [The Solar Cycle Peak and Stronger Auroras](solar_cycle_peak_and_stronger_auroras.md): same source document (doc_0326)
+- [Recommendation Algorithm](term_recommendation_algorithm.md): uses the concept recommendation algorithm
 
 ## Source
 

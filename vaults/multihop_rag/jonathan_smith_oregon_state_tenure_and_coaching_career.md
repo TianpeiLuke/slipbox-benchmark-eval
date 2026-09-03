@@ -11,11 +11,18 @@ His path to that job ran through multiple assistant jobs from 2002-17 before he 
 
 ## Related Notes
 
+
 - [2023 Bowl Season Completed Game Results](2023_bowl_season_completed_game_results.md): also covers Boise State, where Smith coached quarterbacks, from a different source document.
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): shares the Oregon, Washington and Pac-12 subject matter, from a different source document.
 - [Alabama 2023 CFP Case and SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): also covers the College Football Playoff, from a different source document.
 - [Alabama CFP Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also covers the College Football Playoff, from a different source document.
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): also covers the College Football Playoff, from a different source document.
+- [Mel Tucker's Firing And Michigan State's Decline Since Mark Dantonio](mel_tucker_firing_and_michigan_state_decline.md): same source document (doc_0411)
+- [Michigan State's 2024 Schedule Under A Division-Free, Expanded Big Ten](michigan_state_2024_schedule_after_big_ten_expansion.md): same source document (doc_0411)
+- [Michigan State Hires Jonathan Smith Away From Oregon State](michigan_state_hires_jonathan_smith_2023.md): same source document (doc_0411)
+- [Oregon State Loses Its Coach While The Pac-12 Loses Ten Of Twelve Members](oregon_state_coaching_search_and_pac_12_breakup.md): same source document (doc_0411)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Contract Extension](term_contract_extension.md): uses the concept contract extension
 
 ## Source
 

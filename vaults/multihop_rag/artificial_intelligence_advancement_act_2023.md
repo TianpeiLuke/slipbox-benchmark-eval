@@ -13,6 +13,7 @@ The financial-services provision lands on a problem the SEC's own chairman has b
 
 ## Related Notes
 
+
 - [AI Civil Rights And Consumer Protections In The EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): part of the same 2023 US federal AI policy push, from a different source document.
 - [AI Threats To Critical Infrastructure Provisions](ai_threats_to_critical_infrastructure_provisions.md): part of the same 2023 US federal AI policy push, from a different source document.
 - [AI Worker Protections And Federal AI Hiring](ai_worker_protections_and_federal_ai_hiring.md): part of the same 2023 US federal AI policy push, from a different source document.
@@ -21,6 +22,7 @@ The financial-services provision lands on a problem the SEC's own chairman has b
 - [Organized Labor Pushback On AI Deployment](organized_labor_pushback_on_ai_deployment.md): drawn from the same source document (doc_0312).
 - [The Schatz-Kennedy AI Labeling Act](schatz_kennedy_ai_labeling_act.md): drawn from the same source document (doc_0312).
 - [Schumer's SAFE Innovation Framework](schumer_safe_innovation_framework.md): drawn from the same source document (doc_0312).
+- [Second Senate AI Insight Forum, October 2023](senate_ai_insight_forum_second_session.md): same source document (doc_0312)
 
 ## Source
 

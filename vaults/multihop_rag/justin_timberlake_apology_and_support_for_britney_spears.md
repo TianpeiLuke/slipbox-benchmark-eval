@@ -11,6 +11,7 @@ In June 2021 he also backed Spears after she testified publicly in a bid to end 
 
 ## Related Notes
 
+
 - [Britney Spears Conservatorship Under Jamie Spears](britney_spears_conservatorship_under_jamie_spears.md): the arrangement Timberlake spoke out against, from separate reporting
 - [Britney Spears Memoir Barbs At Timberlake And Federline](britney_spears_memoir_barbs_at_timberlake_and_federline.md): the memoir's later, less forgiving account of Timberlake
 - [FreeBritney Movement And Conservatorship Termination 2021](freebritney_movement_and_conservatorship_termination_2021.md): the campaign and hearing this support was offered during
@@ -19,6 +20,8 @@ In June 2021 he also backed Spears after she testified publicly in a bid to end 
 - [Britney Spears Adnan Ghalib Relationship](britney_spears_adnan_ghalib_relationship.md): another relationship from the same timeline article
 - [Britney Spears And Justin Timberlake Relationship](britney_spears_and_justin_timberlake_relationship.md): the relationship this apology looks back on
 - [Britney Spears Charlie Ebersol Relationship](britney_spears_charlie_ebersol_relationship.md): a further entry in the same relationship timeline
+- [Britney Spears And David Lucado](britney_spears_david_lucado_relationship.md): same source document (doc_0051)
+- [Britney Spears' 55-Hour Marriage To Jason Alexander](britney_spears_jason_alexander_55_hour_marriage.md): same source document (doc_0051)
 
 ## Source
 

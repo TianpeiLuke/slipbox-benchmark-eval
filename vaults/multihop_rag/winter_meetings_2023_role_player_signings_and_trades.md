@@ -13,11 +13,19 @@ Also on Tuesday, Dec. 5, Jeff Passan of ESPN reported Marco Gonzales — acquire
 
 ## Related Notes
 
+
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): also cites Ken Rosenthal, from a different document.
 - [Braves Release Matt Carpenter](braves_release_matt_carpenter.md): also cites Ken Rosenthal, from a different document.
 - [Cody Bellinger Free Agent Market and Suitors](cody_bellinger_free_agent_market_and_suitors.md): also cites Jesse Rogers, from a different document.
 - [Cubs Ohtani Fit After NL Designated Hitter](cubs_ohtani_fit_after_nl_designated_hitter.md): also cites Jesse Rogers, from a different document.
 - [Jack Flaherty Tigers One-Year Deal](jack_flaherty_tigers_one_year_deal.md): another one-year pitcher signing reported in the same format, from a different document.
+- [Braves Land Jarred Kelenic And Marco Gonzales From The Mariners](braves_acquire_jarred_kelenic_from_mariners.md): same source document (doc_0120)
+- [Diamondbacks Land Eduardo Rodriguez On A Four-Year Deal](eduardo_rodriguez_signs_with_diamondbacks.md): same source document (doc_0120)
+- [Juan Soto Traded From The Padres To The Yankees](juan_soto_traded_from_padres_to_yankees.md): same source document (doc_0120)
+- [Jung Hoo Lee Posted From The KBO To MLB](jung_hoo_lee_kbo_posting_to_mlb.md): same source document (doc_0120)
+- [Mariners' Cleared Payroll Space And Winter Meetings Trade Talks](mariners_offseason_payroll_space_and_trade_talks.md): same source document (doc_0120)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Contract Extension](term_contract_extension.md): uses the concept contract extension
 
 ## Source
 

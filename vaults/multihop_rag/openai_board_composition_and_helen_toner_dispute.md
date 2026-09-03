@@ -11,11 +11,18 @@ The New York Times reported that, before his ousting, Altman made a move to push
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also covers Sam Altman, from a different source document.
 - [Anthropic Founding by OpenAI Researchers](anthropic_founding_by_openai_researchers.md): also covers Sam Altman, from a different source document.
 - [ChatGPT 100 Million User Milestone](chatgpt_100_million_user_milestone.md): also covers Sam Altman, from a different source document.
 - [ChatGPT Adoption Milestones and Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): also covers Sam Altman, from a different source document.
 - [ChatGPT Launch and First Year Evolution](chatgpt_launch_and_first_year_evolution.md): also covers Sam Altman, from a different source document.
+- [Greg Brockman Departure From OpenAI](greg_brockman_departure_from_openai.md): same source document (doc_0415)
+- [The Microsoft-OpenAI Partnership And Microsoft's Response To The Firing](microsoft_openai_partnership_and_response_to_firing.md): same source document (doc_0415)
+- [OpenAI Board's Merger Approach To Anthropic](openai_board_merger_approach_to_anthropic.md): same source document (doc_0415)
+- [OpenAI Board Negotiations Over Altman Reinstatement](openai_board_negotiations_over_altman_reinstatement.md): same source document (doc_0415)
+- [OpenAI Denial Of Malfeasance In Altman Ouster](openai_denial_of_malfeasance_in_altman_ouster.md): same source document (doc_0415)
+- [Generative AI Guardrails](term_generative_ai_guardrails.md): uses the concept generative ai guardrails
 
 ## Source
 

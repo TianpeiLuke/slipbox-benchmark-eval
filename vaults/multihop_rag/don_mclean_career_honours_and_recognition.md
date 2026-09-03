@@ -13,6 +13,7 @@ McLean has sold over 50 million albums worldwide, according to press information
 
 ## Related Notes
 
+
 - [Country Music Couples' Marriage Advice](country_music_couples_marriage_advice_roundup.md): also concerns Garth Brooks, from a different source document.
 - [Garth Brooks and Trisha Yearwood's Marriage](garth_brooks_and_trisha_yearwood_marriage.md): also concerns Garth Brooks, from a different source document.
 - [Carol of the Bells and Its Biblical Roots](carol_of_the_bells_biblical_roots.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
@@ -21,6 +22,8 @@ McLean has sold over 50 million albums worldwide, according to press information
 - [American Pie's Billboard Record and Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): drawn from the same source document, doc_0393, and covers the song these honours turn on.
 - [Don McLean's Christmas Memories Album](don_mclean_christmas_memories_album.md): drawn from the same source document, doc_0393.
 - [Don McLean on the Emotional Power of Music](don_mclean_on_the_emotional_power_of_music.md): drawn from the same source document, doc_0393.
+- [Don McLean's Upcoming Albums and Touring](don_mclean_upcoming_albums_and_touring.md): same source document (doc_0393)
+- [Don McLean's "Vincent" and the Children's Book](don_mclean_vincent_song_and_childrens_book.md): same source document (doc_0393)
 
 ## Source
 

@@ -11,6 +11,7 @@ Drawing directly on conversations she'd had with Lena, the song blends scenes of
 
 ## Related Notes
 
+
 - [Catherine Called Birdy 2022 Lena Dunham Comedy](catherine_called_birdy_2022_lena_dunham_comedy.md): also concerns Lena Dunham, from a different source document
 - [HSF Q4 2023 Catalogue Revenue Drivers](hsf_q4_2023_catalogue_revenue_drivers.md): also mentions Jack Antonoff, from a different document
 - [All You Had To Do Was Stay](all_you_had_to_do_was_stay_taylor_swift_song.md): another 1989 track from the same BBC article
@@ -19,6 +20,8 @@ Drawing directly on conversations she'd had with Lena, the song blends scenes of
 - [Clean, Written With Imogen Heap](clean_taylor_swift_song_imogen_heap.md): another 1989 track from the same BBC article
 - [How You Get The Girl](how_you_get_the_girl_taylor_swift_song.md): another 1989 track from the same BBC article
 - [I Know Places](i_know_places_taylor_swift_song.md): another 1989 track from the same BBC article
+- [I Wish You Would: A 2am Song Whose Real Story Runs In Reverse](i_wish_you_would_taylor_swift_song.md): same source document (doc_0257)
+- [New Romantics: The Beloved Anthem Swift Initially Held Back](new_romantics_taylor_swift_song.md): same source document (doc_0257)
 
 ## Source
 

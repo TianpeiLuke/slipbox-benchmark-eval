@@ -15,11 +15,19 @@ Seeking Alpha author Mike Zaccardi supplied the bull case, contending that Broad
 
 ## Related Notes
 
+
 - [Alphabet Q3 2023 Earnings Preview](alphabet_q3_2023_earnings_preview.md): same Consensus Revenue Estimates and Earnings Insight preview structure on a large-cap tech name, from a different source document.
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): another consensus-estimate and beat-history preview for comparison, from a different source document.
 - [Boeing Q3 2023 Earnings Preview and 737 MAX Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): pairs the same estimate-and-Earnings-Insight framing with a company-specific operational story, from a different source document.
 - [Chevron and Exxon Mobil Q3 2023 Earnings Preview](chevron_and_exxon_mobil_q3_2023_earnings_preview.md): another Seeking Alpha preview contrasting a Quant Rating with sell-side consensus, from a different source document.
 - [Cleveland-Cliffs Q3 2023 Earnings Preview](cleveland_cliffs_q3_2023_earnings_preview.md): a parallel consensus-estimate and Earnings Insight preview, from a different source document.
+- [December 2023 Earnings Week Secondary Reporters](december_2023_earnings_week_secondary_reporters.md): same source document (doc_0581)
+- [DocuSign Q3 Earnings Preview, December 2023](docusign_q3_fy2024_earnings_preview.md): same source document (doc_0581)
+- [Earnings Week Ahead: December 4-8, 2023](earnings_week_ahead_december_4_8_2023.md): same source document (doc_0581)
+- [GameStop Meme Stock Rally, December 2023](gamestop_meme_stock_rally_december_2023.md): same source document (doc_0581)
+- [GameStop Q3 Earnings Preview, December 2023](gamestop_q3_fy2023_earnings_preview.md): same source document (doc_0581)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

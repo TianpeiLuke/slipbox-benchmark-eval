@@ -13,11 +13,18 @@ FC Cincinnati goalkeeper Roman Celentano offered his own verdict: "Luciano Acost
 
 ## Related Notes
 
+
 - [Argentina First Half Dominance vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): also references the Red Bulls.
 - [Chicago Fire Inter Miami Second Half Live Blog](chicago_fire_inter_miami_second_half_live_blog.md): also concerns Major League Soccer.
 - [Inter Miami Ticket Prices vs Global Football and US Sports](inter_miami_ticket_prices_vs_global_football_and_us_sports.md): also concerns Major League Soccer.
 - [Kei Kamara Chicago Fire Role and Scoring Record](kei_kamara_chicago_fire_role_and_scoring_record.md): another MLS scoring-race item.
 - [Prop Bet Examples by Sport](prop_bet_examples_by_sport.md): also references Major League Soccer.
+- [FC Cincinnati Won The 2023 Supporters' Shield As Regular Season Champions](fc_cincinnati_2023_supporters_shield.md): same source document (doc_0088)
+- [Inter Miami Lose 1-0 To FC Cincinnati And Fall Out Of The Playoff Race](inter_miami_0_1_fc_cincinnati_october_2023_recap.md): same source document (doc_0088)
+- [Inter Miami Eliminated From The 2023 MLS Playoff Race With Two Games Left](inter_miami_2023_mls_playoff_elimination.md): same source document (doc_0088)
+- [Inter Miami Supporters Protested The 2024 Price Hike By Sitting In Silence](inter_miami_fan_backlash_to_2024_ticket_prices.md): same source document (doc_0088)
+- [Inter Miami-FC Cincinnati First Half: Three Times Off The Woodwork, Still 0-0](inter_miami_fc_cincinnati_first_half_live_blog.md): same source document (doc_0088)
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
 
 ## Source
 

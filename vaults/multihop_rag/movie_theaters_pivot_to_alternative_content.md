@@ -13,11 +13,20 @@ Greg Marcus states the underlying business redefinition: "You could say we're in
 
 ## Related Notes
 
+
 - [England 132 All Out In The T20 Series Decider](england_132_all_out_t20_series_decider.md): shares the strike-and-tour disruption theme from a different source document.
 - [Eras Tour Scale And Swift's Preparation Regimen](eras_tour_scale_and_swift_preparation_regimen.md): overlapping coverage of the Eras Tour, from a different source document.
 - [EsfandTV Sports Streaming Channel](esfandtv_sports_streaming_channel.md): shares the streaming-service theme from a different source document.
 - [Golf Betting Bet Types Explained](golf_betting_bet_types_explained.md): shares the streaming-service theme from a different source document.
 - [Lured (1947), Douglas Sirk](lured_1947_douglas_sirk.md): shares the film-and-streaming theme from a different source document.
+- [The AMC-Taylor Swift Direct Distribution Deal](amc_taylor_swift_direct_distribution_deal.md): same source document (doc_0419)
+- [Biggest Concert Films: The Box Office Records](biggest_concert_films_box_office_records.md): same source document (doc_0419)
+- [Marcus Corporation's Preparations For Eras Tour Screenings](marcus_corporation_preparations_for_eras_tour_screenings.md): same source document (doc_0419)
+- [The North American Box Office Forecast For 2023](north_american_box_office_2023_forecast.md): same source document (doc_0419)
+- [The Paramount Consent Decrees And Their Termination](paramount_consent_decrees_termination_and_distribution.md): same source document (doc_0419)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

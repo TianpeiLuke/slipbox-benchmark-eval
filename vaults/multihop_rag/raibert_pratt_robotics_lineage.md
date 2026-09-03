@@ -11,10 +11,17 @@ Pratt remained in academia for the next two decades, transferring from MIT to Ol
 
 ## Related Notes
 
+
 - [Boston Dynamics AI Institute Research Pillars](boston_dynamics_ai_institute_research_pillars.md): same source document; what Raibert's newer institute works on.
 - [LLM Limits In Robot Manipulation](llm_limits_in_robot_manipulation.md): same source document; the research problem TRI is attacking under Pratt.
 - [Boston Dynamics Humanoid Research Yielding A Non-Humanoid Robot](boston_dynamics_humanoid_research_yielding_non_humanoid_robot.md): also concerns Boston Dynamics, from a different source document.
 - [Value Of Humanoid Research Beyond The Final Form](value_of_humanoid_research_beyond_the_final_form.md): also concerns Boston Dynamics, from a different source document.
+- [Boston Dynamics On Generative AI's Role In Robotics](boston_dynamics_view_on_generative_ai_in_robotics.md): both discuss Boston Dynamics; different source document
+- [Generative AI For Robot Design And Path Planning](generative_ai_for_robot_design_and_path_planning.md): content overlap 0.13 on dynamics, robots; different source document
+- [Boston Dynamics AI Institute Ethics Research](boston_dynamics_ai_institute_ethics_research.md): same source document (doc_0511)
+- [Cars And Robotics Convergence](cars_and_robotics_convergence.md): same source document (doc_0511)
+- [MIT's Leg Lab And Dynamic Robot Locomotion](mit_leg_lab_robot_locomotion.md): same source document (doc_0511)
+- [The Pure Research Model At Automaker-Backed Institutes](pure_research_model_at_automaker_backed_institutes.md): same source document (doc_0511)
 
 ## Source
 

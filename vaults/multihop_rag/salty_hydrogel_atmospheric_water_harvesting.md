@@ -11,9 +11,16 @@ Carlos Díaz-Marín, a mechanical engineer at the Massachusetts Institute of Tec
 
 ## Related Notes
 
+
 - [Alameda's Special Privileges in FTX Code](alameda_special_privileges_in_ftx_code.md): another item referencing the Massachusetts Institute of Technology.
 - [Barriers to Commercializing Zinc-Iodine Batteries](barriers_to_commercializing_zinc_iodine_batteries.md): another account of hydrogel materials and what limits their use.
 - [The 2023 Chemistry Nobel for Quantum Dots](quantum_dots_2023_chemistry_nobel_award.md): another item referencing the Massachusetts Institute of Technology.
+- [Global Water Scarcity Under Climate Change](global_water_scarcity_under_climate_change.md): same source document (doc_0285)
+- [The Lithium Chloride Hydrogel Soaking Experiment](lithium_chloride_hydrogel_soaking_experiment.md): same source document (doc_0285)
+- [MIT Hydrogel Drinking Water Device](mit_hydrogel_drinking_water_device.md): same source document (doc_0285)
+- [Record Salt Loading Hydrogel Results](record_salt_loading_hydrogel_results.md): same source document (doc_0285)
+- [The SmartFarm Hydrogel Greenhouse](smartfarm_hydrogel_greenhouse.md): same source document (doc_0285)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

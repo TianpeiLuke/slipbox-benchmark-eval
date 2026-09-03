@@ -11,6 +11,7 @@ The top pick is light, comfortable for a wide variety of hand sizes and shapes, 
 
 ## Related Notes
 
+
 - [Audio-Technica ATH-M20xBT Deal](audio_technica_ath_m20xbt_deal.md): overlapping coverage of comfortable, modestly priced gear with wireless connectivity, from a different source document.
 - [HyperX Cloud Gaming Headsets](hyperx_cloud_gaming_headsets.md): overlapping coverage of comfortable, modestly priced gaming gear, from a different source document.
 - [Razer Basilisk V3 Gaming Mouse](razer_basilisk_v3_gaming_mouse.md): overlapping coverage of a comfortable mouse with extra buttons, from a different source document.
@@ -19,6 +20,8 @@ The top pick is light, comfortable for a wide variety of hand sizes and shapes, 
 - [Google Pixel Buds A-Series Deal Listings](google_pixel_buds_a_series_deal_listings.md): drawn from the same source document (doc_0527).
 - [Samsung Galaxy Buds 2 Deal Listings](samsung_galaxy_buds_2_deal_listings.md): drawn from the same source document (doc_0527).
 - [Samsung Galaxy Buds 2 Pro Deal](samsung_galaxy_buds_2_pro_deal.md): drawn from the same source document (doc_0527).
+- [WIRED's Pre-Black Friday Mechanical Keyboard Deals](wired_november_2023_mechanical_keyboard_deals.md): same source document (doc_0527)
+- [WIRED's Pre-Black Friday TV And Soundbar Deals](wired_november_2023_tv_and_soundbar_deals.md): same source document (doc_0527)
 
 ## Source
 

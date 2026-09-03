@@ -11,10 +11,15 @@ Franke stood shackled in gray and white jail clothing as she closed her eyes and
 
 ## Related Notes
 
+
 - [Binance DOJ Resolution and CZ Guilty Plea](binance_doj_resolution_and_cz_guilty_plea.md): another guilty plea entered under an agreement, from a different source document.
 - [Wang Cooperation Agreement With Prosecutors](wang_cooperation_agreement_with_prosecutors.md): overlaps on guilty pleas, prison exposure and sentencing, from a different source document.
 - [Eight Passengers YouTube Parenting Channel](eight_passengers_youtube_parenting_channel.md): the channel that made her a parenting-advice figure (doc_0269).
 - [Franke Children Removal and Family Aftermath](franke_children_removal_and_family_aftermath.md): the arrest and custody events preceding the plea (doc_0269).
+- [The Franke Defense That Hildebrandt's Influence Drove The Abuse](franke_defense_blaming_hildebrandt_influence.md): same source document (doc_0269)
+- [What Franke Admitted In The Plea Agreement](franke_plea_agreement_abuse_details.md): same source document (doc_0269)
+- [Jodi Hildebrandt's Role And Pending Case](jodi_hildebrandt_role_and_pending_case.md): same source document (doc_0269)
+- [Plea Agreement](term_plea_agreement.md): uses the concept plea agreement
 
 ## Source
 

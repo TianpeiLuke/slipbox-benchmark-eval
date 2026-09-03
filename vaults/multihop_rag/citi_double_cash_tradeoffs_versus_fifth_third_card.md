@@ -11,11 +11,18 @@ The conclusion is conditional on the arithmetic working out for the individual c
 
 ## Related Notes
 
+
 - [Alternatives To The Amex Cash Magnet Card](alternatives_to_amex_cash_magnet_card.md): overlapping coverage of what a competing card doesn't offer, from a different source document.
 - [Amex Cash Magnet Card Overview](amex_cash_magnet_card_overview.md): overlapping coverage of foreign transaction terms, from a different source document.
 - [Amex Cash Magnet Travel Limitations](amex_cash_magnet_travel_limitations.md): overlapping coverage of foreign transaction fees, from a different source document.
 - [Amex Cash Magnet Welcome Bonus Criticism](amex_cash_magnet_welcome_bonus_criticism.md): overlapping coverage of welcome bonuses and card fees, from a different source document.
 - [BetMGM First Bet Bonus Offer, December 2023](betmgm_first_bet_bonus_offer_december_2023.md): overlapping coverage of welcome bonus offers, from a different source document.
+- [Fifth Third 1.67% Card Cardholder Benefits](fifth_third_1_67_card_cardholder_benefits.md): same source document (doc_0470)
+- [Fifth Third 1.67% Card Rates And Fees](fifth_third_1_67_card_rates_and_fees.md): same source document (doc_0470)
+- [Fifth Third 1.67% Card Redemption Options](fifth_third_1_67_card_redemption_options.md): same source document (doc_0470)
+- [The Fifth Third 1.67% Card's Rewards Earning Rate](fifth_third_1_67_card_rewards_earning_rate.md): same source document (doc_0470)
+- [The Fifth Third 1.67% Cash/Back Card: Overview](fifth_third_1_67_cash_back_card_overview.md): same source document (doc_0470)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

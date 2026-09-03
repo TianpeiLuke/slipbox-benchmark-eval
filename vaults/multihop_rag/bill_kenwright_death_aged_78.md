@@ -13,6 +13,7 @@ Everton said it was "in mourning" following the death of the club's longest-serv
 
 ## Related Notes
 
+
 - [Bill Kenwright Tribute At Anfield](bill_kenwright_tribute_at_anfield.md): covers a tribute to Kenwright reported in a different document
 - [Edenglassie, A Novel By Melissa Lucashenko](edenglassie_novel_melissa_lucashenko.md): also refers to the West End, in an unrelated arts story
 - [Everton Appeal Against Points Deduction](everton_appeal_against_points_deduction.md): another Everton and Premier League story from a different source
@@ -21,6 +22,9 @@ Everton said it was "in mourning" following the death of the club's longest-serv
 - [Bill Kenwright's Coronation Street Acting Career](bill_kenwright_coronation_street_acting_career.md): the acting career described in the same obituary
 - [Bill Kenwright's Everton Chairmanship Record](bill_kenwright_everton_chairmanship_record.md): his Everton record as set out in the same obituary
 - [Bill Kenwright's West End Theatre Productions](bill_kenwright_west_end_theatre_productions.md): his producing career as set out in the same obituary
+- [Everton Fans' No Confidence Vote Against Kenwright's Board](everton_fan_no_confidence_in_kenwright_board.md): same source document (doc_0543)
+- [Everton's Ownership: Kenwright To Moshiri To 777 Partners](everton_ownership_moshiri_and_777_partners.md): same source document (doc_0543)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

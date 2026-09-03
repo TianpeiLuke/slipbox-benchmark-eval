@@ -15,11 +15,18 @@ The top paid games in the U.S. were led by Microsoft-owned Minecraft, and also i
 
 ## Related Notes
 
+
 - [Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): shares the "Shop Like a Billionaire" shopping-app subject matter, from a different source document.
 - [Five Nights At Freddy's Movie Accessibility To Newcomers](five_nights_at_freddys_movie_accessibility_to_newcomers.md): also concerns Five Nights at Freddy's, from a different source document.
 - [Five Nights At Freddy's Movie Age Appropriateness](five_nights_at_freddys_movie_age_appropriateness.md): also concerns Five Nights at Freddy's, from a different source document.
 - [Five Nights At Freddy's Movie Development And Release](five_nights_at_freddys_movie_development_and_release.md): also concerns Five Nights at Freddy's, from a different source document.
 - [Five Nights At Freddy's Movie Mid-Credits Scene](five_nights_at_freddys_movie_mid_credits_scene.md): also concerns Five Nights at Freddy's, from a different source document.
+- [Apple's 2023 Top iPad App And Game Lists](apple_2023_top_ipad_apps_and_games_lists.md): same source document (doc_0384)
+- [Why Chinese Apps Rose In The US App Store Rankings](chinese_apps_rise_in_us_app_store_rankings.md): same source document (doc_0384)
+- [Temu As The Top US iPhone App Of 2023](temu_top_us_iphone_app_of_2023.md): same source document (doc_0384)
+- [US Tech Giants' 2023 App Download Rankings](us_tech_giant_app_download_rankings_2023.md): same source document (doc_0384)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

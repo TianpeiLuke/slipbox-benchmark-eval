@@ -13,6 +13,7 @@ The range over which the model holds is explicitly limited. Asked whether facing
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also discusses Ten Hag and Onana's performances, from a different document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also discusses the Champions League, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also discusses the Champions League, from a different document.
@@ -21,6 +22,7 @@ The range over which the model holds is explicitly limited. Asked whether facing
 - [Bruno Fernandes' Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): another Ten Hag role definition from the same interview, from the same document.
 - [Manchester Derby 191st Edition Context](manchester_derby_191st_edition_context.md): the fixture in which this model was to be tested, from the same document.
 - [Onana Transfer Fee and Uneven Form at United](onana_transfer_fee_and_uneven_form_at_united.md): the form record behind Ten Hag's caution, from the same document.
+- [Ratcliffe's Bid For A Manchester United Stake](ratcliffe_bid_for_manchester_united_stake.md): same source document (doc_0330)
 
 ## Source
 

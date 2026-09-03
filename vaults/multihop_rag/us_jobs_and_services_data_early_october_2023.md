@@ -11,6 +11,7 @@ A second report on the economy said growth in US services industries slowed in S
 
 ## Related Notes
 
+
 - [Federal Reserve Rate Path Expectations Late 2023](federal_reserve_rate_path_expectations_late_2023.md): covers how jobs reports and slowdown signals shape the Fed's path, from a different source document.
 - [ASX And Wall Street Selloff October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): sits in the same sub-plan on ASX and Wall Street through October 2023, from a different source document.
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): sits in the same sub-plan, covering the market a week later, from a different source document.
@@ -19,6 +20,8 @@ A second report on the economy said growth in US services industries slowed in S
 - [ASX And Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): drawn from the same report and shows the market reaction to this data.
 - [ASX Sector Movers October 4 2023](asx_sector_movers_october_4_2023.md): drawn from the same report and gives the local stock moves that day.
 - [Australian Christmas Retail Spending Outlook 2023](australian_christmas_retail_spending_outlook_2023.md): drawn from the same report and covers the consumer outlook in the same edition.
+- [The Oil Slump And House Speaker Vacancy, Early October 2023](oil_slump_and_house_speaker_vacancy_october_2023.md): same source document (doc_0029)
+- [US Treasury Yields And Fed Rate Expectations In October 2023](us_treasury_yields_and_fed_rate_expectations_october_2023.md): same source document (doc_0029)
 
 ## Source
 

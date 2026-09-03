@@ -13,11 +13,18 @@ Like Full River Red, Shadow is rich in political intrigue, but it does not skimp
 
 ## Related Notes
 
+
 - [Alone (2020, John Hyams Film)](alone_2020_john_hyams_film.md): another recommendation by the same Polygon critic, Pete Volk, in a different document
 - [Detour (1945, Edgar G. Ulmer)](detour_1945_edgar_g_ulmer.md): shares the same reviewer across a separate article
 - [Encounters of the Spooky Kind (Sammo Hung)](encounters_of_the_spooky_kind_sammo_hung.md): another Pete Volk pick, also from Asian genre cinema
 - [Ginger Snaps (Werewolf Body Horror)](ginger_snaps_werewolf_body_horror.md): another write-up by the same critic elsewhere in the corpus
 - [League of Legends Season 13 and Arena Mode](league_of_legends_season_13_and_arena_mode.md): shares the same bylined writer despite a different subject
+- [Certified Copy (Abbas Kiarostami)](certified_copy_abbas_kiarostami.md): same source document (doc_0055)
+- [Hoop Dreams (Steve James)](hoop_dreams_steve_james_documentary.md): same source document (doc_0055)
+- [Joint Security Area (Park Chan-wook)](joint_security_area_park_chan_wook.md): same source document (doc_0055)
+- [Mandy (Panos Cosmatos)](mandy_panos_cosmatos_nicolas_cage.md): same source document (doc_0055)
+- [Planet Terror (Robert Rodriguez)](planet_terror_robert_rodriguez_grindhouse.md): same source document (doc_0055)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

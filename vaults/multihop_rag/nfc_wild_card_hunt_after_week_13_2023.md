@@ -13,6 +13,7 @@ Sporting News judged the Rams and Seahawks the best wild-card bets among that gr
 
 ## Related Notes
 
+
 - [Aric Almirola Joe Gibbs Racing Xfinity Move](aric_almirola_joe_gibbs_racing_xfinity_move.md): also mentions the Washington Commanders, from a different document.
 - [Bears Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): also discusses the Chicago Bears, from a different document.
 - [Bears Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): also discusses the Chicago Bears, from a different document.
@@ -21,6 +22,7 @@ Sporting News judged the Rams and Seahawks the best wild-card bets among that gr
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): the AFC seeding from the same playoff picture.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): the equivalent AFC list, from the same document.
 - [NFC Playoff Seeding After Week 13 2023](nfc_playoff_seeding_after_week_13_2023.md): lists the seven NFC teams above this cut, from the same document.
+- [NFL Playoff Race Heading Out Of Week 13 Of The 2023 Season](nfl_2023_week_13_playoff_race_overview.md): same source document (doc_0040)
 
 ## Source
 

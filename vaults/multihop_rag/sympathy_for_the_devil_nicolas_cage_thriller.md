@@ -11,11 +11,17 @@ Polygon describes it as a largely two-person movie that sounds a bit like Collat
 
 ## Related Notes
 
+
 - [A Haunting In Venice](a_haunting_in_venice_poirot_mystery.md): same source; another streaming debut that week.
 - [Insidious: The Red Door](insidious_the_red_door.md): same source; the week's other tension-driven genre release.
 - [Dream Scenario](dream_scenario_kristoffer_borgli.md): another Nicolas Cage film, from a different source document.
 - [Amazon Proteus Automation Outside the Cage](amazon_proteus_automation_outside_the_cage.md): overlaps in content on cage, like, from a different source document.
 - [Dracula 2000 Dimension Films](dracula_2000_dimension_films.md): also covers Nicolas Cage, from a different source document.
+- [Mandy (Panos Cosmatos)](mandy_panos_cosmatos_nicolas_cage.md): both discuss Nicolas Cage; different source document
+- [Moonstruck (1987): Norman Jewison's Romantic Comedy](moonstruck_1987_romantic_comedy.md): both discuss Nicolas Cage; different source document
+- [Freaks Vs. The Reich](freaks_vs_the_reich_italian_superhero_film.md): same source document (doc_0382)
+- [Jawan](jawan_shah_rukh_khan_action_thriller.md): same source document (doc_0382)
+- [My Big Fat Greek Wedding 3](my_big_fat_greek_wedding_3.md): same source document (doc_0382)
 
 ## Source
 

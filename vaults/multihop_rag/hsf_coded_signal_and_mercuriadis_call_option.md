@@ -11,6 +11,7 @@ The grounds are textual clues in the statement itself, including what the articl
 
 ## Related Notes
 
+
 - [Hipgnosis 440 Million Catalog Sale To Hipgnosis Songs Capital](hipgnosis_440_million_catalog_sale_to_hipgnosis_songs_capital.md): covers the Blackstone-backed acquisition attempt this signal points at, from a different source document.
 - [Hipgnosis Songs Fund Continuation Vote](hipgnosis_songs_fund_continuation_vote.md): covers another episode in the same shareholder standoff, from a different source document.
 - [Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): drawn from the same article and gives the valuation lever behind the dispute.
@@ -19,6 +20,8 @@ The grounds are textual clues in the statement itself, including what the articl
 - [HSF Board Versus Hipgnosis Song Management Dispute](hsf_board_versus_hipgnosis_song_management_dispute.md): drawn from the same article and gives the exchange this reading interprets.
 - [HSF Eight Day Delay In Flagging Valuation Concern](hsf_eight_day_delay_in_flagging_valuation_concern.md): drawn from the same article and questions the timing of the same announcement.
 - [HSF Q4 2023 Catalogue Revenue Drivers](hsf_q4_2023_catalogue_revenue_drivers.md): drawn from the same article and covers the commercial performance behind the disputed portfolio.
+- [What Really Matters Is The Underlying Catalogue Performance](hsf_underlying_catalogue_performance_questions.md): same source document (doc_0263)
+- [HSM's Conflict Of Interest In Opining On The Valuation](hsm_conflict_of_interest_in_valuation_opinion.md): same source document (doc_0263)
 
 ## Source
 

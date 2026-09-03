@@ -11,11 +11,19 @@ The rest of the case is a quarterback comparison and a matchup edge. In a Gardne
 
 ## Related Notes
 
+
 - [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): also concerns Gardner Minshew's role in Indianapolis, from a different document.
 - [Bears 16, Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): another Bryce Young game, separately sourced.
 - [Bears-Panthers Pregame Storylines, Week 10](bears_panthers_pregame_storylines_week_10.md): also discusses Bryce Young, in a different document.
 - [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): another Bryce Young appearance, from a separate source.
 - [BetMGM Vermont Sportsbook Welcome Offer](betmgm_vermont_sportsbook_welcome_offer.md): shares the sportsbook and odds themes, in a different document.
+- [Dolphins +110 vs Chiefs In Germany](dolphins_chiefs_germany_moneyline_pick.md): same source document (doc_0314)
+- [The 2023 NFL Best Bets Season Record](nfl_best_bets_season_record_2023.md): same source document (doc_0314)
+- [NFL Week 9 Player Prop Picks](nfl_week_9_player_prop_picks.md): same source document (doc_0314)
+- [Raiders vs Giants UNDER 37.5, Week 9](raiders_giants_week_9_under_pick.md): same source document (doc_0314)
+- [Seahawks +6 At Ravens, Week 9](seahawks_ravens_week_9_spread_pick.md): same source document (doc_0314)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

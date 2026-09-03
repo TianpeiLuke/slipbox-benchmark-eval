@@ -11,11 +11,16 @@ FLEX QB Jordan Love, Packers ($16,000): from one quarterback to another, the wri
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also discusses Super Bowl contention, from a different source document.
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also covers Green Bay's backfield availability, from a different source document.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also discusses Super Bowl betting, from a different source document.
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also covers Green Bay, from a different source document.
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also set at Lambeau Field, from a different source document.
+- [The Lions-Packers Rivalry Turned In 2022, And Week 4 2023 Is The Rematch](lions_packers_rivalry_shift_2022_2023.md): same source document (doc_0183)
+- [The SuperDraft Lineup For Lions-Packers Week 4 And How Its Multiplier Scoring Works](lions_packers_week_4_superdraft_lineup_and_scoring.md): same source document (doc_0183)
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
 
 ## Source
 

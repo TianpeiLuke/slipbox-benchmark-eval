@@ -13,6 +13,7 @@ Two forward-looking possibilities are noted. There is the possibility of Hayes r
 
 ## Related Notes
 
+
 - [Andre Onana's Goalkeeping Errors In The 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also discusses Aston Villa, from a different document.
 - [Bayern Munich 1-0 Manchester United At Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns the Champions League, from a different document.
 - [Bayern Munich's 2-2 Draw At RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns the Champions League, from a different document.
@@ -21,6 +22,8 @@ Two forward-looking possibilities are noted. There is the possibility of Hayes r
 - [The Benefits Of Hayes' Delayed USWNT Start](benefits_of_hayes_delayed_uswnt_start.md): the arrangement that lets her shape this succession, from the same article.
 - [Chelsea's Early Announcement Of Hayes' Departure](chelsea_early_announcement_of_hayes_departure.md): the statement described here, from the same article.
 - [Chelsea Players' Reaction To Hayes' Departure](chelsea_players_reaction_to_hayes_departure.md): how the squad received that news, from the same article.
+- [Emma Hayes Appointed USWNT Head Coach](emma_hayes_appointed_uswnt_head_coach.md): same source document (doc_0108)
+- [Emma Hayes As The Highest-Paid Women's Soccer Coach](emma_hayes_highest_paid_womens_soccer_coach.md): same source document (doc_0108)
 
 ## Source
 

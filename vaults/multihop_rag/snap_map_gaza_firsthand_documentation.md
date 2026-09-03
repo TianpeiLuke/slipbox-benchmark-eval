@@ -13,6 +13,7 @@ The content itself is ordinary-hours documentation: in recent videos posted from
 
 ## Related Notes
 
+
 - [Gaza Food Insecurity And Import Dependence](gaza_food_insecurity_and_import_dependence.md): overlaps on Gaza under blockade and airstrikes, from a different document.
 - [Gaza's Humanitarian Crisis And The October 2023 Supply Cutoff](gaza_humanitarian_crisis_october_2023_supply_cutoff.md): covers the crisis documented here, from a different document.
 - [AfroFuture's Founding Vision And Mission Pillars](afrofuture_founding_vision_and_mission_pillars.md): shares the user-generated-content theme, from a different document.
@@ -21,6 +22,15 @@ The content itself is ordinary-hours documentation: in recent videos posted from
 - [Catherine Tan On Public Disclosure And Law Enforcement Gaps](catherine_tan_public_disclosure_and_law_enforcement_gaps.md): shares the public-documentation theme, from a different document.
 - [City Of Winter TTRPG](city_of_winter_ttrpg.md): tagged to the same user-generated-content theme, from a different document.
 - [Clueless, The 1995 Teen Comedy Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): tagged to the same user-generated-content theme, from a different document.
+- [The Gaza Conflict's Information Environment, Late 2023](gaza_conflict_information_environment_late_2023.md): same source document (doc_0124)
+- [Gaza's Internet Blackout And Connectivity](gaza_internet_blackout_and_connectivity.md): same source document (doc_0124)
+- [Mapping Platforms Disabled Live Features In Israel And Gaza](mapping_platforms_disable_live_features_israel_gaza.md): same source document (doc_0124)
+- [Palestinian Content Moderation Distrust On Meta's Platforms](palestinian_content_moderation_distrust_meta_platforms.md): same source document (doc_0124)
+- [Snap's Decision To Keep The Gaza Heat Map Live](snap_decision_to_keep_gaza_heat_map_live.md): same source document (doc_0124)
+- [Snap Map's History As A Civic Documentation Tool](snap_map_as_civic_documentation_tool.md): same source document (doc_0124)
+- [Snap Map And "Our Story"](snap_map_product_and_our_story.md): same source document (doc_0124)
+- [Youth Distrust Of Legacy News Media](youth_distrust_of_legacy_news_media.md): same source document (doc_0124)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

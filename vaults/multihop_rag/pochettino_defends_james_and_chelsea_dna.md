@@ -13,6 +13,7 @@ The captaincy claim rests on separate grounds: Pochettino made James his captain
 
 ## Related Notes
 
+
 - [Arsenal 2-1 Win at Sevilla Group B](arsenal_2_1_win_at_sevilla_group_b.md): also discusses Mikel Arteta, from a different document.
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Mikel Arteta, from a different document.
 - [Arteta Pochettino Derby Day Competitive Edge](arteta_pochettino_derby_day_competitive_edge.md): covers the same Pochettino-Arteta dynamic around this fixture, from a different document.
@@ -21,6 +22,7 @@ The captaincy claim rests on separate grounds: Pochettino made James his captain
 - [Chelsea Selection Crisis and Fixture Run](chelsea_selection_crisis_and_fixture_run.md): the squad situation behind these remarks, from the same document.
 - [Pochettino and Arteta's Friendship from PSG](pochettino_arteta_friendship_from_psg.md): the PSG connection referenced here, from the same document.
 - [Reece James Hamstring Injury and Return Timeline](reece_james_hamstring_injury_and_return_timeline.md): the injury that framed James' frustration, from the same document.
+- [Reece James' Touchline Outburst And FA Charge](reece_james_touchline_outburst_and_fa_charge.md): same source document (doc_0109)
 
 ## Source
 

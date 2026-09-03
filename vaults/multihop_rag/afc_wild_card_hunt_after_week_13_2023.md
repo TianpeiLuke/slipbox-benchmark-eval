@@ -13,12 +13,17 @@ Sporting News noted that the Texans beat the Broncos in a key wild-card determin
 
 ## Related Notes
 
+
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also discusses the Buffalo Bills, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also discusses the Cincinnati Bengals and Joe Burrow, from a different document.
 - [Bills Bengals SNF Pregame Notes](bills_bengals_snf_pregame_notes.md): also discusses Joe Burrow, from a different document.
 - [Bills Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): also discusses Joe Burrow, from a different document.
 - [Bills Chargers Week 16 Matchup Preview](bills_chargers_week_16_matchup_preview.md): also discusses the Los Angeles Chargers, from a different document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): lists the seven teams above this cut, from the same document.
+- [NFC Playoff Seeding After Week 13 Of The 2023 Season](nfc_playoff_seeding_after_week_13_2023.md): same source document (doc_0040)
+- [NFC Teams Outside The Playoff Field After Week 13 2023](nfc_wild_card_hunt_after_week_13_2023.md): same source document (doc_0040)
+- [NFL Playoff Race Heading Out Of Week 13 Of The 2023 Season](nfl_2023_week_13_playoff_race_overview.md): same source document (doc_0040)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

@@ -11,12 +11,21 @@ The second-gen AirPods' sound quality isn't quite up to par with newer models, b
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): overlapping coverage of second-gen AirPods earbuds, from a different source document.
 - [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): shares the discount-versus-MSRP theme, from a different source document.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the discount-versus-MSRP theme, from a different source document.
 - [Anker 3-In-1 MagSafe Charging Dock Deal Listings](anker_3_in_1_magsafe_charging_dock_deal_listings.md): overlapping coverage of AirPods, MagSafe and earbuds, from a different source document.
 - [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): shares the battery-technology and discount themes, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0369).
+- [Amazon Echo Buds Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): same source document (doc_0369)
+- [Beats Fit Pro Deal Listings](beats_fit_pro_deal_listings.md): same source document (doc_0369)
+- [Beats Studio Pro Deal Listings](beats_studio_pro_deal_listings.md): same source document (doc_0369)
+- [Bose QuietComfort Headphone And Earbud Deals](bose_quietcomfort_headphone_and_earbud_deals.md): same source document (doc_0369)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
 
 ## Source
 

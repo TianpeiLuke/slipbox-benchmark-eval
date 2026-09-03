@@ -13,10 +13,17 @@ The valuation consequence is that, while O2C remains a significant part of the c
 
 ## Related Notes
 
+
 - [Crude Oil Prices and Gaza Supply Risk October 2023](crude_oil_prices_and_gaza_supply_risk_october_2023.md): the crude price volatility that drives this segment's earnings.
 - [Enterprise Value Multiples](enterprise_value_multiples.md): the valuation framework applied to segments like these.
 - [Leverage Amplifies EV Change on Equity Value](leverage_amplifies_ev_change_on_equity_value.md): related valuation mechanics for a leveraged business.
 - [Price-to-EBITDA Ignores Debt: Worked Example](price_to_ebitda_ignores_debt_worked_example.md): a related lesson on margins and valuation multiples.
+- [Reliance Green Energy Investment Programme](reliance_green_energy_investment_programme.md): same source document (doc_0253)
+- [Reliance Industries Share Price and Growth Catalysts](reliance_industries_share_price_and_growth_catalysts.md): same source document (doc_0253)
+- [Reliance Industries Sum-of-the-Parts Valuation Case](reliance_industries_sum_of_the_parts_valuation_case.md): same source document (doc_0253)
+- [Reliance Jio Telecom Growth Outlook](reliance_jio_telecom_growth_outlook.md): same source document (doc_0253)
+- [Reliance Retail Ventures Store Expansion](reliance_retail_ventures_store_expansion.md): same source document (doc_0253)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

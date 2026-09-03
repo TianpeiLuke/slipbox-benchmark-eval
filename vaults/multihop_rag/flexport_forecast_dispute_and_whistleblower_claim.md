@@ -11,11 +11,19 @@ The underlying dispute was about forecasts, not fraud. For much of the summer Cl
 
 ## Related Notes
 
+
 - [6ppd Quinone and Coho Salmon Die Offs](6ppd_quinone_and_coho_salmon_die_offs.md): also discusses West Coast, from a different source document.
 - [Anker Soundcore Space Q45 and Life Q30](anker_soundcore_space_q45_and_life_q30.md): overlaps on battery technology, fine penalty subject matter, from a different source document.
 - [Beats Fit Pro Black Friday Deal](beats_fit_pro_black_friday_deal.md): overlaps on battery technology, fine penalty subject matter, from a different source document.
 - [Blink Video Doorbell and Outdoor 4 Deal](blink_video_doorbell_and_outdoor_4_deal.md): overlaps on battery technology, fine penalty subject matter, from a different source document.
 - [Bose Quietcomfort 45 Headphones](bose_quietcomfort_45_headphones.md): overlaps on battery technology, fine penalty subject matter, from a different source document.
+- [Clark's Cease-And-Desist, The Political Friction, And The Firing For Cause](clark_cease_and_desist_and_political_friction.md): same source document (doc_0536)
+- [Dave Clark's Hiring And Flexport's IPO Plan](dave_clark_hiring_and_flexport_ipo_plan.md): same source document (doc_0536)
+- [Dave Clark's Ouster From Flexport](dave_clark_ouster_from_flexport.md): same source document (doc_0536)
+- [Flexport's Board Composition](flexport_board_composition.md): same source document (doc_0536)
+- [Flexport Versus Amazon In End-To-End Supply Chain Services](flexport_versus_amazon_supply_chain_service.md): same source document (doc_0536)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

@@ -11,11 +11,17 @@ The sharpest case is timing. One of the most recent Disney live-action projects 
 
 ## Related Notes
 
+
 - [Disney's Centennial And The Wish Nostalgia Thesis](disney_centennial_wish_nostalgia_thesis.md): same source; the overall thesis this saturation evidences.
 - [The Disney Direct-To-Video Sequel Era](disney_direct_to_video_sequel_era.md): same source; the earlier cheap-sequel version of the same pattern.
 - [Disney Fans' Conflicting Nostalgic Demands](disney_fans_conflicting_nostalgic_demands.md): same source; why chasing legacy demand cannot succeed on its own terms.
 - [Amazon Prime Free Games And DLC](amazon_prime_free_games_and_dlc.md): also covers Star Wars, from a different source document.
 - [Andor Disney Plus](andor_disney_plus.md): also covers Star Wars, from a different source document.
+- [Disney Bundle Trio Streaming Package](disney_bundle_trio_streaming_package.md): both discuss Disney Plus, Star Wars; different source document
+- [Epic's Rebuttal Of Google's Leaked Email Summary](epic_rebuttal_of_googles_leaked_email_summary.md): both discuss Star Wars; different source document
+- [Epic's Refusal Of Special Deals And Its 2019 Google Proposal](epic_refusal_of_special_deals_and_its_2019_google_proposal.md): both discuss Star Wars; different source document
+- [Innovation Is Disney's Real Legacy](disney_innovation_as_its_real_legacy.md): same source document (doc_0434)
+- [Disney's Legacy Projects Are Financially Safe](disney_legacy_projects_are_financially_safe.md): same source document (doc_0434)
 
 ## Source
 

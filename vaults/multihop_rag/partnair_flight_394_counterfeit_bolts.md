@@ -11,6 +11,7 @@ Following that incident and other bogus parts scandals, Mary Schiavo, inspector 
 
 ## Related Notes
 
+
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): overlaps on lobbying political donations subject matter, from a different source document.
 - [AI Day of Action Campaign](ai_day_of_action_campaign.md): overlaps on lobbying political donations subject matter, from a different source document.
 - [AI Mass Generated Seo Spam Churn and Burn](ai_mass_generated_seo_spam_churn_and_burn.md): overlaps on lobbying political donations subject matter, from a different source document.
@@ -19,6 +20,11 @@ Following that incident and other bogus parts scandals, Mary Schiavo, inspector 
 - [Apple Ios Security Fixes and Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): overlaps on lobbying political donations subject matter, from a different source document.
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): overlaps on lobbying political donations subject matter, from a different source document.
 - [Baldurs Gate 3](baldurs_gate_3.md): overlaps on lobbying political donations subject matter, from a different source document.
+- [How Counterfeit Jet Engine Parts Are Detected — And Why AOG's Were Hard To Catch](detecting_counterfeit_jet_engine_parts.md): same source document (doc_0506)
+- [Jose Zamora And The Founding Of AOG Technics](jose_zamora_and_the_founding_of_aog_technics.md): same source document (doc_0506)
+- [The Post-COVID Parts Scramble As A Breeding Ground For AOG's Growth](post_covid_parts_scramble_and_aog_growth.md): same source document (doc_0506)
+- [The Regulatory Gap Around Unapproved Aircraft Parts](unapproved_aircraft_parts_regulatory_gap.md): same source document (doc_0506)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

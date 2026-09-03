@@ -11,11 +11,18 @@ In reply Kenya were no match for Indian dominance: barring skipper Steve Tikolo,
 
 ## Related Notes
 
+
 - [England 2023 Cricket World Cup Title Defence Collapse](england_2023_cricket_world_cup_title_defence_collapse.md): shares the India, semi-finals and overs reporting, from a different source document.
 - [India Australia 1983 World Cup Group Matches](india_australia_1983_world_cup_group_matches.md): shares the India, overs and runs match reporting, from a different source document.
 - [India Australia 1987 World Cup Group Matches](india_australia_1987_world_cup_group_matches.md): shares the India, overs and runs match reporting, from a different source document.
 - [India Australia 1992 World Cup Brisbane Rain Match](india_australia_1992_world_cup_brisbane_rain_match.md): shares the India, overs and runs match reporting, from a different source document.
 - [India Australia 1996 World Cup Mumbai Match](india_australia_1996_world_cup_mumbai_match.md): shares the India, overs and runs match reporting, from a different source document.
+- [ICC ODI World Cup 2023: Knockout Stage And Final](icc_world_cup_2023_knockout_stage_and_final.md): same source document (doc_0133)
+- [India's 1983 World Cup Semi-Final Against England](india_1983_world_cup_semifinal_vs_england.md): same source document (doc_0133)
+- [India's 1987 World Cup Semi-Final Against England](india_1987_world_cup_semifinal_vs_england.md): same source document (doc_0133)
+- [India's 1996 World Cup Semi-Final Against Sri Lanka](india_1996_world_cup_semifinal_vs_sri_lanka.md): same source document (doc_0133)
+- [India's 2011 World Cup Semi-Final Against Pakistan](india_2011_world_cup_semifinal_vs_pakistan.md): same source document (doc_0133)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

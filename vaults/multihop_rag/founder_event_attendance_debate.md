@@ -13,6 +13,7 @@ The warrant is the explicit rejection of anecdote as evidence: the TC+ team is "
 
 ## Related Notes
 
+
 - [Ohanian's Critique of Social Media and the Creator Economy](ohanian_social_media_critique.md): also covers Alexis Ohanian, from a different source document.
 - [Tesla Cybertruck Launch And First Deliveries](tesla_cybertruck_launch_and_first_deliveries.md): also mentions Alexis Ohanian, from a different source document.
 - [Adobe's Firefly Generative AI Tools And Project Stardust](adobe_generative_ai_tools.md): drawn from the same source document (doc_0043).
@@ -21,6 +22,8 @@ The warrant is the explicit rejection of anecdote as evidence: the TC+ team is "
 - [Meta Quest 3 And The Affordable End Of AR/VR Hardware](consumer_ar_vr_hardware.md): drawn from the same source document (doc_0043).
 - [Creator Economy Sustainability And Creator Venture Capital](creator_economy_sustainability.md): drawn from the same source document (doc_0043).
 - [Google Pixel 8 Launch](google_pixel_8_launch.md): drawn from the same source document (doc_0043).
+- [Mastodon's Undercounted Users And Twitter's Traffic](mastodon_and_x_traffic_figures.md): same source document (doc_0043)
+- [OpenAI Chip Rumors And Nvidia's Position](openai_chip_and_nvidia_position.md): same source document (doc_0043)
 
 ## Source
 

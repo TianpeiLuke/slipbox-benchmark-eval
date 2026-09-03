@@ -148,10 +148,35 @@ parameter to the retrieval comparison for no benefit.
 
 ```yaml
 ---
+tags:                                # FM-010 — 2+, first is a P.A.R.A. type
+  - resource                         #   archive | area | entry_point | project | resource
+  - <domain tag>
+keywords:                            # FM-020 — 3+, and see below
+  - <term the note is about>
+  - <term a question would use>
+  - <acronym or variant spelling>
+topics:                              # FM-030
+  - <broad subject area>
+language: markdown                   # FM-040
+date of note: <YYYY-MM-DD>           # FM-040
+status: active                       # FM-040
 building_block: <one of the eight>   # FM-002 / FM-003 — closed enum
-source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this note
+source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence, the scoring key
 ---
 ```
+
+**`keywords` and `topics` are retrieval surface, not decoration.** Graph
+traversal can be seeded by matching a query against
+`note_name`, `keywords`, `topics` and `tags` — so a note with none of them is
+invisible to that seeding, and a vault with none of them cannot run the strategy
+at all. They are also a denser statement of what the note is about than its body:
+a short question tends to use the vocabulary a keyword list is written in, while
+a body buries that vocabulary among incidental words. Write keywords a
+*questioner* would use, not a summary of the note.
+
+`building_block` and `source_docs` are ERRORS if absent. The rest are WARNINGS:
+their absence degrades retrieval without making a note unscorable, and gating on
+them would block a vault that is merely incomplete rather than wrong.
 
 `navigation` notes — glossaries, entry points, indexes — are **exempt from
 `source_docs`**. They index rather than assert, so there is no document to trace

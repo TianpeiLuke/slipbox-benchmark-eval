@@ -13,10 +13,15 @@ Penske's calming influence helped Blaney regain composure, ensuring he didn't ta
 
 ## Related Notes
 
+
 - [Autosport Top 50 Drivers 2023: NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): also discusses Ryan Blaney, from a different document.
 - [NASCAR 2024 Spotter Changes: Elliott And Blaney](nascar_2024_spotter_changes_elliott_and_blaney.md): also discusses Ryan Blaney and the voices guiding him on track, from a different document.
 - [NASCAR Phoenix Next Gen Short Track Test](nascar_phoenix_next_gen_short_track_test.md): also discusses Ryan Blaney at the same circuit, from a different document.
 - [Ross Chastain's 2023 Season Autosport Snub](ross_chastain_2023_season_autosport_snub.md): also discusses Ross Chastain, the driver blocking Blaney here, from a different document.
+- [Ford F-150 Outsells The Mustang Among NASCAR Fans](ford_f150_outsells_mustang_among_nascar_fans.md): same source document (doc_0481)
+- [Ford Racing Success As A Brand Marketing Engine](ford_racing_success_as_brand_marketing_engine.md): same source document (doc_0481)
+- [Ryan Blaney's 2023 NASCAR Cup Series Championship](ryan_blaney_2023_nascar_cup_series_championship.md): same source document (doc_0481)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

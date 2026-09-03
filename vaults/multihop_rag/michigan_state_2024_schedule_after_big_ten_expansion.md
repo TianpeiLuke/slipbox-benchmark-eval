@@ -11,6 +11,7 @@ Smith will also get the chance to face some familiar opponents from his time at 
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): also covers the Big Ten, from a different source document.
 - [Alabama CFP Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also covers the Big Ten and Ohio State, from a different source document.
 - [Alabama Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): also covers Ohio State, from a different source document.
@@ -19,6 +20,7 @@ Smith will also get the chance to face some familiar opponents from his time at 
 - [Jonathan Smith Oregon State Tenure and Coaching Career](jonathan_smith_oregon_state_tenure_and_coaching_career.md): Smith's background, from the same article (doc_0411).
 - [Mel Tucker Firing and Michigan State Decline](mel_tucker_firing_and_michigan_state_decline.md): the program state Smith inherits, from the same article (doc_0411).
 - [Michigan State Hires Jonathan Smith 2023](michigan_state_hires_jonathan_smith_2023.md): the hire itself, from the same article (doc_0411).
+- [Oregon State Loses Its Coach While The Pac-12 Loses Ten Of Twelve Members](oregon_state_coaching_search_and_pac_12_breakup.md): same source document (doc_0411)
 
 ## Source
 

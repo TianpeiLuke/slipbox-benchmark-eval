@@ -13,6 +13,7 @@ Minnesota's running game worked and its passing game did not: Mattison had 19 ya
 
 ## Related Notes
 
+
 - [Alexander Mattison and the Vikings' Hot Seat](alexander_mattison_vikings_hot_seat.md): also concerns Alexander Mattison, from a different document.
 - [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also features Cairo Santos and Roschon Johnson, separately sourced.
 - [Browns-Bears Week 15 Fourth-Quarter Comeback](browns_bears_week_15_fourth_quarter_comeback.md): overlapping Bears and Fields field-position detail, in a different document.
@@ -20,6 +21,10 @@ Minnesota's running game worked and its passing game did not: Mattison had 19 ya
 - [DJ Moore's First Game Against the Panthers](dj_moore_first_game_against_the_panthers.md): also covers Moore working into opposing territory, in a different document.
 - [Bears-Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): the coverage details for this game, same source document.
 - [Bears-Vikings MNF First Half](bears_vikings_mnf_first_half.md): the preceding two quarters, same source document.
+- [The Fourth Quarter Of Bears 12, Vikings 10](bears_vikings_mnf_fourth_quarter.md): same source document (doc_0144)
+- [Playoff And Roster Stakes In Bears-Vikings On Monday Night](bears_vikings_mnf_playoff_and_roster_stakes.md): same source document (doc_0144)
+- [Bears 12, Vikings 10 On Monday Night Football](bears_vikings_mnf_result_and_recap.md): same source document (doc_0144)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

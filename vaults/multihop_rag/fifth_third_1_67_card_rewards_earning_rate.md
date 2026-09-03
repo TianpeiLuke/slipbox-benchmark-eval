@@ -11,11 +11,18 @@ Technically the card earns "Rewards Points," redeemable at a rate of 1 cent per 
 
 ## Related Notes
 
+
 - [Alternatives To The Amex Cash Magnet Card](alternatives_to_amex_cash_magnet_card.md): overlapping coverage of card earning rates on purchases, from a different source document.
 - [The Amex Cash Magnet Best-Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): overlapping coverage of cash back on purchases, from a different source document.
 - [Amex Cash Magnet Card Overview](amex_cash_magnet_card_overview.md): overlapping coverage of a flat-rate cash back card, from a different source document.
 - [Amex Cash Magnet Redemption Process](amex_cash_magnet_redemption_process.md): overlapping coverage of redeeming cash back, from a different source document.
 - [Amex Cash Magnet Rewards Structure And Exclusions](amex_cash_magnet_rewards_structure_and_exclusions.md): overlapping coverage of cash back earning on purchases, from a different source document.
+- [Tradeoffs Of The Higher-Rate Cash Back Alternative Versus The Fifth Third Card](citi_double_cash_tradeoffs_versus_fifth_third_card.md): same source document (doc_0470)
+- [Fifth Third 1.67% Card Cardholder Benefits](fifth_third_1_67_card_cardholder_benefits.md): same source document (doc_0470)
+- [Fifth Third 1.67% Card Rates And Fees](fifth_third_1_67_card_rates_and_fees.md): same source document (doc_0470)
+- [Fifth Third 1.67% Card Redemption Options](fifth_third_1_67_card_redemption_options.md): same source document (doc_0470)
+- [The Fifth Third 1.67% Cash/Back Card: Overview](fifth_third_1_67_cash_back_card_overview.md): same source document (doc_0470)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

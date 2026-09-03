@@ -11,6 +11,7 @@ Musically it is one of the few 1989 tracks you can imagine working as a country 
 
 ## Related Notes
 
+
 - [All You Had To Do Was Stay](all_you_had_to_do_was_stay_taylor_swift_song.md): another 1989 track from the same BBC article
 - [Bad Blood And The Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): another 1989 track from the same BBC article
 - [Blank Space](blank_space_taylor_swift_song.md): another 1989 track from the same BBC article
@@ -19,6 +20,8 @@ Musically it is one of the few 1989 tracks you can imagine working as a country 
 - [I Wish You Would](i_wish_you_would_taylor_swift_song.md): another 1989 track from the same BBC article
 - [New Romantics](new_romantics_taylor_swift_song.md): another 1989 track from the same BBC article
 - [Out Of The Woods](out_of_the_woods_taylor_swift_song.md): another 1989 track from the same BBC article
+- [Shake It Off As A Defiant Response To Celebrity Takedown Culture](shake_it_off_taylor_swift_song.md): same source document (doc_0257)
+- [Style: Named For Harry Styles, Explained As A Song About Fashion](style_taylor_swift_song.md): same source document (doc_0257)
 
 ## Source
 

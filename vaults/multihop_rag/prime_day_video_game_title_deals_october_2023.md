@@ -13,11 +13,19 @@ Elsewhere on the list: the comedic first-person shooter High On Life for PC was 
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick for Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): also concerns Xbox Series hardware, from a different source document.
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): also concerns the Nintendo Switch, from a different source document.
 - [Alan Wake 2](alan_wake_2.md): also concerns Xbox Series releases, from a different source document.
 - [Amazon Fire HD 8 and Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): also concerns Prime Big Deal Days, from a different source document.
 - [Amazon's Invite-Only Deals System](amazon_invite_only_deals_system.md): also concerns Prime Big Deal Days, from a different source document.
+- [October 2023 Prime Day Gaming Deals Overview](october_2023_prime_day_gaming_deals_overview.md): same source document (doc_0235)
+- [Prime Day Console And Controller Deals, October 2023](prime_day_console_and_controller_deals_october_2023.md): same source document (doc_0235)
+- [Prime Day Console And PC Storage Deals, October 2023](prime_day_console_and_pc_storage_deals_october_2023.md): same source document (doc_0235)
+- [Prime Day Gaming Laptop, Headset And Stream Deck Deals](prime_day_gaming_laptop_headset_and_stream_deck_deals.md): same source document (doc_0235)
+- [Prime Day Tabletop Game Deals, October 2023](prime_day_tabletop_game_deals_october_2023.md): same source document (doc_0235)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

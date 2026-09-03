@@ -13,11 +13,18 @@ The match details were kickoff at 8 p.m. local (7 p.m. ET / 4 p.m. PT), location
 
 ## Related Notes
 
+
 - [Argentina vs Paraguay 2026 World Cup Qualifier Preview](argentina_vs_paraguay_2026_world_cup_qualifier_preview.md): the same fixture and venue previewed elsewhere, different source document
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): another Lionel Messi document, different source
 - [Chicago Fire 4-1 Inter Miami October 2023 Recap](chicago_fire_4_1_inter_miami_october_2023_recap.md): another Messi club match report, different source document
 - [Chicago Fire Inter Miami Team News and Match Outlook](chicago_fire_inter_miami_team_news_and_match_outlook.md): another Messi club document, different source
 - [Inter Miami 0-1 FC Cincinnati October 2023 Recap](inter_miami_0_1_fc_cincinnati_october_2023_recap.md): another Messi club match report, different source document
+- [Argentina's First-Half Dominance Against Paraguay](argentina_first_half_dominance_vs_paraguay.md): same source document (doc_0534)
+- [Broadcast Rights For Argentina vs Paraguay, October 2023](argentina_paraguay_2023_broadcast_rights.md): same source document (doc_0534)
+- [Team News And Lineups: Argentina vs Paraguay, October 2023](argentina_paraguay_2023_team_news_and_lineups.md): same source document (doc_0534)
+- [Argentina's Second Half And Messi's Introduction Against Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): same source document (doc_0534)
+- [Other CONMEBOL Results On Argentina-Paraguay Night](conmebol_2023_qualifying_round_other_results.md): same source document (doc_0534)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

@@ -13,11 +13,20 @@ The same event reads oppositely from the two ends of the relation. While the pub
 
 ## Related Notes
 
+
 - [Objections To X's Bot Fee](objections_to_x_bot_fee.md): shares the anti-spam and bot-detection theme, from a different source document.
 - [Traditional E-Commerce Search Degradation](traditional_ecommerce_search_degradation.md): also concerns marketers degrading search results, from a different source document.
 - [The Affiliate Marketing Alligator Party](affiliate_marketing_alligator_party.md): drawn from the same source document (doc_0115).
 - [AI-Generated Content Will Overwhelm Search](ai_generated_content_will_overwhelm_search_prediction.md): drawn from the same source document (doc_0115).
 - [Mass-Generated AI SEO Spam And Churn And Burn](ai_mass_generated_seo_spam_churn_and_burn.md): drawn from the same source document (doc_0115).
+- [The Blurred Line Between SEO And Spam](blurred_line_between_seo_and_spam.md): same source document (doc_0115)
+- [Cade Lee, From Black Hat SEO To Construction](cade_lee_from_black_hat_seo_to_construction.md): same source document (doc_0115)
+- [Danny Sullivan, From Journalist To Google Liaison](danny_sullivan_from_journalist_to_google_liaison.md): same source document (doc_0115)
+- [The Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): same source document (doc_0115)
+- [Duane Forrester, Bing, And The Search Engine's View](duane_forrester_bing_and_the_search_engine_view.md): same source document (doc_0115)
+- [Bot Detection](term_bot_detection.md): uses the concept bot detection
+- [Initial Public Offering (IPO)](term_initial_public_offering.md): uses the concept initial public offering
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

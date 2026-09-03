@@ -11,6 +11,7 @@ Oxford Ski has a contemporary catered chalet in the heart of Megève, Chalet Ari
 
 ## Related Notes
 
+
 - [Big White Ski Resort, British Columbia](big_white_ski_resort_british_columbia.md): another purpose-built resort covered in a different guide
 - [Fernie Alpine Ski Resort](fernie_alpine_ski_resort.md): another resort profile from a different ski guide
 - [Lech, Austria Ski Resort](lech_austria_ski_resort.md): another resort from the same luxury round-up
@@ -19,6 +20,7 @@ Oxford Ski has a contemporary catered chalet in the heart of Megève, Chalet Ari
 - [Ólafsfjörður, Iceland Heliskiing](olafsfjordur_iceland_heliskiing.md): another entry from the same luxury round-up
 - [Vail, Colorado Ski Resort](vail_colorado_ski_resort.md): another resort from the same luxury round-up
 - [Whistler Blackcomb Ski Resort](whistler_blackcomb_ski_resort.md): another resort from the same luxury round-up
+- [Zermatt: 360km Of High-Altitude Slopes Beneath The Matterhorn](zermatt_switzerland_ski_resort.md): same source document (doc_0573)
 
 ## Source
 

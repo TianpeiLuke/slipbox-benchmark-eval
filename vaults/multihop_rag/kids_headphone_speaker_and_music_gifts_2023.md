@@ -11,11 +11,20 @@ Headphones built for kids are, the guide argues, low key some of the best gadget
 
 ## Related Notes
 
+
 - [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): also concerns the Echo Dot, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): also concerns the Echo Dot, from a different source document.
 - [Anker Soundcore Space Q45 And Life Q30](anker_soundcore_space_q45_and_life_q30.md): shares the noise-cancelling headphones theme, from a different source document.
 - [Apple AirPods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): shares the hardware and noise-cancelling headphones themes, from a different source document.
 - [Audio-Technica ATH-M20xBT Deal](audio_technica_ath_m20xbt_deal.md): overlapping coverage of wireless headphones sold on Amazon, from a different source document.
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0424)
+- [Apple iPad Ninth Generation Deal Listings](apple_ipad_ninth_generation_deal_listings.md): same source document (doc_0424)
+- [Kids' Apparel And Keepsake Gifts 2023](kids_apparel_and_keepsake_gifts_2023.md): same source document (doc_0424)
+- [Kids' Maker And DIY Kit Gifts 2023](kids_maker_and_diy_kit_gifts_2023.md): same source document (doc_0424)
+- [Kids' Nintendo Switch Game And Controller Gifts 2023](kids_nintendo_switch_game_and_controller_gifts_2023.md): same source document (doc_0424)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
 
 ## Source
 

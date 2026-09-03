@@ -11,6 +11,7 @@ The government's stated 2028 outcomes are three: that climate and disaster risk 
 
 ## Related Notes
 
+
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): concerns public concern about climate change, from a different source document.
 - [Call For Consistent Macroeconomic Policy](call_for_consistent_macroeconomic_policy.md): links climate goals to economic policy, from a different source document.
 - [COP28 Renewable Energy Commitments And The IEA Outlook](cop28_renewable_energy_commitments_and_the_iea_outlook.md): concerns climate commitments and renewable energy at a global level, from a different source document.
@@ -19,6 +20,8 @@ The government's stated 2028 outcomes are three: that climate and disaster risk 
 - [Philippine Development Plan 2023 2028 Targets](philippine_development_plan_2023_2028_targets.md): drawn from the same article and gives the plan these outcomes sit within.
 - [Philippine Human Capital Institutions And Infrastructure](philippine_human_capital_institutions_and_infrastructure.md): drawn from the same article and covers the infrastructure planning this strategy asks to embed resilience in.
 - [Philippine Inflation 2023 And Government Response](philippine_inflation_2023_and_government_response.md): drawn from the same article and covers the price stability issue named alongside this one.
+- [Philippine Investment Liberalisation And RCEP](philippine_investment_liberalisation_and_rcep.md): same source document (doc_0410)
+- [The Private Sector's Role In Philippine Sustainable Development](private_sector_role_in_philippine_sustainable_development.md): same source document (doc_0410)
 
 ## Source
 

@@ -11,10 +11,18 @@ Other popular models from the likes of Sony, Beats, Bose and Apple were discount
 
 ## Related Notes
 
+
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): same source document; a budget option in the same roundup.
 - [Black Friday 2023 Dates And Retailer Schedules](black_friday_2023_dates_and_retailer_schedules.md): overlaps in content on Black Friday shopping timing, from a different source document.
 - [Black Friday 2023 Extended Sale Period](black_friday_2023_extended_sale_period.md): overlaps in content on the deal window, from a different source document.
 - [Bose QuietComfort Earbuds II](bose_quietcomfort_earbuds_ii.md): overlaps in content on wireless earbuds from Bose, from a different source document.
+- [Amazon's Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): content overlap 0.15 on deals, shopping, holiday; different source document
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): content overlap 0.15 on headphones, earbuds, deals; different source document
+- [Anker Soundcore Liberty 4 NC Earbuds Deal Prices](anker_soundcore_liberty_4_nc_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space Q45 Deal](anker_soundcore_space_q45_deal.md): same source document (doc_0404)
+- [Apple AirPods 2nd Gen Holiday Deal](apple_airpods_2nd_gen_holiday_deal.md): same source document (doc_0404)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

@@ -13,6 +13,7 @@ At 7:12 PM IST Starc spoke about playing under Shreyas Iyer: "I am really excite
 
 ## Related Notes
 
+
 - [ICC World Cup 2023 Top Run Scorers](icc_world_cup_2023_top_run_scorers.md): overlapping Mitchell and Iyer name coverage, from a different source document.
 - [Harshal Patel's Vijay Hazare Trophy Form Before the IPL Auction](harshal_patel_vijay_hazare_trophy_form_before_ipl_auction.md): same auction live blog.
 - [IPL 2024 Auction: All-Rounders Set](ipl_2024_auction_all_rounders_set.md): same auction live blog, covering the set sold before the pacers.
@@ -21,6 +22,8 @@ At 7:12 PM IST Starc spoke about playing under Shreyas Iyer: "I am really excite
 - [IPL 2024 Auction: Capped Wicketkeepers Set](ipl_2024_auction_capped_wicketkeepers_set.md): same auction live blog.
 - [IPL 2024 Auction: Expert Previews and Team Strategy](ipl_2024_auction_expert_previews_and_team_strategy.md): same auction live blog, on the strategies previewed that morning.
 - [IPL 2024 Auction: Final Round Results](ipl_2024_auction_final_round_results.md): same auction live blog, on the closing round.
+- [IPL 2024 Auction: The Accelerated Round](ipl_2024_auction_first_accelerated_round.md): same source document (doc_0307)
+- [IPL 2024 Auction: Overseas Availability Concerns](ipl_2024_auction_overseas_availability_concerns.md): same source document (doc_0307)
 
 ## Source
 

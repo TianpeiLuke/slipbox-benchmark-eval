@@ -13,6 +13,7 @@ For generative media, the prediction is that video and audio will find niches wh
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares the creator-economy theme, from a different source document.
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): shares the AI tooling and creator theme, from a different source document.
 - [AI-Assisted Works Copyright Eligibility](ai_assisted_works_copyright_eligibility.md): shares the creator-economy theme, from a different source document.
@@ -21,6 +22,14 @@ For generative media, the prediction is that video and audio will find niches wh
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): shares the creator-economy theme, from a different source document.
 - [AMO Scale Ambition And Product Roadmap](amo_scale_ambition_and_product_roadmap.md): shares the creator-economy theme, from a different source document.
 - [AOC Twitch Among Us Stream](aoc_twitch_among_us_stream.md): shares the creator-economy theme, from a different source document.
+- [Prediction: An AI Compliance Industry And Slow Regulation](prediction_ai_compliance_industry_and_slow_regulation.md): same source document (doc_0365)
+- [Prediction: AI Copyright Lawsuits Stall And Multiply](prediction_ai_copyright_lawsuits_stall_and_multiply.md): same source document (doc_0365)
+- [Prediction: AI Marketing Claims Meet Reality](prediction_ai_marketing_claims_meet_reality.md): same source document (doc_0365)
+- [Prediction: Apple Enters The AI Market](prediction_apple_enters_the_ai_market.md): same source document (doc_0365)
+- [Prediction: Generative AI Disinformation In The 2024 Election](prediction_generative_ai_disinformation_in_2024_election.md): same source document (doc_0365)
+- [Prediction: The Limits Of Monolithic LLMs](prediction_limits_of_monolithic_llms.md): same source document (doc_0365)
+- [Prediction: OpenAI Becomes A Product Company](prediction_openai_becomes_a_product_company.md): same source document (doc_0365)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

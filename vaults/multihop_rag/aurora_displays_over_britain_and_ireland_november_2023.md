@@ -11,6 +11,7 @@ Debby Thorne captured a vibrant pink display from Cullen on the Moray Firth in S
 
 ## Related Notes
 
+
 - [Lake District Aurora Viewing](lake_district_aurora_viewing.md): another account of watching the northern lights from British skies.
 - [Northern Lights: UK Visibility and the Aurora Mechanism](northern_lights_uk_visibility_and_aurora_mechanism.md): explains when and why UK observers get to see displays like these.
 - [Northern Lights Viewing Conditions](northern_lights_viewing_conditions.md): covers the conditions under which such displays become visible.
@@ -19,6 +20,8 @@ Debby Thorne captured a vibrant pink display from Cullen on the Moray Firth in S
 - [Aurora Over the Glasgow, Montana Weather Office](aurora_over_glasgow_montana_weather_office.md): from the same article, a sighting of the same storm in the US.
 - [Aurora Sightings Beyond Usual Latitudes: Greece, Turkey and Australia](aurora_sightings_beyond_usual_latitudes_greece_turkey_australia.md): from the same article, on far more southerly sightings that night.
 - [How Geomagnetic Storms Produce Auroras](how_geomagnetic_storms_produce_auroras.md): from the same article, explaining what these observers were seeing.
+- [The November 2023 G3 Geomagnetic Storm](november_2023_g3_geomagnetic_storm.md): same source document (doc_0556)
+- [STEVE Sightings, November 2023](steve_sightings_november_2023.md): same source document (doc_0556)
 
 ## Source
 

@@ -13,6 +13,7 @@ The film is full of sudden twists, mostly backstory reveals suitable for a parti
 
 ## Related Notes
 
+
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 list
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): a fellow entry on the same ranked list
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
@@ -21,6 +22,8 @@ The film is full of sudden twists, mostly backstory reveals suitable for a parti
 - [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): a fellow pick in the same article
 - [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): another film from the same list
 - [Creed III (Michael B. Jordan)](creed_iii_michael_b_jordan.md): another 2023 release from the same document
+- [Dream Scenario (Kristoffer Borgli)](dream_scenario_kristoffer_borgli.md): same source document (doc_0094)
+- [Dungeons & Dragons: Honor Among Thieves](dungeons_and_dragons_honor_among_thieves.md): same source document (doc_0094)
 
 ## Source
 

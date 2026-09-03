@@ -11,11 +11,19 @@ The claim rests on transformation: "The doctrine of fair use [within existing US
 
 ## Related Notes
 
+
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): the music-publisher argument this filing opposes, from a different source document.
 - [FTC Generative AI Roundtable](ftc_generative_ai_roundtable.md): overlaps on creator economy, generative ai subject matter, from a different source document.
 - [Google Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): overlaps on creator economy, generative ai subject matter, from a different source document.
 - [NMPA Submission: Generative AI as Greatest Risk](nmpa_submission_generative_ai_greatest_risk.md): the creator-side framing of the same proceeding, from a different source document.
 - [Opt-In Versus Opt-Out AI Training Consent](opt_in_versus_opt_out_ai_training_consent.md): the consent regime at issue before the same Copyright Office, from a different source document.
+- [Anthropic's Fair Use Defense For AI Training](anthropic_fair_use_defense_for_ai_training.md): same source document (doc_0380)
+- [Which Artists Joined "Dream Track", And The Licensing Questions That Follow](dream_track_artist_selection_and_licensing_questions.md): same source document (doc_0381)
+- [Ed Newton-Rex's Resignation From Stability AI](ed_newton_rex_resignation_stability_ai.md): same source document (doc_0380)
+- [Fair Use, Explained Plainly](fair_use_doctrine_plain_explanation.md): same source document (doc_0381)
+- [Deepfakes And Unauthorized Voice Clones Harm Artists](generative_ai_deepfakes_harm_to_artists.md): same source document (doc_0380)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

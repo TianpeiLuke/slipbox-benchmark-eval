@@ -11,11 +11,18 @@ Morosi's report framed the pursuit as Los Angeles looking to land another splash
 
 ## Related Notes
 
+
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): overlaps on the Angels' post-Ohtani roster moves, from a different document.
 - [Juan Soto Traded From Padres to Yankees](juan_soto_traded_from_padres_to_yankees.md): also relies on reporting by Jon Morosi, from a different document.
 - [Mariners Offseason Payroll Space and Trade Talks](mariners_offseason_payroll_space_and_trade_talks.md): also relies on reporting by Jon Morosi, from a different document.
 - [MLB 2023 Offseason Starting Pitcher Trade Market](mlb_2023_offseason_starting_pitcher_trade_market.md): also covers Blake Snell and reporting by Jon Morosi, from a different document.
 - [Obstacles to Mike Trout Leaving the Angels](obstacles_to_mike_trout_leaving_the_angels.md): overlaps on the Angels' position after losing Ohtani, from a different document.
+- [Braves Cut Matt Carpenter After Trying To Trade Him](braves_release_matt_carpenter.md): same source document (doc_0422)
+- [Cody Bellinger's Market And Suitors After Ohtani Signed](cody_bellinger_free_agent_market_and_suitors.md): same source document (doc_0422)
+- [Jack Flaherty's One-Year Deal With The Tigers](jack_flaherty_tigers_one_year_deal.md): same source document (doc_0422)
+- [Kansas City Royals' December 2023 Signings](kansas_city_royals_2023_offseason_signings.md): same source document (doc_0422)
+- [Lourdes Gurriel Jr. Re-Signs With The Diamondbacks](lourdes_gurriel_jr_diamondbacks_re_signing.md): same source document (doc_0422)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

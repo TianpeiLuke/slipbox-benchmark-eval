@@ -13,11 +13,18 @@ Buffalo could not escape. Allen threw quickly to Cooks for four, missed Diggs to
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): overlapping Burrow, Bills and Bengals content, from a different document.
 - [Fantasy Week 13 Jaguars-Bengals Outlook](fantasy_week_13_jaguars_bengals_outlook.md): also covers Joe Mixon and the Bengals, separately sourced.
 - [Joe Burrow, Bengals Midseason MVP](joe_burrow_bengals_midseason_mvp.md): another assessment of Burrow in Cincinnati, in a different document.
 - [Jordan Poyer's Football Performance After Ayahuasca](jordan_poyer_football_performance_after_ayahuasca.md): also concerns Jordan Poyer, from a separate source.
 - [Jordan Poyer's Handpan and Sound Healing](jordan_poyer_handpan_and_sound_healing.md): another Jordan Poyer item, in a different document.
+- [Bills At Bengals Broadcast Details](bills_bengals_snf_broadcast_details.md): same source document (doc_0294)
+- [The First Quarter Of Bengals 24, Bills 18](bills_bengals_snf_first_quarter.md): same source document (doc_0294)
+- [The Fourth Quarter Of Bengals 24, Bills 18](bills_bengals_snf_fourth_quarter.md): same source document (doc_0294)
+- [Pregame Notes From Bills At Bengals](bills_bengals_snf_pregame_notes.md): same source document (doc_0294)
+- [Bengals 24, Bills 18 On Sunday Night Football](bills_bengals_snf_result_and_recap.md): same source document (doc_0294)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

@@ -11,11 +11,17 @@ The book is divided into 20 categories, each containing 10 critters that hew to 
 
 ## Related Notes
 
+
 - [Exquisite Biome](exquisite_biome_worldbuilding_ttrpg.md): same source; another book about generating creatures rather than cataloguing them.
 - [Dungeon Crawl Classics](dungeon_crawl_classics_rpg.md): same source; another system in the old-school lineage this supplement serves.
 - [Monster Hunter Now Niantic Game](monster_hunter_now_niantic_game.md): overlaps in content on monsters, monster, feel, from a different source document.
 - [City Of Winter](city_of_winter_ttrpg.md): drawn from the same source document (doc_0591).
 - [Dead After Dinner](dead_after_dinner_ttrpg.md): drawn from the same source document (doc_0591).
+- [Desperation](desperation_ttrpg_jason_morningstar.md): same source document (doc_0591)
+- [Dungeons & Dragons In 2023](dungeons_and_dragons_2023_play_experiences.md): same source document (doc_0591)
+- [Eating Oranges In The Shower](eating_oranges_in_the_shower_larp.md): same source document (doc_0591)
+- [Fetch My Blade](fetch_my_blade_solo_journaling_rpg.md): same source document (doc_0591)
+- [Home](home_haunted_house_ttrpg.md): same source document (doc_0591)
 
 ## Source
 

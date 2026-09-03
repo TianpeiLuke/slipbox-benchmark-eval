@@ -13,6 +13,7 @@ A third batch listed ChargePoint Holdings (CHPT), C3.ai (AI), Veeva Systems (VEE
 
 ## Related Notes
 
+
 - [Broadcom Q4 FY2023 Earnings Preview and VMware Integration](broadcom_q4_fy2023_earnings_preview_and_vmware_integration.md): one of the marquee reports these secondary batches sat alongside, from the same source document.
 - [DocuSign Q3 FY2024 Earnings Preview](docusign_q3_fy2024_earnings_preview.md): another headline report from the same week-ahead, from the same source document.
 - [Earnings Week Ahead: December 4-8, 2023](earnings_week_ahead_december_4_8_2023.md): the headline slate for the same week, from the same source document.
@@ -21,6 +22,8 @@ A third batch listed ChargePoint Holdings (CHPT), C3.ai (AI), Veeva Systems (VEE
 - [GitLab Q3 FY2024 Earnings Preview](gitlab_q3_fy2024_earnings_preview.md): the week's Monday-evening software report, from the same source document.
 - [GitLab Sell-Side Analyst Theses, Late 2023](gitlab_sell_side_analyst_theses_late_2023.md): the analyst positioning behind one of the week's headline names, from the same source document.
 - [Hello Group (MOMO) Q3 2023 Earnings Preview](hello_group_momo_q3_2023_earnings_preview.md): the week's Friday-morning report, from the same source document.
+- [Individual Trader's Hello Group Bottom-Formation Thesis](individual_trader_hello_group_bottom_formation_thesis.md): same source document (doc_0581)
+- [Josh Arnold's GameStop Structural Unprofitability Critique](josh_arnold_gamestop_structural_unprofitability_critique.md): same source document (doc_0581)
 
 ## Source
 

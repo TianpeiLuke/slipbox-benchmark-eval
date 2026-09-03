@@ -11,6 +11,7 @@ For the Monday 8:15 p.m. ET game on ABC/ESPN and fubo, he noted both teams were 
 
 ## Related Notes
 
+
 - [Baltimore Ravens Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): also covers Lamar Jackson and the Ravens offense, from a different source document.
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): also covers Justin Fields, from a different source document.
 - [Bears Game-Ending Hail Mary vs Browns](bears_game_ending_hail_mary_vs_browns.md): also covers Justin Fields, from a different source document.
@@ -19,6 +20,7 @@ For the Monday 8:15 p.m. ET game on ABC/ESPN and fubo, he noted both teams were 
 - [Prisco 2023 Week 12 Picks Season Record](prisco_2023_week_12_picks_season_record.md): the season-record framing for the same column (doc_0343).
 - [Prisco Week 12 Sunday Early Window Picks](prisco_week_12_sunday_early_window_picks.md): the early-window picks from the same column (doc_0343).
 - [Prisco Week 12 Sunday Late Afternoon Picks](prisco_week_12_sunday_late_afternoon_picks.md): the late-afternoon picks from the same column (doc_0343).
+- [Prisco's Week 12 Thanksgiving And Black Friday Picks](prisco_week_12_thanksgiving_and_black_friday_picks.md): same source document (doc_0343)
 
 ## Source
 

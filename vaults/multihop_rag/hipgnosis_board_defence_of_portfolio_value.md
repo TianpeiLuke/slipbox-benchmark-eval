@@ -13,11 +13,18 @@ The warrant joining evidence to conclusion is a commitment rather than a further
 
 ## Related Notes
 
+
 - [Amex Cash Magnet Travel Limitations](amex_cash_magnet_travel_limitations.md): shares corpus vocabulary around transaction terms and fees.
 - [HSF Board Versus Hipgnosis Song Management Dispute](hsf_board_versus_hipgnosis_song_management_dispute.md): a later breakdown of the board-adviser alignment asserted here.
 - [HSF Coded Signal and Mercuriadis Call Option](hsf_coded_signal_and_mercuriadis_call_option.md): another view of the board's messaging to shareholders.
 - [HSM Conflict of Interest in Valuation Opinion](hsm_conflict_of_interest_in_valuation_opinion.md): challenges the independence of value claims about the same portfolio.
 - [JP Morgan Note on HSF Valuation Credibility](jp_morgan_note_on_hsf_valuation_credibility.md): an external assessment of the board's value claims.
+- [Hipgnosis $440 Million Catalog Sale to Hipgnosis Songs Capital](hipgnosis_440_million_catalog_sale_to_hipgnosis_songs_capital.md): same source document (doc_0464)
+- [Hipgnosis Go-Shop Clause and Rival Bids](hipgnosis_go_shop_clause_and_rival_bids.md): same source document (doc_0464)
+- [Hipgnosis Investment Advisory Agreement Amendments](hipgnosis_investment_advisory_agreement_amendments.md): same source document (doc_0464)
+- [Hipgnosis Songs Fund Board Changes September 2023](hipgnosis_songs_fund_board_changes_september_2023.md): same source document (doc_0464)
+- [Hipgnosis Songs Fund Continuation Vote](hipgnosis_songs_fund_continuation_vote.md): same source document (doc_0464)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

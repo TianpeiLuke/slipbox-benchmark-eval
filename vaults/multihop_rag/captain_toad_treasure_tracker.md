@@ -13,6 +13,7 @@ Each self-contained course has little nooks and crannies to pop in and out of, a
 
 ## Related Notes
 
+
 - [Super Mario Bros. Wonder Art and Overworld Map](super_mario_bros_wonder_art_and_overworld_map.md): overlapping level-design vocabulary from a different source document
 - [Cat Quest 2](cat_quest_2.md): another entry in the same couch co-op roundup
 - [Crypt of the NecroDancer](crypt_of_the_necrodancer.md): another local co-op recommendation from the same document
@@ -21,6 +22,8 @@ Each self-contained course has little nooks and crannies to pop in and out of, a
 - [Escape Academy](escape_academy.md): another puzzle-focused co-op pick from the same source
 - [Good Job! (Nintendo Switch)](good_job_nintendo_switch.md): another co-op recommendation in the same list
 - [Kirby and the Forgotten Land](kirby_and_the_forgotten_land.md): another Nintendo co-op game from the same article
+- [Lego Star Wars: The Skywalker Saga](lego_star_wars_the_skywalker_saga.md): same source document (doc_0428)
+- [Lovers in a Dangerous Spacetime](lovers_in_a_dangerous_spacetime.md): same source document (doc_0428)
 
 ## Source
 

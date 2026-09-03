@@ -13,11 +13,18 @@ Kuruvilla, whose company provides checkout technology to merchants, framed the o
 
 ## Related Notes
 
+
 - [Coinbase SEC Standoff And Regulatory Clarity](coinbase_sec_standoff_and_regulatory_clarity.md): another company's dealings with the Securities and Exchange Commission, from a different source document.
 - [FTX Cooperating Witnesses](ftx_cooperating_witnesses.md): also concerns the Securities and Exchange Commission, from a different source document.
 - [FTX Fraud Charges And SEC Allegation](ftx_fraud_charges_and_sec_allegation.md): another SEC matter, from a different source document.
 - [Prior SEC And CFTC Actions Against Binance](prior_sec_and_cftc_actions_against_binance.md): earlier SEC enforcement activity, from a different source document.
 - [Sam Bankman-Fried Charges And The Collapse Of FTX](sam_bankman_fried_charges_and_the_collapse_of_ftx.md): another SEC-involved case, from a different source document.
+- [CRED's 255% Operating Revenue Growth To $168.1 Million](cred_revenue_growth.md): same source document (doc_0075)
+- [Fintech Funding Roundup, October 2023](fintech_funding_roundup_oct_2023.md): same source document (doc_0075)
+- [Fintech Startups On The 2023 Ranking Lists](fintech_startup_rankings_2023.md): same source document (doc_0075)
+- [Gatekeeper Platforms Will Keep Drawing Antitrust Suits Over Their Fees](payment_gatekeeper_antitrust_view.md): same source document (doc_0075)
+- [PayPal's Anti-Steering Class Action](paypal_anti_steering_lawsuit.md): same source document (doc_0075)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
 
 ## Source
 

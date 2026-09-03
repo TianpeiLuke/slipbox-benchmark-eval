@@ -13,6 +13,7 @@ The objection is travel, and it cuts against the premise that Kane should stay E
 
 ## Related Notes
 
+
 - [Baker Mayfield's 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): another Tampa Bay item, from a different document.
 - [Baker Mayfield's Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also concerns Tampa Bay, separately sourced.
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): another Tampa Bay item, in a different document.
@@ -21,6 +22,7 @@ The objection is travel, and it cuts against the premise that Kane should stay E
 - [Patrick Kane's 2023 Free Agency Situation](patrick_kane_2023_free_agency_situation.md): the decision this option belongs to, same source document.
 - [Patrick Kane's Fit With the Buffalo Sabres](patrick_kane_buffalo_sabres_fit.md): a competing destination, same source document.
 - [Patrick Kane's Fit With the Dallas Stars](patrick_kane_dallas_stars_fit.md): another competing destination, same source document.
+- [Patrick Kane's Fit With The Detroit Red Wings](patrick_kane_detroit_red_wings_fit.md): same source document (doc_0356)
 
 ## Source
 

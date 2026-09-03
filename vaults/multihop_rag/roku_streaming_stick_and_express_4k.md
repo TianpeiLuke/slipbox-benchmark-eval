@@ -13,12 +13,18 @@ The cheaper Roku Express 4K Plus streaming stick was available for $24.97 in The
 
 ## Related Notes
 
+
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): covers the competing affordable streaming sticks, from a different source document.
 - [Apple TV 4K Holiday Deal](apple_tv_4k_holiday_deal.md): covers a competing Dolby Vision streaming box, from a different source document.
 - [Prime Day 2023 TV Deals](prime_day_2023_tv_deals.md): covers Dolby Vision televisions in the same sale, from a different source document.
 - [Roku Streambar Pro](roku_streambar_pro.md): covers another Roku streaming device, from a different source document.
 - [Roku Streaming Stick 4K Deal](roku_streaming_stick_4k_deal.md): covers the same stick at a different sale, from a different source document.
 - [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): drawn from the same source document (doc_0250).
+- [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): same source document (doc_0250)
+- [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): same source document (doc_0567)
+- [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): same source document (doc_0250)
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): same source document (doc_0250)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

@@ -11,11 +11,18 @@ It was the game's final moments that drew the most intrigue, mostly because of t
 
 ## Related Notes
 
+
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): another game played at Lambeau Field, from a different document.
 - [Lions Defeat Packers Week 4 2023 Recap](lions_defeat_packers_week_4_2023_recap.md): another Lambeau Field game, from a different document.
 - [Lions Packers Rivalry Shift 2022-2023](lions_packers_rivalry_shift_2022_2023.md): also centred on Lambeau Field, from a different document.
 - [Lions Packers Week 4 FanDuel Single Game Lineup](lions_packers_week_4_fanduel_single_game_lineup.md): also concerns a Lambeau Field fixture, from a different document.
 - [Lions Packers Week 4 First Half and Pregame Log](lions_packers_week_4_first_half_and_pregame_log.md): another live log from Lambeau Field, from a different document.
+- [Broadcast And Kickoff Details For Chiefs-Packers Week 13](chiefs_packers_week_13_broadcast_and_kickoff_details.md): same source document (doc_0034)
+- [First Half Sequence Of Packers-Chiefs Week 13](chiefs_packers_week_13_first_half_sequence.md): same source document (doc_0034)
+- [Fourth Quarter Sequence Of Packers-Chiefs Week 13](chiefs_packers_week_13_fourth_quarter_sequence.md): same source document (doc_0034)
+- [Third Quarter Sequence Of Packers-Chiefs Week 13](chiefs_packers_week_13_third_quarter_sequence.md): same source document (doc_0034)
+- [Jordan Love's Week 13 Performance Against Kansas City](jordan_love_2023_breakout_season.md): same source document (doc_0034)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

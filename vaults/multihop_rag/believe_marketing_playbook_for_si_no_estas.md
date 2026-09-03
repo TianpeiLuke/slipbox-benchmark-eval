@@ -11,6 +11,7 @@ The results reported are that the track has been included in over 180 playlists 
 
 ## Related Notes
 
+
 - [Google Spotify Zero Percent Play Billing Deal](google_spotify_zero_percent_play_billing_deal.md): also concerns Spotify as a platform partner, from a different source document.
 - [Kravata LATAM Fiat Crypto Onramp](kravata_latam_fiat_crypto_onramp.md): also concerns Latin America as a market, from a different source document.
 - [Microsoft Generative AI Disinformation Measures](microsoft_generative_ai_disinformation_measures.md): also concerns Latin America, from a different source document.
@@ -19,6 +20,8 @@ The results reported are that the track has been included in over 180 playlists 
 - [Artists Seeking Control Transparency And Masters Ownership](artists_seeking_control_transparency_and_masters_ownership.md): drawn from the same interview and covers the service tiers behind this campaign.
 - [Believe Distributor Profile And Alejandra Olea](believe_distributor_profile_and_alejandra_olea.md): drawn from the same interview and introduces the executive describing this playbook.
 - [Believe Local Scouting And Acqustic Partnership](believe_local_scouting_and_acqustic_partnership.md): drawn from the same interview and covers how the label relationship that seeded this campaign began.
+- [The Digital-First Artist Development Model](digital_first_artist_development_model.md): same source document (doc_0211)
+- [Global Hits Without Major Label Deals](global_hits_without_major_label_deals.md): same source document (doc_0211)
 
 ## Source
 

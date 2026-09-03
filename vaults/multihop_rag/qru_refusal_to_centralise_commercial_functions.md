@@ -13,6 +13,7 @@ It backed the position with its own financial and participation record. The lett
 
 ## Related Notes
 
+
 - [Nucifora Argument Against Returning to Australian Rugby](nucifora_argument_against_returning_to_australian_rugby.md): another sceptical position on Australian rugby reform, different source document
 - [Peter Horne Rugby Australia High Performance Director Appointment](peter_horne_rugby_australia_high_performance_director_appointment.md): the centralising side of the same debate, different source document
 - [Rugby Australia High Performance Director Role Remit](rugby_australia_high_performance_director_role_remit.md): what centralised high performance would cover, different source document
@@ -21,6 +22,7 @@ It backed the position with its own financial and participation record. The lett
 - [Eddie Jones Case for Reforming Australian Rugby System](eddie_jones_case_for_reforming_australian_rugby_system.md): the centralisation argument this pushes back on, same source document
 - [NSW Waratahs Licence Handover to Rugby Australia](nsw_waratahs_licence_handover_to_rugby_australia.md): the handover Queensland declined to imitate, same source document
 - [Queensland Rugby Union Stance on High Performance Centralisation](queensland_rugby_union_stance_on_high_performance_centralisation.md): the part of centralisation the QRU does accept, same source document
+- [Rugby Australia's Debt And Funding Position In 2023](rugby_australia_debt_and_funding_position_2023.md): same source document (doc_0492)
 
 ## Source
 

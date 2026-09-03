@@ -11,11 +11,18 @@ Netflix also took Insidious: The Red Door, the fifth installment in the Insidiou
 
 ## Related Notes
 
+
 - [A Haunting In Venice](a_haunting_in_venice_poirot_mystery.md): same source; the Hulu debut listed here.
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): also covers Prime Video, from a different source document.
 - [Bears Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also covers Prime Video, from a different source document.
 - [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): also covers Prime Video, from a different source document.
 - [Catherine Called Birdy 2022 Lena Dunham Comedy](catherine_called_birdy_2022_lena_dunham_comedy.md): also covers Prime Video, from a different source document.
+- [Charade (1963): Stanley Donen's Comedy Thriller](charade_1963_donen_comedy_thriller.md): both discuss Prime Video; different source document
+- [Freaks Vs. The Reich](freaks_vs_the_reich_italian_superhero_film.md): same source document (doc_0382)
+- [Insidious: The Red Door](insidious_the_red_door.md): same source document (doc_0382)
+- [Jawan](jawan_shah_rukh_khan_action_thriller.md): same source document (doc_0382)
+- [My Big Fat Greek Wedding 3](my_big_fat_greek_wedding_3.md): same source document (doc_0382)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

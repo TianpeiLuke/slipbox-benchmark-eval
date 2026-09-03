@@ -13,9 +13,14 @@ The optimism is bounded by a sharp rejection of one common defence of platforms 
 
 ## Related Notes
 
+
 - [Israeli Tech Industry Boycott of Web Summit](israel_tech_industry_boycott.md): a companion note in the same platform-governance batch, on tech leaders acting against a platform they judged badly governed.
 - [Web Summit Business Impact](web_summit_business_impact.md): a companion note in the same batch, on the commercial cost when a platform's steward loses the room.
 - [Web Summit Cosgrave Controversy](web_summit_cosgrave_controversy.md): a companion note in the same batch, on the same question of who answers for a platform's public stance.
+- [Ohanian's Critique of Social Media and the Creator Economy](ohanian_social_media_critique.md): same source document (doc_0278)
+- [Why Platforms Cannot Arbitrate Truth](platform_truth_arbitration.md): same source document (doc_0278)
+- [Reddit's Origins and the Primacy of User-Generated Content](reddit_moderation_history.md): same source document (doc_0278)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

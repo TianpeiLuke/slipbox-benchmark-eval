@@ -11,6 +11,7 @@ Before October 7, IMPA received about 100 reports a day dealing with terror fina
 
 ## Related Notes
 
+
 - [Fatf Iran Isolation and Cash Dependency](fatf_iran_isolation_and_cash_dependency.md): another note drawn from the same source document (doc_0486).
 - [Hamas Fundraising After October 7](hamas_fundraising_after_october_7.md): the campaign activity behind the surge (doc_0486).
 - [Hawala Money Transfer into Gaza](hawala_money_transfer_into_gaza.md): another note drawn from the same source document (doc_0486).
@@ -19,6 +20,8 @@ Before October 7, IMPA received about 100 reports a day dealing with terror fina
 - [Iran State Funding of Hamas](iran_state_funding_of_hamas.md): another note drawn from the same source document (doc_0486).
 - [Israel's Money Laundering and Terror Financing Prohibition Authority](israel_money_laundering_and_terror_financing_authority.md): the authority receiving and triaging these reports (doc_0486).
 - [Private Sector Volunteers in Terror Finance Tracking](private_sector_volunteers_in_terror_finance_tracking.md): the extra analytic capacity brought in to cope (doc_0486).
+- [Trade-Based Terror Financing Schemes](trade_based_terror_financing_schemes.md): same source document (doc_0486)
+- [The US Treasury's FinCEN And OFAC Response](us_treasury_fincen_and_ofac_response.md): same source document (doc_0486)
 
 ## Source
 

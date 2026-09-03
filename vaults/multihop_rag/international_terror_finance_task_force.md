@@ -11,6 +11,7 @@ The measurable effect is in intelligence volume: following an appeal by IMPA to 
 
 ## Related Notes
 
+
 - [Gaza Information War and the Hamas Narrative](gaza_information_war_and_hamas_narrative.md): also concerns Islamic Jihad, from a different source document.
 - [Adam Yedidia Testimony and the Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): overlaps on fraud subject matter, from a different source document.
 - [AI Copyright and Training Disputes](ai_copyright_and_training_disputes.md): overlaps on fraud subject matter, from a different source document.
@@ -19,6 +20,18 @@ The measurable effect is in intelligence volume: following an appeal by IMPA to 
 - [Alameda Special Privileges in FTX Code](alameda_special_privileges_in_ftx_code.md): overlaps on fraud subject matter, from a different source document.
 - [Alivecor Ekg Import Ban and the Ptab Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): overlaps on appeals process subject matter, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): overlaps on appeals process subject matter, from a different source document.
+- [Isolating Iran Through FATF, And The Cash Dependency Problem](fatf_iran_isolation_and_cash_dependency.md): same source document (doc_0486)
+- [Hamas Fundraising After October 7](hamas_fundraising_after_october_7.md): same source document (doc_0486)
+- [Hawala As The Main Money Transfer Channel Into Gaza](hawala_money_transfer_into_gaza.md): same source document (doc_0486)
+- [IMPA's Blocking Of A Hamas Fundraising Pipeline In Europe](impa_blocking_hamas_fundraising_in_europe.md): same source document (doc_0486)
+- [Iran's State Funding Of Hamas](iran_state_funding_of_hamas.md): same source document (doc_0486)
+- [Israel's Money Laundering And Terror Financing Prohibition Authority](israel_money_laundering_and_terror_financing_authority.md): same source document (doc_0486)
+- [Private Sector Volunteers In Terror Finance Tracking](private_sector_volunteers_in_terror_finance_tracking.md): same source document (doc_0486)
+- [The Surge In Terror Financing Reports After October 7](surge_in_terror_financing_reports_after_october_7.md): same source document (doc_0486)
+- [Trade-Based Terror Financing Schemes](trade_based_terror_financing_schemes.md): same source document (doc_0486)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Reserve Mobilisation](term_reserve_mobilisation.md): uses the concept reserve mobilisation
+- [Fraud](term_fraud.md): uses the concept fraud
 
 ## Source
 

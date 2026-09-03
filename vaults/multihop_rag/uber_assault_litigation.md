@@ -15,11 +15,18 @@ Uber told TechCrunch it cannot comment on pending litigation but said it remains
 
 ## Related Notes
 
+
 - [AI Copyright And Training Disputes](ai_copyright_and_training_disputes.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [Creative Industries AI Concerns](creative_industries_ai_concerns.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [FTC Generative AI Roundtable](ftc_generative_ai_roundtable.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [Twitch Advertising Strategy](twitch_advertising_strategy.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
+- [In-Car Camera Proposal](in_car_camera_proposal.md): same source document (doc_0367)
+- [Counterarguments On Uber's Assault Rate And Duty Of Care](surveillance_privacy_tradeoff.md): same source document (doc_0367)
+- [Uber's Recording Features And Driver Screening](uber_safety_features.md): same source document (doc_0367)
+- [In-Car Surveillance](term_in_car_surveillance.md): uses the concept in car surveillance
+- [Multidistrict Litigation](term_multidistrict_litigation.md): uses the concept multidistrict litigation
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

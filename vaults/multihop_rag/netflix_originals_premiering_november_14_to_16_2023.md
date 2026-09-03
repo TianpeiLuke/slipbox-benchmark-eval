@@ -11,11 +11,21 @@ Criminal Code, a Netflix Series: to crack the code of an investigation into a la
 
 ## Related Notes
 
+
 - [Diablo 4 Season 2 Renown and Gem Inventory Rework](diablo_4_season_2_renown_and_gem_inventory_rework.md): shares the game_patch_notes, streaming_service topic tags, from a different source document.
 - [Esfandtv Sports Streaming Channel](esfandtv_sports_streaming_channel.md): shares the concert_tour, streaming_service topic tags, from a different source document.
 - [EU Enforcement Against X](eu_enforcement_against_x.md): shares the game_patch_notes, regulatory_investigation topic tags, from a different source document.
 - [Golf Betting Bet Types Explained](golf_betting_bet_types_explained.md): shares the concert_tour, streaming_service topic tags, from a different source document.
 - [iPad Air M1 Holiday Deal](ipad_air_m1_holiday_deal.md): shares the game_patch_notes, streaming_service topic tags, from a different source document.
+- [Insidious: The Red Door](insidious_the_red_door.md): same source document (doc_0392)
+- [Netflix Games, November 2023](netflix_games_november_2023.md): same source document (doc_0392)
+- [Netflix's Licensed Library Additions, November 2023](netflix_licensed_library_additions_november_2023.md): same source document (doc_0392)
+- [Netflix's November 2023 Slate: Overview](netflix_november_2023_slate_overview.md): same source document (doc_0392)
+- [Netflix Originals Premiering November 17, 2023](netflix_originals_premiering_november_17_2023.md): same source document (doc_0392)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

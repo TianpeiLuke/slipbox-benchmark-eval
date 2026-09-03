@@ -13,12 +13,17 @@ At No. 5 were the Steelers (7-5), second place in the AFC North, who lost Kenny 
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): also discusses Joe Flacco, from a different document.
 - [Anthony Richardson Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): also discusses the Indianapolis Colts, from a different document.
 - [Buffalo Bills AFC Wild Card Position Week 16](buffalo_bills_afc_wild_card_position_week_16.md): overlaps on tiebreakers, the Colts and the Texans, from a different document.
 - [Cardinals 24-10 Steelers Week 13](cardinals_24_10_steelers_week_13.md): covers the Kenny Pickett injury game referenced here, from a different document.
 - [Colts 31-28 Titans Overtime Week 13](colts_31_28_titans_overtime_week_13.md): covers the Colts win referenced here, from a different document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): lists the teams outside these seven, from the same document.
+- [NFC Playoff Seeding After Week 13 Of The 2023 Season](nfc_playoff_seeding_after_week_13_2023.md): same source document (doc_0040)
+- [NFC Teams Outside The Playoff Field After Week 13 2023](nfc_wild_card_hunt_after_week_13_2023.md): same source document (doc_0040)
+- [NFL Playoff Race Heading Out Of Week 13 Of The 2023 Season](nfl_2023_week_13_playoff_race_overview.md): same source document (doc_0040)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

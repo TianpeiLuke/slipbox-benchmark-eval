@@ -13,6 +13,7 @@ Megan says that although she does not have as many followers on Twitch as on her
 
 ## Related Notes
 
+
 - [AOC's Twitch Among Us Stream](aoc_twitch_among_us_stream.md): another Twitch channel subject from a different source document
 - [Premier League India Broadcast and Streaming Rights](premier_league_india_broadcast_and_streaming_rights.md): overlapping broadcast-rights and commentary subject matter from a separate article
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): shares the streaming-service topic tag
@@ -21,6 +22,13 @@ Megan says that although she does not have as many followers on Twitch as on her
 - [Amazon Fire HD 8 and Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): shares the streaming-service tag from a separate source
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): another streaming-service-tagged hardware note
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the streaming-service topic tag
+- [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): same source document (doc_0435)
+- [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): same source document (doc_0435)
+- [EsfandTV's Sports Streaming Channel](esfandtv_sports_streaming_channel.md): same source document (doc_0435)
+- [Leagues Should Partner With Twitch Streamers Rather Than Block Markets](sports_league_partnerships_with_twitch_streamers.md): same source document (doc_0435)
+- [Twitch as an Alternative Sports Viewing Platform](twitch_as_an_alternative_sports_viewing_platform.md): same source document (doc_0435)
+- [Twitch's Investment in Sports Streamers](twitch_investment_in_sports_streamers.md): same source document (doc_0435)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

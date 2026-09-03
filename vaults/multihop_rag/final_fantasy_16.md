@@ -13,12 +13,18 @@ Critic Ana Diaz notes the quality of the story in this long and linear character
 
 ## Related Notes
 
+
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): both discuss Final Fantasy titles, from a different source document
 - [Nostalgia-Driven Major Game Releases 2023](nostalgia_driven_major_game_releases_2023.md): both cover Final Fantasy and Square Enix, from a separate article
 - [Prime Day Video Game Title Deals, October 2023](prime_day_video_game_title_deals_october_2023.md): another Final Fantasy reference from a different document
 - [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
 - [Amnesia: The Bunker](amnesia_the_bunker.md): a fellow entry on the same ranked games list
 - [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): another 2023 game from the same document
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Chants of Sennaar](chants_of_sennaar.md): same source document (doc_0213)
+- [Cocoon (Geometric Interactive)](cocoon_geometric_interactive.md): same source document (doc_0213)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

@@ -11,11 +11,18 @@ Wall Street was also contending with higher oil prices, shaky economies around t
 
 ## Related Notes
 
+
 - [ASX And Wall Street Rebound, October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): overlapping coverage of Wall Street stocks, from a different source document.
 - [ASX December 2023 Session Movers](asx_december_2023_session_movers.md): overlapping coverage of stocks and strategist commentary, from a different source document.
 - [ChatGPT's Mid-2023 Usage Decline](chatgpt_mid_2023_usage_decline.md): also concerns Capitol Hill, from a different source document.
 - [Executive Order Limits Versus AI Legislation](executive_order_limits_versus_ai_legislation.md): also concerns Capitol Hill, from a different source document.
 - [Federal Reserve Rate Path Expectations, Late 2023](federal_reserve_rate_path_expectations_late_2023.md): overlapping coverage of Wall Street and stocks, from a different source document.
+- [ASX Stock And Sector Moves, Late September 2023](asx_stock_and_sector_moves_late_september_2023.md): same source document (doc_0001)
+- [Australian Market Resilience And The Range-Bound Reading](australian_market_resilience_and_range_bound_commentary.md): same source document (doc_0001)
+- [Big Tech Declines And The Amazon FTC Antitrust Lawsuit](big_tech_declines_and_amazon_ftc_antitrust_lawsuit.md): same source document (doc_0001)
+- [Crude Oil Prices And The Qantas Senate Inquiry](crude_oil_prices_and_qantas_senate_inquiry.md): same source document (doc_0001)
+- [The Wall Street September 2023 Selloff And Bond Yields](wall_street_september_2023_selloff_and_bond_yields.md): same source document (doc_0001)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

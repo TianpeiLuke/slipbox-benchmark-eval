@@ -13,6 +13,7 @@ The Roar frames the pattern Howe was answering for: his side are proving one of 
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United At Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns the Champions League campaign referenced here, from a different document.
 - [Bayern Munich's 2-2 Draw At RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns the Champions League, from a different document.
 - [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md): also discusses Eddie Howe's Newcastle, from a different document.
@@ -20,6 +21,9 @@ The Roar frames the pattern Howe was answering for: his side are proving one of 
 - [Chelsea-Arsenal Derby Team News, October 2023](chelsea_arsenal_derby_team_news_october_2023.md): also concerns the Champions League and two of the sides Newcastle had just beaten, from a different document.
 - [Everton's Win Over Newcastle, December 2023](everton_win_over_newcastle_december_2023.md): the match this reaction follows, from the same report.
 - [Dyche On Everton's Points Deduction And Appeal](dyche_on_everton_points_deduction_and_appeal.md): the opposing manager's reaction, from the same report.
+- [Moyes On West Ham's Win At Tottenham](moyes_on_west_ham_win_at_tottenham.md): same source document (doc_0541)
+- [Postecoglou's Response To Tottenham's Losing Run](postecoglou_response_to_tottenham_losing_run.md): same source document (doc_0541)
+- [Sherwood's Analysis Of Tottenham Over-Attacking After Leading](sherwood_analysis_tottenham_over_attacking_after_leading.md): same source document (doc_0541)
 
 ## Source
 

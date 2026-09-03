@@ -15,6 +15,7 @@ As of this October 2023 account, the startup had shown impressive growth in a sh
 
 ## Related Notes
 
+
 - [AI Pricing Models](ai_pricing_models.md): shares the payment-processor theme, from a different source document.
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the total-addressable-market theme and the question of what makes a young startup defensible, from a different source document.
 - [Amex Cash Magnet Cardholder Benefits](amex_cash_magnet_cardholder_benefits.md): shares the payment-processor theme, from a different source document.
@@ -23,6 +24,19 @@ As of this October 2023 account, the startup had shown impressive growth in a sh
 - [Antibody-Drug Conjugates Market](antibody_drug_conjugates_market.md): shares the payment-processor theme tag, from an otherwise unrelated source document.
 - [Apple Versus Google: Antitrust Conduct Contrast](apple_versus_google_antitrust_conduct_contrast.md): shares the payment-processor theme, from a different source document.
 - [Bankman-Fried And Zhao Convictions And The Binance Aftermath](bankman_fried_and_zhao_convictions_and_binance_aftermath.md): shares the total-addressable-market theme, from a different source document.
+- [Bolt's SEC Probe Closed Without An Enforcement Recommendation](bolt_sec_probe.md): same source document (doc_0075)
+- [CRED's 255% Operating Revenue Growth To $168.1 Million](cred_revenue_growth.md): same source document (doc_0075)
+- [Fintech Funding Roundup, October 2023](fintech_funding_roundup_oct_2023.md): same source document (doc_0075)
+- [Fintech Startups On The 2023 Ranking Lists](fintech_startup_rankings_2023.md): same source document (doc_0075)
+- [Gatekeeper Platforms Will Keep Drawing Antitrust Suits Over Their Fees](payment_gatekeeper_antitrust_view.md): same source document (doc_0075)
+- [PayPal's Anti-Steering Class Action](paypal_anti_steering_lawsuit.md): same source document (doc_0075)
+- [The Investor Thesis For Rainforest](rainforest_investor_thesis.md): same source document (doc_0075)
+- [Slice's Merger With North East Small Finance Bank](slice_bank_merger_india.md): same source document (doc_0075)
+- [Synapse Laid Off 86 People, About 40% Of The Company](synapse_layoffs.md): same source document (doc_0075)
+- [Visa's $100 Million Generative AI Fund](visa_generative_ai_fund.md): same source document (doc_0075)
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
+- [Embedded Finance](term_embedded_finance.md): uses the concept embedded finance
+- [Total Addressable Market (TAM)](term_total_addressable_market.md): uses the concept total addressable market
 
 ## Source
 

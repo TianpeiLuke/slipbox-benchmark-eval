@@ -11,6 +11,7 @@ The pair only began seriously dating in 1995, after Smith finalised his divorce 
 
 ## Related Notes
 
+
 - [Expert Debate Over The Oscars Slap Given The Separation](expert_debate_over_the_oscars_slap_given_the_separation.md): overlapping subject matter on the Smiths' marriage and family, from separate reporting
 - [Expert Signs It Is Time To End A Marriage](expert_signs_it_is_time_to_end_a_marriage.md): covers the marriage-and-divorce question this courtship history sits underneath
 - [Separation As An Alternative To Divorce Lat Partnership](separation_as_an_alternative_to_divorce_lat_partnership.md): the expert framing of the Smiths' marriage as separation rather than divorce
@@ -19,6 +20,8 @@ The pair only began seriously dating in 1995, after Smith finalised his divorce 
 - [Jada Pinkett Smith 2023 Separation Disclosure](jada_pinkett_smith_2023_separation_disclosure.md): the 2023 revelation reported in the same relationship timeline
 - [Jada Pinkett Smith August Alsina Entanglement](jada_pinkett_smith_august_alsina_entanglement.md): a later chapter of the same timeline article
 - [Will And Jada 2021 Public Accounts Of Marital Strain](will_and_jada_2021_public_accounts_of_marital_strain.md): the later strain documented in the same timeline
+- [The Smiths' Denials Of Open-Marriage, Divorce And Infidelity Rumours](will_and_jada_denials_of_open_marriage_and_divorce_rumours.md): same source document (doc_0018)
+- ["Life Partnership" As The Smiths' Own Term For Their Marriage](will_and_jada_life_partnership_framing.md): same source document (doc_0018)
 
 ## Source
 

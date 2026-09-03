@@ -13,6 +13,7 @@ The conditional recommendation is narrow — if you are all-in on Apple devices 
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): covers the higher-end AirPods pricing, from a different source document.
 - [AirPods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): covers another discounted AirPods model, from a different source document.
 - [Anker 3-In-1 MagSafe Charging Dock Deal Listings](anker_3_in_1_magsafe_charging_dock_deal_listings.md): covers Apple-ecosystem charging accessories, from a different source document.
@@ -21,6 +22,8 @@ The conditional recommendation is narrow — if you are all-in on Apple devices 
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): drawn from the same source document (doc_0595).
 - [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): drawn from the same source document (doc_0595).
 - [Anker Soundcore Liberty 4 NC Earbuds](anker_soundcore_liberty_4_nc_earbuds.md): drawn from the same source document (doc_0595).
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0595)
+- [Anker Soundcore Space Q45 And Life Q30](anker_soundcore_space_q45_and_life_q30.md): same source document (doc_0595)
 
 ## Source
 

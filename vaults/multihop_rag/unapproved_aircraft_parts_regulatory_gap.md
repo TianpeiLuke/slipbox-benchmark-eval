@@ -11,6 +11,7 @@ Her grounds are her own casework and its stakes: "I've had cases where counterfe
 
 ## Related Notes
 
+
 - [Amazon Marketplace Foreclosure Theory of Harm](amazon_marketplace_foreclosure_theory_of_harm.md): another regulatory-investigation subject, from a different source document.
 - [AOG Technics and the Falsification of Aviation Parts Records](aog_technics_falsified_parts_records.md): the live case testing the gap (doc_0506).
 - [Astros Players Immunity and Mike Fiers](astros_players_immunity_and_mike_fiers.md): overlaps on regulatory investigation subject matter, from a different source document.
@@ -19,6 +20,11 @@ Her grounds are her own casework and its stakes: "I've had cases where counterfe
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): overlaps on regulatory investigation subject matter, from a different source document.
 - [Bolt Sec Probe](bolt_sec_probe.md): overlaps on regulatory investigation subject matter, from a different source document.
 - [Case That Michigan Sign Stealing Was Systematic Cheating](case_that_michigan_sign_stealing_was_systematic_cheating.md): overlaps on regulatory investigation subject matter, from a different source document.
+- [How Counterfeit Jet Engine Parts Are Detected — And Why AOG's Were Hard To Catch](detecting_counterfeit_jet_engine_parts.md): same source document (doc_0506)
+- [Jose Zamora And The Founding Of AOG Technics](jose_zamora_and_the_founding_of_aog_technics.md): same source document (doc_0506)
+- [Partnair Flight 394 And The Counterfeit Bolts](partnair_flight_394_counterfeit_bolts.md): same source document (doc_0506)
+- [The Post-COVID Parts Scramble As A Breeding Ground For AOG's Growth](post_covid_parts_scramble_and_aog_growth.md): same source document (doc_0506)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
 
 ## Source
 

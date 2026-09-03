@@ -11,6 +11,7 @@ The sun currently takes around 11 years to complete one solar cycle, during whic
 
 ## Related Notes
 
+
 - [Aurora Displays Over Britain and Ireland, November 2023](aurora_displays_over_britain_and_ireland_november_2023.md): another account linking auroral displays to the state of the solar cycle.
 - [Solar Cycle Peak and Stronger Auroras](solar_cycle_peak_and_stronger_auroras.md): another discussion of how the solar cycle governs auroral activity.
 - [Ancient Superflares as a Spark for Life on Earth](ancient_superflares_as_spark_for_life_on_earth.md): from the same year-in-review article on the sun.
@@ -19,6 +20,8 @@ The sun currently takes around 11 years to complete one solar cycle, during whic
 - [Quasi-Periodic Pulsations in Solar Radio Bursts](quasi_periodic_pulsations_in_solar_radio_bursts.md): from the same year-in-review article on the sun.
 - [Solar Auroras Above Sunspots](solar_auroras_above_sunspots.md): from the same year-in-review article on the sun.
 - [Downward Revision of the Solar Corona's Size](solar_corona_size_downward_revision.md): from the same year-in-review article on the sun.
+- [Solar Cycle Maximum Forecast Revision](solar_cycle_25_maximum_forecast_revision.md): same source document (doc_0325)
+- [Solar Neutrinos as a Probe for Dark Matter](solar_neutrinos_as_probe_for_dark_matter.md): same source document (doc_0325)
 
 ## Source
 

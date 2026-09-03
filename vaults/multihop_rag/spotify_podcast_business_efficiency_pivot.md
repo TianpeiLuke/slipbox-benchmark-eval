@@ -13,11 +13,17 @@ The open question she was left with is where Spotify's licensing deals fit. She 
 
 ## Related Notes
 
+
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs-and-restructuring theme, from a different source document.
 - [Brave Software Layoffs](brave_software_layoffs.md): shares the layoffs-and-restructuring theme, from a different source document.
 - [Celebrity Tough-Love Parenting in Hollywood](celebrity_tough_love_parenting_in_hollywood.md): also concerns Dax Shepard, from a different source document.
 - [CollegeHumor, IAC Layoffs and the Sale to Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares the layoffs-and-restructuring theme, from a different source document.
 - [Consolidation Leaves Studios Vulnerable to Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): shares the layoffs-and-restructuring theme, from a different source document.
+- [The Most-Searched Podcasts Ranking](most_searched_podcasts_ranking.md): same source document (doc_0461)
+- [Spotify's AI Translation And Generative Ad Creation](spotify_ai_translation_and_generative_ad_creation.md): same source document (doc_0461)
+- [Wondery Podcasts On Freevee](wondery_podcasts_on_freevee.md): same source document (doc_0461)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [Machine Translation](term_machine_translation.md): uses the concept machine translation
 
 ## Source
 

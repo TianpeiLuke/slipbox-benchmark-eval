@@ -11,9 +11,18 @@ Other digital gift cards were on sale for players loyal to a different console: 
 
 ## Related Notes
 
+
 - [Apple Gift Card And Amazon Credit Deal](apple_gift_card_amazon_credit_deal.md): overlaps in content on discounted digital gift cards, from a different source document.
 - [Console Subscription And Store Gift Cards For Gamers](console_subscription_and_store_gift_cards_for_gamers.md): overlaps in content on gift cards and memberships, from a different source document.
 - [Apple Store Credit And Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): overlaps in content on gift-card promotions, from a different source document.
+- [Alternatives To The Amex Cash Magnet Card](alternatives_to_amex_cash_magnet_card.md): content overlap 0.12 on card, purchases, different; different source document
+- [The Amex Cash Magnet Best-Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): content overlap 0.12 on card, purchases; different source document
+- [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): same source document (doc_0222)
+- [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): same source document (doc_0222)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0222)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

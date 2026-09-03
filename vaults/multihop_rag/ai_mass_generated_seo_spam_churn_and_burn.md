@@ -13,6 +13,7 @@ The economics of the current wave explain its persistence. Eventually a site fil
 
 ## Related Notes
 
+
 - [Adelaide 36ers Upset New Zealand Breakers In Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): shares a campaign-and-influence theme tag, from a different source document.
 - [The Affiliate Marketing Alligator Party](affiliate_marketing_alligator_party.md): drawn from the same source document (doc_0115).
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): shares a campaigning theme tag, from a different source document.
@@ -21,6 +22,15 @@ The economics of the current wave explain its persistence. Eventually a site fil
 - [Apple iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares an abuse-and-countermeasure theme tag, from a different source document.
 - [Baker Mayfield's 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): shares a campaign-season theme tag, from a different source document.
 - [Baldur's Gate 3](baldurs_gate_3.md): shares a content-production theme tag, from a different source document.
+- [The Blurred Line Between SEO And Spam](blurred_line_between_seo_and_spam.md): same source document (doc_0115)
+- [Cade Lee, From Black Hat SEO To Construction](cade_lee_from_black_hat_seo_to_construction.md): same source document (doc_0115)
+- [Danny Sullivan, From Journalist To Google Liaison](danny_sullivan_from_journalist_to_google_liaison.md): same source document (doc_0115)
+- [The Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): same source document (doc_0115)
+- [Duane Forrester, Bing, And The Search Engine's View](duane_forrester_bing_and_the_search_engine_view.md): same source document (doc_0115)
+- [Missy Ward, Daron Babin And Darren Blatt: The Early Operators](early_seo_operators_ward_babin_and_blatt.md): same source document (doc_0115)
+- [E-E-A-T And The Shift Toward Institutional Authority](eeat_and_the_shift_to_institutional_authority.md): same source document (doc_0115)
+- [The Claim That 80 Percent Of SEOs Are Scammers](eighty_percent_of_seos_are_scammers_claim.md): same source document (doc_0115)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

@@ -11,11 +11,18 @@ Contactless payments: you can use the card touch-free with eligible credit card 
 
 ## Related Notes
 
+
 - [Amex Cash Magnet Approval Odds And Credit Limits](amex_cash_magnet_approval_odds_and_credit_limits.md): overlapping coverage of card and credit terms, from a different source document.
 - [The Amex Cash Magnet Best-Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): overlapping coverage of annual-fee-free cash back cards, from a different source document.
 - [Amex Cash Magnet Card Overview](amex_cash_magnet_card_overview.md): overlapping coverage of card and annual fee terms, from a different source document.
 - [Amex Cash Magnet Travel Limitations](amex_cash_magnet_travel_limitations.md): overlapping coverage of card benefits, from a different source document.
 - [Amex Cash Magnet Welcome Bonus Criticism](amex_cash_magnet_welcome_bonus_criticism.md): overlapping coverage of annual-fee card value, from a different source document.
+- [Tradeoffs Of The Higher-Rate Cash Back Alternative Versus The Fifth Third Card](citi_double_cash_tradeoffs_versus_fifth_third_card.md): same source document (doc_0470)
+- [Fifth Third 1.67% Card Rates And Fees](fifth_third_1_67_card_rates_and_fees.md): same source document (doc_0470)
+- [Fifth Third 1.67% Card Redemption Options](fifth_third_1_67_card_redemption_options.md): same source document (doc_0470)
+- [The Fifth Third 1.67% Card's Rewards Earning Rate](fifth_third_1_67_card_rewards_earning_rate.md): same source document (doc_0470)
+- [The Fifth Third 1.67% Cash/Back Card: Overview](fifth_third_1_67_cash_back_card_overview.md): same source document (doc_0470)
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
 
 ## Source
 

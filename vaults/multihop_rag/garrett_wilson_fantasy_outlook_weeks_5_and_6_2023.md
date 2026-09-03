@@ -13,12 +13,18 @@ The Week 6 case, published 12 October 2023 ahead of a home game with Philadelphi
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another "Start Him" verdict that also discusses Garrett Wilson, from a different document.
 - [Bills Bengals SNF Second Quarter](bills_bengals_snf_second_quarter.md): also discusses Gabe Davis, the receiver compared with Wilson in both weeks, from a different document.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): overlaps on the same matchup-and-projection vocabulary for a receiver call, from a different document.
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): also discusses Zach Wilson, the accuracy problem at the centre of this outlook, from a different document.
 - [Chiefs Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): also discusses both Garrett Wilson and Zach Wilson, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another receiver call from the same Week 6 column.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
 
 ## Source
 

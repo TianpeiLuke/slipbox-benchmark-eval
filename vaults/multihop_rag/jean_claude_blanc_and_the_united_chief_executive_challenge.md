@@ -13,11 +13,18 @@ The boundary on those credentials is the club itself. The report argues that onc
 
 ## Related Notes
 
+
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): shares Lionel Messi as a reference point.
 - [Argentina-Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): shares Lionel Messi as a reference point.
 - [Argentina Second Half and Messi Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): shares Lionel Messi as a reference point.
 - [Arsenal-Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): shares Manchester City as a competitive benchmark.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): shares Manchester City as a reference point.
+- [Erik Ten Hag's Position Under Ratcliffe](erik_ten_hag_position_under_ratcliffe.md): same source document (doc_0089)
+- [Glazer Communications Silence and Ratcliffe's PR Task](glazer_communications_silence_and_ratcliffe_pr_task.md): same source document (doc_0089)
+- [John Murtough's Future and the Casemiro Signing](john_murtough_future_and_the_casemiro_signing.md): same source document (doc_0089)
+- [Old Trafford and Carrington Infrastructure Decay](old_trafford_and_carrington_infrastructure_decay.md): same source document (doc_0089)
+- [Ratcliffe-Glazer Ownership Split and Control Risk](ratcliffe_glazer_ownership_split_and_control_risk.md): same source document (doc_0089)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

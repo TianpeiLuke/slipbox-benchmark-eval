@@ -13,6 +13,7 @@ By 7:12 PM IST the remaining purses were: CSK Rs 3.2 Cr; DC Rs 16.85 Cr; GT Rs 2
 
 ## Related Notes
 
+
 - [Alternative Investment Funds SEBI Framework](alternative_investment_funds_sebi_framework.md): overlapping crore-denominated figures, from a different source document.
 - [Reliance Green Energy Investment Programme](reliance_green_energy_investment_programme.md): overlapping crore-denominated figures, from a different source document.
 - [Harshal Patel's Vijay Hazare Trophy Form Before the IPL Auction](harshal_patel_vijay_hazare_trophy_form_before_ipl_auction.md): same auction live blog.
@@ -21,6 +22,8 @@ By 7:12 PM IST the remaining purses were: CSK Rs 3.2 Cr; DC Rs 16.85 Cr; GT Rs 2
 - [IPL 2024 Auction: Capped Pace and Spin Sets](ipl_2024_auction_capped_pace_and_spin_sets.md): same auction live blog, on purchases that drew down these purses.
 - [IPL 2024 Auction: Capped Wicketkeepers Set](ipl_2024_auction_capped_wicketkeepers_set.md): same auction live blog, on purchases that drew down these purses.
 - [IPL 2024 Auction: Expert Previews and Team Strategy](ipl_2024_auction_expert_previews_and_team_strategy.md): same auction live blog, on how teams planned to spend.
+- [IPL 2024 Auction: Final Round Results](ipl_2024_auction_final_round_results.md): same source document (doc_0307)
+- [IPL 2024 Auction: The Accelerated Round](ipl_2024_auction_first_accelerated_round.md): same source document (doc_0307)
 
 ## Source
 

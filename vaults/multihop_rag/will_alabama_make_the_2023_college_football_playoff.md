@@ -13,6 +13,7 @@ The counterweight is the head-to-head and unbeaten logic. If Alabama beat Georgi
 
 ## Related Notes
 
+
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): overlaps heavily on the Crimson Tide, from a different document.
 - [Alabama Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): weighs the same Crimson Tide and Florida State comparison, from a different document.
 - [Big Ten Coaches' Anger Over Michigan Sign Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): also concerns the Big Ten, from a different document.
@@ -21,6 +22,8 @@ The counterweight is the head-to-head and unbeaten logic. If Alabama beat Georgi
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): the fixtures this verdict depends on, from the same document.
 - [Alabama 2023 CFP Case and SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): the situation this verdict answers, from the same document.
 - [Alabama 2023 Strength of Schedule and Record Metrics](alabama_2023_strength_of_schedule_and_record_metrics.md): the resume evidence behind it, from the same document.
+- [The Head-To-Head Arguments Alabama Would Face Against Texas And Florida State](alabama_cfp_head_to_head_debates_texas_florida_state.md): same source document (doc_0258)
+- [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): same source document (doc_0258)
 
 ## Source
 

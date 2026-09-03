@@ -11,6 +11,7 @@ For Riot, Sweeney cited the documents in the case: Riot planned to distribute Le
 
 ## Related Notes
 
+
 - [Activision 360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): also concerns Google Play, from a different source document.
 - [Activision Blizzard Union Stalling And Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): also concerns Activision Blizzard, from a different source document.
 - [Activision Titles On Xbox Game Pass](activision_titles_on_xbox_game_pass.md): also concerns Activision Blizzard, from a different source document.
@@ -19,6 +20,8 @@ For Riot, Sweeney cited the documents in the case: Riot planned to distribute Le
 - [Apple Versus Google Antitrust Conduct Contrast](apple_versus_google_antitrust_conduct_contrast.md): drawn from the same source document (doc_0170).
 - [Epic Games 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): drawn from the same source document (doc_0170).
 - [The Epic Games Store As A General-Purpose App Store](epic_games_store_as_a_general_purpose_app_store.md): drawn from the same source document (doc_0170).
+- [Epic Games Store Growth And Diversification Beyond Games](epic_games_store_growth_and_diversification_beyond_games.md): same source document (doc_0170)
+- [Epic's Post-Verdict Remedy Strategy And Global Cases](epic_post_verdict_remedy_strategy_and_global_cases.md): same source document (doc_0170)
 
 ## Source
 

@@ -13,12 +13,18 @@ The testimony was cut short when the clock neared 4:30 p.m. and court adjourned 
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony And The Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): overlapping coverage of Yedidia, Bankman-Fried and his testimony, from a different source document.
 - [Alameda Absorbed FTX Losses: MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): also concerns Matt Huang, from a different source document.
 - [Alameda Negative Balance Escalation](alameda_negative_balance_escalation.md): overlapping coverage of Bankman-Fried, trial testimony and trading, from a different source document.
 - [Alameda Research Origins And Naming](alameda_research_origins_and_naming.md): also concerns Gary Wang, from a different source document.
 - [Alameda Special Privileges In FTX Code](alameda_special_privileges_in_ftx_code.md): also concerns Gary Wang, from a different source document.
 - [Alameda Research As The Alleged Conduit For FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): drawn from the same source document (doc_0031).
+- [The Defense's Good-Faith Case For Bankman-Fried](defense_good_faith_case_for_bankman_fried.md): same source document (doc_0031)
+- [Marc-Antoine Julliard's Testimony As FTX's First Witness-Victim](marc_antoine_julliard_ftx_customer_testimony.md): same source document (doc_0031)
+- [The Prosecution's Opening Statement Against Bankman-Fried](prosecution_opening_statement_against_bankman_fried.md): same source document (doc_0031)
+- [Day Two Of The Bankman-Fried Trial: Jury Selection And The Courtroom Audience](sbf_trial_day_two_jury_and_courtroom.md): same source document (doc_0031)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

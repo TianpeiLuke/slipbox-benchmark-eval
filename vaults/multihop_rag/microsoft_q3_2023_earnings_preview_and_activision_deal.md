@@ -13,11 +13,20 @@ Consensus EPS estimates were $2.65 and consensus revenue estimates $54.54B. On t
 
 ## Related Notes
 
+
 - [Activision Blizzard Union Stalling and Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): concerns the company Microsoft acquired.
 - [Activision, Riot and Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): another note on Activision Blizzard.
 - [Activision Titles on Xbox Game Pass](activision_titles_on_xbox_game_pass.md): the post-acquisition product consequence of this deal.
 - [Alphabet Q3 2023 Results and Cloud Miss](alphabet_q3_2023_results_and_cloud_miss.md): another company reporting in the same week.
 - [Broadcom Q4 FY2023 Earnings Preview and VMware Integration](broadcom_q4_fy2023_earnings_preview_and_vmware_integration.md): the same preview format, also covering an acquisition.
+- [Alphabet Q3 2023 Earnings Preview](alphabet_q3_2023_earnings_preview.md): same source document (doc_0338)
+- [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): same source document (doc_0338)
+- [Boeing Q3 2023 Earnings Preview and 737 MAX Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): same source document (doc_0338)
+- [Chevron and Exxon Mobil Q3 2023 Earnings Preview](chevron_and_exxon_mobil_q3_2023_earnings_preview.md): same source document (doc_0338)
+- [Cleveland-Cliffs Q3 2023 Earnings Preview](cleveland_cliffs_q3_2023_earnings_preview.md): same source document (doc_0338)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

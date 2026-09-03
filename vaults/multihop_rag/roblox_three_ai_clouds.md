@@ -13,11 +13,20 @@ The framing came at the Code Conference, where AI was a theme; The Verge summari
 
 ## Related Notes
 
+
 - [AI Training Fails the Fair Use Test](ai_training_fails_fair_use_test.md): shares the generative-AI and creator-economy themes, from a different source document.
 - [FTC Generative AI Roundtable](ftc_generative_ai_roundtable.md): shares the generative-AI and creator-economy themes, from a different source document.
 - [Google's Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): shares the generative-AI and creator-economy themes, from a different source document.
 - [Google's USCO Filing on AI Training and Fair Use](google_usco_filing_ai_training_fair_use.md): shares the generative-AI and creator-economy themes, from a different source document.
 - [Kyncl's Rebuttal: Labels Persist Like Ad Agencies After AdWords](kyncl_rebuttal_labels_persist_like_ad_agencies_after_adwords.md): another Code Conference interview, from a different source document.
+- [Metaverse Interoperability And 3D File Formats](metaverse_interoperability_and_3d_file_formats.md): same source document (doc_0539)
+- [Roblox Advertising And Brand Experiences](roblox_advertising_and_brand_experiences.md): same source document (doc_0539)
+- [Roblox Aging Up: An Older User Base](roblox_aging_up_older_user_base.md): same source document (doc_0539)
+- [Roblox As A Communication Platform, Not A Game](roblox_as_communication_platform_not_game.md): same source document (doc_0539)
+- [Roblox's China Strategy And Tencent](roblox_china_strategy_and_tencent.md): same source document (doc_0539)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Machine Translation](term_machine_translation.md): uses the concept machine translation
 
 ## Source
 

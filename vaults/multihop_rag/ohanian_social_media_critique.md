@@ -15,11 +15,18 @@ His own record is offered as partial evidence that the pendulum can move. He not
 
 ## Related Notes
 
+
 - [AFC 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): also touches the Middle East, the region Ohanian names as a possible tipping point, from a different source document.
 - [Cairo Diplomatic Surge and Summit for Peace 2023](cairo_diplomatic_surge_and_summit_for_peace_2023.md): covers the Middle East conflict Ohanian invokes here, from a different source document.
 - [Cristiano Ronaldo's Al Nassr Move and 2023 Goal Tally](cristiano_ronaldo_al_nassr_move_and_2023_goal_tally.md): another Middle East story, from a different source document.
 - [Day of Reckoning Card and Heavyweight Unification Path](day_of_reckoning_card_and_heavyweight_unification_path.md): another Middle East story, from a different source document.
 - [Fed Dovish Comments and Yield Retreat October 2023](fed_dovish_comments_and_yield_retreat_october_2023.md): shares the Middle East framing over the same autumn 2023 window, from a different source document.
+- [Ohanian's Case for Techno-Optimism](ohanian_techno_optimism.md): same source document (doc_0278)
+- [Why Platforms Cannot Arbitrate Truth](platform_truth_arbitration.md): same source document (doc_0278)
+- [Reddit's Origins and the Primacy of User-Generated Content](reddit_moderation_history.md): same source document (doc_0278)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Board Governance](term_board_governance.md): uses the concept board governance
 
 ## Source
 

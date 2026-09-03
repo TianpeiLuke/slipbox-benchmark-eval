@@ -11,11 +11,17 @@ Two standout Zelda games for the Switch have gained the status of modern classic
 
 ## Related Notes
 
+
 - [Classic Nintendo Franchise Picks For The Switch](classic_nintendo_switch_franchise_picks.md): same source; the category this pick heads.
 - [Animal Crossing: New Horizons](animal_crossing_new_horizons.md): same source; the third first-party pick.
 - [Breath Of The Wild And Link Gender Speculation](breath_of_the_wild_link_gender_speculation.md): another discussion of the same game and its protagonist, from a different source document.
 - [Gerudo Town Gender Segregation In Breath Of The Wild](gerudo_town_gender_segregation_in_breath_of_the_wild.md): covers a specific location in the same game, from a different source document.
 - [Five Nights at Freddys Movie Simplified Lore for Fans](five_nights_at_freddys_movie_simplified_lore_for_fans.md): overlaps in content on exploration, sequel, newcomers, from a different source document.
+- [Gendered Assumptions About Link as Casual Misogyny](gendered_assumptions_about_link_as_casual_misogyny.md): content overlap 0.13 on zelda, link, kingdom; different source document
+- [Tchia](tchia.md): content overlap 0.14 on zelda, breath, wild; different source document
+- [Hades](hades_roguelite.md): same source document (doc_0292)
+- [Hollow Knight](hollow_knight.md): same source document (doc_0292)
+- [Indie Games Suit The Switch's Portability](indie_games_suit_the_switch_portability.md): same source document (doc_0292)
 
 ## Source
 

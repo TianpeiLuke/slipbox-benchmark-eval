@@ -11,11 +11,20 @@ The commemorative set is the kids' version rather than the enormous 6,000-piece 
 
 ## Related Notes
 
+
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): also concerns Prime Day, from a different source document.
 - [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): also concerns Prime Day, from a different source document.
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): also concerns Prime Day, from a different source document.
 - [Anti-Prime Big Deal Day Competing Sales](anti_prime_big_deal_day_competing_sales.md): also concerns Prime Day, from a different source document.
 - [Apple AirPods Max Holiday Deal](apple_airpods_max_holiday_deal.md): also concerns Prime Day, from a different source document.
+- [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): same source document (doc_0520)
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

@@ -11,6 +11,7 @@ On the goal-difference framing, the counter-grounds are the earlier results: two
 
 ## Related Notes
 
+
 - [Alex Greenwood's Head Injury Versus Belgium](alex_greenwood_head_injury_versus_belgium.md): also covers Alex Greenwood, from a different document.
 - [Belgium-England First Half Goals and Incidents](belgium_england_first_half_goals_and_incidents.md): also covers Alex Greenwood and Lucy Bronze, from a different document.
 - [Belgium-England Lineups and Referee, October 2023](belgium_england_lineups_and_referee_october_2023.md): also covers Alex Greenwood and Esme Morgan, from a different document.
@@ -19,6 +20,8 @@ On the goal-difference framing, the counter-grounds are the earlier results: two
 - [England 3-2 Netherlands at Wembley: Toone's Winner](england_3_2_netherlands_wembley_toone_winner.md): gives the win this critique qualifies, from the same document.
 - [England 6-0 Scotland at Hampden: Match Report](england_6_0_scotland_hampden_match_report.md): gives the final-night performance this argument says came too late, from the same document.
 - [England and Scotland Lineup Changes for the Nations League Finale](england_and_scotland_lineup_changes_nations_league_finale.md): records the Carter-for-Morgan change referenced here, from the same document.
+- [England's Olympic Qualification Heartbreak](england_lionesses_olympic_qualification_heartbreak.md): same source document (doc_0184)
+- [Nations League Prestige And The Congested International Cycle](nations_league_prestige_and_congested_international_cycle.md): same source document (doc_0206)
 
 ## Source
 

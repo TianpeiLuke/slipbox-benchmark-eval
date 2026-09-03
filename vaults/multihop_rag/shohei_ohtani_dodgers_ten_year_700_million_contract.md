@@ -11,12 +11,19 @@ Ohtani made the announcement on Instagram, spurning the Blue Jays — to whom ru
 
 ## Related Notes
 
+
 - [Adolis Garcia Oblique Injury, 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): also references the World Series, from a different document.
 - [Alanna Rizzo Criticism of Clubhouse Reporting](alanna_rizzo_criticism_of_clubhouse_reporting.md): also covers the Blue Jays, the team Ohtani spurned here, from a different document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): also covers Mookie Betts, from a different document.
 - [Angels 2023 Offseason: Ohtani and Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): also covers the Los Angeles Dodgers and Shohei Ohtani, from a different document.
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): also references the World Series, from a different document.
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): another entry from the same free agency tracker, from the same document.
+- [Why Signing Ohtani Could Have Cost Toronto Bichette And Guerrero](blue_jays_roster_implications_of_ohtani_pursuit.md): same source document (doc_0426)
+- [Braves Cut Matt Carpenter After Trying To Trade Him](braves_release_matt_carpenter.md): same source document (doc_0422)
+- [Cody Bellinger's Market And Suitors After Ohtani Signed](cody_bellinger_free_agent_market_and_suitors.md): same source document (doc_0422)
+- [Jack Flaherty's One-Year Deal With The Tigers](jack_flaherty_tigers_one_year_deal.md): same source document (doc_0422)
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

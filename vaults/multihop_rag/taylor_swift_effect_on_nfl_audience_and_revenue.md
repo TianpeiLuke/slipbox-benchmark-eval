@@ -11,11 +11,19 @@ The supporting evidence is behavioural rather than purely arithmetical, and the 
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also discusses the Super Bowl, the benchmark used here, from a different source document.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also discusses the Super Bowl, from a different source document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers the Kansas City Chiefs, from a different source document.
 - [All You Had to Do Was Stay: Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): also covers Taylor Swift, from a different source document.
 - [American Pie Billboard Record and Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): also covers Taylor Swift, from a different source document.
+- [The Backlash: Fans Who Say The Swift-Kelce Coverage Is Too Much](backlash_to_traylor_media_coverage.md): same source document (doc_0344)
+- [The NBA's 1970s Image Crisis And How David Stern Reversed It](nba_1970s_image_crisis_and_david_stern_turnaround.md): same source document (doc_0344)
+- [The NFL's International Games And Its Concussion Initiatives](nfl_international_games_and_player_safety_initiatives.md): same source document (doc_0344)
+- [The NFL's Revenue Lead And Goodell's $27 Billion Target For 2027](nfl_revenue_growth_and_goodell_27_billion_target.md): same source document (doc_0344)
+- [The NFL's Own Scandals, From Kaepernick To The CTE Controversy](nfl_scandals_and_cte_controversy.md): same source document (doc_0344)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
 
 ## Source
 

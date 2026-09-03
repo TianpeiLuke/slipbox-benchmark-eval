@@ -13,6 +13,7 @@ Long after the pandemic, many of these habits have persisted.
 
 ## Related Notes
 
+
 - [Amazon Seller Skepticism of the FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares the covid 19 theme, from a different source document.
 - [AOC Twitch Among US Stream](aoc_twitch_among_us_stream.md): shares the covid 19 theme, from a different source document.
 - [Ayman Sadiq Ten Minute School Origin](ayman_sadiq_ten_minute_school_origin.md): shares the covid 19 theme, from a different source document.
@@ -21,6 +22,12 @@ Long after the pandemic, many of these habits have persisted.
 - [Capitol Music Group Pre 2021 Decline Diagnosis](capitol_music_group_pre_2021_decline_diagnosis.md): shares the covid 19 theme, from a different source document.
 - [Caring Contacts Origin and May 2020 Launch](caring_contacts_origin_and_may_2020_launch.md): shares the covid 19 theme, from a different source document.
 - [Case for Raising the Inflation Target](case_for_raising_the_inflation_target.md): shares the covid 19 theme, from a different source document.
+- [The Mental Health Consequences Of Zoom Fatigue](mental_health_consequences_of_zoom_fatigue.md): same source document (doc_0590)
+- [How Personal Video Use Compounds Screen Fatigue](personal_video_use_compounding_screen_fatigue.md): same source document (doc_0590)
+- [Strategies To Reduce Zoom Fatigue](strategies_to_reduce_zoom_fatigue.md): same source document (doc_0590)
+- [Why Video Calls Are More Tiring Than In-Person Meetings](why_video_calls_are_more_tiring_than_in_person_meetings.md): same source document (doc_0590)
+- [Zoom Fatigue: Definition And Symptoms](zoom_fatigue_definition_and_symptoms.md): same source document (doc_0590)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

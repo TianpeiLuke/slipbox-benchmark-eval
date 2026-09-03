@@ -13,6 +13,7 @@ The Audible Premium Plus offer saves $9/month, is for new customers only, and co
 
 ## Related Notes
 
+
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): same roundup, on the rollover from Black Friday
 - [Amazon 65 Inch Fire Tv Qled Deal](amazon_65_inch_fire_tv_qled_deal.md): same roundup, the Fire TV the MGM+ offer applies to
 - [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): another Echo Show deal listing, different document
@@ -20,6 +21,10 @@ The Audible Premium Plus offer saves $9/month, is for new customers only, and co
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): overlaps on Alexa smart speakers, different document
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): another Amazon sale event, different document
 - [Apple Holiday 2023 Sale Overview](apple_holiday_2023_sale_overview.md): another Cyber Monday overview, different document
+- [Bose QuietComfort 45 Headphones Deal Prices](bose_quietcomfort_45_headphones.md): same source document (doc_0000)
+- [iPad 10th Generation Cyber Monday Deal](ipad_10th_generation_cyber_monday_deal.md): same source document (doc_0000)
+- [Meta Quest 2 Black Friday And Cyber Monday Bundle Price](meta_quest_2_black_friday_bundle_price.md): same source document (doc_0000)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

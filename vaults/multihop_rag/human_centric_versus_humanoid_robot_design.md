@@ -11,6 +11,7 @@ Amazon's chief technologist for robotics, Tye Brady, endorsed the same ordering 
 
 ## Related Notes
 
+
 - [Amazon-Agility Digit Humanoid Pilot](amazon_agility_digit_humanoid_pilot.md): also quotes Tye Brady, from a different source document.
 - [Amazon's Delivering The Future 2023 Event](amazon_delivering_the_future_2023_event.md): overlapping coverage of Amazon robotics events in Seattle, from a different source document.
 - [Amazon's Interest In Bipedal Locomotion](amazon_interest_in_bipedal_locomotion.md): overlapping coverage of mobility and Agility's robots, from a different source document.
@@ -19,6 +20,8 @@ Amazon's chief technologist for robotics, Tye Brady, endorsed the same ordering 
 - [Agility Robotics' Digit Warehouse Robot](agility_robotics_digit_warehouse_robot.md): drawn from the same source document (doc_0421).
 - [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): drawn from the same source document (doc_0421).
 - [Amazon's Testing Of Digit In Warehouses](amazon_testing_of_digit_in_warehouses.md): drawn from the same source document (doc_0421).
+- [Boston Dynamics' Humanoid Research Yielding A Non-Humanoid Robot](boston_dynamics_humanoid_research_yielding_non_humanoid_robot.md): same source document (doc_0421)
+- [Dexterity And World Understanding As The Hardest Robotics Problem](dexterity_and_world_understanding_as_hardest_robotics_problem.md): same source document (doc_0421)
 
 ## Source
 

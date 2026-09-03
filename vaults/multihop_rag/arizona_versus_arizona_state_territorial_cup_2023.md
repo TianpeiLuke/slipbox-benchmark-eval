@@ -11,6 +11,7 @@ Arizona (8-3, 6-2 Pac-12) were to take on their in-state rival Arizona State (3-
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): overlapping Pac-12 and Saturday fixture coverage, from a different source document.
 - [Arizona State Quarterback Bourguet's 2023 Situation](arizona_state_quarterback_bourguet_2023_situation.md): also discusses Arizona State, from a different source document.
 - [College Football Week 6 2023 Remaining Betting Lines](college_football_week6_2023_remaining_betting_lines.md): also discusses Arizona State, from a different source document.
@@ -19,6 +20,8 @@ Arizona (8-3, 6-2 Pac-12) were to take on their in-state rival Arizona State (3-
 - [No. 17 Arizona 42-18 No. 22 Utah, November 2023](arizona_42_18_win_over_utah_november_2023.md): same match report, on the win that preceded this fixture.
 - [Arizona's Defensive Performance Versus Utah](arizona_defensive_performance_versus_utah.md): same match report, on the defence heading into the rivalry game.
 - [Arizona's Scoring Plays Versus Utah](arizona_wildcats_scoring_plays_versus_utah.md): same match report, on the offensive form heading into it.
+- [Jedd Fisch On What The Utah Win Signified](jedd_fisch_on_arizona_program_trajectory.md): same source document (doc_0475)
+- [Jordan Morgan's Senior Day At Arizona Stadium](jordan_morgan_senior_day_at_arizona_stadium.md): same source document (doc_0475)
 
 ## Source
 

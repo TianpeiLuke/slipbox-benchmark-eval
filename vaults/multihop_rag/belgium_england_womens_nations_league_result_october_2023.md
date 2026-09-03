@@ -13,6 +13,7 @@ The result put Belgium second in the group, one point ahead of England and two p
 
 ## Related Notes
 
+
 - [Canada's Copa America 2024 Qualification Path](canada_copa_america_2024_qualification_path.md): also concerns the Nations League, from a different document.
 - [Canada-Jamaica Second Leg Kickoff and Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): also concerns the Nations League, from a different document.
 - [Canada-Jamaica Second Leg Result](canada_jamaica_second_leg_result.md): also concerns the Nations League, from a different document.
@@ -21,6 +22,8 @@ The result put Belgium second in the group, one point ahead of England and two p
 - [Alex Greenwood's Head Injury Versus Belgium](alex_greenwood_head_injury_versus_belgium.md): drawn from the same document (doc_0151).
 - [Belgium-England: First-Half Goals and Incidents](belgium_england_first_half_goals_and_incidents.md): drawn from the same document (doc_0151).
 - [Belgium-England Lineups and Referee, October 2023](belgium_england_lineups_and_referee_october_2023.md): drawn from the same document (doc_0151).
+- [Belgium-England: The Second Half And Wullaert's Penalty](belgium_england_second_half_and_wullaert_penalty.md): same source document (doc_0151)
+- [Women's Nations League Group A1 Qualification Scenarios](womens_nations_league_group_a1_qualification_scenarios.md): same source document (doc_0151)
 
 ## Source
 

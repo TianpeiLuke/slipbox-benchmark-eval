@@ -11,6 +11,7 @@ George, 64, told her story on a rain-drenched Tuesday in the Caribbean, sitting 
 
 ## Related Notes
 
+
 - [Anthropic's Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): also concerns Bill Gates, from a different source document.
 - [The GPT-4 Demonstration To Bill Gates](gpt4_demonstration_to_bill_gates.md): also concerns Bill Gates, from a different source document.
 - [Cecile de Jongh's Role And Deposition Denial](cecile_de_jongh_role_and_deposition_denial.md): drawn from the same source document (doc_0477).
@@ -19,6 +20,8 @@ George, 64, told her story on a rain-drenched Tuesday in the Caribbean, sitting 
 - [Epstein-Related Settlements With The US Virgin Islands](epstein_related_settlements_with_us_virgin_islands.md): drawn from the same source document (doc_0477).
 - [Epstein's Sex Offender Waiver Request And Its Denial](epstein_sex_offender_waiver_request_and_denial.md): drawn from the same source document (doc_0477).
 - [Epstein's Web Of Influence In The US Virgin Islands](epstein_web_of_influence_in_us_virgin_islands.md): drawn from the same source document (doc_0477).
+- [George's Claim Of Epstein's Political Influence](george_claim_of_epstein_political_influence.md): same source document (doc_0477)
+- [Governor Bryan's Account Of George's Dismissal](governor_bryan_account_of_george_dismissal.md): same source document (doc_0477)
 
 ## Source
 

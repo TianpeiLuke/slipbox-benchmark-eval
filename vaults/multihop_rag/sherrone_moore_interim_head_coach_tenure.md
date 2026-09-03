@@ -13,11 +13,18 @@ Sporting News judged that Moore would emerge as a leading candidate for some job
 
 ## Related Notes
 
+
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): also concerns Jim Harbaugh, from a different document.
 - [Big Ten Deliberation Over Harbaugh's Punishment](big_ten_deliberation_over_harbaugh_punishment.md): covers the suspension that put Moore in charge, separately sourced.
 - [The Big Ten's Head-Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): overlapping language about the coach, the university and responsibility, in a different document.
 - [Cowboys-49ers Pregame Notes and the NFC Race](cowboys_49ers_pregame_notes_and_nfc_race.md): another item mentioning Jim Harbaugh, from a separate source.
 - [DJ Moore's First Game Against the Panthers](dj_moore_first_game_against_the_panthers.md): shares surface content about a player named Moore, in an unrelated document.
+- [The Big Ten's 2023 Run Of Scandals](big_ten_conference_scandal_run_2023.md): same source document (doc_0079)
+- [The Big Ten Suspends Jim Harbaugh For Three Games](big_ten_suspension_of_jim_harbaugh.md): same source document (doc_0079)
+- [Connor Stalions And The In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): same source document (doc_0079)
+- [Jim Harbaugh's Legacy And Future After The Suspension](jim_harbaugh_legacy_and_future_after_suspension.md): same source document (doc_0079)
+- [Michigan Did Not Need Harbaugh At Penn State, But Ohio State Is Different](michigan_needs_harbaugh_against_ohio_state.md): same source document (doc_0353)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

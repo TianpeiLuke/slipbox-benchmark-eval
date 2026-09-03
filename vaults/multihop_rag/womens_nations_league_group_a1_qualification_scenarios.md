@@ -13,6 +13,7 @@ England meanwhile would host the Netherlands that same evening at Wembley Stadiu
 
 ## Related Notes
 
+
 - [Carabao Cup 2023-24 Overview and Stakes](carabao_cup_2023_24_overview_and_stakes.md): also concerns Wembley Stadium, from a different document.
 - [England and Scotland Lineup Changes for the Nations League Finale](england_and_scotland_lineup_changes_nations_league_finale.md): overlaps on the Netherlands, Belgium and England, from a different document.
 - [England Lionesses' Olympic Qualification Heartbreak](england_lionesses_olympic_qualification_heartbreak.md): overlaps on the Netherlands, Belgium and the Lionesses, from a different document.
@@ -21,6 +22,8 @@ England meanwhile would host the Netherlands that same evening at Wembley Stadiu
 - [Alex Greenwood's Head Injury Versus Belgium](alex_greenwood_head_injury_versus_belgium.md): drawn from the same document (doc_0151).
 - [Belgium-England: First-Half Goals and Incidents](belgium_england_first_half_goals_and_incidents.md): drawn from the same document (doc_0151).
 - [Belgium-England Lineups and Referee, October 2023](belgium_england_lineups_and_referee_october_2023.md): drawn from the same document (doc_0151).
+- [Belgium-England: The Second Half And Wullaert's Penalty](belgium_england_second_half_and_wullaert_penalty.md): same source document (doc_0151)
+- [Belgium 3-2 England: The Women's Nations League Result, October 2023](belgium_england_womens_nations_league_result_october_2023.md): same source document (doc_0151)
 
 ## Source
 

@@ -13,11 +13,18 @@ The structural argument fails, on Hussain's account, because it is applied asymm
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): another document about South Africa, in an unrelated domain
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): another document about South Africa, in an unrelated domain
 - [Carabao Cup Broadcast Rights by Country](carabao_cup_broadcast_rights_by_country.md): another document involving Sky Sports, different source
 - [ChatGPT Use in Government and Courts](chatgpt_use_in_government_and_courts.md): another document referencing South Africa, unrelated domain
 - [Damian Penaud Try-Scoring Record Run](damian_penaud_try_scoring_record_run.md): another sports document involving South Africa, different source
+- [Boycott On The Selection Of Bairstow And Woakes](boycott_criticism_of_bairstow_and_woakes_selection.md): same source document (doc_0132)
+- [Boycott Defends Jos Buttler's Captaincy](boycott_defends_jos_buttler_captaincy.md): same source document (doc_0132)
+- [England's 2023 World Cup Title Defence All But Dead](england_2023_cricket_world_cup_title_defence_collapse.md): same source document (doc_0132)
+- [Boycott: England Failed To Prepare For The 2023 World Cup](geoff_boycott_on_england_world_cup_preparation_failure.md): same source document (doc_0132)
+- [Jos Buttler's Reaction To The Sri Lanka Defeat](jos_buttler_reaction_to_sri_lanka_defeat_2023.md): same source document (doc_0132)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

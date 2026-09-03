@@ -13,12 +13,18 @@ Two boundary facts distinguish it. It came out a month before the MPAA film rati
 
 ## Related Notes
 
+
 - [Book Club, 2018 Romantic Comedy](book_club_2018_romantic_comedy.md): another Paramount Plus title covered in a different document
 - [Clueless, 1995 Teen Comedy And Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): another Paramount Plus title covered elsewhere
 - [Disney Bundle Trio Streaming Package](disney_bundle_trio_streaming_package.md): also concerns Paramount Plus, from a different source
 - [Dungeons And Dragons: Honor Among Thieves](dungeons_and_dragons_honor_among_thieves.md): another Paramount Plus title covered elsewhere
 - [Earth Mama, Savanah Leaf](earth_mama_savanah_leaf.md): another Paramount Plus title covered elsewhere
 - [Alone, 2020, John Hyams](alone_2020_john_hyams_film.md): another pick from the same Polygon horror guide
+- [Annihilation: The Creepiest Movie About Plants Ever Made](annihilation_2018_alex_garland_film.md): same source document (doc_0563)
+- [Climax: Gaspar Noé's Spiked-Sangria Dance Party In Long Takes](climax_2018_gaspar_noe_film.md): same source document (doc_0563)
+- [Crimes Of The Future: Cronenberg's World Where Surgery Is The New Sex](crimes_of_the_future_2022_david_cronenberg.md): same source document (doc_0563)
+- [Cure: Kiyoshi Kurosawa's Horror Masterpiece About Violence As Contagion](cure_1997_kiyoshi_kurosawa_film.md): same source document (doc_0563)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

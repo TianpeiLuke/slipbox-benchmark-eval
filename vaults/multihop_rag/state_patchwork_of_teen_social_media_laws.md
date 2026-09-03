@@ -13,6 +13,7 @@ The overhead of managing apps to meet individual state regulations would be a he
 
 ## Related Notes
 
+
 - [Chinese Government Ban And Crackdown On Falun Gong, 1999](chinese_government_ban_and_crackdown_on_falun_gong_1999.md): also concerns the Chinese Communist Party, from a different document.
 - [Discord CSAM Scrutiny After NBC News Report](discord_csam_scrutiny_after_nbc_news_report.md): overlaps on minors' safety on platforms, from a different document.
 - [Epoch Times, The 2020 Election And Pro-Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): also concerns the Chinese Communist Party, from a different document.
@@ -21,6 +22,7 @@ The overhead of managing apps to meet individual state regulations would be a he
 - [Critique Of Meta's App Store Parental Approval Proposal](critique_of_meta_app_store_parental_approval_proposal.md): drawn from the same source document (doc_0141).
 - [Meta's Proposal: Parental Approval For App Downloads At The App Store](meta_proposal_app_store_parental_approval.md): drawn from the same source document (doc_0141), and is the proposal this patchwork is offered to justify.
 - [Arturo Bejar's Critique Of Meta's Teen Safety Self-Regulation](meta_teen_safety_self_regulation_and_bejar_critique.md): drawn from the same source document (doc_0141).
+- [The 42-State Lawsuit Against Meta Over Harms To Young Users](multistate_lawsuit_against_meta_teen_harms.md): same source document (doc_0141)
 
 ## Source
 

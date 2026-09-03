@@ -13,6 +13,7 @@ On relationship, the program keeps a person, not just a service, in the young pa
 
 ## Related Notes
 
+
 - [Republican State Level TikTok Ban Push](republican_state_level_tiktok_ban_push.md): overlapping vocabulary on struggles, factors, social, from a different source document.
 - [Caring Contacts Effect on Social Work Staff](caring_contacts_effect_on_social_work_staff.md): drawn from the same source document (doc_0158).
 - [Caring Contacts Enrollment and Consent Process](caring_contacts_enrollment_and_consent_process.md): drawn from the same source document (doc_0158).
@@ -21,6 +22,8 @@ On relationship, the program keeps a person, not just a service, in the young pa
 - [Caring Contacts Repeat Attempt Rate Outcomes](caring_contacts_repeat_attempt_rate_outcomes.md): drawn from the same source document (doc_0158).
 - [Caring Contacts Replication Kit and National Interest](caring_contacts_replication_kit_and_national_interest.md): drawn from the same source document (doc_0158).
 - [Handwritten Cards as Low Tech Suicide Prevention](handwritten_cards_as_low_tech_suicide_prevention.md): drawn from the same source document (doc_0158).
+- [The Follow-Up Care Gap After A Pediatric Suicide Attempt](pediatric_suicide_follow_up_care_gap.md): same source document (doc_0158)
+- [The 988 Suicide And Crisis Lifeline Advisory](suicide_and_crisis_lifeline_988_advisory.md): same source document (doc_0158)
 
 ## Source
 

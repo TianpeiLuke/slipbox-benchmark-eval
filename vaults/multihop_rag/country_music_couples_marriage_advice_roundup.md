@@ -11,6 +11,7 @@ The warrant tying the examples to the conclusion is endurance through the specif
 
 ## Related Notes
 
+
 - [Don McLean Career Honours And Recognition](don_mclean_career_honours_and_recognition.md): another article featuring Garth Brooks in a different context
 - [Amy Grant And Vince Gill Marriage](amy_grant_and_vince_gill_marriage.md): one of the couples profiled in this roundup
 - [Carrie Underwood And Mike Fisher Marriage](carrie_underwood_and_mike_fisher_marriage.md): another couple from the same roundup
@@ -19,6 +20,7 @@ The warrant tying the examples to the conclusion is endurance through the specif
 - [Garth Brooks And Trisha Yearwood Marriage](garth_brooks_and_trisha_yearwood_marriage.md): one of the two couples named in the article's framing
 - [Keith Urban And Nicole Kidman Marriage](keith_urban_and_nicole_kidman_marriage.md): another couple from the same roundup
 - [Martina McBride And John McBride Marriage](martina_mcbride_and_john_mcbride_marriage.md): another couple from the same roundup
+- [Tim McGraw And Faith Hill's Marriage](tim_mcgraw_and_faith_hill_marriage.md): same source document (doc_0019)
 
 ## Source
 

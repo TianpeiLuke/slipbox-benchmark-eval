@@ -13,9 +13,18 @@ The study suggests that some people's consumption of these foods may meet the cr
 
 ## Related Notes
 
+
 - [Insomnia Definition and Prevalence](insomnia_definition_and_prevalence.md): overlapping vocabulary on study, disorder, criteria, from a different source document.
 - [Ketamine Dependence and Abuse Potential](ketamine_dependence_and_abuse_potential.md): overlapping vocabulary on addiction, craving, substance, from a different source document.
 - [Case for Classifying Ultra Processed Foods as Addictive](case_for_classifying_ultra_processed_foods_as_addictive.md): drawn from the same source document (doc_0467).
+- [Dopamine Reward, Tolerance And Compulsive Consumption](dopamine_reward_tolerance_and_compulsive_consumption.md): same source document (doc_0467)
+- [Global Policy Responses To Ultra-Processed Foods](global_policy_responses_to_ultra_processed_foods.md): same source document (doc_0467)
+- [Limits Of Review Evidence On Food Addiction](limits_of_review_evidence_on_food_addiction.md): same source document (doc_0467)
+- [Managing Disordered Eating And Food Cravings](managing_disordered_eating_and_food_cravings.md): same source document (doc_0467)
+- [Skepticism That Food Is Addictive The Way Drugs Are](skepticism_that_food_is_addictive_like_drugs.md): same source document (doc_0467)
+- [Ultra-Processed Foods: Definition And Addictive Properties](ultra_processed_foods_definition_and_addictive_properties.md): same source document (doc_0467)
+- [Warning Signs Of Food Addiction](warning_signs_of_food_addiction.md): same source document (doc_0467)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
 
 ## Source
 

@@ -11,11 +11,20 @@ Its funding peaked in January 2022, when the company raised $400 million in a Se
 
 ## Related Notes
 
+
 - [Alameda's $65 Billion Line Of Credit At FTX](alameda_65_billion_line_of_credit_at_ftx.md): overlapping vocabulary of billions, trades and Bankman-Fried, from a different source document.
 - [Amo's Founding Team And Funding Round](amo_founding_team_and_funding_round.md): shares the funding-round and valuation vocabulary, from a different source document.
 - [Binance's Market Position And Its 2023 Setbacks](binance_market_position_and_2023_setbacks.md): shares the billion-dollar crypto-exchange vocabulary, from a different source document.
 - [European Tech Valuation Pressure And PE Dealmaking](european_tech_valuation_pressure_and_pe_dealmaking.md): shares the valuation and venture-capital themes, from a different source document.
 - [Faction Driverless Funding Round](faction_driverless_funding_round.md): shares the funding-round and capital-raised vocabulary, from a different source document.
+- [Alameda Research](alameda_research.md): same source document (doc_0010)
+- [Crypto Contagion After FTX](crypto_contagion_after_ftx.md): same source document (doc_0030)
+- [FTX's Bankruptcy And Leadership](ftx_bankruptcy_and_leadership.md): same source document (doc_0010)
+- [The Mechanism Of FTX's Collapse](ftx_collapse_mechanism.md): same source document (doc_0030)
+- [FTX's Cooperating Witnesses](ftx_cooperating_witnesses.md): same source document (doc_0010)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

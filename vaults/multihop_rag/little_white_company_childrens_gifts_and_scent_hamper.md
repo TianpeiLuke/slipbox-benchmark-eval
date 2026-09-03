@@ -11,6 +11,7 @@ For adults, the guide picks the Scent Stories Hamper as an affordable gift, stoc
 
 ## Related Notes
 
+
 - [Afrofuture Founding Vision And Mission Pillars](afrofuture_founding_vision_and_mission_pillars.md): a similarity-index neighbour on an unrelated shared feature
 - [Alan Wake 2](alan_wake_2.md): another index-level match with no topical overlap
 - [Baldur's Gate 3](baldurs_gate_3.md): another shared-feature neighbour from unrelated games coverage
@@ -19,6 +20,14 @@ For adults, the guide picks the Scent Stories Hamper as an affordable gift, stoc
 - [Clueless 1995 Teen Comedy Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): another index-level neighbour from unrelated film coverage
 - [Daily Life At The Possibility Alliance](daily_life_at_the_possibility_alliance.md): another shared-feature match from a different field
 - [Democratic Social Media Campaign Dominance](democratic_social_media_campaign_dominance.md): a further index-level neighbour with no topical overlap
+- [The White Company's Christmas Range: Overview](the_white_company_christmas_range_overview.md): same source document (doc_0068)
+- [The White Company's Advent Calendars And Snowflake Jumper](white_company_advent_calendars_and_snowflake_jumper.md): same source document (doc_0068)
+- [The White Company's Christmas Decorations And Winter Scents](white_company_christmas_decorations_and_winter_scents.md): same source document (doc_0068)
+- [The White Company's Entertaining Glassware And Serving Tray](white_company_entertaining_glassware_and_serving_tray.md): same source document (doc_0068)
+- [The White Company's Nightwear And Pre-Lit Christmas Tree](white_company_nightwear_and_pre_lit_christmas_tree.md): same source document (doc_0068)
+- [The White Company's Puffer Coat And Champagne Trug](white_company_puffer_coat_and_champagne_trug.md): same source document (doc_0068)
+- [The White Company's Relaxation Picks: Diffuser, Bed Socks And Throw](white_company_relaxation_diffuser_bed_socks_and_throw.md): same source document (doc_0068)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

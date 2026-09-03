@@ -11,9 +11,17 @@ Taking rideshares could be prohibitively expensive — TechCrunch's reporter spe
 
 ## Related Notes
 
+
 - [Moni's UserVoice TwitchCon Critique](moni_uservoice_twitchcon_critique.md): same source document; the same complaint from a streamer's perspective.
 - [Loss Of Spontaneous Creator Meetups](loss_of_spontaneous_creator_meetups.md): same source document; the social consequence of hard travel.
 - [Canelo Alvarez Defeats Jermell Charlo, 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): also concerns Las Vegas as an event city, from a different source document.
+- [Benavidez vs Andrade: Date, Venue, Odds And How To Watch](benavidez_vs_andrade_2023_bout_details_and_odds.md): both discuss Las Vegas; different source document
+- [Britney Spears' 55-Hour Marriage To Jason Alexander](britney_spears_jason_alexander_55_hour_marriage.md): both discuss Las Vegas; different source document
+- [Britney Spears On Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): both discuss Las Vegas; different source document
+- [Caesars Sportsbook In Kentucky](caesars_sportsbook_kentucky.md): both discuss Las Vegas; different source document
+- [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): same source document (doc_0551)
+- [The Third Place](third_place_sociological_concept.md): same source document (doc_0551)
+- [Third Places And Twitch Community Building](third_places_and_twitch_community_building.md): same source document (doc_0551)
 
 ## Source
 

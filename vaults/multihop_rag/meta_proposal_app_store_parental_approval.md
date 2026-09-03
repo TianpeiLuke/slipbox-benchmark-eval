@@ -13,6 +13,7 @@ The warrant tying the proposal to the app stores is one of existing capability: 
 
 ## Related Notes
 
+
 - [Meta's Justification For The Subscription Choice](meta_justification_for_subscription_choice.md): another Meta blog-post policy defense, from a different document.
 - [Meta Quest 2 Black Friday Bundle Price](meta_quest_2_black_friday_bundle_price.md): another Meta item, from a different document.
 - [Meta Subscription Age Restriction And Teens](meta_subscription_age_restriction_and_teens.md): overlaps on teens and Meta's responsibility framing, from a different document.
@@ -21,6 +22,7 @@ The warrant tying the proposal to the app stores is one of existing capability: 
 - [Critique Of Meta's App Store Parental Approval Proposal](critique_of_meta_app_store_parental_approval_proposal.md): drawn from the same source document (doc_0141), and rebuts this proposal.
 - [Arturo Bejar's Critique Of Meta's Teen Safety Self-Regulation](meta_teen_safety_self_regulation_and_bejar_critique.md): drawn from the same source document (doc_0141).
 - [The 42-State Lawsuit Against Meta Over Harms To Young Users](multistate_lawsuit_against_meta_teen_harms.md): drawn from the same source document (doc_0141).
+- [The State Patchwork Of Teen Social Media Laws](state_patchwork_of_teen_social_media_laws.md): same source document (doc_0141)
 
 ## Source
 

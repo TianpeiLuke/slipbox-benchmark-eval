@@ -13,6 +13,7 @@ Real were also buoyed by the performance of Vinícius Jr, who looked lively in h
 
 ## Related Notes
 
+
 - [Champions League 2023-24 Group B: Arsenal and PSV](champions_league_2023_24_group_b_arsenal_psv.md): overlapping LaLiga and Sevilla vocabulary, from a different source document.
 - [Champions League 2023-24 Group C: Real Madrid and Napoli](champions_league_2023_24_group_c_real_madrid_napoli.md): also discusses Real Madrid, from a different source document.
 - [Champions League 2023-24 Group Stage Overview](champions_league_2023_24_group_stage_overview.md): also discusses Real Madrid, from a different source document.
@@ -21,6 +22,8 @@ Real were also buoyed by the performance of Vinícius Jr, who looked lively in h
 - [AC Milan 2-0 Win Over Lazio and the Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): same Guardian European roundup.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): same Guardian European roundup, covering the Bundesliga result from the same day.
 - [Harry Kane's Bayern Munich 2023 Scoring Records](harry_kane_bayern_munich_2023_scoring_records.md): same Guardian roundup, on the Bayern scorer that day.
+- [Lautaro Martinez's 2023 Goalscoring Form For Inter Milan](lautaro_martinez_2023_goalscoring_form.md): same source document (doc_0352)
+- [Monaco 3-2 Marseille: Akliouche Brace Takes Monaco Top Of Ligue 1](monaco_3_2_win_over_marseille_ligue_1.md): same source document (doc_0352)
 
 ## Source
 

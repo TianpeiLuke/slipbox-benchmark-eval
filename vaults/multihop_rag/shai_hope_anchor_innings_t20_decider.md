@@ -11,6 +11,7 @@ At 16 overs West Indies were 112-4 with Hope on 29, and he opened the face to st
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares a country reference with this note, from a different document.
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): shares a country reference with this note, from a different document.
 - [Andre Russell's Comeback in the First T20I](andre_russell_comeback_first_t20i.md): covers the same West Indies side earlier in the series, from a different document.
@@ -19,6 +20,8 @@ At 16 overs West Indies were 112-4 with Hope on 29, and he opened the face to st
 - [Adil Rashid T20I Milestones and Series Form](adil_rashid_t20i_milestones_and_series_form.md): covers the bowler Hope saw off, from the same document.
 - [England 132 All Out in the T20 Series Decider](england_132_all_out_t20_series_decider.md): gives the total Hope chased down, from the same document.
 - [England Camp Verdict on the T20 Series Defeat](england_camp_verdict_on_t20_series_defeat.md): gives England's reaction to this innings, from the same document.
+- [West Indies Win The 2023 T20I Series 3-2](west_indies_england_2023_t20i_series_outcome.md): same source document (doc_0064)
+- [The Final Overs Of The T20 Series Clinch](west_indies_final_overs_t20_series_clinch.md): same source document (doc_0064)
 
 ## Source
 

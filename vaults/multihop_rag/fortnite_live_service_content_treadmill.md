@@ -15,11 +15,18 @@ The limit of the model is the audience it assumes. Developers say getting half t
 
 ## Related Notes
 
+
 - [Activision Titles on Xbox Game Pass](activision_titles_on_xbox_game_pass.md): both discuss Game Pass, from a different source document
 - [DualSense PC Setup: SteamInput and DS4Windows](dualsense_pc_setup_steaminput_and_ds4windows.md): another Game Pass reference from a separate article
 - [Epic Games Store Growth and Diversification Beyond Games](epic_games_store_growth_and_diversification_beyond_games.md): another Epic and Fortnite business subject, from a different document
 - [Epic v. Google Trial Overview](epic_v_google_trial_overview.md): another Epic Games subject from a separate source
 - [Fortnite Chapter 1 Map Return](fortnite_chapter_1_map_return.md): covers the same game's content cadence, from a different article
+- [Live-Service Games' Dependence on Content Creators](live_service_games_dependence_on_content_creators.md): same source document (doc_0545)
+- [Negative Sentiment as Profitable Streaming Discourse](negative_sentiment_as_profitable_streaming_discourse.md): same source document (doc_0545)
+- [Rising Game Development and Marketing Budgets](rising_game_development_and_marketing_budgets.md): same source document (doc_0545)
+- [Streamer Burnout and Extreme Stream Formats](streamer_burnout_and_extreme_stream_formats.md): same source document (doc_0545)
+- [Streamers Do Not Represent Typical Player Behavior](streamers_do_not_represent_typical_player_behavior.md): same source document (doc_0545)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

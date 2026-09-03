@@ -11,10 +11,17 @@ The comparison is specific â€” 2022 results, measured against manual buildings â
 
 ## Related Notes
 
+
 - [Amazon's Delivering The Future 2023 Event](amazon_delivering_the_future_2023_event.md): same source document; the event at which Brady spoke.
 - [Amazon's Agility Digit Humanoid Pilot](amazon_agility_digit_humanoid_pilot.md): same source document; another program moving robots into shared human spaces.
 - [Sympathy For The Devil, A Nicolas Cage Thriller](sympathy_for_the_devil_nicolas_cage_thriller.md): overlaps lexically on "cage", from a different source document.
 - [Dream Scenario, By Kristoffer Borgli](dream_scenario_kristoffer_borgli.md): overlaps lexically on "cage", from a different source document.
+- [Mandy (Panos Cosmatos)](mandy_panos_cosmatos_nicolas_cage.md): content overlap 0.13 on cage; different source document
+- [Moonstruck (1987): Norman Jewison's Romantic Comedy](moonstruck_1987_romantic_comedy.md): content overlap 0.12 on cage; different source document
+- [Priscilla (Sofia Coppola)](priscilla_sofia_coppola.md): content overlap 0.11 on cage; different source document
+- [Generative AI In Amazon's Robotics Simulation](amazon_generative_ai_in_robotics_simulation.md): same source document (doc_0528)
+- [Amazon's Greenfield And Brownfield Retrofit Capability](amazon_greenfield_brownfield_retrofit_capability.md): same source document (doc_0528)
+- [Amazon's Industrial Innovation Fund And Agility](amazon_industrial_innovation_fund_and_agility.md): same source document (doc_0528)
 
 ## Source
 

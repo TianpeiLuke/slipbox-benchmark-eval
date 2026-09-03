@@ -11,6 +11,7 @@ Flaherty had undergone shoulder surgery in 2022 and was traded from the Cardinal
 
 ## Related Notes
 
+
 - [Camden Yards Baltimore Orioles Postseason Atmosphere](camden_yards_baltimore_orioles_postseason_atmosphere.md): also concerns the Orioles, Flaherty's 2023 deadline destination, from a different document.
 - [CFP National Championship Winners, 2015 to 2023](cfp_national_championship_winners_2015_to_2023.md): also concerns a team nicknamed the Tigers, from a different document.
 - [Eduardo Rodriguez Signs With Diamondbacks](eduardo_rodriguez_signs_with_diamondbacks.md): another pitcher signing reported by ESPN's Jeff Passan involving Detroit, from a different document.
@@ -19,6 +20,8 @@ Flaherty had undergone shoulder surgery in 2022 and was traded from the Cardinal
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): another entry from the same free agency tracker, from the same document.
 - [Braves Release Matt Carpenter](braves_release_matt_carpenter.md): another entry from the same free agency tracker, from the same document.
 - [Cody Bellinger Free Agent Market and Suitors](cody_bellinger_free_agent_market_and_suitors.md): another entry from the same free agency tracker, from the same document.
+- [Kansas City Royals' December 2023 Signings](kansas_city_royals_2023_offseason_signings.md): same source document (doc_0422)
+- [Lourdes Gurriel Jr. Re-Signs With The Diamondbacks](lourdes_gurriel_jr_diamondbacks_re_signing.md): same source document (doc_0422)
 
 ## Source
 

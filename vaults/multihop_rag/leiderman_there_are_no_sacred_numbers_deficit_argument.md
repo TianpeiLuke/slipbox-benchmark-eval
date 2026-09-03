@@ -13,11 +13,18 @@ The argument carries explicit conditions that keep it from being open-ended. It 
 
 ## Related Notes
 
+
 - [ChatGPT Durability and Regulatory Outlook](chatgpt_durability_and_regulatory_outlook.md): shares President Biden as a referenced actor.
 - [Objection to Moving an Unmet Inflation Target](objection_to_moving_an_unmet_inflation_target.md): a parallel dispute about whether policy targets may be relaxed.
 - [Philippine 2024 Budget Deficit and Debt Trajectory](philippine_2024_budget_deficit_and_debt_trajectory.md): the same deficit-and-expenditure debate in another country.
 - [Reaction to Biden AI Order](reaction_to_biden_ai_order.md): shares President Biden as a referenced actor.
 - [Bank of Israel Interest Rate Policy During the War](bank_of_israel_interest_rate_policy_during_the_war.md): the monetary analogue of this "temporary deviation" reasoning.
+- [Bank of Israel Thirty Billion Dollar FX Intervention](bank_of_israel_thirty_billion_dollar_fx_intervention.md): same source document (doc_0125)
+- [Fiscal Cost Channels of the Israel-Gaza War](fiscal_cost_channels_of_the_israel_gaza_war.md): same source document (doc_0125)
+- [Israeli Economy in the First Week of the Gaza War](israeli_economy_in_the_first_week_of_the_gaza_war.md): same source document (doc_0125)
+- [Israeli Post-War Economic Rehabilitation Planning Proposal](israeli_post_war_economic_rehabilitation_planning_proposal.md): same source document (doc_0125)
+- [Israeli Sectors Most Exposed to War Damage](israeli_sectors_most_exposed_to_war_damage.md): same source document (doc_0125)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

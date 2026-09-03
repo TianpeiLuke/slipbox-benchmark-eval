@@ -13,6 +13,7 @@ In the episode, a ghost has taken up residence in the mansion estate of the weal
 
 ## Related Notes
 
+
 - [Disney Bundle Trio Streaming Package](disney_bundle_trio_streaming_package.md): both discuss Disney Plus, from a different source document
 - [Disney Remake and Franchise Oversaturation](disney_remake_and_franchise_oversaturation.md): another Disney Plus subject from a separate article
 - [Luigi's Mansion 3](luigis_mansion_3.md): overlapping spooky-mansion vocabulary from a different document
@@ -20,6 +21,10 @@ In the episode, a ghost has taken up residence in the mansion estate of the weal
 - [Polygon Best New Streaming Series Roundup Scope](polygon_best_new_streaming_series_roundup_scope.md): both cover Disney Plus as a platform
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
 - [American Horror Story: NYC Season](american_horror_story_nyc_season.md): another TV entry in the same countdown
+- [Apostle (Gareth Evans)](apostle_gareth_evans_folk_horror.md): same source document (doc_0165)
+- [Cat People (1942) and the Origin of the Jump Scare](cat_people_1942_jump_scare_origin.md): same source document (doc_0165)
+- [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): same source document (doc_0165)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

@@ -13,9 +13,14 @@ The warrant tying her novel to the claim is formal as well as thematic: "F---ing
 
 ## Related Notes
 
+
 - [Bill Kenwright Dies Aged 78](bill_kenwright_death_aged_78.md): shares a West End reference, in a different sense and document
 - [Bill Kenwright's West End Theatre Productions](bill_kenwright_west_end_theatre_productions.md): another West End reference from a different document
 - [Vincent Namatjira, Australia In Colour Survey Exhibition](vincent_namatjira_australia_in_colour_survey_exhibition.md): also concerns Aboriginal and Torres Strait Islander subject matter, from a different source
+- [The Botched Public Hanging Of Dundalli, Brisbane 1855](dundalli_public_hanging_brisbane_1855.md): same source document (doc_0283)
+- [Edenglassie: A Dual-Timeline Novel Of Colonial And Contemporary Brisbane](edenglassie_novel_melissa_lucashenko.md): same source document (doc_0283)
+- [Melissa Lucashenko: Family History, Late-Discovered Ancestry And A Writing Career](melissa_lucashenko_family_history_and_writing_career.md): same source document (doc_0283)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

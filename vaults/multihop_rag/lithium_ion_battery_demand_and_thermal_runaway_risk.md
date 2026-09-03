@@ -11,11 +11,18 @@ Most of that growth is accounted for by increased desire for electric vehicles a
 
 ## Related Notes
 
+
 - [Breathe Battery Software](breathe_battery_software.md): another account of lithium-ion technology and its constraints.
 - [Climate Policy Reversal Impact on EV Businesses](climate_policy_reversal_impact_on_ev_businesses.md): another treatment of EV demand and the move away from fossil fuels.
 - [COP28 Renewable Energy Commitments and the IEA Outlook](cop28_renewable_energy_commitments_and_the_iea_outlook.md): another projection of energy demand as fossil fuels are displaced.
 - [Ford Delays EV Investments](ford_delays_ev_investments.md): another item on electric vehicle demand.
 - [India Renewable and Thermal Capacity Policy, 2023](india_renewable_and_thermal_capacity_policy_2023.md): another account of projected energy demand.
+- [Barriers to Commercializing Zinc-Iodine Batteries](barriers_to_commercializing_zinc_iodine_batteries.md): same source document (doc_0286)
+- [Hetero-Polyionic Hydrogel Electrolyte Design](hetero_polyionic_hydrogel_electrolyte_design.md): same source document (doc_0286)
+- [Hydrogel Zinc-Iodine Battery Cycling Results](hydrogel_zinc_iodine_battery_cycling_results.md): same source document (doc_0286)
+- [Zinc-Iodine Battery Advantages and the Dendrite Problem](zinc_iodine_battery_advantages_and_dendrite_problem.md): same source document (doc_0286)
+- [The Zincophilic and Iodophilic Hydrogel Mechanism](zincophilic_and_iodophilic_hydrogel_mechanism.md): same source document (doc_0286)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

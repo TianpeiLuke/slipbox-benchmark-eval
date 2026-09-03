@@ -11,12 +11,19 @@ The Verge notes the 2021 iPad isn't just the final holdout in Apple's tablet lin
 
 ## Related Notes
 
+
 - [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): shares the discount and streaming themes, from a different source document.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the discount and streaming themes, from a different source document.
 - [Apple AirPods Max Holiday Deal](apple_airpods_max_holiday_deal.md): shares the discount and streaming themes, from a different source document.
 - [Apple AirPods Second-Gen, Third-Gen And AirPods Max Deals](apple_airpods_second_third_gen_and_airpods_max_deals.md): shares the discount and streaming themes, from a different source document.
 - [Apple Budget iPad And iPad Mini](apple_budget_ipad_and_ipad_mini.md): overlapping coverage of the iPad's home button, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0424)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

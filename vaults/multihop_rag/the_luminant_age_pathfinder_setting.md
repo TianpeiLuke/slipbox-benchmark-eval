@@ -11,11 +11,17 @@ What caught the writer's eye first were the Four Humanities ancestries, named Bl
 
 ## Related Notes
 
+
 - [Dungeon Crawl Classics](dungeon_crawl_classics_rpg.md): same source; another d20-lineage system, explicitly compared with Pathfinder.
 - [Dungeons & Dragons In 2023](dungeons_and_dragons_2023_play_experiences.md): same source; the other major d20 system covered in the list.
 - [City Of Winter](city_of_winter_ttrpg.md): drawn from the same source document (doc_0591).
 - [Dead After Dinner](dead_after_dinner_ttrpg.md): drawn from the same source document (doc_0591).
 - [Desperation](desperation_ttrpg_jason_morningstar.md): drawn from the same source document (doc_0591).
+- [Eating Oranges In The Shower](eating_oranges_in_the_shower_larp.md): same source document (doc_0591)
+- [Exquisite Biome](exquisite_biome_worldbuilding_ttrpg.md): same source document (doc_0591)
+- [Fetch My Blade](fetch_my_blade_solo_journaling_rpg.md): same source document (doc_0591)
+- [Home](home_haunted_house_ttrpg.md): same source document (doc_0591)
+- [I'm Sorry Did You Say Street Magic](im_sorry_did_you_say_street_magic.md): same source document (doc_0591)
 
 ## Source
 

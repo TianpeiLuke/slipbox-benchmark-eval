@@ -15,6 +15,7 @@ Garin is a mom of three kids, and one of them, Victoria, 12, is a competitive da
 
 ## Related Notes
 
+
 - [Emily Hand's Dancing Talent and Beyoncé Routines](emily_hand_dancing_talent_and_beyonce_routines.md): overlapping coverage of dancing, cancer and kids, from a different source document.
 - [Afrofuture's Founding Vision and Mission Pillars](afrofuture_founding_vision_and_mission_pillars.md): shares the user-generated-content topic, from a different source document.
 - [Alan Wake 2](alan_wake_2.md): shares the user-generated-content topic, from a different source document.
@@ -23,6 +24,11 @@ Garin is a mom of three kids, and one of them, Victoria, 12, is a competitive da
 - [Catherine Tan on Public Disclosure and Law Enforcement Gaps](catherine_tan_public_disclosure_and_law_enforcement_gaps.md): shares the user-generated-content topic, from a different source document.
 - [City of Winter TTRPG](city_of_winter_ttrpg.md): shares the user-generated-content topic, from a different source document.
 - [Clueless (1995)](clueless_1995_teen_comedy_emma_adaptation.md): shares the user-generated-content topic, from a different source document.
+- [Keeping Cancer Fundraising Enjoyable](keeping_cancer_fundraising_enjoyable.md): same source document (doc_0303)
+- [The Mombies' Costume and Makeup Preparation](mombies_costume_and_makeup_preparation.md): same source document (doc_0303)
+- [The Mombies' Origin and "Dance to Donate"](mombies_origin_and_dance_to_donate.md): same source document (doc_0303)
+- [Rebecca Timlin-Scalera and the Founding of Cancer Couch](rebecca_timlin_scalera_founding_cancer_couch.md): same source document (doc_0303)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

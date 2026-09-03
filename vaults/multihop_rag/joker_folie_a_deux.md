@@ -13,6 +13,7 @@ The cast has Joaquin Phoenix reprising his role as Arthur Fleck/the Joker, Lady 
 
 ## Related Notes
 
+
 - [Hunger Games, Trolls, Wish, Napoleon, Holdovers](hunger_games_trolls_wish_napoleon_holdovers.md): both discuss Joaquin Phoenix, from a different source document
 - [Killers of the Flower Moon](killers_of_the_flower_moon_film.md): both reference Martin Scorsese, from a separate article
 - [Martin Scorsese Internet Slang TikTok Quiz](martin_scorsese_internet_slang_tiktok_quiz.md): another Scorsese-related note in a different document
@@ -21,6 +22,8 @@ The cast has Joaquin Phoenix reprising his role as Arthur Fleck/the Joker, Lady 
 - [Aquaman and the Lost Kingdom](aquaman_and_the_lost_kingdom.md): another dated DC release from the same article
 - [Arkham Asylum: The Batman Prequel Series](arkham_asylum_the_batman_prequel_series.md): a fellow DC project in the same roundup
 - [Black Superman Movie (Ta-Nehisi Coates)](black_superman_movie_ta_nehisi_coates.md): another slate item from the same document
+- [Booster Gold TV Series](booster_gold_tv_series.md): same source document (doc_0081)
+- [Brave and the Bold (Damian Wayne Film)](brave_and_the_bold_damian_wayne_film.md): same source document (doc_0081)
 
 ## Source
 

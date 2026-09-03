@@ -11,6 +11,7 @@ The supporting ground is the state of the cross-examinations. Throughout the ent
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): overlaps on the cooperating witnesses, from a different source document.
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): one of the witnesses whose credibility held, from a different source document.
 - [Code Evidence Outweighs Deleted Signal Messages](code_evidence_outweighs_deleted_signal_messages.md): overlaps on Singh, Wang and Ellison, from a different source document.
@@ -19,6 +20,9 @@ The supporting ground is the state of the cross-examinations. Throughout the ent
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): part of the indictment the reporter found convincing (doc_0121).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): another strand of the same case (doc_0121).
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): the witness accounts the defense could not shake (doc_0121).
+- [Can Sun's Testimony On Fabricated Justifications](can_sun_testimony_on_fabricated_justifications.md): same source document (doc_0121)
+- [Cohen's Cross-Examination Of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): same source document (doc_0293)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

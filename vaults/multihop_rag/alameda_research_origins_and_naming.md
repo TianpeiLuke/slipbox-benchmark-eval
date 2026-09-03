@@ -13,6 +13,7 @@ The founding assembled the people later charged alongside him: Bankman-Fried wen
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): also concerns Gary Wang, from a different source document.
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): what the firm later became, from a different source document.
 - [Alameda Research](alameda_research.md): background on the same firm, from a different source document.
@@ -20,6 +21,11 @@ The founding assembled the people later charged alongside him: Bankman-Fried wen
 - [Alameda's Special Privileges in FTX's Code](alameda_special_privileges_in_ftx_code.md): also concerns Gary Wang and Nishad Singh, from a different source document.
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the privilege Bankman-Fried denied knowing about, same trial day (doc_0053).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): his benign account of the same firm's role, same trial day (doc_0053).
+- [FTX's Absence Of A Chief Risk Officer](ftx_absence_of_chief_risk_officer.md): same source document (doc_0053)
+- [Allow_negative: Alameda's Exemption From FTX Liquidation](ftx_alameda_allow_negative_liquidation_exemption.md): same source document (doc_0053)
+- [FTX Fraud Charges And The SEC's Allegation](ftx_fraud_charges_and_sec_allegation.md): same source document (doc_0053)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

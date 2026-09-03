@@ -13,6 +13,7 @@ Mozilla dates the inflection point: this disconnect between what people want and
 
 ## Related Notes
 
+
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): also discusses Elon Musk, from a different document.
 - [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): also discusses Elon Musk, from a different document.
 - [Cybertruck Bed Size And Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): also discusses Elon Musk, from a different document.
@@ -21,6 +22,8 @@ Mozilla dates the inflection point: this disconnect between what people want and
 - [Amo's Founding Team And Funding Round](amo_founding_team_and_funding_round.md): drawn from the same source document (doc_0196).
 - [Amo's ID Social App Launch](amo_id_social_app_launch.md): drawn from the same source document (doc_0196), and is a product built against this drift.
 - [Amo's Scale Ambition And Product Roadmap](amo_scale_ambition_and_product_roadmap.md): drawn from the same source document (doc_0196).
+- [The Empty Canvas Analogy For ID](empty_canvas_design_analogy_for_id.md): same source document (doc_0196)
+- [The Fediverse And The ActivityPub Protocol](fediverse_activitypub_protocol.md): same source document (doc_0026)
 
 ## Source
 

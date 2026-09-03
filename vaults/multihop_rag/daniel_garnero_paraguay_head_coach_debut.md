@@ -13,11 +13,19 @@ Garnero rang the changes after Paraguay's defeat to Venezuela, making five alter
 
 ## Related Notes
 
+
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): another Inter Miami and Messi document, different source
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): another document covering Newcastle United, different source
 - [Carabao Cup 2023-24 Overview and Stakes](carabao_cup_2023_24_overview_and_stakes.md): another Newcastle United document, different source
 - [Carabao Cup 2023-24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): another Newcastle United document, different source
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): another Newcastle United document, different source
+- [Argentina 1-0 Paraguay, CONMEBOL World Cup Qualifying, October 2023](argentina_1_0_paraguay_2023_world_cup_qualifier.md): same source document (doc_0534)
+- [Argentina's First-Half Dominance Against Paraguay](argentina_first_half_dominance_vs_paraguay.md): same source document (doc_0534)
+- [Broadcast Rights For Argentina vs Paraguay, October 2023](argentina_paraguay_2023_broadcast_rights.md): same source document (doc_0534)
+- [Team News And Lineups: Argentina vs Paraguay, October 2023](argentina_paraguay_2023_team_news_and_lineups.md): same source document (doc_0534)
+- [Argentina's Second Half And Messi's Introduction Against Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): same source document (doc_0534)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

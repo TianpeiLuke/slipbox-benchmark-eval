@@ -11,6 +11,7 @@ Manish reported the story in TechCrunch's Week in Review of October 7, 2023. Ind
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also concerns Sam Altman, from a different source document.
 - [Anthropic Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): also concerns Sam Altman, from a different source document.
 - [ChatGPT 100 Million User Milestone](chatgpt_100_million_user_milestone.md): also concerns Sam Altman's OpenAI, from a different source document.
@@ -19,6 +20,8 @@ Manish reported the story in TechCrunch's Week in Review of October 7, 2023. Ind
 - [Acurable's Patient-Friendly Respiratory Wearables](acurable_respiratory_wearables.md): another item from the same October 7, 2023 Week in Review (doc_0011).
 - [AI Startup Defensibility](ai_startup_defensibility.md): another item from the same source document (doc_0011).
 - [Breathe Battery Technologies' Charging Software](breathe_battery_software.md): another item from the same source document (doc_0011).
+- [Flexport Leadership Turmoil](flexport_leadership_turmoil.md): same source document (doc_0011)
+- [Gmail's New Rules For Bulk Senders](gmail_bulk_sender_rules.md): same source document (doc_0011)
 
 ## Source
 

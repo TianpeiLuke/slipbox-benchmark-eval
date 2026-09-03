@@ -11,11 +11,19 @@ Mike Haracz, corporate R&D chef and host of Heroes' Feast, is in the seventh yea
 
 ## Related Notes
 
+
 - [Astarion, Baldur's Gate 3 Vampire Companion](astarion_baldurs_gate_3_vampire_companion.md): covers the video game credited here with teaching D&D mechanics, from a different source document.
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also covers North America, from a different source document.
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): also covers North America, from a different source document.
 - [American Horror Story Nyc Season](american_horror_story_nyc_season.md): also covers Petrana Radulovic, from a different source document.
 - [Baldurs Gate 3](baldurs_gate_3.md): overlaps in content on dungeons, dragons, dice, from a different source document.
+- [City Of Winter](city_of_winter_ttrpg.md): same source document (doc_0591)
+- [Dead After Dinner](dead_after_dinner_ttrpg.md): same source document (doc_0591)
+- [Desperation](desperation_ttrpg_jason_morningstar.md): same source document (doc_0591)
+- [Dungeon Crawl Classics](dungeon_crawl_classics_rpg.md): same source document (doc_0591)
+- [Eating Oranges In The Shower](eating_oranges_in_the_shower_larp.md): same source document (doc_0591)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

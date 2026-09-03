@@ -11,11 +11,18 @@ The service had its share of ups and downs over the years, including layoffs in 
 
 ## Related Notes
 
+
 - [Amazon's Delivering The Future 2023 Event](amazon_delivering_the_future_2023_event.md): same source document; the event where these announcements were made.
 - [Amazon's Agility Digit Humanoid Pilot](amazon_agility_digit_humanoid_pilot.md): same source document; another robotics program from the same announcement set.
 - [Brave Software Layoffs](brave_software_layoffs.md): shares the layoffs-and-restructuring theme, from a different source document.
 - [CollegeHumor, IAC Layoffs And The Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares the layoffs-and-restructuring theme, from a different source document.
 - [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): shares the layoffs-and-restructuring theme, from a different source document.
+- [Consolidation Leaves Studios Vulnerable To Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): shares layoffs, layoffs_and_restructuring; different source document
+- [The Costs Of Relinquishing Independence After Acquisition](costs_of_relinquishing_independence_after_acquisition.md): shares layoffs, layoffs_and_restructuring; different source document
+- [Generative AI In Amazon's Robotics Simulation](amazon_generative_ai_in_robotics_simulation.md): same source document (doc_0528)
+- [Amazon's Greenfield And Brownfield Retrofit Capability](amazon_greenfield_brownfield_retrofit_capability.md): same source document (doc_0528)
+- [Amazon's Industrial Innovation Fund And Agility](amazon_industrial_innovation_fund_and_agility.md): same source document (doc_0528)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
 
 ## Source
 

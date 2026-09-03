@@ -13,6 +13,7 @@ In either setup the same movement principle holds: the forward line shifts horiz
 
 ## Related Notes
 
+
 - [AC Milan 2-0 Win Over Lazio and Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): another document covering Stefano Pioli, one of the coaches using this shape
 - [Arsenal 2-1 Win at Sevilla Group B](arsenal_2_1_win_at_sevilla_group_b.md): another document covering Mikel Arteta, another user of the system
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): another Mikel Arteta document, different source
@@ -21,6 +22,8 @@ In either setup the same movement principle holds: the forward line shifts horiz
 - [Criticism of Germany Travel to North America 2023](criticism_of_germany_travel_to_north_america_2023.md): the context of the trip where this system debuted, same source document
 - [Germany National Team Decline and Nagelsmann Appointment](germany_national_team_decline_and_nagelsmann_appointment.md): why Nagelsmann was appointed, same source document
 - [Germany Squad October 2023 North America Friendlies](germany_squad_october_2023_north_america_friendlies.md): the players available to this system, same source document
+- [Julian Nagelsmann's Career And His Bayern Munich Dismissal](julian_nagelsmann_career_and_bayern_munich_dismissal.md): same source document (doc_0444)
+- [The Selection Questions Facing Nagelsmann With Germany](nagelsmann_selection_questions_for_germany_national_team.md): same source document (doc_0444)
 
 ## Source
 

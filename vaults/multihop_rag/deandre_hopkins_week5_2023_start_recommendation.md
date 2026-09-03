@@ -13,11 +13,18 @@ The two named obstacles bound the recommendation. The first is Tannehill: Hopkin
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Puka Nacua, cited here as the receiver who just exploited this matchup, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another "Start Him" verdict in the same weekly-decision format, from a different document.
 - [Cole Kmet Week 6 2023 Start Recommendation](cole_kmet_week6_2023_start_recommendation.md): another "Start Him" verdict from the companion Week 6 column.
 - [Colts Backfield Split Zack Moss Jonathan Taylor Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): another "Start Him" verdict, covering the Colts offense on the other side of this matchup, from a different column.
 - [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md): also discusses Puka Nacua, from a different document.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0058)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0058)
+- [Dallas Goedert As A Week 5 2023 Bust Candidate At The Rams](dallas_goedert_week5_2023_bust_warning.md): same source document (doc_0058)
+- [Dameon Pierce As A Week 5 2023 Sit At Atlanta](dameon_pierce_week5_2023_sit_recommendation.md): same source document (doc_0058)
+- [Gabe Davis As A Week 5 2023 Flex Starter Against Jacksonville](gabe_davis_week5_2023_flex_recommendation.md): same source document (doc_0058)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

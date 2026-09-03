@@ -11,9 +11,18 @@ The DT 900 Pro X is a wired pair of open-back headphones designed for critical l
 
 ## Related Notes
 
+
 - [Sennheiser HD 560S Open-Back Headphones](sennheiser_hd_560s_open_back_headphones.md): overlaps in content on open-back headphones and sub-bass, from a different source document.
 - [Walmart Cyber Monday 2023 Over-Ear Headphone Deals](walmart_cyber_monday_2023_over_ear_headphone_deals.md): overlaps in content on wired and noise-isolating headphones, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): same source document; another audio product in the same roundup.
+- [Sony WH-1000XM Series And LinkBuds S Deals](sony_wh1000xm_series_and_linkbuds_s_deals.md): content overlap 0.11 on headphones, fold, noise; different source document
+- [Anker Soundcore Liberty 4 NC Earbuds Deal Prices](anker_soundcore_liberty_4_nc_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space Q45 Deal](anker_soundcore_space_q45_deal.md): same source document (doc_0404)
+- [Apple AirPods 2nd Gen Holiday Deal](apple_airpods_2nd_gen_holiday_deal.md): same source document (doc_0404)
+- [Apple AirPods 3rd Gen Holiday Deal](apple_airpods_3rd_gen_holiday_deal.md): same source document (doc_0404)
+- [Apple AirPods Max Holiday Deal](apple_airpods_max_holiday_deal.md): same source document (doc_0404)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

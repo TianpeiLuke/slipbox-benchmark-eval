@@ -11,12 +11,15 @@ The stated warrant for pursuing the question is that until we understand which w
 
 ## Related Notes
 
+
 - [The Lineage Of English-Language Vampire Fiction](english_language_vampire_fiction_lineage.md): same source; the literary history this premise is imposed on.
 - [John William Polidori And The Vampyre](john_william_polidori_the_vampyre.md): same source; the first verdict in the field guide, which also rules on Byron.
 - [Anne Rice: Vampire Verdict](anne_rice_vampire_chronicles_verdict.md): same source; the verdict on the author named in the premise.
 - [Stephen King: Vampire Verdict](stephen_king_salems_lot_vampire_verdict.md): same source; another verdict in the same guide.
 - [Taika Waititi: Vampire Verdict](taika_waititi_what_we_do_in_the_shadows_verdict.md): same source; the guide's final and most severe verdict.
 - [Laurell K. Hamilton: Vampire Verdict](laurell_k_hamilton_anita_blake_verdict.md): same source; another verdict in the guide.
+- [Author Endorsements In Book Publishing](author_endorsements_in_book_publishing.md): content overlap 0.11 on authors, writers; different source document
+- [Bram Stoker: Vampire Verdict](bram_stoker_dracula_vampire_verdict.md): same source document (doc_0452)
 
 ## Source
 

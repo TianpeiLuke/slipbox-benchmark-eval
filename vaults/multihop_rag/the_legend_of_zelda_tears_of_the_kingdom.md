@@ -15,12 +15,18 @@ Myers never wanted to stop playing, and though 2023 in video games spoiled every
 
 ## Related Notes
 
+
 - [Breath of the Wild Link Gender Speculation](breath_of_the_wild_link_gender_speculation.md): covers the same Zelda games from a criticism angle, in a different source document
 - [Classic Nintendo Switch Franchise Picks](classic_nintendo_switch_franchise_picks.md): overlapping Zelda and Switch subject matter from a separate article
 - [Nostalgia-Driven Major Game Releases 2023](nostalgia_driven_major_game_releases_2023.md): another 2023 release roundup mentioning this game, from a different document
 - [The Legend of Zelda: Breath of the Wild](the_legend_of_zelda_breath_of_the_wild.md): covers the predecessor this game builds on, from a separate source
 - [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
 - [Amnesia: The Bunker](amnesia_the_bunker.md): a fellow entry on the same ranked games list
+- [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): same source document (doc_0213)
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Chants of Sennaar](chants_of_sennaar.md): same source document (doc_0213)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

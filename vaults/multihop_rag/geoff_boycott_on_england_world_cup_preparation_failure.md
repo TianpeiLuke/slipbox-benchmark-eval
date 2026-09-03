@@ -13,6 +13,7 @@ What England actually did, Boycott wrote, was plan only two warm-up games, one o
 
 ## Related Notes
 
+
 - [India 1996 World Cup Semifinal vs Sri Lanka](india_1996_world_cup_semifinal_vs_sri_lanka.md): another account of batting conditions in the subcontinent, different source document
 - [ODI Cricket World Cup Winners List](odi_cricket_world_cup_winners_list.md): the historical record Boycott appeals to, different source document
 - [All Blacks Final Moments RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): another 2023 World Cup account, in a different sport
@@ -21,6 +22,13 @@ What England actually did, Boycott wrote, was plan only two warm-up games, one o
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): another World Cup document, different sport and source
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): another World Cup document, different sport and source
 - [Argentina vs Paraguay 2026 World Cup Qualifier Preview](argentina_vs_paraguay_2026_world_cup_qualifier_preview.md): another World Cup document, different sport and source
+- [Boycott On The Selection Of Bairstow And Woakes](boycott_criticism_of_bairstow_and_woakes_selection.md): same source document (doc_0132)
+- [Boycott Defends Jos Buttler's Captaincy](boycott_defends_jos_buttler_captaincy.md): same source document (doc_0132)
+- [England's 2023 World Cup Title Defence All But Dead](england_2023_cricket_world_cup_title_defence_collapse.md): same source document (doc_0132)
+- [Jos Buttler's Reaction To The Sri Lanka Defeat](jos_buttler_reaction_to_sri_lanka_defeat_2023.md): same source document (doc_0132)
+- [Atherton: The Sri Lanka Defeat Marked The End Of An Era](michael_atherton_end_of_an_era_english_white_ball_cricket.md): same source document (doc_0132)
+- [Hussain Rejects The Structural Excuse For England's Decline](nasser_hussain_rejects_structural_excuse_for_england_decline.md): same source document (doc_0132)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

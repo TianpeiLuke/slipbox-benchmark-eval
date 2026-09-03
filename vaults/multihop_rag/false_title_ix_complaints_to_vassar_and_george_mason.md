@@ -13,6 +13,7 @@ So far, the Title IX offices, departments, and administrators at Tan, Umamaheswa
 
 ## Related Notes
 
+
 - [Amazon Marketplace Foreclosure Theory of Harm](amazon_marketplace_foreclosure_theory_of_harm.md): shares the formal-investigation theme, from a different source document.
 - [Astros Players' Immunity and Mike Fiers](astros_players_immunity_and_mike_fiers.md): shares the formal-investigation theme, from a different source document.
 - [BG3 Warlock Hit Points and Proficiencies](bg3_warlock_hit_points_and_proficiencies.md): shares a rules-and-procedure theme, from a different source document.
@@ -21,6 +22,13 @@ So far, the Title IX offices, departments, and administrators at Tan, Umamaheswa
 - [Bolt SEC Probe](bolt_sec_probe.md): shares the formal-investigation theme, from a different source document.
 - [Campus Stalking Research on Students and Faculty](campus_stalking_of_students_and_faculty_research.md): the research context for these filings (doc_0136).
 - [The Case That Michigan Sign-Stealing Was Systematic Cheating](case_that_michigan_sign_stealing_was_systematic_cheating.md): shares the institutional-investigation theme, from a different source document.
+- [Catherine Tan's Public Disclosure And Law Enforcement Gaps](catherine_tan_public_disclosure_and_law_enforcement_gaps.md): same source document (doc_0136)
+- [The Cyberstalker's Twitter Campaign Against Asian Academics](cyberstalker_twitter_campaign_against_asian_academics.md): same source document (doc_0136)
+- [Documenting Cyberstalking As Unpaid Labor](documenting_cyberstalking_as_unpaid_labor.md): same source document (doc_0136)
+- [Rate My Professors Harassment Of Janani Umamaheswar](rate_my_professors_harassment_of_janani_umamaheswar.md): same source document (doc_0136)
+- [Title IX Weaponized Against Faculty](title_ix_weaponized_against_faculty.md): same source document (doc_0136)
+- [The University Response Gap To Faculty Online Abuse](university_response_gap_to_faculty_online_abuse.md): same source document (doc_0136)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
 
 ## Source
 

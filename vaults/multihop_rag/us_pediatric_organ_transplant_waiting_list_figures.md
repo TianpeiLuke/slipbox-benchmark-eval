@@ -11,6 +11,7 @@ In Pennsylvania alone, 18 children are waiting for liver transplants, while 300 
 
 ## Related Notes
 
+
 - [Case for Organ Donation and Living Donor Awareness](case_for_organ_donation_and_living_donor_awareness.md): drawn from the same source document (doc_0594).
 - [Lucas Goeller Biliary Atresia and Failing Transplant](lucas_goeller_biliary_atresia_and_failing_transplant.md): drawn from the same source document (doc_0594).
 - [Lucas Goeller Current Liver Failure Symptoms](lucas_goeller_current_liver_failure_symptoms.md): drawn from the same source document (doc_0594).
@@ -19,6 +20,7 @@ In Pennsylvania alone, 18 children are waiting for liver transplants, while 300 
 - [Partial Liver Transplants to Reduce Waitlist Mortality](partial_liver_transplants_to_reduce_waitlist_mortality.md): drawn from the same source document (doc_0594).
 - [Pediatric Liver Transplant Allocation Challenge](pediatric_liver_transplant_allocation_challenge.md): drawn from the same source document (doc_0594).
 - [Save Lucas Campaign and Living Donor Criteria](save_lucas_campaign_and_living_donor_criteria.md): drawn from the same source document (doc_0594).
+- [Transplant Center Capacity And The Starzl Network](transplant_center_capacity_and_starzl_network.md): same source document (doc_0594)
 
 ## Source
 

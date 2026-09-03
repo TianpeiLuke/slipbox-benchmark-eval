@@ -11,11 +11,19 @@ All-Time High, a Netflix Film: a con artist in dire need of cash and a woman wit
 
 ## Related Notes
 
+
 - [Diablo 4 Season 2 Renown and Gem Inventory Rework](diablo_4_season_2_renown_and_gem_inventory_rework.md): shares the game_patch_notes, streaming_service topic tags, from a different source document.
 - [iPad Air M1 Holiday Deal](ipad_air_m1_holiday_deal.md): shares the game_patch_notes, streaming_service topic tags, from a different source document.
 - [Polygon Best New Streaming Series Roundup Scope](polygon_best_new_streaming_series_roundup_scope.md): shares the game_patch_notes, streaming_service topic tags, from a different source document.
 - [Polygon Best Streaming Comedy Movies Guide](polygon_best_streaming_comedy_movies_guide.md): shares the game_patch_notes, streaming_service topic tags, from a different source document.
 - [Prime Day 2023 Amazon Echo Kindle and Fire Deals](prime_day_2023_amazon_echo_kindle_and_fire_deals.md): shares the game_patch_notes, streaming_service topic tags, from a different source document.
+- [Insidious: The Red Door](insidious_the_red_door.md): same source document (doc_0392)
+- [Netflix Games, November 2023](netflix_games_november_2023.md): same source document (doc_0392)
+- [Netflix's Licensed Library Additions, November 2023](netflix_licensed_library_additions_november_2023.md): same source document (doc_0392)
+- [Netflix's November 2023 Slate: Overview](netflix_november_2023_slate_overview.md): same source document (doc_0392)
+- [Netflix Originals Premiering November 14 To 16, 2023](netflix_originals_premiering_november_14_to_16_2023.md): same source document (doc_0392)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

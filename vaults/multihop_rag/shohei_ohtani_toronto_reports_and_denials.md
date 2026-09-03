@@ -11,11 +11,17 @@ The sequence began with Dodgers Nation's J.P. Hoornstra reporting that Ohtani ha
 
 ## Related Notes
 
+
 - [Alanna Rizzo Criticism of Clubhouse Reporting](alanna_rizzo_criticism_of_clubhouse_reporting.md): also covers the Blue Jays, from a different document.
 - [Alternative Reading of the Mariners Ohtani Leak](alternative_reading_of_the_mariners_ohtani_leak.md): another case of contested Ohtani free-agency reporting, from a different document.
 - [Angels 2023 Offseason: Ohtani and Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): also covers Mike Trout, whose contract record is the benchmark here, from a different document.
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): also relays reporting from Jon Morosi, from a different document.
 - [Campus Stalking of Students and Faculty Research](campus_stalking_of_students_and_faculty_research.md): also concerns Southern California, from a different document.
+- [Why Signing Ohtani Could Have Cost Toronto Bichette And Guerrero](blue_jays_roster_implications_of_ohtani_pursuit.md): same source document (doc_0426)
+- [Ohtani Free Agency: Market Expectations And Decision Timeline](ohtani_free_agency_market_expectations_and_timeline.md): same source document (doc_0426)
+- [Shohei Ohtani's 10-Year, $700 Million Contract With The Dodgers](shohei_ohtani_dodgers_ten_year_700_million_contract.md): same source document (doc_0426)
+- [Shohei Ohtani's Free Agency Suitors And Finalists](shohei_ohtani_free_agency_suitors_and_finalists.md): same source document (doc_0426)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

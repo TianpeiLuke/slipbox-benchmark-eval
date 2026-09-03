@@ -11,6 +11,7 @@ Doran joined Spire from Stewart-Haas Racing, where he was an engineer on the No.
 
 ## Related Notes
 
+
 - [Autobrains Hires Uri Yacovy As COO](autobrains_hires_uri_yacovy_as_coo.md): overlaps on executive hiring, from a different document.
 - [Cruise GM Honda Japan Robotaxi Joint Venture](cruise_gm_honda_japan_robotaxi_joint_venture.md): also concerns General Motors, from a different document.
 - [EV Battery Plant Locations And Union Organizing](ev_battery_plant_locations_and_union_organizing.md): also concerns General Motors, from a different document.
@@ -19,6 +20,8 @@ Doran joined Spire from Stewart-Haas Racing, where he was an engineer on the No.
 - [Aric Almirola Joe Gibbs Racing Xfinity Move](aric_almirola_joe_gibbs_racing_xfinity_move.md): another storyline in the same roundup, from the same document.
 - [Kaulig Racing No. 16 2024 Driver Uncertainty](kaulig_racing_no_16_2024_driver_uncertainty.md): another storyline in the same roundup, from the same document.
 - [NASCAR 2024 Offseason Preparation Window](nascar_2024_offseason_preparation_window.md): the framing for this roundup, from the same document.
+- [NASCAR 2024 Spotter Changes Elliott And Blaney](nascar_2024_spotter_changes_elliott_and_blaney.md): same source document (doc_0487)
+- [NASCAR Next Gen Muffler Noise Reduction Test](nascar_next_gen_muffler_noise_reduction_test.md): same source document (doc_0487)
 
 ## Source
 

@@ -11,11 +11,17 @@ The obvious case — that with each passing year David Fincher's Mark Zuckerberg
 
 ## Related Notes
 
+
 - [Netflix's Licensed Library Additions, November 2023](netflix_licensed_library_additions_november_2023.md): same source; the licensed list this film arrives on.
 - [Netflix Games, November 2023](netflix_games_november_2023.md): same source; another strand of the same monthly slate.
 - [Eileen](eileen_william_oldroyd.md): another film connected to David Fincher, from a different source document.
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also covers Mark Zuckerberg, from a different source document.
 - [Critique of Meta App Store Parental Approval Proposal](critique_of_meta_app_store_parental_approval_proposal.md): also covers Mark Zuckerberg, from a different source document.
+- [Meta's Internal Data On Under-13 Users](meta_internal_under_13_user_data.md): both discuss Mark Zuckerberg; different source document
+- [Platform Silos Make New Social Products Impossible To Build](platform_silos_make_new_social_products_impossible_to_build.md): content overlap 0.10 on facebook, network, aesthetic; different source document
+- [Insidious: The Red Door](insidious_the_red_door.md): same source document (doc_0392)
+- [Netflix's November 2023 Slate: Overview](netflix_november_2023_slate_overview.md): same source document (doc_0392)
+- [Netflix Originals Premiering November 14 To 16, 2023](netflix_originals_premiering_november_14_to_16_2023.md): same source document (doc_0392)
 
 ## Source
 

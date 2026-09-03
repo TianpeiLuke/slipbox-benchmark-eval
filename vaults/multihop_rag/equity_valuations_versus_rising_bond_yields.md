@@ -11,11 +11,20 @@ The warrant runs through the earnings yield an equity offers relative to a risk-
 
 ## Related Notes
 
+
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): shares the earnings-and-valuation framing, from a different source document.
 - [ASX And Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): covers yields moving stock valuations in the same month, from a different source document.
 - [ASX December 2023 Session Movers](asx_december_2023_session_movers.md): tracks equities and percentage moves against the rate backdrop, from a different source document.
 - [ASX Outlook And RBA Rate Expectations September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): links bond yields to stock outlooks, from a different source document.
 - [Big Tech Concentration In The S&P 500](big_tech_concentration_in_the_sp500.md): concerns yields and stock valuations together, from a different source document.
+- [Bharti Airtel: The EV/EBITDA Case That PE Would Have Missed](bharti_airtel_ev_ebitda_valuation_case.md): same source document (doc_0418)
+- [Enterprise Value Multiples](enterprise_value_multiples.md): same source document (doc_0418)
+- [Equity Multiples Must Use Shareholder Line Items](equity_multiples_and_shareholder_line_items.md): same source document (doc_0418)
+- [Ketchup Economics: The Peer-Multiple Fallacy](ketchup_economics_peer_multiple_fallacy.md): same source document (doc_0418)
+- [Layering Comparisons Against Growth And A Stock's Own History](layered_comparison_against_growth_and_own_history.md): same source document (doc_0418)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

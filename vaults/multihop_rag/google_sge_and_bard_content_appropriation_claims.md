@@ -15,12 +15,18 @@ The case points to other concerns too, such as changing AdSense rates and eviden
 
 ## Related Notes
 
+
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): also concerns Epic Games' dispute with Google, from a different source document.
 - [ChatGPT Political Disinformation Guardrail Failure](chatgpt_political_disinformation_guardrail_failure.md): also draws on Washington Post reporting, from a different source document.
 - [Epic Antitrust Claims Against Google Play](epic_antitrust_claims_against_google_play.md): also concerns Epic Games' antitrust case against Google, from a different source document.
 - [Epic Games 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): also concerns Epic Games, from a different source document.
 - [Epic Games Store As A General Purpose App Store](epic_games_store_as_a_general_purpose_app_store.md): also concerns Epic Games, from a different source document.
 - [AI Search Publisher Traffic Loss Projections](ai_search_publisher_traffic_loss_projections.md): drawn from the same source document (doc_0033), quantifying the traffic harm alleged here.
+- [Google's Knowledge Graph And Featured Snippets](google_knowledge_graph_and_featured_snippets.md): same source document (doc_0033)
+- [Google's News Content Payment Deal With Canada](google_news_content_payment_deal_with_canada.md): same source document (doc_0033)
+- [Google's Rebuttal To The Publisher Antitrust Suit](google_rebuttal_to_publisher_antitrust_suit.md): same source document (doc_0033)
+- [Helena World Chronicle's Class Action Antitrust Suit Against Google](helena_world_chronicle_v_google_antitrust_suit.md): same source document (doc_0033)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
 
 ## Source
 

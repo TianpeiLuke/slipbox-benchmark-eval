@@ -11,6 +11,7 @@ According to Bob Pockrass of Fox Sports, former NASCAR Xfinity Series driver Tim
 
 ## Related Notes
 
+
 - [Autosport Top 50 Drivers 2023 NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): also discusses Ryan Blaney, from a different document.
 - [Dale Earnhardt Jr. Visit To High Limit Commonwealth Clash](dale_earnhardt_jr_visit_to_high_limit_commonwealth_clash.md): overlaps on NASCAR motorsports terms, from a different document.
 - [Ford F-150 Outsells Mustang Among NASCAR Fans](ford_f150_outsells_mustang_among_nascar_fans.md): overlaps on NASCAR series terms including the Truck Series, from a different document.
@@ -19,6 +20,8 @@ According to Bob Pockrass of Fox Sports, former NASCAR Xfinity Series driver Tim
 - [Aric Almirola Joe Gibbs Racing Xfinity Move](aric_almirola_joe_gibbs_racing_xfinity_move.md): another storyline in the same roundup, from the same document.
 - [Kaulig Racing No. 16 2024 Driver Uncertainty](kaulig_racing_no_16_2024_driver_uncertainty.md): another storyline in the same roundup, from the same document.
 - [NASCAR 2024 Offseason Preparation Window](nascar_2024_offseason_preparation_window.md): the framing for this roundup, from the same document.
+- [NASCAR Next Gen Muffler Noise Reduction Test](nascar_next_gen_muffler_noise_reduction_test.md): same source document (doc_0487)
+- [NASCAR Phoenix Next Gen Short Track Test](nascar_phoenix_next_gen_short_track_test.md): same source document (doc_0487)
 
 ## Source
 

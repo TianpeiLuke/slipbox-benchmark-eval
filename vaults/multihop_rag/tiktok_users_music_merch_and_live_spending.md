@@ -11,6 +11,7 @@ In the US, 45% of TikTok users bought music-related merch over a 12-month period
 
 ## Related Notes
 
+
 - [Teen Time Spent on TikTok, Snapchat and Instagram](teen_time_spent_on_tiktok_snapchat_and_instagram.md): another comparative study of TikTok users, from a different source document.
 - [Luminate TikTok Music Study 2023](luminate_tiktok_music_study_2023.md): the study and markets these figures come from (doc_0363).
 - [Tiktok Bans and Bytedance Data Concerns](tiktok_bans_and_bytedance_data_concerns.md): another note drawn from the same source document (doc_0363).
@@ -19,6 +20,7 @@ In the US, 45% of TikTok users bought music-related merch over a 12-month period
 - [TikTok Music Discovery and Sharing Rates](tiktok_music_discovery_and_sharing_rates.md): the discovery behaviour that precedes the spending (doc_0363).
 - [Tiktok Music Services Expansion](tiktok_music_services_expansion.md): another note drawn from the same source document (doc_0363).
 - [TikTok User Streaming Service Penetration](tiktok_user_streaming_service_penetration.md): the on-platform streaming counterpart (doc_0363).
+- [62% Of US TikTok Users Pay For Music Streaming](tiktok_users_music_streaming_subscription_rate.md): same source document (doc_0363)
 
 ## Source
 

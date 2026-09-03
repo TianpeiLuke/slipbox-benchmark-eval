@@ -17,11 +17,19 @@ Put the three together and the expected combination is optimistic: climate activ
 
 ## Related Notes
 
+
 - [Baldur's Gate 3](baldurs_gate_3.md): shares a user-generated-content theme tag, from a different source document.
 - [Democratic Social Media Campaign Dominance](democratic_social_media_campaign_dominance.md): also concerns platforms shaping political outcomes, from a different source document.
 - [Epoch Times 2020 Election And Pro-Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): also concerns online media and authoritarian-adjacent politics, from a different source document.
 - [Lucas Goeller's First Liver Transplant And 2015 Campaign](lucas_goeller_first_liver_transplant_and_2015_campaign.md): shares a campaigning theme tag, from a different source document.
 - [Snap Map As A Civic Documentation Tool](snap_map_as_civic_documentation_tool.md): also concerns networked civic activity, from a different source document.
+- [The Attention Economy And Limbic Capitalism](attention_economy_and_limbic_capitalism.md): same source document (doc_0234)
+- [The Contested Evidence On Social Media Harm](contested_evidence_on_social_media_harm.md): same source document (doc_0234)
+- [Democracy In A Hotter Time](democracy_in_a_hotter_time_essay_collection.md): same source document (doc_0234)
+- [The Internet As A Central Obstacle To Climate Action](internet_as_central_obstacle_to_climate_action.md): same source document (doc_0234)
+- [The Internet As A Global Endocrine System](internet_as_global_endocrine_system.md): same source document (doc_0234)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

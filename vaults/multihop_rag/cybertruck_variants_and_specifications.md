@@ -13,6 +13,7 @@ For context on how far the specs have moved: Tesla's 2019 promises included a $3
 
 ## Related Notes
 
+
 - [Delta Skymiles Gold Business Rewards Rates](delta_skymiles_gold_business_rewards_rates.md): substantial content overlap on mile, miles, from a different source document.
 - [Mazda Mx 30 US Discontinuation](mazda_mx_30_us_discontinuation.md): substantial content overlap on cybertruck, mile, tesla, from a different source document.
 - [Tesla Cybertruck Production Outlook](tesla_cybertruck_production_outlook.md): substantial content overlap on cybertruck, tesla, musk, from a different source document.
@@ -21,6 +22,8 @@ For context on how far the specs have moved: Tesla's 2019 promises included a $3
 - [Cybertruck Bed Size and Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): drawn from the same source document, doc_0547.
 - [Cybertruck Resale Restrictions Walked Back](cybertruck_resale_restrictions_walked_back.md): drawn from the same source document, doc_0547.
 - [Cybertruck Stainless Steel Design and Aesthetic](cybertruck_stainless_steel_design_and_aesthetic.md): drawn from the same source document, doc_0547.
+- [The Environmental Case Against Large Electric Pickups](environmental_case_against_large_electric_pickups.md): same source document (doc_0547)
+- [Tesla Cybertruck Launch And First Deliveries](tesla_cybertruck_launch_and_first_deliveries.md): same source document (doc_0547)
 
 ## Source
 

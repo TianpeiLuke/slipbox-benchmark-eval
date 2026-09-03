@@ -11,6 +11,7 @@ Negotiations with Meta over the same Canadian law were still unresolved as of mi
 
 ## Related Notes
 
+
 - [Apple Google Information Services Agreement](apple_google_information_services_agreement.md): another Google content and search agreement, from a different source document.
 - [Meta Quest 2 Black Friday Bundle Price](meta_quest_2_black_friday_bundle_price.md): also concerns Meta, from a different source document.
 - [US Tech Giant App Download Rankings 2023](us_tech_giant_app_download_rankings_2023.md): overlapping coverage of Meta and Google, from a different source document.
@@ -19,6 +20,8 @@ Negotiations with Meta over the same Canadian law were still unresolved as of mi
 - [AI Search Publisher Traffic Loss Projections](ai_search_publisher_traffic_loss_projections.md): drawn from the same source document (doc_0033), on the traffic economics behind such payment demands.
 - [Google Knowledge Graph And Featured Snippets](google_knowledge_graph_and_featured_snippets.md): drawn from the same source document (doc_0033), on the content-extraction claims at issue.
 - [Google Rebuttal To Publisher Antitrust Suit](google_rebuttal_to_publisher_antitrust_suit.md): drawn from the same source document (doc_0033), giving Google's position on publisher content.
+- [The Claim That SGE And Bard Appropriate Publisher Content](google_sge_and_bard_content_appropriation_claims.md): same source document (doc_0033)
+- [Helena World Chronicle's Class Action Antitrust Suit Against Google](helena_world_chronicle_v_google_antitrust_suit.md): same source document (doc_0033)
 
 ## Source
 

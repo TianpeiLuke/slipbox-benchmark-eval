@@ -11,6 +11,7 @@ The grounds are his form and his contract. Entering Thursday's game against Dall
 
 ## Related Notes
 
+
 - [DK Metcalf And Geno Smith Seahawks Showdown Stack](dk_metcalf_and_geno_smith_seahawks_showdown_stack.md): also discusses Geno Smith in Seattle, from a different document.
 - [Eagles Seahawks Superdraft Single Game Lineup](eagles_seahawks_superdraft_single_game_lineup.md): also discusses Geno Smith, from a different document.
 - [Fantasy Week 13 Seahawks At Cowboys Outlook](fantasy_week_13_seahawks_at_cowboys_outlook.md): covers the Dallas game referenced here, from a different document.
@@ -19,6 +20,8 @@ The grounds are his form and his contract. Entering Thursday's game against Dall
 - [Aaron Glenn Lions Hot Seat](aaron_glenn_lions_hot_seat.md): another entry in the same roundup, from the same document.
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): another entry in the same roundup, from the same document.
 - [Christian Watson Packers Hot Seat](christian_watson_packers_hot_seat.md): another entry in the same roundup, from the same document.
+- [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md): same source document (doc_0437)
+- [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): same source document (doc_0437)
 
 ## Source
 

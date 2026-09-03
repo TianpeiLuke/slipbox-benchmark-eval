@@ -11,6 +11,7 @@ The mix of a sovereign fund, a regional scale-up program, individual founder-ope
 
 ## Related Notes
 
+
 - [Ayman Sadiq And The Origin Of 10 Minute School](ayman_sadiq_ten_minute_school_origin.md): same source document; describes the earlier seed round that Surge also led.
 - [Bangladesh K12 Education Access Gap](bangladesh_k12_education_access_gap.md): same source document; the market thesis these investors are backing.
 - [Shikho, A Bangladeshi Edtech Competitor](shikho_bangladesh_edtech_competitor.md): same source document; the previous holder of the largest Bangladeshi seed round.
@@ -19,6 +20,8 @@ The mix of a sovereign fund, a regional scale-up program, individual founder-ope
 - [Faction Driverless Funding Round](faction_driverless_funding_round.md): overlaps in content on venture capital rounds, from a different source document.
 - [Ola Electric Funding Round 2023](ola_electric_funding_round_2023.md): overlaps in content on sovereign funds participating in startup funding, from a different source document.
 - [US VC Investment In China Decline Data](us_vc_investment_in_china_decline_data.md): overlaps in content on investors and capital flows, from a different source document.
+- [10 Minute School (10MS)](ten_minute_school_bangladesh_edtech.md): same source document (doc_0458)
+- [10 Minute School's Post-Round Investment Plans](ten_minute_school_growth_and_investment_plans.md): same source document (doc_0458)
 
 ## Source
 

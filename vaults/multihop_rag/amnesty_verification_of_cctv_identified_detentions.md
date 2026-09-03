@@ -13,6 +13,7 @@ These are presented as the longer-term ramifications of the West Bank's vast sur
 
 ## Related Notes
 
+
 - [Gaza Economic Isolation And Poverty Indicators](gaza_economic_isolation_and_poverty_indicators.md): also concerns the West Bank, from a different source document.
 - [Gaza Food Insecurity And Import Dependence](gaza_food_insecurity_and_import_dependence.md): also concerns the West Bank, from a different source document.
 - [Gaza Sky Geeks Accelerator](gaza_sky_geeks_accelerator.md): also concerns the West Bank, from a different source document.
@@ -21,6 +22,8 @@ These are presented as the longer-term ramifications of the West Bank's vast sur
 - [Amnesty's Automated Apartheid Report On West Bank Surveillance](amnesty_automated_apartheid_report_on_west_bank_surveillance.md): drawn from the same source document (doc_0336).
 - [Hikvision Ethnicity Detection And Protest Alarm Features](hikvision_ethnicity_detection_and_protest_alarm_features.md): drawn from the same source document (doc_0336).
 - [Hikvision's Human Rights Compliance Denial](hikvision_human_rights_compliance_denial.md): drawn from the same source document (doc_0336).
+- [Hikvision Video Surveillance Company Profile](hikvision_video_surveillance_company_profile.md): same source document (doc_0336)
+- [IPVM's Rebuttal Of Hikvision's Human Rights Record](ipvm_rebuttal_of_hikvision_human_rights_record.md): same source document (doc_0336)
 
 ## Source
 

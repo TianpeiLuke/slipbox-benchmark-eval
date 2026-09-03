@@ -13,11 +13,20 @@ The on-board speaker and microphone systems remain mostly unchanged from the 202
 
 ## Related Notes
 
+
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): also covers Dolby Atmos, from a different source document.
 - [Apple Airpods Max Holiday Deal](apple_airpods_max_holiday_deal.md): also covers Spatial Audio, from a different source document.
 - [Apple M3 Chip Release Cadence](apple_m3_chip_release_cadence.md): shares the hardware device and streaming service theme, from a different source document.
 - [Bose Quietcomfort 45 Headphones](bose_quietcomfort_45_headphones.md): shares the fine penalty and streaming service theme, from a different source document.
 - [Foreman Touchdown and Bears Third Quarter Lead](foreman_touchdown_and_bears_third_quarter_lead.md): shares the fine penalty and streaming service theme, from a different source document.
+- [Apple M3 Chip Architecture And GPU Features](apple_m3_chip_architecture_and_gpu_features.md): same source document (doc_0526)
+- [Apple Silicon Chip Naming And Relative Performance](apple_silicon_chip_naming_and_relative_performance.md): same source document (doc_0526)
+- [The M3 MacBook Pro Lineup And Its Configurations](m3_macbook_pro_lineup_and_configurations.md): same source document (doc_0526)
+- [M3 Max Benchmark Results](m3_max_benchmark_results.md): same source document (doc_0526)
+- [M3 Max Gaming Performance On macOS](m3_max_gaming_performance_on_macos.md): same source document (doc_0526)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

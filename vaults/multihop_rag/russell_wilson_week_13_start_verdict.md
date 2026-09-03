@@ -11,6 +11,7 @@ The warrant for the change is matchup-driven: expect Wilson to throw more in wha
 
 ## Related Notes
 
+
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): covers Baker Mayfield, one of the quarterbacks Wilson is ranked above, from a different source document.
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also covers Baker Mayfield, from a different source document.
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also covers Baker Mayfield, from a different source document.
@@ -18,6 +19,10 @@ The warrant for the change is matchup-driven: expect Wilson to throw more in wha
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another Start Him quarterback verdict that also covers Jordan Love, from a different source document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): a parallel Week 13 player verdict from the same article (doc_0057).
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a parallel Week 13 player verdict from the same article (doc_0057).
+- [Cooper Kupp: A Week 11 Ankle Sprain And The Week 13 Case For Benching A Stud](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): same source document (doc_0057)
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
+- [Machine Translation](term_machine_translation.md): uses the concept machine translation
 
 ## Source
 

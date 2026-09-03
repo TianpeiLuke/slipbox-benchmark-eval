@@ -13,6 +13,7 @@ South Africa also lost players to the bin. Siya Kolisi, Cane's opposite in the n
 
 ## Related Notes
 
+
 - [All Blacks Ireland Series Loss Backlash as Motivation](all_blacks_ireland_series_loss_backlash_as_motivation.md): the All Blacks' road into this final, different source document
 - [Dalton Papalii on All Blacks Leadership Vulnerability](dalton_papalii_on_all_blacks_leadership_vulnerability.md): another All Blacks leadership document, different source
 - [England South Africa 2023 Semifinal Routes](england_south_africa_2023_semifinal_routes.md): also covers Cheslin Kolbe and the All Blacks, different source document
@@ -20,6 +21,10 @@ South Africa also lost players to the bin. Siya Kolisi, Cane's opposite in the n
 - [Ian Foster All Blacks Turnaround and Succession](ian_foster_all_blacks_turnaround_and_succession.md): the coach whose captain was sent off, different source document
 - [All Blacks Final Moments RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): the closing minutes played out after these cards, same source document
 - [All Blacks Generational Change After 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): what followed for the beaten side, same source document
+- [Erasmus And Nienaber Depart After The Springboks' 2023 Title](erasmus_nienaber_springboks_coaching_departure_2023.md): same source document (doc_0022)
+- [Ian Foster's All Blacks Tenure And Scott Robertson's Succession](ian_foster_all_blacks_tenure_and_robertson_succession.md): same source document (doc_0022)
+- [The First Half Of The 2023 Rugby World Cup Final](rwc_2023_final_first_half_narrative.md): same source document (doc_0022)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

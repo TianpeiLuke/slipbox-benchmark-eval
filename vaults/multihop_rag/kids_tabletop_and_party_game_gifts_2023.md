@@ -11,6 +11,7 @@ In Poetry for Neanderthals, up to six players are tasked with getting their team
 
 ## Related Notes
 
+
 - [Prime Day Tabletop Game Deals, October 2023](prime_day_tabletop_game_deals_october_2023.md): overlapping coverage of children's tabletop games including Exploding Kittens, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): drawn from the same source document (doc_0424).
 - [Apple iPad Ninth Generation Deal Listings](apple_ipad_ninth_generation_deal_listings.md): drawn from the same source document (doc_0424).
@@ -19,6 +20,8 @@ In Poetry for Neanderthals, up to six players are tasked with getting their team
 - [Kids' Maker And DIY Kit Gifts 2023](kids_maker_and_diy_kit_gifts_2023.md): drawn from the same source document (doc_0424).
 - [Kids' Nintendo Switch Game And Controller Gifts 2023](kids_nintendo_switch_game_and_controller_gifts_2023.md): drawn from the same source document (doc_0424).
 - [Kids' School Supply And Reading Timer Gifts 2023](kids_school_supply_and_reading_timer_gifts_2023.md): drawn from the same source document (doc_0424).
+- [Kids' Toy And Playset Gifts 2023](kids_toy_and_playset_gifts_2023.md): same source document (doc_0424)
+- [Magna-Tiles STEM Toy Deal Listings](magna_tiles_stem_toy_deal_listings.md): same source document (doc_0424)
 
 ## Source
 

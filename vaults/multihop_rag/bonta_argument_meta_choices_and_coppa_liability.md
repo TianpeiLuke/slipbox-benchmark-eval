@@ -13,6 +13,7 @@ The warrant is a claim about design as choice: "These social media platforms can
 
 ## Related Notes
 
+
 - [Critique Of Meta's App Store Parental Approval Proposal](critique_of_meta_app_store_parental_approval_proposal.md): makes the same design-as-choice point against Meta, from a different document in this sub-plan.
 - [Meta's Proposal: Parental Approval For App Downloads At The App Store](meta_proposal_app_store_parental_approval.md): the responsibility-shifting proposal this argument cuts against, from a different document in this sub-plan.
 - [Arturo Bejar's Critique Of Meta's Teen Safety Self-Regulation](meta_teen_safety_self_regulation_and_bejar_critique.md): an insider version of the claim that Meta could do more, from a different document in this sub-plan.
@@ -21,6 +22,8 @@ The warrant is a claim about design as choice: "These social media platforms can
 - [Lawsuit Redactions As Signal: The Amazon Precedent](lawsuit_redactions_as_signal_amazon_precedent.md): drawn from the same source document (doc_0304).
 - [Meta's Internal Data On Under-13 Users](meta_internal_under_13_user_data.md): drawn from the same source document (doc_0304), and supplies the figures Bonta calls impact rather than justification.
 - [Meta Researchers Avoided Documenting Under-13 Users](meta_researchers_avoided_documenting_under_13_users.md): drawn from the same source document (doc_0304).
+- [Meta's Response To The Underage-User Allegations](meta_response_to_underage_user_allegations.md): same source document (doc_0304)
+- [Meta's Under-13 Policy Versus Its Internal Growth Goals](meta_under_13_policy_versus_internal_growth_goals.md): same source document (doc_0304)
 
 ## Source
 

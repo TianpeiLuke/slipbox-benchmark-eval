@@ -11,11 +11,19 @@ Purdy, the final pick of the 2022 NFL Draft, had seen his career unfold as if it
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also covers Brock Purdy, from a different source document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also covers Brock Purdy, from a different source document.
 - [American Odds Format](american_odds_format.md): explains the notation of the MVP odds cited here, from a different source document.
 - [Baltimore Ravens Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): covers Lamar Jackson's changed play style, from a different source document.
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): shares the most-valuable-player futures and betting-odds subject tags, from a different source document.
+- [Giants At Eagles, Christmas Day 2023: Storylines To Watch](giants_at_eagles_christmas_day_2023_preview.md): same source document (doc_0003)
+- [Raiders At Chiefs, Christmas Day 2023: Storylines To Watch](raiders_at_chiefs_christmas_day_2023_preview.md): same source document (doc_0003)
+- [Ravens At 49ers, Christmas Day 2023: A Possible Super Bowl Preview](ravens_at_49ers_christmas_day_2023_preview.md): same source document (doc_0003)
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

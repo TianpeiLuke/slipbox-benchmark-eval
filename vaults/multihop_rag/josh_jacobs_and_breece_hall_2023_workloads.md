@@ -11,6 +11,7 @@ Nine days later, in the Nov. 21 Week 12 running back rankings, both Jacobs and H
 
 ## Related Notes
 
+
 - [Chiefs Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): also discusses Breece Hall, from a different document.
 - [Chiefs Jets Second Half Live Blog](chiefs_jets_second_half_live_blog.md): also discusses Breece Hall, from a different document.
 - [Dameon Pierce Week 5 2023 Sit Recommendation](dameon_pierce_week5_2023_sit_recommendation.md): also discusses Breece Hall and Travis Etienne, from a different document.
@@ -19,6 +20,8 @@ Nine days later, in the Nov. 21 Week 12 running back rankings, both Jacobs and H
 - [Bye-Free Weeks Complicate Lineup Decisions](bye_free_weeks_complicate_lineup_decisions.md): frames the Week 12 lineup calls these rankings feed, from the same document.
 - [Fantasy Week 12 Schedule and No-Bye Teams](fantasy_week_12_schedule_and_no_bye_teams.md): the scheduling context for the Week 12 rankings, from the same document.
 - [Jets and Raiders Week 10 Season Implications](jets_and_raiders_week_10_season_implications.md): what the game those carries came in meant, from the same document.
+- [Jets' Final Drive And The Spillane Interception](jets_final_drive_and_spillane_interception.md): same source document (doc_0439)
+- [Jets-Raiders Broadcast And Kickoff Details](jets_raiders_broadcast_and_kickoff_details.md): same source document (doc_0439)
 
 ## Source
 

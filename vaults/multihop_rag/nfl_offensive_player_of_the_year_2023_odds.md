@@ -13,6 +13,7 @@ The Lamb case rests on his trajectory. Based on his current season average, Lamb
 
 ## Related Notes
 
+
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): also discusses Tyreek Hill, from a different document.
 - [Deebo Samuel Yards Per Target Pace](deebo_samuel_yards_per_target_pace.md): also discusses Tyreek Hill, from a different document.
 - [Dolphins 45-15 Commanders Week 13](dolphins_45_15_commanders_week_13.md): also discusses Tyreek Hill, from a different document.
@@ -21,6 +22,8 @@ The Lamb case rests on his trajectory. Based on his current season average, Lamb
 - [NFL Awards Longshot Betting Strategy](nfl_awards_longshot_betting_strategy.md): the general longshot argument this award case applies, from the same document.
 - [NFL Coach of the Year 2023 Odds](nfl_coach_of_the_year_2023_odds.md): a parallel award case, from the same document.
 - [NFL Comeback Player of the Year 2023 Odds](nfl_comeback_player_of_the_year_2023_odds.md): a parallel award case, from the same document.
+- [2023 NFL Defensive Player Of The Year: Danielle Hunter As The Longshot](nfl_defensive_player_of_the_year_2023_odds.md): same source document (doc_0145)
+- [2023 NFL MVP Favorites And The Longshot Cases For Goff And Stroud](nfl_mvp_2023_odds_and_longshot_cases.md): same source document (doc_0145)
 
 ## Source
 

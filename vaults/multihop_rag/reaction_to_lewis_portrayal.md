@@ -13,6 +13,7 @@ Two qualifications sit against the backlash. Noff is defensive: she believes cry
 
 ## Related Notes
 
+
 - [Going Infinite: Lewis's Account](going_infinite_lewis_account.md): also concerns Michael Lewis and the account this reaction is aimed at, from a different source document.
 - [Going Infinite: Michael Lewis On Sam Bankman-Fried](going_infinite_michael_lewis_on_sam_bankman_fried.md): also concerns Michael Lewis, from a different source document.
 - [Bankman-Fried And Ellison: Relationship And Alameda Leadership](sbf_and_ellison_relationship_and_alameda_leadership.md): also concerns Michael Lewis, from a different source document.
@@ -21,6 +22,8 @@ Two qualifications sit against the backlash. Noff is defensive: she believes cry
 - [Crypto Contagion After FTX](crypto_contagion_after_ftx.md): drawn from the same source document (doc_0030), and it carries Noff's wider assessment of the damage.
 - [FTX](ftx.md): drawn from the same source document (doc_0030).
 - [The Mechanism Of FTX's Collapse](ftx_collapse_mechanism.md): drawn from the same source document (doc_0030), and it sets out the run on deposits Lewis's premise turns on.
+- [FTX's Marketing And Political Influence](ftx_marketing_and_influence.md): same source document (doc_0030)
+- [Sam Bankman-Fried](sam_bankman_fried.md): same source document (doc_0030)
 
 ## Source
 

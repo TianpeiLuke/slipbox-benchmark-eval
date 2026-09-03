@@ -11,11 +11,19 @@ The month began with Planet announcing on August 1 that it was laying off 117 em
 
 ## Related Notes
 
+
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs and layoffs and restructuring theme, from a different source document.
 - [Brave Software Layoffs](brave_software_layoffs.md): substantial content overlap on workforce, laid, confirmed, from a different source document.
 - [Collegehumor IAC Layoffs and Sale to Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares the layoffs and layoffs and restructuring theme, from a different source document.
 - [Consolidation Leaves Studios Vulnerable to Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): shares the layoffs and layoffs and restructuring theme, from a different source document.
 - [Costs of Relinquishing Independence after Acquisition](costs_of_relinquishing_independence_after_acquisition.md): shares the layoffs and layoffs and restructuring theme, from a different source document.
+- [Tech Layoffs 2023: Overview And Totals](tech_layoffs_2023_overview_and_totals.md): same source document (doc_0049)
+- [Tech Layoffs In April 2023](tech_layoffs_april_2023.md): same source document (doc_0049)
+- [Tech Layoffs In December 2023](tech_layoffs_december_2023.md): same source document (doc_0049)
+- [Tech Layoffs In February 2023](tech_layoffs_february_2023.md): same source document (doc_0049)
+- [Tech Layoffs In January 2023](tech_layoffs_january_2023.md): same source document (doc_0049)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

@@ -11,6 +11,7 @@ Glover characterised the market as volatile but quite range-bound, drawing an an
 
 ## Related Notes
 
+
 - [ASX December 2023 Session Movers](asx_december_2023_session_movers.md): overlapping coverage of the sharemarket and stocks, from a different source document.
 - [ASX Outlook And RBA Rate Expectations, September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): overlapping coverage of inflation and the Australian market, from a different source document.
 - [ASX REITs And Company News, October 2023](asx_reits_and_company_news_october_2023.md): overlapping coverage of inflation and the sharemarket, from a different source document.
@@ -19,6 +20,8 @@ Glover characterised the market as volatile but quite range-bound, drawing an an
 - [ASX Stock And Sector Moves, Late September 2023](asx_stock_and_sector_moves_late_september_2023.md): drawn from the same source document (doc_0001).
 - [Big Tech Declines And The Amazon FTC Antitrust Lawsuit](big_tech_declines_and_amazon_ftc_antitrust_lawsuit.md): drawn from the same source document (doc_0001).
 - [Crude Oil Prices And The Qantas Senate Inquiry](crude_oil_prices_and_qantas_senate_inquiry.md): drawn from the same source document (doc_0001).
+- [US Government Shutdown Risk And The Market History Of Shutdowns](us_government_shutdown_risk_and_market_history.md): same source document (doc_0001)
+- [The Wall Street September 2023 Selloff And Bond Yields](wall_street_september_2023_selloff_and_bond_yields.md): same source document (doc_0001)
 
 ## Source
 

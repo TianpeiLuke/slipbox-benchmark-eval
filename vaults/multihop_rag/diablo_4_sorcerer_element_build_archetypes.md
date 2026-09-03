@@ -13,6 +13,7 @@ The range over which this holds includes a survivability constraint. When making
 
 ## Related Notes
 
+
 - [BG3: Sorcerer Class and Subclasses](bg3_sorcerer_class_and_subclasses.md): covers sorcerer build choices in a different game, from a separate source document
 - [BG3: Warlock Class Overview](bg3_warlock_class_overview.md): another caster class framework from a different document
 - [Diablo 4 Barbarian Class](diablo_4_barbarian_class.md): the parallel class overview for the same game, from a separate article
@@ -21,6 +22,7 @@ The range over which this holds includes a survivability constraint. When making
 - [Diablo 4 Season 2 Vampiric Powers](diablo_4_season_2_vampiric_powers.md): the seasonal power system described in the same article
 - [Diablo 4 Sorcerer Class](diablo_4_sorcerer_class.md): the class overview this model elaborates
 - [Diablo 4 Sorcerer Firewall Endgame Build](diablo_4_sorcerer_firewall_endgame_build.md): a Fire build that instantiates one of these archetypes
+- [Diablo 4 Sorcerer Leveling Build](diablo_4_sorcerer_leveling_build.md): same source document (doc_0122)
 
 ## Source
 

@@ -11,9 +11,18 @@ Clerics get an extra boost from Channel Divinity, which grants an additional Div
 
 ## Related Notes
 
+
 - [Ability Scores Link BG3 Classes To Out-Of-Combat Skills](bg3_ability_scores_shape_out_of_combat_skills.md): same source; names Clerics as Wisdom-based and perceptive outside combat.
 - [BG3 Warlock Cantrip List](bg3_warlock_cantrip_list.md): also covers spells resolved by Attack Rolls, from a different source document.
 - [BG3 Warlock Spell List](bg3_warlock_spell_list.md): another Attack Roll-driven spell selection, from a different source document.
+- [BG3 Barbarian: The Damage Class](bg3_barbarian_class_and_subclasses.md): same source document (doc_0016)
+- [BG3 Bard: The Support Class And Its Colleges](bg3_bard_class_and_colleges.md): same source document (doc_0016)
+- [Choosing A Class And Subclass In Baldur's Gate 3](bg3_class_and_subclass_selection_overview.md): same source document (doc_0016)
+- [Custom Character Versus Origin Character In Baldur's Gate 3](bg3_custom_character_vs_origin_character.md): same source document (doc_0016)
+- [BG3 Druid: The Nature Caster](bg3_druid_class_and_circles.md): same source document (doc_0016)
+- [BG3 Fighter: The Beginner Melee Class](bg3_fighter_class_and_subclasses.md): same source document (doc_0016)
+- [BG3 Monk: The Speed Class](bg3_monk_class_and_subclasses.md): same source document (doc_0016)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

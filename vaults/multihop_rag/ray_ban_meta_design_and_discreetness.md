@@ -13,11 +13,18 @@ She compared the experience to Eggsy in Kingsman: The Golden Circle, who takes a
 
 ## Related Notes
 
+
 - [Daniel Craig Against Leaving an Inheritance](daniel_craig_against_leaving_an_inheritance.md): also concerns James Bond, from a different source document.
 - [Echo Frames Call Quality and Multi-Device Pairing](echo_frames_call_quality_and_multi_device_pairing.md): overlaps on wearing smart glasses, from a different source document.
 - [Echo Frames Lens, Frame Options and Pricing Tiers](echo_frames_lens_frame_options_and_pricing_tiers.md): overlaps on smart-glasses frame options, from a different source document.
 - [Echo Frames Open-Ear Audio and Bass Performance](echo_frames_open_ear_audio_and_bass_performance.md): overlaps on smart-glasses audio, from a different source document.
 - [Ray-Ban Meta and Bose Frames Undercut Echo Frames' Value](ray_ban_meta_and_bose_frames_undercut_echo_frames_value.md): also discusses the Bose Frames Tempo, from a different source document.
+- [Meta AI Assistant Limits On Smart Glasses](meta_ai_assistant_limits_on_smart_glasses.md): same source document (doc_0364)
+- [Ray-Ban Meta As Open-Ear Headphones](ray_ban_meta_as_open_ear_headphones.md): same source document (doc_0364)
+- [Ray-Ban Meta As A Smart Glasses Turning Point](ray_ban_meta_as_smart_glasses_turning_point.md): same source document (doc_0364)
+- [Ray-Ban Meta: Camera Quality And Quirks](ray_ban_meta_camera_quality_and_quirks.md): same source document (doc_0364)
+- [Ray-Ban Meta Livestreaming And Meta's Walled Garden](ray_ban_meta_livestreaming_walled_garden.md): same source document (doc_0364)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

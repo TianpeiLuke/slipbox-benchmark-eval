@@ -11,6 +11,7 @@ The intimidation extended well beyond the stadium. Pallister smiled at a bell bo
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns the Champions League, from a different document.
 - [Bayern Munich 2-2 Draw At RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns the Champions League, from a different document.
 - [Champions League 2023-24 Group Stage Overview](champions_league_2023_24_group_stage_overview.md): also concerns the Champions League, from a different document.
@@ -19,6 +20,8 @@ The intimidation extended well beyond the stadium. Pallister smiled at a bell bo
 - [Garnacho And Mainoo United Teenagers Vs Everton](garnacho_and_mainoo_united_teenagers_vs_everton.md): the young players who would face this atmosphere, from the same document.
 - [Istanbul 1993 Defeat As Formative Experience](istanbul_1993_defeat_as_formative_experience.md): the argument about what the defeat taught, from the same document.
 - [Manchester United 1993 Galatasaray Istanbul Exit](manchester_united_1993_galatasaray_istanbul_exit.md): the match itself, from the same document.
+- [Manchester United 2023 Galatasaray Group Decider](manchester_united_2023_galatasaray_group_decider.md): same source document (doc_0013)
+- [Manchester United Recent Champions League Failures](manchester_united_recent_champions_league_failures.md): same source document (doc_0013)
 
 ## Source
 

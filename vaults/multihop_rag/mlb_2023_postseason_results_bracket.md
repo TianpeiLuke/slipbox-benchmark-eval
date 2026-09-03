@@ -17,6 +17,7 @@ The World Series schedule, all on Fox at 8:03 p.m. ET, listed Diamondbacks at Ra
 
 ## Related Notes
 
+
 - [Alanna Rizzo Criticism of Clubhouse Reporting](alanna_rizzo_criticism_of_clubhouse_reporting.md): another document referencing the Blue Jays, different source
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): another Astros document, from a different source
 - [Blue Jays Roster Implications of Ohtani Pursuit](blue_jays_roster_implications_of_ohtani_pursuit.md): another Blue Jays document, different source
@@ -25,6 +26,8 @@ The World Series schedule, all on Fox at 8:03 p.m. ET, listed Diamondbacks at Ra
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): an injury from the series this bracket tracks, same source document
 - [Brandon Pfaadt Start World Series Game 3](brandon_pfaadt_start_world_series_game_3.md): the Oct. 30 game recorded in the bracket, same source document
 - [Corey Seager Home Runs 2023 World Series](corey_seager_home_runs_2023_world_series.md): highlights from the games in this bracket, same source document
+- [The Diamondbacks' Late Rally In World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): same source document (doc_0408)
+- [Jon Gray's Surprise Relief Outing In World Series Game 3](jon_gray_emergency_relief_world_series_game_3.md): same source document (doc_0495)
 
 ## Source
 

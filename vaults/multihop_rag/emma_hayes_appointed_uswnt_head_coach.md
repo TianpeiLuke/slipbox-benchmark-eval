@@ -13,10 +13,19 @@ Both sides gave statements. U.S. Soccer president Cindy Parlow Cone said: "She h
 
 ## Related Notes
 
+
 - [Daniel Garnero's Paraguay Head Coach Debut](daniel_garnero_paraguay_head_coach_debut.md): another national-team coaching change after a World Cup cycle, from a different document.
 - [Eddie Jones' Commitment To The Wallabies Job In 2023](eddie_jones_commitment_to_wallabies_job_2023.md): another national-team coaching change around a World Cup, from a different document.
 - [Erasmus And Nienaber's Springboks Coaching Departure 2023](erasmus_nienaber_springboks_coaching_departure_2023.md): another post-World Cup coaching departure, from a different document.
 - [France Beat Italy To Top Rugby World Cup Pool A](france_beat_italy_to_top_rugby_world_cup_pool_a.md): shares the World Cup and coaching-change setting, from a different document.
+- [Emiliano Martinez's Argentina Clean-Sheet Record](emiliano_martinez_argentina_clean_sheet_record.md): shares coaching_change, world_cup; different source document
+- [The Benefits Of Hayes' Delayed USWNT Start](benefits_of_hayes_delayed_uswnt_start.md): same source document (doc_0108)
+- [Chelsea's Early Announcement Of Hayes' Departure](chelsea_early_announcement_of_hayes_departure.md): same source document (doc_0108)
+- [Chelsea Players' Reaction To Hayes' Departure](chelsea_players_reaction_to_hayes_departure.md): same source document (doc_0108)
+- [Chelsea Women's Team Succession After Hayes](chelsea_womens_team_succession_after_hayes.md): same source document (doc_0108)
+- [Emma Hayes As The Highest-Paid Women's Soccer Coach](emma_hayes_highest_paid_womens_soccer_coach.md): same source document (doc_0108)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

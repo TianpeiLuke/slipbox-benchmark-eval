@@ -13,6 +13,7 @@ Asked about him after that match, Berhalter told reporters: "Tyler's a great pla
 
 ## Related Notes
 
+
 - [Carabao Cup 2023-24 First Round Results](carabao_cup_2023_24_first_round_results.md): also concerns Leeds United.
 - [Carabao Cup 2023-24 Second Round Results](carabao_cup_2023_24_second_round_results.md): also concerns Leeds United.
 - [NFL Week 13 Injuries Cardinals at Steelers](nfl_week_13_injuries_cardinals_at_steelers.md): another hamstring-injury availability report.
@@ -21,6 +22,8 @@ Asked about him after that match, Berhalter told reporters: "Tyler's a great pla
 - [USMNT 1-3 Germany Friendly Match Report](usmnt_1_3_germany_friendly_match_report.md): the match where the No. 6 gap showed, same source document.
 - [USMNT October 2023 23 Man Roster](usmnt_october_2023_23_man_roster.md): the squad named without him, same source document.
 - [USMNT October 2023 Friendlies vs Germany and Ghana](usmnt_october_2023_friendlies_vs_germany_and_ghana.md): the fixtures he missed, same source document.
+- [Who The USMNT Was Missing Through Injury In October 2023](usmnt_october_2023_injury_absences.md): same source document (doc_0231)
+- [Playing Yunus Musah At No. 6 Against Germany Did Not Work](yunus_musah_deputizing_at_no_6_did_not_work.md): same source document (doc_0249)
 
 ## Source
 

@@ -13,11 +13,19 @@ Everett (Chargers @ Broncos) came with a caveat — the Chargers offense was tou
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also discusses Deebo Samuel, from a different document.
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): also discusses Baker Mayfield, from a different document.
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also discusses Baker Mayfield, from a different document.
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also discusses Baker Mayfield and Mike Evans, from a different document.
 - [Baker Mayfield Zone Coverage and Four-Level Passing](baker_mayfield_zone_coverage_and_four_level_passing.md): also discusses Baker Mayfield, from a different document.
+- [FanDuel NFL DFS Contest Format And Scoring Rules](fanduel_nfl_dfs_contest_format_and_scoring.md): same source document (doc_0276)
+- [FanDuel Week 14 DFS Quarterback And Running Back Picks](fanduel_week_14_dfs_qb_and_rb_picks.md): same source document (doc_0276)
+- [SuperDraft's Multiplier-Based DFS Scoring Format](superdraft_dfs_multiplier_scoring_format.md): same source document (doc_0276)
+- [SuperDraft Week 14 NFL DFS Lineup](superdraft_week_14_nfl_dfs_lineup.md): same source document (doc_0276)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

@@ -13,11 +13,20 @@ Many creators who jumped on the trend have since stopped using their avatars, bu
 
 ## Related Notes
 
+
 - [AOC's Twitch Among Us Stream](aoc_twitch_among_us_stream.md): shares the COVID-19 and creator-economy topic tags
 - [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): shares the creator-economy and streaming-service tags
 - [Canada-Jamaica Second Leg Kickoff and Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): both reference North American markets, from an unrelated document
 - [Crosby, Malkin and Letang's Eighteenth Season Together](crosby_malkin_letang_eighteenth_season_together.md): another North American reference from a separate sports article
 - [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): shares the creator-economy and streaming-service tags
+- [Calls for Creative Experimentation in VTuber Agencies](calls_for_creative_experimentation_in_vtuber_agencies.md): same source document (doc_0550)
+- [Corporate VTubing Remains Viable (Counterpoint)](corporate_vtubing_remains_viable_counterpoint.md): same source document (doc_0550)
+- [VTuber Agency Management and Nondisclosure Agreements](vtuber_agency_management_and_nondisclosure_agreements.md): same source document (doc_0550)
+- [VTuber Graduations and Agency Branch Shutdowns](vtuber_graduations_and_agency_branch_shutdowns.md): same source document (doc_0550)
+- [VTubing's Market Saturation and Loss of Novelty](vtubing_market_saturation_and_loss_of_novelty.md): same source document (doc_0550)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [COVID-19](term_covid_19.md): uses the concept covid 19
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

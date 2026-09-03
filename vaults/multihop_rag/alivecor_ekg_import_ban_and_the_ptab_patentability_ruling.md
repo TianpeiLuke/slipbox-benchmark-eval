@@ -11,12 +11,20 @@ Like Masimo, AliveCor argued that Apple stole its tech to develop the wearable E
 
 ## Related Notes
 
+
 - [Anker 2-In-1 MagSafe Standby Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): also concerns the Apple Watch, from a different source document.
 - [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): also concerns the Apple Watch, from a different source document.
 - [Anker 3-In-1 MagSafe Charging Dock Deal Listings](anker_3_in_1_magsafe_charging_dock_deal_listings.md): also concerns the Apple Watch, from a different source document.
 - [Apple Holiday 2023 Sale Overview](apple_holiday_2023_sale_overview.md): also concerns Apple Watches, from a different source document.
 - [Apple's Scary Fast Event, October 2023](apple_scary_fast_event_october_2023.md): also concerns Apple Watches, from a different source document.
 - [A Patent Redesign Must Be More Than A Colorable Difference](a_patent_redesign_must_be_more_than_a_colorable_difference.md): drawn from the same source document (doc_0241).
+- [Apple's Appeal And Stay Prospects On The Watch Ban](apple_appeal_and_stay_prospects_on_the_watch_ban.md): same source document (doc_0241)
+- [The Apple-Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): same source document (doc_0241)
+- [The Apple Watch ITC Import Ban And Apple's Preemptive Sales Halt](apple_watch_itc_import_ban_and_preemptive_sales_halt.md): same source document (doc_0241)
+- [Apple Watch SE And Reseller Inventory Remain Available](apple_watch_se_and_reseller_inventory_remain_available.md): same source document (doc_0241)
+- [Patent Litigation](term_patent_litigation.md): uses the concept patent litigation
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Wearable Device](term_wearable_device.md): uses the concept wearable device
 
 ## Source
 

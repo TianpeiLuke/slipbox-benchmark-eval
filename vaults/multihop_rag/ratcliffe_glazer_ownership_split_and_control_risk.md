@@ -13,6 +13,7 @@ The report frames the failure mode as a concrete question rather than a certaint
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): concerns the squad decisions this structure governs.
 - [Erik Ten Hag Position After Champions League Exit](erik_ten_hag_position_after_champions_league_exit.md): the manager whose signings this control split would affect.
 - [Erik Ten Hag Selection U-Turns: Varane and Maguire](erik_ten_hag_selection_u_turns_varane_maguire.md): another note on the manager operating within this structure.
@@ -21,6 +22,8 @@ The report frames the failure mode as a concrete question rather than a certaint
 - [Erik Ten Hag's Position Under Ratcliffe](erik_ten_hag_position_under_ratcliffe.md): another item on the same in-tray.
 - [Glazer Communications Silence and Ratcliffe's PR Task](glazer_communications_silence_and_ratcliffe_pr_task.md): another item on the same in-tray.
 - [Jean-Claude Blanc and the United Chief Executive Challenge](jean_claude_blanc_and_the_united_chief_executive_challenge.md): the executive who would work inside this structure.
+- [John Murtough's Future and the Casemiro Signing](john_murtough_future_and_the_casemiro_signing.md): same source document (doc_0089)
+- [Old Trafford and Carrington Infrastructure Decay](old_trafford_and_carrington_infrastructure_decay.md): same source document (doc_0089)
 
 ## Source
 

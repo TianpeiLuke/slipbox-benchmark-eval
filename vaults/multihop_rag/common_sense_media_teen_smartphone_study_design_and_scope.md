@@ -13,6 +13,7 @@ The study carries an explicit platform limitation: it was done with "Android pho
 
 ## Related Notes
 
+
 - [Independent Research and Reviews of ChatGPT Flaws](independent_research_and_reviews_of_chatgpt_flaws.md): also concerns Common Sense Media, from a different source document.
 - [Dopamine Reward Tolerance and Compulsive Consumption](dopamine_reward_tolerance_and_compulsive_consumption.md): drawn from the same source document (doc_0518).
 - [Harmful Content Categories and Staged Digital Access](harmful_content_categories_and_staged_digital_access.md): drawn from the same source document (doc_0518).
@@ -21,6 +22,8 @@ The study carries an explicit platform limitation: it was done with "Android pho
 - [Parental Rules for Delaying and Limiting Phone Access](parental_rules_for_delaying_and_limiting_phone_access.md): drawn from the same source document (doc_0518).
 - [Smartphone Notification Volume for Teens](smartphone_notification_volume_for_teens.md): drawn from the same source document (doc_0518).
 - [Social and Developmental Costs of Heavy Phone Use](social_and_developmental_costs_of_heavy_phone_use.md): drawn from the same source document (doc_0518).
+- [Teens' Own Reports Of Difficulty Managing Phone Use](teen_self_reported_difficulty_managing_phone_use.md): same source document (doc_0518)
+- [Time Teens Spend On TikTok, Snapchat And Instagram](teen_time_spent_on_tiktok_snapchat_and_instagram.md): same source document (doc_0518)
 
 ## Source
 

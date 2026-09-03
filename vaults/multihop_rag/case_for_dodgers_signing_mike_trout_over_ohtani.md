@@ -13,12 +13,16 @@ The comparative grounds close it. Trout comes with a cheaper price tag of $35.45
 
 ## Related Notes
 
+
 - [An Alternative Reading Of The Mariners' Ohtani Leak](alternative_reading_of_the_mariners_ohtani_leak.md): another reading of Ohtani's market and his hand, from a different document.
 - [Los Angeles Angels Manager Search 2023](los_angeles_angels_manager_search_2023.md): also discusses Mike Trout's situation in the same offseason, from a different document.
 - [MLB Luxury Tax, Deferrals And Average Annual Value](mlb_luxury_tax_deferrals_and_average_annual_value.md): covers the Dodgers' contract economics behind this choice, from a different document.
 - [Ohtani Free Agency Market Expectations And Timeline](ohtani_free_agency_market_expectations_and_timeline.md): covers the Ohtani price expectations this comparison uses, from a different document.
 - [Shohei Ohtani's Contract Deferral Structure](shohei_ohtani_contract_deferral_structure.md): covers how the Dodgers eventually structured Ohtani's money, from a different document.
 - [Dodgers' Payroll Constraints Against Signing Ohtani And Trout](dodgers_payroll_constraints_against_signing_ohtani_and_trout.md): the affordability premise this argument depends on, from the same feature.
+- [The Angels' 2023 Offseason: Ohtani And Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): same source document (doc_0423)
+- [The Dodgers' Pitching Need Versus Ohtani's 2024 Elbow Injury](dodgers_pitching_need_versus_ohtani_2024_elbow_injury.md): same source document (doc_0423)
+- [Obstacles To Mike Trout Leaving The Angels](obstacles_to_mike_trout_leaving_the_angels.md): same source document (doc_0423)
 
 ## Source
 

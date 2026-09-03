@@ -11,6 +11,7 @@ To claim the refund, contact Microsoft's Sales and Support team at 1-877-696-778
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick for Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): also concerns Xbox Series hardware, from a different source document.
 - [Alan Wake 2](alan_wake_2.md): also concerns Xbox Series releases, from a different source document.
 - [Amnesia: The Bunker](amnesia_the_bunker.md): also concerns Xbox Series releases, from a different source document.
@@ -18,6 +19,10 @@ To claim the refund, contact Microsoft's Sales and Support team at 1-877-696-778
 - [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): also concerns Xbox Series releases, from a different source document.
 - [Amazon Price Matching and Return Policy](amazon_price_matching_and_return_policy.md): one of the qualifying retailers named, same roundup (doc_0403).
 - [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): a comparable own-price-drop refund, same roundup (doc_0403).
+- [Best Buy Price Match Guarantee](best_buy_price_match_guarantee.md): same source document (doc_0403)
+- [B&H Photo And Costco Price Adjustment](bh_photo_and_costco_price_adjustment.md): same source document (doc_0403)
+- [Dell Price Match Policy](dell_price_match_policy.md): same source document (doc_0403)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

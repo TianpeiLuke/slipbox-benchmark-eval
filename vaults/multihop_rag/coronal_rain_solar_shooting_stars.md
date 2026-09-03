@@ -11,6 +11,7 @@ These dense plasma balls can reach up to 435 miles (700 kilometers) across and s
 
 ## Related Notes
 
+
 - [The November 2023 G3 Geomagnetic Storm](november_2023_g3_geomagnetic_storm.md): another event involving plasma driven by the sun's coronal magnetic fields.
 - [Ancient Superflares as a Spark for Life on Earth](ancient_superflares_as_spark_for_life_on_earth.md): from the same year-in-review article on the sun.
 - [The Miyake Event Solar Storm 14,000 Years Ago](miyake_event_solar_storm_14000_years_ago.md): from the same year-in-review article on the sun.
@@ -19,6 +20,8 @@ These dense plasma balls can reach up to 435 miles (700 kilometers) across and s
 - [Solar Auroras Above Sunspots](solar_auroras_above_sunspots.md): from the same article, on another phenomenon following the sun's magnetic field lines.
 - [Downward Revision of the Solar Corona's Size](solar_corona_size_downward_revision.md): from the same article, on the extent of the corona this rain falls through.
 - [Solar Cycle Maximum Forecast Revision](solar_cycle_25_maximum_forecast_revision.md): from the same year-in-review article on the sun.
+- [Solar Neutrinos as a Probe for Dark Matter](solar_neutrinos_as_probe_for_dark_matter.md): same source document (doc_0325)
+- [Solar Picojets and the Origin of the Solar Wind](solar_picojets_and_the_origin_of_solar_wind.md): same source document (doc_0325)
 
 ## Source
 

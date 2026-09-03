@@ -13,6 +13,7 @@ Bankman-Fried's own account from the stand ran differently. He testified that in
 
 ## Related Notes
 
+
 - [Alameda Research](alameda_research.md): overlaps on Alameda, Bankman-Fried and the sums involved, from a different source document.
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): the same use of customer funds to satisfy lenders, from a different source document.
 - [Alameda's Special Privileges in FTX's Code](alameda_special_privileges_in_ftx_code.md): overlaps on Alameda, Wang and Singh, from a different source document.
@@ -21,6 +22,8 @@ Bankman-Fried's own account from the stand ran differently. He testified that in
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the facility behind the $11 billion hole (doc_0305).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): earlier losses shifted onto the same balance sheet (doc_0305).
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): how the balance reached this point (doc_0305).
+- [Alameda Research's Origins And Naming](alameda_research_origins_and_naming.md): same source document (doc_0053)
+- [Code Evidence Outweighs Deleted Signal Messages](code_evidence_outweighs_deleted_signal_messages.md): same source document (doc_0305)
 
 ## Source
 

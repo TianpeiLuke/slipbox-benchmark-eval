@@ -11,6 +11,7 @@ Radiative balance here means the balance between incoming and reflected solar ra
 
 ## Related Notes
 
+
 - [Amazon Rainforest Tipping Point](amazon_rainforest_tipping_point.md): another case where warming estimates and climate projections are contested.
 - [The Miyake Event Solar Storm 14,000 Years Ago](miyake_event_solar_storm_14000_years_ago.md): another reconstruction of past conditions from an indirect radiation record.
 - [Climate Sweet Spots and Pattern-Dependent Feedbacks](climate_sweet_spots_and_pattern_dependent_feedbacks.md): from the same article, explaining the pattern effect invoked as the resolution.
@@ -19,6 +20,8 @@ Radiative balance here means the balance between incoming and reflected solar ra
 - [Equilibrium Climate Sensitivity and Its Uncertainty](equilibrium_climate_sensitivity_and_its_uncertainty.md): from the same article, defining the quantity in dispute.
 - [Evaluating Model Pattern Bias with Cloud-Resolving Models](evaluating_model_pattern_bias_with_cloud_resolving_models.md): from the same article, on testing whether model biases explain the gap.
 - [Feedback Dependence on Global Mean Temperature](feedback_dependence_on_global_mean_temperature.md): from the same article, on another factor affecting the comparison.
+- [Historical Warming Does Not Bound Climate Sensitivity](historical_warming_does_not_bound_climate_sensitivity.md): same source document (doc_0139)
+- [The Magnitude of the Observed Pattern Effect Is Disputed](magnitude_of_the_observed_pattern_effect_is_disputed.md): same source document (doc_0139)
 
 ## Source
 

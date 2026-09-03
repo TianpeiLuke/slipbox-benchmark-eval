@@ -13,11 +13,17 @@ Philadelphia answered on the spot. A 25-yard DeVonta Smith catch moved the Eagle
 
 ## Related Notes
 
+
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): also discusses Tyreek Hill.
 - [Dallas Goedert Week 5 2023 Bust Warning](dallas_goedert_week5_2023_bust_warning.md): also discusses D'Andre Swift.
 - [D'Andre Swift Eagles Run Game Showdown Pick](dandre_swift_eagles_run_game_showdown_pick.md): also discusses D'Andre Swift.
 - [Deebo Samuel Yards Per Target Pace](deebo_samuel_yards_per_target_pace.md): also discusses Tyreek Hill.
 - [DK Metcalf and Geno Smith Seahawks Showdown Stack](dk_metcalf_and_geno_smith_seahawks_showdown_stack.md): also discusses Darius Slay.
+- [Dolphins-Eagles First Half: Philadelphia Leads 17-10 Behind Goedert And The Tush Push](dolphins_eagles_first_half_live_blog.md): same source document (doc_0143)
+- [Dolphins-Eagles Pregame: Kelly Green Day, AFC East Stakes, And A Tua-Hurts Reunion](dolphins_eagles_pregame_notes_and_kelly_green_uniforms.md): same source document (doc_0143)
+- [Eagles Beat Dolphins 31-17 In Kelly Green On Week 7 Sunday Night Football](eagles_beat_dolphins_week_7_sunday_night_recap.md): same source document (doc_0143)
+- [NBC's 2023 Sunday Night Football Broadcast And Streaming Package](sunday_night_football_2023_nbc_broadcast_team.md): same source document (doc_0143)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

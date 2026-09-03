@@ -13,11 +13,19 @@ The decisive moment came at 78 minutes, when Eustaquio handled in the box and De
 
 ## Related Notes
 
+
 - [Belgium-England Women's Nations League Result, October 2023](belgium_england_womens_nations_league_result_october_2023.md): another Nations League result, from a different document.
 - [Canada's Path to Copa America 2024 Qualification](canada_copa_america_2024_qualification_path.md): the Copa America and Nations League stakes settled here, separately sourced.
 - [England 3-2 Netherlands at Wembley, Toone's Winner](england_3_2_netherlands_wembley_toone_winner.md): another Nations League match report, in a different document.
 - [England Lionesses' Olympic Qualification Heartbreak](england_lionesses_olympic_qualification_heartbreak.md): another Nations League qualification story, from a separate source.
 - [Gio Reyna's USMNT Return and Berhalter Reconciliation](gio_reyna_usmnt_return_and_berhalter_reconciliation.md): another Nations League item, in a different document.
+- [The First Half Of Canada 2-3 Jamaica](canada_jamaica_second_leg_first_half.md): same source document (doc_0232)
+- [Canada vs Jamaica Second Leg: Kickoff And Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): same source document (doc_0232)
+- [Jamaica 3-2 Canada: The Reggae Boyz Advance On Away Goals](canada_jamaica_second_leg_result.md): same source document (doc_0232)
+- [Team News For Canada vs Jamaica, Second Leg](canada_jamaica_second_leg_team_news.md): same source document (doc_0232)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

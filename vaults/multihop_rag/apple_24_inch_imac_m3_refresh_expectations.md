@@ -13,6 +13,7 @@ Whether the upgrade is worthwhile depends on a condition: making the leap to M3 
 
 ## Related Notes
 
+
 - [Apple M3 Mac Reviews And Chip Lineup](apple_m3_mac_reviews_and_chip_lineup.md): covers what the Scary Fast event actually delivered, from a different source document.
 - [LG B2 OLED Television](lg_b2_oled_television.md): shares a screen-size and model-upgrade framing, from a different source document.
 - [M3 MacBook Pro Lineup And Configurations](m3_macbook_pro_lineup_and_configurations.md): covers the other M3 machines from the same event, from a different source document.
@@ -21,6 +22,8 @@ Whether the upgrade is worthwhile depends on a condition: making the leap to M3 
 - [The M3 Release Cadence Hypothesis](apple_m3_chip_release_cadence.md): drawn from the same source document (doc_0287).
 - [Apple's Scary Fast Event, October 2023](apple_scary_fast_event_october_2023.md): drawn from the same source document (doc_0287).
 - [Apple's USB-C Accessory Transition](apple_usb_c_accessory_transition.md): drawn from the same source document (doc_0287).
+- [The iPad Pro Refresh Outlook](ipad_pro_refresh_outlook.md): same source document (doc_0287)
+- [Supply Signals Pointing To A MacBook Pro M3 Refresh](macbook_pro_m3_refresh_supply_signals.md): same source document (doc_0287)
 
 ## Source
 

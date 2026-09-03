@@ -19,11 +19,22 @@ Meta states the limit of the procedure itself: given the heightened attention an
 
 ## Related Notes
 
+
 - [BEUC Consumer Complaint Meta Pay Or Consent](beuc_consumer_complaint_meta_pay_or_consent.md): another European Union action directed at Meta, from a different source document.
 - [Apple USB C Accessory Transition](apple_usb_c_accessory_transition.md): also concerns the European Union, from a different source document.
 - [CJEU 2020 Ruling On Rental Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): also concerns the European Union, from a different source document.
 - [CPPA Draft ADMT Regulations](cppa_draft_admt_regulations.md): also concerns European Union style regulation, from a different source document.
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares the localisation and data-privacy themes, from a different source document.
+- [The Digital Services Act](digital_services_act.md): same source document (doc_0335)
+- [EU Warnings To Other Platforms](eu_warnings_to_other_platforms.md): same source document (doc_0335)
+- [Meta Enforcement Volume](meta_enforcement_volume.md): same source document (doc_0335)
+- [Livestreaming](term_livestreaming.md): uses the concept livestreaming
+- [Hashtag Blocking](term_hashtag_blocking.md): uses the concept hashtag blocking
+- [Accessibility Localisation](term_accessibility_localisation.md): uses the concept accessibility localisation
+- [Content Moderation](term_content_moderation.md): uses the concept content moderation
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Recommendation Algorithm](term_recommendation_algorithm.md): uses the concept recommendation algorithm
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

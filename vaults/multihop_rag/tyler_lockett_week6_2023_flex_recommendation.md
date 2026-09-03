@@ -13,6 +13,7 @@ The matchup profile explains why the recommendation stops at flex. Outside recei
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another lineup verdict argued from air-yards evidence that also discusses Garrett Wilson, from a different document.
 - [Baker Mayfield Week 15 Stat Line At Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also discusses Chris Godwin, one of the receivers Lockett is ranked above, from a different document.
 - [Baker Mayfield Zone Coverage And Four Level Passing](baker_mayfield_zone_coverage_and_four_level_passing.md): covers the same man-versus-zone coverage reasoning that drives this call, from a different document.
@@ -20,6 +21,9 @@ The matchup profile explains why the recommendation stops at flex. Outside recei
 - [Bills Bengals SNF Third Quarter](bills_bengals_snf_third_quarter.md): also discusses Nick Scott, one of the rotating Bengals safeties named here, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another receiver call from the same Week 6 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this flex call applies, from the same column.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
 
 ## Source
 

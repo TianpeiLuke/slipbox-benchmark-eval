@@ -13,12 +13,17 @@ What has changed, she says, is that the material is no longer only hers: "But th
 
 ## Related Notes
 
+
 - [Noora Niasari Childhood Shelter And Shayda Script Origin](noora_niasari_childhood_shelter_and_shayda_script_origin.md): same interview, on the memories being dramatised
 - [Shayda Balancing Family Violence With Persian Ritual](shayda_balancing_family_violence_with_persian_ritual.md): same interview, on the light she deliberately kept in the film
 - [Mahsa Amini Death And Iranian Womens Stories](mahsa_amini_death_and_iranian_womens_stories.md): same interview, on the wider audience understanding she hopes for
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also concerns North American audiences, different document
 - [Aging With Hiv And The Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): shares the North America tag, unrelated subject
 - [Case Against Supersized Electric Vehicles](case_against_supersized_electric_vehicles.md): shares the North America tag, unrelated subject
+- [Why Canada Belongs On A Skier's Bucket List](canada_ski_holidays_overview.md): both discuss North America; different source document
+- [Cranberry Domestication and US Cultivation History](cranberry_domestication_and_us_cultivation_history.md): both discuss North America; different source document
+- [Shayda's Festival Run And Australian Oscar Selection](shayda_festival_run_and_australian_oscar_selection.md): same source document (doc_0347)
+- [Shayda: Plot And Cast](shayda_film_plot_and_cast.md): same source document (doc_0347)
 
 ## Source
 

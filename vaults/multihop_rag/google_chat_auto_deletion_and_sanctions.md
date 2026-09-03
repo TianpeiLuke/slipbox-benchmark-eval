@@ -15,12 +15,19 @@ The issue is not confined to this case. It has also come up in the US v. Google 
 
 ## Related Notes
 
+
 - [Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): also concerns Sundar Pichai and Google's antitrust exposure, from a different source document.
 - [Epic Games v. Google Antitrust Trial](epic_games_v_google_antitrust_trial.md): covers the same trial and its evidence, from a different source document.
 - [Epic v. Google Jury Verdict, December 2023](epic_v_google_jury_verdict_december_2023.md): the outcome this jury reached after hearing the sanctions instruction, from a different source document.
 - [Expedia Testimony On Google Search Ads](expedia_testimony_on_google_search_ads.md): also concerns Sundar Pichai's company in antitrust proceedings, from a different source document.
 - [The Google Antitrust Case](google_antitrust_case.md): the Washington, DC case where the same deletion issue arose, from a different source document.
 - [Activision's $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): drawn from the same source document (doc_0299).
+- [The Market Definition Fight In Epic v. Google](android_app_distribution_market_definition.md): same source document (doc_0355)
+- [Hypocrisy On Both Sides Of The Courtroom](epic_and_google_courtroom_hypocrisy.md): same source document (doc_0355)
+- [Epic's Antitrust Claims Against Google Play](epic_antitrust_claims_against_google_play.md): same source document (doc_0299)
+- [Project Liberty: Epic's Deliberate Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): same source document (doc_0299)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Antitrust](term_antitrust.md): uses the concept antitrust
 
 ## Source
 

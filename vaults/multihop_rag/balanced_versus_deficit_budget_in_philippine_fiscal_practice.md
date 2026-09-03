@@ -13,6 +13,7 @@ The boundary case is 1994: "in 1994, the government broke the deficit trend by p
 
 ## Related Notes
 
+
 - [Fiscal Cost Channels of the Israel-Gaza War](fiscal_cost_channels_of_the_israel_gaza_war.md): the same revenue, deficit and debt-servicing channels in another country.
 - [Philippine Debt and Fiscal Consolidation](philippine_debt_and_fiscal_consolidation.md): the consolidation effort this framework motivates.
 - [Philippine Development Plan 2023-2028 Targets](philippine_development_plan_2023_2028_targets.md): another National Government fiscal-policy note.
@@ -21,6 +22,8 @@ The boundary case is 1994: "in 1994, the government broke the deficit trend by p
 - [Critique of Political Agendas in the Philippine Budget](critique_of_political_agendas_in_the_philippine_budget.md): the closing critique in the same article.
 - [DBM Case for a Surplus Budget Policy](dbm_case_for_a_surplus_budget_policy.md): the argument for preferring a surplus, same article.
 - [Philippine 2024 Budget Deficit and Debt Trajectory](philippine_2024_budget_deficit_and_debt_trajectory.md): the 2024 deficit measured against these definitions.
+- [Philippine House Approval of the 2024 National Budget](philippine_house_approval_of_the_2024_national_budget.md): same source document (doc_0306)
+- [Philippine Inflation and Deficit Vicious Cycle](philippine_inflation_and_deficit_vicious_cycle.md): same source document (doc_0306)
 
 ## Source
 

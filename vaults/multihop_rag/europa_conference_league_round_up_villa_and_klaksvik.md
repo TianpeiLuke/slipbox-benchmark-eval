@@ -13,12 +13,16 @@ KI Klaksvik's 3-0 success against Olimpija Ljubljana was a stunning first for a 
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also discusses Aston Villa, from a different document.
 - [Canada Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also discusses Leon Bailey and West Ham, from a different document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also discusses West Ham, from a different document.
 - [Carabao Cup 2023-24 Overview and Stakes](carabao_cup_2023_24_overview_and_stakes.md): also discusses the Conference League, from a different document.
 - [Carabao Cup 2023-24 Semifinal Draw and Fixtures](carabao_cup_2023_24_semifinal_draw_and_fixtures.md): also discusses West Ham, from a different document.
 - [Bill Kenwright Tribute at Anfield](bill_kenwright_tribute_at_anfield.md): another item from the same European night's coverage, from the same document.
+- [Liverpool Beat Toulouse In The Europa League Group Stage](liverpool_beat_toulouse_in_europa_league_group.md): same source document (doc_0152)
+- [Liverpool-Toulouse: Goals And Key Moments](liverpool_toulouse_goals_and_key_moments.md): same source document (doc_0152)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

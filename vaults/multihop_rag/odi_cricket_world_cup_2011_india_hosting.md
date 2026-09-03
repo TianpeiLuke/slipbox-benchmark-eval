@@ -13,11 +13,18 @@ Writing on Oct. 1, 2023, the Sporting News added that after a prolonged drought 
 
 ## Related Notes
 
+
 - [Boycott Criticism of Bairstow and Woakes Selection](boycott_criticism_of_bairstow_and_woakes_selection.md): another document involving Sri Lanka, different source
 - [England 2023 Cricket World Cup Title Defence Collapse](england_2023_cricket_world_cup_title_defence_collapse.md): the 2023 tournament this preview anticipated, different source document
 - [England Cricket World Cup 2023 Qualification Crisis](england_cricket_world_cup_2023_qualification_crisis.md): another cricket World Cup campaign account, different source document
 - [England South Africa Rugby World Cup Rivalry and 2019 Final](england_south_africa_rugby_world_cup_rivalry_and_2019_final.md): another tournament-of-firsts and decider account, different source document
 - [England South Africa Rugby World Cup Semi-Final 2023](england_south_africa_rugby_world_cup_semi_final_2023.md): another World Cup account, in a different sport
+- [The First ODI Cricket World Cup, 1975](first_odi_cricket_world_cup_1975.md): same source document (doc_0409)
+- [The ICC ODI Men's Cricket World Cup](icc_odi_cricket_world_cup_overview.md): same source document (doc_0409)
+- [The 1987 ODI World Cup Format Change](odi_cricket_world_cup_1987_format_change.md): same source document (doc_0409)
+- [The 1992 World Cup: White Ball, Coloured Kits And South Africa's Return](odi_cricket_world_cup_1992_white_ball_coloured_kits.md): same source document (doc_0409)
+- [The 1996 Semi-Final Abandonment And The Short 1999 Cycle](odi_cricket_world_cup_1996_semi_final_abandonment_and_1999_cycle.md): same source document (doc_0409)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

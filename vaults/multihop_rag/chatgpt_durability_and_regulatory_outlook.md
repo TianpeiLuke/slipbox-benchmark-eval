@@ -11,11 +11,17 @@ The grounds are financial commitment and competitive fear: there is simply too m
 
 ## Related Notes
 
+
 - [ChatGPT's First Year Overview](chatgpt_first_year_overview.md): same source document; the adoption record this argument builds on.
 - [ChatGPT Enterprise And Multimodal Features](chatgpt_enterprise_and_multimodal_features.md): same source document; the corporate investment referenced.
 - [The AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): same source document; the earlier attempt to slow the technology.
 - [Reaction To Biden's AI Order](reaction_to_biden_ai_order.md): also concerns President Biden's AI policy, from a different source document.
 - [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): overlaps in content on predictions about ChatGPT, from a different source document.
+- [Leiderman's "There Are No Sacred Numbers" Deficit Argument](leiderman_there_are_no_sacred_numbers_deficit_argument.md): both discuss President Biden; different source document
+- [Associated Press And OpenAI's Licensing Deal](associated_press_openai_licensing_deal.md): same source document (doc_0099)
+- [ChatGPT's 100 Million User Milestone](chatgpt_100_million_user_milestone.md): same source document (doc_0099)
+- [ChatGPT's Hallucinated Legal Filing Incident](chatgpt_hallucination_legal_filing_incident.md): same source document (doc_0099)
+- [The ChatGPT Integration Wave, Early 2023](chatgpt_integration_wave_early_2023.md): same source document (doc_0099)
 
 ## Source
 

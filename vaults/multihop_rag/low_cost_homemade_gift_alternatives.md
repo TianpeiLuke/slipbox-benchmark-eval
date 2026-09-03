@@ -11,6 +11,7 @@ Marisa Johnson, in her quest to find gifts that do not cause her financial stres
 
 ## Related Notes
 
+
 - [Holiday 2023 Shipping Deadline Planning](holiday_2023_shipping_deadline_planning.md): overlaps on reducing gift-sending stress, from a different source document.
 - [Last Minute Digital Gifts and Subscriptions Guide](last_minute_digital_gifts_and_subscriptions_guide.md): another set of low-effort gift options for family, from a different source document.
 - [Meta Quest 2 Black Friday Bundle Price](meta_quest_2_black_friday_bundle_price.md): shares vocabulary around quest and save, from a different source document.
@@ -19,6 +20,8 @@ Marisa Johnson, in her quest to find gifts that do not cause her financial stres
 - [Communicating Financial Limits With Family](communicating_financial_limits_with_family.md): the conversation that prepares family for cheaper gifts (doc_0251).
 - [Experiences Instead of Material Gifts](experiences_instead_of_material_gifts.md): the time-based alternative alongside these homemade ones (doc_0251).
 - [Federal Student Loan Payment Pause Ending 2023](federal_student_loan_payment_pause_ending_2023.md): the payment resumption that shrank the gift budget (doc_0251).
+- [The 50-30-20 Budgeting Method](fifty_thirty_twenty_budgeting_method.md): same source document (doc_0251)
+- [The Financial Pressure Of Holiday Gift Giving](holiday_gift_giving_financial_pressure.md): same source document (doc_0251)
 
 ## Source
 

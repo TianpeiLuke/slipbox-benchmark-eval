@@ -11,6 +11,7 @@ In the Jaguars-Texans game on CBS and Paramount+, played for first place in the 
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers Kenny Pickett, from a different source document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also covers Joe Burrow, from a different source document.
 - [Anthony Richardson Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): explains the Colts quarterback situation behind Gardner Minshew, from a different source document.
@@ -19,6 +20,7 @@ In the Jaguars-Texans game on CBS and Paramount+, played for first place in the 
 - [Prisco 2023 Week 12 Picks Season Record](prisco_2023_week_12_picks_season_record.md): the season-record framing for the same column (doc_0343).
 - [Prisco Week 12 Sunday Late Afternoon Picks](prisco_week_12_sunday_late_afternoon_picks.md): the next window of picks in the same column (doc_0343).
 - [Prisco Week 12 Sunday Night and Monday Night Picks](prisco_week_12_sunday_night_and_monday_night_picks.md): the prime-time picks from the same column (doc_0343).
+- [Prisco's Week 12 Thanksgiving And Black Friday Picks](prisco_week_12_thanksgiving_and_black_friday_picks.md): same source document (doc_0343)
 
 ## Source
 

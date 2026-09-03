@@ -13,6 +13,7 @@ The warrant is that climate strategy is not merely informed by the media ecology
 
 ## Related Notes
 
+
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): also concerns public engagement with climate change, from a different source document.
 - [Adelaide 36ers Upset New Zealand Breakers In Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): shares a campaign theme tag, from a different source document.
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): shares a campaigning theme tag, from a different source document.
@@ -21,6 +22,11 @@ The warrant is that climate strategy is not merely informed by the media ecology
 - [Apple iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares a platform-harms theme tag, from a different source document.
 - [The Attention Economy And Limbic Capitalism](attention_economy_and_limbic_capitalism.md): drawn from the same source document (doc_0234).
 - [Baker Mayfield's 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): shares a campaign-season theme tag, from a different source document.
+- [The Contested Evidence On Social Media Harm](contested_evidence_on_social_media_harm.md): same source document (doc_0234)
+- [Democracy In A Hotter Time](democracy_in_a_hotter_time_essay_collection.md): same source document (doc_0234)
+- [The Internet As A Global Endocrine System](internet_as_global_endocrine_system.md): same source document (doc_0234)
+- [Three Forces: Climate, Authoritarianism And The Internet](three_forces_climate_authoritarianism_internet.md): same source document (doc_0234)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

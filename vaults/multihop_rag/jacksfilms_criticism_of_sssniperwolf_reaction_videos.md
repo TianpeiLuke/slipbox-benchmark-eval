@@ -13,6 +13,7 @@ In addition to a video callout, Douglass revived an old joke channel called JJJa
 
 ## Related Notes
 
+
 - [Keira Megan's Sports Watch-Along Streams](keira_megan_sports_watch_along_streams.md): overlapping commentary-and-streaming subject matter from a different source document
 - [Twitch's Investment in Sports Streamers](twitch_investment_in_sports_streamers.md): another note about reaction-format content, from a separate article
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares the creator-economy topic tag despite unrelated subject matter
@@ -21,6 +22,12 @@ In addition to a video callout, Douglass revived an old joke channel called JJJa
 - [AI-Generated Works Should Not Be Copyrightable](ai_generated_works_should_not_be_copyrightable.md): shares a topic tag from a separate source
 - [AI Training Fails the Fair Use Test](ai_training_fails_fair_use_test.md): shares the creator-economy tag and the fair-use theme
 - [AMO Scale Ambition and Product Roadmap](amo_scale_ambition_and_product_roadmap.md): shares a topic tag from an unrelated article
+- [Criticism of YouTube's Response to the Doxxing Incident](criticism_of_youtube_response_to_the_doxxing_incident.md): same source document (doc_0517)
+- [Reaction Content on YouTube](reaction_content_on_youtube.md): same source document (doc_0517)
+- [The SSSniperwolf and Jacksfilms YouTube Conflict](sssniperwolf_and_jacksfilms_youtube_conflict.md): same source document (doc_0517)
+- [The SSSniperwolf Doxxing Incident, October 2023](sssniperwolf_doxxing_incident_october_2023.md): same source document (doc_0517)
+- [YouTube's Temporary Demonetization of SSSniperwolf](youtube_temporary_demonetization_of_sssniperwolf.md): same source document (doc_0517)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

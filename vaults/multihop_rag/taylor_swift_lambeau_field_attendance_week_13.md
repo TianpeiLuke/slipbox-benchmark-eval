@@ -11,6 +11,7 @@ The log recorded her arrival and its reception. Sporting News reported that Tayl
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also concerns Green Bay, from a different document.
 - [All You Had to Do Was Stay (Taylor Swift Song)](all_you_had_to_do_was_stay_taylor_swift_song.md): also about Taylor Swift, from a different document.
 - [American Pie Billboard Record and Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): also about Taylor Swift, from a different document.
@@ -19,6 +20,8 @@ The log recorded her arrival and its reception. Sporting News reported that Tayl
 - [Chiefs Packers Week 13 Broadcast and Kickoff Details](chiefs_packers_week_13_broadcast_and_kickoff_details.md): gives the broadcast frame for the same game, from the same document.
 - [Chiefs Packers Week 13 First Half Sequence](chiefs_packers_week_13_first_half_sequence.md): covers the game that followed this pregame scene, from the same document.
 - [Chiefs Packers Week 13 Fourth Quarter Sequence](chiefs_packers_week_13_fourth_quarter_sequence.md): covers the closing quarter of the same game, from the same document.
+- [Packers Edge Chiefs 27-19 On Week 13 Sunday Night Football](chiefs_packers_week_13_snf_final_result.md): same source document (doc_0034)
+- [Third Quarter Sequence Of Packers-Chiefs Week 13](chiefs_packers_week_13_third_quarter_sequence.md): same source document (doc_0034)
 
 ## Source
 

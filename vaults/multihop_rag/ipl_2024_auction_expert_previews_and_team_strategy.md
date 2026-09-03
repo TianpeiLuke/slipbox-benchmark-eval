@@ -13,6 +13,7 @@ IPL Chairman Arun Dhumal spoke at 1:10 PM IST, crediting the fans for the league
 
 ## Related Notes
 
+
 - [ICC ODI Cricket World Cup Overview](icc_odi_cricket_world_cup_overview.md): overlapping cricket-world vocabulary, from a different source document.
 - [ICC World Cup 2023 Knockout Stage and Final](icc_world_cup_2023_knockout_stage_and_final.md): also discusses the Chinnaswamy Stadium, the ground behind de Villiers' argument, from a different source document.
 - [India-Australia 2019 World Cup: The Oval Match](india_australia_2019_world_cup_the_oval_match.md): overlapping bowling-focused match analysis, from a different source document.
@@ -21,6 +22,8 @@ IPL Chairman Arun Dhumal spoke at 1:10 PM IST, crediting the fans for the league
 - [IPL 2024 Auction: Capped Batters Set](ipl_2024_auction_capped_batters_set.md): same auction live blog, showing what teams actually bought.
 - [IPL 2024 Auction: Capped Pace and Spin Sets](ipl_2024_auction_capped_pace_and_spin_sets.md): same auction live blog, showing the bowling buys these previews anticipated.
 - [IPL 2024 Auction: Capped Wicketkeepers Set](ipl_2024_auction_capped_wicketkeepers_set.md): same auction live blog, showing what teams actually bought.
+- [IPL 2024 Auction: Final Round Results](ipl_2024_auction_final_round_results.md): same source document (doc_0307)
+- [IPL 2024 Auction: The Accelerated Round](ipl_2024_auction_first_accelerated_round.md): same source document (doc_0307)
 
 ## Source
 

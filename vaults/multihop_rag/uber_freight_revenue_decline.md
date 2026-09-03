@@ -13,6 +13,7 @@ Uber Freight is not alone. Other more recent entrants to the freight and logisti
 
 ## Related Notes
 
+
 - [Convoy's Digital Freight Shutdown](convoy_digital_freight_shutdown.md): covers the Convoy shutdown referenced here, from a different document.
 - [Flexport-Convoy Technology Acquisition Talks](flexport_convoy_technology_acquisition_talks.md): covers the asset acquisition mentioned here, from a different document.
 - [Flexport Leadership Turmoil](flexport_leadership_turmoil.md): covers the other struggling freight entrant named, from a different document.
@@ -21,6 +22,7 @@ Uber Freight is not alone. Other more recent entrants to the freight and logisti
 - [Uber's Q3 2023 Bookings By Segment](uber_q3_2023_bookings_by_segment.md): drawn from the same source document (doc_0337), and covers the growing segments.
 - [Uber's Q3 2023 Headline Results](uber_q3_2023_earnings_headline_results.md): drawn from the same source document (doc_0337).
 - [Uber's Q3 2023 Profitability Metrics](uber_q3_2023_profitability_metrics.md): drawn from the same source document (doc_0337).
+- [Uber's Results As A Macro Signal For Startups](uber_results_as_macro_signal_for_startups.md): same source document (doc_0337)
 
 ## Source
 

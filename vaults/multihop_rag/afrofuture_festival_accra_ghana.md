@@ -13,6 +13,7 @@ The edition upcoming at the time of this October 2023 interview, scheduled for D
 
 ## Related Notes
 
+
 - [Abdul Karim Abdullah's Path into the Music Business](abdul_karim_abdullah_path_into_the_music_business.md): the career route of the festival's co-founder and CEO.
 - [Abdullah on Product Over Profit in the Music Industry](abdullah_on_product_over_profit_in_the_music_industry.md): the founder's view of the industry the festival sits in.
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): who attends the festival described here.
@@ -21,6 +22,7 @@ The edition upcoming at the time of this October 2023 interview, scheduled for D
 - [AfroFuture Impact on Ghana Tourism](afrofuture_impact_on_ghana_tourism.md): the festival's effect on the country hosting it.
 - [AfroFuture Rising Star Challenge Competition](afrofuture_rising_star_challenge_competition.md): the flagship artist competition attached to the festival.
 - [Road to AfroFuture Geographic Brand Expansion](road_to_afrofuture_geographic_brand_expansion.md): how the brand extends beyond the Accra event.
+- [Sub-Saharan Africa Recorded Music Market Growth](sub_saharan_africa_recorded_music_market_growth.md): same source document (doc_0085)
 
 ## Source
 

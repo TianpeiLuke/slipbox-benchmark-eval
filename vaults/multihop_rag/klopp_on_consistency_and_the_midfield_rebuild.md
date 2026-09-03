@@ -13,11 +13,20 @@ The warrant is a precedent from his own tenure — that these traits are learned
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also discusses Aston Villa, from a different document.
 - [Carabao Cup 2023-24 Second Round Results](carabao_cup_2023_24_second_round_results.md): shares the penalty and Premier League themes, from a different document.
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): also discusses Aston Villa, from a different document.
 - [Carabao Cup Format and Round Schedule 2023-24](carabao_cup_format_and_round_schedule_2023_24.md): shares the penalty and Premier League themes, from a different document.
 - [Chelsea Women's Team Succession After Hayes](chelsea_womens_team_succession_after_hayes.md): also discusses Aston Villa, from a different document.
+- [Everton Under Sean Dyche As A Derby Threat](everton_under_sean_dyche_as_derby_threat.md): same source document (doc_0542)
+- [Klopp On Building Defensive Protection](klopp_on_building_defensive_protection.md): same source document (doc_0542)
+- [Liverpool's Attacking Form: Núñez And Salah](liverpool_attacking_form_nunez_and_salah.md): same source document (doc_0542)
+- [Liverpool's Early-Season Form In 2023-24](liverpool_early_season_form_2023_24.md): same source document (doc_0542)
+- [The 243rd Merseyside Derby And Klopp's Record](merseyside_derby_243rd_edition_and_klopp_record.md): same source document (doc_0542)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Premier League](term_premier_league.md): uses the concept premier league
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

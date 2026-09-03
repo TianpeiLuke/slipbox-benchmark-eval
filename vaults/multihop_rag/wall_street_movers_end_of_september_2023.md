@@ -11,11 +11,18 @@ Energy stocks in the S&P 500 fell 2 per cent as a group, more than double the lo
 
 ## Related Notes
 
+
 - [Asx and Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): shares vocabulary around cent, stocks and nasdaq, from a different source document.
 - [ASX December 2023 Session Movers](asx_december_2023_session_movers.md): another daily movers wrap, from a different source document.
 - [Asx Laggards October 12 2023](asx_laggards_october_12_2023.md): shares vocabulary around cent, fell and dropped, from a different source document.
 - [Asx October 2023 Laggards](asx_october_2023_laggards.md): shares vocabulary around cent and fell, from a different source document.
 - [Asx Stock and Sector Moves Late September 2023](asx_stock_and_sector_moves_late_september_2023.md): shares vocabulary around cent, index and expand, from a different source document.
+- [ASX Outlook And RBA Rate Expectations At End-September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): same source document (doc_0087)
+- [ASX Decliners In The Session Before The October 2023 RBA Meeting](asx_september_2023_session_decliners.md): same source document (doc_0087)
+- [How Treasury Yields And "Higher For Longer" Transmit To Equities](treasury_yields_and_fed_higher_for_longer.md): same source document (doc_0087)
+- [Headwinds To US Consumer Spending In Late 2023](us_consumer_spending_headwinds_late_2023.md): same source document (doc_0087)
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

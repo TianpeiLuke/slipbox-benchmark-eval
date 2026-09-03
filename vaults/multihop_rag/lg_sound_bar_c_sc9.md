@@ -11,11 +11,17 @@ The SC9 soundbar and wireless subwoofer bolster the C3's phenomenal picture qual
 
 ## Related Notes
 
+
 - [Prime Day 2023 Soundbar And TV Lighting Deals](prime_day_2023_soundbar_and_tv_lighting_deals.md): another roundup of Dolby Atmos soundbars, from a different source document.
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): also covers Dolby Atmos, from a different source document.
 - [Macbook Pro Display Camera and Audio Systems](macbook_pro_display_camera_and_audio_systems.md): also covers Dolby Atmos, from a different source document.
 - [Music Streaming and Vinyl Subscription Gifts](music_streaming_and_vinyl_subscription_gifts.md): also covers Dolby Atmos, from a different source document.
 - [Nacon Revolution X Controller](nacon_revolution_x_controller.md): also covers Dolby Atmos, from a different source document.
+- [Chromecast With Google TV (4K)](chromecast_with_google_tv_4k.md): same source document (doc_0454)
+- [CouchConsole Sofa Caddy](couchconsole_sofa_caddy.md): same source document (doc_0454)
+- [Crunchyroll Anime Streaming Service](crunchyroll_anime_streaming_service.md): same source document (doc_0454)
+- [Disney Bundle Trio Streaming Package](disney_bundle_trio_streaming_package.md): same source document (doc_0454)
+- [Govee Envisual TV Backlight Kit](govee_envisual_tv_backlight_kit.md): same source document (doc_0454)
 
 ## Source
 

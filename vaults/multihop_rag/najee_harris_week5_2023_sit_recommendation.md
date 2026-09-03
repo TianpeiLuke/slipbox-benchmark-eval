@@ -13,6 +13,7 @@ The counter-evidence the column weighs is that Harris himself has improved and c
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another "Sit Him" verdict in the same weekly-decision format, from a different document.
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also discusses Joe Mixon, cited here as one of the few backs to run well on Baltimore, from a different document.
 - [Bills Bengals SNF Result And Recap](bills_bengals_snf_result_and_recap.md): also discusses Joe Mixon, from a different document.
@@ -21,6 +22,8 @@ The counter-evidence the column weighs is that Harris himself has improved and c
 - [Brock Purdy Fantasy Outlook Weeks 5 And 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another lineup call from the same Week 5 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this sit call applies, from the same column.
 - [Dallas Goedert Week 5 2023 Bust Warning](dallas_goedert_week5_2023_bust_warning.md): another lineup call from the same Week 5 column.
+- [Dameon Pierce As A Week 5 2023 Sit At Atlanta](dameon_pierce_week5_2023_sit_recommendation.md): same source document (doc_0058)
+- [DeAndre Hopkins As A Week 5 2023 Start At Indianapolis](deandre_hopkins_week5_2023_start_recommendation.md): same source document (doc_0058)
 
 ## Source
 

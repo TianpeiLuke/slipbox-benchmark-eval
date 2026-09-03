@@ -11,6 +11,7 @@ Engadget noted one iOS boundary case: there is the iOS Web MIDI Browser, which c
 
 ## Related Notes
 
+
 - [Brave Software Layoffs](brave_software_layoffs.md): overlapping coverage of the Brave browser, from a different source document.
 - [Firefox Decline: The Alternative Chrome-Share Explanation](firefox_decline_alternative_explanation_chrome_share.md): overlapping coverage of desktop browsers and Chrome, from a different source document.
 - [K.O. II Design Lineage From The Pocket Operator Series](ko_ii_design_lineage_from_the_pocket_operator_series.md): drawn from the same source document (doc_0417).
@@ -19,6 +20,8 @@ Engadget noted one iOS boundary case: there is the iOS Web MIDI Browser, which c
 - [K.O. II Pattern And Scene Structure And The Missing Song Mode](ko_ii_pattern_scene_structure_and_missing_song_mode.md): drawn from the same source document (doc_0417).
 - [K.O. II Punch-In Effects And Performance Workflow](ko_ii_punch_in_effects_and_performance_workflow.md): drawn from the same source document (doc_0417).
 - [K.O. II Super Segment Hybrid Display](ko_ii_super_segment_hybrid_display.md): drawn from the same source document (doc_0417).
+- [K.O. II Usability Without The Manual And Key Feel](ko_ii_usability_without_the_manual_and_key_feel.md): same source document (doc_0417)
+- [The K.O. II Verdict As An Affordable Performative Sampler](ko_ii_verdict_as_an_affordable_performative_sampler.md): same source document (doc_0417)
 
 ## Source
 

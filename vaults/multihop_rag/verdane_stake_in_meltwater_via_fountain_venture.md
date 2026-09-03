@@ -13,6 +13,7 @@ The deal also brings a second asset. Joakim Kjemperud, a principal at Verdane, s
 
 ## Related Notes
 
+
 - [Group Psagot Share Price Collapse](group_psagot_share_price_collapse.md): substantial content overlap on stake, investment, investments, from a different source document.
 - [AI21 Labs Tel Aviv Office Lease](ai21_labs_tel_aviv_office_lease.md): shares the valuation theme, from a different source document.
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): shares the valuation theme, from a different source document.
@@ -21,6 +22,11 @@ The deal also brings a second asset. Joakim Kjemperud, a principal at Verdane, s
 - [Bharti Airtel EV Ebitda Valuation Case](bharti_airtel_ev_ebitda_valuation_case.md): shares the valuation theme, from a different source document.
 - [Boeing Q3 2023 Earnings Preview and 737 Max Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): shares the valuation theme, from a different source document.
 - [Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): shares the valuation theme, from a different source document.
+- [European Tech Valuation Pressure And PE Dealmaking](european_tech_valuation_pressure_and_pe_dealmaking.md): same source document (doc_0580)
+- [Generative AI As A Competitive Threat To Meltwater](generative_ai_as_competitive_threat_to_meltwater.md): same source document (doc_0580)
+- [Lyseggen's "Netscape Moment" Rebuttal On Meltwater And AI](lyseggen_netscape_moment_rebuttal_on_meltwater_ai.md): same source document (doc_0580)
+- [The Evolution Of Meltwater's Media Monitoring Business](meltwater_media_monitoring_business_evolution.md): same source document (doc_0580)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

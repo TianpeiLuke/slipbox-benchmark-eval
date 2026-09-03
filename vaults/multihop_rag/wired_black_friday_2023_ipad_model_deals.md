@@ -13,11 +13,19 @@ For more power than the ninth-generation model, WIRED recommends the iPad Air (8
 
 ## Related Notes
 
+
 - [AirPods Pro (2nd Generation) Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-life-and-charging and Black Friday / Cyber Monday themes, from a different source document.
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): also covers Cyber Monday, from a different source document.
 - [Amazon Echo Buds (2023)](amazon_echo_buds_2023.md): shares the battery-life-and-charging and Black Friday / Cyber Monday themes, from a different source document.
 - [Amazon Echo Show, Audible And Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): also covers Cyber Monday, from a different source document.
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): also covers Cyber Monday, from a different source document.
+- [Apple Store Credit And Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): same source document (doc_0576)
+- [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): same source document (doc_0576)
+- [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): same source document (doc_0576)
+- [Why iPhone Discounts Come From Carriers, Not Retailers](why_iphone_discounts_come_from_carriers_not_retailers.md): same source document (doc_0576)
+- [WIRED's 2023 Holiday Deal Guide Selection And Pricing Method](wired_2023_holiday_deal_guide_selection_and_pricing_method.md): same source document (doc_0576)
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

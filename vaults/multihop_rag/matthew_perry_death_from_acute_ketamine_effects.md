@@ -13,6 +13,7 @@ Dr. Bankole Johnson, CEO and founder of Casa Privée in Miami, a concierge medic
 
 ## Related Notes
 
+
 - [Acurable Respiratory Wearables](acurable_respiratory_wearables.md): overlapping vocabulary on conditions, treat, medical, from a different source document.
 - [Adulterated Street Ketamine Risks](adulterated_street_ketamine_risks.md): drawn from the same source document (doc_0390).
 - [ASKP3 Forthcoming at Home Ketamine Guidelines](askp3_forthcoming_at_home_ketamine_guidelines.md): drawn from the same source document (doc_0390).
@@ -21,6 +22,8 @@ Dr. Bankole Johnson, CEO and founder of Casa Privée in Miami, a concierge medic
 - [Ketamine Dependence and Abuse Potential](ketamine_dependence_and_abuse_potential.md): drawn from the same source document (doc_0390).
 - [Ketamine FDA Approval History and Approved Uses](ketamine_fda_approval_history_and_approved_uses.md): drawn from the same source document (doc_0390).
 - [Obtaining Ketamine only through a Licensed Prescriber](obtaining_ketamine_only_through_a_licensed_prescriber.md): drawn from the same source document (doc_0390).
+- [Why Small Self-Administered Ketamine Doses Are Not Safer](risks_of_intranasal_and_micro_dosed_ketamine.md): same source document (doc_0390)
+- [How Ketamine Caused A Drowning Rather Than Direct Toxicity](toxicology_of_ketamine_induced_drowning.md): same source document (doc_0390)
 
 ## Source
 

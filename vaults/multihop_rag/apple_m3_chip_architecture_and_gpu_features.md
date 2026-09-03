@@ -13,6 +13,7 @@ The other two additions are hardware-accelerated ray tracing and mesh shading. R
 
 ## Related Notes
 
+
 - [A Patent Redesign Must Be More Than a Colorable Difference](a_patent_redesign_must_be_more_than_a_colorable_difference.md): shares the hardware device theme, from a different source document.
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): shares the hardware device theme, from a different source document.
 - [AI Alliance Working Groups and Governance Plan](ai_alliance_working_groups_and_governance_plan.md): shares the hardware device theme, from a different source document.
@@ -21,6 +22,16 @@ The other two additions are hardware-accelerated ray tracing and mesh shading. R
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares the hardware device theme, from a different source document.
 - [Amot Investments Portfolio and War Scenario Assessment](amot_investments_portfolio_and_war_scenario_assessment.md): shares the usage based pricing theme, from a different source document.
 - [Apple Airpods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): shares the hardware device theme, from a different source document.
+- [Apple Silicon Chip Naming And Relative Performance](apple_silicon_chip_naming_and_relative_performance.md): same source document (doc_0526)
+- [The M3 MacBook Pro Lineup And Its Configurations](m3_macbook_pro_lineup_and_configurations.md): same source document (doc_0526)
+- [M3 Max Benchmark Results](m3_max_benchmark_results.md): same source document (doc_0526)
+- [M3 Max Gaming Performance On macOS](m3_max_gaming_performance_on_macos.md): same source document (doc_0526)
+- [M3 Max MacBook Pro Battery Runtime Test](m3_max_macbook_pro_battery_runtime_test.md): same source document (doc_0526)
+- [Verdict On The 16-Inch M3 Max MacBook Pro](macbook_pro_16_inch_m3_max_verdict.md): same source document (doc_0526)
+- [MacBook Pro Design, Ports And The Space Black Finish](macbook_pro_design_ports_and_space_black_finish.md): same source document (doc_0526)
+- [MacBook Pro Display, Camera And Audio Systems](macbook_pro_display_camera_and_audio_systems.md): same source document (doc_0526)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

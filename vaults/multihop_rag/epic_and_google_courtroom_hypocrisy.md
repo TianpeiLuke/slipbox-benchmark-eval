@@ -13,12 +13,18 @@ In the same press briefing, Google suggested to journalists that Epic should hav
 
 ## Related Notes
 
+
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): tests the claim that competing stores are a real option, from a different source document.
 - [Epic Games Store As A General Purpose App Store](epic_games_store_as_a_general_purpose_app_store.md): shows Epic's own commercial stake in the outcome, from a different source document.
 - [Epic's Opening Statement: Bribes And Blocks](epic_opening_statement_bribes_and_blocks.md): the courtroom argument this note qualifies, from a different source document.
 - [Epic's Rebuttal Of Google's Leaked Email Summary](epic_rebuttal_of_googles_leaked_email_summary.md): another exchange of accusations over framing, from a different source document.
 - [Epic v. Google Jury Verdict, December 2023](epic_v_google_jury_verdict_december_2023.md): the eventual resolution of these competing framings, from a different source document.
 - [The Market Definition Fight In Epic v. Google](android_app_distribution_market_definition.md): drawn from the same source document (doc_0355).
+- [Epic's Antitrust Claims Against Google Play](epic_antitrust_claims_against_google_play.md): same source document (doc_0355)
+- [Project Liberty: Epic's Deliberate Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): same source document (doc_0355)
+- [The Epic v. Apple Ruling And Its Limited Weight Here](epic_v_apple_ruling_as_precedent.md): same source document (doc_0355)
+- [Epic v. Google Is A Jury Trial](epic_v_google_jury_trial_dynamics.md): same source document (doc_0355)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
 
 ## Source
 

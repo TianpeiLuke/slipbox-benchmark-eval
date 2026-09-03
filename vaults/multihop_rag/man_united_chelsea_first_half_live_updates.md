@@ -13,11 +13,19 @@ In the 19th minute came the goal for 1-0 United, Scott McTominay finishing off a
 
 ## Related Notes
 
+
 - [Argentina First Half Dominance vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): also discusses Enzo Fernandez, from a different document.
 - [Argentina Second Half and Messi Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): also discusses Enzo Fernandez, from a different document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): another Old Trafford fixture, from a different document.
 - [Canada Jamaica Second Leg Second Half](canada_jamaica_second_leg_second_half.md): linked through shared corpus tags, from a different document.
 - [Carabao Cup 2023-24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): also mentions Old Trafford, from a different document.
+- [Erik Ten Hag Under Pressure In December 2023](erik_ten_hag_under_pressure_december_2023.md): same source document (doc_0129)
+- [Manchester United 2-1 Chelsea, December 2023](man_united_2_1_chelsea_december_2023_result.md): same source document (doc_0129)
+- [How The Goals Came In Manchester United 2-1 Chelsea](man_united_chelsea_december_2023_goal_sequence.md): same source document (doc_0129)
+- [Team News And Lineups For Manchester United vs Chelsea, December 2023](man_united_chelsea_december_2023_team_news_and_lineups.md): same source document (doc_0129)
+- [Pre-Match Build-Up To Manchester United vs Chelsea, December 2023](man_united_chelsea_pre_match_build_up.md): same source document (doc_0129)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

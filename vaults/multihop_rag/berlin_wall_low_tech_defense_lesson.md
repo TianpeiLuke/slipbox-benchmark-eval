@@ -11,6 +11,7 @@ The evidence is the wall's own evolution. Built in 1961 as a standard wire and c
 
 ## Related Notes
 
+
 - [Iran State Funding of Hamas](iran_state_funding_of_hamas.md): also discusses Shin Bet, from a different source document.
 - [National Public Diplomacy Directorate](national_public_diplomacy_directorate.md): also discusses Shin Bet, from a different source document.
 - [Gaza Border Barrier Construction](gaza_border_barrier_construction.md): the almost unmanned, un-mined barrier this comparison indicts (doc_0078).
@@ -19,6 +20,8 @@ The evidence is the wall's own evolution. Built in 1961 as a standard wire and c
 - [Israeli Leaders' Claims About the Gaza Barrier](israeli_leaders_claims_about_the_gaza_barrier.md): the high-tech confidence being challenged (doc_0078).
 - [Israeli Restraint Policy Toward Gaza](israeli_restraint_policy_toward_gaza.md): another note drawn from the same source document (doc_0078).
 - [October 7 and the Technological Failure of the Barrier](october_7_technological_failure_of_the_barrier.md): the failure the comparison anticipates (doc_0078).
+- [Officer Technological Literacy And The Need For Redundancy](officer_technological_literacy_and_system_redundancy.md): same source document (doc_0078)
+- [Strategic Surprise As A Recurring Pattern](strategic_surprise_pattern_across_history.md): same source document (doc_0078)
 
 ## Source
 

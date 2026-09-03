@@ -11,11 +11,18 @@ Her books are described as the final evolution of an undead Pokémon. Where Anne
 
 ## Related Notes
 
+
 - [Anne Rice: Vampire Verdict](anne_rice_vampire_chronicles_verdict.md): same source; the author whose treatment of vampires Hamilton's is measured against.
 - [The Count On Sesame Street](the_count_sesame_street.md): another comic defanging of the vampire, from a different source document.
 - [Encounters of the Spooky Kind Sammo Hung](encounters_of_the_spooky_kind_sammo_hung.md): also covers Looney Tunes, from a different source document.
 - [Marceline The Vampire Queen](marceline_the_vampire_queen_adventure_time.md): overlaps in content on vampire, vampires, from a different source document.
 - [Miguel O'Hara, Spider-Man 2099](miguel_ohara_spider_man_2099_vampire.md): overlaps in content on vampire, vampires, readers, from a different source document.
+- [The Surprise Vampire Trope](surprise_vampire_trope.md): content overlap 0.15 on vampire, vampires, audiences; different source document
+- [Bram Stoker: Vampire Verdict](bram_stoker_dracula_vampire_verdict.md): same source document (doc_0452)
+- [The Lineage Of English-Language Vampire Fiction](english_language_vampire_fiction_lineage.md): same source document (doc_0452)
+- [John William Polidori And The Vampyre](john_william_polidori_the_vampyre.md): same source document (doc_0452)
+- [Stephen King: Vampire Verdict](stephen_king_salems_lot_vampire_verdict.md): same source document (doc_0452)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

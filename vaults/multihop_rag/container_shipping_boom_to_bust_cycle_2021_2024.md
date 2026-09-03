@@ -13,11 +13,20 @@ Over the ten days to 2023-11-12, Maersk, Hapag-Lloyd and closely held CMA CGM SA
 
 ## Related Notes
 
+
 - [Alphabet Q3 2023 Results And The Cloud Miss](alphabet_q3_2023_results_and_cloud_miss.md): also cites Bloomberg Intelligence, from a different source document.
 - [Amazon Seller Skepticism Of The FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares the pandemic-era commerce context from a different source document.
 - [Dave Clark's Hiring And The Flexport IPO Plan](dave_clark_hiring_and_flexport_ipo_plan.md): shares the pandemic-era logistics context from a different source document.
 - [Keep Labs' Pivot And Leadership](keep_labs_pivot_and_leadership.md): shares the pandemic-era product context from a different source document.
 - [The Snoopy Show And Family Plan Apple TV Releases](snoopy_show_and_family_plan_apple_tv_releases.md): also references Charlie Brown, from a different source document.
+- [CMA CGM's Diversification Strategy](cma_cgm_diversification_strategy.md): same source document (doc_0321)
+- [Container Carriers' Capacity Management Tools](container_carrier_capacity_management_tools.md): same source document (doc_0321)
+- [Falling Freight Rates And Goods Disinflation](falling_freight_rates_and_goods_disinflation.md): same source document (doc_0321)
+- [Rising Shipping Costs: Canals And Decarbonization](rising_shipping_costs_canals_and_decarbonization.md): same source document (doc_0321)
+- [The Shipping Overcapacity Supply-Demand Mechanism](shipping_overcapacity_supply_demand_mechanism.md): same source document (doc_0321)
+- [Initial Public Offering (IPO)](term_initial_public_offering.md): uses the concept initial public offering
+- [Product Launch](term_product_launch.md): uses the concept product launch
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

@@ -13,6 +13,7 @@ The framing on offer misdescribes the structure. The tech platforms and some res
 
 ## Related Notes
 
+
 - [ChatGPT Legal And Privacy Controversies](chatgpt_legal_and_privacy_controversies.md): shares the platform-harms and disinformation theme, from a different source document.
 - [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): shares the disinformation theme, from a different source document.
 - [ChatGPT Political Disinformation Guardrail Failure](chatgpt_political_disinformation_guardrail_failure.md): shares the disinformation theme, from a different source document.
@@ -21,6 +22,10 @@ The framing on offer misdescribes the structure. The tech platforms and some res
 - [Democracy In A Hotter Time](democracy_in_a_hotter_time_essay_collection.md): drawn from the same source document (doc_0234).
 - [The Digital Services Act](digital_services_act.md): the regulatory response to the disinformation framing critiqued here, from a different source document.
 - [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): imposes duties premised on the content framing, from a different source document.
+- [The Internet As A Central Obstacle To Climate Action](internet_as_central_obstacle_to_climate_action.md): same source document (doc_0234)
+- [The Internet As A Global Endocrine System](internet_as_global_endocrine_system.md): same source document (doc_0234)
+- [Three Forces: Climate, Authoritarianism And The Internet](three_forces_climate_authoritarianism_internet.md): same source document (doc_0234)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
 
 ## Source
 

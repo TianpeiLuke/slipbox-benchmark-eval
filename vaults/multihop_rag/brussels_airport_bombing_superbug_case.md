@@ -11,6 +11,7 @@ The bacteria may have entered her flesh along with shrapnel from the bomb detona
 
 ## Related Notes
 
+
 - [Unculturable Canine Bacterium and the Doxycycline Antibiotic Choice](unculturable_canine_bacterium_doxycycline_antibiotic_choice.md): another case where the choice of antibiotic was dictated by an unusual bacterium.
 - [Antibiotic Stewardship Practices](antibiotic_stewardship_practices.md): from the same article, on the prescribing discipline meant to prevent such resistant strains.
 - [Bacteriophage Therapy Basics](bacteriophage_therapy_basics.md): from the same article, describing the class of experimental treatment used in cases like hers.
@@ -19,6 +20,8 @@ The bacteria may have entered her flesh along with shrapnel from the bomb detona
 - [CRISPR-Cas System Mechanism](crispr_cas_system_mechanism.md): from the same article, explaining the bacterial immune system behind those tools.
 - [Global Burden of Antibiotic-Resistant Infections](global_burden_of_antibiotic_resistant_infections.md): from the same article, putting this single case in a worldwide context.
 - [How Antibiotic Resistance Emerges and Spreads](how_antibiotic_resistance_emerges_and_spreads.md): from the same article, explaining how a strain like hers became untreatable.
+- [Lysins as Bacteria-Slaying Enzymes](lysins_as_bacteria_slaying_enzymes.md): same source document (doc_0566)
+- [Peptide Nucleic Acids as Antibacterials](peptide_nucleic_acids_as_antibacterials.md): same source document (doc_0566)
 
 ## Source
 

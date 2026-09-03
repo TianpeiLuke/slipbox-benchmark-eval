@@ -11,9 +11,18 @@ Co-founder and CEO Gabor Cselle, who had exits to Google and Twitter prior to st
 
 ## Related Notes
 
+
 - [Founder Lessons From Pebble](founder_lessons_from_pebble.md): same source document; what the founders conclude about demand in this market.
 - [EU DSA Formal Proceedings Against X](eu_dsa_formal_proceedings_against_x.md): also concerns Elon Musk's X, from a different source document.
 - [Digital Services Act](digital_services_act.md): also concerns platform regulation under Musk's ownership, from a different source document.
+- [The AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): both discuss Elon Musk; different source document
+- [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): both discuss Elon Musk; different source document
+- [Cybertruck Bed Size And Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): both discuss Elon Musk; different source document
+- [The Kindness Versus Engagement Trade-Off](kindness_versus_engagement_tradeoff.md): same source document (doc_0593)
+- [Pebble's Missing Native Mobile App](pebble_missing_native_mobile_app.md): same source document (doc_0593)
+- [Pebble's Moderation Approach Defense](pebble_moderation_approach_defense.md): same source document (doc_0593)
+- [Pebble's Moderation-First Market Hypothesis](pebble_moderation_first_market_hypothesis.md): same source document (doc_0593)
+- [Open Source](term_open_source.md): uses the concept open source
 
 ## Source
 

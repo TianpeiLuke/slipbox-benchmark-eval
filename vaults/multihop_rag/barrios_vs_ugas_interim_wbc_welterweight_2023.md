@@ -11,6 +11,7 @@ The live entries tracked the fight's turning points. At 9:26 p.m. ET, Barrios ha
 
 ## Related Notes
 
+
 - [Canelo Alvarez Undisputed Titles and Net Worth](canelo_alvarez_undisputed_titles_and_net_worth.md): part of the same sub-plan on the Canelo-Charlo card and boxing economics, from a different source document.
 - [Canelo and McGregor Pay-Per-View Purse History](canelo_and_mcgregor_pay_per_view_purse_history.md): part of the same sub-plan, from a different source document.
 - [Canelo Projected Path to Mayweather Wealth](canelo_projected_path_to_mayweather_wealth.md): part of the same sub-plan, from a different source document.
@@ -19,6 +20,8 @@ The live entries tracked the fight's turning points. At 9:26 p.m. ET, Barrios ha
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): the main event of the same card (doc_0245).
 - [Canelo Alvarez Next Opponents After Charlo Win](canelo_alvarez_next_opponents_after_charlo_win.md): the aftermath of the same card (doc_0245).
 - [Canelo Charlo PPV Card Schedule](canelo_charlo_ppv_card_schedule.md): the running order of the same event (doc_0245).
+- [Canelo vs Charlo: Sporting News' Round-By-Round Unofficial Scorecard](canelo_charlo_round_by_round_scorecard.md): same source document (doc_0245)
+- [Elijah Garcia Stops Armando Resendiz In The Eighth To Open The Canelo-Charlo PPV](elijah_garcia_stops_armando_resendiz_2023.md): same source document (doc_0245)
 
 ## Source
 

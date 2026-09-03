@@ -11,10 +11,14 @@ The rules and countermeasures moved in response. Before the details of the scand
 
 ## Related Notes
 
+
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): the illegal version of this practice, from the same article (doc_0007).
 - [Astros Players' Immunity and Mike Fiers](astros_players_immunity_and_mike_fiers.md): who was held responsible, from the same article (doc_0007).
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): the enforcement response, from the same article (doc_0007).
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): the public reaction, from the same article (doc_0007).
+- [How Jim Crane And Jeff Luhnow Rebuilt A Losing Astros Front Office](houston_astros_front_office_rebuild_under_crane_and_luhnow.md): same source document (doc_0007)
+- [Manfred's Rebuttal To Stripping The Astros' 2017 Title](why_mlb_let_the_astros_keep_the_2017_title.md): same source document (doc_0007)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

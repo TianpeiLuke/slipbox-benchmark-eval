@@ -11,6 +11,7 @@ The discriminating features against other operators are the full-point reception
 
 ## Related Notes
 
+
 - [DraftKings Showdown and FanDuel Single Game Scoring Rules](draftkings_showdown_and_fanduel_single_game_scoring_rules.md): the single-game versions of these scoring rules, from a different document.
 - [DraftKings Sportsbook Welcome Offers December 2023](draftkings_sportsbook_welcome_offers_december_2023.md): another DraftKings product covered in the same period, from a different document.
 - [Drake London Home Road Fantasy Split](drake_london_home_road_fantasy_split.md): overlaps on receiving-yardage scoring, from a different document.
@@ -19,6 +20,7 @@ The discriminating features against other operators are the full-point reception
 - [DraftKings Week 14 DFS QB and RB Picks](draftkings_week_14_dfs_qb_and_rb_picks.md): picks made under these rules, from the same document.
 - [DraftKings Week 14 DFS WR, TE, Flex and Defense Picks](draftkings_week_14_dfs_wr_te_flex_and_defense_picks.md): picks made under these rules, from the same document.
 - [SuperDraft DFS Multiplier Scoring Format](superdraft_dfs_multiplier_scoring_format.md): the multiplier alternative described in the same article.
+- [SuperDraft Week 14 NFL DFS Lineup](superdraft_week_14_nfl_dfs_lineup.md): same source document (doc_0331)
 
 ## Source
 

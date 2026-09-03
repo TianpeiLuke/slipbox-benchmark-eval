@@ -13,11 +13,18 @@ Both journeys had twists, turns and bumps in the road but left each side within 
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): also concerns South Africa.
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also concerns South Africa.
 - [All Blacks Final Moments RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): also concerns the All Blacks in this tournament.
 - [All Blacks Generational Change After 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): also concerns the All Blacks.
 - [All Blacks Ireland Series Loss Backlash as Motivation](all_blacks_ireland_series_loss_backlash_as_motivation.md): also concerns the All Blacks and Ireland.
+- [England And South Africa Meet Again, Four Years After The 2019 Final](england_south_africa_rugby_world_cup_rivalry_and_2019_final.md): same source document (doc_0167)
+- [Why The Springboks Were Predicted To Beat England At The Stade De France](england_south_africa_semifinal_prediction_and_form.md): same source document (doc_0167)
+- [Steve Borthwick's Three Changes To England's XV For The Semi-Final](england_starting_xv_changes_for_2023_semifinal.md): same source document (doc_0167)
+- [Kickoff Times And Broadcasters For The England-South Africa Semi-Final](rugby_world_cup_2023_semifinal_broadcast_and_kickoff.md): same source document (doc_0167)
+- [South Africa Named An Unchanged XV After The France Quarter-Final](south_africa_springboks_unchanged_xv_for_semifinal.md): same source document (doc_0167)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

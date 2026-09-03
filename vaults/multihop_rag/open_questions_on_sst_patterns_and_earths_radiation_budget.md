@@ -11,6 +11,7 @@ Three tasks follow from that claim. First, understanding must improve of the dri
 
 ## Related Notes
 
+
 - [Climate Sweet Spots and Pattern-Dependent Feedbacks](climate_sweet_spots_and_pattern_dependent_feedbacks.md): from the same article, on the coupling between patterns and radiation these questions target.
 - [Coupled Models Fail to Reproduce Observed Warming Patterns](coupled_models_fail_to_reproduce_observed_warming_patterns.md): from the same article, on the model failures motivating the first question.
 - [Emerging Tools for Quantifying the Pattern Effect](emerging_tools_for_quantifying_the_pattern_effect.md): from the same article, on the observations that could answer these questions.
@@ -19,6 +20,8 @@ Three tasks follow from that claim. First, understanding must improve of the dri
 - [Feedback Dependence on Global Mean Temperature](feedback_dependence_on_global_mean_temperature.md): from the same article, on another dependence still to be quantified.
 - [Historical Warming Does Not Bound Climate Sensitivity](historical_warming_does_not_bound_climate_sensitivity.md): from the same article, on why the historical record leaves these questions open.
 - [The Magnitude of the Observed Pattern Effect Is Disputed](magnitude_of_the_observed_pattern_effect_is_disputed.md): from the same article, on the measurement uncertainty behind them.
+- [The Model Versus Observation Climate Sensitivity Discrepancy](model_versus_observation_climate_sensitivity_discrepancy.md): same source document (doc_0139)
+- [Paleorecords Must Account for the Pattern Effect](paleorecords_must_account_for_the_pattern_effect.md): same source document (doc_0139)
 
 ## Source
 

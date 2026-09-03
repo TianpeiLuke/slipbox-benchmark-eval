@@ -13,6 +13,7 @@ On the Arsenal side, Saka missed the win over Man City before the international 
 
 ## Related Notes
 
+
 - [Argentina First-Half Dominance vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): also concerns Enzo Fernandez, from a different document.
 - [Argentina Second Half and the Messi Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): also concerns Enzo Fernandez, from a different document.
 - [Arsenal 2-1 Win at Sevilla, Group B](arsenal_2_1_win_at_sevilla_group_b.md): also concerns William Saliba, from a different document.
@@ -21,6 +22,8 @@ On the Arsenal side, Saka missed the win over Man City before the international 
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): drawn from the same document (doc_0300).
 - [Arteta and Pochettino's Derby-Day Competitive Edge](arteta_pochettino_derby_day_competitive_edge.md): drawn from the same document (doc_0110).
 - [England's 2023 Cricket World Cup Qualification Crisis](england_cricket_world_cup_2023_qualification_crisis.md): drawn from the same document (doc_0300).
+- [England vs South Africa: 2023 Rugby World Cup Semi-Final](england_south_africa_rugby_world_cup_semi_final_2023.md): same source document (doc_0300)
+- [Havertz And Jorginho's Return To Stamford Bridge](havertz_jorginho_return_to_stamford_bridge.md): same source document (doc_0110)
 
 ## Source
 

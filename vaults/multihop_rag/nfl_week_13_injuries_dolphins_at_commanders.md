@@ -11,11 +11,19 @@ That included Cotton and Lamm, who had both been DNPs earlier in the week. Rooki
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): overlaps on injury-designation language, from a different document.
 - [Dolphins 45-15 Commanders Week 13](dolphins_45_15_commanders_week_13.md): covers the game these reports precede and also discusses De'Von Achane, from a different document.
 - [Fantasy RB PPR Rankings Week 14 Full List](fantasy_rb_ppr_rankings_week_14_full_list.md): also discusses De'Von Achane, from a different document.
 - [Fantasy RB Standard Rankings Week 14 Full List](fantasy_rb_standard_rankings_week_14_full_list.md): also discusses De'Von Achane, from a different document.
 - [Fantasy RB Week 14 Top Starts PPR](fantasy_rb_week_14_top_starts_ppr.md): also discusses De'Von Achane, from a different document.
+- [NFL Week 13 Injuries 49ers At Eagles](nfl_week_13_injuries_49ers_at_eagles.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Bengals At Jaguars](nfl_week_13_injuries_bengals_at_jaguars.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Broncos At Texans](nfl_week_13_injuries_broncos_at_texans.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Browns At Rams](nfl_week_13_injuries_browns_at_rams.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Cardinals At Steelers](nfl_week_13_injuries_cardinals_at_steelers.md): same source document (doc_0289)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

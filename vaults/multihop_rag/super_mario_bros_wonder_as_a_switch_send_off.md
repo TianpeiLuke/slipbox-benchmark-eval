@@ -11,11 +11,19 @@ The reviewer sets aside the fan question of whether Wonder is the unofficial Sup
 
 ## Related Notes
 
+
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): another article about Nintendo Switch hardware
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): retail coverage of the same console's catalogue
 - [Blasphemous 2](blasphemous_2.md): another Nintendo Switch game covered separately
 - [Chants Of Sennaar](chants_of_sennaar.md): another Switch title from a different article
 - [Classic Nintendo Switch Franchise Picks](classic_nintendo_switch_franchise_picks.md): a survey of the console's franchise entries this argument invokes
+- [The Badge System In Super Mario Bros. Wonder](super_mario_bros_wonder_badge_system.md): same source document (doc_0606)
+- [Multiplayer In Super Mario Bros. Wonder](super_mario_bros_wonder_multiplayer_mode.md): same source document (doc_0606)
+- [Wonder Seeds And The Transformations They Trigger](super_mario_bros_wonder_wonder_seed_transformations.md): same source document (doc_0606)
+- [Wonder As A Return To 2D Mario Experimentation](wonder_as_a_return_to_2d_mario_experimentation.md): same source document (doc_0606)
+- [Wonder's Disposable-Idea Design As An Alternative To "Forever Games"](wonder_disposable_idea_design_versus_forever_games.md): same source document (doc_0606)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

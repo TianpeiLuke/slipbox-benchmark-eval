@@ -13,11 +13,18 @@ The matchup evidence cuts both ways, which is what makes the sit a judgement cal
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another lineup verdict argued from air-yards evidence, from a different document.
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): another "Sit Him" verdict in the same weekly-decision format, from a different document.
 - [Cooper Kupp 2023 Ankle Injury And Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): another sit verdict that also discusses Matthew Stafford, whom Prescott is ranked behind here, from a different document.
 - [Cowboys 49ers First Half Live Blog](cowboys_49ers_first_half_live_blog.md): covers the Dallas blowout loss referenced here and also discusses Tony Pollard, from a different document.
 - [Cowboys 49ers Second Half Live Blog](cowboys_49ers_second_half_live_blog.md): covers the second half of that same loss and also discusses Tony Pollard, from a different document.
+- [Amari Cooper As A Week 6 2023 Sit Against The 49ers](amari_cooper_week6_2023_sit_recommendation.md): same source document (doc_0149)
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

@@ -11,6 +11,7 @@ Abdullah also points to employment and continuity effects. Every year the organi
 
 ## Related Notes
 
+
 - [Shayda Festival Run and Australian Oscar Selection](shayda_festival_run_and_australian_oscar_selection.md): another note about a festival's international reach.
 - [Abdul Karim Abdullah's Path into the Music Business](abdul_karim_abdullah_path_into_the_music_business.md): from the same interview.
 - [Abdullah on Product Over Profit in the Music Industry](abdullah_on_product_over_profit_in_the_music_industry.md): from the same interview.
@@ -19,6 +20,8 @@ Abdullah also points to employment and continuity effects. Every year the organi
 - [AfroFuture Foundation Philanthropy Programmes](afrofuture_foundation_philanthropy_programmes.md): the other channel of local community impact.
 - [AfroFuture Founding Vision and Mission Pillars](afrofuture_founding_vision_and_mission_pillars.md): the mission this impact is measured against.
 - [AfroFuture Rising Star Challenge Competition](afrofuture_rising_star_challenge_competition.md): from the same interview.
+- [Road to AfroFuture Geographic Brand Expansion](road_to_afrofuture_geographic_brand_expansion.md): same source document (doc_0085)
+- [Sub-Saharan Africa Recorded Music Market Growth](sub_saharan_africa_recorded_music_market_growth.md): same source document (doc_0085)
 
 ## Source
 

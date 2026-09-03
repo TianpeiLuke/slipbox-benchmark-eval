@@ -13,6 +13,7 @@ The opponent grounds explain why the game state is likely. The Chiefs tend to bu
 
 ## Related Notes
 
+
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): covers Alexander Mattison, one of the two backs to score 10 points on Kansas City and a back preferred here, from a different document.
 - [Baker Mayfield Week 15 Stat Line At Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also discusses Rachaad White, ranked ahead of McLaughlin, from a different document.
 - [Bears Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): also discusses Alexander Mattison, from a different document.
@@ -21,6 +22,8 @@ The opponent grounds explain why the game state is likely. The Chiefs tend to bu
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another lineup call from the same Week 6 column.
 - [Brock Purdy Fantasy Outlook Weeks 5 And 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another lineup call drawing on the same Week 6 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this sit call applies, from the same column.
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
 
 ## Source
 

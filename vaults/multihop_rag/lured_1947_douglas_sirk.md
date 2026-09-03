@@ -11,11 +11,19 @@ Ball plays Sandra Carpenter, an American in London working as a taxi dancer when
 
 ## Related Notes
 
+
 - [Quiz Lady (2023)](quiz_lady_2023_comedy.md): another film built around a comic lead actress, from a different source document.
 - [Esfandtv Sports Streaming Channel](esfandtv_sports_streaming_channel.md): shares the concert_tour, streaming_service topic tags, from a different source document.
 - [Golf Betting Bet Types Explained](golf_betting_bet_types_explained.md): shares the concert_tour, streaming_service topic tags, from a different source document.
 - [Movie Theaters Pivot to Alternative Content](movie_theaters_pivot_to_alternative_content.md): shares the concert_tour, streaming_service topic tags, from a different source document.
 - [Netflix Originals Premiering November 14 To 16, 2023](netflix_originals_premiering_november_14_to_16_2023.md): shares the concert_tour, streaming_service topic tags, from a different source document.
+- [Bad Times At The El Royale (2018)](bad_times_at_the_el_royale_2018.md): same source document (doc_0327)
+- [Blood Simple (1984)](blood_simple_1984.md): same source document (doc_0327)
+- [Born To Kill (1947)](born_to_kill_1947.md): same source document (doc_0327)
+- [Brick (2005)](brick_2005_rian_johnson.md): same source document (doc_0327)
+- [Detour (1945)](detour_1945_edgar_g_ulmer.md): same source document (doc_0327)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

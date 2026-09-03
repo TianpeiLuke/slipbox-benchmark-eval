@@ -13,6 +13,7 @@ Second, novelty generalises beyond devices. Dr Eamon Laird, researcher in health
 
 ## Related Notes
 
+
 - [Age Well Daily Habits For The Over Fifties](age_well_daily_habits_for_the_over_fifties.md): same article, folding "engage with something new every day" into a routine
 - [Daily Walking Reduces Late Life Depression](daily_walking_reduces_late_life_depression.md): same article, another Laird finding on ageing
 - [Dementia Research Register And Trial Participation](dementia_research_register_and_trial_participation.md): same article, on dementia already under way
@@ -20,6 +21,9 @@ Second, novelty generalises beyond devices. Dr Eamon Laird, researcher in health
 - [Time Restricted Eating Versus Calorie Restricted Fasting](time_restricted_eating_versus_calorie_restricted_fasting.md): overlaps on brain and ageing studies, different document
 - [Alexandra Moving Home At 37 And Solo Motherhood](alexandra_moving_home_at_37_and_solo_motherhood.md): part of the same multigenerational grouping, different source
 - [Rachel Claire Photographer Returning To The Family Home](rachel_claire_photographer_returning_to_the_family_home.md): part of the same multigenerational grouping, different source
+- [Tess Moone: Selling The Perth Home And The Rental Crisis](tess_moone_selling_perth_home_and_rental_crisis.md): same sub-plan (Multigenerational living and caring for ageing parents), different source document
+- [Protein Intake Guidelines For Older Adults](protein_intake_guidelines_for_older_adults.md): same source document (doc_0605)
+- [The Sandwich Generation: Parenting Your Own Parents](sandwich_generation_parenting_ageing_parents.md): same source document (doc_0605)
 
 ## Source
 

@@ -11,12 +11,17 @@ The mechanism runs in a chain: Baldur's Gate 3 assigns Ability Scores automatica
 
 ## Related Notes
 
+
 - [Choosing A Class And Subclass In Baldur's Gate 3](bg3_class_and_subclass_selection_overview.md): the overview this model extends beyond combat.
 - [BG3 Bard Class And Colleges](bg3_bard_class_and_colleges.md): same source; the Charisma-based class used as the worked example.
 - [BG3 Cleric Class And Domains](bg3_cleric_class_and_domains.md): same source; the Wisdom-based case named here.
 - [BG3 Druid Class And Circles](bg3_druid_class_and_circles.md): same source; the other Wisdom-based class named here.
 - [BG3 Warlock Hit Points And Proficiencies](bg3_warlock_hit_points_and_proficiencies.md): overlaps on class skills such as Intimidation, from a different source document.
 - [BG3 Custom Character Vs Origin Character](bg3_custom_character_vs_origin_character.md): same source; the other creation-time decision that fixes these scores.
+- [BG3 Barbarian: The Damage Class](bg3_barbarian_class_and_subclasses.md): same source document (doc_0016)
+- [BG3 Fighter: The Beginner Melee Class](bg3_fighter_class_and_subclasses.md): same source document (doc_0016)
+- [BG3 Monk: The Speed Class](bg3_monk_class_and_subclasses.md): same source document (doc_0016)
+- [There Is No Single Best Class In Baldur's Gate 3](bg3_no_single_best_class_argument.md): same source document (doc_0016)
 
 ## Source
 

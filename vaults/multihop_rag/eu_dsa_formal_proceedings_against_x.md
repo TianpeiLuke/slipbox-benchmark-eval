@@ -13,11 +13,21 @@ The EU added that "if proven, these failures would constitute infringements of A
 
 ## Related Notes
 
+
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): also concerns Elon Musk, from a different source document.
 - [Amazon Response To EU iRobot Objections](amazon_response_to_eu_irobot_objections.md): also concerns European Commission proceedings, from a different source document.
 - [Apple USB-C Accessory Transition](apple_usb_c_accessory_transition.md): also concerns European Union rules on platforms and devices, from a different source document.
 - [BEUC Consumer Complaint: Meta Pay Or Consent](beuc_consumer_complaint_meta_pay_or_consent.md): also concerns European Union enforcement against a platform, from a different source document.
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): shares the formal-investigation framing, from a different source document.
+- [DSA Enforcement Powers And Penalties](dsa_enforcement_powers_and_penalties.md): same source document (doc_0153)
+- [The X Probe As A Test Of EU Enforcement Resolve](dsa_probe_as_test_of_eu_enforcement_resolve.md): same source document (doc_0153)
+- [The Commission's Earlier Requests For Information To X](eu_commission_prior_requests_for_information_to_x.md): same source document (doc_0153)
+- [The Scope Of The EU's DSA Investigation Into X](scope_of_eu_dsa_investigation_into_x.md): same source document (doc_0153)
+- [X's Content Moderation Retrenchment Under Musk](x_content_moderation_retrenchment_under_musk.md): same source document (doc_0153)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Data Breach](term_data_breach.md): uses the concept data breach
+- [Content Moderation](term_content_moderation.md): uses the concept content moderation
+- [Disinformation](term_disinformation.md): uses the concept disinformation
 
 ## Source
 

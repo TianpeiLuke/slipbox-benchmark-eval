@@ -13,6 +13,7 @@ Flexibility may be needed in the other direction when the next big global slowdo
 
 ## Related Notes
 
+
 - [Philippine Inflation And Deficit Vicious Cycle](philippine_inflation_and_deficit_vicious_cycle.md): overlapping coverage of inflation and monetary policy, from a different source document.
 - [The Case For Raising The Inflation Target](case_for_raising_the_inflation_target.md): drawn from the same source document (doc_0503).
 - [Central Bankers' Call For Fiscal Restraint And Structural Growth](central_bankers_call_for_fiscal_restraint_and_structural_growth.md): drawn from the same source document (doc_0503).
@@ -21,6 +22,8 @@ Flexibility may be needed in the other direction when the next big global slowdo
 - [The Objection To Moving An Unmet Inflation Target](objection_to_moving_an_unmet_inflation_target.md): drawn from the same source document (doc_0503).
 - [The Post-Tightening Monetary Policy Autopsy Of 2023](post_tightening_monetary_policy_autopsy_2023.md): drawn from the same source document (doc_0503).
 - [Powell's Rejection Of Monetary-Fiscal Coordination](powell_rejection_of_monetary_fiscal_coordination.md): drawn from the same source document (doc_0503).
+- [The Case For Preemptive Central Bank Response To Supply Shocks](preemptive_central_bank_response_to_supply_shocks.md): same source document (doc_0503)
+- [Quantitative Easing: Mechanism And Fiscal Cost](quantitative_easing_mechanism_and_fiscal_cost.md): same source document (doc_0503)
 
 ## Source
 

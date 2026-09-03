@@ -11,11 +11,17 @@ The tech industry in Israel — the country's biggest export and its biggest sin
 
 ## Related Notes
 
+
 - [Gaza Tech Infrastructure Destruction](gaza_tech_infrastructure_destruction.md): same source document; the effect of this bombardment on the tech sector.
 - [Dalia Awad's Gaza Engineer Account](dalia_awad_gaza_engineer_account.md): same source document; an individual account from inside this period.
 - [Disinformation On X About Gaza](disinformation_on_x_gaza.md): also concerns the Gaza Strip in this period, from a different source document.
 - [Egypt's Role In The Israel-Hamas War And Western Leverage](egypt_role_in_israel_hamas_war_and_western_leverage.md): overlaps in content on Gaza, Israel and Hamas, from a different source document.
 - [Beeri Kibbutz Casualties And Displaced Residents](beeri_kibbutz_casualties_and_displaced_residents.md): overlaps in content on the October attacks, from a different source document.
+- [The EU's Urgent Warning Letter To X](eu_warning_letter_to_x.md): both discuss Gaza Strip; different source document
+- [Eylon Levy's Aliyah And IDF Service](eylon_levy_aliyah_and_idf_service.md): both discuss Gaza Strip; different source document
+- [Gaza Sky Geeks Accelerator](gaza_sky_geeks_accelerator.md): same source document (doc_0598)
+- [Gaza As A Tech Outsourcing Hub](gaza_tech_outsourcing_hub.md): same source document (doc_0598)
+- [Gaza Tech Workers' Connectivity Collapse](gaza_tech_workers_connectivity_collapse.md): same source document (doc_0598)
 
 ## Source
 

@@ -11,6 +11,7 @@ The grounds start by defusing the affordability objection: vehicle prices are go
 
 ## Related Notes
 
+
 - [EV Sector Setbacks: Arrival And US Automakers](ev_sector_setbacks_arrival_and_us_automakers.md): overlapping coverage of automakers and vehicles, from a different source document.
 - [Ford Delays EV Investments](ford_delays_ev_investments.md): overlapping coverage of profits, vehicles and investments, from a different source document.
 - [GM And Honda End Their Affordable EV Program](gm_honda_end_affordable_ev_program.md): overlapping coverage of automakers and vehicles, from a different source document.
@@ -19,6 +20,8 @@ The grounds start by defusing the affordability objection: vehicle prices are go
 - [GOP Attacks On EVs As "Faux Populism"](gop_attacks_on_evs_as_faux_populism.md): drawn from the same source document (doc_0319).
 - [Pew Polling On American EV Purchase Intent](pew_polling_on_american_ev_purchase_intent.md): drawn from the same source document (doc_0319).
 - [The Republican Effort To Make EVs A Political Wedge Issue](republican_effort_to_make_evs_a_political_wedge_issue.md): drawn from the same source document (doc_0319).
+- [Trump's Claim That "The Auto Industry Is Being Assassinated"](trump_claim_that_the_auto_industry_is_being_assassinated.md): same source document (doc_0319)
+- [Trump's Detroit Speech Attacks On Electric Vehicles](trump_detroit_speech_attacks_on_electric_vehicles.md): same source document (doc_0319)
 
 ## Source
 

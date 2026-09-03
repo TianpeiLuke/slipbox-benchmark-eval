@@ -11,12 +11,18 @@ Buttler added that Phil Salt had had a brilliant series and that England found o
 
 ## Related Notes
 
+
 - [Boycott Defends Jos Buttler's Captaincy](boycott_defends_jos_buttler_captaincy.md): also covers Jos Buttler's leadership, from a different document.
 - [England's Cricket World Cup 2023 Qualification Crisis](england_cricket_world_cup_2023_qualification_crisis.md): covers the wider England white-ball slump, from a different document.
 - [First T20I in Barbados: Match Summary](first_t20i_barbados_match_summary.md): also covers Jos Buttler's side, from a different document.
 - [Healy's Case for a Three-Test Series in India](healy_case_for_three_test_series_in_india.md): another verdict on a completed international series, from a different document.
 - [IPL 2024 Auction: Capped Wicketkeepers Set](ipl_2024_auction_capped_wicketkeepers_set.md): also covers Phil Salt, from a different document.
 - [Adil Rashid T20I Milestones and Series Form](adil_rashid_t20i_milestones_and_series_form.md): covers one of the positives referenced here, from the same document.
+- [England 132 All Out In The T20 Series Decider](england_132_all_out_t20_series_decider.md): same source document (doc_0064)
+- [Shai Hope's Anchor Innings In The T20 Decider](shai_hope_anchor_innings_t20_decider.md): same source document (doc_0064)
+- [West Indies Win The 2023 T20I Series 3-2](west_indies_england_2023_t20i_series_outcome.md): same source document (doc_0064)
+- [The Final Overs Of The T20 Series Clinch](west_indies_final_overs_t20_series_clinch.md): same source document (doc_0064)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

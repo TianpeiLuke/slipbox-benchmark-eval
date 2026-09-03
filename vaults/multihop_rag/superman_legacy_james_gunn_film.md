@@ -13,6 +13,7 @@ Gunn made several pointed references to the film being a break from past visions
 
 ## Related Notes
 
+
 - [Aquaman and the Lost Kingdom](aquaman_and_the_lost_kingdom.md): the DCEU finale this new-era film follows, from the same article
 - [Arkham Asylum: The Batman Prequel Series](arkham_asylum_the_batman_prequel_series.md): another DC project in the same roundup
 - [Black Superman Movie (Ta-Nehisi Coates)](black_superman_movie_ta_nehisi_coates.md): a separate Superman project tracked in the same document
@@ -21,6 +22,8 @@ Gunn made several pointed references to the film being a break from past visions
 - [Creature Commandos Animated Series](creature_commandos_animated_series.md): another Gunn-written project in the same lineup
 - [The DC Extended Universe (DCEU)](dc_extended_universe_dceu.md): the mold this film is said to break, described in the same article
 - [DC Studios DCU Reboot Under Gunn and Safran](dc_studios_dcu_reboot_under_gunn_and_safran.md): the reboot plan this release date anchors
+- [Dead Boy Detectives (Netflix Series)](dead_boy_detectives_netflix_series.md): same source document (doc_0081)
+- [Joker: Folie à Deux](joker_folie_a_deux.md): same source document (doc_0081)
 
 ## Source
 

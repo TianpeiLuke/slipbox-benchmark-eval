@@ -15,6 +15,7 @@ The name is narrower than the phenomenon: the challenge isn't exclusive to Zoom,
 
 ## Related Notes
 
+
 - [ChatGPT in Education and Academic Integrity](chatgpt_in_education_and_academic_integrity.md): also concerns Stanford University, from a different source document.
 - [SBF Trial Proceedings](sbf_trial_proceedings.md): also concerns Stanford University, from a different source document.
 - [Amazon Seller Skepticism of the FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares the covid 19 theme, from a different source document.
@@ -23,6 +24,12 @@ The name is narrower than the phenomenon: the challenge isn't exclusive to Zoom,
 - [Capital Rotation from China into Japanese Assets](capital_rotation_from_china_into_japanese_assets.md): shares the covid 19 theme, from a different source document.
 - [Capitol Music Group Leadership Turmoil 2020 2021](capitol_music_group_leadership_turmoil_2020_2021.md): shares the covid 19 theme, from a different source document.
 - [Capitol Music Group Pre 2021 Decline Diagnosis](capitol_music_group_pre_2021_decline_diagnosis.md): shares the covid 19 theme, from a different source document.
+- [The Mental Health Consequences Of Zoom Fatigue](mental_health_consequences_of_zoom_fatigue.md): same source document (doc_0590)
+- [The Pandemic Shift To Videoconferencing](pandemic_shift_to_videoconferencing.md): same source document (doc_0590)
+- [How Personal Video Use Compounds Screen Fatigue](personal_video_use_compounding_screen_fatigue.md): same source document (doc_0590)
+- [Strategies To Reduce Zoom Fatigue](strategies_to_reduce_zoom_fatigue.md): same source document (doc_0590)
+- [Why Video Calls Are More Tiring Than In-Person Meetings](why_video_calls_are_more_tiring_than_in_person_meetings.md): same source document (doc_0590)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

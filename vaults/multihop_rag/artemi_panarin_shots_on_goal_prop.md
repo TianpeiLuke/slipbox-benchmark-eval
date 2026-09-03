@@ -13,6 +13,7 @@ The opponent completes the case. The Red Wings had allowed the 11th-most shots o
 
 ## Related Notes
 
+
 - [Patrick Kane's Detroit Red Wings Fit](patrick_kane_detroit_red_wings_fit.md): also discusses Artemi Panarin and the Red Wings, from a different document.
 - [Tim Turk's First Evaluation of Connor Bedard](tim_turk_first_evaluation_of_connor_bedard.md): another Red Wings item, separately sourced.
 - [Argentina-Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): shares the coaching-change theme, in a different document.
@@ -21,6 +22,12 @@ The opponent completes the case. The Red Wings had allowed the 11th-most shots o
 - [Arizona Wildcats' Scoring Plays Versus Utah](arizona_wildcats_scoring_plays_versus_utah.md): another item on that tag, separately sourced.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): also carries the coaching-change tag, in a different document.
 - [The Big Ten's Head-Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): another item under that tag, from a separate source.
+- [Cale Makar OVER 2.5 Shots On Goal](cale_makar_shots_on_goal_prop.md): same source document (doc_0296)
+- [Daniel Sprong OVER 2.5 Shots On Goal](daniel_sprong_shots_on_goal_prop.md): same source document (doc_0296)
+- [Jesper Bratt UNDER 0.5 Assists](jesper_bratt_assists_under_prop.md): same source document (doc_0296)
+- [Injury Context For The Tuesday NHL National Slate](nhl_tuesday_slate_injury_context.md): same source document (doc_0296)
+- [SuperDraft Player Prop Parlay Mechanics](superdraft_player_prop_parlay_mechanics.md): same source document (doc_0296)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

@@ -11,6 +11,7 @@ Kalmus concluded that "no place was safe" after a 2020 heat wave — considered 
 
 ## Related Notes
 
+
 - [6PPD-Quinone and Coho Salmon Die-Offs](6ppd_quinone_and_coho_salmon_die_offs.md): shares the Pacific Northwest as its setting.
 - [Canine Respiratory Illness State Case Reports, 2023](canine_respiratory_illness_state_case_reports_2023.md): shares North Carolina as a location.
 - [College Football Week 6 2023 Remaining Betting Lines](college_football_week6_2023_remaining_betting_lines.md): shares North Carolina as a location.
@@ -19,6 +20,8 @@ Kalmus concluded that "no place was safe" after a 2020 heat wave — considered 
 - [Amazon Rainforest Tipping Point](amazon_rainforest_tipping_point.md): from the same article, on another sign he reads as the system shifting.
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): from the same article, on Americans affected by extreme weather.
 - [Climate Grief Conversation at the Homestead](climate_grief_conversation_at_the_homestead.md): from the same article, on where this search for a way to survive led him.
+- [Daily Life at the Possibility Alliance](daily_life_at_the_possibility_alliance.md): same source document (doc_0233)
+- [Kalmus's Civil Disobedience and Arrests](kalmus_civil_disobedience_and_arrests.md): same source document (doc_0233)
 
 ## Source
 

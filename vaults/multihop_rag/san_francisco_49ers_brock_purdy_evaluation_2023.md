@@ -13,6 +13,7 @@ An NFL executive made the same point about the system's dependencies: "The 49ers
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also concerns Deebo Samuel, from a different document.
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also concerns the Super Bowl, from a different document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also concerns Kyle Shanahan, from a different document.
@@ -21,6 +22,9 @@ An NFL executive made the same point about the system's dependencies: "The 49ers
 - [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): drawn from the same document (doc_0316).
 - [Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): drawn from the same document (doc_0316).
 - [Buffalo Bills Defensive Injuries, 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): drawn from the same document (doc_0316).
+- [Cincinnati Bengals: Joe Burrow's Durability And The Line](cincinnati_bengals_joe_burrow_durability_and_line.md): same source document (doc_0316)
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
 
 ## Source
 

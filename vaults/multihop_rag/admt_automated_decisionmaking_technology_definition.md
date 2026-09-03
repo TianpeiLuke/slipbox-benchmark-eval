@@ -13,6 +13,7 @@ The definition also affirms that "ADMT includes profiling," where profiling is d
 
 ## Related Notes
 
+
 - [CCPA To CPPA: The Regulatory Lineage](ccpa_cppa_regulatory_lineage.md): drawn from the same source document (doc_0164), and gives the statute this definition sits under.
 - [CPPA ADMT Access Rights And Disclosure Requirements](cppa_admt_access_rights_disclosure_requirements.md): drawn from the same source document (doc_0164).
 - [CPPA ADMT Opt-Out Right And Its Exemptions](cppa_admt_opt_out_right_and_exemptions.md): drawn from the same source document (doc_0164).
@@ -21,6 +22,7 @@ The definition also affirms that "ADMT includes profiling," where profiling is d
 - [California's CPPA Publishes Draft ADMT Rules](cppa_draft_admt_regulations.md): drawn from the same source document (doc_0164).
 - [CPPA Pre-Use Notice Requirement](cppa_pre_use_notice_requirement.md): drawn from the same source document (doc_0164).
 - [The CPPA's Risk-Based Approach Versus The EU AI Act](cppa_risk_based_approach_versus_eu_ai_act.md): drawn from the same source document (doc_0164).
+- [The CPPA's ADMT Rulemaking Timeline](cppa_rulemaking_timeline.md): same source document (doc_0164)
 
 ## Source
 

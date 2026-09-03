@@ -11,6 +11,7 @@ The A's had torn things to the studs and were unlikely to compete within the two
 
 ## Related Notes
 
+
 - [Reece James Return From Injury Chelsea](reece_james_return_from_injury_chelsea.md): overlaps on shared name and season terms, from a different document.
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): another candidate on the same list, from the same document.
@@ -19,6 +20,8 @@ The A's had torn things to the studs and were unlikely to compete within the two
 - [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Christopher Morel Cubs Trade Candidacy](christopher_morel_cubs_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Corbin Burnes And Willy Adames Brewers Trade Candidacy](corbin_burnes_willy_adames_brewers_trade_candidacy.md): another candidate on the same list, from the same document.
+- [Dylan Carlson Cardinals Trade Candidacy](dylan_carlson_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Dylan Cease White Sox Trade Candidacy](dylan_cease_white_sox_trade_candidacy.md): same source document (doc_0118)
 
 ## Source
 

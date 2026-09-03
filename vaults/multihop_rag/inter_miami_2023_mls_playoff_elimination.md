@@ -13,11 +13,18 @@ Three days earlier, the 4-1 defeat at the Chicago Fire had already left their ho
 
 ## Related Notes
 
+
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): also discusses Lionel Messi.
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also discusses Lionel Messi.
 - [Argentina Second Half and Messi Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): also discusses Lionel Messi.
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): also concerns Inter Miami and Lionel Messi.
 - [Daniel Garnero Paraguay Head Coach Debut](daniel_garnero_paraguay_head_coach_debut.md): also concerns Inter Miami and Lionel Messi.
+- [Chicago Fire Beat Inter Miami 4-1 Before A Record Soldier Field Crowd](chicago_fire_4_1_inter_miami_october_2023_recap.md): same source document (doc_0041)
+- [Chicago Fire-Inter Miami First Half: Goalless, With The Fire Creating The Better Chances](chicago_fire_inter_miami_first_half_live_blog.md): same source document (doc_0041)
+- [Chicago Fire-Inter Miami Second Half: Four Goals In 23 Minutes](chicago_fire_inter_miami_second_half_live_blog.md): same source document (doc_0041)
+- [Chicago Fire-Inter Miami Lineups, Absentees And Pre-Match Outlook](chicago_fire_inter_miami_team_news_and_match_outlook.md): same source document (doc_0041)
+- [FC Cincinnati Won The 2023 Supporters' Shield As Regular Season Champions](fc_cincinnati_2023_supporters_shield.md): same source document (doc_0088)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

@@ -11,11 +11,18 @@ The concession is turned against a bad argument on the fediverse's own side. Mak
 
 ## Related Notes
 
+
 - [Flipboard Front-End Redesign Questions](flipboard_front_end_redesign_questions.md): overlapping coverage of federated fediverse products, from a different source document.
 - [Mainstream Platform Adoption Of ActivityPub](mainstream_platform_adoption_of_activitypub.md): overlapping coverage of federation and Mastodon, from a different source document.
 - [McCue's Thesis On The Federated Web](mccue_thesis_on_the_federated_web.md): overlapping coverage of making the federated web easy and clear, from a different source document.
 - [ActivityPub And Rival Social Protocols](activitypub_and_rival_social_protocols.md): drawn from the same source document (doc_0508).
 - [The ActivityPub Data Model Of Senders, Messages And Inboxes](activitypub_data_model_of_senders_messages_and_inboxes.md): drawn from the same source document (doc_0508).
+- [Craigslist Unbundling As A Model For Social Media](craigslist_unbundling_as_a_model_for_social_media.md): same source document (doc_0508)
+- [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): same source document (doc_0508)
+- [Decentralization As A Free Market, Not An Anti-Capitalist Project](decentralization_as_a_free_market_not_an_anti_capitalist_project.md): same source document (doc_0508)
+- [Early Fediverse Messiness As A Product Opportunity](early_fediverse_messiness_as_a_product_opportunity.md): same source document (doc_0508)
+- [The Fediverse Definition And The Email Analogy](fediverse_definition_and_the_email_analogy.md): same source document (doc_0508)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

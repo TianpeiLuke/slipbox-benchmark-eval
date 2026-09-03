@@ -11,6 +11,7 @@ The heavens cracked out of nowhere and the players scurried off as the covers we
 
 ## Related Notes
 
+
 - [England 132 All Out in the T20 Series Decider](england_132_all_out_t20_series_decider.md): also covers West Indies in the same series, from a different document.
 - [First ODI, Cricket World Cup 1975](first_odi_cricket_world_cup_1975.md): also covers West Indies, from a different document.
 - [India-Australia 1983 World Cup Group Matches](india_australia_1983_world_cup_group_matches.md): also covers West Indies, from a different document.
@@ -19,6 +20,8 @@ The heavens cracked out of nowhere and the players scurried off as the covers we
 - [Adil Rashid T20I Milestones and Series Form](adil_rashid_t20i_milestones_and_series_form.md): covers the England bowler who returned after this break, from a different document.
 - [Andre Russell's Comeback in the First T20I](andre_russell_comeback_first_t20i.md): covers the batter who finished the resumed chase, from the same document.
 - [England 171 All Out in the First T20I](england_171_all_out_first_t20i.md): gives the target this DLS position was measured against, from the same document.
+- [First T20I In Barbados: Match Summary](first_t20i_barbados_match_summary.md): same source document (doc_0063)
+- [Rehan Ahmed And Adil Rashid Through The Middle Overs](rehan_ahmed_and_rashid_middle_overs_first_t20i.md): same source document (doc_0063)
 
 ## Source
 

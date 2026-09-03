@@ -13,6 +13,7 @@ Clark concedes he is stretching the definition of "tech," but had to share the C
 
 ## Related Notes
 
+
 - [Dyson Airwrap Black Friday Deal](dyson_airwrap_black_friday_deal.md): shares the hair-tool discount theme, from a different source document.
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): drawn from the same source document (doc_0090).
 - [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): drawn from the same source document (doc_0575).
@@ -21,6 +22,8 @@ Clark concedes he is stretching the definition of "tech," but had to share the C
 - [Atumtek Bluetooth Selfie Tripod](atumtek_bluetooth_selfie_tripod.md): drawn from the same source document (doc_0575).
 - [Baboon To The Moon Fanny Pack](baboon_to_the_moon_fanny_pack.md): drawn from the same source document (doc_0575).
 - [The Bedside Charging Station Habit](bedside_charging_station_habit.md): drawn from the same source document (doc_0575).
+- [The Verge's Black Friday Deals Under $25](black_friday_deals_under_25_roundup.md): same source document (doc_0090)
+- [Bluetooth Item Tracker Deals](bluetooth_item_tracker_deals.md): same source document (doc_0090)
 
 ## Source
 

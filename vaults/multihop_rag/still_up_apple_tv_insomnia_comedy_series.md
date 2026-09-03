@@ -11,6 +11,7 @@ The series was inspired by creator Natalie Walter's own experience with insomnia
 
 ## Related Notes
 
+
 - [Alabama At Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): a similarity-index neighbour on a shared streaming feature, topically unrelated
 - [Amazon 65 Inch Fire TV QLED Deal](amazon_65_inch_fire_tv_qled_deal.md): another shared-feature match from unrelated product coverage
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): a further index-level neighbour with no topical connection
@@ -19,6 +20,13 @@ The series was inspired by creator Natalie Walter's own experience with insomnia
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): a further index-level neighbour from unrelated deal coverage
 - [AMC Theatres Direct Distribution Of Concert Films](amc_theatres_direct_distribution_of_concert_films.md): another shared-feature distribution match, topically unrelated
 - [American Debt Burden And The New American Dream](american_debt_burden_and_the_new_american_dream.md): another index-level neighbour from a different domain
+- [Cognitive Behavioural Therapy For Insomnia (CBTI)](cognitive_behavioural_therapy_for_insomnia_cbti.md): same source document (doc_0310)
+- [The DIY Sleep Hacks Insomniacs Report Trying](diy_sleep_hacks_reported_by_insomniacs.md): same source document (doc_0310)
+- [How Insomnia Outlives Its Trigger](how_insomnia_outlives_its_trigger.md): same source document (doc_0310)
+- [Insomnia: Definition And Prevalence](insomnia_definition_and_prevalence.md): same source document (doc_0310)
+- [Quviviq's NHS Approval As An Insomnia Medication](quviviq_insomnia_drug_nhs_approval.md): same source document (doc_0310)
+- [Why Quick-Fix Sleep Remedies Fail — And Exploit](why_quick_fix_sleep_remedies_fail_and_exploit.md): same source document (doc_0310)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

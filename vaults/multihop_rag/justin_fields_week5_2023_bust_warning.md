@@ -13,11 +13,18 @@ The bust risk rests on how Fields' Week 4 breakout was produced and on his vanis
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also discusses Dak Prescott, one of the quarterbacks Fields is rated above, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Dak Prescott, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another lineup verdict argued from air-yards evidence, from a different document.
 - [Anthony Richardson Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): covers Anthony Richardson, ranked above Fields here, from a different document.
 - [Bears Game-Ending Hail Mary Vs Browns](bears_game_ending_hail_mary_vs_browns.md): another Bears game turning on a Hail Mary, the play type referenced in the Denver comparison, from a different document.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0058)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0058)
+- [Dallas Goedert As A Week 5 2023 Bust Candidate At The Rams](dallas_goedert_week5_2023_bust_warning.md): same source document (doc_0058)
+- [Dameon Pierce As A Week 5 2023 Sit At Atlanta](dameon_pierce_week5_2023_sit_recommendation.md): same source document (doc_0058)
+- [DeAndre Hopkins As A Week 5 2023 Start At Indianapolis](deandre_hopkins_week5_2023_start_recommendation.md): same source document (doc_0058)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

@@ -13,6 +13,7 @@ After the final, while not wanting to take anything away from the Springboks' wi
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): another document about South Africa, in an unrelated domain
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): another document about South Africa, in an unrelated domain
 - [ChatGPT Use in Government and Courts](chatgpt_use_in_government_and_courts.md): another document referencing South Africa, unrelated domain
@@ -21,6 +22,10 @@ After the final, while not wanting to take anything away from the Springboks' wi
 - [All Blacks Final Moments RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): the last minutes of Foster's final Test, same source document
 - [All Blacks Generational Change After 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): the playing-squad half of the same transition, same source document
 - [All Blacks Ireland Series Loss Backlash as Motivation](all_blacks_ireland_series_loss_backlash_as_motivation.md): one of the setbacks of his tenure, same source document
+- [Cards And Officiating Controversy In The 2023 Rugby World Cup Final](cards_and_officiating_controversy_rwc_2023_final.md): same source document (doc_0022)
+- [Dalton Papali'i On All Blacks Leadership Vulnerability](dalton_papalii_on_all_blacks_leadership_vulnerability.md): same source document (doc_0176)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

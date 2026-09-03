@@ -13,6 +13,7 @@ The effect is visible in his feed. Instagram features a For You page, a personal
 
 ## Related Notes
 
+
 - [Passkeys as the Default Sign-In](passkeys_default_signin.md): overlaps on passwords, from a different document.
 - [Ayahuasca, the Psychedelic Brew](ayahuasca_psychedelic_brew.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Alcoholism and Sobriety](jordan_poyer_alcoholism_and_sobriety.md): drawn from the same document (doc_0322).
@@ -21,6 +22,8 @@ The effect is visible in his feed. Instagram features a For You page, a personal
 - [Jordan Poyer's Ego and Perspective Shift](jordan_poyer_ego_and_perspective_shift.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Football Performance After Ayahuasca](jordan_poyer_football_performance_after_ayahuasca.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Handpan and Sound Healing](jordan_poyer_handpan_and_sound_healing.md): drawn from the same document (doc_0322).
+- [Jordan Poyer's Marriage To Rachel Bush](jordan_poyer_marriage_to_rachel_bush.md): same source document (doc_0322)
+- [Jordan Poyer's Reconciliation With His Biological Father](jordan_poyer_reconciliation_with_biological_father.md): same source document (doc_0322)
 
 ## Source
 

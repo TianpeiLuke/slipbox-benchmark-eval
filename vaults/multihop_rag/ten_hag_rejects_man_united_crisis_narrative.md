@@ -13,6 +13,7 @@ He did not claim the performance was flawless, which qualifies the rebuttal rath
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also discusses Ten Hag, from a different document.
 - [Erik ten Hag Position After Champions League Exit](erik_ten_hag_position_after_champions_league_exit.md): also discusses Ten Hag's standing, from a different document.
 - [Erik ten Hag Position Under Ratcliffe](erik_ten_hag_position_under_ratcliffe.md): also discusses Ten Hag's standing, from a different document.
@@ -21,6 +22,8 @@ He did not claim the performance was flawless, which qualifies the rebuttal rath
 - [Erik ten Hag Under Pressure December 2023](erik_ten_hag_under_pressure_december_2023.md): the pressure this quote responds to, from the same document.
 - [Manchester United 2-1 Chelsea, December 2023](man_united_2_1_chelsea_december_2023_result.md): the result behind the quote, from the same document.
 - [How the Goals Came in Manchester United 2-1 Chelsea](man_united_chelsea_december_2023_goal_sequence.md): the performance he is describing, from the same document.
+- [Team News And Lineups For Manchester United vs Chelsea, December 2023](man_united_chelsea_december_2023_team_news_and_lineups.md): same source document (doc_0129)
+- [First Half Live Updates From Manchester United 2-1 Chelsea](man_united_chelsea_first_half_live_updates.md): same source document (doc_0129)
 
 ## Source
 

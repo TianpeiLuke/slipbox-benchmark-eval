@@ -11,11 +11,18 @@ Sporting News' rumors tracker recorded that all eyes had been on Ohtani since th
 
 ## Related Notes
 
+
 - [Alternative Reading of the Mariners Ohtani Leak](alternative_reading_of_the_mariners_ohtani_leak.md): overlaps on the Ohtani free-agency reporting, from a different document.
 - [Angels 2023 Offseason: Ohtani and Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): also covers Shohei Ohtani, from a different document.
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): also relays reporting from Jon Morosi, from a different document.
 - [Canada-Jamaica Second Leg Kickoff and Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): shares the North American framing used here, from a different document.
 - [Cody Bellinger Free Agent Market and Suitors](cody_bellinger_free_agent_market_and_suitors.md): also relays reporting from Jon Heyman, from a different document.
+- [Why Signing Ohtani Could Have Cost Toronto Bichette And Guerrero](blue_jays_roster_implications_of_ohtani_pursuit.md): same source document (doc_0426)
+- [Shohei Ohtani's 10-Year, $700 Million Contract With The Dodgers](shohei_ohtani_dodgers_ten_year_700_million_contract.md): same source document (doc_0426)
+- [Shohei Ohtani's Free Agency Suitors And Finalists](shohei_ohtani_free_agency_suitors_and_finalists.md): same source document (doc_0426)
+- [The Toronto Reports And Denials Of Dec. 8, 2023](shohei_ohtani_toronto_reports_and_denials.md): same source document (doc_0426)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

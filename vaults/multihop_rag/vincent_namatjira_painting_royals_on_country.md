@@ -13,6 +13,7 @@ He pushes the claim further: "And also, here in Australia, Indigenous people sho
 
 ## Related Notes
 
+
 - [Albert Namatjira Hermannsburg Watercolour Painter](albert_namatjira_hermannsburg_watercolour_painter.md): same interview, the great-grandfather whose royal handshake is reinterpreted here
 - [Vincent Namatjira Australia In Colour Survey Exhibition](vincent_namatjira_australia_in_colour_survey_exhibition.md): same interview, the exhibition gathering these portraits
 - [Vincent Namatjira Call For Foster Care Apology](vincent_namatjira_call_for_foster_care_apology.md): same interview, the wider political demand
@@ -20,6 +21,9 @@ He pushes the claim further: "And also, here in Australia, Indigenous people sho
 - [Netflix Originals Premiering November 14 To 16 2023](netflix_originals_premiering_november_14_to_16_2023.md): also mentions Queen Elizabeth, unrelated subject
 - [Tyler Mitchell Staged Black Leisure Photography](tyler_mitchell_staged_black_leisure_photography.md): a parallel argument about images reframing power, different source
 - [Tyler Mitchell Vogue Covers And Ngv Triennial Works](tyler_mitchell_vogue_covers_and_ngv_triennial_works.md): part of the same portraiture-exhibitions grouping
+- [Tyler Mitchell On His Career Trajectory And Artistic Outlook](tyler_mitchell_career_trajectory_and_artistic_outlook.md): same sub-plan (Portrait artists on show: Tyler Mitchell and Vincent Namatjira), different source document
+- [Vincent Namatjira's Childhood In Foster Care And Return To Country](vincent_namatjira_childhood_foster_care_and_return_to_country.md): same source document (doc_0284)
+- [Vincent Namatjira On Choosing His Own Path From Albert's Legacy](vincent_namatjira_choosing_his_own_path_from_alberts_legacy.md): same source document (doc_0284)
 
 ## Source
 

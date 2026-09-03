@@ -13,12 +13,18 @@ Surrounding that story is the Lament Configuration, a puzzle box Frank acquired 
 
 ## Related Notes
 
+
 - [Apple 2023 Top iPad Apps And Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): also references Prime Video, in a different document
 - [Bears Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also references Prime Video, from a different source
 - [Broadcast Rights Limits On Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): also references Prime Video, from a different source
 - [Catherine Called Birdy, 2022 Lena Dunham Comedy](catherine_called_birdy_2022_lena_dunham_comedy.md): another Prime Video title covered elsewhere
 - [Charade, 1963, Donen Comedy Thriller](charade_1963_donen_comedy_thriller.md): another Prime Video title covered elsewhere
 - [Alone, 2020, John Hyams](alone_2020_john_hyams_film.md): another pick from the same Polygon horror guide
+- [Annihilation: The Creepiest Movie About Plants Ever Made](annihilation_2018_alex_garland_film.md): same source document (doc_0563)
+- [Climax: Gaspar Noé's Spiked-Sangria Dance Party In Long Takes](climax_2018_gaspar_noe_film.md): same source document (doc_0563)
+- [Crimes Of The Future: Cronenberg's World Where Surgery Is The New Sex](crimes_of_the_future_2022_david_cronenberg.md): same source document (doc_0563)
+- [Cure: Kiyoshi Kurosawa's Horror Masterpiece About Violence As Contagion](cure_1997_kiyoshi_kurosawa_film.md): same source document (doc_0563)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

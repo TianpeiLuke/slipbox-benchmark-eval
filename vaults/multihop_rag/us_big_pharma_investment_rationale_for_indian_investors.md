@@ -11,6 +11,7 @@ The article's scope is set out with the argument: it highlights the largest unme
 
 ## Related Notes
 
+
 - [Lecanemab And Donanemab Amyloid Drugs](lecanemab_and_donanemab_amyloid_drugs.md): also concerns Eli Lilly's drug development, from a different source document.
 - [Louisiana Lawsuit Over Ozempic And Mounjaro GI Injuries](louisiana_lawsuit_over_ozempic_and_mounjaro_gi_injuries.md): also concerns Novo Nordisk, from a different source document.
 - [Novo Nordisk Response To GLP1 Gastroparesis Findings](novo_nordisk_response_to_glp1_gastroparesis_findings.md): also concerns Novo Nordisk, from a different source document.
@@ -19,6 +20,8 @@ The article's scope is set out with the argument: it highlights the largest unme
 - [Cancer Immunotherapy Checkpoint Inhibitors](cancer_immunotherapy_checkpoint_inhibitors.md): drawn from the same article and covers the cancer innovation cited here.
 - [CAR-T Cell Therapy](car_t_cell_therapy.md): drawn from the same article and covers another cancer approach it surveys.
 - [Framework For Valuing US Pharma Stocks](framework_for_valuing_us_pharma_stocks.md): drawn from the same article and is the assessment framework promised in this rationale.
+- [GLP-1 Receptor Agonists In Diabetes And Weight Loss](glp1_receptor_agonists_diabetes_and_weight_loss.md): same source document (doc_0239)
+- [HIV Antiretroviral Therapy And Cure Research](hiv_antiretroviral_therapy_and_cure_research.md): same source document (doc_0239)
 
 ## Source
 

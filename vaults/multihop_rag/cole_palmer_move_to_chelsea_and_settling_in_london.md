@@ -13,6 +13,7 @@ Palmer feels hot property right now, albeit while exhibiting a certain coolness.
 
 ## Related Notes
 
+
 - [Arsenal-Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Manchester City, from a different source document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also discusses Manchester City, from a different source document.
 - [The 2023 Calendar-Year Top Goalscorer Race](calendar_year_2023_top_goalscorer_race.md): also discusses Erling Haaland, from a different source document.
@@ -21,6 +22,7 @@ Palmer feels hot property right now, albeit while exhibiting a certain coolness.
 - [Cole Palmer's £42.5m Transfer and Chelsea's Squad Turnover](cole_palmer_42_5m_transfer_and_chelsea_squad_turnover.md): same interview, on the transfer mechanics behind this move.
 - [Cole Palmer's England Call-Up and Upbringing](cole_palmer_england_call_up_and_upbringing.md): same interview, on where the move has taken him internationally.
 - [Cole Palmer's Goal Against Manchester City in the 4-4 Draw](cole_palmer_goal_against_manchester_city_4_4_draw.md): same interview, on the goal against his old club mentioned here.
+- [Cole Palmer's Penalty-Taking Role And Record](cole_palmer_penalty_taking_role_and_record.md): same source document (doc_0445)
 
 ## Source
 

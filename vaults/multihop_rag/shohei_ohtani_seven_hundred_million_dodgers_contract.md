@@ -13,11 +13,18 @@ The deal eclipsed the $360 million record for free agents set the previous winte
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 of the 2023 Season](afc_playoff_seeding_after_week_13_2023.md): also concerns the Kansas City Chiefs, from a different document.
 - [Alternative Reading of the Mariners Ohtani Leak](alternative_reading_of_the_mariners_ohtani_leak.md): overlaps on Ohtani's free agency, from a different document.
 - [Angels 2023 Offseason: Ohtani and Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): also concerns the Dodgers and Mike Trout, from a different document.
 - [Argentina 1-0 Paraguay, 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): also concerns Lionel Messi, from a different document.
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also concerns Lionel Messi, from a different document.
+- [MLB Luxury Tax: Deferrals And Average Annual Value](mlb_luxury_tax_deferrals_and_average_annual_value.md): same source document (doc_0531)
+- [Shohei Ohtani's Elbow Surgery And 2024 Pitching Absence](shohei_ohtani_elbow_surgery_and_2024_pitching_absence.md): same source document (doc_0531)
+- [Shohei Ohtani's Postseason Ambition With The Dodgers](shohei_ohtani_postseason_ambition_with_dodgers.md): same source document (doc_0531)
+- [Shohei Ohtani's Two-Way Production And The Babe Ruth Comparison](shohei_ohtani_two_way_production_and_babe_ruth_comparison.md): same source document (doc_0531)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

@@ -11,6 +11,7 @@ The sum is intended both to cover the balance of its debt to Mizrahi Tefahot Ban
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): overlaps on venture capital subject matter, from a different source document.
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): overlaps on venture capital subject matter, from a different source document.
 - [Beeper Funding and Investors](beeper_funding_and_investors.md): another capital-raising story, from a different source document.
@@ -19,6 +20,13 @@ The sum is intended both to cover the balance of its debt to Mizrahi Tefahot Ban
 - [Creator Economy Sustainability](creator_economy_sustainability.md): overlaps on venture capital subject matter, from a different source document.
 - [David Pakman Coinfund Venture Background](david_pakman_coinfund_venture_background.md): overlaps on venture capital subject matter, from a different source document.
 - [Deepmind Founding and Thiel Investment](deepmind_founding_and_thiel_investment.md): overlaps on venture capital subject matter, from a different source document.
+- [Group Psagot's Share Price Collapse](group_psagot_share_price_collapse.md): same source document (doc_0073)
+- [Psagot's Asset Growth Without Profit](psagot_asset_growth_without_profit.md): same source document (doc_0073)
+- [Psagot's Asset Sales To Kessem And The Phoenix Holdings Group](psagot_asset_sales_to_kessem_phoenix.md): same source document (doc_0073)
+- [Rani Zim's Acquisition Of Psagot Investment House](rani_zim_acquisition_of_psagot_investment_house.md): same source document (doc_0073)
+- [Rani Zim's Search For A Psagot Buyer](rani_zim_search_for_a_psagot_buyer.md): same source document (doc_0073)
+- [Retail And Real Estate Management Skills Do Not Transfer To Finance](retail_management_skills_do_not_transfer_to_finance.md): same source document (doc_0073)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

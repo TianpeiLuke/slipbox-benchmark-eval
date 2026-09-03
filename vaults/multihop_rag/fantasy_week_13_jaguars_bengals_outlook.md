@@ -11,6 +11,7 @@ The warrant joining the two halves is that a defense that can pressure a quarter
 
 ## Related Notes
 
+
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also touches Ja'Marr Chase and the Bengals, from a different source document.
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): covers Joe Mixon and Ja'Marr Chase in live game action, from a different source document.
 - [Bills Bengals SNF Fourth Quarter](bills_bengals_snf_fourth_quarter.md): shares the Bengals passing-game and Mixon subject matter, from a different source document.
@@ -19,6 +20,8 @@ The warrant joining the two halves is that a defense that can pressure a quarter
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
 
 ## Source
 

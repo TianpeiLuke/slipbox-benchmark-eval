@@ -13,11 +13,18 @@ Third, misleading framing: Meta provides misleading and incomplete information t
 
 ## Related Notes
 
+
 - [CJEU Appropriate Fee Ruling](cjeu_appropriate_fee_ruling.md): bears on whether the subscription fee is lawful, from a different document.
 - [COPPA Allegations Against Meta](coppa_allegations_against_meta.md): another legal challenge over Meta's Facebook and Instagram practices, from a different document.
 - [Irish DPC Assessment Of Meta's Consent Model](irish_dpc_assessment_of_meta_consent_model.md): the data protection track running alongside this consumer-law case, from a different document.
 - [Meta's Ad-Free Subscription EU Pricing](meta_ad_free_subscription_eu_pricing.md): supplies the fee level this argument calls a deterrent, from a different document.
 - [Meta's Justification For The Subscription Choice](meta_justification_for_subscription_choice.md): Meta's own account of the choice this argument attacks, from a different document.
+- [BEUC And 18 Member Groups File A CPC Complaint Against Meta](beuc_consumer_complaint_meta_pay_or_consent.md): same source document (doc_0140)
+- [BEUC: The Choice And Its Implementation Cannot Be Separated](beuc_position_choice_versus_implementation.md): same source document (doc_0140)
+- [How CPC Network Consumer Protection Enforcement Works](cpc_network_consumer_protection_enforcement.md): same source document (doc_0140)
+- [DMA And DSA Oversight Of Meta's Advertising Consent](dma_dsa_oversight_of_meta_advertising_consent.md): same source document (doc_0140)
+- [The GDPR Track Running Alongside The Consumer Complaint](meta_pay_or_consent_gdpr_dimension.md): same source document (doc_0140)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

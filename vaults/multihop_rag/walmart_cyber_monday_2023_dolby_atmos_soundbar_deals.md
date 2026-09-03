@@ -13,11 +13,22 @@ The Sonos Arc (9/10, WIRED Recommends) is WIRED's favourite soundbar for big hom
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick For Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): also concerns the Xbox Series consoles, from a different source document.
 - [AirPods Pro (2nd Generation) Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-technology, discount-versus-MSRP and hardware-device themes, from a different source document.
 - [Alan Wake 2](alan_wake_2.md): also concerns the Xbox Series consoles, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares the discount-versus-MSRP and hardware-device themes, from a different source document.
 - [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): shares the discount-versus-MSRP and streaming-service themes, from a different source document.
+- [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): same source document (doc_0320)
+- [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Fitness Tracker And Smart Ring Deals](walmart_cyber_monday_2023_fitness_tracker_and_smart_ring_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Home Security Camera Deals](walmart_cyber_monday_2023_home_security_camera_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Kitchen Appliance Deals](walmart_cyber_monday_2023_kitchen_appliance_deals.md): same source document (doc_0320)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

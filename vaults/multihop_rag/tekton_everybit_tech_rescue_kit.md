@@ -13,6 +13,7 @@ One of the best parts is that it all goes in a single case that can be tossed in
 
 ## Related Notes
 
+
 - [Ray-Ban Meta As Open-Ear Headphones](ray_ban_meta_as_open_ear_headphones.md): also written by Alex Cranz, from a different source document.
 - [Steam Deck OLED's Custom AMD APU](steam_deck_oled_custom_amd_apu.md): concerns the Steam Decks this kit is used to open, from a different source document.
 - [Steam Deck OLED Models And Pricing](steam_deck_oled_models_and_pricing.md): concerns the same hardware, from a different source document.
@@ -21,6 +22,9 @@ One of the best parts is that it all goes in a single case that can be tossed in
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): drawn from the same source document (doc_0090).
 - [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): drawn from the same source document (doc_0575).
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): drawn from the same source document (doc_0575).
+- [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): same source document (doc_0090)
+- [Atumtek Bluetooth Selfie Tripod](atumtek_bluetooth_selfie_tripod.md): same source document (doc_0575)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

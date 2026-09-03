@@ -11,11 +11,17 @@ The Echo Show 8 is the top Alexa pick in Engadget's guide to the best smart disp
 
 ## Related Notes
 
+
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): same source document; the Echo speakers discounted alongside.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): same source document; other Amazon devices in the same roundup.
 - [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): overlaps in content on the Echo Show 5, from a different source document.
 - [Amazon Echo Show, Audible And Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): overlaps in content on Echo Show promotions, from a different source document.
 - [Budget Smart Home And Networking Deals](budget_smart_home_and_networking_deals.md): overlaps in content on Echo and Alexa smart-home discounts, from a different source document.
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): content overlap 0.14 on echo, alexa, all-time; different source document
+- [Amazon Echo Buds Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): content overlap 0.15 on echo, alexa, all-time; different source document
+- [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): same source document (doc_0222)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0222)
+- [Apple AirPods 3rd Gen Holiday Deal](apple_airpods_3rd_gen_holiday_deal.md): same source document (doc_0222)
 
 ## Source
 

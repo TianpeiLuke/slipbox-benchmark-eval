@@ -13,6 +13,7 @@ Johnson's screenplay, co-written with his Dirties and Operative Avalanche cohort
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): both discuss Silicon Valley, from a different source document
 - [ChatGPT First Year Overview](chatgpt_first_year_overview.md): another Silicon Valley subject from a separate article
 - [ChatGPT Third-Party Integrations and Ecosystem](chatgpt_third_party_integrations_and_ecosystem.md): shares Silicon Valley coverage in a different document
@@ -21,6 +22,8 @@ Johnson's screenplay, co-written with his Dirties and Operative Avalanche cohort
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 list
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): a fellow entry on the same ranked list
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
 
 ## Source
 

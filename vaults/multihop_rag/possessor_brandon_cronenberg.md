@@ -13,6 +13,7 @@ Andrea Riseborough, of Mandy and To Leslie, plays an elite corporate assassin ab
 
 ## Related Notes
 
+
 - [Infinity Pool (Brandon Cronenberg)](infinity_pool_brandon_cronenberg.md): covers the director's later film referenced here, from a different source document
 - [Mandy (Panos Cosmatos, Nicolas Cage)](mandy_panos_cosmatos_nicolas_cage.md): both feature Andrea Riseborough, from a separate article
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
@@ -21,6 +22,8 @@ Andrea Riseborough, of Mandy and To Leslie, plays an elite corporate assassin ab
 - [Cat People (1942 Jump Scare Origin)](cat_people_1942_jump_scare_origin.md): another classic-horror pick in the same countdown
 - [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): a fellow entry in the same article
 - [Curve (Tim Egan Horror Short)](curve_tim_egan_horror_short.md): another countdown pick from the same document
+- [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): same source document (doc_0165)
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0165)
 
 ## Source
 

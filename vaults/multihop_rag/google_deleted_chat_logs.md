@@ -13,6 +13,7 @@ The same stretch of testimony also recorded a proposal Apple turned down. The wa
 
 ## Related Notes
 
+
 - [The Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): covers the Pichai-era Google-Apple search relationship referenced here, from a different source document.
 - [Beeper's Security Audit Challenge To Apple](beeper_security_audit_challenge_to_apple.md): another dispute over messages and third-party software on Apple devices, from a different source document.
 - [Closed Sessions Limited The Public Record Of Cue's Testimony](closed_sessions_limited_the_public_record_of_cue_testimony.md): concerns testimony in the same Google-Apple proceeding, from a different source document.
@@ -21,6 +22,9 @@ The same stretch of testimony also recorded a proposal Apple turned down. The wa
 - [What A Ruling Against Google Would Mean For Big Tech](big_tech_antitrust_outlook.md): drawn from the same source document (doc_0237).
 - [The Google Antitrust Case](google_antitrust_case.md): drawn from the same source document (doc_0237).
 - [Google's Agreement Not To Promote Chrome To Safari Users](google_apple_chrome_agreement.md): drawn from the same source document (doc_0237).
+- [The Hypocrisy Argument: Google Became The Monopoly It Denounced](google_default_hypocrisy_argument.md): same source document (doc_0237)
+- [Google Paid $26.3 Billion In 2021 For Default Search Placement](google_default_search_payments.md): same source document (doc_0237)
+- [Litigation Hold](term_litigation_hold.md): uses the concept litigation hold
 
 ## Source
 

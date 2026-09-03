@@ -13,6 +13,7 @@ He also detailed the physical side of the shift: "Our stores delivered an especi
 
 ## Related Notes
 
+
 - [Roblox Advertising and Brand Experiences](roblox_advertising_and_brand_experiences.md): another account of brand-consumer engagement metrics.
 - [Walmart Black Friday 2023 Store Hours](walmart_black_friday_2023_store_hours.md): another note on in-store shopper traffic in the same period.
 - [Amazon Seller Skepticism of the FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares the Covid-19 content tag used across the corpus.
@@ -21,6 +22,15 @@ He also detailed the physical side of the shift: "Our stores delivered an especi
 - [Capital Rotation from China into Japanese Assets](capital_rotation_from_china_into_japanese_assets.md): shares the post-pandemic behaviour framing.
 - [Capitol Music Group Leadership Turmoil 2020-2021](capitol_music_group_leadership_turmoil_2020_2021.md): shares the Covid-19 content tag used across the corpus.
 - [Capitol Music Group Pre-2021 Decline Diagnosis](capitol_music_group_pre_2021_decline_diagnosis.md): shares the Covid-19 content tag used across the corpus.
+- [Nike Fiscal 2024 Revenue and Margin Guidance](nike_fiscal_2024_revenue_and_margin_guidance.md): same source document (doc_0215)
+- [Nike Fiscal Q1 2024 Headline Results](nike_fiscal_q1_2024_headline_results.md): same source document (doc_0215)
+- [Nike Greater China Sales Recovery](nike_greater_china_sales_recovery.md): same source document (doc_0215)
+- [Nike Gross Margin Fiscal Q1 2024](nike_gross_margin_fiscal_q1_2024.md): same source document (doc_0215)
+- [Nike Inventory Reduction Fiscal Q1 2024](nike_inventory_reduction_fiscal_q1_2024.md): same source document (doc_0215)
+- [Nike Regional and Product Category Sales Fiscal Q1 2024](nike_regional_and_product_category_sales_fiscal_q1_2024.md): same source document (doc_0215)
+- [Nike Wholesale Partner Relationship Reset](nike_wholesale_partner_relationship_reset.md): same source document (doc_0215)
+- [US Consumer Pullback and Student Loan Risk for Nike](us_consumer_pullback_and_student_loan_risk_for_nike.md): same source document (doc_0215)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

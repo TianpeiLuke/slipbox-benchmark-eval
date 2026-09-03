@@ -13,6 +13,7 @@ The warrant is contested, and Polygon says so. In a charitable light, adding him
 
 ## Related Notes
 
+
 - [Gen Z Definition and Formative Events](gen_z_definition_and_formative_events.md): both reference George Floyd and the 2020 moment, from a different source document
 - [Scorsese's Answers to Internet Slang Terms](scorsese_answers_to_internet_slang_terms.md): both reference Killers of the Flower Moon, from a separate article
 - [Killers of the Flower Moon](killers_of_the_flower_moon_film.md): the film this argument is about, covered in the same document
@@ -21,6 +22,7 @@ The warrant is contested, and Polygon says so. In a charitable light, adding him
 - [Scorsese's Late-Career Genre Departures](scorsese_late_career_genre_departures.md): the contrasting outlier films in the same period
 - [Scorsese's Late Career Refutes Tarantino's Decline Claim](scorsese_late_career_refutes_tarantino_decline_claim.md): the overarching argument this reading supports
 - [Scorsese's Late Films Revisit Earlier Themes](scorsese_late_films_revisit_earlier_themes.md): the revising pattern this self-implication extends
+- [Scorsese's Maximalist, Improvisational Late Style](scorsese_maximalist_improvisational_late_style.md): same source document (doc_0192)
 
 ## Source
 

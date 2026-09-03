@@ -13,6 +13,7 @@ After successful clinical trials, the FDA approved the drug in 2019 as a medicat
 
 ## Related Notes
 
+
 - [Antibody Drug Conjugates Market](antibody_drug_conjugates_market.md): overlapping vocabulary on approved, drug, trials, from a different source document.
 - [Quviviq Insomnia Drug NHS Approval](quviviq_insomnia_drug_nhs_approval.md): overlapping vocabulary on depression, approved, drug, from a different source document.
 - [Youth Depression and Suicide Screening Rates after COVID](youth_depression_and_suicide_screening_rates_after_covid.md): overlapping vocabulary on depression, since, from a different source document.
@@ -21,6 +22,8 @@ After successful clinical trials, the FDA approved the drug in 2019 as a medicat
 - [Distinguishing Anesthetic Therapeutic and Recreational Ketamine Use](distinguishing_anesthetic_therapeutic_and_recreational_ketamine_use.md): drawn from the same source document (doc_0390).
 - [Ketamine as Anesthetic and Dissociative Drug](ketamine_as_anesthetic_and_dissociative_drug.md): drawn from the same source document (doc_0390).
 - [Ketamine Dependence and Abuse Potential](ketamine_dependence_and_abuse_potential.md): drawn from the same source document (doc_0390).
+- [Matthew Perry's Death From Acute Effects Of Ketamine](matthew_perry_death_from_acute_ketamine_effects.md): same source document (doc_0390)
+- [Obtaining Ketamine Only Through A Licensed Prescriber](obtaining_ketamine_only_through_a_licensed_prescriber.md): same source document (doc_0390)
 
 ## Source
 

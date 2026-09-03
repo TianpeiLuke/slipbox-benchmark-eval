@@ -13,11 +13,17 @@ The context was that the defense had no plea to fall back on: the reporter had l
 
 ## Related Notes
 
+
 - [Alameda Research's Origins and Naming](alameda_research_origins_and_naming.md): also concerns Caroline Ellison, from a different source document.
 - [Cohen's Cross-Examination of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): the same defense lawyer's later handling of the witness he blamed here, from a different source document.
 - [The Defense's Good-Faith Case for Bankman-Fried](defense_good_faith_case_for_bankman_fried.md): the same lawyer's good-faith theory, from a different source document.
 - [FTX Cooperating Witnesses](ftx_cooperating_witnesses.md): also concerns Caroline Ellison, from a different source document.
 - [FTX's Inner Circle: Family and Friends Implicated](ftx_inner_circle_family_and_friends_implicated.md): also concerns Caroline Ellison, from a different source document.
+- [FTX's Absence Of A Chief Risk Officer](ftx_absence_of_chief_risk_officer.md): same source document (doc_0162)
+- [FTX's Collapse And Bankruptcy, November 2022](ftx_collapse_and_bankruptcy_november_2022.md): same source document (doc_0162)
+- [Marc-Antoine Julliard's Testimony As FTX's First Witness-Victim](marc_antoine_julliard_ftx_customer_testimony.md): same source document (doc_0162)
+- [Prosecution Opening Statement By Thane Rehn](prosecution_opening_statement_thane_rehn.md): same source document (doc_0162)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

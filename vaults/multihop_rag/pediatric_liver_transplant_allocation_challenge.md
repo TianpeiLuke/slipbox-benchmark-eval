@@ -13,6 +13,7 @@ While Mazariegos noted that the allocation policy is slowly improving, it's stil
 
 ## Related Notes
 
+
 - [Case for Organ Donation and Living Donor Awareness](case_for_organ_donation_and_living_donor_awareness.md): drawn from the same source document (doc_0594).
 - [Lucas Goeller Biliary Atresia and Failing Transplant](lucas_goeller_biliary_atresia_and_failing_transplant.md): drawn from the same source document (doc_0594).
 - [Lucas Goeller Current Liver Failure Symptoms](lucas_goeller_current_liver_failure_symptoms.md): drawn from the same source document (doc_0594).
@@ -21,6 +22,7 @@ While Mazariegos noted that the allocation policy is slowly improving, it's stil
 - [Partial Liver Transplants to Reduce Waitlist Mortality](partial_liver_transplants_to_reduce_waitlist_mortality.md): drawn from the same source document (doc_0594).
 - [Save Lucas Campaign and Living Donor Criteria](save_lucas_campaign_and_living_donor_criteria.md): drawn from the same source document (doc_0594).
 - [Transplant Center Capacity and Starzl Network](transplant_center_capacity_and_starzl_network.md): drawn from the same source document (doc_0594).
+- [US Organ Waiting List Figures For Children Needing Livers](us_pediatric_organ_transplant_waiting_list_figures.md): same source document (doc_0594)
 
 ## Source
 

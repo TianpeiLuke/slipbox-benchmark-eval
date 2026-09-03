@@ -13,12 +13,15 @@ Excitement about a potentially easier Fed was more than enough to offset a fall 
 
 ## Related Notes
 
+
 - [ASX and Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): another Wall Street rebound session reported for an Australian audience.
 - [ASX December 2023 Session Movers](asx_december_2023_session_movers.md): a later session in the same market-wrap series, keyed to rate expectations.
 - [ASX Outlook and RBA Rate Expectations September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): the earlier inflation-and-rates backdrop for the same markets.
 - [Australian Market Resilience and Range Bound Commentary](australian_market_resilience_and_range_bound_commentary.md): shares the inflation-versus-equities framing.
 - [Equity Valuations Versus Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): explains the yield mechanism behind this relief rally.
 - [ASX November 2023 Session and RBA Rate Expectations](asx_november_2023_session_and_rba_rate_expectations.md): the local session reported in the same article.
+- [Federal Reserve Rate Path Expectations Late 2023](federal_reserve_rate_path_expectations_late_2023.md): same source document (doc_0357)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

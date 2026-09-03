@@ -13,6 +13,7 @@ Those 10, with their 2024 cap hit, base salary and dead-cap hit, were: Trent Wil
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): covers Fred Warner and George Kittle on the field, different source document
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another document covering Brandon Aiyuk, different source
 - [Cole Kmet Week 6 2023 Start Recommendation](cole_kmet_week6_2023_start_recommendation.md): another document covering George Kittle, different source
@@ -20,6 +21,10 @@ Those 10, with their 2024 cap hit, base salary and dead-cap hit, were: Trent Wil
 - [Cowboys 49ers Pregame Notes and NFC Race](cowboys_49ers_pregame_notes_and_nfc_race.md): another document covering Randy Gregory, different source
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): the other side of the 2024 ledger, same source document
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): what this cap position makes possible, same source document
+- [Projecting Chase Young's 2024 Contract Value](chase_young_2024_contract_value_projection.md): same source document (doc_0500)
+- [The 49ers Trade For Chase Young At The 2023 Deadline](chase_young_trade_to_49ers_2023_deadline.md): same source document (doc_0500)
+- [Why The Franchise Tag May Not Suit Chase Young](franchise_tag_option_for_chase_young.md): same source document (doc_0500)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

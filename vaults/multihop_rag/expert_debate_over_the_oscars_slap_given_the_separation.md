@@ -11,6 +11,7 @@ Relationship expert Susan Winter takes the opposite reading of the same incident
 
 ## Related Notes
 
+
 - [Will And Jada Denials Of Open Marriage And Divorce Rumours](will_and_jada_denials_of_open_marriage_and_divorce_rumours.md): the couple's own rebuttals of claims about the state of their marriage
 - [Will And Jada Life Partnership Framing](will_and_jada_life_partnership_framing.md): the Smiths' description of a bond with "no deal breakers," which Winter's reading echoes
 - [Will Smith Baltimore Book Event Remarks On Brutiful Marriage](will_smith_baltimore_book_event_remarks_on_brutiful_marriage.md): Smith's own account of showing up for his wife regardless
@@ -19,6 +20,8 @@ Relationship expert Susan Winter takes the opposite reading of the same incident
 - [Expert Signs It Is Time To End A Marriage](expert_signs_it_is_time_to_end_a_marriage.md): the divorce-threshold discussion the same two experts give
 - [Jada Pinkett Smith 2023 Separation Disclosure](jada_pinkett_smith_2023_separation_disclosure.md): the revelation that reopened the Oscars question
 - [Jada Pinkett Smith August Alsina Entanglement](jada_pinkett_smith_august_alsina_entanglement.md): the earlier episode feeding doubts about the separation's terms
+- [Separation As An Alternative To Divorce: The "LAT" Partnership](separation_as_an_alternative_to_divorce_lat_partnership.md): same source document (doc_0036)
+- [The Terms Of A Separation Agreement Determine Its Outcome](terms_of_a_separation_agreement_determine_its_outcome.md): same source document (doc_0036)
 
 ## Source
 

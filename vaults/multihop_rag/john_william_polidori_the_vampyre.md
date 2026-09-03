@@ -11,9 +11,17 @@ The grounds start with the book's origin. While the concept of vampires goes bac
 
 ## Related Notes
 
+
 - [Bram Stoker: Vampire Verdict](bram_stoker_dracula_vampire_verdict.md): same source; the next major step in the same lineage.
 - [Anne Rice: Vampire Verdict](anne_rice_vampire_chronicles_verdict.md): same source; another verdict in the field guide.
 - [The Surprise Vampire Trope](surprise_vampire_trope.md): covers the wider bloodsucker vocabulary, from a different source document.
+- [The Lineage Of English-Language Vampire Fiction](english_language_vampire_fiction_lineage.md): same source document (doc_0452)
+- [Laurell K. Hamilton: Vampire Verdict](laurell_k_hamilton_anita_blake_verdict.md): same source document (doc_0452)
+- [Stephen King: Vampire Verdict](stephen_king_salems_lot_vampire_verdict.md): same source document (doc_0452)
+- [Taika Waititi: Vampire Verdict](taika_waititi_what_we_do_in_the_shadows_verdict.md): same source document (doc_0452)
+- [Which Vampire Authors Were Vampires?](which_vampire_authors_were_vampires_premise.md): same source document (doc_0452)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

@@ -13,9 +13,16 @@ The warrant linking those conditions to the deal's unusual shape is de-risking. 
 
 ## Related Notes
 
+
 - [French Founder Stealth AI Startup Wave](french_founder_stealth_ai_startup_wave.md): shares the valuation and venture capital theme, from a different source document.
 - [FTX](ftx.md): shares the valuation and venture capital theme, from a different source document.
 - [Tech Layoffs December 2023](tech_layoffs_december_2023.md): shares the valuation and venture capital theme, from a different source document.
+- [Generative AI As A Competitive Threat To Meltwater](generative_ai_as_competitive_threat_to_meltwater.md): same source document (doc_0580)
+- [Lyseggen's "Netscape Moment" Rebuttal On Meltwater And AI](lyseggen_netscape_moment_rebuttal_on_meltwater_ai.md): same source document (doc_0580)
+- [The Evolution Of Meltwater's Media Monitoring Business](meltwater_media_monitoring_business_evolution.md): same source document (doc_0580)
+- [Verdane's Stake In Meltwater Via Fountain Venture](verdane_stake_in_meltwater_via_fountain_venture.md): same source document (doc_0580)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

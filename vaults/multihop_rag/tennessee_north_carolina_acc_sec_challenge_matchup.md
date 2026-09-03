@@ -11,6 +11,7 @@ Sporting News framed it as another huge game for North Carolina, which had lost 
 
 ## Related Notes
 
+
 - [Canine Respiratory Illness State Case Reports 2023](canine_respiratory_illness_state_case_reports_2023.md): also discusses North Carolina, from a different document.
 - [College Football Week 6 2023 Remaining Betting Lines](college_football_week6_2023_remaining_betting_lines.md): also discusses North Carolina, from a different document.
 - [Kalmus Critique of Biden Climate Policy](kalmus_critique_of_biden_climate_policy.md): also discusses North Carolina, from a different document.
@@ -19,6 +20,8 @@ Sporting News framed it as another huge game for North Carolina, which had lost 
 - [Bet365 Bonus Code TSNCO Offer](bet365_bonus_code_tsnco_offer.md): the Bet365 offer promoted for these games, from the same document.
 - [BetMGM Bonus Code TSN50 First Bet Offer](betmgm_bonus_code_tsn50_first_bet_offer.md): the BetMGM offer promoted for the Duke-Arkansas game on this slate, from the same document.
 - [BetRivers Promo Code SPORTSRIV Second Chance Bet](betrivers_promo_code_sportsriv_second_chance_bet.md): the BetRivers offer promoted for these games, from the same document.
+- [Caesars Sportsbook Promo Code NEWS1000](caesars_sportsbook_promo_code_news1000.md): same source document (doc_0432)
+- [DraftKings Welcome Offer Claim Steps](draftkings_welcome_offer_claim_steps.md): same source document (doc_0432)
 
 ## Source
 

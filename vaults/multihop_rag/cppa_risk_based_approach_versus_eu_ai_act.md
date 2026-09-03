@@ -13,6 +13,7 @@ That relation holds only over a limited range. The impact of California's AI rul
 
 ## Related Notes
 
+
 - [EU AI Act Political Agreement, December 2023](eu_ai_act_political_agreement_december_2023.md): the strongest overlap, covering the risk-based EU framework compared here, from a different document.
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): shares the data-privacy subject area, from a different document.
 - [ADMT: The CPPA's Definition Of Automated Decisionmaking Technology](admt_automated_decisionmaking_technology_definition.md): drawn from the same source document (doc_0164).
@@ -21,6 +22,15 @@ That relation holds only over a limited range. The impact of California's AI rul
 - [Analysis Of Meta's Delay Tactics On The Consent Switch](analysis_of_meta_delay_tactics_on_consent_switch.md): shares the data-privacy subject area, from a different document.
 - [Apple Blocks Beeper Mini iMessage Access](apple_blocks_beeper_mini_imessage_access.md): shares the data-privacy subject area, from a different document.
 - [Apple iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares the data-privacy subject area, from a different document.
+- [CCPA To CPPA: The Regulatory Lineage Behind The ADMT Rules](ccpa_cppa_regulatory_lineage.md): same source document (doc_0164)
+- [CPPA ADMT Access Rights And Disclosure Requirements](cppa_admt_access_rights_disclosure_requirements.md): same source document (doc_0164)
+- [The CPPA ADMT Opt-Out Right And Its Exemptions](cppa_admt_opt_out_right_and_exemptions.md): same source document (doc_0164)
+- [Why The CPPA's ADMT Rules Would Bite On Behavioral Advertising](cppa_admt_rules_impact_on_behavioral_advertising.md): same source document (doc_0164)
+- [CPPA ADMT Scope Thresholds](cppa_admt_scope_thresholds.md): same source document (doc_0164)
+- [California's CPPA Publishes Draft ADMT Rules](cppa_draft_admt_regulations.md): same source document (doc_0164)
+- [The CPPA Pre-Use Notice Requirement](cppa_pre_use_notice_requirement.md): same source document (doc_0164)
+- [The CPPA's ADMT Rulemaking Timeline](cppa_rulemaking_timeline.md): same source document (doc_0164)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

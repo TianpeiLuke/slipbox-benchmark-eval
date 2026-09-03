@@ -13,6 +13,7 @@ He then explained the balance his side struck once they settled, and what it say
 
 ## Related Notes
 
+
 - [Canada-Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also discusses West Ham players, from a different document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also covers West Ham in the same season, from a different document.
 - [Carabao Cup 2023-24 Semi-Final Draw And Fixtures](carabao_cup_2023_24_semifinal_draw_and_fixtures.md): also covers West Ham's season, from a different document.
@@ -20,6 +21,9 @@ He then explained the balance his side struck once they settled, and what it say
 - [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md): also covers West Ham, from a different document.
 - [Everton's Win Over Newcastle, December 2023](everton_win_over_newcastle_december_2023.md): the other match covered in the same report.
 - [Dyche On Everton's Points Deduction And Appeal](dyche_on_everton_points_deduction_and_appeal.md): another manager's reaction in the same report.
+- [Howe On Newcastle's Inconsistency And Injury Load](howe_on_newcastle_inconsistency_and_injury_load.md): same source document (doc_0541)
+- [Postecoglou's Response To Tottenham's Losing Run](postecoglou_response_to_tottenham_losing_run.md): same source document (doc_0541)
+- [Sherwood's Analysis Of Tottenham Over-Attacking After Leading](sherwood_analysis_tottenham_over_attacking_after_leading.md): same source document (doc_0541)
 
 ## Source
 

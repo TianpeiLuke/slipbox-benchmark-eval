@@ -11,11 +11,18 @@ The discriminating factors are stylistic. Lopes is a bit more dangerous on his f
 
 ## Related Notes
 
+
 - [Betting Favorites and Underdogs](betting_favorites_and_underdogs.md): explains the moneyline-favorite concept this bet uses, from a different source document.
 - [Cat Quest 2](cat_quest_2.md): shares incidental grind-and-fight vocabulary, from a different source document.
 - [Dillon Danis and Savannah Montano Relationship Status](dillon_danis_and_savannah_montano_relationship_status.md): part of the same sub-plan on UFC 295 and influencer MMA feuds, from a different source document.
 - [Dillon Danis Feud With the Paul Brothers](dillon_danis_feud_with_the_paul_brothers.md): part of the same sub-plan, from a different source document.
 - [Jake Paul Savannah Montano Hookup Claims and Denial](jake_paul_savannah_montano_hookup_claims_and_denial.md): part of the same sub-plan, from a different source document.
+- [UFC 295: A Lost Main Event, Two Title Fights And A Season Betting Record Of 28-28](ufc_295_card_changes_and_main_events.md): same source document (doc_0577)
+- [UFC 295 Best Bet: Mackenzie Dern To Submit Jessica Andrade](ufc_295_dern_vs_andrade_best_bet.md): same source document (doc_0577)
+- [UFC 295 Best Bet: Under 1.5 Rounds In Frevola vs Saint-Denis](ufc_295_frevola_vs_saint_denis_best_bet.md): same source document (doc_0577)
+- [UFC 295 Best Bet: Tom Aspinall's Moneyline In A Fight Likely To End Fast](ufc_295_pavlovich_vs_aspinall_best_bet.md): same source document (doc_0577)
+- [UFC 295 Best Bet: Over 1.5 Rounds In Prochazka vs Pereira](ufc_295_prochazka_vs_pereira_best_bet.md): same source document (doc_0577)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

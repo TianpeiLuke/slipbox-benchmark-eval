@@ -13,6 +13,7 @@ He added that there are medications that can be used to help with the condition.
 
 ## Related Notes
 
+
 - [Allison Miller Life after Amputation and Organ Damage](allison_miller_life_after_amputation_and_organ_damage.md): overlapping vocabulary on condition, permanent, added, from a different source document.
 - [First Drugs to Treat the Cause of Alzheimers](first_drugs_to_treat_the_cause_of_alzheimers.md): overlapping vocabulary on condition, symptoms, drugs, from a different source document.
 - [UK Dementia Diagnosis Bottleneck](uk_dementia_diagnosis_bottleneck.md): overlapping vocabulary on condition, drugs, patients, from a different source document.
@@ -21,6 +22,8 @@ He added that there are medications that can be used to help with the condition.
 - [Gastroparesis Pancreatitis Bowel Obstruction and Ileus](gastroparesis_pancreatitis_bowel_obstruction_and_ileus.md): drawn from the same source document (doc_0066).
 - [GLP-1 Receptor Agonists Drug Class and US Usage Scale](glp1_receptor_agonists_drug_class_and_us_usage_scale.md): drawn from the same source document (doc_0066).
 - [Individualized GLP-1 Benefit Risk Assessment](individualized_glp1_benefit_risk_assessment.md): drawn from the same source document (doc_0066).
+- [Limitations Of The UBC GLP-1 Claims Analysis](limitations_of_the_ubc_glp1_claims_analysis.md): same source document (doc_0066)
+- [The Louisiana Lawsuit Over Ozempic And Mounjaro GI Injuries](louisiana_lawsuit_over_ozempic_and_mounjaro_gi_injuries.md): same source document (doc_0066)
 
 ## Source
 

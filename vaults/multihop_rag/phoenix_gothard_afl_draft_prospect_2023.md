@@ -11,6 +11,7 @@ In that campaign he was a livewire at ground level, averaging 10.3 disposals, th
 
 ## Related Notes
 
+
 - [CFP National Championship Game Format And Schedule](cfp_national_championship_game_format_and_schedule.md): also concerns a national championship, from a different document.
 - [CFP National Championship Winners 2015 To 2023](cfp_national_championship_winners_2015_to_2023.md): also concerns a national championship, from a different document.
 - [College Football Bowl Betting Market Types](college_football_bowl_betting_market_types.md): also concerns a national championship, from a different document.
@@ -19,6 +20,8 @@ In that campaign he was a livewire at ground level, averaging 10.3 disposals, th
 - [Angus Hastie AFL Draft Prospect 2023](angus_hastie_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Archer Reid AFL Draft Prospect 2023](archer_reid_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Archie Roberts AFL Draft Prospect 2023](archie_roberts_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
+- [Ari Schoenmaker AFL Draft Prospect 2023](ari_schoenmaker_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Ashton Moya AFL Draft Prospect 2023](ashton_moya_afl_draft_prospect_2023.md): same source document (doc_0244)
 
 ## Source
 

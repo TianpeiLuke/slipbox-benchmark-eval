@@ -11,6 +11,7 @@ Meta also gave a rate comparison for one specific policy: "As compared to the tw
 
 ## Related Notes
 
+
 - [Meta Bias Mechanisms](meta_bias_mechanisms.md): overlapping vocabulary about Hebrew, Arabic and violating content, from a different source document.
 - [Meta Moderation Bias](meta_moderation_bias.md): overlapping vocabulary about Hebrew, Arabic and violating content, and the counterpoint that Arabic is flagged at higher rates than Hebrew, from a different source document.
 - [Instagram Palestine Suppression](instagram_palestine_suppression.md): overlapping vocabulary about Hebrew, Arabic and content enforcement, from a different source document.
@@ -18,6 +19,9 @@ Meta also gave a rate comparison for one specific policy: "As compared to the tw
 - [Meta Response To Suppression Claims](meta_response_to_suppression_claims.md): shares the localisation and dangerous-organizations-policy themes, from a different source document.
 - [EU Warnings To Other Platforms](eu_warnings_to_other_platforms.md): drawn in part from the same source document, doc_0335.
 - [Digital Services Act](digital_services_act.md): drawn from the same source document, doc_0335.
+- [Meta Crisis Response Measures](meta_crisis_response_measures.md): same source document (doc_0335)
+- [Accessibility Localisation](term_accessibility_localisation.md): uses the concept accessibility localisation
+- [Dangerous Organizations and Individuals Policy](term_dangerous_organizations_policy.md): uses the concept dangerous organizations policy
 
 ## Source
 

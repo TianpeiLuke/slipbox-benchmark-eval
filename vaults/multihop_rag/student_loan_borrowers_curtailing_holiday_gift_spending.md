@@ -11,6 +11,7 @@ Nicole Plauché, a 23-year-old tech sales manager from Dallas, Texas, said her m
 
 ## Related Notes
 
+
 - [Last Minute Digital Gifts and Subscriptions Guide](last_minute_digital_gifts_and_subscriptions_guide.md): another treatment of constrained Christmas gift buying, from a different source document.
 - [US Consumer Pullback and Student Loan Risk for Nike](us_consumer_pullback_and_student_loan_risk_for_nike.md): the same student-loan drag seen from the retailer's side, in a different source document.
 - [AI Pricing Models](ai_pricing_models.md): overlaps on payment processor subject matter, from a different source document.
@@ -19,6 +20,15 @@ Nicole Plauché, a 23-year-old tech sales manager from Dallas, Texas, said her m
 - [Amex Cash Magnet Rates and Fees](amex_cash_magnet_rates_and_fees.md): overlaps on payment processor subject matter, from a different source document.
 - [Amot Investments Portfolio and War Scenario Assessment](amot_investments_portfolio_and_war_scenario_assessment.md): overlaps on payment processor subject matter, from a different source document.
 - [Antibody Drug Conjugates Market](antibody_drug_conjugates_market.md): overlaps on payment processor subject matter, from a different source document.
+- [Communicating Financial Limits With Family](communicating_financial_limits_with_family.md): same source document (doc_0251)
+- [Giving Experiences Instead Of Material Gifts](experiences_instead_of_material_gifts.md): same source document (doc_0251)
+- [The End Of The Federal Student Loan Payment Pause](federal_student_loan_payment_pause_ending_2023.md): same source document (doc_0251)
+- [The 50-30-20 Budgeting Method](fifty_thirty_twenty_budgeting_method.md): same source document (doc_0251)
+- [The Financial Pressure Of Holiday Gift Giving](holiday_gift_giving_financial_pressure.md): same source document (doc_0251)
+- [Low Cost And Homemade Gift Alternatives](low_cost_homemade_gift_alternatives.md): same source document (doc_0251)
+- [Responsible Credit Card Use During The Holidays](responsible_credit_card_use_during_holidays.md): same source document (doc_0251)
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

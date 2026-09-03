@@ -11,6 +11,7 @@ FanSided's Robert Murray reported the Tellez agreement, which included an additi
 
 ## Related Notes
 
+
 - [Blackhawks-Penguins 2023 Start Time and Arena](blackhawks_penguins_2023_start_time_and_arena.md): also concerns Pittsburgh sport, from a different document.
 - [Braves Acquire Jarred Kelenic From Mariners](braves_acquire_jarred_kelenic_from_mariners.md): also covers Marco Gonzales, whose Atlanta stop is referenced here, from a different document.
 - [Eduardo Rodriguez Signs With Diamondbacks](eduardo_rodriguez_signs_with_diamondbacks.md): another reported free-agent deal for a left-handed pitcher, from a different document.
@@ -19,6 +20,8 @@ FanSided's Robert Murray reported the Tellez agreement, which included an additi
 - [Braves Release Matt Carpenter](braves_release_matt_carpenter.md): another entry from the same free agency tracker, from the same document.
 - [Cody Bellinger Free Agent Market and Suitors](cody_bellinger_free_agent_market_and_suitors.md): another entry from the same free agency tracker, from the same document.
 - [Jack Flaherty Tigers One-Year Deal](jack_flaherty_tigers_one_year_deal.md): another entry from the same free agency tracker, from the same document.
+- [Kansas City Royals' December 2023 Signings](kansas_city_royals_2023_offseason_signings.md): same source document (doc_0422)
+- [Lourdes Gurriel Jr. Re-Signs With The Diamondbacks](lourdes_gurriel_jr_diamondbacks_re_signing.md): same source document (doc_0422)
 
 ## Source
 

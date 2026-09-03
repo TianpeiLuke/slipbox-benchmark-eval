@@ -13,6 +13,7 @@ Squad context filled out the picture an hour before kickoff. Lionel Scaloni name
 
 ## Related Notes
 
+
 - [Argentina Squad and Lineup vs Paraguay October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): the same selection reported elsewhere, covering Facundo Farias and Juan Foyth
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): another Lionel Messi document, different source
 - [Chicago Fire 4-1 Inter Miami October 2023 Recap](chicago_fire_4_1_inter_miami_october_2023_recap.md): another Messi club match report, different source document
@@ -21,6 +22,9 @@ Squad context filled out the picture an hour before kickoff. Lionel Scaloni name
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): the match these lineups played, same source document
 - [Argentina First Half Dominance vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): how these teams performed before the break, same source document
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): how the match was shown, same source document
+- [Argentina's Second Half And Messi's Introduction Against Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): same source document (doc_0534)
+- [Other CONMEBOL Results On Argentina-Paraguay Night](conmebol_2023_qualifying_round_other_results.md): same source document (doc_0534)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

@@ -11,11 +11,19 @@ The custody balance shifted the following year. Amid her father's health crisis 
 
 ## Related Notes
 
+
 - [Kevin Federline Custody Of Britney Spears Sons](kevin_federline_custody_of_britney_spears_sons.md): a separate account of the same custody arrangement
 - [PayPal Anti-Steering Lawsuit](paypal_anti_steering_lawsuit.md): a similarity-index neighbour on shared settlement-and-payment features, topically unrelated
 - [Sweeney And Pichai Settlement Talks](sweeney_and_pichai_settlement_talks.md): another shared-feature settlement match from a different domain
 - [Swift And Kelce Public Appearances Together](swift_and_kelce_public_appearances_together.md): unrelated celebrity coverage also sourced to Entertainment Tonight
 - [Taylor Swift Arrowhead Stadium Appearance September 2023](taylor_swift_arrowhead_stadium_appearance_september_2023.md): another article quoting Entertainment Tonight
+- [Britney Spears And Adnan Ghalib](britney_spears_adnan_ghalib_relationship.md): same source document (doc_0051)
+- [Britney Spears And Justin Timberlake's Relationship](britney_spears_and_justin_timberlake_relationship.md): same source document (doc_0051)
+- [Britney Spears And Charlie Ebersol](britney_spears_charlie_ebersol_relationship.md): same source document (doc_0051)
+- [Britney Spears' Conservatorship Under Jamie Spears](britney_spears_conservatorship_under_jamie_spears.md): same source document (doc_0358)
+- [Britney Spears And David Lucado](britney_spears_david_lucado_relationship.md): same source document (doc_0051)
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

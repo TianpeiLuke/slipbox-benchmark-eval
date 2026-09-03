@@ -13,6 +13,7 @@ Earlier she told the ABC that she wanted her legacy to include doing everything 
 
 ## Related Notes
 
+
 - [AFLW 2023 Tackle and Bump Suspension Debate](aflw_2023_tackle_and_bump_suspension_debate.md): also concerns Fox Footy, from a different document.
 - [Charlie Edwards, AFL Draft Prospect 2023](charlie_edwards_afl_draft_prospect_2023.md): also concerns the Western Bulldogs, from a different document.
 - [Clay Hall, AFL Draft Prospect 2023](clay_hall_afl_draft_prospect_2023.md): also concerns the Western Bulldogs, from a different document.
@@ -21,6 +22,8 @@ Earlier she told the ABC that she wanted her legacy to include doing everything 
 - [AFLW 2023 Finals Qualification and Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): drawn from the same document (doc_0209).
 - [Brisbane Lions' 2023 AFLW Top-Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): drawn from the same document (doc_0209).
 - [Geelong Cats' 2023 AFLW Finals Qualification](geelong_cats_2023_aflw_finals_qualification.md): drawn from the same document (doc_0209).
+- [Gold Coast Suns' Second AFLW Finals Appearance](gold_coast_suns_second_aflw_finals_appearance.md): same source document (doc_0209)
+- [North Melbourne's 2023 AFLW Top-Four Finish](north_melbourne_2023_aflw_top_four_finish.md): same source document (doc_0209)
 
 ## Source
 

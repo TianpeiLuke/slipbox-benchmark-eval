@@ -11,11 +11,20 @@ The intervention and its effects run in a chain. Billionaire entrepreneur Mark C
 
 ## Related Notes
 
+
 - [ChatGPT Political Disinformation Guardrail Failure](chatgpt_political_disinformation_guardrail_failure.md): also cites the Washington Post, from a different source document.
 - [Google SGE and Bard Content Appropriation Claims](google_sge_and_bard_content_appropriation_claims.md): also cites the Washington Post, from a different source document.
 - [GPT Model Releases From GPT-3.5 to GPT-4](gpt_model_releases_from_gpt35_to_gpt4.md): shares the appeals-process and fine-penalty subject tags, from a different source document.
 - [Wolf Pack Palestinian Biometric Database](wolf_pack_palestinian_biometric_database.md): also cites the Washington Post, from a different source document.
 - [Chiefs Jets Week 4 Swift Sideshow and Prop Stars Menu](chiefs_jets_week_4_swift_sideshow_and_prop_stars_menu.md): part of the same sub-plan on the Swift-Kelce story as NFL business, from a different source document.
+- [The Backlash: Fans Who Say The Swift-Kelce Coverage Is Too Much](backlash_to_traylor_media_coverage.md): same source document (doc_0344)
+- [The NFL's International Games And Its Concussion Initiatives](nfl_international_games_and_player_safety_initiatives.md): same source document (doc_0344)
+- [The NFL's Revenue Lead And Goodell's $27 Billion Target For 2027](nfl_revenue_growth_and_goodell_27_billion_target.md): same source document (doc_0344)
+- [The NFL's Own Scandals, From Kaepernick To The CTE Controversy](nfl_scandals_and_cte_controversy.md): same source document (doc_0344)
+- [The Swift Effect: How 104 Million Swifties Could Complete The NFL's Revenue Target](taylor_swift_effect_on_nfl_audience_and_revenue.md): same source document (doc_0344)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

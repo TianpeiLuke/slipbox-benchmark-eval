@@ -17,11 +17,19 @@ The delight at the final whistle showed this was not just any quarter-final vict
 
 ## Related Notes
 
+
 - [All Blacks' Final Moments, RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): also discusses the All Blacks, from a different source document.
 - [All Blacks Generational Change After the 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): also discusses Aaron Smith and the All Blacks, from a different source document.
 - [All Blacks: Ireland Series Loss Backlash as Motivation](all_blacks_ireland_series_loss_backlash_as_motivation.md): also discusses the All Blacks, from a different source document.
 - [All Blacks Selection Changes for the 2023 Semi-Final](all_blacks_selection_changes_2023_semi_final.md): also discusses Leicester Fainga'anuku and Mark Telea, from a different source document.
 - [Cards and Officiating Controversy, RWC 2023 Final](cards_and_officiating_controversy_rwc_2023_final.md): also discusses the All Blacks and Ardie Savea, from a different source document.
+- [Ian Foster's All Blacks Turnaround And Succession](ian_foster_all_blacks_turnaround_and_succession.md): same source document (doc_0538)
+- [Ireland's 37-Phase Final Attack Against New Zealand](ireland_37_phase_final_attack_versus_new_zealand.md): same source document (doc_0538)
+- [Ireland: The Greatest Team Yet, Still Without A Knockout Win](ireland_greatest_team_yet_no_knockout_win.md): same source document (doc_0538)
+- [Ireland's Rugby World Cup Quarter-Final Curse](ireland_rugby_world_cup_quarter_final_curse.md): same source document (doc_0538)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

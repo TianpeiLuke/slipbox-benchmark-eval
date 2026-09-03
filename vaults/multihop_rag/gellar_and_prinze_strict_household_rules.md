@@ -13,6 +13,7 @@ Gellar told Us Weekly in 2020 that as parents their "expectations are a little h
 
 ## Related Notes
 
+
 - [Celebrity Tough Love Parenting In Hollywood](celebrity_tough_love_parenting_in_hollywood.md): same article, the roundup this household appears in
 - [Candace Cameron Bure Strict But Loving Boundaries](candace_cameron_bure_strict_but_loving_boundaries.md): same article, a comparable strict-but-loving household
 - [Kristen Bell Household Screen Time Rules](kristen_bell_household_screen_time_rules.md): same article, another set of household screen rules
@@ -21,6 +22,8 @@ Gellar told Us Weekly in 2020 that as parents their "expectations are a little h
 - [Sarah Michelle Gellar Roblox Account Hack Complaint](sarah_michelle_gellar_roblox_account_hack_complaint.md): also concerns Gellar and Prinze as parents, different document
 - [Social Media Reaction To Gellar Roblox Feud](social_media_reaction_to_gellar_roblox_feud.md): overlaps heavily on Gellar, from a different document
 - [Roblox Response On Parental Safety Tools](roblox_response_on_parental_safety_tools.md): overlaps on Gellar and parental controls, different document
+- [Kristen Bell On A Shared Bedroom As Character Building](kristen_bell_shared_bedroom_character_building.md): same source document (doc_0177)
+- [Kutcher And Kunis Keeping Their Children Grounded](kutcher_and_kunis_keeping_their_children_grounded.md): same source document (doc_0177)
 
 ## Source
 

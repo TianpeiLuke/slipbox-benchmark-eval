@@ -11,6 +11,7 @@ The Verge identifies the underlying issues as weight, height, and dimensions, an
 
 ## Related Notes
 
+
 - [Cybertruck Variants And Specifications](cybertruck_variants_and_specifications.md): overlapping coverage of the Cybertruck alongside trucks like the Hummer, from a different source document.
 - [Ford F-150 Outsells Mustang Among NASCAR Fans](ford_f150_outsells_mustang_among_nascar_fans.md): overlapping coverage of Ford trucks, from a different source document.
 - [Crumple Zones And The Stainless Steel Concern](crumple_zones_and_the_stainless_steel_concern.md): drawn from the same source document (doc_0548).
@@ -19,6 +20,8 @@ The Verge identifies the underlying issues as weight, height, and dimensions, an
 - [The Cybertruck Pedestrian Safety Backlash](cybertruck_pedestrian_safety_backlash.md): drawn from the same source document (doc_0548).
 - [The Cybertruck Is Unlikely To Be Sold In Europe](cybertruck_unlikely_to_be_sold_in_europe.md): drawn from the same source document (doc_0548).
 - [Cybertruck Visibility, Mirrors And Steer-By-Wire Design Choices](cybertruck_visibility_mirrors_and_steer_by_wire_design_choices.md): drawn from the same source document (doc_0548).
+- [The IIHS Finding That Tall, Blunt Front Ends Raise Pedestrian Risk](iihs_finding_that_tall_blunt_front_ends_raise_pedestrian_risk.md): same source document (doc_0548)
+- [Musk And Tesla's Safety Rating Record Claims](musk_and_tesla_safety_rating_record_claims.md): same source document (doc_0548)
 
 ## Source
 

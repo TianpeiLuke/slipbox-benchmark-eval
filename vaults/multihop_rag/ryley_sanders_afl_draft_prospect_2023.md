@@ -11,6 +11,7 @@ Strong two-way running is another feature of his game, on display in dominating 
 
 ## Related Notes
 
+
 - [Erin Phillips AFLW Retirement](erin_phillips_aflw_retirement.md): also concerns Port Adelaide, from a different document.
 - [St Kilda 2023 AFLW Finals Near Miss](st_kilda_2023_aflw_finals_near_miss.md): overlaps on disposals and Carlton/Fremantle references, from a different document.
 - [Angus Hastie AFL Draft Prospect 2023](angus_hastie_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
@@ -19,6 +20,8 @@ Strong two-way running is another feature of his game, on display in dominating 
 - [Ari Schoenmaker AFL Draft Prospect 2023](ari_schoenmaker_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Ashton Moya AFL Draft Prospect 2023](ashton_moya_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Caiden Cleary AFL Draft Prospect 2023](caiden_cleary_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
+- [Caleb Windsor AFL Draft Prospect 2023](caleb_windsor_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Charlie Edwards AFL Draft Prospect 2023](charlie_edwards_afl_draft_prospect_2023.md): same source document (doc_0244)
 
 ## Source
 

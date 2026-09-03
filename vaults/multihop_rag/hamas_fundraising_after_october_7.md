@@ -11,10 +11,20 @@ Although it has been almost impossible to transfer money and goods to Gaza since
 
 ## Related Notes
 
+
 - [Ev Sector Setbacks Arrival and US Automakers](ev_sector_setbacks_arrival_and_us_automakers.md): overlaps on layoffs, reserve mobilisation subject matter, from a different source document.
 - [Gaza Displacement and Casualties October 2023](gaza_displacement_and_casualties_october_2023.md): the humanitarian situation being exploited, from a different source document.
 - [Gaza Information War and Hamas Narrative](gaza_information_war_and_hamas_narrative.md): also discusses Islamic Jihad, from a different source document.
 - [Tech Layoffs October 2023](tech_layoffs_october_2023.md): overlaps on layoffs, lobbying political donations subject matter, from a different source document.
+- [Isolating Iran Through FATF, And The Cash Dependency Problem](fatf_iran_isolation_and_cash_dependency.md): same source document (doc_0486)
+- [Hawala As The Main Money Transfer Channel Into Gaza](hawala_money_transfer_into_gaza.md): same source document (doc_0486)
+- [IMPA's Blocking Of A Hamas Fundraising Pipeline In Europe](impa_blocking_hamas_fundraising_in_europe.md): same source document (doc_0486)
+- [The International Terror Finance Task Force](international_terror_finance_task_force.md): same source document (doc_0486)
+- [Iran's State Funding Of Hamas](iran_state_funding_of_hamas.md): same source document (doc_0486)
+- [Israel's Money Laundering And Terror Financing Prohibition Authority](israel_money_laundering_and_terror_financing_authority.md): same source document (doc_0486)
+- [Reserve Mobilisation](term_reserve_mobilisation.md): uses the concept reserve mobilisation
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

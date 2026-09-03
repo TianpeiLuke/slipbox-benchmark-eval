@@ -13,11 +13,21 @@ Among the professional teams, many Kentucky residents look just north of the bor
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): also covers Louisville among the college programs in play, from a different document.
 - [49ers Can Create Cap Room To Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also concerns Super Bowl-contending NFL teams, from a different document.
 - [Advantages Of Prop Bets](advantages_of_prop_bets.md): covers betting on the Super Bowl-level events these teams contest, from a different document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also discusses the Cincinnati Bengals and Joe Burrow, from a different document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): shares the NFL and playoff-seeding setting, from a different document.
+- [Bet365 Sportsbook In Kentucky](bet365_sportsbook_kentucky.md): same source document (doc_0071)
+- [BetMGM Sportsbook In Kentucky](betmgm_sportsbook_kentucky.md): same source document (doc_0071)
+- [Caesars Sportsbook In Kentucky](caesars_sportsbook_kentucky.md): same source document (doc_0071)
+- [DraftKings Sportsbook In Kentucky](draftkings_sportsbook_kentucky.md): same source document (doc_0071)
+- [Fanatics Sportsbook In Kentucky](fanatics_sportsbook_kentucky.md): same source document (doc_0071)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
 
 ## Source
 

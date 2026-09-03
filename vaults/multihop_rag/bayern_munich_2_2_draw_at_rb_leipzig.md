@@ -13,6 +13,7 @@ Leipzig struck twice in six minutes, with Loïs Openda putting them in front in 
 
 ## Related Notes
 
+
 - [Arsenal-Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Manchester City, Leipzig's upcoming opponent, from a different source document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also discusses Bayern Munich and the Champions League, from a different source document.
 - [The 2023 Calendar-Year Top Goalscorer Race](calendar_year_2023_top_goalscorer_race.md): also discusses Harry Kane, the scorer here, from a different source document.
@@ -21,6 +22,8 @@ Leipzig struck twice in six minutes, with Loïs Openda putting them in front in 
 - [AC Milan 2-0 Win Over Lazio and the Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): same Guardian European roundup.
 - [Harry Kane's Bayern Munich 2023 Scoring Records](harry_kane_bayern_munich_2023_scoring_records.md): same source document, giving the record context for Kane's goal here.
 - [Lautaro Martinez's 2023 Goalscoring Form](lautaro_martinez_2023_goalscoring_form.md): same Guardian roundup, covering the Serie A results from the same day.
+- [Monaco 3-2 Marseille: Akliouche Brace Takes Monaco Top Of Ligue 1](monaco_3_2_win_over_marseille_ligue_1.md): same source document (doc_0352)
+- [Real Madrid 3-0 Girona: Bellingham Helps Madrid Go Top](real_madrid_3_0_win_over_girona_bellingham.md): same source document (doc_0352)
 
 ## Source
 

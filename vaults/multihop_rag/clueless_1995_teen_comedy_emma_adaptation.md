@@ -11,11 +11,18 @@ Polygon places it against the other Emmas to make its case: Gwyneth Paltrow's pa
 
 ## Related Notes
 
+
 - [Disney Bundle Trio Streaming Package](disney_bundle_trio_streaming_package.md): another article involving Paramount Plus as a platform
 - [Dungeons And Dragons Honor Among Thieves](dungeons_and_dragons_honor_among_thieves.md): another film entry citing Paramount Plus availability
 - [Earth Mama Savanah Leaf](earth_mama_savanah_leaf.md): another film write-up with Paramount Plus availability
 - [Night Of The Living Dead 1968 George Romero](night_of_the_living_dead_1968_george_romero.md): another catalogue entry on the same platform
 - [Overlord 2018 Nazi Zombie Film](overlord_2018_nazi_zombie_film.md): another Paramount Plus title from a different guide
+- [Book Club (2018): The Raunchy Late-Life Romantic Comedy](book_club_2018_romantic_comedy.md): same source document (doc_0597)
+- [Catherine Called Birdy (2022): Lena Dunham's Coming-Of-Age Comedy](catherine_called_birdy_2022_lena_dunham_comedy.md): same source document (doc_0597)
+- [Charade (1963): Stanley Donen's Comedy Thriller](charade_1963_donen_comedy_thriller.md): same source document (doc_0597)
+- [Coming To America (1988): Eddie Murphy's Romantic Comedy](coming_to_america_1988_eddie_murphy_comedy.md): same source document (doc_0597)
+- [Don't Go Breaking My Heart (2011): Johnnie To's Romantic Comedy](dont_go_breaking_my_heart_2011_johnnie_to_romcom.md): same source document (doc_0597)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

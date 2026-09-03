@@ -13,6 +13,7 @@ TechCrunch cautions that adjusted EBITDA is to profit as hidden heels in men's s
 
 ## Related Notes
 
+
 - [Bharti Airtel's EV/EBITDA Valuation Case](bharti_airtel_ev_ebitda_valuation_case.md): overlaps on EBITDA as an operating-profit measure, from a different document.
 - [Nike Greater China Sales Recovery](nike_greater_china_sales_recovery.md): overlaps on year-ago quarterly comparisons, from a different document.
 - [Nike Regional And Product Category Sales, Fiscal Q1 2024](nike_regional_and_product_category_sales_fiscal_q1_2024.md): overlaps on year-ago segment comparisons, from a different document.
@@ -21,6 +22,7 @@ TechCrunch cautions that adjusted EBITDA is to profit as hidden heels in men's s
 - [Uber Freight's Revenue Decline](uber_freight_revenue_decline.md): drawn from the same source document (doc_0337), and is the unprofitable segment.
 - [Uber's Q3 2023 Bookings By Segment](uber_q3_2023_bookings_by_segment.md): drawn from the same source document (doc_0337), and supplies the top line behind these profits.
 - [Uber's Q3 2023 Headline Results](uber_q3_2023_earnings_headline_results.md): drawn from the same source document (doc_0337).
+- [Uber's Results As A Macro Signal For Startups](uber_results_as_macro_signal_for_startups.md): same source document (doc_0337)
 
 ## Source
 

@@ -13,6 +13,7 @@ While others in Larson's position might have felt that being the owner of a comp
 
 ## Related Notes
 
+
 - [Autosport Top 50 Drivers 2023: NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): also discusses the Cup Series and Kyle Larson, from a different source document.
 - [Chris Buescher's 2023 Season and Autosport Snub](chris_buescher_2023_season_autosport_snub.md): also discusses the Cup Series, from a different source document.
 - [Christopher Bell's 2023 Season and Autosport Snub](christopher_bell_2023_season_autosport_snub.md): also discusses the Cup Series, from a different source document.
@@ -21,6 +22,7 @@ While others in Larson's position might have felt that being the owner of a comp
 - [Dale Earnhardt Jr's Visit to High Limit's Commonwealth Clash](dale_earnhardt_jr_visit_to_high_limit_commonwealth_clash.md): same source document, on the interview where Earnhardt Jr asked about these origins.
 - [High Limit Racing's Purse Escalation Mechanism](high_limit_racing_purse_escalation_mechanism.md): same source document, on the wider purse effect Larson was aiming for.
 - [High Limit Racing: Kyle Larson's Sprint Car Series](high_limit_racing_sprint_car_series.md): same source document, describing the series itself.
+- [Kyle Larson's Late-Race Mistake At Lernerville](kyle_larson_lernerville_late_race_mistake.md): same source document (doc_0443)
 
 ## Source
 

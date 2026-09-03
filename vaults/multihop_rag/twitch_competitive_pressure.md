@@ -15,11 +15,21 @@ The warrant joining grounds to claim is that the three changes are legible as an
 
 ## Related Notes
 
+
 - [Azarus CEO On Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): overlapping coverage of streamers, Twitch and competing platforms, from a different source document.
 - [Calls For Creative Experimentation In VTuber Agencies](calls_for_creative_experimentation_in_vtuber_agencies.md): shares the creator-economy and streaming-service themes, from a different source document.
 - [Daily Life At The Possibility Alliance](daily_life_at_the_possibility_alliance.md): shares the streaming-service and user-generated-content themes, from a different source document.
 - [Dan Clancy Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): overlapping coverage of the same CEO transition this argument leans on, from a different source document.
 - [Engadget VPN Testing Methodology](engadget_vpn_testing_methodology.md): shares the livestreaming and streaming-service themes, from a different source document.
+- [Twitch Advertising Strategy](twitch_advertising_strategy.md): same source document (doc_0401)
+- [Twitch Partner Plus Program](twitch_partner_plus_program.md): same source document (doc_0401)
+- [Twitch Revenue Split Controversy](twitch_revenue_split_controversy.md): same source document (doc_0401)
+- [Twitch Sponsorship And Amazon](twitch_sponsorship_and_amazon.md): same source document (doc_0401)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Simulcasting](term_simulcasting.md): uses the concept simulcasting
+- [Livestreaming](term_livestreaming.md): uses the concept livestreaming
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

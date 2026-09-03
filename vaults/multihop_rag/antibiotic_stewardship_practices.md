@@ -11,6 +11,7 @@ Dr. Shruti Gohil, a lead investigator of four INSPIRE-ASP Trials — federally f
 
 ## Related Notes
 
+
 - [Daye Planned Test Expansion: HPV, GBS and Herpes](daye_planned_test_expansion_hpv_gbs_herpes.md): another approach to reducing unnecessary antibiotic use through better detection.
 - [Unculturable Canine Bacterium and the Doxycycline Antibiotic Choice](unculturable_canine_bacterium_doxycycline_antibiotic_choice.md): another case about choosing the right antibiotic for the identified bacterium.
 - [Bacteriophage Therapy Basics](bacteriophage_therapy_basics.md): from the same article, on the alternatives these practices buy time for.
@@ -19,6 +20,8 @@ Dr. Shruti Gohil, a lead investigator of four INSPIRE-ASP Trials — federally f
 - [CRISPR-Based Antibacterial Therapy](crispr_based_antibacterial_therapy.md): from the same article, on a future treatment still years away.
 - [CRISPR-Cas System Mechanism](crispr_cas_system_mechanism.md): from the same article, on the molecular tools behind those future treatments.
 - [Global Burden of Antibiotic-Resistant Infections](global_burden_of_antibiotic_resistant_infections.md): from the same article, quantifying the trend stewardship aims to stall.
+- [How Antibiotic Resistance Emerges and Spreads](how_antibiotic_resistance_emerges_and_spreads.md): same source document (doc_0566)
+- [Lysins as Bacteria-Slaying Enzymes](lysins_as_bacteria_slaying_enzymes.md): same source document (doc_0566)
 
 ## Source
 

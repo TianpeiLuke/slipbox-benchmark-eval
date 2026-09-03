@@ -17,6 +17,7 @@ Strategy development is also inherent to the chief AI officer's job. "This invol
 
 ## Related Notes
 
+
 - [Autobrains Hires Uri Yacovy as COO](autobrains_hires_uri_yacovy_as_coo.md): overlapping vocabulary on officer, chief, from a different source document.
 - [AI as Clinician Ally not Replacement](ai_as_clinician_ally_not_replacement.md): drawn from the same source document (doc_0163).
 - [Bhavik Patel Appointed Mayo Clinic Arizona Chief AI Officer](bhavik_patel_appointed_mayo_clinic_arizona_chief_ai_officer.md): drawn from the same source document (doc_0163).
@@ -25,6 +26,7 @@ Strategy development is also inherent to the chief AI officer's job. "This invol
 - [Mayo Clinic AI Models for Heart Attack and Cancer Risk](mayo_clinic_ai_models_for_heart_attack_and_cancer_risk.md): drawn from the same source document (doc_0163).
 - [Risks and Limitations of Clinical AI](risks_and_limitations_of_clinical_ai.md): drawn from the same source document (doc_0163).
 - [Shortage of AI Trained Physicians](shortage_of_ai_trained_physicians.md): drawn from the same source document (doc_0163).
+- [Why A Health System Needs A Chief AI Officer](why_health_systems_need_a_chief_ai_officer.md): same source document (doc_0163)
 
 ## Source
 

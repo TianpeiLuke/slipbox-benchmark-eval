@@ -11,6 +11,7 @@ The couple's stated rule is a priority ordering rather than a fixed schedule. Ur
 
 ## Related Notes
 
+
 - [Aquaman And The Lost Kingdom](aquaman_and_the_lost_kingdom.md): another article featuring Nicole Kidman
 - [Dr Death Reacher And Prisoner's Daughter Releases](dr_death_reacher_and_prisoners_daughter_releases.md): another article referencing Tom Cruise
 - [Mission Impossible Dead Reckoning Part One](mission_impossible_dead_reckoning_part_one.md): another Tom Cruise-related article from a different domain
@@ -19,6 +20,8 @@ The couple's stated rule is a priority ordering rather than a fixed schedule. Ur
 - [Chris Stapleton And Morgane Stapleton Marriage](chris_stapleton_and_morgane_stapleton_marriage.md): another couple from the same roundup
 - [Country Music Couples Marriage Advice Roundup](country_music_couples_marriage_advice_roundup.md): the article this profile belongs to
 - [Dolly Parton And Carl Thomas Dean Marriage](dolly_parton_and_carl_thomas_dean_marriage.md): the longest marriage in the same roundup
+- [Garth Brooks And Trisha Yearwood's Marriage](garth_brooks_and_trisha_yearwood_marriage.md): same source document (doc_0019)
+- [Martina McBride And John McBride's Marriage](martina_mcbride_and_john_mcbride_marriage.md): same source document (doc_0019)
 
 ## Source
 

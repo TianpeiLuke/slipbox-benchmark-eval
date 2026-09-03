@@ -13,11 +13,18 @@ At 30 mins until kickoff the warm-ups were underway at Old Trafford on a chilly 
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also discusses Ten Hag, from a different document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): another Old Trafford fixture, from a different document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also concerns Man United, from a different document.
 - [Carabao Cup 2023-24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): also mentions Old Trafford, from a different document.
 - [Carabao Cup 2023 Quarter Final Draw](carabao_cup_2023_quarter_final_draw.md): also mentions Old Trafford and Raheem Sterling, from a different document.
+- [Erik Ten Hag Under Pressure In December 2023](erik_ten_hag_under_pressure_december_2023.md): same source document (doc_0129)
+- [Manchester United 2-1 Chelsea, December 2023](man_united_2_1_chelsea_december_2023_result.md): same source document (doc_0129)
+- [How The Goals Came In Manchester United 2-1 Chelsea](man_united_chelsea_december_2023_goal_sequence.md): same source document (doc_0129)
+- [Team News And Lineups For Manchester United vs Chelsea, December 2023](man_united_chelsea_december_2023_team_news_and_lineups.md): same source document (doc_0129)
+- [First Half Live Updates From Manchester United 2-1 Chelsea](man_united_chelsea_first_half_live_updates.md): same source document (doc_0129)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

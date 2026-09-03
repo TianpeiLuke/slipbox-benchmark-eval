@@ -11,11 +11,17 @@ The Fiend Warlock has struck a deal with a hellish fiend who strives for corrupt
 
 ## Related Notes
 
+
 - [Choosing A Class And Subclass In Baldur's Gate 3](bg3_class_and_subclass_selection_overview.md): same source; the guide that frames all 46 subclasses.
 - [Ability Scores Link BG3 Classes To Out-Of-Combat Skills](bg3_ability_scores_shape_out_of_combat_skills.md): drawn from the same source document (doc_0016).
 - [BG3 Barbarian: The Damage Class](bg3_barbarian_class_and_subclasses.md): drawn from the same source document (doc_0016).
 - [BG3 Bard: The Support Class And Its Colleges](bg3_bard_class_and_colleges.md): drawn from the same source document (doc_0016).
 - [BG3 Cleric: The Healer And Its Seven Domains](bg3_cleric_class_and_domains.md): drawn from the same source document (doc_0016).
+- [Custom Character Versus Origin Character In Baldur's Gate 3](bg3_custom_character_vs_origin_character.md): same source document (doc_0016)
+- [BG3 Druid: The Nature Caster](bg3_druid_class_and_circles.md): same source document (doc_0016)
+- [BG3 Fighter: The Beginner Melee Class](bg3_fighter_class_and_subclasses.md): same source document (doc_0016)
+- [BG3 Monk: The Speed Class](bg3_monk_class_and_subclasses.md): same source document (doc_0016)
+- [There Is No Single Best Class In Baldur's Gate 3](bg3_no_single_best_class_argument.md): same source document (doc_0017)
 
 ## Source
 

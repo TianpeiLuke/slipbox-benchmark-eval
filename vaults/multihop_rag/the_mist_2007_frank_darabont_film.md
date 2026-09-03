@@ -11,6 +11,7 @@ Jane plays a Hollywood poster artist living in Maine who, along with his wife an
 
 ## Related Notes
 
+
 - [Creepshow, 1982 Horror Anthology](creepshow_1982_horror_anthology.md): another Stephen King screen work covered in a different document
 - [OpenAI Training Data Copyright Lawsuits](openai_training_data_copyright_lawsuits.md): also involves Stephen King, in a wholly different context
 - [Stephen King's Salem's Lot Vampire Verdict](stephen_king_salems_lot_vampire_verdict.md): another Stephen King item from a different source
@@ -19,6 +20,8 @@ Jane plays a Hollywood poster artist living in Maine who, along with his wife an
 - [Climax, 2018, Gaspar Noé](climax_2018_gaspar_noe_film.md): another pick from the same Polygon horror guide
 - [Crimes Of The Future, 2022, David Cronenberg](crimes_of_the_future_2022_david_cronenberg.md): another pick from the same Polygon horror guide
 - [Cure, 1997, Kiyoshi Kurosawa](cure_1997_kiyoshi_kurosawa_film.md): another pick from the same Polygon horror guide
+- [Encounters Of The Spooky Kind: Sammo Hung's Jiangshi Martial Arts Comedy](encounters_of_the_spooky_kind_sammo_hung.md): same source document (doc_0563)
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0563)
 
 ## Source
 

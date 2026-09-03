@@ -11,6 +11,7 @@ Sporting News' conclusion on Nov. 27, 2023 was that the baseball world would pro
 
 ## Related Notes
 
+
 - [Eduardo Rodriguez Signs with Diamondbacks](eduardo_rodriguez_signs_with_diamondbacks.md): also cites Jeff Passan's reporting, from a different document.
 - [Kansas City Royals 2023 Offseason Signings](kansas_city_royals_2023_offseason_signings.md): also cites Jeff Passan's reporting, from a different document.
 - [Lourdes Gurriel Jr. Diamondbacks Re-Signing](lourdes_gurriel_jr_diamondbacks_re_signing.md): also cites Jeff Passan's reporting, from a different document.
@@ -19,6 +20,8 @@ Sporting News' conclusion on Nov. 27, 2023 was that the baseball world would pro
 - [Alternative Reading of the Mariners Ohtani Leak](alternative_reading_of_the_mariners_ohtani_leak.md): reads one report through this very secrecy preference, from the same document.
 - [Cubs Ohtani Fit After the NL Designated Hitter](cubs_ohtani_fit_after_nl_designated_hitter.md): one of the few nuggets that did emerge, from the same document.
 - [An Early Ohtani Signing Would Reshape the Offseason](early_ohtani_signing_would_reshape_the_offseason.md): another item in the same rumor tracker, from the same document.
+- [The Mariners Reported Out Of The Ohtani Chase](mariners_reported_out_of_the_ohtani_chase.md): same source document (doc_0480)
+- [The Report Of Ohtani's 'Affinity' For Boston](report_of_ohtani_affinity_for_boston.md): same source document (doc_0480)
 
 ## Source
 

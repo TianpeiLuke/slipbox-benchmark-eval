@@ -11,6 +11,7 @@ The grounds for the motive are political: President Joe Biden has made EVs a maj
 
 ## Related Notes
 
+
 - [The Apple-Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): also concerns President Joe Biden, from a different source document.
 - [The Biden-Xi San Francisco Summit, November 2023](biden_xi_san_francisco_summit_november_2023.md): also concerns President Joe Biden, from a different source document.
 - [The Cairo Diplomatic Surge And Summit For Peace 2023](cairo_diplomatic_surge_and_summit_for_peace_2023.md): also concerns President Joe Biden, from a different source document.
@@ -19,6 +20,8 @@ The grounds for the motive are political: President Joe Biden has made EVs a maj
 - [Biden's Picket Line Visit And EV Worker Messaging](biden_picket_line_visit_and_ev_worker_messaging.md): drawn from the same source document (doc_0319).
 - [EV Battery Plant Locations And Union Organizing](ev_battery_plant_locations_and_union_organizing.md): drawn from the same source document (doc_0319).
 - [EV Transition Momentum Despite Affordability Concerns](ev_transition_momentum_despite_affordability_concerns.md): drawn from the same source document (doc_0319).
+- [GOP Attacks On EVs As "Faux Populism"](gop_attacks_on_evs_as_faux_populism.md): same source document (doc_0319)
+- [Pew Polling On American EV Purchase Intent](pew_polling_on_american_ev_purchase_intent.md): same source document (doc_0319)
 
 ## Source
 

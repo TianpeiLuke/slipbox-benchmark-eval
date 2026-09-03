@@ -13,6 +13,7 @@ The warrant connecting the unpredictability to the parental advice is a claim ab
 
 ## Related Notes
 
+
 - [Adobe Generative AI Tools](adobe_generative_ai_tools.md): shares the generative AI topic tag across the corpus
 - [AI Copyright And Training Disputes](ai_copyright_and_training_disputes.md): shares the generative AI topic tag across the corpus
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): shares the generative AI topic tag across the corpus
@@ -21,6 +22,10 @@ The warrant connecting the unpredictability to the parental advice is a claim ab
 - [AI Training Fails The Fair Use Test](ai_training_fails_fair_use_test.md): shares the generative AI topic tag across the corpus
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the generative AI topic tag across the corpus
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares the generative AI topic tag across the corpus
+- [Titles, Money And Awards Are Poor Proxies For Mattering](extrinsic_rewards_are_poor_proxies_for_mattering.md): same source document (doc_0147)
+- [Potential Is Developed, Not Innate](potential_is_developed_not_innate.md): same source document (doc_0147)
+- [The Soft Skills Premium Employers Actually Pay For](soft_skills_premium_in_the_labour_market.md): same source document (doc_0147)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

@@ -11,6 +11,7 @@ Clark made the comments on Monday of the week covered by TechCrunch's October 7,
 
 ## Related Notes
 
+
 - [Clark Cease-And-Desist And Political Friction](clark_cease_and_desist_and_political_friction.md): overlaps in content on Flexport, Clark and the CNBC reporting, from a different source document.
 - [Dave Clark Hiring And Flexport IPO Plan](dave_clark_hiring_and_flexport_ipo_plan.md): covers the start of the same Clark–Flexport arc, from a different source document.
 - [Dave Clark Ouster From Flexport](dave_clark_ouster_from_flexport.md): covers the same ouster of Dave Clark, from a different source document.
@@ -18,6 +19,10 @@ Clark made the comments on Monday of the week covered by TechCrunch's October 7,
 - [Flexport Forecast Dispute And Whistleblower Claim](flexport_forecast_dispute_and_whistleblower_claim.md): overlaps in content on Flexport, Clark and the freight business, from a different source document.
 - [Acurable's Patient-Friendly Respiratory Wearables](acurable_respiratory_wearables.md): another item from the same October 7, 2023 Week in Review (doc_0011).
 - [AI Startup Defensibility](ai_startup_defensibility.md): another item from the same source document (doc_0011).
+- [Breathe Battery Technologies' Charging Software](breathe_battery_software.md): same source document (doc_0011)
+- [Gmail's New Rules For Bulk Senders](gmail_bulk_sender_rules.md): same source document (doc_0011)
+- [Going Infinite: Michael Lewis's Account Of SBF's Political Dealings](going_infinite_lewis_account.md): same source document (doc_0011)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

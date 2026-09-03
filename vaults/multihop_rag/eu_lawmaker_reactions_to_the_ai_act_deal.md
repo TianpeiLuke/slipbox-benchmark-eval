@@ -13,11 +13,18 @@ Speaking on behalf of the European Parliament, co-rapporteurs Dragoș Tudorache 
 
 ## Related Notes
 
+
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also covers European Parliament, from a different source document.
 - [EU AI Act Training Data Disclosure Rule](eu_ai_act_training_data_disclosure_rule.md): also covers European Parliament, from a different source document.
 - [EU CSAM Scanning Proposal](eu_csam_scanning_proposal.md): also covers European Parliament, from a different source document.
 - [EU DSA Formal Proceedings Against X](eu_dsa_formal_proceedings_against_x.md): also covers Thierry Breton, from a different source document.
 - [EU Enforcement Against X](eu_enforcement_against_x.md): also covers Thierry Breton, from a different source document.
+- [Civil Society Criticism Of The EU AI Act's Biometrics Limits](civil_society_criticism_of_eu_ai_act_biometrics_limits.md): same source document (doc_0564)
+- [EU AI Act High-Risk AI System Obligations](eu_ai_act_high_risk_ai_system_obligations.md): same source document (doc_0564)
+- [EU AI Act Penalties For Non-Compliance](eu_ai_act_penalties_for_non_compliance.md): same source document (doc_0564)
+- [EU AI Act Phased Entry Into Force Timeline](eu_ai_act_phased_entry_into_force_timeline.md): same source document (doc_0564)
+- [EU AI Act Political Agreement, December 2023](eu_ai_act_political_agreement_december_2023.md): same source document (doc_0564)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

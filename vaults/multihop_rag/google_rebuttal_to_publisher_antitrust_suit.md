@@ -11,6 +11,7 @@ The rebuttal therefore contests two of the suit's premises at once: that Google 
 
 ## Related Notes
 
+
 - [EU US Performance Rights Asymmetry](eu_us_performance_rights_asymmetry.md): overlapping concern with publishers and compensation, from a different source document.
 - [Flipboard Social Magazine Platform](flipboard_social_magazine_platform.md): overlapping coverage of publishers and links to their content, from a different source document.
 - [Google PageRank And The Link Economy](google_pagerank_and_the_link_economy.md): overlapping treatment of Google linking to websites, from a different source document.
@@ -19,6 +20,8 @@ The rebuttal therefore contests two of the suit's premises at once: that Google 
 - [AI Search Publisher Traffic Loss Projections](ai_search_publisher_traffic_loss_projections.md): drawn from the same source document (doc_0033), giving the traffic figures Google's referral claim is set against.
 - [Google Knowledge Graph And Featured Snippets](google_knowledge_graph_and_featured_snippets.md): drawn from the same source document (doc_0033), on the technologies the suit blames.
 - [Google News Content Payment Deal With Canada](google_news_content_payment_deal_with_canada.md): drawn from the same source document (doc_0033), where Google did agree to pay publishers.
+- [The Claim That SGE And Bard Appropriate Publisher Content](google_sge_and_bard_content_appropriation_claims.md): same source document (doc_0033)
+- [Helena World Chronicle's Class Action Antitrust Suit Against Google](helena_world_chronicle_v_google_antitrust_suit.md): same source document (doc_0033)
 
 ## Source
 

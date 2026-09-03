@@ -11,6 +11,7 @@ The adjacent note in the same list recorded that after missing the previous week
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Drake London, from a different document.
 - [Dolphins 45-15 Commanders Week 13](dolphins_45_15_commanders_week_13.md): also discusses Tyreek Hill, from a different document.
 - [Dolphins Chiefs Germany Moneyline Pick](dolphins_chiefs_germany_moneyline_pick.md): also discusses Tyreek Hill, from a different document.
@@ -19,6 +20,8 @@ The adjacent note in the same list recorded that after missing the previous week
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): another entry in the same preview, from the same document.
 - [Curtis Samuel Week 16 Waiver Target](curtis_samuel_week_16_waiver_target.md): another entry in the same preview, from the same document.
 - [Deebo Samuel Yards Per Target Pace](deebo_samuel_yards_per_target_pace.md): another stat note from the same run, from the same document.
+- [Demario Douglas Week 16 Waiver Target](demario_douglas_week_16_waiver_target.md): same source document (doc_0146)
+- [Dontayvion Wicks Week 16 Waiver Target](dontayvion_wicks_week_16_waiver_target.md): same source document (doc_0146)
 
 ## Source
 

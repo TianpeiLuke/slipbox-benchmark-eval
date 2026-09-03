@@ -13,11 +13,18 @@ So far, Purdy has started the 2023 NFL season where he left off, opening the sea
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also discusses Brock Purdy and the Super Bowl, from a different source document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also discusses Brock Purdy, from a different source document.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also discusses the Super Bowl, from a different source document.
 - [Bears-Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): shares the National Football League and playoff-seeding topic tags, from a different source document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also discusses the Super Bowl, from a different source document.
+- [Mr. Irrelevant: The NFL Draft's Final Pick](mr_irrelevant_nfl_draft_final_pick_title.md): same source document (doc_0362)
+- [Grading The 2022 NFL Draft Quarterback Class](nfl_2022_draft_quarterback_class_grades.md): same source document (doc_0362)
+- [The Eight Quarterbacks Selected Before Brock Purdy](quarterbacks_selected_before_brock_purdy_2022_draft.md): same source document (doc_0362)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

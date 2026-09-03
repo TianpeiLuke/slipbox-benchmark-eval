@@ -13,6 +13,7 @@ The reception evidence: ChatGPT has impressed cynics like The New York Times' Ke
 
 ## Related Notes
 
+
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): overlaps on chatbot quality comparisons, from a different document.
 - [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): overlaps on what distinguishes ChatGPT from earlier chatbots, from a different document.
 - [DALL-E 3 Image Generation In ChatGPT](dalle_3_image_generation_in_chatgpt.md): overlaps on the conversational surface these features sit in, from a different document.
@@ -21,6 +22,8 @@ The reception evidence: ChatGPT has impressed cynics like The New York Times' Ke
 - [ChatGPT As A User Experience Breakthrough](chatgpt_as_user_experience_breakthrough.md): drawn from the same source document (doc_0047).
 - [The Competitive Response To ChatGPT Across The AI Industry](chatgpt_competitive_response_across_ai_industry.md): drawn from the same source document (doc_0047).
 - [ChatGPT's Hallucination And Bias Limitations](chatgpt_hallucination_and_bias_limitations.md): drawn from the same source document (doc_0047).
+- [ChatGPT's Launch And Its First Year Of Evolution](chatgpt_launch_and_first_year_evolution.md): same source document (doc_0047)
+- [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): same source document (doc_0047)
 
 ## Source
 

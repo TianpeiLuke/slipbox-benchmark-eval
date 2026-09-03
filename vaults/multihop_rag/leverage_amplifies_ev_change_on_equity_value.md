@@ -11,11 +11,18 @@ The relation generalises in one direction: the higher the leverage, the more the
 
 ## Related Notes
 
+
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): shares the percentage-move framing applied to both directions, from a different source document.
 - [Consumer Trading Recovery Coinbase And Robinhood](consumer_trading_recovery_coinbase_and_robinhood.md): concerns equity value moving more than the underlying, from a different source document.
 - [Indian High Net Worth Investor Population Growth](indian_high_net_worth_investor_population_growth.md): shares the percentage-increase framing, from a different source document.
 - [Public Policy Objectives Efficiency Equity Stability](public_policy_objectives_efficiency_equity_stability.md): shares the equity vocabulary in a different sense, from a different source document.
 - [Reliance Industries Sum Of The Parts Valuation Case](reliance_industries_sum_of_the_parts_valuation_case.md): moves between business value and equity value net of debt, from a different source document.
+- [Bharti Airtel: The EV/EBITDA Case That PE Would Have Missed](bharti_airtel_ev_ebitda_valuation_case.md): same source document (doc_0418)
+- [Enterprise Value Multiples](enterprise_value_multiples.md): same source document (doc_0418)
+- [Equity Multiples Must Use Shareholder Line Items](equity_multiples_and_shareholder_line_items.md): same source document (doc_0418)
+- [Equity Valuations Must Be Judged Against Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): same source document (doc_0418)
+- [Ketchup Economics: The Peer-Multiple Fallacy](ketchup_economics_peer_multiple_fallacy.md): same source document (doc_0418)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

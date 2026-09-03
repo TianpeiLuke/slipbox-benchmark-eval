@@ -11,12 +11,15 @@ The objection is deliberately partial rather than a wholesale rejection. "I'm in
 
 ## Related Notes
 
+
 - [Daniel Sprong Shots On Goal Prop](daniel_sprong_shots_on_goal_prop.md): also concerns shots and pucks reaching the net, from a different document.
 - [The Mechanics Of Connor Bedard's Shot](connor_bedard_shot_mechanics_toe_drag_release.md): the lateral pull-in this objection targets, from the same article.
 - [Turk's Assessment Of Bedard's Release Speed](turk_assessment_of_bedard_release_speed.md): the favourable verdict this scepticism dissents from, from the same article.
 - [Connor Bedard's Shooting Practice Habits](connor_bedard_shooting_practice_habits.md): the work behind the technique in question, from the same article.
 - [Connor Bedard's Rookie Adjustment With The Blackhawks](connor_bedard_rookie_adjustment_with_the_blackhawks.md): the adjustment period this coach anticipates, from the same article.
 - [Goalies And Peers On Defending Bedard's Shot](goalies_and_peers_on_defending_bedard_shot.md): the contrary testimony from those who face it, from the same article.
+- [Tim Turk's First Evaluation Of Connor Bedard](tim_turk_first_evaluation_of_connor_bedard.md): same source document (doc_0102)
+- [Tim Turk's NHL Protocol Observation Assessment](tim_turk_nhl_protocol_observation_assessment.md): same source document (doc_0102)
 
 ## Source
 

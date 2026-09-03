@@ -13,11 +13,19 @@ Other configurations were discounted too. If you need more storage, the 512GB mo
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the discount-and-hardware theme, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares the discounted-hardware theme, from a different source document.
 - [Apple AirPods Pro, Second Generation](apple_airpods_pro_second_generation.md): covers another Apple product in the same sale, from a different source document.
 - [Apple M3 Mac Reviews And Chip Lineup](apple_m3_mac_reviews_and_chip_lineup.md): covers the successor Mac generation, from a different source document.
 - [Google Pixel Tablet](google_pixel_tablet.md): covers another discounted device in the same sale context, from a different source document.
+- [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): same source document (doc_0567)
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): same source document (doc_0567)
+- [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): same source document (doc_0567)
+- [Beats Studio Pro Headphones](beats_studio_pro_headphones.md): same source document (doc_0567)
+- [Crucial MX500 Internal SSD](crucial_mx500_internal_ssd.md): same source document (doc_0567)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

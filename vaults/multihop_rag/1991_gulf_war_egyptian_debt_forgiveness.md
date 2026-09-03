@@ -11,6 +11,7 @@ The motives on the creditor side were specific: the US wanted to reward Egypt's 
 
 ## Related Notes
 
+
 - [Cairo Diplomatic Surge And The 2023 Summit For Peace](cairo_diplomatic_surge_and_summit_for_peace_2023.md): drawn from the same source document (doc_0218).
 - [Egypt's Economic Crisis And IMF Rescue Program](egypt_economic_crisis_and_imf_rescue_program.md): drawn from the same source document (doc_0218).
 - [Egypt's Refusal To Host Palestinian Refugees](egypt_refusal_to_host_palestinian_refugees.md): drawn from the same source document (doc_0218).
@@ -19,6 +20,7 @@ The motives on the creditor side were specific: the US wanted to reward Egypt's 
 - [The Egypt Too-Big-To-Fail Thesis](egypt_too_big_to_fail_thesis.md): drawn from the same source document (doc_0218).
 - [Israeli Plan To Temporarily House Gazans In Sinai](israeli_plan_to_temporarily_house_gazans_in_sinai.md): drawn from the same source document (doc_0218).
 - [Limits Of Repeating The 1991 Debt Relief Bargain](limits_of_repeating_the_1991_debt_relief_bargain.md): drawn from the same source document (doc_0218) and argues the precedent cannot be repeated.
+- [Saudi Co-Leadership As Egypt's Way Out Of The Dilemma](saudi_co_leadership_as_egypts_way_out.md): same source document (doc_0218)
 
 ## Source
 

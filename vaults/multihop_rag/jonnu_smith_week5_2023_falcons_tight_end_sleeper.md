@@ -13,11 +13,18 @@ The matchup grounds are Houston's tight end problem. The Texans have had a bundl
 
 ## Related Notes
 
+
 - [Cole Kmet Week 6 2023 Start Recommendation](cole_kmet_week6_2023_start_recommendation.md): another tight end call weighing target share against Kyle Pitts, from a different document.
 - [Desmond Ridder Falcons Hot Seat](desmond_ridder_falcons_hot_seat.md): covers the Falcons quarterback whose short-throw preference underpins this call, from a different document.
 - [Jeff Wilson Week 6 2023 Sleeper Recommendation](jeff_wilson_week6_2023_sleeper_recommendation.md): another "Sneaky Sleeper" verdict in the same weekly-decision format, from a different document.
 - [Justice Hill Week 6 2023 Sleeper Recommendation](justice_hill_week6_2023_sleeper_recommendation.md): another "Sneaky Sleeper" verdict, from a different document.
 - [K.J. Osborn Week 6 2023 Sit Recommendation](kj_osborn_week6_2023_sit_recommendation.md): overlaps on the same routes-run and target-share reasoning about a secondary receiving option, from a different document.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0058)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0058)
+- [Dallas Goedert As A Week 5 2023 Bust Candidate At The Rams](dallas_goedert_week5_2023_bust_warning.md): same source document (doc_0058)
+- [Dameon Pierce As A Week 5 2023 Sit At Atlanta](dameon_pierce_week5_2023_sit_recommendation.md): same source document (doc_0058)
+- [DeAndre Hopkins As A Week 5 2023 Start At Indianapolis](deandre_hopkins_week5_2023_start_recommendation.md): same source document (doc_0058)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

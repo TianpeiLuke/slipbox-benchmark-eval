@@ -13,6 +13,7 @@ She could not, however, escape the cycle Timberlake set in motion. She describes
 
 ## Related Notes
 
+
 - [Britney Spears And Justin Timberlake Relationship](britney_spears_and_justin_timberlake_relationship.md): covers the Timberlake relationship and cheating claim from another document
 - [Bad Blood Taylor Swift Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): another pop-feud narrative in the corpus, different source
 - [Backlash To Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): another celebrity-statement backlash story elsewhere in the corpus
@@ -21,6 +22,16 @@ She could not, however, escape the cycle Timberlake set in motion. She describes
 - [Australia Women Test Defeat To India Mumbai 2023](australia_women_test_defeat_to_india_mumbai_2023.md): shares the same broad tag, unrelated subject
 - [Animal Crossing New Horizons](animal_crossing_new_horizons.md): shares the same broad tag, unrelated subject
 - [Alameda Research Origins And Naming](alameda_research_origins_and_naming.md): shares the same broad tag, unrelated subject
+- [Arrested Development: Britney Spears' Child-Robot Model Of The Conservatorship](britney_spears_arrested_development_under_conservatorship.md): same source document (doc_0052)
+- [Britney Spears On Conservatorship Restrictions And Swat Holds](britney_spears_conservatorship_restrictions_and_swat_holds.md): same source document (doc_0052)
+- [Britney Spears' Estrangement From Her Family](britney_spears_estrangement_from_her_family.md): same source document (doc_0052)
+- [Britney Spears' Memoir Barbs At Timberlake And Federline](britney_spears_memoir_barbs_at_timberlake_and_federline.md): same source document (doc_0052)
+- [Britney Spears On Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): same source document (doc_0052)
+- [Britney Spears' Memoir On Early Fame And The Loss Of Freedom](britney_spears_memoir_early_fame_loss_of_freedom.md): same source document (doc_0052)
+- [Britney Spears On Motherhood And Postpartum Depression](britney_spears_motherhood_and_postpartum_depression.md): same source document (doc_0052)
+- [Britney Spears On Music Making From Baby One More Time To Blackout](britney_spears_music_making_from_baby_one_more_time_to_blackout.md): same source document (doc_0052)
+- [Britney Spears' Confinement In A Solitary Rehab Facility](britney_spears_solitary_rehab_facility_confinement.md): same source document (doc_0052)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

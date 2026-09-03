@@ -13,6 +13,7 @@ The goal is simply to survive and be the last one standing.
 
 ## Related Notes
 
+
 - [Classic Nintendo Switch Franchise Picks](classic_nintendo_switch_franchise_picks.md): overlapping Nintendo Switch subject matter from a different source document
 - [Nintendo Switch OLED Smash Bros Bundle Deal](nintendo_switch_oled_smash_bros_bundle_deal.md): covers a hardware bundle for the same game, from a separate article
 - [Nintendo Switch Pro Controller](nintendo_switch_pro_controller.md): another Nintendo Switch hardware note from a different document
@@ -21,6 +22,8 @@ The goal is simply to survive and be the last one standing.
 - [Captain Toad: Treasure Tracker](captain_toad_treasure_tracker.md): another pick from the same couch co-op roundup
 - [Cat Quest 2](cat_quest_2.md): a fellow entry in the same Switch co-op article
 - [Crypt of the NecroDancer](crypt_of_the_necrodancer.md): another local co-op recommendation from the same document
+- [Cuphead (Local Co-Op)](cuphead_local_co_op.md): same source document (doc_0428)
+- [Diablo 3 (Switch Local Multiplayer)](diablo_3_switch_local_multiplayer.md): same source document (doc_0428)
 
 ## Source
 

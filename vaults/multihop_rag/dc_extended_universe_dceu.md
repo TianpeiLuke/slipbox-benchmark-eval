@@ -13,6 +13,7 @@ The boundary case that illustrates the second mode is Todd Phillips' Joker, a fi
 
 ## Related Notes
 
+
 - [People-Centered Robotics Philosophy at Amazon](people_centered_robotics_philosophy_amazon.md): incidental vocabulary overlap from an unrelated source document
 - [Pokémon Franchise Longevity and Scale](pokemon_franchise_longevity_and_scale.md): both discuss the Marvel Cinematic Universe as a benchmark, from a different article
 - [Spider-Man Macy's Thanksgiving Parade Balloon](spider_man_macys_thanksgiving_parade_balloon.md): overlapping comics and Marvel vocabulary from a separate document
@@ -21,6 +22,8 @@ The boundary case that illustrates the second mode is Todd Phillips' Joker, a fi
 - [Arkham Asylum: The Batman Prequel Series](arkham_asylum_the_batman_prequel_series.md): another DC project covered in the same document
 - [Black Superman Movie (Ta-Nehisi Coates)](black_superman_movie_ta_nehisi_coates.md): a further DC project from the same roundup
 - [Booster Gold TV Series](booster_gold_tv_series.md): another entry in the same DC slate article
+- [Brave and the Bold (Damian Wayne Film)](brave_and_the_bold_damian_wayne_film.md): same source document (doc_0081)
+- [Creature Commandos Animated Series](creature_commandos_animated_series.md): same source document (doc_0081)
 
 ## Source
 

@@ -13,6 +13,7 @@ The uncapped wicketkeepers' set began at 6:00 PM IST after the break, when Engla
 
 ## Related Notes
 
+
 - [Harshal Patel's Vijay Hazare Trophy Form Before the IPL Auction](harshal_patel_vijay_hazare_trophy_form_before_ipl_auction.md): same auction live blog.
 - [IPL 2024 Auction: All-Rounders Set](ipl_2024_auction_all_rounders_set.md): same auction live blog, covering an earlier capped set.
 - [IPL 2024 Auction: Capped Batters Set](ipl_2024_auction_capped_batters_set.md): same auction live blog, covering the capped equivalent of this set.
@@ -21,6 +22,8 @@ The uncapped wicketkeepers' set began at 6:00 PM IST after the break, when Engla
 - [IPL 2024 Auction: Expert Previews and Team Strategy](ipl_2024_auction_expert_previews_and_team_strategy.md): same auction live blog.
 - [IPL 2024 Auction: Final Round Results](ipl_2024_auction_final_round_results.md): same auction live blog, on the closing round.
 - [IPL 2024 Auction: First Accelerated Round](ipl_2024_auction_first_accelerated_round.md): same auction live blog, on the phase that followed.
+- [IPL 2024 Auction: Overseas Availability Concerns](ipl_2024_auction_overseas_availability_concerns.md): same source document (doc_0307)
+- [IPL 2024 Auction: A Record-Breaking Day](ipl_2024_auction_record_breaking_summary.md): same source document (doc_0307)
 
 ## Source
 

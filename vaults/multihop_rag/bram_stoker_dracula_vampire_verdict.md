@@ -11,9 +11,17 @@ The context is the novel's importance. The real breakthrough moment for vampires
 
 ## Related Notes
 
+
 - [The Count On Sesame Street](the_count_sesame_street.md): another treatment of the count archetype, from a different source document.
 - [The Surprise Vampire Trope](surprise_vampire_trope.md): overlaps in content on vampire, vampires, story, from a different source document.
 - [Anne Rice: Vampire Verdict](anne_rice_vampire_chronicles_verdict.md): drawn from the same source document (doc_0452).
+- [The Lineage Of English-Language Vampire Fiction](english_language_vampire_fiction_lineage.md): same source document (doc_0452)
+- [John William Polidori And The Vampyre](john_william_polidori_the_vampyre.md): same source document (doc_0452)
+- [Laurell K. Hamilton: Vampire Verdict](laurell_k_hamilton_anita_blake_verdict.md): same source document (doc_0452)
+- [Stephen King: Vampire Verdict](stephen_king_salems_lot_vampire_verdict.md): same source document (doc_0452)
+- [Taika Waititi: Vampire Verdict](taika_waititi_what_we_do_in_the_shadows_verdict.md): same source document (doc_0452)
+- [Which Vampire Authors Were Vampires?](which_vampire_authors_were_vampires_premise.md): same source document (doc_0452)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

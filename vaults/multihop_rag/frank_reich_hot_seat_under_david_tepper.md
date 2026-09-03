@@ -13,11 +13,16 @@ The warrant joining the grounds to the claim is the precedent of Matt Rhule: Sch
 
 ## Related Notes
 
+
 - [Bears Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): covers the Bears-Panthers game framed here as pivotal, from a different document.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): also cites Adam Schefter, from a different document.
 - [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): also discusses Thursday Night Football, from a different document.
 - [Chargers Fire Brandon Staley and Tom Telesco](chargers_fire_brandon_staley_and_tom_telesco.md): another in-season firing tied to a Thursday Night Football result, from a different document.
 - [Chiefs Jets Pregame Notes: Taylor Swift and Rodgers](chiefs_jets_pregame_notes_taylor_swift_and_rodgers.md): also cites Adam Schefter, from a different document.
+- [Frank Reich's Head Coaching Record](frank_reich_head_coaching_record.md): same source document (doc_0474)
+- [Panthers Offense Struggles Under Bryce Young](panthers_offense_struggles_under_bryce_young.md): same source document (doc_0474)
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

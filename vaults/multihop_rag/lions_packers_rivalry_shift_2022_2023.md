@@ -11,11 +11,16 @@ The grounds for the turn: while the Packers have packed up the Lions for years, 
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also covers Green Bay and Aaron Jones' availability, from a different source document.
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also covers Green Bay, from a different source document.
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also set at Lambeau Field, from a different source document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also covers Jordan Love, from a different source document.
 - [Chiefs Jets Pregame Notes: Taylor Swift and Rodgers](chiefs_jets_pregame_notes_taylor_swift_and_rodgers.md): also covers Aaron Rodgers, whose departure frames this argument, from a different source document.
+- [The FanDuel Single-Game Lineup For Lions-Packers Week 4, And Why](lions_packers_week_4_fanduel_single_game_lineup.md): same source document (doc_0183)
+- [The SuperDraft Lineup For Lions-Packers Week 4 And How Its Multiplier Scoring Works](lions_packers_week_4_superdraft_lineup_and_scoring.md): same source document (doc_0183)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

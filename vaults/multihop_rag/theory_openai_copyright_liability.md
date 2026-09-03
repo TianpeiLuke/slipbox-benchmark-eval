@@ -13,6 +13,7 @@ What works against it is again the succession. If copyright liability was the re
 
 ## Related Notes
 
+
 - [Anthropic's Fair Use Defense For AI Training](anthropic_fair_use_defense_for_ai_training.md): overlaps on copyright liability for model training, from a different document.
 - [ChatGPT Subscription Tiers And Pricing](chatgpt_subscription_tiers_and_pricing.md): also covers OpenAI's Dev Day announcements, from a different document.
 - [GPT Model Releases From GPT-3.5 To GPT-4](gpt_model_releases_from_gpt35_to_gpt4.md): covers the model generations at issue here, from a different document.
@@ -21,6 +22,8 @@ What works against it is again the succession. If copyright liability was the re
 - [Dismissed Theories: A Murati Coup And A Personal Matter](dismissed_theories_murati_coup_and_personal_matter.md): drawn from the same source document (doc_0333).
 - [The OpenAI Board Ousts Sam Altman, November 2023](openai_board_ousts_sam_altman_november_2023.md): drawn from the same source document (doc_0333).
 - [Theory: Altman Circumvented The Board On A Deal](theory_altman_circumvented_board_on_a_deal.md): drawn from the same source document (doc_0333), and is the leading rival explanation.
+- [Theory: An AGI And Mission Rift Between Altman And The Board](theory_openai_agi_mission_rift.md): same source document (doc_0333)
+- [Theory: A Financial Mismatch At OpenAI](theory_openai_financial_mismatch.md): same source document (doc_0333)
 
 ## Source
 

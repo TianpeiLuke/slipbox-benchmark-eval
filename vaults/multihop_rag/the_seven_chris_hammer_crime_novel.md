@@ -13,6 +13,7 @@ The reviewer's expectation of the genre is stated plainly: "You can expect dark 
 
 ## Related Notes
 
+
 - [Stone Yard Devotional Charlotte Wood](stone_yard_devotional_charlotte_wood.md): another Australian novel in the same October roundup
 - [Gunflower Stories Laura Jean Mckay](gunflower_stories_laura_jean_mckay.md): another Australian fiction title in the same roundup
 - [Mr Einsteins Secretary Matthew Reilly](mr_einsteins_secretary_matthew_reilly.md): another genre novel in the same roundup
@@ -21,6 +22,8 @@ The reviewer's expectation of the genre is stated plainly: "You can expect dark 
 - [Life As We Knew It Australian Pandemic Account](life_as_we_knew_it_australian_pandemic_account.md): another October title in the same roundup
 - [My Life As A Jew Michael Gawenda](my_life_as_a_jew_michael_gawenda.md): another October title in the same roundup
 - [The Fall Michael Wolff On The Murdoch Empire](the_fall_michael_wolff_on_the_murdoch_empire.md): another October title in the same roundup
+- [The Woman In Me: Publication Details Of Britney Spears' Memoir](the_woman_in_me_memoir_publication_details.md): same source document (doc_0582)
+- [Robyn Davidson's Memoir, Published October 2023](unfinished_woman_robyn_davidson_memoir.md): same source document (doc_0582)
 
 ## Source
 

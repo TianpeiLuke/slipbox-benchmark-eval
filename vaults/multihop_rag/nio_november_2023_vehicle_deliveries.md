@@ -11,6 +11,7 @@ The two comparisons point in opposite directions and are the whole substance of 
 
 ## Related Notes
 
+
 - [Sanctuary AI Phoenix Bipedal Robot](sanctuary_ai_phoenix_bipedal_robot.md): overlaps on unit counts rising, from a different source document.
 - [Waymo Vehicles in Uber App](waymo_vehicles_in_uber_app.md): another announcement about a vehicle fleet, from a different source document.
 - [Zipcar NHTSA Recall Fine](zipcar_nhtsa_recall_fine.md): another vehicle-count-centred report, from a different source document.
@@ -19,6 +20,8 @@ The two comparisons point in opposite directions and are the whole substance of 
 - [DocuSign Q3 FY2024 Earnings Preview](docusign_q3_fy2024_earnings_preview.md): another company preview from the same article, from the same source document.
 - [Earnings Week Ahead: December 4-8, 2023](earnings_week_ahead_december_4_8_2023.md): the calendar article that carried this delivery figure, from the same source document.
 - [GameStop Meme Stock Rally, December 2023](gamestop_meme_stock_rally_december_2023.md): another recent-days datapoint reported in the same week-ahead, from the same source document.
+- [GameStop Q3 Earnings Preview, December 2023](gamestop_q3_fy2023_earnings_preview.md): same source document (doc_0581)
+- [GitLab Q3 Earnings Preview, December 2023](gitlab_q3_fy2024_earnings_preview.md): same source document (doc_0581)
 
 ## Source
 

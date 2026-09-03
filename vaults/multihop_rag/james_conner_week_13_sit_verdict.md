@@ -11,6 +11,7 @@ The matchup adds a second layer. Conner will face his former team, Pittsburgh, w
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another Sit Him verdict in the same weekly format, from a different source document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another Sit Him verdict, from a different source document.
 - [Cardinals 24-10 Steelers Week 13](cardinals_24_10_steelers_week_13.md): reports the same game and covers Kyler Murray, whose return underpins this call, from a different source document.
@@ -19,6 +20,8 @@ The matchup adds a second layer. Conner will face his former team, Pittsburgh, w
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): a parallel Week 13 player verdict from the same article (doc_0057).
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a parallel Week 13 player verdict from the same article (doc_0057).
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): a parallel Week 13 player verdict from the same article (doc_0057).
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
 
 ## Source
 

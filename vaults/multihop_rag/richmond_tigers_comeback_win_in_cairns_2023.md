@@ -13,12 +13,18 @@ Hawthorn's Irish ace Aine McDonagh kicked the opening goal before Tigers skipper
 
 ## Related Notes
 
+
 - [AFLW 2023 Finals Qualification and Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): also concerns North Melbourne, from a different document.
 - [Charlie Edwards, AFL Draft Prospect 2023](charlie_edwards_afl_draft_prospect_2023.md): also concerns the Western Bulldogs, from a different document.
 - [Clay Hall, AFL Draft Prospect 2023](clay_hall_afl_draft_prospect_2023.md): also concerns the Western Bulldogs, from a different document.
 - [Erin Phillips' AFLW Retirement](erin_phillips_aflw_retirement.md): also concerns the Western Bulldogs, from a different document.
 - [Geelong Cats' 2023 AFLW Finals Qualification](geelong_cats_2023_aflw_finals_qualification.md): also concerns North Melbourne, from a different document.
 - [AFLW 2023 Tackle and Bump Suspension Debate](aflw_2023_tackle_and_bump_suspension_debate.md): drawn from the same document (doc_0208).
+- [Brisbane Lions' 2023 AFLW Top-Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): same source document (doc_0208)
+- [Collingwood-Geelong's Wind And Rain Contest, 2023](collingwood_geelong_wind_and_rain_contest_2023.md): same source document (doc_0208)
+- [Melbourne (Narrm)'s 2023 AFLW Ladder Position](melbourne_narrm_2023_aflw_ladder_position.md): same source document (doc_0208)
+- [Richelle Cranston's Kidney Disease And Retirement](richelle_cranston_kidney_disease_and_retirement.md): same source document (doc_0208)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

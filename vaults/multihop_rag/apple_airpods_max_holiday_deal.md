@@ -11,9 +11,20 @@ The Apple deal roundups praise them as well-designed and comfortable, implementi
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): overlaps in content on AirPods and noise cancellation, from a different source document.
 - [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): also references Prime Day pricing comparisons, from a different source document.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares discount-and-MSRP framing, from a different source document.
+- [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): both discuss Prime Day; different source document
+- [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): shares discount_and_msrp, streaming_service; different source document
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): same source document (doc_0404)
+- [Anker Soundcore Liberty 4 NC Earbuds Deal Prices](anker_soundcore_liberty_4_nc_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space Q45 Deal](anker_soundcore_space_q45_deal.md): same source document (doc_0404)
+- [Apple AirPods 2nd Gen Holiday Deal](apple_airpods_2nd_gen_holiday_deal.md): same source document (doc_0404)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
 
 ## Source
 

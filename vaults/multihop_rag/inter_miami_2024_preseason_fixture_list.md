@@ -13,11 +13,20 @@ Two items headline the list. An anticipated two-match tour of China was cancelle
 
 ## Related Notes
 
+
 - [Anthony Joshua's Mental Rebuild After Usyk and Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): also discusses Saudi Arabia, from a different document.
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): also discusses Lionel Messi, from a different document.
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also discusses Saudi Arabia, from a different document.
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also discusses Lionel Messi, from a different document.
 - [Argentina Second Half and Messi Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): also discusses Lionel Messi, from a different document.
+- [The Cancelled China Tour And The NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): same source document (doc_0535)
+- [Inter Miami's Friendly Against El Salvador](inter_miami_friendly_against_el_salvador.md): same source document (doc_0535)
+- [Inter Miami's Hong Kong Leg Of The Asia Tour](inter_miami_hong_kong_leg_of_asia_tour.md): same source document (doc_0535)
+- [Inter Miami vs Vissel Kobe In Tokyo](inter_miami_vs_vissel_kobe_in_tokyo.md): same source document (doc_0535)
+- [Messi vs Ronaldo: The Inter Miami-Al Nassr Friendly](messi_vs_ronaldo_inter_miami_al_nassr_friendly.md): same source document (doc_0535)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

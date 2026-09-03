@@ -11,6 +11,7 @@ His account of the process supplies the grounds. In an X post on Friday night, B
 
 ## Related Notes
 
+
 - [Anthropic's Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): also concerns Greg Brockman, from a different source document.
 - [The GPT-4 Demonstration To Bill Gates](gpt4_demonstration_to_bill_gates.md): overlapping coverage of Brockman, OpenAI and Altman, from a different source document.
 - [Greg Brockman's Departure From OpenAI](greg_brockman_departure_from_openai.md): also concerns Greg Brockman, from a different source document.
@@ -19,6 +20,8 @@ His account of the process supplies the grounds. In an X post on Friday night, B
 - [Altman's Argument On AI's Promise And Existential Risk](altman_argument_on_ai_promise_and_existential_risk.md): drawn from the same source document (doc_0332).
 - [Analyst Assessment Of Altman's Departure Impact](analyst_assessment_of_altman_departure_impact.md): drawn from the same source document (doc_0332).
 - [The Analyst View That Altman's Exit Was Not A Business Problem](analyst_view_that_altman_exit_was_not_a_business_problem.md): drawn from the same source document (doc_0332).
+- [Criticism Of The Focus On Far-Off AI Risk, And The FTC Probe](criticism_of_far_off_ai_risk_focus_and_ftc_probe.md): same source document (doc_0332)
+- [OpenAI's Board Composition In November 2023](openai_board_composition_november_2023.md): same source document (doc_0332)
 
 ## Source
 

@@ -11,6 +11,7 @@ Ethan Hughes, the charismatic, folksy co-founder of the Possibility Alliance, st
 
 ## Related Notes
 
+
 - [Amazon Rainforest Tipping Point](amazon_rainforest_tipping_point.md): from the same article, on the Amazon the group dedicated its work to.
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): from the same article, on how common this kind of distress is.
 - [Daily Life at the Possibility Alliance](daily_life_at_the_possibility_alliance.md): from the same article, on the chores that followed the morning meeting.
@@ -19,6 +20,8 @@ Ethan Hughes, the charismatic, folksy co-founder of the Possibility Alliance, st
 - [Kalmus's Personal Emissions Reduction as Detoxification](kalmus_personal_emissions_reduction_as_detoxification.md): from the same article, on living without fossil fuels personally.
 - [Kalmus's Reflections on Low-Energy Living](kalmus_reflections_on_low_energy_living.md): from the same article, on what he concluded after this stay.
 - ["No Place Is Safe": Climate Impacts on Kalmus's Life](no_place_is_safe_climate_impacts_on_kalmus_life.md): from the same article, on the experiences behind his grief.
+- [Peter Kalmus, Climate Anxiety and Meditation](peter_kalmus_climate_anxiety_and_meditation.md): same source document (doc_0233)
+- [Peter Kalmus's Profile and Radical Turn](peter_kalmus_profile_and_radical_turn.md): same source document (doc_0233)
 
 ## Source
 

@@ -11,6 +11,7 @@ The problem for the Phillies was that Michael Harris made a leaping grab up agai
 
 ## Related Notes
 
+
 - [Efe Ajagba Curtis Harper 2018 Walkout](efe_ajagba_curtis_harper_2018_walkout.md): overlapping surname-level content flagged across the corpus.
 - [Game Preservation Ship of Theseus Problem](game_preservation_ship_of_theseus_problem.md): shares incidental vocabulary flagged by the corpus mapping.
 - [Harper's Island Slasher Series](harpers_island_slasher_series.md): shares the Harper name across an unrelated subject.
@@ -19,6 +20,8 @@ The problem for the Phillies was that Michael Harris made a leaping grab up agai
 - [Alanna Rizzo Apology to Mintz and BBWAA](alanna_rizzo_apology_to_mintz_and_bbwaa.md): the resolution of the reporting row, same source document.
 - [Alanna Rizzo Criticism of Clubhouse Reporting](alanna_rizzo_criticism_of_clubhouse_reporting.md): the criticism that followed, same source document.
 - [BBWAA Statement Defending Jake Mintz Credentials](bbwaa_statement_defending_jake_mintz_credentials.md): the writers' association response, same source document.
+- [Chelsea Janes' Defense: Reporting An On-The-Record Shout Is Not Wrong](chelsea_janes_defense_of_clubhouse_reporting.md): same source document (doc_0328)
+- [What Jake Mintz Actually Wrote, And Who Else Reported It](jake_mintz_clubhouse_report_on_arcia_comments.md): same source document (doc_0328)
 
 ## Source
 

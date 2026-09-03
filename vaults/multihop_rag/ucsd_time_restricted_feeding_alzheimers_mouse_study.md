@@ -15,6 +15,7 @@ The size of the effect exceeded what the team expected. "We were hopeful to see 
 
 ## Related Notes
 
+
 - [Alzheimers Lecanemab and Aducanumab Approvals](alzheimers_lecanemab_and_aducanumab_approvals.md): overlapping vocabulary on amyloid, alzheimer, disease, from a different source document.
 - [Lecanemab and Donanemab Amyloid Drugs](lecanemab_and_donanemab_amyloid_drugs.md): overlapping vocabulary on amyloid, alzheimer, disease, from a different source document.
 - [Alzheimers Disease Prevalence and Early Detection](alzheimers_disease_prevalence_and_early_detection.md): drawn from the same source document (doc_0309).
@@ -23,6 +24,8 @@ The size of the effect exceeded what the team expected. "We were hopeful to see 
 - [Limitations of the UCSD Fasting Mouse Study](limitations_of_the_ucsd_fasting_mouse_study.md): drawn from the same source document (doc_0309).
 - [Longo Recommendation to Pair Fasting with Standard Care](longo_recommendation_to_pair_fasting_with_standard_care.md): drawn from the same source document (doc_0309).
 - [Time Restricted Eating versus Calorie Restricted Fasting](time_restricted_eating_versus_calorie_restricted_fasting.md): drawn from the same source document (doc_0309).
+- [Translating Time-Restricted Eating Into Human Alzheimer's Trials](translating_time_restricted_eating_to_human_alzheimers_trials.md): same source document (doc_0309)
+- [The USC Fasting-Mimicking Diet Studies In Alzheimer's Mice](usc_fasting_mimicking_diet_alzheimers_studies.md): same source document (doc_0309)
 
 ## Source
 

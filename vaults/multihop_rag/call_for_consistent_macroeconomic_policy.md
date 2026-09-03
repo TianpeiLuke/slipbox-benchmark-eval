@@ -11,12 +11,15 @@ The evidence is present conditions and their reach: the global economic contract
 
 ## Related Notes
 
+
 - [The UK R&D Tax Credit Policy Reversal](uk_rd_tax_credit_policy_reversal.md): same source document; the second consistency demand.
 - [The Call For Consistent Climate Policy](call_for_consistent_climate_policy.md): same source document; the third and most important demand.
 - [Government's Role In Technology Innovation](government_role_in_technology_innovation.md): same source document; the underlying case for state consistency.
 - [Policy Inconsistency As A Signal To Climate Tech](policy_inconsistency_signal_to_climate_tech.md): same source document; the sector's reading of inconsistency.
 - [Climate Policy Reversal's Impact On EV Businesses](climate_policy_reversal_impact_on_ev_businesses.md): same source document; the company-level consequences.
 - [Sunak's Net Zero U-Turn, September 2023](sunak_net_zero_uturn_september_2023.md): same source document; the decision prompting all three demands.
+- [The UK's Climate Tech Economic Potential](uk_climate_tech_economic_potential.md): same source document (doc_0599)
+- [UK Green Tech Leadership Before The U-Turn](uk_green_tech_leadership_before_the_uturn.md): same source document (doc_0599)
 
 ## Source
 

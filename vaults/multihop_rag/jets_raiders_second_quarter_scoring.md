@@ -13,11 +13,20 @@ The Raiders' half ended with a long kick set up by a Jets penalty. Las Vegas wen
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): also discusses Garrett Wilson, from a different document.
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): also discusses Las Vegas, from a different document.
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): shares the strike and player-injury-report themes, from a different document.
 - [Britney Spears Jason Alexander 55-Hour Marriage](britney_spears_jason_alexander_55_hour_marriage.md): also discusses Las Vegas, from a different document.
 - [Britney Spears Memoir Body Scrutiny and Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): also discusses Las Vegas, from a different document.
+- [Jets And Raiders Week 10 Season Implications](jets_and_raiders_week_10_season_implications.md): same source document (doc_0439)
+- [Jets' Final Drive And The Spillane Interception](jets_final_drive_and_spillane_interception.md): same source document (doc_0439)
+- [Jets-Raiders Broadcast And Kickoff Details](jets_raiders_broadcast_and_kickoff_details.md): same source document (doc_0439)
+- [Jets-Raiders First Quarter Field Goals And Interception](jets_raiders_first_quarter_field_goals_and_interception.md): same source document (doc_0439)
+- [Jets-Raiders Third Quarter Field Goals](jets_raiders_third_quarter_field_goals.md): same source document (doc_0439)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

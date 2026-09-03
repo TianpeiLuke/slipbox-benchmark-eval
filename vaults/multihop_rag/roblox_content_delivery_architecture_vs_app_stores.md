@@ -13,6 +13,7 @@ His claim about the relationship to platform owners is that it is complementary 
 
 ## Related Notes
 
+
 - [The AI Alliance Membership Roster](ai_alliance_membership_roster.md): shares the creator-economy and hardware-platform themes, from a different source document.
 - [A Patent Redesign Must Be More Than a Colorable Difference](a_patent_redesign_must_be_more_than_a_colorable_difference.md): shares the hardware-device theme, from a different source document.
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares the creator-economy theme, from a different source document.
@@ -21,6 +22,17 @@ His claim about the relationship to platform owners is that it is complementary 
 - [AI-Generated Works Should Not Be Copyrightable](ai_generated_works_should_not_be_copyrightable.md): shares the creator-economy theme, from a different source document.
 - [AI Training Fails the Fair Use Test](ai_training_fails_fair_use_test.md): shares the creator-economy theme, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the hardware-device theme, from a different source document.
+- [Metaverse Interoperability And 3D File Formats](metaverse_interoperability_and_3d_file_formats.md): same source document (doc_0539)
+- [Roblox Advertising And Brand Experiences](roblox_advertising_and_brand_experiences.md): same source document (doc_0539)
+- [Roblox Aging Up: An Older User Base](roblox_aging_up_older_user_base.md): same source document (doc_0539)
+- [Roblox As A Communication Platform, Not A Game](roblox_as_communication_platform_not_game.md): same source document (doc_0539)
+- [Roblox's China Strategy And Tencent](roblox_china_strategy_and_tencent.md): same source document (doc_0539)
+- [Roblox's Dating Prediction](roblox_dating_prediction.md): same source document (doc_0539)
+- [Roblox Fashion Design And Direct-To-Avatar](roblox_fashion_design_and_direct_to_avatar.md): same source document (doc_0539)
+- [Roblox's Hiring And Recruiting Layoffs](roblox_hiring_and_recruiting_layoffs.md): same source document (doc_0539)
+- [Roblox On VR And AR Headsets](roblox_on_vr_and_ar_headsets.md): same source document (doc_0539)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

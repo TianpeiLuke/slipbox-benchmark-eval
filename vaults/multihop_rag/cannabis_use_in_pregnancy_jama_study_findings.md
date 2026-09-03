@@ -11,6 +11,7 @@ A study published Tuesday, Dec. 12, 2023 in the journal JAMA suggests that using
 
 ## Related Notes
 
+
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): another Live Science health report.
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): another Live Science account of medical evidence.
 - [Beyond Antibiotics: The Emerging Therapeutic Arsenal](beyond_antibiotics_emerging_therapeutic_arsenal.md): another Live Science medical feature.
@@ -19,6 +20,7 @@ A study published Tuesday, Dec. 12, 2023 in the journal JAMA suggests that using
 - [Cannabis Exposure and Placental Dysfunction](cannabis_exposure_and_placental_dysfunction.md): from the same article, on the biological mechanism proposed.
 - [The Cannabis Pregnancy Study's Urine Screening Method](cannabis_pregnancy_study_urine_screening_method.md): from the same article, describing how exposure was measured.
 - [Cannabis Use and the Stillbirth Association](cannabis_use_and_stillbirth_association.md): from the same article, on an outcome that did not survive adjustment.
+- [Limits of the Cannabis Pregnancy Causal Claim](limits_of_the_cannabis_pregnancy_causal_claim.md): same source document (doc_0604)
 
 ## Source
 

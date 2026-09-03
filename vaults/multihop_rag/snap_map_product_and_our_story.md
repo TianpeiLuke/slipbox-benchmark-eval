@@ -13,10 +13,19 @@ Snap encourages users to "capture what's happening" around them to increase thei
 
 ## Related Notes
 
+
 - [Deft's Competitive Landscape: Search Incumbents](deft_competitive_landscape_search_incumbents.md): overlaps on what a platform's features let users do, from a different document.
 - [Digital Services Act](digital_services_act.md): shares the user-generated-content and misinformation themes, from a different document.
 - [Epoch Times, The 2020 Election And Pro-Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): shares the disinformation and user-content themes, from a different document.
 - [TikTok Music Discovery And Sharing Rates](tiktok_music_discovery_and_sharing_rates.md): overlaps on user posting and sharing behavior, from a different document.
+- [The Gaza Conflict's Information Environment, Late 2023](gaza_conflict_information_environment_late_2023.md): same source document (doc_0124)
+- [Gaza's Internet Blackout And Connectivity](gaza_internet_blackout_and_connectivity.md): same source document (doc_0124)
+- [Mapping Platforms Disabled Live Features In Israel And Gaza](mapping_platforms_disable_live_features_israel_gaza.md): same source document (doc_0124)
+- [Palestinian Content Moderation Distrust On Meta's Platforms](palestinian_content_moderation_distrust_meta_platforms.md): same source document (doc_0124)
+- [Snap's Decision To Keep The Gaza Heat Map Live](snap_decision_to_keep_gaza_heat_map_live.md): same source document (doc_0124)
+- [Snap Map's History As A Civic Documentation Tool](snap_map_as_civic_documentation_tool.md): same source document (doc_0124)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Disinformation](term_disinformation.md): uses the concept disinformation
 
 ## Source
 

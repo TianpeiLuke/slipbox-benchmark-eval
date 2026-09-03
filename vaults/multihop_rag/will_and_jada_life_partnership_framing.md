@@ -11,6 +11,7 @@ Pinkett Smith used the same term as the goal of the couple's repair work. On the
 
 ## Related Notes
 
+
 - [Creature Commandos Animated Series](creature_commandos_animated_series.md): unrelated coverage that also references the Suicide Squad franchise
 - [DC Studios DCU Reboot Under Gunn And Safran](dc_studios_dcu_reboot_under_gunn_and_safran.md): another article touching the Suicide Squad films, in a different domain
 - [Expert Debate Over The Oscars Slap Given The Separation](expert_debate_over_the_oscars_slap_given_the_separation.md): outside commentary on the commitment this term describes
@@ -19,6 +20,8 @@ Pinkett Smith used the same term as the goal of the couple's repair work. On the
 - [Jada Pinkett Smith 2023 Separation Disclosure](jada_pinkett_smith_2023_separation_disclosure.md): the disclosure that this framing was offered to explain
 - [Jada Pinkett Smith August Alsina Entanglement](jada_pinkett_smith_august_alsina_entanglement.md): Alsina invoked the same "marriage to life partnership" transformation
 - [Will And Jada 2021 Public Accounts Of Marital Strain](will_and_jada_2021_public_accounts_of_marital_strain.md): the strain that preceded this reframing, from the same timeline
+- [The Smiths' Denials Of Open-Marriage, Divorce And Infidelity Rumours](will_and_jada_denials_of_open_marriage_and_divorce_rumours.md): same source document (doc_0018)
+- [Why Will Smith And Jada Pinkett Smith Never Signed A Prenup](will_and_jada_no_prenuptial_agreement.md): same source document (doc_0360)
 
 ## Source
 

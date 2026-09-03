@@ -11,11 +11,18 @@ Brennan Lee Mulligan's answer was about a bag of chips. "All I'm gonna say is th
 
 ## Related Notes
 
+
 - [Frank Reich Head Coaching Record](frank_reich_head_coaching_record.md): incidental name overlap on Reich and seasons, from a different source document
 - [CollegeHumor's IAC Layoffs And Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): the company history behind the anniversary
 - [Digital Creator Jail And Anthology Formats](digital_creator_jail_and_anthology_formats.md): from the same Polygon interview
 - [Burrow's End: Dimension 20's Stoat Season](dimension_20_burrows_end_stoat_season.md): the Dimension 20 seasons hidden in the title lineup
 - [Dropout's Fifth Anniversary Name Change Announcement](dropout_fifth_anniversary_name_change_announcement.md): the video these Easter eggs are hidden in
+- [Dropout's Place In Improv History And Wayne Brady's Verdict](dropout_improv_shows_and_wayne_brady_endorsement.md): same source document (doc_0586)
+- [The Early Gigs Reich And Mulligan Came Up Through](reich_and_mulligan_early_performing_gigs.md): same source document (doc_0586)
+- [Sam Reich's Advice To Creators: Find A Better Business Model](sam_reich_advice_on_off_platform_business_models.md): same source document (doc_0586)
+- [Very Important People: A Reboot Of CollegeHumor's Hello My Name Is](very_important_people_dropout_show.md): same source document (doc_0586)
+- [Why Dropout Retired The CollegeHumor Name](why_dropout_retired_the_collegehumor_name.md): same source document (doc_0586)
+- [Celebrity Endorsement](term_celebrity_endorsement.md): uses the concept celebrity endorsement
 
 ## Source
 

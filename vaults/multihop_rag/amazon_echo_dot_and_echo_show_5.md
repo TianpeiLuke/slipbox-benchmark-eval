@@ -13,6 +13,7 @@ It also makes a good alarm clock thanks to its sunrise alarm and tap-to-snooze f
 
 ## Related Notes
 
+
 - [Amazon Echo Buds Second And Third Generation Deals](amazon_echo_buds_second_and_third_gen_deals.md): covers other discounted Alexa-enabled Echo devices, from a different source document.
 - [Amazon Echo Show, Audible And Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): covers Echo Show offers at another sale, from a different source document.
 - [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): covers the Echo Show at a later sale, from a different source document.
@@ -20,6 +21,10 @@ It also makes a good alarm clock thanks to its sunrise alarm and tap-to-snooze f
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): covers the Eero system these Dots can extend, from a different source document.
 - [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): drawn from the same source document (doc_0250).
 - [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): drawn from the same source document (doc_0250).
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): same source document (doc_0250)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0250)
+- [Apple AirPods Pro, Second Generation](apple_airpods_pro_second_generation.md): same source document (doc_0250)
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

@@ -13,11 +13,19 @@ The Code operates through periodic transparency reporting. A second batch of rep
 
 ## Related Notes
 
+
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also covers Digital Services Act, from a different source document.
 - [Digital Services Act](digital_services_act.md): also covers Digital Services Act, from a different source document.
 - [DMA DSA Oversight of Meta Advertising Consent](dma_dsa_oversight_of_meta_advertising_consent.md): also covers Digital Services Act, from a different source document.
 - [DSA DMA Oversight of Meta Ad Tracking](dsa_dma_oversight_of_meta_ad_tracking.md): also covers Digital Services Act, from a different source document.
 - [DSA Enforcement Powers and Penalties](dsa_enforcement_powers_and_penalties.md): shares the digital services act and very large online platform theme, from a different source document.
+- [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): same source document (doc_0248)
+- [EU Demands On Fact-Checking And Researcher Data Access](eu_demands_on_fact_checking_and_researcher_data_access.md): same source document (doc_0248)
+- [EU Warning On Deepfake Election Risks](eu_warning_on_deepfake_election_risks.md): same source document (doc_0248)
+- [Google's Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): same source document (doc_0248)
+- [Kremlin Propaganda And Platform Countermeasures](kremlin_propaganda_and_platform_countermeasures.md): same source document (doc_0248)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Very Large Online Platform (VLOP)](term_very_large_online_platform.md): uses the concept very large online platform
 
 ## Source
 

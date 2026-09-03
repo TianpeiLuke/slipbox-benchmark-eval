@@ -11,9 +11,20 @@ These non-Pro AirPods came out in 2021 and got a review score of 88 from Engadge
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): overlaps in content on AirPods and adaptive audio features, from a different source document.
 - [Amazon Echo Buds, Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): overlaps in content on earbuds and noise cancellation, from a different source document.
 - [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): shares discount-and-MSRP framing, from a different source document.
+- [AirPods Pro Second Generation Lightning Deal At Walmart](airpods_pro_second_generation_lightning_deal.md): content overlap 0.13 on airpods, earbuds, sound; different source document
+- [Anker 3-In-1 MagSafe Charging Dock Deal Listings](anker_3_in_1_magsafe_charging_dock_deal_listings.md): content overlap 0.13 on airpods, earbuds, iphones; different source document
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): same source document (doc_0404)
+- [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): same source document (doc_0222)
+- [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): same source document (doc_0222)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
 
 ## Source
 

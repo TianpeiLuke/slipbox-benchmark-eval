@@ -11,12 +11,17 @@ The properties that change with size include how the dots interact with light an
 
 ## Related Notes
 
+
 - [Nobel Laureates on Basic Research Motivation](nobel_laureates_on_basic_research_motivation.md): another account of quantum dots as a distinct class of materials.
 - [Nobel Prize in Chemistry 2023: Quantum Dots](nobel_prize_chemistry_2023_quantum_dots.md): another description of the properties being honoured.
 - [Quantum Dots: Definition and the Size-Colour Relationship](quantum_dots_definition_and_size_color_relationship.md): another statement of the same size-colour relationship.
 - [Walmart 55-Inch QLED TV Deal](walmart_55_inch_qled_tv_deal.md): a consumer product built on quantum dot colour.
 - [Bawendi's Controlled Quantum Dot Synthesis](bawendi_controlled_quantum_dot_synthesis.md): from the same article, on controlling the size that sets these properties.
 - [Ekimov and Brus's Discovery of Quantum Dots](ekimov_and_brus_discovery_of_quantum_dots.md): from the same article, on establishing the size-colour link.
+- [Quantum Dot Applications in Displays, Medicine and Solar](quantum_dot_applications_in_displays_medicine_and_solar.md): same source document (doc_0436)
+- [The 2023 Chemistry Nobel for Quantum Dots](quantum_dots_2023_chemistry_nobel_award.md): same source document (doc_0436)
+- [Reactions to the Quantum Dot Nobel](reactions_to_the_quantum_dot_nobel.md): same source document (doc_0436)
+- [Nobel Prize](term_nobel_prize.md): uses the concept nobel prize
 
 ## Source
 

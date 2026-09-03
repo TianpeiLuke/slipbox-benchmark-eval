@@ -11,11 +11,20 @@ These sit inside a much wider menu. With legal sports betting available in over 
 
 ## Related Notes
 
+
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): shares the MVP, NBA and betting-odds themes.
 - [Brock Purdy Lamar Jackson 2023 MVP Race](brock_purdy_lamar_jackson_2023_mvp_race.md): shares the MVP-futures and betting-odds themes.
 - [College Football Bowl Betting Market Types](college_football_bowl_betting_market_types.md): the same market taxonomy applied to another sport.
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): works through a spread settlement using the same Knicks example framing.
 - [FanDuel Vermont Sportsbook Welcome Offer](fanduel_vermont_sportsbook_welcome_offer.md): shares the NBA and betting-odds themes.
+- [BetMGM Sportsbook: Deep MLB Markets And The Only NBA Live-Streaming App](betmgm_sportsbook_betting_markets.md): same source document (doc_0368)
+- [BetRivers Sportsbook: Alternate Lines, An Integrated Casino, And iRush Rewards](betrivers_sportsbook_betting_markets.md): same source document (doc_0368)
+- [DraftKings Sportsbook: MLB And NBA Markets And Promotions](draftkings_sportsbook_betting_markets.md): same source document (doc_0368)
+- [FanDuel Sportsbook: MLB And NBA Markets, Props And Same-Game Parlays](fanduel_sportsbook_betting_markets.md): same source document (doc_0368)
+- [Four Criteria For Judging An NBA Betting Site](how_to_evaluate_an_nba_betting_site.md): same source document (doc_0368)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
 
 ## Source
 

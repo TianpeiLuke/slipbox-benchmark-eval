@@ -11,12 +11,18 @@ Google's defense of the commission rests on what it says the commission buys. It
 
 ## Related Notes
 
+
 - [Android App Distribution Market Definition](android_app_distribution_market_definition.md): overlaps on the payment-processing market Epic alleges, from a different document.
 - [Epic And Google Courtroom Hypocrisy](epic_and_google_courtroom_hypocrisy.md): also discusses User Choice Billing, from a different document.
 - [Epic Antitrust Claims Against Google Play](epic_antitrust_claims_against_google_play.md): overlaps on developers, payments and Epic's claims, from a different document.
 - [Epic Rebuttal Of Google's Leaked Email Summary](epic_rebuttal_of_googles_leaked_email_summary.md): overlaps on developer billing and payment terms, from a different document.
 - [Epic's Refusal Of Special Deals And Its 2019 Google Proposal](epic_refusal_of_special_deals_and_its_2019_google_proposal.md): overlaps on Epic's stance toward Google's billing terms, from a different document.
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): drawn from the same source document (doc_0042).
+- [Epic Games v. Google Goes To Trial On November 6, 2023](epic_games_v_google_antitrust_trial.md): same source document (doc_0042)
+- [Google's Defense: Android Openness And Sideloading](google_defense_android_openness_and_sideloading.md): same source document (doc_0042)
+- [Google's Parallel Antitrust Proceedings In Late 2023](google_parallel_antitrust_proceedings_2023.md): same source document (doc_0042)
+- [Project Hug: Google's Developer Incentive Program, As Characterized By Both Sides](google_project_hug_developer_incentive_program.md): same source document (doc_0042)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

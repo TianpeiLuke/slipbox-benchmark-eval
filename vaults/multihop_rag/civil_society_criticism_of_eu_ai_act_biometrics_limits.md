@@ -13,6 +13,7 @@ The inference under attack is therefore the lawmakers' claim that judicial autho
 
 ## Related Notes
 
+
 - [Ipvm Rebuttal of Hikvision Human Rights Record](ipvm_rebuttal_of_hikvision_human_rights_record.md): substantial content overlap on rights, human, surveillance, from a different source document.
 - [Mabat 2000 Israeli Facial Recognition Network](mabat_2000_israeli_facial_recognition_network.md): substantial content overlap on human, facial, surveillance, from a different source document.
 - [Wolf Pack Palestinian Biometric Database](wolf_pack_palestinian_biometric_database.md): substantial content overlap on rights, human, facial, from a different source document.
@@ -21,6 +22,8 @@ The inference under attack is therefore the lawmakers' claim that judicial autho
 - [EU AI Act Phased Entry into Force Timeline](eu_ai_act_phased_entry_into_force_timeline.md): drawn from the same source document, doc_0564.
 - [EU AI Act Political Agreement December 2023](eu_ai_act_political_agreement_december_2023.md): drawn from the same source document, doc_0564.
 - [EU AI Act Prohibited AI Practices](eu_ai_act_prohibited_ai_practices.md): drawn from the same source document, doc_0564.
+- [EU AI Act Remote Biometric Identification Exceptions](eu_ai_act_remote_biometric_identification_exceptions.md): same source document (doc_0564)
+- [EU AI Act Scope Exclusions For National Security And Research](eu_ai_act_scope_exclusions_national_security_and_research.md): same source document (doc_0564)
 
 ## Source
 

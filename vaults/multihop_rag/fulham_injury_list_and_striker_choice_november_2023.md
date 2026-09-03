@@ -11,6 +11,7 @@ The coach's biggest concern revolved around his No. 9 position. With his first g
 
 ## Related Notes
 
+
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also discusses Man United, from a different source document.
 - [Erik Ten Hag Under Pressure December 2023](erik_ten_hag_under_pressure_december_2023.md): also discusses Man United, from a different source document.
 - [Harry Kane's Bayern Munich 2023 Scoring Records](harry_kane_bayern_munich_2023_scoring_records.md): also discusses Man United, from a different source document.
@@ -19,6 +20,8 @@ The coach's biggest concern revolved around his No. 9 position. With his first g
 - [Fulham's Form and League Position, November 2023](fulham_form_and_league_position_november_2023.md): same source document, on the same club's league situation.
 - [Man United vs Fulham, 4 November 2023: The Fixture](man_united_vs_fulham_november_2023_fixture.md): same source document, on the match these players were available for.
 - [Manchester United's Form Slump Before The Fulham Trip](manchester_united_form_slump_autumn_2023.md): same source document, on the visiting side's condition.
+- [Manchester United's Injury List Before The Fulham Match](manchester_united_injury_list_november_2023.md): same source document (doc_0260)
+- [Premier League Broadcast And Streaming Rights In India](premier_league_india_broadcast_and_streaming_rights.md): same source document (doc_0260)
 
 ## Source
 

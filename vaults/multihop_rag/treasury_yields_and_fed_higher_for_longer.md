@@ -11,6 +11,7 @@ The chain running into those yields is the Federal Reserve's stance. Treasury yi
 
 ## Related Notes
 
+
 - [Asx and Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): shares vocabulary around treasury, yields and interest, from a different source document.
 - [Asx December 2023 Session Movers](asx_december_2023_session_movers.md): shares vocabulary around investments, interest and rates, from a different source document.
 - [Australian Inflation Data and RBA November Rise](australian_inflation_data_and_rba_november_rise.md): the Australian analogue of the same rate logic, from a different source document.
@@ -19,6 +20,7 @@ The chain running into those yields is the Federal Reserve's stance. Treasury yi
 - [ASX Outlook and RBA Rate Expectations September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): the yield levels observed in the same wrap (doc_0087).
 - [Asx September 2023 Session Decliners](asx_september_2023_session_decliners.md): another note drawn from the same source document (doc_0087).
 - [US Consumer Spending Headwinds Late 2023](us_consumer_spending_headwinds_late_2023.md): the spending slowdown this model treats as double-edged (doc_0087).
+- [Wall Street Movers At The End Of September 2023](wall_street_movers_end_of_september_2023.md): same source document (doc_0087)
 
 ## Source
 

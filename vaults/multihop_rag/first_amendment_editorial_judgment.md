@@ -15,11 +15,18 @@ The scope condition is that this remains an open question rather than a settled 
 
 ## Related Notes
 
+
 - [Eddie Jones Defends Youth Selection Over Cooper And Hooper](eddie_jones_defends_youth_selection_over_cooper_and_hooper.md): shares vocabulary about exercising judgment, from a different source document.
 - [Humanitarian Corridor Proposal For Gaza](humanitarian_corridor_proposal_for_gaza.md): shares vocabulary about what is protected and specifically defined, from a different source document.
 - [What A Ruling Against Google Would Mean For Big Tech](big_tech_antitrust_outlook.md): a sibling note in the antitrust-and-speech batch, from a different source document.
 - [The Google Antitrust Case](google_antitrust_case.md): a sibling note in the antitrust-and-speech batch, from a different source document.
 - [Google's Agreement Not To Promote Chrome To Safari Users](google_apple_chrome_agreement.md): a sibling note in the antitrust-and-speech batch, from a different source document.
+- [What A Ruling For Texas And Florida Would Do To Platforms](scotus_ruling_consequences.md): same source document (doc_0256)
+- [The Supreme Court's Pair Of Social Media Moderation Cases](scotus_social_media_cases.md): same source document (doc_0256)
+- [How The Texas And Florida Laws Reached The Supreme Court](texas_florida_moderation_laws.md): same source document (doc_0256)
+- [First Amendment](term_first_amendment.md): uses the concept first amendment
+- [Content Moderation](term_content_moderation.md): uses the concept content moderation
+- [Editorial Judgment](term_editorial_judgment.md): uses the concept editorial judgment
 
 ## Source
 

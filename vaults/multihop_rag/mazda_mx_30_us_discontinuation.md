@@ -11,6 +11,7 @@ The MX-30 is small by Cybertruck standards — Tesla's vehicle is 25% longer and
 
 ## Related Notes
 
+
 - [Cybertruck Unlikely To Be Sold In Europe](cybertruck_unlikely_to_be_sold_in_europe.md): overlapping coverage of the Cybertruck and where EVs are sold, from a different source document.
 - [Cybertruck Variants And Specifications](cybertruck_variants_and_specifications.md): overlapping coverage of Cybertruck size and range figures, from a different source document.
 - [Tesla Cybertruck Launch And First Deliveries](tesla_cybertruck_launch_and_first_deliveries.md): overlapping coverage of Cybertruck availability, from a different source document.
@@ -19,6 +20,8 @@ The MX-30 is small by Cybertruck standards — Tesla's vehicle is 25% longer and
 - [ElectraMeccanica Solo Discontinuation](electrameccanica_solo_discontinuation.md): drawn from the same source document (doc_0318), another small EV lost in 2023.
 - [GM Honda Affordable EV Partnership Cancellation](gm_honda_affordable_ev_partnership_cancellation.md): drawn from the same source document (doc_0318), another abandoned small-EV effort.
 - [Honda e Production End](honda_e_production_end.md): drawn from the same source document (doc_0318), another short-range small EV discontinued.
+- [Revel's Moped-Sharing Shutdown](revel_moped_sharing_shutdown.md): same source document (doc_0318)
+- [The Cancellation Of The Sono Sion Solar EV](sono_sion_solar_ev_cancellation.md): same source document (doc_0318)
 
 ## Source
 

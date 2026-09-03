@@ -13,12 +13,18 @@ Washington beating Oregon in the Pac-12 championship: Alabama got this piece in 
 
 ## Related Notes
 
+
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): overlaps on Alabama and the Crimson Tide, from a different document.
 - [Alabama Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): also weighs the Crimson Tide against Florida State, from a different document.
 - [Big Ten Coaches' Anger Over Michigan Sign Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): also concerns the Big Ten, from a different document.
 - [Big Ten Commissioner Petitti Punishment Dilemma](big_ten_commissioner_petitti_punishment_dilemma.md): also concerns the Big Ten, from a different document.
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): also concerns the Big Ten and Ohio State, from a different document.
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): the fixtures these scenarios run over, from the same document.
+- [Alabama's CFP Situation Ahead Of The 2023 SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): same source document (doc_0258)
+- [Alabama's 2023 Resume Metrics Compared With Texas](alabama_2023_strength_of_schedule_and_record_metrics.md): same source document (doc_0258)
+- [The Head-To-Head Arguments Alabama Would Face Against Texas And Florida State](alabama_cfp_head_to_head_debates_texas_florida_state.md): same source document (doc_0258)
+- [Will Alabama Make The 2023 College Football Playoff?](will_alabama_make_the_2023_college_football_playoff.md): same source document (doc_0258)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

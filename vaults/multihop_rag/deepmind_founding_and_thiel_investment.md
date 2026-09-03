@@ -11,11 +11,21 @@ They named the company DeepMind, a nod to "deep learning", a way for AI systems 
 
 ## Related Notes
 
+
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): shares corpus tags with this note, from a different source document.
 - [Creator Economy Sustainability](creator_economy_sustainability.md): shares corpus tags on venture capital and the creator economy, from a different source document.
 - [EsfandTV Sports Streaming Channel](esfandtv_sports_streaming_channel.md): shares corpus topic tags with this note, from a different source document.
 - [James Wise Recommends The Coming Wave](james_wise_recommends_the_coming_wave.md): also concerns Mustafa Suleyman, from a different source document.
 - [StarNews Funding Round](starnews_funding_round.md): shares a corpus venture-capital tag, from a different source document.
+- [The AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): same source document (doc_0027)
+- [AlphaGo As Evidence For AI Risk Concerns](alphago_as_evidence_for_ai_risk_concerns.md): same source document (doc_0027)
+- [Anthropic's Founding By Former OpenAI Researchers](anthropic_founding_by_openai_researchers.md): same source document (doc_0027)
+- [DeepMind's Ethics Board And Its Single Meeting In 2015](deepmind_ethics_board_single_meeting_2015.md): same source document (doc_0027)
+- [DeepMind's Sale To Google And Facebook's AI Lab](deepmind_google_acquisition_and_facebook_ai_lab.md): same source document (doc_0027)
+- [Space Mission](term_space_mission.md): uses the concept space mission
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

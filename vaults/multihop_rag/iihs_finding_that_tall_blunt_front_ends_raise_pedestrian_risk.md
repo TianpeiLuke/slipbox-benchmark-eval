@@ -11,9 +11,19 @@ In November 2023 the IIHS released a study confirming that trucks and SUVs with 
 
 ## Related Notes
 
+
 - [Cybertruck Availability, Pricing And The EV Tax Credit](cybertruck_availability_pricing_and_ev_tax_credit.md): overlapping coverage of trucks, the Cybertruck and SUVs, from a different source document.
 - [The Environmental Case Against Large Electric Pickups](environmental_case_against_large_electric_pickups.md): overlapping coverage of the Cybertruck, pedestrians and vehicle weight, from a different source document.
 - [Tesla Cybertruck Launch And First Deliveries](tesla_cybertruck_launch_and_first_deliveries.md): overlapping coverage of the Cybertruck's vehicle specs, from a different source document.
+- [Crumple Zones And The Stainless Steel Concern](crumple_zones_and_the_stainless_steel_concern.md): same source document (doc_0548)
+- [The Cybertruck's Danger Is A Large-Truck Problem](cybertruck_danger_is_a_large_truck_problem.md): same source document (doc_0548)
+- [The Cybertruck May Have An Unseen Shock-Absorbing Mechanism](cybertruck_may_have_an_unseen_shock_absorbing_mechanism.md): same source document (doc_0548)
+- [The Cybertruck Pedestrian Safety Backlash](cybertruck_pedestrian_safety_backlash.md): same source document (doc_0548)
+- [The Cybertruck Is Unlikely To Be Sold In Europe](cybertruck_unlikely_to_be_sold_in_europe.md): same source document (doc_0548)
+- [Cybertruck Visibility, Mirrors And Steer-By-Wire Design Choices](cybertruck_visibility_mirrors_and_steer_by_wire_design_choices.md): same source document (doc_0548)
+- [Musk And Tesla's Safety Rating Record Claims](musk_and_tesla_safety_rating_record_claims.md): same source document (doc_0548)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

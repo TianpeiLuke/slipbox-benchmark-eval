@@ -11,11 +11,19 @@ The premise attacked is that the platform relationship and the parent company's 
 
 ## Related Notes
 
+
 - [Anthropic Fair Use Defense for AI Training](anthropic_fair_use_defense_for_ai_training.md): another Copyright Office filing on the same side as Google's, from a different source document.
 - [Generative AI Deepfakes Harm to Artists](generative_ai_deepfakes_harm_to_artists.md): also discusses Sony Music, from a different source document.
 - [Kooker on Tech Industry's Distorted Copyright View](kooker_on_tech_industry_distorted_copyright_view.md): Sony's public version of the same objection, from a different source document.
 - [Opt in Versus Opt Out AI Training Consent](opt_in_versus_opt_out_ai_training_consent.md): also discusses Copyright Office, from a different source document.
 - [Robert Kyncl Warner Music Group CEO](robert_kyncl_warner_music_group_ceo.md): more on the Warner CEO quoted here, from a different source document.
+- [Which Artists Joined "Dream Track", And The Licensing Questions That Follow](dream_track_artist_selection_and_licensing_questions.md): same source document (doc_0381)
+- [Ed Newton-Rex's Resignation From Stability AI](ed_newton_rex_resignation_stability_ai.md): same source document (doc_0381)
+- [Fair Use, Explained Plainly](fair_use_doctrine_plain_explanation.md): same source document (doc_0381)
+- [Google's USCO Filing On AI Training And Fair Use](google_usco_filing_ai_training_fair_use.md): same source document (doc_0381)
+- [Sony Music's "Artist-Led" Approach To AI](sony_music_artist_led_approach_to_ai.md): same source document (doc_0381)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

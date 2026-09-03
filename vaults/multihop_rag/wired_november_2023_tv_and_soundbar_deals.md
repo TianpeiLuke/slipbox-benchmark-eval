@@ -11,6 +11,7 @@ The Samsung S95C (8/10, WIRED Recommends) is one of WIRED's favorite TVs thanks 
 
 ## Related Notes
 
+
 - [LG A2 OLED TV Deal](lg_a2_oled_tv_deal.md): overlapping coverage of LG's OLED TVs around Black Friday, from a different source document.
 - [LG Sound Bar C SC9](lg_sound_bar_c_sc9.md): overlapping coverage of soundbars, OLED TVs and subwoofers, from a different source document.
 - [Oppenheimer: Christopher Nolan](oppenheimer_christopher_nolan.md): also concerns Christopher Nolan, from a different source document.
@@ -19,6 +20,8 @@ The Samsung S95C (8/10, WIRED Recommends) is one of WIRED's favorite TVs thanks 
 - [Anker Prime Early Black Friday Charger Sale](anker_prime_early_black_friday_charger_sale.md): drawn from the same source document (doc_0527).
 - [Google Pixel Buds A-Series Deal Listings](google_pixel_buds_a_series_deal_listings.md): drawn from the same source document (doc_0527).
 - [Samsung Galaxy Buds 2 Deal Listings](samsung_galaxy_buds_2_deal_listings.md): drawn from the same source document (doc_0527).
+- [Samsung Galaxy Buds 2 Pro Deal Prices](samsung_galaxy_buds_2_pro_deal.md): same source document (doc_0527)
+- [WIRED's Pre-Black Friday Gaming Mouse Deals](wired_november_2023_gaming_mouse_deals.md): same source document (doc_0527)
 
 ## Source
 

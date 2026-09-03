@@ -11,10 +11,17 @@ Over the years PEAC has evolved into co-implementing externally funded programs,
 
 ## Related Notes
 
+
 - [Bangladesh K12 Education Access Gap](bangladesh_k12_education_access_gap.md): concerns education, teachers and schools in another developing country, from a different source document.
 - [ChatGPT In Education And Academic Integrity](chatgpt_in_education_and_academic_integrity.md): concerns education, teachers and schools, from a different source document.
 - [Philippine 2024 Budget Deficit And Debt Trajectory](philippine_2024_budget_deficit_and_debt_trajectory.md): also concerns President Ferdinand Marcos and Philippine public finance, from a different source document.
 - [Philippine Inflation 2023 And Government Response](philippine_inflation_2023_and_government_response.md): also concerns a Philippine executive order and President Ferdinand Marcos, from a different source document.
+- [DoH Versus DepEd As Service Delivery Systems](doh_versus_deped_service_delivery_comparison.md): same source document (doc_0463)
+- [Folding FAPE And PEAC Into PhilEd](folding_fape_peac_into_philed_transition_plan.md): same source document (doc_0463)
+- [The PhilEd Education Development Fund Proposal](philed_education_development_fund_proposal.md): same source document (doc_0463)
+- [PhilHealth's Earmarked Revenue Model As A Template For PhilEd](philhealth_earmarked_revenue_model_as_philed_template.md): same source document (doc_0463)
+- [Three Filipino Education Dreams And The PhilEd Programs](three_filipino_education_dreams_and_philed_programs.md): same source document (doc_0463)
+- [Executive Order](term_executive_order.md): uses the concept executive order
 
 ## Source
 

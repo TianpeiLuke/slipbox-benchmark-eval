@@ -13,11 +13,18 @@ The Eagles took control in the second quarter. Hurts converted 4th & 1 with a tw
 
 ## Related Notes
 
+
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): shares the strike-coverage and player-injury-report themes.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): also discusses Tyreek Hill.
 - [Cole Kmet Week 6 2023 Start Recommendation](cole_kmet_week6_2023_start_recommendation.md): also discusses Dallas Goedert.
 - [Cowboys Fantasy Start Recommendations Week 13](cowboys_fantasy_start_recommendations_week_13.md): also discusses Jalen Hurts.
 - [Dallas Goedert Eagles Tight End Showdown Pick](dallas_goedert_eagles_tight_end_showdown_pick.md): also discusses Dallas Goedert.
+- [Dolphins-Eagles Pregame: Kelly Green Day, AFC East Stakes, And A Tua-Hurts Reunion](dolphins_eagles_pregame_notes_and_kelly_green_uniforms.md): same source document (doc_0143)
+- [Dolphins-Eagles Second Half: A Pick-Six Tie, Then Philadelphia Pulls Away](dolphins_eagles_second_half_live_blog.md): same source document (doc_0143)
+- [Eagles Beat Dolphins 31-17 In Kelly Green On Week 7 Sunday Night Football](eagles_beat_dolphins_week_7_sunday_night_recap.md): same source document (doc_0143)
+- [NBC's 2023 Sunday Night Football Broadcast And Streaming Package](sunday_night_football_2023_nbc_broadcast_team.md): same source document (doc_0143)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

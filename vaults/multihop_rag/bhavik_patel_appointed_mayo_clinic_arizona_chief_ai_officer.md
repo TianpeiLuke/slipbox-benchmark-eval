@@ -15,6 +15,7 @@ In his new role, Patel will lead Mayo Clinic's Advanced AI and Innovation Hub, a
 
 ## Related Notes
 
+
 - [E-E-A-T and the Shift to Institutional Authority](eeat_and_the_shift_to_institutional_authority.md): also concerns Mayo Clinic, from a different source document.
 - [Gastroparesis Pancreatitis Bowel Obstruction and Ileus](gastroparesis_pancreatitis_bowel_obstruction_and_ileus.md): also concerns Mayo Clinic, from a different source document.
 - [Mediterranean Lifestyle UK Biobank Mortality Study](mediterranean_lifestyle_uk_biobank_mortality_study.md): also concerns Mayo Clinic, from a different source document.
@@ -23,6 +24,8 @@ In his new role, Patel will lead Mayo Clinic's Advanced AI and Innovation Hub, a
 - [Bhavik Patel Day to Day Chief AI Officer Duties](bhavik_patel_day_to_day_chief_ai_officer_duties.md): drawn from the same source document (doc_0163).
 - [Clinical Benefits of AI in Health Care](clinical_benefits_of_ai_in_health_care.md): drawn from the same source document (doc_0163).
 - [Core Functions of a Health Care Chief AI Officer](core_functions_of_a_health_care_chief_ai_officer.md): drawn from the same source document (doc_0163).
+- [Mayo Clinic's AI Models For Heart Attack And Cancer Risk](mayo_clinic_ai_models_for_heart_attack_and_cancer_risk.md): same source document (doc_0163)
+- [Risks And Limitations Of Clinical AI](risks_and_limitations_of_clinical_ai.md): same source document (doc_0163)
 
 ## Source
 

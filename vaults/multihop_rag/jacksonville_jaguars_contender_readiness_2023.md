@@ -13,6 +13,7 @@ An executive gave the positive case, resting on coaching pedigree and experience
 
 ## Related Notes
 
+
 - [Brock Purdy Fantasy Outlook, Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also concerns Trevor Lawrence, from a different document.
 - [Fantasy RB Week 14 Top Starts, PPR](fantasy_rb_week_14_top_starts_ppr.md): also concerns Trevor Lawrence, from a different document.
 - [Fantasy WR Week 14 Busts](fantasy_wr_week_14_busts.md): also concerns Trevor Lawrence, from a different document.
@@ -21,6 +22,8 @@ An executive gave the positive case, resting on coaching pedigree and experience
 - [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): drawn from the same document (doc_0316).
 - [Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): drawn from the same document (doc_0316).
 - [Buffalo Bills Defensive Injuries, 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): drawn from the same document (doc_0316).
+- [Cincinnati Bengals: Joe Burrow's Durability And The Line](cincinnati_bengals_joe_burrow_durability_and_line.md): same source document (doc_0316)
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
 
 ## Source
 

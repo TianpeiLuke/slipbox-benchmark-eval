@@ -11,6 +11,7 @@ She keeps the claim qualified rather than triumphant. Her test question still la
 
 ## Related Notes
 
+
 - [Amazon Rainforest Tipping Point](amazon_rainforest_tipping_point.md): overlapping use of the tipping-point framing, from a different source document.
 - [Emma Hayes Appointed USWNT Head Coach](emma_hayes_appointed_uswnt_head_coach.md): overlapping coverage of women's soccer, from a different source document.
 - [Women In Leadership And Company Performance](women_in_leadership_and_company_performance_argument.md): overlapping coverage of investing in women, from a different source document.
@@ -19,6 +20,7 @@ She keeps the claim qualified rather than triumphant. Her test question still la
 - [Fiftieth Anniversary Of US Open Equal Prize Money](fiftieth_anniversary_of_us_open_equal_prize_money.md): drawn from the same source document (doc_0412).
 - [King-Riggs Battle Of The Sexes Social Impact](king_riggs_battle_of_the_sexes_social_impact.md): drawn from the same source document (doc_0412).
 - [Media Coverage Share As A Barrier For Women's Sports](media_coverage_share_as_barrier_for_womens_sports.md): drawn from the same source document (doc_0412).
+- [The PWHL: A Professional Women's Hockey League Launch](pwhl_professional_womens_hockey_league_launch.md): same source document (doc_0412)
 
 ## Source
 

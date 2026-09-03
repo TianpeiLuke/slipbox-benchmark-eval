@@ -13,12 +13,16 @@ The article closes the comparison with the record holder: Juve's individual reco
 
 ## Related Notes
 
+
 - [Erling Haaland's Manchester City 2023 Goal Tally](erling_haaland_manchester_city_2023_goal_tally.md): covers the club form behind this international question, from a different document.
 - [Liverpool-Arsenal Draw At Anfield, December 2023](liverpool_arsenal_draw_at_anfield_december_2023.md): also discusses Martin Odegaard, from a different document.
 - [PGMOL Apologies For Autumn 2022 Incidents](pgmol_apologies_autumn_2022_incidents.md): also discusses Martin Odegaard, from a different document.
 - [Haaland's Chase Of Norway's International Goalscoring Record](haaland_chase_of_norway_international_goalscoring_record.md): the record pursuit set against these prospects, from the same article.
 - [Jorgen Juve's Norway Goalscoring Record](jorgen_juve_norway_goalscoring_record.md): the record and Olympic achievement compared here, from the same article.
 - [Norway's Historical Absence From Major Tournaments](norway_historical_absence_from_major_tournaments.md): the qualification record this continues, from the same article.
+- [The Italy International Goalscoring Record Anomaly](italy_international_goalscoring_record_anomaly.md): same source document (doc_0400)
+- [The Longest-Standing International Goalscoring Records](longest_standing_international_goalscoring_records.md): same source document (doc_0400)
+- [Poul Nielsen's Denmark Goalscoring Record](poul_nielsen_denmark_goalscoring_record.md): same source document (doc_0400)
 
 ## Source
 

@@ -13,6 +13,7 @@ The remedy both investors converge on points away from a pure consumer product: 
 
 ## Related Notes
 
+
 - [Aseel: From Afghan Artisan Ecommerce To Humanitarian Aid](aseel_afghan_artisan_ecommerce_to_humanitarian_aid.md): overlaps on e-commerce operations and customers, from a different document.
 - [Hard Problems As A Startup Moat Thesis](hard_problems_as_startup_moat_thesis.md): the counter-thesis that hard problems are worth attacking, from a different document.
 - [Scalable Capital's Banking License Decision](scalable_capital_banking_license_decision.md): overlaps on infrastructure investment as a strategic choice, from a different document.
@@ -21,6 +22,8 @@ The remedy both investors converge on points away from a pure consumer product: 
 - [Deft, The E-Commerce Search Startup](deft_ecommerce_search_startup.md): drawn from the same source document (doc_0301).
 - [Deft's Funding And Traction Metrics](deft_funding_and_traction_metrics.md): drawn from the same source document (doc_0301).
 - [Deft's Multimodal Search Capabilities](deft_multimodal_search_capabilities.md): drawn from the same source document (doc_0301).
+- [Deft's Revenue Model And Pricing Tiers](deft_revenue_model_and_pricing_tiers.md): same source document (doc_0301)
+- [Investor Views On Deft's Differentiation](investor_views_on_deft_differentiation.md): same source document (doc_0301)
 
 ## Source
 

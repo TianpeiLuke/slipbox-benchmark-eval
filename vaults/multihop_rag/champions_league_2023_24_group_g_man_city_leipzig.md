@@ -13,6 +13,7 @@ The results were: Sept. 19, Young Boys 1-3 RB Leipzig; Sept. 19, Man City 3-1 Re
 
 ## Related Notes
 
+
 - [Arsenal 2-1 Win at Sevilla, Group B](arsenal_2_1_win_at_sevilla_group_b.md): also concerns the Europa League, from a different document.
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Manchester City, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also discusses RB Leipzig and Manchester City, from a different document.
@@ -21,6 +22,8 @@ The results were: Sept. 19, Young Boys 1-3 RB Leipzig; Sept. 19, Man City 3-1 Re
 - [Champions League 2023-24 Group A: Bayern and Copenhagen](champions_league_2023_24_group_a_bayern_copenhagen.md): a sibling group review, from the same document.
 - [Champions League 2023-24 Group B: Arsenal and PSV](champions_league_2023_24_group_b_arsenal_psv.md): a sibling group review, from the same document.
 - [Champions League 2023-24 Group C: Real Madrid and Napoli](champions_league_2023_24_group_c_real_madrid_napoli.md): a sibling group review, from the same document.
+- [Champions League 2023/24 Group D: Real Sociedad And Inter Milan Qualify](champions_league_2023_24_group_d_real_sociedad_inter.md): same source document (doc_0187)
+- [Champions League 2023/24 Group E: Atletico Madrid And Lazio Qualify](champions_league_2023_24_group_e_atletico_lazio.md): same source document (doc_0187)
 
 ## Source
 

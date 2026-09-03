@@ -13,11 +13,17 @@ The rest was attrition. Wagner sacked Jones a seventh time to set up second-and-
 
 ## Related Notes
 
+
 - [Bills Bengals SNF Broadcast Details](bills_bengals_snf_broadcast_details.md): also concerns Sunday Night Football.
 - [Bills Bengals SNF Pregame Notes](bills_bengals_snf_pregame_notes.md): also concerns Sunday Night Football.
 - [Bills Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): also concerns Sunday Night Football.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also discusses Daniel Jones and Geno Smith.
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): another primetime NFL result from the same week.
+- [ESPN's 2023 Monday Night Football Broadcast, Manningcast And Streaming](monday_night_football_2023_broadcast_and_streaming.md): same source document (doc_0290)
+- [Seahawks-Giants First Half: Penalties, A Geno Smith Knee Scare, And A 14-3 Lead](seahawks_giants_first_half_live_blog.md): same source document (doc_0290)
+- [Seahawks-Giants Pregame: Jamal Adams Returns, Saquon Barkley Ruled Inactive](seahawks_giants_pregame_inactives_and_jamal_adams_return.md): same source document (doc_0290)
+- [Seahawks Sack Daniel Jones 11 Times In A 24-3 Monday Night Win](seahawks_shut_down_giants_week_4_monday_night_recap.md): same source document (doc_0290)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

@@ -13,6 +13,7 @@ The Nov. 30 case adds the game script and the opponent. Pollard and the Cowboys'
 
 ## Related Notes
 
+
 - [Cowboys 49ers First Half Live Blog](cowboys_49ers_first_half_live_blog.md): also discusses Tony Pollard, from a different document.
 - [Cowboys 49ers Second Half Live Blog](cowboys_49ers_second_half_live_blog.md): also discusses Tony Pollard, from a different document.
 - [Dak Prescott Week 6 2023 Sit Recommendation](dak_prescott_week6_2023_sit_recommendation.md): also discusses Tony Pollard, from a different document.
@@ -21,6 +22,8 @@ The Nov. 30 case adds the game script and the opponent. Pollard and the Cowboys'
 - [Bye-Free Weeks Complicate Lineup Decisions](bye_free_weeks_complicate_lineup_decisions.md): shares the Week 12 rankings context, from the same document.
 - [Cowboys Fantasy Start Recommendations Week 13](cowboys_fantasy_start_recommendations_week_13.md): the rest of the Dallas start/sit column, from the same document.
 - [Fantasy Week 12 Schedule and No-Bye Teams](fantasy_week_12_schedule_and_no_bye_teams.md): the Week 12 scheduling context for the earlier ranking, from the same document.
+- [Josh Jacobs' And Breece Hall's 2023 Workloads](josh_jacobs_and_breece_hall_2023_workloads.md): same source document (doc_0494)
+- [Seahawks-Cowboys DFS Showdown Lineups](seahawks_cowboys_dfs_showdown_lineups.md): same source document (doc_0394)
 
 ## Source
 

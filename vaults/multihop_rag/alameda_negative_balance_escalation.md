@@ -13,11 +13,20 @@ The same gradual accommodation shows in Ellison's account. Choking back tears, s
 
 ## Related Notes
 
+
 - [Alameda Research](alameda_research.md): background on the firm running the negative balance, from a different source document.
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): the same firm as the channel for customer money, from a different source document.
 - [Alameda Research's Origins and Naming](alameda_research_origins_and_naming.md): how the firm began, from a different source document.
 - [Alameda's Special Privileges in FTX's Code](alameda_special_privileges_in_ftx_code.md): overlaps on Wang, Alameda and Bankman-Fried, from a different source document.
 - [Caroline Ellison's Guilty Plea and First Day Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): the same witness's account of growing comfortable with the conduct, from a different source document.
+- [Alameda's $65 Billion Line Of Credit At FTX](alameda_65_billion_line_of_credit_at_ftx.md): same source document (doc_0305)
+- [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): same source document (doc_0305)
+- [Can Sun's Testimony On Fabricated Justifications](can_sun_testimony_on_fabricated_justifications.md): same source document (doc_0121)
+- [Code Evidence Outweighs Deleted Signal Messages](code_evidence_outweighs_deleted_signal_messages.md): same source document (doc_0305)
+- [The FTT Token And The "Sam Coins"](ftt_token_and_sam_coins.md): same source document (doc_0305)
+- [Line Of Credit](term_line_of_credit.md): uses the concept line of credit
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

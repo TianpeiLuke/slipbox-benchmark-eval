@@ -13,11 +13,18 @@ Music is where he locates the remedy, with a condition attached about what it is
 
 ## Related Notes
 
+
 - [Carol of the Bells and Its Biblical Roots](carol_of_the_bells_biblical_roots.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
 - [Carols Express Both Joy and Sorrow](carols_express_both_joy_and_sorrow.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
 - [Christmas Carols and Advertising](christmas_carols_and_advertising.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
 - [Christmas Hope Amid War and Suffering](christmas_hope_amid_war_and_suffering.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
 - [The Structure of "I Heard the Bells"](i_heard_the_bells_poem_structure.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
+- [American Pie's Billboard Record and Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): same source document (doc_0393)
+- [Don McLean's Career Honours and Recognition](don_mclean_career_honours_and_recognition.md): same source document (doc_0393)
+- [Don McLean's Christmas Memories Album](don_mclean_christmas_memories_album.md): same source document (doc_0393)
+- [Don McLean's Upcoming Albums and Touring](don_mclean_upcoming_albums_and_touring.md): same source document (doc_0393)
+- [Don McLean's "Vincent" and the Children's Book](don_mclean_vincent_song_and_childrens_book.md): same source document (doc_0393)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

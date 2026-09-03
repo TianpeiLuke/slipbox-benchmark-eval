@@ -13,11 +13,20 @@ Two toxicity findings stand out. A Microsoft-affiliated scientific paper examine
 
 ## Related Notes
 
+
 - [Alexa Kids Privacy and Hardware](alexa_kids_privacy_and_hardware.md): shares the data privacy and large language model theme, from a different source document.
 - [Apple iOS Security Fixes and Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares the data privacy and lobbying political donations theme, from a different source document.
 - [ChatGPT Enterprise and Multimodal Features](chatgpt_enterprise_and_multimodal_features.md): substantial content overlap on chatgpt, openai, multimodal, from a different source document.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): shares the data privacy and lobbying political donations theme, from a different source document.
 - [Common Sense Media Teen Smartphone Study Design and Scope](common_sense_media_teen_smartphone_study_design_and_scope.md): also covers Common Sense Media, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): same source document (doc_0048)
+- [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): same source document (doc_0048)
+- [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): same source document (doc_0048)
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

@@ -13,6 +13,7 @@ For the second quarter specifically, Nike expects revenue growth to be up slight
 
 ## Related Notes
 
+
 - [AI Civil Rights and Consumer Protections in the EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): shares the earnings-report content tag used across the corpus.
 - [AI Legislation Gap](ai_legislation_gap.md): shares the earnings-report content tag used across the corpus.
 - [AI Worker Protections and Federal AI Hiring](ai_worker_protections_and_federal_ai_hiring.md): shares the earnings-report content tag used across the corpus.
@@ -21,6 +22,15 @@ For the second quarter specifically, Nike expects revenue growth to be up slight
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): another quarterly outlook from the same reporting period.
 - [Apple Generative AI Investment Stance](apple_generative_ai_investment_stance.md): shares the earnings-report content tag used across the corpus.
 - [ASX December 2023 Session Movers](asx_december_2023_session_movers.md): shares the earnings-report content tag used across the corpus.
+- [Nike Direct-to-Consumer Channel Performance](nike_direct_to_consumer_channel_performance.md): same source document (doc_0215)
+- [Nike Fiscal Q1 2024 Headline Results](nike_fiscal_q1_2024_headline_results.md): same source document (doc_0215)
+- [Nike Greater China Sales Recovery](nike_greater_china_sales_recovery.md): same source document (doc_0215)
+- [Nike Gross Margin Fiscal Q1 2024](nike_gross_margin_fiscal_q1_2024.md): same source document (doc_0215)
+- [Nike Inventory Reduction Fiscal Q1 2024](nike_inventory_reduction_fiscal_q1_2024.md): same source document (doc_0215)
+- [Nike Regional and Product Category Sales Fiscal Q1 2024](nike_regional_and_product_category_sales_fiscal_q1_2024.md): same source document (doc_0215)
+- [Nike Wholesale Partner Relationship Reset](nike_wholesale_partner_relationship_reset.md): same source document (doc_0215)
+- [US Consumer Pullback and Student Loan Risk for Nike](us_consumer_pullback_and_student_loan_risk_for_nike.md): same source document (doc_0215)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

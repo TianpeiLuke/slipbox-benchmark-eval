@@ -11,6 +11,7 @@ Some kids will always complain about school and homework, the guide allows, but 
 
 ## Related Notes
 
+
 - [Carabao Cup 2023-24 First Round Results](carabao_cup_2023_24_first_round_results.md): overlapping coverage of pens, from a different source document.
 - [The Teenage Engineering EP-133 K.O. II Sampler](teenage_engineering_ep_133_ko_ii_sampler.md): overlapping coverage of a colorful countdown timer, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): drawn from the same source document (doc_0424).
@@ -19,6 +20,8 @@ Some kids will always complain about school and homework, the guide allows, but 
 - [Kids' Headphone, Speaker And Music Gifts 2023](kids_headphone_speaker_and_music_gifts_2023.md): drawn from the same source document (doc_0424).
 - [Kids' Maker And DIY Kit Gifts 2023](kids_maker_and_diy_kit_gifts_2023.md): drawn from the same source document (doc_0424).
 - [Kids' Nintendo Switch Game And Controller Gifts 2023](kids_nintendo_switch_game_and_controller_gifts_2023.md): drawn from the same source document (doc_0424).
+- [Kids' Tabletop And Party Game Gifts 2023](kids_tabletop_and_party_game_gifts_2023.md): same source document (doc_0424)
+- [Kids' Toy And Playset Gifts 2023](kids_toy_and_playset_gifts_2023.md): same source document (doc_0424)
 
 ## Source
 

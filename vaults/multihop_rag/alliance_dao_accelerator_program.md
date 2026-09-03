@@ -11,6 +11,7 @@ The defining payoff the accelerator advertises is investor access rather than cu
 
 ## Related Notes
 
+
 - [Alliance DAO All11 Cohort Selectivity](alliance_dao_all11_cohort_selectivity.md): same source document; how many applicants this particular batch admitted.
 - [Alliance DAO All11 Mentor Roster](alliance_dao_all11_mentor_roster.md): same source document; the founders who mentor participating teams.
 - [Crypto Bear Market Startup Conditions](crypto_bear_market_startup_conditions.md): same source document; the market backdrop the cohort is building in.
@@ -18,6 +19,9 @@ The defining payoff the accelerator advertises is investor access rather than cu
 - [Inco Encrypted EVM FHE Network](inco_encrypted_evm_fhe_network.md): same source document; another participating startup.
 - [AI Alliance Founding By Meta And IBM](ai_alliance_founding_by_meta_and_ibm.md): overlaps in content on alliances reported by TechCrunch, from a different source document.
 - [Twitch Investment In Sports Streamers](twitch_investment_in_sports_streamers.md): overlaps in content on accelerator-style programs, from a different source document.
+- [Doubts About The AI Alliance's Effectiveness](doubts_about_ai_alliance_effectiveness.md): content overlap 0.11 on alliance, major, number; different source document
+- [Kravata, LatAm Fiat-Crypto On-Ramp](kravata_latam_fiat_crypto_onramp.md): same source document (doc_0465)
+- [Sleepagotchi, NFT-Powered Sleep Game](sleepagotchi_nft_sleep_game.md): same source document (doc_0465)
 
 ## Source
 

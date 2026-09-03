@@ -11,12 +11,18 @@ In late 2017 Musk hatched a plan to wrest control of the lab from Altman and the
 
 ## Related Notes
 
+
 - [BlackBerry Matt Johnson Film](blackberry_matt_johnson_film.md): also concerns Silicon Valley, from a different source document.
 - [ChatGPT First Year Overview](chatgpt_first_year_overview.md): also concerns Silicon Valley and OpenAI's product, from a different source document.
 - [ChatGPT Third Party Integrations And Ecosystem](chatgpt_third_party_integrations_and_ecosystem.md): also concerns Silicon Valley AI products, from a different source document.
 - [Chinese Capital Stigma In US Fundraising](chinese_capital_stigma_in_us_fundraising.md): also concerns Silicon Valley funding, from a different source document.
 - [Dave Clark Ouster From Flexport](dave_clark_ouster_from_flexport.md): also concerns a Silicon Valley leadership rupture, from a different source document.
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): drawn from the same article and gives the Musk-Page dispute that motivated this founding.
+- [AlphaGo As Evidence For AI Risk Concerns](alphago_as_evidence_for_ai_risk_concerns.md): same source document (doc_0027)
+- [Anthropic's Founding By Former OpenAI Researchers](anthropic_founding_by_openai_researchers.md): same source document (doc_0027)
+- [DeepMind's Ethics Board And Its Single Meeting In 2015](deepmind_ethics_board_single_meeting_2015.md): same source document (doc_0027)
+- [DeepMind's Founding And Thiel's Investment](deepmind_founding_and_thiel_investment.md): same source document (doc_0027)
+- [Cloud Computing](term_cloud_computing.md): uses the concept cloud computing
 
 ## Source
 

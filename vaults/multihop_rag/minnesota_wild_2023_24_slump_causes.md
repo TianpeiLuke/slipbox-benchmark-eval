@@ -11,6 +11,7 @@ Injuries and goaltending had certainly played a factor in the poor play — capt
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): shares the playoff-seeding theme, from a different document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): shares the playoff-seeding theme, from a different document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): shares the playoff-seeding theme, from a different document.
@@ -19,6 +20,11 @@ Injuries and goaltending had certainly played a factor in the poor play — capt
 - [Alabama Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): shares the playoff-seeding theme, from a different document.
 - [Andrew Redmayne Substitution In Peru Playoff](andrew_redmayne_substitution_in_peru_playoff.md): shares the playoff-seeding theme, from a different document.
 - [Backlash To The Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): shares the playoff-seeding theme, from a different document.
+- [Dean Evason Coaching Career Path](dean_evason_coaching_career_path.md): same source document (doc_0340)
+- [John Hynes Contract And Predators Permission](john_hynes_contract_and_predators_permission.md): same source document (doc_0340)
+- [Minnesota Wild Fire Dean Evason And Hire John Hynes](minnesota_wild_fire_dean_evason_hire_john_hynes.md): same source document (doc_0340)
+- [Minnesota Wild Turnaround Outlook Under Hynes](minnesota_wild_turnaround_outlook_under_hynes.md): same source document (doc_0340)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

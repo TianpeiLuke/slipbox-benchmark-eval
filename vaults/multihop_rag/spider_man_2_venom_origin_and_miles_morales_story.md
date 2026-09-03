@@ -15,11 +15,17 @@ Miles' story takes more liberties. Hailey Cooper, his love interest from his sol
 
 ## Related Notes
 
+
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): both mention Miles Morales, from a different source document
 - [Encounters of the Spooky Kind (Sammo Hung)](encounters_of_the_spooky_kind_sammo_hung.md): both reference Sam Raimi, from a separate article
 - [Ginger Snaps (Werewolf Body Horror)](ginger_snaps_werewolf_body_horror.md): another Sam Raimi reference from a different document
 - [Mary Jane Mission Pacing and Verdict in Spider-Man 2](mary_jane_mission_pacing_and_verdict_spider_man_2.md): covers the same game's missions, from a separate source
 - [Mary Jane Missions and Spider-Man 2's Reception Improvement](mary_jane_missions_spider_man_2_reception_improvement.md): another treatment of Miles and the game's missions
+- [Marvel's Spider-Man 2 (Insomniac Games)](marvels_spider_man_2_game.md): same source document (doc_0383)
+- [Retelling as a Narrative Strategy](retelling_as_a_narrative_strategy.md): same source document (doc_0383)
+- [Spider-Man 2 and the Canon Events Critique](spider_man_2_and_the_canon_events_critique.md): same source document (doc_0383)
+- [Spider-Man: Across the Spider-Verse](spider_man_across_the_spider_verse.md): same source document (doc_0383)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

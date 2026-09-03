@@ -13,6 +13,7 @@ Gray was still rolling when he was removed, and the live blog described the outi
 
 ## Related Notes
 
+
 - [Diamondbacks Late Rally World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): also covers Bruce Bochy and Gabriel Moreno, from a different source document
 - [Kelly Finishes Seventh and Saalfrank Holds Texas](kelly_finishes_seventh_and_saalfrank_holds_texas.md): another inning-by-inning relief log, different source document
 - [Lourdes Gurriel Jr. Diamondbacks Re-Signing](lourdes_gurriel_jr_diamondbacks_re_signing.md): covers Gabriel Moreno and Lourdes Gurriel, from a different source document
@@ -21,6 +22,8 @@ Gray was still rolling when he was removed, and the live blog described the outi
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): another Game 3 development, same source document
 - [Brandon Pfaadt Start World Series Game 3](brandon_pfaadt_start_world_series_game_3.md): the opposing starter that night, same source document
 - [Corey Seager Home Runs 2023 World Series](corey_seager_home_runs_2023_world_series.md): the offense behind the lead Gray protected, same source document
+- [Marcus Semien's Big Hits In World Series Games 3 And 4](marcus_semien_five_rbi_world_series_game_4.md): same source document (doc_0495)
+- [Max Scherzer's Back Injury And Removal From The Rangers' World Series Roster](max_scherzer_back_injury_and_roster_removal_2023_world_series.md): same source document (doc_0495)
 
 ## Source
 

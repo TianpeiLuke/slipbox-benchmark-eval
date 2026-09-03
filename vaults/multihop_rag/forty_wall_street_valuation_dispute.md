@@ -13,6 +13,7 @@ A further liability sits in the lease terms: the property is subject to a ground
 
 ## Related Notes
 
+
 - [AI21 Labs Tel Aviv Office Lease](ai21_labs_tel_aviv_office_lease.md): another commercial office lease valuation note.
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): shares the valuation content tag used across the corpus.
 - [Amo Founding Team and Funding Round](amo_founding_team_and_funding_round.md): shares the valuation content tag used across the corpus.
@@ -21,6 +22,11 @@ A further liability sits in the lease terms: the property is subject to a ground
 - [Boeing Q3 2023 Earnings Preview and 737 Max Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): shares the valuation content tag used across the corpus.
 - [Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): another dispute over an independent appraiser's method.
 - [Cloud Stock Multiples and Startup Valuations](cloud_stock_multiples_and_startup_valuations.md): shares the valuation content tag used across the corpus.
+- [Mar-a-Lago Valuation Dispute](mar_a_lago_valuation_dispute.md): same source document (doc_0530)
+- [Trump Net Worth Valuation Dispute at Trial](trump_net_worth_valuation_dispute_at_trial.md): same source document (doc_0530)
+- [Trump Park Avenue Rent-Stabilised Unit Valuations](trump_park_avenue_rent_stabilised_unit_valuations.md): same source document (doc_0530)
+- [Trump Tower Fifth Avenue Penthouse Valuation Dispute](trump_tower_fifth_avenue_penthouse_valuation_dispute.md): same source document (doc_0530)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

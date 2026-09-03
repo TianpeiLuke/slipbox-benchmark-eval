@@ -11,11 +11,19 @@ All the Light We Cannot See, a Netflix Series: in the final days of WWII the pat
 
 ## Related Notes
 
+
 - [Boeing Q3 2023 Earnings Preview and 737 Max Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): shares the streaming_service, valuation topic tags, from a different source document.
 - [Dodgers Payroll Constraints Against Signing Ohtani and Trout](dodgers_payroll_constraints_against_signing_ohtani_and_trout.md): shares the streaming_service, valuation topic tags, from a different source document.
 - [Tech Layoffs December 2023](tech_layoffs_december_2023.md): shares the streaming_service, valuation topic tags, from a different source document.
 - [Tech Layoffs November 2023](tech_layoffs_november_2023.md): shares the streaming_service, valuation topic tags, from a different source document.
 - [Yellowjackets Rebel Moon and Strife December Releases](yellowjackets_rebel_moon_and_strife_december_releases.md): also covers Cannot See, from a different source document.
+- [Insidious: The Red Door](insidious_the_red_door.md): same source document (doc_0392)
+- [Netflix Games, November 2023](netflix_games_november_2023.md): same source document (doc_0392)
+- [Netflix's Licensed Library Additions, November 2023](netflix_licensed_library_additions_november_2023.md): same source document (doc_0392)
+- [Netflix's November 2023 Slate: Overview](netflix_november_2023_slate_overview.md): same source document (doc_0392)
+- [Netflix Originals Premiering November 14 To 16, 2023](netflix_originals_premiering_november_14_to_16_2023.md): same source document (doc_0392)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

@@ -13,6 +13,7 @@ The expected result is a reduction in severity, not a guarantee of avoiding infe
 
 ## Related Notes
 
+
 - [Canine Illness True Case Count Likely Thousands](canine_illness_true_case_count_likely_thousands.md): overlapping vocabulary on influenza, respiratory, symptoms, from a different source document.
 - [Sly Sylvester Stallone Documentary](sly_sylvester_stallone_documentary.md): overlapping vocabulary on sylvester, from a different source document.
 - [Small Pathogen Lung Penetration Mechanism Dogs](small_pathogen_lung_penetration_mechanism_dogs.md): overlapping vocabulary on tract, respiratory, getting, from a different source document.
@@ -21,6 +22,7 @@ The expected result is a reduction in severity, not a guarantee of avoiding infe
 - [Allison Miller Life after Amputation and Organ Damage](allison_miller_life_after_amputation_and_organ_damage.md): drawn from the same source document (doc_0065).
 - [CDC 2021 2022 Flu Burden and Vaccination Recommendation](cdc_2021_2022_flu_burden_and_vaccination_recommendation.md): drawn from the same source document (doc_0065).
 - [Influenza Secondary Bacterial Infection Mechanism](influenza_secondary_bacterial_infection_mechanism.md): drawn from the same source document (doc_0065).
+- [Recognizing A Severe Flu And Seeking Early Care](recognizing_severe_flu_and_seeking_early_care.md): same source document (doc_0065)
 
 ## Source
 

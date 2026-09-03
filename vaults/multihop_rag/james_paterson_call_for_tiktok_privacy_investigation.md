@@ -13,11 +13,20 @@ The conclusion he draws is a specific regulatory demand: "The information commis
 
 ## Related Notes
 
+
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): shares the data-breach and data-privacy themes, from a different source document.
 - [Big Ten Conference Scandal Run, 2023](big_ten_conference_scandal_run_2023.md): shares the data-breach and regulatory-investigation themes, from a different source document.
 - [Chinese Government Ban And Crackdown On Falun Gong, 1999](chinese_government_ban_and_crackdown_on_falun_gong_1999.md): also concerns the Chinese Communist Party, from a different source document.
 - [Chris Partridge's Firing And Evidence Destruction](chris_partridge_firing_and_evidence_destruction.md): shares the data-privacy and regulatory-investigation themes, from a different source document.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): shares the data-privacy and regulatory-investigation themes, from a different source document.
+- [ASPI's Analysis Of TikTok Pixel Data Aggregation Risk](aspi_analysis_of_tiktok_pixel_data_aggregation_risk.md): same source document (doc_0189)
+- [Australian Advertiser Responses To The TikTok Pixel Findings](australian_advertiser_responses_to_tiktok_pixel_findings.md): same source document (doc_0189)
+- [China's Data Laws And Government TikTok Device Bans](china_data_laws_and_government_tiktok_device_bans.md): same source document (doc_0189)
+- [Civic Data's Warning To Remove The TikTok Pixel](civic_data_warning_to_remove_tiktok_pixel.md): same source document (doc_0189)
+- [TikTok's Denial And The OAIC's Monitoring Of The Pixel Claims](tiktok_denial_and_oaic_monitoring_of_pixel_claims.md): same source document (doc_0189)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

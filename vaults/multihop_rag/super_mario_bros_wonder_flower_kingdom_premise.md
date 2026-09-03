@@ -13,6 +13,7 @@ That reciprocity shows up throughout. Sometimes it means rescuing trapped miners
 
 ## Related Notes
 
+
 - [Luigi's Mansion 3](luigis_mansion_3.md): shares the Mario cast of characters, from a different source document.
 - [Super Mario 3D World On Switch](super_mario_3d_world_switch.md): shares the Mario, Luigi and Toad ensemble, from a different source document.
 - [Super Mario Bros. Wonder](super_mario_bros_wonder.md): also covers the Flower Kingdom and Wonder Flower premise, from a different source document.
@@ -21,6 +22,8 @@ That reciprocity shows up throughout. Sometimes it means rescuing trapped miners
 - [Super Mario Bros. Wonder's Art And Overworld Map](super_mario_bros_wonder_art_and_overworld_map.md): drawn from the same source document (doc_0077).
 - [Badges And Level Variety In Super Mario Bros. Wonder](super_mario_bros_wonder_badges_and_level_variety.md): drawn from the same source document (doc_0077).
 - [How Wonder Fixes 2D Mario's Difficulty Pacing](super_mario_bros_wonder_difficulty_pacing_fix.md): drawn from the same source document (doc_0077).
+- [Minor Criticisms Of Super Mario Bros. Wonder](super_mario_bros_wonder_minor_criticisms.md): same source document (doc_0077)
+- [Super Mario Bros. Wonder: The Verdict](super_mario_bros_wonder_review_verdict.md): same source document (doc_0077)
 
 ## Source
 

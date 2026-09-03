@@ -11,6 +11,7 @@ The measurement anchor given is the Philippine target arithmetic at the time. Wh
 
 ## Related Notes
 
+
 - [Bank of Israel Interest Rate Policy During the War](bank_of_israel_interest_rate_policy_during_the_war.md): another case of inflation judged against fiscal pressure.
 - [Biggest Concert Films Box Office Records](biggest_concert_films_box_office_records.md): shares inflation as a comparative measure.
 - [Case for Raising the Inflation Target](case_for_raising_the_inflation_target.md): a competing view of how to handle persistent inflation.
@@ -19,6 +20,8 @@ The measurement anchor given is the Philippine target arithmetic at the time. Wh
 - [Balanced Versus Deficit Budget in Philippine Fiscal Practice](balanced_versus_deficit_budget_in_philippine_fiscal_practice.md): the deficit financing that feeds this cycle.
 - [Critique of Political Agendas in the Philippine Budget](critique_of_political_agendas_in_the_philippine_budget.md): the closing critique in the same article.
 - [DBM Case for a Surplus Budget Policy](dbm_case_for_a_surplus_budget_policy.md): the surplus argument that would break the cycle.
+- [Philippine 2024 Budget Deficit and Debt Trajectory](philippine_2024_budget_deficit_and_debt_trajectory.md): same source document (doc_0306)
+- [Philippine House Approval of the 2024 National Budget](philippine_house_approval_of_the_2024_national_budget.md): same source document (doc_0306)
 
 ## Source
 

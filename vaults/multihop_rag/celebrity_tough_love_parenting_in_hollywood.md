@@ -13,11 +13,17 @@ The second is a wealth-and-gratitude strand: others, like Ashton Kutcher and Mil
 
 ## Related Notes
 
+
 - [Arnold Schwarzenegger Drill Instructor Discipline](arnold_schwarzenegger_drill_instructor_discipline.md): same article, the leading example of the disciplinary strand
 - [Candace Cameron Bure Strict But Loving Boundaries](candace_cameron_bure_strict_but_loving_boundaries.md): same article, a strict-but-loving variant
 - [Daniel Craig Against Leaving An Inheritance](daniel_craig_against_leaving_an_inheritance.md): same article, a wealth-focused variant
 - [Gellar And Prinze Strict Household Rules](gellar_and_prinze_strict_household_rules.md): same article, another strict household
 - [Sly Sylvester Stallone Documentary](sly_sylvester_stallone_documentary.md): also discusses Arnold Schwarzenegger, from a different document
+- [Spotify's Podcast Business Efficiency Pivot](spotify_podcast_business_efficiency_pivot.md): both discuss Dax Shepard; different source document
+- [Twilight (1998)](twilight_1998_robert_benton.md): both discuss Reese Witherspoon; different source document
+- [Using Santa as a Behaviour Bribe](using_santa_as_a_behaviour_bribe.md): content overlap 0.11 on parenting, kids, approach; different source document
+- [Kristen Bell's Household Screen-Time Rules](kristen_bell_household_screen_time_rules.md): same source document (doc_0177)
+- [Kristen Bell On A Shared Bedroom As Character Building](kristen_bell_shared_bedroom_character_building.md): same source document (doc_0177)
 
 ## Source
 

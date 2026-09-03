@@ -11,10 +11,18 @@ Adobe's push extends past image generation into image editing. The company conti
 
 ## Related Notes
 
+
 - [Buy Now Pay Later Usage On Thanksgiving 2023](buy_now_pay_later_usage_on_thanksgiving_2023.md): overlapping coverage of Adobe, reported from a different source document.
 - [Holiday Discounting As The Driver Of 2023 Online Spend](holiday_discounting_as_driver_of_2023_online_spend.md): overlapping coverage of Adobe, reported from a different source document.
 - [Online Class And Creative Software Subscription Gifts](online_class_and_creative_software_subscription_gifts.md): overlaps on Adobe, Illustrator and creative-software help, from a different source document.
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): drawn from the same source document (doc_0043).
+- [Brave Software Lays Off 9% Of Its Workforce](brave_software_layoffs.md): same source document (doc_0043)
+- [Meta Quest 3 And The Affordable End Of AR/VR Hardware](consumer_ar_vr_hardware.md): same source document (doc_0043)
+- [Creator Economy Sustainability And Creator Venture Capital](creator_economy_sustainability.md): same source document (doc_0043)
+- [Whether Founders Should Attend Events](founder_event_attendance_debate.md): same source document (doc_0043)
+- [Google Pixel 8 Launch](google_pixel_8_launch.md): same source document (doc_0043)
+- [Mastodon's Undercounted Users And Twitter's Traffic](mastodon_and_x_traffic_figures.md): same source document (doc_0043)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

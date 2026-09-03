@@ -11,6 +11,7 @@ The 34-year-old Joshua, who lost his trio of titles to Oleksandr Usyk in 2021, h
 
 ## Related Notes
 
+
 - [Day Of Reckoning Card And Heavyweight Unification Path](day_of_reckoning_card_and_heavyweight_unification_path.md): also discusses Oleksandr Usyk, from a different document.
 - [Eddie Hearn On Opetaia Emulating Usyk And Unifying Cruiserweight](eddie_hearn_on_opetaia_emulating_usyk_and_unifying_cruiserweight.md): also discusses Oleksandr Usyk, from a different document.
 - [Joseph Parker Upset Win Over Deontay Wilder](joseph_parker_upset_win_over_deontay_wilder.md): covers the result that bore on this prospect, from a different document.
@@ -19,6 +20,8 @@ The 34-year-old Joshua, who lost his trio of titles to Oleksandr Usyk in 2021, h
 - [Day Of Reckoning Predictions And Picks](day_of_reckoning_predictions_and_picks.md): the picks for the fights standing in the way, from the same document.
 - [Day Of Reckoning Riyadh Boxing Card](day_of_reckoning_riyadh_boxing_card.md): the card both men fought on, from the same document.
 - [Deontay Wilder Comeback After Fury Trilogy](deontay_wilder_comeback_after_fury_trilogy.md): profiles the other fighter, from the same document.
+- [Deontay Wilder On Pressure Ahead Of Parker Bout](deontay_wilder_on_pressure_ahead_of_parker_bout.md): same source document (doc_0137)
+- [Eddie Hearn On Day Of Reckoning Card Assembly](eddie_hearn_on_day_of_reckoning_card_assembly.md): same source document (doc_0137)
 
 ## Source
 

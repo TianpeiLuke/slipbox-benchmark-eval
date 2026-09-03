@@ -11,11 +11,18 @@ The air pockets also make raw cranberries bounce when dropped on a hard surface,
 
 ## Related Notes
 
+
 - [American Cranberry Native Range and Harvest Window](american_cranberry_native_range_and_harvest_window.md): another account of the fruit and when it is harvested.
 - [Cranberries and New England Regional Identity](cranberries_and_new_england_regional_identity.md): another account of cranberries and their bogs.
 - [Cranberry Industry Scale and the Urann Legacy](cranberry_industry_scale_and_urann_legacy.md): another account of how growers handle the crop.
 - [The Cranberry Wet Harvesting Method](cranberry_wet_harvesting_method.md): describes the flooding harvest that this floating property makes possible.
 - [No Evidence Cranberries Were at the First Thanksgiving](no_evidence_cranberries_at_the_first_thanksgiving.md): another account of the fruit and its harvest.
+- [Cranberry Domestication and US Cultivation History](cranberry_domestication_and_us_cultivation_history.md): same source document (doc_0131)
+- [Cranberry Flower and Pollination Biology](cranberry_flower_and_pollination_biology.md): same source document (doc_0131)
+- [The Cranberry Genome and Molecular Breeding](cranberry_genome_and_molecular_breeding.md): same source document (doc_0131)
+- [Whole Genome Duplication and Bottlenecks in Cranberry](whole_genome_duplication_and_bottlenecks_in_cranberry.md): same source document (doc_0131)
+- [Why Cranberries Belong to Thanksgiving](why_cranberries_belong_to_thanksgiving.md): same source document (doc_0131)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
 
 ## Source
 

@@ -13,10 +13,18 @@ The Epoch Times is not required to list its donors, but tax documents filed by s
 
 ## Related Notes
 
+
 - [The Case For Organ Donation And Living Donor Awareness](case_for_organ_donation_and_living_donor_awareness.md): overlaps on donors, from a different source document.
 - [Right-Wing Online Audience Growth](right_wing_online_audience_growth.md): overlaps on far-right and conservative audiences, from a different source document.
 - [US Pediatric Organ Transplant Waiting List Figures](us_pediatric_organ_transplant_waiting_list_figures.md): overlaps on donors and individual giving, from a different source document.
 - [Chinese Government Ban And Crackdown On Falun Gong, 1999](chinese_government_ban_and_crackdown_on_falun_gong_1999.md): drawn from the same source document (doc_0076).
+- [Conservative Endorsements Of The Epoch Times' Credibility](conservative_endorsements_of_epoch_times_credibility.md): same source document (doc_0076)
+- [The Epoch Times, The 2020 Election And Pro-Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): same source document (doc_0076)
+- [Epoch Times Ad Spending And Falun Gong Affiliate Grants](epoch_times_ad_spending_and_falun_gong_affiliate_grants.md): same source document (doc_0076)
+- [The Epoch Times As A Conservative News Organization](epoch_times_conservative_news_organization_profile.md): same source document (doc_0076)
+- [Epoch Times Covid And "CCP Virus" Coverage](epoch_times_covid_ccp_virus_coverage.md): same source document (doc_0076)
+- [The Epoch Times' Denial Of A Falun Gong Affiliation](epoch_times_denial_of_falun_gong_affiliation.md): same source document (doc_0076)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
 
 ## Source
 

@@ -13,11 +13,18 @@ The comparative conclusion follows directly: among EVs, vehicles with smaller ba
 
 ## Related Notes
 
+
 - [GM Honda End Affordable EV Program](gm_honda_end_affordable_ev_program.md): substantial content overlap on vehicles, battery, electric, from a different source document.
 - [IIHS Finding That Tall Blunt Front Ends Raise Pedestrian Risk](iihs_finding_that_tall_blunt_front_ends_raise_pedestrian_risk.md): substantial content overlap on vehicles, pedestrians, battery, from a different source document.
 - [Lithium Ion Battery Demand and Thermal Runaway Risk](lithium_ion_battery_demand_and_thermal_runaway_risk.md): substantial content overlap on vehicles, energy, batteries, from a different source document.
 - [Musk and Tesla Safety Rating Record Claims](musk_and_tesla_safety_rating_record_claims.md): substantial content overlap on vehicles, pedestrians, battery, from a different source document.
 - [Tire Wear Particle Emissions Scale](tire_wear_particle_emissions_scale.md): substantial content overlap on heavier, tire, particles, from a different source document.
+- [Cybertruck Availability, Pricing And The EV Tax Credit](cybertruck_availability_pricing_and_ev_tax_credit.md): same source document (doc_0547)
+- [Cybertruck Bed Size And Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): same source document (doc_0547)
+- [Cybertruck Resale Restrictions Walked Back](cybertruck_resale_restrictions_walked_back.md): same source document (doc_0547)
+- [Cybertruck's Stainless Steel Design And Aesthetic](cybertruck_stainless_steel_design_and_aesthetic.md): same source document (doc_0547)
+- [Cybertruck Variants And Specifications](cybertruck_variants_and_specifications.md): same source document (doc_0547)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

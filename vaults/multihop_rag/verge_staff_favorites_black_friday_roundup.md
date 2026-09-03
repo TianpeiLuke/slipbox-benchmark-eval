@@ -13,11 +13,18 @@ In celebration of the annual post-Thanksgiving sales, the staff looked through r
 
 ## Related Notes
 
+
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): covers the Cyber Monday event referenced here, from a different source document.
 - [Amazon Echo Show, Audible And Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): covers other Cyber Monday offers, from a different source document.
 - [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): covers the earlier sale that set up this season, from a different source document.
 - [Apple Holiday 2023 Sale Overview](apple_holiday_2023_sale_overview.md): covers Cyber Monday Apple discounts, from a different source document.
 - [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): covers the pricing rules around these sale events, from a different source document.
+- [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): same source document (doc_0575)
+- [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): same source document (doc_0575)
+- [Atumtek Bluetooth Selfie Tripod](atumtek_bluetooth_selfie_tripod.md): same source document (doc_0575)
+- [Baboon To The Moon Fanny Pack](baboon_to_the_moon_fanny_pack.md): same source document (doc_0575)
+- [The Bedside Charging Station Habit](bedside_charging_station_habit.md): same source document (doc_0575)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

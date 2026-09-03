@@ -15,6 +15,7 @@ Mike Sullivan pulled Jarry for the extra attacker with over two minutes left at 
 
 ## Related Notes
 
+
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): shares the coaching-change theme, different source document
 - [Argentina Squad and Lineup vs Paraguay October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): shares the coaching-change theme, different source document
 - [Arizona 42-18 Win Over Utah November 2023](arizona_42_18_win_over_utah_november_2023.md): another comeback-and-coaching document, different source
@@ -23,6 +24,17 @@ Mike Sullivan pulled Jarry for the extra attacker with over two minutes left at 
 - [Big Ten Coaches Anger Over Michigan Sign Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): shares the coaching-controversy theme, different source document
 - [Big Ten Head Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): shares the head-coach accountability theme, different source document
 - [Bills Bengals SNF Second Quarter](bills_bengals_snf_second_quarter.md): another period-by-period live log, different source document
+- [Blackhawks vs. Penguins 2023: Broadcast Coverage](blackhawks_penguins_2023_broadcast_coverage.md): same source document (doc_0483)
+- [First Period: Bryan Rust Opens The Scoring](blackhawks_penguins_2023_first_period_rust_opener.md): same source document (doc_0483)
+- [Blackhawks And Penguins Opening Night Lineups, October 2023](blackhawks_penguins_2023_opening_night_lineups.md): same source document (doc_0483)
+- [Second Period: Bedard's First NHL Point](blackhawks_penguins_2023_second_period_bedard_first_point.md): same source document (doc_0483)
+- [Blackhawks vs. Penguins 2023: Start Time And Arena](blackhawks_penguins_2023_start_time_and_arena.md): same source document (doc_0483)
+- [Bedard's Debut Numbers And The Pregame Scenes](connor_bedard_debut_performance_and_pregame_scenes.md): same source document (doc_0483)
+- [Connor Bedard's NHL Debut: Blackhawks Beat Penguins 4-2](connor_bedard_nhl_debut_blackhawks_beat_penguins_4_2.md): same source document (doc_0483)
+- [Crosby, Malkin And Letang's 18th Season Together](crosby_malkin_letang_eighteenth_season_together.md): same source document (doc_0483)
+- [NHL Opening Night 2023 Schedule](nhl_opening_night_2023_schedule.md): same source document (doc_0483)
+- [The Penguins' Third-Period Weakness Carried Into 2023-24](penguins_third_period_weakness_carried_into_2023_24.md): same source document (doc_0483)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

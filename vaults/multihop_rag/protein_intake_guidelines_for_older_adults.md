@@ -13,6 +13,7 @@ The obstacle the article flags is compliance rather than the rule itself: while 
 
 ## Related Notes
 
+
 - [Age Well Daily Habits For The Over Fifties](age_well_daily_habits_for_the_over_fifties.md): same article, where protein checking becomes a daily habit
 - [Daily Walking Reduces Late Life Depression](daily_walking_reduces_late_life_depression.md): same article, the exercise counterpart to this dietary rule
 - [Dementia Research Register And Trial Participation](dementia_research_register_and_trial_participation.md): same source document
@@ -20,6 +21,9 @@ The obstacle the article flags is compliance rather than the rule itself: while 
 - [Ketogenic Diet And Ketosis](ketogenic_diet_and_ketosis.md): overlaps on protein and diet composition, different document
 - [Alexandra Moving Home At 37 And Solo Motherhood](alexandra_moving_home_at_37_and_solo_motherhood.md): part of the same multigenerational grouping, different source
 - [Tess Moone Selling Perth Home And Rental Crisis](tess_moone_selling_perth_home_and_rental_crisis.md): part of the same multigenerational grouping, different source
+- [Rachel Claire, A Photographer Returning To The Family Home](rachel_claire_photographer_returning_to_the_family_home.md): same sub-plan (Multigenerational living and caring for ageing parents), different source document
+- [Multivitamins And Cognition In Older Adults](multivitamins_and_cognition_in_older_adults.md): same source document (doc_0605)
+- [The Sandwich Generation: Parenting Your Own Parents](sandwich_generation_parenting_ageing_parents.md): same source document (doc_0605)
 
 ## Source
 

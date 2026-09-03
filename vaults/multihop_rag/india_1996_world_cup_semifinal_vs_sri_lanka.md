@@ -11,11 +11,18 @@ India were favourites again in that first semi-final and raised their hopes by r
 
 ## Related Notes
 
+
 - [Boycott Criticism Of Bairstow And Woakes Selection](boycott_criticism_of_bairstow_and_woakes_selection.md): also concerns Sri Lanka in a cricket context, from a different source document.
 - [England 2023 Cricket World Cup Title Defence Collapse](england_2023_cricket_world_cup_title_defence_collapse.md): also concerns Sri Lanka and a World Cup collapse, from a different source document.
 - [England Cricket World Cup 2023 Qualification Crisis](england_cricket_world_cup_2023_qualification_crisis.md): also concerns the Cricket World Cup, from a different source document.
 - [England South Africa Rugby World Cup Semi Final 2023](england_south_africa_rugby_world_cup_semi_final_2023.md): another World Cup semi-final, from a different source document.
 - [First ODI Cricket World Cup 1975](first_odi_cricket_world_cup_1975.md): covers the tournament's early history including Sri Lanka, from a different source document.
+- [ICC ODI World Cup 2023: Knockout Stage And Final](icc_world_cup_2023_knockout_stage_and_final.md): same source document (doc_0133)
+- [India's 1983 World Cup Semi-Final Against England](india_1983_world_cup_semifinal_vs_england.md): same source document (doc_0133)
+- [India's 1987 World Cup Semi-Final Against England](india_1987_world_cup_semifinal_vs_england.md): same source document (doc_0133)
+- [India's 2003 World Cup Semi-Final Against Kenya](india_2003_world_cup_semifinal_vs_kenya.md): same source document (doc_0133)
+- [India's 2011 World Cup Semi-Final Against Pakistan](india_2011_world_cup_semifinal_vs_pakistan.md): same source document (doc_0133)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

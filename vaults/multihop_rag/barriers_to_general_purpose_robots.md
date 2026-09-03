@@ -13,6 +13,7 @@ His grounds for optimism are about the field rather than any single technology: 
 
 ## Related Notes
 
+
 - [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): overlapping robotics-outlook coverage, from a different source document.
 - [Amazon MIT Ipsos Robot Perception Study](amazon_mit_ipsos_robot_perception_study.md): overlapping coverage of trust in industrial robots, from a different source document.
 - [Amazon Mobile Manipulation Program](amazon_mobile_manipulation_program.md): overlapping coverage of industrial robot capability, from a different source document.
@@ -21,6 +22,8 @@ His grounds for optimism are about the field rather than any single technology: 
 - [Boston Dynamics On Generative AI's Role In Robotics](boston_dynamics_view_on_generative_ai_in_robotics.md): drawn from the same source document (doc_0420), on the technology that may close the gap.
 - [Boston Dynamics On The Humanoid Form Factor](boston_dynamics_view_on_humanoid_form_factor.md): drawn from the same source document (doc_0420), on the form factor for general-purpose work.
 - [Next Industries For Robotics Adoption](next_industries_for_robotics_adoption.md): drawn from the same source document (doc_0420), on the steps along this path.
+- [Outlook For Home Robots Beyond Vacuums](outlook_for_home_robots_beyond_vacuums.md): same source document (doc_0420)
+- [The Robotics Supply Chain As An Underappreciated Trend](robotics_supply_chain_as_underappreciated_trend.md): same source document (doc_0420)
 
 ## Source
 

@@ -13,11 +13,19 @@ Tottenham still sat second in the table after the match, whilst Chelsea's win li
 
 ## Related Notes
 
+
 - [Argentina's First-Half Dominance vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): also discusses Cristian Romero and Enzo Fernandez, from a different source document.
 - [Argentina's Second Half and Messi's Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): also discusses Enzo Fernandez, from a different source document.
 - [Carabao Cup 2023-24 Second Round Results](carabao_cup_2023_24_second_round_results.md): also discusses Crystal Palace, from a different source document.
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): also discusses Crystal Palace, from a different source document.
 - [Chelsea 4-4 Manchester City at Stamford Bridge](chelsea_4_4_manchester_city_stamford_bridge.md): also discusses Cole Palmer, from a different source document.
+- [Ange Postecoglou's Reaction And The End Of His 52-Match Unbeaten Home Run](ange_postecoglou_reaction_and_unbeaten_home_record.md): same source document (doc_0478)
+- [Chelsea's Second-Half Pressure And Finishing Problems At Tottenham](chelsea_second_half_pressure_and_finishing_problems.md): same source document (doc_0478)
+- [Cole Palmer's Penalty-Taking Role And Record](cole_palmer_penalty_taking_role_and_record.md): same source document (doc_0478)
+- [Nicolas Jackson's First Premier League Hat-Trick At Tottenham](nicolas_jackson_first_premier_league_hat_trick.md): same source document (doc_0478)
+- [Red Cards And VAR Decisions In Tottenham Vs Chelsea](spurs_chelsea_red_cards_and_var_decisions.md): same source document (doc_0478)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

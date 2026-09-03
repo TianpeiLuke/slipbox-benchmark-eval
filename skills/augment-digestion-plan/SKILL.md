@@ -115,7 +115,7 @@ Report: "Plan has N/11 sections. Missing: [list]."
 
 ### 2a. Re-read every source page AND measure
 
-Re-read the source from `data/corpus/$CORPUS/<doc_id>.txt` (or `scripts/plan_coverage.py $CORPUS --segment <doc_id>` for block/word counts). Read EVERY document listed in the plan's Source section — the corpus is local, so there is nothing to WebFetch.
+Use the same tool used to read the source initially (local file read, Read, WebFetch). Read EVERY page listed in the plan's Source section.
 
 **For each page, record ACTUAL measured values**:
 - Word count (from the tool output, not from memory)
@@ -295,7 +295,7 @@ For each execution phase, add a validation gate table covering **all 7 gates** (
 | G2-Grounding | Content faithful, code verbatim, no hallucination, source warnings preserved | Manual diff verified | Manual diff against source |
 | G3-Density | Word count ≤ 1800, code blocks ≤ 6, lines ≤ 400 | All thresholds met | Validation script (`wc -w`, `grep -c '^\`\`\`'`, `wc -l`) |
 | G3-Coverage | All source H2/H3 sections from coverage map present | 100% coverage | Checklist |
-| G4-CrossRef | Internal links resolve, `source_docs` present (corpus doc ids), entry-point updated | All present | Bash link-check script |
+| G4-CrossRef | Internal links resolve, source URL present, entry-point updated | All present | Bash link-check script |
 | **G5-Ghost** | Every reference (Related Notes, Inlinks) exists in vault — no ghosts | All references DB-verified | **`/slipbox-fix-ghost-references`** (skill) — `--detect` surfaces ghosts + ranked candidates; resolve each by redirect (to a verified same-sense note, recorded in Plan Amendments), drop, or defer→capture |
 | **G6-Broken** | After batch lands, zero broken links touching new notes | 0 broken links from batch files | **/slipbox-check-broken-links** + **/slipbox-fix-broken-links** (skills) |
 ```
@@ -473,15 +473,18 @@ source_docs: [<corpus_doc_id>, ...]   # REQUIRED — see the note contract below
 | `## Related Terms` | Yes | **8-15 vault term-note links minimum** (see Cross-Domain Diversity below) — INDEXED markdown link format: `**[Term Name](term_X.md)** — one-line description` |
 | `## References` | Yes | EXTERNAL URLs ONLY (wiki, corpus document, papers, Wikipedia, books); NO `term_*.md` links here — those go in Related Terms above |
 
-### Term Research Under Blind Ingestion (Load-Bearing)
+### Multi-Source Research (Load-Bearing — Avoids Doc-Trapped Scope)
 
-> **Blind ingestion forbids internal research.** The upstream skill researched a term across internal Amazon systems (wiki, SAGE_HORDE, BROADCAST). This repo is a public benchmark eval: the **scored** content of a term note comes from the **corpus and the vault only** — never an internal system. That preserves the corpus/questions quarantine AND keeps published notes free of internal tokens (`scripts/scrub_check.py` blocks them). See the rewritten `/slipbox-capture-term-note`.
+> The source doc that triggered the capture is ONE viewpoint. Relying only on it gives a doc-narrow view that's blind to the term's broader meaning, related concepts, and cross-domain applications. Every capture MUST research across multiple sources.
 
 For every undigested term, the plan MUST require the author to:
 
-1. **Corpus** — the term's own source blocks under `data/corpus/$CORPUS/` (the surface forms `scripts/build_term_links.py` matched). This is the scored evidence and the only thing that may populate `source_docs`.
-2. **Vault cross-reference** — `python3 scripts/retrieval.py "$VAULT" --query "<term>" --strategy hybrid` plus a DB query for in-domain + cross-domain related term notes (capture-term-note Steps 3d + 3e).
-3. **External enrichment (optional, quarantined)** — Wikipedia / textbooks / official open-source docs MAY add orthogonal context, but ONLY inside a `## Background (external)` section tagged `enriched: web` with an `external_refs` field; it is **never** scored and never enters `source_docs`. Internal Amazon systems (wiki, SAGE_HORDE, BROADCAST) are out of scope entirely.
+1. **`builder-mcp WIKI`** — try direct wiki URLs first (e.g. `https://the corpus`); then `InternalSearch` with `domain: WIKI` for the term + 1-2 strongest context keywords; read top 2-3 matching wiki pages
+2. **corpus document** — `https://the corpus`; read top 1-2 promising results for design docs, project summaries, launch announcements
+3. **`builder-mcp SAGE_HORDE`** — corporate search with `domain: SAGE_HORDE`, pageSize 3; record top results
+4. **`builder-mcp BROADCAST`** — `domain: BROADCAST` for launch announcements; pageSize 3
+5. **External sources** (≥2 of): Wikipedia, Pearl/Angrist textbook PDFs, official open-source documentation, top arXiv result on the method, original method paper. Even when the digest doc covers the term richly, an external source provides definition orthogonality
+6. **Vault cross-reference**: `/slipbox-search-notes <term>` AND DB query for in-domain + cross-domain related term notes per the capture-term-note canonical Steps 3d + 3e
 
 ### Cross-Domain Diversity for Related Terms (8-15 links minimum)
 
@@ -648,10 +651,9 @@ When ENRICHER_INPUTS + SOURCE CONTENT are provided, the capture skill skips inte
 
 ### Research Dry-Fall Fallback (Constraint 7 of capture-term-note canonical)
 
-If the corpus + vault yield nothing substantive for a term, that is itself a finding: the term is peripheral to this corpus. Do NOT reach outside the corpus for scored content — no internal Amazon system and no user-supplied URL may feed `source_docs`. Acceptable responses:
-- Report the thin coverage in the plan and keep the term note scoped to its corpus source blocks
-- If genuinely unfounded, drop the term rather than pad it (a spurious term note becomes a graph island `bfs`/`ppr` traverse for nothing)
-- Optional orthogonal context may go in a quarantined `## Background (external)` section (`enriched: web` + `external_refs`), never scored
+If multi-source research returns NOTHING substantive (wiki empty, corpus document empty, SAGE empty, BROADCAST empty, no useful external sources found), the capture skill MUST ask the user for a direct URL OR pasted source. The plan must NOT plan to silently emit a stub with only the digest doc's content — that violates the doc-trapped-scope avoidance. Acceptable fallbacks:
+- Pause for user input on direct URL
+- Mark the term as `status: stub` with explicit `research_pending: true` YAML field and a TODO comment
 
 ### Acceptance — term-note authoring is NOT done if
 
@@ -860,7 +862,7 @@ Summary:
 - Density re-assessment: [no further splits / N additional splits applied]
 - Inlinks mapped: [K] existing notes → new notes
 - Undigested terms surfaced: [T_orig from plan-digestion + T_new added during augment re-read]
-- Term-Note Authoring Requirements: present; research scoped to corpus + vault (external only in a quarantined `## Background (external)` section, never scored)
+- Term-Note Authoring Requirements: present; multi-source research mandated (WIKI + corpus document + SAGE + BROADCAST + external)
 - Ghost-reference detection script (G5): present
 - Broken-link fix gate (G6): present
 
@@ -893,10 +895,35 @@ parameter to the retrieval comparison for no benefit.
 
 ```yaml
 ---
+tags:                                # FM-010 — 2+, first is a P.A.R.A. type
+  - resource                         #   archive | area | entry_point | project | resource
+  - <domain tag>
+keywords:                            # FM-020 — 3+, and see below
+  - <term the note is about>
+  - <term a question would use>
+  - <acronym or variant spelling>
+topics:                              # FM-030
+  - <broad subject area>
+language: markdown                   # FM-040
+date of note: <YYYY-MM-DD>           # FM-040
+status: active                       # FM-040
 building_block: <one of the eight>   # FM-002 / FM-003 — closed enum
-source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this note
+source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence, the scoring key
 ---
 ```
+
+**`keywords` and `topics` are retrieval surface, not decoration.** Graph
+traversal can be seeded by matching a query against
+`note_name`, `keywords`, `topics` and `tags` — so a note with none of them is
+invisible to that seeding, and a vault with none of them cannot run the strategy
+at all. They are also a denser statement of what the note is about than its body:
+a short question tends to use the vocabulary a keyword list is written in, while
+a body buries that vocabulary among incidental words. Write keywords a
+*questioner* would use, not a summary of the note.
+
+`building_block` and `source_docs` are ERRORS if absent. The rest are WARNINGS:
+their absence degrades retrieval without making a note unscorable, and gating on
+them would block a vault that is merely incomplete rather than wrong.
 
 `navigation` notes — glossaries, entry points, indexes — are **exempt from
 `source_docs`**. They index rather than assert, so there is no document to trace

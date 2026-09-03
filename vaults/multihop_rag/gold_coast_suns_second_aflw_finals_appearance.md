@@ -13,6 +13,7 @@ The Bombers broke through first with a goal from Amber Clarke, but young talent 
 
 ## Related Notes
 
+
 - [AFLW Crowds Short of Season Extension Targets](aflw_crowds_short_of_season_extension_targets.md): also concerns Gold Coast, from a different document.
 - [Jake Rogers, AFL Draft Prospect 2023](jake_rogers_afl_draft_prospect_2023.md): overlaps on the Suns and clearance counts, from a different document.
 - [Jed Walter, AFL Draft Prospect 2023](jed_walter_afl_draft_prospect_2023.md): overlaps on the Suns and goals, from a different document.
@@ -21,6 +22,8 @@ The Bombers broke through first with a goal from Amber Clarke, but young talent 
 - [AFLW 2023 Finals Qualification and Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): drawn from the same document (doc_0209).
 - [Brisbane Lions' 2023 AFLW Top-Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): drawn from the same document (doc_0209).
 - [Erin Phillips' AFLW Retirement](erin_phillips_aflw_retirement.md): drawn from the same document (doc_0209).
+- [Geelong Cats' 2023 AFLW Finals Qualification](geelong_cats_2023_aflw_finals_qualification.md): same source document (doc_0209)
+- [North Melbourne's 2023 AFLW Top-Four Finish](north_melbourne_2023_aflw_top_four_finish.md): same source document (doc_0209)
 
 ## Source
 

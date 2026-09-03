@@ -11,6 +11,7 @@ The grounds acknowledge the setback and answer it with volume: Douglas' first ga
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also concerns Green Bay, from a different document.
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also concerns Green Bay, from a different document.
 - [Chiefs Packers Week 13 Broadcast And Kickoff Details](chiefs_packers_week_13_broadcast_and_kickoff_details.md): also concerns Green Bay, from a different document.
@@ -19,6 +20,8 @@ The grounds acknowledge the setback and answer it with volume: Douglas' first ga
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): another entry in the same preview, from the same document.
 - [Curtis Samuel Week 16 Waiver Target](curtis_samuel_week_16_waiver_target.md): the preceding waiver add in the same list, from the same document.
 - [Deebo Samuel Yards Per Target Pace](deebo_samuel_yards_per_target_pace.md): another entry in the same preview, from the same document.
+- [Dontayvion Wicks Week 16 Waiver Target](dontayvion_wicks_week_16_waiver_target.md): same source document (doc_0146)
+- [Drake London Home Road Fantasy Split](drake_london_home_road_fantasy_split.md): same source document (doc_0146)
 
 ## Source
 

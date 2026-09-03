@@ -13,12 +13,19 @@ Critic JR argues the game is less about stories and more about dreams — the wa
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick for Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): both discuss the Xbox Series hardware, from a different source document
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): both reference Xbox Series consoles, from a separate article
 - [Inzone H9 and Seagate Xbox Expansion Card Deals](inzone_h9_and_seagate_xbox_expansion_card_deals.md): another Xbox Series-related note from a different document
 - [LG C3 OLED TV](lg_c3_oled_tv.md): another Xbox Series-referencing hardware note
 - [M3 Max Gaming Performance on macOS](m3_max_gaming_performance_on_macos.md): another note touching Xbox Series hardware, from a separate source
 - [Amnesia: The Bunker](amnesia_the_bunker.md): another horror game ranked in the same article
+- [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): same source document (doc_0213)
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Chants of Sennaar](chants_of_sennaar.md): same source document (doc_0213)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

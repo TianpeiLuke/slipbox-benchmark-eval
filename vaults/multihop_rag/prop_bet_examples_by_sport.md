@@ -13,11 +13,22 @@ Baseball, hockey and soccer follow the same logic on their own stat lines. MLB p
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): another item touching the Super Bowl, from a different document.
 - [The American Odds Format](american_odds_format.md): shares the NFL and betting-odds subject areas, separately sourced.
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): also covers NBA betting markets, in a different document.
 - [Bet365 Sportsbook US MLB Markets](bet365_sportsbook_us_mlb_markets.md): another catalogue of baseball markets, from a separate source.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): lists MLB and NBA markets of the kind described here, in a different document.
+- [Advantages Of Prop Bets](advantages_of_prop_bets.md): same source document (doc_0201)
+- [Drawbacks Of Prop Bets](drawbacks_of_prop_bets.md): same source document (doc_0201)
+- [Exotic Prop Bets](exotic_prop_bets.md): same source document (doc_0201)
+- [The Prop Bet](prop_bet_definition.md): same source document (doc_0201)
+- [Reading Prop Bet Odds](reading_prop_bet_odds.md): same source document (doc_0201)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
 
 ## Source
 

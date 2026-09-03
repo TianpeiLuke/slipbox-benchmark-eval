@@ -11,11 +11,18 @@ The grounds are the specific gains: the new frames are lighter, the battery last
 
 ## Related Notes
 
+
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): overlapping coverage of Echo devices, bass and Alexa, from a different source document.
 - [Amazon Echo Buds Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): overlapping coverage of Echo devices, bass and Alexa, from a different source document.
 - [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): overlapping coverage of Echo devices and Alexa, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): overlapping coverage of Echo audio devices and Alexa, from a different source document.
 - [Echo Fourth-Gen Smart Speaker Prime Day Deal](echo_fourth_gen_smart_speaker_prime_day_deal.md): overlapping coverage of Amazon's Echo and Alexa lineup, from a different source document.
+- [Alexa's Limitations As An On-The-Go Assistant On Echo Frames](alexa_limitations_as_an_on_the_go_assistant_on_echo_frames.md): same source document (doc_0431)
+- [Echo Frames: Alexa At Home And Find My Frames](echo_frames_alexa_at_home_and_find_my_frames.md): same source document (doc_0431)
+- [Echo Frames Audio Leakage In Quiet Spaces](echo_frames_audio_leakage_in_quiet_spaces.md): same source document (doc_0431)
+- [Echo Frames Battery Life And Charging Stand](echo_frames_battery_life_and_charging_stand.md): same source document (doc_0431)
+- [Echo Frames Call Quality And Multi-Device Pairing](echo_frames_call_quality_and_multi_device_pairing.md): same source document (doc_0431)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

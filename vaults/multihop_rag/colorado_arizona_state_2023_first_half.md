@@ -15,11 +15,18 @@ Colorado answered before the break. At 8:06 p.m. Arizona State head coach Kenny 
 
 ## Related Notes
 
+
 - [Arizona versus Arizona State Territorial Cup 2023](arizona_versus_arizona_state_territorial_cup_2023.md): another Arizona State game report, different source document
 - [Arizona Wildcats Scoring Plays versus Utah](arizona_wildcats_scoring_plays_versus_utah.md): a comparable Arizona touchdown log, different source document
 - [Cale Makar Shots on Goal Prop](cale_makar_shots_on_goal_prop.md): shares Colorado and Devils vocabulary, from a different source document
 - [Cardinals 24-10 Steelers Week 13](cardinals_24_10_steelers_week_13.md): another Arizona team's scoring log, different source document
 - [College Football Week 6 2023 Remaining Betting Lines](college_football_week6_2023_remaining_betting_lines.md): the same week's betting market, including Arizona State
+- [Trenton Bourguet's 335-Yard Effort In Arizona State's Narrow Loss](arizona_state_quarterback_bourguet_2023_situation.md): same source document (doc_0568)
+- [Colorado 27, Arizona State 24: Week 6 2023 Recap](colorado_27_24_arizona_state_2023_recap.md): same source document (doc_0568)
+- [Pregame Notes: Colorado At Arizona State, Oct. 7 2023](colorado_arizona_state_2023_pregame_notes.md): same source document (doc_0568)
+- [Colorado's Second Half Against Arizona State, Oct. 7 2023](colorado_arizona_state_2023_second_half.md): same source document (doc_0568)
+- [Colorado vs. Arizona State 2023: Venue And Broadcast Details](colorado_arizona_state_2023_venue_and_broadcast.md): same source document (doc_0568)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

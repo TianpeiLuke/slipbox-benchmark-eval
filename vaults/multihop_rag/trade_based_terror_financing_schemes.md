@@ -11,6 +11,7 @@ Two seizures illustrate the method. Only days before the November 2023 interview
 
 ## Related Notes
 
+
 - [Egypt Role in Israel Hamas War and Western Leverage](egypt_role_in_israel_hamas_war_and_western_leverage.md): shares vocabulary around hamas, gaza and israel, from a different source document.
 - [Gaza Displacement and Casualties October 2023](gaza_displacement_and_casualties_october_2023.md): shares vocabulary around hamas, gaza and israel, from a different source document.
 - [India Israel Bilateral Trade Exposure 2022-23](india_israel_bilateral_trade_exposure_2022_23.md): overlaps on goods trade through Israeli ports, from a different source document.
@@ -19,6 +20,8 @@ Two seizures illustrate the method. Only days before the November 2023 interview
 - [Hamas Fundraising after October 7](hamas_fundraising_after_october_7.md): another note drawn from the same source document (doc_0486).
 - [Hawala Money Transfer Into Gaza](hawala_money_transfer_into_gaza.md): the channel one of these schemes was built on top of (doc_0486).
 - [IMPA's Blocking of a Hamas Fundraising Pipeline in Europe](impa_blocking_hamas_fundraising_in_europe.md): the fundraising channel that runs in parallel (doc_0486).
+- [The International Terror Finance Task Force](international_terror_finance_task_force.md): same source document (doc_0486)
+- [Iran's State Funding Of Hamas](iran_state_funding_of_hamas.md): same source document (doc_0486)
 
 ## Source
 

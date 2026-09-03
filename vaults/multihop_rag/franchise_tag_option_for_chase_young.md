@@ -13,6 +13,7 @@ The Sporting News' conclusion is that franchising him may not be worth the hassl
 
 ## Related Notes
 
+
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): another document referencing the Super Bowl, unrelated domain
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): another Super Bowl-referencing document, different source
 - [Bills Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): another Super Bowl-contender document, different source
@@ -21,6 +22,10 @@ The Sporting News' conclusion is that franchising him may not be worth the hassl
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): the class in which Young is the best player, same source document
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): the tight cap space that complicates a one-year tag, same source document
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): the long-term alternative to tagging him, same source document
+- [Projecting Chase Young's 2024 Contract Value](chase_young_2024_contract_value_projection.md): same source document (doc_0500)
+- [The 49ers Trade For Chase Young At The 2023 Deadline](chase_young_trade_to_49ers_2023_deadline.md): same source document (doc_0500)
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

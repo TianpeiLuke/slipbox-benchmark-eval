@@ -13,11 +13,18 @@ Klopp insisted he had not built another formidable attack at the expense of a re
 
 ## Related Notes
 
+
 - [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md): overlaps on Liverpool and Darwin Núñez's goals, from a different document.
 - [Kostas Tsimikas Collarbone Break in Klopp Collision](kostas_tsimikas_collarbone_break_in_klopp_collision.md): also discusses Liverpool under Klopp, from a different document.
 - [Liverpool 3-0 Brentford: Salah's 200th English Goal](liverpool_3_0_brentford_salah_200th_english_goal.md): also discusses Mohamed Salah's scoring run, from a different document.
 - [Liverpool Arsenal Draw at Anfield December 2023](liverpool_arsenal_draw_at_anfield_december_2023.md): also discusses Mohamed Salah, from a different document.
 - [Liverpool Beat Toulouse in Europa League Group](liverpool_beat_toulouse_in_europa_league_group.md): also discusses Mohamed Salah, from a different document.
+- [Everton Under Sean Dyche As A Derby Threat](everton_under_sean_dyche_as_derby_threat.md): same source document (doc_0542)
+- [Klopp On Building Defensive Protection](klopp_on_building_defensive_protection.md): same source document (doc_0542)
+- [Klopp On Consistency And The Midfield Rebuild](klopp_on_consistency_and_the_midfield_rebuild.md): same source document (doc_0542)
+- [Liverpool's Early-Season Form In 2023-24](liverpool_early_season_form_2023_24.md): same source document (doc_0542)
+- [The 243rd Merseyside Derby And Klopp's Record](merseyside_derby_243rd_edition_and_klopp_record.md): same source document (doc_0542)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

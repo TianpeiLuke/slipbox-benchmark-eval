@@ -11,6 +11,7 @@ The Swans recorded their highest total the previous round in a 14-12-96 to 6-3-3
 
 ## Related Notes
 
+
 - [Charlie Edwards AFL Draft Prospect 2023](charlie_edwards_afl_draft_prospect_2023.md): also discusses the Western Bulldogs, from a different document.
 - [Clay Hall AFL Draft Prospect 2023](clay_hall_afl_draft_prospect_2023.md): also discusses the Western Bulldogs, from a different document.
 - [Collingwood Geelong Wind and Rain Contest 2023](collingwood_geelong_wind_and_rain_contest_2023.md): also discusses Chloe Molloy, from a different document.
@@ -18,6 +19,10 @@ The Swans recorded their highest total the previous round in a 14-12-96 to 6-3-3
 - [Jordan Croft AFL Draft Prospect 2023](jordan_croft_afl_draft_prospect_2023.md): also discusses the Western Bulldogs, from a different document.
 - [AFLW Crowds Short of Season Extension Targets](aflw_crowds_short_of_season_extension_targets.md): the league-wide attendance picture around this club, from the same document.
 - [AFLW Longer Quarters and Interchange Cap Rule Changes](aflw_longer_quarters_and_interchange_cap_rule_changes.md): the scoring rule changes behind record totals, from the same document.
+- [The 'Matildas Effect' And Its Limited Impact On Domestic Women's Sport](matildas_effect_limited_impact_on_domestic_womens_sport.md): same source document (doc_0210)
+- [The Swans' Matchday Experience Model For Local Attendance](swans_matchday_experience_drives_local_attendance.md): same source document (doc_0210)
+- [Sydney Swans Top The AFLW Attendance Charts](sydney_swans_top_aflw_attendance_charts.md): same source document (doc_0210)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

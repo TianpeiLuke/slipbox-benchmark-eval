@@ -13,9 +13,17 @@ The Elgato Stream Deck Mini was $59, down from $80, a 26 percent discount. It is
 
 ## Related Notes
 
+
 - [Echo Fourth-Gen Smart Speaker Prime Day Deal](echo_fourth_gen_smart_speaker_prime_day_deal.md): overlaps on Amazon deals for connected smart devices, from a different source document.
 - [Inzone H9 and Seagate Xbox Expansion Card Deals](inzone_h9_and_seagate_xbox_expansion_card_deals.md): overlaps on Sony InZone headsets, from a different source document.
 - [Logitech G535 Wireless Headset Deal](logitech_g535_wireless_headset_deal.md): overlaps on gaming headset deals, from a different source document.
+- [October 2023 Prime Day Gaming Deals Overview](october_2023_prime_day_gaming_deals_overview.md): same source document (doc_0235)
+- [Prime Day Console And Controller Deals, October 2023](prime_day_console_and_controller_deals_october_2023.md): same source document (doc_0235)
+- [Prime Day Console And PC Storage Deals, October 2023](prime_day_console_and_pc_storage_deals_october_2023.md): same source document (doc_0235)
+- [Prime Day Tabletop Game Deals, October 2023](prime_day_tabletop_game_deals_october_2023.md): same source document (doc_0235)
+- [Prime Day Video Game Title Deals, October 2023](prime_day_video_game_title_deals_october_2023.md): same source document (doc_0235)
+- [Livestreaming](term_livestreaming.md): uses the concept livestreaming
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

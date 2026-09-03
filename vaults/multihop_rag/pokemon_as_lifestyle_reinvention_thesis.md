@@ -13,11 +13,18 @@ The warrant is that PokéTsume is only possible because of that reinvention, and
 
 ## Related Notes
 
+
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): shares the Nintendo Switch platform, from a different source document.
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): shares the Nintendo Switch platform, from a different source document.
 - [Blasphemous 2](blasphemous_2.md): shares the Nintendo Switch platform, from a different source document.
 - [Chants Of Sennaar](chants_of_sennaar.md): shares the Nintendo Switch platform, from a different source document.
 - [Classic Nintendo Switch Franchise Picks](classic_nintendo_switch_franchise_picks.md): also concerns long-running Nintendo franchises, from a different source document.
+- [External Studios Expand Pokémon Animation](external_studios_expand_pokemon_animation.md): same source document (doc_0346)
+- [Pokémon Diamond And Pearl At The Sales Crossroads](pokemon_diamond_and_pearl_sales_crossroads.md): same source document (doc_0346)
+- [Pokémon's Longevity And Scale](pokemon_franchise_longevity_and_scale.md): same source document (doc_0346)
+- [Pokémon Garden As The First Brand Diversification](pokemon_garden_as_first_brand_diversification.md): same source document (doc_0346)
+- [Pokémon Merchandising For Grown-Up Fans](pokemon_merchandising_for_grown_up_fans.md): same source document (doc_0346)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

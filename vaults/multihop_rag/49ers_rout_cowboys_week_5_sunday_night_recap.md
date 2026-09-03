@@ -13,11 +13,18 @@ Kickoff was 8:20 p.m. ET, which was 5:20 p.m. local time in Santa Clara. Going i
 
 ## Related Notes
 
+
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): also discusses Sam Darnold, from a different document.
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also covers Fred Warner and George Kittle.
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also discusses Brock Purdy.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Dak Prescott.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): shares the NFL and playoff-seeding themes.
+- [Cowboys-49ers First Half: Two Kittle Touchdowns Build A 21-7 Lead](cowboys_49ers_first_half_live_blog.md): same source document (doc_0275)
+- [Cowboys-49ers Pregame: Gregory Inactive, Jones' Test, And The NFC Top Seed](cowboys_49ers_pregame_notes_and_nfc_race.md): same source document (doc_0275)
+- [Cowboys-49ers Second Half: Three Prescott Interceptions And A 42-10 Final](cowboys_49ers_second_half_live_blog.md): same source document (doc_0275)
+- [NBC's 2023 Sunday Night Football Broadcast And Streaming Package](sunday_night_football_2023_nbc_broadcast_team.md): same source document (doc_0275)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

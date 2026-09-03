@@ -13,11 +13,19 @@ The danger is not new, and the record includes killings: in 2002 three nursing p
 
 ## Related Notes
 
+
 - [Chinese Government Ban and Crackdown on Falun Gong, 1999](chinese_government_ban_and_crackdown_on_falun_gong_1999.md): shares themes of state response and organized targeting, from a different source document.
 - [FTX's Inner Circle: Family and Friends Implicated](ftx_inner_circle_family_and_friends_implicated.md): shares the arrest-and-prosecution theme, from a different source document.
 - [Peter Kalmus: Profile and Radical Turn](peter_kalmus_profile_and_radical_turn.md): shares the arrest-and-activism theme, from a different source document.
 - [Rapido's India Cab Market Expansion](rapido_india_cab_market_expansion.md): also concerns South Asian subjects, from a different source document.
 - [Rupal Shah Hollenbeck, Check Point President](rupal_shah_hollenbeck_check_point_president.md): also concerns a South Asian subject, from a different source document.
+- [Catherine Tan's Public Disclosure And Law Enforcement Gaps](catherine_tan_public_disclosure_and_law_enforcement_gaps.md): same source document (doc_0136)
+- [The Cyberstalker's Twitter Campaign Against Asian Academics](cyberstalker_twitter_campaign_against_asian_academics.md): same source document (doc_0136)
+- [Documenting Cyberstalking As Unpaid Labor](documenting_cyberstalking_as_unpaid_labor.md): same source document (doc_0136)
+- [False Title IX Complaints To Vassar And George Mason](false_title_ix_complaints_to_vassar_and_george_mason.md): same source document (doc_0136)
+- [Rate My Professors Harassment Of Janani Umamaheswar](rate_my_professors_harassment_of_janani_umamaheswar.md): same source document (doc_0136)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Bail](term_bail.md): uses the concept bail
 
 ## Source
 

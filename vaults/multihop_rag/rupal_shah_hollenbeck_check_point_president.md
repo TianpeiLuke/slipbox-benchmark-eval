@@ -11,6 +11,7 @@ She is a seasoned executive. After Intel, where she spent more than two decades,
 
 ## Related Notes
 
+
 - [Campus Stalking of Students and Faculty Research](campus_stalking_of_students_and_faculty_research.md): shares the South Asian subject tag used across the corpus.
 - [Golf Ball Rollback Exclusion of Women's Golf](golf_ball_rollback_exclusion_of_womens_golf.md): another note on women's representation in a male-dominated field.
 - [Rapido India Cab Market Expansion](rapido_india_cab_market_expansion.md): shares the South Asian subject tag used across the corpus.
@@ -19,6 +20,8 @@ She is a seasoned executive. After Intel, where she spent more than two decades,
 - [Check Point Product Expansion and 2024 Outlook](check_point_product_expansion_and_2024_outlook.md): the strategy she sets out in the same interview.
 - [Check Point Recent Quarterly Financials](check_point_recent_quarterly_financials.md): the company results under her leadership.
 - [Cybercrime Cost Growth Drives Cybersecurity Demand](cybercrime_cost_growth_drives_cybersecurity_demand.md): the market she comments on in this interview.
+- [Palo Alto Networks and Fortinet Billings Weakness](palo_alto_networks_and_fortinet_billings_weakness.md): same source document (doc_0373)
+- [Women in Leadership and Company Performance Argument](women_in_leadership_and_company_performance_argument.md): same source document (doc_0373)
 
 ## Source
 

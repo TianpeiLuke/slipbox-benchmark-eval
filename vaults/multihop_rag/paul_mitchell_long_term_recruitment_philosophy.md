@@ -13,6 +13,7 @@ The warrant joining evidence to claim is the Son case, which perfectly sums up h
 
 ## Related Notes
 
+
 - [The Manchester United Takeover Bidding Process 2022-2023](manchester_united_takeover_bidding_process_2022_2023.md): part of the same account of the Ratcliffe recruitment plan, from a different document.
 - [Bill Kenwright Death Aged 78](bill_kenwright_death_aged_78.md): shares the Premier League theme, from a different document.
 - [Bill Kenwright Everton Chairmanship Record](bill_kenwright_everton_chairmanship_record.md): shares the Premier League theme, from a different document.
@@ -21,6 +22,12 @@ The warrant joining evidence to claim is the Son case, which perfectly sums up h
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): shares the Premier League theme, from a different document.
 - [Carabao Cup Format and Round Schedule 2023-24](carabao_cup_format_and_round_schedule_2023_24.md): shares the Premier League theme, from a different document.
 - [Carabao Cup Naming History and Sponsorship](carabao_cup_naming_history_and_sponsorship.md): shares the Premier League theme, from a different document.
+- [Glazer Family Control Of Manchester United](glazer_family_control_of_manchester_united.md): same source document (doc_0166)
+- [The INEOS Plan For Manchester United's Football Operations](ineos_plan_for_manchester_united_football_operations.md): same source document (doc_0166)
+- [Jim Ratcliffe's Twenty-Five Per Cent Stake Agreement](jim_ratcliffe_twenty_five_percent_stake_agreement.md): same source document (doc_0166)
+- [Paul Mitchell's Blueprint For A Manchester United Rebuild](paul_mitchell_blueprint_for_manchester_united_rebuild.md): same source document (doc_0166)
+- [Paul Mitchell's Recruitment Career Record](paul_mitchell_recruitment_career_record.md): same source document (doc_0166)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

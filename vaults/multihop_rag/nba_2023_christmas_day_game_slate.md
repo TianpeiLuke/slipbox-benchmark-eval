@@ -11,11 +11,19 @@ NBA superstars including LeBron, Steph, Giannis, Luka, Jokic and Durant were sch
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room To Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also mentions the Super Bowl, from a different document.
 - [Advantages Of Prop Bets](advantages_of_prop_bets.md): also mentions the Super Bowl, from a different document.
 - [Anthony Joshua Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): also mentions Madison Square Garden, from a different document.
 - [Bazella And Geerts Mother-Daughter Reunion](bazella_and_geerts_mother_daughter_reunion.md): also concerns Christmas Day, from a different document.
 - [Betting On Kentucky And Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also mentions the Super Bowl, from a different document.
+- [NBA Christmas Day Games Tradition](nba_christmas_day_games_tradition.md): same source document (doc_0281)
+- [NBA Christmas Vs NFL Thanksgiving Tradition Comparison](nba_christmas_vs_nfl_thanksgiving_tradition_comparison.md): same source document (doc_0281)
+- [NFL Christmas Day Scheduling Threat To NBA](nfl_christmas_day_scheduling_threat_to_nba.md): same source document (doc_0281)
+- [NFL Thanksgiving Day Games 2023 Viewership](nfl_thanksgiving_day_games_2023_viewership.md): same source document (doc_0281)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Machine Translation](term_machine_translation.md): uses the concept machine translation
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
 
 ## Source
 

@@ -13,11 +13,15 @@ The margin came from decisions and answers. Michigan played to win the game and 
 
 ## Related Notes
 
+
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): another item involving Ohio State, from a different source.
 - [Alabama-Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): also weighs Ohio State's standing, separately sourced.
 - [The Big Ten's 2023 Run of Scandals](big_ten_conference_scandal_run_2023.md): another Ohio State-related item from a different document.
 - [The Big Ten Suspends Jim Harbaugh for Three Games](big_ten_suspension_of_jim_harbaugh.md): the ruling that kept Harbaugh off this sideline, in a separate source.
 - [The CFP Committee's "Different Team" Justification for Florida State](cfp_committee_florida_state_different_team_justification.md): another Ohio State-adjacent playoff item, from a different document.
+- [Michigan's 2023 Team Culture And Expectations](michigan_2023_team_culture_and_expectations.md): same source document (doc_0224)
+- [Sherrone Moore's Case For Attacking Ohio State](sherrone_moore_aggressive_game_plan_vs_ohio_state.md): same source document (doc_0224)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

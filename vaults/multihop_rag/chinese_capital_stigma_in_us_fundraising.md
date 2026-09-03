@@ -13,6 +13,7 @@ A San Francisco-based Chinese founder set out the conditions under which the fil
 
 ## Related Notes
 
+
 - [The AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): shares the Silicon Valley subject area, from a different document.
 - [BlackBerry, The Matt Johnson Film](blackberry_matt_johnson_film.md): shares the Silicon Valley subject area, from a different document.
 - [ChatGPT's First Year Overview](chatgpt_first_year_overview.md): shares the Silicon Valley subject area, from a different document.
@@ -21,6 +22,8 @@ A San Francisco-based Chinese founder set out the conditions under which the fil
 - [China's Tech Crackdown And Investor Exit Risk](china_tech_crackdown_investor_exit_risk.md): drawn from the same source document (doc_0181).
 - [China Versus Overseas: The Dual-Market Strategy](china_versus_overseas_dual_market_strategy.md): drawn from the same source document (doc_0181), and covers the R&D location this filter penalizes.
 - [Chinese USD Fund Managers' Transitory Phase](chinese_usd_fund_managers_transitory_phase.md): drawn from the same source document (doc_0181).
+- [Haigui And Guihai: The Returnee Founder Cycle](haigui_guihai_returnee_founder_cycle.md): same source document (doc_0181)
+- [The Outlook For US-China VC Dealmaking](outlook_for_us_china_vc_dealmaking.md): same source document (doc_0181)
 
 ## Source
 

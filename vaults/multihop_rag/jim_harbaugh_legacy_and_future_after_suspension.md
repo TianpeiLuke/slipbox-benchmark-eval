@@ -13,11 +13,19 @@ What Harbaugh does next is left open. Sporting News called it almost impossible 
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): another Big Ten item from a different document.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also concerns the Big Ten, separately sourced.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): the conference reaction that shaped this outcome, reported elsewhere.
 - [Big Ten Commissioner Petitti's Punishment Dilemma](big_ten_commissioner_petitti_punishment_dilemma.md): the ruling behind the second suspension, in a different document.
 - [Big Ten Deliberation Over Harbaugh's Punishment](big_ten_deliberation_over_harbaugh_punishment.md): the run-up to that decision, from a separate source.
+- [The Big Ten's 2023 Run Of Scandals](big_ten_conference_scandal_run_2023.md): same source document (doc_0079)
+- [The Big Ten Suspends Jim Harbaugh For Three Games](big_ten_suspension_of_jim_harbaugh.md): same source document (doc_0079)
+- [Connor Stalions And The In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): same source document (doc_0079)
+- [Michigan's Program Reputation At Stake](michigan_program_reputation_at_stake.md): same source document (doc_0079)
+- [The Michigan Sign-Stealing Scandal In Outline](michigan_sign_stealing_scandal_overview.md): same source document (doc_0079)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Contract Extension](term_contract_extension.md): uses the concept contract extension
 
 ## Source
 

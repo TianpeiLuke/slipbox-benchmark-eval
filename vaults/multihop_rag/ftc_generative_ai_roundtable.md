@@ -15,11 +15,19 @@ Whether Congress mobilizes in time to address mounting concerns around AI and cr
 
 ## Related Notes
 
+
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): shares the creator-economy and generative-AI themes, from a different source document.
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the generative-AI and AI-guardrails themes, from a different source document.
 - [EU AI Act Two-Tier Rules For General Purpose AI](eu_ai_act_two_tier_rules_for_general_purpose_ai.md): shares the generative-AI and AI-guardrails themes, from a different source document.
 - [Gemini Pro Jailbreak By Robust Intelligence](gemini_pro_jailbreak_by_robust_intelligence.md): shares the generative-AI and AI-guardrails themes, from a different source document.
 - [Google Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): shares the creator-economy and generative-AI themes, from a different source document.
+- [AI Copyright And Training Disputes](ai_copyright_and_training_disputes.md): same source document (doc_0272)
+- [AI Day Of Action Campaign](ai_day_of_action_campaign.md): same source document (doc_0272)
+- [Creative Industries AI Concerns](creative_industries_ai_concerns.md): same source document (doc_0272)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Generative AI Guardrails](term_generative_ai_guardrails.md): uses the concept generative ai guardrails
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

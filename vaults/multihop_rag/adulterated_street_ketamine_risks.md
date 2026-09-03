@@ -13,6 +13,7 @@ While people might assume they're purchasing straight ketamine, the drug is ofte
 
 ## Related Notes
 
+
 - [ASKP3 Forthcoming at Home Ketamine Guidelines](askp3_forthcoming_at_home_ketamine_guidelines.md): drawn from the same source document (doc_0390).
 - [Distinguishing Anesthetic Therapeutic and Recreational Ketamine Use](distinguishing_anesthetic_therapeutic_and_recreational_ketamine_use.md): drawn from the same source document (doc_0390).
 - [Ketamine as Anesthetic and Dissociative Drug](ketamine_as_anesthetic_and_dissociative_drug.md): drawn from the same source document (doc_0390).
@@ -21,6 +22,8 @@ While people might assume they're purchasing straight ketamine, the drug is ofte
 - [Matthew Perry Death from Acute Ketamine Effects](matthew_perry_death_from_acute_ketamine_effects.md): drawn from the same source document (doc_0390).
 - [Obtaining Ketamine only through a Licensed Prescriber](obtaining_ketamine_only_through_a_licensed_prescriber.md): drawn from the same source document (doc_0390).
 - [Risks of Intranasal and Micro Dosed Ketamine](risks_of_intranasal_and_micro_dosed_ketamine.md): drawn from the same source document (doc_0390).
+- [How Ketamine Caused A Drowning Rather Than Direct Toxicity](toxicology_of_ketamine_induced_drowning.md): same source document (doc_0390)
+- [Weaning Off Ketamine And Gradual Dose Titration](weaning_off_ketamine_and_dose_titration.md): same source document (doc_0390)
 
 ## Source
 

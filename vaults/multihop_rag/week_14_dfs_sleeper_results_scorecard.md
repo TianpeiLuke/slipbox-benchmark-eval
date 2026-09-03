@@ -11,6 +11,7 @@ The published list of hits was: QB Baker Mayfield, Buccaneers at Falcons, $5,300
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers the Cleveland Browns, from a different document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): covers the Broncos, Chargers and Bengals appearing on this list, from a different document.
 - [Broncos Fourth Quarter Comeback and Ryland Game Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): also covers Russell Wilson and the Broncos, from a different document.
@@ -19,6 +20,8 @@ The published list of hits was: QB Baker Mayfield, Buccaneers at Falcons, $5,300
 - [The DFS Sleeper and Value Lineup Construction Method](dfs_sleeper_and_value_lineup_construction_method.md): describes the method that produced these picks, from the same document.
 - [NFL DFS Week 15 Defense and Special Teams Values](nfl_dfs_week_15_defense_special_teams_values.md): gives the following week's D/ST picks, from the same document.
 - [NFL DFS Week 15 Quarterback Values](nfl_dfs_week_15_quarterback_values.md): gives the following week's quarterback picks, from the same document.
+- [NFL DFS Week 15 Running Back Values](nfl_dfs_week_15_running_back_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Tight End Values](nfl_dfs_week_15_tight_end_values.md): same source document (doc_0544)
 
 ## Source
 

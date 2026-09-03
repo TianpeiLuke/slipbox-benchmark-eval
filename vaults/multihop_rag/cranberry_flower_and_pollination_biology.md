@@ -11,6 +11,7 @@ A cranberry blossom has four petals that peel back when the flower blooms, expos
 
 ## Related Notes
 
+
 - [Cranberries and New England Regional Identity](cranberries_and_new_england_regional_identity.md): another account of cranberries and the bogs they grow in.
 - [Cranberry Industry Scale and the Urann Legacy](cranberry_industry_scale_and_urann_legacy.md): another account of how cranberries are grown commercially.
 - [The Cranberry Wet Harvesting Method](cranberry_wet_harvesting_method.md): another description of cranberry cultivation practice.
@@ -19,6 +20,8 @@ A cranberry blossom has four petals that peel back when the flower blooms, expos
 - [Cranberry Air Pockets and Seed Dispersal](cranberry_air_pockets_and_seed_dispersal.md): from the same article, on how the fruit spreads its seeds.
 - [Cranberry Domestication and US Cultivation History](cranberry_domestication_and_us_cultivation_history.md): from the same article, on how the crop came into cultivation.
 - [The Cranberry Genome and Molecular Breeding](cranberry_genome_and_molecular_breeding.md): from the same article, on breeding for desired traits.
+- [Whole Genome Duplication and Bottlenecks in Cranberry](whole_genome_duplication_and_bottlenecks_in_cranberry.md): same source document (doc_0131)
+- [Why Cranberries Belong to Thanksgiving](why_cranberries_belong_to_thanksgiving.md): same source document (doc_0131)
 
 ## Source
 

@@ -11,6 +11,7 @@ The second strand of the argument concedes that L.A. hasn't put up more than 20 
 
 ## Related Notes
 
+
 - [Bills Chargers Week 16 Player Props](bills_chargers_week_16_player_props.md): also covers Chargers pass-catcher Gerald Everett, from a different source document.
 - [Chargers 6-0 Patriots Shutout Week 13](chargers_6_0_patriots_shutout_week_13.md): covers the same Chargers-Patriots pairing and Keenan Allen, from a different source document.
 - [Chargers Betting Trends With Easton Stick](chargers_betting_trends_with_easton_stick.md): also covers Justin Herbert and the Chargers offense, from a different source document.
@@ -19,6 +20,8 @@ The second strand of the argument concedes that L.A. hasn't put up more than 20 
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
 
 ## Source
 

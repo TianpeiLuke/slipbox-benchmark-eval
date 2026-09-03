@@ -11,6 +11,7 @@ Most of the attention would continue to be focused on Brown, but Seattle's secon
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also covers Brandon Aiyuk and Deebo Samuel, from a different document.
 - [Brock Purdy Fantasy Outlook, Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also covers Brandon Aiyuk, from a different document.
 - [Cowboys-49ers First Half Live Blog](cowboys_49ers_first_half_live_blog.md): also covers Brandon Aiyuk and Deebo Samuel, from a different document.
@@ -19,6 +20,8 @@ Most of the attention would continue to be focused on Brown, but Seattle's secon
 - [Dallas Goedert Eagles Tight End Showdown Pick](dallas_goedert_eagles_tight_end_showdown_pick.md): another pick in the same Showdown lineup, from the same document.
 - [D'Andre Swift Eagles Run Game Showdown Pick](dandre_swift_eagles_run_game_showdown_pick.md): another pick in the same Showdown lineup, from the same document.
 - [The Metcalf-Geno Smith Seahawks Showdown Stack](dk_metcalf_and_geno_smith_seahawks_showdown_stack.md): the Captain pairing in the same lineup, from the same document.
+- [DraftKings Showdown And FanDuel Single-Game Scoring Rules](draftkings_showdown_and_fanduel_single_game_scoring_rules.md): same source document (doc_0386)
+- [The Eagles-Seahawks SuperDraft Single-Game Lineup](eagles_seahawks_superdraft_single_game_lineup.md): same source document (doc_0386)
 
 ## Source
 

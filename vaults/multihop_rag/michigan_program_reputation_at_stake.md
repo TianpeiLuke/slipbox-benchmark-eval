@@ -13,11 +13,19 @@ The fragility is the point. The affair thrust the Wolverines — a talented team
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): another Big Ten item from a different document.
 - [Alabama's 2023 CFP Case and the SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): also concerns the College Football Playoff, separately sourced.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): covers the Big Ten and Playoff picture from a different source.
 - [Alabama-Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): another item involving Ohio State, in a separate document.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): the conference reaction feeding this reputational risk, reported elsewhere.
+- [The Big Ten's 2023 Run Of Scandals](big_ten_conference_scandal_run_2023.md): same source document (doc_0079)
+- [The Big Ten Suspends Jim Harbaugh For Three Games](big_ten_suspension_of_jim_harbaugh.md): same source document (doc_0079)
+- [Connor Stalions And The In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): same source document (doc_0079)
+- [Jim Harbaugh's Legacy And Future After The Suspension](jim_harbaugh_legacy_and_future_after_suspension.md): same source document (doc_0079)
+- [The Michigan Sign-Stealing Scandal In Outline](michigan_sign_stealing_scandal_overview.md): same source document (doc_0079)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

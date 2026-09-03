@@ -13,6 +13,7 @@ Chicago's own first turnover — a deflating fumble by Justin Fields when the Be
 
 ## Related Notes
 
+
 - [Bears' Game-Ending Hail Mary vs the Browns](bears_game_ending_hail_mary_vs_browns.md): another late-game Bears finish with Fields, from a different document.
 - [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also features kicker Cairo Santos, separately sourced.
 - [DJ Moore's First Game Against the Panthers](dj_moore_first_game_against_the_panthers.md): overlapping Bears and yardage detail for D.J. Moore, in a different document.
@@ -21,6 +22,8 @@ Chicago's own first turnover — a deflating fumble by Justin Fields when the Be
 - [Bears-Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): the coverage details for this game, same source document.
 - [Bears-Vikings MNF First Half](bears_vikings_mnf_first_half.md): the early play of this game, same source document.
 - [Bears-Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): the finish described here in detail, same source document.
+- [Playoff And Roster Stakes In Bears-Vikings On Monday Night](bears_vikings_mnf_playoff_and_roster_stakes.md): same source document (doc_0144)
+- [The Third Quarter Of Bears 12, Vikings 10](bears_vikings_mnf_third_quarter.md): same source document (doc_0144)
 
 ## Source
 

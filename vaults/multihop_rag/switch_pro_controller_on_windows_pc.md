@@ -11,11 +11,17 @@ The first is Steam, which officially supports the Switch Pro controller; adding 
 
 ## Related Notes
 
+
 - [Setting Up A DualSense On PC](dualsense_pc_setup_steaminput_and_ds4windows.md): same source; the parallel procedure this one is explicitly compared to.
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): same source; the $19.99 dongle offered as the no-software route.
 - [Power Bank For Steam Deck](power_bank_for_steam_deck.md): overlaps on Steam hardware and adapter support, from a different source document.
 - [Indie Games Suit The Switch's Portability](indie_games_suit_the_switch_portability.md): covers the Switch platform this controller belongs to, from a different source document.
 - [Should You Upgrade To The Steam Deck OLED?](should_you_upgrade_to_steam_deck_oled.md): overlaps in content on steam, like, from a different source document.
+- [Xbox Wireless Controller Deal](xbox_wireless_controller_deal.md): content overlap 0.11 on controller, dualsense, controllers; different source document
+- [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): same source document (doc_0236)
+- [8BitDo Ultimate Bluetooth Hall Effect Controller](8bitdo_ultimate_bluetooth_hall_effect_controller.md): same source document (doc_0236)
+- [Microsoft Xbox Wireless Controller](microsoft_xbox_wireless_controller.md): same source document (doc_0236)
+- [Nintendo Switch Pro Controller](nintendo_switch_pro_controller.md): same source document (doc_0236)
 
 ## Source
 

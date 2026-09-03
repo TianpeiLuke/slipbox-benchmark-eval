@@ -13,11 +13,16 @@ The warrant joining grounds to claim is that executive authority cannot substitu
 
 ## Related Notes
 
+
 - [AI Civil Rights And Consumer Protections In The EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): also covers Health and Human Services under the executive order, from a different source document.
 - [AI Worker Protections And Federal AI Hiring](ai_worker_protections_and_federal_ai_hiring.md): shares the earnings-report and executive-order themes, from a different source document.
 - [AI Market Spending Forecasts](ai_market_spending_forecasts.md): same sub-plan on AI policy and investment, from a different source document.
 - [AI Pricing Models](ai_pricing_models.md): same sub-plan on AI policy and investment, from a different source document.
 - [AI Startup Defensibility](ai_startup_defensibility.md): same sub-plan on AI policy and investment, from a different source document.
+- [Biden's AI Executive Order Announcement](biden_ai_executive_order.md): same source document (doc_0098)
+- [Reaction To Biden's AI Order](reaction_to_biden_ai_order.md): same source document (doc_0098)
+- [Executive Order](term_executive_order.md): uses the concept executive order
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

@@ -11,6 +11,7 @@ PrEP drugs are available as daily pills. There is also an injectable drug called
 
 ## Related Notes
 
+
 - [MHRA and NICE Approval Route and Drug Cost](mhra_and_nice_approval_route_and_drug_cost.md): another account of how effective new medicines reach — or fail to reach — patients.
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): from the same article, on the long-run outlook if prevention succeeds.
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): from the same article, covering treatment for people who are already HIV-positive.
@@ -19,6 +20,8 @@ PrEP drugs are available as daily pills. There is also an injectable drug called
 - [HIV Key Population Treatment Gaps](hiv_key_population_treatment_gaps.md): from the same article, on groups that these tools reach poorly.
 - [HIV Risk in Adolescent Girls and Young Women](hiv_risk_in_adolescent_girls_and_young_women.md): from the same article, on a group for whom cabotegravir is highlighted as promising.
 - [HIV Treatment Access and Cost Barriers](hiv_treatment_access_and_cost_barriers.md): from the same article, on the price obstacles facing these same drugs.
+- [The Pediatric HIV Treatment Gap](pediatric_hiv_treatment_gap.md): same source document (doc_0238)
+- [The UNAIDS 2030 Goal to End the AIDS Epidemic](unaids_2030_goal_to_end_aids_epidemic.md): same source document (doc_0238)
 
 ## Source
 

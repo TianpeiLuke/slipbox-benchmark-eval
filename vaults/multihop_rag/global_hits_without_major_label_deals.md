@@ -11,11 +11,18 @@ Her grounds are Believe's own roster across several territories. Iñigo Quintero
 
 ## Related Notes
 
+
 - [Google Spotify Zero Percent Play Billing Deal](google_spotify_zero_percent_play_billing_deal.md): also concerns Spotify as the platform where such success is measured, from a different source document.
 - [Ice Spice Breakout And Capitol 10K Partnership](ice_spice_breakout_and_capitol_10k_partnership.md): also concerns Billboard Hot 100 success, but through a major-label partnership, from a different source document.
 - [Taylor Swift Album Track Selection Philosophy](taylor_swift_album_track_selection_philosophy.md): concerns albums and song choices in an artist's career, from a different source document.
 - [TikTok Claim To Drive Music Discovery](tiktok_claim_to_drive_music_discovery.md): also concerns Billboard Hot 100 outcomes driven by platforms, from a different source document.
 - [Artists Seeking Control Transparency And Masters Ownership](artists_seeking_control_transparency_and_masters_ownership.md): drawn from the same interview and explains why artists choose these deals.
+- [Believe And Alejandra Olea, Managing Director, Americas](believe_distributor_profile_and_alejandra_olea.md): same source document (doc_0211)
+- [Believe's Local Scouting Model And The Acqustic Partnership](believe_local_scouting_and_acqustic_partnership.md): same source document (doc_0211)
+- [Believe's Marketing Playbook For "Si No Estás"](believe_marketing_playbook_for_si_no_estas.md): same source document (doc_0211)
+- [The Digital-First Artist Development Model](digital_first_artist_development_model.md): same source document (doc_0211)
+- [Iñigo Quintero's "Si No Estás" Breakthrough](inigo_quintero_si_no_estas_breakthrough.md): same source document (doc_0211)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

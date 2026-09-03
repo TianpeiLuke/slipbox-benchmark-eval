@@ -13,6 +13,7 @@ The warrant is comparative: that these songs are so interesting is exactly what 
 
 ## Related Notes
 
+
 - [Peter Gabriel Io First Solo Album In Two Decades](peter_gabriel_io_first_solo_album_in_two_decades.md): the other album reviewed in the same column
 - [Peter Gabriel From Genesis To Eighties Pop Ubiquity](peter_gabriel_from_genesis_to_eighties_pop_ubiquity.md): same source document
 - [Peter Gabriel Io Mortality Themes And Overlong Tracks](peter_gabriel_io_mortality_themes_and_overlong_tracks.md): same source document, a parallel verdict on overproduction
@@ -20,6 +21,8 @@ The warrant is comparative: that these songs are so interesting is exactly what 
 - [Music Streaming And Vinyl Subscription Gifts](music_streaming_and_vinyl_subscription_gifts.md): also mentions Olivia Rodrigo, unrelated subject
 - [Taylor Swift Album Track Selection Philosophy](taylor_swift_album_track_selection_philosophy.md): overlaps on album and song selection, different document
 - [Discogs Stated Justification For Fee Increase](discogs_stated_justification_for_fee_increase.md): also mentions Olivia Rodrigo, unrelated subject
+- [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): both discuss Olivia Rodrigo; different source document
+- [Tate McRae's Greedy TikTok Breakthrough](tate_mcrae_greedy_tiktok_breakthrough.md): same source document (doc_0579)
 
 ## Source
 

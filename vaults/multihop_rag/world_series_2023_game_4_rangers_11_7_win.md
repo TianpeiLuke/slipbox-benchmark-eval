@@ -13,12 +13,20 @@ The line score was Rangers 0-5-5-0-0-0-0-1-0 for 11 and Diamondbacks 0-0-0-1-0-0
 
 ## Related Notes
 
+
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): another World Series document, on a different controversy
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): another World Series document, different source
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): shares Major League Baseball and playoff-seeding context, different source document
 - [Bills Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): another postseason-implication game recap, different source document
 - [Brandon Pfaadt Start World Series Game 3](brandon_pfaadt_start_world_series_game_3.md): the previous game, also featuring Corey Seager and Marcus Semien
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): the Rangers absence in this game, same source document
+- [Corey Seager's Home Runs In The 2023 World Series](corey_seager_home_runs_2023_world_series.md): same source document (doc_0408)
+- [The Diamondbacks' Late Rally In World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): same source document (doc_0408)
+- [Ketel Marte's 20-Game Postseason Hitting Streak](ketel_marte_20_game_postseason_hitting_streak_2023.md): same source document (doc_0408)
+- [Marcus Semien's Big Hits In World Series Games 3 And 4](marcus_semien_five_rbi_world_series_game_4.md): same source document (doc_0408)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

@@ -11,6 +11,7 @@ Sam LaPorta had career highs of nine catches for 140 yards, including an early t
 
 ## Related Notes
 
+
 - [Aaron Glenn Lions Hot Seat](aaron_glenn_lions_hot_seat.md): also concerns the Detroit Lions' season, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also covers Derek Carr, from a different document.
 - [Dennis Allen Saints Hot Seat](dennis_allen_saints_hot_seat.md): also concerns New Orleans' record and coaching pressure, from a different document.
@@ -19,6 +20,8 @@ Sam LaPorta had career highs of nine catches for 140 yards, including an early t
 - [Buccaneers 21-18 Panthers, Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): another game from the same Week 13 roundup, from the same document.
 - [Cardinals 24-10 Steelers, Week 13](cardinals_24_10_steelers_week_13.md): another game from the same Week 13 roundup, from the same document.
 - [Chargers 6-0 Patriots Shutout, Week 13](chargers_6_0_patriots_shutout_week_13.md): another game from the same Week 13 roundup, from the same document.
+- [Colts 31-28 Titans In Overtime, Week 13 2023](colts_31_28_titans_overtime_week_13.md): same source document (doc_0150)
+- [Dolphins 45-15 Commanders, Week 13 2023](dolphins_45_15_commanders_week_13.md): same source document (doc_0150)
 
 ## Source
 

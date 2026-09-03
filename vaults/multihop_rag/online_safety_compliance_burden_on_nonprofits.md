@@ -13,11 +13,18 @@ Ofcom concedes part of the point. Whitehead admits that the Online Safety Act an
 
 ## Related Notes
 
+
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also concerns the Digital Services Act, from a different source document.
 - [The Digital Services Act](digital_services_act.md): the second regime that compounds the compliance burden described here, from a different source document.
 - [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): sets out the DSA duties Wikimedia is struggling with, from a different source document.
 - [DMA And DSA Oversight Of Meta Advertising Consent](dma_dsa_oversight_of_meta_advertising_consent.md): also concerns the Digital Services Act, from a different source document.
 - [DSA And DMA Oversight Of Meta Ad Tracking](dsa_dma_oversight_of_meta_ad_tracking.md): also concerns the Digital Services Act, from a different source document.
+- [Ofcom's Recommended Practices And Enforcement For Illegal Harms](ofcom_illegal_harms_codes_of_practice.md): same source document (doc_0498)
+- [The Accredited Technology Clause And The Encryption Objection](online_safety_act_accredited_technology_and_encryption.md): same source document (doc_0498)
+- [Technology Neutrality: How The Online Safety Act Covers AI Content](online_safety_act_technology_neutral_treatment_of_ai.md): same source document (doc_0498)
+- [Ofcom's First Guidelines Under The UK Online Safety Act](uk_online_safety_act_ofcom_first_guidelines.md): same source document (doc_0498)
+- [X As The Outlier Against Ofcom's Rules](x_moderation_rollback_versus_ofcom_rules.md): same source document (doc_0498)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

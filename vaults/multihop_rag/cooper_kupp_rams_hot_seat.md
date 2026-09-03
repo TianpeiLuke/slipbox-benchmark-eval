@@ -11,6 +11,7 @@ The immediate grounds are recent form and replacement: he had been a non-factor 
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Puka Nacua and Tutu Atwell, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): overlaps on receiver evaluation, from a different document.
 - [Cooper Kupp 2023 Ankle Injury And Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): also discusses Cooper Kupp, from a different document.
@@ -19,6 +20,8 @@ The immediate grounds are recent form and replacement: he had been a non-factor 
 - [Aaron Glenn Lions Hot Seat](aaron_glenn_lions_hot_seat.md): another entry in the same roundup, from the same document.
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): another entry in the same roundup, from the same document.
 - [Christian Watson Packers Hot Seat](christian_watson_packers_hot_seat.md): another entry in the same roundup, from the same document.
+- [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): same source document (doc_0437)
+- [Dennis Allen Saints Hot Seat](dennis_allen_saints_hot_seat.md): same source document (doc_0437)
 
 ## Source
 

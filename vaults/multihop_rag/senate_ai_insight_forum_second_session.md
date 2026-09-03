@@ -15,11 +15,18 @@ Schumer closed by saying the participants would leave "with a deeper understandi
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also concerns Silicon Valley figures, from a different source document.
 - [BlackBerry, Matt Johnson's Film](blackberry_matt_johnson_film.md): also touches on Silicon Valley, from a different source document.
 - [ChatGPT's First Year](chatgpt_first_year_overview.md): also concerns Silicon Valley's AI industry, from a different source document.
 - [ChatGPT Third-Party Integrations And Ecosystem](chatgpt_third_party_integrations_and_ecosystem.md): also concerns Silicon Valley's AI industry, from a different source document.
 - [Chinese Capital Stigma In US Fundraising](chinese_capital_stigma_in_us_fundraising.md): also concerns Silicon Valley venture capital, from a different source document.
+- [The Artificial Intelligence Advancement Act Of 2023](artificial_intelligence_advancement_act_2023.md): same source document (doc_0312)
+- [Organized Labor's Pushback On AI Deployment](organized_labor_pushback_on_ai_deployment.md): same source document (doc_0312)
+- [The Schatz-Kennedy AI Labeling Act](schatz_kennedy_ai_labeling_act.md): same source document (doc_0312)
+- [Schumer's SAFE Innovation Framework](schumer_safe_innovation_framework.md): same source document (doc_0312)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

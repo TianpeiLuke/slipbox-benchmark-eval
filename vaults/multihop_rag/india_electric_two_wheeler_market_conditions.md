@@ -13,9 +13,18 @@ Gogoro, like other players in the EV market, is nonetheless bullish, since the I
 
 ## Related Notes
 
+
 - [India Long-Term Growth Drivers And FDI Inflows](india_long_term_growth_drivers_and_fdi_inflows.md): overlapping coverage of the Indian market's growth outlook, from a different source document.
 - [Ola Electric Funding Round 2023](ola_electric_funding_round_2023.md): overlapping coverage of the Indian electric two-wheeler market, from a different source document.
 - [Stellantis Leapmotor Stake And Joint Venture](stellantis_leapmotor_stake_and_joint_venture.md): overlapping coverage of electric-vehicle manufacturing across countries, from a different source document.
+- [The Ecosystem And Unit-Economics Challenge Of Battery Swapping](battery_swapping_ecosystem_and_unit_economics_challenges.md): same source document (doc_0216)
+- [Growth In Gogoro's Battery-Swapping Service Revenue](gogoro_battery_swapping_service_revenue_growth.md): same source document (doc_0216)
+- [Gogoro's Company Profile And Open Platform Model](gogoro_company_profile_and_open_platform_model.md): same source document (doc_0216)
+- [The Stalled Gogoro–Hero MotoCorp Partnership](gogoro_hero_motocorp_partnership_stall.md): same source document (doc_0216)
+- [Gogoro's Indian Commercial Launch And Investments](gogoro_india_commercial_launch_and_investments.md): same source document (doc_0216)
+- [Gogoro's Rationale For Entering India](gogoro_india_market_entry_rationale.md): same source document (doc_0216)
+- [Gogoro's India Station Rollout Targets](gogoro_india_station_rollout_targets.md): same source document (doc_0216)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
 
 ## Source
 

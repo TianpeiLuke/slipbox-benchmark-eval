@@ -11,6 +11,7 @@ The season here runs from mid-October to mid-March, with winter again the best t
 
 ## Related Notes
 
+
 - [Northern Lights Viewing Conditions](northern_lights_viewing_conditions.md): another account of aurora viewing conditions, from a different source
 - [Northern Lights Viewing Sites In Europe](northern_lights_viewing_sites_in_europe.md): other high-latitude sites near the North Pole, from a different source
 - [Northern Lights Viewing Sites In The United States](northern_lights_viewing_sites_in_the_united_states.md): a comparable site list, from a different source
@@ -19,6 +20,8 @@ The season here runs from mid-October to mid-March, with winter again the best t
 - [Hebrides Aurora Viewing](hebrides_aurora_viewing.md): another Scottish island site from the same guide
 - [Lake District Aurora Viewing](lake_district_aurora_viewing.md): another UK site from the same guide
 - [How The Aurora Works And Where In The UK It Can Be Seen](northern_lights_uk_visibility_and_aurora_mechanism.md): the mechanism and UK range this site sits within
+- [Northumberland: The Darkest Skies In The UK, But Storm-Dependent](northumberland_national_park_dark_skies.md): same source document (doc_0555)
+- [Snowdonia: One Of Three Welsh Dark Sky Reserves](snowdonia_dark_sky_reserve_aurora_viewing.md): same source document (doc_0555)
 
 ## Source
 

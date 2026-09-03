@@ -13,6 +13,7 @@ Its importance is both commercial and career-making: JSA was the highest-grossin
 
 ## Related Notes
 
+
 - [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): both discuss Song Kang-ho, from a different source document
 - [The Host (2006, Bong Joon-ho)](the_host_2006_bong_joon_ho_film.md): another film featuring Song Kang-ho, covered in a separate article
 - [Thirst (Park Chan-wook Vampire Film)](thirst_park_chan_wook_vampire_film.md): another Park Chan-wook film with Song Kang-ho, from a different document
@@ -21,6 +22,8 @@ Its importance is both commercial and career-making: JSA was the highest-grossin
 - [Mandy (Panos Cosmatos, Nicolas Cage)](mandy_panos_cosmatos_nicolas_cage.md): another film recommended in the same article
 - [Planet Terror (Robert Rodriguez)](planet_terror_robert_rodriguez_grindhouse.md): another entry from the same Tubi roundup
 - [Shadow (Zhang Yimou Wuxia Film)](shadow_zhang_yimou_wuxia_film.md): a fellow Asian-cinema pick from the same document
+- [Steamboy (Katsuhiro Otomo)](steamboy_katsuhiro_otomo_anime.md): same source document (doc_0055)
+- [Tubi's Free Ad-Supported Streaming Movie Catalog](tubi_free_streaming_movie_catalog.md): same source document (doc_0055)
 
 ## Source
 

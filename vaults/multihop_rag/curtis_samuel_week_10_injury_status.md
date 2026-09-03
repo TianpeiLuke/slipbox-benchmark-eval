@@ -11,11 +11,17 @@ The fantasy advice was to wait. Samuel had been working his way into flex territ
 
 ## Related Notes
 
+
 - [Curtis Samuel Week 16 Waiver Target](curtis_samuel_week_16_waiver_target.md): the same player later in the season, also alongside Jahan Dotson, from a different document.
 - [Fantasy Week 13 Dolphins-Commanders Outlook](fantasy_week_13_dolphins_commanders_outlook.md): another look at the Washington pass-catchers including Dotson, separately sourced.
 - [Fantasy WR Week 14 Bye Week Impact](fantasy_wr_week_14_bye_week_impact.md): also covers Jahan Dotson's role, in a different document.
 - [K.J. Osborn Week 6 2023 Sit Recommendation](kj_osborn_week6_2023_sit_recommendation.md): another sit call involving Jahan Dotson, from a separate source.
 - [NFL Week 13 Injuries: 49ers at Eagles](nfl_week_13_injuries_49ers_at_eagles.md): the same kind of limited-practice and official-status reporting, in a different document.
+- [Ja'Marr Chase's Week 10 Injury Status](jamarr_chase_week_10_injury_status.md): same source document (doc_0288)
+- [Justin Jefferson's Week 10 Injury Status](justin_jefferson_week_10_injury_status.md): same source document (doc_0288)
+- [T.J. Hockenson's Week 10 Injury Status](tj_hockenson_week_10_injury_status.md): same source document (doc_0288)
+- [Week 10 Fantasy Pass-Catcher Injury Overview](week_10_fantasy_pass_catcher_injury_overview.md): same source document (doc_0288)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

@@ -11,6 +11,7 @@ The test runs in both directions. The investigation may also test Musk's mettle 
 
 ## Related Notes
 
+
 - [Digital Services Act](digital_services_act.md): shares the content-moderation and enforcement themes, from a different source document.
 - [EU Enforcement Against X](eu_enforcement_against_x.md): shares the content-moderation and regulatory-investigation themes, from a different source document.
 - [ActivityPub Data Model Of Senders, Messages And Inboxes](activitypub_data_model_of_senders_messages_and_inboxes.md): shares the content-moderation theme, from a different source document.
@@ -19,6 +20,14 @@ The test runs in both directions. The investigation may also test Musk's mettle 
 - [BG3 Warlock Hit Points And Proficiencies](bg3_warlock_hit_points_and_proficiencies.md): shares a rules-and-application framing, from a different source document.
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): shares the regulatory-investigation theme, from a different source document.
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): shares the will-to-punish theme, from a different source document.
+- [DSA Enforcement Powers And Penalties](dsa_enforcement_powers_and_penalties.md): same source document (doc_0153)
+- [The Commission's Earlier Requests For Information To X](eu_commission_prior_requests_for_information_to_x.md): same source document (doc_0153)
+- [The EU's First Formal DSA Proceeding, Against X](eu_dsa_formal_proceedings_against_x.md): same source document (doc_0153)
+- [The Scope Of The EU's DSA Investigation Into X](scope_of_eu_dsa_investigation_into_x.md): same source document (doc_0153)
+- [X's Content Moderation Retrenchment Under Musk](x_content_moderation_retrenchment_under_musk.md): same source document (doc_0153)
+- [X's Response To The EU's DSA Investigation](x_response_to_eu_dsa_investigation.md): same source document (doc_0153)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Content Moderation](term_content_moderation.md): uses the concept content moderation
 
 ## Source
 

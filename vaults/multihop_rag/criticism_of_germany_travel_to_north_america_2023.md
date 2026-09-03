@@ -13,11 +13,18 @@ Two prominent voices made the case directly. Bayern Munich manager Thomas Tuchel
 
 ## Related Notes
 
+
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): another document concerning North America, unrelated domain
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): another North America-focused document, unrelated domain
 - [Bayern Munich 1-0 Manchester United Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): another Bayern Munich document, different source
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): covers Bayern Munich and Thomas Tuchel, different source document
 - [Canada Ski Holidays Overview](canada_ski_holidays_overview.md): another North America-focused document, unrelated domain
+- [Germany's Decline And The Appointment Of Julian Nagelsmann](germany_national_team_decline_and_nagelsmann_appointment.md): same source document (doc_0444)
+- [Germany's Squad For The October 2023 North America Friendlies](germany_squad_october_2023_north_america_friendlies.md): same source document (doc_0444)
+- [Julian Nagelsmann's Career And His Bayern Munich Dismissal](julian_nagelsmann_career_and_bayern_munich_dismissal.md): same source document (doc_0444)
+- [Julian Nagelsmann's Tactical System And Press](julian_nagelsmann_tactical_system_and_press.md): same source document (doc_0444)
+- [The Selection Questions Facing Nagelsmann With Germany](nagelsmann_selection_questions_for_germany_national_team.md): same source document (doc_0444)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

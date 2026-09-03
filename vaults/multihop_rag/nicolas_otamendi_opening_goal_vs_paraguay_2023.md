@@ -13,6 +13,7 @@ The context at kickoff was that Messi started on the bench for Argentina but was
 
 ## Related Notes
 
+
 - [Argentina Squad and Lineup vs Paraguay October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): another document on the same selection, including Julian Alvarez
 - [Argentina vs Paraguay 2026 World Cup Qualifier Preview](argentina_vs_paraguay_2026_world_cup_qualifier_preview.md): the same fixture in Buenos Aires previewed elsewhere, different source document
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): another Lionel Messi document, different source
@@ -21,6 +22,8 @@ The context at kickoff was that Messi started on the bench for Argentina but was
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): the match this goal decided, same source document
 - [Argentina First Half Dominance vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): the half in which it was scored, same source document
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): how the match was shown, same source document
+- [Team News And Lineups: Argentina vs Paraguay, October 2023](argentina_paraguay_2023_team_news_and_lineups.md): same source document (doc_0534)
+- [Argentina's Second Half And Messi's Introduction Against Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): same source document (doc_0534)
 
 ## Source
 

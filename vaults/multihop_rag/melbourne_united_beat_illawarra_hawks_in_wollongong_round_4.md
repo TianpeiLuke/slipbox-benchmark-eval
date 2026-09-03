@@ -15,12 +15,18 @@ The two centres framed the night for United. NBA hopeful Hukporti (21 points, 10
 
 ## Related Notes
 
+
 - [Brisbane Bullets Beat Tasmania JackJumpers NBL Round 5](brisbane_bullets_beat_tasmania_jackjumpers_nbl_round_5.md): another round covering Melbourne United, different source document
 - [Melbourne United Beat Illawarra Hawks NBL Round 5](melbourne_united_beat_illawarra_hawks_nbl_round_5.md): the same fixture a round later, covering Ariel Hukporti and Gary Clark
 - [Melbourne United Beat Tasmania JackJumpers in Hobart Round 5](melbourne_united_beat_tasmania_jackjumpers_in_hobart_round_5.md): another Dean Vickerman United win, different source document
 - [Tyler Harvey Buzzer Beater Hawks Beat Taipans Round 5](tyler_harvey_buzzer_beater_hawks_beat_taipans_round_5.md): the Hawks' next result under Jacob Jackomas at the Entertainment Centre
 - [Adelaide 36ers Beat Perth Wildcats Round 4](adelaide_36ers_beat_perth_wildcats_round_4.md): another round 4 result, same source document
 - [Aron Baynes Suspension Brisbane Bullets 2023](aron_baynes_suspension_brisbane_bullets_2023.md): another story in the same round-up, same source document
+- [The Vasiljevic Dispute Between The Kings And The 36ers](dejan_vasiljevic_transfer_dispute_between_kings_and_36ers.md): same source document (doc_0406)
+- [Melbourne United Beat New Zealand 97-88 In Round 4](melbourne_united_beat_new_zealand_breakers_round_4.md): same source document (doc_0406)
+- [Phoenix Beat Adelaide 102-85 At The Entertainment Centre](south_east_melbourne_phoenix_beat_adelaide_36ers_round_4.md): same source document (doc_0406)
+- [South East Melbourne Phoenix Beat Brisbane Bullets 96-73](south_east_melbourne_phoenix_beat_brisbane_bullets_round_4.md): same source document (doc_0406)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

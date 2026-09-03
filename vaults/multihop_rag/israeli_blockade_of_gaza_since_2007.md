@@ -11,11 +11,18 @@ The blockade is not total, and its boundary cases matter. Israel has granted per
 
 ## Related Notes
 
+
 - [Be'eri Kibbutz Casualties And Displaced Residents](beeri_kibbutz_casualties_and_displaced_residents.md): overlapping coverage of Gaza, Israel and Hamas from a different source document.
 - [Disinformation On X About Gaza](disinformation_on_x_gaza.md): overlapping coverage of Gaza, Israel and Hamas, from a different source document.
 - [Egypt's Refusal To Host Palestinian Refugees](egypt_refusal_to_host_palestinian_refugees.md): overlapping coverage of Gaza, Israel and Hamas, from a different source document.
 - [Egypt's Role In The Israel-Hamas War And Western Leverage](egypt_role_in_israel_hamas_war_and_western_leverage.md): overlapping coverage of Gaza, Israel and supplies, from a different source document.
 - [Gaza Conflict Information Environment Late 2023](gaza_conflict_information_environment_late_2023.md): overlapping coverage of Gaza, Israel and the blockade, from a different source document.
+- [Criticism Of UNRWA's Textbooks And Internal Governance](criticism_of_unrwa_textbooks_and_internal_governance.md): same source document (doc_0135)
+- [Displacement And Casualties In Gaza As Of October 12, 2023](gaza_displacement_and_casualties_october_2023.md): same source document (doc_0135)
+- [Gaza's Economic Isolation And Poverty Indicators](gaza_economic_isolation_and_poverty_indicators.md): same source document (doc_0135)
+- [How The Blockade Produces Food Insecurity And Import Dependence In Gaza](gaza_food_insecurity_and_import_dependence.md): same source document (doc_0135)
+- [The October 2023 Cutoff Of Supplies To Gaza](gaza_humanitarian_crisis_october_2023_supply_cutoff.md): same source document (doc_0135)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

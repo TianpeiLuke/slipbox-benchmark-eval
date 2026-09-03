@@ -11,6 +11,7 @@ Green, when he was not suspended, could still uncork vintage defensive performan
 
 ## Related Notes
 
+
 - [Kevin Durant 2016 Move To Warriors Legacy](kevin_durant_2016_move_to_warriors_legacy.md): also concerns the Warriors' Finals runs, from a different document.
 - [Recent NBA MVP Winners Since 2010](recent_nba_mvp_winners_since_2010.md): also discusses Curry and Golden State, from a different document.
 - [AFC Midseason Team MVP Roundup Premise](afc_midseason_team_mvp_roundup_premise.md): shares the most valuable player theme, from a different document.
@@ -19,6 +20,13 @@ Green, when he was not suspended, could still uncork vintage defensive performan
 - [Brock Purdy And Lamar Jackson 2023 MVP Race](brock_purdy_lamar_jackson_2023_mvp_race.md): shares the most valuable player theme, from a different document.
 - [Chiefs Jets Pregame Notes Taylor Swift And Rodgers](chiefs_jets_pregame_notes_taylor_swift_and_rodgers.md): shares the most valuable player theme, from a different document.
 - [Connor O'Sullivan AFL Draft Prospect 2023](connor_osullivan_afl_draft_prospect_2023.md): shares the most valuable player theme, from a different document.
+- [Warriors 2020 And 2021 Draft Misses](warriors_2020_and_2021_draft_misses.md): same source document (doc_0522)
+- [Warriors 2021 Draft Kuminga And Moody](warriors_2021_draft_kuminga_and_moody.md): same source document (doc_0522)
+- [Warriors Collapse Vs Kings In-Season Tournament](warriors_collapse_vs_kings_in_season_tournament.md): same source document (doc_0522)
+- [Warriors Recent Draft Class Outcomes](warriors_recent_draft_class_outcomes.md): same source document (doc_0522)
+- [Warriors Roster Reorientation Around Curry Window](warriors_roster_reorientation_around_curry_window.md): same source document (doc_0522)
+- [Warriors Two-Timeline Plan Failure](warriors_two_timeline_plan_failure.md): same source document (doc_0522)
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
 
 ## Source
 

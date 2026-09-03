@@ -13,6 +13,7 @@ The distinction she draws is about what the intervention requires of the partici
 
 ## Related Notes
 
+
 - [December 2023 Bowl Game Schedule and Matchups](december_2023_bowl_game_schedule_and_matchups.md): also concerns San Diego, from a different source document.
 - [Digital Engagement Protects the Ageing Brain](digital_engagement_protects_the_ageing_brain.md): overlapping vocabulary on studies, brain, older, from a different source document.
 - [Juan Soto Padres Trade Candidacy](juan_soto_padres_trade_candidacy.md): also concerns San Diego, from a different source document.
@@ -21,6 +22,8 @@ The distinction she draws is about what the intervention requires of the partici
 - [Alzheimers Disease Prevalence and Early Detection](alzheimers_disease_prevalence_and_early_detection.md): drawn from the same source document (doc_0309).
 - [Brain Mechanisms of Fasting Ketosis and Autophagy](brain_mechanisms_of_fasting_ketosis_and_autophagy.md): drawn from the same source document (doc_0309).
 - [Circadian Clock Realignment through Meal Timing](circadian_clock_realignment_through_meal_timing.md): drawn from the same source document (doc_0309).
+- [Limitations Of The UC San Diego Fasting Mouse Study](limitations_of_the_ucsd_fasting_mouse_study.md): same source document (doc_0309)
+- [Longo's Recommendation To Pair Fasting With Standard Care](longo_recommendation_to_pair_fasting_with_standard_care.md): same source document (doc_0309)
 
 ## Source
 

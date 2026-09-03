@@ -13,6 +13,7 @@ Just do not expect much in the way of deep sub-bass response.
 
 ## Related Notes
 
+
 - [Apple AirPods 2nd Gen Holiday Deal](apple_airpods_2nd_gen_holiday_deal.md): shares the all-time-low pricing framing, from a different source document.
 - [Astro A40 TR Gaming Headset Deal](astro_a40_tr_gaming_headset_deal.md): another open-back-adjacent gaming headset deal, from a different source document.
 - [Audio-Technica ATH-M20xBT Deal](audio_technica_ath_m20xbt_deal.md): covers another detailed, comfortable headphone deal, from a different source document.
@@ -21,6 +22,8 @@ Just do not expect much in the way of deep sub-bass response.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): drawn from the same source document (doc_0595).
 - [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): drawn from the same source document (doc_0595).
 - [Anker Soundcore Liberty 4 NC Earbuds](anker_soundcore_liberty_4_nc_earbuds.md): drawn from the same source document (doc_0595).
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0595)
+- [Anker Soundcore Space Q45 And Life Q30](anker_soundcore_space_q45_and_life_q30.md): same source document (doc_0595)
 
 ## Source
 

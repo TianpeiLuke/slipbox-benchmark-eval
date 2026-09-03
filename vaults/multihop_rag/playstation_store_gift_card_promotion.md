@@ -13,6 +13,7 @@ If you often use Amazon and plan on picking up new PS5 games, renewing a PlaySta
 
 ## Related Notes
 
+
 - [Amex Cash Magnet Best-Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): shares the purchase-rewards framing, from a different source document.
 - [Apple Gift Card Amazon Credit Deal](apple_gift_card_amazon_credit_deal.md): covers the same style of gift-card-plus-credit promotion, from a different source document.
 - [Apple Store Credit And Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): covers a comparable store credit promotion, from a different source document.
@@ -21,6 +22,8 @@ If you often use Amazon and plan on picking up new PS5 games, renewing a PlaySta
 - [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): drawn from the same source document (doc_0250).
 - [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): drawn from the same source document (doc_0250).
 - [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): drawn from the same source document (doc_0250).
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): same source document (doc_0250)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0250)
 
 ## Source
 

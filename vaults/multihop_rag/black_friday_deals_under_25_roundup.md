@@ -13,11 +13,20 @@ The budget gems include fully compatible MagSafe chargers for the latest iPhones
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the Black Friday hardware-deal theme, from a different source document.
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): covers the Cyber Monday half of the same shopping weekend, from a different source document.
 - [Amazon Echo Show, Audible And Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): covers Cyber Monday offers, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): covers smart-home Black Friday discounts, from a different source document.
 - [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): covers the earlier sale that set up this shopping season, from a different source document.
+- [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): same source document (doc_0090)
+- [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): same source document (doc_0090)
+- [Bluetooth Item Tracker Deals](bluetooth_item_tracker_deals.md): same source document (doc_0090)
+- [Budget Game And Toy Deals](budget_game_and_toy_deals.md): same source document (doc_0090)
+- [Budget Smart Home And Networking Deals](budget_smart_home_and_networking_deals.md): same source document (doc_0090)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

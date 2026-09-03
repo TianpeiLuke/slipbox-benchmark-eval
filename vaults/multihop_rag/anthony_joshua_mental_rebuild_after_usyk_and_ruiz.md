@@ -13,6 +13,7 @@ The troubles appeared to link all the way back to his 2019 upset loss to late re
 
 ## Related Notes
 
+
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also mentions the United Kingdom, from a different document.
 - [Anthony Joshua Fifth Round Stoppage Of Otto Wallin](anthony_joshua_fifth_round_stoppage_of_otto_wallin.md): covers the fight he was preparing for, from a different document.
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also concerns Saudi Arabia and the United Kingdom, from a different document.
@@ -21,6 +22,8 @@ The troubles appeared to link all the way back to his 2019 upset loss to late re
 - [Boxing Marination And Upset Risk](boxing_marination_and_upset_risk.md): the risk framing for his bout, from the same document.
 - [Day Of Reckoning Predictions And Picks](day_of_reckoning_predictions_and_picks.md): the pick for his bout, from the same document.
 - [Day Of Reckoning Riyadh Boxing Card](day_of_reckoning_riyadh_boxing_card.md): the card he headlined, from the same document.
+- [Deontay Wilder Comeback After Fury Trilogy](deontay_wilder_comeback_after_fury_trilogy.md): same source document (doc_0137)
+- [Deontay Wilder On Pressure Ahead Of Parker Bout](deontay_wilder_on_pressure_ahead_of_parker_bout.md): same source document (doc_0137)
 
 ## Source
 

@@ -11,6 +11,7 @@ Just before the trial began, the FTX lawyers filed suit against Bankman-Fried's 
 
 ## Related Notes
 
+
 - [The FTX Collapse And Bankruptcy, November 2022](ftx_collapse_and_bankruptcy_november_2022.md): overlapping coverage of Bankman-Fried and the lawyers involved, from a different source document.
 - [SBF Trial Day Two: Jury And Courtroom](sbf_trial_day_two_jury_and_courtroom.md): overlapping coverage of Bankman-Fried, his lawyers and his parents, from a different source document.
 - [Where FTX Customer Money Went](where_ftx_customer_money_went.md): overlapping coverage of the Enron comparison and Bankman-Fried, from a different source document.
@@ -19,6 +20,8 @@ Just before the trial began, the FTX lawyers filed suit against Bankman-Fried's 
 - [Bankman-Fried's Pre-Collapse Public Image Strategy](bankman_fried_pre_collapse_public_image_strategy.md): drawn from the same source document (doc_0175).
 - [The FTX Trial's Stakes For The Wider Crypto Industry](ftx_trial_stakes_for_the_wider_crypto_industry.md): drawn from the same source document (doc_0175).
 - [Prosecution Allegations In The FTX Superseding Indictment](prosecution_allegations_in_the_ftx_superseding_indictment.md): drawn from the same source document (doc_0175).
+- [Proving Intent In The FTX Fraud Case](proving_intent_in_the_ftx_fraud_case.md): same source document (doc_0175)
+- [The Risk That Bankman-Fried Implicates The Whole Crypto Industry](risk_that_bankman_fried_implicates_the_whole_crypto_industry.md): same source document (doc_0175)
 
 ## Source
 

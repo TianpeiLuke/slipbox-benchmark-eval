@@ -11,6 +11,7 @@ The grounds: the only way to see your Facebook posts is to sign up for Facebook'
 
 ## Related Notes
 
+
 - [Flipboard Front-End Redesign Questions](flipboard_front_end_redesign_questions.md): overlapping coverage of social users and the fediverse, from a different source document.
 - [Meta Ad-Free Subscription EU Pricing](meta_ad_free_subscription_eu_pricing.md): overlapping coverage of Facebook and its social users, from a different source document.
 - [Meta's Pay-Or-Consent Subscription Model In The EU](meta_pay_or_consent_subscription_model_eu.md): overlapping coverage of Facebook's social products, from a different source document.
@@ -19,6 +20,8 @@ The grounds: the only way to see your Facebook posts is to sign up for Facebook'
 - [Craigslist Unbundling As A Model For Social Media](craigslist_unbundling_as_a_model_for_social_media.md): drawn from the same source document (doc_0508).
 - [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): drawn from the same source document (doc_0508).
 - [Decentralization As A Free Market, Not An Anti-Capitalist Project](decentralization_as_a_free_market_not_an_anti_capitalist_project.md): drawn from the same source document (doc_0508).
+- [Early Fediverse Messiness As A Product Opportunity](early_fediverse_messiness_as_a_product_opportunity.md): same source document (doc_0508)
+- [Federation Alone Is Not A Product Advantage](federation_alone_is_not_a_product_advantage.md): same source document (doc_0508)
 
 ## Source
 

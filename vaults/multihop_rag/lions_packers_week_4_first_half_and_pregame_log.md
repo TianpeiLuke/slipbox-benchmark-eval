@@ -11,6 +11,7 @@ At 8:26 p.m. Jahmyr Gibbs and David Montgomery looked a formidable duo in the ba
 
 ## Related Notes
 
+
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also covers Green Bay, from a different source document.
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also set at Lambeau Field, from a different source document.
 - [Baker Mayfield Zone Coverage and Four-Level Passing](baker_mayfield_zone_coverage_and_four_level_passing.md): shares the Packers and field-coverage subject matter, from a different source document.
@@ -19,6 +20,8 @@ At 8:26 p.m. Jahmyr Gibbs and David Montgomery looked a formidable duo in the ba
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): draws on the same live coverage (doc_0282).
 - [Lions Defeat Packers Week 4 2023 Recap](lions_defeat_packers_week_4_2023_recap.md): the summary of this game (doc_0282).
 - [Lions Packers Week 4 Broadcast and Streaming Details](lions_packers_week_4_broadcast_and_streaming_details.md): the broadcast details for this game (doc_0282).
+- [Lions-Packers Week 4: Fourth Quarter Log](lions_packers_week_4_fourth_quarter_log.md): same source document (doc_0282)
+- [Lions-Packers Week 4: Third Quarter Log](lions_packers_week_4_third_quarter_log.md): same source document (doc_0282)
 
 ## Source
 

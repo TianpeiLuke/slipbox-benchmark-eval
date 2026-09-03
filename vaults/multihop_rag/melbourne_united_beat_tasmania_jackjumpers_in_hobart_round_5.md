@@ -15,6 +15,7 @@ The swing came through rebounding and shot selection. Tasmania coach Scott Roth 
 
 ## Related Notes
 
+
 - [Melbourne United Beat Illawarra Hawks in Wollongong Round 4](melbourne_united_beat_illawarra_hawks_in_wollongong_round_4.md): another Dean Vickerman United win, different source document
 - [Melbourne United Beat New Zealand Breakers Round 4](melbourne_united_beat_new_zealand_breakers_round_4.md): another United win covering Chris Goulding and Vickerman
 - [NBA Prop Bets Definition and Common Markets](nba_prop_bets_definition_and_common_markets.md): shares the points-rebounds-assists statistical vocabulary, different source document
@@ -22,6 +23,10 @@ The swing came through rebounding and shot selection. Tasmania coach Scott Roth 
 - [Tasmania JackJumpers Record Score Beat Sydney Kings Round 4](tasmania_jackjumpers_record_score_beat_sydney_kings_round_4.md): Tasmania's earlier win, covering Jordon Crawford and Milton Doyle
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): another round 5 result, same source document
 - [Aron Baynes Suspension Brisbane Bullets 2023](aron_baynes_suspension_brisbane_bullets_2023.md): another story in the same round-up, same source document
+- [Brisbane Outwork Perth 84-79 At RAC Arena](brisbane_bullets_beat_perth_wildcats_nbl_round_5.md): same source document (doc_0240)
+- [Brisbane Survive Tasmania's Fightback To Win 90-87](brisbane_bullets_beat_tasmania_jackjumpers_nbl_round_5.md): same source document (doc_0240)
+- [Cairns Beat Sydney 87-80 As Patrick Miller Is Injured](cairns_taipans_beat_sydney_kings_and_patrick_miller_injury.md): same source document (doc_0240)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

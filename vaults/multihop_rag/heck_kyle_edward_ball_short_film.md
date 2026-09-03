@@ -13,6 +13,7 @@ Critic Toussaint Egan writes that Heck circles the same rough ideas and themes a
 
 ## Related Notes
 
+
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
 - [American Horror Story: NYC Season](american_horror_story_nyc_season.md): a fellow entry in the same countdown document
 - [Apostle (Gareth Evans Folk Horror)](apostle_gareth_evans_folk_horror.md): another recommendation from the same source
@@ -21,6 +22,8 @@ Critic Toussaint Egan writes that Heck circles the same rough ideas and themes a
 - [Curve (Tim Egan Horror Short)](curve_tim_egan_horror_short.md): another horror short recommended in the same countdown
 - [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): another cult-horror recommendation in the same countdown
 - [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): another entry in the same Halloween Countdown
+- [Ginger Snaps (Werewolf Body Horror)](ginger_snaps_werewolf_body_horror.md): same source document (doc_0165)
+- [Gravity Falls: Northwest Mansion Mystery](gravity_falls_northwest_mansion_mystery.md): same source document (doc_0165)
 
 ## Source
 

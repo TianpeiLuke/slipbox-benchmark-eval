@@ -13,6 +13,7 @@ He resisted the metaverse label without conceding a change of direction. Asked b
 
 ## Related Notes
 
+
 - [Zuckerberg on Bringing Threads to the Fediverse](zuckerberg_on_bringing_threads_to_the_fediverse.md): another Alex Heath interview on platform strategy, from a different source document.
 - [Metaverse Interoperability and 3D File Formats](metaverse_interoperability_and_3d_file_formats.md): the interoperability side of the same interview (doc_0539).
 - [Roblox Advertising and Brand Experiences](roblox_advertising_and_brand_experiences.md): how the platform vision turns into a business (doc_0539).
@@ -21,6 +22,8 @@ He resisted the metaverse label without conceding a change of direction. Asked b
 - [Roblox's Content Delivery Architecture Versus App Stores](roblox_content_delivery_architecture_vs_app_stores.md): the distribution model behind the platform claim (doc_0539).
 - [Roblox's Dating Prediction](roblox_dating_prediction.md): a use case that follows from communication, not gaming (doc_0539).
 - [Roblox Fashion Design and Direct-to-Avatar](roblox_fashion_design_and_direct_to_avatar.md): another non-gaming activity on the platform (doc_0539).
+- [Roblox's Hiring And Recruiting Layoffs](roblox_hiring_and_recruiting_layoffs.md): same source document (doc_0539)
+- [Roblox On VR And AR Headsets](roblox_on_vr_and_ar_headsets.md): same source document (doc_0539)
 
 ## Source
 

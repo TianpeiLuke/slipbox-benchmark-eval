@@ -11,6 +11,7 @@ The listed undercard odds were Jermall Charlo -700 versus Jose Benavidez Jr. +50
 
 ## Related Notes
 
+
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): shares the Charlo, middleweight and super-middleweight subject matter, from a different source document.
 - [Canelo Alvarez Next Opponents After Charlo Win](canelo_alvarez_next_opponents_after_charlo_win.md): also discusses David Benavidez and Jermall Charlo, from a different source document.
 - [Canelo Alvarez Undisputed Titles and Net Worth](canelo_alvarez_undisputed_titles_and_net_worth.md): shares the Charlo and super-middleweight subject matter, from a different source document.
@@ -19,6 +20,7 @@ The listed undercard odds were Jermall Charlo -700 versus Jose Benavidez Jr. +50
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): the main event's logistics and odds, from the same preview (doc_0446).
 - [Benavidez vs Andrade Stylistic Breakdown and Pick](benavidez_vs_andrade_stylistic_breakdown_and_pick.md): the analytical prediction for the main event (doc_0446).
 - [David Benavidez Career and Canelo Alvarez Pursuit](david_benavidez_career_and_canelo_alvarez_pursuit.md): background on the headliner and his brother's family, from the same preview (doc_0446).
+- [Demetrius Andrade: A Career Spent Chasing Opponents Who Would Not Fight Him](demetrius_andrade_career_and_avoided_opponents.md): same source document (doc_0446)
 
 ## Source
 

@@ -11,6 +11,7 @@ The showdown had been expected to be a solid victory by Denver against a team th
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): covers the Patriots and Broncos earlier in the same season, from a different document.
 - [Chargers 6-0 Patriots Shutout, Week 13](chargers_6_0_patriots_shutout_week_13.md): another 2023 Patriots game decided by field goals, from a different document.
 - [Denver Broncos: Payton-Wilson Clock Management Friction](denver_broncos_payton_wilson_clock_management_friction.md): covers Denver heading into games like this one, from a different document.
@@ -19,6 +20,8 @@ The showdown had been expected to be a solid victory by Denver against a team th
 - [Broncos Fourth Quarter Comeback and Ryland Game Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): gives the closing sequence of this game, from the same document.
 - [Patriots-Broncos First Half Play by Play](patriots_broncos_first_half_play_by_play.md): gives the first half of this game, from the same document.
 - [Patriots-Broncos Playoff and Draft Implications](patriots_broncos_playoff_and_draft_implications.md): gives what this result meant for both teams, from the same document.
+- [Patriots-Broncos Pregame Inactives And Lineups](patriots_broncos_pregame_inactives_and_lineups.md): same source document (doc_0449)
+- [Patriots-Broncos Start Time And Broadcast Details](patriots_broncos_start_time_and_broadcast_details.md): same source document (doc_0449)
 
 ## Source
 

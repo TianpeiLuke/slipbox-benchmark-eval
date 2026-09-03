@@ -11,11 +11,22 @@ The films include 13 Going on 30; 13 Hours: The Secret Soldiers of Benghazi; The
 
 ## Related Notes
 
+
 - [Streaming Service Runner Up Series Picks](streaming_service_runner_up_series_picks.md): also covers Love Island, from a different source document.
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): shares the game_patch_notes topic tag, from a different source document.
 - [Apple AirPods Pro Second Generation](apple_airpods_pro_second_generation.md): shares the game_patch_notes topic tag, from a different source document.
 - [Apple Watch Double Tap Gesture](apple_watch_double_tap_gesture.md): shares the game_patch_notes topic tag, from a different source document.
 - [ASX November 2023 Session and RBA Rate Expectations](asx_november_2023_session_and_rba_rate_expectations.md): shares the game_patch_notes topic tag, from a different source document.
+- [Insidious: The Red Door](insidious_the_red_door.md): same source document (doc_0392)
+- [Netflix Games, November 2023](netflix_games_november_2023.md): same source document (doc_0392)
+- [Netflix's November 2023 Slate: Overview](netflix_november_2023_slate_overview.md): same source document (doc_0392)
+- [Netflix Originals Premiering November 14 To 16, 2023](netflix_originals_premiering_november_14_to_16_2023.md): same source document (doc_0392)
+- [Netflix Originals Premiering November 17, 2023](netflix_originals_premiering_november_17_2023.md): same source document (doc_0392)
+- [Netflix Originals Premiering November 1, 2023](netflix_originals_premiering_november_1_2023.md): same source document (doc_0392)
+- [Netflix Originals Premiering November 21 To 24, 2023](netflix_originals_premiering_november_21_to_24_2023.md): same source document (doc_0392)
+- [Netflix Originals Premiering November 27 To 30, 2023](netflix_originals_premiering_november_27_to_30_2023.md): same source document (doc_0392)
+- [Netflix Originals Premiering November 2 And 3, 2023](netflix_originals_premiering_november_2_and_3_2023.md): same source document (doc_0392)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

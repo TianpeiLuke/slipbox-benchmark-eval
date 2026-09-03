@@ -13,11 +13,18 @@ The consequence TechCrunch draws for ChatGPT itself is a change of role: with GP
 
 ## Related Notes
 
+
 - [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): covers the earlier customization features GPTs build on, from a different document.
 - [ChatGPT In Education And Academic Integrity](chatgpt_in_education_and_academic_integrity.md): overlaps on domain-specific chatbot uses, from a different document.
 - [ChatGPT Overview And Significance](chatgpt_overview_and_significance.md): overlaps on ChatGPT, OpenAI and GPT-4, from a different document.
 - [ChatGPT Subscription Tiers And Pricing](chatgpt_subscription_tiers_and_pricing.md): covers where GPTs sit in OpenAI's product tiers, from a different document.
 - [ChatGPT Voice And Speech Features](chatgpt_voice_and_speech_features.md): covers the speech models also announced in this period, from a different document.
+- [Apple's Generative AI Investment Stance](apple_generative_ai_investment_stance.md): same source document (doc_0116)
+- [Apple's M3 Chip Lineup And The M3 Mac Reviews](apple_m3_mac_reviews_and_chip_lineup.md): same source document (doc_0116)
+- [Aseel: From Afghan Artisan Ecommerce To Humanitarian Aid](aseel_afghan_artisan_ecommerce_to_humanitarian_aid.md): same source document (doc_0116)
+- [Bumble's CEO Transition To Lidiane Jones](bumble_ceo_transition_lidiane_jones.md): same source document (doc_0116)
+- [ChatGPT's Adoption Gap: The Survey Evidence](chatgpt_adoption_gap_survey_evidence.md): same source document (doc_0047)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

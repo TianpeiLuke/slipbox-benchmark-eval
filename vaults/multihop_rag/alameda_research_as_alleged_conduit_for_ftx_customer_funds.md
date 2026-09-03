@@ -11,6 +11,7 @@ Two further relations complete the alleged mechanism. Bankman-Fried is said to h
 
 ## Related Notes
 
+
 - [Alameda's $65 Billion Line Of Credit At FTX](alameda_65_billion_line_of_credit_at_ftx.md): also concerns Alameda Research, from a different source document.
 - [Alameda Absorbed FTX Losses: MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): also concerns Alameda Research, from a different source document.
 - [Alameda Negative Balance Escalation](alameda_negative_balance_escalation.md): also concerns Alameda Research, from a different source document.
@@ -19,6 +20,8 @@ Two further relations complete the alleged mechanism. Bankman-Fried is said to h
 - [Adam Yedidia Testimony And Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): drawn from the same source document (doc_0031).
 - [Defense Good-Faith Case For Bankman-Fried](defense_good_faith_case_for_bankman_fried.md): drawn from the same source document (doc_0031).
 - [Marc-Antoine Julliard FTX Customer Testimony](marc_antoine_julliard_ftx_customer_testimony.md): drawn from the same source document (doc_0031).
+- [The Prosecution's Opening Statement Against Bankman-Fried](prosecution_opening_statement_against_bankman_fried.md): same source document (doc_0031)
+- [Day Two Of The Bankman-Fried Trial: Jury Selection And The Courtroom Audience](sbf_trial_day_two_jury_and_courtroom.md): same source document (doc_0031)
 
 ## Source
 

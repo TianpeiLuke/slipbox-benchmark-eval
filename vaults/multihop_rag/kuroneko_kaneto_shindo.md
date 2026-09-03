@@ -13,12 +13,18 @@ Polygon's Toussaint Egan calls Kiyomi Kuroda's cinematography a master class in 
 
 ## Related Notes
 
+
 - [Detour (1945, Edgar G. Ulmer)](detour_1945_edgar_g_ulmer.md): both are Criterion Channel titles from a different source document
 - [Encounters of the Spooky Kind (Sammo Hung)](encounters_of_the_spooky_kind_sammo_hung.md): another Criterion Channel pick from a separate article
 - [I Married a Witch (1942, René Clair Comedy)](i_married_a_witch_1942_rene_clair_comedy.md): another Criterion Channel film covered elsewhere
 - [Multiple Maniacs (1970, John Waters Comedy)](multiple_maniacs_1970_john_waters_comedy.md): another Criterion Channel catalog film from a different document
 - [Tampopo (1985, Juzo Itami)](tampopo_1985_juzo_itami_ramen_western.md): another Criterion Channel Japanese film from a separate source
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
+- [American Horror Story: NYC](american_horror_story_nyc_season.md): same source document (doc_0165)
+- [Apostle (Gareth Evans)](apostle_gareth_evans_folk_horror.md): same source document (doc_0165)
+- [Cat People (1942) and the Origin of the Jump Scare](cat_people_1942_jump_scare_origin.md): same source document (doc_0165)
+- [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): same source document (doc_0165)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

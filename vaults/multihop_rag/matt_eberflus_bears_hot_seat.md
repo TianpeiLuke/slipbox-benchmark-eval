@@ -11,6 +11,7 @@ The qualifier is that in his second season as head coach the defense had improve
 
 ## Related Notes
 
+
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): covers a Chicago game in this stretch, from a different document.
 - [Bears Panthers Broadcast And Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): also concerns the Bears, from a different document.
 - [Bears Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also concerns the Bears, from a different document.
@@ -18,6 +19,10 @@ The qualifier is that in his second season as head coach the defense had improve
 - [Bears Vikings MNF First Half](bears_vikings_mnf_first_half.md): also concerns the Bears offense, from a different document.
 - [Aaron Glenn Lions Hot Seat](aaron_glenn_lions_hot_seat.md): another entry in the same roundup, from the same document.
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): another entry in the same roundup, from the same document.
+- [Christian Watson Packers Hot Seat](christian_watson_packers_hot_seat.md): same source document (doc_0437)
+- [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md): same source document (doc_0437)
+- [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): same source document (doc_0437)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

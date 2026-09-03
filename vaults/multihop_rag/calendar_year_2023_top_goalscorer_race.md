@@ -11,6 +11,7 @@ The Portugal international had been battling with Kylian Mbappe, Erling Haaland 
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also discusses Harry Kane, one of the contenders here, from a different source document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also discusses Harry Kane, from a different source document.
 - [Chelsea 4-4 Manchester City at Stamford Bridge](chelsea_4_4_manchester_city_stamford_bridge.md): also discusses Erling Haaland, from a different source document.
@@ -19,6 +20,8 @@ The Portugal international had been battling with Kylian Mbappe, Erling Haaland 
 - [Cristiano Ronaldo's Al Nassr Move and 2023 Goal Tally](cristiano_ronaldo_al_nassr_move_and_2023_goal_tally.md): same source document, giving the leader's full tally.
 - [Erling Haaland's Manchester City 2023 Goal Tally](erling_haaland_manchester_city_2023_goal_tally.md): same source document, on one of the four contenders.
 - [Harry Kane's Bayern Munich 2023 Scoring Records](harry_kane_bayern_munich_2023_scoring_records.md): same source document, on another of the four contenders.
+- [Jamie Carragher's "Sad End" Verdict On Ronaldo's Saudi Move](jamie_carragher_criticism_of_ronaldo_saudi_transfer.md): same source document (doc_0277)
+- [Kylian Mbappe's 52-Goal 2023 And His PSG Contract Situation](kylian_mbappe_psg_2023_goal_tally_and_contract.md): same source document (doc_0277)
 
 ## Source
 

@@ -15,11 +15,18 @@ The warrant joining grounds to claim is enforcers' own stake in the result: they
 
 ## Related Notes
 
+
 - [Apple Watch ITC Import Ban And Preemptive Sales Halt](apple_watch_itc_import_ban_and_preemptive_sales_halt.md): another Big Tech regulatory confrontation, from a different source document.
 - [Big Tech Declines And The Amazon FTC Antitrust Lawsuit](big_tech_declines_and_amazon_ftc_antitrust_lawsuit.md): covers the Amazon FTC suit named here as one of the downstream cases, from a different source document.
 - [ChatGPT Third-Party Integrations And Ecosystem](chatgpt_third_party_integrations_and_ecosystem.md): another Big Tech platform-and-ecosystem question, from a different source document.
 - [CPPA Draft ADMT Regulations](cppa_draft_admt_regulations.md): another regulatory constraint aimed at Big Tech, from a different source document.
 - [Critique Of Meta's App Store Parental Approval Proposal](critique_of_meta_app_store_parental_approval_proposal.md): another dispute over Big Tech shifting duties onto platform gatekeepers, from a different source document.
+- [The Google Antitrust Case](google_antitrust_case.md): same source document (doc_0237)
+- [Google's Agreement Not To Promote Chrome To Safari Users](google_apple_chrome_agreement.md): same source document (doc_0237)
+- [The Hypocrisy Argument: Google Became The Monopoly It Denounced](google_default_hypocrisy_argument.md): same source document (doc_0237)
+- [Google Paid $26.3 Billion In 2021 For Default Search Placement](google_default_search_payments.md): same source document (doc_0237)
+- [Google's Deleted Chat Logs Under A Litigation Hold](google_deleted_chat_logs.md): same source document (doc_0237)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
 
 ## Source
 

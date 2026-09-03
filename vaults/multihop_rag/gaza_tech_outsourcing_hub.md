@@ -11,11 +11,17 @@ The hub's scale marks its boundary. Since at least 2008, TechCrunch has been cov
 
 ## Related Notes
 
+
 - [Gaza Sky Geeks Accelerator](gaza_sky_geeks_accelerator.md): same source document; the largest tech hub within this ecosystem.
 - [Gaza Tech Infrastructure Destruction](gaza_tech_infrastructure_destruction.md): same source document; what has happened to this hub.
 - [Dalia Awad's Gaza Engineer Account](dalia_awad_gaza_engineer_account.md): same source document; an individual career built through these international links.
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also concerns Silicon Valley figures, from a different source document.
 - [ChatGPT's First Year Overview](chatgpt_first_year_overview.md): also concerns Silicon Valley's technology industry, from a different source document.
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): both discuss Silicon Valley; different source document
+- [ChatGPT Third-Party Integrations And Ecosystem](chatgpt_third_party_integrations_and_ecosystem.md): both discuss Silicon Valley; different source document
+- [Chinese Capital Stigma In US Fundraising](chinese_capital_stigma_in_us_fundraising.md): both discuss Silicon Valley; different source document
+- [Gaza Tech Workers' Connectivity Collapse](gaza_tech_workers_connectivity_collapse.md): same source document (doc_0598)
+- [Israel-Hamas War Context, October 2023](israel_hamas_war_october_2023_context.md): same source document (doc_0598)
 
 ## Source
 

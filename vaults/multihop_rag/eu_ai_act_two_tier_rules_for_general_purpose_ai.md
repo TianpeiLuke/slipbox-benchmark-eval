@@ -13,11 +13,20 @@ The rules have two boundaries. Foundational models and GPAIs that have been comm
 
 ## Related Notes
 
+
 - [AI Market Spending Forecasts](ai_market_spending_forecasts.md): shares the cloud computing and generative AI theme, from a different source document.
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the cloud computing and generative AI theme, from a different source document.
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the generative AI and generative AI guardrails theme, from a different source document.
 - [FTC Generative AI Roundtable](ftc_generative_ai_roundtable.md): shares the generative AI and generative AI guardrails theme, from a different source document.
 - [Gemini Pro Jailbreak by Robust Intelligence](gemini_pro_jailbreak_by_robust_intelligence.md): shares the generative AI and generative AI guardrails theme, from a different source document.
+- [Civil Society Criticism Of The EU AI Act's Biometrics Limits](civil_society_criticism_of_eu_ai_act_biometrics_limits.md): same source document (doc_0564)
+- [EU AI Act Copyright Obligations For GPAI Makers](eu_ai_act_copyright_obligations_for_gpai_makers.md): same source document (doc_0525)
+- [EU AI Act High-Risk AI System Obligations](eu_ai_act_high_risk_ai_system_obligations.md): same source document (doc_0564)
+- [EU AI Act Penalties For Non-Compliance](eu_ai_act_penalties_for_non_compliance.md): same source document (doc_0564)
+- [EU AI Act Phased Entry Into Force Timeline](eu_ai_act_phased_entry_into_force_timeline.md): same source document (doc_0525)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Cloud Computing](term_cloud_computing.md): uses the concept cloud computing
+- [Generative AI Guardrails](term_generative_ai_guardrails.md): uses the concept generative ai guardrails
 
 ## Source
 

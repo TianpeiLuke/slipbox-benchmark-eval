@@ -11,6 +11,7 @@ Many key players in the music industry and beyond have been adamant that using c
 
 ## Related Notes
 
+
 - [Cmg Partner Labels Quality Control and 10k Projects](cmg_partner_labels_quality_control_and_10k_projects.md): also discusses Warner Music Group, from a different source document.
 - [Dream Track Artist Selection and Licensing Questions](dream_track_artist_selection_and_licensing_questions.md): a live example of label-Google AI licensing, from a different source document.
 - [Google USCO Filing on AI Training and Fair Use](google_usco_filing_ai_training_fair_use.md): the opposing view that authorization should not be required, from a different source document.
@@ -19,6 +20,9 @@ Many key players in the music industry and beyond have been adamant that using c
 - [AI Assisted Works Copyright Eligibility](ai_assisted_works_copyright_eligibility.md): another note drawn from the same source document (doc_0271).
 - [AI Generated Works Should not Be Copyrightable](ai_generated_works_should_not_be_copyrightable.md): another note drawn from the same source document (doc_0271).
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): the argument that unlicensed training cannot be excused as fair use (doc_0271).
+- [AI Training Transparency And Recordkeeping Requirements](ai_training_transparency_and_recordkeeping.md): same source document (doc_0271)
+- [Anthropic's Fair Use Defense For AI Training](anthropic_fair_use_defense_for_ai_training.md): same source document (doc_0271)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

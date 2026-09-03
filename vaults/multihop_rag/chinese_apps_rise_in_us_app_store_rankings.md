@@ -13,6 +13,7 @@ The scrutiny has not yet translated into a consumer-facing ban: Montana also att
 
 ## Related Notes
 
+
 - [ASPI Analysis Of TikTok Pixel Data Aggregation Risk](aspi_analysis_of_tiktok_pixel_data_aggregation_risk.md): overlapping coverage of TikTok and government concerns about Chinese ties, from a different source document.
 - [China Data Laws And Government TikTok Device Bans](china_data_laws_and_government_tiktok_device_bans.md): overlapping coverage of TikTok device bans, from a different source document.
 - [Teen Time Spent On TikTok, Snapchat And Instagram](teen_time_spent_on_tiktok_snapchat_and_instagram.md): overlapping coverage of younger users' app time, from a different source document.
@@ -21,6 +22,7 @@ The scrutiny has not yet translated into a consumer-facing ban: Montana also att
 - [Apple 2023 Top iPad Apps And Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): drawn from the same source document (doc_0384), the iPad side of the same rankings.
 - [Apple 2023 Top iPhone Apps And Games Lists](apple_2023_top_iphone_apps_and_games_lists.md): drawn from the same source document (doc_0384), the full ranked lists behind this reading.
 - [Temu As The Top US iPhone App Of 2023](temu_top_us_iphone_app_of_2023.md): drawn from the same source document (doc_0384), the result this argument explains.
+- [US Tech Giants' 2023 App Download Rankings](us_tech_giant_app_download_rankings_2023.md): same source document (doc_0384)
 
 ## Source
 

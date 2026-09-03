@@ -11,6 +11,7 @@ The following month Will Smith's memoir was released, detailing several problems
 
 ## Related Notes
 
+
 - [Expert Debate Over The Oscars Slap Given The Separation](expert_debate_over_the_oscars_slap_given_the_separation.md): outside commentary on the same marriage, published separately
 - [Expert Signs It Is Time To End A Marriage](expert_signs_it_is_time_to_end_a_marriage.md): the expert view on when strain like this warrants divorce
 - [Will And Jada Promise Never To Divorce](will_and_jada_promise_never_to_divorce.md): the no-divorce commitment, also aired on Red Table Talk
@@ -19,6 +20,8 @@ The following month Will Smith's memoir was released, detailing several problems
 - [Jada Pinkett Smith 2023 Separation Disclosure](jada_pinkett_smith_2023_separation_disclosure.md): the 2023 revelation reported in the same relationship timeline
 - [Jada Pinkett Smith August Alsina Entanglement](jada_pinkett_smith_august_alsina_entanglement.md): an earlier episode in the same timeline article
 - [Will And Jada Denials Of Open Marriage And Divorce Rumours](will_and_jada_denials_of_open_marriage_and_divorce_rumours.md): the couple's public rebuttals, from the same timeline
+- ["Life Partnership" As The Smiths' Own Term For Their Marriage](will_and_jada_life_partnership_framing.md): same source document (doc_0018)
+- [Will Smith's Slap Of Chris Rock At The 2022 Oscars](will_smith_chris_rock_2022_oscars_slap.md): same source document (doc_0018)
 
 ## Source
 

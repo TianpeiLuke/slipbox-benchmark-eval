@@ -11,6 +11,7 @@ That conditional is what would falsify the forecast. A negative shock to the bro
 
 ## Related Notes
 
+
 - [Bank Of America Housing Turbulence Warning 2023](bank_of_america_housing_turbulence_warning_2023.md): another forecast within the same account of the 2023 housing market, from a different source document.
 - [US Home Price Peak And Partial Recovery 2022-2023](us_home_price_peak_and_partial_recovery_2022_2023.md): supplies the price history the forecast extends, from a different source document.
 - [Why 2023 Is Not A Repeat Of The 2008 Housing Crash](why_2023_is_not_a_repeat_of_the_2008_housing_crash.md): argues against the crash scenario this forecast also rules out, from a different source document.
@@ -19,6 +20,8 @@ That conditional is what would falsify the forecast. A negative shock to the bro
 - [Millennials As The New Boomer Homebuying Cohort](millennials_as_the_new_boomer_homebuying_cohort.md): drawn from the same source document (doc_0479).
 - [US Existing Home Sales September 2023 13-Year Low](us_existing_home_sales_september_2023_13_year_low.md): drawn from the same source document (doc_0479).
 - [US Housing Inventory Shortage 2023](us_housing_inventory_shortage_2023.md): drawn from the same source document (doc_0479).
+- [The Mortgage Rate Lock-In Effect Freezing US Home Sales](us_mortgage_rate_lock_in_effect_2023.md): same source document (doc_0479)
+- [Volcker's And Powell's Rate-Hiking Cycles Compared](volcker_and_powell_rate_hiking_cycles_compared.md): same source document (doc_0479)
 
 ## Source
 

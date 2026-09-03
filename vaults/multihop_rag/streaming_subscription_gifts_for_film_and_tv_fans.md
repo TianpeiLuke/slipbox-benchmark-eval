@@ -11,6 +11,7 @@ The example it details is the Disney Bundle at $15: a monthly, ad-supported subs
 
 ## Related Notes
 
+
 - [The Disney Bundle Trio Streaming Package](disney_bundle_trio_streaming_package.md): also concerns Disney Plus, from a different source document.
 - [Disney's Centennial Wish Nostalgia Thesis](disney_centennial_wish_nostalgia_thesis.md): also concerns Disney, from a different source document.
 - [Disney's Direct-To-Video Sequel Era](disney_direct_to_video_sequel_era.md): overlapping coverage of Disney movies, from a different source document.
@@ -19,6 +20,8 @@ The example it details is the Disney Bundle at $15: a monthly, ad-supported subs
 - [Console Subscription And Store Gift Cards For Gamers](console_subscription_and_store_gift_cards_for_gamers.md): drawn from the same source document (doc_0291).
 - [Ebook, Comic And Book Club Subscription Gifts](ebook_comic_and_book_club_subscription_gifts.md): drawn from the same source document (doc_0291).
 - [Fitness And Mindfulness Subscription Gifts](fitness_and_mindfulness_subscription_gifts.md): drawn from the same source document (doc_0291).
+- [Food, Wine And Coffee Subscription Gifts](food_wine_and_coffee_subscription_gifts.md): same source document (doc_0291)
+- [General Purpose Retailer Gift Cards](general_purpose_retailer_gift_cards.md): same source document (doc_0291)
 
 ## Source
 

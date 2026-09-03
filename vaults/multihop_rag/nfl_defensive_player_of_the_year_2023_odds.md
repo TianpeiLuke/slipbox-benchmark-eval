@@ -13,6 +13,7 @@ The warrant Sporting News offers is that name recognition, not performance, expl
 
 ## Related Notes
 
+
 - [Chargers 6-0 Patriots Shutout Week 13](chargers_6_0_patriots_shutout_week_13.md): also discusses Khalil Mack, from a different document.
 - [EsfandTV Sports Streaming Channel](esfandtv_sports_streaming_channel.md): also mentions Micah Parsons, from a different document.
 - [Myles Garrett Browns Midseason MVP](myles_garrett_browns_midseason_mvp.md): also discusses Myles Garrett, from a different document.
@@ -21,6 +22,8 @@ The warrant Sporting News offers is that name recognition, not performance, expl
 - [NFL Awards Longshot Betting Strategy](nfl_awards_longshot_betting_strategy.md): the general longshot argument this award case applies, from the same document.
 - [NFL Coach of the Year 2023 Odds](nfl_coach_of_the_year_2023_odds.md): a parallel award case, from the same document.
 - [NFL Comeback Player of the Year 2023 Odds](nfl_comeback_player_of_the_year_2023_odds.md): a parallel award case, from the same document.
+- [2023 NFL MVP Favorites And The Longshot Cases For Goff And Stroud](nfl_mvp_2023_odds_and_longshot_cases.md): same source document (doc_0145)
+- [2023 NFL Offensive Player Of The Year: Hill The Favorite, Lamb The Longshot](nfl_offensive_player_of_the_year_2023_odds.md): same source document (doc_0145)
 
 ## Source
 

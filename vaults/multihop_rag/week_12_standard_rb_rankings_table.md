@@ -77,11 +77,18 @@ The accompanying Week 12 RB fantasy projections and rankings came from Draft Sha
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): overlaps on the Ravens, Browns and Cardinals, from a different document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): overlaps on the Chargers, Broncos and Titans, from a different document.
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): also discusses Alexander Mattison, from a different document.
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also discusses Rachaad White, from a different document.
 - [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also discusses Roschon Johnson, from a different document.
+- [Bye-Free Weeks Complicate Lineup Decisions](bye_free_weeks_complicate_lineup_decisions.md): same source document (doc_0494)
+- [Fantasy Week 12 Schedule And No-Bye Teams](fantasy_week_12_schedule_and_no_bye_teams.md): same source document (doc_0494)
+- [Josh Jacobs' And Breece Hall's 2023 Workloads](josh_jacobs_and_breece_hall_2023_workloads.md): same source document (doc_0494)
+- [Tony Pollard's Fantasy Outlook In 2023](tony_pollard_fantasy_outlook_2023.md): same source document (doc_0494)
+- [Week 12 RB Busts To Avoid](week_12_rb_busts_to_avoid.md): same source document (doc_0494)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

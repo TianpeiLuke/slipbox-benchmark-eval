@@ -15,12 +15,21 @@ The law firm handling the case is Hausfeld, whose announcement states that "the 
 
 ## Related Notes
 
+
 - [Apple Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): another District Court proceeding, from a different source document.
 - [Epic Games v. Google Antitrust Trial](epic_games_v_google_antitrust_trial.md): another Sherman Act case, from a different source document.
 - [Epic v. Apple Ruling As Precedent](epic_v_apple_ruling_as_precedent.md): shares the antitrust and class-action-settlement themes, from a different source document.
 - [EU Amazon Prior Settlements And DMA Gatekeeper](eu_amazon_prior_settlements_and_dma_gatekeeper.md): shares the antitrust and class-action-settlement themes, from a different source document.
 - [Google Antitrust Case](google_antitrust_case.md): overlapping coverage of Google and allegations of anticompetitive conduct, from a different source document.
 - [AI Search Publisher Traffic Loss Projections](ai_search_publisher_traffic_loss_projections.md): drawn from the same source document (doc_0033), covering the AI-driven traffic harm the suit alleges.
+- [Google's Knowledge Graph And Featured Snippets](google_knowledge_graph_and_featured_snippets.md): same source document (doc_0033)
+- [Google's News Content Payment Deal With Canada](google_news_content_payment_deal_with_canada.md): same source document (doc_0033)
+- [Google's Rebuttal To The Publisher Antitrust Suit](google_rebuttal_to_publisher_antitrust_suit.md): same source document (doc_0033)
+- [The Claim That SGE And Bard Appropriate Publisher Content](google_sge_and_bard_content_appropriation_claims.md): same source document (doc_0033)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [Class Action](term_class_action.md): uses the concept class action
+- [Generative AI Guardrails](term_generative_ai_guardrails.md): uses the concept generative ai guardrails
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

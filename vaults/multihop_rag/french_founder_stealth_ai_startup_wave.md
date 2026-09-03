@@ -13,11 +13,19 @@ Pierre Valade, the founder of Sunrise and Jumbo, is putting together a team for 
 
 ## Related Notes
 
+
 - [Amo's Founding Team And Funding Round](amo_founding_team_and_funding_round.md): the closest overlap, covering other Zenly alumni starting a new company, from a different document.
 - [European Tech Valuation Pressure And PE Dealmaking](european_tech_valuation_pressure_and_pe_dealmaking.md): shares the valuation and venture-capital themes, from a different document.
 - [FTX](ftx.md): shares the valuation and venture-capital themes, from a different document.
 - [Tech Layoffs, December 2023](tech_layoffs_december_2023.md): the wider downturn this wave runs against, from a different document.
 - [Tidalflow's LLM Integration](tidalflow_llm_integration.md): another stealth-stage LLM startup with venture backing, from a different document.
+- [The French AI Startup Ecosystem's Momentum](french_ai_startup_ecosystem_momentum.md): same source document (doc_0038)
+- [French AI Startups: Poolside, Dust And Nabla](french_ai_startups_poolside_dust_nabla.md): same source document (doc_0038)
+- [French AI Startups' State Backing And Compliance Edge](french_ai_startups_state_backing_and_compliance_edge.md): same source document (doc_0038)
+- [Mistral AI, The French LLM Startup](mistral_ai_french_llm_startup.md): same source document (doc_0038)
+- [The Paris AI Research Talent Pipeline](paris_ai_research_talent_pipeline.md): same source document (doc_0038)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

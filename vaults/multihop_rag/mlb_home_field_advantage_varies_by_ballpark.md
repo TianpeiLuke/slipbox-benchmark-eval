@@ -13,11 +13,18 @@ The warrant is that the postseason's greatest moments tend to be punctuated by t
 
 ## Related Notes
 
+
 - [Alanna Rizzo's Criticism of Clubhouse Reporting](alanna_rizzo_criticism_of_clubhouse_reporting.md): also concerns the Blue Jays, from a different document.
 - [Blue Jays Roster Implications of the Ohtani Pursuit](blue_jays_roster_implications_of_ohtani_pursuit.md): also concerns the Blue Jays and Vladimir Guerrero, from a different document.
 - [Cody Bellinger Free Agent Market and Suitors](cody_bellinger_free_agent_market_and_suitors.md): also concerns the Blue Jays, from a different document.
 - [MLB 2023 Postseason Results Bracket](mlb_2023_postseason_results_bracket.md): also concerns the Blue Jays, from a different document.
 - [Shohei Ohtani's Dodgers Ten-Year $700 Million Contract](shohei_ohtani_dodgers_ten_year_700_million_contract.md): also concerns the Blue Jays, from a different document.
+- [Camden Yards: Baltimore Orioles Postseason Atmosphere](camden_yards_baltimore_orioles_postseason_atmosphere.md): same source document (doc_0008)
+- [Chase Field: Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): same source document (doc_0008)
+- [Citizens Bank Park: Philadelphia Phillies Postseason Atmosphere](citizens_bank_park_philadelphia_phillies_postseason_atmosphere.md): same source document (doc_0008)
+- [Dodger Stadium: Los Angeles Dodgers Postseason Atmosphere](dodger_stadium_los_angeles_dodgers_postseason_atmosphere.md): same source document (doc_0008)
+- [Globe Life Field: Texas Rangers Postseason Atmosphere](globe_life_field_texas_rangers_postseason_atmosphere.md): same source document (doc_0008)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

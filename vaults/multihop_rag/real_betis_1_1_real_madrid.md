@@ -11,11 +11,19 @@ Bellingham gave the visitors the lead with a fine low finish after Brahim Díaz'
 
 ## Related Notes
 
+
 - [Champions League 2023-24 Group C: Real Madrid and Napoli](champions_league_2023_24_group_c_real_madrid_napoli.md): also covers Real Madrid, from a different document.
 - [Champions League 2023-24 Group Stage Overview](champions_league_2023_24_group_stage_overview.md): also covers Real Madrid, from a different document.
 - [Champions League 2023-24 Round of 16 Qualifiers and Draw](champions_league_2023_24_round_of_16_qualifiers_and_draw.md): also covers Real Madrid, from a different document.
 - [Chelsea Women's Team Succession After Hayes](chelsea_womens_team_succession_after_hayes.md): also covers Real Madrid, from a different document.
 - [England 132 All Out in the T20 Series Decider](england_132_all_out_t20_series_decider.md): shares incidental topical tags with this note, from a different document.
+- [Atalanta 3-2 AC Milan](atalanta_3_2_ac_milan.md): same source document (doc_0093)
+- [Eintracht Frankfurt 5-1 Bayern Munich](eintracht_frankfurt_5_1_bayern_munich.md): same source document (doc_0093)
+- [Inter Milan 4-0 Udinese](inter_milan_4_0_udinese.md): same source document (doc_0093)
+- [PSG 2-1 Nantes In Ligue 1](psg_2_1_nantes_ligue_1.md): same source document (doc_0093)
+- [RB Leipzig 3-2 Borussia Dortmund](rb_leipzig_3_2_borussia_dortmund.md): same source document (doc_0093)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

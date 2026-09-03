@@ -13,6 +13,7 @@ She also frames the diaspora as newly urgent subject matter: "It's more and more
 
 ## Related Notes
 
+
 - [Noora Niasari Childhood Shelter And Shayda Script Origin](noora_niasari_childhood_shelter_and_shayda_script_origin.md): same interview, on the diaspora story she told
 - [Noora Niasari On Dramatising Her Own Trauma](noora_niasari_on_dramatising_her_own_trauma.md): same interview, on audiences gaining understanding of Iranian women's lives
 - [Fatf Iran Isolation And Cash Dependency](fatf_iran_isolation_and_cash_dependency.md): overlaps on Iran and its international position, different document
@@ -20,6 +21,11 @@ She also frames the diaspora as newly urgent subject matter: "It's more and more
 - [Shayda Balancing Family Violence With Persian Ritual](shayda_balancing_family_violence_with_persian_ritual.md): same source document
 - [Epstein Sex Offender Waiver Request And Denial](epstein_sex_offender_waiver_request_and_denial.md): linked only by shared custody/legal tags, unrelated subject
 - [Catherine Tan Public Disclosure And Law Enforcement Gaps](catherine_tan_public_disclosure_and_law_enforcement_gaps.md): linked only by shared topical tags, unrelated subject
+- [The Good Fight (Paramount Plus)](the_good_fight_paramount_plus.md): shares bail, user_generated_content; different source document
+- [Shayda's Festival Run And Australian Oscar Selection](shayda_festival_run_and_australian_oscar_selection.md): same source document (doc_0347)
+- [Shayda: Plot And Cast](shayda_film_plot_and_cast.md): same source document (doc_0347)
+- [Bail](term_bail.md): uses the concept bail
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

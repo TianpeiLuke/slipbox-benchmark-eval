@@ -13,12 +13,18 @@ For context, last year's published figures from Adobe were $5.29 billion, which 
 
 ## Related Notes
 
+
 - [NFL Thanksgiving Day Games 2023 Viewership](nfl_thanksgiving_day_games_2023_viewership.md): substantial content overlap on figures, thanksgiving, average, from a different source document.
 - [Nike Regional and Product Category Sales Fiscal Q1 2024](nike_regional_and_product_category_sales_fiscal_q1_2024.md): substantial content overlap on sales, billion, compared, from a different source document.
 - [Thanksgiving 2023 Retail Closure Policy](thanksgiving_2023_retail_closure_policy.md): substantial content overlap on thanksgiving, sales, holiday, from a different source document.
 - [Thanksgiving 2023 Stores Closed on the Holiday](thanksgiving_2023_stores_closed_on_the_holiday.md): substantial content overlap on thanksgiving, sales, online, from a different source document.
 - [Thanksgiving American Holiday Overview](thanksgiving_american_holiday_overview.md): substantial content overlap on thanksgiving, holiday, thursday, from a different source document.
 - [Adobe Analytics and Salesforce Measurement Methodology](adobe_analytics_and_salesforce_measurement_methodology.md): drawn from the same source document, doc_0450.
+- [Buy Now Pay Later Usage On Thanksgiving 2023](buy_now_pay_later_usage_on_thanksgiving_2023.md): same source document (doc_0450)
+- [Cyber Week 2023 Online Spend Forecasts](cyber_week_2023_online_spend_forecasts.md): same source document (doc_0450)
+- [Holiday Discounting As The Driver Of 2023 Online Spend](holiday_discounting_as_driver_of_2023_online_spend.md): same source document (doc_0450)
+- [Mobile's Share Of Thanksgiving 2023 E-Commerce](mobile_share_of_thanksgiving_2023_ecommerce.md): same source document (doc_0450)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

@@ -13,6 +13,7 @@ That pattern held when the TMO intervened after Aaron Smith thought he had a try
 
 ## Related Notes
 
+
 - [All Blacks Ireland Series Loss Backlash as Motivation](all_blacks_ireland_series_loss_backlash_as_motivation.md): the All Blacks' road into this final, different source document
 - [All Blacks Selection Changes 2023 Semi Final](all_blacks_selection_changes_2023_semi_final.md): also covers Mark Telea's selection, different source document
 - [Dalton Papalii on All Blacks Leadership Vulnerability](dalton_papalii_on_all_blacks_leadership_vulnerability.md): another All Blacks document, different source
@@ -20,6 +21,10 @@ That pattern held when the TMO intervened after Aaron Smith thought he had a try
 - [England Starting XV Changes for 2023 Semifinal](england_starting_xv_changes_for_2023_semifinal.md): the semi-final before this match, different source document
 - [All Blacks Final Moments RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): the closing passage of this same half, same source document
 - [All Blacks Generational Change After 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): what followed this defeat, same source document
+- [Cards And Officiating Controversy In The 2023 Rugby World Cup Final](cards_and_officiating_controversy_rwc_2023_final.md): same source document (doc_0022)
+- [Erasmus And Nienaber Depart After The Springboks' 2023 Title](erasmus_nienaber_springboks_coaching_departure_2023.md): same source document (doc_0022)
+- [Ian Foster's All Blacks Tenure And Scott Robertson's Succession](ian_foster_all_blacks_tenure_and_robertson_succession.md): same source document (doc_0022)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

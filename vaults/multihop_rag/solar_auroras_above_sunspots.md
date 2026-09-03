@@ -11,12 +11,18 @@ Astronomers detected radio bursts crackling above a sunspot after pointing a rad
 
 ## Related Notes
 
+
 - [Aurora Displays Over Britain and Ireland, November 2023](aurora_displays_over_britain_and_ireland_november_2023.md): the terrestrial version of the same phenomenon.
 - [Aurora Sightings Beyond Usual Latitudes: Greece, Turkey and Australia](aurora_sightings_beyond_usual_latitudes_greece_turkey_australia.md): another account of where and when auroras appear on Earth.
 - [How Geomagnetic Storms Produce Auroras](how_geomagnetic_storms_produce_auroras.md): explains in more detail the terrestrial mechanism contrasted here.
 - [Solar Cycle Peak and Stronger Auroras](solar_cycle_peak_and_stronger_auroras.md): connects sunspot activity to auroral displays.
 - [STEVE: Strong Thermal Emission Velocity Enhancement](steve_strong_thermal_emission_velocity_enhancement.md): another aurora-like phenomenon distinguished from true auroras.
 - [Ancient Superflares as a Spark for Life on Earth](ancient_superflares_as_spark_for_life_on_earth.md): from the same year-in-review article on the sun.
+- [Coronal Rain: The Sun's Shooting Stars](coronal_rain_solar_shooting_stars.md): same source document (doc_0325)
+- [The Miyake Event Solar Storm 14,000 Years Ago](miyake_event_solar_storm_14000_years_ago.md): same source document (doc_0325)
+- [Quasi-Periodic Pulsations in Solar Radio Bursts](quasi_periodic_pulsations_in_solar_radio_bursts.md): same source document (doc_0325)
+- [Shortened Solar Cycles During the Maunder Minimum](shortened_solar_cycles_during_the_maunder_minimum.md): same source document (doc_0325)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

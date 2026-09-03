@@ -13,11 +13,18 @@ The counter also flags the interest at stake: pushing the blame on Yahoo certain
 
 ## Related Notes
 
+
 - [Apple Google Information Services Agreement](apple_google_information_services_agreement.md): overlaps on Google's default search placements, from a different document.
 - [ChatGPT Mobile App And Availability Expansion](chatgpt_mobile_app_and_availability_expansion.md): overlaps on desktop-versus-mobile search and browser reach, from a different document.
 - [DOJ Theory That Google Default Deals Foreclose Search Rivals](doj_theory_that_google_default_deals_foreclose_search_rivals.md): the argument this counter bears on, from a different document.
 - [Epic v. Google Witness Lineup](epic_v_google_witness_lineup.md): overlaps on Chrome and Google's browser position, from a different document.
 - [Google Antitrust Case](google_antitrust_case.md): overlaps on Chrome, Google and search share, from a different document.
+- [Expedia's Testimony On Google Ad Costs And Organic Listings](expedia_testimony_on_google_search_ads.md): same source document (doc_0015)
+- [Firefox's Yahoo Default Search Switch, As Recounted By Mitchell Baker](firefox_yahoo_default_search_switch.md): same source document (doc_0015)
+- [MADA And RSA: Google's Two Android Distribution Agreements](google_android_mada_and_rsa_agreements.md): same source document (doc_0015)
+- ["Go Big In Europe": Google's Post-Fine Search Quality Push](google_go_big_in_europe_search_quality_push.md): same source document (doc_0015)
+- [Google's Parallel Antitrust Proceedings In Late 2023](google_parallel_antitrust_proceedings_2023.md): same source document (doc_0015)
+- [Total Addressable Market (TAM)](term_total_addressable_market.md): uses the concept total addressable market
 
 ## Source
 

@@ -15,6 +15,7 @@ The tail of the list ran: 57 Trey Palmer, Buccaneers @ Falcons; 58 K.J. Osborn, 
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also discusses Brandon Aiyuk and Deebo Samuel, from a different document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): overlaps on the Colts, Ravens and Bengals, from a different document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): overlaps on the Bengals, Titans and Raiders, from a different document.
@@ -23,6 +24,8 @@ The tail of the list ran: 57 Trey Palmer, Buccaneers @ Falcons; 58 K.J. Osborn, 
 - [Fantasy WR Week 14 Busts](fantasy_wr_week_14_busts.md): the downgrades behind some of these placements, from the same document.
 - [Fantasy WR Week 14 Bye Week Impact](fantasy_wr_week_14_bye_week_impact.md): the byes that shaped this list, from the same document.
 - [Fantasy WR Week 14 Sleepers and Waiver Pickups](fantasy_wr_week_14_sleepers_and_waiver_pickups.md): the pickup cases behind some of these placements, from the same document.
+- [Week 14 PPR Wide Receivers To Start](fantasy_wr_week_14_top_starts.md): same source document (doc_0197)
+- [Justin Jefferson's Week 14 Return From Injury](justin_jefferson_week_14_return_from_injury.md): same source document (doc_0197)
 
 ## Source
 

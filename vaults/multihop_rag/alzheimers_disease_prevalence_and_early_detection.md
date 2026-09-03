@@ -13,6 +13,7 @@ Detection timing changes what can be done about it. "However, when we are able t
 
 ## Related Notes
 
+
 - [Blood Tests and Brain Health Clinics for Earlier Diagnosis](blood_tests_and_brain_health_clinics_for_earlier_diagnosis.md): overlapping vocabulary on disease, diagnoses, alzheimer, from a different source document.
 - [Lecanemab and Donanemab Amyloid Drugs](lecanemab_and_donanemab_amyloid_drugs.md): overlapping vocabulary on disease, alzheimer, slow, from a different source document.
 - [Brain Mechanisms of Fasting Ketosis and Autophagy](brain_mechanisms_of_fasting_ketosis_and_autophagy.md): drawn from the same source document (doc_0309).
@@ -21,6 +22,8 @@ Detection timing changes what can be done about it. "However, when we are able t
 - [Longo Recommendation to Pair Fasting with Standard Care](longo_recommendation_to_pair_fasting_with_standard_care.md): drawn from the same source document (doc_0309).
 - [Time Restricted Eating versus Calorie Restricted Fasting](time_restricted_eating_versus_calorie_restricted_fasting.md): drawn from the same source document (doc_0309).
 - [Translating Time Restricted Eating to Human Alzheimers Trials](translating_time_restricted_eating_to_human_alzheimers_trials.md): drawn from the same source document (doc_0309).
+- [The UC San Diego Time-Restricted Feeding Study In Alzheimer's Mice](ucsd_time_restricted_feeding_alzheimers_mouse_study.md): same source document (doc_0309)
+- [The USC Fasting-Mimicking Diet Studies In Alzheimer's Mice](usc_fasting_mimicking_diet_alzheimers_studies.md): same source document (doc_0309)
 
 ## Source
 

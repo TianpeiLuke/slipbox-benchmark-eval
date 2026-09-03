@@ -11,6 +11,7 @@ The newsletter's framing of the wider situation is that Reddit's API-powered cha
 
 ## Related Notes
 
+
 - [Bride Asks Her Mother to Walk Her Down the Aisle](bride_asks_mother_to_walk_her_down_the_aisle.md): overlaps on Reddit coverage, from a different source document.
 - [Ohanian's Critique of Social Media and the Creator Economy](ohanian_social_media_critique.md): overlaps on Reddit coverage, from a different source document.
 - [Why Platforms Cannot Arbitrate Truth](platform_truth_arbitration.md): overlaps on Reddit coverage, from a different source document.
@@ -19,6 +20,8 @@ The newsletter's framing of the wider situation is that Reddit's API-powered cha
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): drawn from the same source document (doc_0043).
 - [Brave Software Lays Off 9% Of Its Workforce](brave_software_layoffs.md): drawn from the same source document (doc_0043).
 - [Meta Quest 3 And The Affordable End Of AR/VR Hardware](consumer_ar_vr_hardware.md): drawn from the same source document (doc_0043).
+- [Creator Economy Sustainability And Creator Venture Capital](creator_economy_sustainability.md): same source document (doc_0043)
+- [Whether Founders Should Attend Events](founder_event_attendance_debate.md): same source document (doc_0043)
 
 ## Source
 

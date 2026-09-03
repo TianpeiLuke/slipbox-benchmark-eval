@@ -11,11 +11,18 @@ Ahead of the morning vote Jordan, the combative Judiciary Committee chairman and
 
 ## Related Notes
 
+
 - [Engoron Summary Judgment That Trump Committed Fraud](engoron_summary_judgment_that_trump_committed_fraud.md): also concerns Donald Trump, from a different source document.
 - [Hipgnosis Songs Fund Continuation Vote](hipgnosis_songs_fund_continuation_vote.md): overlapping coverage of contested votes, from a different source document.
 - [Jim Jordan's Third-Ballot Defeat And Withdrawal](jim_jordan_third_ballot_defeat_and_withdrawal.md): also concerns Donald Trump and Jim Jordan, from a different source document.
 - [Mar-a-Lago Valuation Dispute](mar_a_lago_valuation_dispute.md): also concerns Donald Trump, from a different source document.
 - [The Good Fight On Paramount+](the_good_fight_paramount_plus.md): also concerns Donald Trump, from a different source document.
+- [Gingrich And Boehner Endorse The Interim Speaker Plan](gingrich_and_boehner_endorse_interim_speaker_plan.md): same source document (doc_0377)
+- [Hakeem Jeffries' Bipartisan Offer To Reopen The House](hakeem_jeffries_bipartisan_offer_to_reopen_the_house.md): same source document (doc_0377)
+- [The House GOP's Narrow-Majority Vote Math](house_gop_narrow_majority_vote_math.md): same source document (doc_0377)
+- [The House Paralysis Following Kevin McCarthy's Ouster](house_speakership_vacancy_paralysis_after_mccarthy_ouster.md): same source document (doc_0377)
+- [Jim Jordan's Political Profile And Record](jim_jordan_political_profile_and_record.md): same source document (doc_0377)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

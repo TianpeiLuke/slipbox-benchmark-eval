@@ -11,12 +11,19 @@ The grounds are the gap between opportunity and play: the Falcons had a golden p
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): shares the NFL and playoff-seeding themes, from a different document.
 - [Bears Vikings MNF Playoff And Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): shares the NFL and playoff-seeding themes, from a different document.
 - [Betting On Kentucky And Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): shares the NFL and playoff-seeding themes, from a different document.
 - [Brock Purdy 49ers Career Trajectory](brock_purdy_49ers_career_trajectory.md): shares the NFL and playoff-seeding themes, from a different document.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): shares the playoff-seeding theme, from a different document.
 - [Aaron Glenn Lions Hot Seat](aaron_glenn_lions_hot_seat.md): another entry in the same roundup, from the same document.
+- [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): same source document (doc_0437)
+- [Christian Watson Packers Hot Seat](christian_watson_packers_hot_seat.md): same source document (doc_0437)
+- [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md): same source document (doc_0437)
+- [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): same source document (doc_0437)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

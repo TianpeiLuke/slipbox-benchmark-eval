@@ -11,6 +11,7 @@ Activision and Blizzard own Call of Duty, Diablo, Overwatch, World of Warcraft a
 
 ## Related Notes
 
+
 - [Apple USB-C Accessory Transition](apple_usb_c_accessory_transition.md): also concerns the European Union, from a different source document.
 - [BEUC Consumer Complaint Over Meta's Pay-Or-Consent Model](beuc_consumer_complaint_meta_pay_or_consent.md): also concerns the European Union, from a different source document.
 - [CJEU 2020 Ruling On The Rental And Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): also concerns the European Union, from a different source document.
@@ -18,6 +19,10 @@ Activision and Blizzard own Call of Duty, Diablo, Overwatch, World of Warcraft a
 - [Diablo 4 Game Overview](diablo_4_game_overview.md): overlapping coverage of Blizzard and its long-awaited studio output, from a different source document.
 - [Activision Blizzard Union Stalling And Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): drawn from the same source document (doc_0050).
 - [Activision, Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): drawn from the same source document (doc_0170).
+- [Activision Titles On Xbox Game Pass](activision_titles_on_xbox_game_pass.md): same source document (doc_0214)
+- [Apple Versus Google: A Contrast In Antitrust Conduct](apple_versus_google_antitrust_conduct_contrast.md): same source document (doc_0170)
+- [Call Of Duty's PlayStation Availability After The Microsoft Deal](call_of_duty_playstation_availability_after_microsoft_deal.md): same source document (doc_0214)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

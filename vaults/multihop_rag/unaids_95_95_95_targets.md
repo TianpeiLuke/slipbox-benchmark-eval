@@ -11,6 +11,7 @@ The targets were created in response to a specific projection. By 2014 there was
 
 ## Related Notes
 
+
 - [CDC 2021-2022 Flu Burden and Vaccination Recommendation](cdc_2021_2022_flu_burden_and_vaccination_recommendation.md): another public health body setting prevention coverage expectations against a measured disease burden.
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): from the same article, on what remains once these targets are met.
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): from the same article, defining the viral suppression the third 95 measures.
@@ -19,6 +20,8 @@ The targets were created in response to a specific projection. By 2014 there was
 - [HIV Key Population Treatment Gaps](hiv_key_population_treatment_gaps.md): from the same article, on populations far below the target thresholds.
 - [HIV Pre-Exposure Prophylaxis and Other Prevention Tools](hiv_pre_exposure_prophylaxis_prevention_tools.md): from the same article, covering the PrEP tools named in the 2025 prevention targets.
 - [HIV Risk in Adolescent Girls and Young Women](hiv_risk_in_adolescent_girls_and_young_women.md): from the same article, on a group whose testing rates hold the first 95 back.
+- [HIV Treatment Access and Cost Barriers](hiv_treatment_access_and_cost_barriers.md): same source document (doc_0238)
+- [The Pediatric HIV Treatment Gap](pediatric_hiv_treatment_gap.md): same source document (doc_0238)
 
 ## Source
 

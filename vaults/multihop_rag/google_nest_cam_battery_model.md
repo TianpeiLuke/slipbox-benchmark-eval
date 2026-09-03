@@ -13,11 +13,18 @@ Its free tier is limited: it sends live alerts to your phone and even allows on-
 
 ## Related Notes
 
+
 - [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): covers the smart speakers and displays this camera works with, from a different source document.
 - [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): covers the same sale event's timing, from a different source document.
 - [Echo Show 5 And Nest Hub Smart Display Deals](echo_show_5_and_nest_hub_smart_display_deals.md): covers the Google Nest displays this pairs with, from a different source document.
 - [Google Nest Hub Smart Display Deal](google_nest_hub_smart_display_deal.md): covers another Google Assistant device, from a different source document.
 - [Google Pixel 8 Launch](google_pixel_8_launch.md): shares the Google Assistant ecosystem, from a different source document.
+- [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): same source document (doc_0250)
+- [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): same source document (doc_0250)
+- [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): same source document (doc_0567)
+- [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): same source document (doc_0250)
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): same source document (doc_0250)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

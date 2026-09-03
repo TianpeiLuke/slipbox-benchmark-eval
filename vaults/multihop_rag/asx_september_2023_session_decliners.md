@@ -11,6 +11,7 @@ Stronger iron ore prices helped to bolster the local bourse on Monday but not en
 
 ## Related Notes
 
+
 - [ASX and Wall Street Selloff October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): overlaps on iron ore and commodity price moves, from a different source document.
 - [Asx December 2023 Session Movers](asx_december_2023_session_movers.md): also discusses Reserve Bank, from a different source document.
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): another session's decliners including lithium names, from a different source document.
@@ -19,6 +20,7 @@ Stronger iron ore prices helped to bolster the local bourse on Monday but not en
 - [ASX Outlook and RBA Rate Expectations September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): the rate expectations weighing on the same session (doc_0087).
 - [Treasury Yields and the Fed's Higher-for-Longer Stance](treasury_yields_and_fed_higher_for_longer.md): the offshore yield driver behind the caution (doc_0087).
 - [US Consumer Spending Headwinds Late 2023](us_consumer_spending_headwinds_late_2023.md): another note drawn from the same source document (doc_0087).
+- [Wall Street Movers At The End Of September 2023](wall_street_movers_end_of_september_2023.md): same source document (doc_0087)
 
 ## Source
 

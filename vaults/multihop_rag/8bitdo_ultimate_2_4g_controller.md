@@ -11,11 +11,18 @@ Its asymmetrical analog stick layout, overall shape, and face button labels shou
 
 ## Related Notes
 
+
 - [8BitDo Ultimate Bluetooth Hall Effect Controller](8bitdo_ultimate_bluetooth_hall_effect_controller.md): same source; the pricier sibling whose Hall effect sticks resist the drift this model's potentiometer sticks can develop.
 - [8BitDo Arcade Stick For Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): another 8BitDo input device, from a different source document.
 - [NACON Revolution X Controller](nacon_revolution_x_controller.md): another customisable third-party pad, from a different source document.
 - [Prime Day Console And Controller Deals, October 2023](prime_day_console_and_controller_deals_october_2023.md): covers 8BitDo Ultimate pricing as a deal, from a different source document.
 - [Powera Enhanced Wired Controller](powera_enhanced_wired_controller.md): overlaps in content on controller, buttons, rear, from a different source document.
+- [PowerA Fusion Pro 3 Controller](powera_fusion_pro_3_controller.md): content overlap 0.13 on controller, buttons, controllers; different source document
+- [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): same source document (doc_0236)
+- [Setting Up A DualSense On PC](dualsense_pc_setup_steaminput_and_ds4windows.md): same source document (doc_0236)
+- [Microsoft Xbox Wireless Controller](microsoft_xbox_wireless_controller.md): same source document (doc_0236)
+- [Nintendo Switch Pro Controller](nintendo_switch_pro_controller.md): same source document (doc_0236)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

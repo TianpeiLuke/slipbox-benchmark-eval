@@ -11,11 +11,17 @@ The basics it covers are a hard-bitten detective, Sam Spade played by Humphrey B
 
 ## Related Notes
 
+
 - [Double Indemnity (1944)](double_indemnity_1944.md): same source; another genre-defining classic in the same tier.
 - [The Origin Of Evil](the_origin_of_evil_sebastien_marnier.md): another film write-up by the same critic, Tasha Robinson, from a different source document.
 - [Apostle Gareth Evans Folk Horror](apostle_gareth_evans_folk_horror.md): also covers Tasha Robinson, from a different source document.
 - [Bad Times At The El Royale (2018)](bad_times_at_the_el_royale_2018.md): drawn from the same source document (doc_0327).
 - [Blood Simple (1984)](blood_simple_1984.md): drawn from the same source document (doc_0327).
+- [Born To Kill (1947)](born_to_kill_1947.md): same source document (doc_0327)
+- [Brick (2005)](brick_2005_rian_johnson.md): same source document (doc_0327)
+- [Detour (1945)](detour_1945_edgar_g_ulmer.md): same source document (doc_0327)
+- [Lured (1947)](lured_1947_douglas_sirk.md): same source document (doc_0327)
+- [M (1931)](m_1931_fritz_lang.md): same source document (doc_0327)
 
 ## Source
 

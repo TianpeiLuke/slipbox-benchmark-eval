@@ -13,6 +13,7 @@ Critic Zosha Millman notes the film has callbacks to other classic movies about 
 
 ## Related Notes
 
+
 - [Annihilation (2018, Alex Garland)](annihilation_2018_alex_garland_film.md): both feature Natalie Portman, from a different source document
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): shares the streaming-service topic tag
 - [Amazon 65-Inch Fire TV QLED Deal](amazon_65_inch_fire_tv_qled_deal.md): shares the streaming-service tag from a hardware article
@@ -21,6 +22,16 @@ Critic Zosha Millman notes the film has callbacks to other classic movies about 
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): another streaming-service-tagged hardware note
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the streaming-service topic tag
 - [AMC Theatres Direct Distribution of Concert Films](amc_theatres_direct_distribution_of_concert_films.md): shares the streaming-service tag from a distribution article
+- [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): same source document (doc_0094)
+- [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): same source document (doc_0094)
+- [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): same source document (doc_0094)
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): same source document (doc_0094)
+- [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): same source document (doc_0094)
+- [Creed III (Michael B. Jordan)](creed_iii_michael_b_jordan.md): same source document (doc_0094)
+- [Dream Scenario (Kristoffer Borgli)](dream_scenario_kristoffer_borgli.md): same source document (doc_0094)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

@@ -13,6 +13,7 @@ As macabre as it is moving and grotesque as it is sensuous, it is an exquisite w
 
 ## Related Notes
 
+
 - [Andor, Disney Plus](andor_disney_plus.md): another piece by the same Polygon writer, in a different document
 - [Castlevania: Nocturne, Netflix](castlevania_nocturne_netflix.md): another piece by the same Polygon writer, elsewhere
 - [Messiah Of Evil, 1973 Cosmic Horror](messiah_of_evil_1973_cosmic_horror.md): another horror review by the same writer, in a different list
@@ -21,6 +22,8 @@ As macabre as it is moving and grotesque as it is sensuous, it is an exquisite w
 - [Alone, 2020, John Hyams](alone_2020_john_hyams_film.md): another pick from the same Polygon horror guide
 - [Annihilation, 2018, Alex Garland](annihilation_2018_alex_garland_film.md): another pick from the same Polygon horror guide
 - [Climax, 2018, Gaspar Noé](climax_2018_gaspar_noe_film.md): another pick from the same Polygon horror guide
+- [Cure: Kiyoshi Kurosawa's Horror Masterpiece About Violence As Contagion](cure_1997_kiyoshi_kurosawa_film.md): same source document (doc_0563)
+- [Encounters Of The Spooky Kind: Sammo Hung's Jiangshi Martial Arts Comedy](encounters_of_the_spooky_kind_sammo_hung.md): same source document (doc_0563)
 
 ## Source
 

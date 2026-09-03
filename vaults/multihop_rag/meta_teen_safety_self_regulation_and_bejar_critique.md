@@ -13,11 +13,17 @@ His argument essentially was that the improvements and safety features Meta was 
 
 ## Related Notes
 
+
 - [Google News Content Payment Deal With Canada](google_news_content_payment_deal_with_canada.md): overlaps on an unresolved platform-policy standoff, from a different document.
 - [Meta's Ad-Free Subscription EU Pricing](meta_ad_free_subscription_eu_pricing.md): overlaps on Meta's ad targeting and protection claims, from a different document.
 - [Meta Quest 2 Black Friday Bundle Price](meta_quest_2_black_friday_bundle_price.md): another Meta product item, from a different document.
 - [Meta's Under-13 Policy Versus Internal Growth Goals](meta_under_13_policy_versus_internal_growth_goals.md): overlaps on teens, parental controls and Meta's internal posture, from a different document.
 - [Bonta's Argument On Meta's Choices And COPPA Liability](bonta_argument_meta_choices_and_coppa_liability.md): the litigation version of the same efficacy critique, from a different document in this sub-plan.
+- [Critique Of Meta's App Store Parental Approval Proposal](critique_of_meta_app_store_parental_approval_proposal.md): same source document (doc_0141)
+- [Meta's Proposal: Parental Approval For App Downloads At The App Store](meta_proposal_app_store_parental_approval.md): same source document (doc_0141)
+- [The 42-State Lawsuit Against Meta Over Harms To Young Users](multistate_lawsuit_against_meta_teen_harms.md): same source document (doc_0141)
+- [The State Patchwork Of Teen Social Media Laws](state_patchwork_of_teen_social_media_laws.md): same source document (doc_0141)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

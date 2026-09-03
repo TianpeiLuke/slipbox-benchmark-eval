@@ -13,11 +13,18 @@ Its second distinguishing feature is presentation: the Discover page on Fanatics
 
 ## Related Notes
 
+
 - [BetMGM Vermont Welcome Offer Tradeoffs](betmgm_vermont_welcome_offer_tradeoffs.md): compares another sportsbook's bonus structure, from a different document.
 - [ESPN Bet's Vermont Launch And Expected Offer](espn_bet_vermont_launch_and_expected_offer.md): another sportsbook's market entry and offer, from a different document.
 - [Fanatics Sportsbook's Vermont Launch Plans](fanatics_sportsbook_vermont_launch_plans.md): covers the same operator entering another state, from a different document.
 - [FanDuel Vermont Welcome Offer Tradeoffs](fanduel_vermont_welcome_offer_tradeoffs.md): compares a rival's bonus structure, from a different document.
 - [NBA MVP Futures And Other NBA Futures Markets](nba_mvp_futures_and_other_nba_futures_markets.md): covers parlay and futures markets of the kind offered here, from a different document.
+- [Bet365 Sportsbook In Kentucky](bet365_sportsbook_kentucky.md): same source document (doc_0071)
+- [BetMGM Sportsbook In Kentucky](betmgm_sportsbook_kentucky.md): same source document (doc_0071)
+- [Betting On Kentucky And Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): same source document (doc_0071)
+- [Caesars Sportsbook In Kentucky](caesars_sportsbook_kentucky.md): same source document (doc_0071)
+- [DraftKings Sportsbook In Kentucky](draftkings_sportsbook_kentucky.md): same source document (doc_0071)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

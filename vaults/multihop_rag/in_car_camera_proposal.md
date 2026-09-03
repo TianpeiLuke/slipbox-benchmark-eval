@@ -15,11 +15,16 @@ The evidentiary record available to test the claim is partial. Uber hasn't relea
 
 ## Related Notes
 
+
 - [Rapido India Cab Market Expansion](rapido_india_cab_market_expansion.md): overlapping coverage of ride-hailing and taxi operations, from a different source document.
 - [Uber Q3 2023 Earnings Headline Results](uber_q3_2023_earnings_headline_results.md): overlapping coverage of Uber and the ride-hail business, from a different source document.
 - [Waymo Vehicles In The Uber App](waymo_vehicles_in_uber_app.md): overlapping coverage of Uber, from a different source document.
 - [AI Copyright And Training Disputes](ai_copyright_and_training_disputes.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
+- [Counterarguments On Uber's Assault Rate And Duty Of Care](surveillance_privacy_tradeoff.md): same source document (doc_0367)
+- [Uber Assault Litigation](uber_assault_litigation.md): same source document (doc_0367)
+- [Uber's Recording Features And Driver Screening](uber_safety_features.md): same source document (doc_0367)
+- [In-Car Surveillance](term_in_car_surveillance.md): uses the concept in car surveillance
 
 ## Source
 

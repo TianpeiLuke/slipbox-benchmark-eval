@@ -13,11 +13,20 @@ What differs is the volume of complaint and the resulting user behavior. Allegat
 
 ## Related Notes
 
+
 - [Digital Services Act](digital_services_act.md): shares the terms-of-service and user-content themes, from a different document.
 - [Discord's Graduated Warning System And Account Standing](discord_graduated_warning_system_and_account_standing.md): also concerns platform Community Guidelines enforcement, from a different document.
 - [Instagram Palestine Suppression](instagram_palestine_suppression.md): covers the shadowbanning allegations named here, from a different document.
 - [Meta Moderation Bias](meta_moderation_bias.md): covers the same shadowbanning claims against Meta, from a different document.
 - [Meta's EU Pay-Or-Consent Ad-Free Subscription](meta_pay_or_consent_subscription_model_eu.md): overlaps on Meta's treatment of Facebook and Instagram users, from a different document.
+- [The Gaza Conflict's Information Environment, Late 2023](gaza_conflict_information_environment_late_2023.md): same source document (doc_0124)
+- [Gaza's Internet Blackout And Connectivity](gaza_internet_blackout_and_connectivity.md): same source document (doc_0124)
+- [Mapping Platforms Disabled Live Features In Israel And Gaza](mapping_platforms_disable_live_features_israel_gaza.md): same source document (doc_0124)
+- [Snap's Decision To Keep The Gaza Heat Map Live](snap_decision_to_keep_gaza_heat_map_live.md): same source document (doc_0124)
+- [Snap Map's History As A Civic Documentation Tool](snap_map_as_civic_documentation_tool.md): same source document (doc_0124)
+- [Shadowbanning](term_shadowbanning.md): uses the concept shadowbanning
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Terms of Service](term_terms_of_service.md): uses the concept terms of service
 
 ## Source
 

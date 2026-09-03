@@ -13,6 +13,7 @@ The context around the order underlines how much of the activity was executive r
 
 ## Related Notes
 
+
 - [Biden AI Executive Order](biden_ai_executive_order.md): the order this objection is aimed at, from a different source document.
 - [ChatGPT's Mid-2023 Usage Decline](chatgpt_mid_2023_usage_decline.md): shares a Capitol Hill reference, from a different source document.
 - [Schumer AI Insight Forum On Copyright](schumer_ai_insight_forum_on_copyright.md): another Insight Forum convened by the Senate Majority Leader, from a different source document.
@@ -20,6 +21,10 @@ The context around the order underlines how much of the activity was executive r
 - [Sunak's Net Zero U-Turn, September 2023](sunak_net_zero_uturn_september_2023.md): also concerns Rishi Sunak's government, from a different source document.
 - [Civil Rights, Privacy And Consumer Protections In The AI Executive Order](ai_civil_rights_and_consumer_protections_in_the_eo.md): drawn from the same source document (doc_0313).
 - [Critical Infrastructure And CBRN Provisions Of The AI Executive Order](ai_threats_to_critical_infrastructure_provisions.md): drawn from the same source document (doc_0313).
+- [Worker Protections And Federal AI Hiring In The Executive Order](ai_worker_protections_and_federal_ai_hiring.md): same source document (doc_0313)
+- [The Biden AI Executive Order Of October 2023](biden_ai_executive_order_october_2023.md): same source document (doc_0313)
+- [Federal AI Watermarking And Content Provenance](federal_ai_watermarking_and_content_provenance.md): same source document (doc_0313)
+- [Executive Order](term_executive_order.md): uses the concept executive order
 
 ## Source
 

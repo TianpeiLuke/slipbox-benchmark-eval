@@ -13,6 +13,7 @@ A fourth condition appears on the regulatory side rather than in the study: the 
 
 ## Related Notes
 
+
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): also concerns Cleveland Clinic, from a different source document.
 - [Bhavik Patel Appointed Mayo Clinic Arizona Chief AI Officer](bhavik_patel_appointed_mayo_clinic_arizona_chief_ai_officer.md): also concerns Mayo Clinic, from a different source document.
 - [Doubts about AI Alliance Effectiveness](doubts_about_ai_alliance_effectiveness.md): also concerns Cleveland Clinic, from a different source document.
@@ -21,6 +22,8 @@ A fourth condition appears on the regulatory side rather than in the study: the 
 - [Cardiovascular Benefits Outweigh GLP-1 GI Risks](cardiovascular_benefits_outweigh_glp1_gi_risks.md): drawn from the same source document (doc_0066).
 - [Case for Adding Gastroparesis to GLP-1 Warning Labels](case_for_adding_gastroparesis_to_glp1_warning_labels.md): drawn from the same source document (doc_0066).
 - [GLP-1 Receptor Agonists Drug Class and US Usage Scale](glp1_receptor_agonists_drug_class_and_us_usage_scale.md): drawn from the same source document (doc_0066).
+- [Individualized Benefit-Risk Assessment For GLP-1 Drugs](individualized_glp1_benefit_risk_assessment.md): same source document (doc_0066)
+- [Limitations Of The UBC GLP-1 Claims Analysis](limitations_of_the_ubc_glp1_claims_analysis.md): same source document (doc_0066)
 
 ## Source
 

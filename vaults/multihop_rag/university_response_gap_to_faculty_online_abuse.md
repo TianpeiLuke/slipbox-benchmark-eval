@@ -13,11 +13,18 @@ The warrant is that the job now requires the exposure that produces the risk. Ac
 
 ## Related Notes
 
+
 - [College Football Week 6 2023 Remaining Betting Lines](college_football_week6_2023_remaining_betting_lines.md): also mentions Virginia Tech, from a different source document.
 - [December 2023 Bowl Game Schedule and Matchups](december_2023_bowl_game_schedule_and_matchups.md): also mentions Virginia Tech, from a different source document.
 - [Campus Stalking Research on Students and Faculty](campus_stalking_of_students_and_faculty_research.md): the research this argument builds on (doc_0136).
 - [Catherine Tan's Public Disclosure and Law Enforcement Gaps](catherine_tan_public_disclosure_and_law_enforcement_gaps.md): what targets do when institutions cannot help (doc_0136).
 - [The Cyberstalker's Twitter Campaign Against Asian Academics](cyberstalker_twitter_campaign_against_asian_academics.md): the abuse the institutions were slow to see (doc_0136).
+- [Documenting Cyberstalking As Unpaid Labor](documenting_cyberstalking_as_unpaid_labor.md): same source document (doc_0136)
+- [False Title IX Complaints To Vassar And George Mason](false_title_ix_complaints_to_vassar_and_george_mason.md): same source document (doc_0136)
+- [Rate My Professors Harassment Of Janani Umamaheswar](rate_my_professors_harassment_of_janani_umamaheswar.md): same source document (doc_0136)
+- [Title IX Weaponized Against Faculty](title_ix_weaponized_against_faculty.md): same source document (doc_0136)
+- [Multi-Factor Authentication (MFA)](term_multi_factor_authentication.md): uses the concept multi factor authentication
+- [Recommendation Algorithm](term_recommendation_algorithm.md): uses the concept recommendation algorithm
 
 ## Source
 

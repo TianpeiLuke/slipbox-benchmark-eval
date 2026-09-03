@@ -11,6 +11,7 @@ The warrant he supplies is the obligation the system places on importers: "If Ap
 
 ## Related Notes
 
+
 - [A Patent Redesign Must Be More Than A Colorable Difference](a_patent_redesign_must_be_more_than_a_colorable_difference.md): drawn from the same source document (doc_0241).
 - [AliveCor's EKG Import Ban And The PTAB Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): drawn from the same source document (doc_0241).
 - [Apple's Appeal And Stay Prospects On The Watch Ban](apple_appeal_and_stay_prospects_on_the_watch_ban.md): drawn from the same source document (doc_0241).
@@ -19,6 +20,8 @@ The warrant he supplies is the obligation the system places on importers: "If Ap
 - [Apple Watch SE And Reseller Inventory Remain Available](apple_watch_se_and_reseller_inventory_remain_available.md): drawn from the same source document (doc_0241).
 - [Disabling The SpO2 Sensor As An Import Ban Workaround](disabling_the_spo2_sensor_as_an_import_ban_workaround.md): drawn from the same source document (doc_0241).
 - [Licensing Or US Manufacturing As Apple's Exit Routes](licensing_or_us_manufacturing_as_apple_exit_routes.md): drawn from the same source document (doc_0241).
+- [A Presidential Veto Of An ITC Import Ban Is Extraordinarily Rare](presidential_veto_of_an_itc_import_ban_is_extraordinarily_rare.md): same source document (doc_0241)
+- [SpO2 Sensors Are Not Essential To The Apple Watch](spo2_sensors_are_not_essential_to_the_apple_watch.md): same source document (doc_0241)
 
 ## Source
 

@@ -13,11 +13,19 @@ Before the withdrawal, Harbaugh held his usual weekly news conference on Monday 
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): another Big Ten item from a different document.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also covers the Big Ten and Ohio State, separately sourced.
 - [Alabama-Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): another item involving Ohio State, from a different source.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): the conference pressure that produced the sanction accepted here, reported elsewhere.
 - [Big Ten Commissioner Petitti's Punishment Dilemma](big_ten_commissioner_petitti_punishment_dilemma.md): the decision this settlement finalizes, in a different document.
+- [The Big Ten's Deliberation Over Harbaugh's Punishment](big_ten_deliberation_over_harbaugh_punishment.md): same source document (doc_0180)
+- [The Big Ten's Head-Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): same source document (doc_0180)
+- [The Big Ten Suspends Jim Harbaugh For Three Games](big_ten_suspension_of_jim_harbaugh.md): same source document (doc_0180)
+- [Chris Partridge's Firing And The Evidence-Destruction Allegation](chris_partridge_firing_and_evidence_destruction.md): same source document (doc_0180)
+- [Connor Stalions And The In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): same source document (doc_0180)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

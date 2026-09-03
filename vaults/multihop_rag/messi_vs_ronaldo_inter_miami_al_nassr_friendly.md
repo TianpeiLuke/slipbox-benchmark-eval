@@ -13,6 +13,7 @@ Sporting News noted on Nov. 30, 2023 that Messi and Ronaldo have squared off 35 
 
 ## Related Notes
 
+
 - [Anthony Joshua's Mental Rebuild After Usyk and Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): also discusses Saudi Arabia, from a different document.
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): also discusses Lionel Messi, from a different document.
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also discusses Saudi Arabia, from a different document.
@@ -21,6 +22,8 @@ Sporting News noted on Nov. 30, 2023 that Messi and Ronaldo have squared off 35 
 - [Cancelled China Tour and the NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): the trip this Saudi double-header sits alongside, from the same document.
 - [Inter Miami's 2024 Preseason Fixture List](inter_miami_2024_preseason_fixture_list.md): the full schedule this headlines, from the same document.
 - [Inter Miami's Friendly Against El Salvador](inter_miami_friendly_against_el_salvador.md): another confirmed preseason fixture, from the same document.
+- [Inter Miami's Hong Kong Leg Of The Asia Tour](inter_miami_hong_kong_leg_of_asia_tour.md): same source document (doc_0535)
+- [Inter Miami vs Vissel Kobe In Tokyo](inter_miami_vs_vissel_kobe_in_tokyo.md): same source document (doc_0535)
 
 ## Source
 

@@ -11,6 +11,7 @@ The newsletter attaches a caution to the whole exercise: you should be careful a
 
 ## Related Notes
 
+
 - [In God We Trust On US Currency And In The Courts](in_god_we_trust_on_us_currency_and_courts.md): shares a money-and-mint wordplay overlap, from a different source document.
 - [Installer Reader Game And App Picks](installer_reader_game_and_app_picks.md): drawn from the same source document (doc_0607).
 - [Installer Reader Podcast And TV Picks](installer_reader_podcast_and_tv_picks.md): drawn from the same source document (doc_0607).
@@ -19,6 +20,7 @@ The newsletter attaches a caution to the whole exercise: you should be careful a
 - [Kevin Nguyen's Non-Writing iPhone Apps](kevin_nguyen_non_writing_iphone_apps.md): drawn from the same source document (doc_0607).
 - [Spreadsheets And DIY Money Tracking Systems](spreadsheet_and_diy_money_tracking_systems.md): drawn from the same source document (doc_0607).
 - [Tumblr's Uncertain Future](tumblr_uncertain_future.md): drawn from the same source document (doc_0607).
+- [YNAB And Copilot, The Two Go-To Budgeting Apps](ynab_and_copilot_budgeting_apps.md): same source document (doc_0607)
 
 ## Source
 

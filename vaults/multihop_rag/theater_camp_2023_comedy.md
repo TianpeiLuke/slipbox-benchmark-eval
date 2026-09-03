@@ -13,6 +13,7 @@ Critic AG writes that what the film understands best about its subjects is that 
 
 ## Related Notes
 
+
 - [Bill Kenwright's Coronation Street Acting Career](bill_kenwright_coronation_street_acting_career.md): incidental name overlap from an unrelated source document
 - [Theatrical Exhibition Innovation During Industry Disruption](theatrical_exhibition_innovation_during_industry_disruption.md): overlapping theater vocabulary from a different article
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 list
@@ -21,6 +22,8 @@ Critic AG writes that what the film understands best about its subjects is that 
 - [Barbenheimer Summer 2023 Phenomenon](barbenheimer_summer_2023_phenomenon.md): the year-in-review framing published with this list
 - [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): another entry from the same ranked list
 - [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): a fellow pick in the same article
+- [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): same source document (doc_0094)
+- [Creed III (Michael B. Jordan)](creed_iii_michael_b_jordan.md): same source document (doc_0094)
 
 ## Source
 

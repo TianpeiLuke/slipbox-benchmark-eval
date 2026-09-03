@@ -13,6 +13,7 @@ An executive offered the counterweight, arguing the Chiefs win anyway because of
 
 ## Related Notes
 
+
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): also concerns Kansas City and Patrick Mahomes, from a different document.
 - [Chiefs Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): also concerns Chris Jones and Kansas City, from a different document.
 - [Chiefs Jets Pregame Notes: Taylor Swift and Rodgers](chiefs_jets_pregame_notes_taylor_swift_and_rodgers.md): also concerns Patrick Mahomes, from a different document.
@@ -21,6 +22,8 @@ An executive offered the counterweight, arguing the Chiefs win anyway because of
 - [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): drawn from the same document (doc_0316).
 - [Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): drawn from the same document (doc_0316).
 - [Buffalo Bills Defensive Injuries, 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): drawn from the same document (doc_0316).
+- [Cincinnati Bengals: Joe Burrow's Durability And The Line](cincinnati_bengals_joe_burrow_durability_and_line.md): same source document (doc_0316)
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
 
 ## Source
 

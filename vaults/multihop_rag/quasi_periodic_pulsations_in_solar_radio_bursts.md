@@ -11,6 +11,7 @@ For more than a decade, scientists had pondered the origins of these heartbeat-l
 
 ## Related Notes
 
+
 - [Open Questions on SST Patterns and Earth's Radiation Budget](open_questions_on_sst_patterns_and_earths_radiation_budget.md): another problem defined by unexplained patterns in radiation measurements.
 - [Ancient Superflares as a Spark for Life on Earth](ancient_superflares_as_spark_for_life_on_earth.md): from the same year-in-review article on the sun.
 - [Coronal Rain: The Sun's Shooting Stars](coronal_rain_solar_shooting_stars.md): from the same article, on another structure formed by the sun's magnetic fields.
@@ -19,6 +20,8 @@ For more than a decade, scientists had pondered the origins of these heartbeat-l
 - [Solar Auroras Above Sunspots](solar_auroras_above_sunspots.md): from the same article, on another radio-telescope finding about the sun.
 - [Downward Revision of the Solar Corona's Size](solar_corona_size_downward_revision.md): from the same year-in-review article on the sun.
 - [Solar Cycle Maximum Forecast Revision](solar_cycle_25_maximum_forecast_revision.md): from the same article, on the flare activity that produces these bursts.
+- [Solar Neutrinos as a Probe for Dark Matter](solar_neutrinos_as_probe_for_dark_matter.md): same source document (doc_0325)
+- [Solar Picojets and the Origin of the Solar Wind](solar_picojets_and_the_origin_of_solar_wind.md): same source document (doc_0325)
 
 ## Source
 

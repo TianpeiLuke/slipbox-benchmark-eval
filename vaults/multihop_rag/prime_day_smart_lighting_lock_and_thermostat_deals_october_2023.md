@@ -13,11 +13,19 @@ Outdoors and elsewhere, the Rachio Smart Sprinkler Controller was $116, down fro
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the discount-and-MSRP hardware listing format, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares the smart-home discount listing theme, from a different source document.
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): also an Amazon deal listing, from a different source document.
 - [Apple AirPods Pro Second Generation](apple_airpods_pro_second_generation.md): also an Amazon deal listing, from a different source document.
 - [Apple MacBook Air 15-Inch M2](apple_macbook_air_15_inch_m2.md): also an Amazon deal listing, from a different source document.
+- [Echo Fourth-Gen Smart Speaker Prime Day Deal](echo_fourth_gen_smart_speaker_prime_day_deal.md): same source document (doc_0205)
+- [October 2023 Prime Big Deal Days: Smart Home Overview](october_2023_prime_big_deal_days_smart_home_overview.md): same source document (doc_0205)
+- [Prime Day Robot Vacuum Deals, October 2023](prime_day_robot_vacuum_deals_october_2023.md): same source document (doc_0205)
+- [Prime Day Security Camera And Doorbell Deals, October 2023](prime_day_security_camera_and_doorbell_deals_october_2023.md): same source document (doc_0205)
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

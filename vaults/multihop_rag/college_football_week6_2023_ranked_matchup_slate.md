@@ -13,11 +13,18 @@ The framing is the season stage: an eventful first month was in the rearview mir
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): covers the same programs — Louisville, Oklahoma, Georgia — at the end of the season, from a different document.
 - [Alabama's 2023 CFP Case And The SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): also concerns the College Football Playoff race this slate feeds, from a different document.
 - [Alabama's CFP-Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also concerns College Football Playoff positioning, from a different document.
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): also concerns College Football Playoff implications, from a different document.
 - [CFP Committee's Florida State "Different Team" Justification](cfp_committee_florida_state_different_team_justification.md): also concerns College Football Playoff selection, from a different document.
+- [Alabama At Texas A&M: The 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): same source document (doc_0259)
+- [The Remaining College Football Week 6 2023 Betting Lines](college_football_week6_2023_remaining_betting_lines.md): same source document (doc_0259)
+- [Kentucky At Georgia: The 2023 Week 6 Betting Line](kentucky_at_georgia_2023_week6_betting_line.md): same source document (doc_0259)
+- [LSU At Missouri: The 2023 Week 6 Betting Line](lsu_at_missouri_2023_week6_betting_line.md): same source document (doc_0259)
+- [Notre Dame At Louisville: The 2023 Week 6 Betting Line](notre_dame_at_louisville_2023_week6_betting_line.md): same source document (doc_0259)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

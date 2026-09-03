@@ -11,6 +11,7 @@ Nor was it on his agenda as a boy, when his mother banned him from playing in th
 
 ## Related Notes
 
+
 - [Arsenal-Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Stamford Bridge, from a different source document.
 - [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md): also discusses Stamford Bridge, from a different source document.
 - [Chelsea 4-4 Manchester City at Stamford Bridge](chelsea_4_4_manchester_city_stamford_bridge.md): also discusses Stamford Bridge, from a different source document.
@@ -19,6 +20,7 @@ Nor was it on his agenda as a boy, when his mother banned him from playing in th
 - [Cole Palmer's £42.5m Transfer and Chelsea's Squad Turnover](cole_palmer_42_5m_transfer_and_chelsea_squad_turnover.md): same interview, on the move that opened this England route.
 - [Cole Palmer's Goal Against Manchester City in the 4-4 Draw](cole_palmer_goal_against_manchester_city_4_4_draw.md): same interview, on the big-match temperament raised alongside his England prospects.
 - [Cole Palmer's Move to Chelsea and Settling in London](cole_palmer_move_to_chelsea_and_settling_in_london.md): same interview, on his adjustment after the move.
+- [Cole Palmer's Penalty-Taking Role And Record](cole_palmer_penalty_taking_role_and_record.md): same source document (doc_0445)
 
 ## Source
 

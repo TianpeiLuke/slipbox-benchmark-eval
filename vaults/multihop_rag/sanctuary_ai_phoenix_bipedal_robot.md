@@ -11,6 +11,7 @@ Those are early steps toward what CEO Geordie Rose sees as a much longer-term go
 
 ## Related Notes
 
+
 - [Amazon-Agility Digit Humanoid Pilot](amazon_agility_digit_humanoid_pilot.md): overlapping coverage of bipedal humanoid robots, from a different source document.
 - [Amazon's Interest In Bipedal Locomotion](amazon_interest_in_bipedal_locomotion.md): overlapping coverage of bipedal robots and their function, from a different source document.
 - [Boston Dynamics' View On The Humanoid Form Factor](boston_dynamics_view_on_humanoid_form_factor.md): overlapping coverage of humanoids operating in the world, from a different source document.
@@ -19,6 +20,8 @@ Those are early steps toward what CEO Geordie Rose sees as a much longer-term go
 - [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): drawn from the same source document (doc_0421).
 - [Amazon's Testing Of Digit In Warehouses](amazon_testing_of_digit_in_warehouses.md): drawn from the same source document (doc_0421).
 - [Boston Dynamics' Humanoid Research Yielding A Non-Humanoid Robot](boston_dynamics_humanoid_research_yielding_non_humanoid_robot.md): drawn from the same source document (doc_0421).
+- [Dexterity And World Understanding As The Hardest Robotics Problem](dexterity_and_world_understanding_as_hardest_robotics_problem.md): same source document (doc_0421)
+- [Figure AI's Purist Humanoid Market Thesis](figure_ai_purist_humanoid_market_thesis.md): same source document (doc_0421)
 
 ## Source
 

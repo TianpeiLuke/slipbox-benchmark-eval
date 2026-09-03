@@ -11,6 +11,7 @@ Wild cranberries are native to North America and were an important food source f
 
 ## Related Notes
 
+
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): shares North America as a geographic subject.
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): shares North America as a geographic subject.
 - [American Cranberry Native Range and Harvest Window](american_cranberry_native_range_and_harvest_window.md): another account of where cranberries are native and grown.
@@ -19,6 +20,8 @@ Wild cranberries are native to North America and were an important food source f
 - [Cranberry Air Pockets and Seed Dispersal](cranberry_air_pockets_and_seed_dispersal.md): from the same article, on the biology behind bog harvesting.
 - [Cranberry Flower and Pollination Biology](cranberry_flower_and_pollination_biology.md): from the same article, on how the crop reproduces.
 - [The Cranberry Genome and Molecular Breeding](cranberry_genome_and_molecular_breeding.md): from the same article, on what genetics reveals about this young crop.
+- [Whole Genome Duplication and Bottlenecks in Cranberry](whole_genome_duplication_and_bottlenecks_in_cranberry.md): same source document (doc_0131)
+- [Why Cranberries Belong to Thanksgiving](why_cranberries_belong_to_thanksgiving.md): same source document (doc_0131)
 
 ## Source
 

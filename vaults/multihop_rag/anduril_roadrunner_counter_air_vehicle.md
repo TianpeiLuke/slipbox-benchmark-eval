@@ -11,6 +11,7 @@ Dubbed Roadrunner, it is a modular, twin-jet-powered autonomous vertical take-of
 
 ## Related Notes
 
+
 - [Flexport Board Composition](flexport_board_composition.md): overlapping coverage of Anduril and its founder, from a different source document.
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
 - [Battery Swapping Ecosystem And Unit Economics Challenges](battery_swapping_ecosystem_and_unit_economics_challenges.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
@@ -19,6 +20,8 @@ Dubbed Roadrunner, it is a modular, twin-jet-powered autonomous vertical take-of
 - [David Pakman CoinFund Venture Background](david_pakman_coinfund_venture_background.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
 - [DICOM Medical Imaging Server Exposure](dicom_medical_imaging_server_exposure.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
 - [Google Black Summit Offensive Notebook Incident](google_black_summit_offensive_notebook_incident.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
+- [Google's Gemini Model Family And Its Capability Claims](google_gemini_model_family_and_capability_claims.md): same source document (doc_0334)
+- [The Grand Theft Auto VI Trailer's YouTube Record](grand_theft_auto_vi_trailer_youtube_record.md): same source document (doc_0334)
 
 ## Source
 

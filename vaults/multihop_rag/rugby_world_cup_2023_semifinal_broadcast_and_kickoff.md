@@ -13,11 +13,19 @@ For scale, video content from the Rugby World Cup and organisers World Rugby dre
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): also concerns South Africa.
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also concerns South Africa.
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): another territory-by-territory rights listing covering Malaysia, Singapore and Hong Kong.
 - [Argentina vs Paraguay 2026 World Cup Qualifier Preview](argentina_vs_paraguay_2026_world_cup_qualifier_preview.md): another kickoff-times-around-the-world listing.
 - [Australia Davis Cup Semi Final Win Over Finland](australia_davis_cup_semi_final_win_over_finland.md): shares the streaming-service and World Cup themes.
+- [How England And South Africa Reached The 2023 Semi-Final](england_south_africa_2023_semifinal_routes.md): same source document (doc_0167)
+- [England And South Africa Meet Again, Four Years After The 2019 Final](england_south_africa_rugby_world_cup_rivalry_and_2019_final.md): same source document (doc_0167)
+- [Why The Springboks Were Predicted To Beat England At The Stade De France](england_south_africa_semifinal_prediction_and_form.md): same source document (doc_0167)
+- [Steve Borthwick's Three Changes To England's XV For The Semi-Final](england_starting_xv_changes_for_2023_semifinal.md): same source document (doc_0167)
+- [South Africa Named An Unchanged XV After The France Quarter-Final](south_africa_springboks_unchanged_xv_for_semifinal.md): same source document (doc_0167)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

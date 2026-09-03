@@ -13,6 +13,7 @@ A second strand of the argument is that Watts made the headline-grabbing plays b
 
 ## Related Notes
 
+
 - [College Football Week 6 2023 Ranked Matchup Slate](college_football_week6_2023_ranked_matchup_slate.md): another Notre Dame item, from a different source document
 - [DraftKings NFL DFS Contest Format and Scoring](draftkings_nfl_dfs_contest_format_and_scoring.md): overlaps on passing, yards and interceptions vocabulary, from a different source document
 - [Mock Draft 2024 Round 1 Offensive Tackles](mock_draft_2024_round_1_offensive_tackles.md): another document discussing Notre Dame
@@ -21,6 +22,8 @@ A second strand of the argument is that Watts made the headline-grabbing plays b
 - [Notre Dame USC 2023 First Quarter](notre_dame_usc_2023_first_quarter.md): the drive-level record behind these totals, same source document
 - [Notre Dame USC 2023 Fourth Quarter](notre_dame_usc_2023_fourth_quarter.md): the closing quarter of the same game, same source document
 - [Notre Dame USC 2023 Second Quarter](notre_dame_usc_2023_second_quarter.md): the quarter in which the turnover margin widened, same source document
+- [Notre Dame's Third Quarter Against USC, Oct. 14 2023](notre_dame_usc_2023_third_quarter.md): same source document (doc_0378)
+- [USC vs. Notre Dame 2023: Broadcast And Venue Details](usc_notre_dame_2023_broadcast_and_venue.md): same source document (doc_0378)
 
 ## Source
 

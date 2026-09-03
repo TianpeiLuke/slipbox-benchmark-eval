@@ -13,6 +13,7 @@ The relation between votes and rank held only as long as links were scarce and o
 
 ## Related Notes
 
+
 - [Google Local Search Ranking Factors](google_local_search_ranking_factors.md): also concerns how Google ranks sites, from a different source document.
 - [Google's Rebuttal To The Publisher Antitrust Suit](google_rebuttal_to_publisher_antitrust_suit.md): also concerns Google's relationship with the websites it links to, from a different source document.
 - [iPhone Setup And The Absence Of A Search Engine Choice Screen](iphone_setup_and_the_absence_of_a_search_engine_choice_screen.md): also concerns competition among search engines, from a different source document.
@@ -21,6 +22,8 @@ The relation between votes and rank held only as long as links were scarce and o
 - [AI-Generated Content Will Overwhelm Search](ai_generated_content_will_overwhelm_search_prediction.md): drawn from the same source document (doc_0115).
 - [Mass-Generated AI SEO Spam And Churn And Burn](ai_mass_generated_seo_spam_churn_and_burn.md): drawn from the same source document (doc_0115).
 - [The Blurred Line Between SEO And Spam](blurred_line_between_seo_and_spam.md): drawn from the same source document (doc_0115).
+- [Cade Lee, From Black Hat SEO To Construction](cade_lee_from_black_hat_seo_to_construction.md): same source document (doc_0115)
+- [Danny Sullivan, From Journalist To Google Liaison](danny_sullivan_from_journalist_to_google_liaison.md): same source document (doc_0115)
 
 ## Source
 

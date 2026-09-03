@@ -13,6 +13,7 @@ Creator Ryan Murphy builds an overwhelming, inescapable sense of dread. All AHS 
 
 ## Related Notes
 
+
 - [Dungeons & Dragons 2023 Play Experiences](dungeons_and_dragons_2023_play_experiences.md): another write-up by the same critic, Petrana Radulovic, from a different source document
 - [The Hunger Games: The Ballad of Songbirds & Snakes](the_hunger_games_ballad_of_songbirds_and_snakes.md): shares the same bylined critic across documents
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
@@ -21,6 +22,8 @@ Creator Ryan Murphy builds an overwhelming, inescapable sense of dread. All AHS 
 - [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): a fellow entry in the same article
 - [Curve (Tim Egan Horror Short)](curve_tim_egan_horror_short.md): another countdown pick from the same document
 - [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): another cult-horror recommendation in the same countdown
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0165)
+- [Ginger Snaps (Werewolf Body Horror)](ginger_snaps_werewolf_body_horror.md): same source document (doc_0165)
 
 ## Source
 

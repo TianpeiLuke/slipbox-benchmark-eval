@@ -11,6 +11,7 @@ The mechanism is energy management: by absorbing and dissipating energy, crumple
 
 ## Related Notes
 
+
 - [Tesla Cybertruck Launch And First Deliveries](tesla_cybertruck_launch_and_first_deliveries.md): overlapping coverage of the Tesla truck as a vehicle, from a different source document.
 - [The Cybertruck's Danger Is A Large-Truck Problem](cybertruck_danger_is_a_large_truck_problem.md): drawn from the same source document (doc_0548).
 - [The Cybertruck May Have An Unseen Shock-Absorbing Mechanism](cybertruck_may_have_an_unseen_shock_absorbing_mechanism.md): drawn from the same source document (doc_0548).
@@ -19,6 +20,8 @@ The mechanism is energy management: by absorbing and dissipating energy, crumple
 - [Cybertruck Visibility, Mirrors And Steer-By-Wire Design Choices](cybertruck_visibility_mirrors_and_steer_by_wire_design_choices.md): drawn from the same source document (doc_0548).
 - [The IIHS Finding That Tall, Blunt Front Ends Raise Pedestrian Risk](iihs_finding_that_tall_blunt_front_ends_raise_pedestrian_risk.md): drawn from the same source document (doc_0548).
 - [Musk And Tesla's Safety Rating Record Claims](musk_and_tesla_safety_rating_record_claims.md): drawn from the same source document (doc_0548).
+- [Safety Experts Are Awaiting Independent Cybertruck Crash Data](safety_experts_awaiting_independent_cybertruck_crash_data.md): same source document (doc_0548)
+- [The US Pedestrian Death Crisis And Truck Dimensions](us_pedestrian_death_crisis_and_truck_dimensions.md): same source document (doc_0548)
 
 ## Source
 

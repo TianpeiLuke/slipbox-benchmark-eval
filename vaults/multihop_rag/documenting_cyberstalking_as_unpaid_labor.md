@@ -13,9 +13,17 @@ The burden of proof and of pre-emptive disclosure falls on the targets. When Sin
 
 ## Related Notes
 
+
 - [Peter Kalmus: Profile and Radical Turn](peter_kalmus_profile_and_radical_turn.md): shares themes of personal risk taken on outside paid work, from a different source document.
 - [Campus Stalking Research on Students and Faculty](campus_stalking_of_students_and_faculty_research.md): the research context for this burden (doc_0136).
 - [Catherine Tan's Public Disclosure and Law Enforcement Gaps](catherine_tan_public_disclosure_and_law_enforcement_gaps.md): the co-target who chose to publicise instead (doc_0136).
+- [The Cyberstalker's Twitter Campaign Against Asian Academics](cyberstalker_twitter_campaign_against_asian_academics.md): same source document (doc_0136)
+- [False Title IX Complaints To Vassar And George Mason](false_title_ix_complaints_to_vassar_and_george_mason.md): same source document (doc_0136)
+- [Rate My Professors Harassment Of Janani Umamaheswar](rate_my_professors_harassment_of_janani_umamaheswar.md): same source document (doc_0136)
+- [Title IX Weaponized Against Faculty](title_ix_weaponized_against_faculty.md): same source document (doc_0136)
+- [The University Response Gap To Faculty Online Abuse](university_response_gap_to_faculty_online_abuse.md): same source document (doc_0136)
+- [Bail](term_bail.md): uses the concept bail
+- [Space Mission](term_space_mission.md): uses the concept space mission
 
 ## Source
 

@@ -11,6 +11,7 @@ The grounds are team-leading volume and independent grading: he led the team in 
 
 ## Related Notes
 
+
 - [Bills Chargers Week 16 Pick And Rationale](bills_chargers_week_16_pick_and_rationale.md): also concerns the Chargers, from a different document.
 - [Bills Chargers Week 16 Player Props](bills_chargers_week_16_player_props.md): overlaps on receiving-reception props, from a different document.
 - [Buccaneers 21-18 Panthers Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): overlaps on receiving production terms, from a different document.
@@ -19,6 +20,8 @@ The grounds are team-leading volume and independent grading: he led the team in 
 - [AFC Midseason Team MVP Roundup Premise](afc_midseason_team_mvp_roundup_premise.md): the premise framing this entry, from the same document.
 - [CJ Stroud Texans Midseason MVP](cj_stroud_texans_midseason_mvp.md): another entry in the same list, from the same document.
 - [Jabrill Peppers Patriots Midseason MVP](jabrill_peppers_patriots_midseason_mvp.md): another entry in the same list, from the same document.
+- [Jeffery Simmons Titans Midseason MVP](jeffery_simmons_titans_midseason_mvp.md): same source document (doc_0515)
+- [Joe Burrow Bengals Midseason MVP](joe_burrow_bengals_midseason_mvp.md): same source document (doc_0515)
 
 ## Source
 

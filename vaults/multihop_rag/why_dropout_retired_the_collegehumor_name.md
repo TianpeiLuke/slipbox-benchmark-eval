@@ -11,6 +11,7 @@ Brennan Lee Mulligan's supporting argument is about the audience the message is 
 
 ## Related Notes
 
+
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): shares a topic tag with this note across the corpus, from a different source
 - [Apple AirPods Pro Second Generation](apple_airpods_pro_second_generation.md): shares a topic tag with this note across the corpus, from a different source
 - [Apple Watch Double Tap Gesture](apple_watch_double_tap_gesture.md): shares a topic tag with this note across the corpus, from a different source
@@ -19,6 +20,16 @@ Brennan Lee Mulligan's supporting argument is about the audience the message is 
 - [Atlassian Critical Security Flaw Warning](atlassian_critical_security_flaw_warning.md): shares a topic tag with this note across the corpus, from a different source
 - [Balderton Investment Thesis On Scalable Capital](balderton_investment_thesis_on_scalable_capital.md): shares a topic tag with this note across the corpus, from a different source
 - [Beeper Mini Service Restoration And Apple ID Workaround](beeper_mini_service_restoration_and_apple_id_workaround.md): shares a topic tag with this note across the corpus, from a different source
+- [CollegeHumor's IAC Layoffs And Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): same source document (doc_0586)
+- [Digital Creator "Jail" And Why Anthology Formats Are The Escape](digital_creator_jail_and_anthology_formats.md): same source document (doc_0586)
+- [Burrow's End: Dimension 20's Stoat Season And The Specificity Rule](dimension_20_burrows_end_stoat_season.md): same source document (doc_0586)
+- [Easter Eggs In Dropout's Anniversary Video](dropout_anniversary_video_easter_eggs.md): same source document (doc_0586)
+- [Dropout's Fifth Anniversary Announcement: CollegeHumor Is No More](dropout_fifth_anniversary_name_change_announcement.md): same source document (doc_0586)
+- [Dropout's Place In Improv History And Wayne Brady's Verdict](dropout_improv_shows_and_wayne_brady_endorsement.md): same source document (doc_0586)
+- [The Early Gigs Reich And Mulligan Came Up Through](reich_and_mulligan_early_performing_gigs.md): same source document (doc_0586)
+- [Sam Reich's Advice To Creators: Find A Better Business Model](sam_reich_advice_on_off_platform_business_models.md): same source document (doc_0586)
+- [Very Important People: A Reboot Of CollegeHumor's Hello My Name Is](very_important_people_dropout_show.md): same source document (doc_0586)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

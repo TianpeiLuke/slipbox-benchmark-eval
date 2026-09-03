@@ -11,11 +11,17 @@ The reporting separates the trigger from the cause. Dungeons & Dragons' OGL fias
 
 ## Related Notes
 
+
 - [City Of Winter](city_of_winter_ttrpg.md): same source; one of the narrative games contributed to this list.
 - [Dead After Dinner](dead_after_dinner_ttrpg.md): same source; another contributor pick from the same roundup.
 - [Dungeons & Dragons In 2023](dungeons_and_dragons_2023_play_experiences.md): same source; the game whose OGL fiasco this observation cites.
 - [Dungeon Crawl Classics](dungeon_crawl_classics_rpg.md): same source; another system recommended in the same list.
 - [Author Endorsements in Book Publishing](author_endorsements_in_book_publishing.md): overlaps in content on writers, readers, asked, from a different source document.
+- [Desperation](desperation_ttrpg_jason_morningstar.md): same source document (doc_0591)
+- [Eating Oranges In The Shower](eating_oranges_in_the_shower_larp.md): same source document (doc_0591)
+- [Exquisite Biome](exquisite_biome_worldbuilding_ttrpg.md): same source document (doc_0591)
+- [Fetch My Blade](fetch_my_blade_solo_journaling_rpg.md): same source document (doc_0591)
+- [Home](home_haunted_house_ttrpg.md): same source document (doc_0591)
 
 ## Source
 

@@ -11,6 +11,7 @@ AOG's own trajectory tracks the same period. By early 2020 the company was worth
 
 ## Related Notes
 
+
 - [Amazon Seller Skepticism of the FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): overlaps on covid 19 subject matter, from a different source document.
 - [Aoc Twitch Among US Stream](aoc_twitch_among_us_stream.md): overlaps on covid 19 subject matter, from a different source document.
 - [AOG Technics and the Falsification of Aviation Parts Records](aog_technics_falsified_parts_records.md): the company whose growth this environment enabled (doc_0506).
@@ -19,6 +20,11 @@ AOG's own trajectory tracks the same period. By early 2020 the company was worth
 - [Capitol Music Group Leadership Turmoil 2020 2021](capitol_music_group_leadership_turmoil_2020_2021.md): overlaps on covid 19 subject matter, from a different source document.
 - [Capitol Music Group Pre 2021 Decline Diagnosis](capitol_music_group_pre_2021_decline_diagnosis.md): overlaps on covid 19 subject matter, from a different source document.
 - [Caring Contacts Origin and May 2020 Launch](caring_contacts_origin_and_may_2020_launch.md): overlaps on covid 19 subject matter, from a different source document.
+- [How Counterfeit Jet Engine Parts Are Detected — And Why AOG's Were Hard To Catch](detecting_counterfeit_jet_engine_parts.md): same source document (doc_0506)
+- [Jose Zamora And The Founding Of AOG Technics](jose_zamora_and_the_founding_of_aog_technics.md): same source document (doc_0506)
+- [Partnair Flight 394 And The Counterfeit Bolts](partnair_flight_394_counterfeit_bolts.md): same source document (doc_0506)
+- [The Regulatory Gap Around Unapproved Aircraft Parts](unapproved_aircraft_parts_regulatory_gap.md): same source document (doc_0506)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

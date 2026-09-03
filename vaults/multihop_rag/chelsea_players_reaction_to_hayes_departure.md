@@ -13,11 +13,22 @@ On staff, Hayes' American assistant Denise Reddy, born in New Jersey, is likely 
 
 ## Related Notes
 
+
 - [Belgium-England Lineups And Referee, October 2023](belgium_england_lineups_and_referee_october_2023.md): also discusses Millie Bright, from a different document.
 - [Belgium-England Second Half And The Wullaert Penalty](belgium_england_second_half_and_wullaert_penalty.md): also discusses Millie Bright, from a different document.
 - [Alphabet Q3 2023 Earnings Preview](alphabet_q3_2023_earnings_preview.md): shares a reporting-and-results tagging theme rather than subject matter, from a different document.
 - [AI Legislation Gap](ai_legislation_gap.md): shares a reporting tagging theme rather than subject matter, from a different document.
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): shares a reporting tagging theme rather than subject matter, from a different document.
+- [The Benefits Of Hayes' Delayed USWNT Start](benefits_of_hayes_delayed_uswnt_start.md): same source document (doc_0108)
+- [Chelsea's Early Announcement Of Hayes' Departure](chelsea_early_announcement_of_hayes_departure.md): same source document (doc_0108)
+- [Chelsea Women's Team Succession After Hayes](chelsea_womens_team_succession_after_hayes.md): same source document (doc_0108)
+- [Emma Hayes Appointed USWNT Head Coach](emma_hayes_appointed_uswnt_head_coach.md): same source document (doc_0108)
+- [Emma Hayes As The Highest-Paid Women's Soccer Coach](emma_hayes_highest_paid_womens_soccer_coach.md): same source document (doc_0108)
+- [Hayes' Delayed Start And Her Chelsea Commitment](hayes_delayed_start_and_chelsea_commitment.md): same source document (doc_0108)
+- [Hayes' Reasons For Leaving Chelsea](hayes_reasons_for_leaving_chelsea.md): same source document (doc_0108)
+- [The USWNT Head Coach Search Process In 2023](uswnt_head_coach_search_process_2023.md): same source document (doc_0108)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

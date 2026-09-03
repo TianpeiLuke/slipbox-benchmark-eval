@@ -11,11 +11,18 @@ Dennis Kooker, Sony Music Entertainment's President of Global Digital Business &
 
 ## Related Notes
 
+
 - [Executive Order Limits Versus AI Legislation](executive_order_limits_versus_ai_legislation.md): also covers Schumer's Insight Forum and the legislative gap, from a different source document.
 - [Google Filing Versus Youtube Music Reassurances](google_filing_versus_youtube_music_reassurances.md): shares vocabulary around copyright, music and sony, from a different source document.
 - [Robot Labor Supply and Artificial General Intelligence Goal](robot_labor_supply_and_artificial_general_intelligence_goal.md): shares vocabulary around speech, artificial and intelligence, from a different source document.
 - [US-China Relations Deterioration and Thaw 2023](us_china_relations_deterioration_and_thaw_2023.md): another matter involving Senate Majority Leader Chuck Schumer, from a different source document.
 - [YouTube Dream Track Voice Cloning Experiment](youtube_dream_track_voice_cloning_experiment.md): also involves Sony Music Entertainment's AI posture, from a different source document.
+- [Anthropic's Fair Use Defense For AI Training](anthropic_fair_use_defense_for_ai_training.md): same source document (doc_0380)
+- [Ed Newton-Rex's Resignation From Stability AI](ed_newton_rex_resignation_stability_ai.md): same source document (doc_0380)
+- [Deepfakes And Unauthorized Voice Clones Harm Artists](generative_ai_deepfakes_harm_to_artists.md): same source document (doc_0380)
+- [Google's USCO Filing On AI Training And Fair Use](google_usco_filing_ai_training_fair_use.md): same source document (doc_0380)
+- [Kooker's Rebuttal Of The Tech Industry's "Distorted View Of Copyright"](kooker_on_tech_industry_distorted_copyright_view.md): same source document (doc_0380)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

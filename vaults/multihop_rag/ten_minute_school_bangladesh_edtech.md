@@ -11,11 +11,15 @@ What distinguishes 10MS is the breadth of what it delivers through a single smar
 
 ## Related Notes
 
+
 - [Ayman Sadiq And The Origin Of 10 Minute School](ayman_sadiq_ten_minute_school_origin.md): same source document; the founder story explaining how the YouTube channel became this company.
 - [Bangladesh K12 Education Access Gap](bangladesh_k12_education_access_gap.md): same source document; the inequality problem 10MS positions itself as solving.
 - [Shikho, A Bangladeshi Edtech Competitor](shikho_bangladesh_edtech_competitor.md): same source document; the rival whose earlier seed round 10MS's funding surpassed.
 - [DOH Versus DepEd Service Delivery Comparison](doh_versus_deped_service_delivery_comparison.md): overlaps in content on education and lecture delivery, from a different source document.
 - [QI Tech Series B, Brazil Banking-As-A-Service](qi_tech_series_b_brazil_banking_as_a_service.md): overlaps in content on startups raising millions in emerging markets, from a different source document.
+- [10 Minute School's Post-Round Investment Plans](ten_minute_school_growth_and_investment_plans.md): same source document (doc_0458)
+- [10 Minute School's Pre-Series A Investor Syndicate](ten_minute_school_pre_series_a_funding_round.md): same source document (doc_0458)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

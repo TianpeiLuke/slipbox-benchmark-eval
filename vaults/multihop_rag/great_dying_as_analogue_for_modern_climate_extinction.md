@@ -11,6 +11,7 @@ The ground for taking the analogy seriously is mechanistic: the mechanisms that 
 
 ## Related Notes
 
+
 - [Ferrari, Michael Mann's Film](ferrari_michael_mann_film.md): shares the name Michael Mann, though a different person.
 - [How Geomagnetic Storms Produce Auroras](how_geomagnetic_storms_produce_auroras.md): another planetary mechanism operating through Earth's atmosphere.
 - [The Cambrian Explosion and the Rise of Oxygen](cambrian_explosion_and_the_rise_of_oxygen.md): from the same excerpt, on the diversification that preceded this extinction.
@@ -19,6 +20,8 @@ The ground for taking the analogy seriously is mechanistic: the mechanisms that 
 - [The Ordovician Glaciation Mass Extinction](ordovician_glaciation_mass_extinction.md): from the same excerpt, on the first recognized mass extinction.
 - [Permian-Triassic Boundary Warming and Oxygen Collapse](permian_triassic_boundary_warming_and_oxygen_collapse.md): from the same excerpt, giving the mechanism of the Great Dying.
 - [The Permian-Triassic Extinction: Scale of Losses](permian_triassic_extinction_scale_of_losses.md): from the same excerpt, quantifying the event.
+- [Synapsids and Therapsids: Permian Dominance](synapsids_and_therapsids_permian_dominance.md): same source document (doc_0460)
+- [Vascular Plants, Weathering and the Paleozoic Oxygen Rise](vascular_plants_weathering_and_paleozoic_oxygen_rise.md): same source document (doc_0460)
 
 ## Source
 

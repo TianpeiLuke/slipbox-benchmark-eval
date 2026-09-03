@@ -13,11 +13,18 @@ The build-up produced its own scenes. At 6:30 p.m. Bedard was in the house for w
 
 ## Related Notes
 
+
 - [Connor Bedard Rookie Adjustment with the Blackhawks](connor_bedard_rookie_adjustment_with_the_blackhawks.md): also covers Bedard under Luke Richardson, different source document
 - [Connor Bedard Shooting Practice Habits](connor_bedard_shooting_practice_habits.md): another document covering Luke Richardson and Bedard's routine
 - [Connor Bedard Shot Mechanics Toe Drag Release](connor_bedard_shot_mechanics_toe_drag_release.md): also references Auston Matthews and Bedard, different source document
 - [Patriots Broncos Pregame Inactives and Lineups](patriots_broncos_pregame_inactives_and_lineups.md): another pregame-warmups log, different sport and source
 - [Scepticism About Bedard Shooting Style at NHL Level](scepticism_about_bedard_shooting_style_at_nhl_level.md): a sceptical view of the shot totals seen here, different source document
+- [Blackhawks vs. Penguins 2023: Broadcast Coverage](blackhawks_penguins_2023_broadcast_coverage.md): same source document (doc_0483)
+- [First Period: Bryan Rust Opens The Scoring](blackhawks_penguins_2023_first_period_rust_opener.md): same source document (doc_0483)
+- [Blackhawks And Penguins Opening Night Lineups, October 2023](blackhawks_penguins_2023_opening_night_lineups.md): same source document (doc_0483)
+- [Second Period: Bedard's First NHL Point](blackhawks_penguins_2023_second_period_bedard_first_point.md): same source document (doc_0483)
+- [Blackhawks vs. Penguins 2023: Start Time And Arena](blackhawks_penguins_2023_start_time_and_arena.md): same source document (doc_0483)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

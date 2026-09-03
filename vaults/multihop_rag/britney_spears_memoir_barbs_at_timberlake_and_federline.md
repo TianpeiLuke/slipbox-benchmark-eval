@@ -13,6 +13,7 @@ Almost as embarrassing, she writes, was husband Kevin Federline's attempt to sta
 
 ## Related Notes
 
+
 - [Britney Spears And Justin Timberlake Relationship](britney_spears_and_justin_timberlake_relationship.md): strong content overlap on Timberlake, 'NSync and music, from a different document
 - [Britney Spears Kevin Federline Marriage And Divorce](britney_spears_kevin_federline_marriage_and_divorce.md): covers Federline, the other target of these barbs, elsewhere in the corpus
 - [Britney Spears Sam Asghari Marriage And Divorce](britney_spears_sam_asghari_marriage_and_divorce.md): also discusses Federline, in another document
@@ -21,6 +22,8 @@ Almost as embarrassing, she writes, was husband Kevin Federline's attempt to sta
 - [Britney Spears Arrested Development Under Conservatorship](britney_spears_arrested_development_under_conservatorship.md): same Guardian memoir summary
 - [Britney Spears Conservatorship Restrictions And Swat Holds](britney_spears_conservatorship_restrictions_and_swat_holds.md): same source document
 - [Britney Spears Estrangement From Her Family](britney_spears_estrangement_from_her_family.md): same source document
+- [Britney Spears On Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): same source document (doc_0052)
+- [Britney Spears' Memoir On Early Fame And The Loss Of Freedom](britney_spears_memoir_early_fame_loss_of_freedom.md): same source document (doc_0052)
 
 ## Source
 

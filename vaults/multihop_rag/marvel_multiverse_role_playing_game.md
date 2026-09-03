@@ -11,11 +11,17 @@ The game is utterly devoted to giving players the feeling of playing a hero in t
 
 ## Related Notes
 
+
 - [Marvel's Relatable Superhero Formula](marvel_relatable_superhero_formula.md): covers the Marvel characters this system models, from a different source document.
 - [Spider-Man's Macy's Thanksgiving Parade Balloon](spider_man_macys_thanksgiving_parade_balloon.md): another treatment of Marvel's flagship hero, from a different source document.
 - [DC Extended Universe DCEU](dc_extended_universe_dceu.md): overlaps in content on marvel, universe, from a different source document.
 - [Mary Jane Missions Spider Man 2 Reception Improvement](mary_jane_missions_spider_man_2_reception_improvement.md): overlaps in content on marvel, villains, superhero, from a different source document.
 - [City Of Winter](city_of_winter_ttrpg.md): drawn from the same source document (doc_0591).
+- [Dead After Dinner](dead_after_dinner_ttrpg.md): same source document (doc_0591)
+- [Desperation](desperation_ttrpg_jason_morningstar.md): same source document (doc_0591)
+- [Dungeon Crawl Classics](dungeon_crawl_classics_rpg.md): same source document (doc_0591)
+- [Dungeons & Dragons In 2023](dungeons_and_dragons_2023_play_experiences.md): same source document (doc_0591)
+- [Eating Oranges In The Shower](eating_oranges_in_the_shower_larp.md): same source document (doc_0591)
 
 ## Source
 

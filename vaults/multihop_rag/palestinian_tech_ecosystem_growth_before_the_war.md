@@ -11,11 +11,17 @@ One of the main Palestinian VC funds, Ibtikar, had recently raised its second fu
 
 ## Related Notes
 
+
 - [Gaza Sky Geeks Accelerator](gaza_sky_geeks_accelerator.md): same source document; the training pipeline behind this growth.
 - [Gaza Tech Infrastructure Destruction](gaza_tech_infrastructure_destruction.md): same source document; what has become of that growth.
 - [Dalia Awad's Gaza Engineer Account](dalia_awad_gaza_engineer_account.md): same source document; one engineer's path through these opportunities.
 - [Amnesty's Automated Apartheid Report On West Bank Surveillance](amnesty_automated_apartheid_report_on_west_bank_surveillance.md): also concerns the West Bank, from a different source document.
 - [Argentina-Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also concerns Saudi Arabian business expansion, from a different source document.
+- [The AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): both discuss Silicon Valley; different source document
+- [Amnesty's Verification Of CCTV-Identified Detentions](amnesty_verification_of_cctv_identified_detentions.md): both discuss West Bank; different source document
+- [Anthony Joshua Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): both discuss Saudi Arabia; different source document
+- [Gaza As A Tech Outsourcing Hub](gaza_tech_outsourcing_hub.md): same source document (doc_0598)
+- [Gaza Tech Workers' Connectivity Collapse](gaza_tech_workers_connectivity_collapse.md): same source document (doc_0598)
 
 ## Source
 

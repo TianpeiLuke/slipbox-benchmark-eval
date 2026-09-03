@@ -13,11 +13,17 @@ Also on Amazon Prime, Prisoner's Daughter (December 5) is a bet on talent. The d
 
 ## Related Notes
 
+
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): also concerns Amazon Prime, in a different document
 - [Amazon Price Matching And Return Policy](amazon_price_matching_and_return_policy.md): also concerns Amazon Prime, from a different source
 - [Amazon Prime Free Games And DLC](amazon_prime_free_games_and_dlc.md): also concerns Amazon Prime, from a different source
 - [Amazon Prime Holiday 2023 Delivery Cutoffs](amazon_prime_holiday_2023_delivery_cutoffs.md): also concerns Amazon Prime, from a different source
 - [Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): also concerns Amazon Prime, from a different source
+- [December 2023 On Apple TV+: The Snoopy Show And Family Plan](snoopy_show_and_family_plan_apple_tv_releases.md): same source document (doc_0154)
+- [Streaming's Walls Are Crumbling: Exclusivity Gives Way To Rights Payments](streaming_exclusivity_erosion_and_maestro.md): same source document (doc_0154)
+- [December 2023 On Binge And Stan: Vigil, Bump And The Roberts-Smith Documentary](vigil_bump_and_ben_roberts_smith_documentary_releases.md): same source document (doc_0154)
+- [December 2023 On Netflix And Binge: Yellowjackets, Rebel Moon And Strife](yellowjackets_rebel_moon_and_strife_december_releases.md): same source document (doc_0154)
+- [Fraud](term_fraud.md): uses the concept fraud
 
 ## Source
 

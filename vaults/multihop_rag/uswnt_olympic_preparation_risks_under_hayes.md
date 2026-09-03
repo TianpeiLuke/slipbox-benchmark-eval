@@ -13,11 +13,24 @@ The evaluative judgement is deliberately two-sided. Such a shift itself represen
 
 ## Related Notes
 
+
 - [All Blacks' Generational Change After The 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): another programme trading short-term results for a longer World Cup cycle, from a different document.
 - [All Blacks-Ireland Series Loss Backlash As Motivation](all_blacks_ireland_series_loss_backlash_as_motivation.md): another response to a foundational competitive setback, from a different document.
 - [All Blacks' Final Moments In The RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): shares the World Cup setting, from a different document.
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): shares the World Cup setting, from a different document.
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): shares the squad-availability planning theme, from a different document.
+- [The Benefits Of Hayes' Delayed USWNT Start](benefits_of_hayes_delayed_uswnt_start.md): same source document (doc_0108)
+- [Chelsea's Early Announcement Of Hayes' Departure](chelsea_early_announcement_of_hayes_departure.md): same source document (doc_0108)
+- [Chelsea Players' Reaction To Hayes' Departure](chelsea_players_reaction_to_hayes_departure.md): same source document (doc_0108)
+- [Chelsea Women's Team Succession After Hayes](chelsea_womens_team_succession_after_hayes.md): same source document (doc_0108)
+- [Emma Hayes Appointed USWNT Head Coach](emma_hayes_appointed_uswnt_head_coach.md): same source document (doc_0108)
+- [Emma Hayes As The Highest-Paid Women's Soccer Coach](emma_hayes_highest_paid_womens_soccer_coach.md): same source document (doc_0108)
+- [Hayes' Delayed Start And Her Chelsea Commitment](hayes_delayed_start_and_chelsea_commitment.md): same source document (doc_0108)
+- [Hayes' Reasons For Leaving Chelsea](hayes_reasons_for_leaving_chelsea.md): same source document (doc_0108)
+- [The USWNT Head Coach Search Process In 2023](uswnt_head_coach_search_process_2023.md): same source document (doc_0108)
+- [The USWNT's Interim Transition Under Twila Kilgore](uswnt_interim_transition_under_twila_kilgore.md): same source document (doc_0108)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

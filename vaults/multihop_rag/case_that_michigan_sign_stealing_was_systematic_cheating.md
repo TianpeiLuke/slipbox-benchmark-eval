@@ -13,11 +13,19 @@ Purdue coach Ryan Walters put the evidential grounds on the record publicly, on 
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): also discusses the Big Ten, from a different document.
 - [Alabama's CFP-Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also discusses the Big Ten, from a different document.
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): covers the wider run of Big Ten scandals this belongs to, from a different document.
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): also discusses Ryan Walters and the punishment question, from a different document.
 - [Big Ten Head Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): covers the accountability rule this argument invokes, from a different document.
+- [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): same source document (doc_0504)
+- [Big Ten Commissioner Petitti's Punishment Dilemma](big_ten_commissioner_petitti_punishment_dilemma.md): same source document (doc_0504)
+- [The Connor Stalions Central Michigan Sideline Investigation](connor_stalions_central_michigan_sideline_investigation.md): same source document (doc_0504)
+- [Michigan Expected To Face No Big Ten Penalty Before The Season's End](michigan_expected_to_face_no_big_ten_penalty_before_season_end.md): same source document (doc_0504)
+- [The NCAA Investigation Into Michigan's Scouting Scheme](ncaa_investigation_into_michigan_scouting_scheme.md): same source document (doc_0504)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

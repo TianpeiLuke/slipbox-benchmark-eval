@@ -13,6 +13,7 @@ An executive located the problem in identity and consistency: "Run defense and c
 
 ## Related Notes
 
+
 - [Son Heung-min's Criticism of Tottenham's Softness](son_heung_min_criticism_of_tottenham_softness.md): overlaps on toughness and what needs to happen, from a different document.
 - [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): drawn from the same document (doc_0316).
 - [Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): drawn from the same document (doc_0316).
@@ -21,6 +22,8 @@ An executive located the problem in identity and consistency: "Run defense and c
 - [Denver Broncos: Payton and Wilson's Clock-Management Friction](denver_broncos_payton_wilson_clock_management_friction.md): drawn from the same document (doc_0316).
 - [Detroit Lions' Defensive Improvement, 2023](detroit_lions_defensive_improvement_2023.md): drawn from the same document (doc_0316).
 - [Jacksonville Jaguars' Contender Readiness, 2023](jacksonville_jaguars_contender_readiness_2023.md): drawn from the same document (doc_0316).
+- [Jared Goff And Hendon Hooker's Trade Value](jared_goff_and_hendon_hooker_trade_value.md): same source document (doc_0316)
+- [The Kansas City Chiefs' Declining Explosive Passing, 2023](kansas_city_chiefs_declining_explosive_passing_2023.md): same source document (doc_0316)
 
 ## Source
 

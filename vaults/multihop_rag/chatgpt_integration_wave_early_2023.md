@@ -11,10 +11,17 @@ Other tech companies began adopting ChatGPT as well: Opera incorporating it into
 
 ## Related Notes
 
+
 - [ChatGPT's 100 Million User Milestone](chatgpt_100_million_user_milestone.md): same source document; the growth these integrations chased.
 - [ChatGPT Web Browsing And Plugins](chatgpt_web_browsing_and_plugins.md): overlaps in content on ChatGPT, Bing and OpenAI, from a different source document.
 - [ChatGPT Third-Party Integrations And Ecosystem](chatgpt_third_party_integrations_and_ecosystem.md): overlaps in content on ChatGPT in browsers and other programs, from a different source document.
 - [ChatGPT's Competitive Response Across The AI Industry](chatgpt_competitive_response_across_ai_industry.md): overlaps in content on rivals releasing products in February, from a different source document.
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): content overlap 0.11 on chatgpt, listicles, program; different source document
+- [ChatGPT Voice And Speech Features](chatgpt_voice_and_speech_features.md): content overlap 0.14 on chatgpt, releasing, responses; different source document
+- [The AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): same source document (doc_0099)
+- [Associated Press And OpenAI's Licensing Deal](associated_press_openai_licensing_deal.md): same source document (doc_0099)
+- [ChatGPT's Durability And Regulatory Outlook](chatgpt_durability_and_regulatory_outlook.md): same source document (doc_0099)
+- [ChatGPT Enterprise And Multimodal Features](chatgpt_enterprise_and_multimodal_features.md): same source document (doc_0099)
 
 ## Source
 

@@ -15,11 +15,17 @@ Two conditions bound the calculation: you can bet as little or as much as you wa
 
 ## Related Notes
 
+
 - [American Odds Format](american_odds_format.md): the same odds notation explained elsewhere, different source document
 - [Betting Favorites and Underdogs](betting_favorites_and_underdogs.md): what the sign tells you about favorite and underdog, different source document
 - [FanDuel Bet Five Get 150 Moneyline Promo](fanduel_bet_five_get_150_moneyline_promo.md): a moneyline offer priced in these terms, different source document
 - [Fractional and Decimal Odds Formats](fractional_and_decimal_odds_formats.md): the alternative notations, different source document
 - [How Sportsbooks Set and Move Betting Lines](how_sportsbooks_set_and_move_betting_lines.md): where the numbers you are reading come from, different source document
+- [NBA Prop Bets: Definition And Common Markets](nba_prop_bets_definition_and_common_markets.md): same source document (doc_0497)
+- [Three Strategy Tips For NBA Prop Betting](nba_prop_betting_strategy_tips.md): same source document (doc_0497)
+- [NBA Team Props Versus Player Props](nba_team_props_versus_player_props.md): same source document (doc_0497)
+- [Opening And Funding An Online Sportsbook Account](opening_and_funding_an_online_sportsbook_account.md): same source document (doc_0497)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

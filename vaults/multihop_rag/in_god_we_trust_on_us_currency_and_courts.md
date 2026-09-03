@@ -11,6 +11,7 @@ Its legal standing has been repeatedly tested and upheld: "In God We Trust" on c
 
 ## Related Notes
 
+
 - [CFPB Funding Structure Supreme Court Challenge](cfpb_funding_structure_supreme_court_challenge.md): another Supreme Court matter, from a different document
 - [Epic, Fortnite And Project Liberty Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): also touches on Supreme Court proceedings, from a different source
 - [Epic V Apple Ruling As Precedent](epic_v_apple_ruling_as_precedent.md): another Supreme Court-related item, from a different source
@@ -19,6 +20,7 @@ Its legal standing has been repeatedly tested and upheld: "In God We Trust" on c
 - [The Decline Of Religious Faith In America](decline_of_religious_faith_in_america.md): from the same Fox News article
 - ["In God We Trust": Origins In Scripture And The Founding Documents](in_god_we_trust_motto_origins_and_founding_documents.md): where the motto came from, in the same article
 - [Loss Of Faith As A Driver Of Social Decay](loss_of_faith_as_driver_of_social_decay.md): from the same Fox News article
+- [Pastor Jesse Bradley: The Motto Matters Less Than What Is Written On Hearts](pastor_jesse_bradley_on_abiding_with_god.md): same source document (doc_0501)
 
 ## Source
 

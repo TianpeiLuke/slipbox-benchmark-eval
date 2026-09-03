@@ -11,6 +11,7 @@ Asked whether there will be energy five years out toward an interchangeable file
 
 ## Related Notes
 
+
 - [Roblox, the Online Game Platform](roblox_online_game_platform.md): overlaps on Roblox's description of items on the platform, from a different source document.
 - [Roblox Advertising and Brand Experiences](roblox_advertising_and_brand_experiences.md): the branded virtual goods interoperability would move (doc_0539).
 - [Roblox Aging Up: An Older User Base](roblox_aging_up_older_user_base.md): another strand of the same interview (doc_0539).
@@ -19,6 +20,8 @@ Asked whether there will be energy five years out toward an interchangeable file
 - [Roblox's Content Delivery Architecture Versus App Stores](roblox_content_delivery_architecture_vs_app_stores.md): the delivery architecture this simulation model sits on (doc_0539).
 - [Roblox's Dating Prediction](roblox_dating_prediction.md): another forward-looking claim from the same session (doc_0539).
 - [Roblox Fashion Design and Direct-to-Avatar](roblox_fashion_design_and_direct_to_avatar.md): the virtual garments whose physical richness is at stake (doc_0539).
+- [Roblox's Hiring And Recruiting Layoffs](roblox_hiring_and_recruiting_layoffs.md): same source document (doc_0539)
+- [Roblox On VR And AR Headsets](roblox_on_vr_and_ar_headsets.md): same source document (doc_0539)
 
 ## Source
 

@@ -11,6 +11,7 @@ At 8:34 p.m. Jaxson Dart missed his target and Javon Bullard grabbed his second 
 
 ## Related Notes
 
+
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): also discusses Ole Miss, from a different document.
 - [College Football Week 6 2023 Remaining Betting Lines](college_football_week6_2023_remaining_betting_lines.md): also discusses Ole Miss, from a different document.
 - [LSU at Missouri 2023 Week 6 Betting Line](lsu_at_missouri_2023_week6_betting_line.md): also discusses Ole Miss, from a different document.
@@ -19,6 +20,8 @@ At 8:34 p.m. Jaxson Dart missed his target and Javon Bullard grabbed his second 
 - [Georgia 52-17 Ole Miss: Week 11 Recap](georgia_52_17_ole_miss_week_11_recap.md): the full result and both passers' lines, from the same document.
 - [Georgia Clinches the SEC East and the Sanford Stadium Scene](georgia_clinches_sec_east_and_sanford_stadium_scene.md): what the win secured, from the same document.
 - [Georgia's First Half Touchdown Drives: Beck and Edwards](georgia_first_half_touchdown_drives_beck_and_edwards.md): the scoring earlier in the same half, from the same document.
+- [Georgia's Third-Quarter Field Goal And Lovett's Gain](georgia_third_quarter_field_goal_and_lovett_gain.md): same source document (doc_0484)
+- [Kendall Milton's Career-High Rushing Night](kendall_milton_career_high_rushing_night.md): same source document (doc_0484)
 
 ## Source
 

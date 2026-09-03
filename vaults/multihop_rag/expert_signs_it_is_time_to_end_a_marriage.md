@@ -11,6 +11,7 @@ Dating coach Jacob Lucas offers a different, behaviour-based test: "If you feel 
 
 ## Related Notes
 
+
 - [Will And Jada Denials Of Open Marriage And Divorce Rumours](will_and_jada_denials_of_open_marriage_and_divorce_rumours.md): the couple's denial of the cheating premise that features in one expert test
 - [Will Smith Jada Pinkett Smith Courtship And 1997 Marriage](will_smith_jada_pinkett_smith_courtship_and_1997_marriage.md): the marriage these thresholds are being applied to
 - [Counterargument Separations Reschedule Rather Than Resolve Problems](counterargument_separations_reschedule_rather_than_resolve_problems.md): Lucas's argument that separation defers the decision these signs force
@@ -19,6 +20,8 @@ Dating coach Jacob Lucas offers a different, behaviour-based test: "If you feel 
 - [Jada Pinkett Smith August Alsina Entanglement](jada_pinkett_smith_august_alsina_entanglement.md): the episode that bears on the infidelity test, same article
 - [Separation As An Alternative To Divorce LAT Partnership](separation_as_an_alternative_to_divorce_lat_partnership.md): Winter's case for the option short of divorce
 - [Terms Of A Separation Agreement Determine Its Outcome](terms_of_a_separation_agreement_determine_its_outcome.md): the prior question of what the couple agreed the separation was for
+- [Will And Jada As A New, Unconventional Marriage Model](will_and_jada_as_an_unconventional_marriage_model.md): same source document (doc_0036)
+- [Why Will Smith And Jada Pinkett Smith Never Signed A Prenup](will_and_jada_no_prenuptial_agreement.md): same source document (doc_0036)
 
 ## Source
 

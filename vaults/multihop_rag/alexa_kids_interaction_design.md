@@ -15,6 +15,7 @@ The model holds over a deliberately narrow range as of this description. "Right 
 
 ## Related Notes
 
+
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): drawn from the same source document (doc_0188), covering the safety pipeline behind the content this interaction model serves up.
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): drawn from the same source document (doc_0188), covering the data handling and devices this experience runs on.
 - [Keep Labs' Repositioning From Cannabis To Medicine](keep_labs_cannabis_repositioning.md): assigned to the same consumer-AI-and-devices batch, from a different source document.
@@ -22,6 +23,8 @@ The model holds over a deliberately narrow range as of this description. "Right 
 - [Keep Labs' Enterprise Turn And The Pharmacist Co-Lead](keep_labs_enterprise_partnerships.md): assigned to the same consumer-AI-and-devices batch, from a different source document.
 - [Keep Labs' Funding And Second-Gen Roadmap](keep_labs_funding_and_roadmap.md): assigned to the same consumer-AI-and-devices batch, from a different source document.
 - [Keep Labs' COVID Pivot And Leadership Change](keep_labs_pivot_and_leadership.md): assigned to the same consumer-AI-and-devices batch, from a different source document.
+- [Explore With Alexa](explore_with_alexa.md): same source document (doc_0188)
+- [Generative AI Guardrails](term_generative_ai_guardrails.md): uses the concept generative ai guardrails
 
 ## Source
 

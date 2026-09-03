@@ -11,6 +11,7 @@ The Wednesday slate was: the Military Bowl Presented by GoBowling.com, Virginia 
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): covers the same programs a round earlier, from a different document.
 - [Bears-Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): another schedule and broadcast listing, from a different document.
 - [Bears-Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): another venue and broadcast listing, from a different document.
@@ -18,6 +19,10 @@ The Wednesday slate was: the Military Bowl Presented by GoBowling.com, Virginia 
 - [College Football Week 6 2023 Remaining Betting Lines](college_football_week6_2023_remaining_betting_lines.md): also covers Virginia Tech, from a different document.
 - [2023 Bowl Season Betting Trends](2023_bowl_season_betting_trends.md): gives the betting backdrop to these games, from the same document.
 - [2023 Bowl Season Completed Game Results](2023_bowl_season_completed_game_results.md): gives the bowls already played, from the same document.
+- [The CFP National Championship: Format And Schedule](cfp_national_championship_game_format_and_schedule.md): same source document (doc_0433)
+- [CFP National Championship Winners, 2015 To 2023](cfp_national_championship_winners_2015_to_2023.md): same source document (doc_0433)
+- [CFP Semifinal Matchups: Rose And Sugar Bowls](cfp_semifinal_rose_and_sugar_bowl_matchups.md): same source document (doc_0433)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

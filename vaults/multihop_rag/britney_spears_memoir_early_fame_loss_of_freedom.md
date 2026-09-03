@@ -13,6 +13,7 @@ In that restrictive environment small kindnesses took on outsized significance, 
 
 ## Related Notes
 
+
 - [Britney Spears And Justin Timberlake Relationship](britney_spears_and_justin_timberlake_relationship.md): covers the same Timberlake relationship from a different source document
 - [Britney Spears David Lucado Relationship](britney_spears_david_lucado_relationship.md): overlaps on Britney, her father and her mother, reported elsewhere
 - [Britney Spears Kevin Federline Marriage And Divorce](britney_spears_kevin_federline_marriage_and_divorce.md): also treats the Timberlake chapter of her life, from another document
@@ -21,6 +22,8 @@ In that restrictive environment small kindnesses took on outsized significance, 
 - [Britney Spears Conservatorship Restrictions And Swat Holds](britney_spears_conservatorship_restrictions_and_swat_holds.md): same source document, detailing the conservatorship the loss of freedom led to
 - [Britney Spears Estrangement From Her Family](britney_spears_estrangement_from_her_family.md): same source document, on the family whose control began in childhood
 - [Justin Timberlake Apology And Support For Britney Spears](justin_timberlake_apology_and_support_for_britney_spears.md): overlaps on Britney, her father and Timberlake, from another document
+- [Britney Spears' Memoir Barbs At Timberlake And Federline](britney_spears_memoir_barbs_at_timberlake_and_federline.md): same source document (doc_0052)
+- [Britney Spears On Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): same source document (doc_0052)
 
 ## Source
 

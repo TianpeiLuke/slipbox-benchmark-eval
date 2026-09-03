@@ -11,9 +11,18 @@ The Cloud Stinger 2 is the budget pick in Engadget's gaming headset guide: it so
 
 ## Related Notes
 
+
 - [HyperX Cloud Gaming Headsets](hyperx_cloud_gaming_headsets.md): also concerns the Cloud Stinger line, from a different source document.
 - [Logitech G535 Wireless Gaming Headset](logitech_g535_wireless_gaming_headset.md): overlaps in content on gaming headsets, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): same source document; another audio product in the same roundup.
+- [Ubisoft's Cloud Gaming Rights To The Activision Blizzard Catalogue](ubisoft_cloud_gaming_rights_to_activision_blizzard_catalogue.md): content overlap 0.12 on cloud, gaming; different source document
+- [Anker Soundcore Liberty 4 NC Earbuds Deal Prices](anker_soundcore_liberty_4_nc_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space Q45 Deal](anker_soundcore_space_q45_deal.md): same source document (doc_0404)
+- [Apple AirPods 2nd Gen Holiday Deal](apple_airpods_2nd_gen_holiday_deal.md): same source document (doc_0404)
+- [Apple AirPods 3rd Gen Holiday Deal](apple_airpods_3rd_gen_holiday_deal.md): same source document (doc_0404)
+- [Apple AirPods Max Holiday Deal](apple_airpods_max_holiday_deal.md): same source document (doc_0404)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

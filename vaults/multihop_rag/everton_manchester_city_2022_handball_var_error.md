@@ -11,6 +11,7 @@ Rodri misjudged the flight of the ball and it ricocheted off his arm. VAR offici
 
 ## Related Notes
 
+
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also covers Manchester City, from a different source document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also covers Manchester City, from a different source document.
 - [Bill Kenwright Everton Chairmanship Record](bill_kenwright_everton_chairmanship_record.md): also covers Everton, from a different source document.
@@ -19,6 +20,7 @@ Rodri misjudged the flight of the ball and it ricocheted off his arm. VAR offici
 - [PGMOL and VAR Review in English Football](pgmol_and_var_review_in_english_football.md): the body and list this incident belongs to (doc_0395).
 - [PGMOL Apologies 2023/24 Season Opening Months](pgmol_apologies_2023_24_season_opening_months.md): later apologies on the same list (doc_0395).
 - [PGMOL Apologies Autumn 2022 Incidents](pgmol_apologies_autumn_2022_incidents.md): other apologies from the same period on the same list (doc_0395).
+- [PGMOL Apologies From Spring 2023](pgmol_apologies_spring_2023_incidents.md): same source document (doc_0395)
 
 ## Source
 

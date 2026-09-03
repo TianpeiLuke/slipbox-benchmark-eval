@@ -11,11 +11,18 @@ A win on Monday night against the suddenly reeling Eagles could be a big boost t
 
 ## Related Notes
 
+
 - [Eagles-Seahawks Week 15 MNF Playoff Stakes](eagles_seahawks_week_15_mnf_playoff_stakes.md): covers the same game's stakes, from a different document.
 - [NFC Playoff Seeding After Week 13 2023](nfc_playoff_seeding_after_week_13_2023.md): gives the conference picture the Eagles were slipping in, from a different document.
 - [NFL 2023 Week 13 Playoff Race Overview](nfl_2023_week_13_playoff_race_overview.md): gives the broader division and playoff picture, from a different document.
 - [Ezekiel Elliott, Patriots Lead Back and FanDuel MVP](ezekiel_elliott_patriots_lead_back_fanduel_mvp.md): another single-game DFS write-up in the same series, from a different document.
 - [Najee Harris Steelers Ground Game FanDuel Pick](najee_harris_steelers_ground_game_fanduel_pick.md): another single-game DFS write-up in the same series, from a different document.
+- [Dallas Goedert As The Eagles' Tight End Showdown Pick](dallas_goedert_eagles_tight_end_showdown_pick.md): same source document (doc_0386)
+- [D'Andre Swift And The Eagles' Run Game In The Showdown Lineup](dandre_swift_eagles_run_game_showdown_pick.md): same source document (doc_0386)
+- [DeVonta Smith's Value In The Eagles-Seahawks Showdown](devonta_smith_eagles_showdown_value.md): same source document (doc_0386)
+- [The Metcalf-Geno Smith Seahawks Showdown Stack](dk_metcalf_and_geno_smith_seahawks_showdown_stack.md): same source document (doc_0386)
+- [DraftKings Showdown And FanDuel Single-Game Scoring Rules](draftkings_showdown_and_fanduel_single_game_scoring_rules.md): same source document (doc_0386)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

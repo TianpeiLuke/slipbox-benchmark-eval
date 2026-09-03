@@ -11,11 +11,18 @@ Should a defensive battle be expected? While both teams boast offenses ranking i
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also discusses the Super Bowl and the 49ers, from a different source document.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also discusses the Super Bowl, from a different source document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers the Baltimore Ravens, from a different source document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also discusses the Super Bowl, from a different source document.
 - [Bills Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): also discusses Super Bowl contention, from a different source document.
+- [Brock Purdy Leads Lamar Jackson In The 2023 MVP Odds](brock_purdy_lamar_jackson_2023_mvp_race.md): same source document (doc_0003)
+- [Giants At Eagles, Christmas Day 2023: Storylines To Watch](giants_at_eagles_christmas_day_2023_preview.md): same source document (doc_0003)
+- [Raiders At Chiefs, Christmas Day 2023: Storylines To Watch](raiders_at_chiefs_christmas_day_2023_preview.md): same source document (doc_0003)
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
 
 ## Source
 

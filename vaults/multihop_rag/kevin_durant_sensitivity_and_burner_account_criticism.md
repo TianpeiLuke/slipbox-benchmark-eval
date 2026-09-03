@@ -11,10 +11,17 @@ His vulnerability to criticism and thin-skinned nature has on several occasions 
 
 ## Related Notes
 
+
 - [NBA MVP Award Voting Format And History](nba_mvp_award_voting_format_and_history.md): also discusses the Milwaukee Bucks, from a different document.
 - [Patrick Kane 2023 Free Agency Situation](patrick_kane_2023_free_agency_situation.md): shares the NBA and free agency themes, from a different document.
 - [Recent NBA MVP Winners Since 2010](recent_nba_mvp_winners_since_2010.md): also discusses Durant, the Warriors and Harden, from a different document.
 - [Warriors Two-Timeline Plan Failure](warriors_two_timeline_plan_failure.md): also discusses Chris Paul, from a different document.
+- [NBA 2023 Christmas Day Game Slate](nba_2023_christmas_day_game_slate.md): same sub-plan (NBA: Durant's Standing and the Christmas Day Tradition), different source document
+- [Kevin Durant 2016 Move To Warriors Legacy](kevin_durant_2016_move_to_warriors_legacy.md): same source document (doc_0441)
+- [Kevin Durant Career Accolades And Scoring Ranks](kevin_durant_career_accolades_and_scoring_ranks.md): same source document (doc_0441)
+- [Kevin Durant Most Disrespected Superstar Claim](kevin_durant_most_disrespected_superstar_claim.md): same source document (doc_0441)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

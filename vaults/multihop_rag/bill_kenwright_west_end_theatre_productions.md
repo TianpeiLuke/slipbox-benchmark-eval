@@ -13,6 +13,7 @@ At the time of the report his current shows included Sir Ian McKellen starring i
 
 ## Related Notes
 
+
 - [Edenglassie, A Novel By Melissa Lucashenko](edenglassie_novel_melissa_lucashenko.md): also refers to the West End, in an unrelated arts story
 - [Lucashenko On Aboriginal Survival And The Dying Race Trope](lucashenko_on_aboriginal_survival_and_the_dying_race_trope.md): also refers to the West End, in a different context
 - [Alameda Research Origins And Naming](alameda_research_origins_and_naming.md): shares the touring topic tag across the corpus
@@ -21,6 +22,13 @@ At the time of the report his current shows included Sir Ian McKellen starring i
 - [Animal Crossing New Horizons](animal_crossing_new_horizons.md): shares the touring topic tag across the corpus
 - [Australia Women's Test Defeat To India, Mumbai 2023](australia_women_test_defeat_to_india_mumbai_2023.md): shares the touring topic tag across the corpus
 - [Backlash To Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): shares the touring topic tag across the corpus
+- [Kenwright's Coronation Street Role As Gordon Clegg](bill_kenwright_coronation_street_acting_career.md): same source document (doc_0543)
+- [Bill Kenwright Dies Aged 78 After Liver Cancer Surgery](bill_kenwright_death_aged_78.md): same source document (doc_0543)
+- [Kenwright's 19 Seasons As Everton Chairman](bill_kenwright_everton_chairmanship_record.md): same source document (doc_0543)
+- [Everton Fans' No Confidence Vote Against Kenwright's Board](everton_fan_no_confidence_in_kenwright_board.md): same source document (doc_0543)
+- [Everton's Ownership: Kenwright To Moshiri To 777 Partners](everton_ownership_moshiri_and_777_partners.md): same source document (doc_0543)
+- [Tributes To Kenwright From Rooney, Carragher, Burnham And McKellen](tributes_to_bill_kenwright_rooney_mckellen.md): same source document (doc_0543)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

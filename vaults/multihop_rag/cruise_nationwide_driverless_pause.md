@@ -11,12 +11,17 @@ Cruise had even quietly launched driverless operations in Miami with just a few 
 
 ## Related Notes
 
+
 - [Cruise's California Permit Suspension](cruise_california_permit_suspension.md): same source document; the regulatory action that preceded this pause.
 - [California Robotaxi Opposition Groups](california_robotaxi_opposition_groups.md): same source document; the public-trust challenge Cruise says it now faces.
 - [Faction Driverless Funding Round](faction_driverless_funding_round.md): same source document; another driverless item from the same issue.
 - [NHTSA Investigation Of Cruise Pedestrian Incidents](nhtsa_investigation_of_cruise_pedestrian_incidents.md): the safety investigation behind the crisis, from a different source document.
 - [Cruise, GM And Honda's Japan Robotaxi Joint Venture](cruise_gm_honda_japan_robotaxi_joint_venture.md): Cruise's expansion plans announced days earlier, from a different source document.
 - [Foxconn And Nvidia AI Factories Versus Tesla Dojo](foxconn_nvidia_ai_factories_versus_tesla_dojo.md): another AV-industry development in the same period, from a different source document.
+- [Waymo's Waymax AV Simulator](waymo_waymax_av_simulator.md): same sub-plan (Cruise robotaxi suspension and the AV industry), different source document
+- [Flexport And Convoy Technology Acquisition Talks](flexport_convoy_technology_acquisition_talks.md): same source document (doc_0537)
+- [Flexport Leadership Change And Layoffs](flexport_leadership_change_and_layoffs.md): same source document (doc_0537)
+- [Ford Delays EV Investments](ford_delays_ev_investments.md): same source document (doc_0537)
 
 ## Source
 

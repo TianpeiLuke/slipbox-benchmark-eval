@@ -13,6 +13,7 @@ On the conference market, while UCLA was not expected to be as formidable as it 
 
 ## Related Notes
 
+
 - [Arizona 42-18 Win Over Utah November 2023](arizona_42_18_win_over_utah_november_2023.md): overlaps on the Pac-12 and ranked Wildcats, from a different document.
 - [CFP National Championship Game Format and Schedule](cfp_national_championship_game_format_and_schedule.md): also concerns a National Championship, from a different document.
 - [CFP National Championship Winners 2015 to 2023](cfp_national_championship_winners_2015_to_2023.md): also concerns a National Championship, from a different document.
@@ -21,6 +22,8 @@ On the conference market, while UCLA was not expected to be as formidable as it 
 - [Bronny James USC Collegiate Debut](bronny_james_usc_collegiate_debut.md): the debut these futures were priced ahead of, from the same document.
 - [Long Beach State 49ers Profile and USC Betting Odds](long_beach_state_49ers_profile_and_usc_betting_odds.md): the game-level odds alongside these futures, from the same document.
 - [USC Player of the Year Candidates: Collier and Ellis](usc_player_of_the_year_candidates_collier_and_ellis.md): the individual award markets, from the same document.
+- [USC's Remaining Schedule Gives It A Path Despite The Gonzaga Loss](usc_remaining_2023_24_schedule_outlook.md): same source document (doc_0103)
+- [USC Had Not Forged An Identity Eight Games Into 2023-24](usc_trojans_2023_24_early_season_struggles.md): same source document (doc_0103)
 
 ## Source
 

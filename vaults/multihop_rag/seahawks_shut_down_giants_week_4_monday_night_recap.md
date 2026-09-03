@@ -13,11 +13,18 @@ Kickoff was 8:15 p.m. ET / 5:15 p.m. PT, the customary "MNF" kickoff time that y
 
 ## Related Notes
 
+
 - [Bears Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): also concerns Monday Night Football.
 - [Bears Vikings MNF Result and Recap](bears_vikings_mnf_result_and_recap.md): another Monday Night Football result.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also discusses Daniel Jones.
 - [Cowboys Fantasy Start Recommendations Week 13](cowboys_fantasy_start_recommendations_week_13.md): also discusses Devon Witherspoon.
 - [Dak Prescott Week 6 2023 Sit Recommendation](dak_prescott_week6_2023_sit_recommendation.md): also discusses Daniel Jones.
+- [ESPN's 2023 Monday Night Football Broadcast, Manningcast And Streaming](monday_night_football_2023_broadcast_and_streaming.md): same source document (doc_0290)
+- [Seahawks-Giants First Half: Penalties, A Geno Smith Knee Scare, And A 14-3 Lead](seahawks_giants_first_half_live_blog.md): same source document (doc_0290)
+- [Seahawks-Giants Pregame: Jamal Adams Returns, Saquon Barkley Ruled Inactive](seahawks_giants_pregame_inactives_and_jamal_adams_return.md): same source document (doc_0290)
+- [Seahawks-Giants Second Half: Witherspoon's 97-Yard Pick-Six Ends The Contest](seahawks_giants_second_half_live_blog.md): same source document (doc_0290)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

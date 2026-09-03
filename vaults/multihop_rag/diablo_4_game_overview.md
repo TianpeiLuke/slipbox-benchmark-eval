@@ -13,12 +13,19 @@ The comparison is with its predecessors in the genre: with the likes of Destiny,
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick for Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): both discuss the Xbox Series hardware, from a different source document
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): both reference Xbox Series consoles, from a separate article
 - [Diablo 3 Switch Local Multiplayer](diablo_3_switch_local_multiplayer.md): covers the predecessor game, from a different document
 - [Diablo 4 Barbarian Class](diablo_4_barbarian_class.md): a class guide for the same game, from a separate source
 - [Diablo 4 Season 2 Experience and Leveling Changes](diablo_4_season_2_experience_and_leveling_changes.md): covers later updates to the same live game
 - [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
+- [Amnesia: The Bunker](amnesia_the_bunker.md): same source document (doc_0213)
+- [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): same source document (doc_0213)
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

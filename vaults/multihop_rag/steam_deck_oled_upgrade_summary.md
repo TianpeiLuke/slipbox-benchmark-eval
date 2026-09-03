@@ -11,10 +11,20 @@ The reviewer's baseline is the original Steam Deck, released by Valve in early 2
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
+- [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): shares battery_life_and_charging, battery_technology; different source document
+- [Should You Upgrade To The Steam Deck OLED?](should_you_upgrade_to_steam_deck_oled.md): same source document (doc_0354)
+- [Steam Deck OLED Battery Life](steam_deck_oled_battery_life.md): same source document (doc_0354)
+- [Steam Deck OLED Hardware Refinements](steam_deck_oled_hardware_refinements.md): same source document (doc_0354)
+- [Steam Deck OLED HDR Display](steam_deck_oled_hdr_display.md): same source document (doc_0354)
+- [Steam Deck OLED Models And Pricing](steam_deck_oled_models_and_pricing.md): same source document (doc_0354)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

@@ -11,6 +11,7 @@ Uptake of PrEP pills rose more than tenfold from 2019 to 2022, but cabotegravir,
 
 ## Related Notes
 
+
 - [Beyond Antibiotics: The Emerging Therapeutic Arsenal](beyond_antibiotics_emerging_therapeutic_arsenal.md): another Live Science piece on therapies whose promise depends on deployment.
 - [Cannabis Use in Pregnancy: JAMA Study Findings](cannabis_use_in_pregnancy_jama_study_findings.md): another Live Science health report.
 - [ChatGPT Use in Government and Courts](chatgpt_use_in_government_and_courts.md): shares a South African setting.
@@ -19,6 +20,8 @@ Uptake of PrEP pills rose more than tenfold from 2019 to 2022, but cabotegravir,
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): from the same article, on the outcome if access problems are solved.
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): from the same article, describing the therapy people are interrupting.
 - [Country Progress Toward the 95-95-95 Targets](country_progress_toward_95_95_95_targets.md): from the same article, on how free universal access separates leading countries from laggards.
+- [Global HIV Burden in 2022](global_hiv_burden_2022.md): same source document (doc_0238)
+- [HIV Key Population Treatment Gaps](hiv_key_population_treatment_gaps.md): same source document (doc_0238)
 
 ## Source
 

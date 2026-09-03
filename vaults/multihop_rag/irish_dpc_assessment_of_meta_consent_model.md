@@ -11,11 +11,18 @@ The regulator also set out the timing and its cause: "While February 2024 was in
 
 ## Related Notes
 
+
 - [Meta's Ad-Free Subscription Pricing In The EU](meta_ad_free_subscription_eu_pricing.md): same source document; the offer under assessment.
 - [The CJEU "Appropriate Fee" Ruling](cjeu_appropriate_fee_ruling.md): same source document; the July court judgment's other half.
 - [DSA And DMA Oversight Of Meta's Ad Tracking](dsa_dma_oversight_of_meta_ad_tracking.md): same source document; the regulators beyond the DPC that may also act.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also concerns the General Data Protection Regulation, from a different source document.
 - [BEUC's Position On Choice Versus Implementation](beuc_position_choice_versus_implementation.md): overlaps in content on Meta, GDPR and data protection, from a different source document.
+- [Apple's USB-C Accessory Transition](apple_usb_c_accessory_transition.md): both discuss European Union; different source document
+- [BEUC And 18 Member Groups File A CPC Complaint Against Meta](beuc_consumer_complaint_meta_pay_or_consent.md): both discuss European Union; different source document
+- [The CJEU's 2020 Ruling On The Rental/Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): both discuss European Union; different source document
+- [Meta's Justification For The Subscription Choice](meta_justification_for_subscription_choice.md): same source document (doc_0608)
+- [Meta's Legal Basis For Ad Tracking In The EU](meta_legal_basis_for_ad_tracking_in_eu.md): same source document (doc_0608)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

@@ -13,11 +13,20 @@ That is not to say the Ice Poseidon stream did not affect her. "I broke down in 
 
 ## Related Notes
 
+
 - [Azarus CEO on Curated versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): substantial content overlap on twitch, livestreaming, platforms, from a different source document.
 - [Calls for Creative Experimentation in VTuber Agencies](calls_for_creative_experimentation_in_vtuber_agencies.md): shares the creator economy and streaming service theme, from a different source document.
 - [Dan Clancy Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): shares the creator economy and streaming service theme, from a different source document.
 - [Engadget VPN Testing Methodology](engadget_vpn_testing_methodology.md): shares the livestreaming and streaming service theme, from a different source document.
 - [Esfandtv Sports Streaming Channel](esfandtv_sports_streaming_channel.md): shares the creator economy and streaming service theme, from a different source document.
+- [The Ice Poseidon Sex Worker "Prank" Stream Incident](ice_poseidon_sex_worker_prank_stream_incident.md): same source document (doc_0405)
+- [Kick's Corporate Response To The Incident](kick_corporate_response_to_the_incident.md): same source document (doc_0405)
+- [Kick's Platform Model And Controversy History](kick_platform_model_and_controversy_history.md): same source document (doc_0405)
+- [Kick Streamer Exodus Over The Sex Worker Stream](kick_streamer_exodus_over_sex_worker_stream.md): same source document (doc_0405)
+- [MrsViolence's Income Comparison Between Twitch And Kick](mrsviolence_income_comparison_twitch_versus_kick.md): same source document (doc_0405)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Livestreaming](term_livestreaming.md): uses the concept livestreaming
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

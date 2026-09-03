@@ -11,6 +11,7 @@ Following Diana's death, Downing Street confirmed that she had visited Blair at 
 
 ## Related Notes
 
+
 - [Diana and Dodi's Paris Car Crash, 1997](diana_and_dodi_paris_car_crash_1997.md): overlapping coverage of Diana, from a different source document.
 - [Diana's Final Phone Call With William and Harry](dianas_final_phone_call_with_william_and_harry.md): overlapping coverage of Diana, William and the episodes, from a different source document.
 - [The Roland Doe Case and The Exorcist](roland_doe_case_and_the_exorcist.md): overlapping named references, from a different source document.
@@ -19,6 +20,8 @@ Following Diana's death, Downing Street confirmed that she had visited Blair at 
 - [Dodi Fayed's Engagement Ring on the Night of the Crash](dodi_fayed_engagement_ring_night_of_the_crash.md): drawn from the same source document, doc_0265.
 - [Kelly Fisher's Engagement to Dodi Fayed](kelly_fisher_engagement_to_dodi_fayed.md): drawn from the same source document, doc_0265.
 - [Mohamed Al Fayed and the Dodi-Diana Kiss Photo](mohamed_al_fayed_and_the_dodi_diana_kiss_photo.md): drawn from the same source document, doc_0265.
+- [Prince William at Balmoral After Diana's Death](prince_william_at_balmoral_after_dianas_death.md): same source document (doc_0265)
+- [Queen Elizabeth's Reluctance to Accept Camilla](queen_elizabeth_reluctance_to_accept_camilla.md): same source document (doc_0265)
 
 ## Source
 

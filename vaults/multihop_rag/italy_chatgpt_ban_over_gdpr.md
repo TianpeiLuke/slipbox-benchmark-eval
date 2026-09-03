@@ -11,10 +11,19 @@ The Italian ban proved only temporary after the company worked to resolve the fl
 
 ## Related Notes
 
+
 - [The AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): same source document; the earlier call to slow AI development.
 - [Regulatory Investigations Into OpenAI, 2023](regulatory_investigations_into_openai_2023.md): overlaps in content on ChatGPT, GDPR and Italy, from a different source document.
 - [Google's Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): shares data-privacy and generative-AI themes, from a different source document.
 - [CPPA Pre-Use Notice Requirement](cppa_pre_use_notice_requirement.md): shares data-privacy and generative-AI regulation themes, from a different source document.
+- [Alexa Kids Data Handling And The Echo Pop Kids Launch](alexa_kids_privacy_and_hardware.md): shares data_privacy, generative_ai; different source document
+- [Associated Press And OpenAI's Licensing Deal](associated_press_openai_licensing_deal.md): same source document (doc_0099)
+- [ChatGPT's 100 Million User Milestone](chatgpt_100_million_user_milestone.md): same source document (doc_0099)
+- [ChatGPT's Durability And Regulatory Outlook](chatgpt_durability_and_regulatory_outlook.md): same source document (doc_0099)
+- [ChatGPT Enterprise And Multimodal Features](chatgpt_enterprise_and_multimodal_features.md): same source document (doc_0099)
+- [ChatGPT's First Year Overview](chatgpt_first_year_overview.md): same source document (doc_0099)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

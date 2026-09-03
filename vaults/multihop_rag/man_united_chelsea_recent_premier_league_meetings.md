@@ -13,11 +13,16 @@ The listed recent results were: Premier League, May 25, 2023, Old Trafford, Man 
 
 ## Related Notes
 
+
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): overlaps on Chelsea and Stamford Bridge, from a different document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): another Old Trafford fixture, from a different document.
 - [Carabao Cup 2023-24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): also mentions Old Trafford, from a different document.
 - [Carabao Cup 2023 Quarter Final Draw](carabao_cup_2023_quarter_final_draw.md): also mentions Old Trafford, from a different document.
 - [Cole Palmer England Call-Up and Upbringing](cole_palmer_england_call_up_and_upbringing.md): overlaps on Chelsea and Stamford Bridge, from a different document.
+- [Manchester United vs Chelsea: The All-Time Head-To-Head Record](man_united_chelsea_all_time_head_to_head_record.md): same source document (doc_0204)
+- [Preview Of Chelsea's December 2023 Visit To Old Trafford](man_united_chelsea_december_2023_fixture_preview.md): same source document (doc_0204)
+- [How Fierce Is The Manchester United-Chelsea Rivalry?](man_united_chelsea_rivalry_assessment.md): same source document (doc_0204)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

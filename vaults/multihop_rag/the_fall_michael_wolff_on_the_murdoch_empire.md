@@ -13,6 +13,7 @@ Its place in his output is also noted: the American writer has tackled the Donal
 
 ## Related Notes
 
+
 - [Going Infinite Michael Lewis On Sam Bankman Fried](going_infinite_michael_lewis_on_sam_bankman_fried.md): another non-fiction title in the same October roundup
 - [Killing For Country David Marr](killing_for_country_david_marr.md): another October title in the same roundup
 - [My Life As A Jew Michael Gawenda](my_life_as_a_jew_michael_gawenda.md): another October title in the same roundup
@@ -21,6 +22,8 @@ Its place in his output is also noted: the American writer has tackled the Donal
 - [Mr Einsteins Secretary Matthew Reilly](mr_einsteins_secretary_matthew_reilly.md): another October title in the same roundup
 - [Going Infinite Lewis Account](going_infinite_lewis_account.md): overlaps on Trump, Michael Lewis and books, different document
 - [Gingrich And Boehner Endorse Interim Speaker Plan](gingrich_and_boehner_endorse_interim_speaker_plan.md): also concerns Fox News, unrelated subject
+- [Charlotte Wood's October 2023 Novel](stone_yard_devotional_charlotte_wood.md): same source document (doc_0582)
+- [The Seven, Chris Hammer's Crime Novel](the_seven_chris_hammer_crime_novel.md): same source document (doc_0582)
 
 ## Source
 

@@ -13,11 +13,18 @@ The New Zealander briefly exited the international coaching scene following the 
 
 ## Related Notes
 
+
 - [All Blacks' Final Moments In The RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): covers the final this coaching turnaround led to, from a different document.
 - [All Blacks' Generational Change After The 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): also discusses the All Blacks and Ian Foster, from a different document.
 - [All Blacks-Ireland Series Loss Backlash As Motivation](all_blacks_ireland_series_loss_backlash_as_motivation.md): covers the series loss that triggered the coaching shake-up described here, from a different document.
 - [Cards And Officiating Controversy In The RWC 2023 Final](cards_and_officiating_controversy_rwc_2023_final.md): also concerns that same All Blacks final, from a different document.
 - [Dalton Papalii On All Blacks Leadership Vulnerability](dalton_papalii_on_all_blacks_leadership_vulnerability.md): also discusses the All Blacks in the same period, from a different document.
+- [The Case For Schmidt Bringing Rugby Smarts To The Wallabies](case_for_schmidt_bringing_rugby_smarts_to_the_wallabies.md): same source document (doc_0493)
+- [Rugby Australia's Consultancy Approach To David Nucifora](david_nucifora_consultancy_approach_by_rugby_australia.md): same source document (doc_0493)
+- [Joe Schmidt's Wallabies Candidacy And The Rival Candidates](joe_schmidt_wallabies_candidacy_and_rival_candidates.md): same source document (doc_0493)
+- [Nucifora's Argument Against Returning To Australian Rugby](nucifora_argument_against_returning_to_australian_rugby.md): same source document (doc_0493)
+- [Peter Horne's Appointment As Rugby Australia High-Performance Director](peter_horne_rugby_australia_high_performance_director_appointment.md): same source document (doc_0493)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

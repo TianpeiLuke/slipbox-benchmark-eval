@@ -11,6 +11,7 @@ The list of managers, their honours and games in charge ran: David Moyes, Commun
 
 ## Related Notes
 
+
 - [Arsenal 2-1 Win at Sevilla, Group B](arsenal_2_1_win_at_sevilla_group_b.md): also concerns the Europa League, from a different document.
 - [Bruno Fernandes Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): overlaps on Manchester United and its management, from a different document.
 - [Carabao Cup 2023-24 Overview and Stakes](carabao_cup_2023_24_overview_and_stakes.md): also concerns the League Cup, from a different document.
@@ -19,6 +20,8 @@ The list of managers, their honours and games in charge ran: David Moyes, Commun
 - [Erik ten Hag Under Pressure December 2023](erik_ten_hag_under_pressure_december_2023.md): the incumbent whose position this list frames, from the same document.
 - [Jim Ratcliffe Minority Stake in Manchester United](jim_ratcliffe_minority_stake_in_manchester_united.md): the ownership change raising the stakes, from the same document.
 - [Manchester United's 2023/24 Champions League Elimination](man_united_2023_24_champions_league_elimination.md): the result driving the succession question, from the same document.
+- [Carrick, Flick, Conte And Lopetegui As Manchester United Manager Candidates](man_united_next_manager_carrick_flick_conte_lopetegui.md): same source document (doc_0315)
+- [Why Nagelsmann, Scaloni, Southgate And Pochettino Do Not Add Up For United](man_united_next_manager_ruled_out_candidates.md): same source document (doc_0315)
 
 ## Source
 

@@ -11,6 +11,7 @@ Relatedly, as per a BCCI directive reported at 12.10 PM, all the IPL venues cann
 
 ## Related Notes
 
+
 - [EU AI Act Copyright Obligations for GPAI Makers](eu_ai_act_copyright_obligations_for_gpai_makers.md): overlapping directive vocabulary, from a different source document.
 - [NBA 2023-24 Season Calendar](nba_2023_24_season_calendar.md): parallel account of a season calendar and tournament dates, from a different source document.
 - [Harshal Patel's Vijay Hazare Trophy Form Before the IPL Auction](harshal_patel_vijay_hazare_trophy_form_before_ipl_auction.md): same auction live blog.
@@ -19,6 +20,8 @@ Relatedly, as per a BCCI directive reported at 12.10 PM, all the IPL venues cann
 - [IPL 2024 Auction: Capped Pace and Spin Sets](ipl_2024_auction_capped_pace_and_spin_sets.md): same auction live blog.
 - [IPL 2024 Auction: Capped Wicketkeepers Set](ipl_2024_auction_capped_wicketkeepers_set.md): same auction live blog.
 - [IPL 2024 Auction: Expert Previews and Team Strategy](ipl_2024_auction_expert_previews_and_team_strategy.md): same auction live blog.
+- [IPL 2024 Auction: Final Round Results](ipl_2024_auction_final_round_results.md): same source document (doc_0307)
+- [IPL 2024 Auction: The Accelerated Round](ipl_2024_auction_first_accelerated_round.md): same source document (doc_0307)
 
 ## Source
 

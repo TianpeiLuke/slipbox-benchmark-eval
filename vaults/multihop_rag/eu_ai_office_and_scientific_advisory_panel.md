@@ -13,6 +13,7 @@ The scientific advisory panel, which the law will also establish, is meant to he
 
 ## Related Notes
 
+
 - [Amazon Response to EU Irobot Objections](amazon_response_to_eu_irobot_objections.md): also covers European Commission, from a different source document.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also covers European Commission, from a different source document.
 - [Cpc Network Consumer Protection Enforcement](cpc_network_consumer_protection_enforcement.md): also covers European Commission, from a different source document.
@@ -21,6 +22,8 @@ The scientific advisory panel, which the law will also establish, is meant to he
 - [Civil Society Criticism of EU AI Act Biometrics Limits](civil_society_criticism_of_eu_ai_act_biometrics_limits.md): drawn from the same source document, doc_0564.
 - [EU AI Act Copyright Obligations for GPAI Makers](eu_ai_act_copyright_obligations_for_gpai_makers.md): drawn from the same source document, doc_0525.
 - [EU AI Act High Risk AI System Obligations](eu_ai_act_high_risk_ai_system_obligations.md): drawn from the same source document, doc_0564.
+- [EU AI Act Penalties For Non-Compliance](eu_ai_act_penalties_for_non_compliance.md): same source document (doc_0564)
+- [EU AI Act Phased Entry Into Force Timeline](eu_ai_act_phased_entry_into_force_timeline.md): same source document (doc_0525)
 
 ## Source
 

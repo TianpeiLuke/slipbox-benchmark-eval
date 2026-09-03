@@ -11,11 +11,18 @@ Co-founder and CEO Paul Vijender said during his presentation that the startup l
 
 ## Related Notes
 
+
 - [Alliance DAO Accelerator Program](alliance_dao_accelerator_program.md): same source document; the accelerator that showcased Upshield.
 - [Alliance DAO All11 Cohort Selectivity](alliance_dao_all11_cohort_selectivity.md): same source document; the batch it graduated in.
 - [Alliance DAO All11 Mentor Roster](alliance_dao_all11_mentor_roster.md): same source document; the mentors advising the batch.
 - [Blockcast Decentralized Broadcast Network](blockcast_decentralized_broadcast_network.md): same source document; a fellow cohort company raising a seed round.
 - [MasterClass Founder David Rogier's Seed Round](masterclass_founder_david_rogier_seed_round.md): overlaps in content on seed-stage platforms and experts, from a different source document.
+- [Building Web3 Startups In Bear-Market Conditions](crypto_bear_market_startup_conditions.md): same source document (doc_0465)
+- [Inco, Encrypted Ethereum Virtual Machine](inco_encrypted_evm_fhe_network.md): same source document (doc_0465)
+- [Kravata, LatAm Fiat-Crypto On-Ramp](kravata_latam_fiat_crypto_onramp.md): same source document (doc_0465)
+- [Sleepagotchi, NFT-Powered Sleep Game](sleepagotchi_nft_sleep_game.md): same source document (doc_0465)
+- [Tailwind, Cosmos-Based Smart Wallet](tailwind_cosmos_smart_wallet.md): same source document (doc_0465)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

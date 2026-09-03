@@ -11,9 +11,18 @@ Polygon describes it as an action comedy about women thieves on the run looking 
 
 ## Related Notes
 
+
 - [Possession (1981)](possession_1981_andrzej_zulawski_film.md): another film featuring Isabelle Adjani, from a different source document.
 - [Eli Roth Horror Filmography and Acting Roles](eli_roth_horror_filmography_and_acting_roles.md): also covers Inglourious Basterds, from a different source document.
 - [A Haunting In Venice](a_haunting_in_venice_poirot_mystery.md): drawn from the same source document (doc_0382).
+- [Freaks Vs. The Reich](freaks_vs_the_reich_italian_superhero_film.md): same source document (doc_0382)
+- [Insidious: The Red Door](insidious_the_red_door.md): same source document (doc_0382)
+- [Jawan](jawan_shah_rukh_khan_action_thriller.md): same source document (doc_0382)
+- [My Big Fat Greek Wedding 3](my_big_fat_greek_wedding_3.md): same source document (doc_0382)
+- [Netflix Games, November 2023](netflix_games_november_2023.md): same source document (doc_0392)
+- [Netflix's Licensed Library Additions, November 2023](netflix_licensed_library_additions_november_2023.md): same source document (doc_0392)
+- [Netflix's November 2023 Slate: Overview](netflix_november_2023_slate_overview.md): same source document (doc_0392)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

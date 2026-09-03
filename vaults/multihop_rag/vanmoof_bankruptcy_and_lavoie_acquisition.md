@@ -13,6 +13,7 @@ TechCrunch attributes the collapse to that same growth model: VanMoof's rapid gr
 
 ## Related Notes
 
+
 - [Bird E-Bike Relaunch And Delisting](bird_ebike_relaunch_and_delisting.md): overlapping coverage of VanMoof and the e-bike market, from a different source document.
 - [Volta Trucks Bankruptcy](volta_trucks_bankruptcy.md): overlapping coverage of an electric-vehicle maker's bankruptcy and asset sale, from a different source document.
 - [Adam Yedidia Testimony And Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): shares the venture-capital theme, from a different source document.
@@ -21,6 +22,16 @@ TechCrunch attributes the collapse to that same growth model: VanMoof's rapid gr
 - [AOC Twitch Among Us Stream](aoc_twitch_among_us_stream.md): shares the COVID-19-era boom theme, from a different source document.
 - [Ayman Sadiq Ten Minute School Origin](ayman_sadiq_ten_minute_school_origin.md): shares the COVID-19-era growth theme, from a different source document.
 - [Beeper Funding And Investors](beeper_funding_and_investors.md): shares the venture-capital theme, from a different source document.
+- [The Case Against Supersized Electric Vehicles](case_against_supersized_electric_vehicles.md): same source document (doc_0318)
+- [The Discontinuation Of The ElectraMeccanica Solo](electrameccanica_solo_discontinuation.md): same source document (doc_0318)
+- [The Cancellation Of The GM–Honda Affordable EV Partnership](gm_honda_affordable_ev_partnership_cancellation.md): same source document (doc_0318)
+- [The End Of Honda e Production](honda_e_production_end.md): same source document (doc_0318)
+- [The Mazda MX-30's US Discontinuation](mazda_mx_30_us_discontinuation.md): same source document (doc_0318)
+- [Revel's Moped-Sharing Shutdown](revel_moped_sharing_shutdown.md): same source document (doc_0318)
+- [The Cancellation Of The Sono Sion Solar EV](sono_sion_solar_ev_cancellation.md): same source document (doc_0318)
+- [Small EV And Bike-Share Options That Survived 2023](surviving_small_ev_and_bike_share_options.md): same source document (doc_0318)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

@@ -13,6 +13,7 @@ Two further relations extend the model beyond geometry. The first is concealment
 
 ## Related Notes
 
+
 - [Blackhawks-Penguins 2023 First Period Rust Opener](blackhawks_penguins_2023_first_period_rust_opener.md): also discusses Connor Bedard, from a different document.
 - [Blackhawks-Penguins 2023 Second Period: Bedard's First Point](blackhawks_penguins_2023_second_period_bedard_first_point.md): also discusses Connor Bedard, from a different document.
 - [Connor Bedard's Debut Performance And Pregame Scenes](connor_bedard_debut_performance_and_pregame_scenes.md): also discusses Connor Bedard and Auston Matthews, the comparison used here, from a different document.
@@ -20,6 +21,9 @@ Two further relations extend the model beyond geometry. The first is concealment
 - [Connor Bedard's Shooting Practice Habits](connor_bedard_shooting_practice_habits.md): where the mechanics described here were built, from the same article.
 - [Goalies And Peers On Defending Bedard's Shot](goalies_and_peers_on_defending_bedard_shot.md): how these mechanics look from the other end, from the same article.
 - [Scepticism About Bedard's Shooting Style At NHL Level](scepticism_about_bedard_shooting_style_at_nhl_level.md): the objection to this very pull-in habit, from the same article.
+- [Connor Bedard's Rookie Adjustment With The Blackhawks](connor_bedard_rookie_adjustment_with_the_blackhawks.md): same source document (doc_0102)
+- [Tim Turk's First Evaluation Of Connor Bedard](tim_turk_first_evaluation_of_connor_bedard.md): same source document (doc_0102)
+- [Tim Turk's NHL Protocol Observation Assessment](tim_turk_nhl_protocol_observation_assessment.md): same source document (doc_0102)
 
 ## Source
 

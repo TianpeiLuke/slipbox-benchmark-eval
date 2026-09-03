@@ -11,12 +11,20 @@ Arnold's team had finished seven points off automatic qualification for Qatar af
 
 ## Related Notes
 
+
 - [Cancelled China Tour And NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): shares the playoff and World Cup themes, from a different document.
 - [ChatGPT Mobile App Launches And Revenue](chatgpt_mobile_app_launches_and_revenue.md): also mentions the United Arab Emirates, from a different document.
 - [Christopher Bell 2023 Season Autosport Snub](christopher_bell_2023_season_autosport_snub.md): shares thematic tagging with this note, from a different document.
 - [COP28 Fossil Fuel Deal Slipped Away At The Last Hour](cop28_fossil_fuel_deal_slipped_away_at_the_last_hour.md): also concerns the United Arab Emirates, from a different document.
 - [Dean Evason Coaching Career Path](dean_evason_coaching_career_path.md): shares thematic tagging with this note, from a different document.
 - [AFC 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): the format that follows this campaign, from the same document.
+- [Andrew Redmayne Substitution In Peru Playoff](andrew_redmayne_substitution_in_peru_playoff.md): same source document (doc_0172)
+- [Graham Arnold Reflections On Coaching Development](graham_arnold_reflections_on_coaching_development.md): same source document (doc_0172)
+- [Graham Arnold Socceroos Coaching Appearance Record](graham_arnold_socceroos_coaching_appearance_record.md): same source document (doc_0172)
+- [James Johnson Tribute To Graham Arnold](james_johnson_tribute_to_graham_arnold.md): same source document (doc_0172)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

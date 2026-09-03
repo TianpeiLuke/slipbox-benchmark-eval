@@ -11,6 +11,7 @@ If the Agency is able to move quickly, TechCrunch judges it possible it could ha
 
 ## Related Notes
 
+
 - [ADMT: The CPPA's Definition Of Automated Decisionmaking Technology](admt_automated_decisionmaking_technology_definition.md): drawn from the same source document (doc_0164).
 - [CCPA To CPPA: The Regulatory Lineage](ccpa_cppa_regulatory_lineage.md): drawn from the same source document (doc_0164), and gives the statutory basis being implemented on this timeline.
 - [CPPA ADMT Access Rights And Disclosure Requirements](cppa_admt_access_rights_disclosure_requirements.md): drawn from the same source document (doc_0164).
@@ -19,6 +20,7 @@ If the Agency is able to move quickly, TechCrunch judges it possible it could ha
 - [CPPA ADMT Scope Thresholds](cppa_admt_scope_thresholds.md): drawn from the same source document (doc_0164), and lists the questions the consultation will settle.
 - [California's CPPA Publishes Draft ADMT Rules](cppa_draft_admt_regulations.md): drawn from the same source document (doc_0164).
 - [CPPA Pre-Use Notice Requirement](cppa_pre_use_notice_requirement.md): drawn from the same source document (doc_0164).
+- [The CPPA's Risk-Based Approach Versus The EU AI Act](cppa_risk_based_approach_versus_eu_ai_act.md): same source document (doc_0164)
 
 ## Source
 

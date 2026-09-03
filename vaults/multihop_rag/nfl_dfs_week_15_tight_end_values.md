@@ -11,11 +11,19 @@ Njoku had gone nuclear the previous weekend, catching six of his eight targets f
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers Joe Flacco, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): also covers Joe Flacco, from a different document.
 - [Mayfield Against Zone Coverage and at All Four Levels](baker_mayfield_zone_coverage_and_four_level_passing.md): covers the Buccaneers-Packers game these tight ends were priced for, from a different document.
 - [Ezekiel Elliott, Patriots Lead Back and FanDuel MVP](ezekiel_elliott_patriots_lead_back_fanduel_mvp.md): another weekly DFS picks column, from a different document.
 - [FanDuel Week 14 DFS QB and RB Picks](fanduel_week_14_dfs_qb_and_rb_picks.md): shares the daily fantasy and NFL themes, from a different document.
+- [The DFS Sleeper And Value Lineup Construction Method](dfs_sleeper_and_value_lineup_construction_method.md): same source document (doc_0544)
+- [NFL DFS Week 15 Defense And Special Teams Values](nfl_dfs_week_15_defense_special_teams_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Quarterback Values](nfl_dfs_week_15_quarterback_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Running Back Values](nfl_dfs_week_15_running_back_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Wide Receiver Values](nfl_dfs_week_15_wide_receiver_values.md): same source document (doc_0544)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

@@ -13,6 +13,7 @@ The delivery was heavy going. On October 6th, 2023 Wang had to explain to the ju
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): also concerns Gary Wang, from a different source document.
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): the witness who preceded him at the same trial, from a different source document.
 - [Alameda Research](alameda_research.md): the firm he co-founded, from a different source document.
@@ -20,6 +21,12 @@ The delivery was heavy going. On October 6th, 2023 Wang had to explain to the ju
 - [Alameda Research's Origins and Naming](alameda_research_origins_and_naming.md): his recruitment into the firm, from a different source document.
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the privilege he built and testified about (doc_0121).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): the loss transfer he carried out at Bankman-Fried's direction (doc_0121).
+- [The Escalation Of Alameda's Negative Balance](alameda_negative_balance_escalation.md): same source document (doc_0305)
+- [Can Sun's Testimony On Fabricated Justifications](can_sun_testimony_on_fabricated_justifications.md): same source document (doc_0121)
+- [Code Evidence Outweighs Deleted Signal Messages](code_evidence_outweighs_deleted_signal_messages.md): same source document (doc_0305)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Bail](term_bail.md): uses the concept bail
 
 ## Source
 

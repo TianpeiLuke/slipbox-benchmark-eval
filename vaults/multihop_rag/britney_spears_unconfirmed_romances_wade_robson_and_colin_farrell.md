@@ -11,6 +11,7 @@ In 2003, Spears and Colin Farrell made headlines when they were spotted holding 
 
 ## Related Notes
 
+
 - [Britney Spears Conservatorship Under Jamie Spears](britney_spears_conservatorship_under_jamie_spears.md): the later legal chapter of the same singer's story
 - [Eddie Jones Denies Japan Head Coach Talks](eddie_jones_denies_japan_head_coach_talks.md): an unrelated article that similarly turns on a public denial of reported talks
 - [Swift And Kelce Public Appearances Together](swift_and_kelce_public_appearances_together.md): unrelated celebrity-couple speculation also sourced to Entertainment Tonight
@@ -19,6 +20,8 @@ In 2003, Spears and Colin Farrell made headlines when they were spotted holding 
 - [Britney Spears Adnan Ghalib Relationship](britney_spears_adnan_ghalib_relationship.md): a confirmed relationship from the same timeline article
 - [Britney Spears And Justin Timberlake Relationship](britney_spears_and_justin_timberlake_relationship.md): the breakup that preceded these rumours, same article
 - [Britney Spears Charlie Ebersol Relationship](britney_spears_charlie_ebersol_relationship.md): another entry in the same relationship timeline
+- [Britney Spears And David Lucado](britney_spears_david_lucado_relationship.md): same source document (doc_0051)
+- [Britney Spears' 55-Hour Marriage To Jason Alexander](britney_spears_jason_alexander_55_hour_marriage.md): same source document (doc_0051)
 
 ## Source
 

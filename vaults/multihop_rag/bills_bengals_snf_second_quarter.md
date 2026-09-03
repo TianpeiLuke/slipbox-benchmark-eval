@@ -15,11 +15,18 @@ Buffalo's two-minute drive died on a penalty. Allen found Shakir for 22 to the 4
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): overlapping Bengals, Burrow and Bills content, from a different document.
 - [Cincinnati Bengals: Joe Burrow's Durability and the Offensive Line](cincinnati_bengals_joe_burrow_durability_and_line.md): also concerns Burrow's protection against Buffalo, separately sourced.
 - [Fantasy WR PPR Rankings Week 14 Full List](fantasy_wr_ppr_rankings_week_14_full_list.md): also lists Gabe Davis and Trenton Irwin, in a different document.
 - [Garrett Wilson's Fantasy Outlook, Weeks 5 and 6 2023](garrett_wilson_fantasy_outlook_weeks_5_and_6_2023.md): also discusses Gabe Davis, from a separate source.
 - [Ja'Marr Chase Week 10 Injury Status](jamarr_chase_week_10_injury_status.md): also mentions Trenton Irwin, in a different document.
+- [Bills At Bengals Broadcast Details](bills_bengals_snf_broadcast_details.md): same source document (doc_0294)
+- [The First Quarter Of Bengals 24, Bills 18](bills_bengals_snf_first_quarter.md): same source document (doc_0294)
+- [The Fourth Quarter Of Bengals 24, Bills 18](bills_bengals_snf_fourth_quarter.md): same source document (doc_0294)
+- [Pregame Notes From Bills At Bengals](bills_bengals_snf_pregame_notes.md): same source document (doc_0294)
+- [Bengals 24, Bills 18 On Sunday Night Football](bills_bengals_snf_result_and_recap.md): same source document (doc_0294)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

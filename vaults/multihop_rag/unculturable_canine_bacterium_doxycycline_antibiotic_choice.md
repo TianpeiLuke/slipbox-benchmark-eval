@@ -13,6 +13,7 @@ The scope of the claim matters. It is a suggestion inferred from structure, not 
 
 ## Related Notes
 
+
 - [Antibiotic Stewardship Practices](antibiotic_stewardship_practices.md): shares the bacteria, antibiotic and drug-choice vocabulary, from a different source article.
 - [Bacteriophage Therapy Basics](bacteriophage_therapy_basics.md): another approach to killing bacteria when antibiotics are in question, from a different source article.
 - [Brussels Airport Bombing Superbug Case](brussels_airport_bombing_superbug_case.md): shares bacteria and antibiotic vocabulary, from a different source article.
@@ -21,6 +22,8 @@ The scope of the claim matters. It is a suggestion inferred from structure, not 
 - [AKC Owner and Vet Action Guidance for Canine Illness](akc_owner_and_vet_action_guidance_canine_illness.md): the owner-and-vet side of responding to the same illness, from the same Yahoo News report (doc_0565).
 - [Atypical Small-Genome Canine Microbiome Bacterium](atypical_small_genome_canine_microbiome_bacterium.md): the organism whose structure guided this drug suggestion, from the same report (doc_0565).
 - [Canine Atypical Respiratory Illness of 2023](canine_atypical_respiratory_illness_2023_outbreak.md): the illness this treatment question arises from, from the same report (doc_0565).
+- [Canine Illness True Case Count Likely in the Thousands](canine_illness_true_case_count_likely_thousands.md): same source document (doc_0565)
+- [Canine Respiratory Illness Cause: Evidence and Caveats](canine_respiratory_illness_cause_evidence_caveats.md): same source document (doc_0565)
 
 ## Source
 

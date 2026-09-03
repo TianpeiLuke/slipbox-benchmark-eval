@@ -13,11 +13,20 @@ The warrant TechCrunch draws from that episode is about the development model ra
 
 ## Related Notes
 
+
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): shares the LLM and open-source subject area, from a different document.
 - [ChatGPT Third-Party Integrations And Ecosystem](chatgpt_third_party_integrations_and_ecosystem.md): shares the LLM and open-source subject area, from a different document.
 - [Epic's Rebuttal Of Google's Leaked Email Summary](epic_rebuttal_of_googles_leaked_email_summary.md): overlaps on leaked internal Google documents, from a different document.
 - [French AI Startups' State Backing And Compliance Edge](french_ai_startups_state_backing_and_compliance_edge.md): shares the LLM and open-source subject area, from a different document.
 - [LLM Stack Layers](llm_stack_layers.md): shares the LLM and open-source subject area, from a different document.
+- [Llama's Open Source Licensing Limits](llama_open_source_licensing_limits.md): same source document (doc_0054)
+- [Meta Positioned To Benefit From The OpenAI Turmoil](meta_positioned_to_benefit_from_openai_turmoil.md): same source document (doc_0054)
+- [Mozilla's Open Letter On AI Openness](mozilla_open_letter_on_ai_openness.md): same source document (doc_0054)
+- [The OpenAI Board Ousts Sam Altman, November 2023](openai_board_ousts_sam_altman_november_2023.md): same source document (doc_0054)
+- [The OpenAI Crisis As A Case Against Centralized AI Control](openai_crisis_risk_of_centralized_ai_control.md): same source document (doc_0054)
+- [Data Breach](term_data_breach.md): uses the concept data breach
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
+- [Open Source](term_open_source.md): uses the concept open source
 
 ## Source
 

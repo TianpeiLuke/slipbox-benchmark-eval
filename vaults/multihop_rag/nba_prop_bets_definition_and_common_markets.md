@@ -13,11 +13,17 @@ Typical NBA player props include how many points a player will score, the number
 
 ## Related Notes
 
+
 - [Drawbacks of Prop Bets](drawbacks_of_prop_bets.md): the downside of the same bet type, different source document
 - [Exotic Prop Bets](exotic_prop_bets.md): a further category of props, different source document
 - [Frisco Bowl Player Prop Bets at BetMGM](frisco_bowl_player_prop_bets_at_betmgm.md): a worked example of player props, different sport and source
 - [Kentucky Legal Sports Betting Launch and History](kentucky_legal_sports_betting_launch_and_history.md): the legal-market context for placing these bets, different source document
 - [Line Shopping in Sports Betting](line_shopping_in_sports_betting.md): the practice of shopping around this note recommends, different source document
+- [Three Strategy Tips For NBA Prop Betting](nba_prop_betting_strategy_tips.md): same source document (doc_0497)
+- [NBA Team Props Versus Player Props](nba_team_props_versus_player_props.md): same source document (doc_0497)
+- [Opening And Funding An Online Sportsbook Account](opening_and_funding_an_online_sportsbook_account.md): same source document (doc_0497)
+- [Reading American Odds For NBA Props](reading_american_odds_for_nba_props.md): same source document (doc_0497)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

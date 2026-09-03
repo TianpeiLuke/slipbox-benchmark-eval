@@ -13,6 +13,7 @@ The first of these was Hardcore, a brilliant permadeath mode that instantly made
 
 ## Related Notes
 
+
 - [Passages (Ira Sachs)](passages_ira_sachs.md): another write-up by the same critic, Oli Welsh, from a different source document
 - [World of Warcraft Classic Origin](world_of_warcraft_classic_origin.md): covers the origins of the same retro service, from a separate article
 - [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
@@ -21,6 +22,8 @@ The first of these was Hardcore, a brilliant permadeath mode that instantly made
 - [Baldur's Gate 3](baldurs_gate_3.md): another top-ranked entry from the same list
 - [Blasphemous 2](blasphemous_2.md): another game from the same best-of-2023 article
 - [Chants of Sennaar](chants_of_sennaar.md): a fellow entry on the same ranked list
+- [Cocoon (Geometric Interactive)](cocoon_geometric_interactive.md): same source document (doc_0213)
+- [Cyberpunk 2077: Phantom Liberty](cyberpunk_2077_phantom_liberty.md): same source document (doc_0213)
 
 ## Source
 

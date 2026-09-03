@@ -13,6 +13,7 @@ With dialysis starting in January she had no option but to hang up the boots and
 
 ## Related Notes
 
+
 - [Charlie Edwards, AFL Draft Prospect 2023](charlie_edwards_afl_draft_prospect_2023.md): also concerns the Western Bulldogs, from a different document.
 - [Clay Hall, AFL Draft Prospect 2023](clay_hall_afl_draft_prospect_2023.md): also concerns the Western Bulldogs, from a different document.
 - [Jordan Croft, AFL Draft Prospect 2023](jordan_croft_afl_draft_prospect_2023.md): also concerns the Western Bulldogs, from a different document.
@@ -21,6 +22,8 @@ With dialysis starting in January she had no option but to hang up the boots and
 - [AFLW 2023 Finals Qualification and Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): drawn from the same document (doc_0209).
 - [AFLW 2023 Tackle and Bump Suspension Debate](aflw_2023_tackle_and_bump_suspension_debate.md): drawn from the same document (doc_0208).
 - [Brisbane Lions' 2023 AFLW Top-Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): drawn from the same document (doc_0208).
+- [Collingwood-Geelong's Wind And Rain Contest, 2023](collingwood_geelong_wind_and_rain_contest_2023.md): same source document (doc_0208)
+- [Erin Phillips' AFLW Retirement](erin_phillips_aflw_retirement.md): same source document (doc_0209)
 
 ## Source
 

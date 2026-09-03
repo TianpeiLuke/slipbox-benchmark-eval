@@ -11,6 +11,7 @@ Cohen's name was already familiar from another trial: he also represented Ghisla
 
 ## Related Notes
 
+
 - [Cohen's Cross-Examination Of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): also concerns Mark Cohen, from a different source document.
 - [The Defense's Good-Faith Case For Bankman-Fried](defense_good_faith_case_for_bankman_fried.md): also concerns Mark Cohen, from a different source document.
 - [Defense Opening Statement: The Plane Metaphor](defense_opening_statement_plane_metaphor.md): also concerns Mark Cohen, from a different source document.
@@ -19,6 +20,8 @@ Cohen's name was already familiar from another trial: he also represented Ghisla
 - [Alameda Research](alameda_research.md): drawn from the same source document (doc_0010).
 - [Crypto Contagion After FTX](crypto_contagion_after_ftx.md): drawn from the same source document (doc_0010).
 - [FTX](ftx.md): drawn from the same source document (doc_0010).
+- [FTX's Bankruptcy And Leadership](ftx_bankruptcy_and_leadership.md): same source document (doc_0010)
+- [The Mechanism Of FTX's Collapse](ftx_collapse_mechanism.md): same source document (doc_0010)
 
 ## Source
 

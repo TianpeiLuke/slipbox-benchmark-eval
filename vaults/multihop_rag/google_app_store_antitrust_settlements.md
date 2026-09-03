@@ -11,12 +11,19 @@ Epic seems to have no interest in settling as long as the "Google tax" exists, a
 
 ## Related Notes
 
+
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): overlaps on the conduct these settlements concerned, from a different source document.
 - [Epic Games 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): also concerns Tim Sweeney's company, from a different source document.
 - [Epic Games Store Growth And Diversification Beyond Games](epic_games_store_growth_and_diversification_beyond_games.md): also concerns Sweeney's store strategy, from a different source document.
 - [Epic Games v. Google Antitrust Trial](epic_games_v_google_antitrust_trial.md): covers the trial Epic pressed on alone, from a different source document.
 - [Epic's Post-Verdict Remedy Strategy And Global Cases](epic_post_verdict_remedy_strategy_and_global_cases.md): shows Epic continuing to refuse cash outcomes, from a different source document.
 - [The Market Definition Fight In Epic v. Google](android_app_distribution_market_definition.md): drawn from the same source document (doc_0355).
+- [Hypocrisy On Both Sides Of The Courtroom](epic_and_google_courtroom_hypocrisy.md): same source document (doc_0355)
+- [Epic's Antitrust Claims Against Google Play](epic_antitrust_claims_against_google_play.md): same source document (doc_0355)
+- [Project Liberty: Epic's Deliberate Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): same source document (doc_0355)
+- [The Epic v. Apple Ruling And Its Limited Weight Here](epic_v_apple_ruling_as_precedent.md): same source document (doc_0355)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
+- [Antitrust](term_antitrust.md): uses the concept antitrust
 
 ## Source
 

@@ -13,11 +13,19 @@ X was contacted for a response to the EU's analysis of the ratio of disinformati
 
 ## Related Notes
 
+
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): also covers Elon Musk, from a different source document.
 - [Apple USB C Accessory Transition](apple_usb_c_accessory_transition.md): also covers European Union, from a different source document.
 - [BEUC Consumer Complaint Meta Pay or Consent](beuc_consumer_complaint_meta_pay_or_consent.md): also covers European Union, from a different source document.
 - [ChatGPT Misuse Fears versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): also covers Elon Musk, from a different source document.
 - [CJEU 2020 Ruling on Rental Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): also covers European Union, from a different source document.
+- [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): same source document (doc_0248)
+- [The EU Code Of Practice On Disinformation](eu_code_of_practice_on_disinformation.md): same source document (doc_0248)
+- [EU Demands On Fact-Checking And Researcher Data Access](eu_demands_on_fact_checking_and_researcher_data_access.md): same source document (doc_0248)
+- [EU Warning On Deepfake Election Risks](eu_warning_on_deepfake_election_risks.md): same source document (doc_0248)
+- [Google's Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): same source document (doc_0248)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Very Large Online Platform (VLOP)](term_very_large_online_platform.md): uses the concept very large online platform
 
 ## Source
 

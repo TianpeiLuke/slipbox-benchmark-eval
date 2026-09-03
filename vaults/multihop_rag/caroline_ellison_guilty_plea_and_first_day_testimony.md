@@ -13,12 +13,20 @@ The defendant's own reaction registered the shift: Bankman-Fried had been vibrat
 
 ## Related Notes
 
+
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): also concerns Sam Bankman-Fried, from a different source document.
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): also concerns Alameda Research, from a different source document.
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): her account of growing comfortable with the conduct, from a different source document.
 - [Alameda Research](alameda_research.md): the firm she led, from a different source document.
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): the conduct she pleaded guilty to, from a different source document.
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the facility she described in the same testimony (doc_0086).
+- [Ellison's Risk Spreadsheet For Venture Investments](ellison_risk_spreadsheet_for_venture_investments.md): same source document (doc_0086)
+- [The FTT Token And The "Sam Coins"](ftt_token_and_sam_coins.md): same source document (doc_0086)
+- [FTX Fraud Charges And The SEC's Allegation](ftx_fraud_charges_and_sec_allegation.md): same source document (doc_0086)
+- [FTX Ventures Was Funded By Alameda](ftx_ventures_funded_by_alameda.md): same source document (doc_0086)
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Plea Agreement](term_plea_agreement.md): uses the concept plea agreement
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

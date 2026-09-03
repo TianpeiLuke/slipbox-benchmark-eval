@@ -11,11 +11,18 @@ Asked what she is most proud of in the past 12 months, she called it an incredib
 
 ## Related Notes
 
+
 - [Beatles Now And Then 2023 Release](beatles_now_and_then_2023_release.md): drawn from the same interview and is one of the year's headline campaigns behind these results.
 - [Capitol 2023 Frontline Roster Highlights](capitol_2023_frontline_roster_highlights.md): drawn from the same interview and lists the releases that made up the year.
 - [Capitol Hip Hop And RnB Executive Build Out](capitol_hip_hop_and_rnb_executive_build_out.md): drawn from the same interview and covers the hiring behind the recovery.
 - [Capitol International First And Direct To Fan Strategy](capitol_international_first_and_direct_to_fan_strategy.md): drawn from the same interview and covers a strategy contributing to these results.
 - [Capitol Music Group Leadership Turmoil 2020 2021](capitol_music_group_leadership_turmoil_2020_2021.md): drawn from the same interview and gives the starting position this turnaround is measured from.
+- [Capitol Music Group's Organisational Reset Priorities](capitol_music_group_organisational_reset_priorities.md): same source document (doc_0212)
+- [Jubelirer's Diagnosis Of Capitol's Pre-2021 Decline](capitol_music_group_pre_2021_decline_diagnosis.md): same source document (doc_0212)
+- [Caroline And Virgin Music Group's Spin-Out From CMG](caroline_virgin_music_group_spin_out_from_cmg.md): same source document (doc_0212)
+- [CMG's Partner Labels: Quality Control And 10K Projects](cmg_partner_labels_quality_control_and_10k_projects.md): same source document (doc_0212)
+- [Doechii's "What It Is (Block Boy)" Campaign](doechii_what_it_is_block_boy_campaign.md): same source document (doc_0212)
+- [Total Addressable Market (TAM)](term_total_addressable_market.md): uses the concept total addressable market
 
 ## Source
 

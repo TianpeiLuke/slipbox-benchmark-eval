@@ -13,11 +13,19 @@ Newcastle's sporting director, Dan Ashworth, and Paul Mitchell, Monaco's sportin
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): another note on the squad Ten Hag and Murtough assembled.
 - [Erik Ten Hag Position After Champions League Exit](erik_ten_hag_position_after_champions_league_exit.md): the manager who shares the transfer veto described here.
 - [Erik Ten Hag Selection U-Turns: Varane and Maguire](erik_ten_hag_selection_u_turns_varane_maguire.md): another note on Ten Hag's handling of the squad.
 - [Ineos Plan for Manchester United Football Operations](ineos_plan_for_manchester_united_football_operations.md): also discusses Paul Mitchell as part of the Ineos structure.
 - [Jim Ratcliffe Minority Stake in Manchester United](jim_ratcliffe_minority_stake_in_manchester_united.md): the deal that gives Ratcliffe this say over personnel.
+- [Erik Ten Hag's Position Under Ratcliffe](erik_ten_hag_position_under_ratcliffe.md): same source document (doc_0089)
+- [Glazer Communications Silence and Ratcliffe's PR Task](glazer_communications_silence_and_ratcliffe_pr_task.md): same source document (doc_0089)
+- [Jean-Claude Blanc and the United Chief Executive Challenge](jean_claude_blanc_and_the_united_chief_executive_challenge.md): same source document (doc_0089)
+- [Old Trafford and Carrington Infrastructure Decay](old_trafford_and_carrington_infrastructure_decay.md): same source document (doc_0089)
+- [Ratcliffe-Glazer Ownership Split and Control Risk](ratcliffe_glazer_ownership_split_and_control_risk.md): same source document (doc_0089)
+- [Contract Extension](term_contract_extension.md): uses the concept contract extension
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

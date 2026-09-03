@@ -13,6 +13,7 @@ The warrant that makes strict rules acceptable is the decentralized structure it
 
 ## Related Notes
 
+
 - [Johansson Parliament Hearing](johansson_parliament_hearing.md): shares the CSAM-scanning and platform-harms themes, from a different document.
 - [Ofcom Illegal Harms Codes Of Practice](ofcom_illegal_harms_codes_of_practice.md): overlaps on illegal content and self-harm rules, from a different document.
 - [The Attention Economy And Limbic Capitalism](attention_economy_and_limbic_capitalism.md): covers the engagement incentive this stance rejects, from a different document.
@@ -21,6 +22,16 @@ The warrant that makes strict rules acceptable is the decentralized structure it
 - [ChatGPT Political Disinformation Guardrail Failure](chatgpt_political_disinformation_guardrail_failure.md): shares the disinformation theme, from a different document.
 - [Contested Evidence On Social Media Harm](contested_evidence_on_social_media_harm.md): bears on the harms this moderation targets, from a different document.
 - [CSAM Proposal Opposition](csam_proposal_opposition.md): shares the CSAM subject area, from a different document.
+- [The Fediverse And The ActivityPub Protocol](fediverse_activitypub_protocol.md): same source document (doc_0026)
+- [Fediverse Onboarding Barriers And Mozilla's Proposed Fixes](fediverse_onboarding_barriers_and_mozilla_fixes.md): same source document (doc_0026)
+- [Mozilla's Rationale For Investing In The Fediverse](mozilla_fediverse_investment_rationale.md): same source document (doc_0026)
+- [Mozilla.social's Content Discovery Experiments](mozilla_social_content_discovery_experiments.md): same source document (doc_0026)
+- [Mozilla.social: The Private Beta Mastodon Instance](mozilla_social_mastodon_instance_beta.md): same source document (doc_0026)
+- [Mozilla.social's Publisher And Creator Outreach](mozilla_social_publisher_and_creator_outreach.md): same source document (doc_0026)
+- [Pebble/T2's Shutdown As A Warning To Moderation-First Products](pebble_t2_moderation_first_twitter_clone_shutdown.md): same source document (doc_0026)
+- [Social Networks' Drift From Connection To Algorithmic Feeds](social_networks_drift_from_connection_to_algorithmic_feeds.md): same source document (doc_0026)
+- [CSAM Scanning](term_csam_scanning.md): uses the concept csam scanning
+- [Disinformation](term_disinformation.md): uses the concept disinformation
 
 ## Source
 

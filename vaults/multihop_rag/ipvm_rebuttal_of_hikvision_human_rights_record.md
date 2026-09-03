@@ -13,6 +13,7 @@ The specific rebuttal comes from Conor Healy, director of government research at
 
 ## Related Notes
 
+
 - [Civil Society Criticism Of The EU AI Act's Biometrics Limits](civil_society_criticism_of_eu_ai_act_biometrics_limits.md): overlaps on surveillance and human rights criticism, from a different source document.
 - [Amnesty's Automated Apartheid Report On West Bank Surveillance](amnesty_automated_apartheid_report_on_west_bank_surveillance.md): drawn from the same source document (doc_0336).
 - [Amnesty's Verification Of CCTV-Identified Detentions](amnesty_verification_of_cctv_identified_detentions.md): drawn from the same source document (doc_0336).
@@ -21,6 +22,8 @@ The specific rebuttal comes from Conor Healy, director of government research at
 - [Hikvision Video Surveillance Company Profile](hikvision_video_surveillance_company_profile.md): drawn from the same source document (doc_0336).
 - [Mabat 2000, The Israeli Facial Recognition Network](mabat_2000_israeli_facial_recognition_network.md): drawn from the same source document (doc_0336).
 - [Surveillance As A Restriction On Palestinian Freedom Of Movement](surveillance_as_restriction_on_palestinian_freedom_of_movement.md): drawn from the same source document (doc_0336).
+- [Surveillance Camera Saturation In Occupied East Jerusalem](surveillance_camera_saturation_in_occupied_east_jerusalem.md): same source document (doc_0336)
+- [West Bank And Gaza Casualties, October-November 2023](west_bank_and_gaza_casualties_october_november_2023.md): same source document (doc_0336)
 
 ## Source
 

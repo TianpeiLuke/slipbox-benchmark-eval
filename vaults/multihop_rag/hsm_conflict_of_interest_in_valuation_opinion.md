@@ -11,11 +11,19 @@ The warrant is that the party asked to judge the value is also a party that stan
 
 ## Related Notes
 
+
 - [Cybersecurity Consolidation Wave 2023](cybersecurity_consolidation_wave_2023.md): shares corpus tags on acquisitions and valuation, from a different source document.
 - [Dave Clark Ouster From Flexport](dave_clark_ouster_from_flexport.md): shares corpus tags on acquisitions and valuation, from a different source document.
 - [Hipgnosis 440 Million Catalog Sale To Hipgnosis Songs Capital](hipgnosis_440_million_catalog_sale_to_hipgnosis_songs_capital.md): covers the failed bid whose price this argument uses as its benchmark, from a different source document.
 - [OpenAI Corporate Deals And Business Moves](openai_corporate_deals_and_business_moves.md): shares corpus tags on acquisitions and valuation, from a different source document.
 - [Rani Zim Search For A Psagot Buyer](rani_zim_search_for_a_psagot_buyer.md): shares corpus tags on acquisitions and valuation, from a different source document.
+- [The Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): same source document (doc_0263)
+- [Hipgnosis Songs Fund's Results Delay, December 2023](hipgnosis_songs_fund_results_delay_december_2023.md): same source document (doc_0263)
+- [The Board Appoints And Oversees Its Own Valuer](hsf_board_appoints_and_oversees_its_own_valuer.md): same source document (doc_0263)
+- [The HSF Board Versus Hipgnosis Song Management](hsf_board_versus_hipgnosis_song_management_dispute.md): same source document (doc_0263)
+- [The Announcement As A Coded Signal About Mercuriadis' Call Option](hsf_coded_signal_and_mercuriadis_call_option.md): same source document (doc_0263)
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

@@ -11,6 +11,7 @@ The board included Founders Fund's Trae Stephens, who had helped start defense-t
 
 ## Related Notes
 
+
 - [Autobrains Hires Uri Yacovy as Coo](autobrains_hires_uri_yacovy_as_coo.md): shares vocabulary around operating and former, from a different source document.
 - [Israel Tech Industry Boycott](israel_tech_industry_boycott.md): also discusses Founders Fund, from a different source document.
 - [OpenAI Corporate Deals and Business Moves](openai_corporate_deals_and_business_moves.md): also involves Andreessen Horowitz and Founders Fund, from a different source document.
@@ -19,6 +20,7 @@ The board included Founders Fund's Trae Stephens, who had helped start defense-t
 - [Dave Clark Hiring and Flexport Ipo Plan](dave_clark_hiring_and_flexport_ipo_plan.md): another note drawn from the same source document (doc_0536).
 - [Dave Clark's Ouster From Flexport](dave_clark_ouster_from_flexport.md): the removal this board voted on (doc_0536).
 - [Flexport Forecast Dispute and Whistleblower Claim](flexport_forecast_dispute_and_whistleblower_claim.md): the August board meeting at the centre of the dispute (doc_0536).
+- [Flexport Versus Amazon In End-To-End Supply Chain Services](flexport_versus_amazon_supply_chain_service.md): same source document (doc_0536)
 
 ## Source
 

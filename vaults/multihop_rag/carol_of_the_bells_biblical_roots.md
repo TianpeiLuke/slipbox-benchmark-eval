@@ -11,6 +11,7 @@ Three passages are cited. Zechariah 14:20 reads: "And on that day there shall be
 
 ## Related Notes
 
+
 - [In God We Trust: Motto Origins](in_god_we_trust_motto_origins_and_founding_documents.md): also draws on the Old Testament, from a different source document.
 - [American Pie's Billboard Record and Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
 - [Don McLean's Career Honours and Recognition](don_mclean_career_honours_and_recognition.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
@@ -19,6 +20,8 @@ Three passages are cited. Zechariah 14:20 reads: "And on that day there shall be
 - [Carols Express Both Joy and Sorrow](carols_express_both_joy_and_sorrow.md): drawn from the same source document, doc_0270.
 - [Christmas Carols and Advertising](christmas_carols_and_advertising.md): drawn from the same source document, doc_0270, and names this carol as the one most used in ads.
 - [Christmas Hope Amid War and Suffering](christmas_hope_amid_war_and_suffering.md): drawn from the same source document, doc_0270.
+- [The Structure of "I Heard the Bells"](i_heard_the_bells_poem_structure.md): same source document (doc_0270)
+- [Longfellow's "I Heard the Bells", 1863](longfellow_i_heard_the_bells_origin_1863.md): same source document (doc_0270)
 
 ## Source
 

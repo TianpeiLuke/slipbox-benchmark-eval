@@ -11,6 +11,7 @@ The warrant joining grounds to claim is a claim about what labels are for: in a 
 
 ## Related Notes
 
+
 - [Believe Marketing Playbook for Si No Estas](believe_marketing_playbook_for_si_no_estas.md): concerns the same YouTube-and-Spotify distribution landscape.
 - [Caroline Virgin Music Group Spin-Out from CMG](caroline_virgin_music_group_spin_out_from_cmg.md): another note on label and distribution structures.
 - [EU-US Performance Rights Asymmetry](eu_us_performance_rights_asymmetry.md): another note on what labels and rights holders earn.
@@ -19,6 +20,8 @@ The warrant joining grounds to claim is a claim about what labels are for: in a 
 - [Dispute Over Readiness of AI Content Detection Tooling](dispute_over_readiness_of_ai_content_detection_tooling.md): drawn from the same Code Conference report.
 - [Kyncl Prediction Music First Industry to Feel AI Impact](kyncl_prediction_music_first_industry_to_feel_ai_impact.md): drawn from the same Code Conference report.
 - [Kyncl Rebuttal: Labels Persist Like Ad Agencies After AdWords](kyncl_rebuttal_labels_persist_like_ad_agencies_after_adwords.md): the direct counterpoint Kyncl offered to this thesis.
+- [Music Catalog Acquisition Market Slowdown 2023](music_catalog_acquisition_market_slowdown_2023.md): same source document (doc_0455)
+- [Music Streaming Price Hikes and Emerging Market Growth](music_streaming_price_hikes_and_emerging_market_growth.md): same source document (doc_0455)
 
 ## Source
 

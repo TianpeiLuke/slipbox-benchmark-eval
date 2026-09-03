@@ -13,12 +13,17 @@ Urann purchased cranberry farms in Massachusetts early in the 20th century and s
 
 ## Related Notes
 
+
 - [Cranberry Industry Scale And Urann Legacy](cranberry_industry_scale_and_urann_legacy.md): same article, on how far the industry grew from 1912
 - [American Cranberry Native Range And Harvest Window](american_cranberry_native_range_and_harvest_window.md): same article, on the short season canning solved
 - [Cranberries And New England Regional Identity](cranberries_and_new_england_regional_identity.md): same source document
 - [Cranberry Domestication And Us Cultivation History](cranberry_domestication_and_us_cultivation_history.md): overlaps strongly on cranberry cultivation in Massachusetts, different document
 - [Cranberry Air Pockets And Seed Dispersal](cranberry_air_pockets_and_seed_dispersal.md): overlaps on cranberries and bogs, different document
 - [Ouija Board Origin And 1891 Patent](ouija_board_origin_and_1891_patent.md): also cites Smithsonian Magazine, unrelated subject
+- [Cranberry Flower and Pollination Biology](cranberry_flower_and_pollination_biology.md): content overlap 0.15 on cranberry, cranberries, bogs; different source document
+- [Flipboard's ActivityPub Federation Launch](flipboard_activitypub_federation_launch.md): both discuss Smithsonian Magazine; different source document
+- [The Cranberry Wet-Harvesting Method](cranberry_wet_harvesting_method.md): same source document (doc_0130)
+- [Marcus Urann, The "Cranberry King"](marcus_urann_cranberry_king_biography.md): same source document (doc_0130)
 
 ## Source
 

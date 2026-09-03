@@ -13,6 +13,7 @@ Over the next six months, Meta says it wants to "work with partners in governmen
 
 ## Related Notes
 
+
 - [ChatGPT Misuse Fears versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): shares the disinformation and generative AI theme, from a different source document.
 - [Meta Quest 2 Black Friday Bundle Price](meta_quest_2_black_friday_bundle_price.md): substantial content overlap on meta, code, from a different source document.
 - [Adobe Generative AI Tools](adobe_generative_ai_tools.md): shares the generative AI theme, from a different source document.
@@ -21,6 +22,16 @@ Over the next six months, Meta says it wants to "work with partners in governmen
 - [AI Market Spending Forecasts](ai_market_spending_forecasts.md): shares the generative AI theme, from a different source document.
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the generative AI theme, from a different source document.
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): shares the generative AI theme, from a different source document.
+- [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): same source document (doc_0248)
+- [The EU Code Of Practice On Disinformation](eu_code_of_practice_on_disinformation.md): same source document (doc_0248)
+- [EU Demands On Fact-Checking And Researcher Data Access](eu_demands_on_fact_checking_and_researcher_data_access.md): same source document (doc_0248)
+- [EU Warning On Deepfake Election Risks](eu_warning_on_deepfake_election_risks.md): same source document (doc_0248)
+- [Google's Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): same source document (doc_0248)
+- [Kremlin Propaganda And Platform Countermeasures](kremlin_propaganda_and_platform_countermeasures.md): same source document (doc_0248)
+- [Microsoft's Generative AI Disinformation Measures](microsoft_generative_ai_disinformation_measures.md): same source document (doc_0248)
+- [TikTok's Synthetic Media Policy And Disinformation Measures](tiktok_synthetic_media_policy_and_disinformation_measures.md): same source document (doc_0248)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

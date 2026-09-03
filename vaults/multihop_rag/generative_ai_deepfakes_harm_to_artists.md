@@ -11,11 +11,19 @@ The grounds are economic and reputational. "An artist literally makes their live
 
 ## Related Notes
 
+
 - [AI Copyright and Training Disputes](ai_copyright_and_training_disputes.md): overlaps on deepfakes and generative AI disputes, from a different source document.
 - [Generative AI for Robot Design and Path Planning](generative_ai_for_robot_design_and_path_planning.md): shares vocabulary around generative, promise and literally, from a different source document.
 - [Google Filing Versus YouTube Music Reassurances](google_filing_versus_youtube_music_reassurances.md): also concerns Sony Music's AI stance, from a different source document.
 - [Openai Developer Platform and Api Releases](openai_developer_platform_and_api_releases.md): overlaps on generative ai, payment processor subject matter, from a different source document.
 - [Sony Music Artist-Led Approach to AI](sony_music_artist_led_approach_to_ai.md): how the same company handles voice cloning with its roster, from a different source document.
+- [Anthropic's Fair Use Defense For AI Training](anthropic_fair_use_defense_for_ai_training.md): same source document (doc_0380)
+- [Ed Newton-Rex's Resignation From Stability AI](ed_newton_rex_resignation_stability_ai.md): same source document (doc_0380)
+- [Google's USCO Filing On AI Training And Fair Use](google_usco_filing_ai_training_fair_use.md): same source document (doc_0380)
+- [Kooker's Rebuttal Of The Tech Industry's "Distorted View Of Copyright"](kooker_on_tech_industry_distorted_copyright_view.md): same source document (doc_0380)
+- [Schumer's AI Insight Forum On Creative Copyright](schumer_ai_insight_forum_on_copyright.md): same source document (doc_0380)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
 
 ## Source
 

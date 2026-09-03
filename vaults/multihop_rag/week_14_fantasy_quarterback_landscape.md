@@ -11,11 +11,18 @@ The column's Week 14 quarterback rankings were framed as help for start-'em, sit
 
 ## Related Notes
 
+
 - [Bye-Free Weeks Complicate Lineup Decisions](bye_free_weeks_complicate_lineup_decisions.md): also concerns how byes shape weekly lineup decisions, from a different document.
 - [Fantasy RB Week 14 Top Starts, PPR](fantasy_rb_week_14_top_starts_ppr.md): the same week's running back guidance, from a different document.
 - [Fantasy RB Week 14 Top Starts, Standard](fantasy_rb_week_14_top_starts_standard.md): the same week's running back guidance in standard scoring, from a different document.
 - [Fantasy Week 12 Schedule and No-Bye Teams](fantasy_week_12_schedule_and_no_bye_teams.md): the same weekly column format earlier in the season, from a different document.
 - [Justin Jefferson Week 14 Return From Injury](justin_jefferson_week_14_return_from_injury.md): covers the same week's rankings landscape at another position, from a different document.
+- [Week 14's Biggest Potential Quarterback Busts](week_14_fantasy_quarterback_busts.md): same source document (doc_0553)
+- [Week 14 Fantasy Quarterback Rankings, Top 30](week_14_fantasy_quarterback_rankings_top_30.md): same source document (doc_0553)
+- [Week 14 Fantasy Quarterback Streamers And Sleepers](week_14_fantasy_quarterback_streamers.md): same source document (doc_0553)
+- [Week 14 Quarterback Byes: Murray And Howell](week_14_quarterback_byes_murray_and_howell.md): same source document (doc_0553)
+- [Week 14 Quarterback Injury Report](week_14_quarterback_injury_report.md): same source document (doc_0553)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

@@ -13,11 +13,18 @@ The column is careful to bound the negative verdict. It genuinely believes Pierc
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another "Sit Him" verdict in the same weekly-decision format, from a different document.
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): also discusses Isiah Pacheco, one of the backs preferred to Pierce, from a different document.
 - [Chiefs Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): also discusses Breece Hall and Isiah Pacheco, from a different document.
 - [Chiefs Jets Second Half Live Blog](chiefs_jets_second_half_live_blog.md): also discusses Breece Hall, from a different document.
 - [Chiefs Packers Week 13 First Half Sequence](chiefs_packers_week_13_first_half_sequence.md): also discusses Isiah Pacheco, from a different document.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0058)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0058)
+- [Dallas Goedert As A Week 5 2023 Bust Candidate At The Rams](dallas_goedert_week5_2023_bust_warning.md): same source document (doc_0058)
+- [DeAndre Hopkins As A Week 5 2023 Start At Indianapolis](deandre_hopkins_week5_2023_start_recommendation.md): same source document (doc_0058)
+- [Gabe Davis As A Week 5 2023 Flex Starter Against Jacksonville](gabe_davis_week5_2023_flex_recommendation.md): same source document (doc_0058)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

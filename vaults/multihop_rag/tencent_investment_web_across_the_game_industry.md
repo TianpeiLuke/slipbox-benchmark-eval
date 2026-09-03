@@ -11,6 +11,7 @@ Its holdings come in three degrees. It owns a portion of Bloober Team, Bohemia I
 
 ## Related Notes
 
+
 - [Alan Wake 2](alan_wake_2.md): also concerns Remedy Entertainment, from a different source document.
 - [Epic And Google Courtroom Hypocrisy](epic_and_google_courtroom_hypocrisy.md): overlapping coverage of Tencent and Epic, from a different source document.
 - [The Epic Games Store As A General-Purpose App Store](epic_games_store_as_a_general_purpose_app_store.md): also concerns Unreal Engine, from a different source document.
@@ -19,6 +20,8 @@ Its holdings come in three degrees. It owns a portion of Bloober Team, Bohemia I
 - [Activision Blizzard Union Stalling And Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): drawn from the same source document (doc_0050).
 - [Consolidation Leaves Studios Vulnerable To Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): drawn from the same source document (doc_0050).
 - [The Costs Of Relinquishing Independence After Acquisition](costs_of_relinquishing_independence_after_acquisition.md): drawn from the same source document (doc_0050).
+- [Embracer Group's Restructuring And Studio Closures](embracer_group_restructuring_and_studio_closures.md): same source document (doc_0050)
+- [Epic Games' 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): same source document (doc_0050)
 
 ## Source
 

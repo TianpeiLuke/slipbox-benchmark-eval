@@ -11,6 +11,7 @@ His preparedness to take the game on is a real weapon, along with his decision-m
 
 ## Related Notes
 
+
 - [Aurora Sightings Beyond Usual Latitudes Greece Turkey Australia](aurora_sightings_beyond_usual_latitudes_greece_turkey_australia.md): also mentions Western Australia, from a different document.
 - [Angus Hastie AFL Draft Prospect 2023](angus_hastie_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Archer Reid AFL Draft Prospect 2023](archer_reid_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
@@ -19,6 +20,8 @@ His preparedness to take the game on is a real weapon, along with his decision-m
 - [Ashton Moya AFL Draft Prospect 2023](ashton_moya_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Caiden Cleary AFL Draft Prospect 2023](caiden_cleary_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Charlie Edwards AFL Draft Prospect 2023](charlie_edwards_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
+- [Clay Hall AFL Draft Prospect 2023](clay_hall_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Colby McKercher AFL Draft Prospect 2023](colby_mckercher_afl_draft_prospect_2023.md): same source document (doc_0244)
 
 ## Source
 

@@ -11,11 +11,18 @@ The draw came from what was on the line. Michigan had won the last two meetings 
 
 ## Related Notes
 
+
 - [Alabama's 2023 CFP Case and the SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): also concerns the College Football Playoff, from a different document.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): covers the Playoff and Ohio State, separately sourced.
 - [Alabama-Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): another item weighing Ohio State's standing, from a different source.
 - [Big Ten Deliberation Over Harbaugh's Punishment](big_ten_deliberation_over_harbaugh_punishment.md): also touches the Playoff calendar, in a different document.
 - [The CFP Committee's "Different Team" Justification for Florida State](cfp_committee_florida_state_different_team_justification.md): another Playoff and Ohio State item, separately sourced.
+- [The Big Ten's 2023 Run Of Scandals](big_ten_conference_scandal_run_2023.md): same source document (doc_0079)
+- [The Big Ten Suspends Jim Harbaugh For Three Games](big_ten_suspension_of_jim_harbaugh.md): same source document (doc_0079)
+- [Connor Stalions And The In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): same source document (doc_0079)
+- [Jim Harbaugh's Legacy And Future After The Suspension](jim_harbaugh_legacy_and_future_after_suspension.md): same source document (doc_0079)
+- [Michigan's Program Reputation At Stake](michigan_program_reputation_at_stake.md): same source document (doc_0079)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

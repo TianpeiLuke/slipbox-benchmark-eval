@@ -13,12 +13,18 @@ As for the M3 Max MacBook Pro, Brian reports that at $2,500 (plus some pricey ad
 
 ## Related Notes
 
+
 - [Apple 24-Inch iMac M3 Refresh Expectations](apple_24_inch_imac_m3_refresh_expectations.md): also covers the Scary Fast event and the iMac refresh, from a different document.
 - [Apple's M3 Chip Release Cadence](apple_m3_chip_release_cadence.md): also covers the Scary Fast M3 announcements, from a different document.
 - [Apple MacBook Air 15-Inch M2](apple_macbook_air_15_inch_m2.md): the machine this MacBook Pro is positioned against, from a different document.
 - [Apple's Scary Fast Event, October 2023](apple_scary_fast_event_october_2023.md): covers the event itself, from a different document.
 - [Apple Silicon Chip Naming And Relative Performance](apple_silicon_chip_naming_and_relative_performance.md): also covers the Mac Studio and the silicon lineup, from a different document.
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): drawn from the same source document (doc_0199).
+- [Apple's Generative AI Investment Stance](apple_generative_ai_investment_stance.md): same source document (doc_0116)
+- [Apple's iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): same source document (doc_0199)
+- [Aseel: From Afghan Artisan Ecommerce To Humanitarian Aid](aseel_afghan_artisan_ecommerce_to_humanitarian_aid.md): same source document (doc_0116)
+- [Atlassian's Critical Security Flaw Warning](atlassian_critical_security_flaw_warning.md): same source document (doc_0199)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

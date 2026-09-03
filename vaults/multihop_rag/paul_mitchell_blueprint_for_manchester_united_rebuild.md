@@ -13,6 +13,7 @@ The content of the blueprint is an identity statement spanning the whole club: "
 
 ## Related Notes
 
+
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also concerns Manchester City, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns Manchester City, from a different document.
 - [Bruno Fernandes' Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): overlaps on Manchester United and its difficult moments, from a different document.
@@ -21,6 +22,8 @@ The content of the blueprint is an identity statement spanning the whole club: "
 - [Glazer Family Control of Manchester United](glazer_family_control_of_manchester_united.md): drawn from the same document (doc_0166).
 - [INEOS Plan for Manchester United Football Operations](ineos_plan_for_manchester_united_football_operations.md): drawn from the same document (doc_0166).
 - [Jim Ratcliffe Twenty-Five Percent Stake Agreement](jim_ratcliffe_twenty_five_percent_stake_agreement.md): drawn from the same document (doc_0166).
+- [Paul Mitchell's Long-Term Recruitment Philosophy](paul_mitchell_long_term_recruitment_philosophy.md): same source document (doc_0166)
+- [Paul Mitchell's Recruitment Career Record](paul_mitchell_recruitment_career_record.md): same source document (doc_0166)
 
 ## Source
 

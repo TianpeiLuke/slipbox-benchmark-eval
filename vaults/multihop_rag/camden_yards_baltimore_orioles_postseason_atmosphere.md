@@ -13,11 +13,18 @@ The conditional judgement is explicit. When the Orioles are bad, their ballpark 
 
 ## Related Notes
 
+
 - [Alanna Rizzo's Apology to Mintz and the BBWAA](alanna_rizzo_apology_to_mintz_and_bbwaa.md): also concerns Awful Announcing, from a different document.
 - [Alanna Rizzo's Criticism of Clubhouse Reporting](alanna_rizzo_criticism_of_clubhouse_reporting.md): also concerns Awful Announcing, from a different document.
 - [Houston Astros Front Office Rebuild Under Crane and Luhnow](houston_astros_front_office_rebuild_under_crane_and_luhnow.md): also concerns the American League, from a different document.
 - [Jack Flaherty's Tigers One-Year Deal](jack_flaherty_tigers_one_year_deal.md): overlaps on the Orioles and the Tigers, from a different document.
 - [Prime Day 2023 Home Comfort and Air Quality Deals](prime_day_2023_home_comfort_and_air_quality_deals.md): also refers to the East Coast, from a different document.
+- [Chase Field: Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): same source document (doc_0008)
+- [Citizens Bank Park: Philadelphia Phillies Postseason Atmosphere](citizens_bank_park_philadelphia_phillies_postseason_atmosphere.md): same source document (doc_0008)
+- [Dodger Stadium: Los Angeles Dodgers Postseason Atmosphere](dodger_stadium_los_angeles_dodgers_postseason_atmosphere.md): same source document (doc_0008)
+- [Globe Life Field: Texas Rangers Postseason Atmosphere](globe_life_field_texas_rangers_postseason_atmosphere.md): same source document (doc_0008)
+- [Minute Maid Park: Houston Astros Postseason Atmosphere](minute_maid_park_houston_astros_postseason_atmosphere.md): same source document (doc_0008)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

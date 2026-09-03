@@ -13,6 +13,7 @@ The warrant tying Scripture to the practice of positive thinking is a claim abou
 
 ## Related Notes
 
+
 - [Building a Daily Prayer Habit](building_a_daily_prayer_habit.md): same sub-plan on faith practice, from a different source document.
 - [The Hallow App's Reported Effect on Users' Faith](hallow_app_reported_effect_on_users_faith.md): same sub-plan on faith practice, from a different source document.
 - [The Hallow Prayer App: Contents and Features](hallow_prayer_app_contents_and_features.md): same sub-plan on faith practice, from a different source document.
@@ -21,6 +22,7 @@ The warrant tying Scripture to the practice of positive thinking is a claim abou
 - [Jesse Bradley and The Power of the Second Thought](jesse_bradley_power_of_the_second_thought.md): drawn from the same source document, doc_0569.
 - [Reject and Replace Negative First Thoughts](reject_and_replace_negative_first_thoughts.md): drawn from the same source document, doc_0569, and gives the method this argument grounds.
 - [Research Linking Positive Thinking to Health](research_linking_positive_thinking_to_health.md): drawn from the same source document, doc_0569.
+- [What Positive Thinking Is and Is Not](what_positive_thinking_is_and_is_not.md): same source document (doc_0569)
 
 ## Source
 

@@ -13,9 +13,15 @@ TechCrunch's own reading: the vibe when discussing Uber's results internally was
 
 ## Related Notes
 
+
 - [Lucid Q3 2023 Deliveries](lucid_q3_2023_deliveries.md): another quarterly result read as a demand signal, from a different document.
 - [Rapido's India Cab Market Expansion](rapido_india_cab_market_expansion.md): overlaps on Uber and on-demand startups, from a different document.
 - [Waymo Vehicles In The Uber App](waymo_vehicles_in_uber_app.md): also concerns Uber's platform, from a different document.
+- [Uber Freight's Revenue Decline](uber_freight_revenue_decline.md): same source document (doc_0337)
+- [Uber's Q3 2023 Bookings By Segment](uber_q3_2023_bookings_by_segment.md): same source document (doc_0337)
+- [Uber's Q3 2023 Headline Results](uber_q3_2023_earnings_headline_results.md): same source document (doc_0337)
+- [Uber's Q3 2023 Profitability Metrics](uber_q3_2023_profitability_metrics.md): same source document (doc_0337)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

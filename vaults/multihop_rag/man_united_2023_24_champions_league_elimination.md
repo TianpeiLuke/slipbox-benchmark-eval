@@ -13,11 +13,18 @@ Their defensive record had collapsed as the season went on: from a Premier Leagu
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): covers the same Bayern Munich Champions League fixture, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns Bayern Munich and the Champions League, from a different document.
 - [Carabao Cup 2023-24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): also mentions Old Trafford, from a different document.
 - [Carabao Cup 2023 Quarter Final Draw](carabao_cup_2023_quarter_final_draw.md): also mentions Old Trafford, from a different document.
 - [Chelsea Arsenal Derby Team News October 2023](chelsea_arsenal_derby_team_news_october_2023.md): also concerns the Champions League, from a different document.
+- [Champions League 2023/24 Group A: Bayern Munich And Copenhagen Qualify](champions_league_2023_24_group_a_bayern_copenhagen.md): same source document (doc_0187)
+- [Champions League 2023/24 Group B: Arsenal And PSV Qualify](champions_league_2023_24_group_b_arsenal_psv.md): same source document (doc_0187)
+- [Champions League 2023/24 Group C: Real Madrid And Napoli Qualify](champions_league_2023_24_group_c_real_madrid_napoli.md): same source document (doc_0187)
+- [Champions League 2023/24 Group D: Real Sociedad And Inter Milan Qualify](champions_league_2023_24_group_d_real_sociedad_inter.md): same source document (doc_0187)
+- [Champions League 2023/24 Group E: Atletico Madrid And Lazio Qualify](champions_league_2023_24_group_e_atletico_lazio.md): same source document (doc_0187)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

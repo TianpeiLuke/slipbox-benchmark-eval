@@ -13,11 +13,19 @@ The most popular sportsbook apps — DraftKings, FanDuel and BetMGM — offer NB
 
 ## Related Notes
 
+
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): overlapping sportsbook and betting-opportunity coverage.
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): shares the NBA and betting-odds themes.
 - [FanDuel Sportsbook Kentucky](fanduel_sportsbook_kentucky.md): a state-level listing covering live betting.
 - [FanDuel Vermont Sportsbook Welcome Offer](fanduel_vermont_sportsbook_welcome_offer.md): shares the NBA and betting-odds themes.
 - [How to Use an MLB Betting App](how_to_use_an_mlb_betting_app.md): the equivalent live-betting account for baseball.
+- [BetMGM Sportsbook: Deep MLB Markets And The Only NBA Live-Streaming App](betmgm_sportsbook_betting_markets.md): same source document (doc_0368)
+- [BetRivers Sportsbook: Alternate Lines, An Integrated Casino, And iRush Rewards](betrivers_sportsbook_betting_markets.md): same source document (doc_0368)
+- [DraftKings Sportsbook: MLB And NBA Markets And Promotions](draftkings_sportsbook_betting_markets.md): same source document (doc_0368)
+- [FanDuel Sportsbook: MLB And NBA Markets, Props And Same-Game Parlays](fanduel_sportsbook_betting_markets.md): same source document (doc_0368)
+- [Four Criteria For Judging An NBA Betting Site](how_to_evaluate_an_nba_betting_site.md): same source document (doc_0368)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

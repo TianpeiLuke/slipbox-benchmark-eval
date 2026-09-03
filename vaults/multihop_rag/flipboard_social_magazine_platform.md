@@ -13,6 +13,7 @@ Despite all the changes, Flipboard is not in need of raising funds to support it
 
 ## Related Notes
 
+
 - [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): overlapping coverage of Mastodon and fediverse apps, from a different source document.
 - [Decentralization As A Free Market, Not An Anti-Capitalist Project](decentralization_as_a_free_market_not_an_anti_capitalist_project.md): overlapping coverage of Mastodon and decentralized social media, from a different source document.
 - [Fediverse ActivityPub Protocol](fediverse_activitypub_protocol.md): overlapping coverage of Mastodon and the fediverse, from a different source document.
@@ -21,6 +22,8 @@ Despite all the changes, Flipboard is not in need of raising funds to support it
 - [Flipboard's ActivityPub Federation Launch](flipboard_activitypub_federation_launch.md): drawn from the same source document (doc_0507), the federation step this platform is taking.
 - [Flipboard Front-End Redesign Questions](flipboard_front_end_redesign_questions.md): drawn from the same source document (doc_0507), on rethinking the curation tools described here.
 - [Flipboard's Path To The Fediverse](flipboard_path_to_the_fediverse.md): drawn from the same source document (doc_0507), on the Mastodon integration that replaced Twitter.
+- [How Flipboard "Flips" Publish To Mastodon](how_flipboard_flips_publish_to_mastodon.md): same source document (doc_0507)
+- [Mainstream Platform Adoption Of ActivityPub](mainstream_platform_adoption_of_activitypub.md): same source document (doc_0507)
 
 ## Source
 

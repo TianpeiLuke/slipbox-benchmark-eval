@@ -15,6 +15,7 @@ The winner arrived at 85 minutes: Laryea charged clear on the right, approached 
 
 ## Related Notes
 
+
 - [Canada-Jamaica Second Leg First Half](canada_jamaica_second_leg_first_half.md): also features Andre Blake, from a different document.
 - [Canada-Jamaica Second Leg Result](canada_jamaica_second_leg_result.md): the tie's conclusion, with Blake and the Copa America place at stake, separately sourced.
 - [Canada-Jamaica Second Leg Second Half](canada_jamaica_second_leg_second_half.md): also covers Shamar Nicholson and the Copa America stakes, in a different document.
@@ -23,6 +24,8 @@ The winner arrived at 85 minutes: Laryea charged clear on the right, approached 
 - [Canada's Path to Copa America 2024 Qualification](canada_copa_america_2024_qualification_path.md): what this result set up, same source document.
 - [Canada Soccer and the John Herdman Departure Fallout](canada_soccer_john_herdman_departure_fallout.md): the coaching backdrop to this match, same source document.
 - [Jamaica vs Canada First Leg Broadcast](jamaica_canada_first_leg_broadcast.md): the coverage details for this match, same source document.
+- [The First Half Of Jamaica 0-1 Canada](jamaica_canada_first_leg_first_half.md): same source document (doc_0157)
+- [The Rain Postponement Of Jamaica vs Canada](jamaica_canada_first_leg_rain_postponement.md): same source document (doc_0157)
 
 ## Source
 

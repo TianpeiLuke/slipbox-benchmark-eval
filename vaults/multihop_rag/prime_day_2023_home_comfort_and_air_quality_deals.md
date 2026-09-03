@@ -11,9 +11,18 @@ The bidet pitch opens with a rhetorical question — if you fell in the mud, wou
 
 ## Related Notes
 
+
 - [Camden Yards And Baltimore Orioles Postseason Atmosphere](camden_yards_baltimore_orioles_postseason_atmosphere.md): also concerns the East Coast, from a different source document.
 - [TwitchCon Future Location Proposals](twitchcon_future_location_proposals.md): also concerns the East Coast, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Anker 2-In-1 MagSafe StandBy Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): same source document (doc_0520)
+- [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): same source document (doc_0520)
+- [Anker 3-In-1 MagSafe Charging Dock Deal Listings](anker_3_in_1_magsafe_charging_dock_deal_listings.md): same source document (doc_0520)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

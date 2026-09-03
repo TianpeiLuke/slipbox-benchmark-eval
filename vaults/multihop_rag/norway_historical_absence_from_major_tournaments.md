@@ -13,9 +13,17 @@ The article's own emphasis, though, is that the more pertinent thing about Norwa
 
 ## Related Notes
 
+
 - [Erik ten Hag's Position After The Champions League Exit](erik_ten_hag_position_after_champions_league_exit.md): also discusses Ole Gunnar Solskjaer, one of the Norwegian strikers named here, from a different document.
 - [Man United's Next Manager: Carrick, Flick, Conte, Lopetegui](man_united_next_manager_carrick_flick_conte_lopetegui.md): also discusses Ole Gunnar Solskjaer, from a different document.
 - [Manchester United Managers Since Sir Alex Ferguson](manchester_united_managers_since_sir_alex_ferguson.md): also discusses Ole Gunnar Solskjaer, from a different document.
+- [Haaland's Chase Of Norway's International Goalscoring Record](haaland_chase_of_norway_international_goalscoring_record.md): same source document (doc_0400)
+- [Haaland's Major Tournament Prospects With Norway](haaland_major_tournament_prospects_with_norway.md): same source document (doc_0400)
+- [The Italy International Goalscoring Record Anomaly](italy_international_goalscoring_record_anomaly.md): same source document (doc_0400)
+- [Jorgen Juve's Norway Goalscoring Record](jorgen_juve_norway_goalscoring_record.md): same source document (doc_0400)
+- [The Longest-Standing International Goalscoring Records](longest_standing_international_goalscoring_records.md): same source document (doc_0400)
+- [Poul Nielsen's Denmark Goalscoring Record](poul_nielsen_denmark_goalscoring_record.md): same source document (doc_0400)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

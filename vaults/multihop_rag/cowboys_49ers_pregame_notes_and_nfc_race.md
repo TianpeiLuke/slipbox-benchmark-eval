@@ -13,12 +13,18 @@ Other pregame notes covered atmosphere and matchups. At 6:45 p.m. the blog repor
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also discusses Randy Gregory.
 - [Big Ten Coaches Anger Over Michigan Sign Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): also concerns Jim Harbaugh, in a different context.
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): also concerns Jim Harbaugh.
 - [Big Ten Suspension of Jim Harbaugh](big_ten_suspension_of_jim_harbaugh.md): also concerns Jim Harbaugh.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): overlapping CeeDee Lamb and Cowboys coverage in another document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): the recap of the game these notes precede, same source document.
+- [Cowboys-49ers First Half: Two Kittle Touchdowns Build A 21-7 Lead](cowboys_49ers_first_half_live_blog.md): same source document (doc_0275)
+- [Cowboys-49ers Second Half: Three Prescott Interceptions And A 42-10 Final](cowboys_49ers_second_half_live_blog.md): same source document (doc_0275)
+- [NBC's 2023 Sunday Night Football Broadcast And Streaming Package](sunday_night_football_2023_nbc_broadcast_team.md): same source document (doc_0275)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

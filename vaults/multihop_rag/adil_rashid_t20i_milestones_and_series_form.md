@@ -11,6 +11,7 @@ In the first T20I in Barbados he had Kyle Mayers caught by Brook in the deep for
 
 ## Related Notes
 
+
 - [First ODI, Cricket World Cup 1975](first_odi_cricket_world_cup_1975.md): also covers West Indies, from a different document.
 - [India 1987 World Cup Semifinal vs England](india_1987_world_cup_semifinal_vs_england.md): another account of England wicket-taking in a limited-overs match, from a different document.
 - [India-Australia 1983 World Cup Group Matches](india_australia_1983_world_cup_group_matches.md): also covers West Indies, from a different document.
@@ -19,6 +20,8 @@ In the first T20I in Barbados he had Kyle Mayers caught by Brook in the deep for
 - [Andre Russell's Comeback in the First T20I](andre_russell_comeback_first_t20i.md): covers the opposing all-rounder in the same match, from the same document.
 - [England 132 All Out in the T20 Series Decider](england_132_all_out_t20_series_decider.md): covers the innings Rashid's decider figures defended, from the same document.
 - [England 171 All Out in the First T20I](england_171_all_out_first_t20i.md): covers the innings preceding his 100th-wicket spell, from the same document.
+- [The England Camp's Verdict On The T20 Series Defeat](england_camp_verdict_on_t20_series_defeat.md): same source document (doc_0064)
+- [First T20I In Barbados: Match Summary](first_t20i_barbados_match_summary.md): same source document (doc_0063)
 
 ## Source
 

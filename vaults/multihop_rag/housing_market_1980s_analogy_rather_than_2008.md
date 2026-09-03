@@ -11,6 +11,7 @@ First American chief economist Mark Fleming made the same case in a Tuesday repo
 
 ## Related Notes
 
+
 - [Affordable Housing Supply Gap For Low-Income Renters](affordable_housing_supply_gap_for_low_income_renters.md): overlapping coverage of housing and interest rates from a different source document.
 - [Investor Case For Affordable Starter Home Supply](investor_case_for_affordable_starter_home_supply.md): overlapping coverage of today's housing market, from a different source document.
 - [Simply Homes Interest Rate Underwriting Resilience](simply_homes_interest_rate_underwriting_resilience.md): overlapping coverage of housing and interest rates, from a different source document.
@@ -19,6 +20,8 @@ First American chief economist Mark Fleming made the same case in a Tuesday repo
 - [Housing Affordability Worse Than The 2006 Peak](housing_affordability_worse_than_2006_peak.md): drawn from the same source document (doc_0479).
 - [Millennials As The New Boomer Homebuying Cohort](millennials_as_the_new_boomer_homebuying_cohort.md): drawn from the same source document (doc_0479).
 - [US Existing Home Sales September 2023 13-Year Low](us_existing_home_sales_september_2023_13_year_low.md): drawn from the same source document (doc_0479).
+- [US Home Prices Peaked In June 2022 And Returned To A Record High By July 2023](us_home_price_peak_and_partial_recovery_2022_2023.md): same source document (doc_0112)
+- [The US Housing Inventory Shortage Of 2023](us_housing_inventory_shortage_2023.md): same source document (doc_0479)
 
 ## Source
 

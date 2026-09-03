@@ -13,11 +13,18 @@ For a sense of the achievable outcome: in recent times a raft of complaints to t
 
 ## Related Notes
 
+
 - [Amazon's Response To The EU's iRobot Objections](amazon_response_to_eu_irobot_objections.md): another matter running through the European Commission, from a different document.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also concerns European Commission conduct on ads, from a different document.
 - [DSA And DMA Oversight Of Meta Ad Tracking](dsa_dma_oversight_of_meta_ad_tracking.md): the parallel Commission-led enforcement route, from a different document.
 - [DSA Political Ad Restrictions](dsa_political_ad_restrictions.md): also concerns European Commission rules on advertising, from a different document.
 - [EU AI Act Training Data Disclosure Rule](eu_ai_act_training_data_disclosure_rule.md): another European Commission regulatory obligation, from a different document.
+- [BEUC And 18 Member Groups File A CPC Complaint Against Meta](beuc_consumer_complaint_meta_pay_or_consent.md): same source document (doc_0140)
+- [BEUC's Consumer-Law Case Against Meta's Pay-Or-Consent Model](beuc_consumer_law_objections_to_meta_model.md): same source document (doc_0140)
+- [BEUC: The Choice And Its Implementation Cannot Be Separated](beuc_position_choice_versus_implementation.md): same source document (doc_0140)
+- [DMA And DSA Oversight Of Meta's Advertising Consent](dma_dsa_oversight_of_meta_advertising_consent.md): same source document (doc_0140)
+- [The GDPR Track Running Alongside The Consumer Complaint](meta_pay_or_consent_gdpr_dimension.md): same source document (doc_0140)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

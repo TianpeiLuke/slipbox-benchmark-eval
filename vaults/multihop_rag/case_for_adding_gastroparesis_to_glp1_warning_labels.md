@@ -13,6 +13,7 @@ The warrant joining rarity to a labeling change is that patients cannot weigh or
 
 ## Related Notes
 
+
 - [DICOM Medical Imaging Server Exposure](dicom_medical_imaging_server_exposure.md): overlapping vocabulary on patients, medical, information, from a different source document.
 - [Cardiovascular Benefits Outweigh GLP-1 GI Risks](cardiovascular_benefits_outweigh_glp1_gi_risks.md): drawn from the same source document (doc_0066).
 - [Gastroparesis Pancreatitis Bowel Obstruction and Ileus](gastroparesis_pancreatitis_bowel_obstruction_and_ileus.md): drawn from the same source document (doc_0066).
@@ -21,6 +22,8 @@ The warrant joining rarity to a labeling change is that patients cannot weigh or
 - [Limitations of the UBC GLP-1 Claims Analysis](limitations_of_the_ubc_glp1_claims_analysis.md): drawn from the same source document (doc_0066).
 - [Louisiana Lawsuit over Ozempic and Mounjaro GI Injuries](louisiana_lawsuit_over_ozempic_and_mounjaro_gi_injuries.md): drawn from the same source document (doc_0066).
 - [Novo Nordisk Response to GLP-1 Gastroparesis Findings](novo_nordisk_response_to_glp1_gastroparesis_findings.md): drawn from the same source document (doc_0066).
+- [Whether Gastroparesis Persists After Stopping GLP-1 Drugs](persistence_of_gastroparesis_after_stopping_glp1_drugs.md): same source document (doc_0066)
+- [The UBC JAMA Study On GLP-1 Gastrointestinal Adverse Events](ubc_jama_study_glp1_gastrointestinal_adverse_events.md): same source document (doc_0066)
 
 ## Source
 

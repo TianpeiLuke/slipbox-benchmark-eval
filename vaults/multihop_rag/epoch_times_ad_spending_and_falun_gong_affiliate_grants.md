@@ -13,6 +13,7 @@ The spending sits inside a broader expansion. As of October 2023 the outlet had 
 
 ## Related Notes
 
+
 - [Chinese Government Ban And Crackdown On Falun Gong, 1999](chinese_government_ban_and_crackdown_on_falun_gong_1999.md): drawn from the same source document (doc_0076).
 - [Conservative Endorsements Of The Epoch Times' Credibility](conservative_endorsements_of_epoch_times_credibility.md): drawn from the same source document (doc_0076).
 - [The Epoch Times, The 2020 Election And Pro-Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): drawn from the same source document (doc_0076).
@@ -21,6 +22,8 @@ The spending sits inside a broader expansion. As of October 2023 the outlet had 
 - [Epoch Times Covid And "CCP Virus" Coverage](epoch_times_covid_ccp_virus_coverage.md): drawn from the same source document (doc_0076).
 - [The Epoch Times' Denial Of A Falun Gong Affiliation](epoch_times_denial_of_falun_gong_affiliation.md): drawn from the same source document (doc_0076).
 - [The Epoch Times' Editorial Output And Conspiracy Content](epoch_times_editorial_output_and_conspiracy_content.md): drawn from the same source document (doc_0076).
+- [The Epoch Times' Facebook Advertising Ban, 2019](epoch_times_facebook_advertising_ban_2019.md): same source document (doc_0076)
+- [The Epoch Times' Founding And Early Growth In The 2000s](epoch_times_founding_and_early_growth_2000s.md): same source document (doc_0076)
 
 ## Source
 

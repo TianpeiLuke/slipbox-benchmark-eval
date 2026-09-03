@@ -11,6 +11,7 @@ The framing comes from Quarraisha Abdool Karim, associate scientific director of
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): also concerns South Africa, though in a different sector.
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): shares South Africa as a subject.
 - [AfroFuture Foundation Philanthropy Programmes](afrofuture_foundation_philanthropy_programmes.md): another initiative organised around United Nations goals.
@@ -19,6 +20,8 @@ The framing comes from Quarraisha Abdool Karim, associate scientific director of
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): from the same article, on why vaccine and cure research continues despite this goal.
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): from the same article, on the biomedical tool the goal depends on.
 - [Country Progress Toward the 95-95-95 Targets](country_progress_toward_95_95_95_targets.md): from the same article, tracking who is on course for this program.
+- [Global HIV Burden in 2022](global_hiv_burden_2022.md): same source document (doc_0238)
+- [HIV Key Population Treatment Gaps](hiv_key_population_treatment_gaps.md): same source document (doc_0238)
 
 ## Source
 

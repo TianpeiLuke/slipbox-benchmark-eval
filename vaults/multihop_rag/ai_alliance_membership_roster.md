@@ -13,12 +13,20 @@ MLCommons, the engineering consortium behind MLPerf — the benchmarking suite u
 
 ## Related Notes
 
+
 - [AI Civil Rights And Consumer Protections In The EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): also concerns the National Science Foundation, from a different source document.
 - [Alliance DAO ALL11 Cohort Selectivity](alliance_dao_all11_cohort_selectivity.md): overlapping vocabulary of alliances and cohorts, from a different source document.
 - [DeepMind Founding And Thiel Investment](deepmind_founding_and_thiel_investment.md): shares the research-institution and space-and-science theme, from a different source document.
 - [Gastroparesis, Pancreatitis, Bowel Obstruction And Ileus](gastroparesis_pancreatitis_bowel_obstruction_and_ileus.md): also concerns the Cleveland Clinic, from a different source document.
 - [Meta Positioned To Benefit From OpenAI Turmoil](meta_positioned_to_benefit_from_openai_turmoil.md): also concerns Hugging Face, from a different source document.
 - [AI Alliance Case For Open AI Development](ai_alliance_case_for_open_ai_development.md): drawn from the same source document (doc_0268), the rationale binding these members.
+- [The Founding Of The AI Alliance By Meta And IBM](ai_alliance_founding_by_meta_and_ibm.md): same source document (doc_0268)
+- [Notable Absences From The AI Alliance](ai_alliance_notable_non_members.md): same source document (doc_0268)
+- [The AI Alliance's Working Groups And Governance Plan](ai_alliance_working_groups_and_governance_plan.md): same source document (doc_0268)
+- [Doubts About The AI Alliance's Effectiveness](doubts_about_ai_alliance_effectiveness.md): same source document (doc_0268)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Space Mission](term_space_mission.md): uses the concept space mission
 
 ## Source
 

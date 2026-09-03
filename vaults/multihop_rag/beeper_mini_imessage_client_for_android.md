@@ -15,12 +15,19 @@ The app quickly climbed into the top 20 in the Play Store's charts and saw over 
 
 ## Related Notes
 
+
 - [Activision $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): also concerns the Play Store, from a different source document.
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): also concerns Play Store distribution, from a different source document.
 - [Google Defense: Android Competes With iOS](google_defense_android_competes_with_ios.md): also concerns the Play Store and Android-iOS competition, from a different source document.
 - [Google Defense: Android Openness And Sideloading](google_defense_android_openness_and_sideloading.md): also concerns the Play Store, from a different source document.
 - [Google Project Hug Developer Incentive Program](google_project_hug_developer_incentive_program.md): also concerns the Play Store, from a different source document.
 - [Apple Blocks Beeper Mini iMessage Access](apple_blocks_beeper_mini_imessage_access.md): drawn from the same source document (doc_0402), on Apple cutting off this app.
+- [Beeper's Company Background And Founders](beeper_company_background_and_founders.md): same source document (doc_0540)
+- [Beeper's Funding And Investors](beeper_funding_and_investors.md): same source document (doc_0540)
+- [Beeper Mini's Encryption And Audit Status](beeper_mini_encryption_and_audit_status.md): same source document (doc_0540)
+- [Beeper Mini Hands-On Test Results](beeper_mini_hands_on_test_results.md): same source document (doc_0540)
+- [Wearable Fitness Tracker](term_wearable_fitness_tracker.md): uses the concept wearable fitness tracker
+- [Encryption at Rest](term_encryption_at_rest.md): uses the concept encryption at rest
 
 ## Source
 

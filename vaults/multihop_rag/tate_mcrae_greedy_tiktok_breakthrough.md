@@ -13,11 +13,17 @@ Greedy also landed her a slot on Saturday Night Live, "that pop superstar rite-o
 
 ## Related Notes
 
+
 - [Peter Gabriel From Genesis To Eighties Pop Ubiquity](peter_gabriel_from_genesis_to_eighties_pop_ubiquity.md): the other artist reviewed in the same column
 - [Danny Elfman Return To Live Concert Performance](danny_elfman_return_to_live_concert_performance.md): also references Billie Eilish, from a different document
 - [Ice Spice Breakout And Capitol 10k Partnership](ice_spice_breakout_and_capitol_10k_partnership.md): another breakout-artist story that also touches Saturday Night Live
 - [Taylor Swift Subsequent Nfl Appearances And Snl Cameo](taylor_swift_subsequent_nfl_appearances_and_snl_cameo.md): also concerns a Saturday Night Live appearance, different document
 - [Swift And Kelce Public Appearances Together](swift_and_kelce_public_appearances_together.md): also mentions Saturday Night Live, unrelated subject
+- [Which Travis Kelce Props To Play In Chiefs-Jets Week 4](travis_kelce_touchdown_props_chiefs_jets_week_4.md): both discuss Saturday Night Live; different source document
+- [Peter Gabriel's I/O, His First Solo Album In Two Decades](peter_gabriel_io_first_solo_album_in_two_decades.md): same source document (doc_0579)
+- [I/O's Mortality Themes And Overlong Tracks](peter_gabriel_io_mortality_themes_and_overlong_tracks.md): same source document (doc_0579)
+- [Tate McRae's Think Later Reviewed](tate_mcrae_think_later_album_review.md): same source document (doc_0579)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

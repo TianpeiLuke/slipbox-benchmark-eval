@@ -11,11 +11,20 @@ Amazon Prime is the familiar case: it offers a free 30-day trial and unlocks spe
 
 ## Related Notes
 
+
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): also covers Cyber Monday, from a different source document.
 - [Amazon Echo Show Audible and Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): also covers Cyber Monday, from a different source document.
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): also covers Amazon Prime, Cyber Monday, from a different source document.
 - [Amazon Price Matching and Return Policy](amazon_price_matching_and_return_policy.md): also covers Amazon Prime, from a different source document.
 - [Amazon Prime Holiday 2023 Delivery Cutoffs](amazon_prime_holiday_2023_delivery_cutoffs.md): also covers Amazon Prime, from a different source document.
+- [Amazon Prime Free Games And DLC](amazon_prime_free_games_and_dlc.md): same source document (doc_0574)
+- [Black Friday 2023 Deals Started A Week Early](black_friday_2023_deal_timing_shift.md): same source document (doc_0574)
+- [Black Friday Is Not Your Last Chance To Save](deals_continue_after_black_friday.md): same source document (doc_0574)
+- [Holiday Price Matching Policies, 2023](holiday_price_matching_policies_2023.md): same source document (doc_0574)
+- [Holiday Return Policy Windows Into January 2024](holiday_return_policy_windows_into_january_2024.md): same source document (doc_0574)
+- [Video Game Release](term_video_game_release.md): uses the concept video game release
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

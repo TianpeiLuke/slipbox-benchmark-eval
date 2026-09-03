@@ -11,10 +11,18 @@ The architecture splits by latency and abstraction: the sensing needs to be in t
 
 ## Related Notes
 
+
 - [Amazon Generative AI In Robotics Simulation](amazon_generative_ai_in_robotics_simulation.md): same source document; the same primitives-stitching pattern used in design and grasp planning.
 - [Human-Centric Versus Humanoid Robot Design](human_centric_versus_humanoid_robot_design.md): overlaps in content on robotics mobility design, from a different source document.
 - [Boston Dynamics AI Institute Research Pillars](boston_dynamics_ai_institute_research_pillars.md): overlaps in content on manipulation and mobility research, from a different source document.
 - [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): overlaps in content on robot capability trajectories, from a different source document.
+- [Amazon's Agility Digit Humanoid Pilot As A Test Case](amazon_agility_digit_humanoid_pilot.md): same source document (doc_0528)
+- [Amazon's Delivering The Future 2023 Event](amazon_delivering_the_future_2023_event.md): same source document (doc_0528)
+- [Amazon's Greenfield And Brownfield Retrofit Capability](amazon_greenfield_brownfield_retrofit_capability.md): same source document (doc_0528)
+- [Amazon's Industrial Innovation Fund And Agility](amazon_industrial_innovation_fund_and_agility.md): same source document (doc_0528)
+- [Amazon's Interest In Bipedal Locomotion](amazon_interest_in_bipedal_locomotion.md): same source document (doc_0528)
+- [Amazon's Machine Learning And Generative AI Adoption](amazon_machine_learning_and_generative_ai_adoption.md): same source document (doc_0528)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

@@ -13,12 +13,18 @@ She was not alone in the objection. Players including the Blue Jays' Kevin Gausm
 
 ## Related Notes
 
+
 - [Blue Jays Roster Implications of Ohtani Pursuit](blue_jays_roster_implications_of_ohtani_pursuit.md): also concerns the Blue Jays.
 - [Camden Yards Baltimore Orioles Postseason Atmosphere](camden_yards_baltimore_orioles_postseason_atmosphere.md): also cites Awful Announcing.
 - [Cody Bellinger Free Agent Market and Suitors](cody_bellinger_free_agent_market_and_suitors.md): also concerns the Blue Jays.
 - [MLB 2023 Postseason Results Bracket](mlb_2023_postseason_results_bracket.md): also concerns the Blue Jays and the same postseason.
 - [MLB Home Field Advantage Varies by Ballpark](mlb_home_field_advantage_varies_by_ballpark.md): also concerns the Blue Jays.
 - [Alanna Rizzo Apology to Mintz and BBWAA](alanna_rizzo_apology_to_mintz_and_bbwaa.md): her retraction of these remarks, same source document.
+- [The BBWAA's Statement: Mintz Earned His Credential](bbwaa_statement_defending_jake_mintz_credentials.md): same source document (doc_0328)
+- [Chelsea Janes' Defense: Reporting An On-The-Record Shout Is Not Wrong](chelsea_janes_defense_of_clubhouse_reporting.md): same source document (doc_0328)
+- [The Play: Harper Doubled Off To End NLDS Game 2](harper_doubled_off_on_michael_harris_catch_nlds_game_2.md): same source document (doc_0328)
+- [What Jake Mintz Actually Wrote, And Who Else Reported It](jake_mintz_clubhouse_report_on_arcia_comments.md): same source document (doc_0328)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

@@ -11,6 +11,7 @@ AMC CEO Adam Aron has called the deal "a coup for AMC" on social media. Both AMC
 
 ## Related Notes
 
+
 - [AMC Theatres' Direct Distribution Of Concert Films](amc_theatres_direct_distribution_of_concert_films.md): overlapping coverage of Swift, Beyoncé and ticketing, from a different source document.
 - [Chiefs-Jets Pregame Notes: Taylor Swift And Rodgers](chiefs_jets_pregame_notes_taylor_swift_and_rodgers.md): overlapping coverage of Swift's public profile, from a different source document.
 - [Renaissance: Beyoncé's Concert Film Opening](renaissance_beyonce_concert_film_opening.md): overlapping coverage of theaters, Swift and Beyoncé, from a different source document.
@@ -19,6 +20,8 @@ AMC CEO Adam Aron has called the deal "a coup for AMC" on social media. Both AMC
 - [Biggest Concert Films: Box Office Records](biggest_concert_films_box_office_records.md): drawn from the same source document (doc_0419).
 - [Marcus Corporation's Preparations For Eras Tour Screenings](marcus_corporation_preparations_for_eras_tour_screenings.md): drawn from the same source document (doc_0419).
 - [Movie Theaters' Pivot To Alternative Content](movie_theaters_pivot_to_alternative_content.md): drawn from the same source document (doc_0419).
+- [The North American Box Office Forecast For 2023](north_american_box_office_2023_forecast.md): same source document (doc_0419)
+- [The Paramount Consent Decrees And Their Termination](paramount_consent_decrees_termination_and_distribution.md): same source document (doc_0419)
 
 ## Source
 

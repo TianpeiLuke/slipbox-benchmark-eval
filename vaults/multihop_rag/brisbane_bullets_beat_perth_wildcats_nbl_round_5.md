@@ -15,6 +15,7 @@ Perth's shooting undid them: they missed 18 of their first 19 three-point attemp
 
 ## Related Notes
 
+
 - [Adelaide 36ers Beat Perth Wildcats Round 4](adelaide_36ers_beat_perth_wildcats_round_4.md): Perth's previous defeat under John Rillie, different source document
 - [South East Melbourne Phoenix Beat Brisbane Bullets Round 4](south_east_melbourne_phoenix_beat_brisbane_bullets_round_4.md): Brisbane's earlier loss without Aron Baynes, different source document
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): another round 5 result, same source document
@@ -23,6 +24,8 @@ Perth's shooting undid them: they missed 18 of their first 19 three-point attemp
 - [Cairns Taipans Beat Sydney Kings and Patrick Miller Injury](cairns_taipans_beat_sydney_kings_and_patrick_miller_injury.md): another round 5 result, same source document
 - [Melbourne United Beat Illawarra Hawks NBL Round 5](melbourne_united_beat_illawarra_hawks_nbl_round_5.md): another round 5 result, same source document
 - [Melbourne United Beat Tasmania JackJumpers in Hobart Round 5](melbourne_united_beat_tasmania_jackjumpers_in_hobart_round_5.md): another round 5 result, same source document
+- [Phoenix Survive A Late Scare To Beat New Zealand 103-100](south_east_melbourne_phoenix_beat_new_zealand_breakers_round_5.md): same source document (doc_0240)
+- [Tyler Harvey's Buzzer-Beater Sinks Cairns 84-83](tyler_harvey_buzzer_beater_hawks_beat_taipans_round_5.md): same source document (doc_0240)
 
 ## Source
 

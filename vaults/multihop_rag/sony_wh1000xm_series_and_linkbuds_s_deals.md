@@ -11,11 +11,22 @@ The WH-1000XM5 remain The Verge's favorite pair of noise-canceling headphones: n
 
 ## Related Notes
 
+
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery-life and charging themes, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery-life and charging themes, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares the battery-life and charging themes, from a different source document.
 - [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): shares the battery-life and charging themes, from a different source document.
 - [Anker 737 Power Bank Deal Listings](anker_737_power_bank_deal_listings.md): shares the battery-life and charging themes, from a different source document.
+- [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): same source document (doc_0369)
+- [Amazon Echo Buds Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): same source document (doc_0369)
+- [Apple AirPods Second-Gen, Third-Gen And AirPods Max Deals](apple_airpods_second_third_gen_and_airpods_max_deals.md): same source document (doc_0369)
+- [Beats Fit Pro Deal Listings](beats_fit_pro_deal_listings.md): same source document (doc_0369)
+- [Beats Studio Pro Deal Listings](beats_studio_pro_deal_listings.md): same source document (doc_0369)
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

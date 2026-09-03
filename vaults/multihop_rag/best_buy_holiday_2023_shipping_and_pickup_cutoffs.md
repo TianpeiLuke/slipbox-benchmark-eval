@@ -11,9 +11,17 @@ My Best Buy Plus and My Best Buy Total subscribers get free two-day shipping wit
 
 ## Related Notes
 
+
 - [Amazon's Sequoia Fulfillment System](amazon_sequoia_fulfillment_system.md): overlapping coverage of next-day and same-day shipping, from a different source document.
 - [Retailer Memberships For Early Deal Access](retailer_memberships_for_early_deal_access.md): also concerns Best Buy Plus, from a different source document.
 - [Amazon Prime Holiday 2023 Delivery Cutoffs](amazon_prime_holiday_2023_delivery_cutoffs.md): drawn from the same source document (doc_0473).
+- [FedEx 2023 Holiday Shipping Deadlines](fedex_2023_holiday_shipping_deadlines.md): same source document (doc_0473)
+- [Holiday 2023 Shipping Deadline Planning](holiday_2023_shipping_deadline_planning.md): same source document (doc_0473)
+- [Target Holiday 2023 Delivery And Shipt Cutoffs](target_holiday_2023_delivery_and_shipt_cutoffs.md): same source document (doc_0473)
+- [UPS 2023 Holiday Shipping Deadlines](ups_2023_holiday_shipping_deadlines.md): same source document (doc_0473)
+- [USPS 2023 Holiday Shipping Deadlines](usps_2023_holiday_shipping_deadlines.md): same source document (doc_0473)
+- [Walmart Holiday 2023 Shipping And Pickup Cutoffs](walmart_holiday_2023_shipping_and_pickup_cutoffs.md): same source document (doc_0473)
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

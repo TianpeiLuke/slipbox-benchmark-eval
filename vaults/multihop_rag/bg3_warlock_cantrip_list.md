@@ -11,10 +11,16 @@ Blade Ward makes you take only half the damage from Bludgeoning, Piercing, and S
 
 ## Related Notes
 
+
 - [BG3 Warlock: Pact Casting For Beginners](bg3_warlock_class_overview.md): same source; the class overview these cantrips belong to.
 - [BG3 Warlock Race And Ability Score Build](bg3_warlock_race_and_ability_score_build.md): same source; explains why Eldritch Blast is the bread-and-butter cantrip.
 - [BG3 Warlock Class Features: Hit Points And Proficiencies](bg3_warlock_hit_points_and_proficiencies.md): same source; the spell slots that sit alongside these at-will cantrips.
 - [BG3 Cleric Class And Domains](bg3_cleric_class_and_domains.md): also covers abilities resolved through Attack Rolls, from a different source document.
+- [There Is No Single Best Class In Baldur's Gate 3](bg3_no_single_best_class_argument.md): same source document (doc_0017)
+- [Recommended Feats For A BG3 Warlock](bg3_warlock_recommended_feats.md): same source document (doc_0017)
+- [BG3 Warlock Spell List](bg3_warlock_spell_list.md): same source document (doc_0017)
+- [BG3 Warlock Subclasses: The Fiend, The Great Old One, The Archfey](bg3_warlock_subclasses_fiend_great_old_one_archfey.md): same source document (doc_0017)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

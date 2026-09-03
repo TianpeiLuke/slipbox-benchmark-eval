@@ -11,11 +11,18 @@ He also faces questions about his past. Some years ago, Jordan denied allegation
 
 ## Related Notes
 
+
 - [Alabama CFP Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also concerns Ohio State, from a different source document.
 - [Alabama-Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): also concerns Ohio State, from a different source document.
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): also concerns Ohio State, from a different source document.
 - [Big Ten Suspension Of Jim Harbaugh](big_ten_suspension_of_jim_harbaugh.md): also concerns Ohio State, from a different source document.
 - [CFP Committee's Florida State Different-Team Justification](cfp_committee_florida_state_different_team_justification.md): also concerns Ohio State, from a different source document.
+- [Gingrich And Boehner Endorse The Interim Speaker Plan](gingrich_and_boehner_endorse_interim_speaker_plan.md): same source document (doc_0377)
+- [Hakeem Jeffries' Bipartisan Offer To Reopen The House](hakeem_jeffries_bipartisan_offer_to_reopen_the_house.md): same source document (doc_0223)
+- [The House GOP's Narrow-Majority Vote Math](house_gop_narrow_majority_vote_math.md): same source document (doc_0223)
+- [The House Paralysis Following Kevin McCarthy's Ouster](house_speakership_vacancy_paralysis_after_mccarthy_ouster.md): same source document (doc_0223)
+- [Jim Jordan's Second-Ballot Defeat](jim_jordan_second_ballot_defeat.md): same source document (doc_0377)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

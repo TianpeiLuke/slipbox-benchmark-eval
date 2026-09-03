@@ -11,6 +11,7 @@ He booted 39 goals in 16 matches in Western Australia's pathway that year, playi
 
 ## Related Notes
 
+
 - [AFLW 2023 Finals Qualification And Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): also concerns the Brisbane Lions, from a different document.
 - [Aurora Sightings Beyond Usual Latitudes Greece Turkey Australia](aurora_sightings_beyond_usual_latitudes_greece_turkey_australia.md): also mentions Western Australia, from a different document.
 - [Brayden Maynard Collingwood Dynasty Ambition](brayden_maynard_collingwood_dynasty_ambition.md): also concerns the Brisbane Lions, from a different document.
@@ -19,6 +20,8 @@ He booted 39 goals in 16 matches in Western Australia's pathway that year, playi
 - [Angus Hastie AFL Draft Prospect 2023](angus_hastie_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Archer Reid AFL Draft Prospect 2023](archer_reid_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Archie Roberts AFL Draft Prospect 2023](archie_roberts_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
+- [Ari Schoenmaker AFL Draft Prospect 2023](ari_schoenmaker_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Ashton Moya AFL Draft Prospect 2023](ashton_moya_afl_draft_prospect_2023.md): same source document (doc_0244)
 
 ## Source
 

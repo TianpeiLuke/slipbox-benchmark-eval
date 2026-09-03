@@ -11,6 +11,7 @@ The recommendation that follows is to hold something else alongside it: if you l
 
 ## Related Notes
 
+
 - [Apple Store Credit And Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): overlapping coverage of cards and credits, from a different source document.
 - [Tradeoffs Of The Higher-Rate Cash Back Alternative Versus The Fifth Third Card](citi_double_cash_tradeoffs_versus_fifth_third_card.md): overlapping coverage of foreign transaction fees, from a different source document.
 - [Delta Gold Business Card Fees And Eligibility](delta_gold_business_card_fees_and_eligibility.md): overlapping coverage of travel cards and transaction fees, from a different source document.
@@ -19,6 +20,8 @@ The recommendation that follows is to hold something else alongside it: if you l
 - [Alternatives To The Amex Cash Magnet Card](alternatives_to_amex_cash_magnet_card.md): drawn from the same source document (doc_0471).
 - [Amex Cash Magnet Approval Odds And Credit Limits](amex_cash_magnet_approval_odds_and_credit_limits.md): drawn from the same source document (doc_0471).
 - [The Amex Cash Magnet Best-Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): drawn from the same source document (doc_0471).
+- [American Express Cash Magnet Card: Overview](amex_cash_magnet_card_overview.md): same source document (doc_0471)
+- [Amex Cash Magnet Cardholder Benefits](amex_cash_magnet_cardholder_benefits.md): same source document (doc_0471)
 
 ## Source
 

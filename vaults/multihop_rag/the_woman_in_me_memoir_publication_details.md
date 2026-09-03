@@ -13,6 +13,7 @@ The Guardian, reviewing the memoir on 24 October 2023, observes that it "feels f
 
 ## Related Notes
 
+
 - [Britney Spears Memoir The Woman In Me](britney_spears_memoir_the_woman_in_me.md): another account of the same memoir, from a different document
 - [Britney Spears Conservatorship Under Jamie Spears](britney_spears_conservatorship_under_jamie_spears.md): overlaps heavily on the conservatorship that is the book's subject
 - [Britney Spears David Lucado Relationship](britney_spears_david_lucado_relationship.md): overlaps on the conservatorship years covered by the book
@@ -21,6 +22,8 @@ The Guardian, reviewing the memoir on 24 October 2023, observes that it "feels f
 - [Britney Spears Arrested Development Under Conservatorship](britney_spears_arrested_development_under_conservatorship.md): drawn from the same Guardian review
 - [Britney Spears Conservatorship Restrictions And Swat Holds](britney_spears_conservatorship_restrictions_and_swat_holds.md): drawn from the same Guardian review
 - [Britney Spears Estrangement From Her Family](britney_spears_estrangement_from_her_family.md): drawn from the same Guardian review
+- [Britney Spears' Memoir Barbs At Timberlake And Federline](britney_spears_memoir_barbs_at_timberlake_and_federline.md): same source document (doc_0052)
+- [Britney Spears On Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): same source document (doc_0052)
 
 ## Source
 

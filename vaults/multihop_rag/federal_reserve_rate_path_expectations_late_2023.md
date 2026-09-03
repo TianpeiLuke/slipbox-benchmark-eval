@@ -13,11 +13,18 @@ A month earlier, in early November 2023, the same expectations were forming from
 
 ## Related Notes
 
+
 - [ASX and Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): covers the same Treasury-yield-driven market swings in an earlier session.
 - [ASX Outlook and RBA Rate Expectations September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): the Australian counterpart of rate-path expectations shaping equity markets.
 - [Australian Market Resilience and Range Bound Commentary](australian_market_resilience_and_range_bound_commentary.md): ties market direction to the same inflation backdrop.
 - [Equity Valuations Versus Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): explains why the yield levels described here matter for share prices.
 - [Fed Dovish Comments and Yield Retreat October 2023](fed_dovish_comments_and_yield_retreat_october_2023.md): an earlier episode of the same Fed-expectations-to-yields transmission.
+- [ASX December 2023 Session Movers](asx_december_2023_session_movers.md): same source document (doc_0028)
+- [ASX November 2023 Session and RBA Rate Expectations](asx_november_2023_session_and_rba_rate_expectations.md): same source document (doc_0357)
+- [Take-Two Grand Theft Auto VI 2025 Release Stock Reaction](take_two_grand_theft_auto_vi_2025_release_stock_reaction.md): same source document (doc_0028)
+- [Wall Street December 2023 Mixed Session](wall_street_december_2023_mixed_session.md): same source document (doc_0028)
+- [Wall Street November 2023 Relief Rally](wall_street_november_2023_relief_rally.md): same source document (doc_0357)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

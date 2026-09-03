@@ -13,11 +13,18 @@ Polygon's Pete Volk says the movie is at its best when leaning into the action, 
 
 ## Related Notes
 
+
 - [The Continental (Peacock)](the_continental_peacock.md): both discuss the John Wick franchise, from a different source document
 - [The Paper Tigers (2020 Kung Fu Comedy)](the_paper_tigers_2020_kung_fu_comedy.md): another martial arts film available on the same free platforms, from a separate article
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 list
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): a fellow entry on the same ranked list
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): same source document (doc_0094)
+- [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): same source document (doc_0094)
+- [Creed III (Michael B. Jordan)](creed_iii_michael_b_jordan.md): same source document (doc_0094)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

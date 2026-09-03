@@ -13,10 +13,18 @@ The ring in the record was later believed to have been delivered to their room b
 
 ## Related Notes
 
+
 - [Barr Moses Recommends Dare to Lead](barr_moses_recommends_dare_to_lead.md): also mentions Monte Carlo, from a different source document.
 - [Diana and Dodi's Paris Car Crash, 1997](diana_and_dodi_paris_car_crash_1997.md): overlapping coverage of Dodi, Diana and the crash, from a different source document.
 - [Diana's Final Phone Call With William and Harry](dianas_final_phone_call_with_william_and_harry.md): overlapping coverage of Dodi, Diana and the crash, from a different source document.
 - [Elizabeth Debicki on Recreating the Paparazzi Pursuit](elizabeth_debicki_recreating_the_paparazzi_pursuit.md): same sub-plan on dramatisation versus record, from a different source document.
+- [Diana and the Paparazzi on the Fayed Yacht](diana_and_the_paparazzi_on_the_fayed_yacht.md): same source document (doc_0265)
+- [Kelly Fisher's Engagement to Dodi Fayed](kelly_fisher_engagement_to_dodi_fayed.md): same source document (doc_0265)
+- [Mohamed Al Fayed and the Dodi-Diana Kiss Photo](mohamed_al_fayed_and_the_dodi_diana_kiss_photo.md): same source document (doc_0265)
+- [Prince William at Balmoral After Diana's Death](prince_william_at_balmoral_after_dianas_death.md): same source document (doc_0265)
+- [Queen Elizabeth's Reluctance to Accept Camilla](queen_elizabeth_reluctance_to_accept_camilla.md): same source document (doc_0265)
+- [The Crown: Diana and a Role With the Blair Government](the_crown_diana_and_tony_blair_government_role.md): same source document (doc_0265)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

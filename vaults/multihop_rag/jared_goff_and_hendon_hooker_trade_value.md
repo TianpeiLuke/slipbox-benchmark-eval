@@ -11,6 +11,7 @@ The context is that the Lions were 5-1 and Goff was heading toward a likely cont
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also concerns the Super Bowl, from a different document.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also concerns the Super Bowl, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also concerns the Super Bowl, from a different document.
@@ -19,6 +20,10 @@ The context is that the Lions were 5-1 and Goff was heading toward a likely cont
 - [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): drawn from the same document (doc_0316).
 - [Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): drawn from the same document (doc_0316).
 - [Buffalo Bills Defensive Injuries, 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): drawn from the same document (doc_0316).
+- [Cincinnati Bengals: Joe Burrow's Durability And The Line](cincinnati_bengals_joe_burrow_durability_and_line.md): same source document (doc_0316)
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
+- [Contract Extension](term_contract_extension.md): uses the concept contract extension
 
 ## Source
 

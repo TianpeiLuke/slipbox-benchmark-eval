@@ -11,6 +11,7 @@ Most sectors traded lower, but interest-rate sensitive sectors including healthc
 
 ## Related Notes
 
+
 - [Asx and Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): shares vocabulary around cent, treasury and stocks, from a different source document.
 - [Asx Laggards October 12 2023](asx_laggards_october_12_2023.md): shares vocabulary around cent, sectors and healthcare, from a different source document.
 - [Asx October 2023 Laggards](asx_october_2023_laggards.md): shares vocabulary around cent, healthcare and expectations, from a different source document.
@@ -19,6 +20,7 @@ Most sectors traded lower, but interest-rate sensitive sectors including healthc
 - [ASX September 2023 Session Decliners](asx_september_2023_session_decliners.md): the local stock moves in the same wrap (doc_0087).
 - [Treasury Yields and the Fed's Higher-for-Longer Stance](treasury_yields_and_fed_higher_for_longer.md): the mechanism linking those yields to equity prices (doc_0087).
 - [US Consumer Spending Headwinds Late 2023](us_consumer_spending_headwinds_late_2023.md): another note drawn from the same source document (doc_0087).
+- [Wall Street Movers At The End Of September 2023](wall_street_movers_end_of_september_2023.md): same source document (doc_0087)
 
 ## Source
 

@@ -13,6 +13,7 @@ The limiting condition on the largest component is scale and playthrough: to cla
 
 ## Related Notes
 
+
 - [BetMGM Bonus Code TSN50 First Bet Offer](betmgm_bonus_code_tsn50_first_bet_offer.md): overlaps on deposit-and-claim promo steps, from a different document.
 - [Caesars Sportsbook Promo Code NEWS1000](caesars_sportsbook_promo_code_news1000.md): overlaps on promo-link claim steps, from a different document.
 - [DraftKings Vermont Sportsbook Welcome Offer](draftkings_vermont_sportsbook_welcome_offer.md): another state version of the DraftKings deposit offer, from a different document.
@@ -21,6 +22,8 @@ The limiting condition on the largest component is scale and playthrough: to cla
 - [Bet365 Welcome Bonus Offers December 2023](bet365_welcome_bonus_offers_december_2023.md): a sibling offer in the same roundup (doc_0202).
 - [BetMGM First Bet Bonus Offer December 2023](betmgm_first_bet_bonus_offer_december_2023.md): a sibling offer in the same roundup (doc_0202).
 - [BetRivers Second Chance Bet Offer December 2023](betrivers_second_chance_bet_offer_december_2023.md): a sibling offer in the same roundup (doc_0202).
+- [Claiming Caesars Sportsbook's $1,000 First Bet With Promo Code NEWS1000](caesars_sportsbook_first_bet_offer_december_2023.md): same source document (doc_0202)
+- [Playoff Stakes Of The Eagles-Seahawks Monday Night Football Game](eagles_seahawks_week_15_mnf_playoff_stakes.md): same source document (doc_0202)
 
 ## Source
 

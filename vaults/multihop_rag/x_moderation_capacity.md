@@ -17,11 +17,23 @@ The fourth element is the regulatory posture around all of this. Earlier in 2023
 
 ## Related Notes
 
+
 - [Consolidation Leaves Studios Vulnerable To Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): shares the layoffs and restructuring themes, from a different source document.
 - [Costs Of Relinquishing Independence After Acquisition](costs_of_relinquishing_independence_after_acquisition.md): shares the layoffs and restructuring themes, from a different source document.
 - [Brave Software Layoffs](brave_software_layoffs.md): shares the layoffs and restructuring themes, from a different source document.
 - [CollegeHumor's IAC Layoffs And Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares the layoffs and restructuring themes, from a different source document.
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs and restructuring themes, from a different source document.
+- [The Digital Services Act](digital_services_act.md): same source document (doc_0025)
+- [Disinformation On X After The Hamas Attacks On Israel](disinformation_on_x_gaza.md): same source document (doc_0025)
+- [EU Enforcement Steps Against X Over DSA Compliance](eu_enforcement_against_x.md): same source document (doc_0025)
+- [The EU's Urgent Warning Letter To X](eu_warning_letter_to_x.md): same source document (doc_0025)
+- [EU Warnings To Other Platforms](eu_warnings_to_other_platforms.md): same source document (doc_0024)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Community Notes](term_community_notes.md): uses the concept community notes
+- [Content Moderation](term_content_moderation.md): uses the concept content moderation
+- [Identity Verification](term_identity_verification.md): uses the concept identity verification
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

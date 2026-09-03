@@ -15,12 +15,18 @@ Nelson kept rolling — he had retired all five batters he faced by 9:43 p.m. an
 
 ## Related Notes
 
+
 - [Brandon Pfaadt Start World Series Game 3](brandon_pfaadt_start_world_series_game_3.md): the previous game, also featuring Josh Jung and Nathaniel Lowe
 - [Chase Field Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): the same venue, described from a different source document
 - [Diamondbacks Ninth Inning Insurance Runs](diamondbacks_ninth_inning_insurance_runs.md): a comparable inning-level account of the same two teams, different source document
 - [Jon Gray Emergency Relief World Series Game 3](jon_gray_emergency_relief_world_series_game_3.md): also covers Alek Thomas and Tommy Pham, different source document
 - [Kelly Finishes Seventh and Saalfrank Holds Texas](kelly_finishes_seventh_and_saalfrank_holds_texas.md): another inning-by-inning pitching log of this series, different source document
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): the Rangers absence in this game, same source document
+- [Corey Seager's Home Runs In The 2023 World Series](corey_seager_home_runs_2023_world_series.md): same source document (doc_0408)
+- [The Diamondbacks' Late Rally In World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): same source document (doc_0408)
+- [Ketel Marte's 20-Game Postseason Hitting Streak](ketel_marte_20_game_postseason_hitting_streak_2023.md): same source document (doc_0408)
+- [Marcus Semien's Big Hits In World Series Games 3 And 4](marcus_semien_five_rbi_world_series_game_4.md): same source document (doc_0408)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

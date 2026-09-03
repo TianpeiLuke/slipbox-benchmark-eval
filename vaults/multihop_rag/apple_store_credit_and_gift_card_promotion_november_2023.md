@@ -13,6 +13,7 @@ A separate and distinct mechanism runs at another retailer: Amazon has a sale on
 
 ## Related Notes
 
+
 - [Amex Cash Magnet Approval Odds And Credit Limits](amex_cash_magnet_approval_odds_and_credit_limits.md): overlaps on credit and card terms, from a different source document.
 - [Amex Cash Magnet Travel Limitations](amex_cash_magnet_travel_limitations.md): overlaps on credit and card terms, from a different source document.
 - [Apple Gift Card Amazon Credit Deal](apple_gift_card_amazon_credit_deal.md): closely overlaps on Apple gift cards bundled with store credit, from a different source document.
@@ -21,6 +22,8 @@ A separate and distinct mechanism runs at another retailer: Amazon has a sale on
 - [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): drawn from the same source document (doc_0576).
 - [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): drawn from the same source document (doc_0576).
 - [Why iPhone Discounts Come From Carriers, Not Retailers](why_iphone_discounts_come_from_carriers_not_retailers.md): drawn from the same source document (doc_0576).
+- [WIRED's 2023 Holiday Deal Guide Selection And Pricing Method](wired_2023_holiday_deal_guide_selection_and_pricing_method.md): same source document (doc_0576)
+- [WIRED Black Friday 2023 Apple Pencil And iPad Accessory Deals](wired_black_friday_2023_apple_pencil_and_ipad_accessory_deals.md): same source document (doc_0576)
 
 ## Source
 

@@ -11,12 +11,27 @@ This is the iPad Engadget recommends for most people because it's speedy, has a 
 
 ## Related Notes
 
+
 - [iPad 10th Generation Holiday Deal](ipad_10th_generation_holiday_deal.md): same source documents; the cheaper standard iPad below it in the range.
 - [iPad 9th Generation Holiday Deal](ipad_9th_generation_holiday_deal.md): same source documents; the budget pick in the same guide.
 - [iPad Mini Holiday Deal](ipad_mini_holiday_deal.md): same source documents; the compact option with the same Apple Pencil 2 support.
 - [Apple Holiday 2023 Sale Overview](apple_holiday_2023_sale_overview.md): same source documents; the sale these prices belong to.
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): shares the Black Friday and Cyber Monday context, from a different source document.
 - [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): overlaps in content on discounted tablets, from a different source document.
+- [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares battery_life_and_charging, battery_technology, black_friday_cyber_monday; different source document
+- [AirPods Pro Second Generation Lightning Deal At Walmart](airpods_pro_second_generation_lightning_deal.md): shares battery_life_and_charging, discount_and_msrp; different source document
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): shares battery_life_and_charging, battery_technology, black_friday_cyber_monday; different source document
+- [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): same source document (doc_0222)
+- [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): same source document (doc_0222)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0222)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

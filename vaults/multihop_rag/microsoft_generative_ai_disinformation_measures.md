@@ -13,11 +13,20 @@ On Bing Search, where Microsoft was quick to embed generative AI features — le
 
 ## Related Notes
 
+
 - [Apple Generative AI Investment Stance](apple_generative_ai_investment_stance.md): shares the earnings report and generative AI theme, from a different source document.
 - [Believe Marketing Playbook for Si No Estas](believe_marketing_playbook_for_si_no_estas.md): also covers Latin America, from a different source document.
 - [ChatGPT Mobile App and Availability Expansion](chatgpt_mobile_app_and_availability_expansion.md): also covers Bing Search, from a different source document.
 - [Discord Graduated Warning System and Account Standing](discord_graduated_warning_system_and_account_standing.md): shares the appeals process and earnings report theme, from a different source document.
 - [Ibm Generative AI Business Motive in AI Alliance](ibm_generative_ai_business_motive_in_ai_alliance.md): shares the earnings report and generative AI theme, from a different source document.
+- [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): same source document (doc_0248)
+- [The EU Code Of Practice On Disinformation](eu_code_of_practice_on_disinformation.md): same source document (doc_0248)
+- [EU Demands On Fact-Checking And Researcher Data Access](eu_demands_on_fact_checking_and_researcher_data_access.md): same source document (doc_0248)
+- [EU Warning On Deepfake Election Risks](eu_warning_on_deepfake_election_risks.md): same source document (doc_0248)
+- [Google's Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): same source document (doc_0248)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

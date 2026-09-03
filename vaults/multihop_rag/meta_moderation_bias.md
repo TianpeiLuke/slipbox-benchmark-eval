@@ -19,11 +19,20 @@ The warrant joining grounds to claim is duration and convergence. Because the di
 
 ## Related Notes
 
+
 - [Meta Enforcement Volume](meta_enforcement_volume.md): overlapping vocabulary about Arabic, Hebrew and content enforcement, giving the volume side of the same asymmetry, from a different source document.
 - [Palestinian Content Moderation Distrust Meta Platforms](palestinian_content_moderation_distrust_meta_platforms.md): overlapping vocabulary about Palestinian users, Meta and content moderation, from a different source document.
 - [Amnesty Automated Apartheid Report On West Bank Surveillance](amnesty_automated_apartheid_report_on_west_bank_surveillance.md): also concerns East Jerusalem, from a different source document.
 - [Mabat 2000 Israeli Facial Recognition Network](mabat_2000_israeli_facial_recognition_network.md): also concerns East Jerusalem, from a different source document.
 - [Internet As Global Endocrine System](internet_as_global_endocrine_system.md): also cites the Electronic Frontier Foundation, from a different source document.
+- [Instagram Palestine Suppression](instagram_palestine_suppression.md): same source document (doc_0106)
+- [Meta's Moderation During An Earlier Hamas-Israel Conflict](meta_2021_conflict_moderation.md): same source document (doc_0106)
+- [Meta's Arabic Mistranslation Of "Alhamdulillah"](meta_arabic_mistranslation.md): same source document (doc_0106)
+- [Meta Bias Mechanisms](meta_bias_mechanisms.md): same source document (doc_0106)
+- [Meta Response To Suppression Claims](meta_response_to_suppression_claims.md): same source document (doc_0106)
+- [Accessibility Localisation](term_accessibility_localisation.md): uses the concept accessibility localisation
+- [Shadowbanning](term_shadowbanning.md): uses the concept shadowbanning
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

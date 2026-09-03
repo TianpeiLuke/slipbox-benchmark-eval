@@ -11,11 +11,15 @@ The grounds are lineage and execution. The game is an homage to the Warhammer 40
 
 ## Related Notes
 
+
 - [Warhammer 40,000: Rogue Trader — Premise](warhammer_40k_rogue_trader_premise.md): same source; the setting whose depth this argument is about.
 - [Rogue Trader: The Koronus Expanse Campaign](rogue_trader_koronus_expanse_campaign.md): same source; the region whose detail the argument credits.
 - [Rogue Trader: The Companion Cast](rogue_trader_companion_cast.md): same source; the characters embodying the sub-factions this lore covers.
 - [Rogue Trader: Verdict And Release Details](rogue_trader_verdict_and_release_details.md): same source; the conclusion that this is a rare treat for 40K fans.
 - [Rogue Trader: Pacing And Voidship Combat Flaws](rogue_trader_pacing_and_voidship_combat_flaws.md): same source; the mechanical complaints set against this praise.
+- [Polygon's Selection Process for the Top 50 Games of 2023](polygon_top_50_games_of_2023_selection_process.md): both discuss Rogue Trader; different source document
+- [Rogue Trader: CRPG Structure And Moral Paths](rogue_trader_crpg_structure_and_moral_paths.md): same source document (doc_0592)
+- [Rogue Trader: Turn-Based Squad Combat](rogue_trader_turn_based_squad_combat.md): same source document (doc_0592)
 
 ## Source
 

@@ -11,6 +11,7 @@ The full list of previous winners was: 2022-23 season, Georgia Bulldogs; 2021-22
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): covers Alabama, Georgia and other programs on this list in the 2023 season, from a different document.
 - [Alabama 2023 CFP Case and SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): also covers the Crimson Tide, from a different document.
 - [Alabama 2023 Strength of Schedule and Record Metrics](alabama_2023_strength_of_schedule_and_record_metrics.md): also covers the Crimson Tide, from a different document.
@@ -18,6 +19,10 @@ The full list of previous winners was: 2022-23 season, Georgia Bulldogs; 2021-22
 - [Alabama CFP Head-to-Head Debates: Texas and Florida State](alabama_cfp_head_to_head_debates_texas_florida_state.md): also covers the Crimson Tide, from a different document.
 - [2023 Bowl Season Betting Trends](2023_bowl_season_betting_trends.md): covers the same season's betting record, from the same document.
 - [2023 Bowl Season Completed Game Results](2023_bowl_season_completed_game_results.md): covers the same season's bowl results, from the same document.
+- [The CFP National Championship: Format And Schedule](cfp_national_championship_game_format_and_schedule.md): same source document (doc_0433)
+- [CFP Semifinal Matchups: Rose And Sugar Bowls](cfp_semifinal_rose_and_sugar_bowl_matchups.md): same source document (doc_0433)
+- [College Bowl Season: Game Count And The New Year's Six](college_bowl_season_faq_game_count_and_ny6.md): same source document (doc_0433)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

@@ -11,6 +11,7 @@ The official 23-man roster, by position with club, caps and goals, was: goalkeep
 
 ## Related Notes
 
+
 - [AC Milan 2-0 Win Over Lazio and Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): also discusses Christian Pulisic.
 - [Atalanta 3-2 AC Milan](atalanta_3_2_ac_milan.md): also discusses Christian Pulisic.
 - [Champions League 2023-24 Group F Dortmund PSG](champions_league_2023_24_group_f_dortmund_psg.md): overlapping club coverage of Milan and Borussia Dortmund.
@@ -19,6 +20,7 @@ The official 23-man roster, by position with club, caps and goals, was: goalkeep
 - [Gio Reyna USMNT Return and Berhalter Reconciliation](gio_reyna_usmnt_return_and_berhalter_reconciliation.md): the story behind one roster inclusion, same source document.
 - [Tyler Adams Injury and USMNT Defensive Midfield Gap](tyler_adams_injury_and_usmnt_defensive_midfield_gap.md): the notable absence from this roster, same source document.
 - [USMNT October 2023 Friendlies vs Germany and Ghana](usmnt_october_2023_friendlies_vs_germany_and_ghana.md): the matches this roster was named for, same source document.
+- [Who The USMNT Was Missing Through Injury In October 2023](usmnt_october_2023_injury_absences.md): same source document (doc_0231)
 
 ## Source
 

@@ -13,6 +13,7 @@ On 6 December 2023, Scalable Capital's biggest rival among startups, Trade Repub
 
 ## Related Notes
 
+
 - [AI21 Labs Tel Aviv Office Lease](ai21_labs_tel_aviv_office_lease.md): shares the valuation theme, from a different source document.
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): shares the valuation theme, from a different source document.
 - [AMO Founding Team And Funding Round](amo_founding_team_and_funding_round.md): shares the startup valuation theme, from a different source document.
@@ -21,6 +22,12 @@ On 6 December 2023, Scalable Capital's biggest rival among startups, Trade Repub
 - [Bharti Airtel EV/EBITDA Valuation Case](bharti_airtel_ev_ebitda_valuation_case.md): shares the valuation theme, from a different source document.
 - [Boeing Q3 2023 Earnings Preview And 737 MAX Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): shares the valuation theme, from a different source document.
 - [Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): shares the valuation theme, from a different source document.
+- [European Startup Funding And Market Headwinds](european_startup_funding_and_market_headwinds.md): same source document (doc_0398)
+- [Investing Countercyclically In A Cooled Market](investing_countercyclically_in_a_cooled_market.md): same source document (doc_0398)
+- [Scalable Capital's $65M Flat-Valuation Round](scalable_capital_65m_flat_valuation_round.md): same source document (doc_0398)
+- [Scalable Capital's Decision Not To Seek A Banking License](scalable_capital_banking_license_decision.md): same source document (doc_0398)
+- [Scalable Capital's Brokerage Platform And Scale](scalable_capital_brokerage_platform_and_scale.md): same source document (doc_0398)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

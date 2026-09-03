@@ -11,6 +11,7 @@ The Diamondbacks had acquired Gurriel the previous offseason in a trade involvin
 
 ## Related Notes
 
+
 - [Adolis Garcia Oblique Injury, 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): also concerns the World Series Arizona reached, from a different document.
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): also concerns the World Series, from a different document.
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): also relies on reporting by Ken Rosenthal, from a different document.
@@ -19,6 +20,8 @@ The Diamondbacks had acquired Gurriel the previous offseason in a trade involvin
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): another entry from the same free agency tracker, from the same document.
 - [Braves Release Matt Carpenter](braves_release_matt_carpenter.md): another entry from the same free agency tracker, from the same document.
 - [Cody Bellinger Free Agent Market and Suitors](cody_bellinger_free_agent_market_and_suitors.md): another entry from the same free agency tracker, from the same document.
+- [Jack Flaherty's One-Year Deal With The Tigers](jack_flaherty_tigers_one_year_deal.md): same source document (doc_0422)
+- [Kansas City Royals' December 2023 Signings](kansas_city_royals_2023_offseason_signings.md): same source document (doc_0422)
 
 ## Source
 

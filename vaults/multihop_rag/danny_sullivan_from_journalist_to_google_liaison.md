@@ -13,6 +13,7 @@ Forrester reports the suspicion without endorsing it. "There is a thread across 
 
 ## Related Notes
 
+
 - [The DOJ Theory That Google Default Deals Foreclose Search Rivals](doj_theory_that_google_default_deals_foreclose_search_rivals.md): shares the search-engine competition theme, from a different source document.
 - [Google's Denial That Ad Keyword Matching Affects Organic Results](google_denial_that_ad_keyword_matching_affects_organic_results.md): also features Danny Sullivan speaking for Google, from a different source document.
 - [Google Local Search Ranking Factors](google_local_search_ranking_factors.md): also features Danny Sullivan explaining Google's ranking, from a different source document.
@@ -21,6 +22,8 @@ Forrester reports the suspicion without endorsing it. "There is a thread across 
 - [AI-Generated Content Will Overwhelm Search](ai_generated_content_will_overwhelm_search_prediction.md): drawn from the same source document (doc_0115).
 - [Mass-Generated AI SEO Spam And Churn And Burn](ai_mass_generated_seo_spam_churn_and_burn.md): drawn from the same source document (doc_0115).
 - [The Blurred Line Between SEO And Spam](blurred_line_between_seo_and_spam.md): drawn from the same source document (doc_0115).
+- [Cade Lee, From Black Hat SEO To Construction](cade_lee_from_black_hat_seo_to_construction.md): same source document (doc_0115)
+- [The Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): same source document (doc_0115)
 
 ## Source
 

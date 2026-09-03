@@ -11,11 +11,16 @@ Goodwill efforts increased in the weeks leading up to the summit: more direct fl
 
 ## Related Notes
 
+
 - [Apple Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): also involves President Joe Biden's administration, from a different source document.
 - [ASPI Analysis Of TikTok Pixel Data Aggregation Risk](aspi_analysis_of_tiktok_pixel_data_aggregation_risk.md): also concerns the Chinese President and US-China technology friction, from a different source document.
 - [Australian Inflation Data And RBA November Rise](australian_inflation_data_and_rba_november_rise.md): also references the Chinese President in the same period, from a different source document.
 - [Cairo Diplomatic Surge And Summit For Peace 2023](cairo_diplomatic_surge_and_summit_for_peace_2023.md): also involves both presidents in 2023 summit diplomacy, from a different source document.
 - [Hakeem Jeffries Bipartisan Offer To Reopen The House](hakeem_jeffries_bipartisan_offer_to_reopen_the_house.md): also concerns President Joe Biden and bipartisan politics, from a different source document.
+- [US-China Areas Of Cooperation In 2023](us_china_areas_of_cooperation_2023.md): same source document (doc_0385)
+- [The 2023 Deterioration And Thaw In U.S.-China Relations](us_china_relations_deterioration_and_thaw_2023.md): same source document (doc_0385)
+- [US Export Controls On China And The Taiwan Flashpoint](us_export_controls_on_china_and_taiwan_flashpoint.md): same source document (doc_0385)
+- [Transfer Window](term_transfer_window.md): uses the concept transfer window
 
 ## Source
 

@@ -11,6 +11,7 @@ Another on the list to add "soon" is GBS screening for pregnant patients. "GBS i
 
 ## Related Notes
 
+
 - [Antibiotic Stewardship Practices](antibiotic_stewardship_practices.md): substantial content overlap on antibiotics, risk, bacteria, from a different source document.
 - [Global Burden of Antibiotic Resistant Infections](global_burden_of_antibiotic_resistant_infections.md): substantial content overlap on infections, antibiotics, bacteria, from a different source document.
 - [Phage Therapy Clinical Trial Evidence](phage_therapy_clinical_trial_evidence.md): substantial content overlap on infections, antibiotics, bacteria, from a different source document.
@@ -19,6 +20,8 @@ Another on the list to add "soon" is GBS screening for pregnant patients. "GBS i
 - [Daye STI Test Pricing and User Workflow](daye_sti_test_pricing_and_user_workflow.md): drawn from the same source document, doc_0603.
 - [Daye Vaginal Microbiome Screening Service](daye_vaginal_microbiome_screening_service.md): drawn from the same source document, doc_0603.
 - [PCR Testing in Daye STI Screening](pcr_testing_in_daye_sti_screening.md): drawn from the same source document, doc_0603.
+- [The Risk Of Missing HIV Screening With At-Home Tests](risk_of_missing_hiv_screening_with_at_home_tests.md): same source document (doc_0603)
+- [Tampons As Diagnostic Sample Collection Devices](tampons_as_diagnostic_sample_collection_devices.md): same source document (doc_0603)
 
 ## Source
 

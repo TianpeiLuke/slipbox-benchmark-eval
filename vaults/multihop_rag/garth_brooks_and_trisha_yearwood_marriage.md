@@ -11,6 +11,7 @@ Each partner offers a different account of why this marriage works. Brooks attri
 
 ## Related Notes
 
+
 - [Don McLean Career Honours And Recognition](don_mclean_career_honours_and_recognition.md): another article featuring Garth Brooks in a different context
 - [Amy Grant And Vince Gill Marriage](amy_grant_and_vince_gill_marriage.md): another couple from the same roundup
 - [Carrie Underwood And Mike Fisher Marriage](carrie_underwood_and_mike_fisher_marriage.md): another couple from the same roundup
@@ -19,6 +20,7 @@ Each partner offers a different account of why this marriage works. Brooks attri
 - [Dolly Parton And Carl Thomas Dean Marriage](dolly_parton_and_carl_thomas_dean_marriage.md): the longest marriage in the same roundup
 - [Keith Urban And Nicole Kidman Marriage](keith_urban_and_nicole_kidman_marriage.md): another couple from the same roundup
 - [Martina McBride And John McBride Marriage](martina_mcbride_and_john_mcbride_marriage.md): another couple from the same roundup
+- [Tim McGraw And Faith Hill's Marriage](tim_mcgraw_and_faith_hill_marriage.md): same source document (doc_0019)
 
 ## Source
 

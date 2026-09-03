@@ -11,6 +11,7 @@ The consequence the argument draws is reputational. Instead of being feted as th
 
 ## Related Notes
 
+
 - [All Blacks' Final Moments, RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): also discusses the All Blacks, from a different source document.
 - [All Blacks Generational Change After the 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): also discusses the All Blacks, from a different source document.
 - [All Blacks: Ireland Series Loss Backlash as Motivation](all_blacks_ireland_series_loss_backlash_as_motivation.md): also discusses the All Blacks, from a different source document.
@@ -19,6 +20,7 @@ The consequence the argument draws is reputational. Instead of being feted as th
 - [Ian Foster's All Blacks Turnaround and Succession](ian_foster_all_blacks_turnaround_and_succession.md): same match report, on the "inspired All Blacks side" this argument credits.
 - [Ireland's 37-Phase Final Attack Against New Zealand](ireland_37_phase_final_attack_versus_new_zealand.md): same match report, on the ending that prompted this assessment.
 - [Ireland's Rugby World Cup Quarter-Final Curse](ireland_rugby_world_cup_quarter_final_curse.md): same match report, on the record of failure this argument sets against the team's quality.
+- [New Zealand 28-24 Ireland, 2023 World Cup Quarter-Final](new_zealand_28_24_ireland_2023_world_cup_quarter_final.md): same source document (doc_0538)
 
 ## Source
 

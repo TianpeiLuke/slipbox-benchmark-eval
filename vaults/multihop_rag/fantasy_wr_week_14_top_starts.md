@@ -13,11 +13,18 @@ CeeDee Lamb (vs. Eagles) and the Cowboys looked to avenge their road loss to the
 
 ## Related Notes
 
+
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): also discusses Justin Jefferson, from a different document.
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also discusses Stefon Diggs, from a different document.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): also discusses Justin Jefferson, from a different document.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): also discusses Tyreek Hill, from a different document.
 - [Chargers 6-0 Patriots Shutout Week 13](chargers_6_0_patriots_shutout_week_13.md): also discusses Keenan Allen, from a different document.
+- [Week 14 Fantasy Wide Receiver Rankings, Full-Point PPR (Full List)](fantasy_wr_ppr_rankings_week_14_full_list.md): same source document (doc_0197)
+- [Week 14 PPR Wide Receivers To Downgrade](fantasy_wr_week_14_busts.md): same source document (doc_0197)
+- [Week 14 Bye Week Impact On Fantasy Wide Receivers](fantasy_wr_week_14_bye_week_impact.md): same source document (doc_0197)
+- [Week 14 PPR Wide Receiver Sleepers And Waiver Pickups](fantasy_wr_week_14_sleepers_and_waiver_pickups.md): same source document (doc_0197)
+- [Justin Jefferson's Week 14 Return From Injury](justin_jefferson_week_14_return_from_injury.md): same source document (doc_0197)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

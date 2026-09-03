@@ -11,6 +11,7 @@ Her grounds are what the platforms themselves reward. "Gen Z does not put up wit
 
 ## Related Notes
 
+
 - [AOC's Twitch Among Us Stream](aoc_twitch_among_us_stream.md): same source document; a case of the unfiltered register Henry describes working.
 - [Democratic Social Media Campaign Dominance](democratic_social_media_campaign_dominance.md): same source document; the strategic advantage Henry helped build.
 - [Doug Mastriano's Facebook Live Campaign](doug_mastriano_facebook_live_campaign.md): same source document; a Republican who built a following but not the youth rapport.
@@ -19,6 +20,8 @@ Her grounds are what the platforms themselves reward. "Gen Z does not put up wit
 - [Jake Paul Endorsement Backlash](jake_paul_endorsement_backlash.md): same source document; a case of an endorsement failing the authenticity test.
 - [Matt Gaetz's Twitch Debut Failure](matt_gaetz_twitch_debut_failure.md): same source document; a Republican platform attempt that read as inauthentic.
 - [Mehmet Oz's TikTok Campaign](mehmet_oz_tiktok_campaign.md): same source document; a campaign whose content was unrelatable to the same audience.
+- [Online Activist Trolling Of Conservative Campaigns](online_activist_trolling_of_conservative_campaigns.md): same source document (doc_0468)
+- [The Paid Political Influencer Regulation Gap](paid_political_influencer_regulation_gap.md): same source document (doc_0468)
 
 ## Source
 

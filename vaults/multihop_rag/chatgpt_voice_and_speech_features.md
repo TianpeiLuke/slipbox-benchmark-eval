@@ -13,11 +13,18 @@ One consequence noted at the time: now that ChatGPT Voice is available to all fr
 
 ## Related Notes
 
+
 - [Beeper Mini Hands on Test Results](beeper_mini_hands_on_test_results.md): also covers Pro Max, from a different source document.
 - [ChatGPT Adoption Gap Survey Evidence](chatgpt_adoption_gap_survey_evidence.md): substantial content overlap on chatgpt, chatbot, used, from a different source document.
 - [ChatGPT Competitive Response Across AI Industry](chatgpt_competitive_response_across_ai_industry.md): substantial content overlap on chatgpt, openai, releasing, from a different source document.
 - [ChatGPT Enterprise and Multimodal Features](chatgpt_enterprise_and_multimodal_features.md): substantial content overlap on voice, chatgpt, openai, from a different source document.
 - [ChatGPT Launch and First Year Evolution](chatgpt_launch_and_first_year_evolution.md): substantial content overlap on voice, chatgpt, openai, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): same source document (doc_0048)
+- [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): same source document (doc_0048)
+- [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): same source document (doc_0048)
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

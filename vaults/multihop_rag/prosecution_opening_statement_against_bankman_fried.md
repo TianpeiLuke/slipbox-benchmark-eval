@@ -11,12 +11,19 @@ What followed was a roughly 30-minute story that repeatedly emphasized how Bankm
 
 ## Related Notes
 
+
 - [Engoron Summary Judgment That Trump Committed Fraud](engoron_summary_judgment_that_trump_committed_fraud.md): shares the criminal-trial and political-donations themes from a different source document.
 - [FTX Inner Circle Family And Friends Implicated](ftx_inner_circle_family_and_friends_implicated.md): shares the criminal-trial and political-donations themes from a different source document.
 - [FTX Marketing And Influence](ftx_marketing_and_influence.md): also concerns Tom Brady, from a different source document.
 - [NFL 2022 Draft Quarterback Class Grades](nfl_2022_draft_quarterback_class_grades.md): also concerns Tom Brady, from a different source document.
 - [Post-Tightening Monetary Policy Autopsy 2023](post_tightening_monetary_policy_autopsy_2023.md): shares the criminal-trial and political-donations themes from a different source document.
 - [Adam Yedidia Testimony And Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): drawn from the same source document (doc_0031).
+- [Alameda Research As The Alleged Conduit For FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): same source document (doc_0031)
+- [The Defense's Good-Faith Case For Bankman-Fried](defense_good_faith_case_for_bankman_fried.md): same source document (doc_0031)
+- [Marc-Antoine Julliard's Testimony As FTX's First Witness-Victim](marc_antoine_julliard_ftx_customer_testimony.md): same source document (doc_0031)
+- [Day Two Of The Bankman-Fried Trial: Jury Selection And The Courtroom Audience](sbf_trial_day_two_jury_and_courtroom.md): same source document (doc_0031)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

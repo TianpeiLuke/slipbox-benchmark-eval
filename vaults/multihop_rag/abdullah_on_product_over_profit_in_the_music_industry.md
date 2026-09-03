@@ -11,6 +11,7 @@ Asked separately what advice he would give an aspiring entrepreneur in the music
 
 ## Related Notes
 
+
 - [Abdul Karim Abdullah's Path into the Music Business](abdul_karim_abdullah_path_into_the_music_business.md): the career that informs this view.
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): from the same interview.
 - [AfroFuture Festival, Accra, Ghana](afrofuture_festival_accra_ghana.md): the venture he runs on these principles.
@@ -19,6 +20,7 @@ Asked separately what advice he would give an aspiring entrepreneur in the music
 - [AfroFuture Impact on Ghana Tourism](afrofuture_impact_on_ghana_tourism.md): from the same interview.
 - [AfroFuture Rising Star Challenge Competition](afrofuture_rising_star_challenge_competition.md): from the same interview.
 - [Road to AfroFuture Geographic Brand Expansion](road_to_afrofuture_geographic_brand_expansion.md): from the same interview.
+- [Sub-Saharan Africa Recorded Music Market Growth](sub_saharan_africa_recorded_music_market_growth.md): same source document (doc_0085)
 
 ## Source
 

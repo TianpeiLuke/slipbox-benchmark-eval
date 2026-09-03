@@ -13,6 +13,7 @@ B-Hops joked he would "sharpen my wrestling skills" for the rematch a year later
 
 ## Related Notes
 
+
 - [UFC 295: Lopes vs Sabatini Best Bet](ufc_295_lopes_vs_sabatini_best_bet.md): overlaps on wrestling and going to the floor in a fight, from a different document.
 - [Adolpho Washington vs Virgil Hill, 1993: The Camera Stoppage](adolpho_washington_virgil_hill_1993_camera_stoppage.md): drawn from the same document (doc_0228).
 - [The Scope of talkSPORT's Craziest Boxing Fight Endings Ranking](boxing_unorthodox_fight_endings_ranking_scope.md): drawn from the same document (doc_0228).
@@ -21,6 +22,8 @@ B-Hops joked he would "sharpen my wrestling skills" for the rematch a year later
 - [Mayweather vs Ortiz, 2011: The Knockout After the Headbutt](mayweather_ortiz_2011_knockout_after_headbutt.md): drawn from the same document (doc_0228).
 - [Oliver McCall's Breakdown Against Lennox Lewis, 1997](oliver_mccall_breakdown_against_lennox_lewis_1997.md): drawn from the same document (doc_0228).
 - [Ricky Hatton vs Stephen Smith, 2002: The Disqualification](ricky_hatton_stephen_smith_2002_disqualification.md): drawn from the same document (doc_0228).
+- [Riddick Bowe vs Elijah Tillery, 1991: The Ring Brawl](riddick_bowe_elijah_tillery_1991_ring_brawl.md): same source document (doc_0228)
+- [Tony Wilson vs Steve McCarthy, 1989: The Shoe Intervention](tony_wilson_steve_mccarthy_1989_shoe_intervention.md): same source document (doc_0228)
 
 ## Source
 

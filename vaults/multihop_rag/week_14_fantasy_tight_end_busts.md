@@ -11,6 +11,7 @@ Goedert (at Cowboys) was not a "must-start" if he returned from his forearm inju
 
 ## Related Notes
 
+
 - [Cole Kmet Week 6 2023 Start Recommendation](cole_kmet_week6_2023_start_recommendation.md): also covers Dallas Goedert, from a different document.
 - [Dallas Cowboys 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): also covers the Dallas defense, from a different document.
 - [Dallas Goedert Eagles Tight End Showdown Pick](dallas_goedert_eagles_tight_end_showdown_pick.md): also covers Dallas Goedert after his return, from a different document.
@@ -19,6 +20,8 @@ Goedert (at Cowboys) was not a "must-start" if he returned from his forearm inju
 - [The Week 14 Fantasy Tight End Landscape](week_14_fantasy_tight_end_landscape.md): the same column's framing of the week, from the same document.
 - [Week 14 Fantasy Tight End Sleepers and Streamers](week_14_fantasy_tight_end_sleepers_and_streamers.md): the alternatives to these busts, from the same document.
 - [Week 14 Tight End Byes: Logan Thomas and Trey McBride](week_14_tight_end_byes_thomas_and_mcbride.md): the byes narrowing the options here, from the same document.
+- [Week 14 Tight End Injury Report](week_14_tight_end_injury_report.md): same source document (doc_0552)
+- [Week 14 Tight End PPR Rankings, Top 30](week_14_tight_end_ppr_rankings_top_30.md): same source document (doc_0552)
 
 ## Source
 

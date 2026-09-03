@@ -13,6 +13,7 @@ On apps: Rich stumbled on the Beli app for tracking and discovering restaurants 
 
 ## Related Notes
 
+
 - [Chants Of Sennaar](chants_of_sennaar.md): covers the language-puzzle game recommended here, from a different source document.
 - [Fitbit Charge 6 Deal](fitbit_charge_6_deal.md): also concerns Google Maps integration, from a different source document.
 - [Google Local Search Ranking Factors](google_local_search_ranking_factors.md): also concerns Google Maps as a local discovery tool, from a different source document.
@@ -21,6 +22,8 @@ On apps: Rich stumbled on the Beli app for tracking and discovering restaurants 
 - [Installer Reader Podcast And TV Picks](installer_reader_podcast_and_tv_picks.md): drawn from the same source document (doc_0607).
 - [Kevin Nguyen's Five-Writing-App Rotation](kevin_nguyen_five_writing_app_rotation.md): drawn from the same source document (doc_0607).
 - [Kevin Nguyen's Music, Book And Film Picks](kevin_nguyen_music_book_and_film_picks.md): drawn from the same source document (doc_0607).
+- [Kevin Nguyen's Non-Writing iPhone Apps](kevin_nguyen_non_writing_iphone_apps.md): same source document (doc_0607)
+- [The Mint Shutdown And The Hunt For Money Apps](mint_shutdown_and_the_hunt_for_money_apps.md): same source document (doc_0607)
 
 ## Source
 

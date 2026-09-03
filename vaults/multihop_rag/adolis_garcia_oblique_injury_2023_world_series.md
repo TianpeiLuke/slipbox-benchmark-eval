@@ -13,6 +13,7 @@ The roster consequences unfolded across Oct. 31. At 5:10 p.m. Garcia was not in 
 
 ## Related Notes
 
+
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): another World Series document, on a different controversy
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): another World Series document, different source
 - [Chase Field Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): the venue where the injury occurred, from a different source document
@@ -21,6 +22,8 @@ The roster consequences unfolded across Oct. 31. At 5:10 p.m. Garcia was not in 
 - [Brandon Pfaadt Start World Series Game 3](brandon_pfaadt_start_world_series_game_3.md): the Game 3 start during which the injury occurred, same source document
 - [Corey Seager Home Runs 2023 World Series](corey_seager_home_runs_2023_world_series.md): the teammate who carried the lineup in Garcia's absence, same source document
 - [Diamondbacks Late Rally World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): the game Garcia missed, same source document
+- [Jon Gray's Surprise Relief Outing In World Series Game 3](jon_gray_emergency_relief_world_series_game_3.md): same source document (doc_0495)
+- [Ketel Marte's 20-Game Postseason Hitting Streak](ketel_marte_20_game_postseason_hitting_streak_2023.md): same source document (doc_0408)
 
 ## Source
 

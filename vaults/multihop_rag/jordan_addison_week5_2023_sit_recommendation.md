@@ -13,6 +13,7 @@ The opponent evidence closes it. The Chiefs have been stout against receivers al
 
 ## Related Notes
 
+
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): covers the same Minnesota offense and how snap and usage shares are distributed, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another "Sit Him" verdict in the same weekly-decision format, from a different document.
 - [Baker Mayfield Week 15 Stat Line At Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also discusses Kirk Cousins, the quarterback whose volume this call depends on, from a different document.
@@ -21,6 +22,8 @@ The opponent evidence closes it. The Chiefs have been stout against receivers al
 - [Brock Purdy Fantasy Outlook Weeks 5 And 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another lineup call from the same Week 5 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this sit call applies, from the same column.
 - [Dallas Goedert Week 5 2023 Bust Warning](dallas_goedert_week5_2023_bust_warning.md): another lineup call from the same Week 5 column.
+- [Dameon Pierce As A Week 5 2023 Sit At Atlanta](dameon_pierce_week5_2023_sit_recommendation.md): same source document (doc_0058)
+- [DeAndre Hopkins As A Week 5 2023 Start At Indianapolis](deandre_hopkins_week5_2023_start_recommendation.md): same source document (doc_0058)
 
 ## Source
 

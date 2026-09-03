@@ -11,11 +11,19 @@ It isn't that the glasses can't do things: you can now make non-Alexa calls and,
 
 ## Related Notes
 
+
 - [2023 Bowl Season Completed Game Results](2023_bowl_season_completed_game_results.md): also mentions Bowling Green, from a different source document.
 - [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): overlapping coverage of Alexa and Echo smart devices, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): overlapping coverage of Alexa and Echo smart devices, from a different source document.
 - [Echo Fourth-Gen Smart Speaker Prime Day Deal](echo_fourth_gen_smart_speaker_prime_day_deal.md): overlapping coverage of Alexa and Echo smart devices, from a different source document.
 - [Explore With Alexa](explore_with_alexa.md): overlapping coverage of Alexa on Echo devices, from a different source document.
+- [Echo Frames: Alexa At Home And Find My Frames](echo_frames_alexa_at_home_and_find_my_frames.md): same source document (doc_0431)
+- [Echo Frames Audio Leakage In Quiet Spaces](echo_frames_audio_leakage_in_quiet_spaces.md): same source document (doc_0431)
+- [Echo Frames Battery Life And Charging Stand](echo_frames_battery_life_and_charging_stand.md): same source document (doc_0431)
+- [Echo Frames Call Quality And Multi-Device Pairing](echo_frames_call_quality_and_multi_device_pairing.md): same source document (doc_0431)
+- [Echo Frames Carrera Cruiser Fit And Build Quality](echo_frames_carrera_cruiser_fit_and_build_quality.md): same source document (doc_0431)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

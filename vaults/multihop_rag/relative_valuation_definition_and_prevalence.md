@@ -11,11 +11,21 @@ Findings from research done a decade earlier by Aswath Damodaran indicated that 
 
 ## Related Notes
 
+
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): shares the earnings-and-valuation framing applied to a single stock, from a different source document.
 - [Boeing Q3 2023 Earnings Preview And 737 MAX Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): shares the earnings-and-valuation framing, from a different source document.
 - [Broadcom Q4 FY2023 Earnings Preview And VMware Integration](broadcom_q4_fy2023_earnings_preview_and_vmware_integration.md): shares corpus tags on acquisitions and earnings, the M&A setting where relative valuation is used.
 - [Cloud Stock Multiples And Startup Valuations](cloud_stock_multiples_and_startup_valuations.md): applies trading multiples to price a set of companies, from a different source document.
 - [Cybersecurity Consolidation Wave 2023](cybersecurity_consolidation_wave_2023.md): concerns acquisition valuations of the kind this method is used for, from a different source document.
+- [Bharti Airtel: The EV/EBITDA Case That PE Would Have Missed](bharti_airtel_ev_ebitda_valuation_case.md): same source document (doc_0418)
+- [Enterprise Value Multiples](enterprise_value_multiples.md): same source document (doc_0418)
+- [Equity Multiples Must Use Shareholder Line Items](equity_multiples_and_shareholder_line_items.md): same source document (doc_0418)
+- [Equity Valuations Must Be Judged Against Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): same source document (doc_0418)
+- [Ketchup Economics: The Peer-Multiple Fallacy](ketchup_economics_peer_multiple_fallacy.md): same source document (doc_0418)
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

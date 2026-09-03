@@ -11,6 +11,7 @@ The report notes the wider transmission: higher oil prices add costs across the 
 
 ## Related Notes
 
+
 - [China Recovery Greenshoots And Commodity Price Outlook](china_recovery_greenshoots_and_commodity_price_outlook.md): covers crude and Brent price outlooks, from a different source document.
 - [Crude Oil Prices And Qantas Senate Inquiry](crude_oil_prices_and_qantas_senate_inquiry.md): covers crude prices per barrel in the same market coverage strand, from a different source document.
 - [Goldman Sachs Home Price Forecast 2023 2024](goldman_sachs_home_price_forecast_2023_2024.md): covers prices, fuel and supply pressures on the US economy, from a different source document.
@@ -19,6 +20,8 @@ The report notes the wider transmission: higher oil prices add costs across the 
 - [ASX And Wall Street Selloff October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): drawn from the same report and covers the market session this sat within.
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): drawn from the same report and lists the day's biggest decliners.
 - [Atlassian Loom Acquisition 2023](atlassian_loom_acquisition_2023.md): drawn from the same report and covers the day's corporate news.
+- [US Q3 Earnings Season And Corporate Movers, October 2023](us_q3_earnings_season_and_corporate_movers_october_2023.md): same source document (doc_0074)
+- [US Treasury Yields And Fed Rate Expectations In October 2023](us_treasury_yields_and_fed_rate_expectations_october_2023.md): same source document (doc_0074)
 
 ## Source
 

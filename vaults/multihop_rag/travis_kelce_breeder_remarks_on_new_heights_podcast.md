@@ -11,6 +11,7 @@ Pressed again, "if in a battle to the death," Donna deflected by asking whom Jas
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room To Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): an unrelated NFL article that also references the Super Bowl
 - [Advantages Of Prop Bets](advantages_of_prop_bets.md): another Super Bowl-referencing article from a different domain
 - [All You Had To Do Was Stay Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): another article about the artist at the centre of the resurfacing
@@ -18,6 +19,7 @@ Pressed again, "if in a battle to the death," Donna deflected by asking whom Jas
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): the wider media reaction to the same couple
 - [Backlash To Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): the criticism these remarks drew, reported in the same article
 - [Swift And Kelce Public Appearances Together](swift_and_kelce_public_appearances_together.md): the appearances that preceded the resurfacing, same article
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
 
 ## Source
 

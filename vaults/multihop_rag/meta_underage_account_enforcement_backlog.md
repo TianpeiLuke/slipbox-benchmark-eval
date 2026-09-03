@@ -11,6 +11,7 @@ The enforcement record sits against a public commitment. Zuckerberg testified to
 
 ## Related Notes
 
+
 - [Meta's Ad-Free Subscription EU Pricing](meta_ad_free_subscription_eu_pricing.md): overlaps on Meta account handling and user counts, from a different document.
 - [Critique Of Meta's App Store Parental Approval Proposal](critique_of_meta_app_store_parental_approval_proposal.md): bears on who should police underage accounts, from a different document in this sub-plan.
 - [Meta's Proposal: Parental Approval For App Downloads At The App Store](meta_proposal_app_store_parental_approval.md): Meta's proposed alternative to doing this enforcement itself, from a different document in this sub-plan.
@@ -19,6 +20,8 @@ The enforcement record sits against a public commitment. Zuckerberg testified to
 - [Bonta's Argument On Meta's Choices And COPPA Liability](bonta_argument_meta_choices_and_coppa_liability.md): drawn from the same source document (doc_0304), and argues these are choices, not capacity limits.
 - [The COPPA Allegations Against Meta](coppa_allegations_against_meta.md): drawn from the same source document (doc_0304).
 - [Lawsuit Redactions As Signal: The Amazon Precedent](lawsuit_redactions_as_signal_amazon_precedent.md): drawn from the same source document (doc_0304).
+- [Meta's Internal Data On Under-13 Users](meta_internal_under_13_user_data.md): same source document (doc_0304)
+- [Meta Researchers Avoided Documenting Under-13 Users](meta_researchers_avoided_documenting_under_13_users.md): same source document (doc_0304)
 
 ## Source
 

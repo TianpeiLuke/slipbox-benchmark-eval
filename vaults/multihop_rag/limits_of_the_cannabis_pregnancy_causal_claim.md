@@ -11,6 +11,7 @@ The authors nonetheless wrote in the report that "cannabis use should be avoided
 
 ## Related Notes
 
+
 - [Keep Labs' Cannabis Repositioning](keep_labs_cannabis_repositioning.md): another item about cannabis.
 - [Adapting the Mediterranean Lifestyle to Other Cultures](adapting_the_mediterranean_lifestyle_to_other_cultures.md): from the same diet-and-health group of sources.
 - [The Mediterranean Lifestyle Defined](mediterranean_lifestyle_definition.md): from the same diet-and-health group of sources.
@@ -19,6 +20,7 @@ The authors nonetheless wrote in the report that "cannabis use should be avoided
 - [Cannabis Exposure and Placental Dysfunction](cannabis_exposure_and_placental_dysfunction.md): from the same article, on the mechanism that would be needed for causation.
 - [The Cannabis Pregnancy Study's Urine Screening Method](cannabis_pregnancy_study_urine_screening_method.md): from the same article, on the design these limitations concern.
 - [Cannabis Use and the Stillbirth Association](cannabis_use_and_stillbirth_association.md): from the same article, on a specific association weakened by adjustment.
+- [Cannabis Use in Pregnancy: JAMA Study Findings](cannabis_use_in_pregnancy_jama_study_findings.md): same source document (doc_0604)
 
 ## Source
 

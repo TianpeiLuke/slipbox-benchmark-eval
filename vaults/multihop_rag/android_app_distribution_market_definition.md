@@ -13,11 +13,18 @@ Two observations sit outside the formal model but bear on how the fee looks. Goo
 
 ## Related Notes
 
+
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): describes the Android-specific frictions this market definition would capture, from a different source document.
 - [Beeper Mini Hands-On Test Results](beeper_mini_hands_on_test_results.md): overlaps on the Android-versus-Apple platform divide, from a different source document.
 - [Epic Games 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): also concerns Tim Sweeney's company, from a different source document.
 - [Epic Games v. Google Antitrust Trial](epic_games_v_google_antitrust_trial.md): covers the same trial and its arguments, from a different source document.
 - [Epic's Opening Statement: Bribes And Blocks](epic_opening_statement_bribes_and_blocks.md): the courtroom version of the Android-market argument, from a different source document.
+- [Hypocrisy On Both Sides Of The Courtroom](epic_and_google_courtroom_hypocrisy.md): same source document (doc_0355)
+- [Epic's Antitrust Claims Against Google Play](epic_antitrust_claims_against_google_play.md): same source document (doc_0355)
+- [Project Liberty: Epic's Deliberate Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): same source document (doc_0355)
+- [The Epic v. Apple Ruling And Its Limited Weight Here](epic_v_apple_ruling_as_precedent.md): same source document (doc_0355)
+- [Epic v. Google Is A Jury Trial](epic_v_google_jury_trial_dynamics.md): same source document (doc_0355)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
 
 ## Source
 

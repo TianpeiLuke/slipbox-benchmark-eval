@@ -11,10 +11,21 @@ The Nest Hub is the top overall pick in Engadget's smart display buying guide an
 
 ## Related Notes
 
+
 - [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): same source document; the Alexa smart displays this is weighed against.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): same source document; the Alexa speaker lineup discounted alongside.
 - [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): overlaps in content on the Echo Show line, from a different source document.
 - [Amazon Echo Show, Audible And Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): overlaps in content on Echo Show promotions, from a different source document.
+- [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): shares discount_and_msrp, streaming_service; different source document
+- [Apple AirPods Max Holiday Deal](apple_airpods_max_holiday_deal.md): shares discount_and_msrp, streaming_service; different source document
+- [Apple AirPods Second-Gen, Third-Gen And AirPods Max Deals](apple_airpods_second_third_gen_and_airpods_max_deals.md): shares discount_and_msrp, streaming_service; different source document
+- [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): same source document (doc_0222)
+- [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): same source document (doc_0222)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0222)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

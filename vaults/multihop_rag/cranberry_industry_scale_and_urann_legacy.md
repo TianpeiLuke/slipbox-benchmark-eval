@@ -13,11 +13,17 @@ The United States is easily the world's largest grower of a fruit essential to t
 
 ## Related Notes
 
+
 - [American Cranberry Native Range And Harvest Window](american_cranberry_native_range_and_harvest_window.md): same article, on the fresh-only starting point
 - [Cranberries And New England Regional Identity](cranberries_and_new_england_regional_identity.md): same article, on the regional roots of the industry
 - [Cranberry Domestication And Us Cultivation History](cranberry_domestication_and_us_cultivation_history.md): overlaps strongly on cranberry cultivation in Massachusetts, different document
 - [Why Cranberries Belong To Thanksgiving](why_cranberries_belong_to_thanksgiving.md): overlaps strongly on cranberry sauce at Thanksgiving, different document
 - [Thanksgiving Traditional Foods And Turkey](thanksgiving_traditional_foods_and_turkey.md): overlaps on Thanksgiving cranberry sauce, different document
+- [Cranberry Air Pockets and Seed Dispersal](cranberry_air_pockets_and_seed_dispersal.md): content overlap 0.13 on cranberry, cranberries, fresh; different source document
+- [Cranberry Flower and Pollination Biology](cranberry_flower_and_pollination_biology.md): content overlap 0.13 on cranberry, cranberries, grow; different source document
+- [The Cranberry Wet-Harvesting Method](cranberry_wet_harvesting_method.md): same source document (doc_0130)
+- [Marcus Urann, The "Cranberry King"](marcus_urann_cranberry_king_biography.md): same source document (doc_0130)
+- [No Evidence Cranberries Were At The First Thanksgiving](no_evidence_cranberries_at_the_first_thanksgiving.md): same source document (doc_0130)
 
 ## Source
 

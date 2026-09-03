@@ -13,11 +13,19 @@ The Age's 7 November 2023 report set out New York state's valuation of four high
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and the Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): shares the fraud-trial subject matter.
 - [Caroline Ellison Guilty Plea and First Day Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): shares the fraud-trial subject matter.
 - [Cohen Cross-Examination of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): shares the fraud-trial subject matter.
 - [Defense Good Faith Case for Bankman-Fried](defense_good_faith_case_for_bankman_fried.md): another defendant's testimony-based defence.
 - [Engoron Summary Judgment That Trump Committed Fraud](engoron_summary_judgment_that_trump_committed_fraud.md): the pre-trial ruling in this same case.
+- [40 Wall Street Valuation Dispute](forty_wall_street_valuation_dispute.md): same source document (doc_0530)
+- [Mar-a-Lago Valuation Dispute](mar_a_lago_valuation_dispute.md): same source document (doc_0530)
+- [Trump Park Avenue Rent-Stabilised Unit Valuations](trump_park_avenue_rent_stabilised_unit_valuations.md): same source document (doc_0530)
+- [Trump Tower Fifth Avenue Penthouse Valuation Dispute](trump_tower_fifth_avenue_penthouse_valuation_dispute.md): same source document (doc_0530)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

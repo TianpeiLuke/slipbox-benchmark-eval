@@ -11,6 +11,7 @@ The full order was: 1 Travis Kelce, Chiefs vs. Bills; 2 T.J. Hockenson, Vikings 
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also covers George Kittle, from a different document.
 - [49ers Rout Cowboys, Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also covers George Kittle, from a different document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): covers the Patriots, Bills and Texans appearing in these matchups, from a different document.
@@ -19,6 +20,8 @@ The full order was: 1 Travis Kelce, Chiefs vs. Bills; 2 T.J. Hockenson, Vikings 
 - [Week 14 Fantasy Tight End Busts](week_14_fantasy_tight_end_busts.md): the bust warnings behind some of these ranks, from the same document.
 - [The Week 14 Fantasy Tight End Landscape](week_14_fantasy_tight_end_landscape.md): the same column's framing of the week, from the same document.
 - [Week 14 Fantasy Tight End Sleepers and Streamers](week_14_fantasy_tight_end_sleepers_and_streamers.md): the streaming picks drawn from this list, from the same document.
+- [Week 14 Tight End Byes: Logan Thomas And Trey McBride](week_14_tight_end_byes_thomas_and_mcbride.md): same source document (doc_0552)
+- [Week 14 Tight End Injury Report](week_14_tight_end_injury_report.md): same source document (doc_0552)
 
 ## Source
 

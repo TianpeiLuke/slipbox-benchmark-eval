@@ -11,11 +11,18 @@ Google's official search liaison Danny Sullivan rebutted the allegation that Goo
 
 ## Related Notes
 
+
 - [Danny Sullivan: From Journalist To Google Liaison](danny_sullivan_from_journalist_to_google_liaison.md): also concerns Danny Sullivan, from a different source document.
 - [Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): also concerns Google Search, from a different source document.
 - [Expedia Testimony On Google Search Ads](expedia_testimony_on_google_search_ads.md): overlapping coverage of search, organic results and Google ads, from a different source document.
 - [Gemini Pro News Summarization Refusals](gemini_pro_news_summarization_refusals.md): also concerns Google Search, from a different source document.
 - [Google Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): also concerns Google Search, from a different source document.
+- [Google's Defense That Search Defaults Are Easy To Change](google_defense_that_search_defaults_are_easy_to_change.md): same source document (doc_0032)
+- [A Hands-On Comparison Of Google, Bing And DuckDuckGo Search](hands_on_comparison_of_google_bing_and_duckduckgo_search.md): same source document (doc_0032)
+- [How Google Search Crawls, Indexes And Ranks Results](how_google_search_crawls_indexes_and_ranks_results.md): same source document (doc_0032)
+- [Search Quality Complaints Explained By Data Volume Growth](search_quality_complaints_explained_by_data_volume_growth.md): same source document (doc_0032)
+- [Wired's Retracted Claim That Google Manipulates Search Queries](wired_retracted_claim_that_google_manipulates_search_queries.md): same source document (doc_0032)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

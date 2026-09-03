@@ -13,11 +13,18 @@ Its distribution history is part of why Polygon spotlights it: having previously
 
 ## Related Notes
 
+
 - [Netflix Originals Premiering November 7 To 10, 2023](netflix_originals_premiering_november_7_to_10_2023.md): also involves Cold War subject matter, from a different document
 - [Plus One, 2019 Wedding Romantic Comedy](plus_one_2019_wedding_romantic_comedy.md): another film tied to the Tribeca Film Festival, from a different document
 - [Twilight 2000 TTRPG](twilight_2000_ttrpg.md): another Cold War-set work covered in a different document
 - [Alone, 2020, John Hyams](alone_2020_john_hyams_film.md): another pick from the same Polygon horror guide
 - [Annihilation, 2018, Alex Garland](annihilation_2018_alex_garland_film.md): another pick from the same Polygon horror guide
+- [Climax: Gaspar Noé's Spiked-Sangria Dance Party In Long Takes](climax_2018_gaspar_noe_film.md): same source document (doc_0563)
+- [Crimes Of The Future: Cronenberg's World Where Surgery Is The New Sex](crimes_of_the_future_2022_david_cronenberg.md): same source document (doc_0563)
+- [Cure: Kiyoshi Kurosawa's Horror Masterpiece About Violence As Contagion](cure_1997_kiyoshi_kurosawa_film.md): same source document (doc_0563)
+- [Encounters Of The Spooky Kind: Sammo Hung's Jiangshi Martial Arts Comedy](encounters_of_the_spooky_kind_sammo_hung.md): same source document (doc_0563)
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0563)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

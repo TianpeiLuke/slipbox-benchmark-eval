@@ -13,11 +13,19 @@ The drinking began at Oregon State. Poyer spent his childhood in Astoria, Ore., 
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also concerns the Houston Texans, from a different document.
 - [Britney Spears' Conservatorship Restrictions and SWAT Holds](britney_spears_conservatorship_restrictions_and_swat_holds.md): also concerns Alcoholics Anonymous, from a different document.
 - [College Football Week 6 2023 Remaining Betting Lines](college_football_week6_2023_remaining_betting_lines.md): also concerns Oregon State, from a different document.
 - [Jonathan Smith's Oregon State Tenure and Coaching Career](jonathan_smith_oregon_state_tenure_and_coaching_career.md): also concerns Oregon State, from a different document.
 - [Michigan State 2024 Schedule After Big Ten Expansion](michigan_state_2024_schedule_after_big_ten_expansion.md): also concerns Oregon State, from a different document.
+- [Ayahuasca, The Psychedelic Brew](ayahuasca_psychedelic_brew.md): same source document (doc_0322)
+- [Jordan Poyer's Ayahuasca Ceremony Experience](jordan_poyer_ayahuasca_ceremony_experience.md): same source document (doc_0322)
+- [Jordan Poyer's Contract Status And Post-Career Plans](jordan_poyer_contract_status_and_post_career_plans.md): same source document (doc_0322)
+- [Jordan Poyer's Ego And Perspective Shift](jordan_poyer_ego_and_perspective_shift.md): same source document (doc_0322)
+- [Jordan Poyer's Football Performance After Ayahuasca](jordan_poyer_football_performance_after_ayahuasca.md): same source document (doc_0322)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

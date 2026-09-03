@@ -13,6 +13,7 @@ The departures were not only from the coaching box: veteran back-rower Duane Ver
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): another document about South Africa, in an unrelated domain
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): another document about South Africa, in an unrelated domain
 - [All Blacks Ireland Series Loss Backlash as Motivation](all_blacks_ireland_series_loss_backlash_as_motivation.md): another document covering Erasmus and the Springboks, different source
@@ -20,6 +21,11 @@ The departures were not only from the coaching box: veteran back-rower Duane Ver
 - [Damian Penaud Try-Scoring Record Run](damian_penaud_try_scoring_record_run.md): another rugby document involving South Africa, different source
 - [All Blacks Final Moments RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): the finish to the match that sent them out, same source document
 - [All Blacks Generational Change After 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): the parallel transition on the losing side, same source document
+- [Cards And Officiating Controversy In The 2023 Rugby World Cup Final](cards_and_officiating_controversy_rwc_2023_final.md): same source document (doc_0022)
+- [Ian Foster's All Blacks Tenure And Scott Robertson's Succession](ian_foster_all_blacks_tenure_and_robertson_succession.md): same source document (doc_0022)
+- [The First Half Of The 2023 Rugby World Cup Final](rwc_2023_final_first_half_narrative.md): same source document (doc_0022)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

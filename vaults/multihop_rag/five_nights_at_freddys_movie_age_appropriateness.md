@@ -15,9 +15,16 @@ The grounds for caution are that there are plentiful cheap music-sting jump scar
 
 ## Related Notes
 
+
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): both mention Five Nights at Freddy's, from a different source document
 - [Apple 2023 Top iPhone Apps and Games Lists](apple_2023_top_iphone_apps_and_games_lists.md): another Five Nights reference from a separate article
 - [Marvel's Midnight Suns](marvels_midnight_suns.md): both mention Captain Marvel, from a different document
+- [Is the Five Nights at Freddy's Movie Accessible to Newcomers?](five_nights_at_freddys_movie_accessibility_to_newcomers.md): same source document (doc_0387)
+- [Five Nights at Freddy's Movie Development and Release](five_nights_at_freddys_movie_development_and_release.md): same source document (doc_0387)
+- [Five Nights at Freddy's Movie Mid-Credits Scene](five_nights_at_freddys_movie_mid_credits_scene.md): same source document (doc_0387)
+- [The Movie's Simplified Lore Cuts Against the "For the Fans" Framing](five_nights_at_freddys_movie_simplified_lore_for_fans.md): same source document (doc_0387)
+- [Willy's Wonderland (Nicolas Cage Animatronic Horror)](willys_wonderland_nicolas_cage_animatronic_horror.md): same source document (doc_0387)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
 
 ## Source
 

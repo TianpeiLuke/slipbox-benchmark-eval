@@ -11,11 +11,18 @@ The recognition came at the end of a whirlwind year in which her Eras Tour domin
 
 ## Related Notes
 
+
 - [All You Had To Do Was Stay Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): another article about the same artist's catalogue
 - [American Pie Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): separate coverage of Swift's chart achievements
 - [ASPI Analysis Of TikTok Pixel Data Aggregation Risk](aspi_analysis_of_tiktok_pixel_data_aggregation_risk.md): an unrelated article that also concerns the Chinese President
 - [Australian Inflation Data And RBA November Rise](australian_inflation_data_and_rba_november_rise.md): another article referencing the Chinese President in a different context
 - [Backlash To Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): separate coverage that also turns on the Eras Tour
+- [The Rio Postponement And The Death Of An Eras Tour Fan](eras_tour_rio_postponement_and_fan_death.md): same source document (doc_0046)
+- [The Eras Tour's Scale And Taylor Swift's Preparation Regimen](eras_tour_scale_and_swift_preparation_regimen.md): same source document (doc_0046)
+- [Taylor Swift's Stated Approach To Public Scrutiny](taylor_swift_approach_to_public_scrutiny.md): same source document (doc_0046)
+- [Taylor Swift's Attendance At Kansas City Chiefs Games](taylor_swift_attendance_at_kansas_city_chiefs_games.md): same source document (doc_0046)
+- [Taylor Swift And Joe Alwyn's Relationship And Breakup](taylor_swift_joe_alwyn_relationship_and_breakup.md): same source document (doc_0046)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

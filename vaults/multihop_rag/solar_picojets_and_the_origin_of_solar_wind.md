@@ -11,6 +11,7 @@ The European Space Agency's Solar Orbiter spotted tiny jets of plasma, known as 
 
 ## Related Notes
 
+
 - [Charade (1963), Donen's Comedy Thriller](charade_1963_donen_comedy_thriller.md): connected through shared space-mission and streaming tags rather than subject matter.
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): connected through a shared space-mission tag.
 - [Alabama at Texas A&M, 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): linked by a shared streaming tag rather than subject matter.
@@ -19,6 +20,17 @@ The European Space Agency's Solar Orbiter spotted tiny jets of plasma, known as 
 - [Amazon Fire HD 8 and Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): linked by a shared streaming tag rather than subject matter.
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): linked by a shared streaming tag rather than subject matter.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): linked by a shared streaming tag rather than subject matter.
+- [Ancient Superflares as a Spark for Life on Earth](ancient_superflares_as_spark_for_life_on_earth.md): same source document (doc_0325)
+- [Coronal Rain: The Sun's Shooting Stars](coronal_rain_solar_shooting_stars.md): same source document (doc_0325)
+- [The Miyake Event Solar Storm 14,000 Years Ago](miyake_event_solar_storm_14000_years_ago.md): same source document (doc_0325)
+- [Quasi-Periodic Pulsations in Solar Radio Bursts](quasi_periodic_pulsations_in_solar_radio_bursts.md): same source document (doc_0325)
+- [Shortened Solar Cycles During the Maunder Minimum](shortened_solar_cycles_during_the_maunder_minimum.md): same source document (doc_0325)
+- [Solar Auroras Above Sunspots](solar_auroras_above_sunspots.md): same source document (doc_0325)
+- [Downward Revision of the Solar Corona's Size](solar_corona_size_downward_revision.md): same source document (doc_0325)
+- [Solar Cycle Maximum Forecast Revision](solar_cycle_25_maximum_forecast_revision.md): same source document (doc_0325)
+- [Solar Neutrinos as a Probe for Dark Matter](solar_neutrinos_as_probe_for_dark_matter.md): same source document (doc_0325)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Space Mission](term_space_mission.md): uses the concept space mission
 
 ## Source
 

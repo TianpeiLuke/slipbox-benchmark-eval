@@ -13,11 +13,18 @@ By country the titles are: Australia 5 (1987, 1999, 2003, 2007, 2015); India 2 (
 
 ## Related Notes
 
+
 - [Adil Rashid T20I Milestones and Series Form](adil_rashid_t20i_milestones_and_series_form.md): another document covering the West Indies, different source
 - [Andre Russell Comeback First T20I](andre_russell_comeback_first_t20i.md): another West Indies cricket document, different source
 - [Boycott Criticism of Bairstow and Woakes Selection](boycott_criticism_of_bairstow_and_woakes_selection.md): another document involving Sri Lanka, different source
 - [England 132 All Out T20 Series Decider](england_132_all_out_t20_series_decider.md): another England-West Indies cricket document, different source
 - [England 171 All Out First T20I](england_171_all_out_first_t20i.md): another England-West Indies cricket document, different source
+- [The First ODI Cricket World Cup, 1975](first_odi_cricket_world_cup_1975.md): same source document (doc_0409)
+- [The ICC ODI Men's Cricket World Cup](icc_odi_cricket_world_cup_overview.md): same source document (doc_0409)
+- [The 1987 ODI World Cup Format Change](odi_cricket_world_cup_1987_format_change.md): same source document (doc_0409)
+- [The 1992 World Cup: White Ball, Coloured Kits And South Africa's Return](odi_cricket_world_cup_1992_white_ball_coloured_kits.md): same source document (doc_0409)
+- [The 1996 Semi-Final Abandonment And The Short 1999 Cycle](odi_cricket_world_cup_1996_semi_final_abandonment_and_1999_cycle.md): same source document (doc_0409)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

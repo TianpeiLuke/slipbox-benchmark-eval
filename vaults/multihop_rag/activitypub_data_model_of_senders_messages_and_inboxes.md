@@ -11,6 +11,7 @@ The simplicity is the point: ActivityPub is not a product but a data format like
 
 ## Related Notes
 
+
 - [The Fediverse ActivityPub Protocol](fediverse_activitypub_protocol.md): overlapping coverage of ActivityPub and fediverse readers, from a different source document.
 - [ActivityPub And Rival Social Protocols](activitypub_and_rival_social_protocols.md): drawn from the same source document (doc_0508).
 - [Backlash To The Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): shares the pro-sports-league theme, from a different source document.
@@ -19,6 +20,16 @@ The simplicity is the point: ActivityPub is not a product but a data format like
 - [BetRivers Sportsbook Betting Markets](betrivers_sportsbook_betting_markets.md): shares the NBA theme, from a different source document.
 - [Broadcast Rights Limits On Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): shares the pro-sports-league theme, from a different source document.
 - [Capitol's Hip-Hop And R&B Executive Build-Out](capitol_hip_hop_and_rnb_executive_build_out.md): shares the pro-sports-league theme, from a different source document.
+- [Craigslist Unbundling As A Model For Social Media](craigslist_unbundling_as_a_model_for_social_media.md): same source document (doc_0508)
+- [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): same source document (doc_0508)
+- [Decentralization As A Free Market, Not An Anti-Capitalist Project](decentralization_as_a_free_market_not_an_anti_capitalist_project.md): same source document (doc_0508)
+- [Early Fediverse Messiness As A Product Opportunity](early_fediverse_messiness_as_a_product_opportunity.md): same source document (doc_0508)
+- [Federation Alone Is Not A Product Advantage](federation_alone_is_not_a_product_advantage.md): same source document (doc_0508)
+- [The Fediverse Definition And The Email Analogy](fediverse_definition_and_the_email_analogy.md): same source document (doc_0508)
+- [Jack Dorsey On Twitter As A Protocol And The Origins Of Bluesky](jack_dorsey_on_twitter_as_a_protocol_and_the_origins_of_bluesky.md): same source document (doc_0508)
+- [Many Apps Over One Shared Social Graph](many_apps_over_one_shared_social_graph.md): same source document (doc_0508)
+- [Content Moderation](term_content_moderation.md): uses the concept content moderation
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

@@ -11,11 +11,19 @@ Now behind the bench of his third NHL franchise, he faced an uphill climb to get
 
 ## Related Notes
 
+
 - [Autobrains Hires Uri Yacovy As COO](autobrains_hires_uri_yacovy_as_coo.md): overlaps on hiring a former executive, from a different document.
 - [Chargers Fire Brandon Staley And Tom Telesco](chargers_fire_brandon_staley_and_tom_telesco.md): shares the coaching-change theme, from a different document.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): shares the coaching-change theme, from a different document.
 - [Christopher Bell 2023 Season Autosport Snub](christopher_bell_2023_season_autosport_snub.md): shares thematic tagging with this note, from a different document.
 - [Dennis Allen Saints Hot Seat](dennis_allen_saints_hot_seat.md): shares the coaching-change theme, from a different document.
+- [Dean Evason Coaching Career Path](dean_evason_coaching_career_path.md): same source document (doc_0340)
+- [Minnesota Wild 2023-24 Slump Causes](minnesota_wild_2023_24_slump_causes.md): same source document (doc_0340)
+- [Minnesota Wild Fire Dean Evason And Hire John Hynes](minnesota_wild_fire_dean_evason_hire_john_hynes.md): same source document (doc_0340)
+- [Minnesota Wild Turnaround Outlook Under Hynes](minnesota_wild_turnaround_outlook_under_hynes.md): same source document (doc_0340)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

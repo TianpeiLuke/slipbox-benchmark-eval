@@ -11,12 +11,19 @@ ESPN's Buster Olney reported on Monday, Dec. 11 that the Giants had met with Yam
 
 ## Related Notes
 
+
 - [Adolis Garcia Oblique Injury, 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): also relies on reporting by Buster Olney, from a different document.
 - [Alanna Rizzo Criticism of Clubhouse Reporting](alanna_rizzo_criticism_of_clubhouse_reporting.md): also covers the Blue Jays, from a different document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): also covers Mookie Betts, from a different document.
 - [Blue Jays Roster Implications of the Ohtani Pursuit](blue_jays_roster_implications_of_ohtani_pursuit.md): also covers the Blue Jays and reporting by Jon Heyman, from a different document.
 - [Diamondbacks Late Rally, World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): also covers Will Smith, from a different document.
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): another entry from the same free agency tracker, from the same document.
+- [Braves Cut Matt Carpenter After Trying To Trade Him](braves_release_matt_carpenter.md): same source document (doc_0422)
+- [Cody Bellinger's Market And Suitors After Ohtani Signed](cody_bellinger_free_agent_market_and_suitors.md): same source document (doc_0422)
+- [Jack Flaherty's One-Year Deal With The Tigers](jack_flaherty_tigers_one_year_deal.md): same source document (doc_0422)
+- [Kansas City Royals' December 2023 Signings](kansas_city_royals_2023_offseason_signings.md): same source document (doc_0422)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

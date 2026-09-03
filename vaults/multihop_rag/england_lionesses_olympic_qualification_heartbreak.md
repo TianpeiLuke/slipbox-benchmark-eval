@@ -11,6 +11,7 @@ No one could question the effort, the heart or the drive of Sarina Wiegman's Lio
 
 ## Related Notes
 
+
 - [Alex Greenwood's Head Injury Versus Belgium](alex_greenwood_head_injury_versus_belgium.md): covers the same Lionesses campaign, from a different document.
 - [Belgium-England First Half Goals and Incidents](belgium_england_first_half_goals_and_incidents.md): also covers Mary Earps, from a different document.
 - [Belgium-England Lineups and Referee, October 2023](belgium_england_lineups_and_referee_october_2023.md): also covers Mary Earps, from a different document.
@@ -19,6 +20,7 @@ No one could question the effort, the heart or the drive of Sarina Wiegman's Lio
 - [England 6-0 Scotland at Hampden: Match Report](england_6_0_scotland_hampden_match_report.md): gives the six goals referenced here, from the same document.
 - [England and Scotland Lineup Changes for the Nations League Finale](england_and_scotland_lineup_changes_nations_league_finale.md): gives the teams for this match, from the same document.
 - [England's Defensive Brittleness and Dropped Points](england_lionesses_defensive_brittleness_and_dropped_points.md): argues where the damage was really done, from the same document.
+- [The Scotland Commitment Row And The Gulf In Class](scotland_commitment_row_and_gulf_in_class.md): same source document (doc_0184)
 
 ## Source
 

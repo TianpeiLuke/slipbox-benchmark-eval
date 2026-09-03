@@ -13,11 +13,18 @@ The counterweight is his Week 4 loss to Detroit, which the column works through 
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): covers the Aaron Jones availability that this Green Bay call depends on, from a different document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also discusses Kenny Pickett, cited here for his fantasy total against the Raiders, from a different document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also discusses Joe Burrow, ranked behind Love here, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another "Start Him" verdict in the same weekly-decision format, from a different document.
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also concerns Green Bay, from a different document.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0058)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0058)
+- [Dallas Goedert As A Week 5 2023 Bust Candidate At The Rams](dallas_goedert_week5_2023_bust_warning.md): same source document (doc_0058)
+- [Dameon Pierce As A Week 5 2023 Sit At Atlanta](dameon_pierce_week5_2023_sit_recommendation.md): same source document (doc_0058)
+- [DeAndre Hopkins As A Week 5 2023 Start At Indianapolis](deandre_hopkins_week5_2023_start_recommendation.md): same source document (doc_0058)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

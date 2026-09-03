@@ -13,11 +13,19 @@ The ranking notes that there are issues bigger than baseball here: the war chant
 
 ## Related Notes
 
+
 - [Adolis Garcia Oblique Injury, 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): also concerns the World Series, from a different document.
 - [Astros Camera and Trash-Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): also concerns the World Series, from a different document.
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): also concerns the World Series, from a different document.
 - [Corey Seager Home Runs, 2023 World Series](corey_seager_home_runs_2023_world_series.md): also concerns the World Series, from a different document.
 - [Diamondbacks Ninth-Inning Insurance Runs](diamondbacks_ninth_inning_insurance_runs.md): also concerns the World Series, from a different document.
+- [Camden Yards: Baltimore Orioles Postseason Atmosphere](camden_yards_baltimore_orioles_postseason_atmosphere.md): same source document (doc_0008)
+- [Chase Field: Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): same source document (doc_0008)
+- [Citizens Bank Park: Philadelphia Phillies Postseason Atmosphere](citizens_bank_park_philadelphia_phillies_postseason_atmosphere.md): same source document (doc_0008)
+- [Dodger Stadium: Los Angeles Dodgers Postseason Atmosphere](dodger_stadium_los_angeles_dodgers_postseason_atmosphere.md): same source document (doc_0008)
+- [Globe Life Field: Texas Rangers Postseason Atmosphere](globe_life_field_texas_rangers_postseason_atmosphere.md): same source document (doc_0008)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

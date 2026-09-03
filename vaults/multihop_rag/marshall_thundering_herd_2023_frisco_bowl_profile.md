@@ -13,6 +13,7 @@ On the season Marshall was 4-8 against the spread and 6-6 on the over/under boar
 
 ## Related Notes
 
+
 - [Joe Burrow Bengals Midseason MVP](joe_burrow_bengals_midseason_mvp.md): overlaps on touchdown-to-interception production, from a different document.
 - [Josh Allen Bills Midseason MVP](josh_allen_bills_midseason_mvp.md): overlaps on offensive production over a season, from a different document.
 - [Lamar Jackson Ravens Midseason MVP](lamar_jackson_ravens_midseason_mvp.md): overlaps on passing and rushing production, from a different document.
@@ -21,6 +22,8 @@ On the season Marshall was 4-8 against the spread and 6-6 on the over/under boar
 - [Frisco Bowl Player Prop Bets at BetMGM](frisco_bowl_player_prop_bets_at_betmgm.md): prices Rasheen Ali's props for this game, from the same document.
 - [Marshall Frisco Bowl Transfer Portal Exodus](marshall_frisco_bowl_transfer_portal_exodus.md): lists the departures that thinned this roster, from the same document.
 - [UTSA vs Marshall in the 2023 Scooter's Coffee Frisco Bowl](scooters_coffee_frisco_bowl_2023_utsa_vs_marshall.md): the matchup framing, from the same document.
+- [UTSA's Transfer Portal Absences For The Frisco Bowl](utsa_frisco_bowl_transfer_portal_opt_outs.md): same source document (doc_0005)
+- [Sporting News' Frisco Bowl Pick: UTSA, Even Laying A Big Number](utsa_marshall_frisco_bowl_betting_prediction.md): same source document (doc_0005)
 
 ## Source
 

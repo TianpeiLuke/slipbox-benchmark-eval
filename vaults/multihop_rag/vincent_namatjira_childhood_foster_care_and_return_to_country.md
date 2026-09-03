@@ -13,6 +13,7 @@ That gap between white and black Australia also influenced his life. Of landing 
 
 ## Related Notes
 
+
 - [Albert Namatjira Hermannsburg Watercolour Painter](albert_namatjira_hermannsburg_watercolour_painter.md): same interview, identifying the well-known relative he did not know of
 - [Vincent Namatjira Call For Foster Care Apology](vincent_namatjira_call_for_foster_care_apology.md): same interview, the political demand that follows from this childhood
 - [Vincent Namatjira Australia In Colour Survey Exhibition](vincent_namatjira_australia_in_colour_survey_exhibition.md): same interview, on the survey show of the work that followed
@@ -21,6 +22,8 @@ That gap between white and black Australia also influenced his life. Of landing 
 - [Buffalo Bills Afc Wild Card Position Week 16](buffalo_bills_afc_wild_card_position_week_16.md): shares the name James Cook, unrelated subject
 - [Fantasy Rb Ppr Rankings Week 14 Full List](fantasy_rb_ppr_rankings_week_14_full_list.md): shares the name James Cook, unrelated subject
 - [Fantasy Rb Standard Rankings Week 14 Full List](fantasy_rb_standard_rankings_week_14_full_list.md): shares the name James Cook, unrelated subject
+- [Vincent Namatjira On Choosing His Own Path From Albert's Legacy](vincent_namatjira_choosing_his_own_path_from_alberts_legacy.md): same source document (doc_0284)
+- [Guerilla Humour: Vincent Namatjira's Portrait Practice](vincent_namatjira_guerilla_humour_portrait_practice.md): same source document (doc_0284)
 
 ## Source
 

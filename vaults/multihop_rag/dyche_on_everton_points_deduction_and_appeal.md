@@ -13,11 +13,18 @@ He then set expectations about the appeal and shifted the emphasis onto the squa
 
 ## Related Notes
 
+
 - [Everton's Appeal Against The Points Deduction](everton_appeal_against_points_deduction.md): covers the appeal Dyche refers to here, from a different document.
 - [Everton Fan Protests And Siege Mentality](everton_fan_protests_and_siege_mentality.md): covers the same mentality theme around the club, from a different document.
 - [Everton's Squad Response To The Points Deduction](everton_squad_response_to_points_deduction.md): covers how the players reacted to the deduction Dyche discusses, from a different document.
 - [Everton's Ten-Point Deduction For The PSR Breach](everton_ten_point_deduction_for_psr_breach.md): covers the penalty itself and also discusses Sean Dyche, from a different document.
 - [Everton Under Sean Dyche As A Derby Threat](everton_under_sean_dyche_as_derby_threat.md): also discusses Sean Dyche's Everton, from a different document.
+- [Everton's Win Over Newcastle, December 2023](everton_win_over_newcastle_december_2023.md): same source document (doc_0541)
+- [Howe On Newcastle's Inconsistency And Injury Load](howe_on_newcastle_inconsistency_and_injury_load.md): same source document (doc_0541)
+- [Moyes On West Ham's Win At Tottenham](moyes_on_west_ham_win_at_tottenham.md): same source document (doc_0541)
+- [Postecoglou's Response To Tottenham's Losing Run](postecoglou_response_to_tottenham_losing_run.md): same source document (doc_0541)
+- [Sherwood's Analysis Of Tottenham Over-Attacking After Leading](sherwood_analysis_tottenham_over_attacking_after_leading.md): same source document (doc_0541)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
 
 ## Source
 

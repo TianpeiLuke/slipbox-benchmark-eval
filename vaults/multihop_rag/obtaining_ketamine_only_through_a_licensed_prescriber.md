@@ -13,6 +13,7 @@ The setting and route are part of the safety claim, not incidental to it. "Ketam
 
 ## Related Notes
 
+
 - [Adulterated Street Ketamine Risks](adulterated_street_ketamine_risks.md): drawn from the same source document (doc_0390).
 - [ASKP3 Forthcoming at Home Ketamine Guidelines](askp3_forthcoming_at_home_ketamine_guidelines.md): drawn from the same source document (doc_0390).
 - [Distinguishing Anesthetic Therapeutic and Recreational Ketamine Use](distinguishing_anesthetic_therapeutic_and_recreational_ketamine_use.md): drawn from the same source document (doc_0390).
@@ -21,6 +22,8 @@ The setting and route are part of the safety claim, not incidental to it. "Ketam
 - [Ketamine FDA Approval History and Approved Uses](ketamine_fda_approval_history_and_approved_uses.md): drawn from the same source document (doc_0390).
 - [Matthew Perry Death from Acute Ketamine Effects](matthew_perry_death_from_acute_ketamine_effects.md): drawn from the same source document (doc_0390).
 - [Risks of Intranasal and Micro Dosed Ketamine](risks_of_intranasal_and_micro_dosed_ketamine.md): drawn from the same source document (doc_0390).
+- [How Ketamine Caused A Drowning Rather Than Direct Toxicity](toxicology_of_ketamine_induced_drowning.md): same source document (doc_0390)
+- [Weaning Off Ketamine And Gradual Dose Titration](weaning_off_ketamine_and_dose_titration.md): same source document (doc_0390)
 
 ## Source
 

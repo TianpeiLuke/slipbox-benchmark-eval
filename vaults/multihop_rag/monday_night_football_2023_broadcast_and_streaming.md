@@ -13,11 +13,20 @@ Streaming options in the United States were ESPN+ (subscription required, ESPN's
 
 ## Related Notes
 
+
 - [Activision Titles on Xbox Game Pass](activision_titles_on_xbox_game_pass.md): also discusses a Game Pass product, in a different domain.
 - [Bears Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): shares the NFL and streaming-service themes.
 - [Bears Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): also names Joe Buck and Lisa Salters.
 - [Bears Vikings MNF Result and Recap](bears_vikings_mnf_result_and_recap.md): also concerns Monday Night Football.
 - [Bills Bengals SNF Broadcast Details](bills_bengals_snf_broadcast_details.md): overlapping Fubo and DAZN-in-Canada streaming detail.
+- [Lions Beat Raiders 26-14 Behind Jahmyr Gibbs' Breakout Monday Night](lions_beat_raiders_week_8_monday_night_recap.md): same source document (doc_0004)
+- [Lions-Raiders First Half: Detroit Leads 16-7 As Gibbs And St. Brown Move The Ball](lions_raiders_first_half_live_blog.md): same source document (doc_0004)
+- [Lions-Raiders Pregame: Carlson And St. Brown Active, Hoyer Inactive](lions_raiders_pregame_inactives_and_storylines.md): same source document (doc_0004)
+- [Lions-Raiders Second Half: A Goff Pick-Six, Then Gibbs Puts It Away](lions_raiders_second_half_live_blog.md): same source document (doc_0004)
+- [Jack Harlow Announced As The Lions' Thanksgiving Halftime Performer](lions_thanksgiving_halftime_show_jack_harlow.md): same source document (doc_0004)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Simulcasting](term_simulcasting.md): uses the concept simulcasting
 
 ## Source
 

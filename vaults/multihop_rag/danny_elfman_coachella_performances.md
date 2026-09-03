@@ -15,11 +15,18 @@ During the Coachella set Elfman proclaimed it was "my first time onstage as 'mys
 
 ## Related Notes
 
+
 - [Bad Blood: The Taylor Swift-Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): both cite Rolling Stone reporting, from a different source document
 - [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): both mention Noah Baumbach, from a separate article
 - [I Wish You Would (Taylor Swift Song)](i_wish_you_would_taylor_swift_song.md): another Rolling Stone-sourced music note from a different document
 - [Out of the Woods (Taylor Swift Song)](out_of_the_woods_taylor_swift_song.md): another Rolling Stone reference from a separate source
 - [Wildest Dreams (Taylor Swift Song)](wildest_dreams_taylor_swift_song.md): another Rolling Stone-sourced music note
+- [Danny Elfman as Jack Skellington in The Nightmare Before Christmas](danny_elfman_as_jack_skellington_in_nightmare_before_christmas.md): same source document (doc_0587)
+- [Danny Elfman's Composing Career and Oingo Boingo](danny_elfman_composing_career_and_oingo_boingo.md): same source document (doc_0587)
+- [Danny Elfman's Return to Live Concert Performance](danny_elfman_return_to_live_concert_performance.md): same source document (doc_0587)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
+- [COVID-19](term_covid_19.md): uses the concept covid 19
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

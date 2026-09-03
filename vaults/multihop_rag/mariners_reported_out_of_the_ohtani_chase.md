@@ -11,12 +11,18 @@ Sporting News found that surprising, because Seattle seemed to check a lot of bo
 
 ## Related Notes
 
+
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): also discusses the World Series, from a different document.
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): also discusses the World Series, from a different document.
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): also discusses the World Series, from a different document.
 - [Blue Jays Roster Implications of Ohtani Pursuit](blue_jays_roster_implications_of_ohtani_pursuit.md): covers another club's reported position on Ohtani, from a different document.
 - [Chase Field Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): also discusses the World Series, from a different document.
 - [Alternative Reading of the Mariners Ohtani Leak](alternative_reading_of_the_mariners_ohtani_leak.md): challenges the straightforward reading of this report, from the same document.
+- [The Cubs' Ohtani Fit After The NL Designated Hitter](cubs_ohtani_fit_after_nl_designated_hitter.md): same source document (doc_0480)
+- [An Early Ohtani Signing Would Reshape The Offseason](early_ohtani_signing_would_reshape_the_offseason.md): same source document (doc_0480)
+- [Ohtani's Camp Secrecy And The Reporting Blackout](ohtani_camp_secrecy_and_reporting_blackout.md): same source document (doc_0480)
+- [The Report Of Ohtani's 'Affinity' For Boston](report_of_ohtani_affinity_for_boston.md): same source document (doc_0480)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

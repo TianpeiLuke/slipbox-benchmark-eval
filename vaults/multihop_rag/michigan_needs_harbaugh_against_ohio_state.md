@@ -15,11 +15,18 @@ Whether Harbaugh would actually be absent was for the courts to decide, but Moor
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): another Big Ten item from a different document.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also covers the Big Ten and Ohio State, separately sourced.
 - [Alabama-Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): another item weighing Ohio State, from a different source.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): the conference backdrop to Harbaugh's absence, reported elsewhere.
 - [Big Ten Commissioner Petitti's Punishment Dilemma](big_ten_commissioner_petitti_punishment_dilemma.md): the ruling whose consequences this argument weighs, in a different document.
+- [Michigan 24, Penn State 15 At Beaver Stadium](michigan_penn_state_2023_game.md): same source document (doc_0353)
+- [Michigan's Temporary Restraining Order Against The Big Ten](michigan_temporary_restraining_order_litigation.md): same source document (doc_0353)
+- [Sherrone Moore's Turn As Michigan's Acting Head Coach](sherrone_moore_interim_head_coach_tenure.md): same source document (doc_0353)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

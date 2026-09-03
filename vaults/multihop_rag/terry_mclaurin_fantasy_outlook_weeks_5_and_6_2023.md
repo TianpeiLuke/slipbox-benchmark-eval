@@ -13,12 +13,18 @@ The Week 6 case, published 12 October 2023 ahead of a game at Atlanta, reverses 
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another lineup verdict that also discusses Garrett Wilson, preferred to McLaurin in Week 6, from a different document.
 - [Baker Mayfield Week 15 Stat Line At Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also discusses Mike Evans, cited here for his big game against the Bears, from a different document.
 - [Bears Vikings MNF First Half](bears_vikings_mnf_first_half.md): also discusses Jaylon Johnson, the absent Bears cornerback behind the Week 5 call, from a different document.
 - [Bears Vikings MNF Third Quarter](bears_vikings_mnf_third_quarter.md): also discusses Jaylon Johnson, from a different document.
 - [Broncos Fourth Quarter Comeback And Ryland Game Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): also discusses Russell Wilson, whose spread-the-ball game against Chicago is cited here, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another receiver call from the same Week 6 column.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

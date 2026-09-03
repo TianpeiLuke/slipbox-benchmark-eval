@@ -11,11 +11,17 @@ What seemed to be a breakthrough season for Tucker in 2021 earned him a 10-year 
 
 ## Related Notes
 
+
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): also covers Brenda Tracy and Michigan State, from a different source document.
 - [Connor Stalions Central Michigan Sideline Investigation](connor_stalions_central_michigan_sideline_investigation.md): also covers Michigan State, from a different source document.
 - [Connor Stalions In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): also covers Michigan State, from a different source document.
 - [Michigan Needs Harbaugh Against Ohio State](michigan_needs_harbaugh_against_ohio_state.md): also covers Penn State, from a different source document.
 - [Michigan Penn State 2023 Game](michigan_penn_state_2023_game.md): also covers Penn State, which beat Michigan State 42-0 here, from a different source document.
+- [Jonathan Smith's Oregon State Tenure And Coaching Path](jonathan_smith_oregon_state_tenure_and_coaching_career.md): same source document (doc_0411)
+- [Michigan State's 2024 Schedule Under A Division-Free, Expanded Big Ten](michigan_state_2024_schedule_after_big_ten_expansion.md): same source document (doc_0411)
+- [Michigan State Hires Jonathan Smith Away From Oregon State](michigan_state_hires_jonathan_smith_2023.md): same source document (doc_0411)
+- [Oregon State Loses Its Coach While The Pac-12 Loses Ten Of Twelve Members](oregon_state_coaching_search_and_pac_12_breakup.md): same source document (doc_0411)
+- [Contract Extension](term_contract_extension.md): uses the concept contract extension
 
 ## Source
 

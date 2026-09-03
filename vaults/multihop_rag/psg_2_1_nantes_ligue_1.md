@@ -11,6 +11,7 @@ Bradley Barcola opened the scoring in the 41st minute, finding space in the six-
 
 ## Related Notes
 
+
 - [Champions League 2023-24 Group F: Dortmund and PSG](champions_league_2023_24_group_f_dortmund_psg.md): also covers Paris Saint-Germain, from a different document.
 - [Champions League 2023-24 Group Stage Overview](champions_league_2023_24_group_stage_overview.md): also covers Paris Saint-Germain, from a different document.
 - [Jean-Claude Blanc and the United Chief Executive Challenge](jean_claude_blanc_and_the_united_chief_executive_challenge.md): also covers Paris Saint-Germain, from a different document.
@@ -19,6 +20,8 @@ Bradley Barcola opened the scoring in the 41st minute, finding space in the six-
 - [Atalanta 3-2 AC Milan](atalanta_3_2_ac_milan.md): another result from the same European roundup, from the same document.
 - [Eintracht Frankfurt 5-1 Bayern Munich](eintracht_frankfurt_5_1_bayern_munich.md): another result from the same European roundup, from the same document.
 - [Inter Milan 4-0 Udinese](inter_milan_4_0_udinese.md): another result from the same European roundup, from the same document.
+- [RB Leipzig 3-2 Borussia Dortmund](rb_leipzig_3_2_borussia_dortmund.md): same source document (doc_0093)
+- [Real Betis 1-1 Real Madrid](real_betis_1_1_real_madrid.md): same source document (doc_0093)
 
 ## Source
 

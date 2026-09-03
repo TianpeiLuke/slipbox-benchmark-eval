@@ -13,6 +13,7 @@ The boundary case is how ordinary the rest of it is. In many ways it is a conven
 
 ## Related Notes
 
+
 - [Sphere Beam Forming Audio And Haptic Effects](sphere_beam_forming_audio_and_haptic_effects.md): same article, explaining how the audio and haptics work
 - [Immersive Screen Lineage From Cinerama To Postcard From Earth](immersive_screen_lineage_from_cinerama_to_postcard_from_earth.md): same article, placing the screen in a longer history
 - [Sphere And Abba Voyage Immersive Show Comparison](sphere_and_abba_voyage_immersive_show_comparison.md): same article, on the ABBA comparison drawn here
@@ -21,6 +22,7 @@ The boundary case is how ordinary the rest of it is. In many ways it is a conven
 - [Benavidez Vs Andrade 2023 Bout Details And Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): shares the Las Vegas setting, unrelated subject
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): shares the Las Vegas setting, unrelated subject
 - [Caesars Sportsbook Kentucky](caesars_sportsbook_kentucky.md): shares the Las Vegas setting, unrelated subject
+- [Sphere's Plug-And-Play Touring Economics](sphere_plug_and_play_touring_economics.md): same source document (doc_0560)
 
 ## Source
 

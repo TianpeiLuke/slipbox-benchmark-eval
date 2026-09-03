@@ -13,6 +13,7 @@ She keeps the claim hedged. It does not always work that seamlessly: sometimes t
 
 ## Related Notes
 
+
 - [AliveCor EKG Import Ban and the PTAB Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): also concerns the Apple Watch, from a different source document.
 - [Anker 2-in-1 MagSafe Standby Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): also concerns the Apple Watch, from a different source document.
 - [Anker 3-in-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): also concerns the Apple Watch, from a different source document.
@@ -20,6 +21,10 @@ She keeps the claim hedged. It does not always work that seamlessly: sometimes t
 - [Apple's Appeal and Stay Prospects on the Watch Ban](apple_appeal_and_stay_prospects_on_the_watch_ban.md): also concerns the Apple Watch, from a different source document.
 - [Apple's Double Tap User Research and Naming](apple_double_tap_user_research_and_naming.md): how the gesture was shaped for this use (doc_0491).
 - [The Apple Watch Double Tap Gesture](apple_watch_double_tap_gesture.md): the feature this argument builds on (doc_0491).
+- [AssistiveTouch Versus Double Tap](assistive_touch_versus_double_tap.md): same source document (doc_0491)
+- [Double Tap's Customization Limits](double_tap_customization_limits.md): same source document (doc_0491)
+- [The S9 Chip's Neural Engines Enable Double Tap](s9_chip_neural_engines_enable_double_tap.md): same source document (doc_0491)
+- [Wearable Fitness Tracker](term_wearable_fitness_tracker.md): uses the concept wearable fitness tracker
 
 ## Source
 

@@ -13,12 +13,18 @@ The warrant joining grounds to claim is that these examples span every size of d
 
 ## Related Notes
 
+
 - [Handheld PC Gaming Market Growth](handheld_pc_gaming_market_growth.md): both discuss the Steam Deck, from a different source document
 - [MicroSD Card Recommendations and Deals](microsd_card_recommendations_and_deals.md): both reference the Steam Deck as a platform, from a separate article
 - [Microsoft Xbox Wireless Controller](microsoft_xbox_wireless_controller.md): another console-hardware note that touches the Steam Deck
 - [Power Bank Capacity and Port Basics](power_bank_capacity_and_port_basics.md): shares Steam Deck coverage from a hardware angle
 - [Power Bank for Phones and Tablets](power_bank_for_phones_and_tablets.md): another Steam Deck-adjacent hardware note from a different document
 - [Alan Wake 2](alan_wake_2.md): one of the 2023 games ranked in the same article
+- [Amnesia: The Bunker](amnesia_the_bunker.md): same source document (doc_0213)
+- [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): same source document (doc_0213)
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

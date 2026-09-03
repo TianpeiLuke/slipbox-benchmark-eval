@@ -13,6 +13,7 @@ Internally, the numbers appear to be well documented. As the lawsuit alleges: "M
 
 ## Related Notes
 
+
 - [The AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also discusses Mark Zuckerberg, from a different document.
 - [Critique Of Meta's App Store Parental Approval Proposal](critique_of_meta_app_store_parental_approval_proposal.md): also discusses Mark Zuckerberg's accountability, from a different document.
 - [Meta's Ad-Free Subscription EU Pricing](meta_ad_free_subscription_eu_pricing.md): overlaps on Meta's Instagram and Facebook user base, from a different document.
@@ -21,6 +22,8 @@ Internally, the numbers appear to be well documented. As the lawsuit alleges: "M
 - [Bonta's Argument On Meta's Choices And COPPA Liability](bonta_argument_meta_choices_and_coppa_liability.md): drawn from the same source document (doc_0304), and reads these figures as impact rather than legal justification.
 - [The COPPA Allegations Against Meta](coppa_allegations_against_meta.md): drawn from the same source document (doc_0304).
 - [Lawsuit Redactions As Signal: The Amazon Precedent](lawsuit_redactions_as_signal_amazon_precedent.md): drawn from the same source document (doc_0304).
+- [Meta Researchers Avoided Documenting Under-13 Users](meta_researchers_avoided_documenting_under_13_users.md): same source document (doc_0304)
+- [Meta's Response To The Underage-User Allegations](meta_response_to_underage_user_allegations.md): same source document (doc_0304)
 
 ## Source
 

@@ -13,6 +13,7 @@ The premise both theories rest on is that the board's action had a personal or l
 
 ## Related Notes
 
+
 - [The OpenAI Board's Firing Of Sam Altman](openai_board_firing_of_sam_altman.md): overlaps on Mira Murati and the behavior questions raised here, from a different document.
 - [Google's "No Moat" Memo On Open Source AI](google_no_moat_memo_open_source_ai.md): part of the wider open-versus-closed debate the crisis fed, from a different document in this sub-plan.
 - [Llama's Open Source Licensing Limits](llama_open_source_licensing_limits.md): part of the same open-AI debate, from a different document in this sub-plan.
@@ -21,6 +22,8 @@ The premise both theories rest on is that the board's action had a personal or l
 - [The OpenAI Board Ousts Sam Altman, November 2023](openai_board_ousts_sam_altman_november_2023.md): drawn from the same source document (doc_0333).
 - [Theory: Altman Circumvented The Board On A Deal](theory_altman_circumvented_board_on_a_deal.md): drawn from the same source document (doc_0333), and is the business explanation TechCrunch prefers.
 - [Theory: An AGI And Mission Rift Between Altman And The Board](theory_openai_agi_mission_rift.md): drawn from the same source document (doc_0333).
+- [Theory: Copyright Liability Over OpenAI's Training Data](theory_openai_copyright_liability.md): same source document (doc_0333)
+- [Theory: A Financial Mismatch At OpenAI](theory_openai_financial_mismatch.md): same source document (doc_0333)
 
 ## Source
 

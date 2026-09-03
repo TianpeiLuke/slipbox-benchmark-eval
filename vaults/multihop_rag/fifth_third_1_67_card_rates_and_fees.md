@@ -11,6 +11,7 @@ The fee schedule is otherwise light: a $0 annual fee, a $0 foreign transaction f
 
 ## Related Notes
 
+
 - [Amex Cash Magnet Card Overview](amex_cash_magnet_card_overview.md): overlapping coverage of balance transfers and transaction terms, from a different source document.
 - [Amex Cash Magnet Rates And Fees](amex_cash_magnet_rates_and_fees.md): overlapping coverage of variable APRs and whichever-is-greater fee formulas, from a different source document.
 - [Amex Cash Magnet Redemption Process](amex_cash_magnet_redemption_process.md): overlapping coverage of account balances and credits, from a different source document.
@@ -19,6 +20,8 @@ The fee schedule is otherwise light: a $0 annual fee, a $0 foreign transaction f
 - [Citi Double Cash Tradeoffs Versus The Fifth Third Card](citi_double_cash_tradeoffs_versus_fifth_third_card.md): drawn from the same source document (doc_0470).
 - [Fifth Third 1.67% Card Cardholder Benefits](fifth_third_1_67_card_cardholder_benefits.md): drawn from the same source document (doc_0470).
 - [Fifth Third 1.67% Card Redemption Options](fifth_third_1_67_card_redemption_options.md): drawn from the same source document (doc_0470).
+- [The Fifth Third 1.67% Card's Rewards Earning Rate](fifth_third_1_67_card_rewards_earning_rate.md): same source document (doc_0470)
+- [The Fifth Third 1.67% Cash/Back Card: Overview](fifth_third_1_67_cash_back_card_overview.md): same source document (doc_0470)
 
 ## Source
 

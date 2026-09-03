@@ -13,11 +13,21 @@ In the Oct. 14 friendly against Germany, Reyna looked sharp in the starting line
 
 ## Related Notes
 
+
 - [AC Milan 2-0 Win Over Lazio and Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): also discusses Christian Pulisic.
 - [Atalanta 3-2 AC Milan](atalanta_3_2_ac_milan.md): also discusses Christian Pulisic.
 - [Belgium England Women's Nations League Result October 2023](belgium_england_womens_nations_league_result_october_2023.md): also concerns Nations League football.
 - [Canada Copa America 2024 Qualification Path](canada_copa_america_2024_qualification_path.md): also concerns Nations League competition.
 - [Canada Jamaica Second Leg Kickoff and Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): also concerns Nations League competition.
+- [Tyler Adams' Hamstring Injury Left The USMNT Without A Recognized No. 6](tyler_adams_injury_and_usmnt_defensive_midfield_gap.md): same source document (doc_0249)
+- [USMNT Blow An Early Lead And Lose 3-1 To Germany In East Hartford](usmnt_1_3_germany_friendly_match_report.md): same source document (doc_0249)
+- [The USMNT's 23-Man Roster For The October 2023 Friendlies](usmnt_october_2023_23_man_roster.md): same source document (doc_0231)
+- [The USMNT's October 2023 Friendlies Against Germany And Ghana](usmnt_october_2023_friendlies_vs_germany_and_ghana.md): same source document (doc_0231)
+- [Who The USMNT Was Missing Through Injury In October 2023](usmnt_october_2023_injury_absences.md): same source document (doc_0231)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

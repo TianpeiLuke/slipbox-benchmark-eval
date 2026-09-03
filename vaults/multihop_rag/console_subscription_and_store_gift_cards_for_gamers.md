@@ -11,11 +11,18 @@ For a PlayStation 4 or PlayStation 5 owner, PlayStation Plus grants access to fr
 
 ## Related Notes
 
+
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): also concerns the Nintendo Switch, from a different source document.
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): also concerns the Nintendo Switch, from a different source document.
 - [Blasphemous 2](blasphemous_2.md): also concerns the Nintendo Switch, from a different source document.
 - [Chants Of Sennaar](chants_of_sennaar.md): also concerns the Nintendo Switch, from a different source document.
 - [Classic Nintendo Switch Franchise Picks](classic_nintendo_switch_franchise_picks.md): also concerns the Nintendo Switch, from a different source document.
+- [Ebook, Comic And Book Club Subscription Gifts](ebook_comic_and_book_club_subscription_gifts.md): same source document (doc_0291)
+- [Fitness And Mindfulness Subscription Gifts](fitness_and_mindfulness_subscription_gifts.md): same source document (doc_0291)
+- [Food, Wine And Coffee Subscription Gifts](food_wine_and_coffee_subscription_gifts.md): same source document (doc_0291)
+- [General Purpose Retailer Gift Cards](general_purpose_retailer_gift_cards.md): same source document (doc_0291)
+- [The Last-Minute Digital Gifts And Subscriptions Guide](last_minute_digital_gifts_and_subscriptions_guide.md): same source document (doc_0291)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

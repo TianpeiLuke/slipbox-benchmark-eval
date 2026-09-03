@@ -13,6 +13,7 @@ For Chelsea, Ben Chilwell remained unavailable and Malo Gusto was missing with a
 
 ## Related Notes
 
+
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also discusses Lisandro Martinez, from a different document.
 - [Argentina Squad and Lineup vs Paraguay October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): also discusses Lisandro Martinez, from a different document.
 - [Bruno Fernandes Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): also discusses Bruno Fernandes, from a different document.
@@ -21,6 +22,8 @@ For Chelsea, Ben Chilwell remained unavailable and Malo Gusto was missing with a
 - [Erik ten Hag Under Pressure December 2023](erik_ten_hag_under_pressure_december_2023.md): the backdrop to these selections, from the same document.
 - [Manchester United 2-1 Chelsea, December 2023](man_united_2_1_chelsea_december_2023_result.md): the result these lineups produced, from the same document.
 - [How the Goals Came in Manchester United 2-1 Chelsea](man_united_chelsea_december_2023_goal_sequence.md): the goals these lineups produced, from the same document.
+- [First Half Live Updates From Manchester United 2-1 Chelsea](man_united_chelsea_first_half_live_updates.md): same source document (doc_0129)
+- [Pre-Match Build-Up To Manchester United vs Chelsea, December 2023](man_united_chelsea_pre_match_build_up.md): same source document (doc_0129)
 
 ## Source
 

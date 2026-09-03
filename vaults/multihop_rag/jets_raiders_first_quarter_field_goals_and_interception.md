@@ -15,6 +15,7 @@ The Jets took the lead back at 8:51 p.m. Starting at their own 25 with 6:15 left
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): also discusses Garrett Wilson, from a different document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also discusses Zach Wilson, from a different document.
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): also discusses Zach Wilson, from a different document.
@@ -23,6 +24,8 @@ The Jets took the lead back at 8:51 p.m. Starting at their own 25 with 6:15 left
 - [Jets and Raiders Week 10 Season Implications](jets_and_raiders_week_10_season_implications.md): what the game meant for both seasons, from the same document.
 - [Jets Final Drive and Spillane Interception](jets_final_drive_and_spillane_interception.md): how the same game ended, from the same document.
 - [Jets Raiders Broadcast and Kickoff Details](jets_raiders_broadcast_and_kickoff_details.md): the broadcast details for this game, from the same document.
+- [Jets-Raiders Second Quarter Scoring](jets_raiders_second_quarter_scoring.md): same source document (doc_0439)
+- [Jets-Raiders Third Quarter Field Goals](jets_raiders_third_quarter_field_goals.md): same source document (doc_0439)
 
 ## Source
 

@@ -13,6 +13,7 @@ The third objection singles out the exotic props that arrive with big events. Wh
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): another item touching the Super Bowl, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): another Super Bowl-related betting item, separately sourced.
 - [Bills-Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): also references the Super Bowl picture, in a different document.
@@ -21,6 +22,9 @@ The third objection singles out the exotic props that arrive with big events. Wh
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): the case these objections answer, from the same source document.
 - [Exotic Prop Bets](exotic_prop_bets.md): the category singled out in the third objection, same source document.
 - [The Prop Bet](prop_bet_definition.md): defines the bet type under criticism here, same source document.
+- [Prop Bet Examples By Sport](prop_bet_examples_by_sport.md): same source document (doc_0201)
+- [Reading Prop Bet Odds](reading_prop_bet_odds.md): same source document (doc_0201)
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
 
 ## Source
 

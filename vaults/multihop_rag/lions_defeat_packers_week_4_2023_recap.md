@@ -11,6 +11,7 @@ The game had appeared destined to be a showcase of quarterbacking excellence, wi
 
 ## Related Notes
 
+
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also covers Green Bay, from a different source document.
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also set at Lambeau Field, from a different source document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also covers Jared Goff and Jordan Love, from a different source document.
@@ -19,6 +20,8 @@ The game had appeared destined to be a showcase of quarterbacking excellence, wi
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): draws on the same live coverage of this game (doc_0282).
 - [Lions Packers Week 4 Broadcast and Streaming Details](lions_packers_week_4_broadcast_and_streaming_details.md): the broadcast details for this game (doc_0282).
 - [Lions Packers Week 4 First Half and Pregame Log](lions_packers_week_4_first_half_and_pregame_log.md): the first-half log of this game (doc_0282).
+- [Lions-Packers Week 4: Fourth Quarter Log](lions_packers_week_4_fourth_quarter_log.md): same source document (doc_0282)
+- [Lions-Packers Week 4: Third Quarter Log](lions_packers_week_4_third_quarter_log.md): same source document (doc_0282)
 
 ## Source
 

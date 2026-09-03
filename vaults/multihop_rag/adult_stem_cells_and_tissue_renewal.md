@@ -13,6 +13,7 @@ Determining how these cells are guided to develop into specific tissue cells has
 
 ## Related Notes
 
+
 - [BTS Yet to Come Concert Film](bts_yet_to_come_concert_film.md): shares South Korea as an institutional setting.
 - [ChatGPT Mobile App Launches and Revenue](chatgpt_mobile_app_launches_and_revenue.md): shares South Korea as a location tag.
 - [Don McLean Upcoming Albums and Touring](don_mclean_upcoming_albums_and_touring.md): shares South Korea as a location tag.
@@ -21,6 +22,8 @@ Determining how these cells are guided to develop into specific tissue cells has
 - [Daam1 Controls Paneth Cell Fate in Mice](daam1_controls_paneth_cell_fate_in_mice.md): what these stem cells differentiate into, same study.
 - [Daam1 Intestinal Stem Cell Study Overview](daam1_intestinal_stem_cell_study_overview.md): the study this background introduces.
 - [Intestinal Organoid Knockout Experiments](intestinal_organoid_knockout_experiments.md): cultures derived from the adult stem cells described here.
+- [Intestinal Stem Cell Balance and Wnt Signalling](intestinal_stem_cell_balance_and_wnt_signalling.md): same source document (doc_0302)
+- [Paneth Cell Niche Explains Organoid Versus Intestine Divergence](paneth_cell_niche_explains_organoid_versus_intestine_divergence.md): same source document (doc_0302)
 
 ## Source
 

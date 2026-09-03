@@ -11,12 +11,18 @@ The Tesla Cybertruck had been out for a little more than a week when The Verge w
 
 ## Related Notes
 
+
 - [Cybertruck Resale Restrictions Walked Back](cybertruck_resale_restrictions_walked_back.md): overlapping coverage of the Cybertruck and Tesla, from a different source document.
 - [Tesla Cybertruck Launch And First Deliveries](tesla_cybertruck_launch_and_first_deliveries.md): overlapping coverage of the Cybertruck and Tesla's truck, from a different source document.
 - [Crumple Zones And The Stainless Steel Concern](crumple_zones_and_the_stainless_steel_concern.md): drawn from the same source document (doc_0548).
 - [The Cybertruck's Danger Is A Large-Truck Problem](cybertruck_danger_is_a_large_truck_problem.md): drawn from the same source document (doc_0548).
 - [The Cybertruck May Have An Unseen Shock-Absorbing Mechanism](cybertruck_may_have_an_unseen_shock_absorbing_mechanism.md): drawn from the same source document (doc_0548).
 - [The Cybertruck Is Unlikely To Be Sold In Europe](cybertruck_unlikely_to_be_sold_in_europe.md): drawn from the same source document (doc_0548).
+- [Cybertruck Visibility, Mirrors And Steer-By-Wire Design Choices](cybertruck_visibility_mirrors_and_steer_by_wire_design_choices.md): same source document (doc_0548)
+- [The IIHS Finding That Tall, Blunt Front Ends Raise Pedestrian Risk](iihs_finding_that_tall_blunt_front_ends_raise_pedestrian_risk.md): same source document (doc_0548)
+- [Musk And Tesla's Safety Rating Record Claims](musk_and_tesla_safety_rating_record_claims.md): same source document (doc_0548)
+- [Safety Experts Are Awaiting Independent Cybertruck Crash Data](safety_experts_awaiting_independent_cybertruck_crash_data.md): same source document (doc_0548)
+- [Recommendation Algorithm](term_recommendation_algorithm.md): uses the concept recommendation algorithm
 
 ## Source
 

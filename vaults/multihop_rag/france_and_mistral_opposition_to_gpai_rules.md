@@ -13,10 +13,20 @@ How much of a carve out Mistral's business might enjoy under the deal remained u
 
 ## Related Notes
 
+
 - [EU AI Act Copyright Obligations for GPAI Makers](eu_ai_act_copyright_obligations_for_gpai_makers.md): substantial content overlap on gpais, obligations, transparency, from a different source document.
 - [EU AI Act Watermarking and Transparency Obligations](eu_ai_act_watermarking_and_transparency_obligations.md): substantial content overlap on gpais, obligations, agreed, from a different source document.
 - [French AI Startups State Backing and Compliance Edge](french_ai_startups_state_backing_and_compliance_edge.md): substantial content overlap on mistral, french, france, from a different source document.
 - [Mistral AI French LLM Startup](mistral_ai_french_llm_startup.md): substantial content overlap on mistral, french, models, from a different source document.
+- [Civil Society Criticism Of The EU AI Act's Biometrics Limits](civil_society_criticism_of_eu_ai_act_biometrics_limits.md): same source document (doc_0564)
+- [EU AI Act High-Risk AI System Obligations](eu_ai_act_high_risk_ai_system_obligations.md): same source document (doc_0564)
+- [EU AI Act Penalties For Non-Compliance](eu_ai_act_penalties_for_non_compliance.md): same source document (doc_0564)
+- [EU AI Act Phased Entry Into Force Timeline](eu_ai_act_phased_entry_into_force_timeline.md): same source document (doc_0564)
+- [EU AI Act Political Agreement, December 2023](eu_ai_act_political_agreement_december_2023.md): same source document (doc_0564)
+- [EU AI Act Prohibited AI Practices](eu_ai_act_prohibited_ai_practices.md): same source document (doc_0564)
+- [Cloud Computing](term_cloud_computing.md): uses the concept cloud computing
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Machine Translation](term_machine_translation.md): uses the concept machine translation
 
 ## Source
 

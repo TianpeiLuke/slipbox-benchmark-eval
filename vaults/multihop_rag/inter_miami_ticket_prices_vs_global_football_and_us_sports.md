@@ -13,11 +13,18 @@ Against US sports and MLS peers the gap is also large. The NFL, the most popular
 
 ## Related Notes
 
+
 - [AMC Theatres Direct Distribution of Concert Films](amc_theatres_direct_distribution_of_concert_films.md): another item comparing ticket costs across markets.
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): also concerns Inter Miami.
 - [Chicago Fire 4-1 Inter Miami October 2023 Recap](chicago_fire_4_1_inter_miami_october_2023_recap.md): also concerns Inter Miami.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): also concerns Inter Miami.
 - [Chicago Fire Inter Miami Second Half Live Blog](chicago_fire_inter_miami_second_half_live_blog.md): also concerns Inter Miami and Major League Soccer.
+- [Inter Miami's 2024 Season Ticket Prices Rose Up To 113% After Messi's Arrival](inter_miami_2024_season_ticket_price_increase.md): same source document (doc_0203)
+- [Inter Miami Supporters Protested The 2024 Price Hike By Sitting In Silence](inter_miami_fan_backlash_to_2024_ticket_prices.md): same source document (doc_0203)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Valuation](term_valuation.md): uses the concept valuation
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

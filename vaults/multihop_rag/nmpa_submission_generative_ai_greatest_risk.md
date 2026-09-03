@@ -11,11 +11,20 @@ The argument is deliberately framed as pro-technology at its base. The submissio
 
 ## Related Notes
 
+
 - [FTC Generative AI Roundtable](ftc_generative_ai_roundtable.md): another forum on generative AI and the creator economy, from a different source document.
 - [Gen Z Policy Misalignment Republican Party](gen_z_policy_misalignment_republican_party.md): overlaps on creator economy, lobbying political donations subject matter, from a different source document.
 - [Google Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): overlaps on creator economy, generative ai subject matter, from a different source document.
 - [Google USCO Filing on AI Training and Fair Use](google_usco_filing_ai_training_fair_use.md): the tech-side submission to the same proceeding, from a different source document.
 - [Influencer Mobilization Versus Endorsement Research](influencer_mobilization_versus_endorsement_research.md): overlaps on creator economy, lobbying political donations subject matter, from a different source document.
+- [AI-Assisted Works Should Still Be Copyrightable](ai_assisted_works_copyright_eligibility.md): same source document (doc_0271)
+- [Works Created Principally Through AI Should Not Be Copyrightable](ai_generated_works_should_not_be_copyrightable.md): same source document (doc_0271)
+- [The NMPA Argument That AI Training Fails Every Fair Use Factor](ai_training_fails_fair_use_test.md): same source document (doc_0271)
+- [AI Training Transparency And Recordkeeping Requirements](ai_training_transparency_and_recordkeeping.md): same source document (doc_0271)
+- [Anthropic's Fair Use Defense For AI Training](anthropic_fair_use_defense_for_ai_training.md): same source document (doc_0271)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

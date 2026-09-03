@@ -13,6 +13,7 @@ Two scope conditions matter for reading the claim. The speaker is the CFO of Mas
 
 ## Related Notes
 
+
 - [Fifth Third 1.67% Card Cardholder Benefits](fifth_third_1_67_card_cardholder_benefits.md): overlaps on Mastercard and cash-payment coverage, from a different source document.
 - [IMF Assessment of India and Global Growth Divergence](imf_assessment_of_india_and_global_growth_divergence.md): overlaps on emerging markets and India, from a different source document.
 - [Kia EV9 Reservations](kia_ev9_reservations.md): overlaps on the language of reservations, from a different source document.
@@ -21,6 +22,8 @@ Two scope conditions matter for reading the claim. The speaker is the CFO of Mas
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): drawn from the same source document (doc_0043).
 - [Brave Software Lays Off 9% Of Its Workforce](brave_software_layoffs.md): drawn from the same source document (doc_0043).
 - [Meta Quest 3 And The Affordable End Of AR/VR Hardware](consumer_ar_vr_hardware.md): drawn from the same source document (doc_0043).
+- [Creator Economy Sustainability And Creator Venture Capital](creator_economy_sustainability.md): same source document (doc_0043)
+- [Whether Founders Should Attend Events](founder_event_attendance_debate.md): same source document (doc_0043)
 
 ## Source
 

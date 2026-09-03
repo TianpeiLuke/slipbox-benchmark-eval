@@ -11,11 +11,20 @@ The over-ear Sony WH-1000XM4 was $250, down from $350 — 29% off; they can last
 
 ## Related Notes
 
+
 - [Airpods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery life and charging and battery technology theme, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery life and charging and battery technology theme, from a different source document.
 - [Amazon Echo Buds Second and Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): shares the battery technology and noise cancelling headphones theme, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery life and charging and battery technology theme, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares the battery life and charging and battery technology theme, from a different source document.
+- [Anti-Prime Big Deal Day Competing Sales](anti_prime_big_deal_day_competing_sales.md): same source document (doc_0584)
+- [Echo Show 5 And Nest Hub Smart Display Deals](echo_show_5_and_nest_hub_smart_display_deals.md): same source document (doc_0584)
+- [InZone H9 And Seagate Xbox Expansion Card Deals](inzone_h9_and_seagate_xbox_expansion_card_deals.md): same source document (doc_0584)
+- [iPad And Kindle Oasis Deals During Prime Big Deal Day](ipad_and_kindle_oasis_deals_prime_day.md): same source document (doc_0584)
+- [Ring And Blink Security Camera And Doorbell Deals](ring_and_blink_security_camera_and_doorbell_deals.md): same source document (doc_0584)
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

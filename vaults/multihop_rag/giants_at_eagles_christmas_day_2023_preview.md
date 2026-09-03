@@ -11,11 +11,16 @@ The second question is whether quarterback Jalen Hurts and the Eagles offense ca
 
 ## Related Notes
 
+
 - [Brock Purdy 49ers Career Trajectory](brock_purdy_49ers_career_trajectory.md): also covers the Philadelphia Eagles as an opponent, from a different source document.
 - [C.J. Stroud Texans Midseason MVP](cj_stroud_texans_midseason_mvp.md): shares the passing-yards and passer-rating evaluation framing, from a different source document.
 - [Cowboys Fantasy Start Recommendations Week 13](cowboys_fantasy_start_recommendations_week_13.md): also covers Jalen Hurts, from a different source document.
 - [Criticism That the NFL Overdid Its Taylor Swift Coverage](criticism_that_the_nfl_overdid_its_taylor_swift_coverage.md): also covers the Philadelphia Eagles, from a different source document.
 - [Dallas Goedert Week 5 2023 Bust Warning](dallas_goedert_week5_2023_bust_warning.md): also covers Jalen Hurts and the Eagles offense, from a different source document.
+- [Brock Purdy Leads Lamar Jackson In The 2023 MVP Odds](brock_purdy_lamar_jackson_2023_mvp_race.md): same source document (doc_0003)
+- [Raiders At Chiefs, Christmas Day 2023: Storylines To Watch](raiders_at_chiefs_christmas_day_2023_preview.md): same source document (doc_0003)
+- [Ravens At 49ers, Christmas Day 2023: A Possible Super Bowl Preview](ravens_at_49ers_christmas_day_2023_preview.md): same source document (doc_0003)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

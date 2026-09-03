@@ -11,11 +11,16 @@ Mohammad Alnobani is a Palestinian founder of The Middle Frame, an Arab stock im
 
 ## Related Notes
 
+
 - [Manara's Assessment Of The Gaza Tech Sector](manara_assessment_of_gaza_tech_sector.md): same source document; the parallel judgment that this escalation differs from earlier ones.
 - [Gaza Tech Workers' Connectivity Collapse](gaza_tech_workers_connectivity_collapse.md): same source document; the power and connectivity loss that cut off his contacts.
 - [Dalia Awad's Gaza Engineer Account](dalia_awad_gaza_engineer_account.md): same source document; another individual account from the same reporting.
 - [Palestinian Tech Ecosystem Growth Before The War](palestinian_tech_ecosystem_growth_before_the_war.md): same source document; the founder community his company belongs to.
 - [Israel-Hamas War Context, October 2023](israel_hamas_war_october_2023_context.md): same source document; the war that stranded him in Jordan.
+- [Gaza Sky Geeks Accelerator](gaza_sky_geeks_accelerator.md): same source document (doc_0598)
+- [Gaza Tech Infrastructure Destruction](gaza_tech_infrastructure_destruction.md): same source document (doc_0598)
+- [Gaza As A Tech Outsourcing Hub](gaza_tech_outsourcing_hub.md): same source document (doc_0598)
+- [West Bank Tech Activity Freeze](west_bank_tech_activity_freeze.md): same source document (doc_0598)
 
 ## Source
 

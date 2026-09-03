@@ -11,6 +11,7 @@ The same reasoning was applied at 12.17 PM to one of the most talked-about playe
 
 ## Related Notes
 
+
 - [ICC World Cup 2023 Leading Wicket Takers](icc_world_cup_2023_leading_wicket_takers.md): also discusses Josh Hazlewood, from a different source document.
 - [NBA 2023-24 Season Calendar](nba_2023_24_season_calendar.md): overlapping playoffs-and-tournament scheduling vocabulary, from a different source document.
 - [Harshal Patel's Vijay Hazare Trophy Form Before the IPL Auction](harshal_patel_vijay_hazare_trophy_form_before_ipl_auction.md): same auction live blog.
@@ -19,6 +20,8 @@ The same reasoning was applied at 12.17 PM to one of the most talked-about playe
 - [IPL 2024 Auction: Capped Pace and Spin Sets](ipl_2024_auction_capped_pace_and_spin_sets.md): same auction live blog, where Hazlewood's fate was settled.
 - [IPL 2024 Auction: Capped Wicketkeepers Set](ipl_2024_auction_capped_wicketkeepers_set.md): same auction live blog.
 - [IPL 2024 Auction: Expert Previews and Team Strategy](ipl_2024_auction_expert_previews_and_team_strategy.md): same auction live blog, on the other strategic arguments made that morning.
+- [IPL 2024 Auction: Final Round Results](ipl_2024_auction_final_round_results.md): same source document (doc_0307)
+- [IPL 2024 Auction: The Accelerated Round](ipl_2024_auction_first_accelerated_round.md): same source document (doc_0307)
 
 ## Source
 

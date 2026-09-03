@@ -13,6 +13,7 @@ Ferguson is the start over Cooks on matchup grounds. Ferguson has slumped over t
 
 ## Related Notes
 
+
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also discusses Josh Allen, from a different document.
 - [Bills Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): also discusses Josh Allen, from a different document.
 - [Bills Chargers Week 16 Matchup Preview](bills_chargers_week_16_matchup_preview.md): also discusses Josh Allen, from a different document.
@@ -21,6 +22,8 @@ Ferguson is the start over Cooks on matchup grounds. Ferguson has slumped over t
 - [Seahawks Cowboys DFS Showdown Lineups](seahawks_cowboys_dfs_showdown_lineups.md): turns these calls into DFS rosters, from the same document.
 - [Seahawks Cowboys Week 13 TNF Matchup Outlook](seahawks_cowboys_week_13_tnf_matchup_outlook.md): the game context these recommendations assume, from the same document.
 - [Seahawks Fantasy Sit Recommendations Week 13](seahawks_fantasy_sit_recommendations_week_13.md): the opposite side of the same start/sit column, from the same document.
+- [Tony Pollard's Fantasy Outlook In 2023](tony_pollard_fantasy_outlook_2023.md): same source document (doc_0394)
+- [Zach Charbonnet's Fantasy Outlook In 2023](zach_charbonnet_fantasy_outlook_2023.md): same source document (doc_0394)
 
 ## Source
 

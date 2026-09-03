@@ -13,12 +13,17 @@ A more favorable reading came from Sheila Gulati, co-founder of Tola Capital, wh
 
 ## Related Notes
 
+
 - [AI Civil Rights And Consumer Protections In The EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): shares the data-privacy and executive-order themes, from a different source document.
 - [Catherine Tan On Public Disclosure And Law Enforcement Gaps](catherine_tan_public_disclosure_and_law_enforcement_gaps.md): also engages human-rights framing of technology harms, from a different source document.
 - [ChatGPT Durability And Regulatory Outlook](chatgpt_durability_and_regulatory_outlook.md): also covers President Biden's posture toward AI regulation, from a different source document.
 - [Leiderman: There Are No Sacred Numbers Deficit Argument](leiderman_there_are_no_sacred_numbers_deficit_argument.md): also discusses President Biden, from a different source document.
 - [SCOTUS Social Media Cases](scotus_social_media_cases.md): also draws on Paul Barrett and human-rights framing, from a different source document.
 - [The AI Legislation Gap Behind Biden's Executive Order](ai_legislation_gap.md): drawn from the same source document, doc_0098.
+- [Biden's AI Executive Order Announcement](biden_ai_executive_order.md): same source document (doc_0098)
+- [Executive Order](term_executive_order.md): uses the concept executive order
+- [Red-Teaming](term_red_teaming.md): uses the concept red teaming
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

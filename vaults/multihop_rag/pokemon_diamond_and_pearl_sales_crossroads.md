@@ -13,6 +13,7 @@ The project proved successful: Diamond and Pearl sold one-third more copies than
 
 ## Related Notes
 
+
 - [Alameda Research Origins And Naming](alameda_research_origins_and_naming.md): shares a promotional-tour theme tag, from a different source document.
 - [Alexei Popyrin's Davis Cup Breakthrough](alexei_popyrin_davis_cup_breakthrough.md): shares a tour theme tag, from a different source document.
 - [Amy Grant And Vince Gill's Marriage](amy_grant_and_vince_gill_marriage.md): shares a concert-tour theme tag, from a different source document.
@@ -21,6 +22,15 @@ The project proved successful: Diamond and Pearl sold one-third more copies than
 - [Backlash To Travis Kelce's Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): shares a tour theme tag, from a different source document.
 - [Bad Blood: The Taylor Swift And Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): shares a concert-tour theme tag, from a different source document.
 - [Bankman-Fried's Post-Bankruptcy Media Tour](bankman_fried_post_bankruptcy_media_tour.md): shares a media-tour theme tag, from a different source document.
+- [External Studios Expand Pokémon Animation](external_studios_expand_pokemon_animation.md): same source document (doc_0346)
+- [Pokémon As A Lifestyle: The Reinvention Thesis](pokemon_as_lifestyle_reinvention_thesis.md): same source document (doc_0346)
+- [Pokémon's Longevity And Scale](pokemon_franchise_longevity_and_scale.md): same source document (doc_0346)
+- [Pokémon Garden As The First Brand Diversification](pokemon_garden_as_first_brand_diversification.md): same source document (doc_0346)
+- [Pokémon Merchandising For Grown-Up Fans](pokemon_merchandising_for_grown_up_fans.md): same source document (doc_0346)
+- [The Pokémon With You Foundation And Local Acts](pokemon_with_you_foundation_and_local_acts.md): same source document (doc_0346)
+- [The 2023 Pokémon World Championships In Yokohama](pokemon_world_championships_2023_yokohama.md): same source document (doc_0346)
+- [PokéTsume, The Live-Action Pokémon Workplace Drama](poketsume_live_action_pokemon_drama.md): same source document (doc_0346)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

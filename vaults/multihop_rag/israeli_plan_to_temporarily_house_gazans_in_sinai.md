@@ -11,6 +11,7 @@ The reasoning behind the approach was economic. "Clearly the hope on Israel and 
 
 ## Related Notes
 
+
 - [Afrofuture Foundation Philanthropy Programmes](afrofuture_foundation_philanthropy_programmes.md): also concerns the United Nations, from a different source document.
 - [COP28 Final Text Language On Transitioning Away From Fossil Fuels](cop28_final_text_language_on_transitioning_away_from_fossil_fuels.md): also concerns the United Nations, from a different source document.
 - [COP28 Fossil Fuel Deal Slipped Away At The Last Hour](cop28_fossil_fuel_deal_slipped_away_at_the_last_hour.md): also concerns the United Nations, from a different source document.
@@ -19,6 +20,8 @@ The reasoning behind the approach was economic. "Clearly the hope on Israel and 
 - [1991 Gulf War Egyptian Debt Forgiveness](1991_gulf_war_egyptian_debt_forgiveness.md): drawn from the same source document (doc_0218).
 - [Cairo Diplomatic Surge And The 2023 Summit For Peace](cairo_diplomatic_surge_and_summit_for_peace_2023.md): drawn from the same source document (doc_0218).
 - [Egypt's Economic Crisis And IMF Rescue Program](egypt_economic_crisis_and_imf_rescue_program.md): drawn from the same source document (doc_0218).
+- [Egypt's Refusal To Host Palestinian Refugees](egypt_refusal_to_host_palestinian_refugees.md): same source document (doc_0218)
+- [Egypt's Role In The Israel-Hamas War And The Leverage It Creates](egypt_role_in_israel_hamas_war_and_western_leverage.md): same source document (doc_0218)
 
 ## Source
 

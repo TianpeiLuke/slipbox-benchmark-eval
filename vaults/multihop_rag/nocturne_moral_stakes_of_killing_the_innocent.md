@@ -11,9 +11,15 @@ The argument is careful about the strength of its claim: that beat isn't entirel
 
 ## Related Notes
 
+
 - [Castlevania: Nocturne On Netflix](castlevania_nocturne_netflix.md): overlapping coverage of Nocturne, Richter and Annette, from a different source document.
 - [Castlevania: Nocturne's Premise And Richter Belmont](castlevania_nocturne_premise_and_richter_belmont.md): drawn from the same source document (doc_0329).
 - [Castlevania: Nocturne Surpasses The Original Netflix Series](castlevania_nocturne_surpasses_the_original_netflix_series.md): drawn from the same source document (doc_0329).
+- [Nocturne's Animation Inconsistency And Late-Season Pacing](nocturne_animation_inconsistency_and_late_season_pacing.md): same source document (doc_0329)
+- [Nocturne As A Critique Of Revolutionary France's Colonialism](nocturne_as_a_critique_of_revolutionary_france_colonialism.md): same source document (doc_0329)
+- [Nocturne's French Revolution Setting And Konami Game Lore](nocturne_french_revolution_setting_and_konami_game_lore.md): same source document (doc_0329)
+- [Nocturne's Supporting Cast: Maria, Edouard And Annette](nocturne_supporting_cast_maria_edouard_and_annette.md): same source document (doc_0329)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

@@ -17,10 +17,16 @@ For the Paragon Board system, which Polygon calls very complex, Glyphs must be c
 
 ## Related Notes
 
+
 - [Diablo 4 Sorcerer Firewall Endgame Build](diablo_4_sorcerer_firewall_endgame_build.md): the Sorcerer endgame counterpart, sharing several Vampiric Powers and the Legendary Power structure, in a different document
 - [Diablo 4 Sorcerer Class](diablo_4_sorcerer_class.md): the class overview for the other build family in this sub-plan
 - [Diablo 4 Sorcerer Element Build Archetypes](diablo_4_sorcerer_element_build_archetypes.md): the Sorcerer build-archetype model from the same sub-plan
 - [Diablo 4 Sorcerer Leveling Build](diablo_4_sorcerer_leveling_build.md): the Sorcerer leveling procedure from the same sub-plan
+- [The Barbarian Class in Diablo 4](diablo_4_barbarian_class.md): same source document (doc_0123)
+- [Diablo 4 Barbarian Key Passive Build Archetypes](diablo_4_barbarian_key_passive_build_archetypes.md): same source document (doc_0123)
+- [Diablo 4 Barbarian Leveling Build](diablo_4_barbarian_leveling_build.md): same source document (doc_0123)
+- [Diablo 4 Season 2 Vampiric Powers](diablo_4_season_2_vampiric_powers.md): same source document (doc_0123)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

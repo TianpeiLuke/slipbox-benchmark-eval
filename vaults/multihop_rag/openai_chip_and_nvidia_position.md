@@ -13,9 +13,18 @@ The surrounding context that week was AI coverage generally. TechCrunch's most-r
 
 ## Related Notes
 
+
 - [Adobe's Firefly Generative AI Tools And Project Stardust](adobe_generative_ai_tools.md): drawn from the same source document (doc_0043).
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): drawn from the same source document (doc_0043).
 - [Brave Software Lays Off 9% Of Its Workforce](brave_software_layoffs.md): drawn from the same source document (doc_0043).
+- [Meta Quest 3 And The Affordable End Of AR/VR Hardware](consumer_ar_vr_hardware.md): same source document (doc_0043)
+- [Creator Economy Sustainability And Creator Venture Capital](creator_economy_sustainability.md): same source document (doc_0043)
+- [Whether Founders Should Attend Events](founder_event_attendance_debate.md): same source document (doc_0043)
+- [Google Pixel 8 Launch](google_pixel_8_launch.md): same source document (doc_0043)
+- [Mastodon's Undercounted Users And Twitter's Traffic](mastodon_and_x_traffic_figures.md): same source document (doc_0043)
+- [Passkeys As The Default Google Sign-In Method](passkeys_default_signin.md): same source document (doc_0043)
+- [PC Shipment Decline Slows In Q3 2023](pc_shipment_decline_2023.md): same source document (doc_0043)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

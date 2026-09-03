@@ -13,12 +13,17 @@ Joshua declined the throwback framing himself: "Just another fight. I respect Ot
 
 ## Related Notes
 
+
 - [Anthony Joshua's Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): covers the doubts about Joshua this performance was measured against, from a different document.
 - [Day Of Reckoning Predictions And Picks](day_of_reckoning_predictions_and_picks.md): forecast this Joshua-Wallin stoppage before it happened, from a different document.
 - [The Day Of Reckoning Riyadh Boxing Card](day_of_reckoning_riyadh_boxing_card.md): covers the same card and the Joshua-Wallin bout, from a different document.
 - [Eddie Hearn On The Day Of Reckoning Card Assembly](eddie_hearn_on_day_of_reckoning_card_assembly.md): the promoter's account of how this main event was made, from a different document.
 - [Otto Wallin Fighter Profile](otto_wallin_fighter_profile.md): covers the Swedish opponent stopped here, from a different document.
 - [The Day Of Reckoning Card And The Heavyweight Unification Path](day_of_reckoning_card_and_heavyweight_unification_path.md): what this result means for the division, from the same report.
+- [Day Of Reckoning Undercard Results: Bivol, Dubois And Kabayel](day_of_reckoning_undercard_results_bivol_dubois_kabayel.md): same source document (doc_0561)
+- [Eddie Hearn On Opetaia Emulating Usyk And Unifying Cruiserweight](eddie_hearn_on_opetaia_emulating_usyk_and_unifying_cruiserweight.md): same source document (doc_0561)
+- [Jai Opetaia's First-Round Knockout Of Ellis Zorro](jai_opetaia_first_round_knockout_of_ellis_zorro.md): same source document (doc_0561)
+- [Joseph Parker's Upset Win Over Deontay Wilder](joseph_parker_upset_win_over_deontay_wilder.md): same source document (doc_0561)
 
 ## Source
 

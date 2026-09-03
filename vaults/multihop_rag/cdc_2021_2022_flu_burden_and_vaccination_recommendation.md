@@ -11,12 +11,17 @@ On the strength of that burden, the CDC recommends that everyone 6 months and ol
 
 ## Related Notes
 
+
 - [Global Burden of Antibiotic Resistant Infections](global_burden_of_antibiotic_resistant_infections.md): also concerns Disease Control, from a different source document.
 - [How Antibiotic Resistance Emerges and Spreads](how_antibiotic_resistance_emerges_and_spreads.md): also concerns Disease Control, from a different source document.
 - [UNAIDS 95 95 95 Targets](unaids_95_95_95_targets.md): overlapping vocabulary on deaths, prevention, million, from a different source document.
 - [Allison Miller Case for Annual Flu Vaccination](allison_miller_case_for_annual_flu_vaccination.md): drawn from the same source document (doc_0065).
 - [Allison Miller Influenza Sepsis and Leg Amputation](allison_miller_influenza_sepsis_and_leg_amputation.md): drawn from the same source document (doc_0065).
 - [Allison Miller Life after Amputation and Organ Damage](allison_miller_life_after_amputation_and_organ_damage.md): drawn from the same source document (doc_0065).
+- [Flu Vaccine Timing And Severity Reduction, According To Sylvester](flu_vaccine_timing_and_severity_reduction_sylvester.md): same source document (doc_0065)
+- [How Influenza Sets Up A Secondary Bacterial Infection](influenza_secondary_bacterial_infection_mechanism.md): same source document (doc_0065)
+- [Recognizing A Severe Flu And Seeking Early Care](recognizing_severe_flu_and_seeking_early_care.md): same source document (doc_0065)
+- [Public Health Guidance](term_public_health_guidance.md): uses the concept public health guidance
 
 ## Source
 

@@ -13,12 +13,16 @@ The consequences were immediate. United now have to beat Bayern Munich and hope 
 
 ## Related Notes
 
+
 - [Argentina Squad and Lineup vs Paraguay, October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): also concerns Alejandro Garnacho, from a different document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also covers Bayern Munich in the Champions League, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also covers Bayern Munich in the Champions League, from a different document.
 - [Bruno Fernandes' Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): also concerns Bruno Fernandes, from a different document.
 - [Champions League 2023-24 Group A: Bayern and Copenhagen](champions_league_2023_24_group_a_bayern_copenhagen.md): also concerns Bayern Munich, from a different document.
 - [Andre Onana Goalkeeping Errors in the 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): drawn from the same document (doc_0012).
+- [Manchester United's Defensive Imbalance: Ferdinand's Critique](manchester_united_defensive_imbalance_ferdinand_critique.md): same source document (doc_0012)
+- [Fernandes And Ten Hag On Manchester United's Game Management](manchester_united_game_management_criticism_fernandes_ten_hag.md): same source document (doc_0012)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

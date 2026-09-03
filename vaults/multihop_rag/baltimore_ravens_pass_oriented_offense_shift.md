@@ -13,6 +13,7 @@ An executive pressed the argument further, holding that the change subtracts mor
 
 ## Related Notes
 
+
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also concerns Lamar Jackson, from a different document.
 - [Brock Purdy and Lamar Jackson in the 2023 MVP Race](brock_purdy_lamar_jackson_2023_mvp_race.md): also concerns Lamar Jackson, from a different document.
 - [Fantasy RB Week 14 Sleepers, PPR](fantasy_rb_week_14_sleepers_ppr.md): also concerns Lamar Jackson, from a different document.
@@ -21,6 +22,8 @@ An executive pressed the argument further, holding that the change subtracts mor
 - [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): drawn from the same document (doc_0316).
 - [Buffalo Bills Defensive Injuries, 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): drawn from the same document (doc_0316).
 - [Cincinnati Bengals: Joe Burrow's Durability and the Line](cincinnati_bengals_joe_burrow_durability_and_line.md): drawn from the same document (doc_0316).
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
+- [Denver Broncos: Payton And Wilson's Clock-Management Friction](denver_broncos_payton_wilson_clock_management_friction.md): same source document (doc_0316)
 
 ## Source
 

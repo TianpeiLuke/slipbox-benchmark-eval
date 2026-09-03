@@ -11,11 +11,19 @@ Music Business Worldwide framed this gap, rather than trading performance, as th
 
 ## Related Notes
 
+
 - [Alameda Research](alameda_research.md): another note on a firm's headline revenue and billion-scale valuation figures.
 - [Amazon Fire HD 8 and Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): shares the discount-and-price content tag used across the corpus.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the discount-and-price content tag used across the corpus.
 - [Apple AirPods Max Holiday Deal](apple_airpods_max_holiday_deal.md): shares the discount-and-price content tag used across the corpus.
 - [Apple AirPods Second and Third Gen and AirPods Max Deals](apple_airpods_second_third_gen_and_airpods_max_deals.md): shares the discount-and-price content tag used across the corpus.
+- [Hipgnosis $440 Million Catalog Sale to Hipgnosis Songs Capital](hipgnosis_440_million_catalog_sale_to_hipgnosis_songs_capital.md): same source document (doc_0464)
+- [Hipgnosis Board Defence of Portfolio Value](hipgnosis_board_defence_of_portfolio_value.md): same source document (doc_0464)
+- [Hipgnosis Go-Shop Clause and Rival Bids](hipgnosis_go_shop_clause_and_rival_bids.md): same source document (doc_0464)
+- [Hipgnosis Investment Advisory Agreement Amendments](hipgnosis_investment_advisory_agreement_amendments.md): same source document (doc_0464)
+- [Hipgnosis Songs Fund Board Changes September 2023](hipgnosis_songs_fund_board_changes_september_2023.md): same source document (doc_0464)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

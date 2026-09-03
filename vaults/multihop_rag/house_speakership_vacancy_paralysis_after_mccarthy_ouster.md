@@ -13,6 +13,7 @@ Republicans predicted the House could essentially stay closed for the foreseeabl
 
 ## Related Notes
 
+
 - [US Export Controls On China And The Taiwan Flashpoint](us_export_controls_on_china_and_taiwan_flashpoint.md): shares political-pressure and policy themes from a different source document.
 - [A Patent Redesign Must Be More Than A Colorable Difference](a_patent_redesign_must_be_more_than_a_colorable_difference.md): shares an institutional-process theme from a different source document.
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): shares a contested-outcome theme from a different source document.
@@ -21,6 +22,17 @@ Republicans predicted the House could essentially stay closed for the foreseeabl
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): shares the political-campaigning theme from a different source document.
 - [AI Mass-Generated SEO Spam: Churn And Burn](ai_mass_generated_seo_spam_churn_and_burn.md): shares an influence-campaign theme from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares a consumer-hardware theme from a different source document.
+- [Gingrich And Boehner Endorse The Interim Speaker Plan](gingrich_and_boehner_endorse_interim_speaker_plan.md): same source document (doc_0377)
+- [Hakeem Jeffries' Bipartisan Offer To Reopen The House](hakeem_jeffries_bipartisan_offer_to_reopen_the_house.md): same source document (doc_0223)
+- [The House GOP's Narrow-Majority Vote Math](house_gop_narrow_majority_vote_math.md): same source document (doc_0223)
+- [Jim Jordan's Political Profile And Record](jim_jordan_political_profile_and_record.md): same source document (doc_0223)
+- [Jim Jordan's Second-Ballot Defeat](jim_jordan_second_ballot_defeat.md): same source document (doc_0377)
+- [Jim Jordan's Third-Ballot Defeat And Removal As Nominee](jim_jordan_third_ballot_defeat_and_withdrawal.md): same source document (doc_0223)
+- [Obstacles To Empowering An Interim Speaker](obstacles_to_empowering_an_interim_speaker.md): same source document (doc_0223)
+- [The Proposal To Expand Patrick McHenry's Speaker Pro Tempore Powers](patrick_mchenry_expanded_speaker_pro_tempore_proposal.md): same source document (doc_0223)
+- [The Republican Holdouts' Case Against Jim Jordan](republican_holdouts_case_against_jim_jordan.md): same source document (doc_0223)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

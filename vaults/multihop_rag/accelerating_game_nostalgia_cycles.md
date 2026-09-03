@@ -11,10 +11,17 @@ The ground is a direct comparison of lookback distances: World of Warcraft Class
 
 ## Related Notes
 
+
 - [Fortnite's Chapter 1 Map Return](fortnite_chapter_1_map_return.md): same source document; the much shorter lookback being explained.
 - [Gaming's Nostalgia Trend, 2023](gaming_nostalgia_trend_2023.md): same source document; the wider appetite this acceleration sits inside.
 - [Fortnite's Battle Royale Live-Service Model](fortnite_battle_royale_live_service_model.md): same source document; the rapid seasonal churn that creates recent history to be nostalgic for.
 - [Disney Legacy Projects Are Financially Safe](disney_legacy_projects_are_financially_safe.md): overlaps in content on remakes and nostalgia, from a different source document.
+- [Fortnite's Map As A Source Of Player Nostalgia](fortnite_map_as_source_of_player_nostalgia.md): same source document (doc_0549)
+- [Fortnite OG Streamer Promotion Campaign](fortnite_og_streamer_promotion_campaign.md): same source document (doc_0549)
+- [Fortnite's Peak And Current Popularity](fortnite_peak_and_current_popularity.md): same source document (doc_0549)
+- [Game Preservation And The Ship Of Theseus Problem](game_preservation_ship_of_theseus_problem.md): same source document (doc_0549)
+- [Nostalgia Demand And Developer Incentives](nostalgia_demand_and_developer_incentives.md): same source document (doc_0549)
+- [Nostalgia-Driven Major Game Releases, 2023](nostalgia_driven_major_game_releases_2023.md): same source document (doc_0549)
 
 ## Source
 

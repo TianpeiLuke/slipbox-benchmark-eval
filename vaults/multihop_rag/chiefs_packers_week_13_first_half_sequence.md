@@ -13,11 +13,18 @@ Kansas City responded with a field goal. Patrick Mahomes led the Chiefs out for 
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also concerns Green Bay, from a different document.
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also concerns Green Bay, from a different document.
 - [Buffalo Bills Defensive Injuries 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): also discusses Kansas City, from a different document.
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): also covers Isiah Pacheco and Kansas City, from a different document.
 - [Chiefs Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): another first-half live blog featuring Kansas City, from a different document.
+- [Broadcast And Kickoff Details For Chiefs-Packers Week 13](chiefs_packers_week_13_broadcast_and_kickoff_details.md): same source document (doc_0034)
+- [Fourth Quarter Sequence Of Packers-Chiefs Week 13](chiefs_packers_week_13_fourth_quarter_sequence.md): same source document (doc_0034)
+- [Packers Edge Chiefs 27-19 On Week 13 Sunday Night Football](chiefs_packers_week_13_snf_final_result.md): same source document (doc_0034)
+- [Third Quarter Sequence Of Packers-Chiefs Week 13](chiefs_packers_week_13_third_quarter_sequence.md): same source document (doc_0034)
+- [Jordan Love's Week 13 Performance Against Kansas City](jordan_love_2023_breakout_season.md): same source document (doc_0034)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

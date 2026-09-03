@@ -13,6 +13,7 @@ Polygon's Halloween Countdown write-up of 2023-10-10 calls it one of the most po
 
 ## Related Notes
 
+
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
 - [American Horror Story: NYC Season](american_horror_story_nyc_season.md): a fellow entry in the same countdown document
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 list
@@ -21,6 +22,8 @@ Polygon's Halloween Countdown write-up of 2023-10-10 calls it one of the most po
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same best-of document
 - [Barbenheimer Summer 2023 Phenomenon](barbenheimer_summer_2023_phenomenon.md): the year-in-review framing published with the movie list
 - [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): another entry from the same ranked list
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): same source document (doc_0094)
+- [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): same source document (doc_0094)
 
 ## Source
 

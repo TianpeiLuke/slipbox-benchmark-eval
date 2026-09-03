@@ -13,12 +13,18 @@ The streaming options were consistent across those games. In the United States, 
 
 ## Related Notes
 
+
 - [Bears Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): another game-broadcast listing covering play-by-play crews and streaming partners.
 - [Bills Bengals SNF Broadcast Details](bills_bengals_snf_broadcast_details.md): also names Cris Collinsworth and Melissa Stark.
 - [Bills Bengals SNF Pregame Notes](bills_bengals_snf_pregame_notes.md): also concerns Sunday Night Football.
 - [Bills Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): also concerns Sunday Night Football.
 - [Blackhawks Penguins 2023 Broadcast Coverage](blackhawks_penguins_2023_broadcast_coverage.md): another broadcast listing built around play-by-play and Fubo streaming.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): one of the games this broadcast package covered, same source document.
+- [Chiefs Beat Jets 23-20 On Week 4 Sunday Night Football](chiefs_beat_jets_week_4_sunday_night_recap.md): same source document (doc_0200)
+- [Chiefs-Jets First Half: A 17-0 Start Trimmed To 20-12 At Halftime](chiefs_jets_first_half_live_blog.md): same source document (doc_0200)
+- [Chiefs-Jets Pregame: Taylor Swift In Donna Kelce's Box, Rodgers Back On The Sideline](chiefs_jets_pregame_notes_taylor_swift_and_rodgers.md): same source document (doc_0200)
+- [Chiefs-Jets Second Half: Wilson's Fumble Decides A 23-20 Final](chiefs_jets_second_half_live_blog.md): same source document (doc_0200)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

@@ -11,11 +11,19 @@ With Isiah Pacheco (shoulder) banged up, Rice seemed like Kansas City's best ski
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also concerns Green Bay, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): also covers Garrett Wilson, from a different document.
 - [Backlash to Travis Kelce's Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): also covers Travis Kelce, from a different document.
 - [Backlash to Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also covers Travis Kelce, from a different document.
 - [Baker Mayfield's Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): also covers Tampa Bay, from a different document.
+- [The DFS Sleeper And Value Lineup Construction Method](dfs_sleeper_and_value_lineup_construction_method.md): same source document (doc_0544)
+- [NFL DFS Week 15 Defense And Special Teams Values](nfl_dfs_week_15_defense_special_teams_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Quarterback Values](nfl_dfs_week_15_quarterback_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Running Back Values](nfl_dfs_week_15_running_back_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Tight End Values](nfl_dfs_week_15_tight_end_values.md): same source document (doc_0544)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

@@ -11,6 +11,7 @@ On the first weekend of December 2023 the holdover titles behind "Renaissance" w
 
 ## Related Notes
 
+
 - [Joker Folie a Deux](joker_folie_a_deux.md): another Joaquin Phoenix vehicle, from a different source document.
 - [Napoleon Ridley Scott Film](napoleon_ridley_scott_film.md): the Ridley Scott/Joaquin Phoenix film covered separately, from a different source document.
 - [Spill Tea Party Feature and Celebrity Users](spill_tea_party_feature_and_celebrity_users.md): also discusses Sony Pictures, from a different source document.
@@ -19,6 +20,8 @@ On the first weekend of December 2023 the holdover titles behind "Renaissance" w
 - [Amc Theatres Direct Distribution of Concert Films](amc_theatres_direct_distribution_of_concert_films.md): another note drawn from the same source document (doc_0173).
 - [December 2023 Box Office Weekend Slowdown](december_2023_box_office_weekend_slowdown.md): the soft weekend that produced these totals (doc_0173).
 - [Godzilla Minus One US Opening](godzilla_minus_one_us_opening.md): the new release that placed between these holdovers (doc_0173).
+- ["Renaissance: A Film by Beyoncé" Opens At $21 Million](renaissance_beyonce_concert_film_opening.md): same source document (doc_0173)
+- [Comparing "Renaissance" And "The Eras Tour" As Concert Films](renaissance_versus_eras_tour_concert_film_comparison.md): same source document (doc_0173)
 
 ## Source
 

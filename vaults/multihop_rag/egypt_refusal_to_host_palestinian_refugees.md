@@ -13,12 +13,18 @@ The warrant tying these grounds to the policy is that the domestic political cos
 
 ## Related Notes
 
+
 - [Be'eri Kibbutz Casualties And Displaced Residents](beeri_kibbutz_casualties_and_displaced_residents.md): overlapping coverage of refugees, Gaza and Israel from a different source document.
 - [Gaza Conflict Information Environment Late 2023](gaza_conflict_information_environment_late_2023.md): overlapping coverage of Palestinians, Gaza and Israel, from a different source document.
 - [Humanitarian Corridor Proposal For Gaza](humanitarian_corridor_proposal_for_gaza.md): overlapping coverage of Egypt, Gaza and Israel, from a different source document.
 - [UNRWA As A Parallel Government In Gaza](unrwa_as_parallel_government_in_gaza.md): overlapping coverage of Palestinian refugees in Gaza, from a different source document.
 - [West Bank And Gaza Casualties October-November 2023](west_bank_and_gaza_casualties_october_november_2023.md): overlapping coverage of Palestinians and displacement, from a different source document.
 - [1991 Gulf War Egyptian Debt Forgiveness](1991_gulf_war_egyptian_debt_forgiveness.md): drawn from the same source document (doc_0218).
+- [The Cairo Diplomatic Surge And The 2023 Summit For Peace](cairo_diplomatic_surge_and_summit_for_peace_2023.md): same source document (doc_0218)
+- [Egypt's Economic Crisis And Its IMF Rescue Program](egypt_economic_crisis_and_imf_rescue_program.md): same source document (doc_0218)
+- [Egypt's Role In The Israel-Hamas War And The Leverage It Creates](egypt_role_in_israel_hamas_war_and_western_leverage.md): same source document (doc_0218)
+- [Egypt's Strategic Value To Europe: Gas And Security](egypt_strategic_value_to_europe_gas_and_security.md): same source document (doc_0218)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

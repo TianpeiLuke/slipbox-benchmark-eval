@@ -13,6 +13,7 @@ The constraints supply the other. The Big Ten itself doesn't have investigators,
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): covers the championship game a ban would affect, from a different document.
 - [Alabama's CFP-Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also discusses the Big Ten, from a different document.
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): covers the wider run of scandals shaping this decision, from a different document.
@@ -20,6 +21,9 @@ The constraints supply the other. The Big Ten itself doesn't have investigators,
 - [Big Ten Head Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): covers the rule that offers a route around punishing players, from a different document.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): the pressure this dilemma responds to, from the same article.
 - [Connor Stalions' Central Michigan Sideline Investigation](connor_stalions_central_michigan_sideline_investigation.md): the incident the source cites as tipping things out of hand, from the same article.
+- [The Case That Michigan's Sign-Stealing Was Systematic Cheating](case_that_michigan_sign_stealing_was_systematic_cheating.md): same source document (doc_0504)
+- [Michigan Expected To Face No Big Ten Penalty Before The Season's End](michigan_expected_to_face_no_big_ten_penalty_before_season_end.md): same source document (doc_0504)
+- [The NCAA Investigation Into Michigan's Scouting Scheme](ncaa_investigation_into_michigan_scouting_scheme.md): same source document (doc_0504)
 
 ## Source
 

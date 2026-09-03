@@ -13,6 +13,7 @@ Its defense on why identification is imperfect is a claim about the state of the
 
 ## Related Notes
 
+
 - [Critique Of Meta's App Store Parental Approval Proposal](critique_of_meta_app_store_parental_approval_proposal.md): another exchange over where responsibility for underage users sits, from a different document in this sub-plan.
 - [Meta's Proposal: Parental Approval For App Downloads At The App Store](meta_proposal_app_store_parental_approval.md): Meta's own policy answer to the age-verification problem it cites here, from a different document in this sub-plan.
 - [Arturo Bejar's Critique Of Meta's Teen Safety Self-Regulation](meta_teen_safety_self_regulation_and_bejar_critique.md): a whistleblower's version of the efficacy dispute, from a different document in this sub-plan.
@@ -21,6 +22,8 @@ Its defense on why identification is imperfect is a claim about the state of the
 - [The COPPA Allegations Against Meta](coppa_allegations_against_meta.md): drawn from the same source document (doc_0304), and states the case this responds to.
 - [Lawsuit Redactions As Signal: The Amazon Precedent](lawsuit_redactions_as_signal_amazon_precedent.md): drawn from the same source document (doc_0304).
 - [Meta's Internal Data On Under-13 Users](meta_internal_under_13_user_data.md): drawn from the same source document (doc_0304), and supplies the documents Meta calls cherry-picked.
+- [Meta Researchers Avoided Documenting Under-13 Users](meta_researchers_avoided_documenting_under_13_users.md): same source document (doc_0304)
+- [Meta's Under-13 Policy Versus Its Internal Growth Goals](meta_under_13_policy_versus_internal_growth_goals.md): same source document (doc_0304)
 
 ## Source
 

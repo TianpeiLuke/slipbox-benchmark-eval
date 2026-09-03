@@ -13,6 +13,7 @@ During their conversations, Geerts opened up about having a baby when she was ju
 
 ## Related Notes
 
+
 - [Last-Minute Digital Gifts and Subscriptions Guide](last_minute_digital_gifts_and_subscriptions_guide.md): also concerns Christmas Day, from a different source document.
 - [Liverpool-Arsenal Draw at Anfield, December 2023](liverpool_arsenal_draw_at_anfield_december_2023.md): also concerns Christmas Day, from a different source document.
 - [Longfellow's "I Heard the Bells", 1863](longfellow_i_heard_the_bells_origin_1863.md): also concerns Christmas Day, from a different source document.
@@ -21,6 +22,8 @@ During their conversations, Geerts opened up about having a baby when she was ju
 - [Bazella's Adoption and Booth Memorial Hospital](bazella_adoption_and_booth_memorial_hospital.md): drawn from the same source document, doc_0067.
 - [Bazella and Geerts' Shared Traits and Lost Years](bazella_and_geerts_shared_traits_and_lost_years.md): drawn from the same source document, doc_0067.
 - [Bazella's Mistaken Birth Mother, 1983](bazellas_mistaken_birth_mother_1983.md): drawn from the same source document, doc_0067.
+- [Diane Bazella's Switched-at-Birth Reunion](diane_bazella_switched_at_birth_reunion.md): same source document (doc_0067)
+- [A DNA Test Uncovers the Hospital Baby Switch](dna_test_uncovers_the_hospital_baby_switch.md): same source document (doc_0067)
 
 ## Source
 

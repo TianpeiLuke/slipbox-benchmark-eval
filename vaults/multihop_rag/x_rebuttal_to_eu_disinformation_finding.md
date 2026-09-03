@@ -11,9 +11,17 @@ The thread claims the data shows other social networking services saw greater ch
 
 ## Related Notes
 
+
 - [Platform Truth Arbitration](platform_truth_arbitration.md): also covers Community Notes, from a different source document.
 - [Scope of EU DSA Investigation into X](scope_of_eu_dsa_investigation_into_x.md): also covers Community Notes, from a different source document.
 - [X Moderation Capacity](x_moderation_capacity.md): also covers Community Notes, from a different source document.
+- [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): same source document (doc_0396)
+- [Musk's Removal Of Trust Signals And The Turn To Community Notes](musk_removal_of_trust_signals_and_community_notes.md): same source document (doc_0396)
+- [X's Exit From The EU Disinformation Code Under Musk](x_exit_from_eu_disinformation_code_under_musk.md): same source document (doc_0396)
+- [X Found To Have The Worst Disinformation Ratio In EU Analysis](x_platform_worst_disinformation_ratio_eu_finding.md): same source document (doc_0396)
+- [X's Revenue Decline And The Information-Network Decay Argument](x_revenue_decline_and_information_network_decay_argument.md): same source document (doc_0396)
+- [Community Notes](term_community_notes.md): uses the concept community notes
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

@@ -11,12 +11,19 @@ The month before the 9 December 2023 article, that infighting came to OpenAI's b
 
 ## Related Notes
 
+
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): also concerns Elon Musk's interventions in AI, from a different source document.
 - [BlackBerry Matt Johnson Film](blackberry_matt_johnson_film.md): also concerns Silicon Valley, from a different source document.
 - [ChatGPT 100 Million User Milestone](chatgpt_100_million_user_milestone.md): also concerns Sam Altman and ChatGPT's impact, from a different source document.
 - [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): also concerns Sam Altman's company, from a different source document.
 - [ChatGPT First Year Overview](chatgpt_first_year_overview.md): also concerns Silicon Valley and ChatGPT, from a different source document.
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): drawn from the same article and gives the dinner that led to this founding.
+- [AlphaGo As Evidence For AI Risk Concerns](alphago_as_evidence_for_ai_risk_concerns.md): same source document (doc_0027)
+- [Anthropic's Founding By Former OpenAI Researchers](anthropic_founding_by_openai_researchers.md): same source document (doc_0027)
+- [DeepMind's Ethics Board And Its Single Meeting In 2015](deepmind_ethics_board_single_meeting_2015.md): same source document (doc_0027)
+- [DeepMind's Founding And Thiel's Investment](deepmind_founding_and_thiel_investment.md): same source document (doc_0027)
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

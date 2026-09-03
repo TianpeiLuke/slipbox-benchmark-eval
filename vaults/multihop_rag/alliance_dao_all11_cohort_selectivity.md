@@ -11,6 +11,7 @@ Qiao Wang, a core contributor at Alliance DAO, characterized the batch during Al
 
 ## Related Notes
 
+
 - [Alliance DAO Accelerator Program](alliance_dao_accelerator_program.md): same source document; the program these applicants were competing to enter.
 - [Alliance DAO All11 Mentor Roster](alliance_dao_all11_mentor_roster.md): same source document; who advises the six graduating teams.
 - [Crypto Bear Market Startup Conditions](crypto_bear_market_startup_conditions.md): same source document; Wang's reading of the funding cycle that the drop in applications sits within.
@@ -18,6 +19,9 @@ Qiao Wang, a core contributor at Alliance DAO, characterized the batch during Al
 - [Kravata, LatAm Fiat-Crypto On-Ramp](kravata_latam_fiat_crypto_onramp.md): same source document; another of the presenting startups.
 - [Inco Encrypted EVM FHE Network](inco_encrypted_evm_fhe_network.md): same source document; another of the presenting startups.
 - [VTuber Graduations And Agency Branch Shutdowns](vtuber_graduations_and_agency_branch_shutdowns.md): overlaps in content on graduating cohorts shrinking, from a different source document.
+- [Doubts About The AI Alliance's Effectiveness](doubts_about_ai_alliance_effectiveness.md): content overlap 0.11 on alliance, number; different source document
+- [Sleepagotchi, NFT-Powered Sleep Game](sleepagotchi_nft_sleep_game.md): same source document (doc_0465)
+- [Tailwind, Cosmos-Based Smart Wallet](tailwind_cosmos_smart_wallet.md): same source document (doc_0465)
 
 ## Source
 

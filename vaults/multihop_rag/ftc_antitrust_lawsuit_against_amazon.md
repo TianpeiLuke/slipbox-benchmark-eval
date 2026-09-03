@@ -11,12 +11,14 @@ The mechanism the FTC describes is an "anti-discounting strategy" backed by a "m
 
 ## Related Notes
 
+
 - [Big Tech Declines and the Amazon FTC Antitrust Lawsuit](big_tech_declines_and_amazon_ftc_antitrust_lawsuit.md): the market reaction to the same FTC filing, from a different source document.
 - [Criticism of Far Off AI Risk Focus and FTC Probe](criticism_of_far_off_ai_risk_focus_and_ftc_probe.md): also discusses Federal Trade Commission, from a different source document.
 - [Amazon Buy Box Price Parity Enforcement](amazon_buy_box_price_parity_enforcement.md): the seller experience at the core of the complaint (doc_0002).
 - [Amazon Seller Fee and Pricing Complaints](amazon_seller_fee_and_pricing_complaints.md): the fee grievances the complaint builds on (doc_0002).
 - [Amazon Seller Skepticism of the FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): merchants who question the FTC's chosen issues (doc_0002).
 - [Amazon Seller Support for the FTC Case](amazon_seller_support_for_the_ftc_case.md): merchants who welcomed the suit (doc_0002).
+- [Antitrust](term_antitrust.md): uses the concept antitrust
 
 ## Source
 

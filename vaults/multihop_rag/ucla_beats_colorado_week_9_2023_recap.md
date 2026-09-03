@@ -13,11 +13,15 @@ Kickoff was 7:30 p.m. ET (4:30 p.m. PT) at Rose Bowl Stadium in California. Preg
 
 ## Related Notes
 
+
 - [CFP Semifinal Rose and Sugar Bowl Matchups](cfp_semifinal_rose_and_sugar_bowl_matchups.md): also concerns the Rose Bowl.
 - [College Football Week 6 2023 Remaining Betting Lines](college_football_week6_2023_remaining_betting_lines.md): also discusses Oregon State.
 - [Colorado 27-24 Arizona State 2023 Recap](colorado_27_24_arizona_state_2023_recap.md): also discusses Shedeur Sanders.
 - [Colorado Arizona State 2023 First Half](colorado_arizona_state_2023_first_half.md): also discusses Shedeur Sanders.
 - [Colorado Arizona State 2023 Pregame Notes](colorado_arizona_state_2023_pregame_notes.md): overlapping Colorado and Sanders coverage from a different document.
+- [ABC's Broadcast Of The Colorado-UCLA Primetime Pac-12 Game](colorado_ucla_abc_broadcast_and_streaming.md): same source document (doc_0225)
+- [Colorado-UCLA Live Blog: Four Bruins Turnovers, A Targeting Ejection, And A 28-16 Finish](colorado_ucla_game_live_blog.md): same source document (doc_0225)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

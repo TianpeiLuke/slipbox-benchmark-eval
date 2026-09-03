@@ -11,6 +11,7 @@ Its defining property is sequence specificity. "The real draw of it is that it i
 
 ## Related Notes
 
+
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): another Live Science look at treatments still years from delivery.
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): another Live Science account of a therapy's mechanism and its limits.
 - [Cannabis Use in Pregnancy: JAMA Study Findings](cannabis_use_in_pregnancy_jama_study_findings.md): another Live Science health report.
@@ -19,6 +20,8 @@ Its defining property is sequence specificity. "The real draw of it is that it i
 - [Antibiotic Stewardship Practices](antibiotic_stewardship_practices.md): from the same article, on the measures needed before such treatments arrive.
 - [Bacteriophage Therapy Basics](bacteriophage_therapy_basics.md): from the same article, describing the phage vehicle used for delivery.
 - [Beyond Antibiotics: The Emerging Therapeutic Arsenal](beyond_antibiotics_emerging_therapeutic_arsenal.md): from the same article, which names CRISPR among the alternatives to antibiotics.
+- [The Brussels Airport Bombing Superbug Case](brussels_airport_bombing_superbug_case.md): same source document (doc_0566)
+- [The CRISPR-Cas System Mechanism](crispr_cas_system_mechanism.md): same source document (doc_0566)
 
 ## Source
 

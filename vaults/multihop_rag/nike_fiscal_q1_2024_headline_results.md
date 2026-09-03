@@ -11,11 +11,18 @@ Measured against a survey of analysts by LSEG, formerly Refinitiv, earnings per 
 
 ## Related Notes
 
+
 - [Alameda Research](alameda_research.md): another note reporting billion-scale revenue and trading figures.
 - [Check Point Recent Quarterly Financials](check_point_recent_quarterly_financials.md): a comparable quarterly earnings-and-revenue report.
 - [Cleveland-Cliffs Q3 2023 Earnings Preview](cleveland_cliffs_q3_2023_earnings_preview.md): another analyst-expectation-versus-results comparison.
 - [Cyber Week 2023 Online Spend Forecasts](cyber_week_2023_online_spend_forecasts.md): related consumer-spending context for the same retail period.
 - [GameStop Q3 FY2023 Earnings Preview](gamestop_q3_fy2023_earnings_preview.md): another retail earnings report framed against analyst estimates.
+- [Nike Direct-to-Consumer Channel Performance](nike_direct_to_consumer_channel_performance.md): same source document (doc_0215)
+- [Nike Fiscal 2024 Revenue and Margin Guidance](nike_fiscal_2024_revenue_and_margin_guidance.md): same source document (doc_0215)
+- [Nike Greater China Sales Recovery](nike_greater_china_sales_recovery.md): same source document (doc_0215)
+- [Nike Gross Margin Fiscal Q1 2024](nike_gross_margin_fiscal_q1_2024.md): same source document (doc_0215)
+- [Nike Inventory Reduction Fiscal Q1 2024](nike_inventory_reduction_fiscal_q1_2024.md): same source document (doc_0215)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

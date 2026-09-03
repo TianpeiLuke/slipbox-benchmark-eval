@@ -11,6 +11,7 @@ Technological sophistication and massive investment in intelligence means have g
 
 ## Related Notes
 
+
 - [Hamas October 7 2023 Surprise Attack on Israel](hamas_october_7_2023_surprise_attack_on_israel.md): the attack itself, from a different source document.
 - [Berlin Wall Low Tech Defense Lesson](berlin_wall_low_tech_defense_lesson.md): another note drawn from the same source document (doc_0078).
 - [Gaza Border Barrier Construction](gaza_border_barrier_construction.md): another note drawn from the same source document (doc_0078).
@@ -19,6 +20,8 @@ Technological sophistication and massive investment in intelligence means have g
 - [Israeli Leaders Claims About the Gaza Barrier](israeli_leaders_claims_about_the_gaza_barrier.md): another note drawn from the same source document (doc_0078).
 - [Israeli Restraint Policy Toward Gaza](israeli_restraint_policy_toward_gaza.md): another note drawn from the same source document (doc_0078).
 - [October 7 and the Technological Failure of the Barrier](october_7_technological_failure_of_the_barrier.md): the surprise these intelligence gaps helped enable (doc_0078).
+- [Officer Technological Literacy And The Need For Redundancy](officer_technological_literacy_and_system_redundancy.md): same source document (doc_0078)
+- [Strategic Surprise As A Recurring Pattern](strategic_surprise_pattern_across_history.md): same source document (doc_0078)
 
 ## Source
 

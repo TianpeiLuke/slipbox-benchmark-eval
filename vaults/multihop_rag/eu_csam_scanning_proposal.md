@@ -19,9 +19,22 @@ Two features of the campaign's content distinguish it from routine institutional
 
 ## Related Notes
 
+
 - [BEUC Consumer Complaint On Meta Pay Or Consent](beuc_consumer_complaint_meta_pay_or_consent.md): another EU-level challenge over consent and personal data, and it also touches the Czech Republic, from a different source document.
 - [The Scope Of The 23andMe Data Breach](23andme_data_breach_scope.md): shares the data-breach and data-privacy themes, from a different source document.
 - [Apple iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares the data-privacy and political-lobbying themes, from a different source document.
+- [Australia's Davis Cup Semi-Final Win Over Finland](australia_davis_cup_semi_final_win_over_finland.md): both discuss Czech Republic; different source document
+- [Australia vs Italy: 2023 Davis Cup Final Preview](australia_italy_davis_cup_final_2023_preview.md): both discuss Czech Republic; different source document
+- [The Commission's Microtargeted Ad Campaign For CSAM Scanning](commission_microtargeted_ad_campaign.md): same source document (doc_0457)
+- [Johansson's Rebuttals To The Case Against The CSAM Scanning Proposal](csam_proposal_opposition.md): same source document (doc_0457)
+- [The Commission's Defence Of Political Ad Targeting And The Channels MEPs Say It Bypassed](dsa_political_ad_restrictions.md): same source document (doc_0457)
+- [Fotiadis Testimony And Johansson's Lobbying Contacts At The LIBE Hearing](johansson_parliament_hearing.md): same source document (doc_0457)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [CSAM Scanning](term_csam_scanning.md): uses the concept csam scanning
+- [Very Large Online Platform (VLOP)](term_very_large_online_platform.md): uses the concept very large online platform
+- [Microtargeting](term_microtargeting.md): uses the concept microtargeting
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

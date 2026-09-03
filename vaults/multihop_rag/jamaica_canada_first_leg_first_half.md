@@ -17,11 +17,18 @@ The goal came in stoppage time. Cyle Larin responded to a bouncing ball inside t
 
 ## Related Notes
 
+
 - [Andre Onana's Goalkeeping Errors in the 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also involves Aston Villa, from a different document.
 - [Canada-Jamaica Second Leg First Half](canada_jamaica_second_leg_first_half.md): also features Alphonso Davies and Andre Blake, separately sourced.
 - [Canada-Jamaica Second Leg Result](canada_jamaica_second_leg_result.md): the return leg with the same protagonists, in a different document.
 - [Canada-Jamaica Second Leg Second Half](canada_jamaica_second_leg_second_half.md): also covers Cyle Larin and the Copa America stakes, from a separate source.
 - [Canada-Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also concerns Alphonso Davies and Jonathan David, in a different document.
+- [Canada's Path To Copa America 2024 Qualification](canada_copa_america_2024_qualification_path.md): same source document (doc_0157)
+- [Fallout From John Herdman's Departure From Canada Soccer](canada_soccer_john_herdman_departure_fallout.md): same source document (doc_0157)
+- [How To Watch Jamaica vs Canada, First Leg](jamaica_canada_first_leg_broadcast.md): same source document (doc_0157)
+- [The Rain Postponement Of Jamaica vs Canada](jamaica_canada_first_leg_rain_postponement.md): same source document (doc_0157)
+- [Canada Beat Jamaica 2-1 In The Nations League Quarterfinal First Leg](jamaica_canada_first_leg_result.md): same source document (doc_0157)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

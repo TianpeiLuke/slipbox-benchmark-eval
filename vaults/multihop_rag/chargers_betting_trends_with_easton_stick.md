@@ -11,11 +11,19 @@ Given how badly the team was shredded on Thursday Night Football the week before
 
 ## Related Notes
 
+
 - [Chargers 6-0 Patriots Shutout, Week 13](chargers_6_0_patriots_shutout_week_13.md): covers the Chargers with Justin Herbert healthy, from a different document.
 - [Fantasy Week 13 Chargers at Patriots Outlook](fantasy_week_13_chargers_at_patriots_outlook.md): also covers Justin Herbert, from a different document.
 - [Jordan Love Week 5 2023 Start Recommendation](jordan_love_week5_2023_start_recommendation.md): also covers Justin Herbert, from a different document.
 - [Keenan Allen Chargers Midseason MVP](keenan_allen_chargers_midseason_mvp.md): covers the same Chargers season from the player side, from a different document.
 - [Long Beach State 49ers Profile and USC Betting Odds](long_beach_state_49ers_profile_and_usc_betting_odds.md): shares the coaching-change and betting-odds themes, from a different document.
+- [Buffalo's Against-The-Spread Trends In 2023](bills_against_the_spread_trends_2023.md): same source document (doc_0376)
+- [Bills vs. Chargers Week 16 Matchup Preview](bills_chargers_week_16_matchup_preview.md): same source document (doc_0376)
+- [Why Sporting News Picked The Bills In Week 16](bills_chargers_week_16_pick_and_rationale.md): same source document (doc_0376)
+- [Bills vs. Chargers Week 16 Player Props](bills_chargers_week_16_player_props.md): same source document (doc_0376)
+- [Buffalo's AFC Wild Card Position Going Into Week 16](buffalo_bills_afc_wild_card_position_week_16.md): same source document (doc_0376)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

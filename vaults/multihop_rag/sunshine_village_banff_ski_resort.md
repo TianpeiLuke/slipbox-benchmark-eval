@@ -11,6 +11,7 @@ The trade-off is where you sleep. Banff is the place to stay for livelier evenin
 
 ## Related Notes
 
+
 - [Niseko, Japan Ski Resort](niseko_japan_ski_resort.md): another resort priced from London Heathrow, in a different guide
 - [Vail, Colorado Ski Resort](vail_colorado_ski_resort.md): another resort priced from London Heathrow, in a different guide
 - [Big White Ski Resort, British Columbia](big_white_ski_resort_british_columbia.md): another Canadian resort from the same guide
@@ -19,6 +20,7 @@ The trade-off is where you sleep. Banff is the place to stay for livelier evenin
 - [Lake Louise Ski Resort, Banff](lake_louise_ski_resort_banff.md): the neighbouring Banff resort 40 minutes away, from the same guide
 - [Mont Tremblant, Quebec Ski Resort](mont_tremblant_quebec_ski_resort.md): another Canadian resort from the same guide
 - [Revelstoke Mountain Ski Resort](revelstoke_mountain_ski_resort.md): another Canadian resort from the same guide
+- [Whistler Blackcomb: North America's Largest Ski Resort](whistler_blackcomb_ski_resort.md): same source document (doc_0572)
 
 ## Source
 

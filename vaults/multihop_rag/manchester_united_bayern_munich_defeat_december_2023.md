@@ -13,11 +13,18 @@ The atmosphere matched the performance. There was no energy or intensity; the St
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also covers Bayern Munich in the Champions League, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also covers Bayern Munich in the Champions League, from a different document.
 - [Bruno Fernandes' Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): also concerns Bruno Fernandes, from a different document.
 - [Calendar Year 2023 Top Goalscorer Race](calendar_year_2023_top_goalscorer_race.md): also concerns Harry Kane, from a different document.
 - [Carabao Cup 2023-24 Quarter-Final Results](carabao_cup_2023_24_quarterfinal_results.md): also concerns Old Trafford, from a different document.
+- [Andre Onana's Goalkeeping Errors In The 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): same source document (doc_0546)
+- [Erik Ten Hag's Position After The Champions League Exit](erik_ten_hag_position_after_champions_league_exit.md): same source document (doc_0546)
+- [Erik Ten Hag's Selection U-Turns On Varane And Maguire](erik_ten_hag_selection_u_turns_varane_maguire.md): same source document (doc_0219)
+- [Harry Kane, The Striker Manchester United Did Not Sign](harry_kane_the_striker_manchester_united_did_not_sign.md): same source document (doc_0546)
+- [Manchester United's 2023-24 Champions League Group-Stage Record](manchester_united_champions_league_group_stage_record_2023.md): same source document (doc_0546)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

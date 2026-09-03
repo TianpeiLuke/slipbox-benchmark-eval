@@ -13,6 +13,7 @@ It also has a carabiner hook — everything she has ever wanted in a rubber case
 
 ## Related Notes
 
+
 - [Microsoft Store Price Protection](microsoft_store_price_protection.md): also features Vjeran Pavic's work, from a different source document.
 - [Ray-Ban Meta Camera Quality And Quirks](ray_ban_meta_camera_quality_and_quirks.md): also features Becca Farsace's work, from a different source document.
 - [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): drawn from the same source document (doc_0575).
@@ -21,6 +22,8 @@ It also has a carabiner hook — everything she has ever wanted in a rubber case
 - [Baboon To The Moon Fanny Pack](baboon_to_the_moon_fanny_pack.md): drawn from the same source document (doc_0575).
 - [The Bedside Charging Station Habit](bedside_charging_station_habit.md): drawn from the same source document (doc_0575).
 - [ChomChom Pet Hair Remover](chomchom_pet_hair_remover.md): drawn from the same source document (doc_0575).
+- [Epicka Universal Travel Adapter](epicka_universal_travel_adapter.md): same source document (doc_0575)
+- [FoodSaver Vacuum Sealer](foodsaver_vacuum_sealer.md): same source document (doc_0575)
 
 ## Source
 

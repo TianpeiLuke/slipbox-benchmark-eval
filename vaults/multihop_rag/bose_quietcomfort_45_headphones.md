@@ -13,11 +13,23 @@ Engadget's headphone-specific Prime Day list, also 10 October 2023, listed them 
 
 ## Related Notes
 
+
 - [Amazon Echo Buds Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): another noise-cancelling deal listing, different document
 - [Airpods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): comparable premium earbud discounts, different document
 - [Airpods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): another discounted Apple audio listing, different document
 - [Amazon Fire Tv Stick Deals](amazon_fire_tv_stick_deals.md): another discount listing from the same season
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): another battery-powered device deal listing
+- [Amazon's 65-Inch Fire TV QLED Deal](amazon_65_inch_fire_tv_qled_deal.md): same source document (doc_0000)
+- [Amazon's Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): same source document (doc_0000)
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): same source document (doc_0595)
+- [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): same source document (doc_0250)
+- [Amazon Echo Show, Audible And Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): same source document (doc_0000)
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

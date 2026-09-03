@@ -11,12 +11,18 @@ The most concerning ground is specific to Bowles: the team's lapses on defense, 
 
 ## Related Notes
 
+
 - [Buccaneers 21-18 Panthers Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): also covers Tampa Bay in this stretch, from a different document.
 - [NFC Wild Card Hunt After Week 13 2023](nfc_wild_card_hunt_after_week_13_2023.md): also covers Tampa Bay's playoff position, from a different document.
 - [NFL Week 13 Injuries Panthers At Buccaneers](nfl_week_13_injuries_panthers_at_buccaneers.md): also concerns the Buccaneers, from a different document.
 - [Prisco Week 12 Sunday Early Window Picks](prisco_week_12_sunday_early_window_picks.md): overlaps on the Bucs, the division and defense, from a different document.
 - [Aaron Glenn Lions Hot Seat](aaron_glenn_lions_hot_seat.md): another entry in the same roundup, from the same document.
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): another entry in the same roundup, from the same document.
+- [Christian Watson Packers Hot Seat](christian_watson_packers_hot_seat.md): same source document (doc_0437)
+- [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md): same source document (doc_0437)
+- [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): same source document (doc_0437)
+- [Dennis Allen Saints Hot Seat](dennis_allen_saints_hot_seat.md): same source document (doc_0437)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

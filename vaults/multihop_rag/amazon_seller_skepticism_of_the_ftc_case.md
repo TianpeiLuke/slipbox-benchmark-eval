@@ -11,12 +11,19 @@ Even sellers sympathetic to regulating Amazon question the premise that the FTC'
 
 ## Related Notes
 
+
 - [Cma Cgm Diversification Strategy](cma_cgm_diversification_strategy.md): overlaps on covid 19, product launch subject matter, from a different source document.
 - [Concert Ticket Access Barriers](concert_ticket_access_barriers.md): overlaps on antitrust, covid 19 subject matter, from a different source document.
 - [Container Shipping Boom to Bust Cycle 2021 2024](container_shipping_boom_to_bust_cycle_2021_2024.md): overlaps on covid 19, product launch subject matter, from a different source document.
 - [Discogs 2023 Seller Fee Increase](discogs_2023_seller_fee_increase.md): another marketplace fee dispute among sellers, from a different source document.
 - [EU Amazon Prior Settlements and DMA Gatekeeper Status](eu_amazon_prior_settlements_and_dma_gatekeeper.md): the parallel European marketplace scrutiny, from a different source document.
 - [Amazon Buy Box Price Parity Enforcement](amazon_buy_box_price_parity_enforcement.md): the practice these sellers do not dispute (doc_0002).
+- [Seller Complaints About Amazon's Fees And Pricing Policies](amazon_seller_fee_and_pricing_complaints.md): same source document (doc_0002)
+- [Amazon Sellers Who Welcomed The FTC Case](amazon_seller_support_for_the_ftc_case.md): same source document (doc_0002)
+- [The FTC's Antitrust Lawsuit Against Amazon](ftc_antitrust_lawsuit_against_amazon.md): same source document (doc_0002)
+- [Product Launch](term_product_launch.md): uses the concept product launch
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

@@ -13,11 +13,18 @@ The results were: Tuesday, Dec. 19, Everton 1-1 Fulham, Fulham advancing 7-6 on 
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also mentions Old Trafford, from a different document.
 - [Carabao Cup 2023 Quarter Final Draw](carabao_cup_2023_quarter_final_draw.md): covers the same draw at Old Trafford, from a different document.
 - [Champions League 2023-24 Group Stage Overview](champions_league_2023_24_group_stage_overview.md): also concerns Newcastle United, from a different document.
 - [Chelsea Selection Crisis and Fixture Run](chelsea_selection_crisis_and_fixture_run.md): overlaps on Chelsea and Newcastle United, from a different document.
 - [Daniel Garnero Paraguay Head Coach Debut](daniel_garnero_paraguay_head_coach_debut.md): also mentions Newcastle United, from a different document.
+- [Carabao Cup 2023/24 First Round Format And Results](carabao_cup_2023_24_first_round_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): same source document (doc_0100)
+- [What The Carabao Cup Is And What Winning It Is Worth In 2023/24](carabao_cup_2023_24_overview_and_stakes.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Second Round Results](carabao_cup_2023_24_second_round_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Semifinal Draw And Fixtures](carabao_cup_2023_24_semifinal_draw_and_fixtures.md): same source document (doc_0100)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

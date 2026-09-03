@@ -13,11 +13,19 @@ The timeline to a public launch is not yet determined, as the company plans to e
 
 ## Related Notes
 
+
 - [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): overlaps on Mastodon instances and fediverse apps, from a different document.
 - [Decentralization As A Free Market, Not An Anti-Capitalist Project](decentralization_as_a_free_market_not_an_anti_capitalist_project.md): overlaps on Mastodon and the decentralized social model, from a different document.
 - [Digital Services Act](digital_services_act.md): shares the content-moderation and misinformation themes, from a different document.
 - [EU DSA Formal Proceedings Against X](eu_dsa_formal_proceedings_against_x.md): shares the content-moderation and disinformation themes, from a different document.
 - [EU Enforcement Against X](eu_enforcement_against_x.md): shares the content-moderation and disinformation themes, from a different document.
+- [The Fediverse And The ActivityPub Protocol](fediverse_activitypub_protocol.md): same source document (doc_0026)
+- [Fediverse Onboarding Barriers And Mozilla's Proposed Fixes](fediverse_onboarding_barriers_and_mozilla_fixes.md): same source document (doc_0026)
+- [Mozilla's Rationale For Investing In The Fediverse](mozilla_fediverse_investment_rationale.md): same source document (doc_0026)
+- [Mozilla.social's Content Discovery Experiments](mozilla_social_content_discovery_experiments.md): same source document (doc_0026)
+- [Mozilla.social's Publisher And Creator Outreach](mozilla_social_publisher_and_creator_outreach.md): same source document (doc_0026)
+- [Content Moderation](term_content_moderation.md): uses the concept content moderation
+- [Disinformation](term_disinformation.md): uses the concept disinformation
 
 ## Source
 

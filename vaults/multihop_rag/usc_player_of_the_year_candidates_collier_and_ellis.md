@@ -13,6 +13,7 @@ Ellis was described as one of college basketball's best scorers, a shot creator 
 
 ## Related Notes
 
+
 - [NBA Prop Bets: Definition and Common Markets](nba_prop_bets_definition_and_common_markets.md): overlaps on points, rebounds and assists as basketball markets, from a different document.
 - [NBA Team Props Versus Player Props](nba_team_props_versus_player_props.md): overlaps on basketball statistical categories, from a different document.
 - [2023 Bowl Season Betting Trends](2023_bowl_season_betting_trends.md): shares the sports-betting-odds theme, from a different document.
@@ -21,6 +22,13 @@ Ellis was described as one of college basketball's best scorers, a shot creator 
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): shares the sports-betting-odds theme, from a different document.
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): shares the sports-betting-odds theme, from a different document.
 - [Bet365 Sportsbook Kentucky](bet365_sportsbook_kentucky.md): shares the sports-betting-odds theme, from a different document.
+- [Bronny James's Collegiate Debut For USC](bronny_james_usc_collegiate_debut.md): same source document (doc_0103)
+- [Long Beach State's Profile And The USC Betting Odds](long_beach_state_49ers_profile_and_usc_betting_odds.md): same source document (doc_0103)
+- [USC's Pac-12 And National Title Futures Position](usc_basketball_futures_odds_pac_12_and_national_title.md): same source document (doc_0103)
+- [USC's Remaining Schedule Gives It A Path Despite The Gonzaga Loss](usc_remaining_2023_24_schedule_outlook.md): same source document (doc_0103)
+- [USC Had Not Forged An Identity Eight Games Into 2023-24](usc_trojans_2023_24_early_season_struggles.md): same source document (doc_0103)
+- [USC's Supporting Cast Around Bronny James](usc_trojans_2023_24_supporting_roster.md): same source document (doc_0103)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

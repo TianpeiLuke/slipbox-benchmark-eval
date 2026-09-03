@@ -13,6 +13,7 @@ The official put the uncertainty plainly during the press briefing: "There are n
 
 ## Related Notes
 
+
 - [Google Gemini Model Family and Capability Claims](google_gemini_model_family_and_capability_claims.md): substantial content overlap on gemini, briefing, gpt-4, from a different source document.
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): shares the lobbying political donations theme, from a different source document.
 - [AI Day of Action Campaign](ai_day_of_action_campaign.md): shares the lobbying political donations theme, from a different source document.
@@ -21,6 +22,16 @@ The official put the uncertainty plainly during the press briefing: "There are n
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): shares the lobbying political donations theme, from a different source document.
 - [Apple Airpods Pro Second Generation](apple_airpods_pro_second_generation.md): shares the game patch notes theme, from a different source document.
 - [Apple iOS Security Fixes and Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares the lobbying political donations theme, from a different source document.
+- [EU AI Act Copyright Obligations For GPAI Makers](eu_ai_act_copyright_obligations_for_gpai_makers.md): same source document (doc_0525)
+- [EU AI Act Phased Entry Into Force Timeline](eu_ai_act_phased_entry_into_force_timeline.md): same source document (doc_0525)
+- [EU AI Act Political Agreement, December 2023](eu_ai_act_political_agreement_december_2023.md): same source document (doc_0525)
+- [EU AI Act Two-Tier Rules For General Purpose AI](eu_ai_act_two_tier_rules_for_general_purpose_ai.md): same source document (doc_0525)
+- [EU AI Act Watermarking And Transparency Obligations](eu_ai_act_watermarking_and_transparency_obligations.md): same source document (doc_0525)
+- [The EU AI Office And Its Scientific Advisory Panel](eu_ai_office_and_scientific_advisory_panel.md): same source document (doc_0525)
+- [The EU AI Pact As A Voluntary Stopgap For GPAI Makers](eu_ai_pact_voluntary_stopgap_for_gpai_makers.md): same source document (doc_0525)
+- [The "General Purpose AI" Terminology Choice In The EU AI Act](general_purpose_ai_terminology_choice_in_eu_ai_act.md): same source document (doc_0525)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

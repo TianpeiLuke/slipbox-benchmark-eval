@@ -15,11 +15,23 @@ Late in the month, Jodo reportedly cut around 100 roles across engineering, cust
 
 ## Related Notes
 
+
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also covers North America, from a different source document.
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): also covers North America, from a different source document.
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs and layoffs and restructuring theme, from a different source document.
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): shares the earnings report and valuation theme, from a different source document.
 - [Apple Airpods Second Third Gen and Airpods Max Deals](apple_airpods_second_third_gen_and_airpods_max_deals.md): shares the battery technology and streaming service theme, from a different source document.
+- [Tech Layoffs 2023: Overview And Totals](tech_layoffs_2023_overview_and_totals.md): same source document (doc_0049)
+- [Tech Layoffs In April 2023](tech_layoffs_april_2023.md): same source document (doc_0049)
+- [Tech Layoffs In August 2023](tech_layoffs_august_2023.md): same source document (doc_0049)
+- [Tech Layoffs In December 2023](tech_layoffs_december_2023.md): same source document (doc_0049)
+- [Tech Layoffs In February 2023](tech_layoffs_february_2023.md): same source document (doc_0049)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

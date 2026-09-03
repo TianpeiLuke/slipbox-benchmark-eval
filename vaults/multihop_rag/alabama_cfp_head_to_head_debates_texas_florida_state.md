@@ -13,6 +13,7 @@ Alabama (12-1) vs. Florida State (13-0) was the fallback: if Saban could not win
 
 ## Related Notes
 
+
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): overlaps heavily on Alabama and the Crimson Tide, from a different document.
 - [Alabama Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): weighs the same Crimson Tide and Florida State comparison, from a different document.
 - [CFP Committee Florida State "Different Team" Justification](cfp_committee_florida_state_different_team_justification.md): also concerns Florida State's case, from a different document.
@@ -21,6 +22,8 @@ Alabama (12-1) vs. Florida State (13-0) was the fallback: if Saban could not win
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): the fixtures these debates hinge on, from the same document.
 - [Alabama 2023 CFP Case and SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): the underlying CFP situation, from the same document.
 - [Alabama 2023 Strength of Schedule and Record Metrics](alabama_2023_strength_of_schedule_and_record_metrics.md): the resume numbers behind the comparison with Texas, from the same document.
+- [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): same source document (doc_0258)
+- [Will Alabama Make The 2023 College Football Playoff?](will_alabama_make_the_2023_college_football_playoff.md): same source document (doc_0258)
 
 ## Source
 

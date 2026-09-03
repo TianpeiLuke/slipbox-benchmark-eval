@@ -13,11 +13,20 @@ Sporting News framed the sequence as a problem of conference image, wondering wh
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): another Big Ten item from a different document.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also covers the Big Ten and Ohio State, separately sourced.
 - [Alabama-Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): another item involving Ohio State, from a different source.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): the coaching pressure referenced here, reported in a different document.
 - [Big Ten Commissioner Petitti's Punishment Dilemma](big_ten_commissioner_petitti_punishment_dilemma.md): the commissioner's decision in the fourth of these scandals, from another source.
+- [The Big Ten Suspends Jim Harbaugh For Three Games](big_ten_suspension_of_jim_harbaugh.md): same source document (doc_0079)
+- [Connor Stalions And The In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): same source document (doc_0079)
+- [Jim Harbaugh's Legacy And Future After The Suspension](jim_harbaugh_legacy_and_future_after_suspension.md): same source document (doc_0079)
+- [Michigan's Program Reputation At Stake](michigan_program_reputation_at_stake.md): same source document (doc_0079)
+- [The Michigan Sign-Stealing Scandal In Outline](michigan_sign_stealing_scandal_overview.md): same source document (doc_0079)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

@@ -13,11 +13,20 @@ The procedure's scope is explicitly limited. It does not apply to obvious lineup
 
 ## Related Notes
 
+
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): shares the draft-pick and playoff-seeding themes, from a different document.
 - [Bears Vikings MNF Playoff And Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): also discusses Justin Jefferson, the player named here as an obvious start, from a different document.
 - [Bye And Free Weeks Complicate Lineup Decisions](bye_free_weeks_complicate_lineup_decisions.md): covers another factor that complicates the same weekly lineup-decision problem, from a different document.
 - [DraftKings Week 14 DFS QB And RB Picks](draftkings_week_14_dfs_qb_and_rb_picks.md): applies matchup reasoning to daily fantasy lineups instead of season-long ones, from a different document.
 - [FanDuel Week 14 DFS QB And RB Picks](fanduel_week_14_dfs_qb_and_rb_picks.md): another daily-fantasy application of the same matchup-driven selection idea, from a different document.
+- [Amari Cooper As A Week 6 2023 Sit Against The 49ers](amari_cooper_week6_2023_sit_recommendation.md): same source document (doc_0149)
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
+- [Dak Prescott As A Week 6 2023 Sit At The Chargers](dak_prescott_week6_2023_sit_recommendation.md): same source document (doc_0149)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

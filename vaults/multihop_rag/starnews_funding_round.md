@@ -15,12 +15,17 @@ Fernand Tchouameni, spokesperson and investment advisor for Aurelien Tchouameni,
 
 ## Related Notes
 
+
 - [Champions League 2023-24 Group C: Real Madrid and Napoli](champions_league_2023_24_group_c_real_madrid_napoli.md): also concerns Real Madrid, from a different source document.
 - [Champions League 2023-24 Group Stage Overview](champions_league_2023_24_group_stage_overview.md): also concerns Real Madrid, from a different source document.
 - [Champions League 2023-24 Round of 16 Qualifiers and Draw](champions_league_2023_24_round_of_16_qualifiers_and_draw.md): also concerns Real Madrid, from a different source document.
 - [Chelsea Women's Team Succession After Hayes](chelsea_womens_team_succession_after_hayes.md): also concerns Real Madrid, from a different source document.
 - [Creator Economy Sustainability](creator_economy_sustainability.md): shares both the creator-economy and venture-capital themes, from a different source document.
 - [African Telco Distribution Model](african_telco_distribution_model.md): the distribution model this round is meant to extend, drawn from the same source document (doc_0456).
+- [StarNews' Content Partnerships And Nigerian Growth](starnews_content_and_growth.md): same source document (doc_0456)
+- [StarNews Mobile As An African Mobile Video Network](starnews_mobile_platform.md): same source document (doc_0456)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

@@ -11,11 +11,17 @@ He kept the good times rolling by shredding Joe Barry's Packers defense to keep 
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also covers Chris Godwin, from a different document.
 - [Buccaneers 21-18 Panthers, Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): also covers Mike Evans, from a different document.
 - [Chiefs-Packers Week 13 Broadcast and Kickoff Details](chiefs_packers_week_13_broadcast_and_kickoff_details.md): also concerns Lambeau Field, from a different document.
 - [Chiefs-Packers Week 13 SNF Final Result](chiefs_packers_week_13_snf_final_result.md): also concerns Lambeau Field, from a different document.
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): also covers Chris Godwin and Tampa Bay, from a different document.
+- [Baker Mayfield's Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): same source document (doc_0447)
+- [Mayfield's Perfect Passer Rating And Road Record](baker_mayfield_perfect_passer_rating_road_record.md): same source document (doc_0447)
+- [Mayfield Against Zone Coverage And At All Four Levels](baker_mayfield_zone_coverage_and_four_level_passing.md): same source document (doc_0447)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

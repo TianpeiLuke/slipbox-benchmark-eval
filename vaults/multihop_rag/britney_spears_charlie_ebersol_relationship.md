@@ -11,6 +11,7 @@ Spears had previously explained what drew her to Ebersol, telling People at the 
 
 ## Related Notes
 
+
 - [Roblox Dating Prediction](roblox_dating_prediction.md): an unrelated article that also concerns dating talk and public speculation
 - [Britney Spears Adnan Ghalib Relationship](britney_spears_adnan_ghalib_relationship.md): an earlier romance from the same timeline article
 - [Britney Spears And Justin Timberlake Relationship](britney_spears_and_justin_timberlake_relationship.md): the first relationship catalogued in the same timeline
@@ -19,6 +20,8 @@ Spears had previously explained what drew her to Ebersol, telling People at the 
 - [Britney Spears Jason Trawick Engagement](britney_spears_jason_trawick_engagement.md): the engagement that ended shortly before this relationship began
 - [Britney Spears Kevin Federline Marriage And Divorce](britney_spears_kevin_federline_marriage_and_divorce.md): her second marriage, in the same timeline
 - [Britney Spears Memoir The Woman In Me](britney_spears_memoir_the_woman_in_me.md): the memoir the timeline was published ahead of
+- [Britney Spears And Sam Asghari: Marriage And Divorce](britney_spears_sam_asghari_marriage_and_divorce.md): same source document (doc_0051)
+- [Britney Spears' Unconfirmed Romances With Wade Robson And Colin Farrell](britney_spears_unconfirmed_romances_wade_robson_and_colin_farrell.md): same source document (doc_0051)
 
 ## Source
 

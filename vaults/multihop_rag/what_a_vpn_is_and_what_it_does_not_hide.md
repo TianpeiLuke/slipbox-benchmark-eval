@@ -15,11 +15,22 @@ Are they safe? Generally yes — VPNs are a safe and reliable way to encrypt and
 
 ## Related Notes
 
+
 - [Apple Blocks Beeper Mini's iMessage Access](apple_blocks_beeper_mini_imessage_access.md): shares the encryption and data-privacy theme, from a different source document.
 - [Beeper Mini Service Restoration And Apple ID Workaround](beeper_mini_service_restoration_and_apple_id_workaround.md): shares the encrypted-connection theme, from a different source document.
 - [ChatGPT's Mid-2023 Usage Decline](chatgpt_mid_2023_usage_decline.md): shares a data-privacy theme tag, from a different source document.
 - [CSAM Proposal Opposition](csam_proposal_opposition.md): shares the encryption and privacy theme, from a different source document.
 - [Inco's Encrypted EVM FHE Network](inco_encrypted_evm_fhe_network.md): also concerns protocols for keeping data private, from a different source document.
+- [CyberGhost, Best For Cross-Platform Accessibility](cyberghost_cross_platform_vpn.md): same source document (doc_0229)
+- [Engadget's VPN Testing Methodology](engadget_vpn_testing_methodology.md): same source document (doc_0229)
+- [ExpressVPN For Streaming, Travel And Gaming](expressvpn_for_streaming_travel_and_gaming.md): same source document (doc_0229)
+- [Google One VPN](google_one_vpn.md): same source document (doc_0229)
+- [ProtonVPN, Best VPN Overall](protonvpn_best_overall_vpn.md): same source document (doc_0229)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Encryption at Rest](term_encryption_at_rest.md): uses the concept encryption at rest
+- [Multi-Factor Authentication (MFA)](term_multi_factor_authentication.md): uses the concept multi factor authentication
+- [Open Source](term_open_source.md): uses the concept open source
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

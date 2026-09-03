@@ -13,6 +13,7 @@ On the larger and design-led sets, WIRED observes that extra-large OLED TVs typi
 
 ## Related Notes
 
+
 - [Prime Day 2023 Beats Studio Buds And Powerbeats Deals](prime_day_2023_beats_studio_buds_and_powerbeats_deals.md): also quotes WIRED's Parker Hall, from a different source document.
 - [AirPods Pro (2nd Generation) Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the discount-versus-MSRP theme, from a different source document.
 - [AirPods Pro (2nd Generation) Lightning Deal](airpods_pro_second_generation_lightning_deal.md): shares the discount-versus-MSRP theme, from a different source document.
@@ -21,6 +22,16 @@ On the larger and design-led sets, WIRED observes that extra-large OLED TVs typi
 - [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): shares the discount-versus-MSRP theme, from a different source document.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the discount-versus-MSRP theme, from a different source document.
 - [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): shares the discount-versus-MSRP theme, from a different source document.
+- [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): same source document (doc_0320)
+- [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Dolby Atmos Soundbar Deals](walmart_cyber_monday_2023_dolby_atmos_soundbar_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Fitness Tracker And Smart Ring Deals](walmart_cyber_monday_2023_fitness_tracker_and_smart_ring_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Home Security Camera Deals](walmart_cyber_monday_2023_home_security_camera_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Kitchen Appliance Deals](walmart_cyber_monday_2023_kitchen_appliance_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Laptop And Gaming Hardware Deals](walmart_cyber_monday_2023_laptop_and_gaming_hardware_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Mesh Wi-Fi Router Deals](walmart_cyber_monday_2023_mesh_wifi_router_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Over-Ear Headphone Deals](walmart_cyber_monday_2023_over_ear_headphone_deals.md): same source document (doc_0320)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

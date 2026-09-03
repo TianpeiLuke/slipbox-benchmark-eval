@@ -11,11 +11,13 @@ After Halsin talks to Art, he decides he needs to peer into another dimension to
 
 ## Related Notes
 
+
 - [Waking Art Cullagh With The Battered Lute](bg3_wake_art_cullagh_battered_lute.md): same source; supplies the lute this stage begins with.
 - [Reuniting Oliver And Thaniel](bg3_reunite_oliver_and_thaniel.md): same source; the next stage, which Halsin sets you on after joining.
 - [Art Cullagh And The Shadow Curse Quest In Baldur's Gate 3](bg3_shadow_curse_and_art_cullagh_quest_overview.md): same source; the overview that frames this portal fight within the wider quest.
 - [Portal Companion Collection On Switch](portal_companion_collection_switch.md): a different source document that shares the portal keyword.
 - [Marshall Frisco Bowl Transfer Portal Exodus](marshall_frisco_bowl_transfer_portal_exodus.md): overlaps in content on portal, from a different source document.
+- [UTSA's Transfer Portal Absences For The Frisco Bowl](utsa_frisco_bowl_transfer_portal_opt_outs.md): content overlap 0.12 on portal; different source document
 
 ## Source
 

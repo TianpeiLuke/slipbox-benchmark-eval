@@ -11,6 +11,7 @@ Treasury yields rose again on Tuesday, 2023-09-26, following a mixed batch of re
 
 ## Related Notes
 
+
 - [ASX And Wall Street Rebound, October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): overlapping coverage of Treasury yields, from a different source document.
 - [ASX Laggards, October 12 2023](asx_laggards_october_12_2023.md): overlapping coverage of session declines, from a different source document.
 - [ASX November 2023 Session And RBA Rate Expectations](asx_november_2023_session_and_rba_rate_expectations.md): overlapping coverage of yields, from a different source document.
@@ -19,6 +20,8 @@ Treasury yields rose again on Tuesday, 2023-09-26, following a mixed batch of re
 - [ASX Stock And Sector Moves, Late September 2023](asx_stock_and_sector_moves_late_september_2023.md): drawn from the same source document (doc_0001).
 - [Australian Market Resilience And Range-Bound Commentary](australian_market_resilience_and_range_bound_commentary.md): drawn from the same source document (doc_0001).
 - [Big Tech Declines And The Amazon FTC Antitrust Lawsuit](big_tech_declines_and_amazon_ftc_antitrust_lawsuit.md): drawn from the same source document (doc_0001).
+- [Crude Oil Prices And The Qantas Senate Inquiry](crude_oil_prices_and_qantas_senate_inquiry.md): same source document (doc_0001)
+- [US Government Shutdown Risk And The Market History Of Shutdowns](us_government_shutdown_risk_and_market_history.md): same source document (doc_0001)
 
 ## Source
 

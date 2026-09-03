@@ -13,6 +13,7 @@ Since then Amazon has also been named a gatekeeper under the EU's ex ante compet
 
 ## Related Notes
 
+
 - [Amazon Seller Skepticism Of The FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): overlaps on marketplace sellers and ecommerce conduct, from a different document.
 - [DMA And DSA Oversight Of Meta Advertising Consent](dma_dsa_oversight_of_meta_advertising_consent.md): also covers Digital Markets Act obligations on a gatekeeper, from a different document.
 - [DSA And DMA Oversight Of Meta Ad Tracking](dsa_dma_oversight_of_meta_ad_tracking.md): also covers the Digital Markets Act regime, from a different document.
@@ -20,6 +21,9 @@ Since then Amazon has also been named a gatekeeper under the EU's ex ante compet
 - [Epic v. Apple Ruling As Precedent](epic_v_apple_ruling_as_precedent.md): shares the antitrust and settlement themes, from a different document.
 - [The EU's Marketplace Foreclosure Theory Of Harm In Amazon-iRobot](amazon_marketplace_foreclosure_theory_of_harm.md): drawn from the same source document (doc_0039).
 - [Amazon's Response To The EU's iRobot Objections](amazon_response_to_eu_irobot_objections.md): drawn from the same source document (doc_0039).
+- [EU Sends Amazon A Statement Of Objections Over The iRobot Deal](eu_in_depth_probe_amazon_irobot_acquisition.md): same source document (doc_0039)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
+- [Antitrust](term_antitrust.md): uses the concept antitrust
 
 ## Source
 

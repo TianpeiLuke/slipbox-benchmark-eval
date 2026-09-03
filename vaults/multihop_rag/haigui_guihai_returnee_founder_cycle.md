@@ -13,6 +13,7 @@ This wave differs from earlier ones in when the expansion happens. Chinese start
 
 ## Related Notes
 
+
 - [Roblox's China Strategy And Tencent](roblox_china_strategy_and_tencent.md): overlaps on China market entry and Tencent, from a different document.
 - [China's Tech Crackdown And Investor Exit Risk](china_tech_crackdown_investor_exit_risk.md): drawn from the same source document (doc_0181), and covers the crackdown that turned haigui into guihai.
 - [China Versus Overseas: The Dual-Market Strategy](china_versus_overseas_dual_market_strategy.md): drawn from the same source document (doc_0181), and covers the strategy most cannot afford.
@@ -21,6 +22,8 @@ This wave differs from earlier ones in when the expansion happens. Chinese start
 - [The Outlook For US-China VC Dealmaking](outlook_for_us_china_vc_dealmaking.md): drawn from the same source document (doc_0181).
 - [US Outbound Investment Restrictions On China](us_outbound_investment_restrictions_china.md): drawn from the same source document (doc_0181).
 - [The Decline In US VC Investment In China: The Data](us_vc_investment_in_china_decline_data.md): drawn from the same source document (doc_0181).
+- [The USD Fund Copycat Playbook In China](usd_fund_china_copycat_investment_playbook.md): same source document (doc_0181)
+- [USD Funds In China Turn To Overseas Deals](usd_funds_china_pivot_to_overseas_deals.md): same source document (doc_0181)
 
 ## Source
 

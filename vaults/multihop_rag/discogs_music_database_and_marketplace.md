@@ -13,6 +13,7 @@ Its boundary case is its own position between two internets. Discogs is a fairly
 
 ## Related Notes
 
+
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): shares the streaming-service theme, from a different source document.
 - [Amazon 65-Inch Fire TV QLED Deal](amazon_65_inch_fire_tv_qled_deal.md): shares the streaming-service theme, from a different source document.
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): shares the streaming-service theme, from a different source document.
@@ -21,6 +22,15 @@ Its boundary case is its own position between two internets. Discogs is a fairly
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the streaming-service theme, from a different source document.
 - [Amazon's Generative AI in Robotics Simulation](amazon_generative_ai_in_robotics_simulation.md): shares the recommendation-algorithm theme, from a different source document.
 - [Amazon Marketplace Foreclosure Theory of Harm](amazon_marketplace_foreclosure_theory_of_harm.md): shares the recommendation-algorithm theme, from a different source document.
+- [Discogs' 2023 Seller Fee Increase](discogs_2023_seller_fee_increase.md): same source document (doc_0096)
+- [Discogs' Compounding Cost Pressures](discogs_compounding_cost_pressures.md): same source document (doc_0096)
+- [Discogs' Database Completeness At Risk](discogs_database_completeness_at_risk.md): same source document (doc_0096)
+- [Discogs Seller Livelihoods](discogs_seller_livelihoods.md): same source document (doc_0096)
+- [Discogs' Site Dysfunction And Redesign](discogs_site_dysfunction_and_redesign.md): same source document (doc_0096)
+- [Discogs' Stated Justification For The Fee Increase](discogs_stated_justification_for_fee_increase.md): same source document (doc_0096)
+- [Discogs Versus eBay And Amazon For Sellers](discogs_versus_ebay_and_amazon_for_sellers.md): same source document (doc_0096)
+- [Recommendation Algorithm](term_recommendation_algorithm.md): uses the concept recommendation algorithm
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

@@ -11,6 +11,7 @@ The grounds are two opposing effects of waiting. Making your bets when the lines
 
 ## Related Notes
 
+
 - [How Sportsbooks Set and Move Betting Lines](how_sportsbooks_set_and_move_betting_lines.md): explains the line-adjustment mechanism this argument depends on, from a different document.
 - [How to Line Shop, Including Futures](how_to_line_shop_including_futures.md): covers futures odds across sportsbooks, from a different document.
 - [Line Shopping for the Best Betting Odds](line_shopping_for_the_best_betting_odds.md): covers finding favorable odds across books, from a different document.
@@ -18,6 +19,10 @@ The grounds are two opposing effects of waiting. Making your bets when the lines
 - [MLB First Five Innings Betting](mlb_first_five_innings_betting.md): another bet-timing and odds decision, from a different document.
 - [2023 Bowl Season Betting Trends](2023_bowl_season_betting_trends.md): gives the season's betting record, from the same document.
 - [2023 Bowl Season Completed Game Results](2023_bowl_season_completed_game_results.md): gives the results a futures bet resolves against, from the same document.
+- [The CFP National Championship: Format And Schedule](cfp_national_championship_game_format_and_schedule.md): same source document (doc_0433)
+- [CFP National Championship Winners, 2015 To 2023](cfp_national_championship_winners_2015_to_2023.md): same source document (doc_0433)
+- [CFP Semifinal Matchups: Rose And Sugar Bowls](cfp_semifinal_rose_and_sugar_bowl_matchups.md): same source document (doc_0433)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

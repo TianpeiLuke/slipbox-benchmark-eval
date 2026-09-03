@@ -11,6 +11,7 @@ Google allegedly even toyed with the idea of buying Epic, to keep Fortnite from 
 
 ## Related Notes
 
+
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): describes the store-competition landscape these projects allegedly protected, from a different source document.
 - [Apple Versus Google Antitrust Conduct Contrast](apple_versus_google_antitrust_conduct_contrast.md): compares how each company treated developers, from a different source document.
 - [Epic Games Store Growth And Diversification Beyond Games](epic_games_store_growth_and_diversification_beyond_games.md): the rival store effort these projects allegedly targeted, from a different source document.
@@ -19,6 +20,8 @@ Google allegedly even toyed with the idea of buying Epic, to keep Fortnite from 
 - [The Market Definition Fight In Epic v. Google](android_app_distribution_market_definition.md): drawn from the same source document (doc_0355).
 - [Epic And Google's Courtroom Hypocrisy](epic_and_google_courtroom_hypocrisy.md): drawn from the same source document (doc_0355).
 - [Epic's Antitrust Claims Against Google Play](epic_antitrust_claims_against_google_play.md): drawn from the same source document (doc_0355).
+- [Project Liberty: Epic's Deliberate Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): same source document (doc_0355)
+- [The Epic v. Apple Ruling And Its Limited Weight Here](epic_v_apple_ruling_as_precedent.md): same source document (doc_0355)
 
 ## Source
 

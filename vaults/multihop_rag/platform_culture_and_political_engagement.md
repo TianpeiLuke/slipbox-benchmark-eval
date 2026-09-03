@@ -11,9 +11,18 @@ On the audience side, the streamers who appeared on Ocasio-Cortez's stream broug
 
 ## Related Notes
 
+
 - [AOC's Twitch Among Us Stream](aoc_twitch_among_us_stream.md): same source document; the positive case the model is built from.
 - [Matt Gaetz's Twitch Debut Failure](matt_gaetz_twitch_debut_failure.md): same source document; the negative case showing what breaks when format is misread.
 - [Annie Wu Henry On Gen Z Authenticity](annie_wu_henry_on_gen_z_authenticity.md): same source document; the strategist whose account of platform norms underpins this model.
+- [Democratic Dominance In Campaign Social Media](democratic_social_media_campaign_dominance.md): same source document (doc_0468)
+- [Doug Mastriano's Facebook Live Campaign](doug_mastriano_facebook_live_campaign.md): same source document (doc_0468)
+- [Gen Z Policy Misalignment With The Republican Party](gen_z_policy_misalignment_republican_party.md): same source document (doc_0468)
+- [Influencer Mobilization Beats Endorsement](influencer_mobilization_versus_endorsement_research.md): same source document (doc_0468)
+- [Jake Paul Endorsement Backlash](jake_paul_endorsement_backlash.md): same source document (doc_0468)
+- [Mehmet Oz's TikTok Campaign](mehmet_oz_tiktok_campaign.md): same source document (doc_0468)
+- [Online Activist Trolling Of Conservative Campaigns](online_activist_trolling_of_conservative_campaigns.md): same source document (doc_0468)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

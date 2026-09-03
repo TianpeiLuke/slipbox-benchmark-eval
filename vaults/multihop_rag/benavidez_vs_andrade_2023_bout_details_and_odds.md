@@ -11,11 +11,17 @@ The card and odds were listed as David Benavidez -440 versus Demetrius Andrade +
 
 ## Related Notes
 
+
 - [Britney Spears and Jason Alexander's 55-Hour Marriage](britney_spears_jason_alexander_55_hour_marriage.md): also set in Las Vegas, from a different source document.
 - [Britney Spears Memoir: Body Scrutiny and Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): also involves Las Vegas, from a different source document.
 - [Caesars Sportsbook Kentucky](caesars_sportsbook_kentucky.md): also references Las Vegas, from a different source document.
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): another Las Vegas title fight from the same year, from a different source document.
 - [Canelo Alvarez Next Opponents After Charlo Win](canelo_alvarez_next_opponents_after_charlo_win.md): also discusses David Benavidez as a future Canelo opponent, from a different source document.
+- [The Benavidez-Andrade Undercard And Jermall Charlo's Return](benavidez_andrade_undercard_and_jermall_charlo_return.md): same source document (doc_0446)
+- [Benavidez vs Andrade: The Stylistic Case For A Benavidez Decision](benavidez_vs_andrade_stylistic_breakdown_and_pick.md): same source document (doc_0446)
+- [David Benavidez: Anointed Successor To Canelo, Still Waiting For The Call](david_benavidez_career_and_canelo_alvarez_pursuit.md): same source document (doc_0446)
+- [Demetrius Andrade: A Career Spent Chasing Opponents Who Would Not Fight Him](demetrius_andrade_career_and_avoided_opponents.md): same source document (doc_0446)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

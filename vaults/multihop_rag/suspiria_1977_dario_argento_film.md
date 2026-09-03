@@ -11,6 +11,7 @@ The discriminating feature is not the plot but the presentation. While the plot 
 
 ## Related Notes
 
+
 - [Opera, Dario Argento](opera_dario_argento.md): another Dario Argento film covered in a different document
 - [Suspiria, 2018, Luca Guadagnino](suspiria_2018_luca_guadagnino.md): the later remake of this film, discussed in a different document
 - [Alone, 2020, John Hyams](alone_2020_john_hyams_film.md): another pick from the same Polygon horror guide
@@ -19,6 +20,8 @@ The discriminating feature is not the plot but the presentation. While the plot 
 - [Crimes Of The Future, 2022, David Cronenberg](crimes_of_the_future_2022_david_cronenberg.md): another pick from the same Polygon horror guide
 - [Cure, 1997, Kiyoshi Kurosawa](cure_1997_kiyoshi_kurosawa_film.md): another pick from the same Polygon horror guide
 - [Encounters Of The Spooky Kind, Sammo Hung](encounters_of_the_spooky_kind_sammo_hung.md): another pick from the same Polygon horror guide
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0563)
+- [Hellraiser: Clive Barker's Lament Configuration And The Cenobites](hellraiser_1987_clive_barker_film.md): same source document (doc_0563)
 
 ## Source
 

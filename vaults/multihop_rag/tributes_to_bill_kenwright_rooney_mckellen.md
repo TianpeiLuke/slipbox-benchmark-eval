@@ -13,6 +13,7 @@ From the theatre side, actor Sir Ian McKellen said: "Like many grateful actors I
 
 ## Related Notes
 
+
 - [Bill Kenwright Tribute At Anfield](bill_kenwright_tribute_at_anfield.md): another tribute to Kenwright reported in a different document
 - [Everton Appeal Against Points Deduction](everton_appeal_against_points_deduction.md): another Everton story from a different source
 - [Everton Manchester City 2022 Handball VAR Error](everton_manchester_city_2022_handball_var_error.md): another Everton and Manchester story from a different source
@@ -21,6 +22,8 @@ From the theatre side, actor Sir Ian McKellen said: "Like many grateful actors I
 - [Bill Kenwright's Coronation Street Acting Career](bill_kenwright_coronation_street_acting_career.md): from the same BBC obituary
 - [Bill Kenwright Dies Aged 78](bill_kenwright_death_aged_78.md): the death these tributes respond to
 - [Bill Kenwright's Everton Chairmanship Record](bill_kenwright_everton_chairmanship_record.md): from the same BBC obituary
+- [Kenwright As Producer: More Than 500 Productions Across Six Decades](bill_kenwright_west_end_theatre_productions.md): same source document (doc_0543)
+- [Everton Fans' No Confidence Vote Against Kenwright's Board](everton_fan_no_confidence_in_kenwright_board.md): same source document (doc_0543)
 
 ## Source
 

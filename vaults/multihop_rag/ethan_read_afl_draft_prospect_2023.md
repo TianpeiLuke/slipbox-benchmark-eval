@@ -11,6 +11,7 @@ A member of the Gold Coast Suns Academy, he was a dominant force for the Allies 
 
 ## Related Notes
 
+
 - [Western Bulldogs 2023 AFLW Winless Season](western_bulldogs_2023_aflw_winless_season.md): also concerns the Gold Coast Suns, from a different document.
 - [Angus Hastie AFL Draft Prospect 2023](angus_hastie_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Archer Reid AFL Draft Prospect 2023](archer_reid_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
@@ -19,6 +20,8 @@ A member of the Gold Coast Suns Academy, he was a dominant force for the Allies 
 - [Ashton Moya AFL Draft Prospect 2023](ashton_moya_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Caiden Cleary AFL Draft Prospect 2023](caiden_cleary_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Caleb Windsor AFL Draft Prospect 2023](caleb_windsor_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
+- [Charlie Edwards AFL Draft Prospect 2023](charlie_edwards_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Clay Hall AFL Draft Prospect 2023](clay_hall_afl_draft_prospect_2023.md): same source document (doc_0244)
 
 ## Source
 

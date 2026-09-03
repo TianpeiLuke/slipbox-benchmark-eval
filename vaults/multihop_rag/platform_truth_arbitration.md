@@ -15,11 +15,17 @@ Underlying the whole position is an admission about what he failed to foresee as
 
 ## Related Notes
 
+
 - [Musk's Removal of Trust Signals and Community Notes](musk_removal_of_trust_signals_and_community_notes.md): covers the same Community Notes mechanism Ohanian endorses, from a different source document.
 - [Reddit API and Third-Party Apps](reddit_api_third_party_apps.md): overlapping coverage of Reddit, one of the platforms named here as ill-suited to verifying truth, from a different source document.
 - [Scope of the EU DSA Investigation into X](scope_of_eu_dsa_investigation_into_x.md): examines Community Notes under regulatory scrutiny, from a different source document.
 - [X Moderation Capacity](x_moderation_capacity.md): covers Community Notes and the moderation resources behind it, from a different source document.
 - [X's Rebuttal to the EU Disinformation Finding](x_rebuttal_to_eu_disinformation_finding.md): X's own defence of Community Notes as a truth mechanism, from a different source document.
+- [Ohanian's Critique of Social Media and the Creator Economy](ohanian_social_media_critique.md): same source document (doc_0278)
+- [Ohanian's Case for Techno-Optimism](ohanian_techno_optimism.md): same source document (doc_0278)
+- [Reddit's Origins and the Primacy of User-Generated Content](reddit_moderation_history.md): same source document (doc_0278)
+- [Community Notes](term_community_notes.md): uses the concept community notes
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

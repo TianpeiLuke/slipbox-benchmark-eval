@@ -11,10 +11,18 @@ At the event, MIH said it aims to sell 100,000 of the minicars per year in India
 
 ## Related Notes
 
+
 - [Battery Swapping Ecosystem And Unit Economics Challenges](battery_swapping_ecosystem_and_unit_economics_challenges.md): overlaps in content on Gogoro and swapping economics, from a different source document.
 - [Gogoro's Company Profile And Open Platform Model](gogoro_company_profile_and_open_platform_model.md): overlaps in content on Gogoro's batteries and platform, from a different source document.
 - [Gogoro's India Commercial Launch And Investments](gogoro_india_commercial_launch_and_investments.md): overlaps in content on Gogoro's fleet business in India, from a different source document.
 - [Bridgestone Wireless In-Wheel EV Charging](bridgestone_wireless_in_wheel_ev_charging.md): also from the Japan Mobility Show, from a different source document.
+- [Growth In Gogoro's Battery-Swapping Service Revenue](gogoro_battery_swapping_service_revenue_growth.md): content overlap 0.13 on gogoro, vehicles, india; different source document
+- [California Robotaxi Opposition Groups](california_robotaxi_opposition_groups.md): same source document (doc_0537)
+- [Cruise's California Permit Suspension](cruise_california_permit_suspension.md): same source document (doc_0537)
+- [Cruise's Nationwide Driverless Pause](cruise_nationwide_driverless_pause.md): same source document (doc_0537)
+- [Faction Driverless Funding Round](faction_driverless_funding_round.md): same source document (doc_0537)
+- [Flexport And Convoy Technology Acquisition Talks](flexport_convoy_technology_acquisition_talks.md): same source document (doc_0537)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

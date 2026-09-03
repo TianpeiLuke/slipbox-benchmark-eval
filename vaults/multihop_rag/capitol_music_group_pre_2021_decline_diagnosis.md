@@ -11,6 +11,7 @@ Jubelirer attributes her fitness for the repair job to tenure: because she had s
 
 ## Related Notes
 
+
 - [Taylor Swift Subsequent NFL Appearances And SNL Cameo](taylor_swift_subsequent_nfl_appearances_and_snl_cameo.md): also discusses Ice Spice, from a different source document.
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares a corpus market-size tag, from a different source document.
 - [Amazon Seller Skepticism Of The FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares a corpus pandemic tag, from a different source document.
@@ -19,6 +20,16 @@ Jubelirer attributes her fitness for the repair job to tenure: because she had s
 - [Bankman Fried And Zhao Convictions And Binance Aftermath](bankman_fried_and_zhao_convictions_and_binance_aftermath.md): shares a corpus market-size tag, from a different source document.
 - [Beatles Now And Then 2023 Release](beatles_now_and_then_2023_release.md): drawn from the same interview and is the legacy release Jubelirer contrasts with Ice Spice.
 - [Bet365 Sportsbook Kentucky](bet365_sportsbook_kentucky.md): shares a corpus market-size tag, from a different source document.
+- [Capitol's 2023 Frontline Roster Highlights](capitol_2023_frontline_roster_highlights.md): same source document (doc_0212)
+- [Capitol's Hip-Hop And R&B Executive Build-Out](capitol_hip_hop_and_rnb_executive_build_out.md): same source document (doc_0212)
+- [Capitol's International-First, Direct-To-Fan Campaign Model](capitol_international_first_and_direct_to_fan_strategy.md): same source document (doc_0212)
+- [Capitol Music Group's Leadership Turmoil, 2020-2021](capitol_music_group_leadership_turmoil_2020_2021.md): same source document (doc_0212)
+- [Capitol Music Group's Organisational Reset Priorities](capitol_music_group_organisational_reset_priorities.md): same source document (doc_0212)
+- [Capitol Music Group's Turnaround Results In 2023](capitol_music_group_turnaround_results_2023.md): same source document (doc_0212)
+- [Caroline And Virgin Music Group's Spin-Out From CMG](caroline_virgin_music_group_spin_out_from_cmg.md): same source document (doc_0212)
+- [CMG's Partner Labels: Quality Control And 10K Projects](cmg_partner_labels_quality_control_and_10k_projects.md): same source document (doc_0212)
+- [Total Addressable Market (TAM)](term_total_addressable_market.md): uses the concept total addressable market
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

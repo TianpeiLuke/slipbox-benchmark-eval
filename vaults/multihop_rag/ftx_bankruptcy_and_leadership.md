@@ -11,6 +11,7 @@ Ray represented the company during a House Financial Services Committee hearing 
 
 ## Related Notes
 
+
 - [Day Two Of The Bankman-Fried Trial: Jury Selection And The Courtroom Audience](sbf_trial_day_two_jury_and_courtroom.md): overlapping coverage of Damian Williams and the alleged crimes, from a different source document.
 - [Reaction To Lewis's Portrayal Of SBF](reaction_to_lewis_portrayal.md): from the same FTX-trial cluster, drawn from a different source document.
 - [SBF Taking The Stand As A "Hail Mary"](sbf_taking_the_stand.md): from the same FTX-trial cluster, drawn from a different source document.
@@ -19,6 +20,8 @@ Ray represented the company during a House Financial Services Committee hearing 
 - [Alameda Research](alameda_research.md): drawn from the same source document (doc_0010).
 - [Crypto Contagion After FTX](crypto_contagion_after_ftx.md): drawn from the same source document (doc_0010).
 - [FTX](ftx.md): drawn from the same source document (doc_0010).
+- [The Mechanism Of FTX's Collapse](ftx_collapse_mechanism.md): same source document (doc_0010)
+- [FTX's Cooperating Witnesses](ftx_cooperating_witnesses.md): same source document (doc_0010)
 
 ## Source
 

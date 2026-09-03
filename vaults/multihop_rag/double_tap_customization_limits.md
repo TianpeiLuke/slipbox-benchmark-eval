@@ -13,6 +13,7 @@ Apple's answer to the obvious remedy is caution. "While customization can be a r
 
 ## Related Notes
 
+
 - [Apple-Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): also carries photography by Amelia Holowaty Krales, from a different source document.
 - [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): also carries photography by Amelia Holowaty Krales, from a different source document.
 - [Apple Watch SE and Reseller Inventory Remain Available](apple_watch_se_and_reseller_inventory_remain_available.md): also carries photography by Amelia Holowaty Krales, from a different source document.
@@ -20,6 +21,10 @@ Apple's answer to the obvious remedy is caution. "While customization can be a r
 - [Smart Glasses Privacy and Bystander Consent](smart_glasses_privacy_and_bystander_consent.md): also carries photography by Amelia Holowaty Krales, from a different source document.
 - [Apple's Double Tap User Research and Naming](apple_double_tap_user_research_and_naming.md): the research behind the defaults being criticised (doc_0491).
 - [The Apple Watch Double Tap Gesture](apple_watch_double_tap_gesture.md): the feature whose limits these are (doc_0491).
+- [AssistiveTouch Versus Double Tap](assistive_touch_versus_double_tap.md): same source document (doc_0491)
+- [The S9 Chip's Neural Engines Enable Double Tap](s9_chip_neural_engines_enable_double_tap.md): same source document (doc_0491)
+- [Smartwatch Gestures And Phone Independence](smartwatch_gestures_and_phone_independence.md): same source document (doc_0491)
+- [Wearable Fitness Tracker](term_wearable_fitness_tracker.md): uses the concept wearable fitness tracker
 
 ## Source
 

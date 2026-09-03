@@ -11,6 +11,7 @@ Its defining attraction is the fighting. The film features some of the very best
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony And The Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): an unrelated article that also references Hong Kong
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): another Hong Kong-referencing article from a different domain
 - [CONMEBOL 2026 Qualifying Broadcast Rights And Channels](conmebol_2026_qualifying_broadcast_rights_and_channels.md): further broadcast coverage touching Hong Kong
@@ -19,6 +20,8 @@ Its defining attraction is the fighting. The film features some of the very best
 - [Book Club 2018 Romantic Comedy](book_club_2018_romantic_comedy.md): another pick from the same Polygon guide
 - [Catherine Called Birdy 2022 Lena Dunham Comedy](catherine_called_birdy_2022_lena_dunham_comedy.md): another entry in the same guide
 - [Charade 1963 Donen Comedy Thriller](charade_1963_donen_comedy_thriller.md): another action-and-mystery-flavoured pick from the same guide
+- [Clueless (1995): The Teen-Comedy Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): same source document (doc_0597)
+- [Coming To America (1988): Eddie Murphy's Romantic Comedy](coming_to_america_1988_eddie_murphy_comedy.md): same source document (doc_0597)
 
 ## Source
 

@@ -11,11 +11,18 @@ Indian bowlers raised hopes by restricting New Zealand to 239 for 8 in 50 overs,
 
 ## Related Notes
 
+
 - [ICC World Cup 2023 Top Run Scorers](icc_world_cup_2023_top_run_scorers.md): shares the Indian top-order runs reporting for a later World Cup, from a different source document.
 - [India Australia 1983 World Cup Group Matches](india_australia_1983_world_cup_group_matches.md): shares the balls, runs and India match reporting, from a different source document.
 - [India Australia 1987 World Cup Group Matches](india_australia_1987_world_cup_group_matches.md): shares the balls, runs and India match reporting, from a different source document.
 - [India Australia 1992 World Cup Brisbane Rain Match](india_australia_1992_world_cup_brisbane_rain_match.md): shares the balls, runs and India match reporting, from a different source document.
 - [India Australia 1996 World Cup Mumbai Match](india_australia_1996_world_cup_mumbai_match.md): shares the balls, runs and India match reporting, from a different source document.
+- [ICC ODI World Cup 2023: Knockout Stage And Final](icc_world_cup_2023_knockout_stage_and_final.md): same source document (doc_0133)
+- [India's 1983 World Cup Semi-Final Against England](india_1983_world_cup_semifinal_vs_england.md): same source document (doc_0133)
+- [India's 1987 World Cup Semi-Final Against England](india_1987_world_cup_semifinal_vs_england.md): same source document (doc_0133)
+- [India's 1996 World Cup Semi-Final Against Sri Lanka](india_1996_world_cup_semifinal_vs_sri_lanka.md): same source document (doc_0133)
+- [India's 2003 World Cup Semi-Final Against Kenya](india_2003_world_cup_semifinal_vs_kenya.md): same source document (doc_0133)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

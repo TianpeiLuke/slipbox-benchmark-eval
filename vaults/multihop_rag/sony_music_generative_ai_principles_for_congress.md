@@ -11,11 +11,19 @@ The framing condition Kooker set is that "Music is a tremendous driver for AI te
 
 ## Related Notes
 
+
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): the aligned publisher argument on fair use, from a different source document.
 - [FTC Generative AI Roundtable](ftc_generative_ai_roundtable.md): another Washington forum on generative AI and creators, from a different source document.
 - [Google Filing Versus YouTube Music Reassurances](google_filing_versus_youtube_music_reassurances.md): the Sony Music concern about Google's position, from a different source document.
 - [Google Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): overlaps on creator economy, generative ai subject matter, from a different source document.
 - [Hipgnosis Board Defence of Portfolio Value](hipgnosis_board_defence_of_portfolio_value.md): also discusses Music Business Worldwide, from a different source document.
+- [Anthropic's Fair Use Defense For AI Training](anthropic_fair_use_defense_for_ai_training.md): same source document (doc_0380)
+- [Ed Newton-Rex's Resignation From Stability AI](ed_newton_rex_resignation_stability_ai.md): same source document (doc_0380)
+- [Deepfakes And Unauthorized Voice Clones Harm Artists](generative_ai_deepfakes_harm_to_artists.md): same source document (doc_0380)
+- [Google's USCO Filing On AI Training And Fair Use](google_usco_filing_ai_training_fair_use.md): same source document (doc_0380)
+- [Kooker's Rebuttal Of The Tech Industry's "Distorted View Of Copyright"](kooker_on_tech_industry_distorted_copyright_view.md): same source document (doc_0380)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

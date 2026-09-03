@@ -15,11 +15,19 @@ As for gems, they will no longer take up bag space, as they are now considered c
 
 ## Related Notes
 
+
 - [iPad Air M1 Holiday Deal](ipad_air_m1_holiday_deal.md): shares the game-patch-notes and streaming-service topic tags
 - [Netflix Originals Premiering November 14 to 16 2023](netflix_originals_premiering_november_14_to_16_2023.md): shares the same pair of topic tags from a different document
 - [Netflix Originals Premiering November 17 2023](netflix_originals_premiering_november_17_2023.md): shares both topic tags from a separate article
 - [Netflix Originals Premiering November 21 to 24 2023](netflix_originals_premiering_november_21_to_24_2023.md): another note sharing both tags
 - [Polygon Best New Streaming Series Roundup Scope](polygon_best_new_streaming_series_roundup_scope.md): shares both topic tags from a different source
+- [Diablo 4 Season 2 Endgame Bosses and Uber Uniques](diablo_4_season_2_endgame_uber_bosses.md): same source document (doc_0533)
+- [Diablo 4 Season 2 Experience and Leveling Changes](diablo_4_season_2_experience_and_leveling_changes.md): same source document (doc_0533)
+- [Diablo 4 Season 2 Nightmare Dungeon and Travel Changes](diablo_4_season_2_nightmare_dungeon_and_travel_changes.md): same source document (doc_0533)
+- [Season of Blood's Real Draw Is Quality of Life, Not Vampire Powers](diablo_4_season_of_blood_quality_of_life_focus.md): same source document (doc_0533)
+- [Diablo 4 Season of Blood Release Date](diablo_4_season_of_blood_release_date.md): same source document (doc_0533)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

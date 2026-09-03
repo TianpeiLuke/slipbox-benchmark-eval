@@ -11,6 +11,7 @@ On the pajamas: if your little ones are engrossed in the Pokémon world, dress-u
 
 ## Related Notes
 
+
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): drawn from the same source document (doc_0424).
 - [Apple iPad Ninth Generation Deal Listings](apple_ipad_ninth_generation_deal_listings.md): drawn from the same source document (doc_0424).
 - [Kids' Headphone, Speaker And Music Gifts 2023](kids_headphone_speaker_and_music_gifts_2023.md): drawn from the same source document (doc_0424).
@@ -19,6 +20,7 @@ On the pajamas: if your little ones are engrossed in the Pokémon world, dress-u
 - [Kids' School Supply And Reading Timer Gifts 2023](kids_school_supply_and_reading_timer_gifts_2023.md): drawn from the same source document (doc_0424).
 - [Kids' Tabletop And Party Game Gifts 2023](kids_tabletop_and_party_game_gifts_2023.md): drawn from the same source document (doc_0424).
 - [Kids' Toy And Playset Gifts 2023](kids_toy_and_playset_gifts_2023.md): drawn from the same source document (doc_0424).
+- [Magna-Tiles STEM Toy Deal Listings](magna_tiles_stem_toy_deal_listings.md): same source document (doc_0424)
 
 ## Source
 

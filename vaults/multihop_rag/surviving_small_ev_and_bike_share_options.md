@@ -11,6 +11,7 @@ Beyond e-bikes, Arcimoto lives on as the rare three-wheeled EV holdout in the U.
 
 ## Related Notes
 
+
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also concerns North America as a market, from a different source document.
 - [Aging With HIV And The Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): also concerns North America, from a different source document.
 - [Bird E-Bike Relaunch And Delisting](bird_ebike_relaunch_and_delisting.md): overlapping coverage of e-bikes and ride volumes, from a different source document.
@@ -19,6 +20,8 @@ Beyond e-bikes, Arcimoto lives on as the rare three-wheeled EV holdout in the U.
 - [The Case Against Supersized Electric Vehicles](case_against_supersized_electric_vehicles.md): drawn from the same source document (doc_0318), the argument these survivors qualify.
 - [ElectraMeccanica Solo Discontinuation](electrameccanica_solo_discontinuation.md): drawn from the same source document (doc_0318), one of the small EVs that did not survive.
 - [GM Honda Affordable EV Partnership Cancellation](gm_honda_affordable_ev_partnership_cancellation.md): drawn from the same source document (doc_0318), another abandoned small-EV effort.
+- [The End Of Honda e Production](honda_e_production_end.md): same source document (doc_0318)
+- [The Mazda MX-30's US Discontinuation](mazda_mx_30_us_discontinuation.md): same source document (doc_0318)
 
 ## Source
 

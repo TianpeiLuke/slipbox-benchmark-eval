@@ -13,12 +13,18 @@ Best known for his collaborations with childhood friends Jackie Chan and Yuen Bi
 
 ## Related Notes
 
+
 - [Certified Copy, Abbas Kiarostami](certified_copy_abbas_kiarostami.md): another recommendation written by the same Polygon critic, from a different document
 - [Detour, 1945, Edgar G. Ulmer](detour_1945_edgar_g_ulmer.md): another Criterion Channel pick by the same critic, in a different list
 - [Fist Of The Condor, Marko Zaror](fist_of_the_condor_marko_zaror.md): another martial arts movie recommendation from a different document
 - [Ginger Snaps, Werewolf Body Horror](ginger_snaps_werewolf_body_horror.md): another Criterion Channel horror pick by the same critic elsewhere
 - [I Married A Witch, 1942, René Clair Comedy](i_married_a_witch_1942_rene_clair_comedy.md): another Criterion Channel title from a different list
 - [Alone, 2020, John Hyams](alone_2020_john_hyams_film.md): another pick from the same Polygon horror guide
+- [Annihilation: The Creepiest Movie About Plants Ever Made](annihilation_2018_alex_garland_film.md): same source document (doc_0563)
+- [Climax: Gaspar Noé's Spiked-Sangria Dance Party In Long Takes](climax_2018_gaspar_noe_film.md): same source document (doc_0563)
+- [Crimes Of The Future: Cronenberg's World Where Surgery Is The New Sex](crimes_of_the_future_2022_david_cronenberg.md): same source document (doc_0563)
+- [Cure: Kiyoshi Kurosawa's Horror Masterpiece About Violence As Contagion](cure_1997_kiyoshi_kurosawa_film.md): same source document (doc_0563)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

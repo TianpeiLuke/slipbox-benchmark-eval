@@ -13,6 +13,7 @@ The live blog noted at 8:22 p.m. that Love's first career start had come against
 
 ## Related Notes
 
+
 - [Bills Bengals SNF Broadcast Details](bills_bengals_snf_broadcast_details.md): another Sunday Night Football game, from a different document.
 - [Bills Bengals SNF Pregame Notes](bills_bengals_snf_pregame_notes.md): also covers a Sunday Night Football matchup, from a different document.
 - [Bills Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): another Sunday Night Football result, from a different document.
@@ -21,6 +22,8 @@ The live blog noted at 8:22 p.m. that Love's first career start had come against
 - [Chiefs Packers Week 13 Broadcast and Kickoff Details](chiefs_packers_week_13_broadcast_and_kickoff_details.md): drawn from the same Sporting News live blog (doc_0034).
 - [Chiefs Packers Week 13 First Half Sequence](chiefs_packers_week_13_first_half_sequence.md): shows Love's early drives in the same game, from the same document.
 - [Chiefs Packers Week 13 Fourth Quarter Sequence](chiefs_packers_week_13_fourth_quarter_sequence.md): covers the closing quarter of the same game, from the same document.
+- [Packers Edge Chiefs 27-19 On Week 13 Sunday Night Football](chiefs_packers_week_13_snf_final_result.md): same source document (doc_0034)
+- [Third Quarter Sequence Of Packers-Chiefs Week 13](chiefs_packers_week_13_third_quarter_sequence.md): same source document (doc_0034)
 
 ## Source
 

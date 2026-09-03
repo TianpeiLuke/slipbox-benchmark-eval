@@ -11,6 +11,7 @@ Among the laggards, casino operator Star Entertainment Group's shares hit an all
 
 ## Related Notes
 
+
 - [ASX And Wall Street Rebound, October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): overlapping coverage of sector moves and miners, from a different source document.
 - [ASX And Wall Street Selloff, October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): overlapping coverage of gold miners including Newcrest, from a different source document.
 - [ASX December 2023 Session Movers](asx_december_2023_session_movers.md): overlapping coverage of sector and share moves, from a different source document.
@@ -19,6 +20,8 @@ Among the laggards, casino operator Star Entertainment Group's shares hit an all
 - [Australian Market Resilience And Range-Bound Commentary](australian_market_resilience_and_range_bound_commentary.md): drawn from the same source document (doc_0001).
 - [Big Tech Declines And The Amazon FTC Antitrust Lawsuit](big_tech_declines_and_amazon_ftc_antitrust_lawsuit.md): drawn from the same source document (doc_0001).
 - [Crude Oil Prices And The Qantas Senate Inquiry](crude_oil_prices_and_qantas_senate_inquiry.md): drawn from the same source document (doc_0001).
+- [US Government Shutdown Risk And The Market History Of Shutdowns](us_government_shutdown_risk_and_market_history.md): same source document (doc_0001)
+- [The Wall Street September 2023 Selloff And Bond Yields](wall_street_september_2023_selloff_and_bond_yields.md): same source document (doc_0001)
 
 ## Source
 

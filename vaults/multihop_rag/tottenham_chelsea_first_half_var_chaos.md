@@ -13,12 +13,19 @@ Sporting News noted that while many of the decisions were widely analysed as cor
 
 ## Related Notes
 
+
 - [Inter Miami Ticket Prices vs Global Football and US Sports](inter_miami_ticket_prices_vs_global_football_and_us_sports.md): also discusses Tottenham Hotspur Stadium, from a different document.
 - [PGMOL Apologies Spring 2023 Incidents](pgmol_apologies_spring_2023_incidents.md): also discusses VAR official John Brooks, from a different document.
 - [Spurs Chelsea Red Cards and VAR Decisions](spurs_chelsea_red_cards_and_var_decisions.md): also covers Michael Oliver's decisions in this match, from a different document.
 - [Tottenham and Chelsea Next Fixtures November 2023](tottenham_and_chelsea_next_fixtures_november_2023.md): covers what came next for both Premier League sides, from a different document.
 - [Tottenham Chelsea Line-Ups and Referee November 2023](tottenham_chelsea_line_ups_and_referee_november_2023.md): also discusses Michael Oliver's appointment to this match, from a different document.
 - [Attacking Handball Automatic Foul Rule](attacking_handball_automatic_foul_rule.md): the rule behind one of these disallowed goals, from the same document.
+- [Destiny Udogie's Tackle Escapes A Red Card](destiny_udogie_tackle_escapes_red_card.md): same source document (doc_0379)
+- [Kulusevski's Opener And Son's Disallowed Goal](kulusevski_opener_and_son_disallowed_goal.md): same source document (doc_0379)
+- [Nicolas Jackson's Goal Disallowed For Offside](nicolas_jackson_goal_disallowed_for_offside.md): same source document (doc_0379)
+- [Reece James' Elbow On Udogie: No Red Card](reece_james_elbow_on_udogie_no_red_card.md): same source document (doc_0379)
+- [Premier League](term_premier_league.md): uses the concept premier league
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

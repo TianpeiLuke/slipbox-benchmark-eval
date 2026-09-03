@@ -13,6 +13,7 @@ Cintron had a pretty good career, crowned by a short stint as a welterweight wor
 
 ## Related Notes
 
+
 - [Adolpho Washington vs Virgil Hill, 1993: The Camera Stoppage](adolpho_washington_virgil_hill_1993_camera_stoppage.md): drawn from the same document (doc_0228).
 - [Bernard Hopkins vs Robert Allen, 1998: The Referee's Fall](bernard_hopkins_robert_allen_1998_referee_fall.md): drawn from the same document (doc_0228).
 - [The Scope of talkSPORT's Craziest Boxing Fight Endings Ranking](boxing_unorthodox_fight_endings_ranking_scope.md): drawn from the same document (doc_0228).
@@ -21,6 +22,8 @@ Cintron had a pretty good career, crowned by a short stint as a welterweight wor
 - [Oliver McCall's Breakdown Against Lennox Lewis, 1997](oliver_mccall_breakdown_against_lennox_lewis_1997.md): drawn from the same document (doc_0228).
 - [Ricky Hatton vs Stephen Smith, 2002: The Disqualification](ricky_hatton_stephen_smith_2002_disqualification.md): drawn from the same document (doc_0228).
 - [Riddick Bowe vs Elijah Tillery, 1991: The Ring Brawl](riddick_bowe_elijah_tillery_1991_ring_brawl.md): drawn from the same document (doc_0228).
+- [Tony Wilson vs Steve McCarthy, 1989: The Shoe Intervention](tony_wilson_steve_mccarthy_1989_shoe_intervention.md): same source document (doc_0228)
+- [Tyson vs Holyfield, 1997: The Bite Fight](tyson_holyfield_1997_bite_fight.md): same source document (doc_0228)
 
 ## Source
 

@@ -11,6 +11,7 @@ The advisory is attached as a standing preface to reporting that discusses suici
 
 ## Related Notes
 
+
 - [UK R&D Tax Credit Policy Reversal](uk_rd_tax_credit_policy_reversal.md): overlapping vocabulary on lifeline, from a different source document.
 - [Waller Amanda Waller Spinoff Series](waller_amanda_waller_spinoff_series.md): overlapping vocabulary on suicide, from a different source document.
 - [Caring Contacts Effect on Social Work Staff](caring_contacts_effect_on_social_work_staff.md): drawn from the same source document (doc_0158).
@@ -19,6 +20,8 @@ The advisory is attached as a standing preface to reporting that discusses suici
 - [Caring Contacts Program at Childrens Nebraska](caring_contacts_program_at_childrens_nebraska.md): drawn from the same source document (doc_0158).
 - [Caring Contacts Repeat Attempt Rate Outcomes](caring_contacts_repeat_attempt_rate_outcomes.md): drawn from the same source document (doc_0158).
 - [Caring Contacts Replication Kit and National Interest](caring_contacts_replication_kit_and_national_interest.md): drawn from the same source document (doc_0158).
+- [Handwritten Cards As Deliberately Low-Tech Suicide Prevention](handwritten_cards_as_low_tech_suicide_prevention.md): same source document (doc_0158)
+- [The Follow-Up Care Gap After A Pediatric Suicide Attempt](pediatric_suicide_follow_up_care_gap.md): same source document (doc_0158)
 
 ## Source
 

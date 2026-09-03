@@ -13,11 +13,19 @@ Most Americans consider the holiday a day to gather and express their thanks thr
 
 ## Related Notes
 
+
 - [The Friendsgiving Tradition](friendsgiving_tradition.md): the parallel celebration held around the same holiday, from a different source document.
 - [NBA Christmas vs NFL Thanksgiving Tradition](nba_christmas_vs_nfl_thanksgiving_tradition_comparison.md): overlapping treatment of Thanksgiving as a sporting tradition, from a different source document.
 - [Prisco's 2023 Week 12 Picks](prisco_2023_week_12_picks_season_record.md): overlapping Thanksgiving framing, from a different source document.
 - [Thanksgiving 2023 Online Sales Figures](thanksgiving_2023_online_sales_figures.md): overlapping coverage of the holiday's shopping dimension, from a different source document.
 - [Friendsgiving Alternative Activity Ideas](friendsgiving_alternative_activity_ideas.md): same sub-plan on Thanksgiving 2023, from a different source document.
+- [Macy's Thanksgiving Day Parade](macys_thanksgiving_day_parade.md): same source document (doc_0280)
+- [Thanksgiving 2023 Retail Closure Policy](thanksgiving_2023_retail_closure_policy.md): same source document (doc_0323)
+- [Thanksgiving 2023: Stores Closed on the Holiday](thanksgiving_2023_stores_closed_on_the_holiday.md): same source document (doc_0323)
+- [Thanksgiving 2023: Stores Open on the Holiday](thanksgiving_2023_stores_open_on_the_holiday.md): same source document (doc_0323)
+- [Criticism of Thanksgiving as a Celebration of Conquest](thanksgiving_criticism_native_american_conquest.md): same source document (doc_0280)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

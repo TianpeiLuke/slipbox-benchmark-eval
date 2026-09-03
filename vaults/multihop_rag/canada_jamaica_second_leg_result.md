@@ -15,11 +15,18 @@ The consequence for Canada is a further hurdle: they will have to defeat Trinida
 
 ## Related Notes
 
+
 - [Belgium-England Women's Nations League Result, October 2023](belgium_england_womens_nations_league_result_october_2023.md): another Nations League result, from a different document.
 - [Big Ten Deliberation Over Harbaugh's Punishment](big_ten_deliberation_over_harbaugh_punishment.md): shares the sanction and qualification-stakes themes, separately sourced.
 - [Canada's Path to Copa America 2024 Qualification](canada_copa_america_2024_qualification_path.md): the qualification model this result resolves, in a different document.
 - [England 3-2 Netherlands at Wembley, Toone's Winner](england_3_2_netherlands_wembley_toone_winner.md): another Nations League match report, from a separate source.
 - [England Lionesses' Olympic Qualification Heartbreak](england_lionesses_olympic_qualification_heartbreak.md): another Nations League qualification story, in a different document.
+- [The First Half Of Canada 2-3 Jamaica](canada_jamaica_second_leg_first_half.md): same source document (doc_0232)
+- [Canada vs Jamaica Second Leg: Kickoff And Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): same source document (doc_0232)
+- [The Second Half Of Canada 2-3 Jamaica](canada_jamaica_second_leg_second_half.md): same source document (doc_0232)
+- [Team News For Canada vs Jamaica, Second Leg](canada_jamaica_second_leg_team_news.md): same source document (doc_0232)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

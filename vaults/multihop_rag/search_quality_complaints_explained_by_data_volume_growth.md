@@ -11,6 +11,7 @@ The grounds are the volumes. In 2013, people were creating around 9 ZB of data e
 
 ## Related Notes
 
+
 - [The Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): overlapping coverage of search, Google and information services, from a different source document.
 - [Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): also concerns Google Search, from a different source document.
 - [Gemini Pro News Summarization Refusals](gemini_pro_news_summarization_refusals.md): also concerns Google Search, from a different source document.
@@ -19,6 +20,8 @@ The grounds are the volumes. In 2013, people were creating around 9 ZB of data e
 - [Google's Defense That Search Defaults Are Easy To Change](google_defense_that_search_defaults_are_easy_to_change.md): drawn from the same source document (doc_0032).
 - [Google's Denial That Ad Keyword Matching Affects Organic Results](google_denial_that_ad_keyword_matching_affects_organic_results.md): drawn from the same source document (doc_0032).
 - [Hands-On Comparison Of Google, Bing And DuckDuckGo Search](hands_on_comparison_of_google_bing_and_duckduckgo_search.md): drawn from the same source document (doc_0032).
+- [How Google Search Crawls, Indexes And Ranks Results](how_google_search_crawls_indexes_and_ranks_results.md): same source document (doc_0032)
+- [Wired's Retracted Claim That Google Manipulates Search Queries](wired_retracted_claim_that_google_manipulates_search_queries.md): same source document (doc_0032)
 
 ## Source
 

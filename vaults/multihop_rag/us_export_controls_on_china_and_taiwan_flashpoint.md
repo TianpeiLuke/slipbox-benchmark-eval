@@ -11,6 +11,7 @@ On Taiwan, the island is set to hold its presidential election in January, and a
 
 ## Related Notes
 
+
 - [House Speakership Vacancy Paralysis After McCarthy Ouster](house_speakership_vacancy_paralysis_after_mccarthy_ouster.md): shares corpus tags and concerns the same House speakership office referenced here, from a different source document.
 - [A Patent Redesign Must Be More Than A Colorable Difference](a_patent_redesign_must_be_more_than_a_colorable_difference.md): shares a corpus hardware tag, from a different source document.
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): shares a corpus topic tag with this note, from a different source document.
@@ -19,6 +20,11 @@ On Taiwan, the island is set to hold its presidential election in January, and a
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): shares a corpus topic tag with this note, from a different source document.
 - [AI Mass Generated SEO Spam Churn And Burn](ai_mass_generated_seo_spam_churn_and_burn.md): shares a corpus topic tag with this note, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares a corpus hardware tag, from a different source document.
+- [The Biden-Xi San Francisco Summit, November 2023](biden_xi_san_francisco_summit_november_2023.md): same source document (doc_0385)
+- [US-China Areas Of Cooperation In 2023](us_china_areas_of_cooperation_2023.md): same source document (doc_0385)
+- [The 2023 Deterioration And Thaw In U.S.-China Relations](us_china_relations_deterioration_and_thaw_2023.md): same source document (doc_0385)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

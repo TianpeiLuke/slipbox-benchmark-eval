@@ -13,6 +13,7 @@ Players fight their way through dungeons, meet necromancer cats, and try on lots
 
 ## Related Notes
 
+
 - [Meta Quest 2 Black Friday Bundle Price](meta_quest_2_black_friday_bundle_price.md): incidental "Quest" name collision from a different source document
 - [Captain Toad: Treasure Tracker](captain_toad_treasure_tracker.md): another pick from the same couch co-op roundup
 - [Crypt of the NecroDancer](crypt_of_the_necrodancer.md): another local co-op recommendation from the same document
@@ -21,6 +22,8 @@ Players fight their way through dungeons, meet necromancer cats, and try on lots
 - [Escape Academy](escape_academy.md): another co-op pick in the same list
 - [Good Job! (Nintendo Switch)](good_job_nintendo_switch.md): another co-op recommendation from the same article
 - [Kirby and the Forgotten Land](kirby_and_the_forgotten_land.md): another Nintendo co-op title in the same roundup
+- [Lego Star Wars: The Skywalker Saga](lego_star_wars_the_skywalker_saga.md): same source document (doc_0428)
+- [Lovers in a Dangerous Spacetime](lovers_in_a_dangerous_spacetime.md): same source document (doc_0428)
 
 ## Source
 

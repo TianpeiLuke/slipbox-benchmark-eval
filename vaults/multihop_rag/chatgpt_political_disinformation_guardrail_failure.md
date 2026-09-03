@@ -11,11 +11,20 @@ The company had told Semafor in April that it was "developing a machine learning
 
 ## Related Notes
 
+
 - [Associated Press And OpenAI's Licensing Deal](associated_press_openai_licensing_deal.md): same source document; the other August development in OpenAI's public commitments.
 - [The AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): same source document; the broader case that adoption outran safeguards.
 - [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): overlaps in content on ChatGPT and disinformation, from a different source document.
 - [Contested Evidence On Social Media Harm](contested_evidence_on_social_media_harm.md): shares disinformation and political-influence themes, from a different source document.
 - [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): overlaps in content on the chatbot's responses, from a different source document.
+- [ChatGPT Voice And Speech Features](chatgpt_voice_and_speech_features.md): content overlap 0.10 on chatgpt, prompts, responses; different source document
+- [DALL-E 3 Image Generation In ChatGPT](dalle_3_image_generation_in_chatgpt.md): content overlap 0.11 on chatgpt, prompts, chatbot; different source document
+- [ChatGPT's 100 Million User Milestone](chatgpt_100_million_user_milestone.md): same source document (doc_0099)
+- [ChatGPT's Durability And Regulatory Outlook](chatgpt_durability_and_regulatory_outlook.md): same source document (doc_0099)
+- [ChatGPT Enterprise And Multimodal Features](chatgpt_enterprise_and_multimodal_features.md): same source document (doc_0099)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Generative AI Guardrails](term_generative_ai_guardrails.md): uses the concept generative ai guardrails
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

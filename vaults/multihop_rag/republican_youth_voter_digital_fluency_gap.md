@@ -11,10 +11,19 @@ The grounds are a track record and a contrast. Republican candidates have histor
 
 ## Related Notes
 
+
 - [Democratic Social Media Campaign Dominance](democratic_social_media_campaign_dominance.md): same source document; the comparative data behind the claimed gap.
 - [Hakeem Jeffries' Bipartisan Offer To Reopen The House](hakeem_jeffries_bipartisan_offer_to_reopen_the_house.md): overlaps in content on Republican and Democratic party dynamics, from a different source document.
 - [House GOP Narrow Majority Vote Math](house_gop_narrow_majority_vote_math.md): overlaps in content on Republican and Democratic electoral arithmetic, from a different source document.
 - [SCOTUS Ruling Consequences](scotus_ruling_consequences.md): shares creator-economy and political-lobbying themes, from a different source document.
+- [The NMPA Submission Calling Generative AI The Greatest Risk To The Creative Class](nmpa_submission_generative_ai_greatest_risk.md): shares creator_economy, lobbying_political_donations; different source document
+- [Tech Layoffs In October 2023](tech_layoffs_october_2023.md): shares creator_economy, lobbying_political_donations; different source document
+- [Annie Wu Henry On Gen Z Authenticity](annie_wu_henry_on_gen_z_authenticity.md): same source document (doc_0468)
+- [AOC's Twitch "Among Us" Stream](aoc_twitch_among_us_stream.md): same source document (doc_0468)
+- [Doug Mastriano's Facebook Live Campaign](doug_mastriano_facebook_live_campaign.md): same source document (doc_0468)
+- [Gen Z Policy Misalignment With The Republican Party](gen_z_policy_misalignment_republican_party.md): same source document (doc_0468)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

@@ -13,6 +13,7 @@ Kunis noted her kids are lucky to be born into a famous family and said she want
 
 ## Related Notes
 
+
 - [Celebrity Tough Love Parenting In Hollywood](celebrity_tough_love_parenting_in_hollywood.md): same article, which names this couple in the gratitude strand
 - [Kristen Bell Shared Bedroom Character Building](kristen_bell_shared_bedroom_character_building.md): same article, the closest parallel household
 - [Daniel Craig Against Leaving An Inheritance](daniel_craig_against_leaving_an_inheritance.md): same article, another response to inherited privilege
@@ -21,6 +22,8 @@ Kunis noted her kids are lucky to be born into a famous family and said she want
 - [Gellar And Prinze Strict Household Rules](gellar_and_prinze_strict_household_rules.md): same source document
 - [Kristen Bell Household Screen Time Rules](kristen_bell_household_screen_time_rules.md): same source document
 - [Mandy Panos Cosmatos Nicolas Cage](mandy_panos_cosmatos_nicolas_cage.md): also mentions Stephen Colbert, unrelated subject
+- [Reese Witherspoon On Letting Children Fail](reese_witherspoon_on_letting_children_fail.md): same source document (doc_0177)
+- [Schwarzenegger's Warning On "A Generation Of Wimps"](schwarzenegger_warning_on_a_generation_of_wimps.md): same source document (doc_0177)
 
 ## Source
 

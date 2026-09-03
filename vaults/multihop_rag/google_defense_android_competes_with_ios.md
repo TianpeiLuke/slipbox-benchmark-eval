@@ -15,12 +15,19 @@ Google also argues about consequences: if Epic wins, according to Google, it cou
 
 ## Related Notes
 
+
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): tests the claim that alternate channels are genuinely usable, from a different source document.
 - [Beeper Mini, An iMessage Client For Android](beeper_mini_imessage_client_for_android.md): also concerns Play Store distribution, from a different source document.
 - [Beeper Mini Service Restoration And Apple ID Workaround](beeper_mini_service_restoration_and_apple_id_workaround.md): also concerns Play Store distribution, from a different source document.
 - [Epic Games Store As A General Purpose App Store](epic_games_store_as_a_general_purpose_app_store.md): the rival store Google says Android permits, from a different source document.
 - [Epic Games v. Google Antitrust Trial](epic_games_v_google_antitrust_trial.md): covers the same monopoly dispute, from a different source document.
 - [Activision's $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): drawn from the same source document (doc_0299).
+- [The Market Definition Fight In Epic v. Google](android_app_distribution_market_definition.md): same source document (doc_0355)
+- [Hypocrisy On Both Sides Of The Courtroom](epic_and_google_courtroom_hypocrisy.md): same source document (doc_0355)
+- [Epic's Antitrust Claims Against Google Play](epic_antitrust_claims_against_google_play.md): same source document (doc_0299)
+- [Project Liberty: Epic's Deliberate Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): same source document (doc_0299)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

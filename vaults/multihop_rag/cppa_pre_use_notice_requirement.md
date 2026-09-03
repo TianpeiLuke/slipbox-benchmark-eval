@@ -13,11 +13,19 @@ TechCrunch flags where the European analogue breaks down. The European regulatio
 
 ## Related Notes
 
+
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares the data-privacy and generative-AI themes, from a different document.
 - [Google Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): shares the data-privacy and generative-AI themes, from a different document.
 - [Italy's ChatGPT Ban Over GDPR](italy_chatgpt_ban_over_gdpr.md): a GDPR enforcement action against a generative AI service, from a different document.
 - [Regulatory Investigations Into OpenAI, 2023](regulatory_investigations_into_openai_2023.md): the ChatGPT investigations referenced here, from a different document.
 - [ADMT: The CPPA's Definition Of Automated Decisionmaking Technology](admt_automated_decisionmaking_technology_definition.md): drawn from the same source document (doc_0164), and defines what triggers the notice.
+- [CCPA To CPPA: The Regulatory Lineage Behind The ADMT Rules](ccpa_cppa_regulatory_lineage.md): same source document (doc_0164)
+- [CPPA ADMT Access Rights And Disclosure Requirements](cppa_admt_access_rights_disclosure_requirements.md): same source document (doc_0164)
+- [The CPPA ADMT Opt-Out Right And Its Exemptions](cppa_admt_opt_out_right_and_exemptions.md): same source document (doc_0164)
+- [Why The CPPA's ADMT Rules Would Bite On Behavioral Advertising](cppa_admt_rules_impact_on_behavioral_advertising.md): same source document (doc_0164)
+- [CPPA ADMT Scope Thresholds](cppa_admt_scope_thresholds.md): same source document (doc_0164)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

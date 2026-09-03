@@ -13,6 +13,7 @@ The Week 6 case, published 12 October 2023 ahead of a home game with Washington,
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another lineup verdict argued from air-yards evidence, from a different document.
 - [Baker Mayfield Zone Coverage And Four Level Passing](baker_mayfield_zone_coverage_and_four_level_passing.md): covers the same zone-coverage reasoning that explains where Pitts finds his production, from a different document.
 - [Bears Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also discusses Cole Kmet, one of the tight ends compared with Pitts, from a different document.
@@ -21,6 +22,8 @@ The Week 6 case, published 12 October 2023 ahead of a home game with Washington,
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another lineup call from the same Week 6 column.
 - [Brock Purdy Fantasy Outlook Weeks 5 And 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another two-week outlook from the same columns.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method these calls apply, from the same columns.
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
 
 ## Source
 

@@ -15,6 +15,7 @@ Minnesota still had a chance before the break. Fields had all day on third down 
 
 ## Related Notes
 
+
 - [Bears' Game-Ending Hail Mary vs the Browns](bears_game_ending_hail_mary_vs_browns.md): also features Darnell Mooney, from a different document.
 - [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also covers Cairo Santos and Roschon Johnson, separately sourced.
 - [Chase Young's Trade to the 49ers at the 2023 Deadline](chase_young_trade_to_49ers_2023_deadline.md): also discusses Montez Sweat, in a different document.
@@ -23,6 +24,8 @@ Minnesota still had a chance before the break. Fields had all day on third down 
 - [Bears-Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): the coverage details for this game, same source document.
 - [Bears-Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): how the game finished, same source document.
 - [Playoff and Roster Stakes in Bears-Vikings on Monday Night](bears_vikings_mnf_playoff_and_roster_stakes.md): the standings context for this game, same source document.
+- [Bears 12, Vikings 10 On Monday Night Football](bears_vikings_mnf_result_and_recap.md): same source document (doc_0144)
+- [The Third Quarter Of Bears 12, Vikings 10](bears_vikings_mnf_third_quarter.md): same source document (doc_0144)
 
 ## Source
 

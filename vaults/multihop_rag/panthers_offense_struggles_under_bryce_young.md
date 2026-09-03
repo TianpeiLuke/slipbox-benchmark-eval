@@ -13,11 +13,19 @@ Three days later, in the Nov. 9 loss to the Bears, the pattern held. Young got l
 
 ## Related Notes
 
+
 - [Buccaneers 21-18 Panthers: Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): also discusses Bryce Young, from a different document.
 - [Colts Panthers Week 9 Spread Pick](colts_panthers_week_9_spread_pick.md): also discusses Bryce Young, from a different document.
 - [Cowboys 49ers Pregame Notes and NFC Race](cowboys_49ers_pregame_notes_and_nfc_race.md): shares the acquisition and NFL themes, from a different document.
 - [Denver Broncos Payton Wilson Clock Management Friction](denver_broncos_payton_wilson_clock_management_friction.md): also discusses Matt Rhule, from a different document.
 - [Emari Demercado Week 6 2023 Sit Recommendation](emari_demercado_week6_2023_sit_recommendation.md): also discusses Miles Sanders, from a different document.
+- [Bears 16, Panthers 13 On Thursday Night Football](bears_16_panthers_13_thursday_night_result.md): same source document (doc_0489)
+- [Bears-Panthers Broadcast And Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): same source document (doc_0489)
+- [Bears-Panthers Pregame Storylines](bears_panthers_pregame_storylines_week_10.md): same source document (doc_0489)
+- [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): same source document (doc_0489)
+- [Defence Of Reich's 59-Yard Field Goal Call](defence_of_reich_59_yard_field_goal_call.md): same source document (doc_0489)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

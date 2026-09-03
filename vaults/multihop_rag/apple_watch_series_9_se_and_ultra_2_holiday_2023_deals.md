@@ -13,11 +13,20 @@ For buyers who do not need the Series 9's in-depth capabilities, WIRED calls the
 
 ## Related Notes
 
+
 - [AirPods Pro (2nd Generation) Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-life-and-charging and battery-technology themes, from a different source document.
 - [AliveCor EKG Import Ban And The PTAB Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): also concerns the Apple Watch, from a different source document.
 - [Amazon Echo Buds (2023)](amazon_echo_buds_2023.md): shares the battery-life-and-charging and battery-technology themes, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery-life-and-charging and battery-technology themes, from a different source document.
 - [Anker 2-In-1 MagSafe StandBy Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): also concerns the Apple Watch, from a different source document.
+- [Apple Store Credit And Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): same source document (doc_0576)
+- [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): same source document (doc_0576)
+- [Walmart Cyber Monday 2023 Dolby Atmos Soundbar Deals](walmart_cyber_monday_2023_dolby_atmos_soundbar_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Fitness Tracker And Smart Ring Deals](walmart_cyber_monday_2023_fitness_tracker_and_smart_ring_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Home Security Camera Deals](walmart_cyber_monday_2023_home_security_camera_deals.md): same source document (doc_0320)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Wearable Fitness Tracker](term_wearable_fitness_tracker.md): uses the concept wearable fitness tracker
 
 ## Source
 

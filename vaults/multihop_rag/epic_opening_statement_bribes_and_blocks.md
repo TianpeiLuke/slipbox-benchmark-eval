@@ -13,12 +13,18 @@ The warrant linking payments to consumer harm was left mostly implicit on day on
 
 ## Related Notes
 
+
 - [Activision, Riot And Supercell's Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): concerns the developers Epic says were paid off, from a different source document.
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): also concerns the Galaxy Store and Google Play's dominance, from a different source document.
 - [The Market Definition Fight In Epic v. Google](android_app_distribution_market_definition.md): supplies the market framing this argument depends on, from a different source document.
 - [Beeper Mini Service Restoration And Apple ID Workaround](beeper_mini_service_restoration_and_apple_id_workaround.md): also concerns Google Play distribution, from a different source document.
 - [Book Club, The 2018 Romantic Comedy](book_club_2018_romantic_comedy.md): shares a Google Play reference, from a different source document.
 - [Activision's $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): drawn from the same source document (doc_0299).
+- [Epic's Antitrust Claims Against Google Play](epic_antitrust_claims_against_google_play.md): same source document (doc_0299)
+- [Project Liberty: Epic's Deliberate Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): same source document (doc_0299)
+- [Simple Versus Complicated: Assessing The Opening Arguments](epic_v_google_opening_arguments_assessment.md): same source document (doc_0299)
+- [Google's Auto-Deleted Chats And The Sanctions Ruling](google_chat_auto_deletion_and_sanctions.md): same source document (doc_0299)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
 
 ## Source
 

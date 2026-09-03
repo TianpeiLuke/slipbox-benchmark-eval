@@ -34,7 +34,7 @@ This is the **single canonical body** for the `slipbox-plan-digestion` skill (FZ
 
 ## Skill description <!-- :: section_id = skill_description :: -->
 
-Read a corpus document (or a cluster of documents) from `data/corpus/$CORPUS/` and generate a structured digestion plan that decomposes it into BB-atomic notes. Each planned note corresponds to exactly one building block type. The plan controls content density (split past 1,800 source words at a sub-topic boundary), maps every source paragraph block to a note, identifies cross-references, and defines validation gates. Outputs plan to `experiments/plans/$CORPUS/`. Use before execution, once the corpus has been prepared by `scripts/prepare_corpus.py`. The source is always local — there is no web fetch and no external URL.
+Read a documentation source (wiki site, corpus docs, corpus document doc, PDF, or any multi-section document) and generate a structured digestion plan that decomposes the content into BB-atomic notes. Each planned note corresponds to exactly one building block type. The plan controls content density (split if >400 lines, >1800 words, or >6 code blocks), maps every source section to a note, identifies cross-references, and defines validation gates. Outputs plan to `experiments/plans/`. Use when the user provides a documentation URL or source and wants to plan how to digest it into vault notes before execution.
 
 ## Setup <!-- :: section_id = setup :: -->
 
@@ -60,39 +60,36 @@ PLANS="experiments/plans/$CORPUS"
 
 ### 1a. Determine source type
 
-| Source | How to Read | Path |
+| Source Type | How to Read | Examples |
 |-------------|-------------|---------|
-| Corpus document | `scripts/plan_coverage.py $CORPUS --segment <doc_id>` then `Read` for full text | `data/corpus/$CORPUS/<doc_id>.txt` |
+| Corpus document | `Read` tool | `corpus/<doc_id>.txt` |
+| Source repository | `Read` tool | a checked-out path |
+| External URL | `WebFetch` | any public documentation URL |
+| Local file/PDF | `Read` tool | File path provided by user |
 
-The source is always a local corpus document under `data/corpus/$CORPUS/`. There is
-no web fetch, no external URL, and no crawling of linked pages — the corpus is fixed
-and prepared by `scripts/prepare_corpus.py`. Reading anything outside
-`data/corpus/$CORPUS/` — in particular the quarantined questions file under
-`data/raw/$CORPUS/` — breaks blind ingestion.
+### 1b. Read the root page and all leaf pages
 
-### 1b. Read every assigned corpus document in full
+Read the source URL. Extract all linked sub-pages (child pages, leaf pages). Read each one.
 
-Read each `data/corpus/$CORPUS/<doc_id>.txt` in the cluster/slice fully — there are
-no linked sub-pages to crawl. Each corpus document is one self-contained file: a
-title line, then paragraph blocks split on blank lines (`\n\n`).
+### 1c. MEASURE content size per page (not estimate)
 
-### 1c. MEASURE source size per document (not estimate)
+For each page, you MUST record **measured** word counts and section counts — not estimates from memory or training knowledge. The measurement comes from the actual tool output (WebFetch, local file read, or Read).
 
-For each corpus document, record **measured** paragraph-block and word counts from
-`scripts/plan_coverage.py $CORPUS --segment <doc_id>` — never an estimate from
-memory. `--segment` prints each `\n\n`-split block with its word count (block 0 is
-always the title); those are the exact indices the plan assigns.
+**Measurement protocol**:
+1. After reading each page, count words in the tool output (or ask the fetch tool to report word count)
+2. Count code blocks (``` pairs / 2)
+3. List all H2/H3 headings
 
 Record in a table:
 
 ```
-| doc_id | Blocks | Words | Notes it maps to |
-|--------|--------|-------|------------------|
+| Page | URL | Measured Words | Code Blocks | H2/H3 Headings |
+|------|-----|---------------|-------------|-----------------|
 ```
 
-> **WARNING**: assign by the block indices `--segment` reports, not by re-reading
-> and re-counting. The assignment JSON and every coverage / duplicate-block gate are
-> keyed on those exact indices, so a hand-counted range silently mis-scores.
+> **WARNING — Common failure mode**: Agents frequently UNDERESTIMATE page sizes by 50-70% when working from training knowledge instead of actual page reads. AWS documentation pages typically contain 2000-5000 words each (not 800-1500). If your estimates seem low (most pages <1500w), you likely did not actually read the page — go back and WebFetch it.
+
+**Calibration check**: If total source content across all pages is <5000 words for a multi-page documentation site, your measurements are almost certainly wrong. A typical AWS service developer guide chapter has 15,000-50,000 words.
 
 ### 1d. Assess total content volume — decide if sub-plans needed
 
@@ -449,7 +446,7 @@ The plan does NOT need to duplicate the full capture-term-note spec, but it MUST
 - **YAML frontmatter** (required): `tags`, `keywords`, `topics`, `language: markdown`, `date of note`, `status: active`, `building_block: concept`, `access_control_group: ["general"]`, `related_wiki` (primary wiki URL or null)
 - **H1 pattern**: `# ACRONYM - Full Name`
 - **Required H2 sections in order**: `## Definition` (1-2 paragraphs) → `## Context` (teams, systems, programs) → `## Key Characteristics` (bullet list) → `## Performance / Metrics` (OPTIONAL — only if metrics found) → `## Related Terms` (**8-15 links minimum**, mix of in-domain + cross-domain) → `## References` (external URLs ONLY, ≥1 internal wiki/corpus document URL)
-- **Research sources under blind ingestion** (load-bearing): the term's own **corpus** source blocks under `data/corpus/$CORPUS/` (the only scored evidence, and the only thing that may populate `source_docs`) + **vault** cross-references via `scripts/retrieval.py`. External sources (Wikipedia, textbooks, official open-source docs) may add orthogonal context ONLY in a quarantined `## Background (external)` section (`enriched: web` + `external_refs`), never scored. Internal Amazon systems (wiki, SAGE_HORDE, BROADCAST) are out of scope — they would break the quarantine and leak internal tokens.
+- **Multi-source research domains** (load-bearing): `builder-mcp WIKI` (internal wiki at the corpus) + `corpus document` (the corpus) + `builder-mcp SAGE_HORDE` (corporate search) + `builder-mcp BROADCAST` (launch announcements) + ≥2 external sources (Wikipedia, textbooks, official open-source docs)
 - **Cross-domain Related Terms** (the diversity requirement): per the capture-term-note canonical Step 3e, the Related Terms section MUST include cross-domain connections — Foundation, Application, Analogy, Contrast, Successor/Predecessor, Component
 - **Fleeting content guard** (Step 4b in capture skill): no person aliases as POCs/owners (use team aliases), no bare dollar amounts without `(as of YYYY)`, no bare ETAs, no team headcounts without qualifiers
 - **Glossary entry format** (Step 5 of capture skill): 4-5 sentence Description (hard limit), no metrics, bold the single most important distinguishing fact
@@ -618,10 +615,35 @@ parameter to the retrieval comparison for no benefit.
 
 ```yaml
 ---
+tags:                                # FM-010 — 2+, first is a P.A.R.A. type
+  - resource                         #   archive | area | entry_point | project | resource
+  - <domain tag>
+keywords:                            # FM-020 — 3+, and see below
+  - <term the note is about>
+  - <term a question would use>
+  - <acronym or variant spelling>
+topics:                              # FM-030
+  - <broad subject area>
+language: markdown                   # FM-040
+date of note: <YYYY-MM-DD>           # FM-040
+status: active                       # FM-040
 building_block: <one of the eight>   # FM-002 / FM-003 — closed enum
-source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this note
+source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence, the scoring key
 ---
 ```
+
+**`keywords` and `topics` are retrieval surface, not decoration.** Graph
+traversal can be seeded by matching a query against
+`note_name`, `keywords`, `topics` and `tags` — so a note with none of them is
+invisible to that seeding, and a vault with none of them cannot run the strategy
+at all. They are also a denser statement of what the note is about than its body:
+a short question tends to use the vocabulary a keyword list is written in, while
+a body buries that vocabulary among incidental words. Write keywords a
+*questioner* would use, not a summary of the note.
+
+`building_block` and `source_docs` are ERRORS if absent. The rest are WARNINGS:
+their absence degrades retrieval without making a note unscorable, and gating on
+them would block a vault that is merely incomplete rather than wrong.
 
 `navigation` notes — glossaries, entry points, indexes — are **exempt from
 `source_docs`**. They index rather than assert, so there is no document to trace
@@ -775,13 +797,13 @@ deletes.
 
 | Error | Cause | Recovery |
 |-------|-------|----------|
-| Corpus document missing/empty | `doc_id` not under `data/corpus/$CORPUS/` | Re-run `scripts/prepare_corpus.py $CORPUS`; verify the id exists in `index.json` |
+| Source returns 404/empty | URL invalid or page deleted | Ask user for correct URL |
 | Too many pages (50+) | Very large wiki site | Split into multiple plans by domain; ask user which to prioritize |
 | Can't determine BB for a section | Mixed content | Default to the dominant BB; add split decision if >500w of each |
 | Existing note covers same content | Duplication risk | Document in plan as "do NOT duplicate"; link instead |
 | User disagrees with routing | Subjective choice | Update routing decision per user feedback |
-| Word counts seem too low | Blocks estimated from memory, not segmented | Re-run `scripts/plan_coverage.py $CORPUS --segment <doc_id>` for every doc and use its block word counts. Re-apply the Step 3c density thresholds. This is the #1 cause of under-splitting. |
-| Plan delegated to background agent | Agent may skip document reads | Verify the source table's block/word counts against `--segment` output during augmentation (Step 2). Flag any doc not segmented. |
+| Word counts seem too low (most pages <1500w) | Pages not actually read — estimated from training knowledge | Go back to Step 1b and WebFetch/Read every page. Record measured word counts. Re-apply Step 3c source-page-level thresholds. This is the #1 cause of under-splitting. |
+| Plan delegated to background agent | Agent may skip page reads | Verify Source table word counts against actual page reads during augmentation (Step 2). Flag "unread" pages explicitly. |
 
 ## Related Entry Point <!-- :: section_id = related_entry_point :: -->
 

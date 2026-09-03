@@ -13,6 +13,7 @@ At its center, controversially edging Cruise's slinky pas-de-deux with Rebecca F
 
 ## Related Notes
 
+
 - [Dr. Death, Reacher and Prisoner's Daughter Releases](dr_death_reacher_and_prisoners_daughter_releases.md): both discuss Tom Cruise, from a different source document
 - [Keith Urban and Nicole Kidman Marriage](keith_urban_and_nicole_kidman_marriage.md): another Tom Cruise reference in a separate article
 - [Yellowjackets, Rebel Moon and Strife December Releases](yellowjackets_rebel_moon_and_strife_december_releases.md): both discuss a "Part One" release, from a different document
@@ -21,6 +22,8 @@ At its center, controversially edging Cruise's slinky pas-de-deux with Rebecca F
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
 - [Barbenheimer Summer 2023 Phenomenon](barbenheimer_summer_2023_phenomenon.md): the year-in-review framing published with this list
 - [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): another entry from the same ranked list
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): same source document (doc_0094)
+- [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): same source document (doc_0094)
 
 ## Source
 

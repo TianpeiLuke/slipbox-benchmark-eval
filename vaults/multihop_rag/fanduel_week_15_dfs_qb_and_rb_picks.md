@@ -15,11 +15,19 @@ Rachaad White (Buccaneers @ Packers) had rewarded his backers with eight straigh
 
 ## Related Notes
 
+
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also discusses Rachaad White, from a different document.
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): shares the draft-pick and playoff-seeding themes, from a different document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also discusses Zach Wilson, from a different document.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): shares the daily-fantasy and playoff-seeding themes, from a different document.
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): also discusses Zach Wilson, from a different document.
+- [FanDuel NFL DFS Contest Format And Scoring Rules](fanduel_nfl_dfs_contest_format_and_scoring.md): same source document (doc_0056)
+- [FanDuel Week 15 DFS Receiver, Tight End, Flex And Defense Picks](fanduel_week_15_dfs_wr_te_flex_and_defense_picks.md): same source document (doc_0056)
+- [SuperDraft's Multiplier-Based DFS Scoring Format](superdraft_dfs_multiplier_scoring_format.md): same source document (doc_0056)
+- [SuperDraft Week 15 NFL DFS Lineup](superdraft_week_15_nfl_dfs_lineup.md): same source document (doc_0056)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

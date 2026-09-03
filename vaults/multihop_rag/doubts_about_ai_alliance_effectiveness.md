@@ -13,6 +13,7 @@ The conclusion is held open rather than asserted: perhaps the writer is wrong an
 
 ## Related Notes
 
+
 - [Alliance DAO Accelerator Program](alliance_dao_accelerator_program.md): overlapping alliance-and-membership vocabulary, from a different source document.
 - [Alliance DAO ALL11 Cohort Selectivity](alliance_dao_all11_cohort_selectivity.md): overlapping alliance-and-membership vocabulary, from a different source document.
 - [Gastroparesis, Pancreatitis, Bowel Obstruction And Ileus](gastroparesis_pancreatitis_bowel_obstruction_and_ileus.md): also concerns the Cleveland Clinic, from a different source document.
@@ -21,6 +22,8 @@ The conclusion is held open rather than asserted: perhaps the writer is wrong an
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): drawn from the same source document (doc_0268), the diverse membership at issue.
 - [AI Alliance Notable Non-Members](ai_alliance_notable_non_members.md): drawn from the same source document (doc_0268), the absent players this objection turns on.
 - [AI Alliance Working Groups And Governance Plan](ai_alliance_working_groups_and_governance_plan.md): drawn from the same source document (doc_0268), the structures said to lack deadlines and objectives.
+- [IBM's Generative AI Business Motive In The AI Alliance](ibm_generative_ai_business_motive_in_ai_alliance.md): same source document (doc_0268)
+- [Meta's Open Source AI Strategy And Motives](meta_open_source_ai_strategy_and_motives.md): same source document (doc_0268)
 
 ## Source
 

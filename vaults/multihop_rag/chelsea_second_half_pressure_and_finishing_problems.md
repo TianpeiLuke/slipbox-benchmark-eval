@@ -13,6 +13,7 @@ Chelsea eventually clung on for a fourth league win of the season after Bentancu
 
 ## Related Notes
 
+
 - [Man United-Chelsea Second Half Live Updates](man_united_chelsea_second_half_live_updates.md): overlapping second-half Chelsea match coverage, from a different source document.
 - [Paul Mitchell's Recruitment Career Record](paul_mitchell_recruitment_career_record.md): also discusses Eric Dier, from a different source document.
 - [Ange Postecoglou's Reaction and Unbeaten Home Record](ange_postecoglou_reaction_and_unbeaten_home_record.md): same source document, on the losing manager's assessment.
@@ -21,6 +22,8 @@ Chelsea eventually clung on for a fourth league win of the season after Bentancu
 - [Red Cards and VAR Decisions in Tottenham vs Chelsea](spurs_chelsea_red_cards_and_var_decisions.md): same source document, on the dismissals that gave Chelsea the advantage described here.
 - [Tottenham's Unbeaten Run Ends in a Home Loss to Chelsea](tottenham_1_4_chelsea_november_2023_result.md): same source document, giving the overall result.
 - [Tottenham and Chelsea's Next Fixtures, November 2023](tottenham_and_chelsea_next_fixtures_november_2023.md): same source document, on what each side faced next.
+- [Tottenham vs Chelsea, November 2023: Line-Ups And Referee](tottenham_chelsea_line_ups_and_referee_november_2023.md): same source document (doc_0478)
+- [Tottenham's Early Lead And First-Half Chances Against Chelsea](tottenham_early_lead_and_first_half_chances_vs_chelsea.md): same source document (doc_0478)
 
 ## Source
 

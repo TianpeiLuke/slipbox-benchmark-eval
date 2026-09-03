@@ -13,6 +13,7 @@ The date is the operative scope condition: the answer is not that Call of Duty w
 
 ## Related Notes
 
+
 - [Inzone H9 And Seagate Xbox Expansion Card Deals](inzone_h9_and_seagate_xbox_expansion_card_deals.md): overlaps on PlayStation, Sony and Xbox hardware, from a different source document.
 - [Mario Kart 8 Deluxe](mario_kart_8_deluxe.md): overlaps on Mario and best-selling games, from a different source document.
 - [PS5 Slim Call Of Duty Bundle Deal](ps5_slim_call_of_duty_bundle_deal.md): overlaps on Call of Duty and Sony consoles, from a different source document.
@@ -21,6 +22,8 @@ The date is the operative scope condition: the answer is not that Call of Duty w
 - [Fan Opposition To Activision Console Exclusivity Risk](fan_opposition_to_activision_console_exclusivity_risk.md): drawn from the same source document (doc_0214).
 - [Gamer Reactions At EGX To The Microsoft-Activision Deal](gamer_reactions_at_egx_to_microsoft_activision_deal.md): drawn from the same source document (doc_0214).
 - [Microsoft's Activision Blizzard King Acquisition](microsoft_activision_blizzard_king_acquisition.md): drawn from the same source document (doc_0214).
+- [Microsoft's Gaming Studio Acquisition Portfolio](microsoft_gaming_studio_acquisition_portfolio.md): same source document (doc_0214)
+- [The Microtransaction Revenue Rationale For The Activision Acquisition](microtransaction_revenue_rationale_for_activision_acquisition.md): same source document (doc_0214)
 
 ## Source
 

@@ -11,11 +11,17 @@ He also set out the week's conditions and his own targets. Week 12 had all 32 te
 
 ## Related Notes
 
+
 - [2023 Bowl Season Betting Trends](2023_bowl_season_betting_trends.md): shares the straight-up and season-long betting-record framing, from a different source document.
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): explains the spread mechanic behind an against-the-spread record, from a different source document.
 - [Fantasy Week 12 Schedule and No-Bye Teams](fantasy_week_12_schedule_and_no_bye_teams.md): covers the same all-32-teams Week 12 slate, from a different source document.
 - [Jedd Fisch on Arizona Program Trajectory](jedd_fisch_on_arizona_program_trajectory.md): shares the improve-against-tougher-competition framing, from a different source document.
 - [NFL 2023 Week 13 Playoff Race Overview](nfl_2023_week_13_playoff_race_overview.md): covers the adjacent week in the same season, from a different source document.
+- [Prisco's Week 12 Sunday Early Window Picks](prisco_week_12_sunday_early_window_picks.md): same source document (doc_0343)
+- [Prisco's Week 12 Sunday Late Afternoon Picks](prisco_week_12_sunday_late_afternoon_picks.md): same source document (doc_0343)
+- [Prisco's Week 12 Sunday Night And Monday Night Picks](prisco_week_12_sunday_night_and_monday_night_picks.md): same source document (doc_0343)
+- [Prisco's Week 12 Thanksgiving And Black Friday Picks](prisco_week_12_thanksgiving_and_black_friday_picks.md): same source document (doc_0343)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

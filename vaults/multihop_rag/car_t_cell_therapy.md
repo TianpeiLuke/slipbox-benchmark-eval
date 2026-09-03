@@ -11,10 +11,18 @@ The segment has also witnessed significant M&A, with Celgene acquiring Juno Ther
 
 ## Related Notes
 
+
 - [DAAM1 Intestinal Stem Cell Study Overview](daam1_intestinal_stem_cell_study_overview.md): concerns cell-level cancer biology, from a different source document.
 - [Latent HIV Reservoir Challenge](latent_hiv_reservoir_challenge.md): concerns cell-targeting therapies for another disease, from a different source document.
 - [Alzheimer's Lecanemab And Aducanumab Approvals](alzheimers_lecanemab_and_aducanumab_approvals.md): drawn from the same article and covers another therapy area it surveys.
 - [Antibody Drug Conjugates Market](antibody_drug_conjugates_market.md): drawn from the same article and gives the other targeted-cancer modality.
+- [Cancer Immunotherapy And Checkpoint Inhibitors](cancer_immunotherapy_checkpoint_inhibitors.md): same source document (doc_0239)
+- [A Framework For Valuing US Pharma Stocks](framework_for_valuing_us_pharma_stocks.md): same source document (doc_0239)
+- [GLP-1 Receptor Agonists In Diabetes And Weight Loss](glp1_receptor_agonists_diabetes_and_weight_loss.md): same source document (doc_0239)
+- [HIV Antiretroviral Therapy And Cure Research](hiv_antiretroviral_therapy_and_cure_research.md): same source document (doc_0239)
+- [Stock Calls On Novo Nordisk, AbbVie And Merck](novo_nordisk_abbvie_merck_stock_calls.md): same source document (doc_0239)
+- [Why Indian Investors Should Look To US Big Pharma](us_big_pharma_investment_rationale_for_indian_investors.md): same source document (doc_0239)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

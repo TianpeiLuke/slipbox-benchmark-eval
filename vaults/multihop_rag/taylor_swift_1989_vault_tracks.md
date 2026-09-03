@@ -13,12 +13,18 @@ All five new songs were co-written and produced by Jack Antonoff, which suggests
 
 ## Related Notes
 
+
 - [Britney Spears Music Making From Baby One More Time To Blackout](britney_spears_music_making_from_baby_one_more_time_to_blackout.md): also discusses producer Max Martin, in a different document
 - [CD Unfamiliarity As Generational Marker](cd_unfamiliarity_as_generational_marker.md): shares reference to "Now That" material from another source
 - [HSF Q4 2023 Catalogue Revenue Drivers](hsf_q4_2023_catalogue_revenue_drivers.md): also mentions Jack Antonoff, from a different document
 - [NFL Broadcasters' Taylor Swift Lyric References](nfl_broadcasters_taylor_swift_lyric_references.md): also references Blank Space, in a sports broadcast context
 - [Taylor Swift's Approach To Public Scrutiny](taylor_swift_approach_to_public_scrutiny.md): also references Blank Space and media portrayal, from another source
 - [All You Had To Do Was Stay](all_you_had_to_do_was_stay_taylor_swift_song.md): from the same BBC article on 1989
+- [Bad Blood, The Katy Perry Feud And Rolling Stone's Last Place](bad_blood_taylor_swift_katy_perry_feud.md): same source document (doc_0257)
+- [Blank Space As Satire Of The "Psycho Serial Dater" Caricature](blank_space_taylor_swift_song.md): same source document (doc_0257)
+- [Clean: The Imogen Heap Collaboration That Closed 1989](clean_taylor_swift_song_imogen_heap.md): same source document (doc_0257)
+- [How You Get The Girl As A Step-By-Step Reconciliation Tutorial](how_you_get_the_girl_taylor_swift_song.md): same source document (doc_0257)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

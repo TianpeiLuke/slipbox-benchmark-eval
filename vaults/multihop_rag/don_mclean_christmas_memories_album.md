@@ -13,6 +13,7 @@ McLean, born in New Rochelle, New York, connected the record to his own upbringi
 
 ## Related Notes
 
+
 - [Carols Express Both Joy and Sorrow](carols_express_both_joy_and_sorrow.md): also concerns "White Christmas", from a different source document.
 - [December 2023 Box Office Weekend Slowdown](december_2023_box_office_weekend_slowdown.md): also concerns "Silent Night", from a different source document.
 - [Taylor Swift's Album Track Selection Philosophy](taylor_swift_album_track_selection_philosophy.md): overlapping coverage of album and song selection, from a different source document.
@@ -21,6 +22,8 @@ McLean, born in New Rochelle, New York, connected the record to his own upbringi
 - [American Pie's Billboard Record and Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): drawn from the same source document, doc_0393.
 - [Don McLean's Career Honours and Recognition](don_mclean_career_honours_and_recognition.md): drawn from the same source document, doc_0393.
 - [Don McLean on the Emotional Power of Music](don_mclean_on_the_emotional_power_of_music.md): drawn from the same source document, doc_0393.
+- [Don McLean's Upcoming Albums and Touring](don_mclean_upcoming_albums_and_touring.md): same source document (doc_0393)
+- [Don McLean's "Vincent" and the Children's Book](don_mclean_vincent_song_and_childrens_book.md): same source document (doc_0393)
 
 ## Source
 

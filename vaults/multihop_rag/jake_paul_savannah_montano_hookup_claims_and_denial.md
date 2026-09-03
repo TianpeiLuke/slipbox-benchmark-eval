@@ -11,11 +11,16 @@ The surrounding facts weaken the callout's premise as well: it didn't help much,
 
 ## Related Notes
 
+
 - [Democratic Social Media Campaign Dominance](democratic_social_media_campaign_dominance.md): also concerns Instagram Stories as a communication channel, from a different source document.
 - [Influencer Mobilization Versus Endorsement Research](influencer_mobilization_versus_endorsement_research.md): also covers Jake Paul, from a different source document.
 - [Jake Paul Endorsement Backlash](jake_paul_endorsement_backlash.md): also covers Jake Paul, from a different source document.
 - [Kevin Federline 2022 Comments and the Spears Camp Rebuttal](kevin_federline_2022_comments_and_the_spears_camp_rebuttal.md): another dispute conducted through Instagram Stories, from a different source document.
 - [Meta 2021 Conflict Moderation](meta_2021_conflict_moderation.md): also concerns Instagram Stories, from a different source document.
+- [Are Dillon Danis And Savannah Montano Still Together? The Available Signals](dillon_danis_and_savannah_montano_relationship_status.md): same source document (doc_0274)
+- [Dillon Danis's Feud With The Paul Brothers Predates The Logan Paul Fight](dillon_danis_feud_with_the_paul_brothers.md): same source document (doc_0274)
+- [Savannah Montano And Jake Paul's 2020 FaceTime Callout](savannah_montano_and_the_2020_jake_paul_callout.md): same source document (doc_0274)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

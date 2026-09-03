@@ -13,11 +13,18 @@ On Wednesday, Aug. 9: Leeds United 2-1 Shrewsbury; Bristol City 5-1 Oxford Unite
 
 ## Related Notes
 
+
 - [Carabao Cup 2023 Quarter Final Draw](carabao_cup_2023_quarter_final_draw.md): also concerns the Carabao Cup and Port Vale, from a different document.
 - [Fulham Form and League Position November 2023](fulham_form_and_league_position_november_2023.md): also mentions Ipswich Town, from a different document.
 - [Kids' School Supply and Reading Timer Gifts 2023](kids_school_supply_and_reading_timer_gifts_2023.md): shares surface vocabulary with the penalty shootout notation, from a different document.
 - [Manchester United 2023 Champions League Group Stage Exit](manchester_united_2023_champions_league_group_stage_exit.md): also mentions Blackburn Rovers and the Carabao Cup, from a different document.
 - [Manchester United Form Slump Autumn 2023](manchester_united_form_slump_autumn_2023.md): also mentions the Carabao Cup, from a different document.
+- [Carabao Cup 2023/24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): same source document (doc_0100)
+- [What The Carabao Cup Is And What Winning It Is Worth In 2023/24](carabao_cup_2023_24_overview_and_stakes.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Second Round Results](carabao_cup_2023_24_second_round_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Semifinal Draw And Fixtures](carabao_cup_2023_24_semifinal_draw_and_fixtures.md): same source document (doc_0100)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

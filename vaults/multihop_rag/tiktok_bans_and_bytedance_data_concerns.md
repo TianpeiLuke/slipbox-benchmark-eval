@@ -11,6 +11,7 @@ A small number of jurisdictions have banned or are attempting to ban TikTok alto
 
 ## Related Notes
 
+
 - [Apple Usb C Accessory Transition](apple_usb_c_accessory_transition.md): also discusses European Union, from a different source document.
 - [ASPI Analysis of TikTok Pixel Data Aggregation Risk](aspi_analysis_of_tiktok_pixel_data_aggregation_risk.md): the technical data-risk case, from a different source document.
 - [Beuc Consumer Complaint Meta Pay or Consent](beuc_consumer_complaint_meta_pay_or_consent.md): also discusses European Union, from a different source document.
@@ -19,6 +20,8 @@ A small number of jurisdictions have banned or are attempting to ban TikTok alto
 - [Luminate TikTok Music Study 2023](luminate_tiktok_music_study_2023.md): the study whose favourable findings sit against this risk (doc_0363).
 - [Tiktok Claim to Drive Music Discovery](tiktok_claim_to_drive_music_discovery.md): another note drawn from the same source document (doc_0363).
 - [Tiktok Glocalization of International Music](tiktok_glocalization_of_international_music.md): another note drawn from the same source document (doc_0363).
+- [TikTok Users' Music Discovery And Sharing Rates](tiktok_music_discovery_and_sharing_rates.md): same source document (doc_0363)
+- [TikTok's Expansion Into Music Services](tiktok_music_services_expansion.md): same source document (doc_0363)
 
 ## Source
 

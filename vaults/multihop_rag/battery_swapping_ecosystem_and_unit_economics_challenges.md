@@ -15,12 +15,19 @@ The same tension was flagged more generally in TechCrunch's 9 December 2023 roun
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-life and charging theme, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery-life and charging theme, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery-life and charging theme, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares the battery-life and charging theme, from a different source document.
 - [Anker 3-in-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): shares the battery-life and charging theme, from a different source document.
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
+- [Anduril's Roadrunner Counter-Air Vehicle](anduril_roadrunner_counter_air_vehicle.md): same source document (doc_0334)
+- [Bitcoin's Ascent To $44,000](bitcoin_ascent_to_44000_dollars.md): same source document (doc_0334)
+- [The Consumer Trading Recovery At Coinbase And Robinhood](consumer_trading_recovery_coinbase_and_robinhood.md): same source document (doc_0334)
+- [David Pakman's Venture Background At CoinFund](david_pakman_coinfund_venture_background.md): same source document (doc_0334)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

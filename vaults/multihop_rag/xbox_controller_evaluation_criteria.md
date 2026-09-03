@@ -13,6 +13,7 @@ Value: is it priced affordably, about average, or does it come at a steep premiu
 
 ## Related Notes
 
+
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): a controller assessed on the same remapping and extras criteria, from a different source document.
 - [Audio-Technica ATH-M20xBT Deal](audio_technica_ath_m20xbt_deal.md): shares the wireless-connectivity and value framing, from a different source document.
 - [Wired's November 2023 Gaming Mouse Deals](wired_november_2023_gaming_mouse_deals.md): applies similar button-and-connectivity criteria to another input device, from a different source document.
@@ -21,6 +22,8 @@ Value: is it priced affordably, about average, or does it come at a steep premiu
 - [PowerA Fusion Pro 3 Controller](powera_fusion_pro_3_controller.md): drawn from the same source document (doc_0350).
 - [Scuf Instinct Pro Controller](scuf_instinct_pro_controller.md): drawn from the same source document (doc_0350).
 - [Turtle Beach Recon Controller](turtle_beach_recon_controller.md): drawn from the same source document (doc_0350).
+- [The Xbox Controller Market In Late 2023](xbox_controller_market_overview.md): same source document (doc_0350)
+- [Quality Control Concerns About The Elite Series 2](xbox_elite_series_2_quality_control_concerns.md): same source document (doc_0350)
 
 ## Source
 

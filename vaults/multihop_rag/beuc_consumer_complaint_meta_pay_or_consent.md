@@ -13,11 +13,19 @@ The groups object both to how Meta has gone about implementing the "pay-or-conse
 
 ## Related Notes
 
+
 - [Apple USB-C Accessory Transition](apple_usb_c_accessory_transition.md): another European Union rule reshaping a tech company's offering, from a different document.
 - [Australia's Davis Cup Semi-Final Win Over Finland](australia_davis_cup_semi_final_win_over_finland.md): also mentions the Czech Republic, from a different document.
 - [Australia-Italy Davis Cup Final 2023 Preview](australia_italy_davis_cup_final_2023_preview.md): also mentions the Czech Republic, from a different document.
 - [CJEU 2020 Ruling On The Rental And Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): also concerns European Union law, from a different document.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): shares the data-privacy and microtargeting themes, from a different document.
+- [BEUC's Consumer-Law Case Against Meta's Pay-Or-Consent Model](beuc_consumer_law_objections_to_meta_model.md): same source document (doc_0140)
+- [BEUC: The Choice And Its Implementation Cannot Be Separated](beuc_position_choice_versus_implementation.md): same source document (doc_0140)
+- [How CPC Network Consumer Protection Enforcement Works](cpc_network_consumer_protection_enforcement.md): same source document (doc_0140)
+- [DMA And DSA Oversight Of Meta's Advertising Consent](dma_dsa_oversight_of_meta_advertising_consent.md): same source document (doc_0140)
+- [The GDPR Track Running Alongside The Consumer Complaint](meta_pay_or_consent_gdpr_dimension.md): same source document (doc_0140)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Microtargeting](term_microtargeting.md): uses the concept microtargeting
 
 ## Source
 

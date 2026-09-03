@@ -13,11 +13,20 @@ Negotiations then hit a snag: Bloomberg reported that Brad Lightcap and Mira Mur
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also covers Sam Altman, from a different source document.
 - [Anthropic Founding by OpenAI Researchers](anthropic_founding_by_openai_researchers.md): also covers Sam Altman, from a different source document.
 - [ChatGPT 100 Million User Milestone](chatgpt_100_million_user_milestone.md): also covers Sam Altman, from a different source document.
 - [ChatGPT Launch and First Year Evolution](chatgpt_launch_and_first_year_evolution.md): also covers Sam Altman, from a different source document.
 - [Clark Cease and Desist and Political Friction](clark_cease_and_desist_and_political_friction.md): shares the board governance and lobbying political donations theme, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): same source document (doc_0048)
+- [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): same source document (doc_0048)
+- [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): same source document (doc_0048)
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [Board Governance](term_board_governance.md): uses the concept board governance
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

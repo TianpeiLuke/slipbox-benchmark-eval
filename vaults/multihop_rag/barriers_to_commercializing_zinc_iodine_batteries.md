@@ -11,6 +11,7 @@ Against the promising cycling results, Hongjin Fan acknowledged there is much to
 
 ## Related Notes
 
+
 - [Record Salt Loading Hydrogel Results](record_salt_loading_hydrogel_results.md): another hydrogel result whose practical use is still being worked out.
 - [Salty Hydrogel Atmospheric Water Harvesting](salty_hydrogel_atmospheric_water_harvesting.md): another hydrogel material facing questions about scale-up.
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): connected through a shared battery-technology tag.
@@ -19,6 +20,12 @@ Against the promising cycling results, Hongjin Fan acknowledged there is much to
 - [Amazon Echo Buds (2023)](amazon_echo_buds_2023.md): connected through a shared battery-technology tag.
 - [Amazon Echo Buds Second and Third Generation Deals](amazon_echo_buds_second_and_third_gen_deals.md): connected through a shared battery-technology tag.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): connected through a shared battery-technology tag.
+- [Hetero-Polyionic Hydrogel Electrolyte Design](hetero_polyionic_hydrogel_electrolyte_design.md): same source document (doc_0286)
+- [Hydrogel Zinc-Iodine Battery Cycling Results](hydrogel_zinc_iodine_battery_cycling_results.md): same source document (doc_0286)
+- [Lithium-Ion Battery Demand and Thermal Runaway Risk](lithium_ion_battery_demand_and_thermal_runaway_risk.md): same source document (doc_0286)
+- [Zinc-Iodine Battery Advantages and the Dendrite Problem](zinc_iodine_battery_advantages_and_dendrite_problem.md): same source document (doc_0286)
+- [The Zincophilic and Iodophilic Hydrogel Mechanism](zincophilic_and_iodophilic_hydrogel_mechanism.md): same source document (doc_0286)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

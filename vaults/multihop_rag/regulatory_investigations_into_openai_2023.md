@@ -15,11 +15,23 @@ In the United States, the FTC was reportedly in at least the exploratory phase o
 
 ## Related Notes
 
+
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): shares the data breach and data privacy theme, from a different source document.
 - [AI Copyright and Training Disputes](ai_copyright_and_training_disputes.md): shares the fraud and generative AI theme, from a different source document.
 - [Alexa Kids Privacy and Hardware](alexa_kids_privacy_and_hardware.md): shares the data privacy and generative AI theme, from a different source document.
 - [Apple iOS Security Fixes and Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares the data privacy and lobbying political donations theme, from a different source document.
 - [Apple USB C Accessory Transition](apple_usb_c_accessory_transition.md): also covers European Union, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): same source document (doc_0048)
+- [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): same source document (doc_0048)
+- [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): same source document (doc_0048)
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

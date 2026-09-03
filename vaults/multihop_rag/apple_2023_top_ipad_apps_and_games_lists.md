@@ -15,11 +15,18 @@ Among games, the top free iPad titles were Roblox, Magic Tiles 3: Piano Game, Su
 
 ## Related Notes
 
+
 - [Activision $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): also concerns the App Store, from a different source document.
 - [Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): shares the "Shop Like a Billionaire" shopping-app subject matter, from a different source document.
 - [Apple Gift Card Amazon Credit Deal](apple_gift_card_amazon_credit_deal.md): also concerns the App Store, from a different source document.
 - [Bears Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also concerns Prime Video, from a different source document.
 - [Broadcast Rights Limits On Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): also concerns Prime Video, from a different source document.
+- [Apple's 2023 Top iPhone App And Game Lists](apple_2023_top_iphone_apps_and_games_lists.md): same source document (doc_0384)
+- [Why Chinese Apps Rose In The US App Store Rankings](chinese_apps_rise_in_us_app_store_rankings.md): same source document (doc_0384)
+- [Temu As The Top US iPhone App Of 2023](temu_top_us_iphone_app_of_2023.md): same source document (doc_0384)
+- [US Tech Giants' 2023 App Download Rankings](us_tech_giant_app_download_rankings_2023.md): same source document (doc_0384)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Antitrust](term_antitrust.md): uses the concept antitrust
 
 ## Source
 

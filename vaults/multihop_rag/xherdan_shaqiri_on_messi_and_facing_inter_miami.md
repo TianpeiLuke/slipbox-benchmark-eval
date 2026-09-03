@@ -13,6 +13,7 @@ Asked "Messi or Ronaldo?", Shaqiri confirmed he was Team Messi: "I'm always a bi
 
 ## Related Notes
 
+
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): also discusses Lionel Messi.
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also discusses Lionel Messi.
 - [Argentina Second Half and Messi Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): also discusses Lionel Messi.
@@ -21,6 +22,8 @@ Asked "Messi or Ronaldo?", Shaqiri confirmed he was Team Messi: "I'm always a bi
 - [Chicago Fire 4-1 Inter Miami October 2023 Recap](chicago_fire_4_1_inter_miami_october_2023_recap.md): the match these remarks previewed, same source document.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): first-half detail, same source document.
 - [Chicago Fire Inter Miami Second Half Live Blog](chicago_fire_inter_miami_second_half_live_blog.md): second-half detail, same source document.
+- [Chicago Fire-Inter Miami Lineups, Absentees And Pre-Match Outlook](chicago_fire_inter_miami_team_news_and_match_outlook.md): same source document (doc_0041)
+- [Inter Miami Eliminated From The 2023 MLS Playoff Race With Two Games Left](inter_miami_2023_mls_playoff_elimination.md): same source document (doc_0041)
 
 ## Source
 

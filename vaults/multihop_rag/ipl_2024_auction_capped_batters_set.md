@@ -13,6 +13,7 @@ At 1:42 PM IST Anil Kumble explained the Powell purchase: "RR don't need any bow
 
 ## Related Notes
 
+
 - [England 132 All Out in the T20 Series Decider](england_132_all_out_t20_series_decider.md): also discusses Harry Brook, from a different source document.
 - [First T20I Barbados Match Summary](first_t20i_barbados_match_summary.md): also discusses Rovman Powell, from a different source document.
 - [ICC World Cup 2023 Top Run Scorers](icc_world_cup_2023_top_run_scorers.md): also discusses Travis Head, from a different source document.
@@ -21,6 +22,8 @@ At 1:42 PM IST Anil Kumble explained the Powell purchase: "RR don't need any bow
 - [Harshal Patel's Vijay Hazare Trophy Form Before the IPL Auction](harshal_patel_vijay_hazare_trophy_form_before_ipl_auction.md): same auction live blog.
 - [IPL 2024 Auction: All-Rounders Set](ipl_2024_auction_all_rounders_set.md): same auction live blog, covering the set that followed this one.
 - [IPL 2024 Auction: Capped Pace and Spin Sets](ipl_2024_auction_capped_pace_and_spin_sets.md): same auction live blog, covering a later set.
+- [IPL 2024 Auction: The Capped Wicketkeepers Set](ipl_2024_auction_capped_wicketkeepers_set.md): same source document (doc_0307)
+- [IPL 2024 Auction: Expert Previews And Team Strategy](ipl_2024_auction_expert_previews_and_team_strategy.md): same source document (doc_0307)
 
 ## Source
 

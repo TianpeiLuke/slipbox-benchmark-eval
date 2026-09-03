@@ -11,6 +11,7 @@ Before that acquisition, Zim had made his fortune in food retailing — setting 
 
 ## Related Notes
 
+
 - [Palo Alto Networks Acquires Dig Security](palo_alto_networks_acquires_dig_security.md): another Israeli acquisition story, from a different source document.
 - [Wallbox Acquires Abl Charging Business](wallbox_acquires_abl_charging_business.md): shares vocabulary around million, acquired and together, from a different source document.
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): overlaps on acquisition subject matter, from a different source document.
@@ -19,6 +20,14 @@ Before that acquisition, Zim had made his fortune in food retailing — setting 
 - [Asx and Wall Street Selloff October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): overlaps on acquisition subject matter, from a different source document.
 - [Beeper Funding and Investors](beeper_funding_and_investors.md): overlaps on acquisition subject matter, from a different source document.
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): overlaps on acquisition subject matter, from a different source document.
+- [Three Causes Of Psagot's Value Decline](causes_of_psagot_value_decline.md): same source document (doc_0073)
+- [Group Psagot's Debt Refinancing Plan](group_psagot_debt_refinancing_plan.md): same source document (doc_0073)
+- [Group Psagot's Share Price Collapse](group_psagot_share_price_collapse.md): same source document (doc_0073)
+- [Psagot's Asset Growth Without Profit](psagot_asset_growth_without_profit.md): same source document (doc_0073)
+- [Psagot's Asset Sales To Kessem And The Phoenix Holdings Group](psagot_asset_sales_to_kessem_phoenix.md): same source document (doc_0073)
+- [Rani Zim's Search For A Psagot Buyer](rani_zim_search_for_a_psagot_buyer.md): same source document (doc_0073)
+- [Retail And Real Estate Management Skills Do Not Transfer To Finance](retail_management_skills_do_not_transfer_to_finance.md): same source document (doc_0073)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

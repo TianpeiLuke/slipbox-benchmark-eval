@@ -11,9 +11,18 @@ Engadget gave it a 96 in its review and liked how the bigger screen let you get 
 
 ## Related Notes
 
+
 - [Apple MacBook Air 15-Inch M2](apple_macbook_air_15_inch_m2.md): overlaps in content on this exact machine, from a different source document.
 - [Apple M3 Mac Reviews And Chip Lineup](apple_m3_mac_reviews_and_chip_lineup.md): overlaps in content on MacBook Pros and Apple's chip lineup, from a different source document.
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): also concerns Cyber Monday, from a different source document.
+- [Amazon Echo Show, Audible And Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): both discuss Cyber Monday; different source document
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): both discuss Cyber Monday; different source document
+- [Apple AirPods 3rd Gen Holiday Deal](apple_airpods_3rd_gen_holiday_deal.md): same source document (doc_0091)
+- [Apple AirPods Max Holiday Deal](apple_airpods_max_holiday_deal.md): same source document (doc_0091)
+- [Apple AirPods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): same source document (doc_0091)
+- [Apple AirTags Holiday Deal](apple_airtags_holiday_deal.md): same source document (doc_0091)
+- [Apple Gift Card And Amazon Credit Deal](apple_gift_card_amazon_credit_deal.md): same source document (doc_0091)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

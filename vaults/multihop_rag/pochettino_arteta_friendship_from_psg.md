@@ -13,6 +13,7 @@ The boundary Pochettino draws is not suppression but direction: for him it must 
 
 ## Related Notes
 
+
 - [Arteta Pochettino Derby Day Competitive Edge](arteta_pochettino_derby_day_competitive_edge.md): covers the same competitive bond between the two managers, from a different document.
 - [Carabao Cup 2023-24 First Round Results](carabao_cup_2023_24_first_round_results.md): also discusses the Carabao Cup, from a different document.
 - [Carabao Cup 2023-24 Overview and Stakes](carabao_cup_2023_24_overview_and_stakes.md): also discusses the Carabao Cup, from a different document.
@@ -21,6 +22,7 @@ The boundary Pochettino draws is not suppression but direction: for him it must 
 - [Chelsea Selection Crisis and Fixture Run](chelsea_selection_crisis_and_fixture_run.md): the squad backdrop to Pochettino's mood here, from the same document.
 - [Pochettino Defends James and His 'Chelsea DNA'](pochettino_defends_james_and_chelsea_dna.md): applies the same emotion-channeling view to his captain, from the same document.
 - [Reece James Hamstring Injury and Return Timeline](reece_james_hamstring_injury_and_return_timeline.md): the injury story running through the same interview, from the same document.
+- [Reece James' Touchline Outburst And FA Charge](reece_james_touchline_outburst_and_fa_charge.md): same source document (doc_0109)
 
 ## Source
 

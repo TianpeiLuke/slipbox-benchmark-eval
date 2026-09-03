@@ -11,6 +11,7 @@ The main card start times were listed as 8 p.m. ET, 5 p.m. PT, 1 a.m. BST, 10 a.
 
 ## Related Notes
 
+
 - [Day of Reckoning Undercard Results: Bivol, Dubois, Kabayel](day_of_reckoning_undercard_results_bivol_dubois_kabayel.md): also covers Frank Sanchez, from a different source document.
 - [Spill Community Quality Over Growth Argument](spill_community_quality_over_growth_argument.md): shares the Terrell name overlap, from a different source document.
 - [Spill Public Launch and Creator Payment Plans](spill_public_launch_and_creator_payment_plans.md): shares the Terrell name overlap, from a different source document.
@@ -19,6 +20,8 @@ The main card start times were listed as 8 p.m. ET, 5 p.m. PT, 1 a.m. BST, 10 a.
 - [Barrios vs Ugas Interim WBC Welterweight 2023](barrios_vs_ugas_interim_wbc_welterweight_2023.md): a bout on the same card (doc_0245).
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): the main event of the same card (doc_0245).
 - [Canelo Alvarez Next Opponents After Charlo Win](canelo_alvarez_next_opponents_after_charlo_win.md): the aftermath of the same card (doc_0245).
+- [Canelo vs Charlo: Sporting News' Round-By-Round Unofficial Scorecard](canelo_charlo_round_by_round_scorecard.md): same source document (doc_0245)
+- [Elijah Garcia Stops Armando Resendiz In The Eighth To Open The Canelo-Charlo PPV](elijah_garcia_stops_armando_resendiz_2023.md): same source document (doc_0245)
 
 ## Source
 

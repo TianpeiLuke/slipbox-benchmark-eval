@@ -15,11 +15,22 @@ TechCrunch's 2023-10-02 summary of his standing on the eve of trial: SBF has bee
 
 ## Related Notes
 
+
 - [Adam Yedidia's Testimony And The $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): also about Sam Bankman-Fried, from a different source document.
 - [Alameda Research As The Alleged Conduit For FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): overlapping coverage of Bankman-Fried and the movement of customer money, from a different source document.
 - [Alameda's Special Privileges Written Into FTX's Code](alameda_special_privileges_in_ftx_code.md): also about Sam Bankman-Fried, from a different source document.
 - [Binance's $4.3B DOJ Resolution And CZ's Guilty Plea](binance_doj_resolution_and_cz_guilty_plea.md): overlapping coverage of a crypto exchange chief pleading to criminal charges, from a different source document.
 - [Caroline Ellison's Guilty Plea And First Day Of Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): also about Sam Bankman-Fried, from a different source document.
+- [Alameda Research](alameda_research.md): same source document (doc_0010)
+- [Crypto Contagion After FTX](crypto_contagion_after_ftx.md): same source document (doc_0030)
+- [FTX](ftx.md): same source document (doc_0030)
+- [FTX's Bankruptcy And Leadership](ftx_bankruptcy_and_leadership.md): same source document (doc_0010)
+- [The Mechanism Of FTX's Collapse](ftx_collapse_mechanism.md): same source document (doc_0030)
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Plea Agreement](term_plea_agreement.md): uses the concept plea agreement
+- [Bail](term_bail.md): uses the concept bail
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

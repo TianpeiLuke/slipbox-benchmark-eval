@@ -13,11 +13,19 @@ The roundup's table listed each book's offer and promo code: Caesars Sportsbook,
 
 ## Related Notes
 
+
 - [American Odds Format](american_odds_format.md): shares the NFL and sports-betting-odds themes, from a different document.
 - [Bears Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): also covers a Monday Night Football game, from a different document.
 - [Bears Vikings MNF Result and Recap](bears_vikings_mnf_result_and_recap.md): also covers a Monday Night Football game, from a different document.
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): also discusses Caesars Sportsbook, from a different document.
 - [Bet365 Bonus Code TSNCO Offer](bet365_bonus_code_tsnco_offer.md): also covers the First Bet Safety Net offer, from a different document.
+- [Claiming Bet365's Two Welcome Offers With Bonus Code TSNCO](bet365_welcome_bonus_offers_december_2023.md): same source document (doc_0202)
+- [Claiming BetMGM's $1,500 First Bet Offer With Bonus Code SPORTSPICK](betmgm_first_bet_bonus_offer_december_2023.md): same source document (doc_0202)
+- [Claiming BetRivers' Second Chance Bet With Bonus Code SPORTSRIV](betrivers_second_chance_bet_offer_december_2023.md): same source document (doc_0202)
+- [Claiming Caesars Sportsbook's $1,000 First Bet With Promo Code NEWS1000](caesars_sportsbook_first_bet_offer_december_2023.md): same source document (doc_0202)
+- [Claiming DraftKings' Three Welcome Offers Worth Up To $1,200](draftkings_sportsbook_welcome_offers_december_2023.md): same source document (doc_0202)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

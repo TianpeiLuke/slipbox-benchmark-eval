@@ -11,6 +11,7 @@ He tells Globes that it has always been his dream to act as a spokesperson for t
 
 ## Related Notes
 
+
 - [AI21 Labs Tel Aviv Office Lease](ai21_labs_tel_aviv_office_lease.md): also concerns Tel Aviv during the same war, from a different source document.
 - [Azrieli Group Office Portfolio Q3 2023](azrieli_group_office_portfolio_q3_2023.md): concerns the Azrieli property group whose Tel Aviv mall hosts this interview, from a different source document.
 - [Check Point Business Continuity During The Israel War](check_point_business_continuity_during_the_israel_war.md): also concerns Tel Aviv during the war, from a different source document.
@@ -19,6 +20,8 @@ He tells Globes that it has always been his dream to act as a spokesperson for t
 - [Eylon Levy Aliyah And IDF Service](eylon_levy_aliyah_and_idf_service.md): drawn from the same interview and gives the path that brought him to Israel.
 - [Eylon Levy George Galloway Oxford Debate 2013](eylon_levy_george_galloway_oxford_debate_2013.md): drawn from the same interview and covers his earlier public advocacy for Israel.
 - [Eylon Levy Kay Burley Sky News Interview](eylon_levy_kay_burley_sky_news_interview.md): drawn from the same interview and is the exchange that made him widely recognised.
+- [The Gaza Information War And The Hamas Narrative](gaza_information_war_and_hamas_narrative.md): same source document (doc_0413)
+- [Hostile Interview Questions Put To Israeli Spokespeople](hostile_interview_questions_to_israeli_spokespeople.md): same source document (doc_0413)
 
 ## Source
 

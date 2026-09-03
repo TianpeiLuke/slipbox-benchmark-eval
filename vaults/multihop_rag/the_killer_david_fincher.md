@@ -13,10 +13,18 @@ Polygon's Austen Goslin ties this to the director's method: Fincher is famous fo
 
 ## Related Notes
 
+
 - [Netflix November 2023 Slate Overview](netflix_november_2023_slate_overview.md): both discuss David Fincher, from a different source document
 - [Suspiria (2018, Luca Guadagnino)](suspiria_2018_luca_guadagnino.md): both feature Tilda Swinton, from a separate article
 - [The Social Network (Netflix Editor's Pick)](the_social_network_netflix_editors_pick.md): another Fincher film covered in a different document
 - [Yellowjackets, Rebel Moon and Strife December Releases](yellowjackets_rebel_moon_and_strife_december_releases.md): another Fincher reference in a release-schedule article
+- [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): same source document (doc_0094)
+- [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): same source document (doc_0094)
+- [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): same source document (doc_0094)
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): same source document (doc_0094)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

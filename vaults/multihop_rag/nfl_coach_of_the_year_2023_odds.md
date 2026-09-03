@@ -13,6 +13,7 @@ The case for Payton is that in-season turnarounds are harder than offseason ones
 
 ## Related Notes
 
+
 - [Broncos Fourth Quarter Comeback and Ryland Game Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): also discusses Russell Wilson, from a different document.
 - [Denver Broncos Payton Wilson Clock Management Friction](denver_broncos_payton_wilson_clock_management_friction.md): also discusses Russell Wilson and Sean Payton, from a different document.
 - [Dolphins Chiefs Germany Moneyline Pick](dolphins_chiefs_germany_moneyline_pick.md): also discusses Russell Wilson, from a different document.
@@ -21,6 +22,8 @@ The case for Payton is that in-season turnarounds are harder than offseason ones
 - [NFL Awards Longshot Betting Strategy](nfl_awards_longshot_betting_strategy.md): the general longshot argument this award case applies, from the same document.
 - [NFL Comeback Player of the Year 2023 Odds](nfl_comeback_player_of_the_year_2023_odds.md): a parallel award case, from the same document.
 - [NFL Defensive Player of the Year 2023 Odds](nfl_defensive_player_of_the_year_2023_odds.md): a parallel award case, from the same document.
+- [2023 NFL MVP Favorites And The Longshot Cases For Goff And Stroud](nfl_mvp_2023_odds_and_longshot_cases.md): same source document (doc_0145)
+- [2023 NFL Offensive Player Of The Year: Hill The Favorite, Lamb The Longshot](nfl_offensive_player_of_the_year_2023_odds.md): same source document (doc_0145)
 
 ## Source
 

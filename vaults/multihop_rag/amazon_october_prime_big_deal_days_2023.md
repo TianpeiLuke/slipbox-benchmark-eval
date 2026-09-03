@@ -15,12 +15,19 @@ The discounts also did not all end with the event. Although the sale officially 
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the Black Friday and discount-pricing theme, from a different source document.
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): covers the Cyber Monday event referenced here, from a different source document.
 - [Amazon Echo Buds Second And Third Generation Deals](amazon_echo_buds_second_and_third_gen_deals.md): covers Echo Buds discounts, from a different source document.
 - [Amazon Echo Show, Audible And Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): covers Cyber Monday Amazon device offers, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): covers another Amazon sale event, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): drawn from the same source document (doc_0595).
+- [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): same source document (doc_0250)
+- [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): same source document (doc_0250)
+- [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): same source document (doc_0567)
+- [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): same source document (doc_0250)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

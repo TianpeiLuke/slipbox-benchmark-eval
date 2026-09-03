@@ -15,11 +15,18 @@ One thing the objections do not establish is novelty of the mechanism itself. Ch
 
 ## Related Notes
 
+
 - [Canine Respiratory Illness: Cause Evidence And Caveats](canine_respiratory_illness_cause_evidence_caveats.md): also draws on Cornell University expertise, from a different source document.
 - [Apple AirPods Pro (Second Generation)](apple_airpods_pro_second_generation.md): shares the battery-technology theme, from a different source document.
 - [Discord Shop, Remix And Client Improvements](discord_shop_remix_and_client_improvements.md): shares the battery-technology and patch-notes themes, from a different source document.
 - [Google Pixel Buds Pro](google_pixel_buds_pro.md): shares the battery-technology and patch-notes themes, from a different source document.
 - [Google Pixel Watch First-Gen Deal](google_pixel_watch_first_gen_deal.md): shares the battery-technology and patch-notes themes, from a different source document.
+- [X's Bot Countermeasures](x_bot_countermeasures.md): same source document (doc_0195)
+- [X's Competitive Position In October 2023](x_competitive_position.md): same source document (doc_0195)
+- [Bot Detection](term_bot_detection.md): uses the concept bot detection
+- [Digital Divide](term_digital_divide.md): uses the concept digital divide
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

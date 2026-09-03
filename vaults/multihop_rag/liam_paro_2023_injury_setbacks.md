@@ -13,6 +13,7 @@ He framed the layoff as a reset rather than a decline: "It tested me, it's seen 
 
 ## Related Notes
 
+
 - [Alek Manoah's Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): shares a tagged theme with this item, from a different document.
 - [Bears 16, Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): another item under that shared tag, separately sourced.
 - [Blackhawks-Penguins 2023 Opening Night Lineups](blackhawks_penguins_2023_opening_night_lineups.md): also carries that tag, in a different document.
@@ -21,6 +22,10 @@ He framed the layoff as a reset rather than a decline: "It tested me, it's seen 
 - [CCPA and CPPA Regulatory Lineage](ccpa_cppa_regulatory_lineage.md): another item carrying that tag, separately sourced.
 - [ChatGPT Use in Government and Courts](chatgpt_use_in_government_and_courts.md): also on that shared tag, in a different document.
 - [Connor Bedard's Rookie Adjustment With the Blackhawks](connor_bedard_rookie_adjustment_with_the_blackhawks.md): another item under the same tag, from a separate source.
+- [Liam Paro Responds To The Shakur Stevenson Sparring Clip](liam_paro_shakur_stevenson_sparring_clip.md): same source document (doc_0341)
+- [Liam Paro vs Montana Love, December 2023](liam_paro_vs_montana_love_december_2023.md): same source document (doc_0341)
+- [Liam Paro's World Title Ambitions](liam_paro_world_title_ambitions.md): same source document (doc_0341)
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

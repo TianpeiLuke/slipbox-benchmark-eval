@@ -13,6 +13,7 @@ Shot on 35mm, the film is a gorgeous movie to behold even before the action trul
 
 ## Related Notes
 
+
 - [My Big Fat Greek Wedding 3](my_big_fat_greek_wedding_3.md): incidental Greek-themed vocabulary overlap from a different source document
 - [Very Important People (Dropout Show)](very_important_people_dropout_show.md): both discuss Josh Ruben, from a separate article
 - [American Horror Story: NYC Season](american_horror_story_nyc_season.md): a fellow entry in the same countdown document
@@ -21,6 +22,8 @@ Shot on 35mm, the film is a gorgeous movie to behold even before the action trul
 - [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): a fellow entry in the same article
 - [Curve (Tim Egan Horror Short)](curve_tim_egan_horror_short.md): another countdown pick from the same document
 - [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): another cult-horror recommendation in the same countdown
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0165)
+- [Ginger Snaps (Werewolf Body Horror)](ginger_snaps_werewolf_body_horror.md): same source document (doc_0165)
 
 ## Source
 

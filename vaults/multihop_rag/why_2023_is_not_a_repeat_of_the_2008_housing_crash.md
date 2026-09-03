@@ -11,6 +11,7 @@ The specific rebuttals are four. There are no "noticeable signs" of excess housi
 
 ## Related Notes
 
+
 - [Affordable Housing Supply Gap For Low-Income Renters](affordable_housing_supply_gap_for_low_income_renters.md): overlapping coverage of housing and mortgage rates from a different source document.
 - [Housing Affordability Worse Than The 2006 Peak](housing_affordability_worse_than_2006_peak.md): overlapping coverage of housing, a possible crash and rates, from a different source document.
 - [Simply Homes Interest Rate Underwriting Resilience](simply_homes_interest_rate_underwriting_resilience.md): overlapping coverage of housing worst-case scenarios and rates, from a different source document.
@@ -19,6 +20,8 @@ The specific rebuttals are four. There are no "noticeable signs" of excess housi
 - [Bank Of America Housing Turbulence Warning 2023](bank_of_america_housing_turbulence_warning_2023.md): drawn from the same source document (doc_0112).
 - [Housing Market 1980s Analogy Rather Than 2008](housing_market_1980s_analogy_rather_than_2008.md): drawn from the same source document (doc_0112).
 - [Millennials As The New Boomer Homebuying Cohort](millennials_as_the_new_boomer_homebuying_cohort.md): drawn from the same source document (doc_0112).
+- [US Home Prices Peaked In June 2022 And Returned To A Record High By July 2023](us_home_price_peak_and_partial_recovery_2022_2023.md): same source document (doc_0112)
+- [Volcker's And Powell's Rate-Hiking Cycles Compared](volcker_and_powell_rate_hiking_cycles_compared.md): same source document (doc_0112)
 
 ## Source
 

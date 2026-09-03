@@ -11,6 +11,7 @@ The grounds are recent scoring: he had three straight games with double-digit fa
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Curtis Samuel, from a different document.
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): also discusses Curtis Samuel, from a different document.
 - [Curtis Samuel Week 10 Injury Status](curtis_samuel_week_10_injury_status.md): also discusses Jahan Dotson, from a different document.
@@ -19,6 +20,8 @@ The grounds are recent scoring: he had three straight games with double-digit fa
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): another entry in the same preview, from the same document.
 - [Deebo Samuel Yards Per Target Pace](deebo_samuel_yards_per_target_pace.md): another entry in the same preview, from the same document.
 - [Demario Douglas Week 16 Waiver Target](demario_douglas_week_16_waiver_target.md): the next waiver add in the same list, from the same document.
+- [Dontayvion Wicks Week 16 Waiver Target](dontayvion_wicks_week_16_waiver_target.md): same source document (doc_0146)
+- [Drake London Home Road Fantasy Split](drake_london_home_road_fantasy_split.md): same source document (doc_0146)
 
 ## Source
 

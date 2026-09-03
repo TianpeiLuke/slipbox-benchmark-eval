@@ -11,11 +11,19 @@ Factor by factor, the grounds run as follows. On purpose and character, AI algor
 
 ## Related Notes
 
+
 - [Ed Newton-Rex Resignation From Stability AI](ed_newton_rex_resignation_stability_ai.md): a generative AI executive who took the creators' side of this dispute, from a different source document.
 - [Fair Use Doctrine Plain Explanation](fair_use_doctrine_plain_explanation.md): the doctrine in plain terms, from a different source document.
 - [FTC Generative AI Roundtable](ftc_generative_ai_roundtable.md): overlaps on creator economy, generative ai subject matter, from a different source document.
 - [Google Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): overlaps on creator economy, generative ai subject matter, from a different source document.
 - [Google USCO Filing on AI Training and Fair Use](google_usco_filing_ai_training_fair_use.md): the opposing filing from a tech giant, from a different source document.
+- [AI-Assisted Works Should Still Be Copyrightable](ai_assisted_works_copyright_eligibility.md): same source document (doc_0271)
+- [Works Created Principally Through AI Should Not Be Copyrightable](ai_generated_works_should_not_be_copyrightable.md): same source document (doc_0271)
+- [AI Training Transparency And Recordkeeping Requirements](ai_training_transparency_and_recordkeeping.md): same source document (doc_0271)
+- [Anthropic's Fair Use Defense For AI Training](anthropic_fair_use_defense_for_ai_training.md): same source document (doc_0271)
+- [The EU AI Act's Training Data Disclosure Rule](eu_ai_act_training_data_disclosure_rule.md): same source document (doc_0271)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

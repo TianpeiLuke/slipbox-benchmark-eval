@@ -11,6 +11,7 @@ Commodity prices nonetheless supported mining companies, as iron ore prices incr
 
 ## Related Notes
 
+
 - [ASPI Analysis of TikTok Pixel Data Aggregation Risk](aspi_analysis_of_tiktok_pixel_data_aggregation_risk.md): also concerns the Chinese President's government, from a different source document.
 - [Asx December 2023 Session Movers](asx_december_2023_session_movers.md): shares vocabulary around cent, climbed and strategist, from a different source document.
 - [Asx October 2023 Laggards](asx_october_2023_laggards.md): shares vocabulary around cent and bank, from a different source document.
@@ -19,6 +20,7 @@ Commodity prices nonetheless supported mining companies, as iron ore prices incr
 - [Alphabet Q3 2023 Results and Cloud Miss](alphabet_q3_2023_results_and_cloud_miss.md): the other half of the big tech results night (doc_0485).
 - [ASX REITs and Company News October 2023](asx_reits_and_company_news_october_2023.md): the rate-sensitive sectors this data hit (doc_0485).
 - [Big Tech Concentration in the S&P 500](big_tech_concentration_in_the_sp500.md): why those results mattered for the whole index (doc_0485).
+- [Easing Escalation Concerns Around Israel-Gaza In Late October 2023](israel_gaza_conflict_and_oil_prices_october_2023.md): same source document (doc_0485)
 
 ## Source
 

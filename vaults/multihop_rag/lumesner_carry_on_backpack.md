@@ -13,6 +13,7 @@ So far she has used it on a handful of trips and the quality has held up. One dr
 
 ## Related Notes
 
+
 - [Prime Day 2023 Travel And Outdoor Deals](prime_day_2023_travel_and_outdoor_deals.md): also covers Hydro Flask and travel gear, from a different source document.
 - [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): drawn from the same source document (doc_0575).
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): drawn from the same source document (doc_0575).
@@ -21,6 +22,8 @@ So far she has used it on a handful of trips and the quality has held up. One dr
 - [The Bedside Charging Station Habit](bedside_charging_station_habit.md): drawn from the same source document (doc_0575).
 - [ChomChom Pet Hair Remover](chomchom_pet_hair_remover.md): drawn from the same source document (doc_0575).
 - [Epicka Universal Travel Adapter](epicka_universal_travel_adapter.md): drawn from the same source document (doc_0575).
+- [FoodSaver Vacuum Sealer](foodsaver_vacuum_sealer.md): same source document (doc_0575)
+- [The Fuzzy Cat Bed Office Companion](fuzzy_cat_bed_office_companion.md): same source document (doc_0575)
 
 ## Source
 

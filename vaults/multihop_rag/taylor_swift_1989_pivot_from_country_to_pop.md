@@ -11,6 +11,7 @@ Her grounds were about credibility rather than taste. "I don't have the option o
 
 ## Related Notes
 
+
 - [All You Had To Do Was Stay](all_you_had_to_do_was_stay_taylor_swift_song.md): another track from the same BBC article on 1989
 - [Bad Blood And The Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): from the same track-by-track source document
 - [Blank Space](blank_space_taylor_swift_song.md): from the same track-by-track source document
@@ -19,6 +20,8 @@ Her grounds were about credibility rather than taste. "I don't have the option o
 - [I Know Places](i_know_places_taylor_swift_song.md): from the same track-by-track source document
 - [I Wish You Would](i_wish_you_would_taylor_swift_song.md): from the same track-by-track source document
 - [New Romantics](new_romantics_taylor_swift_song.md): from the same track-by-track source document
+- [Out Of The Woods And The Snowmobile Crash Behind It](out_of_the_woods_taylor_swift_song.md): same source document (doc_0257)
+- [Shake It Off As A Defiant Response To Celebrity Takedown Culture](shake_it_off_taylor_swift_song.md): same source document (doc_0257)
 
 ## Source
 

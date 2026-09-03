@@ -11,6 +11,7 @@ The results were: Myrtle Beach Bowl, Georgia Southern 21 Ohio 41; Cricket Celebr
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): covers many of the same programs a round earlier, from a different document.
 - [Alexa's Limitations as an On-the-Go Assistant on Echo Frames](alexa_limitations_as_an_on_the_go_assistant_on_echo_frames.md): shares an incidental name with one team here, from a different document.
 - [College Football Week 6 2023 Remaining Betting Lines](college_football_week6_2023_remaining_betting_lines.md): also covers Fresno State, from a different document.
@@ -19,6 +20,8 @@ The results were: Myrtle Beach Bowl, Georgia Southern 21 Ohio 41; Cricket Celebr
 - [2023 Bowl Season Betting Trends](2023_bowl_season_betting_trends.md): gives the betting record these results produced, from the same document.
 - [CFP National Championship Game Format and Schedule](cfp_national_championship_game_format_and_schedule.md): covers where this bowl season ends, from the same document.
 - [CFP National Championship Winners, 2015 to 2023](cfp_national_championship_winners_2015_to_2023.md): gives the history of the title game, from the same document.
+- [CFP Semifinal Matchups: Rose And Sugar Bowls](cfp_semifinal_rose_and_sugar_bowl_matchups.md): same source document (doc_0433)
+- [College Bowl Season: Game Count And The New Year's Six](college_bowl_season_faq_game_count_and_ny6.md): same source document (doc_0433)
 
 ## Source
 

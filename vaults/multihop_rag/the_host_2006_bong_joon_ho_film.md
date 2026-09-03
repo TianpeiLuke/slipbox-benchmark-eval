@@ -11,11 +11,18 @@ The premise: years after chemicals are dumped into the Han River, a huge mutated
 
 ## Related Notes
 
+
 - [Broker, Hirokazu Kore-eda](broker_hirokazu_kore_eda.md): another film starring Song Kang-ho, covered in a different document
 - [DeepMind Ethics Board Single Meeting, 2015](deepmind_ethics_board_single_meeting_2015.md): another article referencing South Korean subject matter, from a different source
 - [Joint Security Area, Park Chan-wook](joint_security_area_park_chan_wook.md): another Song Kang-ho film from a different recommendation list
 - [Thirst, Park Chan-wook Vampire Film](thirst_park_chan_wook_vampire_film.md): another Song Kang-ho film from a different document
 - [Alone, 2020, John Hyams](alone_2020_john_hyams_film.md): another pick from the same Polygon horror guide
+- [Annihilation: The Creepiest Movie About Plants Ever Made](annihilation_2018_alex_garland_film.md): same source document (doc_0563)
+- [Climax: Gaspar Noé's Spiked-Sangria Dance Party In Long Takes](climax_2018_gaspar_noe_film.md): same source document (doc_0563)
+- [Crimes Of The Future: Cronenberg's World Where Surgery Is The New Sex](crimes_of_the_future_2022_david_cronenberg.md): same source document (doc_0563)
+- [Cure: Kiyoshi Kurosawa's Horror Masterpiece About Violence As Contagion](cure_1997_kiyoshi_kurosawa_film.md): same source document (doc_0563)
+- [Encounters Of The Spooky Kind: Sammo Hung's Jiangshi Martial Arts Comedy](encounters_of_the_spooky_kind_sammo_hung.md): same source document (doc_0563)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

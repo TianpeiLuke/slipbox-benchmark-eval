@@ -13,12 +13,20 @@ The drawbacks are multi-device pairing not working with iOS, no wear detection, 
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-life and discount theme, from a different source document.
 - [AirPods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): shares the battery-life and discount theme, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): covers another Prime Day-adjacent sale, from a different source document.
 - [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): covers other Prime Day discounts, from a different source document.
 - [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): covers the same sale event's timing, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): drawn from the same source document (doc_0595).
+- [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): same source document (doc_0567)
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): same source document (doc_0595)
+- [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): same source document (doc_0567)
+- [Anker Soundcore Liberty 4 NC Earbuds Deal Prices](anker_soundcore_liberty_4_nc_earbuds.md): same source document (doc_0595)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

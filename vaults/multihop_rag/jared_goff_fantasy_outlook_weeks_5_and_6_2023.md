@@ -13,11 +13,19 @@ The Week 6 case for Goff, published 12 October 2023, is hedged the other way: if
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room To Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also discusses Brock Purdy, ranked ahead of Goff in Week 6, from a different document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also discusses Brock Purdy and Dak Prescott, two of the comparison quarterbacks here, from a different document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also discusses Joe Burrow, whom Goff is ranked ahead of in Week 5, from a different document.
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): covers Alexander Mattison, cited here for his rushing average against Carolina, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another "Start Him" verdict in the same weekly-decision format, from a different document.
+- [Amari Cooper As A Week 6 2023 Sit Against The 49ers](amari_cooper_week6_2023_sit_recommendation.md): same source document (doc_0149)
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

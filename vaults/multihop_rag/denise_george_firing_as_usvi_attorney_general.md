@@ -11,6 +11,7 @@ The pressure preceding it was persistent. One after another, texts, calls and em
 
 ## Related Notes
 
+
 - [SBF's Defense Counsel](sbf_defense_counsel.md): overlapping coverage of attorneys in Epstein-linked litigation, from a different source document.
 - [Cecile de Jongh's Role And Deposition Denial](cecile_de_jongh_role_and_deposition_denial.md): drawn from the same source document (doc_0477).
 - [Denise George: Profile And Epstein Case Role](denise_george_profile_and_epstein_case_role.md): drawn from the same source document (doc_0477).
@@ -19,6 +20,8 @@ The pressure preceding it was persistent. One after another, texts, calls and em
 - [Epstein's Sex Offender Waiver Request And Its Denial](epstein_sex_offender_waiver_request_and_denial.md): drawn from the same source document (doc_0477).
 - [Epstein's Web Of Influence In The US Virgin Islands](epstein_web_of_influence_in_us_virgin_islands.md): drawn from the same source document (doc_0477).
 - [George's Claim Of Epstein's Political Influence](george_claim_of_epstein_political_influence.md): drawn from the same source document (doc_0477).
+- [Governor Bryan's Account Of George's Dismissal](governor_bryan_account_of_george_dismissal.md): same source document (doc_0477)
+- [Governor Bryan's Pressure To Settle The Epstein Cases](governor_bryan_pressure_to_settle_epstein_cases.md): same source document (doc_0477)
 
 ## Source
 

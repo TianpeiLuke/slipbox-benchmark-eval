@@ -11,11 +11,17 @@ The fantasy of the Elder Scrolls games often presents as very straightforward: w
 
 ## Related Notes
 
+
 - [The Surprise Vampire Trope](surprise_vampire_trope.md): same source; the trope this entry illustrates through a whole series rather than one character.
 - [Astarion, Baldur's Gate 3 Vampire Companion](astarion_baldurs_gate_3_vampire_companion.md): same source; the other role-playing game where vampirism is playable.
 - [Marceline The Vampire Queen](marceline_the_vampire_queen_adventure_time.md): same source; another case of vampires arriving into an established world.
 - [The Anchorites In The Bone Clocks](the_anchorites_the_bone_clocks.md): same source; another work whose surface conceals vampires.
 - [Cassidy In Preacher](cassidy_preacher_vampire.md): drawn from the same source document (doc_0453).
+- [The Merovingian's Henchmen In The Matrix Reloaded](matrix_reloaded_merovingian_henchmen_as_vampires.md): same source document (doc_0453)
+- [Miguel O'Hara, Spider-Man 2099](miguel_ohara_spider_man_2099_vampire.md): same source document (doc_0453)
+- [Morbius In Spider-Man: The Animated Series](morbius_in_spider_man_the_animated_series.md): same source document (doc_0453)
+- [The Count On Sesame Street](the_count_sesame_street.md): same source document (doc_0453)
+- [Vamp In Metal Gear Solid 2](vamp_metal_gear_solid_2.md): same source document (doc_0453)
 
 ## Source
 

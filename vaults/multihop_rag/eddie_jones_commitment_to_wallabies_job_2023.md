@@ -13,11 +13,18 @@ On whether he would see out his contract to the end of 2027, Jones said the deci
 
 ## Related Notes
 
+
 - [Case for Schmidt Bringing Rugby Smarts to the Wallabies](case_for_schmidt_bringing_rugby_smarts_to_the_wallabies.md): a rival coaching case for the same job, different source document
 - [Daniel Garnero Paraguay Head Coach Debut](daniel_garnero_paraguay_head_coach_debut.md): another coaching change tied to a World Cup cycle, different source document
 - [Emiliano Martinez Argentina Clean Sheet Record](emiliano_martinez_argentina_clean_sheet_record.md): another World Cup-cycle national team document, different source
 - [Emma Hayes Appointed USWNT Head Coach](emma_hayes_appointed_uswnt_head_coach.md): another national-team coaching appointment, different source document
 - [England South Africa Semifinal Prediction and Form](england_south_africa_semifinal_prediction_and_form.md): another document covering Eddie Jones, different source
+- [Eddie Jones' Case For Reforming The Australian Rugby System](eddie_jones_case_for_reforming_australian_rugby_system.md): same source document (doc_0407)
+- [Jones Defends Leaving Cooper And Hooper Out Of The World Cup Squad](eddie_jones_defends_youth_selection_over_cooper_and_hooper.md): same source document (doc_0407)
+- [Eddie Jones Denies Talks Over The Japan Head Coach Role](eddie_jones_denies_japan_head_coach_talks.md): same source document (doc_0407)
+- [The Wallabies' 2023 Pool Exit And The Review That Followed](wallabies_2023_world_cup_pool_exit_and_review.md): same source document (doc_0407)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

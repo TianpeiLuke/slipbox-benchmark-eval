@@ -13,6 +13,7 @@ The third season wrapped the show up on its own terms, leaving an indelible mark
 
 ## Related Notes
 
+
 - [Andor (Disney Plus)](andor_disney_plus.md): another platform pick from the same streaming roundup
 - [Castlevania: Nocturne (Netflix)](castlevania_nocturne_netflix.md): the Netflix pick in the same article
 - [Gen V (Prime Video)](gen_v_prime_video.md): the Prime Video pick from the same document
@@ -21,6 +22,7 @@ The third season wrapped the show up on its own terms, leaving an indelible mark
 - [Streaming Service Runner-Up Series Picks](streaming_service_runner_up_series_picks.md): the "also good" tier accompanying these platform picks
 - [The Continental (Peacock)](the_continental_peacock.md): the Peacock pick from the same article
 - [The Good Fight (Paramount Plus)](the_good_fight_paramount_plus.md): the Paramount Plus pick in the same roundup
+- [Unicorn: Warriors Eternal (Max)](unicorn_warriors_eternal_max.md): same source document (doc_0185)
 
 ## Source
 

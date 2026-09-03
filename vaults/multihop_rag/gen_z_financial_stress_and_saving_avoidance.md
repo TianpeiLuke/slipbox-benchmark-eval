@@ -11,6 +11,7 @@ Because young people are typically affected by inflation the most — they are t
 
 ## Related Notes
 
+
 - [Roblox Hiring And Recruiting Layoffs](roblox_hiring_and_recruiting_layoffs.md): shares the COVID-19 and layoffs themes from a different source document.
 - [Twitch As An Alternative Sports Viewing Platform](twitch_as_an_alternative_sports_viewing_platform.md): also concerns Gen Zers, from a different source document.
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs theme from a different source document.
@@ -19,6 +20,14 @@ Because young people are typically affected by inflation the most — they are t
 - [Ayman Sadiq And The Origin Of Ten Minute School](ayman_sadiq_ten_minute_school_origin.md): shares the COVID-19 theme from a different source document.
 - [Brave Software Layoffs](brave_software_layoffs.md): shares the layoffs theme from a different source document.
 - [Capital Rotation From China Into Japanese Assets](capital_rotation_from_china_into_japanese_assets.md): shares the COVID-19 theme from a different source document.
+- [Gen Z Collective Online Political Action](gen_z_collective_online_political_action.md): same source document (doc_0138)
+- [Gen Z: Definition And Formative Events](gen_z_definition_and_formative_events.md): same source document (doc_0138)
+- [Gen Z Mental Health And Climate Anxiety](gen_z_mental_health_and_climate_anxiety.md): same source document (doc_0138)
+- [Gen Z News Distress Impairing Work Performance](gen_z_news_distress_impairing_work_performance.md): same source document (doc_0138)
+- [Gen Z Workplace Purpose And ESG Priorities](gen_z_workplace_purpose_and_esg_priorities.md): same source document (doc_0138)
+- [Youth Hopelessness As A Societal Sustainability Risk](youth_hopelessness_as_societal_sustainability_risk.md): same source document (doc_0138)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

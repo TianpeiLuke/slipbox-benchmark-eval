@@ -13,11 +13,20 @@ Washington joined the platform organically; Spill has "not paid for a single acq
 
 ## Related Notes
 
+
 - [Daily Life at the Possibility Alliance](daily_life_at_the_possibility_alliance.md): shares the streaming service and user generated content theme, from a different source document.
 - [External Studios Expand Pokemon Animation](external_studios_expand_pokemon_animation.md): shares the streaming service and user generated content theme, from a different source document.
 - [Hunger Games Trolls Wish Napoleon Holdovers](hunger_games_trolls_wish_napoleon_holdovers.md): also covers Sony Pictures, from a different source document.
 - [Jamaica Canada First Leg Rain Postponement](jamaica_canada_first_leg_rain_postponement.md): also covers Instagram Live, from a different source document.
 - [Kevin Nguyen Non Writing iPhone Apps](kevin_nguyen_non_writing_iphone_apps.md): shares the streaming service and user generated content theme, from a different source document.
+- [The Post-Twitter Social App Landscape](post_twitter_social_app_landscape.md): same source document (doc_0488)
+- [Spill's Community-Quality-Over-Growth Argument](spill_community_quality_over_growth_argument.md): same source document (doc_0488)
+- [Spill's Public Launch And Creator Payment Plans](spill_public_launch_and_creator_payment_plans.md): same source document (doc_0488)
+- [Spill's Seed Extension Funding Round](spill_seed_extension_funding_round.md): same source document (doc_0488)
+- [Spill Social App Overview](spill_social_app_overview.md): same source document (doc_0488)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

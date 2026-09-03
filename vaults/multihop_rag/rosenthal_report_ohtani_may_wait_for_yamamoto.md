@@ -11,12 +11,19 @@ Rosenthal's reasoning was that an agreement at the winter meetings in Nashville 
 
 ## Related Notes
 
+
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): also covers the Ohtani-Yamamoto waiting dynamic, from a different document.
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): also cites Ken Rosenthal, from a different document.
 - [Braves Release Matt Carpenter](braves_release_matt_carpenter.md): also cites Ken Rosenthal, from a different document.
 - [Juan Soto Padres Trade Candidacy](juan_soto_padres_trade_candidacy.md): shares the MLB trade and free agency themes, from a different document.
 - [Lourdes Gurriel Jr. Diamondbacks Re-Signing](lourdes_gurriel_jr_diamondbacks_re_signing.md): also cites Ken Rosenthal, from a different document.
 - [Alternative Reading of the Mariners Ohtani Leak](alternative_reading_of_the_mariners_ohtani_leak.md): another item from the same rumor tracker, from the same document.
+- [The Cubs' Ohtani Fit After The NL Designated Hitter](cubs_ohtani_fit_after_nl_designated_hitter.md): same source document (doc_0480)
+- [An Early Ohtani Signing Would Reshape The Offseason](early_ohtani_signing_would_reshape_the_offseason.md): same source document (doc_0480)
+- [The Mariners Reported Out Of The Ohtani Chase](mariners_reported_out_of_the_ohtani_chase.md): same source document (doc_0480)
+- [Ohtani's Camp Secrecy And The Reporting Blackout](ohtani_camp_secrecy_and_reporting_blackout.md): same source document (doc_0480)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

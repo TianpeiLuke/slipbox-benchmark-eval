@@ -13,6 +13,7 @@ From that warrant the conclusions follow: wars do bring death — but God throug
 
 ## Related Notes
 
+
 - [Jonathan Roumie and the Hallow Advent Prayer Challenge](jonathan_roumie_hallow_advent_prayer_challenge.md): also concerns Jesus Christ, from a different source document.
 - [American Pie's Billboard Record and Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
 - [Don McLean's Career Honours and Recognition](don_mclean_career_honours_and_recognition.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
@@ -21,6 +22,8 @@ From that warrant the conclusions follow: wars do bring death — but God throug
 - [Carol of the Bells and Its Biblical Roots](carol_of_the_bells_biblical_roots.md): drawn from the same source document, doc_0270.
 - [Carols Express Both Joy and Sorrow](carols_express_both_joy_and_sorrow.md): drawn from the same source document, doc_0270.
 - [Christmas Carols and Advertising](christmas_carols_and_advertising.md): drawn from the same source document, doc_0270.
+- [The Structure of "I Heard the Bells"](i_heard_the_bells_poem_structure.md): same source document (doc_0270)
+- [Longfellow's "I Heard the Bells", 1863](longfellow_i_heard_the_bells_origin_1863.md): same source document (doc_0270)
 
 ## Source
 

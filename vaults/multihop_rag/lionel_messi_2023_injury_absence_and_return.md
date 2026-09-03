@@ -13,11 +13,18 @@ Five days later, ahead of Argentina's World Cup qualifier, Sporting News noted M
 
 ## Related Notes
 
+
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): the qualifier this fitness question fed into.
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also discusses Lionel Messi's availability.
 - [Argentina Second Half and Messi Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): another account of Messi entering as a substitute.
 - [Bears Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): also concerns Soldier Field.
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): also concerns Inter Miami and Lionel Messi.
+- [Argentina's Squad And Starting XI Against Paraguay, October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): same source document (doc_0105)
+- [Argentina Host Paraguay At The Monumental In 2026 World Cup Qualifying](argentina_vs_paraguay_2026_world_cup_qualifier_preview.md): same source document (doc_0105)
+- [Chicago Fire Beat Inter Miami 4-1 Before A Record Soldier Field Crowd](chicago_fire_4_1_inter_miami_october_2023_recap.md): same source document (doc_0041)
+- [Chicago Fire-Inter Miami First Half: Goalless, With The Fire Creating The Better Chances](chicago_fire_inter_miami_first_half_live_blog.md): same source document (doc_0041)
+- [Chicago Fire-Inter Miami Second Half: Four Goals In 23 Minutes](chicago_fire_inter_miami_second_half_live_blog.md): same source document (doc_0041)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

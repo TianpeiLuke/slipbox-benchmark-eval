@@ -15,12 +15,27 @@ The incumbent-encroachment objection is answered by historical pattern rather th
 
 ## Related Notes
 
+
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [Barr Moses Recommends Dare To Lead](barr_moses_recommends_dare_to_lead.md): shares the generative-AI and LLM-observability themes, from a different source document.
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [Enterprise Generative AI Adoption Caution](enterprise_generative_ai_adoption_caution.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [Acurable Respiratory Wearables](acurable_respiratory_wearables.md): drawn from the same source document, doc_0011.
+- [AI Market Spending Forecasts Reported In October 2023](ai_market_spending_forecasts.md): same source document (doc_0161)
+- [Pricing Models For AI Products](ai_pricing_models.md): same source document (doc_0161)
+- [Breathe Battery Technologies' Charging Software](breathe_battery_software.md): same source document (doc_0011)
+- [Flexport Leadership Turmoil](flexport_leadership_turmoil.md): same source document (doc_0011)
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
+- [Defensibility](term_defensibility.md): uses the concept defensibility
+- [LLM Observability](term_llm_observability.md): uses the concept llm observability
+- [Proprietary Data](term_proprietary_data.md): uses the concept proprietary data
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Cloud Computing](term_cloud_computing.md): uses the concept cloud computing
+- [Foundation Model](term_foundation_model.md): uses the concept foundation model
+- [Model Fine-Tuning](term_model_fine_tuning.md): uses the concept model fine tuning
+- [Prompt Engineering](term_prompt_engineering.md): uses the concept prompt engineering
+- [Total Addressable Market (TAM)](term_total_addressable_market.md): uses the concept total addressable market
 
 ## Source
 

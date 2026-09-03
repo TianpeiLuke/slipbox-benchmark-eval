@@ -11,12 +11,18 @@ The iPad Air (8/10, WIRED Recommends) is recommended as an upgrade over the iPad
 
 ## Related Notes
 
+
 - [Apple Budget iPad And iPad Mini](apple_budget_ipad_and_ipad_mini.md): overlapping coverage of iPad tablets and screens, from a different source document.
 - [Apple Magic Keyboard Holiday Deal](apple_magic_keyboard_holiday_deal.md): overlapping coverage of iPad keyboard covers, from a different source document.
 - [Apple Pencil Lineup Holiday Deal](apple_pencil_lineup_holiday_deal.md): overlapping coverage of the iPad and Apple Pencil, from a different source document.
 - [Apple USB-C Accessory Transition](apple_usb_c_accessory_transition.md): also concerns the Apple Pencil, from a different source document.
 - [Beeper Mini: An iMessage Client For Android](beeper_mini_imessage_client_for_android.md): also concerns the Mac Mini, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0600).
+- [Anker 2-In-1 MagSafe StandBy Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): same source document (doc_0600)
+- [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): same source document (doc_0600)
+- [Anker 3-In-1 MagSafe Charging Dock Deal Listings](anker_3_in_1_magsafe_charging_dock_deal_listings.md): same source document (doc_0600)
+- [Anker 737 Power Bank Deal Listings](anker_737_power_bank_deal_listings.md): same source document (doc_0600)
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

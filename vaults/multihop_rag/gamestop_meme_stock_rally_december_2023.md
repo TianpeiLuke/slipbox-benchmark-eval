@@ -11,6 +11,7 @@ The attribution is explicitly sourced: BTIG technical strategist Jonathan Krinsk
 
 ## Related Notes
 
+
 - [Broadcom Q4 FY2023 Earnings Preview and VMware Integration](broadcom_q4_fy2023_earnings_preview_and_vmware_integration.md): another share-price move covered in the same preview, from the same source document.
 - [December 2023 Earnings Week Secondary Reporters](december_2023_earnings_week_secondary_reporters.md): the wider reporting slate this rally was published alongside, from the same source document.
 - [DocuSign Q3 FY2024 Earnings Preview](docusign_q3_fy2024_earnings_preview.md): another name in the same article where post-earnings share volatility is at issue, from the same source document.
@@ -19,6 +20,8 @@ The attribution is explicitly sourced: BTIG technical strategist Jonathan Krinsk
 - [GitLab Q3 FY2024 Earnings Preview](gitlab_q3_fy2024_earnings_preview.md): another name previewed in the same article where the stock's move is part of the setup, from the same source document.
 - [GitLab Sell-Side Analyst Theses, Late 2023](gitlab_sell_side_analyst_theses_late_2023.md): another case of analysts reading a run-up as exuberance, from the same source document.
 - [Hello Group (MOMO) Q3 2023 Earnings Preview](hello_group_momo_q3_2023_earnings_preview.md): another report on the same week's calendar, from the same source document.
+- [Individual Trader's Hello Group Bottom-Formation Thesis](individual_trader_hello_group_bottom_formation_thesis.md): same source document (doc_0581)
+- [Josh Arnold's GameStop Structural Unprofitability Critique](josh_arnold_gamestop_structural_unprofitability_critique.md): same source document (doc_0581)
 
 ## Source
 

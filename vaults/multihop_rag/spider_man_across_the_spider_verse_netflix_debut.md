@@ -11,11 +11,19 @@ The highly anticipated follow-up to 2018's Spider-Man: Into the Spider-Verse see
 
 ## Related Notes
 
+
 - [Marvel's Spider-Man 2](marvels_spider_man_2_game.md): another Miles Morales property, from a different source document.
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): also covers Miles Morales, from a different source document.
 - [Eyes Without a Face Georges Franju](eyes_without_a_face_georges_franju.md): shares the film_awards_season, streaming_service topic tags, from a different source document.
 - [Jordan Croft Afl Draft Prospect 2023](jordan_croft_afl_draft_prospect_2023.md): shares the film_awards_season, streaming_service topic tags, from a different source document.
 - [Kids Headphone Speaker and Music Gifts 2023](kids_headphone_speaker_and_music_gifts_2023.md): also covers Shameik Moore, from a different source document.
+- [A Haunting In Venice](a_haunting_in_venice_poirot_mystery.md): same source document (doc_0382)
+- [Freaks Vs. The Reich](freaks_vs_the_reich_italian_superhero_film.md): same source document (doc_0382)
+- [Insidious: The Red Door](insidious_the_red_door.md): same source document (doc_0382)
+- [Jawan](jawan_shah_rukh_khan_action_thriller.md): same source document (doc_0382)
+- [My Big Fat Greek Wedding 3](my_big_fat_greek_wedding_3.md): same source document (doc_0382)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Film Awards Season](term_film_awards_season.md): uses the concept film awards season
 
 ## Source
 

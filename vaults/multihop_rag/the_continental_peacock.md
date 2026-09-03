@@ -13,9 +13,18 @@ Stovall and his team delivered. From the show's opening heist sequence to the in
 
 ## Related Notes
 
+
 - [Fist of the Condor (Marko Zaror)](fist_of_the_condor_marko_zaror.md): both reference the John Wick franchise, from a different source document
 - [John Wick: Chapter 4](john_wick_chapter_4.md): covers the film series this show spins off from, in a separate article
 - [Unfriended and Screenlife Horror Movies](unfriended_screenlife_horror_movies.md): both discuss Colin Woodell, from a different document
+- [Andor (Disney Plus)](andor_disney_plus.md): same source document (doc_0185)
+- [Castlevania: Nocturne (Netflix)](castlevania_nocturne_netflix.md): same source document (doc_0185)
+- [Gen V (Prime Video)](gen_v_prime_video.md): same source document (doc_0185)
+- [Hijack (Apple TV Plus)](hijack_apple_tv_plus.md): same source document (doc_0185)
+- [Scope and Update Policy of Polygon's Best New Streaming Series Roundup](polygon_best_new_streaming_series_roundup_scope.md): same source document (doc_0185)
+- [Reservation Dogs (Hulu)](reservation_dogs_hulu.md): same source document (doc_0185)
+- [Runner-Up Series Picks Across Streaming Services](streaming_service_runner_up_series_picks.md): same source document (doc_0185)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

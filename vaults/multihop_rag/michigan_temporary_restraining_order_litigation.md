@@ -13,11 +13,18 @@ The drama ran to kickoff and then ended without relief. ESPN's Pete Thamel repor
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): another Big Ten item from a different document.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also covers the Big Ten and Ohio State, separately sourced.
 - [Alabama-Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): another item involving Ohio State, from a different source.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): the conference pressure behind the suspension being challenged here, reported elsewhere.
 - [Big Ten Commissioner Petitti's Punishment Dilemma](big_ten_commissioner_petitti_punishment_dilemma.md): the ruling this litigation targets, in a different document.
+- [The Big Ten's 2023 Run Of Scandals](big_ten_conference_scandal_run_2023.md): same source document (doc_0079)
+- [The Big Ten's Deliberation Over Harbaugh's Punishment](big_ten_deliberation_over_harbaugh_punishment.md): same source document (doc_0180)
+- [The Big Ten's Head-Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): same source document (doc_0180)
+- [The Big Ten Suspends Jim Harbaugh For Three Games](big_ten_suspension_of_jim_harbaugh.md): same source document (doc_0180)
+- [Chris Partridge's Firing And The Evidence-Destruction Allegation](chris_partridge_firing_and_evidence_destruction.md): same source document (doc_0180)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

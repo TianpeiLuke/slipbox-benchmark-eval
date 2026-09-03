@@ -11,11 +11,18 @@ The supporting grounds The Verge sets out: Tesla has historically achieved high 
 
 ## Related Notes
 
+
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): also concerns Elon Musk, from a different source document.
 - [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): also concerns Elon Musk, from a different source document.
 - [Cybertruck Availability, Pricing And The EV Tax Credit](cybertruck_availability_pricing_and_ev_tax_credit.md): overlapping coverage of Tesla, trucks and the Cybertruck, from a different source document.
 - [Cybertruck Bed Size And Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): also concerns Elon Musk, from a different source document.
 - [Cybertruck Resale Restrictions Walked Back](cybertruck_resale_restrictions_walked_back.md): overlapping coverage of Tesla's vehicles and the Cybertruck, from a different source document.
+- [Crumple Zones And The Stainless Steel Concern](crumple_zones_and_the_stainless_steel_concern.md): same source document (doc_0548)
+- [The Cybertruck's Danger Is A Large-Truck Problem](cybertruck_danger_is_a_large_truck_problem.md): same source document (doc_0548)
+- [The Cybertruck May Have An Unseen Shock-Absorbing Mechanism](cybertruck_may_have_an_unseen_shock_absorbing_mechanism.md): same source document (doc_0548)
+- [The Cybertruck Pedestrian Safety Backlash](cybertruck_pedestrian_safety_backlash.md): same source document (doc_0548)
+- [The Cybertruck Is Unlikely To Be Sold In Europe](cybertruck_unlikely_to_be_sold_in_europe.md): same source document (doc_0548)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

@@ -11,11 +11,17 @@ The first route is Steam, which supports the DualSense through its SteamInput AP
 
 ## Related Notes
 
+
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): same source; the hardware alternative to these software workarounds.
 - [Epic Games Store As A General-Purpose App Store](epic_games_store_as_a_general_purpose_app_store.md): covers one of the storefronts named here, from a different source document.
 - [Activision Titles On Xbox Game Pass](activision_titles_on_xbox_game_pass.md): covers Game Pass, the other service named here, from a different source document.
 - [Epic Games Store Growth and Diversification Beyond Games](epic_games_store_growth_and_diversification_beyond_games.md): also covers Epic Games Store, from a different source document.
 - [Epic V Google Opening Arguments Assessment](epic_v_google_opening_arguments_assessment.md): also covers Epic Games Store, from a different source document.
+- [Fortnite's Live-Service Content Treadmill](fortnite_live_service_content_treadmill.md): both discuss Game Pass; different source document
+- [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): same source document (doc_0236)
+- [8BitDo Ultimate Bluetooth Hall Effect Controller](8bitdo_ultimate_bluetooth_hall_effect_controller.md): same source document (doc_0236)
+- [Microsoft Xbox Wireless Controller](microsoft_xbox_wireless_controller.md): same source document (doc_0236)
+- [Nintendo Switch Pro Controller](nintendo_switch_pro_controller.md): same source document (doc_0236)
 
 ## Source
 

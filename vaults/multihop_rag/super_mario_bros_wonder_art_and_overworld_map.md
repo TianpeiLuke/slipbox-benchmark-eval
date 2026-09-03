@@ -11,6 +11,7 @@ Wonder's map is also surprisingly engaging. In the beginning the reviewer was no
 
 ## Related Notes
 
+
 - [Captain Toad: Treasure Tracker](captain_toad_treasure_tracker.md): shares the exploration-of-nooks-and-crannies framing, from a different source document.
 - [Classic Nintendo Switch Franchise Picks](classic_nintendo_switch_franchise_picks.md): also assesses Nintendo's Mario titles, from a different source document.
 - [Mario Kart 8 Deluxe](mario_kart_8_deluxe.md): another recent Nintendo Mario title, from a different source document.
@@ -19,6 +20,8 @@ Wonder's map is also surprisingly engaging. In the beginning the reviewer was no
 - [Badges And Level Variety In Super Mario Bros. Wonder](super_mario_bros_wonder_badges_and_level_variety.md): drawn from the same source document (doc_0077).
 - [How Wonder Fixes 2D Mario's Difficulty Pacing](super_mario_bros_wonder_difficulty_pacing_fix.md): drawn from the same source document (doc_0077).
 - [The Flower Kingdom Premise](super_mario_bros_wonder_flower_kingdom_premise.md): drawn from the same source document (doc_0077).
+- [Minor Criticisms Of Super Mario Bros. Wonder](super_mario_bros_wonder_minor_criticisms.md): same source document (doc_0077)
+- [Super Mario Bros. Wonder: The Verdict](super_mario_bros_wonder_review_verdict.md): same source document (doc_0077)
 
 ## Source
 

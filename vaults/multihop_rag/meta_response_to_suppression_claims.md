@@ -17,11 +17,23 @@ The rebuttal's reach is limited in ways the reporting records. It is unclear whe
 
 ## Related Notes
 
+
 - [BEUC Consumer Complaint Meta Pay Or Consent](beuc_consumer_complaint_meta_pay_or_consent.md): another dispute over Meta's conduct in the European Union, from a different source document.
 - [Apple USB C Accessory Transition](apple_usb_c_accessory_transition.md): also concerns the European Union, from a different source document.
 - [CJEU 2020 Ruling On Rental Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): also concerns the European Union, from a different source document.
 - [CPPA Draft ADMT Regulations](cppa_draft_admt_regulations.md): also concerns European Union style regulation, from a different source document.
 - [EU AI Act Political Agreement December 2023](eu_ai_act_political_agreement_december_2023.md): also concerns the European Union, from a different source document.
+- [Instagram Palestine Suppression](instagram_palestine_suppression.md): same source document (doc_0106)
+- [Meta's Moderation During An Earlier Hamas-Israel Conflict](meta_2021_conflict_moderation.md): same source document (doc_0106)
+- [Meta's Arabic Mistranslation Of "Alhamdulillah"](meta_arabic_mistranslation.md): same source document (doc_0106)
+- [Meta Bias Mechanisms](meta_bias_mechanisms.md): same source document (doc_0106)
+- [Meta Moderation Bias](meta_moderation_bias.md): same source document (doc_0106)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Shadowbanning](term_shadowbanning.md): uses the concept shadowbanning
+- [Dangerous Organizations and Individuals Policy](term_dangerous_organizations_policy.md): uses the concept dangerous organizations policy
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Recommendation Algorithm](term_recommendation_algorithm.md): uses the concept recommendation algorithm
+- [Accessibility Localisation](term_accessibility_localisation.md): uses the concept accessibility localisation
 
 ## Source
 

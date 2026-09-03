@@ -11,6 +11,7 @@ The consequences inside DeepMind followed the same worry. Its founders were incr
 
 ## Related Notes
 
+
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): also covers DeepMind and Google in the AI landscape, from a different source document.
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): drawn from the same article and states the paradox this claim sits inside.
 - [Anthropic Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): drawn from the same article and shows the same safety camp splitting off elsewhere.
@@ -19,6 +20,8 @@ The consequences inside DeepMind followed the same worry. Its founders were incr
 - [DeepMind Google Acquisition And Facebook AI Lab](deepmind_google_acquisition_and_facebook_ai_lab.md): drawn from the same article and explains the ownership the founders tried to escape.
 - [DeepMind Neural Networks And Atari Demonstration](deepmind_neural_networks_and_atari_demonstration.md): drawn from the same article and covers the earlier demonstration AlphaGo surpassed.
 - [GPT-4 Demonstration To Bill Gates](gpt4_demonstration_to_bill_gates.md): drawn from the same article and is a later demonstration read the same way.
+- [Hinton's 2012 Paper And The Lake Tahoe Talent Auction](hinton_2012_paper_and_lake_tahoe_talent_auction.md): same source document (doc_0027)
+- [Musk's Founding Of OpenAI And His Departure](musk_openai_founding_and_departure.md): same source document (doc_0027)
 
 ## Source
 

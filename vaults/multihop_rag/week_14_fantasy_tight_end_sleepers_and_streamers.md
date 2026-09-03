@@ -11,6 +11,7 @@ Hill can be tough to trust in full-point PPR leagues, but he had been more invol
 
 ## Related Notes
 
+
 - [Bears-Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also covers Cole Kmet, from a different document.
 - [Bills-Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also covers Tanner Hudson, from a different document.
 - [Bills-Bengals SNF Fourth Quarter](bills_bengals_snf_fourth_quarter.md): also covers Tanner Hudson, from a different document.
@@ -19,6 +20,8 @@ Hill can be tough to trust in full-point PPR leagues, but he had been more invol
 - [Week 14 Fantasy Tight End Busts](week_14_fantasy_tight_end_busts.md): the same column's bust warnings, from the same document.
 - [The Week 14 Fantasy Tight End Landscape](week_14_fantasy_tight_end_landscape.md): the same column's framing of the week, from the same document.
 - [Week 14 Tight End Byes: Logan Thomas and Trey McBride](week_14_tight_end_byes_thomas_and_mcbride.md): the byes these streamers replace, from the same document.
+- [Week 14 Tight End Injury Report](week_14_tight_end_injury_report.md): same source document (doc_0552)
+- [Week 14 Tight End PPR Rankings, Top 30](week_14_tight_end_ppr_rankings_top_30.md): same source document (doc_0552)
 
 ## Source
 

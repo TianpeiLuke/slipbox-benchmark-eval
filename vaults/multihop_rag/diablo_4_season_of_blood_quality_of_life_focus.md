@@ -13,6 +13,7 @@ The warrant is that these improvements touch the activities every player perform
 
 ## Related Notes
 
+
 - [Diablo 4 Game Overview](diablo_4_game_overview.md): the base game this season updates, covered in a different source document
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): shares the game-patch-notes topic tag
 - [Apple AirPods Pro Second Generation](apple_airpods_pro_second_generation.md): shares a topic tag from a separate article
@@ -21,6 +22,13 @@ The warrant is that these improvements touch the activities every player perform
 - [ASX Rally: Drivers, Bond Market and China Stimulus](asx_rally_drivers_bond_market_and_china_stimulus.md): shares a topic tag from a financial article
 - [Atlassian Critical Security Flaw Warning](atlassian_critical_security_flaw_warning.md): shares a topic tag from an unrelated source
 - [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): shares the livestreaming topic tag from a different document
+- [Diablo 4 Season 2 Endgame Bosses and Uber Uniques](diablo_4_season_2_endgame_uber_bosses.md): same source document (doc_0533)
+- [Diablo 4 Season 2 Experience and Leveling Changes](diablo_4_season_2_experience_and_leveling_changes.md): same source document (doc_0533)
+- [Diablo 4 Season 2 Nightmare Dungeon and Travel Changes](diablo_4_season_2_nightmare_dungeon_and_travel_changes.md): same source document (doc_0533)
+- [Diablo 4 Season 2 Renown and Gem Inventory Rework](diablo_4_season_2_renown_and_gem_inventory_rework.md): same source document (doc_0533)
+- [Diablo 4 Season of Blood Release Date](diablo_4_season_of_blood_release_date.md): same source document (doc_0533)
+- [Livestreaming](term_livestreaming.md): uses the concept livestreaming
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

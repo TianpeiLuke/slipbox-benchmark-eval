@@ -11,6 +11,7 @@ Cranberry sauce was first loosely described in accounts from the American coloni
 
 ## Related Notes
 
+
 - [American Cranberry Native Range and Harvest Window](american_cranberry_native_range_and_harvest_window.md): another account of when the fruit is harvested.
 - [Cranberries and New England Regional Identity](cranberries_and_new_england_regional_identity.md): another account of cranberries and Thanksgiving.
 - [Cranberry Industry Scale and the Urann Legacy](cranberry_industry_scale_and_urann_legacy.md): another account of the cranberry's Thanksgiving market.
@@ -19,6 +20,8 @@ Cranberry sauce was first loosely described in accounts from the American coloni
 - [Cranberry Air Pockets and Seed Dispersal](cranberry_air_pockets_and_seed_dispersal.md): from the same article, on the tartness that limits their appeal to wildlife.
 - [Cranberry Domestication and US Cultivation History](cranberry_domestication_and_us_cultivation_history.md): from the same article, on how the crop reached American tables.
 - [Cranberry Flower and Pollination Biology](cranberry_flower_and_pollination_biology.md): from the same article, on the plant behind the harvest.
+- [The Cranberry Genome and Molecular Breeding](cranberry_genome_and_molecular_breeding.md): same source document (doc_0131)
+- [Whole Genome Duplication and Bottlenecks in Cranberry](whole_genome_duplication_and_bottlenecks_in_cranberry.md): same source document (doc_0131)
 
 ## Source
 

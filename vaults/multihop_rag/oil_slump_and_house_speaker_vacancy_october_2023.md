@@ -11,11 +11,20 @@ Wall Street was also absorbing the ouster of Kevin McCarthy as speaker of the Ho
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares corpus hardware and battery tags, from a different source document.
 - [Apple AirPods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): shares corpus hardware and battery tags, from a different source document.
 - [Australian Market Resilience And Range Bound Commentary](australian_market_resilience_and_range_bound_commentary.md): covers stocks, inflation and Wall Street in the same period, from a different source document.
 - [China Recovery Greenshoots And Commodity Price Outlook](china_recovery_greenshoots_and_commodity_price_outlook.md): covers crude and Brent price outlooks, from a different source document.
 - [Crude Oil Prices And Gaza Supply Risk October 2023](crude_oil_prices_and_gaza_supply_risk_october_2023.md): covers the same crude prices a week later under war-driven supply risk, from a different source document.
+- [The ASX And Wall Street Rebound Of 4 October 2023](asx_and_wall_street_rebound_october_4_2023.md): same source document (doc_0029)
+- [ASX Sector Movers On 4 October 2023](asx_sector_movers_october_4_2023.md): same source document (doc_0029)
+- [Australian Christmas Retail Spending Outlook For 2023](australian_christmas_retail_spending_outlook_2023.md): same source document (doc_0029)
+- [US Jobs And Services Data In Early October 2023](us_jobs_and_services_data_early_october_2023.md): same source document (doc_0029)
+- [US Treasury Yields And Fed Rate Expectations In October 2023](us_treasury_yields_and_fed_rate_expectations_october_2023.md): same source document (doc_0029)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

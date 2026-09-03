@@ -13,6 +13,7 @@ He immediately undercuts that recommendation, though: while he is one of those s
 
 ## Related Notes
 
+
 - [Earth Mama (Savanah Leaf)](earth_mama_savanah_leaf.md): another write-up by the same critic, Chris Plante, from a different source document
 - [Let the Right One In (2008 Vampire Film)](let_the_right_one_in_2008_vampire_film.md): another Chris Plante horror pick in a separate article
 - [OpenAI Training Data Copyright Lawsuits](openai_training_data_copyright_lawsuits.md): both mention Stephen King, from an unrelated document
@@ -21,6 +22,8 @@ He immediately undercuts that recommendation, though: while he is one of those s
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
 - [American Horror Story: NYC Season](american_horror_story_nyc_season.md): a fellow entry in the same countdown document
 - [Apostle (Gareth Evans Folk Horror)](apostle_gareth_evans_folk_horror.md): another recommendation from the same source
+- [Cat People (1942) and the Origin of the Jump Scare](cat_people_1942_jump_scare_origin.md): same source document (doc_0165)
+- [Curve (Tim Egan Horror Short)](curve_tim_egan_horror_short.md): same source document (doc_0165)
 
 ## Source
 

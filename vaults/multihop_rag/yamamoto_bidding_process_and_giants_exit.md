@@ -11,6 +11,7 @@ ESPN's Jeff Passan reported on Dec. 18 that despite plenty of speculation about 
 
 ## Related Notes
 
+
 - [Eduardo Rodriguez Signs With Diamondbacks](eduardo_rodriguez_signs_with_diamondbacks.md): also relies on reporting by Jeff Passan, from a different document.
 - [IPL 2024 Auction: Uncapped Bowlers and Spinners](ipl_2024_auction_uncapped_bowlers_and_spinners.md): another account of a bidding process for players, from a different document.
 - [Jung Hoo Lee's KBO Posting to MLB](jung_hoo_lee_kbo_posting_to_mlb.md): another dated entry on an Asian free agent's move to MLB, from a different document.
@@ -19,6 +20,8 @@ ESPN's Jeff Passan reported on Dec. 18 that despite plenty of speculation about 
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): another entry from the same free agency tracker, from the same document.
 - [Braves Release Matt Carpenter](braves_release_matt_carpenter.md): another entry from the same free agency tracker, from the same document.
 - [Cody Bellinger Free Agent Market and Suitors](cody_bellinger_free_agent_market_and_suitors.md): another entry from the same free agency tracker, from the same document.
+- [Jack Flaherty's One-Year Deal With The Tigers](jack_flaherty_tigers_one_year_deal.md): same source document (doc_0422)
+- [Kansas City Royals' December 2023 Signings](kansas_city_royals_2023_offseason_signings.md): same source document (doc_0422)
 
 ## Source
 

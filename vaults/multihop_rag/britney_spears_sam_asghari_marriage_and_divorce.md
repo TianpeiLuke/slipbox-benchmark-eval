@@ -11,10 +11,18 @@ They married that June at her California home in Los Angeles, a lavish ceremony 
 
 ## Related Notes
 
+
 - [Britney Spears Memoir Barbs At Timberlake And Federline](britney_spears_memoir_barbs_at_timberlake_and_federline.md): the memoir's treatment of the ex-husband referenced here
 - [Britney Spears Memoir Early Fame Loss Of Freedom](britney_spears_memoir_early_fame_loss_of_freedom.md): separate memoir coverage that also involves Paris Hilton
 - [Kevin Federline Custody Of Britney Spears Sons](kevin_federline_custody_of_britney_spears_sons.md): the custody situation for the two sons named here
 - [Out Of The Woods Taylor Swift Song](out_of_the_woods_taylor_swift_song.md): an unrelated music article that also mentions Selena Gomez
+- [Britney Spears And Adnan Ghalib](britney_spears_adnan_ghalib_relationship.md): same source document (doc_0051)
+- [Britney Spears And Justin Timberlake's Relationship](britney_spears_and_justin_timberlake_relationship.md): same source document (doc_0051)
+- [Britney Spears And Charlie Ebersol](britney_spears_charlie_ebersol_relationship.md): same source document (doc_0051)
+- [Britney Spears' Conservatorship Under Jamie Spears](britney_spears_conservatorship_under_jamie_spears.md): same source document (doc_0358)
+- [Britney Spears And David Lucado](britney_spears_david_lucado_relationship.md): same source document (doc_0051)
+- [Britney Spears' 55-Hour Marriage To Jason Alexander](britney_spears_jason_alexander_55_hour_marriage.md): same source document (doc_0051)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

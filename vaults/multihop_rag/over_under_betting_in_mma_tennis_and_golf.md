@@ -15,11 +15,19 @@ At golf betting sites, over/under betting often pertains to a golfer's score for
 
 ## Related Notes
 
+
 - [Billie Jean King 2023 Activities and Ownership Stakes](billie_jean_king_2023_activities_and_ownership_stakes.md): also references Grand Slam tennis, from a different document.
 - [Corretja Doubts Djokovic 2024 Golden Slam](corretja_doubts_djokovic_2024_golden_slam.md): also references Grand Slam tennis, from a different document.
 - [Golf Betting Bet Types Explained](golf_betting_bet_types_explained.md): overlaps on golf bets placed on a round's score, from a different document.
 - [Handicap Betting in Tennis and Golf](handicap_betting_in_tennis_and_golf.md): covers the handicap counterpart in the same two individual sports, measured in games, sets and strokes, from a different document.
 - [Kyrgios Becker Social Media Feud December 2023](kyrgios_becker_social_media_feud_december_2023.md): also references Grand Slam tennis, from a different document.
+- [Line Movement As A Signal Of Betting Value](line_movement_as_a_signal_of_betting_value.md): same source document (doc_0554)
+- [Over/Under Totals Bet Definition](over_under_totals_bet_definition.md): same source document (doc_0554)
+- [Over/Under Totals By Team Sport](over_under_totals_by_team_sport.md): same source document (doc_0554)
+- [Reading A Totals Line And Its Odds](reading_a_totals_line_and_its_odds.md): same source document (doc_0554)
+- [Totals Bet Outcomes: Push And Overtime](totals_bet_outcomes_push_and_overtime.md): same source document (doc_0554)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

@@ -15,6 +15,7 @@ The consulting turn came as the internet became more regulated and mainstream ar
 
 ## Related Notes
 
+
 - [The Affiliate Marketing Alligator Party](affiliate_marketing_alligator_party.md): drawn from the same source document (doc_0115).
 - [AI-Generated Content Will Overwhelm Search](ai_generated_content_will_overwhelm_search_prediction.md): drawn from the same source document (doc_0115).
 - [Mass-Generated AI SEO Spam And Churn And Burn](ai_mass_generated_seo_spam_churn_and_burn.md): drawn from the same source document (doc_0115).
@@ -23,6 +24,8 @@ The consulting turn came as the internet became more regulated and mainstream ar
 - [Danny Sullivan, From Journalist To Google Liaison](danny_sullivan_from_journalist_to_google_liaison.md): drawn from the same source document (doc_0115).
 - [The Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): drawn from the same source document (doc_0115).
 - [Duane Forrester, Bing, And The Search Engine's View](duane_forrester_bing_and_the_search_engine_view.md): drawn from the same source document (doc_0115).
+- [E-E-A-T And The Shift Toward Institutional Authority](eeat_and_the_shift_to_institutional_authority.md): same source document (doc_0115)
+- [The Claim That 80 Percent Of SEOs Are Scammers](eighty_percent_of_seos_are_scammers_claim.md): same source document (doc_0115)
 
 ## Source
 

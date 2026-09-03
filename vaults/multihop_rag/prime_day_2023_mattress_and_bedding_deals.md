@@ -11,6 +11,7 @@ Entering DEALDAY25 at checkout gets a deal that includes two pillows and matches
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
 - [AirPods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): shares the discount-versus-MSRP theme, from a different source document.
 - [Amazon Buy Box Price Parity Enforcement](amazon_buy_box_price_parity_enforcement.md): shares the discount-and-pricing theme, from a different source document.
@@ -19,6 +20,15 @@ Entering DEALDAY25 at checkout gets a deal that includes two pillows and matches
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the discount-versus-MSRP theme, from a different source document.
 - [Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): drawn from the same source document (doc_0520).
 - [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): shares the discount-versus-MSRP theme, from a different source document.
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Anker 2-In-1 MagSafe StandBy Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): same source document (doc_0520)
+- [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): same source document (doc_0520)
+- [Anker 3-In-1 MagSafe Charging Dock Deal Listings](anker_3_in_1_magsafe_charging_dock_deal_listings.md): same source document (doc_0520)
+- [Anker 737 Power Bank Deal Listings](anker_737_power_bank_deal_listings.md): same source document (doc_0520)
+- [Anker Nano Magnetic Power Bank Deal Listings](anker_nano_magnetic_power_bank_deal_listings.md): same source document (doc_0520)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

@@ -13,6 +13,7 @@ Chelsea's first chance eventually came in the 11th minute, as Jackson forced a s
 
 ## Related Notes
 
+
 - [Adult Stem Cells and Tissue Renewal](adult_stem_cells_and_tissue_renewal.md): also mentions South Korea, from a different source document.
 - [BTS Yet to Come Concert Film](bts_yet_to_come_concert_film.md): also mentions South Korea, from a different source document.
 - [ChatGPT Mobile App Launches and Revenue](chatgpt_mobile_app_launches_and_revenue.md): also mentions South Korea, from a different source document.
@@ -21,6 +22,8 @@ Chelsea's first chance eventually came in the 11th minute, as Jackson forced a s
 - [Ange Postecoglou's Reaction and Unbeaten Home Record](ange_postecoglou_reaction_and_unbeaten_home_record.md): same source document, on the manager whose side led early here.
 - [Chelsea's Second-Half Pressure and Finishing Problems](chelsea_second_half_pressure_and_finishing_problems.md): same source document, continuing the match narrative after the interval.
 - [Cole Palmer's Penalty-Taking Role and Record](cole_palmer_penalty_taking_role_and_record.md): same source document, on the penalty that cancelled out this lead.
+- [Nicolas Jackson's First Premier League Hat-Trick At Tottenham](nicolas_jackson_first_premier_league_hat_trick.md): same source document (doc_0478)
+- [Red Cards And VAR Decisions In Tottenham Vs Chelsea](spurs_chelsea_red_cards_and_var_decisions.md): same source document (doc_0478)
 
 ## Source
 

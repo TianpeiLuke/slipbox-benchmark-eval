@@ -13,6 +13,7 @@ The boundary case is where the humour turns ambiguous: pointing to the cake knif
 
 ## Related Notes
 
+
 - [Albert Namatjira Hermannsburg Watercolour Painter](albert_namatjira_hermannsburg_watercolour_painter.md): same interview, the very different ancestral practice
 - [Vincent Namatjira Australia In Colour Survey Exhibition](vincent_namatjira_australia_in_colour_survey_exhibition.md): same interview, the survey show collecting this work
 - [Vincent Namatjira Call For Foster Care Apology](vincent_namatjira_call_for_foster_care_apology.md): same interview, the political conviction behind the subversion
@@ -20,6 +21,9 @@ The boundary case is where the humour turns ambiguous: pointing to the cake knif
 - [Netflix Originals Premiering November 14 To 16 2023](netflix_originals_premiering_november_14_to_16_2023.md): also mentions Queen Elizabeth, unrelated subject
 - [Don Mclean Vincent Song And Childrens Book](don_mclean_vincent_song_and_childrens_book.md): overlaps on Vincent, an artist and tribute, different document
 - [Tyler Mitchell Staged Black Leisure Photography](tyler_mitchell_staged_black_leisure_photography.md): parallel portraiture-as-argument practice in the same grouping
+- [Tyler Mitchell On His Career Trajectory And Artistic Outlook](tyler_mitchell_career_trajectory_and_artistic_outlook.md): same sub-plan (Portrait artists on show: Tyler Mitchell and Vincent Namatjira), different source document
+- [Vincent Namatjira's Childhood In Foster Care And Return To Country](vincent_namatjira_childhood_foster_care_and_return_to_country.md): same source document (doc_0284)
+- [Vincent Namatjira On Choosing His Own Path From Albert's Legacy](vincent_namatjira_choosing_his_own_path_from_alberts_legacy.md): same source document (doc_0284)
 
 ## Source
 

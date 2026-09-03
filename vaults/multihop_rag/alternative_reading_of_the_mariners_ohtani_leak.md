@@ -11,6 +11,7 @@ The premise attacked is that the leak is a straightforward disclosure of Seattle
 
 ## Related Notes
 
+
 - [Blue Jays Roster Implications of Ohtani Pursuit](blue_jays_roster_implications_of_ohtani_pursuit.md): covers another club's reported stance on Ohtani, from a different document.
 - [Ohtani Free Agency Market Expectations and Timeline](ohtani_free_agency_market_expectations_and_timeline.md): another account of how the Ohtani market was read, from a different document.
 - [Shohei Ohtani Contract Deferral Structure](shohei_ohtani_contract_deferral_structure.md): covers the deal Ohtani eventually signed, from a different document.
@@ -19,6 +20,8 @@ The premise attacked is that the leak is a straightforward disclosure of Seattle
 - [Cubs Ohtani Fit After the NL Designated Hitter](cubs_ohtani_fit_after_nl_designated_hitter.md): another item from the same rumor tracker, from the same document.
 - [An Early Ohtani Signing Would Reshape the Offseason](early_ohtani_signing_would_reshape_the_offseason.md): another item from the same rumor tracker, from the same document.
 - [The Mariners Reported Out of the Ohtani Chase](mariners_reported_out_of_the_ohtani_chase.md): the report this reading pushes back on, from the same document.
+- [Ohtani's Camp Secrecy And The Reporting Blackout](ohtani_camp_secrecy_and_reporting_blackout.md): same source document (doc_0480)
+- [The Report Of Ohtani's 'Affinity' For Boston](report_of_ohtani_affinity_for_boston.md): same source document (doc_0480)
 
 ## Source
 

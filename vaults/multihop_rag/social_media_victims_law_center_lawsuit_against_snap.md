@@ -13,6 +13,7 @@ What is new is the venue: some parents are now taking to the civil courts, targe
 
 ## Related Notes
 
+
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): overlaps on victims, relatives and claims against a company, from a different source document.
 - [Brooke Badger's Fentanyl Overdose Death, 2021](brooke_badger_fentanyl_overdose_death_2021.md): drawn from the same source document (doc_0345).
 - [Ed Ternan's Case Against Suing Snap](ed_ternan_case_against_suing_snap.md): drawn from the same source document (doc_0345).
@@ -21,6 +22,7 @@ What is new is the venue: some parents are now taking to the civil courts, targe
 - [Snap's Moderation Response To Drug Dealer Accounts](snap_moderation_response_to_drug_dealer_accounts.md): drawn from the same source document (doc_0345).
 - [Snapchat Design Features Alleged To Enable Drug Sales](snapchat_design_features_alleged_to_enable_drug_sales.md): drawn from the same source document (doc_0345).
 - [Snapchat's Perceived Safety For Teen Drug Purchases](snapchat_perceived_safety_for_teen_drug_purchases.md): drawn from the same source document (doc_0345).
+- [US Youth Fentanyl Overdose Death Statistics](us_youth_fentanyl_overdose_death_statistics.md): same source document (doc_0345)
 
 ## Source
 

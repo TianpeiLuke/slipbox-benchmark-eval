@@ -13,11 +13,20 @@ A veteran coach with experience on a half-dozen teams supplied the warrant from 
 
 ## Related Notes
 
+
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also concerns Kirk Cousins, from a different document.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): also concerns Justin Jefferson, from a different document.
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also concerns Josh Allen, from a different document.
 - [Bills Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): also concerns Josh Allen, from a different document.
 - [Bills Chargers Week 16 Matchup Preview](bills_chargers_week_16_matchup_preview.md): also concerns Josh Allen, from a different document.
+- [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): same source document (doc_0316)
+- [The Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): same source document (doc_0316)
+- [Buffalo Bills Defensive Injuries And The 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): same source document (doc_0316)
+- [Cincinnati Bengals: Joe Burrow's Durability And The Line](cincinnati_bengals_joe_burrow_durability_and_line.md): same source document (doc_0316)
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

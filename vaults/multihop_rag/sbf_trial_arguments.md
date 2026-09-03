@@ -11,6 +11,7 @@ The defense countered with the opposite reading of the same conduct. Its claim w
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony And The Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): covers the same criminal trial and fraud allegations, from a different source document.
 - [Caroline Ellison Guilty Plea And First Day Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): overlaps in content on the fraud trial and the question of who knowingly committed it, from a different source document.
 - [Cohen Cross-Examination Of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): covers the same criminal trial and fraud allegations, from a different source document.
@@ -18,6 +19,11 @@ The defense countered with the opposite reading of the same conduct. Its claim w
 - [Engoron Summary Judgment That Trump Committed Fraud](engoron_summary_judgment_that_trump_committed_fraud.md): another fraud proceeding turning on intent, from a different source document.
 - [Acurable's Patient-Friendly Respiratory Wearables](acurable_respiratory_wearables.md): another item from the same October 7, 2023 Week in Review (doc_0011).
 - [AI Startup Defensibility](ai_startup_defensibility.md): another item from the same source document (doc_0011).
+- [Breathe Battery Technologies' Charging Software](breathe_battery_software.md): same source document (doc_0011)
+- [Flexport Leadership Turmoil](flexport_leadership_turmoil.md): same source document (doc_0011)
+- [Gmail's New Rules For Bulk Senders](gmail_bulk_sender_rules.md): same source document (doc_0011)
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

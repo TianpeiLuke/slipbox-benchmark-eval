@@ -11,6 +11,7 @@ The Netgear Nighthawk series is well regarded and supplies some of the picks in 
 
 ## Related Notes
 
+
 - [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): overlapping coverage of coverage in square feet and Eero gear, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): also concerns Prime Day, from a different source document.
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): overlapping coverage of Wi-Fi routers and Eero, from a different source document.
@@ -19,6 +20,8 @@ The Netgear Nighthawk series is well regarded and supplies some of the picks in 
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
 - [Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): drawn from the same source document (doc_0520).
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): drawn from the same source document (doc_0520).
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
 
 ## Source
 

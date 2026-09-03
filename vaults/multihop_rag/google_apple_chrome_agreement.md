@@ -13,11 +13,18 @@ A second, related admission came from Google's side: Pichai admitted to attempti
 
 ## Related Notes
 
+
 - [The AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also features Satya Nadella, from a different source document.
 - [Apple's Generative AI Investment Stance](apple_generative_ai_investment_stance.md): also features Tim Cook, from a different source document.
 - [The Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): describes the underlying Google-Apple search arrangement, from a different source document.
 - [Apple's Privacy Stance Versus Google's Default Payments](apple_privacy_stance_versus_google_default_payments.md): also concerns Safari, Google and the default arrangement, from a different source document.
 - [The DOJ Theory That Google's Default Deals Foreclose Search Rivals](doj_theory_that_google_default_deals_foreclose_search_rivals.md): supplies the foreclosure theory these deal terms are read against, from a different source document.
+- [What A Ruling Against Google Would Mean For Big Tech](big_tech_antitrust_outlook.md): same source document (doc_0237)
+- [The Google Antitrust Case](google_antitrust_case.md): same source document (doc_0237)
+- [The Hypocrisy Argument: Google Became The Monopoly It Denounced](google_default_hypocrisy_argument.md): same source document (doc_0237)
+- [Google Paid $26.3 Billion In 2021 For Default Search Placement](google_default_search_payments.md): same source document (doc_0237)
+- [Google's Deleted Chat Logs Under A Litigation Hold](google_deleted_chat_logs.md): same source document (doc_0237)
+- [Total Addressable Market (TAM)](term_total_addressable_market.md): uses the concept total addressable market
 
 ## Source
 

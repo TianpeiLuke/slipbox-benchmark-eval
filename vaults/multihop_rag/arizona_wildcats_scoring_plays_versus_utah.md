@@ -13,10 +13,14 @@ When "Swag Surfin" by Fast Life Yungstaz came on to signal the fourth quarter â€
 
 ## Related Notes
 
+
 - [Colorado-Arizona State 2023 First Half](colorado_arizona_state_2023_first_half.md): overlapping Arizona touchdown coverage, from a different source document.
 - [No. 17 Arizona 42-18 No. 22 Utah, November 2023](arizona_42_18_win_over_utah_november_2023.md): same match report, giving the overall result these plays produced.
 - [Arizona's Defensive Performance Versus Utah](arizona_defensive_performance_versus_utah.md): same match report, on the defensive side of the same game.
 - [Arizona Versus Arizona State: The 2023 Territorial Cup](arizona_versus_arizona_state_territorial_cup_2023.md): same match report, on the fixture that followed.
+- [Jedd Fisch On What The Utah Win Signified](jedd_fisch_on_arizona_program_trajectory.md): same source document (doc_0475)
+- [Jordan Morgan's Senior Day At Arizona Stadium](jordan_morgan_senior_day_at_arizona_stadium.md): same source document (doc_0475)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

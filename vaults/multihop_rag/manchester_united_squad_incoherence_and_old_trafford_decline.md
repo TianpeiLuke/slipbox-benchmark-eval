@@ -11,6 +11,7 @@ The grounds are what was visible in the stadium and on the pitch. As the seconds
 
 ## Related Notes
 
+
 - [Andre Onana's Goalkeeping Errors, 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also covers Ten Hag's United and Onana, from a different document.
 - [Bayern Munich's 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also covers Bayern Munich in the Champions League, from a different document.
 - [Carabao Cup 2023-24 Quarter-Final Results](carabao_cup_2023_24_quarterfinal_results.md): also concerns Old Trafford, from a different document.
@@ -19,6 +20,7 @@ The grounds are what was visible in the stadium and on the pitch. As the seconds
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): gives the match this argument is drawn from, from the same document.
 - [Manchester United's 2023 Champions League Group Stage Exit](manchester_united_2023_champions_league_group_stage_exit.md): gives the campaign record behind it, from the same document.
 - [The Manchester United Crisis News Cycle Under Ten Hag](manchester_united_crisis_news_cycle_under_ten_hag.md): argues how blame is apportioned at this club, from the same document.
+- [The Three Concurrent Roles Of A Manchester United Manager](three_concurrent_roles_of_a_manchester_united_manager.md): same source document (doc_0370)
 
 ## Source
 

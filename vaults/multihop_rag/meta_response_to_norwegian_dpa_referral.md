@@ -13,11 +13,16 @@ The rebuttal leaves the timing question open, which is the point on which it is 
 
 ## Related Notes
 
+
 - [BEUC Position Choice versus Implementation](beuc_position_choice_versus_implementation.md): substantial content overlap on protection, consent, meta, from a different source document.
 - [CJEU Appropriate Fee Ruling](cjeu_appropriate_fee_ruling.md): substantial content overlap on meta, profiling, tracking, from a different source document.
 - [DSA DMA Oversight of Meta Ad Tracking](dsa_dma_oversight_of_meta_ad_tracking.md): substantial content overlap on protection, consent, meta, from a different source document.
 - [Irish Dpc Assessment of Meta Consent Model](irish_dpc_assessment_of_meta_consent_model.md): substantial content overlap on protection, consent, meta, from a different source document.
 - [Meta Legal Basis for Ad Tracking in EU](meta_legal_basis_for_ad_tracking_in_eu.md): substantial content overlap on protection, consent, meta, from a different source document.
+- [Analysis Of Meta's Delay Tactics On The Consent Switch](analysis_of_meta_delay_tactics_on_consent_switch.md): same source document (doc_0107)
+- [Meta's Legal Basis Chain For Personalized Ads Under GDPR](meta_legal_basis_chain_for_personalized_ads_under_gdpr.md): same source document (doc_0107)
+- [Norway's Ban On Meta's Consentless Tracking Ads](norway_ban_on_meta_consentless_tracking_ads.md): same source document (doc_0107)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

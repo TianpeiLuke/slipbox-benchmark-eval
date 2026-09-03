@@ -15,6 +15,7 @@ Both coaches took something from it. "We were one lucky bounce away from winning
 
 ## Related Notes
 
+
 - [Dejan Vasiljevic Transfer Dispute Between Kings and 36ers](dejan_vasiljevic_transfer_dispute_between_kings_and_36ers.md): another South East Melbourne Phoenix-related story, different source document
 - [Melbourne United Beat New Zealand Breakers Round 4](melbourne_united_beat_new_zealand_breakers_round_4.md): an earlier Breakers loss at John Cain Arena under Mody Maor
 - [South East Melbourne Phoenix Beat Adelaide 36ers Round 4](south_east_melbourne_phoenix_beat_adelaide_36ers_round_4.md): an earlier Phoenix win featuring Alan Williams and Gary Browne
@@ -23,6 +24,8 @@ Both coaches took something from it. "We were one lucky bounce away from winning
 - [Aron Baynes Suspension Brisbane Bullets 2023](aron_baynes_suspension_brisbane_bullets_2023.md): another story in the same round-up, same source document
 - [Brisbane Bullets Beat Perth Wildcats NBL Round 5](brisbane_bullets_beat_perth_wildcats_nbl_round_5.md): another round 5 result, same source document
 - [Brisbane Bullets Beat Tasmania JackJumpers NBL Round 5](brisbane_bullets_beat_tasmania_jackjumpers_nbl_round_5.md): another round 5 result, same source document
+- [Cairns Beat Sydney 87-80 As Patrick Miller Is Injured](cairns_taipans_beat_sydney_kings_and_patrick_miller_injury.md): same source document (doc_0240)
+- [Melbourne United Beat Illawarra 96-84 In Round 5](melbourne_united_beat_illawarra_hawks_nbl_round_5.md): same source document (doc_0240)
 
 ## Source
 

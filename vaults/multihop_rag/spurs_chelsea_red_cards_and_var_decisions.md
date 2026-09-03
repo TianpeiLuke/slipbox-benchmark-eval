@@ -15,12 +15,18 @@ Sterling then broke forward seven minutes into the second half but his shot was 
 
 ## Related Notes
 
+
 - [Chelsea 2-0 Blackburn, Carabao Cup Last 16](chelsea_2_0_blackburn_carabao_cup_last_16.md): also discusses Mauricio Pochettino, from a different source document.
 - [Chelsea 4-4 Manchester City at Stamford Bridge](chelsea_4_4_manchester_city_stamford_bridge.md): also discusses Marc Cucurella and Reece James, from a different source document.
 - [Chelsea-Arsenal Derby Team News October 2023](chelsea_arsenal_derby_team_news_october_2023.md): also discusses Moises Caicedo and Reece James, from a different source document.
 - [Destiny Udogie Tackle Escapes Red Card](destiny_udogie_tackle_escapes_red_card.md): also discusses referee Michael Oliver and a Udogie challenge, from a different source document.
 - [Kulusevski Opener and Son Disallowed Goal](kulusevski_opener_and_son_disallowed_goal.md): also discusses Levi Colwill, from a different source document.
 - [Ange Postecoglou's Reaction and Unbeaten Home Record](ange_postecoglou_reaction_and_unbeaten_home_record.md): same source document, on the manager's view of the VAR interventions here.
+- [Chelsea's Second-Half Pressure And Finishing Problems At Tottenham](chelsea_second_half_pressure_and_finishing_problems.md): same source document (doc_0478)
+- [Cole Palmer's Penalty-Taking Role And Record](cole_palmer_penalty_taking_role_and_record.md): same source document (doc_0478)
+- [Nicolas Jackson's First Premier League Hat-Trick At Tottenham](nicolas_jackson_first_premier_league_hat_trick.md): same source document (doc_0478)
+- [Tottenham's Unbeaten Run Ends In A Home Loss To Chelsea](tottenham_1_4_chelsea_november_2023_result.md): same source document (doc_0478)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

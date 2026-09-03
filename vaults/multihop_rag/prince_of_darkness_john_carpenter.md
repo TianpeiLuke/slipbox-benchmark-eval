@@ -13,6 +13,7 @@ The film follows a group of college researchers sent to study a strange canister
 
 ## Related Notes
 
+
 - [Annihilation (2018, Alex Garland)](annihilation_2018_alex_garland_film.md): another write-up by the same critic, Austen Goslin, from a different source document
 - [Hereditary (2018, Ari Aster)](hereditary_2018_ari_aster_film.md): another Austen Goslin horror piece in a separate article
 - [In the Mouth of Madness (John Carpenter)](in_the_mouth_of_madness_john_carpenter_film.md): covers another film in the same Carpenter apocalypse trilogy, from a different document
@@ -21,6 +22,8 @@ The film follows a group of college researchers sent to study a strange canister
 - [American Horror Story: NYC Season](american_horror_story_nyc_season.md): a fellow entry in the same countdown document
 - [Apostle (Gareth Evans Folk Horror)](apostle_gareth_evans_folk_horror.md): another recommendation from the same source
 - [Cat People (1942 Jump Scare Origin)](cat_people_1942_jump_scare_origin.md): another classic-horror pick in the same countdown
+- [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): same source document (doc_0165)
+- [Curve (Tim Egan Horror Short)](curve_tim_egan_horror_short.md): same source document (doc_0165)
 
 ## Source
 

@@ -13,12 +13,19 @@ The federal role is deliberately supportive rather than proprietary. "We aim to 
 
 ## Related Notes
 
+
 - [Biden AI Executive Order](biden_ai_executive_order.md): also covers the White House's AI order, from a different source document.
 - [ChatGPT Political Disinformation Guardrail Failure](chatgpt_political_disinformation_guardrail_failure.md): shares the political-disinformation theme, from a different source document.
 - [Contested Evidence On Social Media Harm](contested_evidence_on_social_media_harm.md): shares the disinformation theme, from a different source document.
 - [Don McLean's Upcoming Albums And Touring](don_mclean_upcoming_albums_and_touring.md): shares a White House reference, from a different source document.
 - [Engoron's Summary Judgment That Trump Committed Fraud](engoron_summary_judgment_that_trump_committed_fraud.md): shares a White House reference, from a different source document.
 - [AI Civil Rights And Consumer Protections In The EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): drawn from the same source document (doc_0313).
+- [Critical Infrastructure And CBRN Provisions Of The AI Executive Order](ai_threats_to_critical_infrastructure_provisions.md): same source document (doc_0313)
+- [Worker Protections And Federal AI Hiring In The Executive Order](ai_worker_protections_and_federal_ai_hiring.md): same source document (doc_0313)
+- [The Biden AI Executive Order Of October 2023](biden_ai_executive_order_october_2023.md): same source document (doc_0313)
+- [Schumer's Objection: An Executive Order Cannot Replace Legislation](executive_order_limits_versus_ai_legislation.md): same source document (doc_0313)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

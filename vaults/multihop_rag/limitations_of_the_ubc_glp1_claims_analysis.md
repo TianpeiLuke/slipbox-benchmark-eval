@@ -13,6 +13,7 @@ The researchers also did not determine whether certain groups were at higher ris
 
 ## Related Notes
 
+
 - [Cardiovascular Benefits Outweigh GLP-1 GI Risks](cardiovascular_benefits_outweigh_glp1_gi_risks.md): drawn from the same source document (doc_0066).
 - [Case for Adding Gastroparesis to GLP-1 Warning Labels](case_for_adding_gastroparesis_to_glp1_warning_labels.md): drawn from the same source document (doc_0066).
 - [Gastroparesis Pancreatitis Bowel Obstruction and Ileus](gastroparesis_pancreatitis_bowel_obstruction_and_ileus.md): drawn from the same source document (doc_0066).
@@ -21,6 +22,7 @@ The researchers also did not determine whether certain groups were at higher ris
 - [Louisiana Lawsuit over Ozempic and Mounjaro GI Injuries](louisiana_lawsuit_over_ozempic_and_mounjaro_gi_injuries.md): drawn from the same source document (doc_0066).
 - [Novo Nordisk Response to GLP-1 Gastroparesis Findings](novo_nordisk_response_to_glp1_gastroparesis_findings.md): drawn from the same source document (doc_0066).
 - [Persistence of Gastroparesis after Stopping GLP-1 Drugs](persistence_of_gastroparesis_after_stopping_glp1_drugs.md): drawn from the same source document (doc_0066).
+- [The UBC JAMA Study On GLP-1 Gastrointestinal Adverse Events](ubc_jama_study_glp1_gastrointestinal_adverse_events.md): same source document (doc_0066)
 
 ## Source
 

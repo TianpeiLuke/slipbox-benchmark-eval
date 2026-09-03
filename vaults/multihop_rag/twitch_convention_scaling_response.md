@@ -11,9 +11,18 @@ Delphin explained what had overwhelmed the previous event: "It was a huge demand
 
 ## Related Notes
 
+
 - [TwitchCon 2022 San Diego Crowding Problems](twitchcon_2022_san_diego_crowding_problems.md): same source document; the failures this response addressed.
 - [Loss Of Spontaneous Creator Meetups](loss_of_spontaneous_creator_meetups.md): same source document; another effect of creators' growing fame.
 - [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): same source document; the leadership credited with better community responsiveness.
+- [Las Vegas Strip Navigation And Accessibility Problems](las_vegas_strip_navigation_and_accessibility_problems.md): same source document (doc_0551)
+- [Moni's UserVoice TwitchCon Critique](moni_uservoice_twitchcon_critique.md): same source document (doc_0551)
+- [The Third Place](third_place_sociological_concept.md): same source document (doc_0551)
+- [Third Places And Twitch Community Building](third_places_and_twitch_community_building.md): same source document (doc_0551)
+- [Twitch Demographics Versus Las Vegas Culture](twitch_demographics_versus_las_vegas_culture.md): same source document (doc_0551)
+- [TwitchCon 2023 Las Vegas Reception](twitchcon_2023_las_vegas_reception.md): same source document (doc_0551)
+- [TwitchCon Attendee Venue Complaints](twitchcon_attendee_venue_complaints.md): same source document (doc_0551)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

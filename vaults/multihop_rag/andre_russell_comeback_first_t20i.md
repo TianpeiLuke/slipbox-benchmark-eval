@@ -11,6 +11,7 @@ He seemed very pleased to be back in maroon, saying: "Life is so funny. Since wh
 
 ## Related Notes
 
+
 - [England 132 All Out in the T20 Series Decider](england_132_all_out_t20_series_decider.md): also covers West Indies in the same series, from a different document.
 - [First ODI, Cricket World Cup 1975](first_odi_cricket_world_cup_1975.md): also covers West Indies, from a different document.
 - [India-Australia 1983 World Cup Group Matches](india_australia_1983_world_cup_group_matches.md): also covers West Indies, from a different document.
@@ -19,6 +20,8 @@ He seemed very pleased to be back in maroon, saying: "Life is so funny. Since wh
 - [Adil Rashid T20I Milestones and Series Form](adil_rashid_t20i_milestones_and_series_form.md): covers an England counterpart across the series, from a different document.
 - [England 171 All Out in the First T20I](england_171_all_out_first_t20i.md): shows the wickets these figures came from, from the same document.
 - [First T20I in Barbados: Match Summary](first_t20i_barbados_match_summary.md): places this performance in the whole match, from the same document.
+- [The Rain Delay And DLS Position In The First T20I](rain_delay_and_dls_position_first_t20i.md): same source document (doc_0063)
+- [Rehan Ahmed And Adil Rashid Through The Middle Overs](rehan_ahmed_and_rashid_middle_overs_first_t20i.md): same source document (doc_0063)
 
 ## Source
 

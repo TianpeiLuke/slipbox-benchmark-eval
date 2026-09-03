@@ -13,11 +13,17 @@ The only other top app in the list not from Meta, Google or a Chinese firm was M
 
 ## Related Notes
 
+
 - [BEUC Consumer Law Objections To Meta Model](beuc_consumer_law_objections_to_meta_model.md): overlapping coverage of Meta's Instagram and Facebook apps, from a different source document.
 - [Big Tech Antitrust Outlook](big_tech_antitrust_outlook.md): overlapping coverage of WhatsApp, Instagram and Google, from a different source document.
 - [COPPA Allegations Against Meta](coppa_allegations_against_meta.md): overlapping coverage of Meta's app portfolio, from a different source document.
 - [Critique Of Meta App Store Parental Approval Proposal](critique_of_meta_app_store_parental_approval_proposal.md): overlapping coverage of app downloads across Google and Meta, from a different source document.
 - [Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): also concerns Google Search, from a different source document.
+- [Apple's 2023 Top iPad App And Game Lists](apple_2023_top_ipad_apps_and_games_lists.md): same source document (doc_0384)
+- [Apple's 2023 Top iPhone App And Game Lists](apple_2023_top_iphone_apps_and_games_lists.md): same source document (doc_0384)
+- [Why Chinese Apps Rose In The US App Store Rankings](chinese_apps_rise_in_us_app_store_rankings.md): same source document (doc_0384)
+- [Temu As The Top US iPhone App Of 2023](temu_top_us_iphone_app_of_2023.md): same source document (doc_0384)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

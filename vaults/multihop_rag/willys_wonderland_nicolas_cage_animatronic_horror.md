@@ -13,6 +13,7 @@ Polygon's verdict is that the novelty is not quite enough for the film to reach 
 
 ## Related Notes
 
+
 - [Amazon Proteus Automation Outside the Cage](amazon_proteus_automation_outside_the_cage.md): incidental "cage" term overlap from an unrelated source document
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): both mention Five Nights at Freddy's, from a different article
 - [Apple 2023 Top iPhone Apps and Games Lists](apple_2023_top_iphone_apps_and_games_lists.md): another Five Nights reference from a separate document
@@ -21,6 +22,8 @@ Polygon's verdict is that the novelty is not quite enough for the film to reach 
 - [Five Nights at Freddy's Movie Accessibility to Newcomers](five_nights_at_freddys_movie_accessibility_to_newcomers.md): another answer in the same viewer guide
 - [Five Nights at Freddy's Movie Age Appropriateness](five_nights_at_freddys_movie_age_appropriateness.md): a fellow entry in the same Q&A
 - [Five Nights at Freddy's Movie Development and Release](five_nights_at_freddys_movie_development_and_release.md): the production history this knockoff outpaced
+- [Five Nights at Freddy's Movie Mid-Credits Scene](five_nights_at_freddys_movie_mid_credits_scene.md): same source document (doc_0387)
+- [The Movie's Simplified Lore Cuts Against the "For the Fans" Framing](five_nights_at_freddys_movie_simplified_lore_for_fans.md): same source document (doc_0387)
 
 ## Source
 

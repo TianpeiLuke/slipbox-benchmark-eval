@@ -11,9 +11,17 @@ Lowco stated the criterion attendees want applied: "Ultimately, TwitchCon is a c
 
 ## Related Notes
 
+
 - [Loss Of Spontaneous Creator Meetups](loss_of_spontaneous_creator_meetups.md): same source document; the meetups a walkable city would restore.
 - [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): same source document; the leadership these requests are addressed to.
 - [December 2023 Bowl Game Schedule And Matchups](december_2023_bowl_game_schedule_and_matchups.md): also concerns San Diego as an event host, from a different source document.
+- [6PPD-Quinone And Coho Salmon Die-Offs](6ppd_quinone_and_coho_salmon_die_offs.md): both discuss West Coast; different source document
+- [Brayden Maynard Says Collingwood's 2023 Premiership Is "Just The Beginning"](brayden_maynard_collingwood_dynasty_ambition.md): both discuss West Coast; different source document
+- [Camden Yards: Baltimore Orioles Postseason Atmosphere](camden_yards_baltimore_orioles_postseason_atmosphere.md): both discuss East Coast; different source document
+- [The Flexport Forecast Dispute And The Contested Whistleblower Claim](flexport_forecast_dispute_and_whistleblower_claim.md): both discuss West Coast; different source document
+- [Las Vegas Strip Navigation And Accessibility Problems](las_vegas_strip_navigation_and_accessibility_problems.md): same source document (doc_0551)
+- [Moni's UserVoice TwitchCon Critique](moni_uservoice_twitchcon_critique.md): same source document (doc_0551)
+- [The Third Place](third_place_sociological_concept.md): same source document (doc_0551)
 
 ## Source
 

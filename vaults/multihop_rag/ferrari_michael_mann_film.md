@@ -13,6 +13,7 @@ What critic AG finds most surprising is that the film's most thrilling sequences
 
 ## Related Notes
 
+
 - [The Great Dying as Analogue for Modern Climate Extinction](great_dying_as_analogue_for_modern_climate_extinction.md): shares the name Michael Mann across an unrelated source document
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 list
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): a fellow entry on the same ranked list
@@ -21,6 +22,8 @@ What critic AG finds most surprising is that the film's most thrilling sequences
 - [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): another entry from the same ranked list
 - [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): a fellow pick in the same article
 - [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): another film from the same list
+- [Creed III (Michael B. Jordan)](creed_iii_michael_b_jordan.md): same source document (doc_0094)
+- [Dream Scenario (Kristoffer Borgli)](dream_scenario_kristoffer_borgli.md): same source document (doc_0094)
 
 ## Source
 

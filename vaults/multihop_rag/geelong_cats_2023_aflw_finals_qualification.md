@@ -13,6 +13,7 @@ Young defender Rebecca Webster had told this masthead earlier in the week how im
 
 ## Related Notes
 
+
 - [Melbourne (Narrm) 2023 AFLW Ladder Position](melbourne_narrm_2023_aflw_ladder_position.md): also concerns North Melbourne, from a different document.
 - [Richmond Tigers' Comeback Win in Cairns, 2023](richmond_tigers_comeback_win_in_cairns_2023.md): also concerns North Melbourne, from a different document.
 - [AFLW 2023 Finals Qualification and Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): drawn from the same document (doc_0209).
@@ -21,6 +22,8 @@ Young defender Rebecca Webster had told this masthead earlier in the week how im
 - [Gold Coast Suns' Second AFLW Finals Appearance](gold_coast_suns_second_aflw_finals_appearance.md): drawn from the same document (doc_0209).
 - [North Melbourne's 2023 AFLW Top-Four Finish](north_melbourne_2023_aflw_top_four_finish.md): drawn from the same document (doc_0209).
 - [Richelle Cranston's Kidney Disease and Retirement](richelle_cranston_kidney_disease_and_retirement.md): drawn from the same document (doc_0209).
+- [St Kilda's 2023 AFLW Finals Near Miss](st_kilda_2023_aflw_finals_near_miss.md): same source document (doc_0209)
+- [Sydney Swans' First AFLW Finals Berth](sydney_swans_first_aflw_finals_berth.md): same source document (doc_0209)
 
 ## Source
 

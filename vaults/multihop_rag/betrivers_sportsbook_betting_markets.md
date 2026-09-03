@@ -13,11 +13,19 @@ New accounts typically can claim a second-chance bet that could reach up to $500
 
 ## Related Notes
 
+
 - [BetRivers Promo Code SPORTSRIV Second Chance Bet](betrivers_promo_code_sportsriv_second_chance_bet.md): a specific version of the second-chance bet described here.
 - [BetRivers Second Chance Bet Offer December 2023](betrivers_second_chance_bet_offer_december_2023.md): a later second-chance offer.
 - [BetRivers Vermont Sportsbook Welcome Offer](betrivers_vermont_sportsbook_welcome_offer.md): a state-level BetRivers offer including iRush Rewards.
 - [Crosby Malkin Letang Eighteenth Season Together](crosby_malkin_letang_eighteenth_season_together.md): shares the MLB and NBA subject tags.
 - [FTX Marketing and Influence](ftx_marketing_and_influence.md): also concerns Major League Baseball sponsorship-side commerce.
+- [Bet365 In The US: Daily MLB Odds Boosts And Live Betting](bet365_sportsbook_us_mlb_markets.md): same source document (doc_0264)
+- [BetMGM Sportsbook: Deep MLB Markets And The Only NBA Live-Streaming App](betmgm_sportsbook_betting_markets.md): same source document (doc_0264)
+- [Caesars Sportsbook: MLB Odds, Futures And Early Cash-Out](caesars_sportsbook_mlb_markets.md): same source document (doc_0264)
+- [DraftKings Sportsbook: MLB And NBA Markets And Promotions](draftkings_sportsbook_betting_markets.md): same source document (doc_0264)
+- [FanDuel Sportsbook: MLB And NBA Markets, Props And Same-Game Parlays](fanduel_sportsbook_betting_markets.md): same source document (doc_0264)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

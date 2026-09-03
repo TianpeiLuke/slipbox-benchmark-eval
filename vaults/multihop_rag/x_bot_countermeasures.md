@@ -17,11 +17,21 @@ The plan matches what Musk had said earlier. He had told Israeli Prime Minister 
 
 ## Related Notes
 
+
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): overlapping coverage of Elon Musk, from a different source document.
 - [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): overlapping coverage of Elon Musk, from a different source document.
 - [Cybertruck Bed Size And Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): overlapping coverage of Elon Musk, from a different source document.
 - [CFPB Consumer Redress Ordered From Big Four Banks](cfpb_consumer_redress_ordered_from_big_four_banks.md): shares the payment-processor theme, from a different source document.
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares the acquisition and creator-economy themes, from a different source document.
+- [Objections To X's $1 Bot Fee](objections_to_x_bot_fee.md): same source document (doc_0195)
+- [X's Competitive Position In October 2023](x_competitive_position.md): same source document (doc_0195)
+- [Identity Verification](term_identity_verification.md): uses the concept identity verification
+- [Bot Detection](term_bot_detection.md): uses the concept bot detection
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [CAPTCHA](term_captcha.md): uses the concept captcha
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

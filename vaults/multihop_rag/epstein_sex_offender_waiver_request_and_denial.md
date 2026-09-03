@@ -11,10 +11,19 @@ George says she wasn't aware of the scale of Epstein's crimes when she was named
 
 ## Related Notes
 
+
 - [Catherine Tan On Public Disclosure And Law Enforcement Gaps](catherine_tan_public_disclosure_and_law_enforcement_gaps.md): shares the law-enforcement and disclosure theme from a different source document.
 - [Mahsa Amini's Death And Iranian Women's Stories](mahsa_amini_death_and_iranian_womens_stories.md): shares the account-of-harm-to-women theme from a different source document.
 - [SBF's Defense Counsel](sbf_defense_counsel.md): overlapping coverage of attorneys and denied requests in Epstein-linked matters, from a different source document.
 - [The Good Fight On Paramount+](the_good_fight_paramount_plus.md): shares the legal-drama and bail theme from a different source document.
+- [Cecile de Jongh's Role And Her Deposition Denial](cecile_de_jongh_role_and_deposition_denial.md): same source document (doc_0477)
+- [Denise George's Firing As US Virgin Islands Attorney General](denise_george_firing_as_usvi_attorney_general.md): same source document (doc_0477)
+- [Denise George: Profile And Epstein Case Role](denise_george_profile_and_epstein_case_role.md): same source document (doc_0477)
+- [The Epstein Estate Civil Racketeering Pursuit](epstein_estate_civil_racketeering_pursuit.md): same source document (doc_0477)
+- [Epstein-Related Settlements With The US Virgin Islands](epstein_related_settlements_with_us_virgin_islands.md): same source document (doc_0477)
+- [Epstein's Web Of Influence In The US Virgin Islands](epstein_web_of_influence_in_us_virgin_islands.md): same source document (doc_0477)
+- [Bail](term_bail.md): uses the concept bail
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

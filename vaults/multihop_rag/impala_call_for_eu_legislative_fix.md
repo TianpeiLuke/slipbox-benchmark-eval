@@ -11,6 +11,7 @@ The grounds are the scale of the transfer and the Commission's inaction. "A deva
 
 ## Related Notes
 
+
 - [Amazon Response to EU iRobot Objections](amazon_response_to_eu_irobot_objections.md): another matter awaiting European Commission action, from a different source document.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also discusses European Commission, from a different source document.
 - [Cpc Network Consumer Protection Enforcement](cpc_network_consumer_protection_enforcement.md): also discusses European Commission, from a different source document.
@@ -19,6 +20,8 @@ The grounds are the scale of the transfer and the Commission's inaction. "A deva
 - [CJEU 2020 Ruling on the Rental and Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): the ruling that named the legislature as the only fix (doc_0361).
 - [EU Artist Royalty Loss to US Rightsholders](eu_artist_royalty_loss_to_us_rightsholders.md): the €125m figure this call rests on (doc_0361).
 - [EU-US Performance Rights Asymmetry](eu_us_performance_rights_asymmetry.md): the underlying imbalance the fix would preserve against (doc_0361).
+- [The Material Reciprocity Principle In Music Royalties](material_reciprocity_principle_music_royalties.md): same source document (doc_0361)
+- [The Netherlands' Reciprocity Withdrawal And Revenue Drop](netherlands_reciprocity_withdrawal_revenue_drop.md): same source document (doc_0361)
 
 ## Source
 

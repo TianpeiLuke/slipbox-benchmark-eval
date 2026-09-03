@@ -13,6 +13,7 @@ Havertz would command particular focus after his early struggles at Arsenal: wit
 
 ## Related Notes
 
+
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also concerns Stamford Bridge, from a different document.
 - [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md): also concerns Stamford Bridge, from a different document.
 - [Champions League 2023-24 Group B: Arsenal and PSV](champions_league_2023_24_group_b_arsenal_psv.md): overlaps on Arsenal, from a different document.
@@ -21,6 +22,7 @@ Havertz would command particular focus after his early struggles at Arsenal: wit
 - [Arteta and Pochettino's Derby-Day Competitive Edge](arteta_pochettino_derby_day_competitive_edge.md): drawn from the same document (doc_0110).
 - [Chelsea Arsenal Derby Team News October 2023](chelsea_arsenal_derby_team_news_october_2023.md): drawn from the same document (doc_0110).
 - [Pochettino's Assessment of Arteta as a Coach](pochettino_assessment_of_arteta_as_coach.md): drawn from the same document (doc_0110).
+- [Pochettino's Mentorship Of Arteta At PSG](pochettino_mentorship_of_arteta_at_psg.md): same source document (doc_0110)
 
 ## Source
 

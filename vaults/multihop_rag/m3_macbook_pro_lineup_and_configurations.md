@@ -15,11 +15,20 @@ Alongside building new chips, Apple has spent the last few years listening to co
 
 ## Related Notes
 
+
 - [Apple 24 Inch Imac M3 Refresh Expectations](apple_24_inch_imac_m3_refresh_expectations.md): also covers Scary Fast, from a different source document.
 - [Apple M3 Chip Release Cadence](apple_m3_chip_release_cadence.md): also covers Scary Fast, from a different source document.
 - [Apple M3 Mac Reviews and Chip Lineup](apple_m3_mac_reviews_and_chip_lineup.md): also covers Mac Studio, Scary Fast, from a different source document.
 - [Apple MacBook Air 15 Inch M2](apple_macbook_air_15_inch_m2.md): substantial content overlap on inch, macbook, apple, from a different source document.
 - [Apple Scary Fast Event October 2023](apple_scary_fast_event_october_2023.md): also covers Scary Fast, from a different source document.
+- [Apple M3 Chip Architecture And GPU Features](apple_m3_chip_architecture_and_gpu_features.md): same source document (doc_0526)
+- [Apple Silicon Chip Naming And Relative Performance](apple_silicon_chip_naming_and_relative_performance.md): same source document (doc_0526)
+- [M3 Max Benchmark Results](m3_max_benchmark_results.md): same source document (doc_0526)
+- [M3 Max Gaming Performance On macOS](m3_max_gaming_performance_on_macos.md): same source document (doc_0526)
+- [M3 Max MacBook Pro Battery Runtime Test](m3_max_macbook_pro_battery_runtime_test.md): same source document (doc_0526)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Class Action](term_class_action.md): uses the concept class action
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

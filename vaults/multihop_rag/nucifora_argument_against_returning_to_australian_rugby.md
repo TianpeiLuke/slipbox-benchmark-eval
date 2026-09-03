@@ -13,12 +13,17 @@ He also questioned whether the situation had changed enough for him to add anyth
 
 ## Related Notes
 
+
 - [Eddie Jones' Case For Reforming The Australian Rugby System](eddie_jones_case_for_reforming_australian_rugby_system.md): another argument about what would have to change in Australian rugby, from a different document.
 - [Ireland's Rugby World Cup Quarter-Final Curse](ireland_rugby_world_cup_quarter_final_curse.md): covers the Irish programme Nucifora is leaving, from a different document.
 - [Nostalgia Demand And Developer Incentives](nostalgia_demand_and_developer_incentives.md): overlaps on the same question of whether to revisit past work, from a different document.
 - [QRU's Refusal To Centralise Commercial Functions](qru_refusal_to_centralise_commercial_functions.md): covers the Australian rugby governance disputes at issue, from a different document.
 - [Rugby Australia's Consultancy Approach To David Nucifora](david_nucifora_consultancy_approach_by_rugby_australia.md): the overture this stance resists, from the same report.
 - [The Case For Schmidt Bringing Rugby Smarts To The Wallabies](case_for_schmidt_bringing_rugby_smarts_to_the_wallabies.md): the appointment that might change his mind, from the same report.
+- [Joe Schmidt's Coaching Record With Ireland And The All Blacks](joe_schmidt_coaching_record_ireland_and_all_blacks.md): same source document (doc_0493)
+- [Joe Schmidt's Wallabies Candidacy And The Rival Candidates](joe_schmidt_wallabies_candidacy_and_rival_candidates.md): same source document (doc_0493)
+- [Peter Horne's Appointment As Rugby Australia High-Performance Director](peter_horne_rugby_australia_high_performance_director_appointment.md): same source document (doc_0493)
+- [The Rugby Australia High-Performance Director Role And Its Remit](rugby_australia_high_performance_director_role_remit.md): same source document (doc_0493)
 
 ## Source
 

@@ -13,6 +13,7 @@ At that moment USC was not making the most of a talented roster, and Sporting Ne
 
 ## Related Notes
 
+
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): also set in Las Vegas, from a different document.
 - [Britney Spears Jason Alexander 55-Hour Marriage](britney_spears_jason_alexander_55_hour_marriage.md): also set in Las Vegas, from a different document.
 - [Britney Spears Memoir: Body Scrutiny and Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): also mentions Las Vegas, from a different document.
@@ -21,6 +22,8 @@ At that moment USC was not making the most of a talented roster, and Sporting Ne
 - [Bronny James USC Collegiate Debut](bronny_james_usc_collegiate_debut.md): the debut this piece anticipates, from the same document.
 - [Long Beach State 49ers Profile and USC Betting Odds](long_beach_state_49ers_profile_and_usc_betting_odds.md): the opponent for that debut, from the same document.
 - [USC Basketball Futures Odds: Pac-12 and National Title](usc_basketball_futures_odds_pac_12_and_national_title.md): how the market priced this uneven start, from the same document.
+- [USC's Player Of The Year Candidates: Isaiah Collier And Boogie Ellis](usc_player_of_the_year_candidates_collier_and_ellis.md): same source document (doc_0103)
+- [USC's Remaining Schedule Gives It A Path Despite The Gonzaga Loss](usc_remaining_2023_24_schedule_outlook.md): same source document (doc_0103)
 
 ## Source
 

@@ -11,6 +11,7 @@ Rodriguez-Villegas came to the company as a career-long academic and, by her own
 
 ## Related Notes
 
+
 - [AI Startup Defensibility](ai_startup_defensibility.md): another item from the same October 7, 2023 TechCrunch Week in Review (doc_0011).
 - [AliveCor EKG Import Ban And The PTAB Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): also concerns a medical-sensing wearable device, from a different source document.
 - [Apple Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): also concerns health-sensing wearable hardware, from a different source document.
@@ -19,6 +20,16 @@ Rodriguez-Villegas came to the company as a career-long academic and, by her own
 - [Apple Watch SE Second Generation](apple_watch_se_second_generation.md): another wearable-device story, from a different source document.
 - [Apple Watch Series 9 Holiday Deal](apple_watch_series_9_holiday_deal.md): another wearable-device story, from a different source document.
 - [Apple Watch Series 9 Walmart Deal](apple_watch_series_9_walmart_deal.md): another wearable-device story, from a different source document.
+- [Breathe Battery Technologies' Charging Software](breathe_battery_software.md): same source document (doc_0011)
+- [Flexport Leadership Turmoil](flexport_leadership_turmoil.md): same source document (doc_0011)
+- [Gmail's New Rules For Bulk Senders](gmail_bulk_sender_rules.md): same source document (doc_0011)
+- [Going Infinite: Michael Lewis's Account Of SBF's Political Dealings](going_infinite_lewis_account.md): same source document (doc_0011)
+- [Google Pixel 8 Launch](google_pixel_8_launch.md): same source document (doc_0011)
+- [Induced AI's Plain-English Workflow Automation](induced_ai_workflow_automation.md): same source document (doc_0011)
+- [IronNet Shutdown](ironnet_shutdown.md): same source document (doc_0011)
+- [LinkedIn's New AI Tools](linkedin_ai_tools.md): same source document (doc_0011)
+- [Prosecution And Defense Arguments On Day Two Of The SBF Trial](sbf_trial_arguments.md): same source document (doc_0011)
+- [Wearable Device](term_wearable_device.md): uses the concept wearable device
 
 ## Source
 

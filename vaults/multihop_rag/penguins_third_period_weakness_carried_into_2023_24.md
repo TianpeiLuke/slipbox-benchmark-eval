@@ -13,6 +13,7 @@ The warrant is continuity between the two seasons' collapses — the same failur
 
 ## Related Notes
 
+
 - [Blackhawks Penguins 2023 Broadcast Coverage](blackhawks_penguins_2023_broadcast_coverage.md): how the game supplying this evidence was shown, same source document
 - [Blackhawks Penguins 2023 First Period Rust Opener](blackhawks_penguins_2023_first_period_rust_opener.md): the period in which Pittsburgh built its lead, same source document
 - [Blackhawks Penguins 2023 Opening Night Lineups](blackhawks_penguins_2023_opening_night_lineups.md): the rosters involved, same source document
@@ -21,6 +22,8 @@ The warrant is continuity between the two seasons' collapses — the same failur
 - [Blackhawks Third Period Comeback vs Penguins 2023](blackhawks_third_period_comeback_vs_penguins_2023.md): the collapse itself, same source document
 - [Connor Bedard Debut Performance and Pregame Scenes](connor_bedard_debut_performance_and_pregame_scenes.md): the other storyline of the same night, same source document
 - [Connor Bedard NHL Debut Blackhawks Beat Penguins 4-2](connor_bedard_nhl_debut_blackhawks_beat_penguins_4_2.md): the result this argument rests on, same source document
+- [Crosby, Malkin And Letang's 18th Season Together](crosby_malkin_letang_eighteenth_season_together.md): same source document (doc_0483)
+- [NHL Opening Night 2023 Schedule](nhl_opening_night_2023_schedule.md): same source document (doc_0483)
 
 ## Source
 

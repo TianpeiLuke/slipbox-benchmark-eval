@@ -11,11 +11,17 @@ The accompanying player notes add detail, and in several cases quote run totals 
 
 ## Related Notes
 
+
 - [ChatGPT Use In Government And Courts](chatgpt_use_in_government_and_courts.md): also concerns South African subjects, from a different source document.
 - [Daniel Garnero Paraguay Head Coach Debut](daniel_garnero_paraguay_head_coach_debut.md): shares corpus tags on coaching and World Cups, from a different source document.
 - [Dean Evason Coaching Career Path](dean_evason_coaching_career_path.md): shares a corpus coaching-change tag, from a different source document.
 - [Eddie Jones Commitment To Wallabies Job 2023](eddie_jones_commitment_to_wallabies_job_2023.md): shares corpus tags on coaching and World Cups, from a different source document.
 - [Eddie Jones Denies Japan Head Coach Talks](eddie_jones_denies_japan_head_coach_talks.md): shares a corpus coaching-change tag, from a different source document.
+- [ICC ODI World Cup 2023: Knockout Stage And Final](icc_world_cup_2023_knockout_stage_and_final.md): same source document (doc_0482)
+- [ICC World Cup 2023: Leading Wicket Takers](icc_world_cup_2023_leading_wicket_takers.md): same source document (doc_0482)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

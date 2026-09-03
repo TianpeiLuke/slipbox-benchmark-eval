@@ -13,6 +13,7 @@ A big part of that work is talking about use cases and how to use the technology
 
 ## Related Notes
 
+
 - [Analyst View That Altman Exit Was Not A Business Problem](analyst_view_that_altman_exit_was_not_a_business_problem.md): also quotes analyst guidance on technology decisions, from a different source document.
 - [Dispute Over Readiness Of AI Content Detection Tooling](dispute_over_readiness_of_ai_content_detection_tooling.md): overlapping concern with whether AI technology is ready to be implemented, from a different source document.
 - [Adobe Generative AI Tools](adobe_generative_ai_tools.md): shares the generative-AI theme, from a different source document.
@@ -21,6 +22,11 @@ A big part of that work is talking about use cases and how to use the technology
 - [AI Market Spending Forecasts](ai_market_spending_forecasts.md): shares the generative-AI adoption theme, from a different source document.
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the generative-AI theme, from a different source document.
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): shares the generative-AI theme, from a different source document.
+- [The CIO Tension Between AI Pressure And Caution](cio_tension_between_ai_pressure_and_caution.md): same source document (doc_0160)
+- [Enterprise Caution On Generative AI Adoption](enterprise_generative_ai_adoption_caution.md): same source document (doc_0160)
+- [Enterprise Generative AI Use-Case Pilots](enterprise_generative_ai_use_case_pilots.md): same source document (doc_0160)
+- [Measuring Generative AI Productivity At Juniper Networks](measuring_generative_ai_productivity_at_juniper_networks.md): same source document (doc_0160)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

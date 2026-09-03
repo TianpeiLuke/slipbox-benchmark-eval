@@ -11,6 +11,7 @@ Engadget's reviewer judged that even going all out, over five minutes of samples
 
 ## Related Notes
 
+
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): shares the acquisition theme, from a different source document.
 - [Activision Blizzard Union Stalling And Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): shares the acquisition theme, from a different source document.
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares the acquisition theme, from a different source document.
@@ -19,6 +20,17 @@ Engadget's reviewer judged that even going all out, over five minutes of samples
 - [Brandon Drury's Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): shares the acquisition theme, from a different source document.
 - [Broadcom Q4 FY2023 Earnings Preview And VMware Integration](broadcom_q4_fy2023_earnings_preview_and_vmware_integration.md): shares the acquisition theme, from a different source document.
 - [CAR T-Cell Therapy](car_t_cell_therapy.md): shares the acquisition theme, from a different source document.
+- [K.O. II Design Lineage From The Pocket Operator Series](ko_ii_design_lineage_from_the_pocket_operator_series.md): same source document (doc_0417)
+- [K.O. II "Fadergate" Defective Fader Reports](ko_ii_fadergate_defective_fader_reports.md): same source document (doc_0417)
+- [K.O. II Pattern And Scene Structure And The Missing Song Mode](ko_ii_pattern_scene_structure_and_missing_song_mode.md): same source document (doc_0417)
+- [K.O. II Punch-In Effects And Performance Workflow](ko_ii_punch_in_effects_and_performance_workflow.md): same source document (doc_0417)
+- [K.O. II Sample Manager Tool And Web MIDI Platform Limits](ko_ii_sample_manager_tool_and_web_midi_platform_limits.md): same source document (doc_0417)
+- [The K.O. II Super Segment Hybrid Display](ko_ii_super_segment_hybrid_display.md): same source document (doc_0417)
+- [K.O. II Usability Without The Manual And Key Feel](ko_ii_usability_without_the_manual_and_key_feel.md): same source document (doc_0417)
+- [The K.O. II Verdict As An Affordable Performative Sampler](ko_ii_verdict_as_an_affordable_performative_sampler.md): same source document (doc_0417)
+- [The Sampling Workflow On The K.O. II](sampling_workflow_on_the_ko_ii.md): same source document (doc_0417)
+- [The Teenage Engineering EP-133 K.O. II Sampler](teenage_engineering_ep_133_ko_ii_sampler.md): same source document (doc_0417)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

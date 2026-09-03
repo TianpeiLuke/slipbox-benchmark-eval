@@ -11,6 +11,7 @@ Its second defining feature is inter-agency collaboration. The work is done with
 
 ## Related Notes
 
+
 - [Berlin Wall Low Tech Defense Lesson](berlin_wall_low_tech_defense_lesson.md): also concerns the Shin Bet among Israel's security bodies, from a different source document.
 - [Iran State Funding Of Hamas](iran_state_funding_of_hamas.md): also concerns the Shin Bet, from a different source document.
 - [Weak Signals And Scenario Theory](weak_signals_and_scenario_theory.md): also concerns the Shin Bet and Israel's assessment apparatus, from a different source document.
@@ -19,6 +20,8 @@ Its second defining feature is inter-agency collaboration. The work is done with
 - [Eylon Levy Israeli Government Spokesperson](eylon_levy_israeli_government_spokesperson.md): drawn from the same interview and describes the role held within this body.
 - [Eylon Levy Kay Burley Sky News Interview](eylon_levy_kay_burley_sky_news_interview.md): drawn from the same interview and is the directorate's most visible moment.
 - [Gaza Information War And Hamas Narrative](gaza_information_war_and_hamas_narrative.md): drawn from the same interview and states the contest this body operates in.
+- [Hostile Interview Questions Put To Israeli Spokespeople](hostile_interview_questions_to_israeli_spokespeople.md): same source document (doc_0413)
+- [The Israeli Case For Continuing The Gaza War](israeli_case_for_continuing_the_gaza_war.md): same source document (doc_0413)
 
 ## Source
 

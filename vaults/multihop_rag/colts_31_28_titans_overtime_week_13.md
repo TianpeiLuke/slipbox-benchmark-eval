@@ -11,6 +11,7 @@ The Colts had to score a touchdown because Nick Folk had made a 46-yard field go
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): places the Colts after this win in the conference picture, from a different document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also covers the Tennessee Titans, from a different document.
 - [Anthony Richardson Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): explains the Colts quarterback situation behind Minshew's role, from a different document.
@@ -19,6 +20,8 @@ The Colts had to score a touchdown because Nick Folk had made a 46-yard field go
 - [Buccaneers 21-18 Panthers, Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): another game from the same Week 13 roundup, from the same document.
 - [Cardinals 24-10 Steelers, Week 13](cardinals_24_10_steelers_week_13.md): another game from the same Week 13 roundup, from the same document.
 - [Chargers 6-0 Patriots Shutout, Week 13](chargers_6_0_patriots_shutout_week_13.md): another game from the same Week 13 roundup, from the same document.
+- [Dolphins 45-15 Commanders, Week 13 2023](dolphins_45_15_commanders_week_13.md): same source document (doc_0150)
+- [The Greenlaw-DiSandro Sideline Ejections](dre_greenlaw_dom_disandro_sideline_ejections.md): same source document (doc_0150)
 
 ## Source
 

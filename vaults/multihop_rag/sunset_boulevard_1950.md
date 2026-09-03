@@ -11,11 +11,18 @@ What sets it apart within the genre is that it is not a crime procedural like so
 
 ## Related Notes
 
+
 - [Disney Bundle Trio Streaming Package](disney_bundle_trio_streaming_package.md): covers the streaming service landscape including Paramount Plus, from a different source document.
 - [Book Club 2018 Romantic Comedy](book_club_2018_romantic_comedy.md): also covers Paramount Plus, from a different source document.
 - [Clueless 1995 Teen Comedy Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): also covers Paramount Plus, from a different source document.
 - [Dungeons and Dragons Honor Among Thieves](dungeons_and_dragons_honor_among_thieves.md): also covers Paramount Plus, from a different source document.
 - [Earth Mama Savanah Leaf](earth_mama_savanah_leaf.md): also covers Paramount Plus, from a different source document.
+- [Bad Times At The El Royale (2018)](bad_times_at_the_el_royale_2018.md): same source document (doc_0327)
+- [Blood Simple (1984)](blood_simple_1984.md): same source document (doc_0327)
+- [Born To Kill (1947)](born_to_kill_1947.md): same source document (doc_0327)
+- [Brick (2005)](brick_2005_rian_johnson.md): same source document (doc_0327)
+- [Detour (1945)](detour_1945_edgar_g_ulmer.md): same source document (doc_0327)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

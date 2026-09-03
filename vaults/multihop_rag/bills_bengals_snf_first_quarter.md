@@ -13,11 +13,19 @@ Cincinnati retook the lead on a long drive. Williams returned to the Cincinnati 
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): overlapping Bengals, Burrow and Cincinnati content, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also discusses Ja'Marr Chase, separately sourced.
 - [Bills-Chargers Week 16 Matchup Preview](bills_chargers_week_16_matchup_preview.md): another Josh Allen item, in a different document.
 - [Bills-Chargers Week 16 Player Props](bills_chargers_week_16_player_props.md): also covers Dalton Kincaid, from a separate source.
 - [Buffalo Bills' AFC Wild Card Position, Week 16](buffalo_bills_afc_wild_card_position_week_16.md): also discusses James Cook, in a different document.
+- [Bills At Bengals Broadcast Details](bills_bengals_snf_broadcast_details.md): same source document (doc_0294)
+- [The Fourth Quarter Of Bengals 24, Bills 18](bills_bengals_snf_fourth_quarter.md): same source document (doc_0294)
+- [Pregame Notes From Bills At Bengals](bills_bengals_snf_pregame_notes.md): same source document (doc_0294)
+- [Bengals 24, Bills 18 On Sunday Night Football](bills_bengals_snf_result_and_recap.md): same source document (doc_0294)
+- [The Second Quarter Of Bengals 24, Bills 18](bills_bengals_snf_second_quarter.md): same source document (doc_0294)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

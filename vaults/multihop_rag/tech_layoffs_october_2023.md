@@ -15,11 +15,22 @@ Late in the month, Roblox China cut 15 roles on October 24, two years after the 
 
 ## Related Notes
 
+
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs and layoffs and restructuring theme, from a different source document.
 - [Brave Software Layoffs](brave_software_layoffs.md): substantial content overlap on workforce, laid, confirmed, from a different source document.
 - [Campus Stalking of Students and Faculty Research](campus_stalking_of_students_and_faculty_research.md): shares the bail and lobbying political donations theme, from a different source document.
 - [Chinese Government Ban and Crackdown on Falun Gong 1999](chinese_government_ban_and_crackdown_on_falun_gong_1999.md): shares the bail and lobbying political donations theme, from a different source document.
 - [Collegehumor IAC Layoffs and Sale to Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares the layoffs and layoffs and restructuring theme, from a different source document.
+- [Tech Layoffs 2023: Overview And Totals](tech_layoffs_2023_overview_and_totals.md): same source document (doc_0049)
+- [Tech Layoffs In April 2023](tech_layoffs_april_2023.md): same source document (doc_0049)
+- [Tech Layoffs In August 2023](tech_layoffs_august_2023.md): same source document (doc_0049)
+- [Tech Layoffs In December 2023](tech_layoffs_december_2023.md): same source document (doc_0049)
+- [Tech Layoffs In February 2023](tech_layoffs_february_2023.md): same source document (doc_0049)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Bail](term_bail.md): uses the concept bail
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

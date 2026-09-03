@@ -13,6 +13,7 @@ The coverage and matchup grounds complete it. Jacksonville ranks fifth with a 77
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another "Start Him" verdict in the same weekly-decision format, from a different document.
 - [Anthony Richardson Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): covers Anthony Richardson and Gardner Minshew, the quarterback change this call turns on, from a different document.
 - [Baker Mayfield Zone Coverage And Four Level Passing](baker_mayfield_zone_coverage_and_four_level_passing.md): covers the same zone-coverage reasoning about attacking a zone-heavy defense, from a different document.
@@ -20,6 +21,9 @@ The coverage and matchup grounds complete it. Jacksonville ranks fifth with a 77
 - [Colts Panthers Week 9 Spread Pick](colts_panthers_week_9_spread_pick.md): also discusses Gardner Minshew, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): covers Amari Cooper, one of the receivers ranked above Pittman in non-PPR, from the same column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this start call applies, from the same column.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
 
 ## Source
 

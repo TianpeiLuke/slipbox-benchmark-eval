@@ -13,11 +13,18 @@ Polygon's writer adds a reason the older game still matters on that platform: Di
 
 ## Related Notes
 
+
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): both reference the Nintendo Switch, from a different source document
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): another Switch-referencing note from a separate article
 - [Blasphemous 2](blasphemous_2.md): another Nintendo Switch game from a different document
 - [Chants of Sennaar](chants_of_sennaar.md): another Nintendo Switch game covered elsewhere
 - [Classic Nintendo Switch Franchise Picks](classic_nintendo_switch_franchise_picks.md): another Switch-focused note from a separate source
+- [Captain Toad: Treasure Tracker](captain_toad_treasure_tracker.md): same source document (doc_0428)
+- [Cat Quest 2](cat_quest_2.md): same source document (doc_0428)
+- [Crypt of the NecroDancer](crypt_of_the_necrodancer.md): same source document (doc_0428)
+- [Cuphead (Local Co-Op)](cuphead_local_co_op.md): same source document (doc_0428)
+- [Escape Academy](escape_academy.md): same source document (doc_0428)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

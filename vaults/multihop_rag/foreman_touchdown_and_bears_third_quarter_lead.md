@@ -13,11 +13,20 @@ Chicago then played conservatively with the lead, coming out with three Foreman 
 
 ## Related Notes
 
+
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): also discusses Prime Video, from a different document.
 - [Bears Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): another Bears drive-by-drive account of field position and throws, from a different document.
 - [Bears Vikings MNF Third Quarter](bears_vikings_mnf_third_quarter.md): another Bears third-quarter field-position account, from a different document.
 - [Bose QuietComfort 45 Headphones](bose_quietcomfort_45_headphones.md): shares the penalty and streaming service themes, from a different document.
 - [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): also discusses Prime Video, from a different document.
+- [Bears 16, Panthers 13 On Thursday Night Football](bears_16_panthers_13_thursday_night_result.md): same source document (doc_0489)
+- [Bears-Panthers Broadcast And Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): same source document (doc_0489)
+- [Bears-Panthers Pregame Storylines](bears_panthers_pregame_storylines_week_10.md): same source document (doc_0489)
+- [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): same source document (doc_0489)
+- [Defence Of Reich's 59-Yard Field Goal Call](defence_of_reich_59_yard_field_goal_call.md): same source document (doc_0489)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

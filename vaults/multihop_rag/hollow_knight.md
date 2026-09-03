@@ -11,11 +11,17 @@ Polygon calls it one of the best Metroidvanias, and Souls-likes, on the Switch, 
 
 ## Related Notes
 
+
 - [Indie Games Suit The Switch's Portability](indie_games_suit_the_switch_portability.md): same source; the portability claim this entry closes on.
 - [Hades](hades_roguelite.md): same source; another of the three indie picks.
 - [Stardew Valley](stardew_valley.md): same source; the third indie pick.
 - [Six Games To Play First On A New Nintendo Switch](nintendo_switch_starter_library_guide.md): same source; the guide this is one of six picks in.
 - [Blasphemous 2](blasphemous_2.md): another game discussed alongside Hollow Knight, from a different source document.
+- [Nobody Saves the World](nobody_saves_the_world.md): content overlap 0.10 on knight, characters; different source document
+- [Animal Crossing: New Horizons](animal_crossing_new_horizons.md): same source document (doc_0292)
+- [Classic Nintendo Franchise Picks For The Switch](classic_nintendo_switch_franchise_picks.md): same source document (doc_0292)
+- [Super Mario Odyssey](super_mario_odyssey.md): same source document (doc_0292)
+- [The Legend Of Zelda: Breath Of The Wild](the_legend_of_zelda_breath_of_the_wild.md): same source document (doc_0292)
 
 ## Source
 

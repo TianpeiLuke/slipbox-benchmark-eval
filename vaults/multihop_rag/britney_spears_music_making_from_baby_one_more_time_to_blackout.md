@@ -13,11 +13,18 @@ After that, her music barely features in the book — there is a nod to her brea
 
 ## Related Notes
 
+
 - [Britney Spears Kevin Federline Marriage And Divorce](britney_spears_kevin_federline_marriage_and_divorce.md): also touches on the Gimme More era, from a different document
 - [Shake It Off Taylor Swift Song](shake_it_off_taylor_swift_song.md): another Max Martin production discussed elsewhere in the corpus
 - [Taylor Swift 1989 Vault Tracks](taylor_swift_1989_vault_tracks.md): also involves Max Martin, from a separate source
 - [Sphere And Abba Voyage Immersive Show Comparison](sphere_and_abba_voyage_immersive_show_comparison.md): another document mentioning Elton John
 - [The Road To El Dorado 2000 Animated Comedy](the_road_to_el_dorado_2000_animated_comedy.md): also features Elton John, in an unrelated context
+- [Arrested Development: Britney Spears' Child-Robot Model Of The Conservatorship](britney_spears_arrested_development_under_conservatorship.md): same source document (doc_0052)
+- [Britney Spears On Conservatorship Restrictions And Swat Holds](britney_spears_conservatorship_restrictions_and_swat_holds.md): same source document (doc_0052)
+- [Britney Spears' Estrangement From Her Family](britney_spears_estrangement_from_her_family.md): same source document (doc_0052)
+- [Britney Spears' Memoir Barbs At Timberlake And Federline](britney_spears_memoir_barbs_at_timberlake_and_federline.md): same source document (doc_0052)
+- [Britney Spears On Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): same source document (doc_0052)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

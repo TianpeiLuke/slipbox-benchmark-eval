@@ -13,6 +13,7 @@ The family at its center, whom Rob Zombie went on to make two more movies about,
 
 ## Related Notes
 
+
 - [House (1977, Nobuhiko Obayashi)](house_1977_nobuhiko_obayashi_film.md): overlapping horror-silliness vocabulary from a different source document
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
 - [American Horror Story: NYC Season](american_horror_story_nyc_season.md): a fellow entry in the same countdown document
@@ -21,6 +22,8 @@ The family at its center, whom Rob Zombie went on to make two more movies about,
 - [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): a fellow American horror entry in the same article
 - [Curve (Tim Egan Horror Short)](curve_tim_egan_horror_short.md): another countdown pick from the same document
 - [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): another cult-horror recommendation in the same countdown
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0165)
+- [Ginger Snaps (Werewolf Body Horror)](ginger_snaps_werewolf_body_horror.md): same source document (doc_0165)
 
 ## Source
 

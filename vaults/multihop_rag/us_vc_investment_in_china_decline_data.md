@@ -13,6 +13,7 @@ The scaleback is most notable in prolific investors like Sequoia Capital China, 
 
 ## Related Notes
 
+
 - [Nike Greater China Sales Recovery](nike_greater_china_sales_recovery.md): overlaps on China business performance figures, from a different document.
 - [Ten Minute School's Pre-Series A Funding Round](ten_minute_school_pre_series_a_funding_round.md): overlaps on Sequoia Capital and investor participation, from a different document.
 - [China's Tech Crackdown And Investor Exit Risk](china_tech_crackdown_investor_exit_risk.md): drawn from the same source document (doc_0181), and explains part of this decline.
@@ -21,6 +22,8 @@ The scaleback is most notable in prolific investors like Sequoia Capital China, 
 - [Chinese USD Fund Managers' Transitory Phase](chinese_usd_fund_managers_transitory_phase.md): drawn from the same source document (doc_0181).
 - [Haigui And Guihai: The Returnee Founder Cycle](haigui_guihai_returnee_founder_cycle.md): drawn from the same source document (doc_0181).
 - [The Outlook For US-China VC Dealmaking](outlook_for_us_china_vc_dealmaking.md): drawn from the same source document (doc_0181), and projects this trend forward.
+- [US Outbound Investment Restrictions On China](us_outbound_investment_restrictions_china.md): same source document (doc_0181)
+- [The USD Fund Copycat Playbook In China](usd_fund_china_copycat_investment_playbook.md): same source document (doc_0181)
 
 ## Source
 

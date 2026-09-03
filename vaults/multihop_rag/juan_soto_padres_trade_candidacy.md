@@ -13,6 +13,7 @@ President of baseball operations A.J. Preller continued to maintain the Padres w
 
 ## Related Notes
 
+
 - [Angels 2023 Offseason Ohtani And Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): also concerns Shohei Ohtani, from a different document.
 - [December 2023 Bowl Game Schedule And Matchups](december_2023_bowl_game_schedule_and_matchups.md): also concerns San Diego, from a different document.
 - [Dodgers Payroll Constraints Against Signing Ohtani And Trout](dodgers_payroll_constraints_against_signing_ohtani_and_trout.md): also concerns Shohei Ohtani, from a different document.
@@ -20,6 +21,11 @@ President of baseball operations A.J. Preller continued to maintain the Padres w
 - [Juan Soto Traded From Padres To Yankees](juan_soto_traded_from_padres_to_yankees.md): covers the trade this candidacy anticipated, from a different document.
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): another candidate on the same list, from the same document.
+- [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): same source document (doc_0118)
+- [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

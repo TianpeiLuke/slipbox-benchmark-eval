@@ -13,11 +13,19 @@ On the streaming side, matches are live-streamed on Disney+ Hotstar VIP, and fan
 
 ## Related Notes
 
+
 - [Bills-Bengals SNF Broadcast Details](bills_bengals_snf_broadcast_details.md): overlapping live-stream and commentary vocabulary, from a different source document.
 - [Blackhawks-Penguins 2023 Broadcast Coverage](blackhawks_penguins_2023_broadcast_coverage.md): overlapping live-stream coverage, from a different source document.
 - [Carabao Cup Broadcast Rights by Country](carabao_cup_broadcast_rights_by_country.md): parallel account of how a football competition's rights are split by territory, from a different source document.
 - [Colorado-UCLA ABC Broadcast and Streaming](colorado_ucla_abc_broadcast_and_streaming.md): overlapping broadcast-and-streaming coverage, from a different source document.
 - [EsfandTV Sports Streaming Channel](esfandtv_sports_streaming_channel.md): overlapping streaming and commentary vocabulary, from a different source document.
+- [Fulham's Form And League Position, November 2023](fulham_form_and_league_position_november_2023.md): same source document (doc_0260)
+- [Fulham's Injury List And Striker Choice, November 2023](fulham_injury_list_and_striker_choice_november_2023.md): same source document (doc_0260)
+- [Man United Vs Fulham, 4 November 2023: The Fixture](man_united_vs_fulham_november_2023_fixture.md): same source document (doc_0260)
+- [Manchester United's Form Slump Before The Fulham Trip](manchester_united_form_slump_autumn_2023.md): same source document (doc_0260)
+- [Manchester United's Injury List Before The Fulham Match](manchester_united_injury_list_november_2023.md): same source document (doc_0260)
+- [Premier League](term_premier_league.md): uses the concept premier league
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

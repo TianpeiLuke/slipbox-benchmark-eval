@@ -11,6 +11,7 @@ The grounds are what byes do to the decision set: byes make some start 'em, sit 
 
 ## Related Notes
 
+
 - [Analyst Assessment of Altman Departure Impact](analyst_assessment_of_altman_departure_impact.md): overlaps on steering through unexpected challenges, from a different document.
 - [Fantasy Football Weekly Lineup Matchup Method](fantasy_football_weekly_lineup_matchup_method.md): covers the same weekly lineup decision problem, from a different document.
 - [Retailer Sales Competing with Amazon Prime Day](retailer_sales_competing_with_amazon_prime_day.md): shares the advisory framing of what readers will need, from a different document.
@@ -19,6 +20,8 @@ The grounds are what byes do to the decision set: byes make some start 'em, sit 
 - [Tony Pollard Fantasy Outlook 2023](tony_pollard_fantasy_outlook_2023.md): one of the week's specific lineup calls, from the same document.
 - [Week 12 RB Busts to Avoid](week_12_rb_busts_to_avoid.md): the sit side of the same week's decisions, from the same document.
 - [Week 12 RB Sleepers and Waiver Pickups](week_12_rb_sleepers_and_waiver_pickups.md): the add side of the same week's decisions, from the same document.
+- [Week 12 Running Back Injury Report](week_12_running_back_injury_report.md): same source document (doc_0494)
+- [Week 12 Standard RB Rankings Table](week_12_standard_rb_rankings_table.md): same source document (doc_0494)
 
 ## Source
 

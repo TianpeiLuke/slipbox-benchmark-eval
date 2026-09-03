@@ -11,11 +11,16 @@ The lineup: Champion, worth +50% points — WR Amon-Ra St. Brown, Lions, at a 1.
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): covers Aaron Jones, rostered here, from a different source document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also covers Jared Goff and Jordan Love, from a different source document.
 - [Dak Prescott Week 6 2023 Sit Recommendation](dak_prescott_week6_2023_sit_recommendation.md): also covers Jared Goff, from a different source document.
 - [Dameon Pierce Week 5 2023 Sit Recommendation](dameon_pierce_week5_2023_sit_recommendation.md): also covers Jahmyr Gibbs, from a different source document.
 - [DFS Sleeper and Value Lineup Construction Method](dfs_sleeper_and_value_lineup_construction_method.md): shares the daily-fantasy-sports lineup-construction subject matter, from a different source document.
+- [The Lions-Packers Rivalry Turned In 2022, And Week 4 2023 Is The Rematch](lions_packers_rivalry_shift_2022_2023.md): same source document (doc_0183)
+- [The FanDuel Single-Game Lineup For Lions-Packers Week 4, And Why](lions_packers_week_4_fanduel_single_game_lineup.md): same source document (doc_0183)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

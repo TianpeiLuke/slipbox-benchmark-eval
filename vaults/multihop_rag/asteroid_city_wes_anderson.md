@@ -13,6 +13,7 @@ In Asteroid City that voice hones in on the question of art and creativity: who 
 
 ## Related Notes
 
+
 - [Quiz Lady (2023 Comedy)](quiz_lady_2023_comedy.md): both feature Jason Schwartzman, from a different source document
 - [The Life Aquatic with Steve Zissou (2004)](the_life_aquatic_with_steve_zissou_2004_comedy.md): another Wes Anderson film covered in a separate article
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 list
@@ -21,6 +22,8 @@ In Asteroid City that voice hones in on the question of art and creativity: who 
 - [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): another entry from the same ranked list
 - [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): a fellow pick in the same article
 - [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): another film from the same list
+- [Creed III (Michael B. Jordan)](creed_iii_michael_b_jordan.md): same source document (doc_0094)
+- [Dream Scenario (Kristoffer Borgli)](dream_scenario_kristoffer_borgli.md): same source document (doc_0094)
 
 ## Source
 

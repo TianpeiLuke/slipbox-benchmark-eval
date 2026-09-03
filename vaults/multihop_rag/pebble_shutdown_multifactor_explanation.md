@@ -11,11 +11,16 @@ The grounds are the five contributing causes named together: a perfect storm of 
 
 ## Related Notes
 
+
 - [Pebble's Shutdown And Wind-Down](pebble_t2_shutdown_and_winddown.md): same source document; the closure this explains.
 - [Pebble's Missing Native Mobile App](pebble_missing_native_mobile_app.md): same source document; the distribution factor.
 - [The T2 To Pebble Rebrand Misstep](t2_to_pebble_rebrand_misstep.md): same source document; the brand factor.
 - [The Kindness Versus Engagement Trade-Off](kindness_versus_engagement_tradeoff.md): same source document; the too-safe-to-be-fun factor.
 - [Pebble's Traction Metrics And Angel Funding](pebble_traction_metrics_and_angel_funding.md): same source document; the countervailing evidence of early traction.
+- [Founder Lessons From Pebble](founder_lessons_from_pebble.md): same source document (doc_0593)
+- [Pebble's Moderation Approach Defense](pebble_moderation_approach_defense.md): same source document (doc_0593)
+- [Pebble's Moderation-First Market Hypothesis](pebble_moderation_first_market_hypothesis.md): same source document (doc_0593)
+- [The Twitter-Alternative Market](twitter_alternative_market_competition.md): same source document (doc_0593)
 
 ## Source
 

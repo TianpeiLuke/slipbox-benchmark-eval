@@ -11,12 +11,18 @@ Sony has been expanding its roster over the past three years, more subtly than M
 
 ## Related Notes
 
+
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): also concerns Epic Games, from a different source document.
 - [Epic's Antitrust Claims Against Google Play](epic_antitrust_claims_against_google_play.md): also concerns Epic Games, from a different source document.
 - [The Epic Games Store As A General-Purpose App Store](epic_games_store_as_a_general_purpose_app_store.md): also concerns Epic Games, from a different source document.
 - [Epic Games V. Google Antitrust Trial](epic_games_v_google_antitrust_trial.md): also concerns Epic Games, from a different source document.
 - [Epic's Jury Verdict Against Google, December 2023](epic_v_google_jury_verdict_december_2023.md): also concerns Epic Games, from a different source document.
 - [Activision Blizzard Union Stalling And Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): drawn from the same source document (doc_0050).
+- [Consolidation Leaves Studios Vulnerable To Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): same source document (doc_0050)
+- [The Costs Of Relinquishing Independence After Acquisition](costs_of_relinquishing_independence_after_acquisition.md): same source document (doc_0050)
+- [Embracer Group's Restructuring And Studio Closures](embracer_group_restructuring_and_studio_closures.md): same source document (doc_0050)
+- [Epic Games' 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): same source document (doc_0050)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

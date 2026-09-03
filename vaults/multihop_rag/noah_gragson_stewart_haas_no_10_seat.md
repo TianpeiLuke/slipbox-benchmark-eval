@@ -11,6 +11,7 @@ Gragson did not let on to any 2024 plans in a recent conversation with Matt Weav
 
 ## Related Notes
 
+
 - [Ross Chastain 2023 Season Autosport Snub](ross_chastain_2023_season_autosport_snub.md): also discusses Noah Gragson, from a different document.
 - [Alzheimer's Lecanemab And Aducanumab Approvals](alzheimers_lecanemab_and_aducanumab_approvals.md): shares thematic tagging with this note, from a different document.
 - [Aric Almirola Joe Gibbs Racing Xfinity Move](aric_almirola_joe_gibbs_racing_xfinity_move.md): covers the driver whose seat is being filled, from the same document.
@@ -19,6 +20,13 @@ Gragson did not let on to any 2024 plans in a recent conversation with Matt Weav
 - [Connor Stalions In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): shares thematic tagging with this note, from a different document.
 - [FTX Collapse Mechanism](ftx_collapse_mechanism.md): shares thematic tagging with this note, from a different document.
 - [FTX Inner Circle Family And Friends Implicated](ftx_inner_circle_family_and_friends_implicated.md): shares thematic tagging with this note, from a different document.
+- [Kaulig Racing No. 16 2024 Driver Uncertainty](kaulig_racing_no_16_2024_driver_uncertainty.md): same source document (doc_0487)
+- [NASCAR 2024 Offseason Preparation Window](nascar_2024_offseason_preparation_window.md): same source document (doc_0487)
+- [NASCAR 2024 Spotter Changes Elliott And Blaney](nascar_2024_spotter_changes_elliott_and_blaney.md): same source document (doc_0487)
+- [NASCAR Next Gen Muffler Noise Reduction Test](nascar_next_gen_muffler_noise_reduction_test.md): same source document (doc_0487)
+- [NASCAR Phoenix Next Gen Short Track Test](nascar_phoenix_next_gen_short_track_test.md): same source document (doc_0487)
+- [Spire Motorsports 2024 Personnel Hires](spire_motorsports_2024_personnel_hires.md): same source document (doc_0487)
+- [Board Governance](term_board_governance.md): uses the concept board governance
 
 ## Source
 

@@ -13,6 +13,7 @@ Polygon's Pete Volk describes it as a gorgeous film led by two unforgettable per
 
 ## Related Notes
 
+
 - [Alone (2020, John Hyams Film)](alone_2020_john_hyams_film.md): another recommendation by the same Polygon critic, Pete Volk, in a different document
 - [Detour (1945, Edgar G. Ulmer)](detour_1945_edgar_g_ulmer.md): shares the same reviewer across a separate article
 - [Encounters of the Spooky Kind (Sammo Hung)](encounters_of_the_spooky_kind_sammo_hung.md): another Pete Volk pick from a different source
@@ -21,6 +22,8 @@ Polygon's Pete Volk describes it as a gorgeous film led by two unforgettable per
 - [Hoop Dreams (Steve James Documentary)](hoop_dreams_steve_james_documentary.md): another pick from the same Tubi list
 - [Joint Security Area (Park Chan-wook)](joint_security_area_park_chan_wook.md): a fellow entry in the same free-streaming roundup
 - [Mandy (Panos Cosmatos, Nicolas Cage)](mandy_panos_cosmatos_nicolas_cage.md): another film recommended in the same article
+- [Planet Terror (Robert Rodriguez)](planet_terror_robert_rodriguez_grindhouse.md): same source document (doc_0055)
+- [Shadow (Zhang Yimou)](shadow_zhang_yimou_wuxia_film.md): same source document (doc_0055)
 
 ## Source
 

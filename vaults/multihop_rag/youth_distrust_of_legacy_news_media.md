@@ -13,6 +13,7 @@ The pattern combines high consumption with low trust: younger people also consum
 
 ## Related Notes
 
+
 - [The Decline Of Religious Faith In America](decline_of_religious_faith_in_america.md): overlaps on survey-measured trust decline, from a different document.
 - [Adelaide 36ers Upset New Zealand Breakers, Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): tagged to a shared corpus theme, from a different document.
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): shares the public-opinion and advocacy theme, from a different document.
@@ -21,6 +22,15 @@ The pattern combines high consumption with low trust: younger people also consum
 - [Apple iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): tagged to a shared corpus theme, from a different document.
 - [Baker Mayfield's 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): tagged to a shared corpus theme, from a different document.
 - [Baldur's Gate 3](baldurs_gate_3.md): tagged to a shared corpus theme, from a different document.
+- [The Gaza Conflict's Information Environment, Late 2023](gaza_conflict_information_environment_late_2023.md): same source document (doc_0124)
+- [Gaza's Internet Blackout And Connectivity](gaza_internet_blackout_and_connectivity.md): same source document (doc_0124)
+- [Mapping Platforms Disabled Live Features In Israel And Gaza](mapping_platforms_disable_live_features_israel_gaza.md): same source document (doc_0124)
+- [Palestinian Content Moderation Distrust On Meta's Platforms](palestinian_content_moderation_distrust_meta_platforms.md): same source document (doc_0124)
+- [Snap's Decision To Keep The Gaza Heat Map Live](snap_decision_to_keep_gaza_heat_map_live.md): same source document (doc_0124)
+- [Snap Map's History As A Civic Documentation Tool](snap_map_as_civic_documentation_tool.md): same source document (doc_0124)
+- [Snap Map As A Firsthand Record Of Gaza](snap_map_gaza_firsthand_documentation.md): same source document (doc_0124)
+- [Snap Map And "Our Story"](snap_map_product_and_our_story.md): same source document (doc_0124)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

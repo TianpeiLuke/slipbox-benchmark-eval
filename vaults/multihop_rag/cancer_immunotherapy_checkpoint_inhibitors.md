@@ -11,6 +11,7 @@ Pembrolizumab, branded Keytruda and approved in 2014, is the first major monoclo
 
 ## Related Notes
 
+
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): also mentions Bristol-Myers Squibb, from a different source document.
 - [DAAM1 Intestinal Stem Cell Study Overview](daam1_intestinal_stem_cell_study_overview.md): concerns cancer cell biology, from a different source document.
 - [Latent HIV Reservoir Challenge](latent_hiv_reservoir_challenge.md): concerns immune cells and how therapies target them, from a different source document.
@@ -19,6 +20,8 @@ Pembrolizumab, branded Keytruda and approved in 2014, is the first major monoclo
 - [CAR-T Cell Therapy](car_t_cell_therapy.md): drawn from the same article and gives the alternative route to targeting cancer cells.
 - [Framework For Valuing US Pharma Stocks](framework_for_valuing_us_pharma_stocks.md): drawn from the same article and is how these franchises are valued.
 - [GLP1 Receptor Agonists Diabetes And Weight Loss](glp1_receptor_agonists_diabetes_and_weight_loss.md): drawn from the same article and covers another major unmet-need area it surveys.
+- [HIV Antiretroviral Therapy And Cure Research](hiv_antiretroviral_therapy_and_cure_research.md): same source document (doc_0239)
+- [Stock Calls On Novo Nordisk, AbbVie And Merck](novo_nordisk_abbvie_merck_stock_calls.md): same source document (doc_0239)
 
 ## Source
 

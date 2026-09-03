@@ -13,11 +13,20 @@ Applied to a favorite that fails to cover, suppose an NFL betting site has set t
 
 ## Related Notes
 
+
 - [2023 Bowl Season Betting Trends](2023_bowl_season_betting_trends.md): overlaps on favorites and underdogs covering or failing to cover, from a different document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also discusses the Miami Dolphins, from a different document.
 - [American Odds Format](american_odds_format.md): shares the NFL and sports betting odds themes, from a different document.
 - [Bears Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): also discusses the Chicago Bears, from a different document.
 - [Bears Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): also discusses the Chicago Bears, from a different document.
+- [Handicap Betting In Tennis And Golf](handicap_betting_in_tennis_and_golf.md): same source document (doc_0359)
+- [Line Movement As A Signal Of Betting Value](line_movement_as_a_signal_of_betting_value.md): same source document (doc_0359)
+- [Point Spread Bet Definition](point_spread_bet_definition.md): same source document (doc_0359)
+- [Point Spread Odds And Line Movement](point_spread_odds_and_line_movement.md): same source document (doc_0359)
+- [Point Spread Push And Half-Point Lines](point_spread_push_and_half_point_lines.md): same source document (doc_0359)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

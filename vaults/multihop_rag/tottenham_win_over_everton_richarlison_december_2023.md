@@ -13,11 +13,18 @@ The report flags one decisive intervention against Everton: Sean Dyche's visitor
 
 ## Related Notes
 
+
 - [Ange Postecoglou's Reaction And Unbeaten Home Record](ange_postecoglou_reaction_and_unbeaten_home_record.md): also discusses Ange Postecoglou and Tottenham's home form, from a different document.
 - [Bill Kenwright's Everton Chairmanship Record](bill_kenwright_everton_chairmanship_record.md): covers the same Everton club through a different lens, from a different document.
 - [Chelsea 4-4 Manchester City At Stamford Bridge](chelsea_4_4_manchester_city_stamford_bridge.md): also discusses Ange Postecoglou, from a different document.
 - [Dyche On Everton's Points Deduction And Appeal](dyche_on_everton_points_deduction_and_appeal.md): also discusses Sean Dyche, Everton's manager here, from a different document.
 - [Everton's Appeal Against The Points Deduction](everton_appeal_against_points_deduction.md): covers the same Everton side under Dyche, from a different document.
+- [Bournemouth's Comeback Win At Nottingham Forest With A Solanke Hat-Trick](bournemouth_comeback_win_at_nottingham_forest_solanke_hat_trick.md): same source document (doc_0438)
+- [Kostas Tsimikas' Collarbone Break In The Klopp Collision](kostas_tsimikas_collarbone_break_in_klopp_collision.md): same source document (doc_0438)
+- [Liverpool-Arsenal Draw At Anfield, December 2023](liverpool_arsenal_draw_at_anfield_december_2023.md): same source document (doc_0438)
+- [Luton Town's Win Over Newcastle After Lockyer's Cardiac Arrest](luton_town_win_over_newcastle_after_lockyer_cardiac_arrest.md): same source document (doc_0438)
+- [Manchester United's Defeat To West Ham In December 2023](manchester_united_home_defeat_to_west_ham_december_2023.md): same source document (doc_0438)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

@@ -11,9 +11,17 @@ The second ground is exclusion by venue policy and habit: the city's emphasis on
 
 ## Related Notes
 
+
 - [Las Vegas Strip Navigation And Accessibility Problems](las_vegas_strip_navigation_and_accessibility_problems.md): same source document; the cost and travel grounds this argument builds on.
 - [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): same source document; the leadership hearing this feedback.
 - [Britney Spears' Memoir: Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): also concerns Las Vegas, from a different source document.
+- [Benavidez vs Andrade: Date, Venue, Odds And How To Watch](benavidez_vs_andrade_2023_bout_details_and_odds.md): both discuss Las Vegas; different source document
+- [Britney Spears' 55-Hour Marriage To Jason Alexander](britney_spears_jason_alexander_55_hour_marriage.md): both discuss Las Vegas; different source document
+- [Caesars Sportsbook In Kentucky](caesars_sportsbook_kentucky.md): both discuss Las Vegas; different source document
+- [Canelo Alvarez Dominates Jermell Charlo To Retain The Undisputed Super Middleweight Title](canelo_alvarez_defeats_jermell_charlo_2023.md): both discuss Las Vegas; different source document
+- [Loss Of Spontaneous Creator Meetups](loss_of_spontaneous_creator_meetups.md): same source document (doc_0551)
+- [Moni's UserVoice TwitchCon Critique](moni_uservoice_twitchcon_critique.md): same source document (doc_0551)
+- [The Third Place](third_place_sociological_concept.md): same source document (doc_0551)
 
 ## Source
 

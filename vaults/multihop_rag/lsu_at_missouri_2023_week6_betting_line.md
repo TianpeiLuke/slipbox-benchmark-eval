@@ -13,12 +13,17 @@ The matchup's pivot is LSU's defense against Missouri's quarterback. LSU was loo
 
 ## Related Notes
 
+
 - [Brock Bowers' Return From Tightrope Surgery](brock_bowers_return_from_tightrope_surgery.md): also discusses Ole Miss in the same season, from a different document.
 - [C.J. Stroud, Texans Midseason MVP](cj_stroud_texans_midseason_mvp.md): another quarterback assessed on passing yardage and interception avoidance, from a different document.
 - [Georgia 52-17 Ole Miss Week 11 Recap](georgia_52_17_ole_miss_week_11_recap.md): also covers Ole Miss, the team that put 637 yards on LSU, from a different document.
 - [Georgia's First Half Touchdown Drives: Beck And Edwards](georgia_first_half_touchdown_drives_beck_and_edwards.md): also covers Ole Miss, from a different document.
 - [Georgia's Third Quarter Field Goal And Lovett Gain](georgia_third_quarter_field_goal_and_lovett_gain.md): also covers Ole Miss, from a different document.
 - [The College Football Week 6 2023 Ranked Matchup Slate](college_football_week6_2023_ranked_matchup_slate.md): places this fixture in the week's four ranked games, from the same preview.
+- [Alabama At Texas A&M: The 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): same source document (doc_0259)
+- [The Remaining College Football Week 6 2023 Betting Lines](college_football_week6_2023_remaining_betting_lines.md): same source document (doc_0259)
+- [Kentucky At Georgia: The 2023 Week 6 Betting Line](kentucky_at_georgia_2023_week6_betting_line.md): same source document (doc_0259)
+- [Notre Dame At Louisville: The 2023 Week 6 Betting Line](notre_dame_at_louisville_2023_week6_betting_line.md): same source document (doc_0259)
 
 ## Source
 

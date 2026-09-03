@@ -13,11 +13,21 @@ Small failures accumulated. Cohen asked Ellison to define what "buy on the way d
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): also concerns Adam Yedidia, from a different source document.
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): also concerns Christian Everdell and Sam Bankman-Fried, from a different source document.
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): overlaps on Ellison, Bankman-Fried and Alameda, from a different source document.
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): overlaps on Ellison, Bankman-Fried and Alameda, from a different source document.
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): overlaps on Ellison, Bankman-Fried and the hedge fund, from a different source document.
+- [FTX's Collapse And Bankruptcy, November 2022](ftx_collapse_and_bankruptcy_november_2022.md): same source document (doc_0293)
+- [FTX Fraud Charges And The SEC's Allegation](ftx_fraud_charges_and_sec_allegation.md): same source document (doc_0293)
+- [Sassoon's Redirect And The Alameda All-Hands Recording](sassoon_redirect_and_alameda_all_hands_recording.md): same source document (doc_0293)
+- [Why FTX Trial Coverage Favors The Prosecution](why_ftx_trial_coverage_favors_the_prosecution.md): same source document (doc_0293)
+- [Cross-Examination](term_cross_examination.md): uses the concept cross examination
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Plea Agreement](term_plea_agreement.md): uses the concept plea agreement
+- [Board Governance](term_board_governance.md): uses the concept board governance
 
 ## Source
 

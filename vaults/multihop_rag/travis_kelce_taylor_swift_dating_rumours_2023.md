@@ -13,11 +13,19 @@ The NFL star officially addressed the dating rumours during an episode of The Pa
 
 ## Related Notes
 
+
 - [All You Had To Do Was Stay](all_you_had_to_do_was_stay_taylor_swift_song.md): also concerns Taylor Swift, from a different source document.
 - [American Pie Billboard Record and Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): also concerns Taylor Swift, from a different source document.
 - [Backlash To Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): also concerns the Eras Tour, from a different source document.
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also concerns Taylor Swift, from a different source document.
 - [Bad Blood: Taylor Swift and Katy Perry](bad_blood_taylor_swift_katy_perry_feud.md): also concerns Taylor Swift, from a different source document.
+- [Taylor Swift's Arrowhead Stadium Appearance, September 2023](taylor_swift_arrowhead_stadium_appearance_september_2023.md): same source document (doc_0021)
+- [Travis Kelce's College-Era Tweets Resurface](travis_kelce_college_era_tweets_resurface.md): same source document (doc_0045)
+- [Travis Kelce at the Eras Tour in Buenos Aires](travis_kelce_eras_tour_buenos_aires_karma_lyric.md): same source document (doc_0045)
+- [Travis Kelce's "Vigilante S***" Friendship Bracelet](travis_kelce_vigilante_shit_friendship_bracelet.md): same source document (doc_0021)
+- [Travis Kelce's WSJ Magazine Interview on Swift](travis_kelce_wsj_magazine_interview_on_swift.md): same source document (doc_0045)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

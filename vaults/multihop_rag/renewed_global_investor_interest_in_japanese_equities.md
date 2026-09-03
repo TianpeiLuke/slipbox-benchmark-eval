@@ -13,6 +13,7 @@ The market backdrop reinforced the urgency: Topix, Japan's main stock index, had
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and the Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): shares Hong Kong as a financial-centre setting.
 - [Argentina-Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): shares Hong Kong as a location tag.
 - [CONMEBOL 2026 Qualifying Broadcast Rights and Channels](conmebol_2026_qualifying_broadcast_rights_and_channels.md): shares Hong Kong as a location tag.
@@ -21,6 +22,8 @@ The market backdrop reinforced the urgency: Topix, Japan's main stock index, had
 - [Capital Rotation from China into Japanese Assets](capital_rotation_from_china_into_japanese_assets.md): explains where much of this new interest is coming from.
 - [Family Offices and the "This Time Is Different" Test for Japan](family_offices_and_the_this_time_is_different_test_for_japan.md): the same interest among private wealth investors.
 - [Japan Asset Management Reform and NISA Expansion](japan_asset_management_reform_and_nisa_expansion.md): the policy programme supporting this interest.
+- [Japanese Corporate Governance Reform and Shareholder Alignment](japanese_corporate_governance_reform_and_shareholder_alignment.md): same source document (doc_0182)
+- [Kishida's Pitch to Global Investors 2023](kishida_pitch_to_global_investors_2023.md): same source document (doc_0182)
 
 ## Source
 

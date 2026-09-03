@@ -15,9 +15,18 @@ Chipolo's Card Spot was down to $20.94, $14 off, at Best Buy — one of its best
 
 ## Related Notes
 
+
 - [Amex Cash Magnet Best-Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): shares the wallet-and-card framing, from a different source document.
 - [Apple AirTags Holiday Deal](apple_airtags_holiday_deal.md): covers AirTag pricing at another sale, from a different source document.
 - [Apple Store Credit And Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): covers another Apple-ecosystem promotion, from a different source document.
+- [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): same source document (doc_0090)
+- [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): same source document (doc_0090)
+- [The Verge's Black Friday Deals Under $25](black_friday_deals_under_25_roundup.md): same source document (doc_0090)
+- [Budget Game And Toy Deals](budget_game_and_toy_deals.md): same source document (doc_0090)
+- [Budget Smart Home And Networking Deals](budget_smart_home_and_networking_deals.md): same source document (doc_0090)
+- [ChomChom Pet Hair Remover](chomchom_pet_hair_remover.md): same source document (doc_0090)
+- [Epicka Universal Travel Adapter](epicka_universal_travel_adapter.md): same source document (doc_0090)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

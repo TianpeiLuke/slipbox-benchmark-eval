@@ -15,11 +15,19 @@ Twitch also walked back its policy restricting embedded ads and other sponsored 
 
 ## Related Notes
 
+
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): also concerns Amazon Prime, the membership whose bundled subs are excluded here, from a different source document.
 - [Amazon Price Matching And Return Policy](amazon_price_matching_and_return_policy.md): also concerns Amazon Prime, from a different source document.
 - [Amazon Prime Free Games And DLC](amazon_prime_free_games_and_dlc.md): also concerns Amazon Prime, from a different source document.
 - [Amazon Prime Holiday 2023 Delivery Cutoffs](amazon_prime_holiday_2023_delivery_cutoffs.md): also concerns Amazon Prime, from a different source document.
 - [Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): also concerns Amazon Prime, from a different source document.
+- [Twitch Advertising Strategy](twitch_advertising_strategy.md): same source document (doc_0401)
+- [Twitch Competitive Pressure](twitch_competitive_pressure.md): same source document (doc_0401)
+- [Twitch Partner Plus Program](twitch_partner_plus_program.md): same source document (doc_0401)
+- [Twitch Sponsorship And Amazon](twitch_sponsorship_and_amazon.md): same source document (doc_0401)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Revenue Split](term_revenue_split.md): uses the concept revenue split
+- [Embedded Finance](term_embedded_finance.md): uses the concept embedded finance
 
 ## Source
 

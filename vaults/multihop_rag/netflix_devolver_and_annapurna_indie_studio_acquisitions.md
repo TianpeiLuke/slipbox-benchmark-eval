@@ -11,11 +11,18 @@ Night School co-founder Sean Krankel told Engadget in June that the move to Netf
 
 ## Related Notes
 
+
 - [ChatGPT Use In Government And Courts](chatgpt_use_in_government_and_courts.md): also concerns South African subjects, from a different source document.
 - [HIV Treatment Access And Cost Barriers](hiv_treatment_access_and_cost_barriers.md): also concerns South African subjects, from a different source document.
 - [ICC World Cup 2023 Top Run Scorers](icc_world_cup_2023_top_run_scorers.md): also concerns South African subjects, from a different source document.
 - [South Africa Springboks' Unchanged XV For The Semifinal](south_africa_springboks_unchanged_xv_for_semifinal.md): also concerns South African subjects, from a different source document.
 - [Activision Blizzard Union Stalling And Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): drawn from the same source document (doc_0050).
+- [Consolidation Leaves Studios Vulnerable To Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): same source document (doc_0050)
+- [The Costs Of Relinquishing Independence After Acquisition](costs_of_relinquishing_independence_after_acquisition.md): same source document (doc_0050)
+- [Embracer Group's Restructuring And Studio Closures](embracer_group_restructuring_and_studio_closures.md): same source document (doc_0050)
+- [Epic Games' 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): same source document (doc_0050)
+- [Layoffs At Unity, Bungie, EA And Other Studios In 2023](layoffs_at_unity_bungie_ea_and_other_studios_in_2023.md): same source document (doc_0050)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

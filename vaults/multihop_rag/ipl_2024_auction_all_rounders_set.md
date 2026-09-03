@@ -13,6 +13,7 @@ The sequence ran as follows. At 1:55 PM IST Rachin Ravindra came up with CSK as 
 
 ## Related Notes
 
+
 - [Boycott's Criticism of Bairstow and Woakes Selection](boycott_criticism_of_bairstow_and_woakes_selection.md): also discusses Chris Woakes, from a different source document.
 - [ICC World Cup 2023 Top Run Scorers](icc_world_cup_2023_top_run_scorers.md): also discusses Rachin Ravindra, from a different source document.
 - [West Indies Final Overs T20 Series Clinch](west_indies_final_overs_t20_series_clinch.md): also discusses Chris Woakes, from a different source document.
@@ -21,6 +22,8 @@ The sequence ran as follows. At 1:55 PM IST Rachin Ravindra came up with CSK as 
 - [IPL 2024 Auction: Capped Batters Set](ipl_2024_auction_capped_batters_set.md): same auction live blog, covering the set before this one.
 - [IPL 2024 Auction: Capped Pace and Spin Sets](ipl_2024_auction_capped_pace_and_spin_sets.md): same auction live blog, covering a later set.
 - [IPL 2024 Auction: Capped Wicketkeepers Set](ipl_2024_auction_capped_wicketkeepers_set.md): same auction live blog, covering a later set.
+- [IPL 2024 Auction: Expert Previews And Team Strategy](ipl_2024_auction_expert_previews_and_team_strategy.md): same source document (doc_0307)
+- [IPL 2024 Auction: Final Round Results](ipl_2024_auction_final_round_results.md): same source document (doc_0307)
 
 ## Source
 

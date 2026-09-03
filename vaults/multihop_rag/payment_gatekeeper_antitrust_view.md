@@ -13,11 +13,19 @@ McGahan also anticipated the gatekeeper's rebuttal, and it turns on where the fe
 
 ## Related Notes
 
+
 - [Alternatives To The Amex Cash Magnet Card](alternatives_to_amex_cash_magnet_card.md): also concerns American Express, one of the dominant card schemes named here, from a different source document.
 - [Amex Cash Magnet Approval Odds And Credit Limits](amex_cash_magnet_approval_odds_and_credit_limits.md): also concerns American Express, from a different source document.
 - [Amex Cash Magnet Rewards Structure And Exclusions](amex_cash_magnet_rewards_structure_and_exclusions.md): also concerns American Express, from a different source document.
 - [Amex Cash Magnet Travel Limitations](amex_cash_magnet_travel_limitations.md): overlapping coverage of card fees and charges, from a different source document.
 - [Amex Cash Magnet Welcome Bonus Criticism](amex_cash_magnet_welcome_bonus_criticism.md): overlapping coverage of card fees, from a different source document.
+- [Bolt's SEC Probe Closed Without An Enforcement Recommendation](bolt_sec_probe.md): same source document (doc_0075)
+- [CRED's 255% Operating Revenue Growth To $168.1 Million](cred_revenue_growth.md): same source document (doc_0075)
+- [Fintech Funding Roundup, October 2023](fintech_funding_roundup_oct_2023.md): same source document (doc_0075)
+- [Fintech Startups On The 2023 Ranking Lists](fintech_startup_rankings_2023.md): same source document (doc_0075)
+- [PayPal's Anti-Steering Class Action](paypal_anti_steering_lawsuit.md): same source document (doc_0075)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [Anti-Steering Rules](term_anti_steering_rules.md): uses the concept anti steering rules
 
 ## Source
 

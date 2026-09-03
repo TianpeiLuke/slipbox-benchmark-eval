@@ -11,10 +11,17 @@ Asked whether there is pressure from Toyota to productize, Pratt says, "There ac
 
 ## Related Notes
 
+
 - [Raibert And Pratt's Robotics Lineage](raibert_pratt_robotics_lineage.md): same source document; how two institutes with Toyota and Hyundai backing came to share this model.
 - [Cars And Robotics Convergence](cars_and_robotics_convergence.md): same source document; the technical overlap that makes the automaker bet coherent.
 - [NACS Charging Standard Adoption, 2023](nacs_charging_standard_adoption_2023.md): overlaps in content on Toyota and vehicles, from a different source document.
 - [Sono Sion Solar EV Cancellation](sono_sion_solar_ev_cancellation.md): overlaps in content on cars and electric vehicles, from a different source document.
+- [Boston Dynamics AI Institute Ethics Research](boston_dynamics_ai_institute_ethics_research.md): same source document (doc_0511)
+- [Boston Dynamics AI Institute Research Pillars](boston_dynamics_ai_institute_research_pillars.md): same source document (doc_0511)
+- [LLM Limits In Robot Manipulation](llm_limits_in_robot_manipulation.md): same source document (doc_0511)
+- [MIT's Leg Lab And Dynamic Robot Locomotion](mit_leg_lab_robot_locomotion.md): same source document (doc_0511)
+- [TRI's Eldercare Robotics Focus](tri_eldercare_robotics_focus.md): same source document (doc_0511)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

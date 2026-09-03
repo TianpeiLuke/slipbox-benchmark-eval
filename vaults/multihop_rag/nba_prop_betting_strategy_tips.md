@@ -15,11 +15,19 @@ Third, shop for the best lines, a tip that applies to every bet you make. Using 
 
 ## Related Notes
 
+
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): where to hold the multiple accounts this advises, different source document
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): one book's NBA market coverage, different source document
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): another NBA betting mechanic, different source document
 - [DraftKings Sportsbook Betting Markets](draftkings_sportsbook_betting_markets.md): another book's NBA markets, different source document
 - [FanDuel Sportsbook Betting Markets](fanduel_sportsbook_betting_markets.md): another book's NBA markets, different source document
+- [NBA Prop Bets: Definition And Common Markets](nba_prop_bets_definition_and_common_markets.md): same source document (doc_0497)
+- [NBA Team Props Versus Player Props](nba_team_props_versus_player_props.md): same source document (doc_0497)
+- [Opening And Funding An Online Sportsbook Account](opening_and_funding_an_online_sportsbook_account.md): same source document (doc_0497)
+- [Reading American Odds For NBA Props](reading_american_odds_for_nba_props.md): same source document (doc_0497)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

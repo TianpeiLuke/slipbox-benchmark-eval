@@ -13,11 +13,18 @@ The relation holds because of Ukraine's dependency structure, and it is not offs
 
 ## Related Notes
 
+
 - [Egypt's Strategic Value to Europe: Gas and Security](egypt_strategic_value_to_europe_gas_and_security.md): shares Vladimir Putin as a referenced actor.
 - [Epoch Times, the 2020 Election and Pro-Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): shares President Donald Trump as a referenced actor.
 - [Gaza Border Barrier Construction](gaza_border_barrier_construction.md): shares President Donald Trump as a referenced actor.
 - [Gen Z Definition and Formative Events](gen_z_definition_and_formative_events.md): shares President Donald Trump as a referenced actor.
 - [Google Maps and Waze Israel-Gaza Traffic Halt](google_maps_waze_israel_gaza_traffic_halt.md): shares Ukraine military subject vocabulary.
+- [Argument That a Trump Presidency Would Not Doom Ukraine](argument_that_a_trump_presidency_would_not_doom_ukraine.md): same source document (doc_0442)
+- [Ukraine 2023 Counteroffensive Fell Short of Expectations](ukraine_2023_counteroffensive_fell_short_of_expectations.md): same source document (doc_0442)
+- [Ukraine 2024 Mobilisation and Negotiation Prospects](ukraine_2024_mobilisation_and_negotiation_prospects.md): same source document (doc_0442)
+- [Ukraine War 2024 Stalemate Outlook](ukraine_war_2024_stalemate_outlook.md): same source document (doc_0442)
+- [Volker's Case for Continued and Expanded Ukraine Aid](volker_case_for_continued_and_expanded_ukraine_aid.md): same source document (doc_0442)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

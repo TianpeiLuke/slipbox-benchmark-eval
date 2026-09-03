@@ -13,11 +13,18 @@ The scheduling squeeze is spelled out: Hayes could be tied up with Chelsea as la
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United At Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns the Champions League calendar, from a different document.
 - [Bayern Munich's 2-2 Draw At RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns the Champions League, from a different document.
 - [Champions League 2023-24 Group Stage Overview](champions_league_2023_24_group_stage_overview.md): covers the same competition whose calendar delays her start, from a different document.
 - [Chelsea-Arsenal Derby Team News, October 2023](chelsea_arsenal_derby_team_news_october_2023.md): also concerns Chelsea and the Champions League, from a different document.
 - [Erik ten Hag's Position After The Champions League Exit](erik_ten_hag_position_after_champions_league_exit.md): another manager's position tied to a Champions League run, from a different document.
+- [The Benefits Of Hayes' Delayed USWNT Start](benefits_of_hayes_delayed_uswnt_start.md): same source document (doc_0108)
+- [Chelsea's Early Announcement Of Hayes' Departure](chelsea_early_announcement_of_hayes_departure.md): same source document (doc_0108)
+- [Chelsea Players' Reaction To Hayes' Departure](chelsea_players_reaction_to_hayes_departure.md): same source document (doc_0108)
+- [Chelsea Women's Team Succession After Hayes](chelsea_womens_team_succession_after_hayes.md): same source document (doc_0108)
+- [Emma Hayes Appointed USWNT Head Coach](emma_hayes_appointed_uswnt_head_coach.md): same source document (doc_0108)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

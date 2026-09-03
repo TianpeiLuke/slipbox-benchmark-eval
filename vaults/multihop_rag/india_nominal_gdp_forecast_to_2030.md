@@ -11,10 +11,19 @@ The near-term basis for the forecast is that, after two years of rapid economic 
 
 ## Related Notes
 
+
 - [Discord Shop, Remix and Client Improvements](discord_shop_remix_and_client_improvements.md): shares corpus-level content tags with this note.
 - [India 2019 World Cup Semifinal vs New Zealand](india_2019_world_cup_semifinal_vs_new_zealand.md): shares India as a subject.
 - [Indian High Net Worth Investor Population Growth](indian_high_net_worth_investor_population_growth.md): another measure of India's economic expansion.
 - [War Duration and Scenarios Driving Israeli Growth Damage](war_duration_and_scenarios_driving_israeli_growth_damage.md): a contrasting case where growth forecasting was refused.
+- [China Recovery Greenshoots and Commodity Price Outlook](china_recovery_greenshoots_and_commodity_price_outlook.md): same source document (doc_0532)
+- [FICCI-IBA Bankers Survey Credit Demand 2023](ficci_iba_bankers_survey_credit_demand_2023.md): same source document (doc_0532)
+- [Global Rate Shock Risk to Emerging Market Debt](global_rate_shock_risk_to_emerging_market_debt.md): same source document (doc_0532)
+- [IMF Assessment of India and Global Growth Divergence](imf_assessment_of_india_and_global_growth_divergence.md): same source document (doc_0532)
+- [India's Demographic Dividend Versus China's Decline](india_demographic_dividend_versus_china_decline.md): same source document (doc_0532)
+- [India FY24 Capex-Led Growth and Fiscal Position](india_fy24_capex_led_growth_and_fiscal_position.md): same source document (doc_0532)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

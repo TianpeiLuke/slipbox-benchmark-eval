@@ -11,11 +11,18 @@ The full top ten for receiving yards through six NFL games reads: Don Hutson (19
 
 ## Related Notes
 
+
 - [Aaron Jones' 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also concerns Green Bay, from a different document.
 - [Baker Mayfield's Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also concerns Green Bay, from a different document.
 - [Buccaneers 21-18 Panthers: Mike Evans' Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): also concerns Jerry Rice, from a different document.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): also concerns Tyreek Hill, from a different document.
 - [Chiefs Packers Week 13 Broadcast and Kickoff Details](chiefs_packers_week_13_broadcast_and_kickoff_details.md): also concerns Green Bay, from a different document.
+- [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): same source document (doc_0316)
+- [The Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): same source document (doc_0316)
+- [Buffalo Bills Defensive Injuries And The 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): same source document (doc_0316)
+- [Cincinnati Bengals: Joe Burrow's Durability And The Line](cincinnati_bengals_joe_burrow_durability_and_line.md): same source document (doc_0316)
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

@@ -11,11 +11,18 @@ The Information, speaking to three sources formerly with the company, reported t
 
 ## Related Notes
 
+
 - [FTX](ftx.md): substantial content overlap on capital, valuation, funding, from a different source document.
 - [Greg Brockman Account of Altman Removal](greg_brockman_account_of_altman_removal.md): substantial content overlap on openai, altman, formerly, from a different source document.
 - [OpenAI Board Firing of Sam Altman](openai_board_firing_of_sam_altman.md): substantial content overlap on openai, altman, longer, from a different source document.
 - [OpenAI Partnerships with Microsoft and Associated Press](openai_partnerships_with_microsoft_and_associated_press.md): substantial content overlap on openai, startup, relationship, from a different source document.
 - [Qi Tech Series B Brazil Banking as a Service](qi_tech_series_b_brazil_banking_as_a_service.md): substantial content overlap on capital, raise, funding, from a different source document.
+- [Greg Brockman Departure From OpenAI](greg_brockman_departure_from_openai.md): same source document (doc_0415)
+- [The Microsoft-OpenAI Partnership And Microsoft's Response To The Firing](microsoft_openai_partnership_and_response_to_firing.md): same source document (doc_0415)
+- [OpenAI Board Composition And The Helen Toner Dispute](openai_board_composition_and_helen_toner_dispute.md): same source document (doc_0415)
+- [OpenAI Board's Merger Approach To Anthropic](openai_board_merger_approach_to_anthropic.md): same source document (doc_0415)
+- [OpenAI Board Negotiations Over Altman Reinstatement](openai_board_negotiations_over_altman_reinstatement.md): same source document (doc_0415)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

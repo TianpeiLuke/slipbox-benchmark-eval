@@ -11,6 +11,7 @@ Among the alternatives it rounds up: a Comixology Unlimited subscription for fan
 
 ## Related Notes
 
+
 - [Author Endorsements In Book Publishing](author_endorsements_in_book_publishing.md): overlapping coverage of books as gifts, from a different source document.
 - [Console Gift Card Black Friday Deals](console_gift_card_black_friday_deals.md): overlapping coverage of monthly gift cards, from a different source document.
 - [Kindle 2022 Base Model Deals](kindle_2022_base_model_deals.md): also concerns Kindle Unlimited, from a different source document.
@@ -19,6 +20,8 @@ Among the alternatives it rounds up: a Comixology Unlimited subscription for fan
 - [Console Subscription And Store Gift Cards For Gamers](console_subscription_and_store_gift_cards_for_gamers.md): drawn from the same source document (doc_0291).
 - [Fitness And Mindfulness Subscription Gifts](fitness_and_mindfulness_subscription_gifts.md): drawn from the same source document (doc_0291).
 - [Food, Wine And Coffee Subscription Gifts](food_wine_and_coffee_subscription_gifts.md): drawn from the same source document (doc_0291).
+- [General Purpose Retailer Gift Cards](general_purpose_retailer_gift_cards.md): same source document (doc_0291)
+- [The Last-Minute Digital Gifts And Subscriptions Guide](last_minute_digital_gifts_and_subscriptions_guide.md): same source document (doc_0291)
 
 ## Source
 

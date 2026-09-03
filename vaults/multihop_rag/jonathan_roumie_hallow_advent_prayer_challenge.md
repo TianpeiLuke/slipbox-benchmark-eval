@@ -13,6 +13,7 @@ The involvement is not merely a professional engagement for Roumie. He is a comm
 
 ## Related Notes
 
+
 - [Christmas Hope Amid War and Suffering](christmas_hope_amid_war_and_suffering.md): also concerns Jesus Christ, from a different source document.
 - [Liam Neeson on Raising His Sons](liam_neeson_raising_sons_after_natasha_richardson_death.md): also concerns Liam Neeson, from a different source document.
 - [Jesse Bradley and The Power of the Second Thought](jesse_bradley_power_of_the_second_thought.md): same sub-plan on faith practice, from a different source document.
@@ -21,6 +22,8 @@ The involvement is not merely a professional engagement for Roumie. He is a comm
 - [Building a Daily Prayer Habit](building_a_daily_prayer_habit.md): drawn from the same source document, doc_0570.
 - [The Hallow App's Reported Effect on Users' Faith](hallow_app_reported_effect_on_users_faith.md): drawn from the same source document, doc_0570.
 - [The Hallow Prayer App: Contents and Features](hallow_prayer_app_contents_and_features.md): drawn from the same source document, doc_0570.
+- [Playing Jesus Deepened Roumie's Own Faith](playing_jesus_deepened_roumies_own_faith.md): same source document (doc_0570)
+- [Roumie's Prayer of Surrender and "The Chosen"](roumie_prayer_of_surrender_and_the_chosen.md): same source document (doc_0570)
 
 ## Source
 

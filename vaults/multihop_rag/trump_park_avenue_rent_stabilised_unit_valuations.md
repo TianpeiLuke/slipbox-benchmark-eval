@@ -13,11 +13,19 @@ Trump's optimism was shown to be at least partially justified: by 2021, only fiv
 
 ## Related Notes
 
+
 - [Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): shares the discount-and-valuation content tags used across the corpus.
 - [Engoron's "Fantasy World" Finding on Trump Financial Statements](engoron_fantasy_world_finding_on_trump_financial_statements.md): the ruling that names rent-regulated apartments as a core issue.
 - [Epic, Fortnite and Project Liberty Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): shares the trial-and-valuation content tags used across the corpus.
 - [Framework for Valuing US Pharma Stocks](framework_for_valuing_us_pharma_stocks.md): shares the valuation content tag used across the corpus.
 - [Hipgnosis Songs Fund Results Delay December 2023](hipgnosis_songs_fund_results_delay_december_2023.md): shares the discount-and-valuation content tags used across the corpus.
+- [40 Wall Street Valuation Dispute](forty_wall_street_valuation_dispute.md): same source document (doc_0530)
+- [Mar-a-Lago Valuation Dispute](mar_a_lago_valuation_dispute.md): same source document (doc_0530)
+- [Trump Net Worth Valuation Dispute at Trial](trump_net_worth_valuation_dispute_at_trial.md): same source document (doc_0530)
+- [Trump Tower Fifth Avenue Penthouse Valuation Dispute](trump_tower_fifth_avenue_penthouse_valuation_dispute.md): same source document (doc_0530)
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

@@ -13,6 +13,7 @@ Ukraine's leadership nonetheless says steep losses have been inflicted on Russia
 
 ## Related Notes
 
+
 - [Egypt's Strategic Value to Europe: Gas and Security](egypt_strategic_value_to_europe_gas_and_security.md): shares the Russian-invasion geopolitical framing.
 - [Google Maps and Waze Israel-Gaza Traffic Halt](google_maps_waze_israel_gaza_traffic_halt.md): shares Russian military-forces subject vocabulary.
 - [US-China Areas of Cooperation 2023](us_china_areas_of_cooperation_2023.md): shares the Black Sea as a geographic reference.
@@ -21,6 +22,7 @@ Ukraine's leadership nonetheless says steep losses have been inflicted on Russia
 - [Ukraine War 2024 Stalemate Outlook](ukraine_war_2024_stalemate_outlook.md): the forward assessment built on this result.
 - [US Election Risk to Ukraine Military Aid](us_election_risk_to_ukraine_military_aid.md): the support question raised by this shortfall.
 - [Volker Case for Continued and Expanded Ukraine Aid](volker_case_for_continued_and_expanded_ukraine_aid.md): the argument for changing what is supplied.
+- [Winter 2023 Front Line Conditions and Russian Offensives](winter_2023_front_line_conditions_and_russian_offensives.md): same source document (doc_0442)
 
 ## Source
 

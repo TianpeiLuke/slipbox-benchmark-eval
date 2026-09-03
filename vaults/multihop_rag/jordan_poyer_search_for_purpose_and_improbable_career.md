@@ -13,11 +13,20 @@ His football journey was improbable. No major college wanted him until Oregon St
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): shares the NFL and playoff-seeding themes, from a different document.
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): shares the draft-pick and playoff-seeding themes, from a different document.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): shares the NFL and playoff-seeding themes, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): shares the NFL and playoff-seeding themes, from a different document.
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also concerns Jordan Poyer, from a different document.
+- [Ayahuasca, The Psychedelic Brew](ayahuasca_psychedelic_brew.md): same source document (doc_0322)
+- [Jordan Poyer's Alcoholism And Sobriety](jordan_poyer_alcoholism_and_sobriety.md): same source document (doc_0322)
+- [Jordan Poyer's Ayahuasca Ceremony Experience](jordan_poyer_ayahuasca_ceremony_experience.md): same source document (doc_0322)
+- [Jordan Poyer's Contract Status And Post-Career Plans](jordan_poyer_contract_status_and_post_career_plans.md): same source document (doc_0322)
+- [Jordan Poyer's Ego And Perspective Shift](jordan_poyer_ego_and_perspective_shift.md): same source document (doc_0322)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

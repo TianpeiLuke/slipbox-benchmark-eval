@@ -13,6 +13,7 @@ Its selling points, per the roundup, are stunning 4K QLED resolution, adaptive b
 
 ## Related Notes
 
+
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): same roundup, on the sale this price appeared in
 - [Amazon Echo Show Audible And Fire Tv Offers](amazon_echo_show_audible_and_fire_tv_offers.md): same roundup, on the MGM+ subscription included with Fire TVs
 - [Amazon Fire Tv Stick Deals](amazon_fire_tv_stick_deals.md): overlaps on Fire TV and Alexa voice control, different document
@@ -20,6 +21,10 @@ Its selling points, per the roundup, are stunning 4K QLED resolution, adaptive b
 - [Amazon Fire Hd 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): overlaps on Fire hardware and resolution, different document
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): another deal in the same Amazon Cyber Monday grouping
 - [Anker Soundcore Liberty 4 Nc Earbuds](anker_soundcore_liberty_4_nc_earbuds.md): another deal in the same grouping, different source
+- [Bose QuietComfort 45 Headphones Deal Prices](bose_quietcomfort_45_headphones.md): same source document (doc_0000)
+- [iPad 10th Generation Cyber Monday Deal](ipad_10th_generation_cyber_monday_deal.md): same source document (doc_0000)
+- [Meta Quest 2 Black Friday And Cyber Monday Bundle Price](meta_quest_2_black_friday_bundle_price.md): same source document (doc_0000)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

@@ -11,6 +11,7 @@ One scope condition is stated up front: both teams had a week of rest, so this s
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also covers Dak Prescott and the Dallas offense, from a different source document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another start/sit call touching Curtis Samuel and Dak Prescott, from a different source document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another quarterback outlook covering Dak Prescott and Geno Smith, from a different source document.
@@ -19,6 +20,8 @@ One scope condition is stated up front: both teams had a week of rest, so this s
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
 
 ## Source
 

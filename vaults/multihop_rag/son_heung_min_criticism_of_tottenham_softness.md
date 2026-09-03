@@ -13,11 +13,18 @@ He then closed off the excuse that the opponent caught them out: "West Ham have 
 
 ## Related Notes
 
+
 - [Canada-Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also discusses West Ham players, from a different document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also covers West Ham in the same season, from a different document.
 - [Carabao Cup 2023-24 Semi-Final Draw And Fixtures](carabao_cup_2023_24_semifinal_draw_and_fixtures.md): also covers West Ham's season, from a different document.
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): also covers West Ham, from a different document.
 - [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md): also covers West Ham, from a different document.
+- [Dyche On Everton's Points Deduction And Appeal](dyche_on_everton_points_deduction_and_appeal.md): same source document (doc_0541)
+- [Everton's Win Over Newcastle, December 2023](everton_win_over_newcastle_december_2023.md): same source document (doc_0541)
+- [Howe On Newcastle's Inconsistency And Injury Load](howe_on_newcastle_inconsistency_and_injury_load.md): same source document (doc_0541)
+- [Moyes On West Ham's Win At Tottenham](moyes_on_west_ham_win_at_tottenham.md): same source document (doc_0541)
+- [Postecoglou's Response To Tottenham's Losing Run](postecoglou_response_to_tottenham_losing_run.md): same source document (doc_0541)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

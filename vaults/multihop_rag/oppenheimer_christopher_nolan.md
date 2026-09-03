@@ -15,11 +15,20 @@ Critic MP describes the result as part heist movie, part courtroom drama, part d
 
 ## Related Notes
 
+
 - [A Haunting in Venice (Poirot Mystery)](a_haunting_in_venice_poirot_mystery.md): both feature Kenneth Branagh, from a different source document
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares the most-valuable-player and streaming-service topic tags
 - [Brock Purdy and Lamar Jackson's 2023 MVP Race](brock_purdy_lamar_jackson_2023_mvp_race.md): shares MVP-related topic tags from an unrelated sports document
 - [Disney Remake and Franchise Oversaturation](disney_remake_and_franchise_oversaturation.md): both reference Tony Stark, from a separate article
 - [FanDuel Sportsbook Betting Markets](fanduel_sportsbook_betting_markets.md): shares MVP-related topic tags from a different document
+- [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): same source document (doc_0094)
+- [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): same source document (doc_0094)
+- [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): same source document (doc_0094)
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

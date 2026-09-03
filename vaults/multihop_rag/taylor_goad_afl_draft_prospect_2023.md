@@ -11,11 +11,19 @@ He showed splendid improvement throughout the season playing at under-18 level f
 
 ## Related Notes
 
+
 - [Gag City As Free Marketing Win For Nicki Minaj](gag_city_as_free_marketing_win_for_nicki_minaj.md): shares thematic tagging with this note, from a different document.
 - [I Married A Witch 1942 Rene Clair Comedy](i_married_a_witch_1942_rene_clair_comedy.md): shares thematic tagging with this note, from a different document.
 - [OpenAI Board Negotiations Over Altman Reinstatement](openai_board_negotiations_over_altman_reinstatement.md): shares thematic tagging with this note, from a different document.
 - [Oppenheimer Christopher Nolan](oppenheimer_christopher_nolan.md): shares thematic tagging with this note, from a different document.
 - [Sam Smith Unholy Capitol Campaign](sam_smith_unholy_capitol_campaign.md): shares thematic tagging with this note, from a different document.
+- [Angus Hastie AFL Draft Prospect 2023](angus_hastie_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Archer Reid AFL Draft Prospect 2023](archer_reid_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Archie Roberts AFL Draft Prospect 2023](archie_roberts_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Ari Schoenmaker AFL Draft Prospect 2023](ari_schoenmaker_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Ashton Moya AFL Draft Prospect 2023](ashton_moya_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

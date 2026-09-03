@@ -11,6 +11,7 @@ The dependence is presented as decisive: Hamas has all kinds of additional sourc
 
 ## Related Notes
 
+
 - [Berlin Wall Low Tech Defense Lesson](berlin_wall_low_tech_defense_lesson.md): also discusses Shin Bet, from a different source document.
 - [Gaza Conflict Information Environment Late 2023](gaza_conflict_information_environment_late_2023.md): shares vocabulary around hamas, gaza and israel, from a different source document.
 - [Gaza Displacement and Casualties October 2023](gaza_displacement_and_casualties_october_2023.md): shares vocabulary around hamas, gaza and israel, from a different source document.
@@ -19,6 +20,8 @@ The dependence is presented as decisive: Hamas has all kinds of additional sourc
 - [FATF Iran Isolation and Cash Dependency](fatf_iran_isolation_and_cash_dependency.md): why Iranian money moves in cash (doc_0486).
 - [Hamas Fundraising after October 7](hamas_fundraising_after_october_7.md): another note drawn from the same source document (doc_0486).
 - [Hawala Money Transfer Into Gaza](hawala_money_transfer_into_gaza.md): the main channel through which such funds reach Gaza (doc_0486).
+- [IMPA's Blocking Of A Hamas Fundraising Pipeline In Europe](impa_blocking_hamas_fundraising_in_europe.md): same source document (doc_0486)
+- [The International Terror Finance Task Force](international_terror_finance_task_force.md): same source document (doc_0486)
 
 ## Source
 

@@ -13,6 +13,7 @@ When placing bets on these events, evaluating each team's strengths and weakness
 
 ## Related Notes
 
+
 - [DraftKings Sportsbook Betting Markets](draftkings_sportsbook_betting_markets.md): a book carrying these golf markets.
 - [Exotic Prop Bets](exotic_prop_bets.md): the wider category the novelty team props belong to.
 - [Handicap Betting in Tennis and Golf](handicap_betting_in_tennis_and_golf.md): overlapping golf head-to-head betting concepts.
@@ -21,6 +22,8 @@ When placing bets on these events, evaluating each team's strengths and weakness
 - [Golf Betting Bet Types Explained](golf_betting_bet_types_explained.md): the general golf bet-type taxonomy, same source document.
 - [How to Open a Sportsbook Account and Place a Bet](how_to_open_a_sportsbook_account_and_place_a_bet.md): the account steps needed to place these bets, same source document.
 - [Live In-Play Golf Betting](live_in_play_golf_betting.md): the in-play counterpart, same source document.
+- [Betting The Masters: Markets And The Augusta National Factors](masters_betting_markets_and_augusta_national_factors.md): same source document (doc_0207)
+- [The 2024 PGA Tour Schedule: 36 Events On A Calendar Year](pga_tour_2024_calendar_year_schedule.md): same source document (doc_0207)
 
 ## Source
 

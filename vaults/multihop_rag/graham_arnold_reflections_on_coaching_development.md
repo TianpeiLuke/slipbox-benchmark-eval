@@ -11,6 +11,7 @@ Reflecting on his milestone, Graham Arnold said his 2006 caretaker period taught
 
 ## Related Notes
 
+
 - [Galatasaray Istanbul Hostile Atmosphere 1993](galatasaray_istanbul_hostile_atmosphere_1993.md): part of the same grouping, from a different document.
 - [Garnacho And Mainoo United Teenagers Vs Everton](garnacho_and_mainoo_united_teenagers_vs_everton.md): part of the same grouping, from a different document.
 - [Istanbul 1993 Defeat As Formative Experience](istanbul_1993_defeat_as_formative_experience.md): a parallel argument about learning from hard experience, from a different document.
@@ -19,6 +20,8 @@ Reflecting on his milestone, Graham Arnold said his 2006 caretaker period taught
 - [AFC 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): the campaign ahead of him, from the same document.
 - [Andrew Redmayne Substitution In Peru Playoff](andrew_redmayne_substitution_in_peru_playoff.md): the call that preserved his tenure, from the same document.
 - [Graham Arnold 2022 World Cup Qualification Crisis](graham_arnold_2022_world_cup_qualification_crisis.md): the crisis he came through, from the same document.
+- [Graham Arnold Socceroos Coaching Appearance Record](graham_arnold_socceroos_coaching_appearance_record.md): same source document (doc_0172)
+- [James Johnson Tribute To Graham Arnold](james_johnson_tribute_to_graham_arnold.md): same source document (doc_0172)
 
 ## Source
 

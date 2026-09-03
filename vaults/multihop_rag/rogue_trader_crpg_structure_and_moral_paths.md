@@ -11,11 +11,16 @@ Unknown to the participants, a coup is in the works and there are traitors aboar
 
 ## Related Notes
 
+
 - [Rogue Trader: Turn-Based Squad Combat](rogue_trader_turn_based_squad_combat.md): same source; the combat half of the CRPG structure described here.
 - [Rogue Trader: The Companion Cast](rogue_trader_companion_cast.md): same source; the companions and conversation trees named here.
 - [Rogue Trader: The Koronus Expanse Campaign](rogue_trader_koronus_expanse_campaign.md): same source; what happens after the tutorial ascension.
 - [Rogue Trader: Pacing And Voidship Combat Flaws](rogue_trader_pacing_and_voidship_combat_flaws.md): same source; the levelling and naval systems that undercut this structure.
 - [Custom Character Versus Origin Character In Baldur's Gate 3](bg3_custom_character_vs_origin_character.md): overlaps in content on baldur, custom, gate, from a different source document.
+- [Polygon's Selection Process for the Top 50 Games of 2023](polygon_top_50_games_of_2023_selection_process.md): both discuss Rogue Trader; different source document
+- [Rogue Trader And 40K Lore Fidelity](rogue_trader_40k_lore_fidelity.md): same source document (doc_0592)
+- [Rogue Trader: Verdict And Release Details](rogue_trader_verdict_and_release_details.md): same source document (doc_0592)
+- [Warhammer 40,000: Rogue Trader — Premise](warhammer_40k_rogue_trader_premise.md): same source document (doc_0592)
 
 ## Source
 

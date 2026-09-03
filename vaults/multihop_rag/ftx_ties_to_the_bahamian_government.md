@@ -13,11 +13,16 @@ The jury was also shown a November 9th email from Bankman-Fried to Ryan Pinder, 
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): overlaps on Bankman-Fried, Sassoon and the government, from a different source document.
 - [FTX's Final Days and the Alameda Shortfall](ftx_final_days_and_alameda_shortfall.md): overlaps on the Bahamas and the collapse, from a different source document.
 - [FTX Ventures Was Funded by Alameda](ftx_ventures_funded_by_alameda.md): another instance of cozy ties kept off the public record, from a different source document.
 - [Bankman-Fried's Defense Counsel](sbf_defense_counsel.md): overlaps on Bankman-Fried and his attorneys, from a different source document.
 - [Bankman-Fried's Conduct on Direct Examination](sbf_direct_examination_conduct.md): overlaps on Bankman-Fried, Sassoon and the jury, from a different source document.
+- [FTX Fraud Charges And The SEC's Allegation](ftx_fraud_charges_and_sec_allegation.md): same source document (doc_0083)
+- [Bankman-Fried's Cross-Examination On The Missing $8 Billion](sbf_cross_examination_on_the_missing_8_billion.md): same source document (doc_0083)
+- [Bankman-Fried's Decision To Testify Backfired](sbf_decision_to_testify_backfired.md): same source document (doc_0083)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

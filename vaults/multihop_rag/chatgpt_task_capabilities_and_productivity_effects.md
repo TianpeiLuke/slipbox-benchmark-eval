@@ -13,6 +13,7 @@ Ruoxi Shang attributes the breadth to a shift in how such systems are built: "Be
 
 ## Related Notes
 
+
 - [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): overlaps on ChatGPT as a general-purpose chatbot, from a different document.
 - [ChatGPT's Adoption Gap: The Survey Evidence](chatgpt_adoption_gap_survey_evidence.md): drawn from the same source document (doc_0047), and questions whether it is used this way in practice.
 - [ChatGPT As A User Experience Breakthrough](chatgpt_as_user_experience_breakthrough.md): drawn from the same source document (doc_0047).
@@ -21,6 +22,8 @@ Ruoxi Shang attributes the breadth to a shift in how such systems are built: "Be
 - [ChatGPT's Launch And Its First Year Of Evolution](chatgpt_launch_and_first_year_evolution.md): drawn from the same source document (doc_0047).
 - [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): drawn from the same source document (doc_0047).
 - [ChatGPT Usage Statistics, Late 2023](chatgpt_usage_statistics_late_2023.md): drawn from the same source document (doc_0047).
+- [GPTs: OpenAI's Custom Chatbots And The Dev Day Announcements](openai_custom_gpts_and_devday_announcements.md): same source document (doc_0047)
+- [Why ChatGPT's Conversational Interface Resonates](why_chatgpt_conversational_interface_resonates.md): same source document (doc_0047)
 
 ## Source
 

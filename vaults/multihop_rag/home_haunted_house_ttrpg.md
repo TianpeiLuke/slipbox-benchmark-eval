@@ -11,11 +11,23 @@ It uses custom tarot cards and a whiteboard to track your character's progress a
 
 ## Related Notes
 
+
 - [AI Civil Rights and Consumer Protections in the Eo](ai_civil_rights_and_consumer_protections_in_the_eo.md): shares the earnings_report topic tag, from a different source document.
 - [AI Legislation Gap](ai_legislation_gap.md): shares the earnings_report topic tag, from a different source document.
 - [AI Worker Protections and Federal AI Hiring](ai_worker_protections_and_federal_ai_hiring.md): shares the earnings_report topic tag, from a different source document.
 - [Alphabet Q3 2023 Earnings Preview](alphabet_q3_2023_earnings_preview.md): shares the earnings_report topic tag, from a different source document.
 - [Alphabet Q3 2023 Results and Cloud Miss](alphabet_q3_2023_results_and_cloud_miss.md): shares the earnings_report topic tag, from a different source document.
+- [City Of Winter](city_of_winter_ttrpg.md): same source document (doc_0591)
+- [Dead After Dinner](dead_after_dinner_ttrpg.md): same source document (doc_0591)
+- [Desperation](desperation_ttrpg_jason_morningstar.md): same source document (doc_0591)
+- [Dungeon Crawl Classics](dungeon_crawl_classics_rpg.md): same source document (doc_0591)
+- [Dungeons & Dragons In 2023](dungeons_and_dragons_2023_play_experiences.md): same source document (doc_0591)
+- [Eating Oranges In The Shower](eating_oranges_in_the_shower_larp.md): same source document (doc_0591)
+- [Exquisite Biome](exquisite_biome_worldbuilding_ttrpg.md): same source document (doc_0591)
+- [Fetch My Blade](fetch_my_blade_solo_journaling_rpg.md): same source document (doc_0591)
+- [I'm Sorry Did You Say Street Magic](im_sorry_did_you_say_street_magic.md): same source document (doc_0591)
+- [Marvel Multiverse Role-Playing Game](marvel_multiverse_role_playing_game.md): same source document (doc_0591)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

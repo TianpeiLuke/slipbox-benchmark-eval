@@ -11,6 +11,7 @@ Stage two: behind the scenes, players could see a live feed from the camera, and
 
 ## Related Notes
 
+
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): also concerns the World Series, from a different source document.
 - [Chase Field Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): also concerns the World Series, from a different source document.
 - [Citizens Bank Park Philadelphia Phillies Postseason Atmosphere](citizens_bank_park_philadelphia_phillies_postseason_atmosphere.md): also concerns the World Series, from a different source document.
@@ -19,6 +20,8 @@ Stage two: behind the scenes, players could see a live feed from the camera, and
 - [Astros Players' Immunity and Mike Fiers](astros_players_immunity_and_mike_fiers.md): who ran the scheme and who was punished, from the same article (doc_0007).
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): how the scheme was exposed, from the same article (doc_0007).
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): the reaction the trash cans provoked, from the same article (doc_0007).
+- [How Jim Crane And Jeff Luhnow Rebuilt A Losing Astros Front Office](houston_astros_front_office_rebuild_under_crane_and_luhnow.md): same source document (doc_0007)
+- [Legal Sign Stealing Versus What The Astros Did](sign_stealing_rules_and_mlb_countermeasures.md): same source document (doc_0007)
 
 ## Source
 

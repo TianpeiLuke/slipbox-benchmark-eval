@@ -13,6 +13,7 @@ Much remained unsettled at the point of delivery. It was still unclear whether t
 
 ## Related Notes
 
+
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): also covers Elon Musk, from a different source document.
 - [ChatGPT Misuse Fears versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): also covers Elon Musk, from a different source document.
 - [Crumple Zones and the Stainless Steel Concern](crumple_zones_and_the_stainless_steel_concern.md): substantial content overlap on tesla, vehicle, questions, from a different source document.
@@ -21,6 +22,8 @@ Much remained unsettled at the point of delivery. It was still unclear whether t
 - [Cybertruck Availability Pricing and EV Tax Credit](cybertruck_availability_pricing_and_ev_tax_credit.md): drawn from the same source document, doc_0547.
 - [Cybertruck Bed Size and Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): drawn from the same source document, doc_0547.
 - [Cybertruck Resale Restrictions Walked Back](cybertruck_resale_restrictions_walked_back.md): drawn from the same source document, doc_0547.
+- [Cybertruck's Stainless Steel Design And Aesthetic](cybertruck_stainless_steel_design_and_aesthetic.md): same source document (doc_0547)
+- [Cybertruck Variants And Specifications](cybertruck_variants_and_specifications.md): same source document (doc_0547)
 
 ## Source
 

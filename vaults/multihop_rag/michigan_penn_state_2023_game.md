@@ -15,11 +15,16 @@ The result reset the conference picture. The same old questions about Nittany Li
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): another Big Ten item from a different document.
 - [Alabama's 2023 CFP Case and the SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): also concerns the College Football Playoff, separately sourced.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): covers the Big Ten and Playoff picture from a different source.
 - [Alabama-Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): another item involving Ohio State, in a separate document.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): the off-field story running alongside this game, reported elsewhere.
+- [Michigan Did Not Need Harbaugh At Penn State, But Ohio State Is Different](michigan_needs_harbaugh_against_ohio_state.md): same source document (doc_0353)
+- [Michigan's Temporary Restraining Order Against The Big Ten](michigan_temporary_restraining_order_litigation.md): same source document (doc_0353)
+- [Sherrone Moore's Turn As Michigan's Acting Head Coach](sherrone_moore_interim_head_coach_tenure.md): same source document (doc_0353)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

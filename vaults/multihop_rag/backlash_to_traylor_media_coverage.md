@@ -11,11 +11,18 @@ Essentially Sports reported on 2023-10-25 that hardcore football fans were prett
 
 ## Related Notes
 
+
 - [All You Had to Do Was Stay: Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): also covers Taylor Swift, from a different source document.
 - [American Pie Billboard Record and Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): also covers Taylor Swift, from a different source document.
 - [Backlash to Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): another backlash episode involving Travis Kelce, from a different source document.
 - [Bad Blood: Taylor Swift and Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): also covers Taylor Swift, from a different source document.
 - [Biggest Concert Films Box Office Records](biggest_concert_films_box_office_records.md): also covers Taylor Swift, from a different source document.
+- [The Chiefs-Jets Week 4 Swift Sideshow And FanDuel's "Prop Stars" Menu](chiefs_jets_week_4_swift_sideshow_and_prop_stars_menu.md): same source document (doc_0311)
+- [Which Team-Level Props To Play In Chiefs-Jets Week 4](chiefs_jets_week_4_team_level_props.md): same source document (doc_0311)
+- [The NBA's 1970s Image Crisis And How David Stern Reversed It](nba_1970s_image_crisis_and_david_stern_turnaround.md): same source document (doc_0344)
+- [The NFL's International Games And Its Concussion Initiatives](nfl_international_games_and_player_safety_initiatives.md): same source document (doc_0344)
+- [The NFL's Revenue Lead And Goodell's $27 Billion Target For 2027](nfl_revenue_growth_and_goodell_27_billion_target.md): same source document (doc_0344)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

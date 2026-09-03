@@ -13,11 +13,18 @@ Earlier, on Sunday, Dec. 3, Susan Slusser of the San Francisco Chronicle reporte
 
 ## Related Notes
 
+
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): also cites Jon Morosi, from a different document.
 - [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): shares surface overlap on Giants and New York, from a different document.
 - [Gleyber Torres 2023 Season and Trade Speculation](gleyber_torres_2023_season_and_trade_speculation.md): also discusses Aaron Judge, from a different document.
 - [Gleyber Torres Yankees Trade Candidacy](gleyber_torres_yankees_trade_candidacy.md): also discusses Aaron Judge, from a different document.
 - [MLB 2023-24 Offseason Market Overview](mlb_2023_24_offseason_market_overview.md): also discusses Yoshinobu Yamamoto, from a different document.
+- [Braves Land Jarred Kelenic And Marco Gonzales From The Mariners](braves_acquire_jarred_kelenic_from_mariners.md): same source document (doc_0120)
+- [Diamondbacks Land Eduardo Rodriguez On A Four-Year Deal](eduardo_rodriguez_signs_with_diamondbacks.md): same source document (doc_0120)
+- [Juan Soto Traded From The Padres To The Yankees](juan_soto_traded_from_padres_to_yankees.md): same source document (doc_0120)
+- [Jung Hoo Lee Posted From The KBO To MLB](jung_hoo_lee_kbo_posting_to_mlb.md): same source document (doc_0120)
+- [Mariners' Cleared Payroll Space And Winter Meetings Trade Talks](mariners_offseason_payroll_space_and_trade_talks.md): same source document (doc_0120)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

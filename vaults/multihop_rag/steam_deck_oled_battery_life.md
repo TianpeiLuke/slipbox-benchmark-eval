@@ -11,11 +11,20 @@ The original Steam Deck's short battery life was one of its downsides, maxing ou
 
 ## Related Notes
 
+
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): another battery and charging product, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
 - [Anker 3 in 1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
+- [Handheld PC Gaming Market Growth](handheld_pc_gaming_market_growth.md): same source document (doc_0169)
+- [Should You Upgrade To The Steam Deck OLED?](should_you_upgrade_to_steam_deck_oled.md): same source document (doc_0354)
+- [Steam Deck Game Compatibility Labels](steam_deck_game_compatibility_labels.md): same source document (doc_0169)
+- [Steam Deck OLED As A Couch Console](steam_deck_oled_as_couch_console.md): same source document (doc_0169)
+- [Steam Deck OLED's Custom AMD APU](steam_deck_oled_custom_amd_apu.md): same source document (doc_0524)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

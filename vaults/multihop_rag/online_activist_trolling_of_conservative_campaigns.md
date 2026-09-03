@@ -11,10 +11,17 @@ In 2020, TikTok users reserved hundreds of tickets for a Trump rally and never s
 
 ## Related Notes
 
+
 - [Annie Wu Henry On Gen Z Authenticity](annie_wu_henry_on_gen_z_authenticity.md): same source document; the account of Gen Z's low tolerance that these actions express.
 - [Gen Z Policy Misalignment With The Republican Party](gen_z_policy_misalignment_republican_party.md): same source document; the policy conflicts motivating this activism.
 - [Gen Z Collective Online Political Action](gen_z_collective_online_political_action.md): overlaps in content on abortion politics and TikTok trolling, from a different source document.
 - [TikTok Music Discovery And Sharing Rates](tiktok_music_discovery_and_sharing_rates.md): overlaps in content on TikTok users and social behaviour, from a different source document.
+- [AOC's Twitch "Among Us" Stream](aoc_twitch_among_us_stream.md): same source document (doc_0468)
+- [Democratic Dominance In Campaign Social Media](democratic_social_media_campaign_dominance.md): same source document (doc_0468)
+- [Doug Mastriano's Facebook Live Campaign](doug_mastriano_facebook_live_campaign.md): same source document (doc_0468)
+- [Influencer Mobilization Beats Endorsement](influencer_mobilization_versus_endorsement_research.md): same source document (doc_0468)
+- [Jake Paul Endorsement Backlash](jake_paul_endorsement_backlash.md): same source document (doc_0468)
+- [Matt Gaetz's Twitch Debut Failure](matt_gaetz_twitch_debut_failure.md): same source document (doc_0468)
 
 ## Source
 

@@ -13,6 +13,7 @@ What Laudi appreciates most is the ordering of priorities: when it comes to mark
 
 ## Related Notes
 
+
 - [AI Pricing Models](ai_pricing_models.md): shares the SaaS pricing and go-to-market theme, from a different source document.
 - [Argentina First Half Dominance vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): shares the audience-and-performance framing, from a different source document.
 - [Argentina Second Half And Messi Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): shares the audience-and-performance framing, from a different source document.
@@ -21,6 +22,14 @@ What Laudi appreciates most is the ordering of priorities: when it comes to mark
 - [Barr Moses Recommends Dare To Lead](barr_moses_recommends_dare_to_lead.md): drawn from the same source document (doc_0243), another practitioner recommendation.
 - [BG3 Cleric Class And Domains](bg3_cleric_class_and_domains.md): shares the guide-and-fundamentals framing, from a different source document.
 - [BG3 Warlock Cantrip List](bg3_warlock_cantrip_list.md): shares the guide-and-fundamentals framing, from a different source document.
+- [James Wise Recommends "The Coming Wave"](james_wise_recommends_the_coming_wave.md): same source document (doc_0243)
+- [Jerry Neumann Recommends "How Data Happened"](jerry_neumann_recommends_how_data_happened.md): same source document (doc_0243)
+- [Jon Evans Recommends "The Steerswoman"](jon_evans_recommends_the_steerswoman.md): same source document (doc_0243)
+- [Kashmir Hill Recommends "The Listeners"](kashmir_hill_recommends_the_listeners_wiretapping_history.md): same source document (doc_0243)
+- [Polina Marinova Pompliano Recommends "It's What I Do"](polina_marinova_pompliano_recommends_its_what_i_do.md): same source document (doc_0243)
+- [Scott Hurff Recommends "Getting Real"](scott_hurff_recommends_getting_real_by_37signals.md): same source document (doc_0243)
+- [SaaS Pricing](term_saas_pricing.md): uses the concept saas pricing
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

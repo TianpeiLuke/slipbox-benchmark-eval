@@ -13,11 +13,18 @@ The term "against the spread" carries two senses that mark a boundary case. Most
 
 ## Related Notes
 
+
 - [American Odds Format](american_odds_format.md): overlaps on underdogs, favorites and betting terminology, from a different document.
 - [Betting Favorites and Underdogs](betting_favorites_and_underdogs.md): overlaps on the favorite/underdog distinction that the spread is built around, from a different document.
 - [College Football Bowl Betting Market Types](college_football_bowl_betting_market_types.md): overlaps on spreads, underdogs and outright winners as market types, from a different document.
 - [FanDuel Bet Five Get 150 Moneyline Promo](fanduel_bet_five_get_150_moneyline_promo.md): overlaps on favorites and underdogs in a promotional betting context, from a different document.
 - [Masters Betting Markets and Augusta National Factors](masters_betting_markets_and_augusta_national_factors.md): overlaps on outright and specified betting markets, from a different document.
+- [Determining A Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): same source document (doc_0359)
+- [Handicap Betting In Tennis And Golf](handicap_betting_in_tennis_and_golf.md): same source document (doc_0359)
+- [Line Movement As A Signal Of Betting Value](line_movement_as_a_signal_of_betting_value.md): same source document (doc_0359)
+- [Point Spread Odds And Line Movement](point_spread_odds_and_line_movement.md): same source document (doc_0359)
+- [Point Spread Push And Half-Point Lines](point_spread_push_and_half_point_lines.md): same source document (doc_0359)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

@@ -15,11 +15,20 @@ Momentum built through consultation and public pressure. Pete Thamel said on ESP
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): another Big Ten item from a different document.
 - [Alabama's 2023 CFP Case and the SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): also concerns the College Football Playoff, separately sourced.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): covers the Big Ten and the Playoff from a different source.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): the coaching pressure described here, reported in another document.
 - [Big Ten Commissioner Petitti's Punishment Dilemma](big_ten_commissioner_petitti_punishment_dilemma.md): the same decision problem from a different source.
+- [The Big Ten's Head-Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): same source document (doc_0180)
+- [The Big Ten Suspends Jim Harbaugh For Three Games](big_ten_suspension_of_jim_harbaugh.md): same source document (doc_0180)
+- [Chris Partridge's Firing And The Evidence-Destruction Allegation](chris_partridge_firing_and_evidence_destruction.md): same source document (doc_0180)
+- [Connor Stalions And The In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): same source document (doc_0180)
+- [Michigan Drops Its Suit And Accepts The Three-Game Ban](michigan_litigation_resolution_and_accepted_ban.md): same source document (doc_0180)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

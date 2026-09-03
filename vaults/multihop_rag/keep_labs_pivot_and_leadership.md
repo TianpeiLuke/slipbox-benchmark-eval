@@ -15,11 +15,20 @@ The response to losing manufacturing was to talk to customers rather than to reb
 
 ## Related Notes
 
+
 - [Amazon Seller Skepticism Of The FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares the COVID-19 and product-launch themes, from a different source document.
 - [CMA CGM's Diversification Strategy](cma_cgm_diversification_strategy.md): shares the COVID-19 and product-launch themes, from a different source document.
 - [The Container Shipping Boom-To-Bust Cycle, 2021-2024](container_shipping_boom_to_bust_cycle_2021_2024.md): shares the COVID-19 and product-launch themes — another business reshaped by pandemic supply shocks — from a different source document.
 - [Dungeons And Dragons 2023 Play Experiences](dungeons_and_dragons_2023_play_experiences.md): shares the COVID-19 theme, from a different source document.
 - [Epoch Times 2020 Election And Pro-Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): shares the COVID-19 theme, from a different source document.
+- [Keep Labs' Repositioning From Cannabis To Medicine](keep_labs_cannabis_repositioning.md): same source document (doc_0230)
+- [The Keep, A Lockable Smart Storage Container For Medicine](keep_labs_device.md): same source document (doc_0230)
+- [Keep Labs' Enterprise Turn And The Pharmacist Co-Lead](keep_labs_enterprise_partnerships.md): same source document (doc_0230)
+- [Keep Labs' Funding And Second-Gen Roadmap](keep_labs_funding_and_roadmap.md): same source document (doc_0230)
+- [How Keep Labs Says It Safeguards Patient Data](keep_labs_security_posture.md): same source document (doc_0230)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
+- [Product Launch](term_product_launch.md): uses the concept product launch
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

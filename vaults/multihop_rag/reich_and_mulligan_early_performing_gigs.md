@@ -11,9 +11,18 @@ Mulligan's example of what those days led to: "Just hoping to get a callback —
 
 ## Related Notes
 
+
 - [Bring Them Home Now Hostage Billboard Campaign](bring_them_home_now_hostage_billboard_campaign.md): also concerns Times Square, in a different document
 - [Frank Reich Head Coaching Record](frank_reich_head_coaching_record.md): incidental name overlap on Reich, from a different source document
 - [CollegeHumor's IAC Layoffs And Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): the company history from the same Polygon interview
+- [Digital Creator "Jail" And Why Anthology Formats Are The Escape](digital_creator_jail_and_anthology_formats.md): same source document (doc_0586)
+- [Burrow's End: Dimension 20's Stoat Season And The Specificity Rule](dimension_20_burrows_end_stoat_season.md): same source document (doc_0586)
+- [Easter Eggs In Dropout's Anniversary Video](dropout_anniversary_video_easter_eggs.md): same source document (doc_0586)
+- [Dropout's Fifth Anniversary Announcement: CollegeHumor Is No More](dropout_fifth_anniversary_name_change_announcement.md): same source document (doc_0586)
+- [Dropout's Place In Improv History And Wayne Brady's Verdict](dropout_improv_shows_and_wayne_brady_endorsement.md): same source document (doc_0586)
+- [Sam Reich's Advice To Creators: Find A Better Business Model](sam_reich_advice_on_off_platform_business_models.md): same source document (doc_0586)
+- [Very Important People: A Reboot Of CollegeHumor's Hello My Name Is](very_important_people_dropout_show.md): same source document (doc_0586)
+- [Space Mission](term_space_mission.md): uses the concept space mission
 
 ## Source
 

@@ -13,11 +13,17 @@ The financial and competitive picture completes the argument. The Red Wings have
 
 ## Related Notes
 
+
 - [Artemi Panarin Shots on Goal Prop](artemi_panarin_shots_on_goal_prop.md): also discusses Artemi Panarin and the Red Wings, from a different document.
 - [Daniel Sprong Shots on Goal Prop](daniel_sprong_shots_on_goal_prop.md): another Red Wings item, separately sourced.
 - [Inter Miami's 2023 MLS Playoff Elimination](inter_miami_2023_mls_playoff_elimination.md): another Eastern Conference item, in a different document.
 - [MLS Playoff Race Scoreboard, October 2023](mls_playoff_race_scoreboard_october_2023.md): also concerns Eastern Conference standings, from a separate source.
 - [NBA Core Betting Markets: Spreads, Moneylines, Totals](nba_core_betting_markets_spreads_moneylines_totals.md): another item referencing the Eastern Conference, in a different document.
+- [Patrick Kane's 2023 Free Agency Situation](patrick_kane_2023_free_agency_situation.md): same source document (doc_0356)
+- [Patrick Kane's Fit With The Buffalo Sabres](patrick_kane_buffalo_sabres_fit.md): same source document (doc_0356)
+- [Patrick Kane's Fit With The Dallas Stars](patrick_kane_dallas_stars_fit.md): same source document (doc_0356)
+- [Patrick Kane's Fit With The Florida Panthers](patrick_kane_florida_panthers_fit.md): same source document (doc_0356)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

@@ -13,6 +13,7 @@ The recent usage and film support the caution, with one countervailing precedent
 
 ## Related Notes
 
+
 - [Baker Mayfield Week 15 Stat Line At Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also discusses Chris Godwin and Kirk Cousins, both named in this call, from a different document.
 - [Baker Mayfield Zone Coverage And Four Level Passing](baker_mayfield_zone_coverage_and_four_level_passing.md): covers the same zone-versus-man coverage reasoning applied to a passing game, from a different document.
 - [Bears Vikings MNF First Half](bears_vikings_mnf_first_half.md): also discusses Jordan Addison, the teammate expected to out-target Osborn, from a different document.
@@ -20,6 +21,9 @@ The recent usage and film support the caution, with one countervailing precedent
 - [Bears Vikings MNF Playoff And Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): also discusses Justin Jefferson, whose absence drives this call, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another "Sit Him" receiver call from the same Week 6 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this sit call applies, from the same column.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
 
 ## Source
 

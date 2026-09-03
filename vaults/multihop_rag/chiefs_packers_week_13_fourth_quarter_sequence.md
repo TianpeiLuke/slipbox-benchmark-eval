@@ -13,6 +13,7 @@ At 10:59 p.m. Mahomes tossed a pass toward Packers corner Keisean Nixon, who pul
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also concerns Green Bay, from a different document.
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also concerns Green Bay, from a different document.
 - [Bears Game-Ending Hail Mary vs Browns](bears_game_ending_hail_mary_vs_browns.md): another game decided on a final-play Hail Mary, from a different document.
@@ -21,6 +22,8 @@ At 10:59 p.m. Mahomes tossed a pass toward Packers corner Keisean Nixon, who pul
 - [Chiefs Packers Week 13 Broadcast and Kickoff Details](chiefs_packers_week_13_broadcast_and_kickoff_details.md): drawn from the same Sporting News live blog (doc_0034).
 - [Chiefs Packers Week 13 First Half Sequence](chiefs_packers_week_13_first_half_sequence.md): covers the opening half of the same game, from the same document.
 - [Packers Edge Chiefs 27-19 On Week 13 Sunday Night Football](chiefs_packers_week_13_snf_final_result.md): gives the final score this quarter produced, from the same document.
+- [Third Quarter Sequence Of Packers-Chiefs Week 13](chiefs_packers_week_13_third_quarter_sequence.md): same source document (doc_0034)
+- [Jordan Love's Week 13 Performance Against Kansas City](jordan_love_2023_breakout_season.md): same source document (doc_0034)
 
 ## Source
 

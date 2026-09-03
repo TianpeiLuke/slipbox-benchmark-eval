@@ -11,10 +11,17 @@ The grounds are comparative: Pebble didn't have some of the issues other federat
 
 ## Related Notes
 
+
 - [Pebble's Moderation-First Market Hypothesis](pebble_moderation_first_market_hypothesis.md): same source document; the thesis this defends the execution of.
 - [The Kindness Versus Engagement Trade-Off](kindness_versus_engagement_tradeoff.md): same source document; the founders' own qualification of this defense.
 - [X's Competitive Position](x_competitive_position.md): overlaps in content on Pebble, Bluesky and their users, from a different source document.
 - [Post-Twitter Social App Landscape](post_twitter_social_app_landscape.md): overlaps in content on Pebble, Bluesky and Cselle, from a different source document.
+- [Beeper's Open Source Transparency Effort](beeper_open_source_transparency_effort.md): content overlap 0.11 on pebble, trust, public; different source document
+- [Pebble/T2's Shutdown As A Warning To Moderation-First Products](pebble_t2_moderation_first_twitter_clone_shutdown.md): content overlap 0.21 on pebble, moderation, approach; different source document
+- [Founder Lessons From Pebble](founder_lessons_from_pebble.md): same source document (doc_0593)
+- [Pebble's Missing Native Mobile App](pebble_missing_native_mobile_app.md): same source document (doc_0593)
+- [Pebble's Multifactor Shutdown Explanation](pebble_shutdown_multifactor_explanation.md): same source document (doc_0593)
+- [Pebble's Shutdown And Wind-Down](pebble_t2_shutdown_and_winddown.md): same source document (doc_0593)
 
 ## Source
 

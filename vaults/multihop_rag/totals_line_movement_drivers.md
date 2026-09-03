@@ -11,6 +11,7 @@ Betting activity is one of the most common reasons for line movement — a signi
 
 ## Related Notes
 
+
 - [Point Spread Odds and Line Movement](point_spread_odds_and_line_movement.md): describes the same adjustment drivers, including weather and money wagered, for spreads rather than totals, from a different document.
 - [Why Moneyline Odds Change](why_moneyline_odds_change.md): describes bookmakers adjusting moneyline prices for comparable reasons, from a different document.
 - [Line Movement as a Signal of Betting Value](line_movement_as_a_signal_of_betting_value.md): argues what bettors should do with these movements, from the same document.
@@ -19,6 +20,7 @@ Betting activity is one of the most common reasons for line movement — a signi
 - [Over/Under Totals by Team Sport](over_under_totals_by_team_sport.md): shows the totals lines across team sports, from the same document.
 - [Reading a Totals Line and Its Odds](reading_a_totals_line_and_its_odds.md): explains how to read the line before and after it moves, from the same document.
 - [Totals Bet Outcomes: Push and Overtime](totals_bet_outcomes_push_and_overtime.md): covers how a settled totals bet resolves, from the same document.
+- [Totals Bet Worked Examples: Win And Loss](totals_bet_worked_examples_win_and_loss.md): same source document (doc_0554)
 
 ## Source
 

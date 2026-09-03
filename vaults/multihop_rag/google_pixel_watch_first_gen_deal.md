@@ -13,11 +13,20 @@ There are trade-offs. The Pixel Watch 2 offers superior battery life, whereas th
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-and-charging deal theme, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery-and-charging deal theme, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery-and-charging deal theme, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares the battery-and-charging theme, from a different source document.
 - [Anker 3-in-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): shares the battery-and-charging theme, from a different source document.
+- [Blink Video Doorbell And Outdoor 4 Deal](blink_video_doorbell_and_outdoor_4_deal.md): same source document (doc_0069)
+- [Google Pixel Buds Pro Across The 2023 Sale Season](google_pixel_buds_pro.md): same source document (doc_0069)
+- [Govee LED Strip Light M1 Matter Deal](govee_led_strip_light_m1_matter_deal.md): same source document (doc_0069)
+- [Wearable Device](term_wearable_device.md): uses the concept wearable device
+- [Wearable Fitness Tracker](term_wearable_fitness_tracker.md): uses the concept wearable fitness tracker
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

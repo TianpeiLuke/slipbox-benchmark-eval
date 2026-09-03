@@ -13,12 +13,18 @@ The trend points toward a favorable environment for startups prioritizing growth
 
 ## Related Notes
 
+
 - [Consumer Trading Recovery At Coinbase And Robinhood](consumer_trading_recovery_coinbase_and_robinhood.md): another TC+ read on startup market conditions, from a different document.
 - [Enterprise Value Multiples](enterprise_value_multiples.md): explains the multiples framework used here, from a different document.
 - [Equity Multiples And Shareholder Line Items](equity_multiples_and_shareholder_line_items.md): overlaps on valuation multiples, from a different document.
 - [Fintech Startup Rankings 2023](fintech_startup_rankings_2023.md): overlaps on the 2023 startup funding landscape, from a different document.
 - [Layered Comparison Against Growth And Own History](layered_comparison_against_growth_and_own_history.md): overlaps on valuing stocks against growth, from a different document.
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): drawn from the same source document (doc_0199).
+- [Apple's iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): same source document (doc_0199)
+- [Apple's M3 Chip Lineup And The M3 Mac Reviews](apple_m3_mac_reviews_and_chip_lineup.md): same source document (doc_0199)
+- [Atlassian's Critical Security Flaw Warning](atlassian_critical_security_flaw_warning.md): same source document (doc_0199)
+- [EV Sector Setbacks: Arrival And US Automakers](ev_sector_setbacks_arrival_and_us_automakers.md): same source document (doc_0199)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

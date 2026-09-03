@@ -11,6 +11,7 @@ The connecting evidence is Andrade's vulnerability to exactly that finish: she h
 
 ## Related Notes
 
+
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): shares the Andrade fight-preview subject matter in boxing, from a different source document.
 - [Benavidez vs Andrade Stylistic Breakdown and Pick](benavidez_vs_andrade_stylistic_breakdown_and_pick.md): shares the style-versus-style prediction framing for another Andrade, from a different source document.
 - [Demetrius Andrade Career and Avoided Opponents](demetrius_andrade_career_and_avoided_opponents.md): shares the Andrade subject overlap, from a different source document.
@@ -19,6 +20,8 @@ The connecting evidence is Andrade's vulnerability to exactly that finish: she h
 - [UFC 295 Card Changes and Main Events](ufc_295_card_changes_and_main_events.md): the card this bet sits on, from the same article (doc_0577).
 - [UFC 295 Frevola vs Saint-Denis Best Bet](ufc_295_frevola_vs_saint_denis_best_bet.md): another best bet from the same article (doc_0577).
 - [UFC 295 Lopes vs Sabatini Best Bet](ufc_295_lopes_vs_sabatini_best_bet.md): another best bet from the same article (doc_0577).
+- [UFC 295 Best Bet: Tom Aspinall's Moneyline In A Fight Likely To End Fast](ufc_295_pavlovich_vs_aspinall_best_bet.md): same source document (doc_0577)
+- [UFC 295 Best Bet: Over 1.5 Rounds In Prochazka vs Pereira](ufc_295_prochazka_vs_pereira_best_bet.md): same source document (doc_0577)
 
 ## Source
 

@@ -11,6 +11,7 @@ Among the laggards, energy companies were down 0.9 per cent and among the weakes
 
 ## Related Notes
 
+
 - [ASX And Wall Street Selloff October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): covers the same index and sectors a week later, from a different source document.
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): lists the equivalent laggards for the 12 October session, from a different source document.
 - [ASX November 2023 Session And RBA Rate Expectations](asx_november_2023_session_and_rba_rate_expectations.md): tracks the same large-cap names including Woodside and Ampol later in the year, from a different source document.
@@ -19,6 +20,8 @@ Among the laggards, energy companies were down 0.9 per cent and among the weakes
 - [ASX And Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): drawn from the same report and explains what drove the session overall.
 - [Australian Christmas Retail Spending Outlook 2023](australian_christmas_retail_spending_outlook_2023.md): drawn from the same report and covers the consumer backdrop behind discretionary weakness.
 - [Oil Slump And House Speaker Vacancy October 2023](oil_slump_and_house_speaker_vacancy_october_2023.md): drawn from the same report and covers the oil slump that hit the energy names here.
+- [US Jobs And Services Data In Early October 2023](us_jobs_and_services_data_early_october_2023.md): same source document (doc_0029)
+- [US Treasury Yields And Fed Rate Expectations In October 2023](us_treasury_yields_and_fed_rate_expectations_october_2023.md): same source document (doc_0029)
 
 ## Source
 

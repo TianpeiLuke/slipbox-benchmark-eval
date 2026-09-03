@@ -13,6 +13,7 @@ Its roadmap moves outward from its own site: Deft aims to release a browser exte
 
 ## Related Notes
 
+
 - [Brave Software Layoffs](brave_software_layoffs.md): another ad-averse search and browser business, from a different document.
 - [Price Tracking With CamelCamelCamel And Honey](price_tracking_with_camelcamelcamel_and_honey.md): overlaps on tools that keep watching products for you, from a different document.
 - [Consumer Search Startup Switching Barriers](consumer_search_startup_switching_barriers.md): drawn from the same source document (doc_0301), and bears on whether users will pay to switch.
@@ -21,6 +22,8 @@ Its roadmap moves outward from its own site: Deft aims to release a browser exte
 - [Deft's Funding And Traction Metrics](deft_funding_and_traction_metrics.md): drawn from the same source document (doc_0301).
 - [Deft's Multimodal Search Capabilities](deft_multimodal_search_capabilities.md): drawn from the same source document (doc_0301), and is what the paid tiers extend.
 - [E-Commerce Search Startup Viability Challenges](ecommerce_search_startup_viability_challenges.md): drawn from the same source document (doc_0301).
+- [Investor Views On Deft's Differentiation](investor_views_on_deft_differentiation.md): same source document (doc_0301)
+- [Why Traditional E-Commerce Search Has Degraded](traditional_ecommerce_search_degradation.md): same source document (doc_0301)
 
 ## Source
 

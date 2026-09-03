@@ -11,6 +11,7 @@ The distinguishing feature of their account is a rule set at the start rather th
 
 ## Related Notes
 
+
 - [Expert Debate Over The Oscars Slap Given The Separation](expert_debate_over_the_oscars_slap_given_the_separation.md): another discussion of marital commitment under public scrutiny
 - [Kevin Federline Marriage To Victoria Prince](kevin_federline_marriage_to_victoria_prince.md): another celebrity marriage with shared daughters, from separate reporting
 - [Will And Jada As An Unconventional Marriage Model](will_and_jada_as_an_unconventional_marriage_model.md): a contrasting model of what a lasting marriage can look like
@@ -19,6 +20,8 @@ The distinguishing feature of their account is a rule set at the start rather th
 - [Chris Stapleton And Morgane Stapleton Marriage](chris_stapleton_and_morgane_stapleton_marriage.md): another couple from the same roundup
 - [Country Music Couples Marriage Advice Roundup](country_music_couples_marriage_advice_roundup.md): the article this profile belongs to
 - [Dolly Parton And Carl Thomas Dean Marriage](dolly_parton_and_carl_thomas_dean_marriage.md): the longest marriage in the same roundup
+- [Garth Brooks And Trisha Yearwood's Marriage](garth_brooks_and_trisha_yearwood_marriage.md): same source document (doc_0019)
+- [Keith Urban And Nicole Kidman's Marriage](keith_urban_and_nicole_kidman_marriage.md): same source document (doc_0019)
 
 ## Source
 

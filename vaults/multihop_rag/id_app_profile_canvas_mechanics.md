@@ -13,9 +13,16 @@ Everything feels smooth and natural: you scroll, zoom in, zoom out, jump from on
 
 ## Related Notes
 
+
 - [Amo's Founding Team And Funding Round](amo_founding_team_and_funding_round.md): drawn from the same source document (doc_0196).
 - [ID: Amo's Creative Social App](amo_id_social_app_launch.md): drawn from the same source document (doc_0196).
 - [Amo's Scale Ambition And Product Roadmap](amo_scale_ambition_and_product_roadmap.md): drawn from the same source document (doc_0196).
+- [The Empty Canvas Analogy For ID](empty_canvas_design_analogy_for_id.md): same source document (doc_0196)
+- [ID's Emergent Social Gameplay](id_emergent_social_gameplay.md): same source document (doc_0196)
+- [ID's Loneliness Thesis And Anti-Engagement Design](id_loneliness_thesis_and_anti_engagement_design.md): same source document (doc_0196)
+- [Social Networks' Drift From Connection To Algorithmic Feeds](social_networks_drift_from_connection_to_algorithmic_feeds.md): same source document (doc_0196)
+- [Zenly's Acquisition And Shutdown By Snap](zenly_acquisition_and_shutdown_by_snap.md): same source document (doc_0196)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

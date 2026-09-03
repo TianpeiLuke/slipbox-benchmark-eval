@@ -11,6 +11,7 @@ The live entries tracked a fight short on action. Through seven rounds, at 11:04
 
 ## Related Notes
 
+
 - [UFC 294 Makhachev Volkanovski Rematch](ufc_294_makhachev_volkanovski_rematch.md): shares the decision-and-eliminator combat-sports framing, from a different source document.
 - [Canelo Alvarez Undisputed Titles and Net Worth](canelo_alvarez_undisputed_titles_and_net_worth.md): part of the same sub-plan on the Canelo-Charlo card and boxing economics, from a different source document.
 - [Canelo and McGregor Pay-Per-View Purse History](canelo_and_mcgregor_pay_per_view_purse_history.md): part of the same sub-plan, from a different source document.
@@ -19,6 +20,8 @@ The live entries tracked a fight short on action. Through seven rounds, at 11:04
 - [Barrios vs Ugas Interim WBC Welterweight 2023](barrios_vs_ugas_interim_wbc_welterweight_2023.md): another undercard bout from the same live coverage (doc_0245).
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): the main event of the same card (doc_0245).
 - [Canelo Alvarez Next Opponents After Charlo Win](canelo_alvarez_next_opponents_after_charlo_win.md): the aftermath of the same card (doc_0245).
+- [Canelo-Charlo: Early Prelim Results And Main Card Start Times](canelo_charlo_ppv_card_schedule.md): same source document (doc_0245)
+- [Canelo vs Charlo: Sporting News' Round-By-Round Unofficial Scorecard](canelo_charlo_round_by_round_scorecard.md): same source document (doc_0245)
 
 ## Source
 

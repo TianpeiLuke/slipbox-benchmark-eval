@@ -11,6 +11,7 @@ The near-term consequence is for commodities: in any case, for now this has prov
 
 ## Related Notes
 
+
 - [Crude Oil Prices and Gaza Supply Risk October 2023](crude_oil_prices_and_gaza_supply_risk_october_2023.md): the West Asia tensions pushing up Brent crude referenced here.
 - [AI Pricing Models](ai_pricing_models.md): shares a corpus-level content tag with this note.
 - [Amot Investments Portfolio and War Scenario Assessment](amot_investments_portfolio_and_war_scenario_assessment.md): shares a corpus-level content tag with this note.
@@ -19,6 +20,14 @@ The near-term consequence is for commodities: in any case, for now this has prov
 - [Cavefish Ketogenic Diet Behavioral Results](cavefish_ketogenic_diet_behavioral_results.md): shares a corpus-level content tag with this note.
 - [Digital Twins Deployed for Sustainability Goals](digital_twins_deployed_for_sustainability_goals.md): shares a corpus-level content tag with this note.
 - [Discord Shop, Remix and Client Improvements](discord_shop_remix_and_client_improvements.md): shares a corpus-level content tag with this note.
+- [FICCI-IBA Bankers Survey Credit Demand 2023](ficci_iba_bankers_survey_credit_demand_2023.md): same source document (doc_0532)
+- [Global Rate Shock Risk to Emerging Market Debt](global_rate_shock_risk_to_emerging_market_debt.md): same source document (doc_0532)
+- [IMF Assessment of India and Global Growth Divergence](imf_assessment_of_india_and_global_growth_divergence.md): same source document (doc_0532)
+- [India's Demographic Dividend Versus China's Decline](india_demographic_dividend_versus_china_decline.md): same source document (doc_0532)
+- [India FY24 Capex-Led Growth and Fiscal Position](india_fy24_capex_led_growth_and_fiscal_position.md): same source document (doc_0532)
+- [India Long-Term Growth Drivers and FDI Inflows](india_long_term_growth_drivers_and_fdi_inflows.md): same source document (doc_0532)
+- [India Nominal GDP Forecast to 2030](india_nominal_gdp_forecast_to_2030.md): same source document (doc_0532)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
 
 ## Source
 

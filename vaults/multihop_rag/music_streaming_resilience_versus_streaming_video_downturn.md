@@ -13,10 +13,18 @@ Kyncl's grounds for the contrast are the scale and speed of audio subscription g
 
 ## Related Notes
 
+
 - [Apple TV 4K Holiday Deal](apple_tv_4k_holiday_deal.md): shares the streaming and premium-tier subject matter.
 - [Generative AI for Robot Design and Path Planning](generative_ai_for_robot_design_and_path_planning.md): shares corpus vocabulary around technological paths and scale.
 - [MLS Season Pass Apple TV Broadcast Details](mls_season_pass_apple_tv_broadcast_details.md): another note on streaming platforms including Apple.
 - [Sub-Saharan Africa Recorded Music Market Growth](sub_saharan_africa_recorded_music_market_growth.md): a regional view of the streaming-driven music business.
+- [Dispute Over Readiness of AI Content Detection Tooling](dispute_over_readiness_of_ai_content_detection_tooling.md): same source document (doc_0455)
+- [Kyncl Prediction: Music Is the First Industry to Feel AI's Impact](kyncl_prediction_music_first_industry_to_feel_ai_impact.md): same source document (doc_0455)
+- [Kyncl Rebuttal: Labels Persist Like Ad Agencies After AdWords](kyncl_rebuttal_labels_persist_like_ad_agencies_after_adwords.md): same source document (doc_0455)
+- [Music Catalog Acquisition Market Slowdown 2023](music_catalog_acquisition_market_slowdown_2023.md): same source document (doc_0455)
+- [Music Streaming Price Hikes and Emerging Market Growth](music_streaming_price_hikes_and_emerging_market_growth.md): same source document (doc_0455)
+- [Robert Kyncl, Warner Music Group CEO](robert_kyncl_warner_music_group_ceo.md): same source document (doc_0455)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

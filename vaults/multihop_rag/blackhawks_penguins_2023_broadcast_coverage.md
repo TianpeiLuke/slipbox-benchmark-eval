@@ -13,6 +13,7 @@ The commentary assignment marks the occasion: ESPN's "A-team" was on the call fo
 
 ## Related Notes
 
+
 - [Bears Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): a parallel ESPN/Fubo/Canada listing, different sport and source
 - [Bills Bengals SNF Broadcast Details](bills_bengals_snf_broadcast_details.md): another broadcast listing with Fubo and Canadian channels, different source
 - [Carabao Cup Broadcast Rights by Country](carabao_cup_broadcast_rights_by_country.md): another ESPN-and-Canada rights listing, different source document
@@ -21,6 +22,8 @@ The commentary assignment marks the occasion: ESPN's "A-team" was on the call fo
 - [Blackhawks Penguins 2023 First Period Rust Opener](blackhawks_penguins_2023_first_period_rust_opener.md): the game this coverage carried, same source document
 - [Blackhawks Penguins 2023 Opening Night Lineups](blackhawks_penguins_2023_opening_night_lineups.md): the rosters shown on this broadcast, same source document
 - [Blackhawks Penguins 2023 Second Period Bedard First Point](blackhawks_penguins_2023_second_period_bedard_first_point.md): the highlight of the broadcast, same source document
+- [Blackhawks vs. Penguins 2023: Start Time And Arena](blackhawks_penguins_2023_start_time_and_arena.md): same source document (doc_0483)
+- [Chicago's Third-Period Comeback Against Pittsburgh](blackhawks_third_period_comeback_vs_penguins_2023.md): same source document (doc_0483)
 
 ## Source
 

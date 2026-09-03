@@ -11,6 +11,7 @@ Cannabis use was tentatively linked to a risk of stillbirth, with the group that
 
 ## Related Notes
 
+
 - [Keep Labs' Cannabis Repositioning](keep_labs_cannabis_repositioning.md): another item about cannabis.
 - [Adapting the Mediterranean Lifestyle to Other Cultures](adapting_the_mediterranean_lifestyle_to_other_cultures.md): from the same diet-and-health group of sources.
 - [The Mediterranean Lifestyle Defined](mediterranean_lifestyle_definition.md): from the same diet-and-health group of sources.
@@ -19,6 +20,7 @@ Cannabis use was tentatively linked to a risk of stillbirth, with the group that
 - [Cannabis Exposure and Placental Dysfunction](cannabis_exposure_and_placental_dysfunction.md): from the same article, on the mechanism that could link exposure to stillbirth.
 - [The Cannabis Pregnancy Study's Urine Screening Method](cannabis_pregnancy_study_urine_screening_method.md): from the same article, on how stillbirths were recorded.
 - [Cannabis Use in Pregnancy: JAMA Study Findings](cannabis_use_in_pregnancy_jama_study_findings.md): from the same article, on the main findings this result sits beside.
+- [Limits of the Cannabis Pregnancy Causal Claim](limits_of_the_cannabis_pregnancy_causal_claim.md): same source document (doc_0604)
 
 ## Source
 

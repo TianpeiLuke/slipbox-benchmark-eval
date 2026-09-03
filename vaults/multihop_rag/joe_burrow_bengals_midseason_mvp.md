@@ -11,6 +11,7 @@ The grounds are the win streak and the numbers inside it: the Bengals, at 5-3, h
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also discusses Joe Burrow, from a different document.
 - [Betting On Kentucky And Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also discusses Joe Burrow, from a different document.
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also covers Burrow and Cincinnati, from a different document.
@@ -19,6 +20,8 @@ The grounds are the win streak and the numbers inside it: the Bengals, at 5-3, h
 - [AFC Midseason Team MVP Roundup Premise](afc_midseason_team_mvp_roundup_premise.md): the premise framing this entry, from the same document.
 - [CJ Stroud Texans Midseason MVP](cj_stroud_texans_midseason_mvp.md): another entry in the same list, from the same document.
 - [Jabrill Peppers Patriots Midseason MVP](jabrill_peppers_patriots_midseason_mvp.md): another entry in the same list, from the same document.
+- [Jeffery Simmons Titans Midseason MVP](jeffery_simmons_titans_midseason_mvp.md): same source document (doc_0515)
+- [Josh Allen Bills Midseason MVP](josh_allen_bills_midseason_mvp.md): same source document (doc_0515)
 
 ## Source
 

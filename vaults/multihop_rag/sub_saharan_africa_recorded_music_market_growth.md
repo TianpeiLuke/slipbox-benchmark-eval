@@ -13,6 +13,7 @@ The connectivity base underpinning that opportunity is also expanding. According
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): covers the telecom distribution layer in the same African markets, including South Africa.
 - [Believe Distributor Profile and Alejandra Olea](believe_distributor_profile_and_alejandra_olea.md): another note on music-market growth and distribution.
 - [ChatGPT Use in Government and Courts](chatgpt_use_in_government_and_courts.md): shares South Africa as a subject market.
@@ -21,6 +22,9 @@ The connectivity base underpinning that opportunity is also expanding. According
 - [Abdul Karim Abdullah's Path into the Music Business](abdul_karim_abdullah_path_into_the_music_business.md): from the same interview article.
 - [Abdullah on Product Over Profit in the Music Industry](abdullah_on_product_over_profit_in_the_music_industry.md): from the same interview article.
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): from the same interview article.
+- [AfroFuture Festival, Accra, Ghana](afrofuture_festival_accra_ghana.md): same source document (doc_0085)
+- [AfroFuture Foundation Philanthropy Programmes](afrofuture_foundation_philanthropy_programmes.md): same source document (doc_0085)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

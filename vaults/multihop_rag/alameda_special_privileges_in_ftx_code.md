@@ -11,12 +11,19 @@ The structure had several linked parts. Alameda was allowed to withdraw and tran
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): also discusses Gary Wang, from a different source document.
 - [Alameda 6.5 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the credit line examined separately, from a different source document.
 - [Alameda Absorbed FTX Losses Mobilecoin](alameda_absorbed_ftx_losses_mobilecoin.md): shares vocabulary around wang, alameda and bankman-fried, from a different source document.
 - [Alameda Negative Balance Escalation](alameda_negative_balance_escalation.md): the growth of Alameda's negative balance, from a different source document.
 - [Alameda Research](alameda_research.md): shares vocabulary around alameda, bankman-fried and billion, from a different source document.
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): the engineer tasked with fixing this same code (doc_0226).
+- [FTX's Final Days And The Alameda Shortfall, As Wang Described Them](ftx_final_days_and_alameda_shortfall.md): same source document (doc_0226)
+- [Gary Wang's Testimony At The FTX Fraud Trial](gary_wang_testimony_ftx_fraud_trial.md): same source document (doc_0226)
+- [Matt Huang And Paradigm's FTX Investment](matt_huang_paradigm_ftx_investment.md): same source document (doc_0226)
+- [Sam Bankman-Fried's Federal Fraud Trial](sam_bankman_fried_federal_fraud_trial.md): same source document (doc_0226)
+- [Line Of Credit](term_line_of_credit.md): uses the concept line of credit
+- [Fraud](term_fraud.md): uses the concept fraud
 
 ## Source
 

@@ -13,6 +13,7 @@ The push side of the model is China's loss of sheen after years of stunning grow
 
 ## Related Notes
 
+
 - [US Outbound Investment Restrictions on China](us_outbound_investment_restrictions_china.md): a policy driver of the same decoupling dynamic.
 - [USD Funds Following Chinese Founders Abroad](usd_funds_following_chinese_founders_abroad.md): another account of capital leaving China.
 - [Amazon Seller Skepticism of the FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares the Covid-19 content tag used across the corpus.
@@ -21,6 +22,12 @@ The push side of the model is China's loss of sheen after years of stunning grow
 - [Capitol Music Group Leadership Turmoil 2020-2021](capitol_music_group_leadership_turmoil_2020_2021.md): shares the Covid-19 content tag used across the corpus.
 - [Capitol Music Group Pre-2021 Decline Diagnosis](capitol_music_group_pre_2021_decline_diagnosis.md): shares the Covid-19 content tag used across the corpus.
 - [Caring Contacts Origin and May 2020 Launch](caring_contacts_origin_and_may_2020_launch.md): shares the Covid-19 content tag used across the corpus.
+- [Family Offices and the "This Time Is Different" Test for Japan](family_offices_and_the_this_time_is_different_test_for_japan.md): same source document (doc_0182)
+- [Japan Asset Management Reform and NISA Expansion](japan_asset_management_reform_and_nisa_expansion.md): same source document (doc_0182)
+- [Japanese Corporate Governance Reform and Shareholder Alignment](japanese_corporate_governance_reform_and_shareholder_alignment.md): same source document (doc_0182)
+- [Kishida's Pitch to Global Investors 2023](kishida_pitch_to_global_investors_2023.md): same source document (doc_0182)
+- [Renewed Global Investor Interest in Japanese Equities](renewed_global_investor_interest_in_japanese_equities.md): same source document (doc_0182)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

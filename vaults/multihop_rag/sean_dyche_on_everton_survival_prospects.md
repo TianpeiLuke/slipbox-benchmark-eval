@@ -11,11 +11,18 @@ His grounds: "I've never lacked confidence in my own ability, in my staff's abil
 
 ## Related Notes
 
+
 - [Carabao Cup 2023-24 Second Round Results](carabao_cup_2023_24_second_round_results.md): also concerns Crystal Palace, from a different document.
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): also concerns Crystal Palace, from a different document.
 - [Dead Boy Detectives Netflix Series](dead_boy_detectives_netflix_series.md): also mentions Crystal Palace, from a different document.
 - [Dyche On Everton Points Deduction And Appeal](dyche_on_everton_points_deduction_and_appeal.md): also covers Dyche on what the appeal brings, from a different document.
 - [Manchester United Bayern Munich Defeat December 2023](manchester_united_bayern_munich_defeat_december_2023.md): also mentions Crystal Palace, from a different document.
+- [Everton Appeal Against Points Deduction](everton_appeal_against_points_deduction.md): same source document (doc_0092)
+- [Everton Case Implications For Manchester City And Chelsea](everton_case_implications_for_manchester_city_and_chelsea.md): same source document (doc_0092)
+- [Everton Fan Protests And Siege Mentality](everton_fan_protests_and_siege_mentality.md): same source document (doc_0092)
+- [Everton Squad Response To Points Deduction](everton_squad_response_to_points_deduction.md): same source document (doc_0092)
+- [Everton Ten Point Deduction For PSR Breach](everton_ten_point_deduction_for_psr_breach.md): same source document (doc_0092)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
 
 ## Source
 

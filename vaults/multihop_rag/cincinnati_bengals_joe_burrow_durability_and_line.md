@@ -13,6 +13,7 @@ An executive located the underlying problem in protection rather than health: "Y
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also concerns Joe Burrow, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also concerns Joe Burrow, from a different document.
 - [Bills Bengals SNF Pregame Notes](bills_bengals_snf_pregame_notes.md): also concerns Joe Burrow, from a different document.
@@ -21,6 +22,8 @@ An executive located the underlying problem in protection rather than health: "Y
 - [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): drawn from the same document (doc_0316).
 - [Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): drawn from the same document (doc_0316).
 - [Buffalo Bills Defensive Injuries, 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): drawn from the same document (doc_0316).
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
+- [Denver Broncos: Payton And Wilson's Clock-Management Friction](denver_broncos_payton_wilson_clock_management_friction.md): same source document (doc_0316)
 
 ## Source
 

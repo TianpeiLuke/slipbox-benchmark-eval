@@ -13,11 +13,18 @@ Parker described the plan afterwards: "Dangerous fight, tough fight, we trained 
 
 ## Related Notes
 
+
 - [Boxing Marination And Upset Risk](boxing_marination_and_upset_risk.md): covers the same risk of upsets to established champions like Wilder, from a different document.
 - [Day Of Reckoning Predictions And Picks](day_of_reckoning_predictions_and_picks.md): forecast this Wilder-Parker fight before it happened, from a different document.
 - [The Day Of Reckoning Riyadh Boxing Card](day_of_reckoning_riyadh_boxing_card.md): covers the same heavyweight card and matchup, from a different document.
 - [Deontay Wilder's Comeback After The Fury Trilogy](deontay_wilder_comeback_after_fury_trilogy.md): covers the Wilder comeback this defeat interrupts, from a different document.
 - [Eddie Hearn On The Day Of Reckoning Card Assembly](eddie_hearn_on_day_of_reckoning_card_assembly.md): the promoter's account of how this fight was made, from a different document.
+- [Anthony Joshua's Fifth-Round Stoppage Of Otto Wallin](anthony_joshua_fifth_round_stoppage_of_otto_wallin.md): same source document (doc_0561)
+- [The Day Of Reckoning Card And The Heavyweight Unification Path](day_of_reckoning_card_and_heavyweight_unification_path.md): same source document (doc_0561)
+- [Day Of Reckoning Undercard Results: Bivol, Dubois And Kabayel](day_of_reckoning_undercard_results_bivol_dubois_kabayel.md): same source document (doc_0561)
+- [Eddie Hearn On Opetaia Emulating Usyk And Unifying Cruiserweight](eddie_hearn_on_opetaia_emulating_usyk_and_unifying_cruiserweight.md): same source document (doc_0561)
+- [Jai Opetaia's First-Round Knockout Of Ellis Zorro](jai_opetaia_first_round_knockout_of_ellis_zorro.md): same source document (doc_0561)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

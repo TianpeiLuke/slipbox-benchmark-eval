@@ -15,6 +15,7 @@ The win closed two personal chapters. Maynard had a tumultuous start to Septembe
 
 ## Related Notes
 
+
 - [6PPD-Quinone and Coho Salmon Die-Offs](6ppd_quinone_and_coho_salmon_die_offs.md): also mentions West Coast, from a different source document.
 - [AFLW 2023 Finals Qualification and Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): also discusses the Brisbane Lions, from a different source document.
 - [Brisbane Lions 2023 AFLW Top-Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): also discusses the Brisbane Lions, named here as a past dynasty club, from a different source document.
@@ -23,6 +24,8 @@ The win closed two personal chapters. Maynard had a tumultuous start to Septembe
 - [Collingwood Players Who Missed Out On The 2023 Premiership](collingwood_2023_premiership_players_who_missed_out.md): same source document, on team-mates left out of the win Maynard is celebrating.
 - [Collingwood Post-Premiership Celebration and Club History](collingwood_post_premiership_celebration_and_club_history.md): same source document, on the club celebrations that followed.
 - [Craig McRae's "44 Sons" Shirt Collar Message](craig_mcrae_44_sons_shirt_collar_message.md): same source document, on the coach whose culture Maynard credits.
+- [Jeremy Howe Played Out The 2023 Grand Final With Bruised Ribs](jeremy_howe_rib_injury_2023_afl_grand_final.md): same source document (doc_0220)
+- [Oleg Markov's Journey From The AFL Scrapheap To Collingwood Premiership Hero](oleg_markov_collingwood_premiership_journey.md): same source document (doc_0220)
 
 ## Source
 

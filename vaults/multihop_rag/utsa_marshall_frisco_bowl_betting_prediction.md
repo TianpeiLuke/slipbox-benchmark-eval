@@ -13,6 +13,7 @@ The warrant is a talent-mismatch generalization: UTSA is a well-oiled machine ag
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): sits in the same college-football cluster, from a different document.
 - [Alabama 2023 CFP Case and SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): sits in the same college-football cluster, from a different document.
 - [Alabama 2023 Strength of Schedule and Record Metrics](alabama_2023_strength_of_schedule_and_record_metrics.md): sits in the same college-football cluster, from a different document.
@@ -21,6 +22,8 @@ The warrant is a talent-mismatch generalization: UTSA is a well-oiled machine ag
 - [Frisco Bowl Player Prop Bets at BetMGM](frisco_bowl_player_prop_bets_at_betmgm.md): the prop markets on the same game, from the same document.
 - [Marshall Frisco Bowl Transfer Portal Exodus](marshall_frisco_bowl_transfer_portal_exodus.md): the portal losses referenced in the pick, from the same document.
 - [Marshall Thundering Herd 2023 Frisco Bowl Profile](marshall_thundering_herd_2023_frisco_bowl_profile.md): the Pennington turnover risk the pick leans on, from the same document.
+- [UTSA vs Marshall In The 2023 Scooter's Coffee Frisco Bowl](scooters_coffee_frisco_bowl_2023_utsa_vs_marshall.md): same source document (doc_0005)
+- [UTSA's Transfer Portal Absences For The Frisco Bowl](utsa_frisco_bowl_transfer_portal_opt_outs.md): same source document (doc_0005)
 
 ## Source
 

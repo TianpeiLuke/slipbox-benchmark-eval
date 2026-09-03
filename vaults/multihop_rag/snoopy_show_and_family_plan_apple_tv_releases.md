@@ -11,11 +11,17 @@ Also on Apple TV+, Family Plan (December 15) is an action-comedy feature in whic
 
 ## Related Notes
 
+
 - [Benavidez Vs Andrade 2023 Bout Details And Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): also set in Las Vegas, in a different document
 - [Britney Spears And Jason Alexander's 55-Hour Marriage](britney_spears_jason_alexander_55_hour_marriage.md): also concerns Las Vegas, from a different source
 - [Britney Spears' Memoir On Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): also references Las Vegas, from a different source
 - [Caesars Sportsbook Kentucky](caesars_sportsbook_kentucky.md): also references Las Vegas, from a different source
 - [Canelo Alvarez Defeats Jermell Charlo, 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): also set in Las Vegas, from a different source
+- [December 2023: Dr Death Season Two, Reacher And Prisoner's Daughter](dr_death_reacher_and_prisoners_daughter_releases.md): same source document (doc_0154)
+- [Streaming's Walls Are Crumbling: Exclusivity Gives Way To Rights Payments](streaming_exclusivity_erosion_and_maestro.md): same source document (doc_0154)
+- [December 2023 On Binge And Stan: Vigil, Bump And The Roberts-Smith Documentary](vigil_bump_and_ben_roberts_smith_documentary_releases.md): same source document (doc_0154)
+- [December 2023 On Netflix And Binge: Yellowjackets, Rebel Moon And Strife](yellowjackets_rebel_moon_and_strife_december_releases.md): same source document (doc_0154)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

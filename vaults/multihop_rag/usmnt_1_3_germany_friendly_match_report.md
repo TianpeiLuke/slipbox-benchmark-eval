@@ -13,11 +13,17 @@ Germany's goals came from Niclas Fullkrug in the 58th minute and Jamal Musiala t
 
 ## Related Notes
 
+
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also concerns North America as a region.
 - [Aging With HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): also concerns North America.
 - [Canada Ski Holidays Overview](canada_ski_holidays_overview.md): also concerns North America.
 - [Case Against Supersized Electric Vehicles](case_against_supersized_electric_vehicles.md): also concerns North America.
 - [Cranberry Domestication and US Cultivation History](cranberry_domestication_and_us_cultivation_history.md): also concerns North America.
+- [Gio Reyna's Return Under Berhalter, And His 45 Minutes Against Germany](gio_reyna_usmnt_return_and_berhalter_reconciliation.md): same source document (doc_0249)
+- [Tyler Adams' Hamstring Injury Left The USMNT Without A Recognized No. 6](tyler_adams_injury_and_usmnt_defensive_midfield_gap.md): same source document (doc_0249)
+- [Playing Yunus Musah At No. 6 Against Germany Did Not Work](yunus_musah_deputizing_at_no_6_did_not_work.md): same source document (doc_0249)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

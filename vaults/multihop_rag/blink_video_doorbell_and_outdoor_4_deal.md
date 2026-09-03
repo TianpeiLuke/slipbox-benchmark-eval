@@ -13,11 +13,18 @@ As budget picks they lack some premium features, including smart alerts, and you
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-and-charging deal theme, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery-and-charging deal theme, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery-and-charging deal theme, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares the battery-and-charging theme, from a different source document.
 - [Anker 3-in-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): shares the battery-and-charging theme, from a different source document.
+- [Google Pixel Buds Pro Across The 2023 Sale Season](google_pixel_buds_pro.md): same source document (doc_0069)
+- [Google Pixel Watch First-Gen Deal](google_pixel_watch_first_gen_deal.md): same source document (doc_0069)
+- [Govee LED Strip Light M1 Matter Deal](govee_led_strip_light_m1_matter_deal.md): same source document (doc_0069)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

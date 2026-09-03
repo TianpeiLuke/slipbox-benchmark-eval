@@ -15,11 +15,25 @@ The request carried explicit deadlines and consequences. X had until October 18 
 
 ## Related Notes
 
+
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): shares the fine-penalty and regulatory-investigation themes, from a different source document.
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): shares the regulatory-investigation and data-breach themes, from a different source document.
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): overlapping coverage of Elon Musk, from a different source document.
 - [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): overlapping coverage of Elon Musk, from a different source document.
 - [ChatGPT Enterprise And Multimodal Features](chatgpt_enterprise_and_multimodal_features.md): shares the fine-penalty theme, from a different source document.
+- [The Digital Services Act](digital_services_act.md): same source document (doc_0025)
+- [Disinformation On X After The Hamas Attacks On Israel](disinformation_on_x_gaza.md): same source document (doc_0025)
+- [The EU's Urgent Warning Letter To X](eu_warning_letter_to_x.md): same source document (doc_0025)
+- [EU Warnings To Other Platforms](eu_warnings_to_other_platforms.md): same source document (doc_0024)
+- [Musk's Position On Disinformation](musk_position_on_disinformation.md): same source document (doc_0025)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Crisis Response Mechanism](term_crisis_response_mechanism.md): uses the concept crisis response mechanism
+- [Data Breach](term_data_breach.md): uses the concept data breach
+- [Content Moderation](term_content_moderation.md): uses the concept content moderation
+- [Terms of Service](term_terms_of_service.md): uses the concept terms of service
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

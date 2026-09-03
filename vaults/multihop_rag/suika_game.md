@@ -13,12 +13,19 @@ What makes it special, in addition to its cutesy gameplay, is its quality as a s
 
 ## Related Notes
 
+
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): both reference the Nintendo Switch, from a different source document
 - [Activision $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): both mention the App Store, from a separate article
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): another App Store subject from a different document
 - [Apple Gift Card Amazon Credit Deal](apple_gift_card_amazon_credit_deal.md): another App Store-related note from a separate source
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): another Switch-referencing note from a different article
 - [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
+- [Amnesia: The Bunker](amnesia_the_bunker.md): same source document (doc_0213)
+- [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): same source document (doc_0213)
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

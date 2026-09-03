@@ -11,11 +11,19 @@ The Chargers were already twisting in the wind after quarterback Justin Herbert'
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also covers the Chargers and Raiders in the same race, from a different document.
 - [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): also concerns Thursday Night Football, from a different document.
 - [Chargers 6-0 Patriots Shutout, Week 13](chargers_6_0_patriots_shutout_week_13.md): covers the Chargers and Justin Herbert before the injury, from a different document.
 - [Chicago Fire-Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): shares the coaching-change and playoff-race themes, from a different document.
 - [Dean Evason Coaching Career Path](dean_evason_coaching_career_path.md): shares the coaching-change and playoff-race themes, from a different document.
+- [Buffalo's Against-The-Spread Trends In 2023](bills_against_the_spread_trends_2023.md): same source document (doc_0376)
+- [Bills vs. Chargers Week 16 Matchup Preview](bills_chargers_week_16_matchup_preview.md): same source document (doc_0376)
+- [Why Sporting News Picked The Bills In Week 16](bills_chargers_week_16_pick_and_rationale.md): same source document (doc_0376)
+- [Bills vs. Chargers Week 16 Player Props](bills_chargers_week_16_player_props.md): same source document (doc_0376)
+- [Buffalo's AFC Wild Card Position Going Into Week 16](buffalo_bills_afc_wild_card_position_week_16.md): same source document (doc_0376)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

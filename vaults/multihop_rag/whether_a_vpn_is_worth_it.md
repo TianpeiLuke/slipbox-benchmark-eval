@@ -13,6 +13,7 @@ For users in professions like activism or journalism who want to really strength
 
 ## Related Notes
 
+
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): shares the data-privacy theme, from a different source document.
 - [Civil Rights, Privacy And Consumer Protections In The AI Executive Order](ai_civil_rights_and_consumer_protections_in_the_eo.md): shares the data-privacy theme, from a different source document.
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares the data-privacy theme, from a different source document.
@@ -21,6 +22,17 @@ For users in professions like activism or journalism who want to really strength
 - [Apple iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares the personal-security theme, from a different source document.
 - [Apple's Privacy Stance Versus Google Default Payments](apple_privacy_stance_versus_google_default_payments.md): shares the data-privacy theme, from a different source document.
 - [ASPI Analysis Of TikTok Pixel Data Aggregation Risk](aspi_analysis_of_tiktok_pixel_data_aggregation_risk.md): shares the data-privacy theme, from a different source document.
+- [CyberGhost, Best For Cross-Platform Accessibility](cyberghost_cross_platform_vpn.md): same source document (doc_0229)
+- [Engadget's VPN Testing Methodology](engadget_vpn_testing_methodology.md): same source document (doc_0229)
+- [ExpressVPN For Streaming, Travel And Gaming](expressvpn_for_streaming_travel_and_gaming.md): same source document (doc_0229)
+- [Google One VPN](google_one_vpn.md): same source document (doc_0229)
+- [ProtonVPN, Best VPN Overall](protonvpn_best_overall_vpn.md): same source document (doc_0229)
+- [Surfshark, Best For Multiple Devices](surfshark_unlimited_device_vpn.md): same source document (doc_0229)
+- [VPN Services That Missed The Cut](vpn_services_that_missed_the_cut.md): same source document (doc_0229)
+- [VPN Use Cases And Prerequisites](vpn_use_cases_and_prerequisites.md): same source document (doc_0229)
+- [What A VPN Is, And What It Does Not Hide](what_a_vpn_is_and_what_it_does_not_hide.md): same source document (doc_0229)
+- [Windscribe, Best Free VPN](windscribe_best_free_vpn.md): same source document (doc_0229)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

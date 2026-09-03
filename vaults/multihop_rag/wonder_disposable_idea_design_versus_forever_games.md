@@ -11,11 +11,18 @@ The grounds are a worked example of how a single idea is escalated and then disc
 
 ## Related Notes
 
+
 - [Kids Toy And Playset Gifts 2023](kids_toy_and_playset_gifts_2023.md): another article referencing the Super Mario Bros franchise
 - [Nostalgia Driven Major Game Releases 2023](nostalgia_driven_major_game_releases_2023.md): the wider 2023 release landscape this argument sets Wonder against
 - [Prime Day Console And Controller Deals October 2023](prime_day_console_and_controller_deals_october_2023.md): another article touching the same franchise in a retail context
 - [Super Mario Bros Wonder](super_mario_bros_wonder.md): a separate account of the same game
 - [Super Mario Bros Wonder Review Verdict](super_mario_bros_wonder_review_verdict.md): another review reaching a verdict on the same design choices
+- [Super Mario Bros. Wonder As A Send-Off For The Switch](super_mario_bros_wonder_as_a_switch_send_off.md): same source document (doc_0606)
+- [The Badge System In Super Mario Bros. Wonder](super_mario_bros_wonder_badge_system.md): same source document (doc_0606)
+- [Multiplayer In Super Mario Bros. Wonder](super_mario_bros_wonder_multiplayer_mode.md): same source document (doc_0606)
+- [Wonder Seeds And The Transformations They Trigger](super_mario_bros_wonder_wonder_seed_transformations.md): same source document (doc_0606)
+- [Wonder As A Return To 2D Mario Experimentation](wonder_as_a_return_to_2d_mario_experimentation.md): same source document (doc_0606)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

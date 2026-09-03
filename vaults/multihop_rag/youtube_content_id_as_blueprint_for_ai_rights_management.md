@@ -13,11 +13,18 @@ Two conditions bound the model. First, the same thoughtfulness must be applied t
 
 ## Related Notes
 
+
 - [Anthropic Fair Use Defense for AI Training](anthropic_fair_use_defense_for_ai_training.md): a competing legal frame for the same copyright-and-AI problem.
 - [EU AI Act Training Data Disclosure Rule](eu_ai_act_training_data_disclosure_rule.md): a regulatory rather than platform-built approach to AI and copyrighted content.
 - [Fair Use Doctrine Plain Explanation](fair_use_doctrine_plain_explanation.md): the copyright background against which such systems go "above and beyond the law".
 - [Google Filing Versus YouTube Music Reassurances](google_filing_versus_youtube_music_reassurances.md): also concerns Kyncl, YouTube and rights over user-generated content.
 - [Material Reciprocity Principle Music Royalties](material_reciprocity_principle_music_royalties.md): another mechanism for routing money to rights holders.
+- [Dispute Over Readiness of AI Content Detection Tooling](dispute_over_readiness_of_ai_content_detection_tooling.md): same source document (doc_0455)
+- [Kyncl Prediction: Music Is the First Industry to Feel AI's Impact](kyncl_prediction_music_first_industry_to_feel_ai_impact.md): same source document (doc_0455)
+- [Kyncl Rebuttal: Labels Persist Like Ad Agencies After AdWords](kyncl_rebuttal_labels_persist_like_ad_agencies_after_adwords.md): same source document (doc_0455)
+- [Music Catalog Acquisition Market Slowdown 2023](music_catalog_acquisition_market_slowdown_2023.md): same source document (doc_0455)
+- [Music Streaming Price Hikes and Emerging Market Growth](music_streaming_price_hikes_and_emerging_market_growth.md): same source document (doc_0455)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

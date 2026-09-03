@@ -11,6 +11,7 @@ The Verge reported the episode on October 10th, 2023 as part of Ellison's testim
 
 ## Related Notes
 
+
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): overlaps on Alameda, Bankman-Fried and Ellison, from a different source document.
 - [Alameda Research](alameda_research.md): background on the firm that supplied the funds, from a different source document.
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): the same routing of money through Alameda, from a different source document.
@@ -19,6 +20,8 @@ The Verge reported the episode on October 10th, 2023 as part of Ellison's testim
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the borrowing facility behind Alameda's capital, from the same testimony day (doc_0086).
 - [Caroline Ellison's Guilty Plea and First Day Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): the witness who described the funding, same source document (doc_0086).
 - [Ellison's Risk Spreadsheet for Venture Investments](ellison_risk_spreadsheet_for_venture_investments.md): the risk analysis around the venture-investment plan, same source document (doc_0086).
+- [The FTT Token And The "Sam Coins"](ftt_token_and_sam_coins.md): same source document (doc_0086)
+- [FTX Fraud Charges And The SEC's Allegation](ftx_fraud_charges_and_sec_allegation.md): same source document (doc_0086)
 
 ## Source
 

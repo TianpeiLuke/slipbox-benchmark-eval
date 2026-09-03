@@ -11,12 +11,18 @@ A second strand of his objection was practical timing: by the time the controver
 
 ## Related Notes
 
+
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): also concerns the World Series, from a different source document.
 - [Chase Field Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): also concerns the World Series, from a different source document.
 - [Citizens Bank Park Philadelphia Phillies Postseason Atmosphere](citizens_bank_park_philadelphia_phillies_postseason_atmosphere.md): also concerns the World Series, from a different source document.
 - [Corey Seager Home Runs 2023 World Series](corey_seager_home_runs_2023_world_series.md): also concerns the World Series, from a different source document.
 - [Diamondbacks Ninth Inning Insurance Runs](diamondbacks_ninth_inning_insurance_runs.md): also concerns the World Series, from a different source document.
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): the cheating whose title consequence is disputed here, from the same article (doc_0007).
+- [Astros Players Got Immunity While The Staff Took The Punishment](astros_players_immunity_and_mike_fiers.md): same source document (doc_0007)
+- [How The Astros Scheme Was Exposed And What MLB Did About It](astros_sign_stealing_exposure_and_mlb_penalties.md): same source document (doc_0007)
+- [The Backlash: Inflatable Trash Cans, "Take The Trash Out" And LeBron James](backlash_to_the_astros_cheating_scandal.md): same source document (doc_0007)
+- [How Jim Crane And Jeff Luhnow Rebuilt A Losing Astros Front Office](houston_astros_front_office_rebuild_under_crane_and_luhnow.md): same source document (doc_0007)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

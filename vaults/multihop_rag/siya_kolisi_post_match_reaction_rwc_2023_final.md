@@ -13,6 +13,7 @@ He closed by crediting his own side and expressing relief: "Credit to my boys to
 
 ## Related Notes
 
+
 - [All Blacks Ireland Series Loss Backlash as Motivation](all_blacks_ireland_series_loss_backlash_as_motivation.md): the beaten side's road into this final, different source document
 - [Champions League 2023-24 Group G Man City Leipzig](champions_league_2023_24_group_g_man_city_leipzig.md): another post-match team reaction, different sport and source
 - [Dalton Papalii on All Blacks Leadership Vulnerability](dalton_papalii_on_all_blacks_leadership_vulnerability.md): another All Blacks leadership document, different source
@@ -21,6 +22,8 @@ He closed by crediting his own side and expressing relief: "Credit to my boys to
 - [All Blacks Final Moments RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): the finish Kolisi is describing, same source document
 - [All Blacks Generational Change After 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): what followed for the beaten side, same source document
 - [Cards and Officiating Controversy RWC 2023 Final](cards_and_officiating_controversy_rwc_2023_final.md): the card that left New Zealand a man down, same source document
+- [Erasmus And Nienaber Depart After The Springboks' 2023 Title](erasmus_nienaber_springboks_coaching_departure_2023.md): same source document (doc_0022)
+- [Ian Foster's All Blacks Tenure And Scott Robertson's Succession](ian_foster_all_blacks_tenure_and_robertson_succession.md): same source document (doc_0022)
 
 ## Source
 

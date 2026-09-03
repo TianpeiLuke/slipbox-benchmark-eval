@@ -11,12 +11,18 @@ The flood of VAR interventions then began on a relatively innocuous decision: He
 
 ## Related Notes
 
+
 - [Paul Mitchell Recruitment Career Record](paul_mitchell_recruitment_career_record.md): also discusses Heung-Min Son, from a different document.
 - [PGMOL Apologies Spring 2023 Incidents](pgmol_apologies_spring_2023_incidents.md): overlaps on offside goals disallowed involving Tottenham, from a different document.
 - [Son Heung-Min Criticism of Tottenham Softness](son_heung_min_criticism_of_tottenham_softness.md): also discusses Heung-Min Son, from a different document.
 - [Spurs Chelsea Red Cards and VAR Decisions](spurs_chelsea_red_cards_and_var_decisions.md): also discusses Levi Colwill in this match, from a different document.
 - [Tottenham 1-4 Chelsea November 2023 Result](tottenham_1_4_chelsea_november_2023_result.md): also discusses Dejan Kulusevski and how the match finished, from a different document.
 - [Attacking Handball Automatic Foul Rule](attacking_handball_automatic_foul_rule.md): the rule behind another disallowed goal in the same half, from the same document.
+- [Destiny Udogie's Tackle Escapes A Red Card](destiny_udogie_tackle_escapes_red_card.md): same source document (doc_0379)
+- [Nicolas Jackson's Goal Disallowed For Offside](nicolas_jackson_goal_disallowed_for_offside.md): same source document (doc_0379)
+- [Reece James' Elbow On Udogie: No Red Card](reece_james_elbow_on_udogie_no_red_card.md): same source document (doc_0379)
+- [Romero's Red Card And Palmer's Penalty Equaliser](romero_red_card_and_palmer_penalty_equaliser.md): same source document (doc_0379)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

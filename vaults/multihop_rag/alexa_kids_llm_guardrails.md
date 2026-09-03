@@ -13,11 +13,19 @@ The procedure is scoped to the current, offline arrangement and explicitly does 
 
 ## Related Notes
 
+
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [ChatGPT Hallucination Legal Filing Incident](chatgpt_hallucination_legal_filing_incident.md): shares the AI-hallucination and generative-AI themes — the failure mode these guardrails are built against — from a different source document.
 - [Enterprise Generative AI Adoption Caution](enterprise_generative_ai_adoption_caution.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [The EU AI Act's Two-Tier Rules For General Purpose AI](eu_ai_act_two_tier_rules_for_general_purpose_ai.md): shares the generative-AI and guardrails themes, from a different source document.
+- [The Two-Way Interaction Design Of Explore With Alexa](alexa_kids_interaction_design.md): same source document (doc_0188)
+- [Alexa Kids Data Handling And The Echo Pop Kids Launch](alexa_kids_privacy_and_hardware.md): same source document (doc_0188)
+- [Explore With Alexa](explore_with_alexa.md): same source document (doc_0188)
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [AI Hallucination](term_ai_hallucination.md): uses the concept ai hallucination
+- [Generative AI Guardrails](term_generative_ai_guardrails.md): uses the concept generative ai guardrails
 
 ## Source
 

@@ -11,11 +11,19 @@ The Bengals got good news on the injury front ahead of Monday's game: wide recei
 
 ## Related Notes
 
+
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also discusses Tee Higgins, from a different document.
 - [Bills Bengals SNF Fourth Quarter](bills_bengals_snf_fourth_quarter.md): also discusses Zac Taylor, from a different document.
 - [Bills Bengals SNF Second Quarter](bills_bengals_snf_second_quarter.md): also discusses Cam Taylor-Britt, from a different document.
 - [Dameon Pierce Week 5 2023 Sit Recommendation](dameon_pierce_week5_2023_sit_recommendation.md): also discusses Travis Etienne, from a different document.
 - [Fantasy RB PPR Rankings Week 14 Full List](fantasy_rb_ppr_rankings_week_14_full_list.md): also discusses Travis Etienne, from a different document.
+- [NFL Week 13 Injuries 49ers At Eagles](nfl_week_13_injuries_49ers_at_eagles.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Broncos At Texans](nfl_week_13_injuries_broncos_at_texans.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Browns At Rams](nfl_week_13_injuries_browns_at_rams.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Cardinals At Steelers](nfl_week_13_injuries_cardinals_at_steelers.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Chargers At Patriots](nfl_week_13_injuries_chargers_at_patriots.md): same source document (doc_0289)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

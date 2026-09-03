@@ -11,6 +11,7 @@ The grounds are financial. Subscription revenues to the revamped Twitter Blue pa
 
 ## Related Notes
 
+
 - [ChatGPT Misuse Fears versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): shares the bot detection and disinformation theme, from a different source document.
 - [Scotus Ruling Consequences](scotus_ruling_consequences.md): shares the bot detection and disinformation theme, from a different source document.
 - [Apple Blocks Beeper Mini iMessage Access](apple_blocks_beeper_mini_imessage_access.md): shares the bot detection theme, from a different source document.
@@ -19,6 +20,13 @@ The grounds are financial. Subscription revenues to the revamped Twitter Blue pa
 - [ChatGPT Legal and Privacy Controversies](chatgpt_legal_and_privacy_controversies.md): shares the disinformation theme, from a different source document.
 - [ChatGPT Political Disinformation Guardrail Failure](chatgpt_political_disinformation_guardrail_failure.md): shares the disinformation theme, from a different source document.
 - [Contested Evidence on Social Media Harm](contested_evidence_on_social_media_harm.md): shares the disinformation theme, from a different source document.
+- [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): same source document (doc_0396)
+- [Musk's Removal Of Trust Signals And The Turn To Community Notes](musk_removal_of_trust_signals_and_community_notes.md): same source document (doc_0396)
+- [X's Exit From The EU Disinformation Code Under Musk](x_exit_from_eu_disinformation_code_under_musk.md): same source document (doc_0396)
+- [X Found To Have The Worst Disinformation Ratio In EU Analysis](x_platform_worst_disinformation_ratio_eu_finding.md): same source document (doc_0396)
+- [X's Rebuttal To The EU Disinformation Finding](x_rebuttal_to_eu_disinformation_finding.md): same source document (doc_0396)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Bot Detection](term_bot_detection.md): uses the concept bot detection
 
 ## Source
 

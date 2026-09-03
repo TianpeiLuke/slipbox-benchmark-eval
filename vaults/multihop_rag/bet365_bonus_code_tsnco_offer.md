@@ -13,6 +13,7 @@ The code varies by state: Bet365 bonus code VATSN applies in Virginia and NJTSN 
 
 ## Related Notes
 
+
 - [Bet365 Sportsbook Kentucky](bet365_sportsbook_kentucky.md): overlaps on Bet365 bets and offers in another state, from a different document.
 - [Bet365 Sportsbook US MLB Markets](bet365_sportsbook_us_mlb_markets.md): overlaps on Bet365 betting on specific games, from a different document.
 - [Bet365 Welcome Bonus Offers December 2023](bet365_welcome_bonus_offers_december_2023.md): also covers the First Bet Safety Net offer, from a different document.
@@ -21,6 +22,8 @@ The code varies by state: Bet365 bonus code VATSN applies in Virginia and NJTSN 
 - [BetMGM Bonus Code TSN50 First Bet Offer](betmgm_bonus_code_tsn50_first_bet_offer.md): a parallel offer in the same roundup, from the same document.
 - [BetRivers Promo Code SPORTSRIV Second Chance Bet](betrivers_promo_code_sportsriv_second_chance_bet.md): a parallel offer in the same roundup, from the same document.
 - [Caesars Sportsbook Promo Code NEWS1000](caesars_sportsbook_promo_code_news1000.md): a parallel offer in the same roundup, from the same document.
+- [DraftKings Welcome Offer Claim Steps](draftkings_welcome_offer_claim_steps.md): same source document (doc_0432)
+- [FanDuel Bet $5, Get $150 Moneyline Promo](fanduel_bet_five_get_150_moneyline_promo.md): same source document (doc_0432)
 
 ## Source
 

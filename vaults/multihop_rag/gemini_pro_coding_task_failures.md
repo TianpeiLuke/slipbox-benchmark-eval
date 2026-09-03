@@ -13,10 +13,18 @@ Two head-to-head comparisons went the same way. Edison Ade created a Tic Tac Toe
 
 ## Related Notes
 
+
 - [ChatGPT Competitive Response Across AI Industry](chatgpt_competitive_response_across_ai_industry.md): overlapping coverage of Gemini, Bard and ChatGPT, from a different source document.
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): overlapping coverage of Gemini, Bard and ChatGPT, from a different source document.
 - [ChatGPT FAQ Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): overlapping coverage of chatbot code generation in Python, from a different source document.
 - [ChatGPT Mid-2023 Usage Decline](chatgpt_mid_2023_usage_decline.md): overlapping coverage of ChatGPT and coding use, from a different source document.
+- [Gemini Pro's Factual Errors And Confabulation](gemini_pro_factual_errors_and_confabulation.md): same source document (doc_0126)
+- [Anecdotal Evidence Undercuts Google's Gemini Pro Claims](gemini_pro_falls_short_of_googles_benchmark_claims.md): same source document (doc_0126)
+- [Robust Intelligence's Jailbreak Of Gemini Pro](gemini_pro_jailbreak_by_robust_intelligence.md): same source document (doc_0126)
+- [Gemini Pro's News Summarization Refusals And Stale Answers](gemini_pro_news_summarization_refusals.md): same source document (doc_0126)
+- [Gemini Pro's Translation And Multilingual Weakness](gemini_pro_translation_and_multilingual_weakness.md): same source document (doc_0126)
+- [Google's Gemini Model Family And Its Capability Claims](google_gemini_model_family_and_capability_claims.md): same source document (doc_0126)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

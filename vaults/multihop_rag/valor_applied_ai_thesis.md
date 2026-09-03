@@ -13,11 +13,24 @@ On whether incumbent tooling curtails the space startups can compete in, Calhoun
 
 ## Related Notes
 
+
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [Barr Moses Recommends Dare To Lead](barr_moses_recommends_dare_to_lead.md): shares the generative-AI and LLM-observability themes, from a different source document.
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [Enterprise Generative AI Adoption Caution](enterprise_generative_ai_adoption_caution.md): shares the generative-AI and large-language-model themes, from a different source document.
+- [AI Market Spending Forecasts Reported In October 2023](ai_market_spending_forecasts.md): same source document (doc_0161)
+- [Pricing Models For AI Products](ai_pricing_models.md): same source document (doc_0161)
+- [AI Startup Defensibility](ai_startup_defensibility.md): same source document (doc_0161)
+- [The Four Layers Of The GenAI Tech Stack](llm_stack_layers.md): same source document (doc_0161)
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Model Fine-Tuning](term_model_fine_tuning.md): uses the concept model fine tuning
+- [LLM Observability](term_llm_observability.md): uses the concept llm observability
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
+- [Defensibility](term_defensibility.md): uses the concept defensibility
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Cloud Computing](term_cloud_computing.md): uses the concept cloud computing
 
 ## Source
 

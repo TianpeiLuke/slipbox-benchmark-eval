@@ -13,11 +13,17 @@ New York clawed back in the second quarter. After a punt pinned Kansas City insi
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): also discusses Garrett Wilson, from a different document.
 - [Backlash to Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): also about Travis Kelce, separately sourced.
 - [Backlash to Traylor Media Coverage](backlash_to_traylor_media_coverage.md): another Travis Kelce item from a different document.
 - [Bears Game Ending Hail Mary vs Browns](bears_game_ending_hail_mary_vs_browns.md): also features a Hail Mary attempt, in another game.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also discusses Zach Wilson.
+- [Chiefs Beat Jets 23-20 On Week 4 Sunday Night Football](chiefs_beat_jets_week_4_sunday_night_recap.md): same source document (doc_0200)
+- [Chiefs-Jets Pregame: Taylor Swift In Donna Kelce's Box, Rodgers Back On The Sideline](chiefs_jets_pregame_notes_taylor_swift_and_rodgers.md): same source document (doc_0200)
+- [Chiefs-Jets Second Half: Wilson's Fumble Decides A 23-20 Final](chiefs_jets_second_half_live_blog.md): same source document (doc_0200)
+- [NBC's 2023 Sunday Night Football Broadcast And Streaming Package](sunday_night_football_2023_nbc_broadcast_team.md): same source document (doc_0200)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

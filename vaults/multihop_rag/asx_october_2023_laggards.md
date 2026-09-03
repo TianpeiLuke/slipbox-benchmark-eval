@@ -11,6 +11,7 @@ Bendigo and Adelaide Bank (down 1.3 per cent) and Westpac (down 0.2 per cent) we
 
 ## Related Notes
 
+
 - [Asx and Wall Street Selloff October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): shares vocabulary around cent, miner and biggest, from a different source document.
 - [Asx December 2023 Session Movers](asx_december_2023_session_movers.md): shares vocabulary around cent, miner and large-cap, from a different source document.
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): another laggards list featuring Northern Star, from a different source document.
@@ -19,6 +20,8 @@ Bendigo and Adelaide Bank (down 1.3 per cent) and Westpac (down 0.2 per cent) we
 - [ASX Rally Drivers: Bond Market and China Stimulus](asx_rally_drivers_bond_market_and_china_stimulus.md): what lifted the wider index in the same session (doc_0298).
 - [Fed Dovish Comments and Yield Retreat October 2023](fed_dovish_comments_and_yield_retreat_october_2023.md): the overnight Wall Street lead into this session (doc_0298).
 - [Melbourne Cbd Confidence and Wage Underpayment](melbourne_cbd_confidence_and_wage_underpayment.md): another note drawn from the same source document (doc_0298).
+- [The Middle East Conflict As A Market Risk In October 2023](middle_east_conflict_as_market_risk_october_2023.md): same source document (doc_0298)
+- [US Equity Sector Moves On 10 October 2023](us_equity_sector_moves_october_2023.md): same source document (doc_0298)
 
 ## Source
 

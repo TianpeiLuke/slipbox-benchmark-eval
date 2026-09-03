@@ -13,10 +13,17 @@ The boundary case in the group is Iwuchukwu, who had had his own health scare th
 
 ## Related Notes
 
+
 - [College Football Week 6 2023 Remaining Betting Lines](college_football_week6_2023_remaining_betting_lines.md): also mentions Washington State, from a different document.
 - [Colorado Arizona State 2023 Pregame Notes](colorado_arizona_state_2023_pregame_notes.md): also mentions Washington State, from a different document.
 - [Oregon State Coaching Search and Pac-12 Breakup](oregon_state_coaching_search_and_pac_12_breakup.md): also mentions Washington State, from a different document.
 - [Bronny James USC Collegiate Debut](bronny_james_usc_collegiate_debut.md): the player this roster is built around accommodating, from the same document.
+- [Long Beach State's Profile And The USC Betting Odds](long_beach_state_49ers_profile_and_usc_betting_odds.md): same source document (doc_0103)
+- [USC's Pac-12 And National Title Futures Position](usc_basketball_futures_odds_pac_12_and_national_title.md): same source document (doc_0103)
+- [USC's Player Of The Year Candidates: Isaiah Collier And Boogie Ellis](usc_player_of_the_year_candidates_collier_and_ellis.md): same source document (doc_0103)
+- [USC's Remaining Schedule Gives It A Path Despite The Gonzaga Loss](usc_remaining_2023_24_schedule_outlook.md): same source document (doc_0103)
+- [USC Had Not Forged An Identity Eight Games Into 2023-24](usc_trojans_2023_24_early_season_struggles.md): same source document (doc_0103)
+- [Reserve Mobilisation](term_reserve_mobilisation.md): uses the concept reserve mobilisation
 
 ## Source
 

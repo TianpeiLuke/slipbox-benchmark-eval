@@ -11,11 +11,18 @@ What WIRED loves about the Breville Impress (6/10, WIRED Review) is that beginne
 
 ## Related Notes
 
+
 - [Walmart Cyber Monday 2023 Kitchen Appliance Deals](walmart_cyber_monday_2023_kitchen_appliance_deals.md): overlapping coverage of milk, coffee and espresso gear, from a different source document.
 - [WIRED Black Friday 2023 iPhone And iPad Case Deals](wired_black_friday_2023_iphone_and_ipad_case_deals.md): also cites WIRED's Gear Team, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
 - [Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): drawn from the same source document (doc_0520).
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): drawn from the same source document (doc_0520).
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Anker 2-In-1 MagSafe StandBy Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): same source document (doc_0520)
+- [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): same source document (doc_0520)
+- [Anker 3-In-1 MagSafe Charging Dock Deal Listings](anker_3_in_1_magsafe_charging_dock_deal_listings.md): same source document (doc_0520)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

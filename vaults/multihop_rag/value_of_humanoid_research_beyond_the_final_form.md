@@ -11,6 +11,7 @@ Marc Raibert, the co-founder of Boston Dynamics — best known for its dog-like 
 
 ## Related Notes
 
+
 - [Amazon-MIT-Ipsos Robot Perception Study](amazon_mit_ipsos_robot_perception_study.md): overlapping coverage of robots and how people perceive them, from a different source document.
 - [Boston Dynamics AI Institute Research Pillars](boston_dynamics_ai_institute_research_pillars.md): also concerns Boston Dynamics, from a different source document.
 - [Boston Dynamics' View On Generative AI In Robotics](boston_dynamics_view_on_generative_ai_in_robotics.md): also concerns Boston Dynamics, from a different source document.
@@ -19,6 +20,8 @@ Marc Raibert, the co-founder of Boston Dynamics — best known for its dog-like 
 - [Agility Robotics' Digit Warehouse Robot](agility_robotics_digit_warehouse_robot.md): drawn from the same source document (doc_0421).
 - [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): drawn from the same source document (doc_0421).
 - [Amazon's Testing Of Digit In Warehouses](amazon_testing_of_digit_in_warehouses.md): drawn from the same source document (doc_0421).
+- [Boston Dynamics' Humanoid Research Yielding A Non-Humanoid Robot](boston_dynamics_humanoid_research_yielding_non_humanoid_robot.md): same source document (doc_0421)
+- [Dexterity And World Understanding As The Hardest Robotics Problem](dexterity_and_world_understanding_as_hardest_robotics_problem.md): same source document (doc_0421)
 
 ## Source
 

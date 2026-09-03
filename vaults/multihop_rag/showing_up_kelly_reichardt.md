@@ -13,6 +13,7 @@ Critic CP identifies Reichardt's genius as getting the audience giggling at the 
 
 ## Related Notes
 
+
 - [6PPD-Quinone and Coho Salmon Die-Offs](6ppd_quinone_and_coho_salmon_die_offs.md): both concern the Pacific Northwest, from a different source document
 - [Harper's Island Slasher Series](harpers_island_slasher_series.md): another Pacific Northwest-set subject from a separate article
 - [No Place Is Safe: Climate Impacts on Kalmus' Life](no_place_is_safe_climate_impacts_on_kalmus_life.md): shares Pacific Northwest coverage from a different document
@@ -21,6 +22,8 @@ Critic CP identifies Reichardt's genius as getting the audience giggling at the 
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
 - [Barbenheimer Summer 2023 Phenomenon](barbenheimer_summer_2023_phenomenon.md): the year-in-review framing published with this list
 - [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): another entry from the same ranked list
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): same source document (doc_0094)
+- [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): same source document (doc_0094)
 
 ## Source
 

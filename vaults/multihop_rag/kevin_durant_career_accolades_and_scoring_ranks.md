@@ -11,11 +11,19 @@ The discriminating feature is his physical and technical profile at entry: Duran
 
 ## Related Notes
 
+
 - [Best Sportsbooks For NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): shares the MVP and NBA themes, from a different document.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares the MVP and NBA themes, from a different document.
 - [FanDuel Sportsbook Betting Markets](fanduel_sportsbook_betting_markets.md): shares the MVP and NBA themes, from a different document.
 - [How To Open A Sportsbook Account And Place A Bet](how_to_open_a_sportsbook_account_and_place_a_bet.md): shares the MVP and NBA themes, from a different document.
 - [Inter Miami Ticket Prices Vs Global Football And US Sports](inter_miami_ticket_prices_vs_global_football_and_us_sports.md): shares the NBA and valuation themes, from a different document.
+- [Kevin Durant 2016 Move To Warriors Legacy](kevin_durant_2016_move_to_warriors_legacy.md): same source document (doc_0441)
+- [Kevin Durant Most Disrespected Superstar Claim](kevin_durant_most_disrespected_superstar_claim.md): same source document (doc_0441)
+- [Kevin Durant Sensitivity And Burner Account Criticism](kevin_durant_sensitivity_and_burner_account_criticism.md): same source document (doc_0441)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

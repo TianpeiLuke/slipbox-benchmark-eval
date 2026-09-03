@@ -11,6 +11,7 @@ The framing appears in the second article of a Business World series following t
 
 ## Related Notes
 
+
 - [Central Bankers Call For Fiscal Restraint And Structural Growth](central_bankers_call_for_fiscal_restraint_and_structural_growth.md): concerns policies for sustainable growth, from a different source document.
 - [Digital Twin Vendor And Adopter Self Assessment Questions](digital_twin_vendor_and_adopter_self_assessment_questions.md): shares the objectives-and-sustainability framing, from a different source document.
 - [Ed Newton-Rex Resignation Stability AI](ed_newton_rex_resignation_stability_ai.md): shares the stability term in the corpus, from a different source document.
@@ -19,6 +20,8 @@ The framing appears in the second article of a Business World series following t
 - [Philippine Debt And Fiscal Consolidation](philippine_debt_and_fiscal_consolidation.md): drawn from the same article and pursues the stability objective through fiscal policy.
 - [Philippine Development Plan 2023 2028 Targets](philippine_development_plan_2023_2028_targets.md): drawn from the same article and sets the targets these objectives serve.
 - [Philippine Human Capital Institutions And Infrastructure](philippine_human_capital_institutions_and_infrastructure.md): drawn from the same article and maps the plan's goals onto efficiency and equity.
+- [Philippine Inflation In 2023 And The Government Response](philippine_inflation_2023_and_government_response.md): same source document (doc_0410)
+- [Philippine Investment Liberalisation And RCEP](philippine_investment_liberalisation_and_rcep.md): same source document (doc_0410)
 
 ## Source
 

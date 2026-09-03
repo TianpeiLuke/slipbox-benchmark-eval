@@ -13,6 +13,7 @@ Its boundary condition is displacement by download. In 2001 Apple introduced iTu
 
 ## Related Notes
 
+
 - [Swifties Struggle To Open 1989 Taylors Version Cd](swifties_struggle_to_open_1989_taylors_version_cd.md): same report, the viral episode this history explains
 - [Cd Unfamiliarity As Generational Marker](cd_unfamiliarity_as_generational_marker.md): same report, on the generational gap the format's decline created
 - [Swifties Second Video Operating A Cd Player](swifties_second_video_operating_a_cd_player.md): same report, on the playback hardware
@@ -21,6 +22,7 @@ Its boundary condition is displacement by download. In 2001 Apple introduced iTu
 - [Travis Kelce Invites Taylor Swift To Arrowhead](travis_kelce_invites_taylor_swift_to_arrowhead.md): part of the same Taylor Swift grouping, different source
 - [Travis Kelce Moustache Remark And New York Visit](travis_kelce_moustache_remark_and_new_york_visit.md): part of the same Taylor Swift grouping, different source
 - [Travis Kelce Taylor Swift First Contact And Eras Tour Bracelet](travis_kelce_taylor_swift_first_contact_and_eras_tour_bracelet.md): part of the same Taylor Swift grouping, different source
+- [Taylor Swift's Comment On The Viral CD TikTok](taylor_swift_comment_on_viral_cd_tiktok.md): same source document (doc_0128)
 
 ## Source
 

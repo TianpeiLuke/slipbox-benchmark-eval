@@ -13,12 +13,14 @@ The difference lies in her abilities. In the 'Wake Up' mission she is seen sneak
 
 ## Related Notes
 
+
 - [Spider-Man Macy's Thanksgiving Parade Balloon](spider_man_macys_thanksgiving_parade_balloon.md): also concerns the Spider-Man character, from a different document.
 - [CM Punk WWE Return Speculation, Survivor Series 2023](cm_punk_wwe_return_speculation_survivor_series_2023.md): another Essentially Sports pop-culture feature in the same set, from a different document.
 - [Cody Rhodes As A CM Punk Opponent](cody_rhodes_as_cm_punk_opponent_case.md): another Essentially Sports pop-culture feature in the same set, from a different document.
 - [Seth Rollins As A CM Punk Opponent](seth_rollins_as_cm_punk_opponent_case.md): another Essentially Sports pop-culture feature in the same set, from a different document.
 - [Shinsuke Nakamura As A CM Punk Opponent](shinsuke_nakamura_as_cm_punk_opponent_case.md): another Essentially Sports pop-culture feature in the same set, from a different document.
 - [Mary Jane's Missions In Spider-Man 2 As An Improvement On Their Reception](mary_jane_missions_spider_man_2_reception_improvement.md): the argument these mechanical changes support, from the same feature.
+- [Mary Jane's Mission Pacing And The Verdict On Spider-Man 2](mary_jane_mission_pacing_and_verdict_spider_man_2.md): same source document (doc_0082)
 
 ## Source
 

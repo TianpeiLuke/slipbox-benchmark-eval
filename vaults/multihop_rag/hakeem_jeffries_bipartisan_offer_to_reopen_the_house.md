@@ -11,11 +11,18 @@ He framed the Republican side as incapable of resolving it alone: "The Republica
 
 ## Related Notes
 
+
 - [Apple-Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): also concerns President Joe Biden, from a different source document.
 - [Biden-Xi San Francisco Summit November 2023](biden_xi_san_francisco_summit_november_2023.md): also concerns President Joe Biden, from a different source document.
 - [Cairo Diplomatic Surge And The 2023 Summit For Peace](cairo_diplomatic_surge_and_summit_for_peace_2023.md): also concerns President Joe Biden, from a different source document.
 - [Democratic Social Media Campaign Dominance](democratic_social_media_campaign_dominance.md): overlapping coverage of Democrats, Republicans and votes, from a different source document.
 - [Kalmus' Critique Of Biden Climate Policy](kalmus_critique_of_biden_climate_policy.md): also concerns President Joe Biden, from a different source document.
+- [Gingrich And Boehner Endorse The Interim Speaker Plan](gingrich_and_boehner_endorse_interim_speaker_plan.md): same source document (doc_0377)
+- [The House GOP's Narrow-Majority Vote Math](house_gop_narrow_majority_vote_math.md): same source document (doc_0223)
+- [The House Paralysis Following Kevin McCarthy's Ouster](house_speakership_vacancy_paralysis_after_mccarthy_ouster.md): same source document (doc_0223)
+- [Jim Jordan's Political Profile And Record](jim_jordan_political_profile_and_record.md): same source document (doc_0223)
+- [Jim Jordan's Second-Ballot Defeat](jim_jordan_second_ballot_defeat.md): same source document (doc_0377)
+- [Film Awards Season](term_film_awards_season.md): uses the concept film awards season
 
 ## Source
 

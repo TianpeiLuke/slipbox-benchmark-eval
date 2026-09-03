@@ -11,6 +11,7 @@ The article qualifies the claim: estimates of when the Amazon could "tip" and tr
 
 ## Related Notes
 
+
 - [Amazon Prime Holiday 2023 Delivery Cutoffs](amazon_prime_holiday_2023_delivery_cutoffs.md): linked by shared vocabulary about thresholds rather than subject matter.
 - [Feedback Dependence on Global Mean Temperature](feedback_dependence_on_global_mean_temperature.md): another discussion of how climate outcomes depend on the degree of warming.
 - [The Model Versus Observation Climate Sensitivity Discrepancy](model_versus_observation_climate_sensitivity_discrepancy.md): another account of contested warming estimates.
@@ -19,6 +20,8 @@ The article qualifies the claim: estimates of when the Amazon could "tip" and tr
 - [Climate Grief Conversation at the Homestead](climate_grief_conversation_at_the_homestead.md): from the same article, where the group dedicated its work to the Amazon.
 - [Daily Life at the Possibility Alliance](daily_life_at_the_possibility_alliance.md): from the same article, on the carbon-sequestering work that dedication referred to.
 - [Kalmus's Civil Disobedience and Arrests](kalmus_civil_disobedience_and_arrests.md): from the same article, on the activism his darkening outlook drives.
+- [Kalmus's Critique of Biden Climate Policy](kalmus_critique_of_biden_climate_policy.md): same source document (doc_0233)
+- [Kalmus's Personal Emissions Reduction as Detoxification](kalmus_personal_emissions_reduction_as_detoxification.md): same source document (doc_0233)
 
 ## Source
 

@@ -11,6 +11,7 @@ Trying to untangle a half-billion-dollar estate is a formidable task under the b
 
 ## Related Notes
 
+
 - [AI21 Labs' Tel Aviv Office Lease](ai21_labs_tel_aviv_office_lease.md): shares the valuation theme from a different source document.
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): shares the valuation theme from a different source document.
 - [AMO's Founding Team And Funding Round](amo_founding_team_and_funding_round.md): shares the valuation theme from a different source document.
@@ -19,6 +20,16 @@ Trying to untangle a half-billion-dollar estate is a formidable task under the b
 - [Boeing Q3 2023 Earnings Preview And The 737 MAX Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): shares the valuation theme from a different source document.
 - [Cecile de Jongh's Role And Deposition Denial](cecile_de_jongh_role_and_deposition_denial.md): drawn from the same source document (doc_0477).
 - [Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): shares the valuation theme from a different source document.
+- [Denise George's Firing As US Virgin Islands Attorney General](denise_george_firing_as_usvi_attorney_general.md): same source document (doc_0477)
+- [Denise George: Profile And Epstein Case Role](denise_george_profile_and_epstein_case_role.md): same source document (doc_0477)
+- [Epstein-Related Settlements With The US Virgin Islands](epstein_related_settlements_with_us_virgin_islands.md): same source document (doc_0477)
+- [Epstein's Sex Offender Waiver Request And Its Denial](epstein_sex_offender_waiver_request_and_denial.md): same source document (doc_0477)
+- [Epstein's Web Of Influence In The US Virgin Islands](epstein_web_of_influence_in_us_virgin_islands.md): same source document (doc_0477)
+- [George's Claim Of Epstein's Political Influence](george_claim_of_epstein_political_influence.md): same source document (doc_0477)
+- [Governor Bryan's Account Of George's Dismissal](governor_bryan_account_of_george_dismissal.md): same source document (doc_0477)
+- [Governor Bryan's Pressure To Settle The Epstein Cases](governor_bryan_pressure_to_settle_epstein_cases.md): same source document (doc_0477)
+- [JPMorgan And Jes Staley: The Epstein Disclosures](jpmorgan_and_jes_staley_epstein_disclosures.md): same source document (doc_0477)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

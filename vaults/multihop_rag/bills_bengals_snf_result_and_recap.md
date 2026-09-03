@@ -15,11 +15,20 @@ In the highly anticipated rematch, Burrow again came out better than Allen in bo
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): another item touching the Super Bowl, from a different document.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also discusses Super Bowl context, separately sourced.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also covers Joe Burrow and the wild-card race, in a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also mentions Joe Burrow and the Super Bowl, from a separate source.
 - [Bills Against the Spread Trends 2023](bills_against_the_spread_trends_2023.md): overlapping Buffalo Bills content, in a different document.
+- [Bills At Bengals Broadcast Details](bills_bengals_snf_broadcast_details.md): same source document (doc_0294)
+- [The First Quarter Of Bengals 24, Bills 18](bills_bengals_snf_first_quarter.md): same source document (doc_0294)
+- [The Fourth Quarter Of Bengals 24, Bills 18](bills_bengals_snf_fourth_quarter.md): same source document (doc_0294)
+- [Pregame Notes From Bills At Bengals](bills_bengals_snf_pregame_notes.md): same source document (doc_0294)
+- [The Second Quarter Of Bengals 24, Bills 18](bills_bengals_snf_second_quarter.md): same source document (doc_0294)
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

@@ -11,9 +11,18 @@ The boundary conditions are set by where in the statements one can anchor. Valua
 
 ## Related Notes
 
+
 - [Cloud Stock Multiples And Startup Valuations](cloud_stock_multiples_and_startup_valuations.md): values companies through multiples of the same family, from a different source document.
 - [Reliance O2C And Exploration Business Economics](reliance_o2c_and_exploration_business_economics.md): uses EBITDA and business value in a valuation setting, from a different source document.
 - [Bharti Airtel EV EBITDA Valuation Case](bharti_airtel_ev_ebitda_valuation_case.md): drawn from the same article and is the concrete case where an EV multiple beat the equity multiple.
+- [Equity Multiples Must Use Shareholder Line Items](equity_multiples_and_shareholder_line_items.md): same source document (doc_0418)
+- [Equity Valuations Must Be Judged Against Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): same source document (doc_0418)
+- [Ketchup Economics: The Peer-Multiple Fallacy](ketchup_economics_peer_multiple_fallacy.md): same source document (doc_0418)
+- [Layering Comparisons Against Growth And A Stock's Own History](layered_comparison_against_growth_and_own_history.md): same source document (doc_0418)
+- [Leverage Amplifies The Effect Of An EV Change On Equity Value](leverage_amplifies_ev_change_on_equity_value.md): same source document (doc_0418)
+- [Non-P&L Multiples Are Only Usable With A Credible Story](non_pl_multiples_require_a_credible_story.md): same source document (doc_0418)
+- [Price To EBITDA Hides Debt: A Worked Example](price_to_ebitda_ignores_debt_worked_example.md): same source document (doc_0418)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

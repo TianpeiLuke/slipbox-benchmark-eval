@@ -18,6 +18,10 @@ Checks
   FM-003  building_block outside the closed enum
   FM-004  no source_docs -- the note cannot be scored against passage-level gold
           (navigation notes are exempt: they index, they do not assert)
+  FM-010  no tags, or fewer than 2, or first tag not a P.A.R.A. type   (warn)
+  FM-020  no keywords, or fewer than 3                                  (warn)
+  FM-030  no topics                                                     (warn)
+  FM-040  no status / language / date of note                           (warn)
   ST-001  no H1
   ST-002  H1 not the first content line
   LN-001  link target does not exist in this vault        (broken)
@@ -41,6 +45,8 @@ FM = re.compile(r"^---\n(.*?)\n---\n", re.S)
 H1 = re.compile(r"^# (.+)$", re.M)
 LINK = re.compile(r"\[([^\]]*)\]\(([^)]+\.md)\)")
 
+PARA = {"archive", "area", "entry_point", "project", "resource"}
+
 CLOSED_BB = {"concept", "model", "procedure", "empirical_observation",
              "argument", "counter_argument", "hypothesis", "navigation"}
 
@@ -51,11 +57,17 @@ def parse_fm(text: str) -> dict | None:
     m = FM.match(text)
     if not m:
         return None
-    out = {}
+    out, key = {}, None
     for line in m.group(1).splitlines():
         if ":" in line and not line.startswith((" ", "-", "\t")):
             k, _, v = line.partition(":")
-            out[k.strip()] = v.strip().strip('"').strip("'")
+            key = k.strip()
+            out[key] = v.strip().strip('"').strip("'")
+        elif key and re.match(r"^\s*-\s+", line):
+            # itemised list: keep it under a shadow key so list fields are readable
+            item = re.sub(r"^\s*-\s+", "", line).strip().strip('"\'')
+            out.setdefault(f"_{key}", "")
+            out[f"_{key}"] += ("," if out[f"_{key}"] else "") + item
     return out
 
 
@@ -89,6 +101,30 @@ def validate(vault: Path, fix: bool) -> list[tuple[str, str, str, str]]:
             if bb != "navigation" and not fm.get("source_docs", "").strip("[] "):
                 issues.append((ERROR, "FM-004", rel,
                                "no source_docs — note cannot be traced to corpus evidence"))
+
+        # Curated metadata, mirroring the source vault's universal fields. WARN
+        # rather than ERROR: these are retrieval surface and their absence
+        # degrades a seeding strategy, but it does not make a note unscorable
+        # the way a missing source_docs does. Gating on them would block a vault
+        # that is merely incomplete rather than wrong.
+        if fm is not None:
+            tags = [t for t in fm.get("_tags", "").split(",") if t.strip()]
+            if len(tags) < 2:
+                issues.append((WARN, "FM-010", rel,
+                               f"{len(tags)} tag(s), the vault convention is 2+ "
+                               f"with a P.A.R.A. type first"))
+            elif tags[0].strip() not in PARA:
+                issues.append((WARN, "FM-010", rel,
+                               f"first tag {tags[0].strip()!r} is not one of {sorted(PARA)}"))
+            if len([k for k in fm.get("_keywords", "").split(",") if k.strip()]) < 3:
+                issues.append((WARN, "FM-020", rel,
+                               "fewer than 3 keywords — keywords are query-matching "
+                               "surface, not decoration"))
+            if not fm.get("_topics", "").strip():
+                issues.append((WARN, "FM-030", rel, "no topics"))
+            for f_ in ("status", "language", "date of note"):
+                if not fm.get(f_, "").strip():
+                    issues.append((WARN, "FM-040", rel, f"no {f_}"))
 
         h1 = H1.search(body)
         if not h1:

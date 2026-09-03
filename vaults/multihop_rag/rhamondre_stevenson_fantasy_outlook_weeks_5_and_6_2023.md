@@ -13,6 +13,7 @@ The Week 6 case, published 12 October 2023 ahead of a road game at Las Vegas, re
 
 ## Related Notes
 
+
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): covers Alexander Mattison, the upside alternative preferred to Stevenson in Week 5, from a different document.
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): also discusses D'Onta Foreman, ranked ahead of Stevenson in Week 6, from a different document.
 - [Bears Vikings MNF First Half](bears_vikings_mnf_first_half.md): also discusses Khalil Herbert, one of the backs Stevenson is rated above, from a different document.
@@ -21,6 +22,8 @@ The Week 6 case, published 12 October 2023 ahead of a road game at Las Vegas, re
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another lineup call from the same Week 6 column.
 - [Brock Purdy Fantasy Outlook Weeks 5 And 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another two-week outlook from the same columns.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method these calls apply, from the same columns.
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
 
 ## Source
 

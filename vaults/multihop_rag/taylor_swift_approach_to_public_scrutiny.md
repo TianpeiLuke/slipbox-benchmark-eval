@@ -11,6 +11,7 @@ On scrutiny more broadly, the "Anti-Hero" singer said she tries not to let the p
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): unrelated NFL coverage of the Kansas City Chiefs games referenced here
 - [Blank Space Taylor Swift Song](blank_space_taylor_swift_song.md): a separate article on the song used to identify Swift here
 - [Criticism That The NFL Overdid Its Taylor Swift Coverage](criticism_that_the_nfl_overdid_its_taylor_swift_coverage.md): the media attention at Chiefs games that this stance responds to
@@ -19,6 +20,8 @@ On scrutiny more broadly, the "Anti-Hero" singer said she tries not to let the p
 - [Eras Tour Rio Postponement And Fan Death](eras_tour_rio_postponement_and_fan_death.md): another episode from the same Time profile
 - [Eras Tour Scale And Swift Preparation Regimen](eras_tour_scale_and_swift_preparation_regimen.md): the touring year covered in the same profile
 - [Swift And Kelce Public Appearances Together](swift_and_kelce_public_appearances_together.md): the public appearances this policy produced, same source article
+- [Taylor Swift's Attendance At Kansas City Chiefs Games](taylor_swift_attendance_at_kansas_city_chiefs_games.md): same source document (doc_0046)
+- [Taylor Swift And Joe Alwyn's Relationship And Breakup](taylor_swift_joe_alwyn_relationship_and_breakup.md): same source document (doc_0046)
 
 ## Source
 

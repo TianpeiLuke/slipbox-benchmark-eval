@@ -13,11 +13,20 @@ The precondition for all three is the belief that the platform is throttling Pal
 
 ## Related Notes
 
+
 - [Palestinian Content Moderation Distrust Meta Platforms](palestinian_content_moderation_distrust_meta_platforms.md): overlapping vocabulary about Instagram, shadowbanning and Meta, from a different source document.
 - [Twitch Competitive Pressure](twitch_competitive_pressure.md): shares the creator-economy and user-generated-content themes, from a different source document.
 - [Smart Glasses Privacy And Bystander Consent](smart_glasses_privacy_and_bystander_consent.md): shares the creator-economy and user-generated-content themes, from a different source document.
 - [Netflix Originals Premiering November 27 To 30 2023](netflix_originals_premiering_november_27_to_30_2023.md): shares the creator-economy and user-generated-content themes, from a different source document.
 - [The Good Fight Paramount Plus](the_good_fight_paramount_plus.md): shares the creator-economy and user-generated-content themes, from a different source document.
+- [Instagram Palestine Suppression](instagram_palestine_suppression.md): same source document (doc_0106)
+- [Meta's Moderation During An Earlier Hamas-Israel Conflict](meta_2021_conflict_moderation.md): same source document (doc_0106)
+- [Meta's Arabic Mistranslation Of "Alhamdulillah"](meta_arabic_mistranslation.md): same source document (doc_0106)
+- [Meta Bias Mechanisms](meta_bias_mechanisms.md): same source document (doc_0106)
+- [Meta Moderation Bias](meta_moderation_bias.md): same source document (doc_0106)
+- [Shadowbanning](term_shadowbanning.md): uses the concept shadowbanning
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

@@ -11,6 +11,7 @@ The kick followed a 43-yard gain by Dominic Lovett at 9:29 p.m. that the live bl
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): also covers Georgia's championship path, from a different document.
 - [Alabama 2023 CFP Case and SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): also discusses Georgia and the Bulldogs' case, from a different document.
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): also discusses Ole Miss, from a different document.
@@ -19,6 +20,8 @@ The kick followed a 43-yard gain by Dominic Lovett at 9:29 p.m. that the live bl
 - [Brock Bowers' Return from TightRope Surgery](brock_bowers_return_from_tightrope_surgery.md): the touchdown that came shortly before this stretch, from the same document.
 - [Georgia 52-17 Ole Miss: Week 11 Recap](georgia_52_17_ole_miss_week_11_recap.md): the full result, from the same document.
 - [Georgia Clinches the SEC East and the Sanford Stadium Scene](georgia_clinches_sec_east_and_sanford_stadium_scene.md): what the win secured, from the same document.
+- [Georgia's First-Half Touchdown Drives: Beck And Edwards](georgia_first_half_touchdown_drives_beck_and_edwards.md): same source document (doc_0484)
+- [Interceptions By Bullard And Daijahn Anthony](interceptions_by_bullard_and_daijahn_anthony.md): same source document (doc_0484)
 
 ## Source
 

@@ -11,6 +11,7 @@ The backdrop, as of the reporting date of 2023-10-06, is that housing market pes
 
 ## Related Notes
 
+
 - [Affordable Housing Supply Gap For Low-Income Renters](affordable_housing_supply_gap_for_low_income_renters.md): overlapping coverage of mortgages, housing and rates from a different source document.
 - [Federal Reserve Rate Path Expectations Late 2023](federal_reserve_rate_path_expectations_late_2023.md): also concerns the Federal Reserve, from a different source document.
 - [Goldman Sachs Home Price Forecast 2023-2024](goldman_sachs_home_price_forecast_2023_2024.md): overlapping coverage of home prices and the market, from a different source document.
@@ -19,6 +20,8 @@ The backdrop, as of the reporting date of 2023-10-06, is that housing market pes
 - [Bank Of America Housing Turbulence Warning 2023](bank_of_america_housing_turbulence_warning_2023.md): drawn from the same source document (doc_0112).
 - [Housing Market 1980s Analogy Rather Than 2008](housing_market_1980s_analogy_rather_than_2008.md): drawn from the same source document (doc_0112).
 - [Millennials As The New Boomer Homebuying Cohort](millennials_as_the_new_boomer_homebuying_cohort.md): drawn from the same source document (doc_0112).
+- [Volcker's And Powell's Rate-Hiking Cycles Compared](volcker_and_powell_rate_hiking_cycles_compared.md): same source document (doc_0112)
+- [Why 2023 Is Not A Repeat Of The 2008 Housing Crash](why_2023_is_not_a_repeat_of_the_2008_housing_crash.md): same source document (doc_0112)
 
 ## Source
 

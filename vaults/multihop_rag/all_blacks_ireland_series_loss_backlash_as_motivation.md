@@ -13,12 +13,18 @@ The warrant is that the hurt persisted and became fuel: the pain of the days and
 
 ## Related Notes
 
+
 - [All Blacks Final Moments RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): how the final this preview anticipated ended, different source document
 - [Cards and Officiating Controversy RWC 2023 Final](cards_and_officiating_controversy_rwc_2023_final.md): the final's decisive incidents, different source document
 - [England South Africa 2023 Semifinal Routes](england_south_africa_2023_semifinal_routes.md): the other finalist's path, different source document
 - [England South Africa Rugby World Cup Semi-Final 2023](england_south_africa_rugby_world_cup_semi_final_2023.md): another account of the Springboks overcoming an opponent, different source document
 - [England Starting XV Changes for 2023 Semifinal](england_starting_xv_changes_for_2023_semifinal.md): another semi-final selection document, different source
 - [All Blacks Generational Change After 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): the departing generation this motivation centres on, same source document
+- [Dalton Papali'i On All Blacks Leadership Vulnerability](dalton_papalii_on_all_blacks_leadership_vulnerability.md): same source document (doc_0176)
+- [Ian Foster's All Blacks Tenure And Scott Robertson's Succession](ian_foster_all_blacks_tenure_and_robertson_succession.md): same source document (doc_0176)
+- [Erasmus' 2019 Final Speech: Country Over Ego](rassie_erasmus_2019_final_speech_country_over_ego.md): same source document (doc_0176)
+- [The Springboks' Selection Philosophy: Playing For South Africa](springboks_selection_philosophy_playing_for_south_africa.md): same source document (doc_0176)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

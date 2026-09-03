@@ -13,12 +13,18 @@ Two things sharpen the argument. First, the omission was conceded: Bankman-Fried
 
 ## Related Notes
 
+
 - [Autobrains Hires Uri Yacovy as COO](autobrains_hires_uri_yacovy_as_coo.md): overlaps on the executive-officer role, from a different source document.
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): the unmanaged risk this argument says a risk officer would have found, from a different source document.
 - [Ellison's Risk Spreadsheet for Venture Investments](ellison_risk_spreadsheet_for_venture_investments.md): the ad hoc risk analysis that stood in for a risk function, from a different source document.
 - [The FTT Token and the "Sam Coins"](ftt_token_and_sam_coins.md): the illiquid balance-sheet assets a risk officer would have scrutinised, from a different source document.
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the exposure no risk officer was in place to police (doc_0053).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): Bankman-Fried's own framing of risk-taking, same trial day (doc_0053).
+- [FTX's Fabricated Backstop Insurance Fund](ftx_backstop_insurance_fund_fabrication.md): same sub-plan (FTX and Alameda Research: Mechanics of the Entanglement), different source document
+- [Alameda Research's Origins And Naming](alameda_research_origins_and_naming.md): same source document (doc_0053)
+- [Defense Opening Statement: The Plane Metaphor](defense_opening_statement_plane_metaphor.md): same source document (doc_0162)
+- [Allow_negative: Alameda's Exemption From FTX Liquidation](ftx_alameda_allow_negative_liquidation_exemption.md): same source document (doc_0053)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

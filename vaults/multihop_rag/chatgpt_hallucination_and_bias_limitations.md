@@ -13,6 +13,7 @@ The consequences have been concrete on both counts. Lawyers have been sanctioned
 
 ## Related Notes
 
+
 - [ChatGPT Enterprise And Multimodal Features](chatgpt_enterprise_and_multimodal_features.md): overlaps on how ChatGPT is trained and responds, from a different document.
 - [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): overlaps on how the chatbot produces responses, from a different document.
 - [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): covers the same boundary between what it can and cannot do, from a different document.
@@ -21,6 +22,8 @@ The consequences have been concrete on both counts. Lawyers have been sanctioned
 - [ChatGPT's Adoption Gap: The Survey Evidence](chatgpt_adoption_gap_survey_evidence.md): drawn from the same source document (doc_0047), and blames the adoption gap on these limits.
 - [ChatGPT As A User Experience Breakthrough](chatgpt_as_user_experience_breakthrough.md): drawn from the same source document (doc_0047).
 - [The Competitive Response To ChatGPT Across The AI Industry](chatgpt_competitive_response_across_ai_industry.md): drawn from the same source document (doc_0047).
+- [ChatGPT's Launch And Its First Year Of Evolution](chatgpt_launch_and_first_year_evolution.md): same source document (doc_0047)
+- [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): same source document (doc_0047)
 
 ## Source
 

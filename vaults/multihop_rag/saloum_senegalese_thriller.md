@@ -13,6 +13,7 @@ Critic Pete Volk calls the trio of lead actors absolutely magnetic — Yann Gael
 
 ## Related Notes
 
+
 - [Shayda: Festival Run and Australian Oscar Selection](shayda_festival_run_and_australian_oscar_selection.md): overlapping festival-circuit subject matter from a different source document
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
 - [American Horror Story: NYC Season](american_horror_story_nyc_season.md): a fellow entry in the same countdown document
@@ -21,6 +22,8 @@ Critic Pete Volk calls the trio of lead actors absolutely magnetic — Yann Gael
 - [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): a fellow entry in the same article
 - [Curve (Tim Egan Horror Short)](curve_tim_egan_horror_short.md): another countdown pick from the same document
 - [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): another cult-horror recommendation in the same countdown
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0165)
+- [Ginger Snaps (Werewolf Body Horror)](ginger_snaps_werewolf_body_horror.md): same source document (doc_0165)
 
 ## Source
 

@@ -13,6 +13,7 @@ In the do-or-die match that followed, Georgia Patrikios showed her class with 25
 
 ## Related Notes
 
+
 - [Brayden Maynard's Collingwood Dynasty Ambition](brayden_maynard_collingwood_dynasty_ambition.md): also concerns the Brisbane Lions, from a different document.
 - [Joel Freijah, AFL Draft Prospect 2023](joel_freijah_afl_draft_prospect_2023.md): also concerns the Brisbane Lions, from a different document.
 - [Koltyn Tholstrup, AFL Draft Prospect 2023](koltyn_tholstrup_afl_draft_prospect_2023.md): also concerns the Brisbane Lions, from a different document.
@@ -21,6 +22,8 @@ In the do-or-die match that followed, Georgia Patrikios showed her class with 25
 - [AFLW 2023 Tackle and Bump Suspension Debate](aflw_2023_tackle_and_bump_suspension_debate.md): drawn from the same document (doc_0208).
 - [Brisbane Lions' 2023 AFLW Top-Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): drawn from the same document (doc_0208).
 - [Collingwood-Geelong's Wind and Rain Contest, 2023](collingwood_geelong_wind_and_rain_contest_2023.md): drawn from the same document (doc_0208).
+- [Erin Phillips' AFLW Retirement](erin_phillips_aflw_retirement.md): same source document (doc_0209)
+- [Geelong Cats' 2023 AFLW Finals Qualification](geelong_cats_2023_aflw_finals_qualification.md): same source document (doc_0209)
 
 ## Source
 

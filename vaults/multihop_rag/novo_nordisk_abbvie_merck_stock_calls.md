@@ -11,11 +11,20 @@ The Merck call is more qualified. Analyst focus for Merck, at 12 times FY24 EPS,
 
 ## Related Notes
 
+
 - [Broadcom Q4 FY2023 Earnings Preview And VMware Integration](broadcom_q4_fy2023_earnings_preview_and_vmware_integration.md): shares corpus tags on acquisitions and earnings in a stock call, from a different source document.
 - [ChatGPT Use In Government And Courts](chatgpt_use_in_government_and_courts.md): shares corpus tags on earnings and patent litigation, from a different source document.
 - [Louisiana Lawsuit Over Ozempic And Mounjaro GI Injuries](louisiana_lawsuit_over_ozempic_and_mounjaro_gi_injuries.md): also concerns Novo Nordisk, from a different source document.
 - [Microsoft Q3 2023 Earnings Preview And Activision Deal](microsoft_q3_2023_earnings_preview_and_activision_deal.md): shares corpus tags on acquisitions and earnings, from a different source document.
 - [Novo Nordisk Response To GLP1 Gastroparesis Findings](novo_nordisk_response_to_glp1_gastroparesis_findings.md): also concerns Novo Nordisk, from a different source document.
+- [Alzheimer's: The Lecanemab And Aducanumab Approvals](alzheimers_lecanemab_and_aducanumab_approvals.md): same source document (doc_0239)
+- [Antibody Drug Conjugates And Their Market](antibody_drug_conjugates_market.md): same source document (doc_0239)
+- [Cancer Immunotherapy And Checkpoint Inhibitors](cancer_immunotherapy_checkpoint_inhibitors.md): same source document (doc_0239)
+- [CAR-T Cell Therapy](car_t_cell_therapy.md): same source document (doc_0239)
+- [A Framework For Valuing US Pharma Stocks](framework_for_valuing_us_pharma_stocks.md): same source document (doc_0239)
+- [Patent Litigation](term_patent_litigation.md): uses the concept patent litigation
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

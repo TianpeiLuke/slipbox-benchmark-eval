@@ -11,11 +11,19 @@ The welcome-offer path is a multi-part offer worth up to $1,200, comprising a de
 
 ## Related Notes
 
+
 - [bet365 Welcome Bonus Offers December 2023](bet365_welcome_bonus_offers_december_2023.md): a competing welcome-bonus-and-bonus-bets offer, from a different source document.
 - [BetMGM Bonus Code TSN50 First Bet Offer](betmgm_bonus_code_tsn50_first_bet_offer.md): a competing deposit-and-bonus-bets offer, from a different source document.
 - [BetMGM First Bet Bonus Offer December 2023](betmgm_first_bet_bonus_offer_december_2023.md): a competing deposit-and-bonus-bets offer, from a different source document.
 - [BetRivers Second Chance Bet Offer December 2023](betrivers_second_chance_bet_offer_december_2023.md): a competing deposit-and-bonus-bets offer, from a different source document.
 - [Caesars Sportsbook First Bet Offer December 2023](caesars_sportsbook_first_bet_offer_december_2023.md): a competing sportsbook deposit bonus, from a different source document.
+- [How BetMGM Sportsbook's Up-To-$1,500 First Bet Offer Would Work In Vermont](betmgm_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [BetMGM's Vermont Offer Is The Most Generous "Second Chance" — If You Lose First](betmgm_vermont_welcome_offer_tradeoffs.md): same source document (doc_0072)
+- [How BetRivers Sportsbook's Up-To-$500 Second Chance Offer Works](betrivers_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [How Caesars Sportsbook's Up-To-$1,000 First Bet Offer Would Work In Vermont](caesars_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [Why DraftKings' Vermont Offer Beats Rivals — And Why The Deposit Match Is Only For High Rollers](draftkings_vermont_welcome_offer_tradeoffs.md): same source document (doc_0072)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

@@ -11,12 +11,14 @@ According to the institute, Darling's team will explore immediate as well as lon
 
 ## Related Notes
 
+
 - [Boston Dynamics AI Institute Research Pillars](boston_dynamics_ai_institute_research_pillars.md): same source document; the institute's three technical research pillars alongside this ethics work.
 - [Raibert And Pratt's Robotics Lineage](raibert_pratt_robotics_lineage.md): same source document; how Raibert came to found the institute.
 - [The Pure Research Model At Automaker-Backed Institutes](pure_research_model_at_automaker_backed_institutes.md): same source document; the funding model that permits this kind of non-product research.
 - [MIT's Leg Lab And Dynamic Robot Locomotion](mit_leg_lab_robot_locomotion.md): same source document; the lab that produced several of this field's ethics and robotics figures.
 - [Cars And Robotics Convergence](cars_and_robotics_convergence.md): same source document; the industrial context these societal questions arise in.
 - [TRI's Eldercare Robotics Focus](tri_eldercare_robotics_focus.md): same source document; a robotics application with direct societal-impact stakes.
+- [LLM Limits In Robot Manipulation](llm_limits_in_robot_manipulation.md): same source document (doc_0511)
 
 ## Source
 

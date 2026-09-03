@@ -13,6 +13,7 @@ Then came Connor's turn. Turk placed him in position and watched how he got the 
 
 ## Related Notes
 
+
 - [Artemi Panarin Shots On Goal Prop](artemi_panarin_shots_on_goal_prop.md): also discusses the Red Wings, the club that drafted the other player in this session, from a different document.
 - [Blackhawks-Penguins 2023 First Period Rust Opener](blackhawks_penguins_2023_first_period_rust_opener.md): also discusses Connor Bedard, from a different document.
 - [Blackhawks-Penguins 2023 Second Period: Bedard's First Point](blackhawks_penguins_2023_second_period_bedard_first_point.md): also discusses Connor Bedard, from a different document.
@@ -20,6 +21,9 @@ Then came Connor's turn. Turk placed him in position and watched how he got the 
 - [Connor Bedard's NHL Debut: Blackhawks Beat Penguins 4-2](connor_bedard_nhl_debut_blackhawks_beat_penguins_4_2.md): also discusses Connor Bedard, from a different document.
 - [The Mechanics Of Connor Bedard's Shot](connor_bedard_shot_mechanics_toe_drag_release.md): what Turk's analysis eventually described, from the same article.
 - [Connor Bedard's Shooting Practice Habits](connor_bedard_shooting_practice_habits.md): the work behind what Turk observed, from the same article.
+- [Connor Bedard's Rookie Adjustment With The Blackhawks](connor_bedard_rookie_adjustment_with_the_blackhawks.md): same source document (doc_0102)
+- [Goalies And Peers On Defending Bedard's Shot](goalies_and_peers_on_defending_bedard_shot.md): same source document (doc_0102)
+- [Scepticism About Bedard's Shooting Style At NHL Level](scepticism_about_bedard_shooting_style_at_nhl_level.md): same source document (doc_0102)
 
 ## Source
 

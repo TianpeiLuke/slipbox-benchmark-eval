@@ -17,12 +17,18 @@ Two scope conditions matter. First, the rules are addressed to bulk senders, not
 
 ## Related Notes
 
+
 - [Blurred Line Between SEO And Spam](blurred_line_between_seo_and_spam.md): overlaps in content on spam and Google's handling of it, from a different source document.
 - [Acurable's Patient-Friendly Respiratory Wearables](acurable_respiratory_wearables.md): another item from the same October 7, 2023 Week in Review (doc_0011).
 - [AI Startup Defensibility](ai_startup_defensibility.md): another item from the same source document (doc_0011).
 - [Breathe Battery Technologies' Charging Software](breathe_battery_software.md): another item from the same source document (doc_0011).
 - [Flexport Leadership Turmoil](flexport_leadership_turmoil.md): another item from the same source document (doc_0011).
 - [Going Infinite: Michael Lewis's Account Of SBF's Political Dealings](going_infinite_lewis_account.md): another item from the same source document (doc_0011).
+- [Google Pixel 8 Launch](google_pixel_8_launch.md): same source document (doc_0011)
+- [Induced AI's Plain-English Workflow Automation](induced_ai_workflow_automation.md): same source document (doc_0011)
+- [IronNet Shutdown](ironnet_shutdown.md): same source document (doc_0011)
+- [LinkedIn's New AI Tools](linkedin_ai_tools.md): same source document (doc_0011)
+- [Bot Detection](term_bot_detection.md): uses the concept bot detection
 
 ## Source
 

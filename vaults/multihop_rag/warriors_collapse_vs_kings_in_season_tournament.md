@@ -11,11 +11,19 @@ Andrew Wiggins fouled De'Aaron Fox, Stephen Curry passed the ball straight to Ma
 
 ## Related Notes
 
+
 - [BG3 Monk Class And Subclasses](bg3_monk_class_and_subclasses.md): overlaps on a shared name term, from a different document.
 - [Kevin Durant Career Accolades And Scoring Ranks](kevin_durant_career_accolades_and_scoring_ranks.md): shares the draft-pick and NBA themes, from a different document.
 - [Kevin Durant Most Disrespected Superstar Claim](kevin_durant_most_disrespected_superstar_claim.md): also discusses Stephen Curry, from a different document.
 - [NBA MVP 2024 Odds Favourites](nba_mvp_2024_odds_favourites.md): shares the draft-pick and NBA themes, from a different document.
 - [Recent NBA MVP Winners Since 2010](recent_nba_mvp_winners_since_2010.md): also discusses Curry and the Warriors, from a different document.
+- [Warriors 2020 And 2021 Draft Misses](warriors_2020_and_2021_draft_misses.md): same source document (doc_0522)
+- [Warriors 2021 Draft Kuminga And Moody](warriors_2021_draft_kuminga_and_moody.md): same source document (doc_0522)
+- [Warriors Aging Core Curry Thompson Green](warriors_aging_core_curry_thompson_green.md): same source document (doc_0522)
+- [Warriors Recent Draft Class Outcomes](warriors_recent_draft_class_outcomes.md): same source document (doc_0522)
+- [Warriors Roster Reorientation Around Curry Window](warriors_roster_reorientation_around_curry_window.md): same source document (doc_0522)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

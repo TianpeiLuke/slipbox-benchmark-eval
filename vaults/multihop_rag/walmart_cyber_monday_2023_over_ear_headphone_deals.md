@@ -13,11 +13,20 @@ WIRED's only complaints about Sennheiser's HD 660S2 (7/10, WIRED Review) — bas
 
 ## Related Notes
 
+
 - [AirPods Pro (2nd Generation) Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-life-and-charging, battery-technology and discount-versus-MSRP themes, from a different source document.
 - [AirPods Pro (2nd Generation) Lightning Deal](airpods_pro_second_generation_lightning_deal.md): shares the battery-life-and-charging and discount-versus-MSRP themes, from a different source document.
 - [Amazon Echo Buds (2023)](amazon_echo_buds_2023.md): shares the battery-life-and-charging and battery-technology themes, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery-life-and-charging and battery-technology themes, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares the battery-life-and-charging and battery-technology themes, from a different source document.
+- [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): same source document (doc_0320)
+- [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Dolby Atmos Soundbar Deals](walmart_cyber_monday_2023_dolby_atmos_soundbar_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Fitness Tracker And Smart Ring Deals](walmart_cyber_monday_2023_fitness_tracker_and_smart_ring_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Home Security Camera Deals](walmart_cyber_monday_2023_home_security_camera_deals.md): same source document (doc_0320)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

@@ -13,6 +13,7 @@ The warrant joining the two is that pampering removes exactly the resistance, fa
 
 ## Related Notes
 
+
 - [Arnold Schwarzenegger Drill Instructor Discipline](arnold_schwarzenegger_drill_instructor_discipline.md): same article, the practices this argument defends
 - [Celebrity Tough Love Parenting In Hollywood](celebrity_tough_love_parenting_in_hollywood.md): same article, the wider tough-love category
 - [Kristen Bell Shared Bedroom Character Building](kristen_bell_shared_bedroom_character_building.md): same article, another character-building argument
@@ -20,6 +21,8 @@ The warrant joining the two is that pampering removes exactly the resistance, fa
 - [Candace Cameron Bure Strict But Loving Boundaries](candace_cameron_bure_strict_but_loving_boundaries.md): same source document
 - [Gellar And Prinze Strict Household Rules](gellar_and_prinze_strict_household_rules.md): same source document
 - [Kutcher And Kunis Keeping Their Children Grounded](kutcher_and_kunis_keeping_their_children_grounded.md): same source document
+- [Kristen Bell's Household Screen-Time Rules](kristen_bell_household_screen_time_rules.md): same source document (doc_0177)
+- [Reese Witherspoon On Letting Children Fail](reese_witherspoon_on_letting_children_fail.md): same source document (doc_0177)
 
 ## Source
 

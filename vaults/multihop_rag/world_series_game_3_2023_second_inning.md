@@ -13,12 +13,18 @@ The bottom half was the more dramatic. At 8:25 p.m. Walker smoked a first-pitch 
 
 ## Related Notes
 
+
 - [Diamondbacks Late Rally World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): also covers Evan Carter and Jonah Heim, from a different source document
 - [Diamondbacks Ninth Inning Insurance Runs](diamondbacks_ninth_inning_insurance_runs.md): a comparable inning-level account featuring Walker, different source document
 - [Diamondbacks Win World Series Game 2](diamondbacks_win_world_series_game_2.md): the previous game, also featuring Brandon Pfaadt and Max Scherzer
 - [Kelly Finishes Seventh and Saalfrank Holds Texas](kelly_finishes_seventh_and_saalfrank_holds_texas.md): another half-inning-by-half-inning log of the same series, different source document
 - [Lourdes Gurriel Jr. Diamondbacks Re-Signing](lourdes_gurriel_jr_diamondbacks_re_signing.md): covers Lourdes Gurriel, who batted here, from a different source document
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): the same player whose arm saved a run here, same source document
+- [Brandon Pfaadt's Start In World Series Game 3](brandon_pfaadt_start_world_series_game_3.md): same source document (doc_0495)
+- [Corey Seager's Home Runs In The 2023 World Series](corey_seager_home_runs_2023_world_series.md): same source document (doc_0495)
+- [Jon Gray's Surprise Relief Outing In World Series Game 3](jon_gray_emergency_relief_world_series_game_3.md): same source document (doc_0495)
+- [Marcus Semien's Big Hits In World Series Games 3 And 4](marcus_semien_five_rbi_world_series_game_4.md): same source document (doc_0495)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

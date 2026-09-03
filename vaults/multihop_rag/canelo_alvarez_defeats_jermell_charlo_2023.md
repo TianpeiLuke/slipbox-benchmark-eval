@@ -11,6 +11,7 @@ Canelo pursued Charlo and realized very quickly that his opponent was overmatche
 
 ## Related Notes
 
+
 - [Benavidez Andrade Undercard and Jermall Charlo Return](benavidez_andrade_undercard_and_jermall_charlo_return.md): shares the Charlo, middleweight and super-middleweight subject matter, from a different source document.
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): another Las Vegas title fight from the same year, from a different source document.
 - [Benavidez vs Andrade Stylistic Breakdown and Pick](benavidez_vs_andrade_stylistic_breakdown_and_pick.md): also covers Caleb Plant, from a different source document.
@@ -19,6 +20,8 @@ Canelo pursued Charlo and realized very quickly that his opponent was overmatche
 - [Barrios vs Ugas Interim WBC Welterweight 2023](barrios_vs_ugas_interim_wbc_welterweight_2023.md): another bout on the same card, from the same live coverage (doc_0245).
 - [Canelo Alvarez Next Opponents After Charlo Win](canelo_alvarez_next_opponents_after_charlo_win.md): what comes next for both men, from the same coverage (doc_0245).
 - [Canelo Charlo PPV Card Schedule](canelo_charlo_ppv_card_schedule.md): the running order of the same event (doc_0245).
+- [Canelo vs Charlo: Sporting News' Round-By-Round Unofficial Scorecard](canelo_charlo_round_by_round_scorecard.md): same source document (doc_0245)
+- [Elijah Garcia Stops Armando Resendiz In The Eighth To Open The Canelo-Charlo PPV](elijah_garcia_stops_armando_resendiz_2023.md): same source document (doc_0245)
 
 ## Source
 

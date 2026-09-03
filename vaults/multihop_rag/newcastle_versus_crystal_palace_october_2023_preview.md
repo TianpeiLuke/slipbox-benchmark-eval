@@ -13,6 +13,7 @@ On team news, Newcastle were without Joe Willock and Harvey Barnes through injur
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns the Champions League, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns the Champions League and Manchester City, from a different document.
 - [Carabao Cup 2023-24 First Round Results](carabao_cup_2023_24_first_round_results.md): also concerns the Carabao Cup, from a different document.
@@ -21,6 +22,8 @@ On team news, Newcastle were without Joe Willock and Harvey Barnes through injur
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): drawn from the same document (doc_0300).
 - [Chelsea Arsenal Derby Team News October 2023](chelsea_arsenal_derby_team_news_october_2023.md): drawn from the same document (doc_0300).
 - [England's 2023 Cricket World Cup Qualification Crisis](england_cricket_world_cup_2023_qualification_crisis.md): drawn from the same document (doc_0300).
+- [England vs South Africa: 2023 Rugby World Cup Semi-Final](england_south_africa_rugby_world_cup_semi_final_2023.md): same source document (doc_0300)
+- [Liverpool vs Everton: Merseyside Derby Preview, October 2023](liverpool_everton_merseyside_derby_october_2023_preview.md): same source document (doc_0300)
 
 ## Source
 

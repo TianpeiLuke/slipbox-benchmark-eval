@@ -13,12 +13,17 @@ The range over which this holds is bounded by intent and by time. "Both [the U2 
 
 ## Related Notes
 
+
 - [Sphere Las Vegas Venue And Display Specifications](sphere_las_vegas_venue_and_display_specifications.md): same article, giving the speaker and haptic counts
 - [Sphere And Abba Voyage Immersive Show Comparison](sphere_and_abba_voyage_immersive_show_comparison.md): same article, on the two shows Lipson compares
 - [Immersive Screen Lineage From Cinerama To Postcard From Earth](immersive_screen_lineage_from_cinerama_to_postcard_from_earth.md): same article, on the cinema-mode film that uses these haptics
 - [Britney Spears Memoir Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): another Las Vegas residency account, different document
 - [Benavidez Vs Andrade 2023 Bout Details And Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): shares the Las Vegas setting, unrelated subject
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): shares the Las Vegas setting, unrelated subject
+- [Britney Spears' 55-Hour Marriage To Jason Alexander](britney_spears_jason_alexander_55_hour_marriage.md): both discuss Las Vegas; different source document
+- [Caesars Sportsbook In Kentucky](caesars_sportsbook_kentucky.md): both discuss Las Vegas; different source document
+- [Sphere's Plug-And-Play Touring Economics](sphere_plug_and_play_touring_economics.md): same source document (doc_0560)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

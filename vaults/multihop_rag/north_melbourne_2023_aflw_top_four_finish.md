@@ -13,6 +13,7 @@ For the Western Bulldogs it was another tough day out as they notched their nint
 
 ## Related Notes
 
+
 - [6PPD-Quinone and Coho Salmon Die-Offs](6ppd_quinone_and_coho_salmon_die_offs.md): also concerns West Coast, from a different document.
 - [AFLW 2023 Tackle and Bump Suspension Debate](aflw_2023_tackle_and_bump_suspension_debate.md): also concerns Fox Footy, from a different document.
 - [Brayden Maynard's Collingwood Dynasty Ambition](brayden_maynard_collingwood_dynasty_ambition.md): also concerns West Coast, from a different document.
@@ -21,6 +22,8 @@ For the Western Bulldogs it was another tough day out as they notched their nint
 - [AFLW 2023 Finals Qualification and Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): drawn from the same document (doc_0209).
 - [Brisbane Lions' 2023 AFLW Top-Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): drawn from the same document (doc_0209).
 - [Erin Phillips' AFLW Retirement](erin_phillips_aflw_retirement.md): drawn from the same document (doc_0209).
+- [Geelong Cats' 2023 AFLW Finals Qualification](geelong_cats_2023_aflw_finals_qualification.md): same source document (doc_0209)
+- [Gold Coast Suns' Second AFLW Finals Appearance](gold_coast_suns_second_aflw_finals_appearance.md): same source document (doc_0209)
 
 ## Source
 

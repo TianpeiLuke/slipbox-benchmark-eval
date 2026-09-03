@@ -11,6 +11,7 @@ For those lazy days the guide picks the Jersey Piped Printed Classic Pyjama Set,
 
 ## Related Notes
 
+
 - [NBA Christmas Day Games Tradition](nba_christmas_day_games_tradition.md): an unrelated article that also concerns Christmas traditions
 - [NBA Christmas Vs NFL Thanksgiving Tradition Comparison](nba_christmas_vs_nfl_thanksgiving_tradition_comparison.md): another article comparing festive traditions
 - [NFL Christmas Day Scheduling Threat To NBA](nfl_christmas_day_scheduling_threat_to_nba.md): another article about competing Christmas customs
@@ -19,6 +20,8 @@ For those lazy days the guide picks the Jersey Piped Printed Classic Pyjama Set,
 - [White Company Advent Calendars And Snowflake Jumper](white_company_advent_calendars_and_snowflake_jumper.md): the countdown and fashion picks from the same guide
 - [White Company Christmas Decorations And Winter Scents](white_company_christmas_decorations_and_winter_scents.md): the decorations that surround the tree
 - [White Company Entertaining Glassware And Serving Tray](white_company_entertaining_glassware_and_serving_tray.md): the entertaining picks from the same guide
+- [The White Company's Puffer Coat And Champagne Trug](white_company_puffer_coat_and_champagne_trug.md): same source document (doc_0068)
+- [The White Company's Relaxation Picks: Diffuser, Bed Socks And Throw](white_company_relaxation_diffuser_bed_socks_and_throw.md): same source document (doc_0068)
 
 ## Source
 

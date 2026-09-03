@@ -11,6 +11,7 @@ The precondition that eases the path is expansion: with FIFA expanding the tourn
 
 ## Related Notes
 
+
 - [AFLW 2023 Finals Qualification And Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): overlaps on finals-qualification formats, from a different document.
 - [Cairo Diplomatic Surge And Summit For Peace 2023](cairo_diplomatic_surge_and_summit_for_peace_2023.md): also mentions the Middle East, from a different document.
 - [Cristiano Ronaldo Al Nassr Move And 2023 Goal Tally](cristiano_ronaldo_al_nassr_move_and_2023_goal_tally.md): also mentions the Middle East, from a different document.
@@ -19,6 +20,8 @@ The precondition that eases the path is expansion: with FIFA expanding the tourn
 - [Andrew Redmayne Substitution In Peru Playoff](andrew_redmayne_substitution_in_peru_playoff.md): the playoff drama this format makes less likely, from the same document.
 - [Graham Arnold 2022 World Cup Qualification Crisis](graham_arnold_2022_world_cup_qualification_crisis.md): the previous campaign under the old format, from the same document.
 - [Graham Arnold Reflections On Coaching Development](graham_arnold_reflections_on_coaching_development.md): the coach leading this campaign, from the same document.
+- [Graham Arnold Socceroos Coaching Appearance Record](graham_arnold_socceroos_coaching_appearance_record.md): same source document (doc_0172)
+- [James Johnson Tribute To Graham Arnold](james_johnson_tribute_to_graham_arnold.md): same source document (doc_0172)
 
 ## Source
 

@@ -13,6 +13,7 @@ The resulting week-one finals fixture was: on Saturday November 11, the First Qu
 
 ## Related Notes
 
+
 - [AFC 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): overlaps on finals and qualifying scheduling, from a different document.
 - [AFLW Crowds Short of Season Extension Targets](aflw_crowds_short_of_season_extension_targets.md): also concerns Gold Coast, from a different document.
 - [Brayden Maynard's Collingwood Dynasty Ambition](brayden_maynard_collingwood_dynasty_ambition.md): also concerns the Brisbane Lions, from a different document.
@@ -21,6 +22,8 @@ The resulting week-one finals fixture was: on Saturday November 11, the First Qu
 - [Brisbane Lions' 2023 AFLW Top-Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): drawn from the same document (doc_0209).
 - [Erin Phillips' AFLW Retirement](erin_phillips_aflw_retirement.md): drawn from the same document (doc_0209).
 - [Geelong Cats' 2023 AFLW Finals Qualification](geelong_cats_2023_aflw_finals_qualification.md): drawn from the same document (doc_0209).
+- [Gold Coast Suns' Second AFLW Finals Appearance](gold_coast_suns_second_aflw_finals_appearance.md): same source document (doc_0209)
+- [North Melbourne's 2023 AFLW Top-Four Finish](north_melbourne_2023_aflw_top_four_finish.md): same source document (doc_0209)
 
 ## Source
 

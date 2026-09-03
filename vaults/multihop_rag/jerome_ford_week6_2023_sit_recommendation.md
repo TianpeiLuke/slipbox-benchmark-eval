@@ -13,11 +13,18 @@ The opponent evidence is the heavier half. On the year San Francisco has held en
 
 ## Related Notes
 
+
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): covers Alexander Mattison, one of the backs preferred to Ford, from a different document.
 - [Baker Mayfield Week 15 Stat Line At Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also discusses Rachaad White, another back ranked ahead of Ford, from a different document.
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): also discusses D'Onta Foreman, the third alternative named here, from a different document.
 - [Bears Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): also discusses Alexander Mattison, from a different document.
 - [Bears Vikings MNF Playoff And Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): also discusses D'Onta Foreman, from a different document.
+- [Amari Cooper As A Week 6 2023 Sit Against The 49ers](amari_cooper_week6_2023_sit_recommendation.md): same source document (doc_0149)
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

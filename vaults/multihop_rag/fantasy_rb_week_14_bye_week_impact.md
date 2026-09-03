@@ -13,6 +13,7 @@ What stung for fantasy was the loss of the matchups rather than the players. Bot
 
 ## Related Notes
 
+
 - [Cardinals 24-10 Steelers Week 13](cardinals_24_10_steelers_week_13.md): overlaps on James Conner and the Cardinals, from a different document.
 - [Emari Demercado Week 6 2023 Sit Recommendation](emari_demercado_week6_2023_sit_recommendation.md): overlaps on Conner and the Cardinals backfield, from a different document.
 - [Fantasy Week 13 Cardinals at Steelers Outlook](fantasy_week_13_cardinals_at_steelers_outlook.md): also discusses James Conner, from a different document.
@@ -21,6 +22,8 @@ What stung for fantasy was the loss of the matchups rather than the players. Bot
 - [Fantasy RB PPR Rankings Week 14 Full List](fantasy_rb_ppr_rankings_week_14_full_list.md): the PPR rankings this bye analysis introduces (doc_0317).
 - [Fantasy RB Standard Rankings Week 14 Full List](fantasy_rb_standard_rankings_week_14_full_list.md): the standard rankings this bye analysis introduces (doc_0198).
 - [Fantasy RB Week 14 Busts PPR](fantasy_rb_week_14_busts_ppr.md): the PPR downgrades from the same article (doc_0317).
+- [Week 14 Standard-League Running Backs To Downgrade](fantasy_rb_week_14_busts_standard.md): same source document (doc_0198)
+- [Week 14 PPR Running Back Sleepers](fantasy_rb_week_14_sleepers_ppr.md): same source document (doc_0317)
 
 ## Source
 

@@ -13,11 +13,19 @@ The crypto exchange "admits it engaged in anti-money laundering, unlicensed mone
 
 ## Related Notes
 
+
 - [Bankman-Fried And Zhao Convictions And Binance Aftermath](bankman_fried_and_zhao_convictions_and_binance_aftermath.md): the closest overlap, covering Zhao's plea and its aftermath, from a different document.
 - [Caroline Ellison's Guilty Plea And First Day Of Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): overlaps on guilty pleas in crypto prosecutions, from a different document.
 - [Cohen's Cross-Examination Of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): shares the plea-agreement and fraud themes, from a different document.
 - [Coinbase's SEC Standoff And Regulatory Clarity](coinbase_sec_standoff_and_regulatory_clarity.md): covers the same crypto-exchange regulatory front, from a different document.
 - [Coinbase Stock Rally, November 2023](coinbase_stock_rally_november_2023.md): also discusses Changpeng Zhao, from a different document.
+- [Binance And Zhao's Plea Agreement Terms](binance_and_zhao_plea_agreement_terms.md): same source document (doc_0374)
+- [Binance's CEO Succession: Richard Teng](binance_ceo_succession_richard_teng.md): same source document (doc_0374)
+- [Binance's Charges: Bank Secrecy Act And Sanctions Violations](binance_charges_bsa_and_sanctions_violations.md): same source document (doc_0374)
+- [Binance's Market Position And Its 2023 Setbacks](binance_market_position_and_2023_setbacks.md): same source document (doc_0374)
+- [Kraken's SEC Charges And Staking Settlement](kraken_sec_charges_and_staking_settlement.md): same source document (doc_0374)
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Plea Agreement](term_plea_agreement.md): uses the concept plea agreement
 
 ## Source
 

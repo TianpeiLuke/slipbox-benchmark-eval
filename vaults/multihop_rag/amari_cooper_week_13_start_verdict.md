@@ -11,6 +11,7 @@ The warrant is stated as a hope rather than a certainty: that both Flacco and Co
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers Joe Flacco and the Browns in the same week, from a different source document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): an earlier verdict on the same player that also covers Dorian Thompson-Robinson and Marquise Brown, from a different source document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another Start Him verdict in the same weekly format, from a different source document.
@@ -19,6 +20,8 @@ The warrant is stated as a hope rather than a certainty: that both Flacco and Co
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a parallel Week 13 player verdict from the same article (doc_0057).
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): the opposing-team verdict from the same game, in the same article (doc_0057).
 - [Devin Singletary Week 13 Start Verdict](devin_singletary_week_13_start_verdict.md): a parallel Week 13 player verdict from the same article (doc_0057).
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
+- [Weekly Fantasy Lineup Method: Set Lineups By Matchup, Not By Draft Order](fantasy_football_weekly_lineup_matchup_method.md): same source document (doc_0057)
 
 ## Source
 

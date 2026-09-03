@@ -13,12 +13,19 @@ While Inter dominated the early stages, Salernitana found their footing and mana
 
 ## Related Notes
 
+
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): also discusses Lautaro Martinez, from a different source document.
 - [Argentina's First-Half Dominance vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): also discusses Lautaro Martinez, from a different source document.
 - [Argentina-Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also discusses Lautaro Martinez, from a different source document.
 - [Argentina's Second Half and Messi's Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): also discusses Lautaro Martinez, from a different source document.
 - [Champions League 2023-24 Group D: Real Sociedad and Inter](champions_league_2023_24_group_d_real_sociedad_inter.md): also discusses Inter Milan and the San Siro, from a different source document.
 - [AC Milan 2-0 Win Over Lazio and the Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): same Guardian roundup, covering the Serie A table Inter topped that night.
+- [Bayern Munich's 2-2 Comeback Draw At RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): same source document (doc_0352)
+- [The 2023 Calendar-Year Top Goalscorer Race](calendar_year_2023_top_goalscorer_race.md): same source document (doc_0277)
+- [Cristiano Ronaldo's Al Nassr Move And 53-Goal 2023](cristiano_ronaldo_al_nassr_move_and_2023_goal_tally.md): same source document (doc_0277)
+- [Erling Haaland's 50-Goal 2023 At Manchester City](erling_haaland_manchester_city_2023_goal_tally.md): same source document (doc_0277)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

@@ -11,11 +11,16 @@ Despite calls for boycotts from anti-fashion campaigners, Shein was at that poin
 
 ## Related Notes
 
+
 - [Wallbox Acquires ABL's Charging Business](wallbox_acquires_abl_charging_business.md): overlapping coverage of a company acquisition and global expansion, from a different source document.
 - [Emily Ratajkowski's M Le Monde Oversized Jeans Shoot](emily_ratajkowski_m_le_monde_oversized_jeans_shoot.md): same sub-plan on the fashion industry, from a different source document.
 - [Emily Ratajkowski's Prior Body-Image Positions](emily_ratajkowski_prior_body_image_positions.md): same sub-plan on the fashion industry, from a different source document.
 - [The Fashion Industry's Plus-Size Inclusivity Gap](fashion_industry_plus_size_inclusivity_gap.md): same sub-plan on the fashion industry, from a different source document.
 - [Plus-Size Advocates Criticise the Ratajkowski Shoot](plus_size_advocates_criticise_ratajkowski_shoot.md): same sub-plan on the fashion industry, from a different source document.
+- [ASOS 2023 Annual Losses and Debt](asos_2023_annual_losses_and_debt.md): same source document (doc_0397)
+- [ASOS Business Model Vulnerabilities](asos_business_model_vulnerabilities.md): same source document (doc_0397)
+- [ASOS: Online Fashion Retailer Profile](asos_online_fashion_retailer_profile.md): same source document (doc_0397)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

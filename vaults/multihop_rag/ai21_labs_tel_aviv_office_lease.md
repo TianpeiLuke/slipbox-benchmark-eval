@@ -11,12 +11,18 @@ Writing on 3 December 2023, Globes notes that it will now be interesting to see 
 
 ## Related Notes
 
+
 - [Check Point Business Continuity During The Israel War](check_point_business_continuity_during_the_israel_war.md): also concerns a Tel Aviv technology company operating through the war, from a different source document.
 - [Eylon Levy Israeli Government Spokesperson](eylon_levy_israeli_government_spokesperson.md): also concerns Tel Aviv during the same war, from a different source document.
 - [Israeli Economy In The First Week Of The Gaza War](israeli_economy_in_the_first_week_of_the_gaza_war.md): covers the wider Tel Aviv economic impact of the war, from a different source document.
 - [Israeli Restraint Policy Toward Gaza](israeli_restraint_policy_toward_gaza.md): also concerns Tel Aviv and the conflict backdrop, from a different source document.
 - [October 7 Technological Failure Of The Barrier](october_7_technological_failure_of_the_barrier.md): also concerns Tel Aviv and the war's origin, from a different source document.
 - [Amot Investments Portfolio And War Scenario Assessment](amot_investments_portfolio_and_war_scenario_assessment.md): drawn from the same article and reports how a big landlord assessed the same market.
+- [Azrieli Group's Office Portfolio In Q3 2023](azrieli_group_office_portfolio_q3_2023.md): same source document (doc_0217)
+- [Israeli Office Demand Recovery After October 7](israel_office_demand_recovery_after_october_7.md): same source document (doc_0217)
+- [Israel's Office Space Oversupply](israel_office_space_oversupply.md): same source document (doc_0217)
+- [The Naimi Park Office Development At Messubim](naimi_park_office_development_messubim.md): same source document (doc_0217)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

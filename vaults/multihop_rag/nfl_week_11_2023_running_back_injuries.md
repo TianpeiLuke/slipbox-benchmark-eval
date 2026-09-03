@@ -11,12 +11,19 @@ Kenneth Walker III of the Seahawks took four carries against the Rams before lea
 
 ## Related Notes
 
+
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): also covers D'Onta Foreman in the Chicago backfield, from a different source document.
 - [Bears Vikings MNF First Half](bears_vikings_mnf_first_half.md): also covers Khalil Herbert, from a different source document.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): also covers D'Onta Foreman, from a different source document.
 - [Cole Kmet Week 6 2023 Start Recommendation](cole_kmet_week6_2023_start_recommendation.md): also covers Khalil Herbert, from a different source document.
 - [Dolphins 45-15 Commanders Week 13](dolphins_45_15_commanders_week_13.md): also covers De'Von Achane, from a different source document.
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): another running-back injury from the same Week 11 roundup (doc_0113).
+- [Cooper Kupp: A Week 11 Ankle Sprain And The Week 13 Case For Benching A Stud](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): same source document (doc_0113)
+- [NFL Week 11 2023: Joey Bosa Carted Off And Talanoa Hufanga Lost For The Season](nfl_week_11_2023_defensive_player_injuries.md): same source document (doc_0113)
+- [NFL Week 11 2023: Three Starting Quarterbacks Hurt, All Three Stayed Or Returned](nfl_week_11_2023_quarterback_injuries.md): same source document (doc_0113)
+- [NFL Week 11 2023: Tyreek Hill Returns From A Hand Injury, Darius Slayton Does Not](nfl_week_11_2023_wide_receiver_injuries.md): same source document (doc_0113)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

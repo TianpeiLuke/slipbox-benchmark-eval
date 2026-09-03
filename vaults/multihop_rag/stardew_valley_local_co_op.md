@@ -13,6 +13,7 @@ Local co-op is available for two players, with a practical caveat — do not for
 
 ## Related Notes
 
+
 - [Animal Crossing: New Horizons](animal_crossing_new_horizons.md): overlapping farming-and-friends vocabulary from a different source document
 - [Diablo 4 Season 2 Endgame Uber Bosses](diablo_4_season_2_endgame_uber_bosses.md): incidental "farming" term overlap from a separate article
 - [Diablo 4 Season 2 Nightmare Dungeon and Travel Changes](diablo_4_season_2_nightmare_dungeon_and_travel_changes.md): another incidental farming-vocabulary collision
@@ -21,6 +22,8 @@ Local co-op is available for two players, with a practical caveat — do not for
 - [Cat Quest 2](cat_quest_2.md): a fellow entry in the same Switch co-op article
 - [Crypt of the NecroDancer](crypt_of_the_necrodancer.md): another local co-op recommendation from the same document
 - [Cuphead Local Co-Op](cuphead_local_co_op.md): another two-player pick in the same roundup
+- [Diablo 3 (Switch Local Multiplayer)](diablo_3_switch_local_multiplayer.md): same source document (doc_0428)
+- [Escape Academy](escape_academy.md): same source document (doc_0428)
 
 ## Source
 

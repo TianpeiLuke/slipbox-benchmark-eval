@@ -11,11 +11,18 @@ The warrant joining that claim to the penalty is a claim about what a head coach
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): another Big Ten item from a different document.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also concerns the Big Ten, separately sourced.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): the conference-wide reaction that framed this doctrine, in another document.
 - [Big Ten Commissioner Petitti's Punishment Dilemma](big_ten_commissioner_petitti_punishment_dilemma.md): the decision this reasoning was used to settle, reported elsewhere.
 - [The Big Ten's 2023 Run of Scandals](big_ten_conference_scandal_run_2023.md): another Big Ten governance item from a different source.
+- [The Big Ten's Deliberation Over Harbaugh's Punishment](big_ten_deliberation_over_harbaugh_punishment.md): same source document (doc_0180)
+- [The Big Ten Suspends Jim Harbaugh For Three Games](big_ten_suspension_of_jim_harbaugh.md): same source document (doc_0180)
+- [Chris Partridge's Firing And The Evidence-Destruction Allegation](chris_partridge_firing_and_evidence_destruction.md): same source document (doc_0180)
+- [Connor Stalions And The In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): same source document (doc_0180)
+- [Michigan Drops Its Suit And Accepts The Three-Game Ban](michigan_litigation_resolution_and_accepted_ban.md): same source document (doc_0180)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

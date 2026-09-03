@@ -11,6 +11,7 @@ The argument stops short of dismissing capture, however. Given the urgency of cl
 
 ## Related Notes
 
+
 - [Radiative Forcing and Climate Feedbacks](radiative_forcing_and_climate_feedbacks.md): explains how greenhouse gases in the atmosphere drive the warming this argument addresses.
 - [The "Unabated" Qualifier as a Fossil Fuel Loophole](the_unabated_qualifier_as_a_fossil_fuel_loophole.md): another dispute over whether capture can substitute for cutting emissions.
 - [Adelaide 36ers Upset New Zealand Breakers in Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): connected through a shared corpus tag rather than subject matter.
@@ -19,6 +20,15 @@ The argument stops short of dismissing capture, however. Given the urgency of cl
 - [Andre Onana's Goalkeeping Errors in the 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): connected through a shared corpus tag rather than subject matter.
 - [Apple iOS Security Fixes and Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): connected through a shared corpus tag rather than subject matter.
 - [Baker Mayfield's 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): connected through a shared corpus tag rather than subject matter.
+- [MBenes: Boron-Based Nanosheets](mbenes_boron_based_nanosheets.md): same source document (doc_0247)
+- [MXene Family Diversity and Tunability](mxene_family_diversity_and_tunability.md): same source document (doc_0247)
+- [MXene Ink, Films and Deployment Formats](mxene_ink_films_and_deployment_formats.md): same source document (doc_0247)
+- [MXene Nanosheet Structure](mxene_nanosheet_structure.md): same source document (doc_0247)
+- [MXene Synthesis from MAX Phases](mxene_synthesis_from_max_phases.md): same source document (doc_0247)
+- [Practical Limitations of MXene Carbon Capture](practical_limitations_of_mxene_carbon_capture.md): same source document (doc_0247)
+- [Releasing and Converting CO2 Captured by MXenes](releasing_and_converting_co2_captured_by_mxenes.md): same source document (doc_0247)
+- [Why MXenes Capture CO2 Selectively](why_mxenes_capture_co2_selectively.md): same source document (doc_0247)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

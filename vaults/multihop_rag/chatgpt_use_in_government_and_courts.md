@@ -11,11 +11,21 @@ Other cases show the same tension. City lawmakers in Brazil enacted a piece of l
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): also covers South Africa, from a different source document.
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also covers South Africa, from a different source document.
 - [AI Civil Rights and Consumer Protections in the Eo](ai_civil_rights_and_consumer_protections_in_the_eo.md): shares the data privacy and earnings report theme, from a different source document.
 - [CCPA CPPA Regulatory Lineage](ccpa_cppa_regulatory_lineage.md): shares the data privacy and draft pick theme, from a different source document.
 - [Damian Penaud Try Scoring Record Run](damian_penaud_try_scoring_record_run.md): also covers South Africa, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): same source document (doc_0048)
+- [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): same source document (doc_0048)
+- [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): same source document (doc_0048)
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
+- [Patent Litigation](term_patent_litigation.md): uses the concept patent litigation
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

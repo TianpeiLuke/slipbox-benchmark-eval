@@ -11,6 +11,7 @@ The grounds are the offense's showing on the night. Bryce Young struggled to dev
 
 ## Related Notes
 
+
 - [Buccaneers 21-18 Panthers: Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): also discusses Bryce Young, from a different document.
 - [Colts Panthers Week 9 Spread Pick](colts_panthers_week_9_spread_pick.md): also discusses Bryce Young, from a different document.
 - [Dispute Over Readiness of AI Content Detection Tooling](dispute_over_readiness_of_ai_content_detection_tooling.md): shares the shape of a dispute over what one should believe, from a different document.
@@ -19,6 +20,8 @@ The grounds are the offense's showing on the night. Bryce Young struggled to dev
 - [Bears 16, Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): the game in which the call was made, from the same document.
 - [Bears Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): covers the same broadcast, from the same document.
 - [Bears Panthers Pregame Storylines Week 10](bears_panthers_pregame_storylines_week_10.md): sets up the game the call decided, from the same document.
+- [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): same source document (doc_0489)
+- [D.J. Moore's First Game Against The Panthers](dj_moore_first_game_against_the_panthers.md): same source document (doc_0489)
 
 ## Source
 

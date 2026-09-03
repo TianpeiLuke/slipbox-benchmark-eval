@@ -11,11 +11,20 @@ The Epic case had shed co-plaintiffs on its way to trial. Epic's lawsuit origina
 
 ## Related Notes
 
+
 - [Activision $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): also concerns Google Play litigation evidence, from a different document.
 - [Activision, Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): also concerns Google Play, from a different document.
 - [Android App Distribution Market Definition](android_app_distribution_market_definition.md): also covers Tim Sweeney and Epic's market theory, from a different document.
 - [Apple 2023 Top iPad Apps And Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): shares the antitrust and streaming-service themes, from a different document.
 - [Apple 2023 Top iPhone Apps And Games Lists](apple_2023_top_iphone_apps_and_games_lists.md): shares the antitrust and streaming-service themes, from a different document.
+- [Epic's Argument That Google Blocks Alternative Android App Stores](android_alternative_app_store_barriers.md): same source document (doc_0042)
+- [Epic Games v. Google Goes To Trial On November 6, 2023](epic_games_v_google_antitrust_trial.md): same source document (doc_0042)
+- [Expedia's Testimony On Google Ad Costs And Organic Listings](expedia_testimony_on_google_search_ads.md): same source document (doc_0015)
+- [Firefox's Decline: The Chrome Share Alternative Explanation](firefox_decline_alternative_explanation_chrome_share.md): same source document (doc_0015)
+- [Firefox's Yahoo Default Search Switch, As Recounted By Mitchell Baker](firefox_yahoo_default_search_switch.md): same source document (doc_0015)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

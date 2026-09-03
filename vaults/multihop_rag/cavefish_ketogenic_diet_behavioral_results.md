@@ -11,6 +11,7 @@ In the experiment, cavefish were fed the same ketogenic milk provided to human p
 
 ## Related Notes
 
+
 - [AI Pricing Models](ai_pricing_models.md): connected through a shared corpus tag rather than subject matter.
 - [AMOT Investments' Portfolio and War Scenario Assessment](amot_investments_portfolio_and_war_scenario_assessment.md): connected through a shared corpus tag rather than subject matter.
 - [Apple M3 Chip Architecture and GPU Features](apple_m3_chip_architecture_and_gpu_features.md): connected through a shared corpus tag rather than subject matter.
@@ -19,6 +20,11 @@ In the experiment, cavefish were fed the same ketogenic milk provided to human p
 - [Digital Twins Deployed for Sustainability Goals](digital_twins_deployed_for_sustainability_goals.md): connected through a shared corpus tag rather than subject matter.
 - [Discord Shop, Remix and Client Improvements](discord_shop_remix_and_client_improvements.md): connected through a shared corpus tag rather than subject matter.
 - [Global Policy Responses to Ultra-Processed Foods](global_policy_responses_to_ultra_processed_foods.md): another item about diet and health policy.
+- [How Ketones Might Act on Behavior](how_ketones_might_act_on_behavior.md): same source document (doc_0391)
+- [The Ketogenic Diet and Ketosis](ketogenic_diet_and_ketosis.md): same source document (doc_0391)
+- [Mexican Cavefish as an Autism Model](mexican_cavefish_as_an_autism_model.md): same source document (doc_0391)
+- [Origin of the Cavefish Ketogenic Diet Collaboration](origin_of_the_cavefish_ketogenic_diet_collaboration.md): same source document (doc_0391)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
 
 ## Source
 

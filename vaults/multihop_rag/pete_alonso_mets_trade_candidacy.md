@@ -11,12 +11,18 @@ New York had subsequently walked back some of its statements about a possible re
 
 ## Related Notes
 
+
 - [New York Mets Manager Search After Showalter](new_york_mets_manager_search_after_showalter.md): also discusses David Stearns, from a different document.
 - [San Francisco Giants 2023 Offseason Signings](san_francisco_giants_2023_offseason_signings.md): also concerns Opening Day roster planning, from a different document.
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): another candidate on the same list, from the same document.
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
+- [Christopher Morel Cubs Trade Candidacy](christopher_morel_cubs_trade_candidacy.md): same source document (doc_0118)
+- [Corbin Burnes And Willy Adames Brewers Trade Candidacy](corbin_burnes_willy_adames_brewers_trade_candidacy.md): same source document (doc_0118)
+- [Dylan Carlson Cardinals Trade Candidacy](dylan_carlson_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

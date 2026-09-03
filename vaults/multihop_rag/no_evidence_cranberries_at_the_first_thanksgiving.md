@@ -13,6 +13,7 @@ The warrant offered for the omission is the plant's own inconspicuousness. Cox a
 
 ## Related Notes
 
+
 - [Cranberries And New England Regional Identity](cranberries_and_new_england_regional_identity.md): same article, on the Pilgrim landscape this argument concerns
 - [American Cranberry Native Range And Harvest Window](american_cranberry_native_range_and_harvest_window.md): same article, on the plant's native range
 - [Cranberry Industry Scale And Urann Legacy](cranberry_industry_scale_and_urann_legacy.md): same article, on the 20th-century rise that actually put it on the table
@@ -20,6 +21,10 @@ The warrant offered for the omission is the plant's own inconspicuousness. Cox a
 - [Canada Ski Holidays Overview](canada_ski_holidays_overview.md): shares only a North America tag, unrelated subject
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): shares only a North America tag, unrelated subject
 - [Aging With Hiv And The Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): shares only a North America tag, unrelated subject
+- [The Case Against Supersized Electric Vehicles](case_against_supersized_electric_vehicles.md): both discuss North America; different source document
+- [The Cranberry Wet-Harvesting Method](cranberry_wet_harvesting_method.md): same source document (doc_0130)
+- [Marcus Urann, The "Cranberry King"](marcus_urann_cranberry_king_biography.md): same source document (doc_0130)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

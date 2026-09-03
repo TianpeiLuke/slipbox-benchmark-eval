@@ -11,6 +11,7 @@ The Discover it Cash Back Card, like the Cash Magnet, doesn't have an annual fee
 
 ## Related Notes
 
+
 - [Chase Ink Business Preferred Card Comparison](chase_ink_business_preferred_card_comparison.md): overlapping coverage of card purchases and rewards, from a different source document.
 - [Tradeoffs Of The Higher-Rate Cash Back Alternative Versus The Fifth Third Card](citi_double_cash_tradeoffs_versus_fifth_third_card.md): overlapping coverage of what a competing card earns and charges, from a different source document.
 - [Console Gift Card Black Friday Deals](console_gift_card_black_friday_deals.md): overlapping coverage of card purchases, from a different source document.
@@ -19,6 +20,8 @@ The Discover it Cash Back Card, like the Cash Magnet, doesn't have an annual fee
 - [Amex Cash Magnet Approval Odds And Credit Limits](amex_cash_magnet_approval_odds_and_credit_limits.md): drawn from the same source document (doc_0471).
 - [The Amex Cash Magnet Best-Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): drawn from the same source document (doc_0471).
 - [American Express Cash Magnet Card: Overview](amex_cash_magnet_card_overview.md): drawn from the same source document (doc_0471).
+- [Amex Cash Magnet Cardholder Benefits](amex_cash_magnet_cardholder_benefits.md): same source document (doc_0471)
+- [Amex Cash Magnet Rates And Fees](amex_cash_magnet_rates_and_fees.md): same source document (doc_0471)
 
 ## Source
 

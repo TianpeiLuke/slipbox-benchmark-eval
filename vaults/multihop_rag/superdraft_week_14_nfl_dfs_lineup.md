@@ -11,6 +11,7 @@ The stated construction logic was that Sporting News combined forces between its
 
 ## Related Notes
 
+
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also discusses Mike Evans, from a different document.
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): also discusses Justin Fields, from a different document.
 - [Browns Survive Bears Game-Ending Hail Mary](bears_game_ending_hail_mary_vs_browns.md): also discusses Justin Fields, from a different document.
@@ -19,6 +20,8 @@ The stated construction logic was that Sporting News combined forces between its
 - [DraftKings NFL DFS Contest Format and Scoring](draftkings_nfl_dfs_contest_format_and_scoring.md): the salary-cap format this multiplier lineup contrasts with (doc_0331).
 - [DraftKings Week 14 DFS QB and RB Picks](draftkings_week_14_dfs_qb_and_rb_picks.md): the salary-cap picks that feed this lineup (doc_0331).
 - [DraftKings Week 14 DFS WR, TE, Flex and Defense Picks](draftkings_week_14_dfs_wr_te_flex_and_defense_picks.md): the rest of the salary-cap lineup (doc_0331).
+- [FanDuel NFL DFS Contest Format And Scoring Rules](fanduel_nfl_dfs_contest_format_and_scoring.md): same source document (doc_0276)
+- [FanDuel Week 14 DFS Quarterback And Running Back Picks](fanduel_week_14_dfs_qb_and_rb_picks.md): same source document (doc_0276)
 
 ## Source
 

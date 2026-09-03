@@ -13,6 +13,7 @@ While she cannot speak to the quality of other vacuum sealers, the FoodSaver she
 
 ## Related Notes
 
+
 - [iRobot Roomba Black Friday Deals](irobot_roomba_black_friday_deals.md): shares the discounted-vacuum-machine theme, from a different source document.
 - [Shark Matrix Robot Vacuum Deal](shark_matrix_robot_vacuum_deal.md): shares the vacuum-appliance theme, from a different source document.
 - [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): drawn from the same source document (doc_0575).
@@ -21,6 +22,8 @@ While she cannot speak to the quality of other vacuum sealers, the FoodSaver she
 - [Baboon To The Moon Fanny Pack](baboon_to_the_moon_fanny_pack.md): drawn from the same source document (doc_0575).
 - [The Bedside Charging Station Habit](bedside_charging_station_habit.md): drawn from the same source document (doc_0575).
 - [ChomChom Pet Hair Remover](chomchom_pet_hair_remover.md): drawn from the same source document (doc_0575).
+- [Epicka Universal Travel Adapter](epicka_universal_travel_adapter.md): same source document (doc_0575)
+- [The Fuzzy Cat Bed Office Companion](fuzzy_cat_bed_office_companion.md): same source document (doc_0575)
 
 ## Source
 

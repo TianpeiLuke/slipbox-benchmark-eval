@@ -13,6 +13,7 @@ The boundary case is partial sale rather than exit. Because the Glazers will rem
 
 ## Related Notes
 
+
 - [Glazer Communications Silence and Ratcliffe PR Task](glazer_communications_silence_and_ratcliffe_pr_task.md): overlaps on the Glazers, supporters and Ratcliffe, from a different document.
 - [Jim Ratcliffe Minority Stake in Manchester United](jim_ratcliffe_minority_stake_in_manchester_united.md): overlaps on Ratcliffe, control and United, from a different document.
 - [Ratcliffe Glazer Ownership Split and Control Risk](ratcliffe_glazer_ownership_split_and_control_risk.md): overlaps on Ratcliffe, control and United, from a different document.
@@ -21,6 +22,7 @@ The boundary case is partial sale rather than exit. Because the Glazers will rem
 - [The Manchester United Takeover Bidding Process 2022-2023](manchester_united_takeover_bidding_process_2022_2023.md): drawn from the same document (doc_0366).
 - [Paul Mitchell Blueprint for a Manchester United Rebuild](paul_mitchell_blueprint_for_manchester_united_rebuild.md): drawn from the same document (doc_0166).
 - [Paul Mitchell Long-Term Recruitment Philosophy](paul_mitchell_long_term_recruitment_philosophy.md): drawn from the same document (doc_0166).
+- [Paul Mitchell's Recruitment Career Record](paul_mitchell_recruitment_career_record.md): same source document (doc_0166)
 
 ## Source
 

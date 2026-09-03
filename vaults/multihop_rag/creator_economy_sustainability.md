@@ -13,12 +13,19 @@ The warrant joining grounds to claim is an economics argument about returns: it 
 
 ## Related Notes
 
+
 - [DeepMind's Founding And Thiel's Investment](deepmind_founding_and_thiel_investment.md): shares the creator economy and venture capital themes, from a different source document.
 - [Spill's Public Launch And Creator Payment Plans](spill_public_launch_and_creator_payment_plans.md): overlaps on creators and on Spill, the creator-facing social app, from a different source document.
 - [StarNews Mobile's $3M Pre-Series A Round](starnews_funding_round.md): shares the creator economy and venture capital themes, from a different source document.
 - [StarNews Mobile As An African Mobile Video Network](starnews_mobile_platform.md): shares the creator economy and venture capital themes, from a different source document.
 - [Trible, No-Code App Building And The Creator Economy](trible_no_code_app_builder_and_creator_economy.md): overlaps on creators and the creator economy, from a different source document.
 - [Adobe's Firefly Generative AI Tools And Project Stardust](adobe_generative_ai_tools.md): drawn from the same source document (doc_0043).
+- [AI Day Of Action Campaign](ai_day_of_action_campaign.md): same source document (doc_0043)
+- [Brave Software Lays Off 9% Of Its Workforce](brave_software_layoffs.md): same source document (doc_0043)
+- [Meta Quest 3 And The Affordable End Of AR/VR Hardware](consumer_ar_vr_hardware.md): same source document (doc_0043)
+- [Whether Founders Should Attend Events](founder_event_attendance_debate.md): same source document (doc_0043)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

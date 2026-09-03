@@ -11,6 +11,7 @@ The grounds are his production line — 54 tackles, three for loss, one intercep
 
 ## Related Notes
 
+
 - [Patriots 26-23 Broncos Christmas Eve Result](patriots_26_23_broncos_christmas_eve_result.md): also covers the Patriots that season, from a different document.
 - [Patriots Broncos Pregame Inactives And Lineups](patriots_broncos_pregame_inactives_and_lineups.md): also discusses Jabrill Peppers, from a different document.
 - [AFC Midseason Team MVP Roundup Premise](afc_midseason_team_mvp_roundup_premise.md): the premise framing this entry, from the same document.
@@ -19,6 +20,8 @@ The grounds are his production line — 54 tackles, three for loss, one intercep
 - [Joe Burrow Bengals Midseason MVP](joe_burrow_bengals_midseason_mvp.md): another entry in the same list, from the same document.
 - [Josh Allen Bills Midseason MVP](josh_allen_bills_midseason_mvp.md): another entry in the same list, from the same document.
 - [Keenan Allen Chargers Midseason MVP](keenan_allen_chargers_midseason_mvp.md): another entry in the same list, from the same document.
+- [Lamar Jackson Ravens Midseason MVP](lamar_jackson_ravens_midseason_mvp.md): same source document (doc_0515)
+- [Maxx Crosby Raiders Midseason MVP](maxx_crosby_raiders_midseason_mvp.md): same source document (doc_0515)
 
 ## Source
 

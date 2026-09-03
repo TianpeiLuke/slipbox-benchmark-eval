@@ -13,6 +13,7 @@ Kathy Kay, executive VP and CIO at Principal Financial Group, a financial servic
 
 ## Related Notes
 
+
 - [Adobe Generative AI Tools](adobe_generative_ai_tools.md): shares the generative-AI theme, from a different source document.
 - [AI Copyright And Training Disputes](ai_copyright_and_training_disputes.md): shares the generative-AI theme, from a different source document.
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): shares the generative-AI theme, from a different source document.
@@ -21,6 +22,11 @@ Kathy Kay, executive VP and CIO at Principal Financial Group, a financial servic
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): shares the generative-AI theme, from a different source document.
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the generative-AI theme, from a different source document.
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares the generative-AI theme, from a different source document.
+- [The CIO Tension Between AI Pressure And Caution](cio_tension_between_ai_pressure_and_caution.md): same source document (doc_0160)
+- [Deloitte's Guidance On Structuring Enterprise AI Adoption](deloitte_guidance_on_structuring_enterprise_ai_adoption.md): same source document (doc_0160)
+- [Enterprise Caution On Generative AI Adoption](enterprise_generative_ai_adoption_caution.md): same source document (doc_0160)
+- [Measuring Generative AI Productivity At Juniper Networks](measuring_generative_ai_productivity_at_juniper_networks.md): same source document (doc_0160)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

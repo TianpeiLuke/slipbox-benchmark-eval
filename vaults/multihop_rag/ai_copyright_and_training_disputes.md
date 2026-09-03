@@ -13,12 +13,17 @@ The dispute is not confined to music. In a roundtable hosted by the FTC that sam
 
 ## Related Notes
 
+
 - [Capitol Music Group Leadership Turmoil 2020-2021](capitol_music_group_leadership_turmoil_2020_2021.md): also concerns Universal Music Group, from a different source document.
 - [Dream Track Artist Selection And Licensing Questions](dream_track_artist_selection_and_licensing_questions.md): also concerns Universal Music Group, and its licensing questions sit on the same fault line, from a different source document.
 - [EU US Performance Rights Asymmetry](eu_us_performance_rights_asymmetry.md): overlapping coverage of artists and music compensation, from a different source document.
 - [Generative AI Deepfakes Harm To Artists](generative_ai_deepfakes_harm_to_artists.md): overlapping coverage of artists, creative work and affected industries, from a different source document.
 - [Regulatory Investigations Into OpenAI 2023](regulatory_investigations_into_openai_2023.md): shares the fraud and generative-AI themes, from a different source document.
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): drawn from the same source document; the organized campaign response to these disputes.
+- [Creative Industries AI Concerns](creative_industries_ai_concerns.md): same source document (doc_0272)
+- [FTC Generative AI Roundtable](ftc_generative_ai_roundtable.md): same source document (doc_0272)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Fraud](term_fraud.md): uses the concept fraud
 
 ## Source
 

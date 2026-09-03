@@ -11,10 +11,18 @@ The institutional expression includes establishing a technological division, Shi
 
 ## Related Notes
 
+
 - [2023 Bowl Season Completed Game Results](2023_bowl_season_completed_game_results.md): also discusses Air Force, from a different source document.
 - [Eylon Levy Aliyah and IDF Service](eylon_levy_aliyah_and_idf_service.md): also discusses Operation Protective Edge, from a different source document.
 - [National Public Diplomacy Directorate](national_public_diplomacy_directorate.md): shares vocabulary around directorate, ministry and israel, from a different source document.
 - [War Duration and Scenarios Driving Israeli Growth Damage](war_duration_and_scenarios_driving_israeli_growth_damage.md): also references the Yom Kippur War, from a different source document.
+- [The Berlin Wall's Low-Tech Defense Lesson](berlin_wall_low_tech_defense_lesson.md): same source document (doc_0078)
+- [The Construction Of The Gaza Border Barrier](gaza_border_barrier_construction.md): same source document (doc_0078)
+- [The Iron Dome's Strategic Paradox](iron_dome_strategic_paradox.md): same source document (doc_0078)
+- [What Israeli Leaders Claimed The Gaza Barrier Would Do](israeli_leaders_claims_about_the_gaza_barrier.md): same source document (doc_0078)
+- [Israel's Restraint Policy Toward Gaza](israeli_restraint_policy_toward_gaza.md): same source document (doc_0078)
+- [The Technological Failure Of The Barrier On October 7](october_7_technological_failure_of_the_barrier.md): same source document (doc_0078)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

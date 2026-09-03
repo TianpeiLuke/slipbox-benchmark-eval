@@ -13,11 +13,17 @@ Its origin lies in a single source text. "I'd wanted to write a novel of colonia
 
 ## Related Notes
 
+
 - [Bill Kenwright Dies Aged 78](bill_kenwright_death_aged_78.md): another article that also refers to a West End, in a different sense and document
 - [Bill Kenwright's West End Theatre Productions](bill_kenwright_west_end_theatre_productions.md): another West End reference from a different document
 - [Owen Teale On Barry The Bear And His Route Into Acting](owen_teale_barry_the_bear_route_into_acting.md): another arts interview carrying the same publisher boilerplate
 - [Shameless Media Podcast Company Profile](shameless_media_podcast_company_profile.md): another feature from the same publishing family, sharing page furniture
 - [Streaming Exclusivity Erosion And Maestro](streaming_exclusivity_erosion_and_maestro.md): another culture piece sharing the same site boilerplate
+- [The Botched Public Hanging Of Dundalli, Brisbane 1855](dundalli_public_hanging_brisbane_1855.md): same source document (doc_0283)
+- [Lucashenko's Argument Against The Trope Of The Dying Race](lucashenko_on_aboriginal_survival_and_the_dying_race_trope.md): same source document (doc_0283)
+- [Melissa Lucashenko: Family History, Late-Discovered Ancestry And A Writing Career](melissa_lucashenko_family_history_and_writing_career.md): same source document (doc_0283)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Embedded Finance](term_embedded_finance.md): uses the concept embedded finance
 
 ## Source
 

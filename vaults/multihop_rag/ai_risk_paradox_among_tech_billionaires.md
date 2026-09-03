@@ -11,6 +11,7 @@ That debate has pitted some of the world's richest men against one another: Musk
 
 ## Related Notes
 
+
 - [BlackBerry Matt Johnson Film](blackberry_matt_johnson_film.md): also concerns Silicon Valley, from a different source document.
 - [ChatGPT 100 Million User Milestone](chatgpt_100_million_user_milestone.md): also concerns Sam Altman's company, from a different source document.
 - [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): also concerns Sam Altman's company, from a different source document.
@@ -18,6 +19,10 @@ That debate has pitted some of the world's richest men against one another: Musk
 - [ChatGPT Launch And First Year Evolution](chatgpt_launch_and_first_year_evolution.md): also concerns Sam Altman, from a different source document.
 - [AlphaGo As Evidence For AI Risk Concerns](alphago_as_evidence_for_ai_risk_concerns.md): drawn from the same article and shows the risk camp claiming vindication.
 - [Anthropic Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): drawn from the same article and is another instance of the paradox in action.
+- [DeepMind's Ethics Board And Its Single Meeting In 2015](deepmind_ethics_board_single_meeting_2015.md): same source document (doc_0027)
+- [DeepMind's Founding And Thiel's Investment](deepmind_founding_and_thiel_investment.md): same source document (doc_0027)
+- [DeepMind's Sale To Google And Facebook's AI Lab](deepmind_google_acquisition_and_facebook_ai_lab.md): same source document (doc_0027)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

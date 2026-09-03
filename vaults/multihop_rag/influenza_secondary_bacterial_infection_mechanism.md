@@ -13,6 +13,7 @@ Sylvester draws the practical consequence directly from the mechanism: "A viral 
 
 ## Related Notes
 
+
 - [Canine Atypical Respiratory Illness 2023 Outbreak](canine_atypical_respiratory_illness_2023_outbreak.md): overlapping vocabulary on illness, viral, respiratory, from a different source document.
 - [Canine Illness True Case Count Likely Thousands](canine_illness_true_case_count_likely_thousands.md): overlapping vocabulary on influenza, illness, respiratory, from a different source document.
 - [Canine Respiratory Illness Cause Evidence Caveats](canine_respiratory_illness_cause_evidence_caveats.md): overlapping vocabulary on illness, virus, viral, from a different source document.
@@ -21,6 +22,8 @@ Sylvester draws the practical consequence directly from the mechanism: "A viral 
 - [Allison Miller Case for Annual Flu Vaccination](allison_miller_case_for_annual_flu_vaccination.md): drawn from the same source document (doc_0065).
 - [Allison Miller Influenza Sepsis and Leg Amputation](allison_miller_influenza_sepsis_and_leg_amputation.md): drawn from the same source document (doc_0065).
 - [Allison Miller Life after Amputation and Organ Damage](allison_miller_life_after_amputation_and_organ_damage.md): drawn from the same source document (doc_0065).
+- [CDC's 2021-2022 Flu Burden Estimate And Vaccination Recommendation](cdc_2021_2022_flu_burden_and_vaccination_recommendation.md): same source document (doc_0065)
+- [Flu Vaccine Timing And Severity Reduction, According To Sylvester](flu_vaccine_timing_and_severity_reduction_sylvester.md): same source document (doc_0065)
 
 ## Source
 

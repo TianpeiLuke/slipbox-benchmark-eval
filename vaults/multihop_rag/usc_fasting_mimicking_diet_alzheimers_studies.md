@@ -13,6 +13,7 @@ Dr. Joseph Antoun, CEO and chairman of the nutritech company L-Nutra in Californ
 
 ## Related Notes
 
+
 - [Alzheimers Lecanemab and Aducanumab Approvals](alzheimers_lecanemab_and_aducanumab_approvals.md): overlapping vocabulary on alzheimer, cognitive, brain, from a different source document.
 - [Ketogenic Diet and Ketosis](ketogenic_diet_and_ketosis.md): overlapping vocabulary on diet, brain, effects, from a different source document.
 - [Lecanemab and Donanemab Amyloid Drugs](lecanemab_and_donanemab_amyloid_drugs.md): overlapping vocabulary on alzheimer, brain, plaques, from a different source document.
@@ -21,6 +22,8 @@ Dr. Joseph Antoun, CEO and chairman of the nutritech company L-Nutra in Californ
 - [Circadian Clock Realignment through Meal Timing](circadian_clock_realignment_through_meal_timing.md): drawn from the same source document (doc_0309).
 - [Limitations of the UCSD Fasting Mouse Study](limitations_of_the_ucsd_fasting_mouse_study.md): drawn from the same source document (doc_0309).
 - [Longo Recommendation to Pair Fasting with Standard Care](longo_recommendation_to_pair_fasting_with_standard_care.md): drawn from the same source document (doc_0309).
+- [Time-Restricted Eating Versus Calorie-Restricted Fasting](time_restricted_eating_versus_calorie_restricted_fasting.md): same source document (doc_0309)
+- [Translating Time-Restricted Eating Into Human Alzheimer's Trials](translating_time_restricted_eating_to_human_alzheimers_trials.md): same source document (doc_0309)
 
 ## Source
 

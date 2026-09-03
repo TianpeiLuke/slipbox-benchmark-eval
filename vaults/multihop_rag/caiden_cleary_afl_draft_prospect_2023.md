@@ -11,6 +11,7 @@ His ferocious attack on the ball and his opponent helped set the tone for the Al
 
 ## Related Notes
 
+
 - [Swans Matchday Experience Drives Local Attendance](swans_matchday_experience_drives_local_attendance.md): also concerns the Sydney Swans, from a different document.
 - [Sydney Swans First AFLW Finals Berth](sydney_swans_first_aflw_finals_berth.md): also concerns the Sydney Swans, from a different document.
 - [Sydney Swans Top AFLW Attendance Charts](sydney_swans_top_aflw_attendance_charts.md): also concerns the Sydney Swans, from a different document.
@@ -19,6 +20,8 @@ His ferocious attack on the ball and his opponent helped set the tone for the Al
 - [Archie Roberts AFL Draft Prospect 2023](archie_roberts_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Ari Schoenmaker AFL Draft Prospect 2023](ari_schoenmaker_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Ashton Moya AFL Draft Prospect 2023](ashton_moya_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
+- [Caleb Windsor AFL Draft Prospect 2023](caleb_windsor_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Charlie Edwards AFL Draft Prospect 2023](charlie_edwards_afl_draft_prospect_2023.md): same source document (doc_0244)
 
 ## Source
 

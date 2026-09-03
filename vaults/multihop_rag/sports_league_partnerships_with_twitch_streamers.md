@@ -13,11 +13,19 @@ The warrant is a track record of partnerships that worked. LiveMode and FIFA par
 
 ## Related Notes
 
+
 - [Believe's Marketing Playbook for "Si No Estás"](believe_marketing_playbook_for_si_no_estas.md): both discuss Latin America, from a different source document
 - [Kravata's LatAm Fiat-Crypto On-Ramp](kravata_latam_fiat_crypto_onramp.md): another Latin America subject from a separate article
 - [Microsoft's Generative AI Disinformation Measures](microsoft_generative_ai_disinformation_measures.md): another Latin America reference from a different document
 - [Nike Regional and Product Category Sales, Fiscal Q1 2024](nike_regional_and_product_category_sales_fiscal_q1_2024.md): shares Latin America coverage from a separate source
 - [Spanish-Language Music Global Growth](spanish_language_music_global_growth.md): another Latin America subject from a different article
+- [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): same source document (doc_0435)
+- [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): same source document (doc_0435)
+- [EsfandTV's Sports Streaming Channel](esfandtv_sports_streaming_channel.md): same source document (doc_0435)
+- [Keira Megan's Sports Watch-Along Streams](keira_megan_sports_watch_along_streams.md): same source document (doc_0435)
+- [Twitch as an Alternative Sports Viewing Platform](twitch_as_an_alternative_sports_viewing_platform.md): same source document (doc_0435)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

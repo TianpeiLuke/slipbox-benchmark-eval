@@ -11,6 +11,7 @@ Erik ten Hag argued on 28 October 2023 that Bruno Fernandes' contribution has to
 
 ## Related Notes
 
+
 - [Champions League 2023-24 Group A: Bayern, Copenhagen](champions_league_2023_24_group_a_bayern_copenhagen.md): also covers Manchester United's scoring in this period, from a different document.
 - [Man United 2-1 Chelsea December 2023 Result](man_united_2_1_chelsea_december_2023_result.md): also discusses Bruno Fernandes, from a different document.
 - [Man United Chelsea December 2023 Team News and Lineups](man_united_chelsea_december_2023_team_news_and_lineups.md): also discusses Bruno Fernandes, from a different document.
@@ -19,6 +20,7 @@ Erik ten Hag argued on 28 October 2023 that Bruno Fernandes' contribution has to
 - [Manchester Derby 191st Edition Context](manchester_derby_191st_edition_context.md): the top-team fixture this reasoning was aimed at, from the same document.
 - [Onana as an Extra Outfield Player](onana_as_an_extra_outfield_player.md): another Ten Hag role definition from the same interview, from the same document.
 - [Onana Transfer Fee and Uneven Form at United](onana_transfer_fee_and_uneven_form_at_united.md): another player assessment from the same interview, from the same document.
+- [Ratcliffe's Bid For A Manchester United Stake](ratcliffe_bid_for_manchester_united_stake.md): same source document (doc_0330)
 
 ## Source
 

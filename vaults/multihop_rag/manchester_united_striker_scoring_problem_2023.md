@@ -13,11 +13,16 @@ Marcus Rashford's start to the season had been sobering, with one goal so far th
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors in the 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also concerns Ten Hag, from a different document.
 - [Calendar Year 2023 Top Goalscorer Race](calendar_year_2023_top_goalscorer_race.md): also concerns Erling Haaland, from a different document.
 - [Chelsea 4-4 Manchester City at Stamford Bridge](chelsea_4_4_manchester_city_stamford_bridge.md): also concerns Erling Haaland, from a different document.
 - [Cole Palmer's Move to Chelsea and Settling in London](cole_palmer_move_to_chelsea_and_settling_in_london.md): also concerns Erling Haaland, from a different document.
 - [Erik Ten Hag Position After Champions League Exit](erik_ten_hag_position_after_champions_league_exit.md): also concerns Ten Hag, from a different document.
+- [Manchester United's Pressing Statistics, October 2023](manchester_united_pressing_statistics_october_2023.md): same source document (doc_0571)
+- [PPDA: Passes Allowed Per Defensive Action](ppda_passes_allowed_per_defensive_action.md): same source document (doc_0571)
+- [Ten Hag's Rebuttal Of Carragher's "Going Backwards" Claim](ten_hag_rebuttal_of_carragher_going_backwards_claim.md): same source document (doc_0571)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

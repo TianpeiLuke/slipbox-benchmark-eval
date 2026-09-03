@@ -11,6 +11,7 @@ Engadget set that against a theme running through Teenage Engineering's recent p
 
 ## Related Notes
 
+
 - [Kids School Supply And Reading Timer Gifts 2023](kids_school_supply_and_reading_timer_gifts_2023.md): overlapping coverage of colorful countdown timers, from a different source document.
 - [K.O. II Design Lineage From The Pocket Operator Series](ko_ii_design_lineage_from_the_pocket_operator_series.md): drawn from the same source document (doc_0417).
 - [K.O. II "Fadergate" Defective Fader Reports](ko_ii_fadergate_defective_fader_reports.md): drawn from the same source document (doc_0417).
@@ -19,6 +20,8 @@ Engadget set that against a theme running through Teenage Engineering's recent p
 - [K.O. II Punch-In Effects And Performance Workflow](ko_ii_punch_in_effects_and_performance_workflow.md): drawn from the same source document (doc_0417).
 - [K.O. II Sample Manager Tool And Web MIDI Platform Limits](ko_ii_sample_manager_tool_and_web_midi_platform_limits.md): drawn from the same source document (doc_0417).
 - [K.O. II Super Segment Hybrid Display](ko_ii_super_segment_hybrid_display.md): drawn from the same source document (doc_0417).
+- [K.O. II Usability Without The Manual And Key Feel](ko_ii_usability_without_the_manual_and_key_feel.md): same source document (doc_0417)
+- [The K.O. II Verdict As An Affordable Performative Sampler](ko_ii_verdict_as_an_affordable_performative_sampler.md): same source document (doc_0417)
 
 ## Source
 

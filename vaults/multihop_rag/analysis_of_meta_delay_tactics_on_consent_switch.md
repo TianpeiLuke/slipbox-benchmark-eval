@@ -13,9 +13,14 @@ The bottom line is that in the not-too-distant future surveillance capitalism's 
 
 ## Related Notes
 
+
 - [Meta Justification for Subscription Choice](meta_justification_for_subscription_choice.md): substantial content overlap on privacy, meta, blog, from a different source document.
 - [Meta Legal Basis for Ad Tracking in EU](meta_legal_basis_for_ad_tracking_in_eu.md): substantial content overlap on consent, privacy, meta, from a different source document.
 - [Meta Pay or Consent GDPR Dimension](meta_pay_or_consent_gdpr_dimension.md): substantial content overlap on consent, privacy, referral, from a different source document.
+- [Meta's Legal Basis Chain For Personalized Ads Under GDPR](meta_legal_basis_chain_for_personalized_ads_under_gdpr.md): same source document (doc_0107)
+- [Meta's Response To The Norwegian DPA Referral](meta_response_to_norwegian_dpa_referral.md): same source document (doc_0107)
+- [Norway's Ban On Meta's Consentless Tracking Ads](norway_ban_on_meta_consentless_tracking_ads.md): same source document (doc_0107)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

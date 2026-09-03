@@ -13,6 +13,7 @@ The condition that could change this is political. "In the case of a Republican 
 
 ## Related Notes
 
+
 - [Engoron Summary Judgment That Trump Committed Fraud](engoron_summary_judgment_that_trump_committed_fraud.md): shares Donald Trump as a referenced actor.
 - [Jim Jordan Second Ballot Defeat](jim_jordan_second_ballot_defeat.md): shares Donald Trump as a referenced actor in US Republican politics.
 - [Jim Jordan Third Ballot Defeat and Withdrawal](jim_jordan_third_ballot_defeat_and_withdrawal.md): shares Donald Trump as a referenced actor.
@@ -21,6 +22,8 @@ The condition that could change this is political. "In the case of a Republican 
 - [Argument That a Trump Presidency Would Not Doom Ukraine](argument_that_a_trump_presidency_would_not_doom_ukraine.md): qualifies the political scenario described here.
 - [Ukraine 2023 Counteroffensive Fell Short of Expectations](ukraine_2023_counteroffensive_fell_short_of_expectations.md): the campaign result driving these plans.
 - [Ukraine War 2024 Stalemate Outlook](ukraine_war_2024_stalemate_outlook.md): the stalemate these mobilisation plans respond to.
+- [US Election Risk to Ukraine Military Aid](us_election_risk_to_ukraine_military_aid.md): same source document (doc_0442)
+- [Volker's Case for Continued and Expanded Ukraine Aid](volker_case_for_continued_and_expanded_ukraine_aid.md): same source document (doc_0442)
 
 ## Source
 

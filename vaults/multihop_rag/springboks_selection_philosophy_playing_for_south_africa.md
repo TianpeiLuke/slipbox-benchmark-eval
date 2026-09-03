@@ -13,6 +13,7 @@ The Roar's reading is that the Springboks are seemingly playing for more than th
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): another document about South Africa, in an unrelated domain
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): another document about South Africa, in an unrelated domain
 - [All Blacks Final Moments RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): the final this philosophy was aimed at, different source document
@@ -21,6 +22,8 @@ The Roar's reading is that the Springboks are seemingly playing for more than th
 - [All Blacks Generational Change After 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): the contrasting transition on the other side, same source document
 - [All Blacks Ireland Series Loss Backlash as Motivation](all_blacks_ireland_series_loss_backlash_as_motivation.md): the opposing team's motivational framing, same source document
 - [Dalton Papalii on All Blacks Leadership Vulnerability](dalton_papalii_on_all_blacks_leadership_vulnerability.md): the opposing side's leadership account, same source document
+- [Ian Foster's All Blacks Tenure And Scott Robertson's Succession](ian_foster_all_blacks_tenure_and_robertson_succession.md): same source document (doc_0176)
+- [Erasmus' 2019 Final Speech: Country Over Ego](rassie_erasmus_2019_final_speech_country_over_ego.md): same source document (doc_0176)
 
 ## Source
 

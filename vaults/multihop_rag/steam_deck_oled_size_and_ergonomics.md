@@ -11,9 +11,19 @@ The OLED model does feel more balanced than the original: it's less top-heavy an
 
 ## Related Notes
 
+
 - [Steam Deck OLED As A Couch Console](steam_deck_oled_as_couch_console.md): same source document; the argument that follows from its bulk.
 - [MicroSD Card Recommendations And Deals](microsd_card_recommendations_and_deals.md): also concerns the Steam Deck, from a different source document.
 - [October 2023 Prime Day Gaming Deals Overview](october_2023_prime_day_gaming_deals_overview.md): shares console-hardware themes, from a different source document.
+- [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): shares console_hardware, hardware_device; different source document
+- [LG B2 OLED Television](lg_b2_oled_television.md): content overlap 0.10 on oled, model, bright; different source document
+- [Microsoft Xbox Wireless Controller](microsoft_xbox_wireless_controller.md): both discuss Steam Deck; different source document
+- [Handheld PC Gaming Market Growth](handheld_pc_gaming_market_growth.md): same source document (doc_0169)
+- [Steam Deck Game Compatibility Labels](steam_deck_game_compatibility_labels.md): same source document (doc_0169)
+- [Steam Deck OLED Battery Life](steam_deck_oled_battery_life.md): same source document (doc_0169)
+- [Steam Deck OLED's Custom AMD APU](steam_deck_oled_custom_amd_apu.md): same source document (doc_0169)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

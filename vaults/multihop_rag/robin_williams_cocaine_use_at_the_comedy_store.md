@@ -13,6 +13,7 @@ Binder recalled Williams' reaction to "a gram of coke" while the two were out in
 
 ## Related Notes
 
+
 - [Robin Williams Cocaine Material In His Stand Up Act](robin_williams_cocaine_material_in_his_stand_up_act.md): same source, on the drug use becoming stage material
 - [Robin Williams Quitting Cocaine After Belushi Death](robin_williams_quitting_cocaine_after_belushi_death.md): same source, on how the use ended
 - [Robin Williams Lewy Body Dementia And 2014 Death](robin_williams_lewy_body_dementia_and_2014_death.md): same source, on his later illness and death
@@ -20,6 +21,8 @@ Binder recalled Williams' reaction to "a gram of coke" while the two were out in
 - [Owen Teale Barry The Bear Route Into Acting](owen_teale_barry_the_bear_route_into_acting.md): part of the same screen-figures grouping, different source
 - [Owen Teale Family And Recent Villain Roles](owen_teale_family_and_recent_villain_roles.md): part of the same screen-figures grouping
 - [Owen Teale Missed Leading Man Opportunities](owen_teale_missed_leading_man_opportunities.md): part of the same screen-figures grouping
+- [Fan Reactions To Owen Teale After Jon Snow's Death Scene](jon_snow_death_scene_fan_reactions_to_owen_teale.md): same sub-plan (Screen figures: Eli Roth, Robin Williams, Owen Teale), different source document
+- [Robin Williams' Stand-Up Origins And Mork Fame](robin_williams_stand_up_origins_and_mork_fame.md): same source document (doc_0227)
 
 ## Source
 

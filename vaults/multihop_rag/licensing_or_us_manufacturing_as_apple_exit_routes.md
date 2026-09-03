@@ -11,6 +11,7 @@ Neither is straightforward. On licensing, Masimo CEO Joe Kiani told The New York
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also concerns Silicon Valley, from a different source document.
 - [BlackBerry: Matt Johnson's Film](blackberry_matt_johnson_film.md): also concerns Silicon Valley, from a different source document.
 - [ChatGPT's First Year Overview](chatgpt_first_year_overview.md): also concerns Silicon Valley, from a different source document.
@@ -19,6 +20,10 @@ Neither is straightforward. On licensing, Masimo CEO Joe Kiani told The New York
 - [A Patent Redesign Must Be More Than A Colorable Difference](a_patent_redesign_must_be_more_than_a_colorable_difference.md): drawn from the same source document (doc_0241).
 - [AliveCor's EKG Import Ban And The PTAB Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): drawn from the same source document (doc_0241).
 - [Apple's Appeal And Stay Prospects On The Watch Ban](apple_appeal_and_stay_prospects_on_the_watch_ban.md): drawn from the same source document (doc_0241).
+- [The Apple-Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): same source document (doc_0241)
+- [The Apple Watch ITC Import Ban And Apple's Preemptive Sales Halt](apple_watch_itc_import_ban_and_preemptive_sales_halt.md): same source document (doc_0241)
+- [Reserve Mobilisation](term_reserve_mobilisation.md): uses the concept reserve mobilisation
+- [Patent Litigation](term_patent_litigation.md): uses the concept patent litigation
 
 ## Source
 

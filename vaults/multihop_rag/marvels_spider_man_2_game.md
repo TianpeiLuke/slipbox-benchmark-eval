@@ -13,11 +13,19 @@ Polygon's 2023-10-16 piece adds detail on that structure and on speed. Mainstrea
 
 ## Related Notes
 
+
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): both mention Miles Morales, from a different source document
 - [Marvel's Relatable Superhero Formula](marvel_relatable_superhero_formula.md): overlapping Spider-Man and Marvel subject matter from a separate article
 - [Mary Jane Mission Pacing and Verdict in Spider-Man 2](mary_jane_mission_pacing_and_verdict_spider_man_2.md): covers the same game's mission design, from a different document
 - [Mary Jane Missions and Spider-Man 2's Reception Improvement](mary_jane_missions_spider_man_2_reception_improvement.md): both discuss Miles Morales and Peter Parker, from a separate source
 - [Meta AI Assistant Limits on Smart Glasses](meta_ai_assistant_limits_on_smart_glasses.md): incidental Peter Parker reference from an unrelated article
+- [Alan Wake 2](alan_wake_2.md): same source document (doc_0213)
+- [Amnesia: The Bunker](amnesia_the_bunker.md): same source document (doc_0213)
+- [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): same source document (doc_0213)
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

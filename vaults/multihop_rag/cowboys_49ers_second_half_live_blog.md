@@ -13,12 +13,17 @@ The fourth quarter was a formality. Purdy hit Kyle Juszczyk at 10:47 p.m. for th
 
 ## Related Notes
 
+
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): also discusses Jauan Jennings and Kevin Givens.
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also covers Deebo Samuel and Fred Warner.
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): overlapping San Francisco and Purdy coverage from a different document.
 - [Cole Kmet Week 6 2023 Start Recommendation](cole_kmet_week6_2023_start_recommendation.md): also discusses George Kittle.
 - [Dak Prescott Week 6 2023 Sit Recommendation](dak_prescott_week6_2023_sit_recommendation.md): also discusses Tony Pollard.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): the recap of this same game, from the same source document.
+- [Cowboys-49ers First Half: Two Kittle Touchdowns Build A 21-7 Lead](cowboys_49ers_first_half_live_blog.md): same source document (doc_0275)
+- [Cowboys-49ers Pregame: Gregory Inactive, Jones' Test, And The NFC Top Seed](cowboys_49ers_pregame_notes_and_nfc_race.md): same source document (doc_0275)
+- [NBC's 2023 Sunday Night Football Broadcast And Streaming Package](sunday_night_football_2023_nbc_broadcast_team.md): same source document (doc_0275)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

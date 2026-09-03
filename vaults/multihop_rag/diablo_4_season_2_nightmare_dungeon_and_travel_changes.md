@@ -13,6 +13,7 @@ Mounts have therefore also been improved in season 2: horses are now faster, and
 
 ## Related Notes
 
+
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): shares the game-patch-notes topic tag
 - [Apple AirPods Pro Second Generation](apple_airpods_pro_second_generation.md): shares a topic tag from a separate article
 - [Apple Watch Double Tap Gesture](apple_watch_double_tap_gesture.md): shares the game-patch-notes tag from a different document
@@ -21,6 +22,12 @@ Mounts have therefore also been improved in season 2: horses are now faster, and
 - [Atlassian Critical Security Flaw Warning](atlassian_critical_security_flaw_warning.md): shares a topic tag from an unrelated source
 - [Balderton's Investment Thesis on Scalable Capital](balderton_investment_thesis_on_scalable_capital.md): shares a topic tag from a separate document
 - [Beeper Mini Service Restoration and Apple ID Workaround](beeper_mini_service_restoration_and_apple_id_workaround.md): shares the game-patch-notes tag from a different article
+- [Diablo 4 Season 2 Endgame Bosses and Uber Uniques](diablo_4_season_2_endgame_uber_bosses.md): same source document (doc_0533)
+- [Diablo 4 Season 2 Experience and Leveling Changes](diablo_4_season_2_experience_and_leveling_changes.md): same source document (doc_0533)
+- [Diablo 4 Season 2 Renown and Gem Inventory Rework](diablo_4_season_2_renown_and_gem_inventory_rework.md): same source document (doc_0533)
+- [Season of Blood's Real Draw Is Quality of Life, Not Vampire Powers](diablo_4_season_of_blood_quality_of_life_focus.md): same source document (doc_0533)
+- [Diablo 4 Season of Blood Release Date](diablo_4_season_of_blood_release_date.md): same source document (doc_0533)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

@@ -15,12 +15,18 @@ The third produced five more Texas runs. Jung hit a one-out single at 8:58 p.m. 
 
 ## Related Notes
 
+
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): another World Series document, on a different controversy
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): another World Series document, different source
 - [Brandon Pfaadt Start World Series Game 3](brandon_pfaadt_start_world_series_game_3.md): the previous game, also featuring Adolis Garcia and Josh Jung
 - [Chase Field Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): the venue for this game, from a different source document
 - [Citizens Bank Park Philadelphia Phillies Postseason Atmosphere](citizens_bank_park_philadelphia_phillies_postseason_atmosphere.md): another postseason venue account, different source document
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): why Garcia was absent from this lineup, same source document
+- [Corey Seager's Home Runs In The 2023 World Series](corey_seager_home_runs_2023_world_series.md): same source document (doc_0408)
+- [The Diamondbacks' Late Rally In World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): same source document (doc_0408)
+- [Ketel Marte's 20-Game Postseason Hitting Streak](ketel_marte_20_game_postseason_hitting_streak_2023.md): same source document (doc_0408)
+- [Marcus Semien's Big Hits In World Series Games 3 And 4](marcus_semien_five_rbi_world_series_game_4.md): same source document (doc_0408)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

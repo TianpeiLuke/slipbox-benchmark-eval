@@ -11,6 +11,7 @@ Walking is "not the hardest problem to solve in humanoid robotics," said Geordie
 
 ## Related Notes
 
+
 - [Amazon's Robot Fleet Scale And Jobs](amazon_robot_fleet_scale_and_jobs.md): overlapping coverage of robotic manipulation, from a different source document.
 - [Hard Problems As A Startup Moat Thesis](hard_problems_as_startup_moat_thesis.md): overlapping coverage of hard problems and startups, from a different source document.
 - [The Outlook For Home Robots Beyond Vacuums](outlook_for_home_robots_beyond_vacuums.md): overlapping coverage of machines operating in the world, from a different source document.
@@ -19,6 +20,8 @@ Walking is "not the hardest problem to solve in humanoid robotics," said Geordie
 - [Agility Robotics' Digit Warehouse Robot](agility_robotics_digit_warehouse_robot.md): drawn from the same source document (doc_0421).
 - [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): drawn from the same source document (doc_0421).
 - [Amazon's Testing Of Digit In Warehouses](amazon_testing_of_digit_in_warehouses.md): drawn from the same source document (doc_0421).
+- [Boston Dynamics' Humanoid Research Yielding A Non-Humanoid Robot](boston_dynamics_humanoid_research_yielding_non_humanoid_robot.md): same source document (doc_0421)
+- [Figure AI's Purist Humanoid Market Thesis](figure_ai_purist_humanoid_market_thesis.md): same source document (doc_0421)
 
 ## Source
 

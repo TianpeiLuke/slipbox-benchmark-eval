@@ -11,6 +11,7 @@ What he substitutes for those metrics is the process he credits in his own devel
 
 ## Related Notes
 
+
 - [AI Civil Rights And Consumer Protections In The EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): shares the earnings report topic tag across the corpus
 - [AI Legislation Gap](ai_legislation_gap.md): shares the earnings report topic tag across the corpus
 - [AI Worker Protections And Federal AI Hiring](ai_worker_protections_and_federal_ai_hiring.md): shares the earnings report topic tag across the corpus
@@ -19,6 +20,10 @@ What he substitutes for those metrics is the process he credits in his own devel
 - [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): shares the earnings report topic tag across the corpus
 - [Apple Generative AI Investment Stance](apple_generative_ai_investment_stance.md): shares the earnings report topic tag across the corpus
 - [ASX December 2023 Session Movers](asx_december_2023_session_movers.md): shares the earnings report topic tag across the corpus
+- [Adam Grant: Parents Impose Career Models That Have Already Expired](parents_imposing_outdated_career_models.md): same source document (doc_0147)
+- [Potential Is Developed, Not Innate](potential_is_developed_not_innate.md): same source document (doc_0147)
+- [The Soft Skills Premium Employers Actually Pay For](soft_skills_premium_in_the_labour_market.md): same source document (doc_0147)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

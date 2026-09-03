@@ -13,6 +13,7 @@ The scope of the advice as given is limited to finding and entering trials throu
 
 ## Related Notes
 
+
 - [Daily Walking Reduces Late Life Depression](daily_walking_reduces_late_life_depression.md): same article, on the depression-dementia link raised alongside this
 - [Digital Engagement Protects The Ageing Brain](digital_engagement_protects_the_ageing_brain.md): same article, on reducing dementia risk earlier
 - [Age Well Daily Habits For The Over Fifties](age_well_daily_habits_for_the_over_fifties.md): same article, the preventive routine
@@ -21,6 +22,8 @@ The scope of the advice as given is limited to finding and entering trials throu
 - [Blood Tests And Brain Health Clinics For Earlier Diagnosis](blood_tests_and_brain_health_clinics_for_earlier_diagnosis.md): overlaps on dementia research and diagnosis, different document
 - [Robin Williams Lewy Body Dementia And 2014 Death](robin_williams_lewy_body_dementia_and_2014_death.md): also concerns dementia, from a different document
 - [Alexandra Moving Home At 37 And Solo Motherhood](alexandra_moving_home_at_37_and_solo_motherhood.md): part of the same multigenerational grouping, different source
+- [Multivitamins And Cognition In Older Adults](multivitamins_and_cognition_in_older_adults.md): same source document (doc_0605)
+- [Protein Intake Guidelines For Older Adults](protein_intake_guidelines_for_older_adults.md): same source document (doc_0605)
 
 ## Source
 

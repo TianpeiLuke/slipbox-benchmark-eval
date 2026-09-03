@@ -11,9 +11,18 @@ Even without the accessory, Engadget likes the open-back A40 for providing a wid
 
 ## Related Notes
 
+
 - [Logitech G535 Wireless Gaming Headset](logitech_g535_wireless_gaming_headset.md): overlaps in content on gaming headsets, from a different source document.
 - [Meta Quest 2 Black Friday Deal](meta_quest_2_black_friday_deal.md): overlaps in content on headsets and controllers, from a different source document.
 - [Sennheiser HD 560S Open-Back Headphones](sennheiser_hd_560s_open_back_headphones.md): overlaps in content on open-back headphones for gaming, from a different source document.
+- [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): content overlap 0.11 on headset, accessory, extra; different source document
+- [Meta Quest 3 And The Affordable End Of AR/VR Hardware](consumer_ar_vr_hardware.md): content overlap 0.10 on headset; different source document
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): same source document (doc_0404)
+- [Anker Soundcore Liberty 4 NC Earbuds Deal Prices](anker_soundcore_liberty_4_nc_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space Q45 Deal](anker_soundcore_space_q45_deal.md): same source document (doc_0404)
+- [Apple AirPods 2nd Gen Holiday Deal](apple_airpods_2nd_gen_holiday_deal.md): same source document (doc_0404)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

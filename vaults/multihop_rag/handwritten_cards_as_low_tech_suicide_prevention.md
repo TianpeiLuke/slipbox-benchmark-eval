@@ -15,6 +15,7 @@ That persistence is what connects the cards to the timescale of a crisis. The ca
 
 ## Related Notes
 
+
 - [Caring Contacts Effect on Social Work Staff](caring_contacts_effect_on_social_work_staff.md): drawn from the same source document (doc_0158).
 - [Caring Contacts Enrollment and Consent Process](caring_contacts_enrollment_and_consent_process.md): drawn from the same source document (doc_0158).
 - [Caring Contacts Origin and May 2020 Launch](caring_contacts_origin_and_may_2020_launch.md): drawn from the same source document (doc_0158).
@@ -23,6 +24,8 @@ That persistence is what connects the cards to the timescale of a crisis. The ca
 - [Caring Contacts Replication Kit and National Interest](caring_contacts_replication_kit_and_national_interest.md): drawn from the same source document (doc_0158).
 - [Pediatric Suicide Follow up Care Gap](pediatric_suicide_follow_up_care_gap.md): drawn from the same source document (doc_0158).
 - [Suicide and Crisis Lifeline 988 Advisory](suicide_and_crisis_lifeline_988_advisory.md): drawn from the same source document (doc_0158).
+- [Why Caring Contacts Works, According To Schalley](why_caring_contacts_works_schalley_explanation.md): same source document (doc_0158)
+- [Youth Depression And Suicide Screening Rates Since COVID](youth_depression_and_suicide_screening_rates_after_covid.md): same source document (doc_0158)
 
 ## Source
 

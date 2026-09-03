@@ -11,6 +11,7 @@ Most players were less than happy with the change, and that reaction cut across 
 
 ## Related Notes
 
+
 - [Moneyline Odds Examples By Sport](moneyline_odds_examples_by_sport.md): shares thematic tagging with this note, from a different document.
 - [Sportsbook App Rankings DraftKings FanDuel BetMGM Caesars](sportsbook_app_rankings_draftkings_fanduel_betmgm_caesars.md): shares thematic tagging with this note, from a different document.
 - [ActivityPub Data Model Of Senders Messages And Inboxes](activitypub_data_model_of_senders_messages_and_inboxes.md): shares thematic tagging with this note, from a different document.
@@ -19,6 +20,15 @@ Most players were less than happy with the change, and that reaction cut across 
 - [Amy Grant And Vince Gill Marriage](amy_grant_and_vince_gill_marriage.md): shares thematic tagging with this note, from a different document.
 - [Animal Crossing New Horizons](animal_crossing_new_horizons.md): shares thematic tagging with this note, from a different document.
 - [Australia Women Test Defeat To India Mumbai 2023](australia_women_test_defeat_to_india_mumbai_2023.md): shares thematic tagging with this note, from a different document.
+- [Bryson DeChambeau Opposition To Golf Ball Rollback](bryson_dechambeau_opposition_to_golf_ball_rollback.md): same source document (doc_0490)
+- [Golf Ball Rollback Application To Men's Majors](golf_ball_rollback_application_to_mens_majors.md): same source document (doc_0490)
+- [Golf Ball Rollback Effect On LIV Golf](golf_ball_rollback_effect_on_liv_golf.md): same source document (doc_0490)
+- [Golf Ball Rollback Exclusion Of Women's Golf](golf_ball_rollback_exclusion_of_womens_golf.md): same source document (doc_0490)
+- [Golf Ball Rollback Policy](golf_ball_rollback_policy.md): same source document (doc_0490)
+- [Rory McIlroy Support For Golf Ball Rollback](rory_mcilroy_support_for_golf_ball_rollback.md): same source document (doc_0490)
+- [Tiger Woods Support For Pro Amateur Ball Split](tiger_woods_support_for_pro_amateur_ball_split.md): same source document (doc_0490)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

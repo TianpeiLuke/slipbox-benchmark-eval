@@ -11,6 +11,7 @@ The warrant that resolves the tension is stated plainly: it's the volume you're 
 
 ## Related Notes
 
+
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another Start Him verdict in the same weekly lineup-decisions format, from a different source document.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): shares the projected-points and receiving-yards style of weekly player evaluation, from a different source document.
 - [Chiefs Packers Week 13 Fourth Quarter Sequence](chiefs_packers_week_13_fourth_quarter_sequence.md): covers Rashee Rice, one of the receivers preferred over Metcalf here, from a different source document.
@@ -19,6 +20,8 @@ The warrant that resolves the tension is stated plainly: it's the volume you're 
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): a parallel Week 13 player verdict from the same article (doc_0057).
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a parallel Week 13 player verdict from the same article (doc_0057).
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): covers Cooper Kupp, whom Metcalf is ranked above in PPR, from the same article (doc_0057).
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [Weekly Fantasy Lineup Method: Set Lineups By Matchup, Not By Draft Order](fantasy_football_weekly_lineup_matchup_method.md): same source document (doc_0057)
 
 ## Source
 

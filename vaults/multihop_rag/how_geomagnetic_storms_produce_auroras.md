@@ -11,6 +11,7 @@ The chain of relations runs from solar storm, to particle influx, to magnetic fu
 
 ## Related Notes
 
+
 - [The Great Dying as an Analogue for Modern Climate Extinction](great_dying_as_analogue_for_modern_climate_extinction.md): another mechanism involving Earth's atmosphere driving a visible planetary effect.
 - [Northern Lights: UK Visibility and the Aurora Mechanism](northern_lights_uk_visibility_and_aurora_mechanism.md): another statement of the particle-to-atmosphere aurora mechanism.
 - [Northern Lights Viewing Conditions](northern_lights_viewing_conditions.md): covers the same polar concentration of auroral light.
@@ -19,6 +20,8 @@ The chain of relations runs from solar storm, to particle influx, to magnetic fu
 - [Aurora Displays Over Britain and Ireland, November 2023](aurora_displays_over_britain_and_ireland_november_2023.md): from the same article, the mechanism observed in practice.
 - [Aurora Over the Glasgow, Montana Weather Office](aurora_over_glasgow_montana_weather_office.md): from the same article, another observation of the resulting display.
 - [Aurora Sightings Beyond Usual Latitudes: Greece, Turkey and Australia](aurora_sightings_beyond_usual_latitudes_greece_turkey_australia.md): from the same article, on sightings outside the usual high-latitude range.
+- [The November 2023 G3 Geomagnetic Storm](november_2023_g3_geomagnetic_storm.md): same source document (doc_0556)
+- [STEVE Sightings, November 2023](steve_sightings_november_2023.md): same source document (doc_0556)
 
 ## Source
 

@@ -11,12 +11,18 @@ The H9 is at the top end of Sony's InZone gaming headsets, featuring active nois
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick for Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): also covers Xbox Series, from a different source document.
 - [Alan Wake 2](alan_wake_2.md): also covers Xbox Series, from a different source document.
 - [Amnesia the Bunker](amnesia_the_bunker.md): also covers Xbox Series, from a different source document.
 - [Armored Core 6 Fires of Rubicon](armored_core_6_fires_of_rubicon.md): also covers Xbox Series, from a different source document.
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): also covers Xbox Series, from a different source document.
 - [Anti Prime Big Deal Day Competing Sales](anti_prime_big_deal_day_competing_sales.md): drawn from the same source document, doc_0584.
+- [Echo Show 5 And Nest Hub Smart Display Deals](echo_show_5_and_nest_hub_smart_display_deals.md): same source document (doc_0584)
+- [iPad And Kindle Oasis Deals During Prime Big Deal Day](ipad_and_kindle_oasis_deals_prime_day.md): same source document (doc_0584)
+- [Ring And Blink Security Camera And Doorbell Deals](ring_and_blink_security_camera_and_doorbell_deals.md): same source document (doc_0584)
+- [Samsung Frame TV And Roku Streambar Deals](samsung_frame_tv_and_roku_streambar_deals.md): same source document (doc_0584)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

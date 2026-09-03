@@ -13,11 +13,20 @@ The 14- and 16-inch MacBook Pros for late 2023 are another round of spec-bump mo
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the Black Friday and Cyber Monday discount theme, from a different source document.
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): also concerns Cyber Monday, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the Black Friday and Cyber Monday discount theme, from a different source document.
 - [Amazon Echo Show, Audible and Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): also concerns Cyber Monday, from a different source document.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the Black Friday and Cyber Monday discount theme, from a different source document.
+- [Mac Mini M2 Deals](mac_mini_m2_deals.md): same source document (doc_0351)
+- [MacBook Air M1 And M2 Deals](macbook_air_m1_and_m2_deals.md): same source document (doc_0351)
+- [MacBook Pricing And Discount Landscape](macbook_pricing_and_discount_landscape.md): same source document (doc_0351)
+- [MacBook Pro M2 And M1 Generation Deals](macbook_pro_m2_and_m1_generation_deals.md): same source document (doc_0351)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

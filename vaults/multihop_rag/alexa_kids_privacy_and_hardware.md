@@ -13,11 +13,20 @@ Two scope limits attach to the launch as described. The experience is available 
 
 ## Related Notes
 
+
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the generative-AI and large-language-model themes, from a different source document.
 - [Alexa's Limitations As An On-The-Go Assistant On Echo Frames](alexa_limitations_as_an_on_the_go_assistant_on_echo_frames.md): overlapping coverage of Alexa, Echo hardware and device settings, from a different source document.
 - [Amazon Echo Buds Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): overlapping coverage of Alexa-integrated Echo hardware, from a different source document.
 - [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): overlapping coverage of Alexa Echo speakers, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): both cover Amazon Kids products and subscriptions, from a different source document.
+- [The Two-Way Interaction Design Of Explore With Alexa](alexa_kids_interaction_design.md): same source document (doc_0188)
+- [Amazon's Offline Guardrail Pipeline For Alexa Kids Generative AI](alexa_kids_llm_guardrails.md): same source document (doc_0188)
+- [Explore With Alexa](explore_with_alexa.md): same source document (doc_0188)
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
+- [Accessibility Localisation](term_accessibility_localisation.md): uses the concept accessibility localisation
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

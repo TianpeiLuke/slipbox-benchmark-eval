@@ -13,12 +13,18 @@ The boundary is how often that scenario arises for a given person. Depending on 
 
 ## Related Notes
 
+
 - [Apple Holiday 2023 Sale Overview](apple_holiday_2023_sale_overview.md): also concerns the Apple Watch Series, from a different source document.
 - [Apple-Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): also concerns the Apple Watch Series and carries photography by Amelia Holowaty Krales, from a different source document.
 - [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): also carries photography by Amelia Holowaty Krales, from a different source document.
 - [Apple Watch ITC Import Ban and Preemptive Sales Halt](apple_watch_itc_import_ban_and_preemptive_sales_halt.md): also concerns the Apple Watch Series, from a different source document.
 - [Apple Watch SE and Reseller Inventory Remain Available](apple_watch_se_and_reseller_inventory_remain_available.md): also carries photography by Amelia Holowaty Krales, from a different source document.
 - [Apple's Double Tap User Research and Naming](apple_double_tap_user_research_and_naming.md): how the gesture was designed and named (doc_0491).
+- [AssistiveTouch Versus Double Tap](assistive_touch_versus_double_tap.md): same source document (doc_0491)
+- [Double Tap's Customization Limits](double_tap_customization_limits.md): same source document (doc_0491)
+- [The S9 Chip's Neural Engines Enable Double Tap](s9_chip_neural_engines_enable_double_tap.md): same source document (doc_0491)
+- [Smartwatch Gestures And Phone Independence](smartwatch_gestures_and_phone_independence.md): same source document (doc_0491)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

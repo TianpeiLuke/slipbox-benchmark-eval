@@ -15,11 +15,19 @@ The design detail that matters is that the three prongs at the end of the cable 
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the charging-and-battery theme, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the charging-and-battery theme, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the charging-and-battery theme, from a different source document.
 - [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): covers another Anker charging cube, from a different source document.
 - [Anker 737 Power Bank Deal Listings](anker_737_power_bank_deal_listings.md): covers another Anker portable power product, from a different source document.
+- [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): same source document (doc_0575)
+- [Atumtek Bluetooth Selfie Tripod](atumtek_bluetooth_selfie_tripod.md): same source document (doc_0575)
+- [Baboon To The Moon Fanny Pack](baboon_to_the_moon_fanny_pack.md): same source document (doc_0575)
+- [The Bedside Charging Station Habit](bedside_charging_station_habit.md): same source document (doc_0575)
+- [ChomChom Pet Hair Remover](chomchom_pet_hair_remover.md): same source document (doc_0575)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

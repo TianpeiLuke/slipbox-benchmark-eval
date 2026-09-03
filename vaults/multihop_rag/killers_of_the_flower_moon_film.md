@@ -15,6 +15,7 @@ The same piece stresses that the film is much stranger than it sounds on paper: 
 
 ## Related Notes
 
+
 - [Joker: Folie à Deux](joker_folie_a_deux.md): both discuss Martin Scorsese, from a different source document
 - [Martin Scorsese Internet Slang TikTok Quiz](martin_scorsese_internet_slang_tiktok_quiz.md): another Scorsese subject from a separate article
 - [Murder by Contract (1958)](murder_by_contract_1958.md): another Scorsese-linked film covered elsewhere in the corpus
@@ -23,6 +24,8 @@ The same piece stresses that the film is much stranger than it sounds on paper: 
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 list
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): a fellow entry on the same ranked list
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
 
 ## Source
 

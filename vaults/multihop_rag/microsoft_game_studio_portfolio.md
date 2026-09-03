@@ -11,12 +11,19 @@ Engadget notes the scale marker that distinguishes the Activision deal from the 
 
 ## Related Notes
 
+
 - [Activision Titles On Xbox Game Pass](activision_titles_on_xbox_game_pass.md): overlapping coverage of Bethesda, Microsoft and Activision, from a different source document.
 - [Fan Opposition To Activision Console Exclusivity Risk](fan_opposition_to_activision_console_exclusivity_risk.md): overlapping coverage of Microsoft, Activision and their games, from a different source document.
 - [Microsoft's Gaming Studio Acquisition Portfolio](microsoft_gaming_studio_acquisition_portfolio.md): overlapping coverage of the studios under the Xbox umbrella including Mojang, from a different source document.
 - [Relative Valuation Definition And Prevalence](relative_valuation_definition_and_prevalence.md): shares the acquisition theme, from a different source document.
 - [UK Games Industry Impact Of The Activision Acquisition](uk_games_industry_impact_of_activision_acquisition.md): overlapping coverage of Microsoft, Activision and their studios, from a different source document.
 - [Activision Blizzard Union Stalling And Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): drawn from the same source document (doc_0050).
+- [Consolidation Leaves Studios Vulnerable To Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): same source document (doc_0050)
+- [The Costs Of Relinquishing Independence After Acquisition](costs_of_relinquishing_independence_after_acquisition.md): same source document (doc_0050)
+- [Embracer Group's Restructuring And Studio Closures](embracer_group_restructuring_and_studio_closures.md): same source document (doc_0050)
+- [Epic Games' 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): same source document (doc_0050)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

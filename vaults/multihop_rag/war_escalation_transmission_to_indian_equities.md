@@ -11,6 +11,7 @@ Two domestic conditions amplify the transmission: rural India is a key engine th
 
 ## Related Notes
 
+
 - [Equity Valuations Versus Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): covers the same rates-versus-equities mechanism for India, from a different source document.
 - [Uber Q3 2023 Bookings By Segment](uber_q3_2023_bookings_by_segment.md): shares the cost-pressure and negative-impact framing, from a different source document.
 - [India Renewable And Thermal Capacity Policy 2023](india_renewable_and_thermal_capacity_policy_2023.md): sits in the same sub-plan on geopolitical risk and the Indian power sector, from a different source document.
@@ -19,6 +20,7 @@ Two domestic conditions amplify the transmission: rural India is a key engine th
 - [India Israel Bilateral Trade Exposure 2022 23](india_israel_bilateral_trade_exposure_2022_23.md): drawn from the same article and supplies the direct trade channel alongside this indirect one.
 - [Israel Hamas Conflict Limited Market Impact Base Case](israel_hamas_conflict_limited_market_impact_base_case.md): drawn from the same article and gives the base case in which this transmission does not fire.
 - [Israel Hamas War Full Escalation Scenario](israel_hamas_war_full_escalation_scenario.md): drawn from the same article and defines the scenario that this transmission chain assumes.
+- [Middle East Crude And Shipping Chokepoint Disruption](middle_east_crude_and_shipping_chokepoint_disruption.md): same source document (doc_0111)
 
 ## Source
 

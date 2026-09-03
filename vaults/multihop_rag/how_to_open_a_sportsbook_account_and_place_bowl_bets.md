@@ -11,6 +11,7 @@ The precondition is simply having access to one of the online betting sites that
 
 ## Related Notes
 
+
 - [BetRivers Second Chance Bet Offer, December 2023](betrivers_second_chance_bet_offer_december_2023.md): covers a registration-linked betting offer, from a different document.
 - [BetRivers Vermont Sportsbook Welcome Offer](betrivers_vermont_sportsbook_welcome_offer.md): covers a sportsbook account welcome offer, from a different document.
 - [Caesars Sportsbook First Bet Offer, December 2023](caesars_sportsbook_first_bet_offer_december_2023.md): covers the same register-and-claim flow at another book, from a different document.
@@ -18,6 +19,11 @@ The precondition is simply having access to one of the online betting sites that
 - [DraftKings Sportsbook Welcome Offers, December 2023](draftkings_sportsbook_welcome_offers_december_2023.md): covers the deposit and account steps at another book, from a different document.
 - [2023 Bowl Season Betting Trends](2023_bowl_season_betting_trends.md): gives the bowl betting record this procedure serves, from the same document.
 - [2023 Bowl Season Completed Game Results](2023_bowl_season_completed_game_results.md): gives the games available to bet, from the same document.
+- [The CFP National Championship: Format And Schedule](cfp_national_championship_game_format_and_schedule.md): same source document (doc_0433)
+- [CFP National Championship Winners, 2015 To 2023](cfp_national_championship_winners_2015_to_2023.md): same source document (doc_0433)
+- [CFP Semifinal Matchups: Rose And Sugar Bowls](cfp_semifinal_rose_and_sugar_bowl_matchups.md): same source document (doc_0433)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Terms of Service](term_terms_of_service.md): uses the concept terms of service
 
 ## Source
 

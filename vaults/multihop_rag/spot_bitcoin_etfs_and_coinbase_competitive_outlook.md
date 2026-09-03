@@ -11,12 +11,16 @@ The counter-consideration is the ETF. U.S. regulators are expected to soon appro
 
 ## Related Notes
 
+
 - [Binance Market Position And 2023 Setbacks](binance_market_position_and_2023_setbacks.md): covers the competitor retreat that improved Coinbase's position, from a different source document.
 - [Bitcoin Ascent To 44000 Dollars](bitcoin_ascent_to_44000_dollars.md): concerns the bitcoin price move behind this outlook, from a different source document.
 - [Bolt SEC Probe](bolt_sec_probe.md): also concerns Securities and Exchange Commission action, from a different source document.
 - [Consumer Trading Recovery Coinbase And Robinhood](consumer_trading_recovery_coinbase_and_robinhood.md): concerns Coinbase's retail trading revenue base, from a different source document.
 - [FTX Cooperating Witnesses](ftx_cooperating_witnesses.md): also concerns SEC proceedings in crypto, from a different source document.
 - [Bankman Fried And Zhao Convictions And Binance Aftermath](bankman_fried_and_zhao_convictions_and_binance_aftermath.md): drawn from the same article and covers the rivals' collapse this argument builds on.
+- [Coinbase's SEC Standoff And The Call For Regulatory Clarity](coinbase_sec_standoff_and_regulatory_clarity.md): same source document (doc_0375)
+- [Coinbase's Stock Rally In November 2023](coinbase_stock_rally_november_2023.md): same source document (doc_0375)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

@@ -11,6 +11,7 @@ Among them are Helion Energy, for developing fusion reactors that could produce 
 
 ## Related Notes
 
+
 - [Microsoft's OpenAI Investment And Early Capability Tests](microsoft_openai_investment_and_early_capability_tests.md): overlapping coverage of Altman and OpenAI, from a different source document.
 - [Altman's Argument On AI's Promise And Existential Risk](altman_argument_on_ai_promise_and_existential_risk.md): drawn from the same source document (doc_0332).
 - [Analyst Assessment Of Altman's Departure Impact](analyst_assessment_of_altman_departure_impact.md): drawn from the same source document (doc_0332).
@@ -19,6 +20,8 @@ Among them are Helion Energy, for developing fusion reactors that could produce 
 - [Greg Brockman's Account Of Altman's Removal](greg_brockman_account_of_altman_removal.md): drawn from the same source document (doc_0332).
 - [OpenAI's Board Composition In November 2023](openai_board_composition_november_2023.md): drawn from the same source document (doc_0332).
 - [The OpenAI Board's Firing Of Sam Altman](openai_board_firing_of_sam_altman.md): drawn from the same source document (doc_0332).
+- [OpenAI's Nonprofit-To-For-Profit Structure](openai_nonprofit_to_for_profit_structure.md): same source document (doc_0332)
+- [OpenAI's Partnerships With Microsoft And The Associated Press](openai_partnerships_with_microsoft_and_associated_press.md): same source document (doc_0332)
 
 ## Source
 

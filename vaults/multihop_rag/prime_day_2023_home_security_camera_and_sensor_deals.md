@@ -11,12 +11,19 @@ SimpliSafe (9/10, WIRED Recommends) makes home security easy to set up and expan
 
 ## Related Notes
 
+
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares the discount and smart-home device themes, from a different source document.
 - [Google Nest Hub Smart Display Deal](google_nest_hub_smart_display_deal.md): shares the discount and smart-home device themes, from a different source document.
 - [Google Nest Thermostat](google_nest_thermostat.md): shares the discount and smart-home device themes, from a different source document.
 - [Google Pixel Tablet](google_pixel_tablet.md): shares the discount and smart-home device themes, from a different source document.
 - [Prime Day Smart Lighting, Lock And Thermostat Deals, October 2023](prime_day_smart_lighting_lock_and_thermostat_deals_october_2023.md): shares the discount and smart-home device themes, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

@@ -11,11 +11,19 @@ The new Echo Show 5 is just as small as its predecessor but features updated mic
 
 ## Related Notes
 
+
 - [Amazon Echo Buds Second and Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): substantial content overlap on second-gen, echo, predecessor, from a different source document.
 - [Amazon Echo Dot and Echo Show 5](amazon_echo_dot_and_echo_show_5.md): also covers Echo Show, from a different source document.
 - [Amazon Echo Show Audible and Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): also covers Echo Show, from a different source document.
 - [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): also covers Echo Show, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): substantial content overlap on echo, speaker, smart, from a different source document.
+- [Anti-Prime Big Deal Day Competing Sales](anti_prime_big_deal_day_competing_sales.md): same source document (doc_0584)
+- [InZone H9 And Seagate Xbox Expansion Card Deals](inzone_h9_and_seagate_xbox_expansion_card_deals.md): same source document (doc_0584)
+- [iPad And Kindle Oasis Deals During Prime Big Deal Day](ipad_and_kindle_oasis_deals_prime_day.md): same source document (doc_0584)
+- [Ring And Blink Security Camera And Doorbell Deals](ring_and_blink_security_camera_and_doorbell_deals.md): same source document (doc_0584)
+- [Samsung Frame TV And Roku Streambar Deals](samsung_frame_tv_and_roku_streambar_deals.md): same source document (doc_0584)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

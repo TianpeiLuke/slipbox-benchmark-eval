@@ -13,11 +13,19 @@ Its limits are the same as the rest of the line: the same software limitations a
 
 ## Related Notes
 
+
 - [Amazon 65-Inch Fire TV QLED Deal](amazon_65_inch_fire_tv_qled_deal.md): covers another discounted Amazon Fire device, from a different source document.
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): covers another discounted Fire device, from a different source document.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): covers the cheapest Fire streaming devices, from a different source document.
 - [Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): explains another Prime Big Deal Days mechanism, from a different source document.
 - [Amazon Price Matching And Return Policy](amazon_price_matching_and_return_policy.md): shares the Amazon pricing-practices theme, from a different source document.
+- [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): same source document (doc_0250)
+- [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): same source document (doc_0250)
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): same source document (doc_0250)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0250)
+- [Apple AirPods Pro, Second Generation](apple_airpods_pro_second_generation.md): same source document (doc_0250)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

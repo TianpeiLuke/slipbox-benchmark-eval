@@ -11,6 +11,7 @@ The interactions with the sex worker took place in a living room, while Denino a
 
 ## Related Notes
 
+
 - [Kick Corporate Response to the Incident](kick_corporate_response_to_the_incident.md): drawn from the same source document, doc_0405.
 - [Kick Platform Model and Controversy History](kick_platform_model_and_controversy_history.md): drawn from the same source document, doc_0405.
 - [Kick Streamer Exodus over Sex Worker Stream](kick_streamer_exodus_over_sex_worker_stream.md): drawn from the same source document, doc_0405.
@@ -19,6 +20,7 @@ The interactions with the sex worker took place in a living room, while Denino a
 - [Streamer Case for Government Regulation of Platforms](streamer_case_for_government_regulation_of_platforms.md): drawn from the same source document, doc_0405.
 - [Streamers Who Cannot Afford to Leave Kick](streamers_who_cannot_afford_to_leave_kick.md): drawn from the same source document, doc_0405.
 - [Streamers Who Left Kick after the Incident](streamers_who_left_kick_after_the_incident.md): drawn from the same source document, doc_0405.
+- [Twitch's Revenue Split And Partner Plus Program](twitch_revenue_split_and_partner_plus_program.md): same source document (doc_0405)
 
 ## Source
 

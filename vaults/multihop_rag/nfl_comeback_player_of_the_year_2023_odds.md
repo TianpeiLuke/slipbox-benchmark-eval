@@ -13,6 +13,7 @@ The case for Wilson rests on the contrast between his two Denver seasons. Wilson
 
 ## Related Notes
 
+
 - [Bills Bengals SNF Pregame Notes](bills_bengals_snf_pregame_notes.md): overlaps on Hamlin and his playing status, from a different document.
 - [Broncos Fourth Quarter Comeback and Ryland Game Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): overlaps heavily on Russell Wilson and the Broncos, from a different document.
 - [Denny Hamlin 2023 Season Autosport Snub](denny_hamlin_2023_season_autosport_snub.md): shares surface vocabulary about a snubbed candidate named Hamlin, from a different document.
@@ -21,6 +22,8 @@ The case for Wilson rests on the contrast between his two Denver seasons. Wilson
 - [NFL Awards Longshot Betting Strategy](nfl_awards_longshot_betting_strategy.md): the general longshot argument this award case applies, from the same document.
 - [NFL Coach of the Year 2023 Odds](nfl_coach_of_the_year_2023_odds.md): a parallel award case, from the same document.
 - [NFL Defensive Player of the Year 2023 Odds](nfl_defensive_player_of_the_year_2023_odds.md): a parallel award case, from the same document.
+- [2023 NFL MVP Favorites And The Longshot Cases For Goff And Stroud](nfl_mvp_2023_odds_and_longshot_cases.md): same source document (doc_0145)
+- [2023 NFL Offensive Player Of The Year: Hill The Favorite, Lamb The Longshot](nfl_offensive_player_of_the_year_2023_odds.md): same source document (doc_0145)
 
 ## Source
 

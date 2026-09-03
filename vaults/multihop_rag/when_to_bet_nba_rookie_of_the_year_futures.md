@@ -13,11 +13,19 @@ Stated as pros and cons: betting early gives an opportunity to find better value
 
 ## Related Notes
 
+
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): where to act on this timing decision.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares the NBA and betting-odds themes.
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): shares the NBA and betting-odds themes.
 - [DraftKings Sportsbook Betting Markets](draftkings_sportsbook_betting_markets.md): shares the NBA and betting-odds themes.
 - [FanDuel Sportsbook Betting Markets](fanduel_sportsbook_betting_markets.md): shares the NBA and betting-odds themes.
+- [How To Open A Sportsbook Account, Download The App, And Place A Bet](how_to_open_a_sportsbook_account_and_place_a_bet.md): same source document (doc_0062)
+- [The Three Leading 2023-24 Rookie Of The Year Contenders](nba_2023_24_rookie_of_the_year_favorites.md): same source document (doc_0062)
+- [NBA Props And Futures: What They Cover And When To Bet Them](nba_props_and_futures_betting_markets.md): same source document (doc_0062)
+- [The NBA Rookie Of The Year Futures Market](nba_rookie_of_the_year_futures_betting_market.md): same source document (doc_0062)
+- [NBA Rookie Of The Year Winners Since 2010](nba_rookie_of_the_year_winners_since_2010.md): same source document (doc_0062)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

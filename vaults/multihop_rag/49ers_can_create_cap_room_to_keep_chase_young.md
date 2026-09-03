@@ -13,6 +13,7 @@ The argument also marks off what will not happen. The team could release some pl
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): another document covering Brock Purdy, different source
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): another document referencing the Super Bowl, unrelated domain
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): another Super Bowl-referencing document, different source
@@ -20,6 +21,10 @@ The argument also marks off what will not happen. The team could release some pl
 - [Brock Purdy 49ers Career Trajectory](brock_purdy_49ers_career_trajectory.md): the cheap quarterback contract this argument leans on, different source document
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): the free agents competing for the same money, same source document
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): the cap numbers this argument works from, same source document
+- [Projecting Chase Young's 2024 Contract Value](chase_young_2024_contract_value_projection.md): same source document (doc_0500)
+- [The 49ers Trade For Chase Young At The 2023 Deadline](chase_young_trade_to_49ers_2023_deadline.md): same source document (doc_0500)
+- [Why The Franchise Tag May Not Suit Chase Young](franchise_tag_option_for_chase_young.md): same source document (doc_0500)
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
 
 ## Source
 

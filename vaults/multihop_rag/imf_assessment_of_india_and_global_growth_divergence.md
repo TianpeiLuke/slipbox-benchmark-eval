@@ -11,11 +11,19 @@ The IMF also said important divergences are appearing. The slowdown is more pron
 
 ## Related Notes
 
+
 - [Discord Shop, Remix and Client Improvements](discord_shop_remix_and_client_improvements.md): shares corpus-level content tags with this note.
 - [India-Australia 1992 World Cup Brisbane Rain Match](india_australia_1992_world_cup_brisbane_rain_match.md): shares India as a subject and revision vocabulary.
 - [Music Streaming Price Hikes and Emerging Market Growth](music_streaming_price_hikes_and_emerging_market_growth.md): another view of emerging-market growth opportunity.
 - [Reliance Jio Telecom Growth Outlook](reliance_jio_telecom_growth_outlook.md): a company-level expression of the Indian consumption growth cited here.
 - [UPI Commercial Sustainability](upi_commercial_sustainability.md): another note on India's emerging-market financial development.
+- [China Recovery Greenshoots and Commodity Price Outlook](china_recovery_greenshoots_and_commodity_price_outlook.md): same source document (doc_0532)
+- [FICCI-IBA Bankers Survey Credit Demand 2023](ficci_iba_bankers_survey_credit_demand_2023.md): same source document (doc_0532)
+- [Global Rate Shock Risk to Emerging Market Debt](global_rate_shock_risk_to_emerging_market_debt.md): same source document (doc_0532)
+- [India's Demographic Dividend Versus China's Decline](india_demographic_dividend_versus_china_decline.md): same source document (doc_0532)
+- [India FY24 Capex-Led Growth and Fiscal Position](india_fy24_capex_led_growth_and_fiscal_position.md): same source document (doc_0532)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

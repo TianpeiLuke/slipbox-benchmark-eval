@@ -11,6 +11,7 @@ The fluid situation may offer Egypt other opportunities to take a mediating role
 
 ## Related Notes
 
+
 - [Anthony Joshua's Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): also concerns Saudi Arabia, from a different source document.
 - [Argentina-Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also concerns Saudi Arabia, from a different source document.
 - [Boxing Marination And Upset Risk](boxing_marination_and_upset_risk.md): also concerns Saudi Arabia, from a different source document.
@@ -19,6 +20,8 @@ The fluid situation may offer Egypt other opportunities to take a mediating role
 - [1991 Gulf War Egyptian Debt Forgiveness](1991_gulf_war_egyptian_debt_forgiveness.md): drawn from the same source document (doc_0218).
 - [Cairo Diplomatic Surge And The 2023 Summit For Peace](cairo_diplomatic_surge_and_summit_for_peace_2023.md): drawn from the same source document (doc_0218).
 - [Egypt's Economic Crisis And IMF Rescue Program](egypt_economic_crisis_and_imf_rescue_program.md): drawn from the same source document (doc_0218).
+- [Egypt's Refusal To Host Palestinian Refugees](egypt_refusal_to_host_palestinian_refugees.md): same source document (doc_0218)
+- [Egypt's Role In The Israel-Hamas War And The Leverage It Creates](egypt_role_in_israel_hamas_war_and_western_leverage.md): same source document (doc_0218)
 
 ## Source
 

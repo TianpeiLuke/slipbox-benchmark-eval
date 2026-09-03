@@ -13,11 +13,18 @@ The inference the counter-argument targets is the neglect of situation-specific 
 
 ## Related Notes
 
+
 - [Brock Purdy Fantasy Outlook, Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also concerns Zach Wilson, from a different document.
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): also concerns Zach Wilson, from a different document.
 - [Chiefs Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): also concerns Zach Wilson, from a different document.
 - [Chiefs Jets Second Half Live Blog](chiefs_jets_second_half_live_blog.md): also concerns Zach Wilson, from a different document.
 - [Chiefs Jets Week 4: Swift Sideshow and Prop Stars Menu](chiefs_jets_week_4_swift_sideshow_and_prop_stars_menu.md): also concerns Zach Wilson, from a different document.
+- [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): same source document (doc_0316)
+- [The Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): same source document (doc_0316)
+- [Buffalo Bills Defensive Injuries And The 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): same source document (doc_0316)
+- [Cincinnati Bengals: Joe Burrow's Durability And The Line](cincinnati_bengals_joe_burrow_durability_and_line.md): same source document (doc_0316)
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

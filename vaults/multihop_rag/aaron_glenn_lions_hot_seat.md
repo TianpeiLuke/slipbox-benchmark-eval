@@ -11,11 +11,18 @@ The grounds are that the Lions finished near the bottom of the NFL in points aga
 
 ## Related Notes
 
+
 - [Lions 33-28 Saints Week 13](lions_33_28_saints_week_13.md): covers a Detroit game in this stretch, from a different document.
 - [Lions Packers Week 4 Broadcast And Streaming Details](lions_packers_week_4_broadcast_and_streaming_details.md): also concerns the Lions, from a different document.
 - [Lions Thanksgiving Halftime Show Jack Harlow](lions_thanksgiving_halftime_show_jack_harlow.md): also concerns the Lions, from a different document.
 - [Noah Brown Boom Bust Fantasy Profile](noah_brown_boom_bust_fantasy_profile.md): overlaps on per-game averaging terms, from a different document.
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): another entry in the same roundup, from the same document.
+- [Christian Watson Packers Hot Seat](christian_watson_packers_hot_seat.md): same source document (doc_0437)
+- [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md): same source document (doc_0437)
+- [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): same source document (doc_0437)
+- [Dennis Allen Saints Hot Seat](dennis_allen_saints_hot_seat.md): same source document (doc_0437)
+- [Desmond Ridder Falcons Hot Seat](desmond_ridder_falcons_hot_seat.md): same source document (doc_0437)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

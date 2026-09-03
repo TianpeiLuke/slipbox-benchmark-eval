@@ -13,12 +13,19 @@ The shipped tier is also narrower than the multimodal claims suggest: Gemini Pro
 
 ## Related Notes
 
+
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares the generative-AI product-launch theme, from a different source document.
 - [Associated Press OpenAI Licensing Deal](associated_press_openai_licensing_deal.md): shares the generative-AI product-launch theme, from a different source document.
 - [ChatGPT Competitive Response Across AI Industry](chatgpt_competitive_response_across_ai_industry.md): overlapping coverage of Gemini, Bard and Google's answer to ChatGPT, from a different source document.
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): overlapping coverage of Gemini and Bard as ChatGPT rivals, from a different source document.
 - [ChatGPT Plus And Plugin Platform](chatgpt_plus_and_plugin_platform.md): shares the generative-AI product-launch theme, from a different source document.
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
+- [Anduril's Roadrunner Counter-Air Vehicle](anduril_roadrunner_counter_air_vehicle.md): same source document (doc_0334)
+- [The Ecosystem And Unit-Economics Challenge Of Battery Swapping](battery_swapping_ecosystem_and_unit_economics_challenges.md): same source document (doc_0334)
+- [Bitcoin's Ascent To $44,000](bitcoin_ascent_to_44000_dollars.md): same source document (doc_0334)
+- [The Consumer Trading Recovery At Coinbase And Robinhood](consumer_trading_recovery_coinbase_and_robinhood.md): same source document (doc_0334)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

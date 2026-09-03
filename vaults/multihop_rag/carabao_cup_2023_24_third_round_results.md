@@ -13,11 +13,19 @@ The results were: Tuesday, Sept. 26, Bradford City (L2) 0-2 Middlesbrough (Ch); 
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also mentions Aston Villa, from a different document.
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Manchester City, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also discusses Manchester City, from a different document.
 - [Canada Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also mentions West Ham, from a different document.
 - [Carabao Cup 2023 Quarter Final Draw](carabao_cup_2023_quarter_final_draw.md): also mentions Port Vale and West Ham, from a different document.
+- [Carabao Cup 2023/24 First Round Format And Results](carabao_cup_2023_24_first_round_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): same source document (doc_0100)
+- [What The Carabao Cup Is And What Winning It Is Worth In 2023/24](carabao_cup_2023_24_overview_and_stakes.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Second Round Results](carabao_cup_2023_24_second_round_results.md): same source document (doc_0100)
+- [Premier League](term_premier_league.md): uses the concept premier league
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

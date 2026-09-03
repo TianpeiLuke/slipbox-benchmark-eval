@@ -11,6 +11,7 @@ The tight-end read is split: Arizona has allowed five touchdowns to tight ends o
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers Kenny Pickett and the Steelers in the same week, from a different source document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another start/sit call covering Marquise Brown, from a different source document.
 - [Cardinals 24-10 Steelers Week 13](cardinals_24_10_steelers_week_13.md): reports the same game's outcome and covers Kenny Pickett and Kyler Murray, from a different source document.
@@ -19,6 +20,8 @@ The tight-end read is split: Arizona has allowed five touchdowns to tight ends o
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
 
 ## Source
 

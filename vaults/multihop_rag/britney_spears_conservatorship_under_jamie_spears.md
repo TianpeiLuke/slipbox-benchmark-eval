@@ -11,6 +11,7 @@ The turning point was Spears' testimony at her conservatorship hearing in June 2
 
 ## Related Notes
 
+
 - [Britney Spears Adnan Ghalib Relationship](britney_spears_adnan_ghalib_relationship.md): a relationship from the same period in which Jamie Spears also figures
 - [Britney Spears Charlie Ebersol Relationship](britney_spears_charlie_ebersol_relationship.md): another romance dated inside the conservatorship years
 - [Britney Spears David Lucado Relationship](britney_spears_david_lucado_relationship.md): a relationship reported alongside her father's control of her affairs
@@ -19,6 +20,8 @@ The turning point was Spears' testimony at her conservatorship hearing in June 2
 - [Britney Spears Kevin Federline Marriage And Divorce](britney_spears_kevin_federline_marriage_and_divorce.md): the marriage whose collapse preceded the conservatorship, same article
 - [Britney Spears Memoir The Woman In Me](britney_spears_memoir_the_woman_in_me.md): the memoir expected to cover this legal battle, same article
 - [Britney Spears Sam Asghari Marriage And Divorce](britney_spears_sam_asghari_marriage_and_divorce.md): the marriage that spanned the end of the conservatorship, same article
+- [Kevin Federline's 2022 Comments And The Spears Camp's Rebuttal](kevin_federline_2022_comments_and_the_spears_camp_rebuttal.md): same source document (doc_0358)
+- [Kevin Federline's Marriage To Victoria Prince](kevin_federline_marriage_to_victoria_prince.md): same source document (doc_0358)
 
 ## Source
 

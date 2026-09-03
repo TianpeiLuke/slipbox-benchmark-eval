@@ -11,6 +11,7 @@ Everton said he had led the club through "a period of unprecedented change in En
 
 ## Related Notes
 
+
 - [Bill Kenwright Tribute At Anfield](bill_kenwright_tribute_at_anfield.md): also concerns Kenwright and Goodison Park, from a different document
 - [Everton Appeal Against Points Deduction](everton_appeal_against_points_deduction.md): another Everton Premier League story from a different source
 - [Everton Case Implications For Manchester City And Chelsea](everton_case_implications_for_manchester_city_and_chelsea.md): another Everton football governance story from a different source
@@ -19,6 +20,9 @@ Everton said he had led the club through "a period of unprecedented change in En
 - [Bill Kenwright's Coronation Street Acting Career](bill_kenwright_coronation_street_acting_career.md): from the same BBC obituary
 - [Bill Kenwright Dies Aged 78](bill_kenwright_death_aged_78.md): the death announcement in the same obituary
 - [Bill Kenwright's West End Theatre Productions](bill_kenwright_west_end_theatre_productions.md): his parallel producing career in the same obituary
+- [Everton Fans' No Confidence Vote Against Kenwright's Board](everton_fan_no_confidence_in_kenwright_board.md): same source document (doc_0543)
+- [Everton's Ownership: Kenwright To Moshiri To 777 Partners](everton_ownership_moshiri_and_777_partners.md): same source document (doc_0543)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

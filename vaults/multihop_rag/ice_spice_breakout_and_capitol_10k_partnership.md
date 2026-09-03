@@ -11,6 +11,7 @@ On the signing itself, Jubelirer sets the record straight about the dinner that 
 
 ## Related Notes
 
+
 - [All You Had To Do Was Stay Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): also concerns Taylor Swift, one of the collaborators named here, from a different source document.
 - [American Pie Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): also concerns Taylor Swift and Billboard chart records, from a different source document.
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also concerns Taylor Swift, from a different source document.
@@ -19,6 +20,8 @@ On the signing itself, Jubelirer sets the record straight about the dinner that 
 - [Beatles Now And Then 2023 Release](beatles_now_and_then_2023_release.md): drawn from the same interview and is the legacy campaign Jubelirer sets against this new-artist launch.
 - [Capitol 2023 Frontline Roster Highlights](capitol_2023_frontline_roster_highlights.md): drawn from the same interview and covers the rest of the year's roster successes.
 - [Capitol Hip Hop And RnB Executive Build Out](capitol_hip_hop_and_rnb_executive_build_out.md): drawn from the same interview and covers the hip-hop capability behind this signing.
+- [Capitol's International-First, Direct-To-Fan Campaign Model](capitol_international_first_and_direct_to_fan_strategy.md): same source document (doc_0212)
+- [Capitol Music Group's Leadership Turmoil, 2020-2021](capitol_music_group_leadership_turmoil_2020_2021.md): same source document (doc_0212)
 
 ## Source
 

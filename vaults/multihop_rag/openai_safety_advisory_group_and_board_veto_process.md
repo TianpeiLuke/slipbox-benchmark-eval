@@ -13,6 +13,7 @@ The process then requires these recommendations to be sent simultaneously to the
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also concerns Sam Altman, from a different source document.
 - [Anthropic Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): also concerns Sam Altman, from a different source document.
 - [ChatGPT 100 Million User Milestone](chatgpt_100_million_user_milestone.md): also concerns Sam Altman, from a different source document.
@@ -21,6 +22,8 @@ The process then requires these recommendations to be sent simultaneously to the
 - [OpenAI Catastrophic Risk Definition](openai_catastrophic_risk_definition.md): drawn from the same source document (doc_0117), defining the risks this process arbitrates.
 - [OpenAI Model Risk Categories And Deployment Thresholds](openai_model_risk_categories_and_deployment_thresholds.md): drawn from the same source document (doc_0117), the rubric feeding these recommendations.
 - [OpenAI Preparedness Framework Update](openai_preparedness_framework_update.md): drawn from the same source document (doc_0117), the framework that establishes this process.
+- [OpenAI's Three-Tier AI Safety Team Structure](openai_three_tier_ai_safety_team_structure.md): same source document (doc_0117)
+- [Skepticism That OpenAI's Board Will Use Its Veto](skepticism_about_openai_board_veto_enforcement.md): same source document (doc_0117)
 
 ## Source
 

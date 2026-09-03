@@ -13,11 +13,17 @@ Klopp was able to ring the changes before Nottingham Forest's Premier League vis
 
 ## Related Notes
 
+
 - [Arsenal 2-1 Win at Sevilla Group B](arsenal_2_1_win_at_sevilla_group_b.md): another English side's Europa League group win the same week, from a different document.
 - [Bournemouth Comeback Win at Nottingham Forest: Solanke Hat-Trick](bournemouth_comeback_win_at_nottingham_forest_solanke_hat_trick.md): also discusses Nottingham Forest, from a different document.
 - [Carabao Cup 2023-24 Second Round Results](carabao_cup_2023_24_second_round_results.md): also discusses Nottingham Forest, from a different document.
 - [Champions League 2023-24 Group B: Arsenal, PSV](champions_league_2023_24_group_b_arsenal_psv.md): also discusses European group-stage competition, from a different document.
 - [Champions League 2023-24 Group C: Real Madrid, Napoli](champions_league_2023_24_group_c_real_madrid_napoli.md): also discusses European group-stage competition, from a different document.
+- [Bill Kenwright Tribute At Anfield](bill_kenwright_tribute_at_anfield.md): same source document (doc_0152)
+- [Europa Conference League Round-Up: Villa And Klaksvik](europa_conference_league_round_up_villa_and_klaksvik.md): same source document (doc_0152)
+- [Liverpool-Toulouse: Goals And Key Moments](liverpool_toulouse_goals_and_key_moments.md): same source document (doc_0152)
+- [Premier League](term_premier_league.md): uses the concept premier league
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

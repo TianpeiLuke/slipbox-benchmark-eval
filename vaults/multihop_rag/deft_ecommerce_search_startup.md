@@ -13,6 +13,7 @@ Deft was founded in 2019 by Alex Gunnarson and Zach Hudson. Gunnarson started wo
 
 ## Related Notes
 
+
 - [AI Pricing Models](ai_pricing_models.md): shares the large-language-model subject area, from a different document.
 - [AI Startup Defensibility](ai_startup_defensibility.md): bears on whether an LLM-based product can hold an edge, from a different document.
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the large-language-model subject area, from a different document.
@@ -21,6 +22,15 @@ Deft was founded in 2019 by Alex Gunnarson and Zach Hudson. Gunnarson started wo
 - [Anthropic's Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): shares the large-language-model subject area, from a different document.
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): shares the large-language-model subject area, from a different document.
 - [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): shares the large-language-model subject area, from a different document.
+- [Consumer Search Startups And Switching Barriers](consumer_search_startup_switching_barriers.md): same source document (doc_0301)
+- [Deft's Competitive Landscape: Search Incumbents](deft_competitive_landscape_search_incumbents.md): same source document (doc_0301)
+- [Deft's Funding And Traction Metrics](deft_funding_and_traction_metrics.md): same source document (doc_0301)
+- [Deft's Multimodal Search Capabilities](deft_multimodal_search_capabilities.md): same source document (doc_0301)
+- [Deft's Revenue Model And Pricing Tiers](deft_revenue_model_and_pricing_tiers.md): same source document (doc_0301)
+- [E-Commerce Search Startup Viability Challenges](ecommerce_search_startup_viability_challenges.md): same source document (doc_0301)
+- [Investor Views On Deft's Differentiation](investor_views_on_deft_differentiation.md): same source document (doc_0301)
+- [Why Traditional E-Commerce Search Has Degraded](traditional_ecommerce_search_degradation.md): same source document (doc_0301)
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
 
 ## Source
 

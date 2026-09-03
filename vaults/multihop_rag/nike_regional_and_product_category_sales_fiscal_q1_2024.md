@@ -13,6 +13,7 @@ By product category, footwear sales rose 4% to $8.4 billion, making up about 68%
 
 ## Related Notes
 
+
 - [AFC 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): shares the Middle East as a regional tag.
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): shares North America as a regional tag.
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): shares North America as a regional tag.
@@ -21,6 +22,8 @@ By product category, footwear sales rose 4% to $8.4 billion, making up about 68%
 - [Nike Direct-to-Consumer Channel Performance](nike_direct_to_consumer_channel_performance.md): the channel split of these same sales.
 - [Nike Fiscal 2024 Revenue and Margin Guidance](nike_fiscal_2024_revenue_and_margin_guidance.md): the outlook issued with these figures.
 - [Nike Fiscal Q1 2024 Headline Results](nike_fiscal_q1_2024_headline_results.md): the group totals these regions add up to.
+- [Nike Greater China Sales Recovery](nike_greater_china_sales_recovery.md): same source document (doc_0215)
+- [Nike Gross Margin Fiscal Q1 2024](nike_gross_margin_fiscal_q1_2024.md): same source document (doc_0215)
 
 ## Source
 

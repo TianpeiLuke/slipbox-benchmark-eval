@@ -13,6 +13,7 @@ The catalog is deliberately bounded. Deft is currently focusing on furniture and
 
 ## Related Notes
 
+
 - [Expedia Testimony On Google Search Ads](expedia_testimony_on_google_search_ads.md): overlaps on search results and listings quality, from a different document.
 - [Consumer Search Startup Switching Barriers](consumer_search_startup_switching_barriers.md): drawn from the same source document (doc_0301).
 - [Deft's Competitive Landscape: Search Incumbents](deft_competitive_landscape_search_incumbents.md): drawn from the same source document (doc_0301), and covers rivals with the same features.
@@ -21,6 +22,7 @@ The catalog is deliberately bounded. Deft is currently focusing on furniture and
 - [Deft's Revenue Model And Pricing Tiers](deft_revenue_model_and_pricing_tiers.md): drawn from the same source document (doc_0301).
 - [E-Commerce Search Startup Viability Challenges](ecommerce_search_startup_viability_challenges.md): drawn from the same source document (doc_0301).
 - [Investor Views On Deft's Differentiation](investor_views_on_deft_differentiation.md): drawn from the same source document (doc_0301).
+- [Why Traditional E-Commerce Search Has Degraded](traditional_ecommerce_search_degradation.md): same source document (doc_0301)
 
 ## Source
 

@@ -11,6 +11,7 @@ Erik ten Hag had overseen his squad through those recent weeks and, despite any 
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also discusses Ten Hag, from a different document.
 - [Erik ten Hag's Position After Champions League Exit](erik_ten_hag_position_after_champions_league_exit.md): also discusses Sir Jim Ratcliffe and Ten Hag, from a different document.
 - [Erik ten Hag's Position Under Ratcliffe](erik_ten_hag_position_under_ratcliffe.md): also discusses Sir Jim Ratcliffe and Ten Hag, from a different document.
@@ -19,6 +20,7 @@ Erik ten Hag had overseen his squad through those recent weeks and, despite any 
 - [Bruno Fernandes' Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): another part of the same Ten Hag briefing, from the same document.
 - [Manchester Derby 191st Edition Context](manchester_derby_191st_edition_context.md): the fixture this briefing previewed, from the same document.
 - [Onana as an Extra Outfield Player](onana_as_an_extra_outfield_player.md): the tactical thread of the same briefing, from the same document.
+- [Onana's Transfer Fee And Uneven Form At United](onana_transfer_fee_and_uneven_form_at_united.md): same source document (doc_0330)
 
 ## Source
 

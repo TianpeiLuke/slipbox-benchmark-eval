@@ -13,6 +13,7 @@ The line score shows all the Rangers' scoring came in one frame: Texas put up th
 
 ## Related Notes
 
+
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): another World Series document, on a different controversy
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): another World Series document, different source
 - [Chase Field Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): the venue this game was played in, from a different source document
@@ -21,6 +22,8 @@ The line score shows all the Rangers' scoring came in one frame: Texas put up th
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): an injury sustained in this same game, same source document
 - [Brandon Pfaadt Start World Series Game 3](brandon_pfaadt_start_world_series_game_3.md): the Arizona starter in this game, same source document
 - [Corey Seager Home Runs 2023 World Series](corey_seager_home_runs_2023_world_series.md): the source of two of the three Texas runs, same source document
+- [Jon Gray's Surprise Relief Outing In World Series Game 3](jon_gray_emergency_relief_world_series_game_3.md): same source document (doc_0495)
+- [Marcus Semien's Big Hits In World Series Games 3 And 4](marcus_semien_five_rbi_world_series_game_4.md): same source document (doc_0495)
 
 ## Source
 

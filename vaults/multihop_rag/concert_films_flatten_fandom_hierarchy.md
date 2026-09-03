@@ -11,11 +11,17 @@ The grounds start with what fans go for. The writer says she goes to a BTS conce
 
 ## Related Notes
 
+
 - [Concert Film Versus Live Concert](concert_film_versus_live_concert_experience.md): same source; the personal comparison that supplies this argument's evidence.
 - [Conditions At The BTS Busan Concert](bts_busan_concert_in_person_conditions.md): same source; the physical cost of in-person attendance the argument invokes.
 - [BTS Yet To Come Concert Film](bts_yet_to_come_concert_film.md): same source; the film whose reach demonstrates the levelling effect.
 - [Biggest Concert Films By Box Office](biggest_concert_films_box_office_records.md): covers the commercial scale of concert films, from a different source document.
 - [All You Had to Do Was Stay Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): also covers Taylor Swift, from a different source document.
+- [American Pie's Billboard Record and Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): both discuss Taylor Swift; different source document
+- [The Backlash: Fans Who Say The Swift-Kelce Coverage Is Too Much](backlash_to_traylor_media_coverage.md): both discuss Taylor Swift; different source document
+- [Bad Blood, The Katy Perry Feud And Rolling Stone's Last Place](bad_blood_taylor_swift_katy_perry_feud.md): both discuss Taylor Swift; different source document
+- [Barriers To Attending Live Concerts](concert_ticket_access_barriers.md): same source document (doc_0462)
+- [Taylor Swift: The Eras Tour Concert Film](taylor_swift_eras_tour_concert_film.md): same source document (doc_0462)
 
 ## Source
 

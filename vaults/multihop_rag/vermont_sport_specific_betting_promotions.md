@@ -11,11 +11,20 @@ Because of those teams' proximity to the state, you can expect Vermont online sp
 
 ## Related Notes
 
+
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares the Major League Baseball and National Basketball Association subject tags, from a different source document.
 - [BetRivers Sportsbook Betting Markets](betrivers_sportsbook_betting_markets.md): shares the Major League Baseball and National Basketball Association subject tags, from a different source document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): the same local-team promo logic applied to another state, from a different source document.
 - [Crosby Malkin Letang Eighteenth Season Together](crosby_malkin_letang_eighteenth_season_together.md): shares the MLB, NBA and NFL subject tags, from a different source document.
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): shares the NBA and NFL betting subject tags, from a different source document.
+- [How BetMGM Sportsbook's Up-To-$1,500 First Bet Offer Would Work In Vermont](betmgm_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [BetMGM's Vermont Offer Is The Most Generous "Second Chance" — If You Lose First](betmgm_vermont_welcome_offer_tradeoffs.md): same source document (doc_0072)
+- [How BetRivers Sportsbook's Up-To-$500 Second Chance Offer Works](betrivers_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [How Caesars Sportsbook's Up-To-$1,000 First Bet Offer Would Work In Vermont](caesars_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [How To Claim DraftKings Sportsbook Vermont's Prelive Or Multi-Part Welcome Offer](draftkings_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

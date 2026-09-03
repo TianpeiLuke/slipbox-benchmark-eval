@@ -181,7 +181,7 @@ def score(questions: list[dict], resolve, ks: list[int], topk: int,
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("slug", choices=sorted(QUESTIONS))
-    ap.add_argument("--arm", choices=["notes", "chunks"], required=True)
+    ap.add_argument("--arm", choices=["notes", "chunks", "wholedoc"], required=True)
     ap.add_argument("--vault", help="notes arm: the corpus vault")
     ap.add_argument("--chunk-db", help="chunks arm: directory holding the chunk index")
     ap.add_argument("--strategies", default="bm25,hybrid,ppr")
@@ -216,7 +216,7 @@ def main() -> None:
         unit_docs = lambda nid: prov.get(nid, set())          # noqa: E731
         words = unit_tokens(vault / "notes.db")
     else:
-        cdir = Path(a.chunk_db or f"data/chunks/{a.slug}")
+        cdir = Path(a.chunk_db or f"data/{'wholedoc' if a.arm == 'wholedoc' else 'chunks'}/{a.slug}")
         if not (cdir / "notes.db").exists():
             print(f"no chunk index at {cdir}/notes.db — run build_chunk_baseline.py first")
             sys.exit(2)

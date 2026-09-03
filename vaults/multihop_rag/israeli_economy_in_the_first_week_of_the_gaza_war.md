@@ -11,6 +11,7 @@ The assessment came from Prof. Leo Leiderman, chief economic adviser at Bank Hap
 
 ## Related Notes
 
+
 - [AI21 Labs Tel Aviv Office Lease](ai21_labs_tel_aviv_office_lease.md): shares Tel Aviv as its economic setting.
 - [Check Point Business Continuity During the Israel War](check_point_business_continuity_during_the_israel_war.md): another account of Israeli business under the same war conditions.
 - [Eylon Levy, Israeli Government Spokesperson](eylon_levy_israeli_government_spokesperson.md): shares the Israeli wartime setting.
@@ -19,6 +20,8 @@ The assessment came from Prof. Leo Leiderman, chief economic adviser at Bank Hap
 - [Bank of Israel Interest Rate Policy During the War](bank_of_israel_interest_rate_policy_during_the_war.md): Leiderman's monetary-policy view from the same interview.
 - [Bank of Israel Thirty Billion Dollar FX Intervention](bank_of_israel_thirty_billion_dollar_fx_intervention.md): the central bank action taken in this same week.
 - [Fiscal Cost Channels of the Israel-Gaza War](fiscal_cost_channels_of_the_israel_gaza_war.md): the cost channels Leiderman lays out in the same interview.
+- [Israeli Post-War Economic Rehabilitation Planning Proposal](israeli_post_war_economic_rehabilitation_planning_proposal.md): same source document (doc_0125)
+- [Israeli Sectors Most Exposed to War Damage](israeli_sectors_most_exposed_to_war_damage.md): same source document (doc_0125)
 
 ## Source
 

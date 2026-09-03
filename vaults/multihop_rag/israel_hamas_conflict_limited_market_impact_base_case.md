@@ -11,6 +11,7 @@ The warrant joining the evidence to the claim is that market impact tracks escal
 
 ## Related Notes
 
+
 - [Treasury Yields And Fed Higher For Longer](treasury_yields_and_fed_higher_for_longer.md): shares the treasury-yield and inflation channel through which a geopolitical shock would be transmitted, from a different source document.
 - [US Treasury Yields And Fed Rate Expectations October 2023](us_treasury_yields_and_fed_rate_expectations_october_2023.md): covers the same October 2023 market backdrop of slowing growth and rate expectations, from a different source document.
 - [India Renewable And Thermal Capacity Policy 2023](india_renewable_and_thermal_capacity_policy_2023.md): sits in the same sub-plan on geopolitical risk and the Indian power sector, from a different source document.
@@ -19,6 +20,7 @@ The warrant joining the evidence to the claim is that market impact tracks escal
 - [India Israel Bilateral Trade Exposure 2022 23](india_israel_bilateral_trade_exposure_2022_23.md): drawn from the same article and quantifies the trade channel that survives even in the base case.
 - [Israel Hamas War Full Escalation Scenario](israel_hamas_war_full_escalation_scenario.md): drawn from the same article and challenges the non-escalation premise this base case rests on.
 - [Middle East Crude And Shipping Chokepoint Disruption](middle_east_crude_and_shipping_chokepoint_disruption.md): drawn from the same article and maps the oil and logistics disruption that a breakdown of this base case would trigger.
+- [How War Escalation Transmits To Indian Equities](war_escalation_transmission_to_indian_equities.md): same source document (doc_0111)
 
 ## Source
 

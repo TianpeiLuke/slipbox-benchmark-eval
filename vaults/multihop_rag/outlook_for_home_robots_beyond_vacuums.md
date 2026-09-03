@@ -11,6 +11,7 @@ He offers a test for when the prediction would be overturned, framed as a questi
 
 ## Related Notes
 
+
 - [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): the contrasting forecast for how soon robots become common, from a different source document.
 - [Amazon MIT Ipsos Robot Perception Study](amazon_mit_ipsos_robot_perception_study.md): overlapping coverage of public expectations of robots, from a different source document.
 - [Amazon Robot Fleet Scale And Jobs](amazon_robot_fleet_scale_and_jobs.md): overlapping coverage of robots performing specific tasks, from a different source document.
@@ -19,6 +20,8 @@ He offers a test for when the prediction would be overturned, framed as a questi
 - [Barriers To General-Purpose Robots](barriers_to_general_purpose_robots.md): drawn from the same source document (doc_0420), on the problems that must be solved first.
 - [Boston Dynamics On Generative AI's Role In Robotics](boston_dynamics_view_on_generative_ai_in_robotics.md): drawn from the same source document (doc_0420), another answer in the same Q&A.
 - [Boston Dynamics On The Humanoid Form Factor](boston_dynamics_view_on_humanoid_form_factor.md): drawn from the same source document (doc_0420), another answer in the same Q&A.
+- [The Next Industries For Robotics Adoption](next_industries_for_robotics_adoption.md): same source document (doc_0420)
+- [The Robotics Supply Chain As An Underappreciated Trend](robotics_supply_chain_as_underappreciated_trend.md): same source document (doc_0420)
 
 ## Source
 

@@ -11,6 +11,7 @@ He also acknowledged the intense public attention his private life now attracts,
 
 ## Related Notes
 
+
 - [Travis Kelce WSJ Magazine Interview On Swift](travis_kelce_wsj_magazine_interview_on_swift.md): a separate account of the same WSJ Magazine interview
 - [Backlash To Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): the criticism his earlier public remarks attracted
 - [Criticism That The NFL Overdid Its Taylor Swift Coverage](criticism_that_the_nfl_overdid_its_taylor_swift_coverage.md): his view of the broadcast attention around the same relationship
@@ -19,6 +20,7 @@ He also acknowledged the intense public attention his private life now attracts,
 - [Swift And Kelce Public Appearances Together](swift_and_kelce_public_appearances_together.md): the appearances that generated this scrutiny, same source article
 - [Taylor Swift Approach To Public Scrutiny](taylor_swift_approach_to_public_scrutiny.md): her matching account of living publicly, same article
 - [Taylor Swift Attendance At Kansas City Chiefs Games](taylor_swift_attendance_at_kansas_city_chiefs_games.md): the games at which the magnifying glass is most visible, same article
+- [How Taylor Swift And Travis Kelce's Relationship Began](taylor_swift_travis_kelce_relationship_origin.md): same source document (doc_0295)
 
 ## Source
 

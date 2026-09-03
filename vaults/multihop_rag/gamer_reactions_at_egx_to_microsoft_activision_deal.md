@@ -13,6 +13,7 @@ Sophie, who was named Ubisoft's content creator of the year, told the BBC she "j
 
 ## Related Notes
 
+
 - [Activision Titles On Xbox Game Pass](activision_titles_on_xbox_game_pass.md): drawn from the same source document (doc_0214).
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the fines-and-penalties theme, from a different source document.
 - [Alameda Negative Balance Escalation](alameda_negative_balance_escalation.md): shares the fines-and-penalties theme, from a different source document.
@@ -21,6 +22,14 @@ Sophie, who was named Ubisoft's content creator of the year, told the BBC she "j
 - [Archie Roberts, 2023 AFL Draft Prospect](archie_roberts_afl_draft_prospect_2023.md): shares the fines-and-penalties theme, from a different source document.
 - [Beats Fit Pro Black Friday Deal](beats_fit_pro_black_friday_deal.md): shares the fines-and-penalties theme, from a different source document.
 - [Beyerdynamic DT 900 Pro X Deal](beyerdynamic_dt_900_pro_x_deal.md): shares the fines-and-penalties theme, from a different source document.
+- [Call Of Duty's PlayStation Availability After The Microsoft Deal](call_of_duty_playstation_availability_after_microsoft_deal.md): same source document (doc_0214)
+- [Fan Opposition To Activision Console Exclusivity Risk](fan_opposition_to_activision_console_exclusivity_risk.md): same source document (doc_0214)
+- [Microsoft's Acquisition Of Activision Blizzard King](microsoft_activision_blizzard_king_acquisition.md): same source document (doc_0214)
+- [Microsoft's Gaming Studio Acquisition Portfolio](microsoft_gaming_studio_acquisition_portfolio.md): same source document (doc_0214)
+- [The Microtransaction Revenue Rationale For The Activision Acquisition](microtransaction_revenue_rationale_for_activision_acquisition.md): same source document (doc_0214)
+- [Ubisoft's Cloud Gaming Rights To The Activision Blizzard Catalogue](ubisoft_cloud_gaming_rights_to_activision_blizzard_catalogue.md): same source document (doc_0214)
+- [UK Games Industry Impact Of The Activision Acquisition](uk_games_industry_impact_of_activision_acquisition.md): same source document (doc_0214)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

@@ -11,6 +11,7 @@ The second title bout paired heavyweights who could usher in a new era of the di
 
 ## Related Notes
 
+
 - [Anthony Joshua Mental Rebuild After Usyk and Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): also involves Madison Square Garden, from a different source document.
 - [Bring Them Home Now Hostage Billboard Campaign](bring_them_home_now_hostage_billboard_campaign.md): also involves Madison Square Garden, from a different source document.
 - [NBA 2023 Christmas Day Game Slate](nba_2023_christmas_day_game_slate.md): also involves Madison Square Garden, from a different source document.
@@ -19,6 +20,8 @@ The second title bout paired heavyweights who could usher in a new era of the di
 - [UFC 295 Dern vs Andrade Best Bet](ufc_295_dern_vs_andrade_best_bet.md): one of the card's best bets, from the same article (doc_0577).
 - [UFC 295 Frevola vs Saint-Denis Best Bet](ufc_295_frevola_vs_saint_denis_best_bet.md): one of the card's best bets, from the same article (doc_0577).
 - [UFC 295 Lopes vs Sabatini Best Bet](ufc_295_lopes_vs_sabatini_best_bet.md): one of the card's best bets, from the same article (doc_0577).
+- [UFC 295 Best Bet: Tom Aspinall's Moneyline In A Fight Likely To End Fast](ufc_295_pavlovich_vs_aspinall_best_bet.md): same source document (doc_0577)
+- [UFC 295 Best Bet: Over 1.5 Rounds In Prochazka vs Pereira](ufc_295_prochazka_vs_pereira_best_bet.md): same source document (doc_0577)
 
 ## Source
 

@@ -13,6 +13,7 @@ It came to a head that weekend: Douglass said Shelesh showed up to his home and 
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares the creator-economy topic tag despite unrelated subject matter
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): shares a topic tag from a different document
 - [AI-Assisted Works and Copyright Eligibility](ai_assisted_works_copyright_eligibility.md): shares the creator-economy tag from a separate source
@@ -21,6 +22,12 @@ It came to a head that weekend: Douglass said Shelesh showed up to his home and 
 - [AMO Scale Ambition and Product Roadmap](amo_scale_ambition_and_product_roadmap.md): shares a topic tag from a different document
 - [AOC's Twitch Among Us Stream](aoc_twitch_among_us_stream.md): another creator-economy subject from a separate source
 - [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): shares the creator-economy tag from a different article
+- [Criticism of YouTube's Response to the Doxxing Incident](criticism_of_youtube_response_to_the_doxxing_incident.md): same source document (doc_0517)
+- [Jacksfilms' Criticism of SSSniperwolf's Reaction Videos](jacksfilms_criticism_of_sssniperwolf_reaction_videos.md): same source document (doc_0517)
+- [Reaction Content on YouTube](reaction_content_on_youtube.md): same source document (doc_0517)
+- [The SSSniperwolf Doxxing Incident, October 2023](sssniperwolf_doxxing_incident_october_2023.md): same source document (doc_0517)
+- [YouTube's Temporary Demonetization of SSSniperwolf](youtube_temporary_demonetization_of_sssniperwolf.md): same source document (doc_0517)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

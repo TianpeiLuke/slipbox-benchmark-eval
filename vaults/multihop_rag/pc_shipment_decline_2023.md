@@ -11,6 +11,7 @@ The newsletter reads the two figures together as a sign that mobile devices may 
 
 ## Related Notes
 
+
 - [Mobile's Share Of Thanksgiving 2023 E-Commerce](mobile_share_of_thanksgiving_2023_ecommerce.md): overlaps on sales, mobile and device coverage, from a different source document.
 - [Adobe's Firefly Generative AI Tools And Project Stardust](adobe_generative_ai_tools.md): drawn from the same source document (doc_0043).
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): drawn from the same source document (doc_0043).
@@ -19,6 +20,8 @@ The newsletter reads the two figures together as a sign that mobile devices may 
 - [Creator Economy Sustainability And Creator Venture Capital](creator_economy_sustainability.md): drawn from the same source document (doc_0043).
 - [Whether Founders Should Attend Events](founder_event_attendance_debate.md): drawn from the same source document (doc_0043).
 - [Google Pixel 8 Launch](google_pixel_8_launch.md): drawn from the same source document (doc_0043).
+- [Mastodon's Undercounted Users And Twitter's Traffic](mastodon_and_x_traffic_figures.md): same source document (doc_0043)
+- [OpenAI Chip Rumors And Nvidia's Position](openai_chip_and_nvidia_position.md): same source document (doc_0043)
 
 ## Source
 

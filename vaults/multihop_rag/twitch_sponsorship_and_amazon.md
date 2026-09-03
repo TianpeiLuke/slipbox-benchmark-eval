@@ -15,11 +15,17 @@ The predicted effect of the Amazon channel is a widening of the advertiser pool 
 
 ## Related Notes
 
+
 - [Twitch Investment In Sports Streamers](twitch_investment_in_sports_streamers.md): overlapping coverage of Twitch, creators and streamers, from a different source document.
 - [Twitch Revenue Split And Partner Plus Program](twitch_revenue_split_and_partner_plus_program.md): overlapping coverage of Twitch creator monetization, from a different source document.
 - [AI Copyright And Training Disputes](ai_copyright_and_training_disputes.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [Creative Industries AI Concerns](creative_industries_ai_concerns.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
+- [Twitch Advertising Strategy](twitch_advertising_strategy.md): same source document (doc_0401)
+- [Twitch Competitive Pressure](twitch_competitive_pressure.md): same source document (doc_0401)
+- [Twitch Partner Plus Program](twitch_partner_plus_program.md): same source document (doc_0401)
+- [Twitch Revenue Split Controversy](twitch_revenue_split_controversy.md): same source document (doc_0401)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

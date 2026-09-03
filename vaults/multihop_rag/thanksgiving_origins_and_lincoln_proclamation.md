@@ -13,6 +13,7 @@ Before Lincoln's declaration, US Presidents including George Washington, John Ad
 
 ## Related Notes
 
+
 - [2023 Bowl Season Completed Game Results](2023_bowl_season_completed_game_results.md): also names James Madison, from a different source document.
 - [Best Buy Price Match Guarantee](best_buy_price_match_guarantee.md): also concerns Thanksgiving Day, from a different source document.
 - [Cranberries and New England Regional Identity](cranberries_and_new_england_regional_identity.md): overlapping coverage of the Pilgrims and Massachusetts, from a different source document.
@@ -21,6 +22,8 @@ Before Lincoln's declaration, US Presidents including George Washington, John Ad
 - [Macy's Thanksgiving Day Parade](macys_thanksgiving_day_parade.md): drawn from the same source document, doc_0280.
 - [Thanksgiving: The American Holiday](thanksgiving_american_holiday_overview.md): drawn from the same source document, doc_0280.
 - [Criticism of Thanksgiving as a Celebration of Conquest](thanksgiving_criticism_native_american_conquest.md): drawn from the same source document, doc_0280, and contests how this founding story is told.
+- [Thanksgiving Observance Outside the United States](thanksgiving_observance_outside_the_united_states.md): same source document (doc_0280)
+- [Thanksgiving Traditional Foods and the Turkey](thanksgiving_traditional_foods_and_turkey.md): same source document (doc_0280)
 
 ## Source
 

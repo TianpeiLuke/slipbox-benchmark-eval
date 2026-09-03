@@ -13,6 +13,7 @@ Not every entrant survived. Pebble, formerly T2, another app that spun out from 
 
 ## Related Notes
 
+
 - [Founder Lessons from Pebble](founder_lessons_from_pebble.md): substantial content overlap on pebble, twitter, users, from a different source document.
 - [Mastodon and X Traffic Figures](mastodon_and_x_traffic_figures.md): substantial content overlap on twitter, users, mastodon, from a different source document.
 - [Pebble Moderation Approach Defense](pebble_moderation_approach_defense.md): substantial content overlap on pebble, users, cselle, from a different source document.
@@ -21,6 +22,8 @@ Not every entrant survived. Pebble, formerly T2, another app that spun out from 
 - [Spill Community Quality over Growth Argument](spill_community_quality_over_growth_argument.md): drawn from the same source document, doc_0488.
 - [Spill Public Launch and Creator Payment Plans](spill_public_launch_and_creator_payment_plans.md): drawn from the same source document, doc_0488.
 - [Spill Seed Extension Funding Round](spill_seed_extension_funding_round.md): drawn from the same source document, doc_0488.
+- [Spill Social App Overview](spill_social_app_overview.md): same source document (doc_0488)
+- [Spill's Tea Party Feature And Celebrity Users](spill_tea_party_feature_and_celebrity_users.md): same source document (doc_0488)
 
 ## Source
 

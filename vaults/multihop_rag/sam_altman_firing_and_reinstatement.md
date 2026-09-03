@@ -11,9 +11,17 @@ That firing didn't take. Instead, it set off 72 hours of chaos within the compan
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also concerns Sam Altman, from a different source document.
 - [ChatGPT's Launch And First-Year Evolution](chatgpt_launch_and_first_year_evolution.md): also concerns Sam Altman and OpenAI's first year, from a different source document.
 - [Anthropic's Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): also concerns Sam Altman, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): both discuss Sam Altman; different source document
+- [ChatGPT Overview And Significance](chatgpt_overview_and_significance.md): both discuss Sam Altman; different source document
+- [The AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): same source document (doc_0099)
+- [Associated Press And OpenAI's Licensing Deal](associated_press_openai_licensing_deal.md): same source document (doc_0099)
+- [ChatGPT's 100 Million User Milestone](chatgpt_100_million_user_milestone.md): same source document (doc_0099)
+- [ChatGPT's Durability And Regulatory Outlook](chatgpt_durability_and_regulatory_outlook.md): same source document (doc_0099)
+- [ChatGPT Enterprise And Multimodal Features](chatgpt_enterprise_and_multimodal_features.md): same source document (doc_0099)
 
 ## Source
 

@@ -13,6 +13,7 @@ The largest share of notifications came from apps including Snapchat and TikTok.
 
 ## Related Notes
 
+
 - [Apple Watch SE Holiday Deal](apple_watch_se_holiday_deal.md): overlapping vocabulary on notifications, came, from a different source document.
 - [Apple Watch SE Record Low Price](apple_watch_se_record_low_price.md): overlapping vocabulary on notifications, from a different source document.
 - [Apple Watch SE Second Generation](apple_watch_se_second_generation.md): overlapping vocabulary on notifications, from a different source document.
@@ -21,6 +22,8 @@ The largest share of notifications came from apps including Snapchat and TikTok.
 - [Common Sense Media Teen Smartphone Study Design and Scope](common_sense_media_teen_smartphone_study_design_and_scope.md): drawn from the same source document (doc_0518).
 - [Dopamine Reward Tolerance and Compulsive Consumption](dopamine_reward_tolerance_and_compulsive_consumption.md): drawn from the same source document (doc_0518).
 - [Harmful Content Categories and Staged Digital Access](harmful_content_categories_and_staged_digital_access.md): drawn from the same source document (doc_0518).
+- [How Much And When Kids Use Their Phones](kids_daily_smartphone_use_volume_and_timing.md): same source document (doc_0518)
+- [Online Predation And Sextortion Risk For Children](online_predation_and_sextortion_risk_for_children.md): same source document (doc_0518)
 
 ## Source
 

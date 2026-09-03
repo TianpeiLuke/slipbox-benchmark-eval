@@ -11,10 +11,19 @@ Google rejected the claim in very strong terms, saying the piece was misleading 
 
 ## Related Notes
 
+
 - [Google's Top Revenue Search Queries Disclosure](google_top_revenue_search_queries_disclosure.md): overlapping coverage of Google, search and queries, from a different source document.
 - [The Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): part of the same account of US v. Google, search defaults and search quality, from a different source document.
 - [Closed Sessions Limited The Public Record Of Cue's Testimony](closed_sessions_limited_the_public_record_of_cue_testimony.md): part of the same account of US v. Google, search defaults and search quality, from a different source document.
 - [The DOJ Theory That Google's Default Deals Foreclose Search Rivals](doj_theory_that_google_default_deals_foreclose_search_rivals.md): part of the same account of US v. Google, search defaults and search quality, from a different source document.
+- [Apple's Privacy Stance Versus Google's Default Payments](apple_privacy_stance_versus_google_default_payments.md): same sub-plan (US v. Google: default deals, testimony, and how Search works), different source document
+- [Google's Defense That Search Defaults Are Easy To Change](google_defense_that_search_defaults_are_easy_to_change.md): same source document (doc_0032)
+- [Google's Denial That Ad Keyword Matching Affects Organic Results](google_denial_that_ad_keyword_matching_affects_organic_results.md): same source document (doc_0032)
+- [A Hands-On Comparison Of Google, Bing And DuckDuckGo Search](hands_on_comparison_of_google_bing_and_duckduckgo_search.md): same source document (doc_0032)
+- [How Google Search Crawls, Indexes And Ranks Results](how_google_search_crawls_indexes_and_ranks_results.md): same source document (doc_0032)
+- [Search Quality Complaints Explained By Data Volume Growth](search_quality_complaints_explained_by_data_volume_growth.md): same source document (doc_0032)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Total Addressable Market (TAM)](term_total_addressable_market.md): uses the concept total addressable market
 
 ## Source
 

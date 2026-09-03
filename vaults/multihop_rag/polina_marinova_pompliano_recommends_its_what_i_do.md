@@ -13,9 +13,17 @@ What Pompliano finds decisive is that despite witnessing so much tragedy and bru
 
 ## Related Notes
 
+
 - [Fair Use Doctrine Plain Explanation](fair_use_doctrine_plain_explanation.md): overlapping treatment of books, quotation and authorship, from a different source document.
 - [Author Endorsements In Book Publishing](author_endorsements_in_book_publishing.md): drawn from the same source document (doc_0243), explaining why authors were asked to recommend.
 - [Barr Moses Recommends Dare To Lead](barr_moses_recommends_dare_to_lead.md): drawn from the same source document (doc_0243), another recommendation in the series.
+- [Georgiana Laudi Recommends "Loved"](georgiana_laudi_recommends_loved_product_marketing.md): same source document (doc_0243)
+- [James Wise Recommends "The Coming Wave"](james_wise_recommends_the_coming_wave.md): same source document (doc_0243)
+- [Jerry Neumann Recommends "How Data Happened"](jerry_neumann_recommends_how_data_happened.md): same source document (doc_0243)
+- [Jon Evans Recommends "The Steerswoman"](jon_evans_recommends_the_steerswoman.md): same source document (doc_0243)
+- [Kashmir Hill Recommends "The Listeners"](kashmir_hill_recommends_the_listeners_wiretapping_history.md): same source document (doc_0243)
+- [Scott Hurff Recommends "Getting Real"](scott_hurff_recommends_getting_real_by_37signals.md): same source document (doc_0243)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

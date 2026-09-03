@@ -11,11 +11,18 @@ Her case is that the concert film has value past its re-creation of a specific i
 
 ## Related Notes
 
+
 - [Movie Theaters Pivot To Alternative Content](movie_theaters_pivot_to_alternative_content.md): covers the theatrical exhibition of such events, from a different source document.
 - [Bears Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): also covers Amazon Prime Video, from a different source document.
 - [Biggest Concert Films Box Office Records](biggest_concert_films_box_office_records.md): overlaps in content on concert, film, eras, from a different source document.
 - [Lions Packers Week 4 Broadcast and Streaming Details](lions_packers_week_4_broadcast_and_streaming_details.md): also covers Amazon Prime Video, from a different source document.
 - [Prisco Week 12 Thanksgiving and Black Friday Picks](prisco_week_12_thanksgiving_and_black_friday_picks.md): also covers Amazon Prime Video, from a different source document.
+- [Conditions At The BTS Busan Concert](bts_busan_concert_in_person_conditions.md): same source document (doc_0462)
+- [BTS Yet To Come Concert Film](bts_yet_to_come_concert_film.md): same source document (doc_0462)
+- [Concert Films Flatten The Fandom Hierarchy](concert_films_flatten_fandom_hierarchy.md): same source document (doc_0462)
+- [Barriers To Attending Live Concerts](concert_ticket_access_barriers.md): same source document (doc_0462)
+- [Taylor Swift: The Eras Tour Concert Film](taylor_swift_eras_tour_concert_film.md): same source document (doc_0462)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

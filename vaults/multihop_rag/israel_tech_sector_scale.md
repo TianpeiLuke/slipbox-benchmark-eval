@@ -15,11 +15,16 @@ The context for that qualification is that the world was still coming to terms w
 
 ## Related Notes
 
+
 - [Chinese USD Fund Managers' Transitory Phase](chinese_usd_fund_managers_transitory_phase.md): also concerns the Bay Area, from a different source document.
 - [Earth Mama and Savanah Leaf](earth_mama_savanah_leaf.md): also concerns the Bay Area, from a different source document.
 - [Gaza Displacement and Casualties, October 2023](gaza_displacement_and_casualties_october_2023.md): overlapping coverage of Israel, the attacks and Gaza, from a different source document.
 - [Gaza Tech Outsourcing Hub](gaza_tech_outsourcing_hub.md): overlapping coverage of a startup ecosystem disrupted by the same attacks, from a different source document.
 - [Israel-Hamas War, October 2023 Context](israel_hamas_war_october_2023_context.md): overlapping coverage of Israel, the attacks and the affected ecosystem, from a different source document.
+- [Israel's Startup Funding Decline Before The War](israel_startup_funding_decline.md): same source document (doc_0448)
+- [Reserve Mobilisation Inside Israeli Tech Companies](israel_tech_workforce_mobilisation.md): same source document (doc_0448)
+- [Israeli Founders And Investors On Operating Through The War](israeli_founders_operating_at_war.md): same source document (doc_0448)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

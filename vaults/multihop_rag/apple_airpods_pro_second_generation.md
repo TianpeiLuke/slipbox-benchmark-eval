@@ -13,11 +13,22 @@ The caveats are ecosystem lock-in and endurance: you really need to be committed
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): also covers the Adaptive Audio feature and pricing, from a different source document.
 - [AirPods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): covers the Lightning version's pricing, from a different source document.
 - [Amazon Echo Buds Second And Third Generation Deals](amazon_echo_buds_second_and_third_gen_deals.md): covers competing discounted earbuds, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): covers another Prime Day-adjacent sale, from a different source document.
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): shares the Amazon sale-event context, from a different source document.
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): same source document (doc_0595)
+- [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): same source document (doc_0250)
+- [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): same source document (doc_0250)
+- [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): same source document (doc_0250)
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): same source document (doc_0250)
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

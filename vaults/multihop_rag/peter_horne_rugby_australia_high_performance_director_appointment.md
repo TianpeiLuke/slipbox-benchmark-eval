@@ -13,11 +13,18 @@ His background is given in some detail. Horne joined World Rugby in 2015 as a ge
 
 ## Related Notes
 
+
 - [Eddie Jones' Case For Reforming The Australian Rugby System](eddie_jones_case_for_reforming_australian_rugby_system.md): also discusses Rugby Australia and its high-performance structures, from a different document.
 - [Eddie Jones Denies Japan Head Coach Talks](eddie_jones_denies_japan_head_coach_talks.md): concerns the coaching vacancy this appointment is meant to help fill, from a different document.
 - [England-South Africa 2023 Semi-Final Routes](england_south_africa_2023_semifinal_routes.md): also covers the Rugby World Cup referenced here, from a different document.
 - [England-South Africa Rugby World Cup Rivalry And The 2019 Final](england_south_africa_rugby_world_cup_rivalry_and_2019_final.md): also covers the Rugby World Cup, from a different document.
 - [England-South Africa Rugby World Cup Semi-Final 2023](england_south_africa_rugby_world_cup_semi_final_2023.md): also covers the 2023 Rugby World Cup, from a different document.
+- [The Case For Schmidt Bringing Rugby Smarts To The Wallabies](case_for_schmidt_bringing_rugby_smarts_to_the_wallabies.md): same source document (doc_0493)
+- [Rugby Australia's Consultancy Approach To David Nucifora](david_nucifora_consultancy_approach_by_rugby_australia.md): same source document (doc_0493)
+- [Joe Schmidt's Coaching Record With Ireland And The All Blacks](joe_schmidt_coaching_record_ireland_and_all_blacks.md): same source document (doc_0493)
+- [Joe Schmidt's Wallabies Candidacy And The Rival Candidates](joe_schmidt_wallabies_candidacy_and_rival_candidates.md): same source document (doc_0493)
+- [Nucifora's Argument Against Returning To Australian Rugby](nucifora_argument_against_returning_to_australian_rugby.md): same source document (doc_0493)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

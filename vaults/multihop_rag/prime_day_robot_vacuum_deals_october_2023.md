@@ -13,11 +13,18 @@ At the budget end, the basic bump-and-roll Roomba 692 was down from $299.99 to $
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the discount-and-MSRP listing format, from a different source document.
 - [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): shares the discount-and-MSRP listing format, from a different source document.
 - [Anker Charger and Power Bank Deals](anker_charger_and_power_bank_deals.md): shares the discount-and-MSRP listing format, from a different source document.
 - [Anker Soundcore Space A40 Earbuds](anker_soundcore_space_a40_earbuds.md): shares the discount-and-MSRP listing format, from a different source document.
 - [Anker Soundcore Space Q45 and Life Q30](anker_soundcore_space_q45_and_life_q30.md): shares the discount-and-MSRP listing format, from a different source document.
+- [Echo Fourth-Gen Smart Speaker Prime Day Deal](echo_fourth_gen_smart_speaker_prime_day_deal.md): same source document (doc_0205)
+- [October 2023 Prime Big Deal Days: Smart Home Overview](october_2023_prime_big_deal_days_smart_home_overview.md): same source document (doc_0205)
+- [Prime Day Security Camera And Doorbell Deals, October 2023](prime_day_security_camera_and_doorbell_deals_october_2023.md): same source document (doc_0205)
+- [Prime Day Smart Lighting, Lock And Thermostat Deals, October 2023](prime_day_smart_lighting_lock_and_thermostat_deals_october_2023.md): same source document (doc_0205)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

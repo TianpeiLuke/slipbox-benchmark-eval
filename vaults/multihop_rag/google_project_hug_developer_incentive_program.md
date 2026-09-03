@@ -13,6 +13,7 @@ Google, however, will characterize this program as a way to incentivize develope
 
 ## Related Notes
 
+
 - [Activision $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): disputes the evidentiary basis of the $360 million figure cited here, from a different document.
 - [Activision Blizzard Union Stalling And Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): also concerns Activision Blizzard, from a different document.
 - [Activision, Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): covers Activision Blizzard and other developers dropping store plans, from a different document.
@@ -21,6 +22,8 @@ Google, however, will characterize this program as a way to incentivize develope
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): drawn from the same source document (doc_0042).
 - [Epic Games v. Google Goes To Trial On November 6, 2023](epic_games_v_google_antitrust_trial.md): drawn from the same source document (doc_0042).
 - [Google's Defense: Android Openness And Sideloading](google_defense_android_openness_and_sideloading.md): drawn from the same source document (doc_0042).
+- [Google's Parallel Antitrust Proceedings In Late 2023](google_parallel_antitrust_proceedings_2023.md): same source document (doc_0042)
+- [Google Play Billing And The User Choice Billing Alternative](google_play_billing_commission_structure.md): same source document (doc_0042)
 
 ## Source
 

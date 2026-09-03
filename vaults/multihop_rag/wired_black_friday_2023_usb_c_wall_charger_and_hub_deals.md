@@ -13,11 +13,21 @@ Satechi's four-port hub is, in WIRED's view, a little too large for the number o
 
 ## Related Notes
 
+
 - [AirPods Pro (2nd Generation) Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-life-and-charging, battery-technology and discount-versus-MSRP themes, from a different source document.
 - [AirPods Pro (2nd Generation) Lightning Deal](airpods_pro_second_generation_lightning_deal.md): shares the battery-life-and-charging and discount-versus-MSRP themes, from a different source document.
 - [Amazon Echo Buds (2023)](amazon_echo_buds_2023.md): shares the battery-life-and-charging and battery-technology themes, from a different source document.
 - [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): shares the discount-versus-MSRP and streaming-service themes, from a different source document.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the discount-versus-MSRP and streaming-service themes, from a different source document.
+- [Apple Store Credit And Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): same source document (doc_0576)
+- [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): same source document (doc_0576)
+- [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): same source document (doc_0576)
+- [Why iPhone Discounts Come From Carriers, Not Retailers](why_iphone_discounts_come_from_carriers_not_retailers.md): same source document (doc_0576)
+- [WIRED's 2023 Holiday Deal Guide Selection And Pricing Method](wired_2023_holiday_deal_guide_selection_and_pricing_method.md): same source document (doc_0576)
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

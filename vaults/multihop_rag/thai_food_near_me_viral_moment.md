@@ -11,6 +11,7 @@ The viral tweet invariably summoned a chorus of overly friendly, all-lowercase-t
 
 ## Related Notes
 
+
 - [Fitbit Charge 6 Deal](fitbit_charge_6_deal.md): also concerns Google Maps, from a different source document.
 - [Google Maps and Waze Halt Israel-Gaza Traffic Data](google_maps_waze_israel_gaza_traffic_halt.md): also concerns Google Maps, from a different source document.
 - [Installer Reader Game and App Picks](installer_reader_game_and_app_picks.md): also concerns Google Maps, from a different source document.
@@ -19,6 +20,8 @@ The viral tweet invariably summoned a chorus of overly friendly, all-lowercase-t
 - [Barber Shop Near Me and Felix Silva](barber_shop_near_me_felix_silva.md): another "near me" business from the same reporting (doc_0127).
 - [Google Local Search Ranking Factors](google_local_search_ranking_factors.md): why press coverage of this kind matters to ranking (doc_0127).
 - [The "Near Me" Business Naming Trend](near_me_business_naming_trend.md): the trend the viral moment publicised (doc_0127).
+- [Restaurants Optimizing Menus For Algorithms](restaurants_optimizing_menus_for_algorithms.md): same source document (doc_0127)
+- [The SEO Naming Effect On Customer Acquisition](seo_naming_effect_on_customer_acquisition.md): same source document (doc_0127)
 
 ## Source
 

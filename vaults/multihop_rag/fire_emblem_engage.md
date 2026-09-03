@@ -13,10 +13,19 @@ Fire Emblem Engage is one of the foremost proponents of that idea, hurling an ex
 
 ## Related Notes
 
+
 - [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
 - [Amnesia: The Bunker](amnesia_the_bunker.md): a fellow entry on the same ranked list
 - [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): another 2023 game from the same document
 - [Baldur's Gate 3](baldurs_gate_3.md): another top-ranked entry from the same list
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Chants of Sennaar](chants_of_sennaar.md): same source document (doc_0213)
+- [Cocoon (Geometric Interactive)](cocoon_geometric_interactive.md): same source document (doc_0213)
+- [Cyberpunk 2077: Phantom Liberty](cyberpunk_2077_phantom_liberty.md): same source document (doc_0213)
+- [Dave the Diver](dave_the_diver.md): same source document (doc_0213)
+- [Dead Space (2023 Remake)](dead_space_2023_remake.md): same source document (doc_0213)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

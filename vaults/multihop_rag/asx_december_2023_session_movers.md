@@ -13,11 +13,16 @@ Moomoo market strategist Jessica Amir attributed the local market's outperforman
 
 ## Related Notes
 
+
 - [ASX and Wall Street Selloff October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): another Australian session report covering miners and percentage moves, from a different article.
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): covers the same category of session laggards among miners in a different trading session.
 - [ASX October 2023 Laggards](asx_october_2023_laggards.md): parallel account of weak large-cap movers on the local bourse in an earlier month.
 - [ASX Outlook and RBA Rate Expectations September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): links the same local market to expectations for Reserve Bank rate settings.
 - [ASX REITs and Company News October 2023](asx_reits_and_company_news_october_2023.md): also frames Australian sector moves against Reserve Bank policy.
+- [Federal Reserve Rate Path Expectations Late 2023](federal_reserve_rate_path_expectations_late_2023.md): same source document (doc_0028)
+- [Take-Two Grand Theft Auto VI 2025 Release Stock Reaction](take_two_grand_theft_auto_vi_2025_release_stock_reaction.md): same source document (doc_0028)
+- [Wall Street December 2023 Mixed Session](wall_street_december_2023_mixed_session.md): same source document (doc_0028)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

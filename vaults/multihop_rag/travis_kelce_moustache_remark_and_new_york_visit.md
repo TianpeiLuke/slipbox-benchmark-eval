@@ -13,6 +13,7 @@ The New York trip was reported by Vulture, and coincidentally happened to be whi
 
 ## Related Notes
 
+
 - [Nfl Broadcasters Taylor Swift Lyric References](nfl_broadcasters_taylor_swift_lyric_references.md): same timeline, on the reports that they had been quietly hanging out
 - [Travis Kelce Invites Taylor Swift To Arrowhead](travis_kelce_invites_taylor_swift_to_arrowhead.md): same timeline, the September invitation
 - [Taylor Swift Arrowhead Stadium Appearance And Easter Eggs](taylor_swift_arrowhead_stadium_appearance_and_easter_eggs.md): same timeline, the appearance that followed
@@ -20,6 +21,9 @@ The New York trip was reported by Vulture, and coincidentally happened to be whi
 - [American Pie Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): another Taylor Swift story, different document
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): covers the media reaction to the same pairing, different document
 - [Biggest Concert Films Box Office Records](biggest_concert_films_box_office_records.md): another Taylor Swift story, different document
+- [Bad Blood, The Katy Perry Feud And Rolling Stone's Last Place](bad_blood_taylor_swift_katy_perry_feud.md): both discuss Taylor Swift; different source document
+- [Travis Kelce's First Contact Attempt And The Eras Tour Bracelet](travis_kelce_taylor_swift_first_contact_and_eras_tour_bracelet.md): same source document (doc_0044)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

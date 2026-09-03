@@ -13,6 +13,7 @@ The alternative she prescribes follows directly: "Love your kids enough to learn
 
 ## Related Notes
 
+
 - [Celebrity Tough-Love Parenting in Hollywood](celebrity_tough_love_parenting_in_hollywood.md): overlapping coverage of parenting approaches, from a different source document.
 - [Citizens Bank Park and Phillies Postseason Atmosphere](citizens_bank_park_philadelphia_phillies_postseason_atmosphere.md): also mentions Santa Claus, from a different source document.
 - [8 Passengers YouTube Parenting Channel](eight_passengers_youtube_parenting_channel.md): also mentions Santa Claus, from a different source document.
@@ -21,6 +22,7 @@ The alternative she prescribes follows directly: "Love your kids enough to learn
 - ["Grinchy Griping" and Child Egocentric Thinking](grinchy_griping_and_child_egocentric_thinking.md): drawn from the same source document, doc_0148.
 - [Hannah Keeley's Five Christmas Parenting Mistakes](hannah_keeley_christmas_parenting_mistakes.md): drawn from the same source document, doc_0148, and frames the list this belongs to.
 - [The Holiday Martyr Parent](the_holiday_martyr_parent.md): drawn from the same source document, doc_0148.
+- [Unrealistic Christmas Expectations](unrealistic_christmas_expectations.md): same source document (doc_0148)
 
 ## Source
 

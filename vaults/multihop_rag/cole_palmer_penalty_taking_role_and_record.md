@@ -13,6 +13,7 @@ One such penalty came at Tottenham in November 2023. Palmer stepped up in the 35
 
 ## Related Notes
 
+
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the fine-and-penalty topic tag, from a different source document.
 - [Alameda Negative Balance Escalation](alameda_negative_balance_escalation.md): shares the fine-and-penalty topic tag, from a different source document.
 - [Alexa's Limitations as an On-the-Go Assistant on Echo Frames](alexa_limitations_as_an_on_the_go_assistant_on_echo_frames.md): shares the fine-and-penalty topic tag, from a different source document.
@@ -21,6 +22,16 @@ One such penalty came at Tottenham in November 2023. Palmer stepped up in the 35
 - [Archie Roberts AFL Draft Prospect 2023](archie_roberts_afl_draft_prospect_2023.md): shares the fine-and-penalty topic tag, from a different source document.
 - [Beats Fit Pro Black Friday Deal](beats_fit_pro_black_friday_deal.md): shares the fine-and-penalty topic tag, from a different source document.
 - [Beyerdynamic DT 900 Pro X Deal](beyerdynamic_dt_900_pro_x_deal.md): shares the fine-and-penalty topic tag, from a different source document.
+- [Chelsea's Second-Half Pressure And Finishing Problems At Tottenham](chelsea_second_half_pressure_and_finishing_problems.md): same source document (doc_0478)
+- [Cole Palmer's £42.5m Transfer And Chelsea's Squad Turnover](cole_palmer_42_5m_transfer_and_chelsea_squad_turnover.md): same source document (doc_0445)
+- [Cole Palmer's England Call-Up And Upbringing](cole_palmer_england_call_up_and_upbringing.md): same source document (doc_0445)
+- [Cole Palmer's Goal Against Manchester City In The 4-4 Draw](cole_palmer_goal_against_manchester_city_4_4_draw.md): same source document (doc_0445)
+- [Cole Palmer's Move To Chelsea And Settling In London](cole_palmer_move_to_chelsea_and_settling_in_london.md): same source document (doc_0445)
+- [Nicolas Jackson's First Premier League Hat-Trick At Tottenham](nicolas_jackson_first_premier_league_hat_trick.md): same source document (doc_0478)
+- [Red Cards And VAR Decisions In Tottenham Vs Chelsea](spurs_chelsea_red_cards_and_var_decisions.md): same source document (doc_0478)
+- [Tottenham's Unbeaten Run Ends In A Home Loss To Chelsea](tottenham_1_4_chelsea_november_2023_result.md): same source document (doc_0478)
+- [Tottenham And Chelsea's Next Fixtures After Their November 2023 Meeting](tottenham_and_chelsea_next_fixtures_november_2023.md): same source document (doc_0478)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

@@ -11,12 +11,20 @@ Yedidia met Bankman-Fried in college at MIT and the pair remained close friends;
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): the same witness's arrangement with prosecutors, from a different source document.
 - [Alameda Negative Balance Escalation](alameda_negative_balance_escalation.md): shares vocabulary around bankman-fried, alameda and ellison, from a different source document.
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also discusses Hong Kong, from a different source document.
 - [Can Sun Testimony on Fabricated Justifications](can_sun_testimony_on_fabricated_justifications.md): another insider witness account, from a different source document.
 - [Caroline Ellison Guilty Plea and First Day Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): also discusses Sam Bankman, from a different source document.
 - [Alameda's Special Privileges in FTX's Code](alameda_special_privileges_in_ftx_code.md): the preferential-treatment code he was assigned to fix (doc_0226).
+- [FTX's Final Days And The Alameda Shortfall, As Wang Described Them](ftx_final_days_and_alameda_shortfall.md): same source document (doc_0226)
+- [Gary Wang's Testimony At The FTX Fraud Trial](gary_wang_testimony_ftx_fraud_trial.md): same source document (doc_0226)
+- [Matt Huang And Paradigm's FTX Investment](matt_huang_paradigm_ftx_investment.md): same source document (doc_0226)
+- [Sam Bankman-Fried's Federal Fraud Trial](sam_bankman_fried_federal_fraud_trial.md): same source document (doc_0226)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Cross-Examination](term_cross_examination.md): uses the concept cross examination
 
 ## Source
 

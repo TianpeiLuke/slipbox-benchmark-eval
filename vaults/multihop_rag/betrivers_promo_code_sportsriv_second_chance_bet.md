@@ -11,6 +11,7 @@ The mechanism is a refund in bonus bets rather than cash: if a user's first bet 
 
 ## Related Notes
 
+
 - [Bet365 Welcome Bonus Offers December 2023](bet365_welcome_bonus_offers_december_2023.md): overlaps on promo codes and bonus offers, from a different document.
 - [BetMGM First Bet Bonus Offer December 2023](betmgm_first_bet_bonus_offer_december_2023.md): overlaps on promo codes and bonus offers, from a different document.
 - [BetRivers Second Chance Bet Offer December 2023](betrivers_second_chance_bet_offer_december_2023.md): covers the same BetRivers SPORTSRIV second chance offer, from a different document.
@@ -19,6 +20,8 @@ The mechanism is a refund in bonus bets rather than cash: if a user's first bet 
 - [Bet365 Bonus Code TSNCO Offer](bet365_bonus_code_tsnco_offer.md): a parallel offer in the same roundup, from the same document.
 - [BetMGM Bonus Code TSN50 First Bet Offer](betmgm_bonus_code_tsn50_first_bet_offer.md): a parallel offer in the same roundup, from the same document.
 - [Caesars Sportsbook Promo Code NEWS1000](caesars_sportsbook_promo_code_news1000.md): a parallel offer in the same roundup, from the same document.
+- [DraftKings Welcome Offer Claim Steps](draftkings_welcome_offer_claim_steps.md): same source document (doc_0432)
+- [FanDuel Bet $5, Get $150 Moneyline Promo](fanduel_bet_five_get_150_moneyline_promo.md): same source document (doc_0432)
 
 ## Source
 

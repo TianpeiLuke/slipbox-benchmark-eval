@@ -11,6 +11,7 @@ Scientists have been experimenting with how to use CRISPR to treat and potential
 
 ## Related Notes
 
+
 - [Phage Therapy Clinical Trial Evidence](phage_therapy_clinical_trial_evidence.md): another experimental therapy whose clinical evidence is still being assembled.
 - [Alzheimer's: Lecanemab and Aducanumab Approvals](alzheimers_lecanemab_and_aducanumab_approvals.md): another clinical-trial-driven route from mechanism to approved treatment.
 - [Amazon Marketplace Foreclosure Theory of Harm](amazon_marketplace_foreclosure_theory_of_harm.md): shares the theme of regulated scrutiny of a new practice.
@@ -19,6 +20,13 @@ Scientists have been experimenting with how to use CRISPR to treat and potential
 - [BG3 Warlock Hit Points and Proficiencies](bg3_warlock_hit_points_and_proficiencies.md): linked by a shared investigation tag rather than subject matter.
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): shares the theme of formal investigation.
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): shares the theme of formal investigation.
+- [The CRISPR-Cas System Mechanism](crispr_cas_system_mechanism.md): same source document (doc_0472)
+- [EBT-101 Trial Next Steps and Follow-Up](ebt_101_trial_next_steps_and_follow_up.md): same source document (doc_0472)
+- [EBT-101 Trial Safety Results](ebt_101_trial_safety_results.md): same source document (doc_0472)
+- [Global HIV Burden in 2022](global_hiv_burden_2022.md): same source document (doc_0472)
+- [The Latent HIV Reservoir Challenge](latent_hiv_reservoir_challenge.md): same source document (doc_0472)
+- [Clinical Trial](term_clinical_trial.md): uses the concept clinical trial
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
 
 ## Source
 

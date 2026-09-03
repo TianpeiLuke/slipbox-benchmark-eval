@@ -13,11 +13,19 @@ The offsetting complications Sporting News listed for the bye-free week were ple
 
 ## Related Notes
 
+
 - [DFS Sleeper and Value Lineup Construction Method](dfs_sleeper_and_value_lineup_construction_method.md): shares the daily fantasy sports and NFL themes, from a different document.
 - [Ezekiel Elliott Patriots Lead Back FanDuel MVP](ezekiel_elliott_patriots_lead_back_fanduel_mvp.md): shares the daily fantasy sports and NFL themes, from a different document.
 - [FanDuel Week 14 DFS QB and RB Picks](fanduel_week_14_dfs_qb_and_rb_picks.md): shares the daily fantasy sports and NFL themes, from a different document.
 - [Fantasy RB Week 14 Top Starts PPR](fantasy_rb_week_14_top_starts_ppr.md): a later week's version of the same weekly rankings column, from a different document.
 - [Fantasy RB Week 14 Top Starts Standard](fantasy_rb_week_14_top_starts_standard.md): a later week's version of the same weekly rankings column, from a different document.
+- [Bye-Free Weeks Complicate Lineup Decisions](bye_free_weeks_complicate_lineup_decisions.md): same source document (doc_0494)
+- [Josh Jacobs' And Breece Hall's 2023 Workloads](josh_jacobs_and_breece_hall_2023_workloads.md): same source document (doc_0494)
+- [Tony Pollard's Fantasy Outlook In 2023](tony_pollard_fantasy_outlook_2023.md): same source document (doc_0494)
+- [Week 12 RB Busts To Avoid](week_12_rb_busts_to_avoid.md): same source document (doc_0494)
+- [Week 12 RB Sleepers And Waiver Pickups](week_12_rb_sleepers_and_waiver_pickups.md): same source document (doc_0494)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

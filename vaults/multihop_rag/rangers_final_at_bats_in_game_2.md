@@ -13,6 +13,7 @@ Frías could have ended it against Adolis García but fell behind 2-1 — not wo
 
 ## Related Notes
 
+
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): also discusses the World Series, from a different document.
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): also discusses the World Series, from a different document.
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): also discusses the World Series, from a different document.
@@ -21,6 +22,8 @@ Frías could have ended it against Adolis García but fell behind 2-1 — not wo
 - [The Diamondbacks' Ninth-Inning Insurance Runs](diamondbacks_ninth_inning_insurance_runs.md): the half-inning that preceded these at-bats, from the same document.
 - [Diamondbacks Win World Series Game 2](diamondbacks_win_world_series_game_2.md): the result these at-bats confirmed, from the same document.
 - [Kelly Finishes the Seventh and Saalfrank Holds Texas](kelly_finishes_seventh_and_saalfrank_holds_texas.md): the earlier relief work by the same pitcher, from the same document.
+- [Merrill Kelly's Seven-Inning World Series Start](merrill_kelly_seven_inning_world_series_start.md): same source document (doc_0512)
+- [The Rangers' Bullpen Collapse In The Eighth Inning](rangers_bullpen_collapse_in_the_eighth_inning.md): same source document (doc_0512)
 
 ## Source
 

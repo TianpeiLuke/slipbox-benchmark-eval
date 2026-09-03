@@ -11,11 +11,18 @@ With Iglu Ski, sophisticated skiers can spend seven nights at the ski-in, ski-ou
 
 ## Related Notes
 
+
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): also discusses North America, in a different document
 - [Aging With HIV And The Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): also discusses North America, from a different source
 - [Big White Ski Resort, British Columbia](big_white_ski_resort_british_columbia.md): another ski-in/ski-out resort covered in a different guide
 - [Why Canada Belongs On A Skier's Bucket List](canada_ski_holidays_overview.md): the North American counterpart guide, covering Canadian resorts
 - [The Case Against Supersized Electric Vehicles](case_against_supersized_electric_vehicles.md): also discusses North America, from a different source
+- [Lech: The White Ring Circuit And Almost Guaranteed Snow](lech_austria_ski_resort.md): same source document (doc_0573)
+- [What Makes A Five-Star Ski Holiday](luxury_ski_holiday_overview.md): same source document (doc_0573)
+- [Megève: 400km Of Slopes And Mont Blanc Views](megeve_france_ski_resort.md): same source document (doc_0573)
+- [Niseko: Champagne Powder, Onsen And Mount Yōtei Views](niseko_japan_ski_resort.md): same source document (doc_0573)
+- [Ólafsfjörður: Summit-To-Sea Heliskiing On Iceland's Troll Peninsula](olafsfjordur_iceland_heliskiing.md): same source document (doc_0573)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

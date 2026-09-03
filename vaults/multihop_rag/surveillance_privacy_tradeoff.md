@@ -15,11 +15,17 @@ Uber's own counter goes to duty rather than to data. It has attempted, through s
 
 ## Related Notes
 
+
 - [Google Parallel Antitrust Proceedings 2023](google_parallel_antitrust_proceedings_2023.md): also turns on litigation in the Northern District of California, from a different source document.
 - [AI Copyright And Training Disputes](ai_copyright_and_training_disputes.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [Creative Industries AI Concerns](creative_industries_ai_concerns.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
 - [FTC Generative AI Roundtable](ftc_generative_ai_roundtable.md): a sibling note in the creator-economy and platform-safety batch, from a different source document.
+- [In-Car Camera Proposal](in_car_camera_proposal.md): same source document (doc_0367)
+- [Uber Assault Litigation](uber_assault_litigation.md): same source document (doc_0367)
+- [Uber's Recording Features And Driver Screening](uber_safety_features.md): same source document (doc_0367)
+- [Class Action](term_class_action.md): uses the concept class action
+- [Patent Litigation](term_patent_litigation.md): uses the concept patent litigation
 
 ## Source
 

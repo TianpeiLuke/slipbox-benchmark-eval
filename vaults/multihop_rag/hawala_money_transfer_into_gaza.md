@@ -11,6 +11,7 @@ The main and easiest method for moving money to Gaza is hawala — a financial c
 
 ## Related Notes
 
+
 - [Amex Cash Magnet Rates and Fees](amex_cash_magnet_rates_and_fees.md): overlaps on cash transfer mechanics, from a different source document.
 - [Marshall Frisco Bowl Transfer Portal Exodus](marshall_frisco_bowl_transfer_portal_exodus.md): shares vocabulary around transfer, from a different source document.
 - [FATF Iran Isolation and Cash Dependency](fatf_iran_isolation_and_cash_dependency.md): why cash and hawala substitute for banking (doc_0486).
@@ -19,6 +20,8 @@ The main and easiest method for moving money to Gaza is hawala — a financial c
 - [International Terror Finance Task Force](international_terror_finance_task_force.md): another note drawn from the same source document (doc_0486).
 - [Iran's State Funding of Hamas](iran_state_funding_of_hamas.md): the money that travels down this channel (doc_0486).
 - [Israel's Money Laundering and Terror Financing Prohibition Authority](israel_money_laundering_and_terror_financing_authority.md): the body fighting this phenomenon (doc_0486).
+- [Private Sector Volunteers In Terror Finance Tracking](private_sector_volunteers_in_terror_finance_tracking.md): same source document (doc_0486)
+- [The Surge In Terror Financing Reports After October 7](surge_in_terror_financing_reports_after_october_7.md): same source document (doc_0486)
 
 ## Source
 

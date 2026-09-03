@@ -13,6 +13,7 @@ The role grounds supply the PPR floor. In the three games in which he played the
 
 ## Related Notes
 
+
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): overlaps on the same weekly lineup-and-matchup vocabulary, from a different document.
 - [Colts 31-28 Titans Overtime Week 13](colts_31_28_titans_overtime_week_13.md): another Colts-Titans meeting, the fixture whose earlier edition supplies this call's key evidence, from a different document.
 - [Colts Panthers Week 9 Spread Pick](colts_panthers_week_9_spread_pick.md): also discusses Jonathan Taylor and Zack Moss, both named in this call, from a different document.
@@ -20,6 +21,9 @@ The role grounds supply the PPR floor. In the three games in which he played the
 - [Fantasy RB Standard Rankings Week 14 Full List](fantasy_rb_standard_rankings_week_14_full_list.md): the standard-scoring counterpart covering the same backs, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another lineup call from the same Week 6 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this sleeper call applies, from the same column.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
 
 ## Source
 

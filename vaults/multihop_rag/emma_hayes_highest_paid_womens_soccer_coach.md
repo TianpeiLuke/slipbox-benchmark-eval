@@ -13,9 +13,18 @@ The comparison figures come from U.S. Soccer's annual financial reports, which r
 
 ## Related Notes
 
+
 - [Gio Reyna's USMNT Return And Berhalter Reconciliation](gio_reyna_usmnt_return_and_berhalter_reconciliation.md): also discusses Gregg Berhalter, the salary comparison used here, from a different document.
 - [NFL Contract Restructuring Mechanism](nfl_contract_restructuring_mechanism.md): covers the same question of how top salaries are structured, from a different document.
 - [The Benefits Of Hayes' Delayed USWNT Start](benefits_of_hayes_delayed_uswnt_start.md): the non-financial side of the same deal, from the same article.
+- [Chelsea's Early Announcement Of Hayes' Departure](chelsea_early_announcement_of_hayes_departure.md): same source document (doc_0108)
+- [Chelsea Players' Reaction To Hayes' Departure](chelsea_players_reaction_to_hayes_departure.md): same source document (doc_0108)
+- [Chelsea Women's Team Succession After Hayes](chelsea_womens_team_succession_after_hayes.md): same source document (doc_0108)
+- [Emma Hayes Appointed USWNT Head Coach](emma_hayes_appointed_uswnt_head_coach.md): same source document (doc_0108)
+- [Hayes' Delayed Start And Her Chelsea Commitment](hayes_delayed_start_and_chelsea_commitment.md): same source document (doc_0108)
+- [Hayes' Reasons For Leaving Chelsea](hayes_reasons_for_leaving_chelsea.md): same source document (doc_0108)
+- [The USWNT Head Coach Search Process In 2023](uswnt_head_coach_search_process_2023.md): same source document (doc_0108)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

@@ -13,6 +13,7 @@ Matt Mullenweg, the CEO of Automattic, which owns Tumblr, spent a bunch of time 
 
 ## Related Notes
 
+
 - [Amo And The ID Social App Launch](amo_id_social_app_launch.md): also concerns the state of social networks including Tumblr, from a different source document.
 - [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): also concerns ActivityPub and Mastodon, from a different source document.
 - [The Fediverse And The ActivityPub Protocol](fediverse_activitypub_protocol.md): explains the protocol Tumblr promised to adopt, from a different source document.
@@ -21,6 +22,8 @@ Matt Mullenweg, the CEO of Automattic, which owns Tumblr, spent a bunch of time 
 - [Installer Reader Game And App Picks](installer_reader_game_and_app_picks.md): drawn from the same source document (doc_0607).
 - [Installer Reader Podcast And TV Picks](installer_reader_podcast_and_tv_picks.md): drawn from the same source document (doc_0607).
 - [Kevin Nguyen's Five-Writing-App Rotation](kevin_nguyen_five_writing_app_rotation.md): drawn from the same source document (doc_0607).
+- [Kevin Nguyen's Music, Book And Film Picks](kevin_nguyen_music_book_and_film_picks.md): same source document (doc_0607)
+- [Kevin Nguyen's Non-Writing iPhone Apps](kevin_nguyen_non_writing_iphone_apps.md): same source document (doc_0607)
 
 ## Source
 

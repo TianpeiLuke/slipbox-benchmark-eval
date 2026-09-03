@@ -13,12 +13,18 @@ The comparison offered is with Amazon's own devices: "Even Fire tablets have onl
 
 ## Related Notes
 
+
 - [Airpods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): another pick from the same Walmart roundup
 - [Amazon Fire Hd 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): the Fire tablets it is compared against, different document
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): the Amazon Cyber Monday sale referenced here, different document
 - [Amazon Echo Show Audible And Fire Tv Offers](amazon_echo_show_audible_and_fire_tv_offers.md): other Amazon device offers from that sale
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): another Amazon sale event, different document
 - [Anker 737 Power Bank Deal Listings](anker_737_power_bank_deal_listings.md): another budget device listing, different document
+- [Apple Watch SE At A Record-Low Price](apple_watch_se_record_low_price.md): same source document (doc_0558)
+- [Apple Watch Series 9 Walmart Black Friday Deal](apple_watch_series_9_walmart_deal.md): same source document (doc_0558)
+- [Dyson V15 Detect Absolute Vacuum Black Friday Deal](dyson_v15_detect_absolute_vacuum_deal.md): same source document (doc_0558)
+- [Echelon Connect Sport Exercise Bike Black Friday Deal](echelon_connect_sport_exercise_bike_deal.md): same source document (doc_0558)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

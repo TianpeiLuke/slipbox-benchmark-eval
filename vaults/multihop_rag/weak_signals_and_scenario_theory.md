@@ -11,10 +11,18 @@ The October 7 example: suspicious movement in Gaza convinced the Shin Bet head t
 
 ## Related Notes
 
+
 - [Iran State Funding of Hamas](iran_state_funding_of_hamas.md): also discusses Shin Bet, from a different source document.
 - [National Public Diplomacy Directorate](national_public_diplomacy_directorate.md): also discusses Shin Bet, from a different source document.
 - [War Duration and Scenarios Driving Israeli Growth Damage](war_duration_and_scenarios_driving_israeli_growth_damage.md): another Yom Kippur War comparison, from a different source document.
 - [Berlin Wall Low Tech Defense Lesson](berlin_wall_low_tech_defense_lesson.md): another note drawn from the same source document (doc_0078).
+- [The Construction Of The Gaza Border Barrier](gaza_border_barrier_construction.md): same source document (doc_0078)
+- [The IDF's "Small And Smart Army" Doctrine](idf_small_and_smart_army_doctrine.md): same source document (doc_0078)
+- [The Iron Dome's Strategic Paradox](iron_dome_strategic_paradox.md): same source document (doc_0078)
+- [What Israeli Leaders Claimed The Gaza Barrier Would Do](israeli_leaders_claims_about_the_gaza_barrier.md): same source document (doc_0078)
+- [Israel's Restraint Policy Toward Gaza](israeli_restraint_policy_toward_gaza.md): same source document (doc_0078)
+- [The Technological Failure Of The Barrier On October 7](october_7_technological_failure_of_the_barrier.md): same source document (doc_0078)
+- [Reserve Mobilisation](term_reserve_mobilisation.md): uses the concept reserve mobilisation
 
 ## Source
 

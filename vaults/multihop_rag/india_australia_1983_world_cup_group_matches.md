@@ -11,11 +11,18 @@ India got their revenge in the very same World Cup, defeating the Australian sid
 
 ## Related Notes
 
+
 - [Adil Rashid T20I Milestones And Series Form](adil_rashid_t20i_milestones_and_series_form.md): also concerns the West Indies in a cricket context, from a different source document.
 - [Andre Russell Comeback First T20I](andre_russell_comeback_first_t20i.md): also concerns the West Indies, from a different source document.
 - [Australia Women Test Defeat To India Mumbai 2023](australia_women_test_defeat_to_india_mumbai_2023.md): shares the India-Australia wickets reporting, from a different source document.
 - [England 132 All Out T20 Series Decider](england_132_all_out_t20_series_decider.md): also concerns the West Indies, from a different source document.
 - [England 171 All Out First T20I](england_171_all_out_first_t20i.md): also concerns the West Indies, from a different source document.
+- [ICC ODI World Cup 2023: Knockout Stage And Final](icc_world_cup_2023_knockout_stage_and_final.md): same source document (doc_0246)
+- [India vs Australia At The 1987 World Cup](india_australia_1987_world_cup_group_matches.md): same source document (doc_0246)
+- [India vs Australia At The 1992 World Cup: The Rain-Affected One-Run Defeat](india_australia_1992_world_cup_brisbane_rain_match.md): same source document (doc_0246)
+- [India vs Australia At The 1996 World Cup](india_australia_1996_world_cup_mumbai_match.md): same source document (doc_0246)
+- [India vs Australia At The 1999 World Cup](india_australia_1999_world_cup_the_oval_match.md): same source document (doc_0246)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

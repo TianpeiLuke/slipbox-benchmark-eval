@@ -13,6 +13,7 @@ Critic Toussaint Egan argues the short works because it leaves so much to the im
 
 ## Related Notes
 
+
 - [Netflix November 2023 Slate Overview](netflix_november_2023_slate_overview.md): both mention Squid Game, from a different source document
 - [Netflix Originals Premiering November 21 to 24 2023](netflix_originals_premiering_november_21_to_24_2023.md): another Squid Game reference from a separate article
 - [Squid Game's Parallel to MrBeast Challenges](squid_game_parallel_to_mrbeast_challenges.md): another Squid Game comparison in a different document
@@ -21,6 +22,8 @@ Critic Toussaint Egan argues the short works because it leaves so much to the im
 - [Apostle (Gareth Evans Folk Horror)](apostle_gareth_evans_folk_horror.md): another recommendation from the same source
 - [Cat People (1942 Jump Scare Origin)](cat_people_1942_jump_scare_origin.md): another classic-horror pick in the same countdown
 - [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): a fellow entry in the same article
+- [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): same source document (doc_0165)
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0165)
 
 ## Source
 

@@ -11,11 +11,19 @@ The pieces, as MBW listed them on 2023-11-21: in 2022 TikTok launched SoundOn, i
 
 ## Related Notes
 
+
 - [AI Copyright and Training Disputes](ai_copyright_and_training_disputes.md): overlaps on Universal Music Group's platform dealings, from a different source document.
 - [Apple Gift Card Amazon Credit Deal](apple_gift_card_amazon_credit_deal.md): also discusses Apple Music, from a different source document.
 - [Capitol Music Group Leadership Turmoil 2020 2021](capitol_music_group_leadership_turmoil_2020_2021.md): also discusses Universal Music Group, from a different source document.
 - [CMG Partner Labels, Quality Control and 10K Projects](cmg_partner_labels_quality_control_and_10k_projects.md): overlaps on Warner Music Group distribution arrangements, from a different source document.
 - [David Pakman Coinfund Venture Background](david_pakman_coinfund_venture_background.md): also discusses Apple Music, from a different source document.
+- [The 2023 Luminate Study Of TikTok And Music](luminate_tiktok_music_study_2023.md): same source document (doc_0363)
+- [TikTok Bans And ByteDance Data Concerns](tiktok_bans_and_bytedance_data_concerns.md): same source document (doc_0363)
+- [TikTok's Claim To Be The Driving Force Behind Music Discovery](tiktok_claim_to_drive_music_discovery.md): same source document (doc_0363)
+- [TikTok As A Driver Of Music "Glocalization"](tiktok_glocalization_of_international_music.md): same source document (doc_0363)
+- [TikTok Users' Music Discovery And Sharing Rates](tiktok_music_discovery_and_sharing_rates.md): same source document (doc_0363)
+- [Product Launch](term_product_launch.md): uses the concept product launch
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

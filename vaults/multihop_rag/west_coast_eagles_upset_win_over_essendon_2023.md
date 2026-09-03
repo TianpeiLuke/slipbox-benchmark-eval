@@ -13,6 +13,7 @@ Aisling McCarthy and Amy Franklin drew first blood for West Coast within the ope
 
 ## Related Notes
 
+
 - [6PPD-Quinone and Coho Salmon Die-Offs](6ppd_quinone_and_coho_salmon_die_offs.md): also concerns West Coast, from a different document.
 - [AFLW 2023 Finals Qualification and Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): also concerns Gold Coast, from a different document.
 - [AFLW Crowds Short of Season Extension Targets](aflw_crowds_short_of_season_extension_targets.md): also concerns Gold Coast, from a different document.
@@ -21,6 +22,8 @@ Aisling McCarthy and Amy Franklin drew first blood for West Coast within the ope
 - [AFLW 2023 Tackle and Bump Suspension Debate](aflw_2023_tackle_and_bump_suspension_debate.md): drawn from the same document (doc_0208).
 - [Brisbane Lions' 2023 AFLW Top-Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): drawn from the same document (doc_0208).
 - [Collingwood-Geelong's Wind and Rain Contest, 2023](collingwood_geelong_wind_and_rain_contest_2023.md): drawn from the same document (doc_0208).
+- [Melbourne (Narrm)'s 2023 AFLW Ladder Position](melbourne_narrm_2023_aflw_ladder_position.md): same source document (doc_0208)
+- [Richelle Cranston's Kidney Disease And Retirement](richelle_cranston_kidney_disease_and_retirement.md): same source document (doc_0208)
 
 ## Source
 

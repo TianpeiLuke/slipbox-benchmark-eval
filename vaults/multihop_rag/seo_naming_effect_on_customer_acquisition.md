@@ -13,11 +13,18 @@ The warrant connecting name to durable ranking is the feedback loop that follows
 
 ## Related Notes
 
+
 - [Fitbit Charge 6 Deal](fitbit_charge_6_deal.md): also concerns Google Maps, from a different source document.
 - [Google Maps and Waze Halt Israel-Gaza Traffic Data](google_maps_waze_israel_gaza_traffic_halt.md): also concerns Google Maps, from a different source document.
 - [Installer Reader Game and App Picks](installer_reader_game_and_app_picks.md): also concerns Google Maps, from a different source document.
 - [Kevin Nguyen's Non-Writing iPhone Apps](kevin_nguyen_non_writing_iphone_apps.md): also concerns Google Maps, from a different source document.
 - [Mapping Platforms Disable Live Features in Israel-Gaza](mapping_platforms_disable_live_features_israel_gaza.md): also concerns Google Maps, from a different source document.
+- [Barber Shop Near Me And Felix Silva](barber_shop_near_me_felix_silva.md): same source document (doc_0127)
+- [Google Local Search Ranking Factors](google_local_search_ranking_factors.md): same source document (doc_0127)
+- [The "Near Me" Business Naming Trend](near_me_business_naming_trend.md): same source document (doc_0127)
+- [Restaurants Optimizing Menus For Algorithms](restaurants_optimizing_menus_for_algorithms.md): same source document (doc_0127)
+- [Thai Food Near Me's Customer Experience](thai_food_near_me_customer_experience.md): same source document (doc_0127)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

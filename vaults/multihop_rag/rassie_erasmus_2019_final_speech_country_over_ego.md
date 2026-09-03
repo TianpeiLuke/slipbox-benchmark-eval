@@ -13,6 +13,7 @@ Writing four years later on Oct. 26, 2023, The Roar observed that the "ego" Eras
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): another document about South Africa, in an unrelated domain
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): another document about South Africa, in an unrelated domain
 - [ChatGPT Use in Government and Courts](chatgpt_use_in_government_and_courts.md): another document referencing South Africa, unrelated domain
@@ -20,6 +21,10 @@ Writing four years later on Oct. 26, 2023, The Roar observed that the "ego" Eras
 - [England Cricket World Cup 2023 Qualification Crisis](england_cricket_world_cup_2023_qualification_crisis.md): another document referencing South Africa, different sport
 - [All Blacks Generational Change After 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): the contrasting side of the same argument, same source document
 - [All Blacks Ireland Series Loss Backlash as Motivation](all_blacks_ireland_series_loss_backlash_as_motivation.md): the opposing team's motivational framing, same source document
+- [Dalton Papali'i On All Blacks Leadership Vulnerability](dalton_papalii_on_all_blacks_leadership_vulnerability.md): same source document (doc_0176)
+- [Ian Foster's All Blacks Tenure And Scott Robertson's Succession](ian_foster_all_blacks_tenure_and_robertson_succession.md): same source document (doc_0176)
+- [The Springboks' Selection Philosophy: Playing For South Africa](springboks_selection_philosophy_playing_for_south_africa.md): same source document (doc_0176)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

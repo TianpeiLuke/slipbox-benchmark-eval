@@ -13,6 +13,7 @@ The role of Barry the Bear was deceptively hard: "His remit was to wander around
 
 ## Related Notes
 
+
 - [Owen Teale Family And Recent Villain Roles](owen_teale_family_and_recent_villain_roles.md): same interview, on the career and family that followed
 - [Owen Teale Missed Leading Man Opportunities](owen_teale_missed_leading_man_opportunities.md): same interview, on later turning points in that career
 - [Jon Snow Death Scene Fan Reactions To Owen Teale](jon_snow_death_scene_fan_reactions_to_owen_teale.md): same interview, on the role that made him recognisable
@@ -20,6 +21,10 @@ The role of Barry the Bear was deceptively hard: "His remit was to wander around
 - [Edenglassie Novel Melissa Lucashenko](edenglassie_novel_melissa_lucashenko.md): another feature sharing the same site boilerplate, different subject
 - [Michigan Litigation Resolution And Accepted Ban](michigan_litigation_resolution_and_accepted_ban.md): linked only by shared topical tags, unrelated subject
 - [Gio Reyna Usmnt Return And Berhalter Reconciliation](gio_reyna_usmnt_return_and_berhalter_reconciliation.md): linked only by shared topical tags, unrelated subject
+- [Michigan Did Not Need Harbaugh At Penn State, But Ohio State Is Different](michigan_needs_harbaugh_against_ohio_state.md): shares coaching_change, regulatory_investigation; different source document
+- [How Owen Teale Sources Darkness For Scrooge And Alliser Thorne](owen_teale_sourcing_darkness_for_scrooge_and_alliser_thorne.md): same source document (doc_0578)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

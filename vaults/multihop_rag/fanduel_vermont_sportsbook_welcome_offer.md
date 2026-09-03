@@ -11,11 +11,20 @@ The steps, in order: use the links on the page to create your FanDuel Sportsbook
 
 ## Related Notes
 
+
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): shares the National Basketball Association and sports-betting-odds subject tags, from a different source document.
 - [bet365 Welcome Bonus Offers December 2023](bet365_welcome_bonus_offers_december_2023.md): a competing welcome-bonus-and-bonus-bets offer, from a different source document.
 - [BetMGM Bonus Code TSN50 First Bet Offer](betmgm_bonus_code_tsn50_first_bet_offer.md): a competing bonus-bets offer, from a different source document.
 - [BetMGM First Bet Bonus Offer December 2023](betmgm_first_bet_bonus_offer_december_2023.md): a competing welcome-bonus offer, from a different source document.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares the National Basketball Association and sports-betting-odds subject tags, from a different source document.
+- [How BetMGM Sportsbook's Up-To-$1,500 First Bet Offer Would Work In Vermont](betmgm_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [BetMGM's Vermont Offer Is The Most Generous "Second Chance" — If You Lose First](betmgm_vermont_welcome_offer_tradeoffs.md): same source document (doc_0072)
+- [How BetRivers Sportsbook's Up-To-$500 Second Chance Offer Works](betrivers_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [How Caesars Sportsbook's Up-To-$1,000 First Bet Offer Would Work In Vermont](caesars_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [How To Claim DraftKings Sportsbook Vermont's Prelive Or Multi-Part Welcome Offer](draftkings_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

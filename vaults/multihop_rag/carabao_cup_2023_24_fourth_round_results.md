@@ -13,6 +13,7 @@ The results were: Tuesday, Oct. 31, Mansfield Town (L2) 0-1 Port Vale (L1); Wedn
 
 ## Related Notes
 
+
 - [Bruno Fernandes Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): overlaps on Manchester United and Burnley, from a different document.
 - [Canada Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also mentions West Ham, from a different document.
 - [Carabao Cup 2023 Quarter Final Draw](carabao_cup_2023_quarter_final_draw.md): also mentions Port Vale and West Ham, from a different document.
@@ -21,6 +22,8 @@ The results were: Tuesday, Oct. 31, Mansfield Town (L2) 0-1 Port Vale (L1); Wedn
 - [Carabao Cup 2023-24 First Round Results](carabao_cup_2023_24_first_round_results.md): an earlier round of the same competition, from the same document.
 - [Carabao Cup 2023-24 Overview and Stakes](carabao_cup_2023_24_overview_and_stakes.md): the holders' status this round overturned, from the same document.
 - [Carabao Cup 2023-24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): the round that followed, from the same document.
+- [Carabao Cup 2023/24 Second Round Results](carabao_cup_2023_24_second_round_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Semifinal Draw And Fixtures](carabao_cup_2023_24_semifinal_draw_and_fixtures.md): same source document (doc_0100)
 
 ## Source
 

@@ -11,6 +11,7 @@ Winter's grounds are the two different agreements a separating couple might have
 
 ## Related Notes
 
+
 - [Will And Jada Denials Of Open Marriage And Divorce Rumours](will_and_jada_denials_of_open_marriage_and_divorce_rumours.md): the couple's own statements about what their arrangement was and was not
 - [Will Smith Baltimore Book Event Remarks On Brutiful Marriage](will_smith_baltimore_book_event_remarks_on_brutiful_marriage.md): Smith's public account of the separated marriage whose terms are unknown
 - [Counterargument Separations Reschedule Rather Than Resolve Problems](counterargument_separations_reschedule_rather_than_resolve_problems.md): the rival view that separations postpone rather than clarify, same article
@@ -19,6 +20,8 @@ Winter's grounds are the two different agreements a separating couple might have
 - [Jada Pinkett Smith 2023 Separation Disclosure](jada_pinkett_smith_2023_separation_disclosure.md): the disclosure that made the separation's terms a public question
 - [Jada Pinkett Smith August Alsina Entanglement](jada_pinkett_smith_august_alsina_entanglement.md): the outside relationship whose timeline the argument turns on
 - [Separation As An Alternative To Divorce LAT Partnership](separation_as_an_alternative_to_divorce_lat_partnership.md): Winter's broader case for separation as a viable arrangement
+- [Will And Jada As A New, Unconventional Marriage Model](will_and_jada_as_an_unconventional_marriage_model.md): same source document (doc_0036)
+- [Why Will Smith And Jada Pinkett Smith Never Signed A Prenup](will_and_jada_no_prenuptial_agreement.md): same source document (doc_0036)
 
 ## Source
 

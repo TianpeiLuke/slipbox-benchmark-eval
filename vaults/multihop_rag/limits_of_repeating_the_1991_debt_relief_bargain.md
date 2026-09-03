@@ -11,6 +11,7 @@ The second attacked premise is the comparability of Egypt's contribution. Egypt'
 
 ## Related Notes
 
+
 - [1991 Gulf War Egyptian Debt Forgiveness](1991_gulf_war_egyptian_debt_forgiveness.md): drawn from the same source document (doc_0218) and states the precedent this note qualifies.
 - [Cairo Diplomatic Surge And The 2023 Summit For Peace](cairo_diplomatic_surge_and_summit_for_peace_2023.md): drawn from the same source document (doc_0218).
 - [Egypt's Economic Crisis And IMF Rescue Program](egypt_economic_crisis_and_imf_rescue_program.md): drawn from the same source document (doc_0218).
@@ -19,6 +20,7 @@ The second attacked premise is the comparability of Egypt's contribution. Egypt'
 - [Egypt's Strategic Value To Europe: Gas And Security](egypt_strategic_value_to_europe_gas_and_security.md): drawn from the same source document (doc_0218).
 - [The Egypt Too-Big-To-Fail Thesis](egypt_too_big_to_fail_thesis.md): drawn from the same source document (doc_0218).
 - [Israeli Plan To Temporarily House Gazans In Sinai](israeli_plan_to_temporarily_house_gazans_in_sinai.md): drawn from the same source document (doc_0218).
+- [Saudi Co-Leadership As Egypt's Way Out Of The Dilemma](saudi_co_leadership_as_egypts_way_out.md): same source document (doc_0218)
 
 ## Source
 

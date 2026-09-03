@@ -13,6 +13,7 @@ For viewers without the NBC broadcast there were several streaming options: the 
 
 ## Related Notes
 
+
 - [Bills Bengals SNF Broadcast Details](bills_bengals_snf_broadcast_details.md): a parallel broadcast listing naming Peacock, Fubo and the stadium, different source document
 - [Blackhawks Penguins 2023 Broadcast Coverage](blackhawks_penguins_2023_broadcast_coverage.md): another how-to-watch listing with Fubo and channel details, different source document
 - [Chiefs Packers Week 13 Broadcast and Kickoff Details](chiefs_packers_week_13_broadcast_and_kickoff_details.md): another Peacock/Fubo streaming listing, different source document
@@ -21,6 +22,8 @@ For viewers without the NBC broadcast there were several streaming options: the 
 - [Notre Dame USC 2023 First Quarter](notre_dame_usc_2023_first_quarter.md): the game these details introduce, same source document
 - [Notre Dame USC 2023 Fourth Quarter](notre_dame_usc_2023_fourth_quarter.md): the closing quarter of the same broadcast, same source document
 - [Notre Dame USC 2023 Second Quarter](notre_dame_usc_2023_second_quarter.md): another quarter of the same broadcast, same source document
+- [Notre Dame's Third Quarter Against USC, Oct. 14 2023](notre_dame_usc_2023_third_quarter.md): same source document (doc_0378)
+- [Turnovers, Not Yardage, Decided Notre Dame's Win Over USC](notre_dame_usc_2023_turnover_margin_analysis.md): same source document (doc_0378)
 
 ## Source
 

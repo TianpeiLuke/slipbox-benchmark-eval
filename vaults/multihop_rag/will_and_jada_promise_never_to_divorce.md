@@ -11,6 +11,7 @@ The warrant joining the promise to the outcome is that removing the exit changes
 
 ## Related Notes
 
+
 - [Kevin Federline Marriage To Victoria Prince](kevin_federline_marriage_to_victoria_prince.md): another celebrity marriage narrative framed around divorce and remarriage
 - [Tim McGraw And Faith Hill Marriage](tim_mcgraw_and_faith_hill_marriage.md): a comparable account of a long marriage sustained by an explicit promise
 - [Will And Jada 2021 Public Accounts Of Marital Strain](will_and_jada_2021_public_accounts_of_marital_strain.md): Red Table Talk material on the difficulties the promise was meant to survive
@@ -19,6 +20,8 @@ The warrant joining the promise to the outcome is that removing the exit changes
 - [Counterargument Separations Reschedule Rather Than Resolve Problems](counterargument_separations_reschedule_rather_than_resolve_problems.md): the direct rebuttal that such a promise can create resentment and a false narrative
 - [Expert Debate Over The Oscars Slap Given The Separation](expert_debate_over_the_oscars_slap_given_the_separation.md): expert disagreement about the commitment behind the couple's public conduct
 - [Expert Signs It Is Time To End A Marriage](expert_signs_it_is_time_to_end_a_marriage.md): the conditions experts say should override such a promise
+- [Jada Pinkett Smith's 2023 Disclosure Of A Seven-Year Separation](jada_pinkett_smith_2023_separation_disclosure.md): same source document (doc_0360)
+- [Jada Pinkett Smith's "Entanglement" With August Alsina](jada_pinkett_smith_august_alsina_entanglement.md): same source document (doc_0036)
 
 ## Source
 

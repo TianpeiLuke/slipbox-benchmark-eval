@@ -11,6 +11,7 @@ In an explosive first half Eintracht completely overran Bayern and exposed their
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also covers Bayern Munich, from a different document.
 - [Bayern Munich's 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also covers Bayern Munich and Bayer Leverkusen in the same title race, from a different document.
 - [Champions League 2023-24 Group A: Bayern and Copenhagen](champions_league_2023_24_group_a_bayern_copenhagen.md): also covers Bayern Munich, from a different document.
@@ -19,6 +20,8 @@ In an explosive first half Eintracht completely overran Bayern and exposed their
 - [Atalanta 3-2 AC Milan](atalanta_3_2_ac_milan.md): another result from the same European roundup, from the same document.
 - [Inter Milan 4-0 Udinese](inter_milan_4_0_udinese.md): another result from the same European roundup, from the same document.
 - [PSG 2-1 Nantes in Ligue 1](psg_2_1_nantes_ligue_1.md): another result from the same European roundup, from the same document.
+- [RB Leipzig 3-2 Borussia Dortmund](rb_leipzig_3_2_borussia_dortmund.md): same source document (doc_0093)
+- [Real Betis 1-1 Real Madrid](real_betis_1_1_real_madrid.md): same source document (doc_0093)
 
 ## Source
 

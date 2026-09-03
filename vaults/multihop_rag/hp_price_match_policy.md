@@ -13,6 +13,7 @@ There is a separate post-purchase route: if you find a comparable product at a l
 
 ## Related Notes
 
+
 - [Holiday Price Matching Policies, 2023](holiday_price_matching_policies_2023.md): overlaps on product price-matching policy terms, from a different source document.
 - [Holiday Return Policy Windows into January 2024](holiday_return_policy_windows_into_january_2024.md): overlaps on policies extended around the holidays, from a different source document.
 - [Amazon Price Matching and Return Policy](amazon_price_matching_and_return_policy.md): one of the retailers HP will match against, same roundup (doc_0403).
@@ -21,6 +22,8 @@ There is a separate post-purchase route: if you find a comparable product at a l
 - [B&H Photo and Costco Price Adjustment](bh_photo_and_costco_price_adjustment.md): the membership store HP excludes, same roundup (doc_0403).
 - [Dell Price Match Policy](dell_price_match_policy.md): the competitor whose policy mirrors HP's, same roundup (doc_0403).
 - [eBay Best Price Guarantee](ebay_best_price_guarantee.md): another conditional matching scheme, same roundup (doc_0403).
+- [GameStop And Google Store Price Matching](gamestop_and_google_store_price_matching.md): same source document (doc_0403)
+- [Home Depot And Lowe's Price Match Policies](home_depot_and_lowes_price_match_policies.md): same source document (doc_0403)
 
 ## Source
 

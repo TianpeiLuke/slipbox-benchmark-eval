@@ -11,12 +11,18 @@ The message is stated as the conclusion: the U.K. government isn't willing to be
 
 ## Related Notes
 
+
 - [Sunak's Net Zero U-Turn, September 2023](sunak_net_zero_uturn_september_2023.md): same source document; the decision that sent the signal.
 - [The Call For Consistent Climate Policy](call_for_consistent_climate_policy.md): same source document; the demand this argument leads to.
 - [Climate Policy Reversal's Impact On EV Businesses](climate_policy_reversal_impact_on_ev_businesses.md): same source document; a worked example of the signal's cost.
 - [The Call For Consistent Macroeconomic Policy](call_for_consistent_macroeconomic_policy.md): same source document; the first of three consistency demands.
 - [Government's Role In Technology Innovation](government_role_in_technology_innovation.md): same source document; why government behaviour is decisive for new industries.
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): overlaps in content on climate change attitudes, from a different source document.
+- [The Private Sector's Role In Philippine Sustainable Development](private_sector_role_in_philippine_sustainable_development.md): content overlap 0.13 on climate, sustainable, sector; different source document
+- [The UK's Climate Tech Economic Potential](uk_climate_tech_economic_potential.md): same source document (doc_0599)
+- [UK Green Tech Leadership Before The U-Turn](uk_green_tech_leadership_before_the_uturn.md): same source document (doc_0599)
+- [The UK R&D Tax Credit Policy Reversal](uk_rd_tax_credit_policy_reversal.md): same source document (doc_0599)
+- [Crisis Response Mechanism](term_crisis_response_mechanism.md): uses the concept crisis response mechanism
 
 ## Source
 

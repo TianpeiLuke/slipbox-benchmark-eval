@@ -11,11 +11,19 @@ The baseline requirement is comfort: the controller has to be comfortable to use
 
 ## Related Notes
 
+
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): same source; a budget option assessed against these criteria.
 - [8BitDo Ultimate Bluetooth Hall Effect Controller](8bitdo_ultimate_bluetooth_hall_effect_controller.md): same source; another pick from the same roundup.
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): same source; the accessory that extends the multi-platform compatibility criterion.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares battery_life_and_charging, battery_technology; different source document
+- [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares battery_life_and_charging, battery_technology; different source document
+- [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): shares battery_life_and_charging, battery_technology; different source document
+- [Setting Up A DualSense On PC](dualsense_pc_setup_steaminput_and_ds4windows.md): same source document (doc_0236)
+- [Microsoft Xbox Wireless Controller](microsoft_xbox_wireless_controller.md): same source document (doc_0236)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

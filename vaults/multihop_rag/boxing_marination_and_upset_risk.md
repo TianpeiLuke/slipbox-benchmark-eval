@@ -11,6 +11,7 @@ The warrant that limits the danger in this specific instance is who holds the be
 
 ## Related Notes
 
+
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also concerns Saudi Arabia, from a different document.
 - [Boxing Unorthodox Fight Endings Ranking Scope](boxing_unorthodox_fight_endings_ranking_scope.md): overlaps on how boxing bouts end, from a different document.
 - [CONMEBOL 2026 Qualifying Broadcast Rights And Channels](conmebol_2026_qualifying_broadcast_rights_and_channels.md): also concerns Saudi Arabia, from a different document.
@@ -19,6 +20,8 @@ The warrant that limits the danger in this specific instance is who holds the be
 - [Anthony Joshua Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): profiles one fighter at risk, from the same document.
 - [Day Of Reckoning Predictions And Picks](day_of_reckoning_predictions_and_picks.md): applies this reasoning to the picks, from the same document.
 - [Day Of Reckoning Riyadh Boxing Card](day_of_reckoning_riyadh_boxing_card.md): the card in question, from the same document.
+- [Deontay Wilder Comeback After Fury Trilogy](deontay_wilder_comeback_after_fury_trilogy.md): same source document (doc_0137)
+- [Deontay Wilder On Pressure Ahead Of Parker Bout](deontay_wilder_on_pressure_ahead_of_parker_bout.md): same source document (doc_0137)
 
 ## Source
 

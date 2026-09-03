@@ -13,6 +13,7 @@ In the conservatorship phase she not only regresses but feels dehumanised by con
 
 ## Related Notes
 
+
 - [Britney Spears Conservatorship Restrictions And Swat Holds](britney_spears_conservatorship_restrictions_and_swat_holds.md): same source, supplying the concrete restrictions this model abstracts
 - [Britney Spears Estrangement From Her Family](britney_spears_estrangement_from_her_family.md): same source, on the family who imposed the arrangement
 - [Britney Spears Memoir Barbs At Timberlake And Federline](britney_spears_memoir_barbs_at_timberlake_and_federline.md): same source document
@@ -21,6 +22,8 @@ In the conservatorship phase she not only regresses but feels dehumanised by con
 - [Britney Spears Motherhood And Postpartum Depression](britney_spears_motherhood_and_postpartum_depression.md): same source, describing the middle phase
 - [Britney Spears Music Making From Baby One More Time To Blackout](britney_spears_music_making_from_baby_one_more_time_to_blackout.md): same source document
 - [Justin Timberlake Apology And Support For Britney Spears](justin_timberlake_apology_and_support_for_britney_spears.md): overlaps on the conservatorship and Timberlake, from a different document
+- [Britney Spears' Confinement In A Solitary Rehab Facility](britney_spears_solitary_rehab_facility_confinement.md): same source document (doc_0052)
+- [Britney Spears On Virginity Marketing And Timberlake's Cheating Claim](britney_spears_virginity_marketing_and_timberlake_cheating_claim.md): same source document (doc_0052)
 
 ## Source
 

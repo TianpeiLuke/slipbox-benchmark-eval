@@ -11,12 +11,18 @@ Samsung's The Frame is for anyone who cares about the aesthetics of their space 
 
 ## Related Notes
 
+
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): also concerns Dolby Vision, from a different source document.
 - [Apple TV 4K Holiday Deal](apple_tv_4k_holiday_deal.md): also concerns Dolby Vision, from a different source document.
 - [Hisense U6K And U8K Televisions](hisense_u6k_and_u8k_televisions.md): overlapping coverage of Hisense quantum-dot contrast, from a different source document.
 - [LG A2 OLED TV Deal](lg_a2_oled_tv_deal.md): overlapping coverage of colors, contrast and format support, from a different source document.
 - [LG B2 OLED Television](lg_b2_oled_television.md): overlapping coverage of colors, interface and contrast, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

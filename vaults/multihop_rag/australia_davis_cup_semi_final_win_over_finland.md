@@ -13,12 +13,17 @@ The win set up Australia's 49th appearance in a Davis Cup final, the 28-time cha
 
 ## Related Notes
 
+
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): shares the broadcast and World Cup themes, from a different document.
 - [BEUC Consumer Complaint on Meta's Pay-or-Consent Model](beuc_consumer_complaint_meta_pay_or_consent.md): also concerns the Czech Republic, from a different document.
 - [CONMEBOL 2026 Qualifying Broadcast Rights and Channels](conmebol_2026_qualifying_broadcast_rights_and_channels.md): shares the broadcast and World Cup themes, from a different document.
 - [Corretja Doubts Djokovic's 2024 Golden Slam](corretja_doubts_djokovic_2024_golden_slam.md): also concerns the Davis Cup and Jannik Sinner, from a different document.
 - [EU CSAM Scanning Proposal](eu_csam_scanning_proposal.md): also concerns the Czech Republic, from a different document.
 - [Alexei Popyrin's Davis Cup Breakthrough](alexei_popyrin_davis_cup_breakthrough.md): drawn from the same document (doc_0451).
+- [Australia vs Italy: 2023 Davis Cup Final Preview](australia_italy_davis_cup_final_2023_preview.md): same source document (doc_0451)
+- [Jannik Sinner's Double Win Over Djokovic In The Davis Cup](jannik_sinner_double_win_over_djokovic_davis_cup.md): same source document (doc_0451)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

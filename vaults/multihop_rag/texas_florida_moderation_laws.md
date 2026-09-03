@@ -17,6 +17,7 @@ The relation that makes the model work holds only for parallel laws that split t
 
 ## Related Notes
 
+
 - [The CFPB Funding Structure Supreme Court Challenge](cfpb_funding_structure_supreme_court_challenge.md): another route by which a constitutional challenge reached the Supreme Court, from a different source document.
 - [Project Liberty: Epic's Deliberate Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): shares the Supreme Court reference, from a different source document.
 - [Epic v. Apple's Ruling As Precedent](epic_v_apple_ruling_as_precedent.md): another case whose appellate path shaped what the Supreme Court would take up, from a different source document.
@@ -25,6 +26,7 @@ The relation that makes the model work holds only for parallel laws that split t
 - [Whose First Amendment Rights Are At Stake: Editorial Judgment](first_amendment_editorial_judgment.md): drawn from the same source document (doc_0256).
 - [What A Ruling For Texas And Florida Would Do To Platforms](scotus_ruling_consequences.md): drawn from the same source document (doc_0256).
 - [The Supreme Court's Pair Of Social Media Moderation Cases](scotus_social_media_cases.md): drawn from the same source document (doc_0256).
+- [First Amendment](term_first_amendment.md): uses the concept first amendment
 
 ## Source
 

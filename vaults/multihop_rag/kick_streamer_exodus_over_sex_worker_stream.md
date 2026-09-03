@@ -11,6 +11,7 @@ The woman was briefly prevented from leaving after she expressed discomfort, whi
 
 ## Related Notes
 
+
 - [Ice Poseidon Sex Worker Prank Stream Incident](ice_poseidon_sex_worker_prank_stream_incident.md): drawn from the same source document, doc_0405.
 - [Kick Corporate Response to the Incident](kick_corporate_response_to_the_incident.md): drawn from the same source document, doc_0405.
 - [Kick Platform Model and Controversy History](kick_platform_model_and_controversy_history.md): drawn from the same source document, doc_0405.
@@ -19,6 +20,7 @@ The woman was briefly prevented from leaving after she expressed discomfort, whi
 - [Streamer Case for Government Regulation of Platforms](streamer_case_for_government_regulation_of_platforms.md): drawn from the same source document, doc_0405.
 - [Streamers Who Cannot Afford to Leave Kick](streamers_who_cannot_afford_to_leave_kick.md): drawn from the same source document, doc_0405.
 - [Streamers Who Left Kick after the Incident](streamers_who_left_kick_after_the_incident.md): drawn from the same source document, doc_0405.
+- [Twitch's Revenue Split And Partner Plus Program](twitch_revenue_split_and_partner_plus_program.md): same source document (doc_0405)
 
 ## Source
 

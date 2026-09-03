@@ -13,6 +13,7 @@ The inference TechCrunch draws about stated versus revealed preferences: people 
 
 ## Related Notes
 
+
 - [Beeper's Open Source Transparency Effort](beeper_open_source_transparency_effort.md): overlaps on founders' trust-building choices, from a different document.
 - [Founder Lessons From Pebble](founder_lessons_from_pebble.md): draws lessons from the same shutdown, from a different document.
 - [Pebble's Moderation Approach Defense](pebble_moderation_approach_defense.md): the founders' own defense of the approach questioned here, from a different document.
@@ -21,6 +22,8 @@ The inference TechCrunch draws about stated versus revealed preferences: people 
 - [The Fediverse And The ActivityPub Protocol](fediverse_activitypub_protocol.md): drawn from the same source document (doc_0026).
 - [Fediverse Onboarding Barriers And Mozilla's Proposed Fixes](fediverse_onboarding_barriers_and_mozilla_fixes.md): drawn from the same source document (doc_0026), and is the plan this warning bears on.
 - [Mozilla's Rationale For Investing In The Fediverse](mozilla_fediverse_investment_rationale.md): drawn from the same source document (doc_0026).
+- [Mozilla.social's Content Discovery Experiments](mozilla_social_content_discovery_experiments.md): same source document (doc_0026)
+- [Mozilla.social: The Private Beta Mastodon Instance](mozilla_social_mastodon_instance_beta.md): same source document (doc_0026)
 
 ## Source
 

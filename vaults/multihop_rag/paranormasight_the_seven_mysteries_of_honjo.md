@@ -13,6 +13,7 @@ Plante says the ideal amount to know before playing is nothing, but concedes the
 
 ## Related Notes
 
+
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): both reference the Nintendo Switch, from a different source document
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): both mention Final Fantasy and the Switch, from a separate article
 - [Classic Nintendo Switch Franchise Picks](classic_nintendo_switch_franchise_picks.md): another Nintendo Switch-focused note from a different document
@@ -20,6 +21,10 @@ Plante says the ideal amount to know before playing is nothing, but concedes the
 - [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): another write-up by the same critic, Chris Plante
 - [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
 - [Amnesia: The Bunker](amnesia_the_bunker.md): a fellow horror entry on the same ranked list
+- [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): same source document (doc_0213)
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

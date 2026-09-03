@@ -13,10 +13,18 @@ The patent has a legend attached to it. According to Smithsonian Magazine, Peter
 
 ## Related Notes
 
+
 - [A Patent Redesign Must Be More Than a Colorable Difference](a_patent_redesign_must_be_more_than_a_colorable_difference.md): overlapping patent subject matter, from a different source document.
 - [Flipboard's ActivityPub Federation Launch](flipboard_activitypub_federation_launch.md): also cites Smithsonian Magazine, from a different source document.
 - [Urann and the 1912 Canned Cranberry Sauce Invention](urann_canned_cranberry_sauce_invention_1912.md): also cites Smithsonian Magazine, from a different source document.
 - [Catholic Major and Minor Exorcism](catholic_major_and_minor_exorcism.md): drawn from the same source document, doc_0562.
+- [Fr. Dan Reehil, Exorcist of the Diocese of Nashville](dan_reehil_exorcist_of_the_diocese_of_nashville.md): same source document (doc_0562)
+- [Hasbro's Marketing of the Ouija Board](hasbro_marketing_of_the_ouija_board.md): same source document (doc_0562)
+- [The Ouija Board as an Invitation to Demons](ouija_board_as_an_invitation_to_demons.md): same source document (doc_0562)
+- [Reehil's Reported Ouija-Linked Oppression Cases](reehil_reported_ouija_linked_oppression_cases.md): same source document (doc_0562)
+- [The Roland Doe Case and The Exorcist](roland_doe_case_and_the_exorcist.md): same source document (doc_0562)
+- [Three Levels of Demonic Incursion](three_levels_of_demonic_incursion.md): same source document (doc_0562)
+- [Patent Litigation](term_patent_litigation.md): uses the concept patent litigation
 
 ## Source
 

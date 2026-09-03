@@ -13,6 +13,7 @@ As of the December 9, 2023 report, he is fighting for his life and his family is
 
 ## Related Notes
 
+
 - [Case for Organ Donation and Living Donor Awareness](case_for_organ_donation_and_living_donor_awareness.md): drawn from the same source document (doc_0594).
 - [Lucas Goeller Current Liver Failure Symptoms](lucas_goeller_current_liver_failure_symptoms.md): drawn from the same source document (doc_0594).
 - [Lucas Goeller Eight Healthy Years and Relapse](lucas_goeller_eight_healthy_years_and_relapse.md): drawn from the same source document (doc_0594).
@@ -21,6 +22,7 @@ As of the December 9, 2023 report, he is fighting for his life and his family is
 - [Pediatric Liver Transplant Allocation Challenge](pediatric_liver_transplant_allocation_challenge.md): drawn from the same source document (doc_0594).
 - [Save Lucas Campaign and Living Donor Criteria](save_lucas_campaign_and_living_donor_criteria.md): drawn from the same source document (doc_0594).
 - [Transplant Center Capacity and Starzl Network](transplant_center_capacity_and_starzl_network.md): drawn from the same source document (doc_0594).
+- [US Organ Waiting List Figures For Children Needing Livers](us_pediatric_organ_transplant_waiting_list_figures.md): same source document (doc_0594)
 
 ## Source
 

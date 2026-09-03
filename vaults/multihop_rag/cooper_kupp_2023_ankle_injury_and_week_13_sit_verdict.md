@@ -11,11 +11,19 @@ The physical condition behind that verdict was reported earlier, in a Week 11 in
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another Sit Him verdict in the same weekly format, from a different source document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another Sit Him verdict, from a different source document.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): shares the weekly matchup and receiving-yards evaluation style, from a different source document.
 - [Chiefs Packers Week 13 Fourth Quarter Sequence](chiefs_packers_week_13_fourth_quarter_sequence.md): covers Rashee Rice, one of the receivers preferred over Kupp here, from a different source document.
 - [Colts Backfield Split: Zack Moss and Jonathan Taylor Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): another Sit Him call, from a different source document.
+- [Aaron Jones In 2023: From A Thursday Night Return To A Week 11 Knee Injury](aaron_jones_2023_hamstring_injury_timeline.md): same source document (doc_0113)
+- [Amari Cooper Week 13: Start Him, Because Joe Flacco Should Restore His Downfield Role](amari_cooper_week_13_start_verdict.md): same source document (doc_0057)
+- [Chris Godwin Week 13: Sit Him, A Slot Receiver Who No Longer Plays The Slot](chris_godwin_week_13_sit_verdict.md): same source document (doc_0057)
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

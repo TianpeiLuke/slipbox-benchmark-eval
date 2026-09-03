@@ -11,11 +11,18 @@ The Chase Ink Business Preferred Credit Card has an annual fee of $95 and a welc
 
 ## Related Notes
 
+
 - [Alternatives to Amex Cash Magnet Card](alternatives_to_amex_cash_magnet_card.md): a parallel "consider this card instead" comparison, from a different source document.
 - [Amex Cash Magnet Card Overview](amex_cash_magnet_card_overview.md): another rewards-card comparison, from a different source document.
 - [Amex Cash Magnet Redemption Process](amex_cash_magnet_redemption_process.md): shares vocabulary around rewards, card and credit, from a different source document.
 - [Amex Cash Magnet Rewards Structure and Exclusions](amex_cash_magnet_rewards_structure_and_exclusions.md): shares vocabulary around rewards, card and cardholders, from a different source document.
 - [Amex Cash Magnet Welcome Bonus Criticism](amex_cash_magnet_welcome_bonus_criticism.md): shares vocabulary around card, bonus and annual, from a different source document.
+- [Delta Gold Business Card Fees And Eligibility](delta_gold_business_card_fees_and_eligibility.md): same source document (doc_0557)
+- [The Delta SkyMiles Gold Business American Express Card](delta_skymiles_gold_business_amex_card.md): same source document (doc_0557)
+- [Delta SkyMiles Gold Business Card Rewards Rates](delta_skymiles_gold_business_rewards_rates.md): same source document (doc_0557)
+- [Delta SkyMiles Gold Business Card Travel Perks](delta_skymiles_gold_business_travel_perks.md): same source document (doc_0557)
+- [The Delta SkyMiles Gold Business Welcome Bonus](delta_skymiles_gold_business_welcome_bonus.md): same source document (doc_0557)
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

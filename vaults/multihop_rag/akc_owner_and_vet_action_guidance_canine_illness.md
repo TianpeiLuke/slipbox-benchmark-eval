@@ -19,6 +19,7 @@ Finally, a step directed at facilities rather than owners: Klein also recommends
 
 ## Related Notes
 
+
 - [Atypical Small-Genome Canine Microbiome Bacterium](atypical_small_genome_canine_microbiome_bacterium.md): the candidate pathogen a respiratory panel would help distinguish from known germs, from the same Yahoo News report (doc_0565).
 - [Canine Atypical Respiratory Illness of 2023](canine_atypical_respiratory_illness_2023_outbreak.md): the illness this guidance responds to, from the same report (doc_0565).
 - [Canine Illness True Case Count Likely in the Thousands](canine_illness_true_case_count_likely_thousands.md): the scale that makes owner action worthwhile, from the same report (doc_0565).
@@ -27,6 +28,8 @@ Finally, a step directed at facilities rather than owners: Klein also recommends
 - [Canine Respiratory Illness Three Clinical Presentations](canine_respiratory_illness_three_clinical_presentations.md): the disease courses that follow the symptoms triggering this procedure, from the same report (doc_0565).
 - [Holiday Kennel and Dog Park Avoidance Guidance](holiday_kennel_and_dog_park_avoidance_guidance.md): the companion exposure-avoidance advice, from the same report (doc_0565).
 - [House Sitter and Dog Walker Boarding Alternative](house_sitter_dog_walker_boarding_alternative.md): the alternative to boarding when avoiding shared facilities, from the same report (doc_0565).
+- [Small Pathogen Lung Penetration Mechanism in Dogs](small_pathogen_lung_penetration_mechanism_dogs.md): same source document (doc_0565)
+- [Unculturable Canine Bacterium and the Doxycycline Suggestion](unculturable_canine_bacterium_doxycycline_antibiotic_choice.md): same source document (doc_0565)
 
 ## Source
 

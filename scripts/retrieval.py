@@ -229,6 +229,39 @@ def dense_seed(vault: Path, q_emb, k: int = 5, in_set: set | None = None) -> lis
     return out
 
 
+def keyword_seed(vault: Path, query: str, k: int = 5,
+                 in_set: set | None = None) -> list[tuple[str, float]]:
+    """Seed from CURATED metadata: note name, keywords, topics, tags.
+
+    Ported from the source vault, where it is one of three seeding strategies
+    for graph traversal. It matches a query against what a curator said the note
+    is about rather than against its prose, which is a different and often
+    sharper signal: a short question tends to use the vocabulary a keyword list
+    was written in, while a body buries it among incidental words.
+
+    It also costs nothing to run -- no encoder -- so it is the fallback when no
+    dense index exists.
+    """
+    terms = [w for w in re.findall(r"[A-Za-z0-9]{3,}", query.lower())]
+    if not terms:
+        return []
+    con = sqlite3.connect(vault / "notes.db")
+    clause = " OR ".join(
+        ["note_name LIKE ? OR keywords LIKE ? OR topics LIKE ? OR tags LIKE ?"] * len(terms))
+    args = [f"%{t}%" for t in terms for _ in range(4)]
+    rows = con.execute(
+        f"SELECT note_id, note_name, keywords, topics, tags FROM notes WHERE {clause}",
+        args).fetchall()
+    con.close()
+    scored = []
+    for nid, name, kw, tp, tg in rows:
+        hay = f"{name} {kw} {tp} {tg}".lower()
+        hits = sum(1 for t in terms if t in hay)
+        if hits and (in_set is None or nid in in_set):
+            scored.append((nid, hits / len(terms)))
+    return sorted(scored, key=lambda x: -x[1])[:k]
+
+
 def bfs(vault: Path, query: str, k: int, seeds: int = 5,
         max_expansions: int = 200, seed: str = "dense") -> list[tuple[str, float]]:
     """Best-first BFS: priority queue ordered by each node's OWN cosine to the query.
@@ -248,8 +281,13 @@ def bfs(vault: Path, query: str, k: int, seeds: int = 5,
     adj, _ = load_graph(vault)
     emb, ids, idx = _embeddings(vault)
     q = encode_query(vault, query)
-    start = (dense_seed(vault, q, seeds, set(adj))
-             if seed == "dense" else [n for n, _ in bm25(vault, query, seeds)])
+    if seed == "dense":
+        start = dense_seed(vault, q, seeds, set(adj))
+    elif seed == "keyword":
+        start = [n for n, _ in keyword_seed(vault, query, seeds, set(adj))] \
+            or dense_seed(vault, q, seeds, set(adj))
+    else:
+        start = [n for n, _ in bm25(vault, query, seeds)]
 
     heap: list[tuple[float, str]] = []
     for nid in start:
@@ -291,8 +329,13 @@ def ppr(vault: Path, query: str, k: int, seeds: int = 5, alpha: float = PPR_ALPH
     if G.number_of_nodes() == 0:
         return dense(vault, query, k)
     q = encode_query(vault, query)
-    start = ([s for s in dense_seed(vault, q, seeds, set(G.nodes())) ]
-             if seed == "dense" else [n for n, _ in bm25(vault, query, seeds) if n in G])
+    if seed == "dense":
+        start = dense_seed(vault, q, seeds, set(G.nodes()))
+    elif seed == "keyword":
+        start = [n for n, _ in keyword_seed(vault, query, seeds, set(G.nodes()))] \
+            or dense_seed(vault, q, seeds, set(G.nodes()))
+    else:
+        start = [n for n, _ in bm25(vault, query, seeds) if n in G]
     if not start:
         return dense(vault, query, k)
     w = 1.0 / len(start)
@@ -331,7 +374,8 @@ def graph_hybrid(vault: Path, query: str, k: int, seeds: int = 5,
 
 
 STRATEGIES = {"bm25": bm25, "dense": dense, "hybrid": hybrid,
-              "bfs": bfs, "ppr": ppr, "graph_hybrid": graph_hybrid}
+              "bfs": bfs, "ppr": ppr, "graph_hybrid": graph_hybrid,
+              "keyword": lambda v, q, k, **kw: keyword_seed(v, q, k)}
 
 
 def main() -> None:
@@ -341,7 +385,7 @@ def main() -> None:
     ap.add_argument("--strategy", default="hybrid",
                     choices=list(STRATEGIES) + ["all"])
     ap.add_argument("--k", type=int, default=5)
-    ap.add_argument("--seed", default="hybrid", choices=["hybrid", "bm25"],
+    ap.add_argument("--seed", default="dense", choices=["dense", "bm25", "keyword"],
                     help="seed set for bfs and ppr. Default hybrid, matching the "
                          "HippoRAG protocol; bm25 lets the graph arms run with no "
                          "embedding index. Chosen, never substituted silently.")

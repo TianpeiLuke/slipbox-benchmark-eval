@@ -13,10 +13,19 @@ One factor potentially making a future termination of HSM less likely is what wo
 
 ## Related Notes
 
+
 - [Hipgnosis Songs Fund Results Delay December 2023](hipgnosis_songs_fund_results_delay_december_2023.md): a later development involving Hipgnosis Songs Capital.
 - [HSF Board Versus Hipgnosis Song Management Dispute](hsf_board_versus_hipgnosis_song_management_dispute.md): the adviser relationship these clauses govern, later in conflict.
 - [HSF Coded Signal and Mercuriadis Call Option](hsf_coded_signal_and_mercuriadis_call_option.md): another account of the board, Blackstone and the Hipgnosis adviser structure.
 - [HSM Conflict of Interest in Valuation Opinion](hsm_conflict_of_interest_in_valuation_opinion.md): the conflict inherent in the adviser-acquirer arrangement described here.
+- [Hipgnosis $440 Million Catalog Sale to Hipgnosis Songs Capital](hipgnosis_440_million_catalog_sale_to_hipgnosis_songs_capital.md): same source document (doc_0464)
+- [Hipgnosis Board Defence of Portfolio Value](hipgnosis_board_defence_of_portfolio_value.md): same source document (doc_0464)
+- [Hipgnosis Go-Shop Clause and Rival Bids](hipgnosis_go_shop_clause_and_rival_bids.md): same source document (doc_0464)
+- [Hipgnosis Songs Fund Board Changes September 2023](hipgnosis_songs_fund_board_changes_september_2023.md): same source document (doc_0464)
+- [Hipgnosis Songs Fund Continuation Vote](hipgnosis_songs_fund_continuation_vote.md): same source document (doc_0464)
+- [Hipgnosis Songs Fund NAV-to-Share-Price Discount](hipgnosis_songs_fund_nav_to_share_price_discount.md): same source document (doc_0464)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

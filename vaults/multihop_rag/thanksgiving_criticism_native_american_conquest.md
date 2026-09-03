@@ -13,6 +13,7 @@ A second strand of the objection concerns how that history is transmitted. In ad
 
 ## Related Notes
 
+
 - [Cranberry Domestication and US Cultivation History](cranberry_domestication_and_us_cultivation_history.md): also concerns Native Americans, from a different source document.
 - [Thanksgiving 2023 Retail Closure Policy](thanksgiving_2023_retail_closure_policy.md): overlapping coverage of the holiday and the feast, from a different source document.
 - [Wilma Mankiller Barbie Inspiring Women Doll](wilma_mankiller_barbie_inspiring_women_doll.md): also concerns Native American subjects, from a different source document.
@@ -21,6 +22,8 @@ A second strand of the objection concerns how that history is transmitted. In ad
 - [Friendsgiving Alternative Activity Ideas](friendsgiving_alternative_activity_ideas.md): drawn from the same source document, doc_0324.
 - [The Friendsgiving Tradition](friendsgiving_tradition.md): drawn from the same source document, doc_0324.
 - [Macy's Thanksgiving Day Parade](macys_thanksgiving_day_parade.md): drawn from the same source document, doc_0280.
+- [Thanksgiving: The American Holiday](thanksgiving_american_holiday_overview.md): same source document (doc_0280)
+- [Thanksgiving Observance Outside the United States](thanksgiving_observance_outside_the_united_states.md): same source document (doc_0280)
 
 ## Source
 

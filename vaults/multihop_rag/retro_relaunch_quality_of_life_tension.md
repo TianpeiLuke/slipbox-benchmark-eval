@@ -11,11 +11,17 @@ The grounds come from Blizzard's experience, per Elizabeth Harper: "WoW Classic 
 
 ## Related Notes
 
+
 - [Fortnite's Chapter 1 Map Return](fortnite_chapter_1_map_return.md): same source document; the relaunch whose carve-outs illustrate the tension.
 - [Fortnite's Map As A Source Of Player Nostalgia](fortnite_map_as_source_of_player_nostalgia.md): same source document; the nostalgic pull working against modernisation.
 - [Accelerating Game Nostalgia Cycles](accelerating_game_nostalgia_cycles.md): same source document; the compressed cycle this balancing act now operates in.
 - [Game Preservation And The Ship Of Theseus Problem](game_preservation_ship_of_theseus_problem.md): same source document; what changing a preserved game costs.
 - [Fortnite's Battle Royale Live-Service Model](fortnite_battle_royale_live_service_model.md): same source document; the mobility features accumulated over recent seasons.
+- [Fortnite OG Streamer Promotion Campaign](fortnite_og_streamer_promotion_campaign.md): same source document (doc_0549)
+- [Fortnite's Peak And Current Popularity](fortnite_peak_and_current_popularity.md): same source document (doc_0549)
+- [Gaming's Nostalgia Trend, 2023](gaming_nostalgia_trend_2023.md): same source document (doc_0549)
+- [Nostalgia Demand And Developer Incentives](nostalgia_demand_and_developer_incentives.md): same source document (doc_0549)
+- [Nostalgia-Driven Major Game Releases, 2023](nostalgia_driven_major_game_releases_2023.md): same source document (doc_0549)
 
 ## Source
 

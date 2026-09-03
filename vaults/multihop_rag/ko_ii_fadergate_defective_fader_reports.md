@@ -11,6 +11,7 @@ The rollout was fast: barely 24 hours after the K.O. II was revealed, units star
 
 ## Related Notes
 
+
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): shares the product-update theme, from a different source document.
 - [Apple AirPods Pro Second Generation](apple_airpods_pro_second_generation.md): shares the product-update theme, from a different source document.
 - [Apple Watch Double Tap Gesture](apple_watch_double_tap_gesture.md): shares the product-update theme, from a different source document.
@@ -19,6 +20,17 @@ The rollout was fast: barely 24 hours after the K.O. II was revealed, units star
 - [Atlassian Critical Security Flaw Warning](atlassian_critical_security_flaw_warning.md): shares the product-update theme, from a different source document.
 - [Balderton's Investment Thesis On Scalable Capital](balderton_investment_thesis_on_scalable_capital.md): shares the update-notes theme, from a different source document.
 - [Beeper Mini Service Restoration And Apple ID Workaround](beeper_mini_service_restoration_and_apple_id_workaround.md): shares the product-update theme, from a different source document.
+- [K.O. II Design Lineage From The Pocket Operator Series](ko_ii_design_lineage_from_the_pocket_operator_series.md): same source document (doc_0417)
+- [K.O. II Memory, Voice Limit And Missing Resampling](ko_ii_memory_voice_limit_and_missing_resampling.md): same source document (doc_0417)
+- [K.O. II Pattern And Scene Structure And The Missing Song Mode](ko_ii_pattern_scene_structure_and_missing_song_mode.md): same source document (doc_0417)
+- [K.O. II Punch-In Effects And Performance Workflow](ko_ii_punch_in_effects_and_performance_workflow.md): same source document (doc_0417)
+- [K.O. II Sample Manager Tool And Web MIDI Platform Limits](ko_ii_sample_manager_tool_and_web_midi_platform_limits.md): same source document (doc_0417)
+- [The K.O. II Super Segment Hybrid Display](ko_ii_super_segment_hybrid_display.md): same source document (doc_0417)
+- [K.O. II Usability Without The Manual And Key Feel](ko_ii_usability_without_the_manual_and_key_feel.md): same source document (doc_0417)
+- [The K.O. II Verdict As An Affordable Performative Sampler](ko_ii_verdict_as_an_affordable_performative_sampler.md): same source document (doc_0417)
+- [The Sampling Workflow On The K.O. II](sampling_workflow_on_the_ko_ii.md): same source document (doc_0417)
+- [The Teenage Engineering EP-133 K.O. II Sampler](teenage_engineering_ep_133_ko_ii_sampler.md): same source document (doc_0417)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

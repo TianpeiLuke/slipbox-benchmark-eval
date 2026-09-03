@@ -13,11 +13,22 @@ On forward commitments over the next six months, Google's report states it has n
 
 ## Related Notes
 
+
 - [AI Civil Rights and Consumer Protections in the Eo](ai_civil_rights_and_consumer_protections_in_the_eo.md): shares the data privacy and earnings report theme, from a different source document.
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): shares the creator economy and generative AI theme, from a different source document.
 - [Alexa Kids Privacy and Hardware](alexa_kids_privacy_and_hardware.md): shares the data privacy and generative AI theme, from a different source document.
 - [Apple Generative AI Investment Stance](apple_generative_ai_investment_stance.md): shares the earnings report and generative AI theme, from a different source document.
 - [ChatGPT Legal and Privacy Controversies](chatgpt_legal_and_privacy_controversies.md): shares the data privacy and disinformation theme, from a different source document.
+- [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): same source document (doc_0248)
+- [The EU Code Of Practice On Disinformation](eu_code_of_practice_on_disinformation.md): same source document (doc_0248)
+- [EU Demands On Fact-Checking And Researcher Data Access](eu_demands_on_fact_checking_and_researcher_data_access.md): same source document (doc_0248)
+- [EU Warning On Deepfake Election Risks](eu_warning_on_deepfake_election_risks.md): same source document (doc_0248)
+- [Kremlin Propaganda And Platform Countermeasures](kremlin_propaganda_and_platform_countermeasures.md): same source document (doc_0248)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

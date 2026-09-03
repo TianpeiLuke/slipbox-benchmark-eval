@@ -13,11 +13,18 @@ The condition that sharpens it is technological. The relentless pace of technolo
 
 ## Related Notes
 
+
 - [Digital Engagement Protects The Ageing Brain](digital_engagement_protects_the_ageing_brain.md): same article, arguing that this helpfulness may not help
 - [Age Well Daily Habits For The Over Fifties](age_well_daily_habits_for_the_over_fifties.md): same article, the summary guidance for this generation
 - [Alexandra Moving Home At 37 And Solo Motherhood](alexandra_moving_home_at_37_and_solo_motherhood.md): the other direction of multigenerational dependence, different source
 - [Rachel Claire Photographer Returning To The Family Home](rachel_claire_photographer_returning_to_the_family_home.md): another multigenerational household account, different source
 - [Hannah Keeley Christmas Parenting Mistakes](hannah_keeley_christmas_parenting_mistakes.md): overlaps on parenting advice, from a different document
+- [Tess Moone: Selling The Perth Home And The Rental Crisis](tess_moone_selling_perth_home_and_rental_crisis.md): same sub-plan (Multigenerational living and caring for ageing parents), different source document
+- [Daily Walking Reduces Late-Life Depression](daily_walking_reduces_late_life_depression.md): same source document (doc_0605)
+- [Joining The Dementia Research Register For Trial Participation](dementia_research_register_and_trial_participation.md): same source document (doc_0605)
+- [Multivitamins And Cognition In Older Adults](multivitamins_and_cognition_in_older_adults.md): same source document (doc_0605)
+- [Protein Intake Guidelines For Older Adults](protein_intake_guidelines_for_older_adults.md): same source document (doc_0605)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

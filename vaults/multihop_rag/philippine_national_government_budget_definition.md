@@ -15,6 +15,7 @@ Appropriations come from two sources: new general appropriations legislated by C
 
 ## Related Notes
 
+
 - [Philippine Development Plan 2023-2028 Targets](philippine_development_plan_2023_2028_targets.md): the national objectives this budget is meant to fund.
 - [Philippine Inflation 2023 and Government Response](philippine_inflation_2023_and_government_response.md): another National Government policy note.
 - [Private Sector Role in Philippine Sustainable Development](private_sector_role_in_philippine_sustainable_development.md): another note on National Government economic roles.
@@ -23,6 +24,7 @@ Appropriations come from two sources: new general appropriations legislated by C
 - [DBM Case for a Surplus Budget Policy](dbm_case_for_a_surplus_budget_policy.md): the DBM's argument for surpluses, same article.
 - [Philippine 2024 Budget Deficit and Debt Trajectory](philippine_2024_budget_deficit_and_debt_trajectory.md): the 2024 numbers under this framework.
 - [Philippine House Approval of the 2024 National Budget](philippine_house_approval_of_the_2024_national_budget.md): the legislative act enacting the appropriation.
+- [Philippine Inflation and Deficit Vicious Cycle](philippine_inflation_and_deficit_vicious_cycle.md): same source document (doc_0306)
 
 ## Source
 

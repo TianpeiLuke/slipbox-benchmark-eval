@@ -11,11 +11,19 @@ Poole, at 28, helped power the Warriors to the 2022 championship but was in equa
 
 ## Related Notes
 
+
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): shares the draft-pick theme, from a different document.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): shares the draft-pick theme, from a different document.
 - [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): overlaps on draft and contract terms, from a different document.
 - [FanDuel Week 15 DFS QB And RB Picks](fanduel_week_15_dfs_qb_and_rb_picks.md): shares the draft-pick theme, from a different document.
 - [Fantasy Football Weekly Lineup Matchup Method](fantasy_football_weekly_lineup_matchup_method.md): shares the draft-pick theme, from a different document.
+- [Warriors 2020 And 2021 Draft Misses](warriors_2020_and_2021_draft_misses.md): same source document (doc_0522)
+- [Warriors 2021 Draft Kuminga And Moody](warriors_2021_draft_kuminga_and_moody.md): same source document (doc_0522)
+- [Warriors Aging Core Curry Thompson Green](warriors_aging_core_curry_thompson_green.md): same source document (doc_0522)
+- [Warriors Collapse Vs Kings In-Season Tournament](warriors_collapse_vs_kings_in_season_tournament.md): same source document (doc_0522)
+- [Warriors Roster Reorientation Around Curry Window](warriors_roster_reorientation_around_curry_window.md): same source document (doc_0522)
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

@@ -13,6 +13,7 @@ Against that backdrop, Sporting News laid out all the options should Man United 
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also discusses Ten Hag, from a different document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also concerns Man United, from a different document.
 - [Erik ten Hag Position After Champions League Exit](erik_ten_hag_position_after_champions_league_exit.md): also discusses Ten Hag's standing, from a different document.
@@ -21,6 +22,8 @@ Against that backdrop, Sporting News laid out all the options should Man United 
 - [Erik ten Hag Under Pressure December 2023](erik_ten_hag_under_pressure_december_2023.md): the pressure this deal intensified, from the same document.
 - [Manchester United's 2023/24 Champions League Elimination](man_united_2023_24_champions_league_elimination.md): the sporting collapse behind that pressure, from the same document.
 - [Man United Next Manager: Carrick, Flick, Conte, Lopetegui](man_united_next_manager_carrick_flick_conte_lopetegui.md): part of the options list this piece laid out, from the same document.
+- [Why Nagelsmann, Scaloni, Southgate And Pochettino Do Not Add Up For United](man_united_next_manager_ruled_out_candidates.md): same source document (doc_0315)
+- [Zidane, Potter And De Zerbi As Manchester United Manager Candidates](man_united_next_manager_zidane_potter_de_zerbi.md): same source document (doc_0315)
 
 ## Source
 

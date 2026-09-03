@@ -11,11 +11,18 @@ The grounds are that Sony did not decline on principle. MBW understands that Son
 
 ## Related Notes
 
+
 - [EU US Performance Rights Asymmetry](eu_us_performance_rights_asymmetry.md): shares vocabulary around music, artists and recorded, from a different source document.
 - [Generative AI Deepfakes Harm to Artists](generative_ai_deepfakes_harm_to_artists.md): Sony's public case against unauthorized voice clones, from a different source document.
 - [Music Streaming and Vinyl Subscription Gifts](music_streaming_and_vinyl_subscription_gifts.md): also discusses Bad Bunny, from a different source document.
 - [Robert Kyncl Warner Music Group Ceo](robert_kyncl_warner_music_group_ceo.md): shares vocabulary around music, youtube and warner, from a different source document.
 - [Sony, Gilmour, The Orb and Vermillio AI Reissue Project](sony_gilmour_orb_vermillio_ai_reissue_project.md): the David Gilmour AI project cited as evidence of willingness, from a different source document.
+- [Which Artists Joined "Dream Track", And The Licensing Questions That Follow](dream_track_artist_selection_and_licensing_questions.md): same source document (doc_0381)
+- [Ed Newton-Rex's Resignation From Stability AI](ed_newton_rex_resignation_stability_ai.md): same source document (doc_0381)
+- [Fair Use, Explained Plainly](fair_use_doctrine_plain_explanation.md): same source document (doc_0381)
+- [Google's Copyright Filing Against YouTube's Music Reassurances](google_filing_versus_youtube_music_reassurances.md): same source document (doc_0381)
+- [Google's USCO Filing On AI Training And Fair Use](google_usco_filing_ai_training_fair_use.md): same source document (doc_0381)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

@@ -13,12 +13,17 @@ The matchup grounds close it. The Rams have taken a step forward as a decent run
 
 ## Related Notes
 
+
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): overlaps on the same carry-share and snap-count reasoning about a split backfield, from a different document.
 - [Cardinals 24-10 Steelers Week 13](cardinals_24_10_steelers_week_13.md): covers the same Cardinals backfield, including James Conner, later in the season, from a different document.
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): another "Sit Him" verdict in the same weekly-decision format, from a different document.
 - [Cooper Kupp 2023 Ankle Injury And Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): another sit verdict, on a player from the opponent in this matchup, from a different document.
 - [Dameon Pierce Week 5 2023 Sit Recommendation](dameon_pierce_week5_2023_sit_recommendation.md): another running back sit verdict from the companion Week 5 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this sit call applies, from the same column.
+- [Amari Cooper As A Week 6 2023 Sit Against The 49ers](amari_cooper_week6_2023_sit_recommendation.md): same source document (doc_0149)
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
 
 ## Source
 

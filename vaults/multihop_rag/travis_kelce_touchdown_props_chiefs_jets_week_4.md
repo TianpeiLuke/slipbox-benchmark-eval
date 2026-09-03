@@ -11,11 +11,16 @@ Sporting News worked through FanDuel's Kelce-specific "Prop Stars" markets on 20
 
 ## Related Notes
 
+
 - [Backlash to Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): also covers Travis Kelce, from a different source document.
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): reports the outcome of this same game and covers Travis Kelce, from a different source document.
 - [Chiefs Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): live coverage of the same game featuring Travis Kelce, from a different source document.
 - [Chiefs Jets Pregame Notes: Taylor Swift and Rodgers](chiefs_jets_pregame_notes_taylor_swift_and_rodgers.md): also covers Travis Kelce before the same game, from a different source document.
 - [Chiefs Jets Second Half Live Blog](chiefs_jets_second_half_live_blog.md): also covers Robert Saleh's Jets, from a different source document.
+- [The Backlash: Fans Who Say The Swift-Kelce Coverage Is Too Much](backlash_to_traylor_media_coverage.md): same source document (doc_0311)
+- [The Chiefs-Jets Week 4 Swift Sideshow And FanDuel's "Prop Stars" Menu](chiefs_jets_week_4_swift_sideshow_and_prop_stars_menu.md): same source document (doc_0311)
+- [Which Team-Level Props To Play In Chiefs-Jets Week 4](chiefs_jets_week_4_team_level_props.md): same source document (doc_0311)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

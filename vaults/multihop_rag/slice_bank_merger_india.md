@@ -13,11 +13,19 @@ The item was reported by Manish Singh.
 
 ## Related Notes
 
+
 - [Amex Cash Magnet Approval Odds And Credit Limits](amex_cash_magnet_approval_odds_and_credit_limits.md): overlapping coverage of card issuance and approval, from a different source document.
 - [Consumer Trading Recovery: Coinbase And Robinhood](consumer_trading_recovery_coinbase_and_robinhood.md): overlapping fintech and financial-services coverage, from a different source document.
 - [The 2023 Cybersecurity Consolidation Wave](cybersecurity_consolidation_wave_2023.md): shares the acquisition and valuation themes, from a different source document.
 - [Dave Clark's Ouster From Flexport](dave_clark_ouster_from_flexport.md): shares the acquisition and valuation themes, from a different source document.
 - [Flat-Rate Cash Back Alternatives To The Fifth Third Card](flat_rate_cash_back_alternatives_to_fifth_third_card.md): overlapping coverage of banks and card approval, from a different source document.
+- [Bolt's SEC Probe Closed Without An Enforcement Recommendation](bolt_sec_probe.md): same source document (doc_0075)
+- [CRED's 255% Operating Revenue Growth To $168.1 Million](cred_revenue_growth.md): same source document (doc_0075)
+- [Fintech Funding Roundup, October 2023](fintech_funding_roundup_oct_2023.md): same source document (doc_0075)
+- [Fintech Startups On The 2023 Ranking Lists](fintech_startup_rankings_2023.md): same source document (doc_0075)
+- [Gatekeeper Platforms Will Keep Drawing Antitrust Suits Over Their Fees](payment_gatekeeper_antitrust_view.md): same source document (doc_0075)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

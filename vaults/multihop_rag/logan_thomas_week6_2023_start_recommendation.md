@@ -13,12 +13,18 @@ The usage grounds carry a health caveat. Washington throws to its tight ends on 
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another "Start Him" verdict in the same weekly-decision format, from a different document.
 - [Baker Mayfield Zone Coverage And Four Level Passing](baker_mayfield_zone_coverage_and_four_level_passing.md): covers the same zone-coverage reasoning about underneath throws, from a different document.
 - [Cowboys 49ers First Half Live Blog](cowboys_49ers_first_half_live_blog.md): also discusses Jake Ferguson, the tight end Thomas is ranked above, from a different document.
 - [Dallas Goedert Week 5 2023 Bust Warning](dallas_goedert_week5_2023_bust_warning.md): also discusses Jake Ferguson and Kyle Pitts, from the companion Week 5 column.
 - [DeAndre Hopkins Week 5 2023 Start Recommendation](deandre_hopkins_week5_2023_start_recommendation.md): another "Start Him" verdict, from a different column.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another lineup call from the same Week 6 column.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

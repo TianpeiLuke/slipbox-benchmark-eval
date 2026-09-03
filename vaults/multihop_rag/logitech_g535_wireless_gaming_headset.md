@@ -13,6 +13,7 @@ The drawbacks are that it forces you to crank the volume to reach a listenable l
 
 ## Related Notes
 
+
 - [Astro A40 TR Gaming Headset Deal](astro_a40_tr_gaming_headset_deal.md): covers a competing discounted gaming headset, from a different source document.
 - [Audio-Technica ATH-M20xBT Deal](audio_technica_ath_m20xbt_deal.md): covers another wireless audio deal, from a different source document.
 - [HyperX Cloud Stinger 2 Deal](hyperx_cloud_stinger_2_deal.md): covers a competing budget gaming headset, from a different source document.
@@ -21,6 +22,8 @@ The drawbacks are that it forces you to crank the volume to reach a listenable l
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): drawn from the same source document (doc_0595).
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): drawn from the same source document (doc_0567).
 - [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): drawn from the same source document (doc_0595).
+- [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): same source document (doc_0567)
+- [Anker Soundcore Liberty 4 NC Earbuds Deal Prices](anker_soundcore_liberty_4_nc_earbuds.md): same source document (doc_0595)
 
 ## Source
 

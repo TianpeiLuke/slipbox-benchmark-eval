@@ -15,11 +15,18 @@ At 8:25 p.m. ET the game was postponed until the next day, with journalists repo
 
 ## Related Notes
 
+
 - [Canada-Jamaica Second Leg First Half](canada_jamaica_second_leg_first_half.md): the return fixture's play-by-play, from a different document.
 - [Canada-Jamaica Second Leg Kickoff and Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): the scheduling and coverage details for the second leg, separately sourced.
 - [Canada-Jamaica Second Leg Result](canada_jamaica_second_leg_result.md): where the Copa America question was settled, in a different document.
 - [Canada-Jamaica Second Leg Second Half](canada_jamaica_second_leg_second_half.md): also concerns the Copa America stakes, from a separate source.
 - [Man United-Chelsea Pre-Match Build-Up](man_united_chelsea_pre_match_build_up.md): another countdown-to-kickoff live blog, in a different document.
+- [Canada's Path To Copa America 2024 Qualification](canada_copa_america_2024_qualification_path.md): same source document (doc_0157)
+- [Fallout From John Herdman's Departure From Canada Soccer](canada_soccer_john_herdman_departure_fallout.md): same source document (doc_0157)
+- [How To Watch Jamaica vs Canada, First Leg](jamaica_canada_first_leg_broadcast.md): same source document (doc_0157)
+- [The First Half Of Jamaica 0-1 Canada](jamaica_canada_first_leg_first_half.md): same source document (doc_0157)
+- [Canada Beat Jamaica 2-1 In The Nations League Quarterfinal First Leg](jamaica_canada_first_leg_result.md): same source document (doc_0157)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

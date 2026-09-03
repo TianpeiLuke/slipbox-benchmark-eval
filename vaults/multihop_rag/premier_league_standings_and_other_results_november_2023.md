@@ -11,6 +11,7 @@ Aston Villa moved to fifth, three points off the top, with a 3-1 win over Fulham
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also mentions Aston Villa, from a different document.
 - [Bournemouth Comeback Win At Nottingham Forest Solanke Hat-Trick](bournemouth_comeback_win_at_nottingham_forest_solanke_hat_trick.md): also concerns Nottingham Forest, from a different document.
 - [Canada Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also mentions West Ham, from a different document.
@@ -19,6 +20,8 @@ Aston Villa moved to fifth, three points off the top, with a 3-1 win over Fulham
 - [Chelsea 4-4 Manchester City Stamford Bridge](chelsea_4_4_manchester_city_stamford_bridge.md): the headline match in this round, from the same document.
 - [Cole Palmer Stoppage-Time Penalty Vs Manchester City](cole_palmer_stoppage_time_penalty_vs_manchester_city.md): the goal that shaped the top of the table, from the same document.
 - [Guardiola Reaction To Chelsea City Draw](guardiola_reaction_to_chelsea_city_draw.md): the City manager's reaction to leading the table, from the same document.
+- [Liverpool 3-0 Brentford Salah 200th English Goal](liverpool_3_0_brentford_salah_200th_english_goal.md): same source document (doc_0142)
+- [Pochettino Reaction To Chelsea City Draw](pochettino_reaction_to_chelsea_city_draw.md): same source document (doc_0142)
 
 ## Source
 

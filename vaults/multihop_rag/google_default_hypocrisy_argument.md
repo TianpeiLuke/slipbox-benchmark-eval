@@ -15,11 +15,20 @@ The same cross-examination pressed a second consistency question, on the litigat
 
 ## Related Notes
 
+
 - [The Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): covers the Pichai-era default arrangement this argument is aimed at, from a different source document.
 - [The DOJ Theory That Google's Default Deals Foreclose Search Rivals](doj_theory_that_google_default_deals_foreclose_search_rivals.md): states the foreclosure theory that the hypocrisy argument supports, from a different source document.
 - [Eddy Cue's Testimony In US v. Google](eddy_cue_testimony_in_us_v_google.md): shares the antitrust and default-search-engine subject matter, from a different source document.
 - [The Epic Games v. Google Antitrust Trial](epic_games_v_google_antitrust_trial.md): another antitrust proceeding turning on allegedly anticompetitive conduct, from a different source document.
 - [The Firefox-Yahoo Default Search Switch](firefox_yahoo_default_search_switch.md): a case of a default search engine actually changing hands, from a different source document.
+- [What A Ruling Against Google Would Mean For Big Tech](big_tech_antitrust_outlook.md): same source document (doc_0237)
+- [The Google Antitrust Case](google_antitrust_case.md): same source document (doc_0237)
+- [Google's Agreement Not To Promote Chrome To Safari Users](google_apple_chrome_agreement.md): same source document (doc_0237)
+- [Google Paid $26.3 Billion In 2021 For Default Search Placement](google_default_search_payments.md): same source document (doc_0237)
+- [Google's Deleted Chat Logs Under A Litigation Hold](google_deleted_chat_logs.md): same source document (doc_0237)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [Default Search Engine](term_default_search_engine.md): uses the concept default search engine
+- [Litigation Hold](term_litigation_hold.md): uses the concept litigation hold
 
 ## Source
 

@@ -13,12 +13,20 @@ Second, in parallel we will begin to see diminishing returns on parameter counts
 
 ## Related Notes
 
+
 - [AI Pricing Models](ai_pricing_models.md): shares the cloud-computing and large-language-model themes, from a different source document.
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the cloud-computing and large-language-model themes, from a different source document.
 - [LLM Stack Layers](llm_stack_layers.md): shares the cloud-computing and large-language-model themes, from a different source document.
 - [OpenAI Q4 2023 Product Launches](openai_q4_2023_product_launches.md): shares the model-release and large-language-model themes, from a different source document.
 - [Startup Over-Reliance On OpenAI Proprietary Models](startup_over_reliance_on_openai_proprietary_models.md): shares the cloud-computing and large-language-model themes, from a different source document.
 - [AI Hype Meets Reality In 2024](ai_hype_meets_reality_in_2024.md): drawn from the same source document (doc_0365), the frame this prediction sits under.
+- [Prediction: AI Agents And Generative Media Mature](prediction_ai_agents_and_generative_media_mature.md): same source document (doc_0365)
+- [Prediction: An AI Compliance Industry And Slow Regulation](prediction_ai_compliance_industry_and_slow_regulation.md): same source document (doc_0365)
+- [Prediction: AI Copyright Lawsuits Stall And Multiply](prediction_ai_copyright_lawsuits_stall_and_multiply.md): same source document (doc_0365)
+- [Prediction: AI Marketing Claims Meet Reality](prediction_ai_marketing_claims_meet_reality.md): same source document (doc_0365)
+- [Cloud Computing](term_cloud_computing.md): uses the concept cloud computing
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

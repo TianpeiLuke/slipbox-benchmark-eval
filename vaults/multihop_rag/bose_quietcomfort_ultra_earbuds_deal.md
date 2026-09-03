@@ -11,9 +11,21 @@ Engadget gave these in-ears a review score of 88 in September and recently named
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares wireless-earbud discount coverage, from a different source document.
 - [Amazon Echo Buds, Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): shares noise-cancelling earbud themes, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares battery-and-charging discount framing, from a different source document.
+- [AirPods Pro Second Generation Lightning Deal At Walmart](airpods_pro_second_generation_lightning_deal.md): shares battery_life_and_charging, discount_and_msrp; different source document
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares battery_life_and_charging, battery_technology; different source document
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): same source document (doc_0404)
+- [Anker Soundcore Liberty 4 NC Earbuds Deal Prices](anker_soundcore_liberty_4_nc_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space Q45 Deal](anker_soundcore_space_q45_deal.md): same source document (doc_0404)
+- [Apple AirPods 2nd Gen Holiday Deal](apple_airpods_2nd_gen_holiday_deal.md): same source document (doc_0404)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

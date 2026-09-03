@@ -13,11 +13,16 @@ Sriram Raghavan, VP of IBM's research AI division, told TechCrunch via email tha
 
 ## Related Notes
 
+
 - [Alliance DAO ALL11 Cohort Selectivity](alliance_dao_all11_cohort_selectivity.md): overlapping vocabulary of alliances and selective membership, from a different source document.
 - [AI Alliance Case For Open AI Development](ai_alliance_case_for_open_ai_development.md): drawn from the same source document (doc_0268), the openness commitment used to explain the absences.
 - [AI Alliance Founding By Meta And IBM](ai_alliance_founding_by_meta_and_ibm.md): drawn from the same source document (doc_0268), on the body these organisations declined to join.
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): drawn from the same source document (doc_0268), the counterpart list of who did join.
 - [AI Alliance Working Groups And Governance Plan](ai_alliance_working_groups_and_governance_plan.md): drawn from the same source document (doc_0268), on the structures the absentees are not part of.
+- [Doubts About The AI Alliance's Effectiveness](doubts_about_ai_alliance_effectiveness.md): same source document (doc_0268)
+- [IBM's Generative AI Business Motive In The AI Alliance](ibm_generative_ai_business_motive_in_ai_alliance.md): same source document (doc_0268)
+- [Meta's Open Source AI Strategy And Motives](meta_open_source_ai_strategy_and_motives.md): same source document (doc_0268)
+- [Open Source](term_open_source.md): uses the concept open source
 
 ## Source
 

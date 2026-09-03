@@ -11,11 +11,18 @@ The Browns officially ruled out Thompson-Robinson due to a concussion he suffere
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also discusses Joe Flacco, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Dorian Thompson-Robinson, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): also discusses Thompson-Robinson and Flacco, from a different document.
 - [Fantasy RB Week 14 Top Starts PPR](fantasy_rb_week_14_top_starts_ppr.md): also discusses Joe Flacco, from a different document.
 - [Fantasy WR Week 14 Sleepers And Waiver Pickups](fantasy_wr_week_14_sleepers_and_waiver_pickups.md): also discusses Joe Flacco, from a different document.
+- [NFL Week 13 Injuries 49ers At Eagles](nfl_week_13_injuries_49ers_at_eagles.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Bengals At Jaguars](nfl_week_13_injuries_bengals_at_jaguars.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Broncos At Texans](nfl_week_13_injuries_broncos_at_texans.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Cardinals At Steelers](nfl_week_13_injuries_cardinals_at_steelers.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Chargers At Patriots](nfl_week_13_injuries_chargers_at_patriots.md): same source document (doc_0289)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

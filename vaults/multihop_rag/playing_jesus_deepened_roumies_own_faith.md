@@ -13,6 +13,7 @@ He framed the challenge and the growth as the same thing: "But as it challenges 
 
 ## Related Notes
 
+
 - [Why a Family Introduction Deepens a Relationship](why_a_family_introduction_deepens_a_relationship.md): overlapping treatment of deepening a relationship, from a different source document.
 - [Jesse Bradley and The Power of the Second Thought](jesse_bradley_power_of_the_second_thought.md): same sub-plan on faith practice, from a different source document.
 - [Reject and Replace Negative First Thoughts](reject_and_replace_negative_first_thoughts.md): same sub-plan on faith practice, from a different source document.
@@ -21,6 +22,8 @@ He framed the challenge and the growth as the same thing: "But as it challenges 
 - [Building a Daily Prayer Habit](building_a_daily_prayer_habit.md): drawn from the same source document, doc_0570.
 - [The Hallow App's Reported Effect on Users' Faith](hallow_app_reported_effect_on_users_faith.md): drawn from the same source document, doc_0570.
 - [The Hallow Prayer App: Contents and Features](hallow_prayer_app_contents_and_features.md): drawn from the same source document, doc_0570.
+- [Jonathan Roumie and the Hallow Advent Prayer Challenge](jonathan_roumie_hallow_advent_prayer_challenge.md): same source document (doc_0570)
+- [Roumie's Prayer of Surrender and "The Chosen"](roumie_prayer_of_surrender_and_the_chosen.md): same source document (doc_0570)
 
 ## Source
 

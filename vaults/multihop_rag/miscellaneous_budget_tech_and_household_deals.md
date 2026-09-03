@@ -15,6 +15,7 @@ Two more: the COSRX Snail Mucin Essence, viral all over skincare TikTok, was dis
 
 ## Related Notes
 
+
 - [Apple AirPods Pro, Second Generation](apple_airpods_pro_second_generation.md): covers another discounted Amazon listing, from a different source document.
 - [Apple MacBook Air, 15-Inch M2](apple_macbook_air_15_inch_m2.md): covers another discounted Amazon listing, from a different source document.
 - [Google Pixel Tablet](google_pixel_tablet.md): covers another discounted Amazon listing, from a different source document.
@@ -23,6 +24,8 @@ Two more: the COSRX Snail Mucin Essence, viral all over skincare TikTok, was dis
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): drawn from the same source document (doc_0090).
 - [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): drawn from the same source document (doc_0090).
 - [The Verge's Black Friday Deals Under $25](black_friday_deals_under_25_roundup.md): drawn from the same source document (doc_0090).
+- [Bluetooth Item Tracker Deals](bluetooth_item_tracker_deals.md): same source document (doc_0090)
+- [Budget Game And Toy Deals](budget_game_and_toy_deals.md): same source document (doc_0090)
 
 ## Source
 

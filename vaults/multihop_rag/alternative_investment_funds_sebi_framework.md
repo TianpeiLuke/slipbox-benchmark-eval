@@ -11,11 +11,15 @@ The discriminating feature against traditional funds is correlation: AIF returns
 
 ## Related Notes
 
+
 - [IPL 2024 Auction Team Purse Tracker](ipl_2024_auction_team_purse_tracker.md): shares the crore-denominated money framing, from a different source document.
 - [Verdane Stake In Meltwater Via Fountain Venture](verdane_stake_in_meltwater_via_fountain_venture.md): concerns private equity investment of the kind AIFs make, from a different source document.
 - [AIF Sub Fund Strategies Available To HNIs](aif_sub_fund_strategies_available_to_hnis.md): drawn from the same article and details the strategies operated inside this framework.
 - [Case For Alternatives In HNI Portfolios](case_for_alternatives_in_hni_portfolios.md): drawn from the same article and argues why this asset class belongs in HNI portfolios.
 - [Indian High Net Worth Investor Population Growth](indian_high_net_worth_investor_population_growth.md): drawn from the same article and gives the investor base that clears the ₹1 crore threshold.
+- [Market Linked Debentures In India](market_linked_debentures_india.md): same source document (doc_0252)
+- [Portfolio Management Services In India](portfolio_management_services_india.md): same source document (doc_0252)
+- [Initial Public Offering (IPO)](term_initial_public_offering.md): uses the concept initial public offering
 
 ## Source
 

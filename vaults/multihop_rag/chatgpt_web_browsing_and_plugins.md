@@ -13,6 +13,7 @@ OpenAI posted on Twitter/X on September 27, 2023 that "ChatGPT can now browse th
 
 ## Related Notes
 
+
 - [Brave Software Layoffs](brave_software_layoffs.md): substantial content overlap on browsing, search, from a different source document.
 - [ChatGPT Adoption Gap Survey Evidence](chatgpt_adoption_gap_survey_evidence.md): substantial content overlap on chatgpt, chatbot, from a different source document.
 - [ChatGPT Competitive Response Across AI Industry](chatgpt_competitive_response_across_ai_industry.md): substantial content overlap on chatgpt, openai, chatbot, from a different source document.
@@ -21,6 +22,8 @@ OpenAI posted on Twitter/X on September 27, 2023 that "ChatGPT can now browse th
 - [ChatGPT Adoption Milestones and Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): drawn from the same source document, doc_0048.
 - [ChatGPT Competitors and Alternatives](chatgpt_competitors_and_alternatives.md): drawn from the same source document, doc_0048.
 - [ChatGPT Custom Instructions and File Analysis](chatgpt_custom_instructions_and_file_analysis.md): drawn from the same source document, doc_0048.
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
 
 ## Source
 

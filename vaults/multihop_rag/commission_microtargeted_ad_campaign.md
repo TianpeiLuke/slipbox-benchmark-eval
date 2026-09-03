@@ -17,11 +17,21 @@ Asked by the LIBE committee about the discrepancy between that tweet and the exi
 
 ## Related Notes
 
+
 - [Amazon Response To EU iRobot Objections](amazon_response_to_eu_irobot_objections.md): another account of a company or institution answering the European Commission, from a different source document.
 - [Apple iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares the data-privacy and political-lobbying themes, from a different source document.
 - [BEUC Consumer Complaint On Meta Pay Or Consent](beuc_consumer_complaint_meta_pay_or_consent.md): shares the data-privacy and microtargeting themes, from a different source document.
 - [Chris Partridge Firing And Evidence Destruction](chris_partridge_firing_and_evidence_destruction.md): shares the data-privacy and regulatory-investigation themes, from a different source document.
 - [Civic Data Warning To Remove The TikTok Pixel](civic_data_warning_to_remove_tiktok_pixel.md): shares the data-privacy and regulatory-investigation themes, from a different source document.
+- [Johansson's Rebuttals To The Case Against The CSAM Scanning Proposal](csam_proposal_opposition.md): same source document (doc_0457)
+- [The Commission's Defence Of Political Ad Targeting And The Channels MEPs Say It Bypassed](dsa_political_ad_restrictions.md): same source document (doc_0457)
+- [The EU CSAM Scanning Proposal](eu_csam_scanning_proposal.md): same source document (doc_0457)
+- [Fotiadis Testimony And Johansson's Lobbying Contacts At The LIBE Hearing](johansson_parliament_hearing.md): same source document (doc_0457)
+- [Microtargeting](term_microtargeting.md): uses the concept microtargeting
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Embedded Finance](term_embedded_finance.md): uses the concept embedded finance
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
 
 ## Source
 

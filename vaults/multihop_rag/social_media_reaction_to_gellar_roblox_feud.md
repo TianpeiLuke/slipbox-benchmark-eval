@@ -11,6 +11,7 @@ Reactions were not uniformly sympathetic. While one user agreed that "being hack
 
 ## Related Notes
 
+
 - [Gellar And Prinze Strict Household Rules](gellar_and_prinze_strict_household_rules.md): separate coverage of the same family's parenting rules
 - [Instagram Palestine Suppression](instagram_palestine_suppression.md): another article about content posted via Instagram Stories
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): a similarity-index neighbour on a shared data-breach feature
@@ -19,6 +20,11 @@ Reactions were not uniformly sympathetic. While one user agreed that "being hack
 - [Carols Express Both Joy And Sorrow](carols_express_both_joy_and_sorrow.md): another index-level neighbour from a different domain
 - [Chiefs Packers Week 13 Third Quarter Sequence](chiefs_packers_week_13_third_quarter_sequence.md): another shared-feature match from unrelated sports coverage
 - [Epic Rebuttal Of Google's Leaked Email Summary](epic_rebuttal_of_googles_leaked_email_summary.md): another index-level neighbour with no topical connection
+- [Kim Kardashian's Dispute With Roblox Over A Sex Tape Minigame](kim_kardashian_roblox_sex_tape_minigame_dispute.md): same source document (doc_0178)
+- [Roblox As An Online Game Platform](roblox_online_game_platform.md): same source document (doc_0178)
+- [Roblox's Response On Its Parental Safety Tools](roblox_response_on_parental_safety_tools.md): same source document (doc_0178)
+- [Sarah Michelle Gellar's Complaint After Her Son's Roblox Account Was Hacked](sarah_michelle_gellar_roblox_account_hack_complaint.md): same source document (doc_0178)
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

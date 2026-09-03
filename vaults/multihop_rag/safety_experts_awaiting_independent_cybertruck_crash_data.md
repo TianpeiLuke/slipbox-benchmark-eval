@@ -11,6 +11,7 @@ A spokesperson for Consumer Reports said the same thing — "We're going to wait
 
 ## Related Notes
 
+
 - [Cybertruck Availability, Pricing And The EV Tax Credit](cybertruck_availability_pricing_and_ev_tax_credit.md): overlapping coverage of the Cybertruck and SUVs, from a different source document.
 - [Engadget's VPN Testing Methodology](engadget_vpn_testing_methodology.md): also cites Consumer Reports, from a different source document.
 - [Novel Electric Two-Wheeler Concepts 2023](novel_electric_two_wheeler_concepts_2023.md): overlapping coverage of the Cybertruck, from a different source document.
@@ -19,6 +20,8 @@ A spokesperson for Consumer Reports said the same thing — "We're going to wait
 - [Crumple Zones And The Stainless Steel Concern](crumple_zones_and_the_stainless_steel_concern.md): drawn from the same source document (doc_0548).
 - [The Cybertruck's Danger Is A Large-Truck Problem](cybertruck_danger_is_a_large_truck_problem.md): drawn from the same source document (doc_0548).
 - [The Cybertruck May Have An Unseen Shock-Absorbing Mechanism](cybertruck_may_have_an_unseen_shock_absorbing_mechanism.md): drawn from the same source document (doc_0548).
+- [The Cybertruck Pedestrian Safety Backlash](cybertruck_pedestrian_safety_backlash.md): same source document (doc_0548)
+- [The Cybertruck Is Unlikely To Be Sold In Europe](cybertruck_unlikely_to_be_sold_in_europe.md): same source document (doc_0548)
 
 ## Source
 

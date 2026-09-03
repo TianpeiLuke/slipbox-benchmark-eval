@@ -11,6 +11,7 @@ Its scope is limited but broad within that limit: the feature is only available 
 
 ## Related Notes
 
+
 - [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): also concerns Prime Big Deal Days, from a different source document.
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): also concerns Prime Big Deal Days, from a different source document.
 - [Amazon Price Matching And Return Policy](amazon_price_matching_and_return_policy.md): overlapping coverage of Prime and Amazon product policies, from a different source document.
@@ -19,6 +20,8 @@ Its scope is limited but broad within that limit: the feature is only available 
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): drawn from the same source document (doc_0520).
 - [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): drawn from the same source document (doc_0520).
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Anker 2-In-1 MagSafe StandBy Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): same source document (doc_0520)
 
 ## Source
 

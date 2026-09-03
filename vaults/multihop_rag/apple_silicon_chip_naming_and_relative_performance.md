@@ -13,6 +13,7 @@ Apple's own generational comparisons are now made against the M1 rather than Int
 
 ## Related Notes
 
+
 - [Apple M3 Mac Reviews and Chip Lineup](apple_m3_mac_reviews_and_chip_lineup.md): also covers Mac Studio, from a different source document.
 - [Mac Mini M2 Deals](mac_mini_m2_deals.md): also covers Mac Studio, from a different source document.
 - [Samsung Galaxy S23 Series](samsung_galaxy_s23_series.md): substantial content overlap on ultra, chip, main, from a different source document.
@@ -21,6 +22,8 @@ Apple's own generational comparisons are now made against the M1 rather than Int
 - [M3 Max Benchmark Results](m3_max_benchmark_results.md): drawn from the same source document, doc_0526.
 - [M3 Max Gaming Performance on macOS](m3_max_gaming_performance_on_macos.md): drawn from the same source document, doc_0526.
 - [M3 Max MacBook Pro Battery Runtime Test](m3_max_macbook_pro_battery_runtime_test.md): drawn from the same source document, doc_0526.
+- [Verdict On The 16-Inch M3 Max MacBook Pro](macbook_pro_16_inch_m3_max_verdict.md): same source document (doc_0526)
+- [MacBook Pro Design, Ports And The Space Black Finish](macbook_pro_design_ports_and_space_black_finish.md): same source document (doc_0526)
 
 ## Source
 

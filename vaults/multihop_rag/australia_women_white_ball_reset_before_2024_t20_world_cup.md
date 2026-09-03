@@ -13,9 +13,15 @@ She also set the terms on which the question of Australian supremacy should be r
 
 ## Related Notes
 
+
 - [England Camp Verdict On The T20 Series Defeat](england_camp_verdict_on_t20_series_defeat.md): another white-ball series assessment from within a national camp, from a different document.
 - [ODI Cricket World Cup 2011 And India's Hosting](odi_cricket_world_cup_2011_india_hosting.md): another account of World Cup trophies and hosts in the subcontinent, from a different document.
 - [ODI Cricket World Cup Winners List](odi_cricket_world_cup_winners_list.md): the wider record of Australian and Indian World Cup success, from a different document.
+- [Australia Women's Test Defeat To India In Mumbai, December 2023](australia_women_test_defeat_to_india_mumbai_2023.md): same source document (doc_0440)
+- [Healy's Case For A Three-Test Series In India](healy_case_for_three_test_series_in_india.md): same source document (doc_0440)
+- [Healy's Criticism Of A One-Off Test Outside A Multi-Format Series](healy_criticism_of_one_off_test_outside_multi_format_series.md): same source document (doc_0440)
+- [Healy Denies The End Of Australian Women's Cricket Dominance](healy_denies_end_of_australian_womens_cricket_dominance.md): same source document (doc_0440)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

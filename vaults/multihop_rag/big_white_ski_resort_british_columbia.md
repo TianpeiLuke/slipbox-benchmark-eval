@@ -13,6 +13,7 @@ Ski Safari offers February half-term getaways with a stay at the aptly named Cha
 
 ## Related Notes
 
+
 - [Michigan Sign Stealing Scandal Overview](michigan_sign_stealing_scandal_overview.md): incidental overlap on the name Happy Valley, from a different source document
 - [Vail, Colorado Ski Resort](vail_colorado_ski_resort.md): another ski-in/ski-out resort covered in a different guide
 - [Why Canada Belongs On A Skier's Bucket List](canada_ski_holidays_overview.md): the overview that names Big White as the beginner-friendly option
@@ -21,6 +22,7 @@ Ski Safari offers February half-term getaways with a stay at the aptly named Cha
 - [Mont Tremblant, Quebec Ski Resort](mont_tremblant_quebec_ski_resort.md): another Canadian resort from the same guide
 - [Revelstoke Mountain Ski Resort](revelstoke_mountain_ski_resort.md): another Canadian resort from the same guide
 - [Sunshine Village, Banff Ski Resort](sunshine_village_banff_ski_resort.md): another Canadian resort from the same guide
+- [Whistler Blackcomb: North America's Largest Ski Resort](whistler_blackcomb_ski_resort.md): same source document (doc_0572)
 
 ## Source
 

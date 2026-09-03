@@ -11,11 +11,17 @@ Brady's stated interest in Agility is in walking robots and the ability to move 
 
 ## Related Notes
 
+
 - [Amazon's Agility Digit Humanoid Pilot](amazon_agility_digit_humanoid_pilot.md): same source document; the pilot this fund relationship led to.
 - [Amazon's Interest In Bipedal Locomotion](amazon_interest_in_bipedal_locomotion.md): same source document; the specific capability Amazon says it is buying exposure to.
 - [Amazon's Delivering The Future 2023 Event](amazon_delivering_the_future_2023_event.md): same source document; the event at which this was discussed.
 - [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): overlaps in content on Agility and warehouse robots, from a different source document.
 - [Human-Centric Versus Humanoid Robot Design](human_centric_versus_humanoid_robot_design.md): overlaps in content on Agility's design choices, from a different source document.
+- [Generative AI In Amazon's Robotics Simulation](amazon_generative_ai_in_robotics_simulation.md): same source document (doc_0528)
+- [Amazon's Greenfield And Brownfield Retrofit Capability](amazon_greenfield_brownfield_retrofit_capability.md): same source document (doc_0528)
+- [Amazon's Machine Learning And Generative AI Adoption](amazon_machine_learning_and_generative_ai_adoption.md): same source document (doc_0528)
+- [Amazon's Machine Learning Flow And Fleet Management](amazon_machine_learning_fleet_and_flow_management.md): same source document (doc_0528)
+- [Amazon, MIT And Ipsos Robot Perception Study](amazon_mit_ipsos_robot_perception_study.md): same source document (doc_0528)
 
 ## Source
 

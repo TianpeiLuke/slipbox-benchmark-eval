@@ -11,11 +11,19 @@ The three models are $649 for the 1 TB OLED, up from 512 GB at that price; $529 
 
 ## Related Notes
 
+
 - [Handheld PC Gaming Market Growth](handheld_pc_gaming_market_growth.md): situates Steam Deck pricing within its market, from a different source document.
 - [MicroSD Card Recommendations And Deals](microsd_card_recommendations_and_deals.md): storage expansion for the same device, from a different source document.
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): shares the console_hardware, hardware_device topic tags, from a different source document.
 - [Marvels Spider Man 2 Game](marvels_spider_man_2_game.md): also covers Vox Media, from a different source document.
 - [Microsoft Xbox Wireless Controller](microsoft_xbox_wireless_controller.md): also covers Steam Deck, from a different source document.
+- [Should You Upgrade To The Steam Deck OLED?](should_you_upgrade_to_steam_deck_oled.md): same source document (doc_0354)
+- [Steam Deck OLED Battery Life](steam_deck_oled_battery_life.md): same source document (doc_0354)
+- [Steam Deck OLED Hardware Refinements](steam_deck_oled_hardware_refinements.md): same source document (doc_0354)
+- [Steam Deck OLED HDR Display](steam_deck_oled_hdr_display.md): same source document (doc_0354)
+- [Steam Deck OLED Improves Much More Than Its Screen](steam_deck_oled_upgrade_summary.md): same source document (doc_0354)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

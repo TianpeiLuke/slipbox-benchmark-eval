@@ -11,11 +11,17 @@ The surprise survives the setting. Preacher, the comic book by Garth Ennis and S
 
 ## Related Notes
 
+
 - [The Merovingian's Henchmen In The Matrix Reloaded](matrix_reloaded_merovingian_henchmen_as_vampires.md): same source; another supernatural ensemble where the vampires still register as a surprise.
 - [Marceline The Vampire Queen](marceline_the_vampire_queen_adventure_time.md): same source; another vampire introduced into an established weird world.
 - [Morbius In Spider-Man: The Animated Series](morbius_in_spider_man_the_animated_series.md): same source; another comics-derived vampire adaptation.
 - [Astarion, Baldur's Gate 3 Vampire Companion](astarion_baldurs_gate_3_vampire_companion.md): same source; another likeable vampire companion character.
 - [Kaulig Racing No 16 2024 Driver Uncertainty](kaulig_racing_no_16_2024_driver_uncertainty.md): overlaps in content on assumption, dillon, still, from a different source document.
+- [Teenage Mutant Ninja Turtles: Mutant Mayhem](teenage_mutant_ninja_turtles_mutant_mayhem.md): both discuss Seth Rogen; different source document
+- [The Elder Scrolls: Vampires Everywhere](elder_scrolls_playable_vampirism.md): same source document (doc_0453)
+- [Miguel O'Hara, Spider-Man 2099](miguel_ohara_spider_man_2099_vampire.md): same source document (doc_0453)
+- [The Surprise Vampire Trope](surprise_vampire_trope.md): same source document (doc_0453)
+- [The Anchorites In The Bone Clocks](the_anchorites_the_bone_clocks.md): same source document (doc_0453)
 
 ## Source
 

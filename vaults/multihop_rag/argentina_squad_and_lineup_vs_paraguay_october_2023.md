@@ -13,12 +13,17 @@ The absences sharpened a generational shift. Messi was helping usher in a youth 
 
 ## Related Notes
 
+
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): overlapping Argentina lineup detail from a different report.
 - [Argentina First Half Dominance vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): also covers Julian Alvarez and Lionel Scaloni.
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also covers Facundo Farias and Juan Foyth.
 - [Argentina Second Half and Messi Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): also covers Julian Alvarez and Lionel Scaloni.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): also discusses Facundo Farias, in his club role.
 - [Argentina vs Paraguay 2026 World Cup Qualifier Preview](argentina_vs_paraguay_2026_world_cup_qualifier_preview.md): the fixture details for this match, same source document.
+- [Where CONMEBOL 2026 Qualifiers Could And Could Not Be Watched](conmebol_2026_qualifying_broadcast_rights_and_channels.md): same source document (doc_0105)
+- [Messi's Four-Game Injury Absence And His 35-Minute Return](lionel_messi_2023_injury_absence_and_return.md): same source document (doc_0105)
+- [Paraguay's Outlook And Lineup Under New Coach Daniel Garnero](paraguay_national_team_2026_qualifying_squad_and_outlook.md): same source document (doc_0105)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

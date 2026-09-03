@@ -11,11 +11,20 @@ The competitive consequence is the defining feature of the market: the best spor
 
 ## Related Notes
 
+
 - [bet365 Sportsbook Kentucky](bet365_sportsbook_kentucky.md): shares the sports-betting-odds and market-size subject tags for another state, from a different source document.
 - [BetMGM First Bet Bonus Offer December 2023](betmgm_first_bet_bonus_offer_december_2023.md): a welcome offer of the kind this law's market will feature, from a different source document.
 - [BetMGM Sportsbook Kentucky](betmgm_sportsbook_kentucky.md): another state's sportsbook launch and betting sites, from a different source document.
 - [Brock Purdy Lamar Jackson 2023 MVP Race](brock_purdy_lamar_jackson_2023_mvp_race.md): shares the lobbying and sports-betting-odds subject tags, from a different source document.
 - [Caesars Sportsbook First Bet Offer December 2023](caesars_sportsbook_first_bet_offer_december_2023.md): a sportsbook offer of the kind claimed here, from a different source document.
+- [How BetMGM Sportsbook's Up-To-$1,500 First Bet Offer Would Work In Vermont](betmgm_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [BetMGM's Vermont Offer Is The Most Generous "Second Chance" — If You Lose First](betmgm_vermont_welcome_offer_tradeoffs.md): same source document (doc_0072)
+- [How BetRivers Sportsbook's Up-To-$500 Second Chance Offer Works](betrivers_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [How Caesars Sportsbook's Up-To-$1,000 First Bet Offer Would Work In Vermont](caesars_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [How To Claim DraftKings Sportsbook Vermont's Prelive Or Multi-Part Welcome Offer](draftkings_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Total Addressable Market (TAM)](term_total_addressable_market.md): uses the concept total addressable market
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

@@ -11,10 +11,15 @@ The Verge framed the timing on October 28th, 2023 around the calendar: Halloween
 
 ## Related Notes
 
+
 - [Govee Envisual TV Backlight Kit](govee_envisual_tv_backlight_kit.md): another Govee lighting product, from a different source document.
 - [HSF Q4 2023 Catalogue Revenue Drivers](hsf_q4_2023_catalogue_revenue_drivers.md): also mentions Mariah Carey, from a different source document.
 - [Miscellaneous Budget Tech and Household Deals](miscellaneous_budget_tech_and_household_deals.md): overlaps on Govee strip lights for the holidays, from a different source document.
 - [Prime Day 2023 Smart Lighting and Plug Deals](prime_day_2023_smart_lighting_and_plug_deals.md): overlaps on Govee light strip discounts, from a different source document.
+- [Blink Video Doorbell And Outdoor 4 Deal](blink_video_doorbell_and_outdoor_4_deal.md): same source document (doc_0069)
+- [Google Pixel Buds Pro Across The 2023 Sale Season](google_pixel_buds_pro.md): same source document (doc_0069)
+- [Google Pixel Watch First-Gen Deal](google_pixel_watch_first_gen_deal.md): same source document (doc_0069)
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

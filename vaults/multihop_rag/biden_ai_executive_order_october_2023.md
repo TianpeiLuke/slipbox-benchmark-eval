@@ -13,6 +13,7 @@ Its provisions are phased rather than immediate. The actions will be introduced 
 
 ## Related Notes
 
+
 - [The Artificial Intelligence Advancement Act Of 2023](artificial_intelligence_advancement_act_2023.md): the legislative track running alongside this order, from a different source document.
 - [Organized Labor Pushback On AI Deployment](organized_labor_pushback_on_ai_deployment.md): the worker-side demands this order responds to, from a different source document.
 - [The Schatz-Kennedy AI Labeling Act](schatz_kennedy_ai_labeling_act.md): a parallel legislative disclosure proposal, from a different source document.
@@ -20,6 +21,11 @@ Its provisions are phased rather than immediate. The actions will be introduced 
 - [Second Senate AI Insight Forum, October 2023](senate_ai_insight_forum_second_session.md): the congressional forum held days before this order, from a different source document.
 - [AI Civil Rights And Consumer Protections In The EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): drawn from the same source document (doc_0313).
 - [AI Threats To Critical Infrastructure Provisions](ai_threats_to_critical_infrastructure_provisions.md): drawn from the same source document (doc_0313).
+- [Worker Protections And Federal AI Hiring In The Executive Order](ai_worker_protections_and_federal_ai_hiring.md): same source document (doc_0313)
+- [Schumer's Objection: An Executive Order Cannot Replace Legislation](executive_order_limits_versus_ai_legislation.md): same source document (doc_0313)
+- [Federal AI Watermarking And Content Provenance](federal_ai_watermarking_and_content_provenance.md): same source document (doc_0313)
+- [Executive Order](term_executive_order.md): uses the concept executive order
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

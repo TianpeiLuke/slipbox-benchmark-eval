@@ -13,11 +13,18 @@ United led for the majority of the first 45 minutes but failed to build on their
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also discusses Ten Hag, from a different document.
 - [Argentina Squad and Lineup vs Paraguay October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): also discusses Alejandro Garnacho, from a different document.
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Manchester City and Stamford Bridge, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also discusses Manchester City, from a different document.
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): also discusses Manchester City, from a different document.
+- [Erik Ten Hag Under Pressure In December 2023](erik_ten_hag_under_pressure_december_2023.md): same source document (doc_0129)
+- [Manchester United 2-1 Chelsea, December 2023](man_united_2_1_chelsea_december_2023_result.md): same source document (doc_0129)
+- [Team News And Lineups For Manchester United vs Chelsea, December 2023](man_united_chelsea_december_2023_team_news_and_lineups.md): same source document (doc_0129)
+- [First Half Live Updates From Manchester United 2-1 Chelsea](man_united_chelsea_first_half_live_updates.md): same source document (doc_0129)
+- [Pre-Match Build-Up To Manchester United vs Chelsea, December 2023](man_united_chelsea_pre_match_build_up.md): same source document (doc_0129)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

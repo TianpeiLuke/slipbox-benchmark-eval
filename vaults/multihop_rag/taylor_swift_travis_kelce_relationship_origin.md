@@ -11,11 +11,19 @@ She also corrected the widely held assumption about her first appearance at Arro
 
 ## Related Notes
 
+
 - [All You Had To Do Was Stay Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): another article on the same artist's songs, including "All Too Well"
 - [American Pie Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): separate coverage of Swift's records and catalogue
 - [Backlash To Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): later controversy about the same couple and the Eras Tour
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): coverage of the media reaction to this relationship
 - [Bad Blood Taylor Swift Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): a separate article on the song used to identify Swift here
+- [The Rio Postponement And The Death Of An Eras Tour Fan](eras_tour_rio_postponement_and_fan_death.md): same source document (doc_0046)
+- [The Eras Tour's Scale And Taylor Swift's Preparation Regimen](eras_tour_scale_and_swift_preparation_regimen.md): same source document (doc_0046)
+- [Swift And Kelce's Public Appearances Together](swift_and_kelce_public_appearances_together.md): same source document (doc_0295)
+- [Taylor Swift's Stated Approach To Public Scrutiny](taylor_swift_approach_to_public_scrutiny.md): same source document (doc_0046)
+- [Taylor Swift's Attendance At Kansas City Chiefs Games](taylor_swift_attendance_at_kansas_city_chiefs_games.md): same source document (doc_0046)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

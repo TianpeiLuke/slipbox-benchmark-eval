@@ -11,10 +11,18 @@ Meta has also been designated as a so-called gatekeeper under the DSA's sister r
 
 ## Related Notes
 
+
 - [Irish DPC's Assessment Of Meta's Consent Model](irish_dpc_assessment_of_meta_consent_model.md): same source document; the GDPR arm of this oversight.
 - [Digital Services Act](digital_services_act.md): also concerns the Digital Services Act, from a different source document.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also concerns the Digital Services Act and the European Commission, from a different source document.
 - [Amazon's Response To EU iRobot Objections](amazon_response_to_eu_irobot_objections.md): also concerns European Commission enforcement, from a different source document.
+- [BEUC: The Choice And Its Implementation Cannot Be Separated](beuc_position_choice_versus_implementation.md): content overlap 0.13 on meta, gdpr, data; different source document
+- [How CPC Network Consumer Protection Enforcement Works](cpc_network_consumer_protection_enforcement.md): both discuss European Commission; different source document
+- [The CJEU "Appropriate Fee" Ruling](cjeu_appropriate_fee_ruling.md): same source document (doc_0608)
+- [Meta's Ad-Free Subscription Pricing In The EU](meta_ad_free_subscription_eu_pricing.md): same source document (doc_0608)
+- [Meta's Justification For The Subscription Choice](meta_justification_for_subscription_choice.md): same source document (doc_0608)
+- [Meta's Legal Basis For Ad Tracking In The EU](meta_legal_basis_for_ad_tracking_in_eu.md): same source document (doc_0608)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

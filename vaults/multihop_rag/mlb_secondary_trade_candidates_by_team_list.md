@@ -11,6 +11,7 @@ The list ran: A's — Seth Brown; Braves — Vaughn Grissom; Brewers — Adrian 
 
 ## Related Notes
 
+
 - [MLB 2023 Offseason Starting Pitcher Trade Market](mlb_2023_offseason_starting_pitcher_trade_market.md): also concerns the Red Sox and the pitching market, from a different document.
 - [MLB 2023 Postseason Results Bracket](mlb_2023_postseason_results_bracket.md): overlaps on the Marlins, Brewers and Phillies, from a different document.
 - [Moneyline Odds Examples By Sport](moneyline_odds_examples_by_sport.md): also mentions the Red Sox, from a different document.
@@ -19,6 +20,8 @@ The list ran: A's — Seth Brown; Braves — Vaughn Grissom; Brewers — Adrian 
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): a ranked candidate from the same list, from the same document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): a ranked candidate from the same list, from the same document.
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): a ranked candidate from the same list, from the same document.
+- [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
 
 ## Source
 

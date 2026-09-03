@@ -11,12 +11,18 @@ On the Tuesday, Football Australia CEO James Johnson, who had held firm on Arnol
 
 ## Related Notes
 
+
 - [Galatasaray Istanbul Hostile Atmosphere 1993](galatasaray_istanbul_hostile_atmosphere_1993.md): part of the same grouping, from a different document.
 - [Garnacho And Mainoo United Teenagers Vs Everton](garnacho_and_mainoo_united_teenagers_vs_everton.md): part of the same grouping, from a different document.
 - [Istanbul 1993 Defeat As Formative Experience](istanbul_1993_defeat_as_formative_experience.md): part of the same grouping, from a different document.
 - [Manchester United 1993 Galatasaray Istanbul Exit](manchester_united_1993_galatasaray_istanbul_exit.md): part of the same grouping, from a different document.
 - [Manchester United 2023 Galatasaray Group Decider](manchester_united_2023_galatasaray_group_decider.md): part of the same grouping, from a different document.
 - [AFC 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): the campaign this record was set in, from the same document.
+- [Andrew Redmayne Substitution In Peru Playoff](andrew_redmayne_substitution_in_peru_playoff.md): same source document (doc_0172)
+- [Graham Arnold 2022 World Cup Qualification Crisis](graham_arnold_2022_world_cup_qualification_crisis.md): same source document (doc_0172)
+- [Graham Arnold Reflections On Coaching Development](graham_arnold_reflections_on_coaching_development.md): same source document (doc_0172)
+- [James Johnson Tribute To Graham Arnold](james_johnson_tribute_to_graham_arnold.md): same source document (doc_0172)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

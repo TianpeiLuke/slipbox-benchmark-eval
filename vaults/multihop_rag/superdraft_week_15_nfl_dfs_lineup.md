@@ -11,6 +11,7 @@ The stated construction logic was that the lineup aimed to keep the Rams stack t
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also discusses Deebo Samuel, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Puka Nacua, from a different document.
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also discusses Rachaad White, from a different document.
@@ -19,6 +20,7 @@ The stated construction logic was that the lineup aimed to keep the Rams stack t
 - [FanDuel NFL DFS Contest Format and Scoring](fanduel_nfl_dfs_contest_format_and_scoring.md): the salary-cap format this multiplier lineup contrasts with, from the same document.
 - [FanDuel Week 15 DFS QB and RB Picks](fanduel_week_15_dfs_qb_and_rb_picks.md): the salary-cap picks that overlap with this lineup, from the same document.
 - [FanDuel Week 15 DFS WR, TE, Flex and Defense Picks](fanduel_week_15_dfs_wr_te_flex_and_defense_picks.md): the rest of the salary-cap lineup, from the same document.
+- [SuperDraft's Multiplier-Based DFS Scoring Format](superdraft_dfs_multiplier_scoring_format.md): same source document (doc_0056)
 
 ## Source
 

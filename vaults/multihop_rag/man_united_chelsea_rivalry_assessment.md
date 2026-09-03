@@ -13,11 +13,16 @@ Both teams have won the Premier League since then, leaving United on a record 20
 
 ## Related Notes
 
+
 - [Arsenal 2-1 Win at Sevilla, Group B](arsenal_2_1_win_at_sevilla_group_b.md): also concerns the Europa League, from a different document.
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Manchester City, from a different document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns the Champions League and Old Trafford, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns the Champions League and Manchester City, from a different document.
 - [Carabao Cup 2023-24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): also mentions Old Trafford, from a different document.
+- [Manchester United vs Chelsea: The All-Time Head-To-Head Record](man_united_chelsea_all_time_head_to_head_record.md): same source document (doc_0204)
+- [Preview Of Chelsea's December 2023 Visit To Old Trafford](man_united_chelsea_december_2023_fixture_preview.md): same source document (doc_0204)
+- [Recent Premier League Meetings Between Manchester United And Chelsea](man_united_chelsea_recent_premier_league_meetings.md): same source document (doc_0204)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

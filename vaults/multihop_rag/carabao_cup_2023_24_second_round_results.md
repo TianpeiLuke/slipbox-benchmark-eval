@@ -13,11 +13,19 @@ The results on Tuesday, Aug. 29 were: Swansea (Ch) 2-3 Bournemouth (PL); Stoke C
 
 ## Related Notes
 
+
 - [Bournemouth Comeback Win at Nottingham Forest, Solanke Hat-Trick](bournemouth_comeback_win_at_nottingham_forest_solanke_hat_trick.md): also concerns Nottingham Forest, from a different document.
 - [Carabao Cup 2023 Quarter Final Draw](carabao_cup_2023_quarter_final_draw.md): also mentions Port Vale, from a different document.
 - [Champions League 2023-24 Group Stage Overview](champions_league_2023_24_group_stage_overview.md): also mentions Nottingham Forest, from a different document.
 - [Dead Boy Detectives Netflix Series](dead_boy_detectives_netflix_series.md): shares surface overlap on Crystal Palace, from a different document.
 - [Erling Haaland Manchester City 2023 Goal Tally](erling_haaland_manchester_city_2023_goal_tally.md): also mentions Sheffield United, from a different document.
+- [Carabao Cup 2023/24 First Round Format And Results](carabao_cup_2023_24_first_round_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): same source document (doc_0100)
+- [What The Carabao Cup Is And What Winning It Is Worth In 2023/24](carabao_cup_2023_24_overview_and_stakes.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Semifinal Draw And Fixtures](carabao_cup_2023_24_semifinal_draw_and_fixtures.md): same source document (doc_0100)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

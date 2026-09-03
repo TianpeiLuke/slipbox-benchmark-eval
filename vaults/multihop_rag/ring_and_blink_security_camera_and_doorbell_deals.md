@@ -11,11 +11,19 @@ The Ring Floodlight Cam Wired Pro delivers high-quality video with adjustable, a
 
 ## Related Notes
 
+
 - [Blink Mini Security Camera Two Pack](blink_mini_security_camera_two_pack.md): also covers Blink Mini, from a different source document.
 - [Blink Video Doorbell and Outdoor 4 Deal](blink_video_doorbell_and_outdoor_4_deal.md): also covers Blink Mini, Blink Outdoor, from a different source document.
 - [Google Pixel Tablet](google_pixel_tablet.md): shares the battery technology and smart home device theme, from a different source document.
 - [Meta AI Assistant Limits on Smart Glasses](meta_ai_assistant_limits_on_smart_glasses.md): shares the battery technology and smart home device theme, from a different source document.
 - [October 2023 Prime Big Deal Days Smart Home Overview](october_2023_prime_big_deal_days_smart_home_overview.md): also covers Ring Floodlight Cam Wired, from a different source document.
+- [Anti-Prime Big Deal Day Competing Sales](anti_prime_big_deal_day_competing_sales.md): same source document (doc_0584)
+- [Echo Show 5 And Nest Hub Smart Display Deals](echo_show_5_and_nest_hub_smart_display_deals.md): same source document (doc_0584)
+- [InZone H9 And Seagate Xbox Expansion Card Deals](inzone_h9_and_seagate_xbox_expansion_card_deals.md): same source document (doc_0584)
+- [iPad And Kindle Oasis Deals During Prime Big Deal Day](ipad_and_kindle_oasis_deals_prime_day.md): same source document (doc_0584)
+- [Samsung Frame TV And Roku Streambar Deals](samsung_frame_tv_and_roku_streambar_deals.md): same source document (doc_0584)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

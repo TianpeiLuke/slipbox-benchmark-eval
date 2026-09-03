@@ -11,11 +11,19 @@ The grounds are the two upgrades the review treats as more than cosmetic: the di
 
 ## Related Notes
 
+
 - [Handheld PC Gaming Market Growth](handheld_pc_gaming_market_growth.md): covers the same device category, from a different source document.
 - [Kids Toy and Playset Gifts 2023](kids_toy_and_playset_gifts_2023.md): shares the battery_technology, console_hardware topic tags, from a different source document.
 - [Microsd Card Recommendations and Deals](microsd_card_recommendations_and_deals.md): also covers Steam Deck, from a different source document.
 - [Microsoft Xbox Wireless Controller](microsoft_xbox_wireless_controller.md): also covers Steam Deck, from a different source document.
 - [Nintendo Switch Pro Controller](nintendo_switch_pro_controller.md): shares the battery_technology, console_hardware topic tags, from a different source document.
+- [Steam Deck OLED Battery Life](steam_deck_oled_battery_life.md): same source document (doc_0354)
+- [Steam Deck OLED Hardware Refinements](steam_deck_oled_hardware_refinements.md): same source document (doc_0354)
+- [Steam Deck OLED HDR Display](steam_deck_oled_hdr_display.md): same source document (doc_0354)
+- [Steam Deck OLED Models And Pricing](steam_deck_oled_models_and_pricing.md): same source document (doc_0354)
+- [Steam Deck OLED Improves Much More Than Its Screen](steam_deck_oled_upgrade_summary.md): same source document (doc_0354)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

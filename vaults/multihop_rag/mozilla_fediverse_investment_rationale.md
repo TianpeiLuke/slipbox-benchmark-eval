@@ -13,11 +13,18 @@ For Mozilla, that discontent presented an opportunity to enter the social networ
 
 ## Related Notes
 
+
 - [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): overlaps on Mastodon, Mammoth and the fediverse app landscape, from a different document.
 - [Decentralization As A Free Market, Not An Anti-Capitalist Project](decentralization_as_a_free_market_not_an_anti_capitalist_project.md): another argument for why decentralized networking is worth backing, from a different document.
 - [Fediverse Definition And The Email Analogy](fediverse_definition_and_the_email_analogy.md): explains the fediverse Mozilla is investing in, from a different document.
 - [Flipboard's Path To The Fediverse](flipboard_path_to_the_fediverse.md): another company's fediverse bet, from a different document.
 - [Flipboard Social Magazine Platform](flipboard_social_magazine_platform.md): overlaps on Mastodon and social platforms, from a different document.
+- [The Fediverse And The ActivityPub Protocol](fediverse_activitypub_protocol.md): same source document (doc_0026)
+- [Fediverse Onboarding Barriers And Mozilla's Proposed Fixes](fediverse_onboarding_barriers_and_mozilla_fixes.md): same source document (doc_0026)
+- [Mozilla.social's Content Discovery Experiments](mozilla_social_content_discovery_experiments.md): same source document (doc_0026)
+- [Mozilla.social: The Private Beta Mastodon Instance](mozilla_social_mastodon_instance_beta.md): same source document (doc_0026)
+- [Mozilla.social's Publisher And Creator Outreach](mozilla_social_publisher_and_creator_outreach.md): same source document (doc_0026)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

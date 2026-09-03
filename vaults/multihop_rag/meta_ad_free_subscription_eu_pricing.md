@@ -11,10 +11,18 @@ The fee Meta plans to charge users to escape its tracking and targeting is €9.
 
 ## Related Notes
 
+
 - [The CJEU "Appropriate Fee" Ruling](cjeu_appropriate_fee_ruling.md): same source document; the legal test this price must satisfy.
 - [BEUC's Consumer Law Objections To Meta's Model](beuc_consumer_law_objections_to_meta_model.md): overlaps in content on Meta's ad-free offer for Facebook, from a different source document.
 - [BEUC Consumer Complaint Over Meta's Pay-Or-Consent](beuc_consumer_complaint_meta_pay_or_consent.md): also concerns this offer in the European Union, from a different source document.
 - [COPPA Allegations Against Meta](coppa_allegations_against_meta.md): overlaps in content on Meta, Facebook and Instagram, from a different source document.
+- [Apple's USB-C Accessory Transition](apple_usb_c_accessory_transition.md): both discuss European Union; different source document
+- [The CJEU's 2020 Ruling On The Rental/Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): both discuss European Union; different source document
+- [DSA And DMA Oversight Of Meta's Ad Tracking](dsa_dma_oversight_of_meta_ad_tracking.md): same source document (doc_0608)
+- [Irish DPC's Assessment Of Meta's Consent Model](irish_dpc_assessment_of_meta_consent_model.md): same source document (doc_0608)
+- [Meta's Justification For The Subscription Choice](meta_justification_for_subscription_choice.md): same source document (doc_0608)
+- [Meta's Legal Basis For Ad Tracking In The EU](meta_legal_basis_for_ad_tracking_in_eu.md): same source document (doc_0608)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

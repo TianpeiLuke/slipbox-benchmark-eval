@@ -13,10 +13,17 @@ The verdict concedes a limit on the claim before stating it. It's obvious to exp
 
 ## Related Notes
 
+
 - [Marvel's Spider-Man 2 Game](marvels_spider_man_2_game.md): covers the same game's missions and quests, from a different document.
 - [Digital Services Act](digital_services_act.md): also concerns user-generated content and its regulation, from a different document.
 - [FTX's Final Days And The Alameda Shortfall](ftx_final_days_and_alameda_shortfall.md): shares a penalty-and-trial tagging theme rather than subject matter, from a different document.
 - [Marc-Antoine Julliard's FTX Customer Testimony](marc_antoine_julliard_ftx_customer_testimony.md): shares a penalty-and-trial tagging theme rather than subject matter, from a different document.
+- [Penalties Sought in the Letitia James Civil Fraud Lawsuit](penalties_sought_in_the_letitia_james_civil_fraud_lawsuit.md): shares criminal_trial, fine_penalty; different source document
+- [Mary Jane's Gameplay Changes Between 2018 And Spider-Man 2](mary_jane_gameplay_changes_2018_versus_spider_man_2.md): same source document (doc_0082)
+- [Mary Jane's Missions In Spider-Man 2 As An Improvement On Their Reception](mary_jane_missions_spider_man_2_reception_improvement.md): same source document (doc_0082)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

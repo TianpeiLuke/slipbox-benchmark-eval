@@ -11,11 +11,17 @@ Oh identifies what safety was supposed to deliver and did not: "Twitter is you h
 
 ## Related Notes
 
+
 - [Pebble's Moderation-First Market Hypothesis](pebble_moderation_first_market_hypothesis.md): same source document; the premise this objection attacks.
 - [Pebble's Moderation Approach Defense](pebble_moderation_approach_defense.md): same source document; the claim this qualifies without withdrawing.
 - [Pebble's Multifactor Shutdown Explanation](pebble_shutdown_multifactor_explanation.md): same source document; safety-as-blandness listed among the causes.
 - [Pebble's Shutdown And Wind-Down](pebble_t2_shutdown_and_winddown.md): same source document; the outcome prompting the reassessment.
 - [Founder Lessons From Pebble](founder_lessons_from_pebble.md): same source document; what the founders take forward from it.
+- [Pebble/T2's Shutdown As A Warning To Moderation-First Products](pebble_t2_moderation_first_twitter_clone_shutdown.md): content overlap 0.12 on pebble, safer, founders; different source document
+- [Pebble's Missing Native Mobile App](pebble_missing_native_mobile_app.md): same source document (doc_0593)
+- [Pebble's Traction Metrics And Angel Funding](pebble_traction_metrics_and_angel_funding.md): same source document (doc_0593)
+- [The T2 To Pebble Rebrand Misstep](t2_to_pebble_rebrand_misstep.md): same source document (doc_0593)
+- [The Twitter-Alternative Market](twitter_alternative_market_competition.md): same source document (doc_0593)
 
 ## Source
 

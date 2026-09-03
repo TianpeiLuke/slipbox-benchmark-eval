@@ -15,11 +15,19 @@ One limit: the Roam only supports voice commands when connected to Wi-Fi, so whi
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery and audio-hardware theme, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): covers competing Alexa-enabled speakers, from a different source document.
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): shares the home Wi-Fi networking theme, from a different source document.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the Wi-Fi and Alexa device theme, from a different source document.
 - [Apple AirPods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): shares the battery and audio-hardware theme, from a different source document.
+- [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): same source document (doc_0575)
+- [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): same source document (doc_0575)
+- [Atumtek Bluetooth Selfie Tripod](atumtek_bluetooth_selfie_tripod.md): same source document (doc_0575)
+- [Baboon To The Moon Fanny Pack](baboon_to_the_moon_fanny_pack.md): same source document (doc_0575)
+- [The Bedside Charging Station Habit](bedside_charging_station_habit.md): same source document (doc_0575)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

@@ -11,6 +11,7 @@ He continued to develop physically and improved his forward craft as the season 
 
 ## Related Notes
 
+
 - [Angus Hastie AFL Draft Prospect 2023](angus_hastie_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Archie Roberts AFL Draft Prospect 2023](archie_roberts_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Ari Schoenmaker AFL Draft Prospect 2023](ari_schoenmaker_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
@@ -19,6 +20,8 @@ He continued to develop physically and improved his forward craft as the season 
 - [Caleb Windsor AFL Draft Prospect 2023](caleb_windsor_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Charlie Edwards AFL Draft Prospect 2023](charlie_edwards_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Clay Hall AFL Draft Prospect 2023](clay_hall_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
+- [Colby McKercher AFL Draft Prospect 2023](colby_mckercher_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Connor O'Sullivan AFL Draft Prospect 2023](connor_osullivan_afl_draft_prospect_2023.md): same source document (doc_0244)
 
 ## Source
 

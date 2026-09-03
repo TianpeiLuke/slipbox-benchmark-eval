@@ -11,6 +11,7 @@ Gold miners Evolution, down 3.4 per cent, and Northern Star, down 2.6 per cent, 
 
 ## Related Notes
 
+
 - [ASX And Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): covers the same index and miners the previous week, from a different source document.
 - [ASX November 2023 Session And RBA Rate Expectations](asx_november_2023_session_and_rba_rate_expectations.md): another session readout of the same large-cap names later in the year, from a different source document.
 - [ASX October 2023 Laggards](asx_october_2023_laggards.md): also covers Northern Star among the month's laggards, from a different source document.
@@ -19,6 +20,8 @@ Gold miners Evolution, down 3.4 per cent, and Northern Star, down 2.6 per cent, 
 - [ASX And Wall Street Selloff October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): drawn from the same report and explains what drove the session.
 - [Atlassian Loom Acquisition 2023](atlassian_loom_acquisition_2023.md): drawn from the same report and covers the day's corporate news.
 - [Crude Oil Prices And Gaza Supply Risk October 2023](crude_oil_prices_and_gaza_supply_risk_october_2023.md): drawn from the same report and covers the commodity backdrop to the session.
+- [US Q3 Earnings Season And Corporate Movers, October 2023](us_q3_earnings_season_and_corporate_movers_october_2023.md): same source document (doc_0074)
+- [US Treasury Yields And Fed Rate Expectations In October 2023](us_treasury_yields_and_fed_rate_expectations_october_2023.md): same source document (doc_0074)
 
 ## Source
 

@@ -13,11 +13,18 @@ Mayo Clinic has also developed AI models that predict the prognosis of patients 
 
 ## Related Notes
 
+
 - [E-E-A-T and the Shift to Institutional Authority](eeat_and_the_shift_to_institutional_authority.md): also concerns Mayo Clinic, from a different source document.
 - [Gastroparesis Pancreatitis Bowel Obstruction and Ileus](gastroparesis_pancreatitis_bowel_obstruction_and_ileus.md): also concerns Mayo Clinic, from a different source document.
 - [Mediterranean Lifestyle UK Biobank Mortality Study](mediterranean_lifestyle_uk_biobank_mortality_study.md): also concerns Mayo Clinic, from a different source document.
 - [Robin Williams Lewy Body Dementia and 2014 Death](robin_williams_lewy_body_dementia_and_2014_death.md): also concerns Mayo Clinic, from a different source document.
 - [AI as Clinician Ally not Replacement](ai_as_clinician_ally_not_replacement.md): drawn from the same source document (doc_0163).
+- [Dr. Bhavik Patel Appointed Chief AI Officer For Mayo Clinic Arizona](bhavik_patel_appointed_mayo_clinic_arizona_chief_ai_officer.md): same source document (doc_0163)
+- [Bhavik Patel's Day-To-Day Duties As Chief AI Officer](bhavik_patel_day_to_day_chief_ai_officer_duties.md): same source document (doc_0163)
+- [The Clinical Benefits Of AI In Health Care](clinical_benefits_of_ai_in_health_care.md): same source document (doc_0163)
+- [Core Functions Of A Health Care Chief AI Officer](core_functions_of_a_health_care_chief_ai_officer.md): same source document (doc_0163)
+- [Risks And Limitations Of Clinical AI](risks_and_limitations_of_clinical_ai.md): same source document (doc_0163)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

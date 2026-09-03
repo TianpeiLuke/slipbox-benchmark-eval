@@ -11,6 +11,7 @@ Its defining features are giant balloons of cartoon characters that float above 
 
 ## Related Notes
 
+
 - [Lions Thanksgiving Halftime Show: Jack Harlow](lions_thanksgiving_halftime_show_jack_harlow.md): overlapping coverage of Thanksgiving performances, from a different source document.
 - [Spider-Man Macy's Thanksgiving Parade Balloon](spider_man_macys_thanksgiving_parade_balloon.md): closely overlapping coverage of the parade's balloons, from a different source document.
 - [Friendsgiving Alternative Activity Ideas](friendsgiving_alternative_activity_ideas.md): same sub-plan on Thanksgiving 2023, from a different source document.
@@ -19,6 +20,8 @@ Its defining features are giant balloons of cartoon characters that float above 
 - [Thanksgiving: The American Holiday](thanksgiving_american_holiday_overview.md): drawn from the same source document, doc_0280.
 - [Criticism of Thanksgiving as a Celebration of Conquest](thanksgiving_criticism_native_american_conquest.md): drawn from the same source document, doc_0280.
 - [Thanksgiving Observance Outside the United States](thanksgiving_observance_outside_the_united_states.md): drawn from the same source document, doc_0280.
+- [Thanksgiving's Origins and Lincoln's Proclamation](thanksgiving_origins_and_lincoln_proclamation.md): same source document (doc_0280)
+- [Thanksgiving Traditional Foods and the Turkey](thanksgiving_traditional_foods_and_turkey.md): same source document (doc_0280)
 
 ## Source
 

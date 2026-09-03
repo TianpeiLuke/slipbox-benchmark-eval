@@ -11,10 +11,18 @@ Its distinguishing feature is breadth of venue support: the platform aims to pro
 
 ## Related Notes
 
+
 - [Alliance DAO Accelerator Program](alliance_dao_accelerator_program.md): same source document; the accelerator whose demo day Thunder presented at.
 - [Alliance DAO All11 Cohort Selectivity](alliance_dao_all11_cohort_selectivity.md): same source document; the batch Thunder was part of.
 - [Alliance DAO All11 Mentor Roster](alliance_dao_all11_mentor_roster.md): same source document; the advisers attached to the cohort.
 - [Blockcast Decentralized Broadcast Network](blockcast_decentralized_broadcast_network.md): same source document; a fellow seed-stage cohort company.
+- [Building Web3 Startups In Bear-Market Conditions](crypto_bear_market_startup_conditions.md): same source document (doc_0465)
+- [Inco, Encrypted Ethereum Virtual Machine](inco_encrypted_evm_fhe_network.md): same source document (doc_0465)
+- [Kravata, LatAm Fiat-Crypto On-Ramp](kravata_latam_fiat_crypto_onramp.md): same source document (doc_0465)
+- [Sleepagotchi, NFT-Powered Sleep Game](sleepagotchi_nft_sleep_game.md): same source document (doc_0465)
+- [Tailwind, Cosmos-Based Smart Wallet](tailwind_cosmos_smart_wallet.md): same source document (doc_0465)
+- [Tazz, Debt Market For Protocols](tazz_protocol_debt_market.md): same source document (doc_0465)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

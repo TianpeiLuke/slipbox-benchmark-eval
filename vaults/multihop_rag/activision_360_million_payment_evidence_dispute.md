@@ -13,6 +13,7 @@ The narrative advantage may nonetheless survive the evidentiary weakness. The ov
 
 ## Related Notes
 
+
 - [Activision, Riot And Supercell's Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): concerns the same abandoned Activision store plan, from a different source document.
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): also concerns Play Store competition, from a different source document.
 - [The Market Definition Fight In Epic v. Google](android_app_distribution_market_definition.md): supplies the iPhone-competition framing Google leans on, from a different source document.
@@ -21,6 +22,8 @@ The narrative advantage may nonetheless survive the evidentiary weakness. The ov
 - [Epic's Antitrust Claims Against Google Play](epic_antitrust_claims_against_google_play.md): drawn from the same source document (doc_0299).
 - [Project Liberty: Epic's Deliberate Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): drawn from the same source document (doc_0299).
 - [Epic's Opening Statement: Bribes And Blocks](epic_opening_statement_bribes_and_blocks.md): drawn from the same source document (doc_0299).
+- [Simple Versus Complicated: Assessing The Opening Arguments](epic_v_google_opening_arguments_assessment.md): same source document (doc_0299)
+- [Google's Auto-Deleted Chats And The Sanctions Ruling](google_chat_auto_deletion_and_sanctions.md): same source document (doc_0299)
 
 ## Source
 

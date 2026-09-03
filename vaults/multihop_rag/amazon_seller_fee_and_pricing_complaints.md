@@ -11,6 +11,7 @@ Molson Hart, whose company Viahart sells toys on Amazon, has been a longtime cri
 
 ## Related Notes
 
+
 - [Discogs 2023 Seller Fee Increase](discogs_2023_seller_fee_increase.md): shares vocabulary around seller, fees and sellers, from a different source document.
 - [Discogs Stated Justification for Fee Increase](discogs_stated_justification_for_fee_increase.md): shares vocabulary around seller, fees and sales, from a different source document.
 - [Discogs Versus eBay and Amazon for Sellers](discogs_versus_ebay_and_amazon_for_sellers.md): a comparison of seller fees across marketplaces, from a different source document.
@@ -19,6 +20,7 @@ Molson Hart, whose company Viahart sells toys on Amazon, has been a longtime cri
 - [Amazon Buy Box Price Parity Enforcement](amazon_buy_box_price_parity_enforcement.md): the enforcement mechanism such an off-Amazon price triggers (doc_0002).
 - [Amazon Seller Skepticism of the FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): another note drawn from the same source document (doc_0002).
 - [Amazon Seller Support for the FTC Case](amazon_seller_support_for_the_ftc_case.md): the broader seller reaction to the suit (doc_0002).
+- [The FTC's Antitrust Lawsuit Against Amazon](ftc_antitrust_lawsuit_against_amazon.md): same source document (doc_0002)
 
 ## Source
 

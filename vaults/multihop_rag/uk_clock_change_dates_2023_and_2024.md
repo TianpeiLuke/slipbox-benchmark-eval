@@ -11,6 +11,7 @@ The clocks were not due to go forward again until Sunday 31 March 2024.
 
 ## Related Notes
 
+
 - [The Anchorites The Bone Clocks](the_anchorites_the_bone_clocks.md): a similarity-index neighbour matching on the word "clocks," topically unrelated
 - [Week 10 Fantasy Pass Catcher Injury Overview](week_10_fantasy_pass_catcher_injury_overview.md): another index-level match on shared scheduling vocabulary
 - [Autumn Clock Change And Depressive Episodes](autumn_clock_change_and_depressive_episodes.md): a health effect attributed to this transition, same article
@@ -19,6 +20,7 @@ The clocks were not due to go forward again until Sunday 31 March 2024.
 - [Clock Change Circadian Disruption And Immunity](clock_change_circadian_disruption_and_immunity.md): the sleep effects of these dates, same article
 - [Clocks Going Back And The Drop In Heart Attacks](clocks_going_back_and_the_drop_in_heart_attacks.md): the counter-evidence in favour of the autumn change
 - [Scrapping Winter DST To Cut Energy Bills](scrapping_winter_dst_to_cut_energy_bills.md): the energy argument for abandoning the October change
+- [Sleep School's Impartial Position On The Clock Change's Impact](sleep_school_impartial_on_clock_change_impact.md): same source document (doc_0339)
 
 ## Source
 

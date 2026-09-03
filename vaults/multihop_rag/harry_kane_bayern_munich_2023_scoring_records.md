@@ -13,12 +13,18 @@ Earlier in the season, in Bayern's 2-2 draw at RB Leipzig, Bayern earned a 57th-
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also discusses Bayern Munich and the Champions League, from a different source document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also discusses Man United, from a different source document.
 - [Champions League 2023-24 Group A: Bayern and Copenhagen](champions_league_2023_24_group_a_bayern_copenhagen.md): also discusses Bayern Munich, from a different source document.
 - [Champions League 2023-24 Group F: Dortmund and PSG](champions_league_2023_24_group_f_dortmund_psg.md): also discusses Borussia Dortmund, from a different source document.
 - [Champions League 2023-24 Group Stage Overview](champions_league_2023_24_group_stage_overview.md): also discusses Bayern Munich and the Champions League, from a different source document.
 - [AC Milan 2-0 Win Over Lazio and the Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): same Guardian European roundup that recorded Kane's eighth league goal.
+- [Bayern Munich's 2-2 Comeback Draw At RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): same source document (doc_0352)
+- [The 2023 Calendar-Year Top Goalscorer Race](calendar_year_2023_top_goalscorer_race.md): same source document (doc_0277)
+- [Cristiano Ronaldo's Al Nassr Move And 53-Goal 2023](cristiano_ronaldo_al_nassr_move_and_2023_goal_tally.md): same source document (doc_0277)
+- [Erling Haaland's 50-Goal 2023 At Manchester City](erling_haaland_manchester_city_2023_goal_tally.md): same source document (doc_0277)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

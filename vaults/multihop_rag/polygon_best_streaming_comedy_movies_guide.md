@@ -11,11 +11,19 @@ The warrant joining the complaint to the recommendation is that the good comedie
 
 ## Related Notes
 
+
 - [Apple 2023 Top iPad Apps And Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): another article referencing Prime Video among major platforms
 - [Bears Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): unrelated coverage that also involves Prime Video as a carrier
 - [Broadcast Rights Limits On Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): another article about streaming-platform rights
 - [Creed III Michael B Jordan](creed_iii_michael_b_jordan.md): a separate film recommendation that also lists Prime Video availability
 - [Detour 1945 Edgar G Ulmer](detour_1945_edgar_g_ulmer.md): another Polygon-style catalogue entry with Prime Video availability
+- [Book Club (2018): The Raunchy Late-Life Romantic Comedy](book_club_2018_romantic_comedy.md): same source document (doc_0597)
+- [Catherine Called Birdy (2022): Lena Dunham's Coming-Of-Age Comedy](catherine_called_birdy_2022_lena_dunham_comedy.md): same source document (doc_0597)
+- [Charade (1963): Stanley Donen's Comedy Thriller](charade_1963_donen_comedy_thriller.md): same source document (doc_0597)
+- [Clueless (1995): The Teen-Comedy Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): same source document (doc_0597)
+- [Coming To America (1988): Eddie Murphy's Romantic Comedy](coming_to_america_1988_eddie_murphy_comedy.md): same source document (doc_0597)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

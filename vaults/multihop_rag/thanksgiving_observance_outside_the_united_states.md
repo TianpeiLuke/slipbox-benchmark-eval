@@ -11,6 +11,7 @@ The distinguishing feature between these observances is therefore the date rathe
 
 ## Related Notes
 
+
 - [Bears-Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): overlapping references to Canada and November dates, from a different source document.
 - [Best Buy Price Match Guarantee](best_buy_price_match_guarantee.md): also concerns Thanksgiving Day, from a different source document.
 - [Dell Price Match Policy](dell_price_match_policy.md): also concerns Thanksgiving Day, from a different source document.
@@ -19,6 +20,8 @@ The distinguishing feature between these observances is therefore the date rathe
 - [Macy's Thanksgiving Day Parade](macys_thanksgiving_day_parade.md): drawn from the same source document, doc_0280.
 - [Thanksgiving: The American Holiday](thanksgiving_american_holiday_overview.md): drawn from the same source document, doc_0280.
 - [Criticism of Thanksgiving as a Celebration of Conquest](thanksgiving_criticism_native_american_conquest.md): drawn from the same source document, doc_0280.
+- [Thanksgiving's Origins and Lincoln's Proclamation](thanksgiving_origins_and_lincoln_proclamation.md): same source document (doc_0280)
+- [Thanksgiving Traditional Foods and the Turkey](thanksgiving_traditional_foods_and_turkey.md): same source document (doc_0280)
 
 ## Source
 

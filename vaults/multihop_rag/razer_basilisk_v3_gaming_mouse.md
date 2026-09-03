@@ -13,6 +13,7 @@ The drawbacks: that wheel is somewhat noisy, and the whole thing is too heavy fo
 
 ## Related Notes
 
+
 - [Wired's November 2023 Gaming Mouse Deals](wired_november_2023_gaming_mouse_deals.md): covers competing gaming mice and their thumb buttons, from a different source document.
 - [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): another gadget from the same Prime Day roundup grouping, from a different source document.
 - [OtterBox Fast Charge Power Bank](otterbox_fast_charge_power_bank.md): another gadget from the same Prime Day roundup grouping, from a different source document.
@@ -21,6 +22,8 @@ The drawbacks: that wheel is somewhat noisy, and the whole thing is too heavy fo
 - [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): drawn from the same source document (doc_0250).
 - [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): drawn from the same source document (doc_0250).
 - [Anker Soundcore Space A40 Earbuds](anker_soundcore_space_a40_earbuds.md): drawn from the same source document (doc_0250).
+- [Apple AirPods Pro, Second Generation](apple_airpods_pro_second_generation.md): same source document (doc_0250)
+- [Apple's Budget iPad And iPad Mini](apple_budget_ipad_and_ipad_mini.md): same source document (doc_0250)
 
 ## Source
 

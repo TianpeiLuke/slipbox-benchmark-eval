@@ -11,10 +11,17 @@ The warrant is Amazon's own conservatism as a signal. The company operates at su
 
 ## Related Notes
 
+
 - [Amazon's Delivering The Future 2023 Event](amazon_delivering_the_future_2023_event.md): same source document; the event where the Digit pilots were discussed.
 - [Agility Robotics' Digit Warehouse Robot](agility_robotics_digit_warehouse_robot.md): overlaps in content on Digit and Agility humanoids, from a different source document.
 - [Amazon Testing Of Digit In Warehouses](amazon_testing_of_digit_in_warehouses.md): overlaps in content on the same pilots, from a different source document.
 - [Boston Dynamics' View On The Humanoid Form Factor](boston_dynamics_view_on_humanoid_form_factor.md): overlaps in content on whether humanoids are the right form, from a different source document.
+- [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): content overlap 0.14 on agility, robots, robotics; different source document
+- [Dexterity And World Understanding As The Hardest Robotics Problem](dexterity_and_world_understanding_as_hardest_robotics_problem.md): content overlap 0.11 on humanoid, robots, robotics; different source document
+- [Generative AI In Amazon's Robotics Simulation](amazon_generative_ai_in_robotics_simulation.md): same source document (doc_0528)
+- [Amazon's Greenfield And Brownfield Retrofit Capability](amazon_greenfield_brownfield_retrofit_capability.md): same source document (doc_0528)
+- [Amazon's Industrial Innovation Fund And Agility](amazon_industrial_innovation_fund_and_agility.md): same source document (doc_0528)
+- [Amazon's Interest In Bipedal Locomotion](amazon_interest_in_bipedal_locomotion.md): same source document (doc_0528)
 
 ## Source
 

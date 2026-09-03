@@ -13,6 +13,7 @@ The warrant is that the value of the season does not depend on the volume of act
 
 ## Related Notes
 
+
 - [Alameda Research Origins and Naming](alameda_research_origins_and_naming.md): shares the concert-tour topic, from a different source document.
 - [Alexei Popyrin's Davis Cup Breakthrough](alexei_popyrin_davis_cup_breakthrough.md): shares the concert-tour topic, from a different source document.
 - [Amy Grant and Vince Gill's Marriage](amy_grant_and_vince_gill_marriage.md): shares the concert-tour topic, from a different source document.
@@ -21,6 +22,12 @@ The warrant is that the value of the season does not depend on the volume of act
 - [Backlash To Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): shares the concert-tour topic, from a different source document.
 - [Bad Blood: Taylor Swift and Katy Perry](bad_blood_taylor_swift_katy_perry_feud.md): shares the concert-tour topic, from a different source document.
 - [Bankman-Fried's Post-Bankruptcy Media Tour](bankman_fried_post_bankruptcy_media_tour.md): shares the concert-tour topic, from a different source document.
+- [The Christmas "Give List" Versus the Wish List](christmas_give_list_versus_wish_list.md): same source document (doc_0148)
+- ["Grinchy Griping" and Child Egocentric Thinking](grinchy_griping_and_child_egocentric_thinking.md): same source document (doc_0148)
+- [Hannah Keeley's Five Christmas Parenting Mistakes](hannah_keeley_christmas_parenting_mistakes.md): same source document (doc_0148)
+- [The Holiday Martyr Parent](the_holiday_martyr_parent.md): same source document (doc_0148)
+- [Using Santa as a Behaviour Bribe](using_santa_as_a_behaviour_bribe.md): same source document (doc_0148)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

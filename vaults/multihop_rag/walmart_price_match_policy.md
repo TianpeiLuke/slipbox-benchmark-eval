@@ -11,11 +11,18 @@ The boundaries of that narrow policy are geographic, temporal, and structural. I
 
 ## Related Notes
 
+
 - [Amazon Prime Membership Requirement for Prime Day](amazon_prime_membership_requirement_for_prime_day.md): overlaps on Walmart items and price-matching, from a different source document.
 - [BetMGM Bonus Code TSN50 First Bet Offer](betmgm_bonus_code_tsn50_first_bet_offer.md): also mentions Puerto Rico eligibility, from a different source document.
 - [Black Friday 2023 Dates and Retailer Schedules](black_friday_2023_dates_and_retailer_schedules.md): overlaps on Walmart items and prices, from a different source document.
 - [Chiefs-Jets Week 4 Swift Sideshow and Prop Stars Menu](chiefs_jets_week_4_swift_sideshow_and_prop_stars_menu.md): also mentions Puerto Rico, from a different source document.
 - [Holiday Price Matching Policies, 2023](holiday_price_matching_policies_2023.md): overlaps on Walmart purchases and prices, from a different source document.
+- [Amazon Price Matching And Return Policy](amazon_price_matching_and_return_policy.md): same source document (doc_0403)
+- [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): same source document (doc_0403)
+- [Best Buy Price Match Guarantee](best_buy_price_match_guarantee.md): same source document (doc_0403)
+- [B&H Photo And Costco Price Adjustment](bh_photo_and_costco_price_adjustment.md): same source document (doc_0403)
+- [Dell Price Match Policy](dell_price_match_policy.md): same source document (doc_0403)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

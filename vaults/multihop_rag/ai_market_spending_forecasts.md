@@ -13,11 +13,18 @@ A comparative observation accompanies the totals: despite cloud computing remain
 
 ## Related Notes
 
+
 - [Cybersecurity Spending Resilience And Breach Costs](cybersecurity_spending_resilience_and_breach_costs.md): overlapping coverage of spending increases and McKinsey-sourced figures, from a different source document.
 - [EU AI Act Two Tier Rules For General Purpose AI](eu_ai_act_two_tier_rules_for_general_purpose_ai.md): shares the cloud-computing and generative-AI themes, from a different source document.
 - [The AI Legislation Gap Behind Biden's Executive Order](ai_legislation_gap.md): same sub-plan on AI policy and investment, from a different source document.
 - [Biden AI Executive Order](biden_ai_executive_order.md): same sub-plan on AI policy and investment, from a different source document.
 - [Reaction To Biden's AI Order](reaction_to_biden_ai_order.md): same sub-plan on AI policy and investment, from a different source document.
+- [Pricing Models For AI Products](ai_pricing_models.md): same source document (doc_0161)
+- [AI Startup Defensibility](ai_startup_defensibility.md): same source document (doc_0161)
+- [The Four Layers Of The GenAI Tech Stack](llm_stack_layers.md): same source document (doc_0161)
+- [Valor VC's Applied AI Thesis](valor_applied_ai_thesis.md): same source document (doc_0161)
+- [Cloud Computing](term_cloud_computing.md): uses the concept cloud computing
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

@@ -13,6 +13,7 @@ The preparation was strict. To prepare his mind to enter a state of awareness he
 
 ## Related Notes
 
+
 - [Canada's Copa America 2024 Qualification Path](canada_copa_america_2024_qualification_path.md): also concerns Costa Rica, from a different document.
 - [ChatGPT Mobile App Launches and Revenue](chatgpt_mobile_app_launches_and_revenue.md): also concerns Costa Rica, from a different document.
 - [Chiefs Jets Pregame Notes: Taylor Swift and Rodgers](chiefs_jets_pregame_notes_taylor_swift_and_rodgers.md): also concerns Aaron Rodgers, from a different document.
@@ -21,6 +22,8 @@ The preparation was strict. To prepare his mind to enter a state of awareness he
 - [Ayahuasca, the Psychedelic Brew](ayahuasca_psychedelic_brew.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Alcoholism and Sobriety](jordan_poyer_alcoholism_and_sobriety.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Ayahuasca Ceremony Experience](jordan_poyer_ayahuasca_ceremony_experience.md): drawn from the same document (doc_0322).
+- [Jordan Poyer's Contract Status And Post-Career Plans](jordan_poyer_contract_status_and_post_career_plans.md): same source document (doc_0322)
+- [Jordan Poyer's Ego And Perspective Shift](jordan_poyer_ego_and_perspective_shift.md): same source document (doc_0322)
 
 ## Source
 

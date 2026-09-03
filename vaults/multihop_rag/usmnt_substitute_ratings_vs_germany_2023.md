@@ -13,6 +13,7 @@ Pepi entered at the same time in a far from ideal situation, coming on with the 
 
 ## Related Notes
 
+
 - [Champions League 2023-24 Group C Real Madrid Napoli](champions_league_2023_24_group_c_real_madrid_napoli.md): another document covering Union Berlin, different source
 - [Eintracht Frankfurt 5-1 Bayern Munich](eintracht_frankfurt_5_1_bayern_munich.md): another Union Berlin-referencing Bundesliga document, different source
 - [Germany Squad October 2023 North America Friendlies](germany_squad_october_2023_north_america_friendlies.md): the opposing squad, also featuring Union Berlin players, different source document
@@ -21,6 +22,8 @@ Pepi entered at the same time in a far from ideal situation, coming on with the 
 - [Matt Turner Rating vs Germany 2023](matt_turner_rating_vs_germany_2023.md): the goalkeeping rating from the same match, same source document
 - [USMNT 1-3 Defeat to Germany Hartford 2023](usmnt_3_1_defeat_to_germany_hartford_2023.md): the match these substitutes entered, same source document
 - [USMNT Attacking Ratings vs Germany 2023](usmnt_attacking_ratings_vs_germany_2023.md): the starters they replaced in attack, same source document
+- [The USMNT Back Line's Errors Against Germany](usmnt_back_line_defensive_errors_vs_germany_2023.md): same source document (doc_0588)
+- [USMNT Midfield Ratings Against Germany, October 2023](usmnt_midfield_ratings_vs_germany_2023.md): same source document (doc_0588)
 
 ## Source
 

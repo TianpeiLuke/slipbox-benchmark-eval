@@ -11,6 +11,7 @@ Luhnow had always been more about the numbers than people. Wanting to take out t
 
 ## Related Notes
 
+
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): also concerns the World Series, from a different source document.
 - [Camden Yards Baltimore Orioles Postseason Atmosphere](camden_yards_baltimore_orioles_postseason_atmosphere.md): also concerns the American League, from a different source document.
 - [Chase Field Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): also concerns the World Series, from a different source document.
@@ -19,6 +20,8 @@ Luhnow had always been more about the numbers than people. Wanting to take out t
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): the scheme this front office presided over, from the same article (doc_0007).
 - [Astros Players' Immunity and Mike Fiers](astros_players_immunity_and_mike_fiers.md): who bore the consequences, from the same article (doc_0007).
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): how it came out and what MLB did, from the same article (doc_0007).
+- [The Backlash: Inflatable Trash Cans, "Take The Trash Out" And LeBron James](backlash_to_the_astros_cheating_scandal.md): same source document (doc_0007)
+- [Legal Sign Stealing Versus What The Astros Did](sign_stealing_rules_and_mlb_countermeasures.md): same source document (doc_0007)
 
 ## Source
 

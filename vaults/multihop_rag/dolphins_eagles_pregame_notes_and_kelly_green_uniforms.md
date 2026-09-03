@@ -13,11 +13,17 @@ Other notes covered personnel and conditions. At 7:55 p.m. the blog remarked tha
 
 ## Related Notes
 
+
 - [Brock Purdy 49ers Career Trajectory](brock_purdy_49ers_career_trajectory.md): also discusses the Philadelphia Eagles.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): also discusses Tyreek Hill.
 - [Cowboys Fantasy Start Recommendations Week 13](cowboys_fantasy_start_recommendations_week_13.md): also discusses Jalen Hurts.
 - [Criticism That the NFL Overdid Its Taylor Swift Coverage](criticism_that_the_nfl_overdid_its_taylor_swift_coverage.md): also discusses the Philadelphia Eagles.
 - [Dallas Goedert Week 5 2023 Bust Warning](dallas_goedert_week5_2023_bust_warning.md): also discusses Jalen Hurts.
+- [Dolphins-Eagles First Half: Philadelphia Leads 17-10 Behind Goedert And The Tush Push](dolphins_eagles_first_half_live_blog.md): same source document (doc_0143)
+- [Dolphins-Eagles Second Half: A Pick-Six Tie, Then Philadelphia Pulls Away](dolphins_eagles_second_half_live_blog.md): same source document (doc_0143)
+- [Eagles Beat Dolphins 31-17 In Kelly Green On Week 7 Sunday Night Football](eagles_beat_dolphins_week_7_sunday_night_recap.md): same source document (doc_0143)
+- [NBC's 2023 Sunday Night Football Broadcast And Streaming Package](sunday_night_football_2023_nbc_broadcast_team.md): same source document (doc_0143)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

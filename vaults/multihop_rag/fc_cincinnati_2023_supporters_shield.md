@@ -11,11 +11,18 @@ The distinction mattered for the opponent: as Sporting News put it 90 minutes be
 
 ## Related Notes
 
+
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): also concerns Inter Miami.
 - [Chicago Fire 4-1 Inter Miami October 2023 Recap](chicago_fire_4_1_inter_miami_october_2023_recap.md): also concerns Inter Miami.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): also concerns Inter Miami.
 - [Chicago Fire Inter Miami Second Half Live Blog](chicago_fire_inter_miami_second_half_live_blog.md): also concerns Inter Miami and Major League Soccer.
 - [Chicago Fire Inter Miami Team News and Match Outlook](chicago_fire_inter_miami_team_news_and_match_outlook.md): also concerns Inter Miami.
+- [Inter Miami Lose 1-0 To FC Cincinnati And Fall Out Of The Playoff Race](inter_miami_0_1_fc_cincinnati_october_2023_recap.md): same source document (doc_0088)
+- [Inter Miami Eliminated From The 2023 MLS Playoff Race With Two Games Left](inter_miami_2023_mls_playoff_elimination.md): same source document (doc_0088)
+- [Inter Miami Supporters Protested The 2024 Price Hike By Sitting In Silence](inter_miami_fan_backlash_to_2024_ticket_prices.md): same source document (doc_0088)
+- [Inter Miami-FC Cincinnati First Half: Three Times Off The Woodwork, Still 0-0](inter_miami_fc_cincinnati_first_half_live_blog.md): same source document (doc_0088)
+- [Inter Miami-FC Cincinnati Lineups: Messi On The Bench, Aviles Back From Suspension](inter_miami_fc_cincinnati_lineups_and_team_news.md): same source document (doc_0088)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

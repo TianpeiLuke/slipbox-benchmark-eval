@@ -13,11 +13,18 @@ Three days later, on Oct. 7, the most painful scoreline was again Montreal's. In
 
 ## Related Notes
 
+
 - [Argentina First Half Dominance vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): also references the Red Bulls.
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): also concerns Inter Miami.
 - [Daniel Garnero Paraguay Head Coach Debut](daniel_garnero_paraguay_head_coach_debut.md): also concerns Inter Miami.
 - [Inter Miami 2024 Preseason Fixture List](inter_miami_2024_preseason_fixture_list.md): also concerns Inter Miami.
 - [Inter Miami 2024 Season Ticket Price Increase](inter_miami_2024_season_ticket_price_increase.md): also concerns Inter Miami.
+- [Chicago Fire Beat Inter Miami 4-1 Before A Record Soldier Field Crowd](chicago_fire_4_1_inter_miami_october_2023_recap.md): same source document (doc_0041)
+- [Chicago Fire-Inter Miami First Half: Goalless, With The Fire Creating The Better Chances](chicago_fire_inter_miami_first_half_live_blog.md): same source document (doc_0041)
+- [Chicago Fire-Inter Miami Second Half: Four Goals In 23 Minutes](chicago_fire_inter_miami_second_half_live_blog.md): same source document (doc_0041)
+- [Chicago Fire-Inter Miami Lineups, Absentees And Pre-Match Outlook](chicago_fire_inter_miami_team_news_and_match_outlook.md): same source document (doc_0041)
+- [FC Cincinnati Won The 2023 Supporters' Shield As Regular Season Champions](fc_cincinnati_2023_supporters_shield.md): same source document (doc_0088)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

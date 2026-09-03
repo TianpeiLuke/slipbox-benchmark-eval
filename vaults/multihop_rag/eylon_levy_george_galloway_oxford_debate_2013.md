@@ -11,6 +11,7 @@ The background is that Levy was born and raised in England and attended a privat
 
 ## Related Notes
 
+
 - [Nicolas Jackson First Premier League Hat Trick](nicolas_jackson_first_premier_league_hat_trick.md): also concerns North London, from a different source document.
 - [Eylon Levy Aliyah And IDF Service](eylon_levy_aliyah_and_idf_service.md): drawn from the same interview and continues the story from his student years to Israel.
 - [Eylon Levy Israeli Government Spokesperson](eylon_levy_israeli_government_spokesperson.md): drawn from the same interview and describes the role this early advocacy prefigured.
@@ -19,6 +20,7 @@ The background is that Levy was born and raised in England and attended a privat
 - [Hostile Interview Questions To Israeli Spokespeople](hostile_interview_questions_to_israeli_spokespeople.md): drawn from the same interview and lists the questions he faces today.
 - [Israeli Case For Continuing The Gaza War](israeli_case_for_continuing_the_gaza_war.md): drawn from the same interview and gives the argument he makes publicly now.
 - [Israeli Unity After October 7 Versus Judicial Reform](israeli_unity_after_october_7_versus_judicial_reform.md): drawn from the same interview and gives his closing reflection.
+- [The National Public Diplomacy Directorate](national_public_diplomacy_directorate.md): same source document (doc_0413)
 
 ## Source
 

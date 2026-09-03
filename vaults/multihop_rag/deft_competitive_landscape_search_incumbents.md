@@ -13,6 +13,7 @@ Separately, Deft will also face competition from other startups like Objective, 
 
 ## Related Notes
 
+
 - [DOJ Theory That Google Default Deals Foreclose Search Rivals](doj_theory_that_google_default_deals_foreclose_search_rivals.md): covers how incumbents keep search rivals out, from a different document.
 - [Google Antitrust Case](google_antitrust_case.md): covers Google's position in search competition, from a different document.
 - [The Google-Apple Chrome Agreement](google_apple_chrome_agreement.md): overlaps on how Google secures search users, from a different document.
@@ -21,6 +22,8 @@ Separately, Deft will also face competition from other startups like Objective, 
 - [Deft, The E-Commerce Search Startup](deft_ecommerce_search_startup.md): drawn from the same source document (doc_0301).
 - [Deft's Funding And Traction Metrics](deft_funding_and_traction_metrics.md): drawn from the same source document (doc_0301).
 - [Deft's Multimodal Search Capabilities](deft_multimodal_search_capabilities.md): drawn from the same source document (doc_0301), and is the feature set being matched.
+- [Deft's Revenue Model And Pricing Tiers](deft_revenue_model_and_pricing_tiers.md): same source document (doc_0301)
+- [E-Commerce Search Startup Viability Challenges](ecommerce_search_startup_viability_challenges.md): same source document (doc_0301)
 
 ## Source
 

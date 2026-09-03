@@ -13,11 +13,18 @@ The Swans' rise had been signalled earlier in the season by a record-breaking wi
 
 ## Related Notes
 
+
 - [Caiden Cleary, AFL Draft Prospect 2023](caiden_cleary_afl_draft_prospect_2023.md): overlaps on the Sydney Swans and possession counts, from a different document.
 - [The Swans' On-Field Turnaround Under Chloe Molloy](swans_on_field_turnaround_under_chloe_molloy.md): also concerns Chloe Molloy, from a different document.
 - [Sydney Swans Top the AFLW Attendance Charts](sydney_swans_top_aflw_attendance_charts.md): overlaps on the Sydney Swans in the AFLW, from a different document.
 - [AFLW 2023 Finals Qualification and Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): drawn from the same document (doc_0209).
 - [AFLW 2023 Tackle and Bump Suspension Debate](aflw_2023_tackle_and_bump_suspension_debate.md): drawn from the same document (doc_0208).
+- [Brisbane Lions' 2023 AFLW Top-Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): same source document (doc_0209)
+- [Collingwood-Geelong's Wind And Rain Contest, 2023](collingwood_geelong_wind_and_rain_contest_2023.md): same source document (doc_0208)
+- [Erin Phillips' AFLW Retirement](erin_phillips_aflw_retirement.md): same source document (doc_0209)
+- [Geelong Cats' 2023 AFLW Finals Qualification](geelong_cats_2023_aflw_finals_qualification.md): same source document (doc_0209)
+- [Gold Coast Suns' Second AFLW Finals Appearance](gold_coast_suns_second_aflw_finals_appearance.md): same source document (doc_0209)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

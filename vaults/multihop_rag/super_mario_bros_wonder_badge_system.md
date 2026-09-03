@@ -11,6 +11,7 @@ Badges sit inside a wider design of considerate rather than patronising assistan
 
 ## Related Notes
 
+
 - [Super Mario Bros Wonder](super_mario_bros_wonder.md): a separate account of the same game and its Flower Kingdom setting
 - [Super Mario Bros Wonder Badges And Level Variety](super_mario_bros_wonder_badges_and_level_variety.md): another treatment of the same badge mechanic
 - [Super Mario Bros Wonder Flower Kingdom Premise](super_mario_bros_wonder_flower_kingdom_premise.md): the setting and Prince Florian, covered elsewhere
@@ -19,6 +20,7 @@ Badges sit inside a wider design of considerate rather than patronising assistan
 - [Super Mario Bros Wonder Multiplayer Mode](super_mario_bros_wonder_multiplayer_mode.md): the co-op side of the same review
 - [Super Mario Bros Wonder Wonder Seed Transformations](super_mario_bros_wonder_wonder_seed_transformations.md): the transformation system badges sit alongside, same review
 - [Wonder As A Return To 2D Mario Experimentation](wonder_as_a_return_to_2d_mario_experimentation.md): the argument that badges extend the series' old sense of freedom
+- [Wonder's Disposable-Idea Design As An Alternative To "Forever Games"](wonder_disposable_idea_design_versus_forever_games.md): same source document (doc_0606)
 
 ## Source
 

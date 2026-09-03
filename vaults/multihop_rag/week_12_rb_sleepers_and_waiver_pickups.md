@@ -13,6 +13,7 @@ Dillon's case is about a suddenly empty backfield. Things look very promising fo
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also discusses Green Bay, from a different document.
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): also discusses Alexander Mattison, from a different document.
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also discusses Green Bay, from a different document.
@@ -21,6 +22,8 @@ Dillon's case is about a suddenly empty backfield. Things look very promising fo
 - [Bye-Free Weeks Complicate Lineup Decisions](bye_free_weeks_complicate_lineup_decisions.md): frames why these calls are harder this week, from the same document.
 - [Fantasy Week 12 Schedule and No-Bye Teams](fantasy_week_12_schedule_and_no_bye_teams.md): the scheduling context for these pickups, from the same document.
 - [Josh Jacobs and Breece Hall 2023 Workloads](josh_jacobs_and_breece_hall_2023_workloads.md): another of the week's workload-driven calls, from the same document.
+- [Tony Pollard's Fantasy Outlook In 2023](tony_pollard_fantasy_outlook_2023.md): same source document (doc_0494)
+- [Week 12 RB Busts To Avoid](week_12_rb_busts_to_avoid.md): same source document (doc_0494)
 
 ## Source
 

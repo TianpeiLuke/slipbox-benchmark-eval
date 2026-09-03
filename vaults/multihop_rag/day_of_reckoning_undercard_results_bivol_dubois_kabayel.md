@@ -11,9 +11,16 @@ The early card also included five knockouts. After Jai Opetaia's win, Daniel Dub
 
 ## Related Notes
 
+
 - [Canelo-Charlo PPV Card Schedule](canelo_charlo_ppv_card_schedule.md): also discusses Frank Sanchez, who opened this night, from a different document.
 - [The Day Of Reckoning Riyadh Boxing Card](day_of_reckoning_riyadh_boxing_card.md): also discusses Agit Kabayel and Daniel Dubois on the same card, from a different document.
 - [Anthony Joshua's Fifth-Round Stoppage Of Otto Wallin](anthony_joshua_fifth_round_stoppage_of_otto_wallin.md): the main event above this undercard, from the same report.
+- [The Day Of Reckoning Card And The Heavyweight Unification Path](day_of_reckoning_card_and_heavyweight_unification_path.md): same source document (doc_0561)
+- [Eddie Hearn On Opetaia Emulating Usyk And Unifying Cruiserweight](eddie_hearn_on_opetaia_emulating_usyk_and_unifying_cruiserweight.md): same source document (doc_0561)
+- [Jai Opetaia's First-Round Knockout Of Ellis Zorro](jai_opetaia_first_round_knockout_of_ellis_zorro.md): same source document (doc_0561)
+- [Joseph Parker's Upset Win Over Deontay Wilder](joseph_parker_upset_win_over_deontay_wilder.md): same source document (doc_0561)
+- [Opetaia's Vacated IBF Cruiserweight Title And Avoided Opponents](opetaia_vacated_ibf_cruiserweight_title_and_avoided_opponents.md): same source document (doc_0561)
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

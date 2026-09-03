@@ -13,11 +13,19 @@ Polygon's Toussaint Egan positions Steamboy against Otomo's 1988 Akira: it lacks
 
 ## Related Notes
 
+
 - [Andor (Disney Plus)](andor_disney_plus.md): another write-up credited to Toussaint Egan, from a different source document
 - [Castlevania: Nocturne (Netflix)](castlevania_nocturne_netflix.md): another Toussaint Egan piece on animation, in a separate article
 - [Crimes of the Future (2022, David Cronenberg)](crimes_of_the_future_2022_david_cronenberg.md): shares the same Polygon critic across documents
 - [Messiah of Evil (1973 Cosmic Horror)](messiah_of_evil_1973_cosmic_horror.md): another Toussaint Egan recommendation elsewhere in the corpus
 - [Sandman Season 2 (Netflix)](sandman_season_2_netflix.md): shares the game-patch-notes and user-generated-content topic tags
+- [Certified Copy (Abbas Kiarostami)](certified_copy_abbas_kiarostami.md): same source document (doc_0055)
+- [Hoop Dreams (Steve James)](hoop_dreams_steve_james_documentary.md): same source document (doc_0055)
+- [Joint Security Area (Park Chan-wook)](joint_security_area_park_chan_wook.md): same source document (doc_0055)
+- [Mandy (Panos Cosmatos)](mandy_panos_cosmatos_nicolas_cage.md): same source document (doc_0055)
+- [Planet Terror (Robert Rodriguez)](planet_terror_robert_rodriguez_grindhouse.md): same source document (doc_0055)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

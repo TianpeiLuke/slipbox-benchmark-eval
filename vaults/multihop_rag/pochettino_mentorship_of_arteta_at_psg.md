@@ -13,12 +13,17 @@ Arteta described the method as a mixture of encouragement and discipline: "He's 
 
 ## Related Notes
 
+
 - [Arsenal 2-1 Win at Sevilla, Group B](arsenal_2_1_win_at_sevilla_group_b.md): also concerns Mikel Arteta, from a different document.
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also concerns Mikel Arteta and Stamford Bridge, from a different document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns the Champions League, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns the Champions League, from a different document.
 - [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md): also concerns Stamford Bridge, from a different document.
 - [Arteta and Pochettino's Derby-Day Competitive Edge](arteta_pochettino_derby_day_competitive_edge.md): drawn from the same document (doc_0110).
+- [Chelsea vs Arsenal: Derby Team News, October 2023](chelsea_arsenal_derby_team_news_october_2023.md): same source document (doc_0110)
+- [Havertz And Jorginho's Return To Stamford Bridge](havertz_jorginho_return_to_stamford_bridge.md): same source document (doc_0110)
+- [Pochettino's Assessment Of Arteta As A Coach](pochettino_assessment_of_arteta_as_coach.md): same source document (doc_0110)
+- [Transfer Window](term_transfer_window.md): uses the concept transfer window
 
 ## Source
 

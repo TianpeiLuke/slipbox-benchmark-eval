@@ -11,6 +11,7 @@ Kamara did not start. He was on the bench for Chicago, with Georgios Koutsias sl
 
 ## Related Notes
 
+
 - [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): shares a surname-level content overlap flagged across the corpus.
 - [FC Cincinnati 2023 Supporters' Shield](fc_cincinnati_2023_supporters_shield.md): also concerns Major League Soccer.
 - [Inter Miami FC Cincinnati Lineups and Team News](inter_miami_fc_cincinnati_lineups_and_team_news.md): also references the Chicago Fire.
@@ -19,6 +20,8 @@ Kamara did not start. He was on the bench for Chicago, with Georgios Koutsias sl
 - [Chicago Fire 4-1 Inter Miami October 2023 Recap](chicago_fire_4_1_inter_miami_october_2023_recap.md): the match Kamara was benched for, same source document.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): first-half detail, same source document.
 - [Chicago Fire Inter Miami Second Half Live Blog](chicago_fire_inter_miami_second_half_live_blog.md): second-half detail, same source document.
+- [Chicago Fire-Inter Miami Lineups, Absentees And Pre-Match Outlook](chicago_fire_inter_miami_team_news_and_match_outlook.md): same source document (doc_0041)
+- [Inter Miami Eliminated From The 2023 MLS Playoff Race With Two Games Left](inter_miami_2023_mls_playoff_elimination.md): same source document (doc_0041)
 
 ## Source
 

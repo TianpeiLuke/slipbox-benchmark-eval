@@ -11,6 +11,7 @@ Tottenham 2-1 Liverpool, September 30, 2023: Liverpool had their hearts broken a
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also covers Andre Onana, from a different source document.
 - [Argentina First Half Dominance vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): also covers Cristian Romero, from a different source document.
 - [Bournemouth Comeback Win at Nottingham Forest: Solanke Hat-Trick](bournemouth_comeback_win_at_nottingham_forest_solanke_hat_trick.md): also covers Nottingham Forest, from a different source document.
@@ -19,6 +20,7 @@ Tottenham 2-1 Liverpool, September 30, 2023: Liverpool had their hearts broken a
 - [Everton Manchester City 2022 Handball VAR Error](everton_manchester_city_2022_handball_var_error.md): another apology on the same list (doc_0395).
 - [PGMOL and VAR Review in English Football](pgmol_and_var_review_in_english_football.md): the body and list these incidents belong to (doc_0395).
 - [PGMOL Apologies Autumn 2022 Incidents](pgmol_apologies_autumn_2022_incidents.md): earlier apologies on the same list (doc_0395).
+- [PGMOL Apologies From Spring 2023](pgmol_apologies_spring_2023_incidents.md): same source document (doc_0395)
 
 ## Source
 

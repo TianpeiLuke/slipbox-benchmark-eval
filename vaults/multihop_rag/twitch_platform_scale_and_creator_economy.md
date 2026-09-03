@@ -13,11 +13,21 @@ Things have changed. Twitch has crowned millionaires, like Félix "xQc" Lengyel,
 
 ## Related Notes
 
+
 - [AOC's Twitch Among Us Stream](aoc_twitch_among_us_stream.md): shares the COVID-19 and creator-economy topic tags
 - [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): shares creator-economy, livestreaming, and streaming-service tags
 - [Calls for Creative Experimentation in VTuber Agencies](calls_for_creative_experimentation_in_vtuber_agencies.md): shares the creator-economy and streaming-service tags
 - [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): another Twitch platform-management subject from a different document
 - [Engadget VPN Testing Methodology](engadget_vpn_testing_methodology.md): shares livestreaming and streaming-service tags from an unrelated source
+- [Fortnite's Live-Service Content Treadmill](fortnite_live_service_content_treadmill.md): same source document (doc_0545)
+- [Live-Service Games' Dependence on Content Creators](live_service_games_dependence_on_content_creators.md): same source document (doc_0545)
+- [Negative Sentiment as Profitable Streaming Discourse](negative_sentiment_as_profitable_streaming_discourse.md): same source document (doc_0545)
+- [Rising Game Development and Marketing Budgets](rising_game_development_and_marketing_budgets.md): same source document (doc_0545)
+- [Streamer Burnout and Extreme Stream Formats](streamer_burnout_and_extreme_stream_formats.md): same source document (doc_0545)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [COVID-19](term_covid_19.md): uses the concept covid 19
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Livestreaming](term_livestreaming.md): uses the concept livestreaming
 
 ## Source
 

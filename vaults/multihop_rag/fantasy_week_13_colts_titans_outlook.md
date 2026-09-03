@@ -11,6 +11,7 @@ The matchup evidence supports volume for both backfields: the Colts rank in the 
 
 ## Related Notes
 
+
 - [Anthony Richardson Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): explains the Colts quarterback situation behind Gardner Minshew, from a different source document.
 - [Colts 31-28 Titans Overtime Week 13](colts_31_28_titans_overtime_week_13.md): reports the outcome of this same game and covers Michael Pittman, from a different source document.
 - [Colts Backfield Split: Zack Moss and Jonathan Taylor Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): covers the Zack Moss and Jonathan Taylor workload split referenced here, from a different source document.
@@ -19,6 +20,8 @@ The matchup evidence supports volume for both backfields: the Colts rank in the 
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
 
 ## Source
 

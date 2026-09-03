@@ -13,11 +13,20 @@ The counter-evidence is observational, and TechCrunch attaches an explicit time 
 
 ## Related Notes
 
+
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): covers the Musk and Wozniak letter referenced here, from a different document.
 - [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): overlaps on generative chatbots and their risks, from a different document.
 - [ChatGPT's Durability And Regulatory Outlook](chatgpt_durability_and_regulatory_outlook.md): overlaps on predictions about ChatGPT's future, from a different document.
 - [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): overlaps on what the chatbot can generate, from a different document.
 - [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): overlaps on the capability claims behind these fears, from a different document.
+- [ChatGPT's Adoption Gap: The Survey Evidence](chatgpt_adoption_gap_survey_evidence.md): same source document (doc_0047)
+- [ChatGPT As A User Experience Breakthrough, Not An AI One](chatgpt_as_user_experience_breakthrough.md): same source document (doc_0047)
+- [The Competitive Response To ChatGPT Across The AI Industry](chatgpt_competitive_response_across_ai_industry.md): same source document (doc_0047)
+- [ChatGPT's Hallucination And Bias Limitations](chatgpt_hallucination_and_bias_limitations.md): same source document (doc_0047)
+- [ChatGPT's Launch And Its First Year Of Evolution](chatgpt_launch_and_first_year_evolution.md): same source document (doc_0047)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Bot Detection](term_bot_detection.md): uses the concept bot detection
 
 ## Source
 

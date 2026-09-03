@@ -11,6 +11,7 @@ The organising claim of the collection, as presented in The Independent's festiv
 
 ## Related Notes
 
+
 - [NBA Christmas Day Games Tradition](nba_christmas_day_games_tradition.md): an unrelated article that also concerns festive Christmas traditions
 - [NFL Christmas Day Scheduling Threat To NBA](nfl_christmas_day_scheduling_threat_to_nba.md): another article about competing claims on Christmas attention
 - [Little White Company Children's Gifts And Scent Hamper](little_white_company_childrens_gifts_and_scent_hamper.md): the children's and stocking-filler part of the same range
@@ -19,6 +20,7 @@ The organising claim of the collection, as presented in The Independent's festiv
 - [White Company Entertaining Glassware And Serving Tray](white_company_entertaining_glassware_and_serving_tray.md): the entertaining picks from the same guide
 - [White Company Nightwear And Pre-Lit Christmas Tree](white_company_nightwear_and_pre_lit_christmas_tree.md): the nightwear and tree picks from the same guide
 - [White Company Puffer Coat And Champagne Trug](white_company_puffer_coat_and_champagne_trug.md): the outdoor and New Year picks from the same guide
+- [The White Company's Relaxation Picks: Diffuser, Bed Socks And Throw](white_company_relaxation_diffuser_bed_socks_and_throw.md): same source document (doc_0068)
 
 ## Source
 

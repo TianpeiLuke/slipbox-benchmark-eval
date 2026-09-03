@@ -11,6 +11,7 @@ What changed in October is the scope of the restriction rather than its existenc
 
 ## Related Notes
 
+
 - [Aseel: From Afghan Artisan E-Commerce To Humanitarian Aid](aseel_afghan_artisan_ecommerce_to_humanitarian_aid.md): overlapping coverage of food and humanitarian supplies from a different source document.
 - [Be'eri Kibbutz Casualties And Displaced Residents](beeri_kibbutz_casualties_and_displaced_residents.md): overlapping coverage of Gaza, residents and Israel, from a different source document.
 - [Disinformation On X About Gaza](disinformation_on_x_gaza.md): also concerns the Gaza Strip, from a different source document.
@@ -19,6 +20,8 @@ What changed in October is the scope of the restriction rather than its existenc
 - [Criticism Of UNRWA Textbooks And Internal Governance](criticism_of_unrwa_textbooks_and_internal_governance.md): drawn from the same source document (doc_0135).
 - [Gaza Displacement And Casualties October 2023](gaza_displacement_and_casualties_october_2023.md): drawn from the same source document (doc_0135).
 - [Gaza Economic Isolation And Poverty Indicators](gaza_economic_isolation_and_poverty_indicators.md): drawn from the same source document (doc_0135).
+- [How The Blockade Produces Food Insecurity And Import Dependence In Gaza](gaza_food_insecurity_and_import_dependence.md): same source document (doc_0135)
+- [The Humanitarian Corridor Proposal For Gaza](humanitarian_corridor_proposal_for_gaza.md): same source document (doc_0135)
 
 ## Source
 

@@ -13,6 +13,7 @@ The cord-cutting boundary is stated explicitly: for those who have cut the cord 
 
 ## Related Notes
 
+
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): another World Series document, on a different controversy
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): also features Ken Rosenthal, from a different source document
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): another World Series document, different source
@@ -21,6 +22,8 @@ The cord-cutting boundary is stated explicitly: for those who have cut the cord 
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): an event from the games this coverage carried, same source document
 - [Brandon Pfaadt Start World Series Game 3](brandon_pfaadt_start_world_series_game_3.md): one of the games covered, same source document
 - [Corey Seager Home Runs 2023 World Series](corey_seager_home_runs_2023_world_series.md): highlights from the games covered, same source document
+- [The Diamondbacks' Late Rally In World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): same source document (doc_0408)
+- [Jon Gray's Surprise Relief Outing In World Series Game 3](jon_gray_emergency_relief_world_series_game_3.md): same source document (doc_0495)
 
 ## Source
 

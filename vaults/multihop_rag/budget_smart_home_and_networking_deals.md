@@ -15,6 +15,7 @@ TP-Link's RE315 Wi-Fi extender was on sale for just $24.99, $25 off, matching it
 
 ## Related Notes
 
+
 - [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): covers other discounted Alexa smart-home devices, from a different source document.
 - [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): covers other discounted Echo devices, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): covers Echo and TP-Link smart home discounts, from a different source document.
@@ -22,6 +23,10 @@ TP-Link's RE315 Wi-Fi extender was on sale for just $24.99, $25 off, matching it
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the Wi-Fi and Alexa device theme, from a different source document.
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): drawn from the same source document (doc_0090).
 - [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): drawn from the same source document (doc_0090).
+- [The Verge's Black Friday Deals Under $25](black_friday_deals_under_25_roundup.md): same source document (doc_0090)
+- [Bluetooth Item Tracker Deals](bluetooth_item_tracker_deals.md): same source document (doc_0090)
+- [Budget Game And Toy Deals](budget_game_and_toy_deals.md): same source document (doc_0090)
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

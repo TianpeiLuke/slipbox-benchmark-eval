@@ -15,11 +15,19 @@ The model is scoped to livestreaming and does not transfer from static-content p
 
 ## Related Notes
 
+
 - [AOC's Twitch "Among Us" Stream](aoc_twitch_among_us_stream.md): overlapping coverage of Twitch streamers and creators, from a different source document.
 - [Azarus CEO On Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): overlapping coverage of livestreaming, streamers and Twitch, from a different source document.
 - [MrsViolence Income Comparison: Twitch Versus Kick](mrsviolence_income_comparison_twitch_versus_kick.md): overlapping coverage of streamer revenue on Twitch, from a different source document.
 - [Ray-Ban Meta Livestreaming Walled Garden](ray_ban_meta_livestreaming_walled_garden.md): shares the creator-economy and livestreaming themes, from a different source document.
 - [Streamer Case For Government Regulation Of Platforms](streamer_case_for_government_regulation_of_platforms.md): shares the creator-economy and livestreaming themes, from a different source document.
+- [Twitch Competitive Pressure](twitch_competitive_pressure.md): same source document (doc_0401)
+- [Twitch Partner Plus Program](twitch_partner_plus_program.md): same source document (doc_0401)
+- [Twitch Revenue Split Controversy](twitch_revenue_split_controversy.md): same source document (doc_0401)
+- [Twitch Sponsorship And Amazon](twitch_sponsorship_and_amazon.md): same source document (doc_0401)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Revenue Split](term_revenue_split.md): uses the concept revenue split
+- [Livestreaming](term_livestreaming.md): uses the concept livestreaming
 
 ## Source
 

@@ -11,6 +11,7 @@ The model's range is illustrated by Ice Spice: she still has not released her de
 
 ## Related Notes
 
+
 - [Taylor Swift Subsequent NFL Appearances And SNL Cameo](taylor_swift_subsequent_nfl_appearances_and_snl_cameo.md): also discusses Ice Spice, from a different source document.
 - [Beatles Now And Then 2023 Release](beatles_now_and_then_2023_release.md): drawn from the same interview and is a global campaign run on these lines.
 - [Capitol 2023 Frontline Roster Highlights](capitol_2023_frontline_roster_highlights.md): drawn from the same interview and gives the superfan and merch measure of success this model serves.
@@ -19,6 +20,8 @@ The model's range is illustrated by Ice Spice: she still has not released her de
 - [Capitol Music Group Organisational Reset Priorities](capitol_music_group_organisational_reset_priorities.md): drawn from the same interview and describes the restructuring that rewired international and commerce.
 - [Capitol Music Group Pre 2021 Decline Diagnosis](capitol_music_group_pre_2021_decline_diagnosis.md): drawn from the same interview and gives the starting conditions for this change.
 - [Capitol Music Group Turnaround Results 2023](capitol_music_group_turnaround_results_2023.md): drawn from the same interview and reports the results attributed to this approach.
+- [Caroline And Virgin Music Group's Spin-Out From CMG](caroline_virgin_music_group_spin_out_from_cmg.md): same source document (doc_0212)
+- [CMG's Partner Labels: Quality Control And 10K Projects](cmg_partner_labels_quality_control_and_10k_projects.md): same source document (doc_0212)
 
 ## Source
 

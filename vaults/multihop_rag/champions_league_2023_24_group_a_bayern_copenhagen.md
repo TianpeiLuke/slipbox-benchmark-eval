@@ -13,6 +13,7 @@ The results were: Sept. 20, Galatasaray 2-2 FC Copenhagen; Sept. 20, Bayern Muni
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): covers this group's final match, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns Bayern Munich, from a different document.
 - [Bruno Fernandes Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): overlaps on Manchester United's scoring in big games, from a different document.
@@ -21,6 +22,8 @@ The results were: Sept. 20, Galatasaray 2-2 FC Copenhagen; Sept. 20, Bayern Muni
 - [Champions League 2023-24 Group B: Arsenal and PSV](champions_league_2023_24_group_b_arsenal_psv.md): a sibling group review, from the same document.
 - [Champions League 2023-24 Group C: Real Madrid and Napoli](champions_league_2023_24_group_c_real_madrid_napoli.md): a sibling group review, from the same document.
 - [Champions League 2023-24 Group D: Real Sociedad and Inter](champions_league_2023_24_group_d_real_sociedad_inter.md): a sibling group review, from the same document.
+- [Champions League 2023/24 Group E: Atletico Madrid And Lazio Qualify](champions_league_2023_24_group_e_atletico_lazio.md): same source document (doc_0187)
+- [Champions League 2023/24 Group F: Borussia Dortmund And PSG Qualify](champions_league_2023_24_group_f_dortmund_psg.md): same source document (doc_0187)
 
 ## Source
 

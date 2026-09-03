@@ -13,6 +13,7 @@ An executive agreed on both halves of the point: "Matt Milano and Tre'Davious Wh
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): overlaps on Buffalo and Cincinnati, from a different document.
 - [Bills Against the Spread Trends 2023](bills_against_the_spread_trends_2023.md): overlaps on how the Bills appear, from a different document.
 - [Bills Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): overlaps on Buffalo and Cincinnati, from a different document.
@@ -21,6 +22,8 @@ An executive agreed on both halves of the point: "Matt Milano and Tre'Davious Wh
 - [Anthony Richardson's Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): drawn from the same document (doc_0316).
 - [Baltimore Ravens' Pass-Oriented Offense Shift](baltimore_ravens_pass_oriented_offense_shift.md): drawn from the same document (doc_0316).
 - [Cincinnati Bengals: Joe Burrow's Durability and the Line](cincinnati_bengals_joe_burrow_durability_and_line.md): drawn from the same document (doc_0316).
+- [The Dallas Cowboys' 2023 Contender Credentials](dallas_cowboys_2023_contender_credentials.md): same source document (doc_0316)
+- [Denver Broncos: Payton And Wilson's Clock-Management Friction](denver_broncos_payton_wilson_clock_management_friction.md): same source document (doc_0316)
 
 ## Source
 

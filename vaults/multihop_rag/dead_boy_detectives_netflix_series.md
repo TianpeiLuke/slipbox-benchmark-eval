@@ -13,11 +13,18 @@ The initial press release said the show would have an eight-episode first season
 
 ## Related Notes
 
+
 - [Carabao Cup 2023-24 Second Round Results](carabao_cup_2023_24_second_round_results.md): incidental name overlap on Crystal Palace, from an unrelated sports document
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): another Crystal Palace name collision from a different article
 - [Five Nights at Freddy's Movie Development and Release](five_nights_at_freddys_movie_development_and_release.md): both discuss Warner Bros., from a separate document
 - [Manchester United's Bayern Munich Defeat, December 2023](manchester_united_bayern_munich_defeat_december_2023.md): another Crystal Palace name collision in a sports article
 - [NASCAR $7.7 Billion Media Rights Deal](nascar_7_7_billion_media_rights_deal.md): another Warner Bros. reference from a different source
+- [Aquaman and the Lost Kingdom](aquaman_and_the_lost_kingdom.md): same source document (doc_0081)
+- [Arkham Asylum (The Batman Prequel Series)](arkham_asylum_the_batman_prequel_series.md): same source document (doc_0081)
+- [The 'Black Superman' Movie (Ta-Nehisi Coates)](black_superman_movie_ta_nehisi_coates.md): same source document (doc_0081)
+- [Booster Gold TV Series](booster_gold_tv_series.md): same source document (doc_0081)
+- [Brave and the Bold (Damian Wayne Film)](brave_and_the_bold_damian_wayne_film.md): same source document (doc_0081)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

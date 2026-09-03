@@ -13,6 +13,7 @@ The same column places this in a contemporary context via its other subject: wit
 
 ## Related Notes
 
+
 - [Peter Gabriel Io First Solo Album In Two Decades](peter_gabriel_io_first_solo_album_in_two_decades.md): same review, on the album that ends the two-decade gap
 - [Peter Gabriel Io Mortality Themes And Overlong Tracks](peter_gabriel_io_mortality_themes_and_overlong_tracks.md): same review, on why the verdict is "overlong"
 - [Tate Mcrae Greedy Tiktok Breakthrough](tate_mcrae_greedy_tiktok_breakthrough.md): the other artist reviewed in the same column
@@ -21,6 +22,7 @@ The same column places this in a contemporary context via its other subject: wit
 - [American Pie Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): also concerns Taylor Swift, different document
 - [Biggest Concert Films Box Office Records](biggest_concert_films_box_office_records.md): also concerns Taylor Swift, different document
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also concerns Taylor Swift, different document
+- [Tate McRae's Think Later Reviewed](tate_mcrae_think_later_album_review.md): same source document (doc_0579)
 
 ## Source
 

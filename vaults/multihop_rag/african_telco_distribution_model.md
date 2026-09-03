@@ -17,11 +17,18 @@ The model also determines what content travels well over it. Alongside creator-p
 
 ## Related Notes
 
+
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): also concerns South Africa, from a different source document.
 - [ChatGPT Use in Government and Courts](chatgpt_use_in_government_and_courts.md): also concerns South Africa, from a different source document.
 - [Damian Penaud Try-Scoring Record Run](damian_penaud_try_scoring_record_run.md): also concerns South Africa, from a different source document.
 - [England Cricket World Cup 2023 Qualification Crisis](england_cricket_world_cup_2023_qualification_crisis.md): also concerns South Africa, from a different source document.
 - [England and South Africa 2023 Semifinal Routes](england_south_africa_2023_semifinal_routes.md): also concerns South Africa, from a different source document.
+- [StarNews' Content Partnerships And Nigerian Growth](starnews_content_and_growth.md): same source document (doc_0456)
+- [StarNews Mobile's $3M Pre-Series A Round](starnews_funding_round.md): same source document (doc_0456)
+- [StarNews Mobile As An African Mobile Video Network](starnews_mobile_platform.md): same source document (doc_0456)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Telco Distribution](term_telco_distribution.md): uses the concept telco distribution
 
 ## Source
 

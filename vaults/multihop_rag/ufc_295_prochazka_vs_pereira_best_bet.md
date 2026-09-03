@@ -11,6 +11,7 @@ The warrant is explicitly epistemic rather than purely statistical. In such an e
 
 ## Related Notes
 
+
 - [Dillon Danis and Savannah Montano Relationship Status](dillon_danis_and_savannah_montano_relationship_status.md): part of the same sub-plan on UFC 295 and influencer MMA feuds, from a different source document.
 - [Dillon Danis Feud With the Paul Brothers](dillon_danis_feud_with_the_paul_brothers.md): part of the same sub-plan, from a different source document.
 - [Jake Paul Savannah Montano Hookup Claims and Denial](jake_paul_savannah_montano_hookup_claims_and_denial.md): part of the same sub-plan, from a different source document.
@@ -19,6 +20,7 @@ The warrant is explicitly epistemic rather than purely statistical. In such an e
 - [UFC 295 Dern vs Andrade Best Bet](ufc_295_dern_vs_andrade_best_bet.md): another best bet from the same article (doc_0577).
 - [UFC 295 Frevola vs Saint-Denis Best Bet](ufc_295_frevola_vs_saint_denis_best_bet.md): another best bet from the same article (doc_0577).
 - [UFC 295 Lopes vs Sabatini Best Bet](ufc_295_lopes_vs_sabatini_best_bet.md): another best bet from the same article (doc_0577).
+- [UFC 295 Best Bet: Tom Aspinall's Moneyline In A Fight Likely To End Fast](ufc_295_pavlovich_vs_aspinall_best_bet.md): same source document (doc_0577)
 
 ## Source
 

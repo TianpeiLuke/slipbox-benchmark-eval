@@ -11,6 +11,7 @@ What distinguishes it from a diet alone are its social and physical components. 
 
 ## Related Notes
 
+
 - [Cannabis Exposure and Placental Dysfunction](cannabis_exposure_and_placental_dysfunction.md): from the same diet-and-health group of sources.
 - [The Cannabis Pregnancy Study's Urine Screening Method](cannabis_pregnancy_study_urine_screening_method.md): from the same diet-and-health group of sources.
 - [Cannabis Use and the Stillbirth Association](cannabis_use_and_stillbirth_association.md): from the same diet-and-health group of sources.
@@ -19,6 +20,7 @@ What distinguishes it from a diet alone are its social and physical components. 
 - [Adapting the Mediterranean Lifestyle to Other Cultures](adapting_the_mediterranean_lifestyle_to_other_cultures.md): from the same article, on transplanting this way of living.
 - [The Mediterranean Lifestyle UK Biobank Mortality Study](mediterranean_lifestyle_uk_biobank_mortality_study.md): from the same article, testing its effect on mortality.
 - [The MEDLIFE Mediterranean Lifestyle Index](medlife_mediterranean_lifestyle_index.md): from the same article, on the instrument built to measure adherence to it.
+- [Siesta Napping and Mortality Uncertainty](siesta_napping_and_mortality_uncertainty.md): same source document (doc_0466)
 
 ## Source
 

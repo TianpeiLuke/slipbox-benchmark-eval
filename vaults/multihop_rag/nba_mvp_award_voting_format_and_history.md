@@ -13,11 +13,19 @@ The award's defining feature for bettors is the absence of a rulebook: because t
 
 ## Related Notes
 
+
 - [Benavidez vs Andrade Stylistic Breakdown and Pick](benavidez_vs_andrade_stylistic_breakdown_and_pick.md): another document referencing Michael Jordan, different sport and source
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): where MVP markets are offered, different source document
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): another document referencing the Los Angeles Lakers, different source
 - [FanDuel Sportsbook Betting Markets](fanduel_sportsbook_betting_markets.md): another book's MVP and NBA markets, different source document
 - [FTX Marketing and Influence](ftx_marketing_and_influence.md): another document referencing Steph Curry, unrelated domain
+- [Four Sportsbooks For NBA MVP Futures Betting](best_sportsbooks_for_nba_futures_betting.md): same source document (doc_0589)
+- [The Early Favourites In The 2024 NBA MVP Market](nba_mvp_2024_odds_favourites.md): same source document (doc_0589)
+- [NBA MVP Futures And Other NBA Futures Markets](nba_mvp_futures_and_other_nba_futures_markets.md): same source document (doc_0589)
+- [Opening And Funding An Online Sportsbook Account](opening_and_funding_an_online_sportsbook_account.md): same source document (doc_0589)
+- [NBA MVP Winners Since 2010](recent_nba_mvp_winners_since_2010.md): same source document (doc_0589)
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

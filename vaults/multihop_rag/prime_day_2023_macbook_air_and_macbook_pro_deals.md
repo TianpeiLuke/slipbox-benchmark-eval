@@ -11,12 +11,19 @@ The M1-powered MacBook Air (9/10, WIRED Recommends) is WIRED's favorite budget M
 
 ## Related Notes
 
+
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery-life and charging themes, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery-life and charging themes, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares the battery-life and charging themes, from a different source document.
 - [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): shares the battery-life and charging themes, from a different source document.
 - [Anker Soundcore Space A40 Earbuds](anker_soundcore_space_a40_earbuds.md): shares the battery-life and charging themes, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0600).
+- [Anker 2-In-1 MagSafe StandBy Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): same source document (doc_0600)
+- [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): same source document (doc_0600)
+- [Anker 3-In-1 MagSafe Charging Dock Deal Listings](anker_3_in_1_magsafe_charging_dock_deal_listings.md): same source document (doc_0600)
+- [Anker 737 Power Bank Deal Listings](anker_737_power_bank_deal_listings.md): same source document (doc_0600)
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

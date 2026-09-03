@@ -13,6 +13,7 @@ Two arguments came with caveats. Ja'Marr Chase (@ Jaguars) averaged over 20 yard
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also discusses Joe Burrow, from a different document.
 - [Baker Mayfield's Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also covers Mike Evans, separately sourced.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also mentions Joe Burrow and Ja'Marr Chase, in a different document.
@@ -21,6 +22,8 @@ Two arguments came with caveats. Ja'Marr Chase (@ Jaguars) averaged over 20 yard
 - [Week 13 Fantasy WR Busts to Avoid](week_13_fantasy_wr_busts_to_avoid.md): the other side of the same rankings, same source document.
 - [Week 13 Fantasy Wide Receiver Byes and Context](week_13_fantasy_wr_byes_and_context.md): the byes shaping this list, same source document.
 - [Week 13 Fantasy WR Sleepers and Waiver Adds](week_13_fantasy_wr_sleepers_and_waiver_adds.md): the deeper options below these names, same source document.
+- [Week 13 Wide Receiver Injury Report](week_13_wide_receiver_injury_report.md): same source document (doc_0114)
+- [Week 13 Wide Receiver PPR Rankings, 1-76](week_13_wr_ppr_rankings_table.md): same source document (doc_0114)
 
 ## Source
 

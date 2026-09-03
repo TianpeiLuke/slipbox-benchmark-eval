@@ -11,6 +11,7 @@ Pinkett Smith credits both of her children with her own development, calling the
 
 ## Related Notes
 
+
 - [Will Smith Baltimore Book Event Remarks On Brutiful Marriage](will_smith_baltimore_book_event_remarks_on_brutiful_marriage.md): Will Smith's Baltimore remarks also credit Jada's relationship with Sheree Zampino for letting all three children grow up together
 - [Counterargument Separations Reschedule Rather Than Resolve Problems](counterargument_separations_reschedule_rather_than_resolve_problems.md): expert commentary from the same article about the couple's separation
 - [Expert Debate Over The Oscars Slap Given The Separation](expert_debate_over_the_oscars_slap_given_the_separation.md): same source article's reassessment of the 2022 Oscars incident
@@ -19,6 +20,8 @@ Pinkett Smith credits both of her children with her own development, calling the
 - [Jada Pinkett Smith August Alsina Entanglement](jada_pinkett_smith_august_alsina_entanglement.md): the separation-era relationship reported in the same article
 - [Separation As An Alternative To Divorce Lat Partnership](separation_as_an_alternative_to_divorce_lat_partnership.md): the expert framing of long separations from the same article
 - [Terms Of A Separation Agreement Determine Its Outcome](terms_of_a_separation_agreement_determine_its_outcome.md): same article's point that a separation's terms decide where it leads
+- [The Smiths' 2021 Public Accounts Of Marital Strain](will_and_jada_2021_public_accounts_of_marital_strain.md): same source document (doc_0018)
+- [Will And Jada As A New, Unconventional Marriage Model](will_and_jada_as_an_unconventional_marriage_model.md): same source document (doc_0036)
 
 ## Source
 

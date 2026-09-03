@@ -13,6 +13,7 @@ The second ground is debt reduction, with a stated scope condition. "The governm
 
 ## Related Notes
 
+
 - [AI Pricing Models](ai_pricing_models.md): shares a corpus-level content tag with this note.
 - [Amex Cash Magnet Cardholder Benefits](amex_cash_magnet_cardholder_benefits.md): shares the consumer-credit content tag used across the corpus.
 - [Amex Cash Magnet Rates and Fees](amex_cash_magnet_rates_and_fees.md): shares the consumer-credit content tag used across the corpus.
@@ -21,6 +22,12 @@ The second ground is debt reduction, with a stated scope condition. "The governm
 - [Apple Versus Google Antitrust Conduct Contrast](apple_versus_google_antitrust_conduct_contrast.md): shares a corpus-level content tag with this note.
 - [Balanced Versus Deficit Budget in Philippine Fiscal Practice](balanced_versus_deficit_budget_in_philippine_fiscal_practice.md): the definitions this argument builds on.
 - [Britney Spears and Kevin Federline Marriage and Divorce](britney_spears_kevin_federline_marriage_and_divorce.md): shares a corpus-level content tag with this note.
+- [Critique of Political Agendas in the Philippine Budget](critique_of_political_agendas_in_the_philippine_budget.md): same source document (doc_0306)
+- [Philippine 2024 Budget Deficit and Debt Trajectory](philippine_2024_budget_deficit_and_debt_trajectory.md): same source document (doc_0306)
+- [Philippine House Approval of the 2024 National Budget](philippine_house_approval_of_the_2024_national_budget.md): same source document (doc_0306)
+- [Philippine Inflation and Deficit Vicious Cycle](philippine_inflation_and_deficit_vicious_cycle.md): same source document (doc_0306)
+- [Philippine National Government Budget Definition](philippine_national_government_budget_definition.md): same source document (doc_0306)
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
 
 ## Source
 

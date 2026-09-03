@@ -17,6 +17,7 @@ Markov's father, Dmitri, famously won the men's pole vault at the 2001 world cha
 
 ## Related Notes
 
+
 - [AFLW 2023 Finals Qualification and Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): also discusses Gold Coast, from a different source document.
 - [AFLW Crowds Short of Season Extension Targets](aflw_crowds_short_of_season_extension_targets.md): also discusses Gold Coast, from a different source document.
 - [Gold Coast Suns Second AFLW Finals Appearance](gold_coast_suns_second_aflw_finals_appearance.md): also discusses Gold Coast, the club that delisted Markov, from a different source document.
@@ -25,6 +26,8 @@ Markov's father, Dmitri, famously won the men's pole vault at the 2001 world cha
 - [Brayden Maynard Collingwood Dynasty Ambition](brayden_maynard_collingwood_dynasty_ambition.md): same source document, on another Magpie's view of the premiership.
 - [Collingwood Players Who Missed Out On The 2023 Premiership](collingwood_2023_premiership_players_who_missed_out.md): same source document, where Markov argues for recognising players who miss out.
 - [Collingwood Post-Premiership Celebration and Club History](collingwood_post_premiership_celebration_and_club_history.md): same source document, on the club celebrations Markov took part in.
+- [Craig McRae's "44 Sons" Shirt Collar Message](craig_mcrae_44_sons_shirt_collar_message.md): same source document (doc_0220)
+- [Jeremy Howe Played Out The 2023 Grand Final With Bruised Ribs](jeremy_howe_rib_injury_2023_afl_grand_final.md): same source document (doc_0220)
 
 ## Source
 

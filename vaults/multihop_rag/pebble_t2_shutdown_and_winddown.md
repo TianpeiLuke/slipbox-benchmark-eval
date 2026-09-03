@@ -11,12 +11,19 @@ With Pebble's winddown, announced to users at 9 AM PT that day, early adopters w
 
 ## Related Notes
 
+
 - [Pebble's Multifactor Shutdown Explanation](pebble_shutdown_multifactor_explanation.md): same source document; the combination of causes behind the closure.
 - [The Twitter-Alternative Market](twitter_alternative_market_competition.md): same source document; the competitive field that overwhelmed Pebble.
 - [Pebble's Traction Metrics And Angel Funding](pebble_traction_metrics_and_angel_funding.md): same source document; the growth signals that nonetheless proved insufficient.
 - [The T2 To Pebble Rebrand Misstep](t2_to_pebble_rebrand_misstep.md): same source document; the rename linked to the drop in daily users.
 - [Founder Lessons From Pebble](founder_lessons_from_pebble.md): same source document; what the team takes from the experience.
 - [Post-Twitter Social App Landscape](post_twitter_social_app_landscape.md): overlaps in content on Pebble, users and Twitter alternatives, from a different source document.
+- [Pebble's Electric Travel Trailer](pebble_electric_travel_trailer.md): content overlap 0.10 on pebble, startup; different source document
+- [Pebble/T2's Shutdown As A Warning To Moderation-First Products](pebble_t2_moderation_first_twitter_clone_shutdown.md): content overlap 0.12 on pebble, users, twitter; different source document
+- [The Kindness Versus Engagement Trade-Off](kindness_versus_engagement_tradeoff.md): same source document (doc_0593)
+- [Pebble's Missing Native Mobile App](pebble_missing_native_mobile_app.md): same source document (doc_0593)
+- [Pebble's Moderation Approach Defense](pebble_moderation_approach_defense.md): same source document (doc_0593)
+- [Pebble's Moderation-First Market Hypothesis](pebble_moderation_first_market_hypothesis.md): same source document (doc_0593)
 
 ## Source
 

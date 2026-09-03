@@ -13,12 +13,19 @@ Compared with the Go 2, the Go 3's Intel Core i5 processor is 12th gen versus th
 
 ## Related Notes
 
+
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): same roundup, on the sale window
 - [Amazon 65 Inch Fire Tv Qled Deal](amazon_65_inch_fire_tv_qled_deal.md): same roundup, another featured deal
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): another Amazon sale event, different document
 - [Airpods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): another discount listing from the same sale season
 - [Amazon Fire Tv Stick Deals](amazon_fire_tv_stick_deals.md): another Black Friday/Cyber Monday discount listing
 - [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): another discount listing from the same sale season
+- [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares black_friday_cyber_monday, discount_and_msrp; different source document
+- [Amazon Echo Show, Audible And Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): same source document (doc_0000)
+- [Bose QuietComfort 45 Headphones Deal Prices](bose_quietcomfort_45_headphones.md): same source document (doc_0000)
+- [iPad 10th Generation Cyber Monday Deal](ipad_10th_generation_cyber_monday_deal.md): same source document (doc_0000)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

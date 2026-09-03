@@ -13,11 +13,19 @@ Nocturne picks up three centuries later. Trevor and Sypha may be dead, but their
 
 ## Related Notes
 
+
 - [Castlevania: Nocturne Premise and Richter Belmont](castlevania_nocturne_premise_and_richter_belmont.md): covers the same series and its French Revolution setting, from a different source document
 - [Castlevania: Nocturne Surpasses the Original Netflix Series](castlevania_nocturne_surpasses_the_original_netflix_series.md): makes the same comparison to the original series, in a separate article
 - [Crimes of the Future (2022, David Cronenberg)](crimes_of_the_future_2022_david_cronenberg.md): another write-up by the same critic, Toussaint Egan
 - [Messiah of Evil (1973 Cosmic Horror)](messiah_of_evil_1973_cosmic_horror.md): shares the same bylined critic across documents
 - [Nocturne as a Critique of Revolutionary France and Colonialism](nocturne_as_a_critique_of_revolutionary_france_colonialism.md): a thematic reading of the same series, from a different document
+- [Andor (Disney Plus)](andor_disney_plus.md): same source document (doc_0185)
+- [Gen V (Prime Video)](gen_v_prime_video.md): same source document (doc_0185)
+- [Hijack (Apple TV Plus)](hijack_apple_tv_plus.md): same source document (doc_0185)
+- [Scope and Update Policy of Polygon's Best New Streaming Series Roundup](polygon_best_new_streaming_series_roundup_scope.md): same source document (doc_0185)
+- [Reservation Dogs (Hulu)](reservation_dogs_hulu.md): same source document (doc_0185)
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

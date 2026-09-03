@@ -13,6 +13,7 @@ There was one partial exception, and it exposed a second problem: Gemini Pro did
 
 ## Related Notes
 
+
 - [ChatGPT Competitive Response Across AI Industry](chatgpt_competitive_response_across_ai_industry.md): overlapping coverage of Gemini, Google and ChatGPT, from a different source document.
 - [Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): also concerns Google Search, from a different source document.
 - [Epic Rebuttal Of Google's Leaked Email Summary](epic_rebuttal_of_googles_leaked_email_summary.md): overlapping vocabulary of summaries and Google, from a different source document.
@@ -21,6 +22,8 @@ There was one partial exception, and it exposed a second problem: Gemini Pro did
 - [Gemini Pro Coding Task Failures](gemini_pro_coding_task_failures.md): drawn from the same source document (doc_0126), a parallel failure mode in code.
 - [Gemini Pro Factual Errors And Confabulation](gemini_pro_factual_errors_and_confabulation.md): drawn from the same source document (doc_0126), on wrong rather than withheld answers.
 - [Gemini Pro Falls Short Of Google's Benchmark Claims](gemini_pro_falls_short_of_googles_benchmark_claims.md): drawn from the same source document (doc_0126), the argument these refusals support.
+- [Robust Intelligence's Jailbreak Of Gemini Pro](gemini_pro_jailbreak_by_robust_intelligence.md): same source document (doc_0126)
+- [Gemini Pro's Translation And Multilingual Weakness](gemini_pro_translation_and_multilingual_weakness.md): same source document (doc_0126)
 
 ## Source
 

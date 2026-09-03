@@ -11,6 +11,7 @@ The article treats this as evidence that the case for the fediverse is not a par
 
 ## Related Notes
 
+
 - [Social Networks' Drift From Connection To Algorithmic Feeds](social_networks_drift_from_connection_to_algorithmic_feeds.md): overlapping coverage of centralized platforms, Bluesky and Twitter, from a different source document.
 - [Unfinished Woman: Robyn Davidson's Memoir](unfinished_woman_robyn_davidson_memoir.md): overlapping language about being acutely aware, from a different source document.
 - [ActivityPub And Rival Social Protocols](activitypub_and_rival_social_protocols.md): drawn from the same source document (doc_0508).
@@ -19,6 +20,8 @@ The article treats this as evidence that the case for the fediverse is not a par
 - [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): drawn from the same source document (doc_0508).
 - [Decentralization As A Free Market, Not An Anti-Capitalist Project](decentralization_as_a_free_market_not_an_anti_capitalist_project.md): drawn from the same source document (doc_0508).
 - [Early Fediverse Messiness As A Product Opportunity](early_fediverse_messiness_as_a_product_opportunity.md): drawn from the same source document (doc_0508).
+- [Federation Alone Is Not A Product Advantage](federation_alone_is_not_a_product_advantage.md): same source document (doc_0508)
+- [The Fediverse Definition And The Email Analogy](fediverse_definition_and_the_email_analogy.md): same source document (doc_0508)
 
 ## Source
 

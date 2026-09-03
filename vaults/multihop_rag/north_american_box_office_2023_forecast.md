@@ -11,6 +11,7 @@ The proposition is anchored by two comparison points that would show whether it 
 
 ## Related Notes
 
+
 - [Alameda Research](alameda_research.md): overlapping billion-dollar framing from a different source document.
 - [Canada-Jamaica Second Leg: Kickoff And Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): also concerns North American markets, from a different source document.
 - [Crosby, Malkin And Letang's Eighteenth Season Together](crosby_malkin_letang_eighteenth_season_together.md): also concerns North American markets, from a different source document.
@@ -18,6 +19,10 @@ The proposition is anchored by two comparison points that would show whether it 
 - [FTX](ftx.md): overlapping billion-dollar framing from a different source document.
 - [The AMC-Taylor Swift Direct Distribution Deal](amc_taylor_swift_direct_distribution_deal.md): drawn from the same source document (doc_0419).
 - [Biggest Concert Films: Box Office Records](biggest_concert_films_box_office_records.md): drawn from the same source document (doc_0419).
+- [Marcus Corporation's Preparations For Eras Tour Screenings](marcus_corporation_preparations_for_eras_tour_screenings.md): same source document (doc_0419)
+- [Movie Theaters' Pivot To Alternative Content](movie_theaters_pivot_to_alternative_content.md): same source document (doc_0419)
+- [The Paramount Consent Decrees And Their Termination](paramount_consent_decrees_termination_and_distribution.md): same source document (doc_0419)
+- [Box Office](term_box_office.md): uses the concept box office
 
 ## Source
 

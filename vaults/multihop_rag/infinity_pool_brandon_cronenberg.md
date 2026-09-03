@@ -13,6 +13,7 @@ Polygon's Austen Goslin calls it queasy and fascinating, and perhaps 2023's most
 
 ## Related Notes
 
+
 - [Annihilation (2018, Alex Garland)](annihilation_2018_alex_garland_film.md): another write-up by the same critic, Austen Goslin, in a different document
 - [Dubai Beach Clubs and Food Festival](dubai_beach_clubs_and_food_festival.md): incidental phrase overlap on "infinity pool" from an unrelated source
 - [Hereditary (2018, Ari Aster)](hereditary_2018_ari_aster_film.md): another Austen Goslin horror piece from a separate article
@@ -21,6 +22,8 @@ Polygon's Austen Goslin calls it queasy and fascinating, and perhaps 2023's most
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 article
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): a fellow entry on the same ranked list
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
 
 ## Source
 

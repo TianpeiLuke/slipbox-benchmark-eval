@@ -15,6 +15,7 @@ The writer's own choice, after reading all the notes and doing some research, is
 
 ## Related Notes
 
+
 - [Bad Blood: The Taylor Swift And Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): shares a "You Need" title overlap, from a different source document.
 - [Installer Reader Game And App Picks](installer_reader_game_and_app_picks.md): drawn from the same source document (doc_0607).
 - [Installer Reader Podcast And TV Picks](installer_reader_podcast_and_tv_picks.md): drawn from the same source document (doc_0607).
@@ -23,6 +24,7 @@ The writer's own choice, after reading all the notes and doing some research, is
 - [Kevin Nguyen's Non-Writing iPhone Apps](kevin_nguyen_non_writing_iphone_apps.md): drawn from the same source document (doc_0607).
 - [The Mint Shutdown And The Hunt For Money Apps](mint_shutdown_and_the_hunt_for_money_apps.md): drawn from the same source document (doc_0607).
 - [Spreadsheets And DIY Money Tracking Systems](spreadsheet_and_diy_money_tracking_systems.md): drawn from the same source document (doc_0607).
+- [Tumblr's Uncertain Future](tumblr_uncertain_future.md): same source document (doc_0607)
 
 ## Source
 

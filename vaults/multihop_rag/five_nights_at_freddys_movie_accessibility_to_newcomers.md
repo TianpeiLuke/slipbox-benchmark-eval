@@ -15,6 +15,7 @@ The warrant Polygon draws is a distinction between comprehension and caring: com
 
 ## Related Notes
 
+
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): both mention Five Nights at Freddy's, from a different source document
 - [Apple 2023 Top iPhone Apps and Games Lists](apple_2023_top_iphone_apps_and_games_lists.md): another Five Nights reference from a separate article
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares the creator-economy topic tag despite unrelated subject matter
@@ -23,6 +24,12 @@ The warrant Polygon draws is a distinction between comprehension and caring: com
 - [AI-Generated Works Should Not Be Copyrightable](ai_generated_works_should_not_be_copyrightable.md): shares a topic tag from an unrelated article
 - [AI Training Fails the Fair Use Test](ai_training_fails_fair_use_test.md): shares the creator-economy tag
 - [AMO Scale Ambition and Product Roadmap](amo_scale_ambition_and_product_roadmap.md): shares a topic tag from a different document
+- [Age Appropriateness of the Five Nights at Freddy's Movie](five_nights_at_freddys_movie_age_appropriateness.md): same source document (doc_0387)
+- [Five Nights at Freddy's Movie Development and Release](five_nights_at_freddys_movie_development_and_release.md): same source document (doc_0387)
+- [Five Nights at Freddy's Movie Mid-Credits Scene](five_nights_at_freddys_movie_mid_credits_scene.md): same source document (doc_0387)
+- [The Movie's Simplified Lore Cuts Against the "For the Fans" Framing](five_nights_at_freddys_movie_simplified_lore_for_fans.md): same source document (doc_0387)
+- [Willy's Wonderland (Nicolas Cage Animatronic Horror)](willys_wonderland_nicolas_cage_animatronic_horror.md): same source document (doc_0387)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

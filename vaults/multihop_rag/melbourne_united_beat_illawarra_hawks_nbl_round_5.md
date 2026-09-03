@@ -15,6 +15,7 @@ Defence was key in the second half as both sides tightened up, with Melbourne ho
 
 ## Related Notes
 
+
 - [Melbourne United Beat Illawarra Hawks in Wollongong Round 4](melbourne_united_beat_illawarra_hawks_in_wollongong_round_4.md): the same fixture a round earlier, covering Ariel Hukporti and Gary Clark
 - [Melbourne United Beat New Zealand Breakers Round 4](melbourne_united_beat_new_zealand_breakers_round_4.md): another United win covering Chris Goulding and Ian Clark
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): another round 5 result, same source document
@@ -23,6 +24,8 @@ Defence was key in the second half as both sides tightened up, with Melbourne ho
 - [Brisbane Bullets Beat Tasmania JackJumpers NBL Round 5](brisbane_bullets_beat_tasmania_jackjumpers_nbl_round_5.md): another round 5 result, same source document
 - [Cairns Taipans Beat Sydney Kings and Patrick Miller Injury](cairns_taipans_beat_sydney_kings_and_patrick_miller_injury.md): another round 5 result, same source document
 - [Melbourne United Beat Tasmania JackJumpers in Hobart Round 5](melbourne_united_beat_tasmania_jackjumpers_in_hobart_round_5.md): United's other round 5 win, same source document
+- [Phoenix Survive A Late Scare To Beat New Zealand 103-100](south_east_melbourne_phoenix_beat_new_zealand_breakers_round_5.md): same source document (doc_0240)
+- [Tyler Harvey's Buzzer-Beater Sinks Cairns 84-83](tyler_harvey_buzzer_beater_hawks_beat_taipans_round_5.md): same source document (doc_0240)
 
 ## Source
 

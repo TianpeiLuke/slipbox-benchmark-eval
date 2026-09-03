@@ -11,6 +11,7 @@ CEO Horace Luke put a figure on the eventual commitment: "If you think about Pan
 
 ## Related Notes
 
+
 - [NIO Power Swap Station Network](nio_power_swap_station_network.md): overlapping coverage of a battery-swap station network's expansion, from a different source document.
 - [Prime Day 2023 Portable Power Station Deals](prime_day_2023_portable_power_station_deals.md): shares the power-station vocabulary, from a different source document.
 - [Battery Swapping Ecosystem And Unit Economics Challenges](battery_swapping_ecosystem_and_unit_economics_challenges.md): drawn from the same source document (doc_0216), on the difficulty of building out the network.
@@ -19,6 +20,8 @@ CEO Horace Luke put a figure on the eventual commitment: "If you think about Pan
 - [Gogoro Hero MotoCorp Partnership Stall](gogoro_hero_motocorp_partnership_stall.md): drawn from the same source document (doc_0216), on partners waiting for the network to go live.
 - [Gogoro India Commercial Launch And Investments](gogoro_india_commercial_launch_and_investments.md): drawn from the same source document (doc_0216), on the investments behind the rollout.
 - [Gogoro India Market Entry Rationale](gogoro_india_market_entry_rationale.md): drawn from the same source document (doc_0216), on why India was chosen.
+- [Gogoro's Declining Taiwan Business](gogoro_taiwan_business_decline.md): same source document (doc_0216)
+- [India's Electric Two-Wheeler Market Conditions](india_electric_two_wheeler_market_conditions.md): same source document (doc_0216)
 
 ## Source
 

@@ -13,11 +13,15 @@ The full 2024 pricing structure, courtesy of Inter Miami's season ticketing rele
 
 ## Related Notes
 
+
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): also discusses Lionel Messi.
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also discusses Lionel Messi.
 - [Argentina Second Half and Messi Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): also discusses Lionel Messi.
 - [Bayern Munich 1-0 Manchester United Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns Champions League clubs.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns Champions League clubs.
+- [Inter Miami Supporters Protested The 2024 Price Hike By Sitting In Silence](inter_miami_fan_backlash_to_2024_ticket_prices.md): same source document (doc_0203)
+- [How Inter Miami's 2024 Prices Compare To Europe, The NFL, The NBA And MLS](inter_miami_ticket_prices_vs_global_football_and_us_sports.md): same source document (doc_0203)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

@@ -11,12 +11,17 @@ Sotos-Prieto and researchers from the Universidad Autónoma de Madrid in Spain a
 
 ## Related Notes
 
+
 - [Bhavik Patel Appointed Mayo Clinic Arizona Chief AI Officer](bhavik_patel_appointed_mayo_clinic_arizona_chief_ai_officer.md): another item involving the Mayo Clinic.
 - [E-E-A-T and the Shift to Institutional Authority](eeat_and_the_shift_to_institutional_authority.md): another item referencing the Mayo Clinic.
 - [Gastroparesis, Pancreatitis, Bowel Obstruction and Ileus](gastroparesis_pancreatitis_bowel_obstruction_and_ileus.md): another item referencing the Mayo Clinic.
 - [Mayo Clinic AI Models for Heart Attack and Cancer Risk](mayo_clinic_ai_models_for_heart_attack_and_cancer_risk.md): another item involving the Mayo Clinic.
 - [Robin Williams, Lewy Body Dementia and His 2014 Death](robin_williams_lewy_body_dementia_and_2014_death.md): another item referencing the Mayo Clinic.
 - [Adapting the Mediterranean Lifestyle to Other Cultures](adapting_the_mediterranean_lifestyle_to_other_cultures.md): from the same article, on turning these results into practice.
+- [The Mediterranean Lifestyle Defined](mediterranean_lifestyle_definition.md): same source document (doc_0466)
+- [The MEDLIFE Mediterranean Lifestyle Index](medlife_mediterranean_lifestyle_index.md): same source document (doc_0466)
+- [Siesta Napping and Mortality Uncertainty](siesta_napping_and_mortality_uncertainty.md): same source document (doc_0466)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
 
 ## Source
 

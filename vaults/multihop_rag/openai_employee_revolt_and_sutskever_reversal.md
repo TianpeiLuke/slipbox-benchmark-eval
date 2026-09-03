@@ -11,6 +11,7 @@ Sutskever publicly reversed himself, publishing a post on X suggesting that he r
 
 ## Related Notes
 
+
 - [Analyst Assessment of Altman Departure Impact](analyst_assessment_of_altman_departure_impact.md): substantial content overlap on altman, openai, meeting, from a different source document.
 - [Greg Brockman Account of Altman Removal](greg_brockman_account_of_altman_removal.md): substantial content overlap on sutskever, altman, openai, from a different source document.
 - [Musk OpenAI Founding and Departure](musk_openai_founding_and_departure.md): also covers Ilya Sutskever, from a different source document.
@@ -19,6 +20,8 @@ Sutskever publicly reversed himself, publishing a post on X suggesting that he r
 - [Greg Brockman Departure from OpenAI](greg_brockman_departure_from_openai.md): drawn from the same source document, doc_0415.
 - [Microsoft OpenAI Partnership and Response to Firing](microsoft_openai_partnership_and_response_to_firing.md): drawn from the same source document, doc_0415.
 - [OpenAI Board Composition and Helen Toner Dispute](openai_board_composition_and_helen_toner_dispute.md): drawn from the same source document, doc_0415.
+- [OpenAI Board's Merger Approach To Anthropic](openai_board_merger_approach_to_anthropic.md): same source document (doc_0415)
+- [OpenAI Board Negotiations Over Altman Reinstatement](openai_board_negotiations_over_altman_reinstatement.md): same source document (doc_0415)
 
 ## Source
 

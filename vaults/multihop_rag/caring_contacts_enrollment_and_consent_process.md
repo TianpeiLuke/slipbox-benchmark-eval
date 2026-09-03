@@ -13,6 +13,7 @@ Enrollment is then completed by the guardian, and it authorizes a fixed span of 
 
 ## Related Notes
 
+
 - [Risk of Missing HIV Screening with at Home Tests](risk_of_missing_hiv_screening_with_at_home_tests.md): overlapping vocabulary on patient, screening, patients, from a different source document.
 - [Caring Contacts Effect on Social Work Staff](caring_contacts_effect_on_social_work_staff.md): drawn from the same source document (doc_0158).
 - [Caring Contacts Origin and May 2020 Launch](caring_contacts_origin_and_may_2020_launch.md): drawn from the same source document (doc_0158).
@@ -21,6 +22,8 @@ Enrollment is then completed by the guardian, and it authorizes a fixed span of 
 - [Caring Contacts Replication Kit and National Interest](caring_contacts_replication_kit_and_national_interest.md): drawn from the same source document (doc_0158).
 - [Handwritten Cards as Low Tech Suicide Prevention](handwritten_cards_as_low_tech_suicide_prevention.md): drawn from the same source document (doc_0158).
 - [Pediatric Suicide Follow up Care Gap](pediatric_suicide_follow_up_care_gap.md): drawn from the same source document (doc_0158).
+- [The 988 Suicide And Crisis Lifeline Advisory](suicide_and_crisis_lifeline_988_advisory.md): same source document (doc_0158)
+- [Why Caring Contacts Works, According To Schalley](why_caring_contacts_works_schalley_explanation.md): same source document (doc_0158)
 
 ## Source
 

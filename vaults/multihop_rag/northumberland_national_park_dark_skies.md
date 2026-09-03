@@ -11,6 +11,7 @@ The limiting condition is solar activity: lights are only usually visible here a
 
 ## Related Notes
 
+
 - [Aurora Displays Over Britain And Ireland, November 2023](aurora_displays_over_britain_and_ireland_november_2023.md): a specific UK aurora event reported in a different document
 - [Aurora Sightings Beyond Usual Latitudes: Greece, Turkey, Australia](aurora_sightings_beyond_usual_latitudes_greece_turkey_australia.md): auroras seen at unusually low latitudes, from a different source
 - [How Geomagnetic Storms Produce Auroras](how_geomagnetic_storms_produce_auroras.md): the storm mechanism this site depends on, explained elsewhere
@@ -19,6 +20,8 @@ The limiting condition is solar activity: lights are only usually visible here a
 - [Cairngorms Dark Sky Aurora Viewing](cairngorms_dark_sky_aurora_viewing.md): the other International Dark Sky Park in the same guide
 - [Hebrides Aurora Viewing](hebrides_aurora_viewing.md): another UK site from the same guide
 - [Lake District Aurora Viewing](lake_district_aurora_viewing.md): another English site from the same guide
+- [How The Aurora Works And Where In The UK It Can Be Seen](northern_lights_uk_visibility_and_aurora_mechanism.md): same source document (doc_0555)
+- [Shetland: Britain's Most Northerly Point, Closest To The North Pole](shetland_isles_aurora_viewing.md): same source document (doc_0555)
 
 ## Source
 

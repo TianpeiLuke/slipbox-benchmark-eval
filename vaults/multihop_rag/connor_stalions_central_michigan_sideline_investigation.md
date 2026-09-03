@@ -13,11 +13,18 @@ Stalions' place in the wider case is set out. Suspended with pay by Michigan on 
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): also discusses the Big Ten, from a different document.
 - [Alabama's CFP-Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also discusses the Big Ten, from a different document.
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): also discusses the Big Ten and Michigan State, from a different document.
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): covers the punishment question this incident sharpened, from a different document.
 - [Big Ten Head Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): covers how a staffer's conduct can reach the head coach, from a different document.
+- [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): same source document (doc_0504)
+- [Big Ten Commissioner Petitti's Punishment Dilemma](big_ten_commissioner_petitti_punishment_dilemma.md): same source document (doc_0504)
+- [The Case That Michigan's Sign-Stealing Was Systematic Cheating](case_that_michigan_sign_stealing_was_systematic_cheating.md): same source document (doc_0504)
+- [Michigan Expected To Face No Big Ten Penalty Before The Season's End](michigan_expected_to_face_no_big_ten_penalty_before_season_end.md): same source document (doc_0504)
+- [The NCAA Investigation Into Michigan's Scouting Scheme](ncaa_investigation_into_michigan_scouting_scheme.md): same source document (doc_0504)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
 
 ## Source
 

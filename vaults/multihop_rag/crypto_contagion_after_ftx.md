@@ -11,6 +11,7 @@ The damage was reputational as well as financial. In TechCrunch's 2023-10-02 pie
 
 ## Related Notes
 
+
 - [SBF Taking The Stand As A "Hail Mary"](sbf_taking_the_stand.md): from the same FTX-trial cluster, drawn from a different source document.
 - [Testimony At The SBF Trial](sbf_trial_testimony.md): from the same FTX-trial cluster, drawn from a different source document.
 - [Alameda Research](alameda_research.md): drawn from the same source document (doc_0010).
@@ -19,6 +20,9 @@ The damage was reputational as well as financial. In TechCrunch's 2023-10-02 pie
 - [The Mechanism Of FTX's Collapse](ftx_collapse_mechanism.md): drawn from the same source document (doc_0030), and it describes the collapse whose fallout is recorded here.
 - [FTX's Cooperating Witnesses](ftx_cooperating_witnesses.md): drawn from the same source document (doc_0010).
 - [FTX's Marketing And Political Influence](ftx_marketing_and_influence.md): drawn from the same source document (doc_0030).
+- [Reaction To Lewis's Portrayal Of SBF](reaction_to_lewis_portrayal.md): same source document (doc_0030)
+- [Sam Bankman-Fried](sam_bankman_fried.md): same source document (doc_0030)
+- [Chapter 11 (Bankruptcy)](term_chapter_11.md): uses the concept chapter 11
 
 ## Source
 

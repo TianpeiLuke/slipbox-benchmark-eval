@@ -11,9 +11,18 @@ The third layer is to assess each company's valuation against its own long-term,
 
 ## Related Notes
 
+
 - [HSF Eight Day Delay In Flagging Valuation Concern](hsf_eight_day_delay_in_flagging_valuation_concern.md): turns on scrutiny applied to a valuation, from a different source document.
 - [Reliance Industries Sum Of The Parts Valuation Case](reliance_industries_sum_of_the_parts_valuation_case.md): weighs valuations against growth for an Indian company, from a different source document.
 - [Bharti Airtel EV EBITDA Valuation Case](bharti_airtel_ev_ebitda_valuation_case.md): drawn from the same article and is a case where a multiple was read against growth, exactly as this procedure prescribes.
+- [Enterprise Value Multiples](enterprise_value_multiples.md): same source document (doc_0418)
+- [Equity Multiples Must Use Shareholder Line Items](equity_multiples_and_shareholder_line_items.md): same source document (doc_0418)
+- [Equity Valuations Must Be Judged Against Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): same source document (doc_0418)
+- [Ketchup Economics: The Peer-Multiple Fallacy](ketchup_economics_peer_multiple_fallacy.md): same source document (doc_0418)
+- [Leverage Amplifies The Effect Of An EV Change On Equity Value](leverage_amplifies_ev_change_on_equity_value.md): same source document (doc_0418)
+- [Non-P&L Multiples Are Only Usable With A Credible Story](non_pl_multiples_require_a_credible_story.md): same source document (doc_0418)
+- [Price To EBITDA Hides Debt: A Worked Example](price_to_ebitda_ignores_debt_worked_example.md): same source document (doc_0418)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

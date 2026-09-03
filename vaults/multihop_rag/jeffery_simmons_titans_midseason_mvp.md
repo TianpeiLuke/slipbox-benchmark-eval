@@ -11,6 +11,7 @@ The grounds are his team-relative production and the counterfactual attached to 
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also concerns Tennessee, from a different document.
 - [Colorado Offensive Line Sacks Allowed 2023](colorado_offensive_line_sacks_allowed_2023.md): overlaps on sacks-allowed measures, from a different document.
 - [Colts 31-28 Titans Overtime Week 13](colts_31_28_titans_overtime_week_13.md): also concerns the Titans, from a different document.
@@ -19,6 +20,8 @@ The grounds are his team-relative production and the counterfactual attached to 
 - [CJ Stroud Texans Midseason MVP](cj_stroud_texans_midseason_mvp.md): another entry in the same list, from the same document.
 - [Jabrill Peppers Patriots Midseason MVP](jabrill_peppers_patriots_midseason_mvp.md): another entry in the same list, from the same document.
 - [Joe Burrow Bengals Midseason MVP](joe_burrow_bengals_midseason_mvp.md): another entry in the same list, from the same document.
+- [Josh Allen Bills Midseason MVP](josh_allen_bills_midseason_mvp.md): same source document (doc_0515)
+- [Keenan Allen Chargers Midseason MVP](keenan_allen_chargers_midseason_mvp.md): same source document (doc_0515)
 
 ## Source
 

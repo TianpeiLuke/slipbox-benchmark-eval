@@ -11,10 +11,17 @@ On cross-examination, defense attorney Christian Everdell asked about the long h
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): another account of the same witness's evidence, from a different source document.
 - [Why FTX Trial Coverage Favors the Prosecution](why_ftx_trial_coverage_favors_the_prosecution.md): a critique of how such testimony is reported, from a different source document.
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): the direct testimony this cross-examination followed (doc_0226).
 - [Alameda's Special Privileges in FTX's Code](alameda_special_privileges_in_ftx_code.md): the code and conduct he came to view as fraudulent (doc_0226).
+- [FTX's Final Days And The Alameda Shortfall, As Wang Described Them](ftx_final_days_and_alameda_shortfall.md): same source document (doc_0226)
+- [Gary Wang's Testimony At The FTX Fraud Trial](gary_wang_testimony_ftx_fraud_trial.md): same source document (doc_0226)
+- [Matt Huang And Paradigm's FTX Investment](matt_huang_paradigm_ftx_investment.md): same source document (doc_0226)
+- [Sam Bankman-Fried's Federal Fraud Trial](sam_bankman_fried_federal_fraud_trial.md): same source document (doc_0226)
+- [Wang's Cooperation Agreement With Prosecutors](wang_cooperation_agreement_with_prosecutors.md): same source document (doc_0226)
+- [Board Governance](term_board_governance.md): uses the concept board governance
 
 ## Source
 

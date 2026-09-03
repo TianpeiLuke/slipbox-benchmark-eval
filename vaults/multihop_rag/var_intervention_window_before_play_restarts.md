@@ -11,6 +11,7 @@ It was unclear exactly why the incident went unreviewed, but the assumption offe
 
 ## Related Notes
 
+
 - [Kaulig Racing No. 16 2024 Driver Uncertainty](kaulig_racing_no_16_2024_driver_uncertainty.md): shares the pattern of reasoning from an assumption when the exact cause is unclear, from a different document.
 - [Attacking Handball Automatic Foul Rule](attacking_handball_automatic_foul_rule.md): the other officiating rule explained in this article, from the same document.
 - [Destiny Udogie's Tackle Escapes a Red Card](destiny_udogie_tackle_escapes_red_card.md): an incident that VAR did check in the same half, from the same document.
@@ -19,6 +20,8 @@ It was unclear exactly why the incident went unreviewed, but the assumption offe
 - [Reece James' Elbow on Udogie: No Red Card](reece_james_elbow_on_udogie_no_red_card.md): another reviewed incident in the same half, from the same document.
 - [Romero Red Card and Palmer Penalty Equaliser](romero_red_card_and_palmer_penalty_equaliser.md): the review that did lead to a red card, from the same document.
 - [Romero's Unchecked Kick-Out on Colwill](romero_unchecked_kick_out_on_colwill.md): the unreviewed passage of play this explains, from the same document.
+- [Sterling's Equaliser Disallowed For Handball](sterling_equaliser_disallowed_for_handball.md): same source document (doc_0379)
+- [Tottenham-Chelsea First Half VAR Chaos](tottenham_chelsea_first_half_var_chaos.md): same source document (doc_0379)
 
 ## Source
 

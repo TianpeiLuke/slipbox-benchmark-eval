@@ -13,6 +13,7 @@ The industry body's view is that this is welcome. Ukie, which represents games c
 
 ## Related Notes
 
+
 - [Activision Blizzard Union Stalling And Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): also concerns Activision Blizzard, from a different source document.
 - [Activision, Riot And Supercell's Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): also concerns Activision Blizzard, from a different source document.
 - [Google's Project Hug Developer Incentive Program](google_project_hug_developer_incentive_program.md): also concerns Activision Blizzard, from a different source document.
@@ -21,6 +22,8 @@ The industry body's view is that this is welcome. Ukie, which represents games c
 - [Activision Titles On Xbox Game Pass](activision_titles_on_xbox_game_pass.md): drawn from the same source document (doc_0214).
 - [Call Of Duty's PlayStation Availability After The Microsoft Deal](call_of_duty_playstation_availability_after_microsoft_deal.md): drawn from the same source document (doc_0214).
 - [Fan Opposition To Activision Console Exclusivity Risk](fan_opposition_to_activision_console_exclusivity_risk.md): drawn from the same source document (doc_0214).
+- [Gamer Reactions At EGX To The Microsoft-Activision Deal](gamer_reactions_at_egx_to_microsoft_activision_deal.md): same source document (doc_0214)
+- [Microsoft's Acquisition Of Activision Blizzard King](microsoft_activision_blizzard_king_acquisition.md): same source document (doc_0214)
 
 ## Source
 

@@ -13,6 +13,7 @@ By 24 November 2023 the same $35 price returned for Black Friday, again matching
 
 ## Related Notes
 
+
 - [Anker Soundcore Space A40 Earbuds](anker_soundcore_space_a40_earbuds.md): the top pick in the same budget earbuds guide
 - [Anker Soundcore Liberty 4 Nc Earbuds](anker_soundcore_liberty_4_nc_earbuds.md): the runner-up in the same guide
 - [Amazon Echo Buds Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): another Echo Buds deal listing, different document
@@ -20,6 +21,13 @@ By 24 November 2023 the same $35 price returned for Black Friday, again matching
 - [Airpods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): comparable earbud discounts, different document
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): another battery-powered Amazon device deal
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): linked by shared charging tags, different document
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): same source document (doc_0595)
+- [Anker Soundcore Space Q45 And Life Q30](anker_soundcore_space_q45_and_life_q30.md): same source document (doc_0595)
+- [Anker Soundcore Space Q45 Deal](anker_soundcore_space_q45_deal.md): same source document (doc_0404)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

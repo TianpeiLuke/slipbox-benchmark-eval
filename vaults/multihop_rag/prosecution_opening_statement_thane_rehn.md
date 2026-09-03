@@ -13,11 +13,18 @@ The Verge's reporter, writing on October 4th, 2023, recorded the defendant's dem
 
 ## Related Notes
 
+
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): also concerns Sam Bankman-Fried, from a different source document.
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): also concerns Alameda Research, from a different source document.
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): also concerns Alameda Research, from a different source document.
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): also concerns Alameda Research, from a different source document.
 - [Alameda Research](alameda_research.md): also concerns Alameda Research, from a different source document.
+- [Defense Opening Statement: The Plane Metaphor](defense_opening_statement_plane_metaphor.md): same source document (doc_0162)
+- [FTX's Absence Of A Chief Risk Officer](ftx_absence_of_chief_risk_officer.md): same source document (doc_0162)
+- [FTX's Collapse And Bankruptcy, November 2022](ftx_collapse_and_bankruptcy_november_2022.md): same source document (doc_0162)
+- [Marc-Antoine Julliard's Testimony As FTX's First Witness-Victim](marc_antoine_julliard_ftx_customer_testimony.md): same source document (doc_0162)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

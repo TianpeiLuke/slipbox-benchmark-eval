@@ -11,11 +11,17 @@ The clever folks behind Spider-Man got around the strict content standards with 
 
 ## Related Notes
 
+
 - [The Surprise Vampire Trope](surprise_vampire_trope.md): same source; the trope this adaptation belongs to.
 - [Miguel O'Hara, Spider-Man 2099](miguel_ohara_spider_man_2099_vampire.md): same source; the other Spider-Man-adjacent vampire on the list.
 - [Cassidy In Preacher](cassidy_preacher_vampire.md): same source; another comics vampire carried into a screen adaptation.
 - [Marceline The Vampire Queen](marceline_the_vampire_queen_adventure_time.md): same source; another vampire introduced into children's animation.
 - [Astarion, Baldur's Gate 3 Vampire Companion](astarion_baldurs_gate_3_vampire_companion.md): drawn from the same source document (doc_0453).
+- [The Elder Scrolls: Vampires Everywhere](elder_scrolls_playable_vampirism.md): same source document (doc_0453)
+- [The Merovingian's Henchmen In The Matrix Reloaded](matrix_reloaded_merovingian_henchmen_as_vampires.md): same source document (doc_0453)
+- [The Anchorites In The Bone Clocks](the_anchorites_the_bone_clocks.md): same source document (doc_0453)
+- [The Count On Sesame Street](the_count_sesame_street.md): same source document (doc_0453)
+- [Vamp In Metal Gear Solid 2](vamp_metal_gear_solid_2.md): same source document (doc_0453)
 
 ## Source
 

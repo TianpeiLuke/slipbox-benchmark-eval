@@ -11,11 +11,18 @@ Inflation is partly driven by supply-side issues, and the government is allocati
 
 ## Related Notes
 
+
 - [Balanced Versus Deficit Budget In Philippine Fiscal Practice](balanced_versus_deficit_budget_in_philippine_fiscal_practice.md): also concerns the National Government's economic management, from a different source document.
 - [FAPE And PEAC History And Programs](fape_and_peac_history_and_programs.md): also concerns Philippine executive orders and President Ferdinand Marcos, from a different source document.
 - [Philippine 2024 Budget Deficit And Debt Trajectory](philippine_2024_budget_deficit_and_debt_trajectory.md): also concerns President Ferdinand Marcos' economic programme, from a different source document.
 - [Philippine Inflation And Deficit Vicious Cycle](philippine_inflation_and_deficit_vicious_cycle.md): covers the same inflation dynamics, from a different source document.
 - [Philippine National Government Budget Definition](philippine_national_government_budget_definition.md): also concerns the National Government's fiscal instruments, from a different source document.
+- [The Philippine Climate Resilience Strategy](philippine_climate_resilience_strategy.md): same source document (doc_0410)
+- [Philippine Debt And The Case For Fiscal Consolidation](philippine_debt_and_fiscal_consolidation.md): same source document (doc_0410)
+- [Philippine Development Plan 2023-2028 Targets](philippine_development_plan_2023_2028_targets.md): same source document (doc_0410)
+- [Human Capital, Institutions And Infrastructure In The Philippine Plan](philippine_human_capital_institutions_and_infrastructure.md): same source document (doc_0410)
+- [Philippine Investment Liberalisation And RCEP](philippine_investment_liberalisation_and_rcep.md): same source document (doc_0410)
+- [Executive Order](term_executive_order.md): uses the concept executive order
 
 ## Source
 

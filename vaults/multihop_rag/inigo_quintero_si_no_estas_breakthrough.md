@@ -11,6 +11,7 @@ From a music industry perspective the track is especially interesting because it
 
 ## Related Notes
 
+
 - [Google Spotify Zero Percent Play Billing Deal](google_spotify_zero_percent_play_billing_deal.md): also concerns Spotify, from a different source document.
 - [Indie Games Suit The Switch Portability](indie_games_suit_the_switch_portability.md): shares the independent-versus-major framing, from a different source document.
 - [Spotify 2023 Workforce Reduction](spotify_2023_workforce_reduction.md): also concerns the Spotify music giant, from a different source document.
@@ -19,6 +20,8 @@ From a music industry perspective the track is especially interesting because it
 - [Artists Seeking Control Transparency And Masters Ownership](artists_seeking_control_transparency_and_masters_ownership.md): drawn from the same interview and explains why artists take this route.
 - [Believe Distributor Profile And Alejandra Olea](believe_distributor_profile_and_alejandra_olea.md): drawn from the same interview and introduces the company behind the release.
 - [Believe Local Scouting And Acqustic Partnership](believe_local_scouting_and_acqustic_partnership.md): drawn from the same interview and explains how Acqustic came to be a Believe partner.
+- [Believe's Marketing Playbook For "Si No Estás"](believe_marketing_playbook_for_si_no_estas.md): same source document (doc_0211)
+- [The Digital-First Artist Development Model](digital_first_artist_development_model.md): same source document (doc_0211)
 
 ## Source
 

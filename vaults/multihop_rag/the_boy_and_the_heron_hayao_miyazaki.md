@@ -15,6 +15,7 @@ Critic ZM writes that no matter which side of the fantastic the film is on, it m
 
 ## Related Notes
 
+
 - [Amnesia: The Bunker](amnesia_the_bunker.md): both reference the World Wars, from a different source document
 - [Freaks vs. the Reich (Italian Superhero Film)](freaks_vs_the_reich_italian_superhero_film.md): another World War-set work from a separate article
 - [Gen Z Definition and Formative Events](gen_z_definition_and_formative_events.md): both invoke World War history, from a different document
@@ -23,6 +24,8 @@ Critic ZM writes that no matter which side of the fantastic the film is on, it m
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 list
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): a fellow entry on the same ranked list
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
 
 ## Source
 

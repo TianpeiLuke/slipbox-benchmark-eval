@@ -13,6 +13,7 @@ The distinction between the two tiers is the evidence behind them: Oregon's figu
 
 ## Related Notes
 
+
 - [College Football Week 6 2023 Remaining Betting Lines](college_football_week6_2023_remaining_betting_lines.md): also mentions North Carolina, though in an unrelated article.
 - [Demetrius Andrade Career and Avoided Opponents](demetrius_andrade_career_and_avoided_opponents.md): also mentions Rhode Island, though in an unrelated article.
 - [DraftKings Welcome Offer Claim Steps](draftkings_welcome_offer_claim_steps.md): also mentions North Carolina, though in an unrelated article.
@@ -21,6 +22,8 @@ The distinction between the two tiers is the evidence behind them: Oregon's figu
 - [AKC Owner and Vet Action Guidance for Canine Illness](akc_owner_and_vet_action_guidance_canine_illness.md): what owners in affected areas are told to do, from the same Yahoo News report (doc_0565).
 - [Atypical Small-Genome Canine Microbiome Bacterium](atypical_small_genome_canine_microbiome_bacterium.md): the candidate pathogen behind these reported cases, from the same report (doc_0565).
 - [Canine Atypical Respiratory Illness of 2023](canine_atypical_respiratory_illness_2023_outbreak.md): the illness being counted here, from the same report (doc_0565).
+- [Canine Illness True Case Count Likely in the Thousands](canine_illness_true_case_count_likely_thousands.md): same source document (doc_0565)
+- [Canine Respiratory Illness Cause: Evidence and Caveats](canine_respiratory_illness_cause_evidence_caveats.md): same source document (doc_0565)
 
 ## Source
 

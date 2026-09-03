@@ -13,11 +13,18 @@ The report positions it against BetMGM as the closest comparison, noting that si
 
 ## Related Notes
 
+
 - [Benavidez Vs Andrade 2023 Bout Details And Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): also concerns Las Vegas, home of the brand's properties, from a different document.
 - [Best Sportsbooks For NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): also discusses Caesars Sportsbook alongside rivals, from a different document.
 - [BetMGM Vermont Welcome Offer Tradeoffs](betmgm_vermont_welcome_offer_tradeoffs.md): weighs the bonus terms of the closest comparable operator, from a different document.
 - [Britney Spears And Jason Alexander's 55-Hour Marriage](britney_spears_jason_alexander_55_hour_marriage.md): also concerns Las Vegas, from a different document.
 - [Britney Spears' Memoir: Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): also concerns Las Vegas, from a different document.
+- [Bet365 Sportsbook In Kentucky](bet365_sportsbook_kentucky.md): same source document (doc_0071)
+- [BetMGM Sportsbook In Kentucky](betmgm_sportsbook_kentucky.md): same source document (doc_0071)
+- [Betting On Kentucky And Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): same source document (doc_0071)
+- [DraftKings Sportsbook In Kentucky](draftkings_sportsbook_kentucky.md): same source document (doc_0071)
+- [Fanatics Sportsbook In Kentucky](fanatics_sportsbook_kentucky.md): same source document (doc_0071)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

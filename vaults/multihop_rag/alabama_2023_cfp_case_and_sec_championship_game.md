@@ -13,12 +13,18 @@ The Bulldogs were 5.5-point favorites against Alabama in the SEC championship ga
 
 ## Related Notes
 
+
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): overlaps heavily on Alabama and the Crimson Tide, from a different document.
 - [Alabama Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): also discusses the Crimson Tide's selection case, from a different document.
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): also discusses the College Football Playoff, from a different document.
 - [CFP Committee Florida State "Different Team" Justification](cfp_committee_florida_state_different_team_justification.md): also discusses the College Football Playoff, from a different document.
 - [CFP National Championship Game Format and Schedule](cfp_national_championship_game_format_and_schedule.md): overlaps on championship venues in Atlanta, from a different document.
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): lists the games that shaped this scenario, from the same document.
+- [Alabama's 2023 Resume Metrics Compared With Texas](alabama_2023_strength_of_schedule_and_record_metrics.md): same source document (doc_0258)
+- [The Head-To-Head Arguments Alabama Would Face Against Texas And Florida State](alabama_cfp_head_to_head_debates_texas_florida_state.md): same source document (doc_0258)
+- [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): same source document (doc_0258)
+- [Will Alabama Make The 2023 College Football Playoff?](will_alabama_make_the_2023_college_football_playoff.md): same source document (doc_0258)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

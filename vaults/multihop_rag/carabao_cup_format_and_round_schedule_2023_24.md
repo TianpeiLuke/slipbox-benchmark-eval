@@ -13,11 +13,19 @@ Every round is single-elimination except for the semifinals, which are played ov
 
 ## Related Notes
 
+
 - [Carabao Cup 2023 Quarter Final Draw](carabao_cup_2023_quarter_final_draw.md): also concerns the Carabao Cup, from a different document.
 - [Champions League 2023-24 Group H: Barcelona and Porto](champions_league_2023_24_group_h_barcelona_porto.md): overlaps on round-by-round competition scheduling, from a different document.
 - [Fulham Form and League Position November 2023](fulham_form_and_league_position_november_2023.md): overlaps on English league structure, from a different document.
 - [Klopp on Consistency and the Midfield Rebuild](klopp_on_consistency_and_the_midfield_rebuild.md): shares the penalty and Premier League themes, from a different document.
 - [Manchester United 2023 Champions League Group Stage Exit](manchester_united_2023_champions_league_group_stage_exit.md): also mentions the Carabao Cup, from a different document.
+- [Carabao Cup 2023/24 First Round Format And Results](carabao_cup_2023_24_first_round_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): same source document (doc_0100)
+- [What The Carabao Cup Is And What Winning It Is Worth In 2023/24](carabao_cup_2023_24_overview_and_stakes.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Second Round Results](carabao_cup_2023_24_second_round_results.md): same source document (doc_0100)
+- [Premier League](term_premier_league.md): uses the concept premier league
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

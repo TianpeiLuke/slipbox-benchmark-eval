@@ -13,12 +13,19 @@ The core of the planned regime — which the Agency intends to work on finalizin
 
 ## Related Notes
 
+
 - [Apple USB-C Accessory Transition](apple_usb_c_accessory_transition.md): another European Union rule shaping tech products, from a different document.
 - [Apple Watch ITC Import Ban And Preemptive Sales Halt](apple_watch_itc_import_ban_and_preemptive_sales_halt.md): another regulatory constraint on Big Tech, from a different document.
 - [BEUC Consumer Complaint Against Meta's Pay-Or-Consent Model](beuc_consumer_complaint_meta_pay_or_consent.md): a European Union action on the data-use questions this draft addresses, from a different document.
 - [Big Tech Antitrust Outlook](big_tech_antitrust_outlook.md): shares the Big Tech regulation theme, from a different document.
 - [Big Tech Declines And Amazon FTC Antitrust Lawsuit](big_tech_declines_and_amazon_ftc_antitrust_lawsuit.md): shares the Big Tech regulation theme, from a different document.
 - [ADMT: The CPPA's Definition Of Automated Decisionmaking Technology](admt_automated_decisionmaking_technology_definition.md): drawn from the same source document (doc_0164), and defines the technology these rules cover.
+- [CCPA To CPPA: The Regulatory Lineage Behind The ADMT Rules](ccpa_cppa_regulatory_lineage.md): same source document (doc_0164)
+- [CPPA ADMT Access Rights And Disclosure Requirements](cppa_admt_access_rights_disclosure_requirements.md): same source document (doc_0164)
+- [The CPPA ADMT Opt-Out Right And Its Exemptions](cppa_admt_opt_out_right_and_exemptions.md): same source document (doc_0164)
+- [Why The CPPA's ADMT Rules Would Bite On Behavioral Advertising](cppa_admt_rules_impact_on_behavioral_advertising.md): same source document (doc_0164)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Generative AI Guardrails](term_generative_ai_guardrails.md): uses the concept generative ai guardrails
 
 ## Source
 

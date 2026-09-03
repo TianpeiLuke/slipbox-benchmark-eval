@@ -17,9 +17,18 @@ As a former SEO, Forrester understood that the quality of Bing's search results 
 
 ## Related Notes
 
+
 - [The Affiliate Marketing Alligator Party](affiliate_marketing_alligator_party.md): drawn from the same source document (doc_0115).
 - [AI-Generated Content Will Overwhelm Search](ai_generated_content_will_overwhelm_search_prediction.md): drawn from the same source document (doc_0115).
 - [Mass-Generated AI SEO Spam And Churn And Burn](ai_mass_generated_seo_spam_churn_and_burn.md): drawn from the same source document (doc_0115).
+- [The Blurred Line Between SEO And Spam](blurred_line_between_seo_and_spam.md): same source document (doc_0115)
+- [Cade Lee, From Black Hat SEO To Construction](cade_lee_from_black_hat_seo_to_construction.md): same source document (doc_0115)
+- [Danny Sullivan, From Journalist To Google Liaison](danny_sullivan_from_journalist_to_google_liaison.md): same source document (doc_0115)
+- [The Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): same source document (doc_0115)
+- [Missy Ward, Daron Babin And Darren Blatt: The Early Operators](early_seo_operators_ward_babin_and_blatt.md): same source document (doc_0115)
+- [E-E-A-T And The Shift Toward Institutional Authority](eeat_and_the_shift_to_institutional_authority.md): same source document (doc_0115)
+- [The Claim That 80 Percent Of SEOs Are Scammers](eighty_percent_of_seos_are_scammers_claim.md): same source document (doc_0115)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
 
 ## Source
 

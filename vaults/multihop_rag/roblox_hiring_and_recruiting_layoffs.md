@@ -11,11 +11,19 @@ Asked whether the cuts said anything bigger about the state of the business, Bas
 
 ## Related Notes
 
+
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs-and-restructuring theme, from a different source document.
 - [Brave Software Layoffs](brave_software_layoffs.md): shares the layoffs-and-restructuring theme, from a different source document.
 - [CollegeHumor, IAC Layoffs and the Sale to Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares the layoffs-and-restructuring theme, from a different source document.
 - [Consolidation Leaves Studios Vulnerable to Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): shares the layoffs-and-restructuring theme, from a different source document.
 - [The Costs of Relinquishing Independence After Acquisition](costs_of_relinquishing_independence_after_acquisition.md): shares the layoffs-and-restructuring theme, from a different source document.
+- [Metaverse Interoperability And 3D File Formats](metaverse_interoperability_and_3d_file_formats.md): same source document (doc_0539)
+- [Roblox Advertising And Brand Experiences](roblox_advertising_and_brand_experiences.md): same source document (doc_0539)
+- [Roblox Aging Up: An Older User Base](roblox_aging_up_older_user_base.md): same source document (doc_0539)
+- [Roblox As A Communication Platform, Not A Game](roblox_as_communication_platform_not_game.md): same source document (doc_0539)
+- [Roblox's China Strategy And Tencent](roblox_china_strategy_and_tencent.md): same source document (doc_0539)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

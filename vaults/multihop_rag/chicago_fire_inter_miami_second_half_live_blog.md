@@ -15,11 +15,18 @@ Late on, tempers frayed. In the 83rd minute referee Joe Dickerson had to step be
 
 ## Related Notes
 
+
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also discusses Facundo Farias.
 - [Argentina Squad and Lineup vs Paraguay October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): also discusses Facundo Farias.
 - [Bears Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): also concerns Soldier Field.
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): also concerns Inter Miami.
 - [Daniel Garnero Paraguay Head Coach Debut](daniel_garnero_paraguay_head_coach_debut.md): also concerns Inter Miami.
+- [Chicago Fire Beat Inter Miami 4-1 Before A Record Soldier Field Crowd](chicago_fire_4_1_inter_miami_october_2023_recap.md): same source document (doc_0041)
+- [Chicago Fire-Inter Miami First Half: Goalless, With The Fire Creating The Better Chances](chicago_fire_inter_miami_first_half_live_blog.md): same source document (doc_0041)
+- [Chicago Fire-Inter Miami Lineups, Absentees And Pre-Match Outlook](chicago_fire_inter_miami_team_news_and_match_outlook.md): same source document (doc_0041)
+- [Inter Miami Eliminated From The 2023 MLS Playoff Race With Two Games Left](inter_miami_2023_mls_playoff_elimination.md): same source document (doc_0041)
+- [Kei Kamara Sat On The Bench One Goal Short Of Landon Donovan](kei_kamara_chicago_fire_role_and_scoring_record.md): same source document (doc_0041)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

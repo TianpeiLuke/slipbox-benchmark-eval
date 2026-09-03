@@ -13,6 +13,7 @@ It was not the first time a young person went viral for trying to open a CD: in 
 
 ## Related Notes
 
+
 - [Swifties Struggle To Open 1989 Taylors Version Cd](swifties_struggle_to_open_1989_taylors_version_cd.md): same report, describing the video itself
 - [Compact Disc History From Philips To Itunes](compact_disc_history_from_philips_to_itunes.md): same report, on the format's rise and displacement
 - [Swifties Second Video Operating A Cd Player](swifties_second_video_operating_a_cd_player.md): same report, on the follow-up video
@@ -20,6 +21,8 @@ It was not the first time a young person went viral for trying to open a CD: in 
 - [Nfl Broadcasters Taylor Swift Lyric References](nfl_broadcasters_taylor_swift_lyric_references.md): part of the same Taylor Swift grouping, different source
 - [Taylor Swift Arrowhead Stadium Appearance And Easter Eggs](taylor_swift_arrowhead_stadium_appearance_and_easter_eggs.md): part of the same Taylor Swift grouping, different source
 - [Travis Kelce Moustache Remark And New York Visit](travis_kelce_moustache_remark_and_new_york_visit.md): part of the same Taylor Swift grouping, different source
+- [Travis Kelce Invites Taylor Swift To Arrowhead](travis_kelce_invites_taylor_swift_to_arrowhead.md): same sub-plan (Taylor Swift: the NFL crossover and a viral CD), different source document
+- [Taylor Swift's Comment On The Viral CD TikTok](taylor_swift_comment_on_viral_cd_tiktok.md): same source document (doc_0128)
 
 ## Source
 

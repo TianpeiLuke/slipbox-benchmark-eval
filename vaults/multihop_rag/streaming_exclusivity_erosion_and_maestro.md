@@ -13,11 +13,17 @@ The month's top Netflix recommendation is Maestro (December 20). Not since Warre
 
 ## Related Notes
 
+
 - [Edenglassie, A Novel By Melissa Lucashenko](edenglassie_novel_melissa_lucashenko.md): another feature carrying the same publisher page furniture
 - [Jada Pinkett Smith's 2023 Separation Disclosure](jada_pinkett_smith_2023_separation_disclosure.md): also concerns the Academy Awards world, from a different source
 - [Owen Teale On Barry The Bear And His Route Into Acting](owen_teale_barry_the_bear_route_into_acting.md): another arts interview sharing the same site boilerplate
 - [Shameless Media Podcast Company Profile](shameless_media_podcast_company_profile.md): another feature sharing the same site boilerplate
 - [Thanksgiving Film Origin In Grindhouse Fake Trailer](thanksgiving_film_origin_in_grindhouse_fake_trailer.md): another culture piece sharing the same site boilerplate
+- [December 2023: Dr Death Season Two, Reacher And Prisoner's Daughter](dr_death_reacher_and_prisoners_daughter_releases.md): same source document (doc_0154)
+- [December 2023 On Apple TV+: The Snoopy Show And Family Plan](snoopy_show_and_family_plan_apple_tv_releases.md): same source document (doc_0154)
+- [December 2023 On Binge And Stan: Vigil, Bump And The Roberts-Smith Documentary](vigil_bump_and_ben_roberts_smith_documentary_releases.md): same source document (doc_0154)
+- [December 2023 On Netflix And Binge: Yellowjackets, Rebel Moon And Strife](yellowjackets_rebel_moon_and_strife_december_releases.md): same source document (doc_0154)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

@@ -13,11 +13,19 @@ The striking finding in the other direction is how many goalscoring records have
 
 ## Related Notes
 
+
 - [All Blacks' Final Moments In The RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): shares the World Cup setting, from a different document.
 - [All Blacks' Generational Change After The 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): shares the World Cup setting, from a different document.
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): also concerns Paraguay, whose record scorer is named here, from a different document.
 - [Argentina Vs Paraguay 2026 World Cup Qualifier Preview](argentina_vs_paraguay_2026_world_cup_qualifier_preview.md): also concerns Paraguay and World Cup qualifying, from a different document.
 - [Australia Women's Test Defeat To India In Mumbai, December 2023](australia_women_test_defeat_to_india_mumbai_2023.md): shares the World Cup-qualifying-nations framing, from a different document.
+- [Haaland's Chase Of Norway's International Goalscoring Record](haaland_chase_of_norway_international_goalscoring_record.md): same source document (doc_0400)
+- [Haaland's Major Tournament Prospects With Norway](haaland_major_tournament_prospects_with_norway.md): same source document (doc_0400)
+- [The Italy International Goalscoring Record Anomaly](italy_international_goalscoring_record_anomaly.md): same source document (doc_0400)
+- [Jorgen Juve's Norway Goalscoring Record](jorgen_juve_norway_goalscoring_record.md): same source document (doc_0400)
+- [Norway's Historical Absence From Major Tournaments](norway_historical_absence_from_major_tournaments.md): same source document (doc_0400)
+- [Poul Nielsen's Denmark Goalscoring Record](poul_nielsen_denmark_goalscoring_record.md): same source document (doc_0400)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

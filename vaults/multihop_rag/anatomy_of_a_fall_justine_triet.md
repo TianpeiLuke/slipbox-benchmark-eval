@@ -13,6 +13,7 @@ Even though Triet stubbornly refuses to pick any of the obvious ways her film co
 
 ## Related Notes
 
+
 - [Quiz Lady (2023 Comedy)](quiz_lady_2023_comedy.md): overlapping cast-and-credits vocabulary from a different source document
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): another film from the same best-of-2023 list
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): a fellow entry on the same ranked list
@@ -21,6 +22,8 @@ Even though Triet stubbornly refuses to pick any of the obvious ways her film co
 - [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): a fellow pick in the same article
 - [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): another international film from the same list
 - [Creed III (Michael B. Jordan)](creed_iii_michael_b_jordan.md): another 2023 release from the same document
+- [Dream Scenario (Kristoffer Borgli)](dream_scenario_kristoffer_borgli.md): same source document (doc_0094)
+- [Dungeons & Dragons: Honor Among Thieves](dungeons_and_dragons_honor_among_thieves.md): same source document (doc_0094)
 
 ## Source
 

@@ -13,6 +13,7 @@ Watching their efforts, Schmidt said, "You guys are making me laugh because this
 
 ## Related Notes
 
+
 - [Swifties Second Video Operating A Cd Player](swifties_second_video_operating_a_cd_player.md): same report, on the follow-up video with the borrowed player
 - [Cd Unfamiliarity As Generational Marker](cd_unfamiliarity_as_generational_marker.md): same report, on what the struggle signified to the adults watching
 - [Compact Disc History From Philips To Itunes](compact_disc_history_from_philips_to_itunes.md): same report, on the format the girls were handling
@@ -20,6 +21,8 @@ Watching their efforts, Schmidt said, "You guys are making me laugh because this
 - [American Pie Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): another Taylor Swift story, different document
 - [Biggest Concert Films Box Office Records](biggest_concert_films_box_office_records.md): another Taylor Swift story, different document
 - [Bad Blood Taylor Swift Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): another Taylor Swift story, different document
+- [The Backlash: Fans Who Say The Swift-Kelce Coverage Is Too Much](backlash_to_traylor_media_coverage.md): both discuss Taylor Swift; different source document
+- [Taylor Swift's Comment On The Viral CD TikTok](taylor_swift_comment_on_viral_cd_tiktok.md): same source document (doc_0128)
 
 ## Source
 

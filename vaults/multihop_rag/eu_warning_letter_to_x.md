@@ -15,11 +15,19 @@ TechCrunch's own characterisation of the platform at that moment was blunter tha
 
 ## Related Notes
 
+
 - [BEUC Consumer Complaint Over Meta's Pay-Or-Consent Model](beuc_consumer_complaint_meta_pay_or_consent.md): another European Union action against a large platform, from a different source document.
 - [Apple's USB-C Accessory Transition](apple_usb_c_accessory_transition.md): also concerns European Union rulemaking, from a different source document.
 - [The CJEU's 2020 Ruling On The Rental And Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): also concerns European Union law, from a different source document.
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): overlapping coverage of Elon Musk, from a different source document.
 - [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): overlapping coverage of Elon Musk, from a different source document.
+- [The Digital Services Act](digital_services_act.md): same source document (doc_0025)
+- [Disinformation On X After The Hamas Attacks On Israel](disinformation_on_x_gaza.md): same source document (doc_0025)
+- [EU Enforcement Steps Against X Over DSA Compliance](eu_enforcement_against_x.md): same source document (doc_0025)
+- [EU Warnings To Other Platforms](eu_warnings_to_other_platforms.md): same source document (doc_0024)
+- [Musk's Position On Disinformation](musk_position_on_disinformation.md): same source document (doc_0025)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Content Moderation](term_content_moderation.md): uses the concept content moderation
 
 ## Source
 

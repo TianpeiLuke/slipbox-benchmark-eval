@@ -13,6 +13,7 @@ Polygon presumes it will not touch on anything from the six-year run of Supergir
 
 ## Related Notes
 
+
 - [Aquaman and the Lost Kingdom](aquaman_and_the_lost_kingdom.md): another DC project from the same slate article
 - [Arkham Asylum: The Batman Prequel Series](arkham_asylum_the_batman_prequel_series.md): a fellow undated DC project in the same roundup
 - [Black Superman Movie (Ta-Nehisi Coates)](black_superman_movie_ta_nehisi_coates.md): another Superman-family project tracked in the same document
@@ -21,6 +22,8 @@ Polygon presumes it will not touch on anything from the six-year run of Supergir
 - [Creature Commandos Animated Series](creature_commandos_animated_series.md): another DC Studios project in the same lineup
 - [The DC Extended Universe (DCEU)](dc_extended_universe_dceu.md): the continuity being replaced, described in the same article
 - [DC Studios DCU Reboot Under Gunn and Safran](dc_studios_dcu_reboot_under_gunn_and_safran.md): the reshaping of best-known heroes this film illustrates
+- [Dead Boy Detectives (Netflix Series)](dead_boy_detectives_netflix_series.md): same source document (doc_0081)
+- [Joker: Folie à Deux](joker_folie_a_deux.md): same source document (doc_0081)
 
 ## Source
 

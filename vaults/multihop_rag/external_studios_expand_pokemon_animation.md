@@ -15,11 +15,19 @@ The company did more than simply introduce dynamism into an anime that had long 
 
 ## Related Notes
 
+
 - [Daily Life At The Possibility Alliance](daily_life_at_the_possibility_alliance.md): shares a media-and-community theme tag, from a different source document.
 - [Kevin Nguyen's Non-Writing iPhone Apps](kevin_nguyen_non_writing_iphone_apps.md): shares a streaming-service theme tag, from a different source document.
 - [Netflix Originals Premiering November 27-30, 2023](netflix_originals_premiering_november_27_to_30_2023.md): also concerns Netflix original series, from a different source document.
 - [Netflix Originals Premiering November 7-10, 2023](netflix_originals_premiering_november_7_to_10_2023.md): also concerns Netflix original series, from a different source document.
 - [The Sandman Season 2 On Netflix](sandman_season_2_netflix.md): also concerns a Netflix adaptation of an existing property, from a different source document.
+- [Pokémon As A Lifestyle: The Reinvention Thesis](pokemon_as_lifestyle_reinvention_thesis.md): same source document (doc_0346)
+- [Pokémon Diamond And Pearl At The Sales Crossroads](pokemon_diamond_and_pearl_sales_crossroads.md): same source document (doc_0346)
+- [Pokémon's Longevity And Scale](pokemon_franchise_longevity_and_scale.md): same source document (doc_0346)
+- [Pokémon Garden As The First Brand Diversification](pokemon_garden_as_first_brand_diversification.md): same source document (doc_0346)
+- [Pokémon Merchandising For Grown-Up Fans](pokemon_merchandising_for_grown_up_fans.md): same source document (doc_0346)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

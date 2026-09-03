@@ -11,6 +11,7 @@ The standard, known as Digital Imaging and Communications in Medicine (DICOM), i
 
 ## Related Notes
 
+
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): drawn from the same source document (doc_0334), the other data-exposure item in the same roundup.
 - [Anduril Roadrunner Counter-Air Vehicle](anduril_roadrunner_counter_air_vehicle.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
 - [Battery Swapping Ecosystem And Unit Economics Challenges](battery_swapping_ecosystem_and_unit_economics_challenges.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
@@ -19,6 +20,8 @@ The standard, known as Digital Imaging and Communications in Medicine (DICOM), i
 - [David Pakman CoinFund Venture Background](david_pakman_coinfund_venture_background.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
 - [Google Black Summit Offensive Notebook Incident](google_black_summit_offensive_notebook_incident.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
 - [Google Gemini Model Family And Capability Claims](google_gemini_model_family_and_capability_claims.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
+- [The Grand Theft Auto VI Trailer's YouTube Record](grand_theft_auto_vi_trailer_youtube_record.md): same source document (doc_0334)
+- [Imagine With Meta AI, Meta's Image Generator](imagine_with_meta_ai_image_generator.md): same source document (doc_0334)
 
 ## Source
 

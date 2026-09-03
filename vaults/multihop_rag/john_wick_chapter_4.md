@@ -13,6 +13,7 @@ Facing off against action legends Donnie Yen and Scott Adkins, Keanu Reeves push
 
 ## Related Notes
 
+
 - [The Continental (Peacock)](the_continental_peacock.md): covers the John Wick franchise's TV spinoff, from a different source document
 - [The Penguin (HBO Max Series)](the_penguin_hbo_max_series.md): incidental name overlap from a separate article
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 list
@@ -21,6 +22,8 @@ Facing off against action legends Donnie Yen and Scott Adkins, Keanu Reeves push
 - [Barbenheimer Summer 2023 Phenomenon](barbenheimer_summer_2023_phenomenon.md): the year-in-review framing published with this list
 - [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): another entry from the same ranked list
 - [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): a fellow pick in the same article
+- [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): same source document (doc_0094)
+- [Creed III (Michael B. Jordan)](creed_iii_michael_b_jordan.md): same source document (doc_0094)
 
 ## Source
 

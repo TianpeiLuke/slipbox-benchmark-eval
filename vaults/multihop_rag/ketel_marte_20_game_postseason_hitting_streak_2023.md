@@ -13,12 +13,18 @@ His last plate appearance of the game came late: at 11:14 p.m. Marte swung at a 
 
 ## Related Notes
 
+
 - [Rangers Bullpen Collapse in the Eighth Inning](rangers_bullpen_collapse_in_the_eighth_inning.md): another account featuring Ketel Marte, different source document
 - [Rangers Final At-Bats in Game 2](rangers_final_at_bats_in_game_2.md): a comparable at-bat-level account of the same series, different source document
 - [Rangers Third Inning Rally World Series Game 3](rangers_third_inning_rally_world_series_game_3.md): the previous game, where Marte also batted
 - [World Series Game 3 2023 Late Innings Bullpen Duel](world_series_game_3_2023_late_innings_bullpen_duel.md): Marte's Game 3 hit and double play, different source document
 - [World Series Game 3 2023 Pregame Setup](world_series_game_3_2023_pregame_setup.md): the lineup note about Marte leading off in Game 2, different source document
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): the same game's roster news, same source document
+- [Corey Seager's Home Runs In The 2023 World Series](corey_seager_home_runs_2023_world_series.md): same source document (doc_0408)
+- [The Diamondbacks' Late Rally In World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): same source document (doc_0408)
+- [Marcus Semien's Big Hits In World Series Games 3 And 4](marcus_semien_five_rbi_world_series_game_4.md): same source document (doc_0408)
+- [Max Scherzer's Back Injury And Removal From The Rangers' World Series Roster](max_scherzer_back_injury_and_roster_removal_2023_world_series.md): same source document (doc_0408)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

@@ -11,6 +11,7 @@ The Council's press release further stipulates how the tiers map to conduct: the
 
 ## Related Notes
 
+
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the fine penalty theme, from a different source document.
 - [Alameda Negative Balance Escalation](alameda_negative_balance_escalation.md): shares the fine penalty theme, from a different source document.
 - [Alexa Limitations as an on the Go Assistant on Echo Frames](alexa_limitations_as_an_on_the_go_assistant_on_echo_frames.md): shares the fine penalty theme, from a different source document.
@@ -19,6 +20,17 @@ The Council's press release further stipulates how the tiers map to conduct: the
 - [Beats Fit Pro Black Friday Deal](beats_fit_pro_black_friday_deal.md): shares the fine penalty theme, from a different source document.
 - [Beyerdynamic DT 900 Pro X Deal](beyerdynamic_dt_900_pro_x_deal.md): shares the fine penalty theme, from a different source document.
 - [BG3 Custom Character vs Origin Character](bg3_custom_character_vs_origin_character.md): shares the fine penalty theme, from a different source document.
+- [Civil Society Criticism Of The EU AI Act's Biometrics Limits](civil_society_criticism_of_eu_ai_act_biometrics_limits.md): same source document (doc_0564)
+- [EU AI Act High-Risk AI System Obligations](eu_ai_act_high_risk_ai_system_obligations.md): same source document (doc_0564)
+- [EU AI Act Phased Entry Into Force Timeline](eu_ai_act_phased_entry_into_force_timeline.md): same source document (doc_0564)
+- [EU AI Act Political Agreement, December 2023](eu_ai_act_political_agreement_december_2023.md): same source document (doc_0564)
+- [EU AI Act Prohibited AI Practices](eu_ai_act_prohibited_ai_practices.md): same source document (doc_0564)
+- [EU AI Act Remote Biometric Identification Exceptions](eu_ai_act_remote_biometric_identification_exceptions.md): same source document (doc_0564)
+- [EU AI Act Scope Exclusions For National Security And Research](eu_ai_act_scope_exclusions_national_security_and_research.md): same source document (doc_0564)
+- [EU AI Act Two-Tier Rules For General Purpose AI](eu_ai_act_two_tier_rules_for_general_purpose_ai.md): same source document (doc_0564)
+- [The EU AI Office And Its Scientific Advisory Panel](eu_ai_office_and_scientific_advisory_panel.md): same source document (doc_0564)
+- [The EU AI Pact As A Voluntary Stopgap For GPAI Makers](eu_ai_pact_voluntary_stopgap_for_gpai_makers.md): same source document (doc_0564)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

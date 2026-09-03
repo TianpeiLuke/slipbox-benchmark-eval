@@ -11,6 +11,7 @@ Many skywatchers took to X (formerly known as Twitter) to share their encounters
 
 ## Related Notes
 
+
 - [Ashton Moya, 2023 AFL Draft Prospect](ashton_moya_afl_draft_prospect_2023.md): shares Western Australia as a location.
 - [Caleb Windsor, 2023 AFL Draft Prospect](caleb_windsor_afl_draft_prospect_2023.md): shares Western Australia as a location.
 - [Clay Hall, 2023 AFL Draft Prospect](clay_hall_afl_draft_prospect_2023.md): shares Western Australia as a location.
@@ -19,6 +20,8 @@ Many skywatchers took to X (formerly known as Twitter) to share their encounters
 - [Aurora Displays Over Britain and Ireland, November 2023](aurora_displays_over_britain_and_ireland_november_2023.md): from the same article, sightings at more typical auroral latitudes.
 - [Aurora Over the Glasgow, Montana Weather Office](aurora_over_glasgow_montana_weather_office.md): from the same article, a US sighting of the same storm.
 - [How Geomagnetic Storms Produce Auroras](how_geomagnetic_storms_produce_auroras.md): from the same article, explaining why these displays are normally confined to high latitudes.
+- [The November 2023 G3 Geomagnetic Storm](november_2023_g3_geomagnetic_storm.md): same source document (doc_0556)
+- [STEVE Sightings, November 2023](steve_sightings_november_2023.md): same source document (doc_0556)
 
 ## Source
 

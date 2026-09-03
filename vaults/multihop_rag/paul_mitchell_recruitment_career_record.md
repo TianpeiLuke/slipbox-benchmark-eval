@@ -13,11 +13,18 @@ The boundary case in his record is Tottenham's boardroom. Mitchell left what he 
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns the Champions League, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns the Champions League, from a different document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also concerns Man United, from a different document.
 - [Champions League 2023-24 Group C: Real Madrid and Napoli](champions_league_2023_24_group_c_real_madrid_napoli.md): also concerns Real Madrid, from a different document.
 - [Champions League 2023-24 Group Stage Overview](champions_league_2023_24_group_stage_overview.md): also concerns the Champions League and Real Madrid, from a different document.
+- [Glazer Family Control Of Manchester United](glazer_family_control_of_manchester_united.md): same source document (doc_0166)
+- [The INEOS Plan For Manchester United's Football Operations](ineos_plan_for_manchester_united_football_operations.md): same source document (doc_0166)
+- [Jim Ratcliffe's Twenty-Five Per Cent Stake Agreement](jim_ratcliffe_twenty_five_percent_stake_agreement.md): same source document (doc_0166)
+- [Paul Mitchell's Blueprint For A Manchester United Rebuild](paul_mitchell_blueprint_for_manchester_united_rebuild.md): same source document (doc_0166)
+- [Paul Mitchell's Long-Term Recruitment Philosophy](paul_mitchell_long_term_recruitment_philosophy.md): same source document (doc_0166)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

@@ -21,11 +21,19 @@ That defensive strategy carries its own exposure. Given her reliance on pointing
 
 ## Related Notes
 
+
 - [Online Safety Act Accredited Technology And Encryption](online_safety_act_accredited_technology_and_encryption.md): the closest parallel case, sharing the CSAM-scanning, data-privacy and encryption themes, from a different source document.
 - [Apple Blocks Beeper Mini iMessage Access](apple_blocks_beeper_mini_imessage_access.md): shares the data-privacy and encryption themes, from a different source document.
 - [Keep Labs Security Posture](keep_labs_security_posture.md): shares the data-privacy and encryption-at-rest themes, from a different source document.
 - [Engadget VPN Testing Methodology](engadget_vpn_testing_methodology.md): shares the data-privacy and encryption themes, from a different source document.
 - [What A VPN Is And What It Does Not Hide](what_a_vpn_is_and_what_it_does_not_hide.md): shares the data-privacy and encryption themes, from a different source document.
+- [The Commission's Microtargeted Ad Campaign For CSAM Scanning](commission_microtargeted_ad_campaign.md): same source document (doc_0457)
+- [The Commission's Defence Of Political Ad Targeting And The Channels MEPs Say It Bypassed](dsa_political_ad_restrictions.md): same source document (doc_0457)
+- [The EU CSAM Scanning Proposal](eu_csam_scanning_proposal.md): same source document (doc_0457)
+- [Fotiadis Testimony And Johansson's Lobbying Contacts At The LIBE Hearing](johansson_parliament_hearing.md): same source document (doc_0457)
+- [CSAM Scanning](term_csam_scanning.md): uses the concept csam scanning
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Encryption at Rest](term_encryption_at_rest.md): uses the concept encryption at rest
 
 ## Source
 

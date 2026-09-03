@@ -13,11 +13,20 @@ On Monday, Dec. 4, Ken Rosenthal of The Athletic reported Ohtani was "believed" 
 
 ## Related Notes
 
+
 - [Alanna Rizzo Criticism of Clubhouse Reporting](alanna_rizzo_criticism_of_clubhouse_reporting.md): also discusses the Blue Jays, from a different document.
 - [Angels 2023 Offseason: Ohtani and Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): also discusses Shohei Ohtani, from a different document.
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): also cites Jon Morosi, from a different document.
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): also cites Ken Rosenthal, from a different document.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares the MLB and MVP themes, from a different document.
+- [Braves Land Jarred Kelenic And Marco Gonzales From The Mariners](braves_acquire_jarred_kelenic_from_mariners.md): same source document (doc_0120)
+- [Diamondbacks Land Eduardo Rodriguez On A Four-Year Deal](eduardo_rodriguez_signs_with_diamondbacks.md): same source document (doc_0120)
+- [Juan Soto Traded From The Padres To The Yankees](juan_soto_traded_from_padres_to_yankees.md): same source document (doc_0120)
+- [Jung Hoo Lee Posted From The KBO To MLB](jung_hoo_lee_kbo_posting_to_mlb.md): same source document (doc_0120)
+- [Mariners' Cleared Payroll Space And Winter Meetings Trade Talks](mariners_offseason_payroll_space_and_trade_talks.md): same source document (doc_0120)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

@@ -13,6 +13,7 @@ Kickoff was 8:20 p.m. ET. The win moved Philadelphia to 6-1 and served as a stat
 
 ## Related Notes
 
+
 - [Bills Bengals SNF Broadcast Details](bills_bengals_snf_broadcast_details.md): also concerns Sunday Night Football.
 - [Bills Bengals SNF Pregame Notes](bills_bengals_snf_pregame_notes.md): also concerns Sunday Night Football.
 - [Bills Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): another Sunday Night Football result.
@@ -21,6 +22,7 @@ Kickoff was 8:20 p.m. ET. The win moved Philadelphia to 6-1 and served as a stat
 - [Dolphins Eagles First Half Live Blog](dolphins_eagles_first_half_live_blog.md): first-half detail of this same game, same source document.
 - [Dolphins Eagles Pregame Notes and Kelly Green Uniforms](dolphins_eagles_pregame_notes_and_kelly_green_uniforms.md): the pregame log for this game, same source document.
 - [Dolphins Eagles Second Half Live Blog](dolphins_eagles_second_half_live_blog.md): second-half detail of this same game, same source document.
+- [NBC's 2023 Sunday Night Football Broadcast And Streaming Package](sunday_night_football_2023_nbc_broadcast_team.md): same source document (doc_0143)
 
 ## Source
 

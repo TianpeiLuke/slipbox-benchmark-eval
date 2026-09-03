@@ -11,6 +11,7 @@ The film's hinge is the group's choice of reading: when one of them picks Fifty 
 
 ## Related Notes
 
+
 - [Activision $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): an unrelated article that also concerns Google Play
 - [Activision Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): another Google Play-related article from a different domain
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): further Google Play coverage with no topical overlap
@@ -19,6 +20,8 @@ The film's hinge is the group's choice of reading: when one of them picks Fifty 
 - [Catherine Called Birdy 2022 Lena Dunham Comedy](catherine_called_birdy_2022_lena_dunham_comedy.md): another entry from the same Polygon guide
 - [Charade 1963 Donen Comedy Thriller](charade_1963_donen_comedy_thriller.md): another romance-inflected pick from the same guide
 - [Clueless 1995 Teen Comedy Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): another comedy from the same guide
+- [Coming To America (1988): Eddie Murphy's Romantic Comedy](coming_to_america_1988_eddie_murphy_comedy.md): same source document (doc_0597)
+- [Don't Go Breaking My Heart (2011): Johnnie To's Romantic Comedy](dont_go_breaking_my_heart_2011_johnnie_to_romcom.md): same source document (doc_0597)
 
 ## Source
 

@@ -11,6 +11,7 @@ Treatment regimens are now not restricted to glycemic control. Novo Nordisk's Se
 
 ## Related Notes
 
+
 - [Cardiovascular Benefits Outweigh GLP1 GI Risks](cardiovascular_benefits_outweigh_glp1_gi_risks.md): weighs the same cardiovascular benefits against side effects for these agonists, from a different source document.
 - [GLP1 Receptor Agonists Drug Class And US Usage Scale](glp1_receptor_agonists_drug_class_and_us_usage_scale.md): covers the same drug class and its usage in diabetes, from a different source document.
 - [Lecanemab And Donanemab Amyloid Drugs](lecanemab_and_donanemab_amyloid_drugs.md): also concerns Eli Lilly, named here as a new entrant to the category, from a different source document.
@@ -19,6 +20,8 @@ Treatment regimens are now not restricted to glycemic control. Novo Nordisk's Se
 - [Alzheimer's Lecanemab And Aducanumab Approvals](alzheimers_lecanemab_and_aducanumab_approvals.md): drawn from the same article and covers another unmet-need area it surveys.
 - [Antibody Drug Conjugates Market](antibody_drug_conjugates_market.md): drawn from the same article and covers another frontier therapeutic area.
 - [Cancer Immunotherapy Checkpoint Inhibitors](cancer_immunotherapy_checkpoint_inhibitors.md): drawn from the same article and covers the cancer side of the same survey.
+- [CAR-T Cell Therapy](car_t_cell_therapy.md): same source document (doc_0239)
+- [A Framework For Valuing US Pharma Stocks](framework_for_valuing_us_pharma_stocks.md): same source document (doc_0239)
 
 ## Source
 

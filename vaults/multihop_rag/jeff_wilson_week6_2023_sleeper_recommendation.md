@@ -13,12 +13,18 @@ The usage and matchup grounds complete the case. Miami isn't quite the bastion o
 
 ## Related Notes
 
+
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): overlaps on backfield snap and carry splits, the same usage question at issue here, from a different document.
 - [Dolphins 45-15 Commanders Week 13](dolphins_45_15_commanders_week_13.md): also discusses De'Von Achane, whose injury opens this opportunity, from a different document.
 - [Dolphins Chiefs Germany Moneyline Pick](dolphins_chiefs_germany_moneyline_pick.md): also discusses Raheem Mostert, Wilson's backfield mate, from a different document.
 - [Dolphins Eagles First Half Live Blog](dolphins_eagles_first_half_live_blog.md): also discusses Raheem Mostert, from a different document.
 - [Dolphins Eagles Second Half Live Blog](dolphins_eagles_second_half_live_blog.md): also discusses Raheem Mostert, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another lineup call from the same Week 6 column.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

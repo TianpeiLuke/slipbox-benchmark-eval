@@ -11,11 +11,18 @@ Prime members can get One-Day Delivery for eligible products through December 23
 
 ## Related Notes
 
+
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): also concerns Amazon Prime, from a different source document.
 - [Amazon Price Matching And Return Policy](amazon_price_matching_and_return_policy.md): also concerns Amazon Prime, from a different source document.
 - [Amazon Prime Free Games And DLC](amazon_prime_free_games_and_dlc.md): also concerns Amazon Prime, from a different source document.
 - [Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): also concerns Amazon Prime, from a different source document.
 - [Amazon Rainforest Tipping Point](amazon_rainforest_tipping_point.md): overlapping coverage of thresholds that vary, from a different source document.
+- [Best Buy Holiday 2023 Shipping And Pickup Cutoffs](best_buy_holiday_2023_shipping_and_pickup_cutoffs.md): same source document (doc_0473)
+- [FedEx 2023 Holiday Shipping Deadlines](fedex_2023_holiday_shipping_deadlines.md): same source document (doc_0473)
+- [Holiday 2023 Shipping Deadline Planning](holiday_2023_shipping_deadline_planning.md): same source document (doc_0473)
+- [Target Holiday 2023 Delivery And Shipt Cutoffs](target_holiday_2023_delivery_and_shipt_cutoffs.md): same source document (doc_0473)
+- [UPS 2023 Holiday Shipping Deadlines](ups_2023_holiday_shipping_deadlines.md): same source document (doc_0473)
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

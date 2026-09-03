@@ -13,6 +13,7 @@ In late March 2023 the U.S. CFTC also filed a suit against Binance, Zhao and its
 
 ## Related Notes
 
+
 - [Bankman-Fried And Zhao Convictions And Binance Aftermath](bankman_fried_and_zhao_convictions_and_binance_aftermath.md): the closest overlap, on Binance, Zhao and the exchange's legal exposure, from a different document.
 - [Bolt SEC Probe](bolt_sec_probe.md): another Securities and Exchange Commission investigation, from a different document.
 - [Coinbase's SEC Standoff And Regulatory Clarity](coinbase_sec_standoff_and_regulatory_clarity.md): another crypto exchange facing the SEC, from a different document.
@@ -21,6 +22,8 @@ In late March 2023 the U.S. CFTC also filed a suit against Binance, Zhao and its
 - [Binance And Zhao's Plea Agreement Terms](binance_and_zhao_plea_agreement_terms.md): drawn from the same source document (doc_0374).
 - [Binance's CEO Succession: Richard Teng](binance_ceo_succession_richard_teng.md): drawn from the same source document (doc_0374).
 - [Binance's Charges: Bank Secrecy Act And Sanctions Violations](binance_charges_bsa_and_sanctions_violations.md): drawn from the same source document (doc_0374).
+- [Binance's $4.3B DOJ Resolution And CZ's Guilty Plea](binance_doj_resolution_and_cz_guilty_plea.md): same source document (doc_0374)
+- [Binance's Market Position And Its 2023 Setbacks](binance_market_position_and_2023_setbacks.md): same source document (doc_0374)
 
 ## Source
 

@@ -13,10 +13,21 @@ Establishing himself as the millennial politician who's cool enough to use TikTo
 
 ## Related Notes
 
+
 - [Dillon Danis's Feud With The Paul Brothers](dillon_danis_feud_with_the_paul_brothers.md): also concerns Jake Paul, from a different source document.
 - [Conservative Endorsements Of Epoch Times Credibility](conservative_endorsements_of_epoch_times_credibility.md): shares the celebrity-endorsement and political-donation themes, from a different source document.
 - [FTX Marketing And Influence](ftx_marketing_and_influence.md): shares the celebrity-endorsement and political-influence themes, from a different source document.
 - [Instagram Palestine Suppression](instagram_palestine_suppression.md): shares creator-economy and appeals themes, from a different source document.
+- [Israeli Tech Industry Boycott of Web Summit](israel_tech_industry_boycott.md): shares celebrity_endorsement, lobbying_political_donations; different source document
+- [Annie Wu Henry On Gen Z Authenticity](annie_wu_henry_on_gen_z_authenticity.md): same source document (doc_0468)
+- [AOC's Twitch "Among Us" Stream](aoc_twitch_among_us_stream.md): same source document (doc_0468)
+- [Democratic Dominance In Campaign Social Media](democratic_social_media_campaign_dominance.md): same source document (doc_0468)
+- [Doug Mastriano's Facebook Live Campaign](doug_mastriano_facebook_live_campaign.md): same source document (doc_0468)
+- [Gen Z Policy Misalignment With The Republican Party](gen_z_policy_misalignment_republican_party.md): same source document (doc_0468)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Celebrity Endorsement](term_celebrity_endorsement.md): uses the concept celebrity endorsement
 
 ## Source
 

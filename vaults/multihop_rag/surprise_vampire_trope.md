@@ -11,12 +11,17 @@ It is a rich tradition, unfolding across many different media intended for all k
 
 ## Related Notes
 
+
 - [Astarion, Baldur's Gate 3 Vampire Companion](astarion_baldurs_gate_3_vampire_companion.md): same source; a case where the vampire is central rather than hidden.
 - [The Merovingian's Henchmen In The Matrix Reloaded](matrix_reloaded_merovingian_henchmen_as_vampires.md): same source; the blink-and-you'll-miss-it end of the trope.
 - [Marceline The Vampire Queen](marceline_the_vampire_queen_adventure_time.md): same source; a surprise vampire that changed the show she appeared in.
 - [Miguel O'Hara, Spider-Man 2099](miguel_ohara_spider_man_2099_vampire.md): same source; a barely-explained vampire in a non-vampire film.
 - [Morbius In Spider-Man: The Animated Series](morbius_in_spider_man_the_animated_series.md): same source; a vampire smuggled past children's TV censors.
 - [Anne Rice: Vampire Verdict](anne_rice_vampire_chronicles_verdict.md): covers vampires as metaphor in mainstream fiction, from a different source document.
+- [Cassidy In Preacher](cassidy_preacher_vampire.md): same source document (doc_0453)
+- [The Elder Scrolls: Vampires Everywhere](elder_scrolls_playable_vampirism.md): same source document (doc_0453)
+- [The Anchorites In The Bone Clocks](the_anchorites_the_bone_clocks.md): same source document (doc_0453)
+- [The Count On Sesame Street](the_count_sesame_street.md): same source document (doc_0453)
 
 ## Source
 

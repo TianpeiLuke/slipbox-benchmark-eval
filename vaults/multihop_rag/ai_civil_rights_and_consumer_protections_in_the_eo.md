@@ -15,6 +15,7 @@ In healthcare, the EO states that the Department of Health and Human Services wi
 
 ## Related Notes
 
+
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): also involves the National Science Foundation, from a different source document.
 - [The AI Legislation Gap](ai_legislation_gap.md): also concerns Health and Human Services and the gap this order tries to fill, from a different source document.
 - [Biden AI Executive Order](biden_ai_executive_order.md): also covers the White House's AI order, from a different source document.
@@ -22,6 +23,12 @@ In healthcare, the EO states that the Department of Health and Human Services wi
 - [Don McLean's Upcoming Albums And Touring](don_mclean_upcoming_albums_and_touring.md): shares a White House reference, from a different source document.
 - [Critical Infrastructure And CBRN Provisions Of The AI Executive Order](ai_threats_to_critical_infrastructure_provisions.md): drawn from the same source document (doc_0313).
 - [AI Worker Protections And Federal AI Hiring](ai_worker_protections_and_federal_ai_hiring.md): drawn from the same source document (doc_0313).
+- [The Biden AI Executive Order Of October 2023](biden_ai_executive_order_october_2023.md): same source document (doc_0313)
+- [Schumer's Objection: An Executive Order Cannot Replace Legislation](executive_order_limits_versus_ai_legislation.md): same source document (doc_0313)
+- [Federal AI Watermarking And Content Provenance](federal_ai_watermarking_and_content_provenance.md): same source document (doc_0313)
+- [Executive Order](term_executive_order.md): uses the concept executive order
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

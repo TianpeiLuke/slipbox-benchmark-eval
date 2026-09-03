@@ -13,11 +13,16 @@ Trader Joe's stores were closed on 23 November in observance of the federal holi
 
 ## Related Notes
 
+
 - [Best Buy Price Match Guarantee](best_buy_price_match_guarantee.md): also concerns Thanksgiving Day, from a different source document.
 - [B&H Photo and Costco Price Adjustment](bh_photo_and_costco_price_adjustment.md): overlapping coverage of Costco store policy, from a different source document.
 - [Black Friday 2023 Dates and Retailer Schedules](black_friday_2023_dates_and_retailer_schedules.md): overlapping coverage of Black Friday store schedules, from a different source document.
 - [Black Friday 2023 Headphone Deals](black_friday_2023_headphone_deals_overview.md): overlapping coverage of the Black Friday holiday period, from a different source document.
 - [Cyber Week 2023 Online Spend Forecasts](cyber_week_2023_online_spend_forecasts.md): overlapping coverage of the Black Friday holiday period, from a different source document.
+- [Thanksgiving 2023 Retail Closure Policy](thanksgiving_2023_retail_closure_policy.md): same source document (doc_0323)
+- [Thanksgiving 2023: Stores Open on the Holiday](thanksgiving_2023_stores_open_on_the_holiday.md): same source document (doc_0323)
+- [Thanksgiving: The American Holiday](thanksgiving_american_holiday_overview.md): same source document (doc_0323)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

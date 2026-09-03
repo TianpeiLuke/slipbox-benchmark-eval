@@ -11,11 +11,18 @@ Tomasson — now manager of Blackburn Rovers in the English Championship — ele
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): also concerns South Africa, where Tomasson's final tournament was held, from a different document.
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also concerns South Africa, from a different document.
 - [Blackburn Rovers' Decline And Youthful Selection](blackburn_rovers_decline_and_youthful_selection.md): covers Tomasson's current club, from a different document.
 - [Carabao Cup 2023-24 First Round Results](carabao_cup_2023_24_first_round_results.md): also discusses Blackburn Rovers, from a different document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also discusses Blackburn Rovers, from a different document.
+- [Haaland's Chase Of Norway's International Goalscoring Record](haaland_chase_of_norway_international_goalscoring_record.md): same source document (doc_0400)
+- [Haaland's Major Tournament Prospects With Norway](haaland_major_tournament_prospects_with_norway.md): same source document (doc_0400)
+- [The Italy International Goalscoring Record Anomaly](italy_international_goalscoring_record_anomaly.md): same source document (doc_0400)
+- [Jorgen Juve's Norway Goalscoring Record](jorgen_juve_norway_goalscoring_record.md): same source document (doc_0400)
+- [The Longest-Standing International Goalscoring Records](longest_standing_international_goalscoring_records.md): same source document (doc_0400)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

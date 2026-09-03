@@ -15,6 +15,7 @@ An important condition on this report is its publication status: the UNH team is
 
 ## Related Notes
 
+
 - [Demetrius Andrade Career and Avoided Opponents](demetrius_andrade_career_and_avoided_opponents.md): also references Rhode Island, though in an unrelated article.
 - [Whole Genome Duplication and Bottlenecks in Cranberry](whole_genome_duplication_and_bottlenecks_in_cranberry.md): shares genetics, genome and species vocabulary, from a different source article.
 - [AKC Owner and Vet Action Guidance for Canine Illness](akc_owner_and_vet_action_guidance_canine_illness.md): guidance for the same outbreak, from the same Yahoo News report (doc_0565).
@@ -23,6 +24,8 @@ An important condition on this report is its publication status: the UNH team is
 - [Canine Illness True Case Count Likely in the Thousands](canine_illness_true_case_count_likely_thousands.md): the scale of the outbreak these samples were drawn from, from the same report (doc_0565).
 - [Canine Respiratory Illness Cause Evidence and Caveats](canine_respiratory_illness_cause_evidence_caveats.md): the caveats an outside virologist places on this result, from the same report (doc_0565).
 - [Canine Respiratory Illness State Case Reports 2023](canine_respiratory_illness_state_case_reports_2023.md): the states where cases have been reported, from the same report (doc_0565).
+- [Canine Respiratory Illness: Three Clinical Presentations](canine_respiratory_illness_three_clinical_presentations.md): same source document (doc_0565)
+- [Holiday Kennel and Dog Park Avoidance Guidance](holiday_kennel_and_dog_park_avoidance_guidance.md): same source document (doc_0565)
 
 ## Source
 

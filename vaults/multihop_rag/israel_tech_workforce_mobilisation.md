@@ -15,6 +15,7 @@ The response extended beyond military service. Shuly Galili, founding partner at
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): another global tech ecosystem in the same batch, from a different source document.
 - [StarNews Content and Growth](starnews_content_and_growth.md): another global tech ecosystem in the same batch, from a different source document.
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): shares the venture-capital theme, from a different source document.
@@ -23,6 +24,13 @@ The response extended beyond military service. Shuly Galili, founding partner at
 - [Beeper Funding and Investors](beeper_funding_and_investors.md): shares the venture-capital theme, from a different source document.
 - [Blockcast Decentralized Broadcast Network](blockcast_decentralized_broadcast_network.md): shares the venture-capital theme, from a different source document.
 - [Creator Economy Sustainability](creator_economy_sustainability.md): shares the venture-capital theme, from a different source document.
+- [StarNews Mobile's $3M Pre-Series A Round](starnews_funding_round.md): same sub-plan (subplan_10_global_ecosystems_assignments), different source document
+- [StarNews Mobile As An African Mobile Video Network](starnews_mobile_platform.md): same sub-plan (subplan_10_global_ecosystems_assignments), different source document
+- [Israel's Startup Funding Decline Before The War](israel_startup_funding_decline.md): same source document (doc_0448)
+- [The Scale Of Israel's Technology Sector In 2022](israel_tech_sector_scale.md): same source document (doc_0448)
+- [Israeli Founders And Investors On Operating Through The War](israeli_founders_operating_at_war.md): same source document (doc_0448)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
+- [Reserve Mobilisation](term_reserve_mobilisation.md): uses the concept reserve mobilisation
 
 ## Source
 

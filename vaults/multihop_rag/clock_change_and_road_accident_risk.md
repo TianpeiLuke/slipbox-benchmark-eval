@@ -11,6 +11,7 @@ The quantitative grounds come from RAC Foundation figures cited in support of ab
 
 ## Related Notes
 
+
 - [Tesla Fuel Economy Standards Position](tesla_fuel_economy_standards_position.md): another article about an organisation urging a government to adopt a proposal
 - [Week 10 Fantasy Pass Catcher Injury Overview](week_10_fantasy_pass_catcher_injury_overview.md): a similarity-index neighbour matching on darkness and scheduling terms
 - [Autumn Clock Change And Depressive Episodes](autumn_clock_change_and_depressive_episodes.md): the mental-health strand of the same case
@@ -19,6 +20,7 @@ The quantitative grounds come from RAC Foundation figures cited in support of ab
 - [Clocks Going Back And The Drop In Heart Attacks](clocks_going_back_and_the_drop_in_heart_attacks.md): counter-evidence claiming car crashes fall after the change
 - [Scrapping Winter DST To Cut Energy Bills](scrapping_winter_dst_to_cut_energy_bills.md): the energy argument for the same reform
 - [Sleep School Impartial On Clock Change Impact](sleep_school_impartial_on_clock_change_impact.md): a service declining to endorse strong clock-change effects
+- [UK Clock Change Dates For 2023 And 2024](uk_clock_change_dates_2023_and_2024.md): same source document (doc_0339)
 
 ## Source
 

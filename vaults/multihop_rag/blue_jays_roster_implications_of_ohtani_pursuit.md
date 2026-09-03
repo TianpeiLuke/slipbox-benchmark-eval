@@ -11,6 +11,7 @@ The grounds are two facts about Toronto's roster and payroll: both infielders ar
 
 ## Related Notes
 
+
 - [Alanna Rizzo Criticism of Clubhouse Reporting](alanna_rizzo_criticism_of_clubhouse_reporting.md): also covers the Blue Jays, from a different document.
 - [Alternative Reading of the Mariners Ohtani Leak](alternative_reading_of_the_mariners_ohtani_leak.md): overlaps on Ohtani free-agency speculation, from a different document.
 - [Cody Bellinger Free Agent Market and Suitors](cody_bellinger_free_agent_market_and_suitors.md): also covers the Blue Jays and reporting by Jon Heyman, from a different document.
@@ -19,6 +20,7 @@ The grounds are two facts about Toronto's roster and payroll: both infielders ar
 - [Ohtani Free Agency Market Expectations and Timeline](ohtani_free_agency_market_expectations_and_timeline.md): gives the market context for the pursuit, from the same document.
 - [Shohei Ohtani's 10-Year, $700 Million Contract With the Dodgers](shohei_ohtani_dodgers_ten_year_700_million_contract.md): records the outcome that made this scenario moot, from the same document.
 - [Shohei Ohtani Free Agency Suitors and Finalists](shohei_ohtani_free_agency_suitors_and_finalists.md): lists Toronto among the finalists assumed here, from the same document.
+- [The Toronto Reports And Denials Of Dec. 8, 2023](shohei_ohtani_toronto_reports_and_denials.md): same source document (doc_0426)
 
 ## Source
 

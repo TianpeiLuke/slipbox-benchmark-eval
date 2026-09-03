@@ -13,11 +13,18 @@ His commitment has not softened: last season, when a rib injury precluded him fr
 
 ## Related Notes
 
+
 - [Buffalo Bills Defensive Injuries, 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): also concerns Tre'Davious White and Kansas City, from a different document.
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): also concerns Kansas City, from a different document.
 - [Chiefs Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): also concerns Kansas City, from a different document.
 - [Chiefs Jets Second Half Live Blog](chiefs_jets_second_half_live_blog.md): also concerns Kansas City, from a different document.
 - [Chiefs Packers Week 13 First Half Sequence](chiefs_packers_week_13_first_half_sequence.md): also concerns Kansas City, from a different document.
+- [Ayahuasca, The Psychedelic Brew](ayahuasca_psychedelic_brew.md): same source document (doc_0322)
+- [Jordan Poyer's Alcoholism And Sobriety](jordan_poyer_alcoholism_and_sobriety.md): same source document (doc_0322)
+- [Jordan Poyer's Ayahuasca Ceremony Experience](jordan_poyer_ayahuasca_ceremony_experience.md): same source document (doc_0322)
+- [Jordan Poyer's Contract Status And Post-Career Plans](jordan_poyer_contract_status_and_post_career_plans.md): same source document (doc_0322)
+- [Jordan Poyer's Football Performance After Ayahuasca](jordan_poyer_football_performance_after_ayahuasca.md): same source document (doc_0322)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

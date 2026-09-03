@@ -13,11 +13,17 @@ Schatz framed the measure plainly in a press statement: "Our bill is simple. If 
 
 ## Related Notes
 
+
 - [EU AI Act Training Data Disclosure Rule](eu_ai_act_training_data_disclosure_rule.md): another disclosure mandate aimed at AI developers, from a different source document.
 - [AI Civil Rights And Consumer Protections In The EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): part of the same 2023 US federal AI policy push, from a different source document.
 - [AI Threats To Critical Infrastructure Provisions](ai_threats_to_critical_infrastructure_provisions.md): part of the same 2023 US federal AI policy push, from a different source document.
 - [AI Worker Protections And Federal AI Hiring](ai_worker_protections_and_federal_ai_hiring.md): part of the same 2023 US federal AI policy push, from a different source document.
 - [Biden AI Executive Order, October 2023](biden_ai_executive_order_october_2023.md): the executive-branch counterpart to this legislative proposal, from a different source document.
+- [The Artificial Intelligence Advancement Act Of 2023](artificial_intelligence_advancement_act_2023.md): same source document (doc_0312)
+- [Organized Labor's Pushback On AI Deployment](organized_labor_pushback_on_ai_deployment.md): same source document (doc_0312)
+- [Schumer's SAFE Innovation Framework](schumer_safe_innovation_framework.md): same source document (doc_0312)
+- [Second Senate AI Insight Forum, October 2023](senate_ai_insight_forum_second_session.md): same source document (doc_0312)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

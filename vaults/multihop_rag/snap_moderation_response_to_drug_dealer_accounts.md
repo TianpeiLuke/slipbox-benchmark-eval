@@ -13,6 +13,7 @@ Hanh Badger's objection goes further, attacking the sufficiency of account remov
 
 ## Related Notes
 
+
 - [Snap's Decision To Keep The Gaza Heat Map Live](snap_decision_to_keep_gaza_heat_map_live.md): overlaps on Snap spokespeople and user posting, from a different source document.
 - [The Snap Map Product And Our Story](snap_map_product_and_our_story.md): overlaps on Snapchat posting features, from a different source document.
 - [Brooke Badger's Fentanyl Overdose Death, 2021](brooke_badger_fentanyl_overdose_death_2021.md): drawn from the same source document (doc_0345).
@@ -21,6 +22,8 @@ Hanh Badger's objection goes further, attacking the sufficiency of account remov
 - [The Section 230 Defense In The Snap Fentanyl Lawsuit](section_230_defense_in_snap_fentanyl_lawsuit.md): drawn from the same source document (doc_0345).
 - [Snapchat Design Features Alleged To Enable Drug Sales](snapchat_design_features_alleged_to_enable_drug_sales.md): drawn from the same source document (doc_0345).
 - [Snapchat's Perceived Safety For Teen Drug Purchases](snapchat_perceived_safety_for_teen_drug_purchases.md): drawn from the same source document (doc_0345).
+- [The Social Media Victims Law Center's Lawsuit Against Snap](social_media_victims_law_center_lawsuit_against_snap.md): same source document (doc_0345)
+- [US Youth Fentanyl Overdose Death Statistics](us_youth_fentanyl_overdose_death_statistics.md): same source document (doc_0345)
 
 ## Source
 

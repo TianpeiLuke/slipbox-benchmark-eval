@@ -11,6 +11,7 @@ The Iñigo Quintero case runs through that model: Believe identified Acqustic as
 
 ## Related Notes
 
+
 - [EU US Performance Rights Asymmetry](eu_us_performance_rights_asymmetry.md): concerns labels, artists and how music income is structured, from a different source document.
 - [Material Reciprocity Principle Music Royalties](material_reciprocity_principle_music_royalties.md): concerns labels and artists at different levels of the industry, from a different source document.
 - [Artists Seeking Control Transparency And Masters Ownership](artists_seeking_control_transparency_and_masters_ownership.md): drawn from the same interview and covers the service tiers this scaling model uses.
@@ -19,6 +20,7 @@ The Iñigo Quintero case runs through that model: Believe identified Acqustic as
 - [Digital First Artist Development Model](digital_first_artist_development_model.md): drawn from the same interview and gives the wider development model this scouting feeds.
 - [Global Hits Without Major Label Deals](global_hits_without_major_label_deals.md): drawn from the same interview and shows the same approach producing hits in other markets.
 - [Inigo Quintero Si No Estas Breakthrough](inigo_quintero_si_no_estas_breakthrough.md): drawn from the same interview and is the artist this partnership delivered.
+- [Why Spanish-Language Music Keeps Growing Globally](spanish_language_music_global_growth.md): same source document (doc_0211)
 
 ## Source
 

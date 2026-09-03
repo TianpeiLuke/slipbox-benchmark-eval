@@ -11,6 +11,7 @@ Ahead of publication, the main point of anticipation was what the book would say
 
 ## Related Notes
 
+
 - [Britney Spears Estrangement From Her Family](britney_spears_estrangement_from_her_family.md): another strand of Spears' story covered in separate reporting
 - [Kevin Federline Custody Of Britney Spears Sons](kevin_federline_custody_of_britney_spears_sons.md): the custody arrangement the memoir's Federline material bears on
 - [The Woman In Me Memoir Publication Details](the_woman_in_me_memoir_publication_details.md): a separate account of the same book's publication
@@ -19,6 +20,8 @@ Ahead of publication, the main point of anticipation was what the book would say
 - [Britney Spears Charlie Ebersol Relationship](britney_spears_charlie_ebersol_relationship.md): another romance from the same timeline article
 - [Britney Spears Conservatorship Under Jamie Spears](britney_spears_conservatorship_under_jamie_spears.md): the legal battle the memoir is expected to cover, from the same source
 - [Britney Spears David Lucado Relationship](britney_spears_david_lucado_relationship.md): another entry in the same relationship timeline
+- [Britney Spears' 55-Hour Marriage To Jason Alexander](britney_spears_jason_alexander_55_hour_marriage.md): same source document (doc_0051)
+- [Britney Spears' Engagement To Jason Trawick](britney_spears_jason_trawick_engagement.md): same source document (doc_0051)
 
 ## Source
 

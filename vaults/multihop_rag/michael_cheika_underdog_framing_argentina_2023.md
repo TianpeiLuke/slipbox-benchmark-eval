@@ -13,6 +13,7 @@ He also refused to over-read Argentina's 2020 win as evidence: "In the game in 2
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): another document about South Africa, in an unrelated domain
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): another document about South Africa, in an unrelated domain
 - [All Blacks Final Moments RWC 2023 Final](all_blacks_final_moments_rwc_2023_final.md): the final Cheika expected, different source document
@@ -21,6 +22,7 @@ He also refused to over-read Argentina's 2020 win as evidence: "In the game in 2
 - [All Blacks Selection Changes 2023 Semi Final](all_blacks_selection_changes_2023_semi_final.md): the opposing team named for this match, same source document
 - [Cheika on Inspiring Argentina Beyond Results](cheika_on_inspiring_argentina_beyond_results.md): the other half of Cheika's argument that week, same source document
 - [Ian Foster Rejects Favourites Label vs Argentina](ian_foster_rejects_favourites_label_vs_argentina.md): the rebuttal from the favourites' coach, same source document
+- [All Blacks Defend Rieko Ioane's Gestures Toward Ireland Fans And Sexton](rieko_ioane_gestures_towards_ireland_fans_and_sexton.md): same source document (doc_0023)
 
 ## Source
 

@@ -11,6 +11,7 @@ He developed it after a closed session and the lunch break by leading Eddy Cue t
 
 ## Related Notes
 
+
 - [Firefox Decline: The Alternative Chrome-Share Explanation](firefox_decline_alternative_explanation_chrome_share.md): overlapping coverage of Google, search and browsers, from a different source document.
 - [Google Android MADA And RSA Agreements](google_android_mada_and_rsa_agreements.md): overlapping coverage of Google, search and browser placement, from a different source document.
 - [Google-Apple Chrome Agreement](google_apple_chrome_agreement.md): overlapping coverage of Safari, Google and search, from a different source document.
@@ -19,6 +20,8 @@ He developed it after a closed session and the lunch break by leading Eddy Cue t
 - [The Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): drawn from the same source document (doc_0014).
 - [Apple's Privacy Stance Versus Google's Default Payments](apple_privacy_stance_versus_google_default_payments.md): drawn from the same source document (doc_0014).
 - [Closed Sessions Limited The Public Record Of Cue's Testimony](closed_sessions_limited_the_public_record_of_cue_testimony.md): drawn from the same source document (doc_0014).
+- [The DOJ Theory That Google's Default Deals Foreclose Search Rivals](doj_theory_that_google_default_deals_foreclose_search_rivals.md): same source document (doc_0014)
+- [Eddy Cue's Testimony In US V. Google](eddy_cue_testimony_in_us_v_google.md): same source document (doc_0014)
 
 ## Source
 

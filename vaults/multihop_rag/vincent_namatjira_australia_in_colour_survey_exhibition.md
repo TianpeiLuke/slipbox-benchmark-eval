@@ -13,6 +13,7 @@ Vincent Namatjira: Australia in Colour opens on 20 October at the Art Gallery of
 
 ## Related Notes
 
+
 - [Albert Namatjira Hermannsburg Watercolour Painter](albert_namatjira_hermannsburg_watercolour_painter.md): same interview, the ancestor whose legacy frames the show
 - [Vincent Namatjira Call For Foster Care Apology](vincent_namatjira_call_for_foster_care_apology.md): same interview, the political stance behind the work
 - [Vincent Namatjira Childhood Foster Care And Return To Country](vincent_namatjira_childhood_foster_care_and_return_to_country.md): same interview, the biography behind the decade surveyed
@@ -20,6 +21,9 @@ Vincent Namatjira: Australia in Colour opens on 20 October at the Art Gallery of
 - [Harley Reid Afl Draft Prospect 2023](harley_reid_afl_draft_prospect_2023.md): shares the South Australia setting, unrelated subject
 - [Kane Mcauliffe Afl Draft Prospect 2023](kane_mcauliffe_afl_draft_prospect_2023.md): shares the South Australia setting, unrelated subject
 - [Tyler Mitchell Career Trajectory And Artistic Outlook](tyler_mitchell_career_trajectory_and_artistic_outlook.md): part of the same portraiture-exhibitions grouping, different source
+- [Will McCabe AFL Draft Prospect 2023](will_mccabe_afl_draft_prospect_2023.md): both discuss South Australia; different source document
+- [Vincent Namatjira On Choosing His Own Path From Albert's Legacy](vincent_namatjira_choosing_his_own_path_from_alberts_legacy.md): same source document (doc_0284)
+- [Guerilla Humour: Vincent Namatjira's Portrait Practice](vincent_namatjira_guerilla_humour_portrait_practice.md): same source document (doc_0284)
 
 ## Source
 

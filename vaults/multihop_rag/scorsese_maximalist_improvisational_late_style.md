@@ -15,11 +15,18 @@ What grounds the style is the framing. Scorsese is telling a familiar story audi
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and the Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): both mention Hong Kong, from an unrelated source document
 - [Argentina-Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): another Hong Kong reference from a different article
 - [CONMEBOL 2026 Qualifying Broadcast Rights and Channels](conmebol_2026_qualifying_broadcast_rights_and_channels.md): another Hong Kong mention in a separate document
 - [Don't Go Breaking My Heart (2011, Johnnie To Romcom)](dont_go_breaking_my_heart_2011_johnnie_to_romcom.md): a Hong Kong cinema subject from a different source
 - [Engadget VPN Testing Methodology](engadget_vpn_testing_methodology.md): another Hong Kong reference from an unrelated article
+- [Killers of the Flower Moon (Martin Scorsese)](killers_of_the_flower_moon_film.md): same source document (doc_0192)
+- [Scorsese's 21st-Century Filmography](scorsese_21st_century_filmography.md): same source document (doc_0192)
+- [Scorsese and Leonardo DiCaprio's Collaboration](scorsese_and_leonardo_dicaprio_collaboration.md): same source document (doc_0192)
+- [Scorsese's Late-Career Genre Departures](scorsese_late_career_genre_departures.md): same source document (doc_0192)
+- [Scorsese's Late Career Refutes Tarantino's Claim That Directors Do Not Get Better](scorsese_late_career_refutes_tarantino_decline_claim.md): same source document (doc_0192)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

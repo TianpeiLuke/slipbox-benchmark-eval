@@ -11,12 +11,19 @@ Reece Topley found some early inswing to the right-handers in the first over: Br
 
 ## Related Notes
 
+
 - [Andre Russell's Comeback in the First T20I](andre_russell_comeback_first_t20i.md): covers the same West Indies side earlier in the series, from a different document.
 - [Boycott Defends Jos Buttler's Captaincy](boycott_defends_jos_buttler_captaincy.md): also covers Jos Buttler, from a different document.
 - [England 171 All Out in the First T20I](england_171_all_out_first_t20i.md): covers the series opener, from a different document.
 - [First ODI, Cricket World Cup 1975](first_odi_cricket_world_cup_1975.md): also covers West Indies, from a different document.
 - [First T20I in Barbados: Match Summary](first_t20i_barbados_match_summary.md): covers the same two captains and teams in the opener, from a different document.
 - [Adil Rashid T20I Milestones and Series Form](adil_rashid_t20i_milestones_and_series_form.md): covers the spinner England were holding back here, from the same document.
+- [England 132 All Out In The T20 Series Decider](england_132_all_out_t20_series_decider.md): same source document (doc_0064)
+- [The England Camp's Verdict On The T20 Series Defeat](england_camp_verdict_on_t20_series_defeat.md): same source document (doc_0064)
+- [Shai Hope's Anchor Innings In The T20 Decider](shai_hope_anchor_innings_t20_decider.md): same source document (doc_0064)
+- [West Indies Win The 2023 T20I Series 3-2](west_indies_england_2023_t20i_series_outcome.md): same source document (doc_0064)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

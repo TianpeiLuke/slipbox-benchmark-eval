@@ -13,11 +13,18 @@ The warrant joining those to the larger claim is scalability: these more scalabl
 
 ## Related Notes
 
+
 - [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): overlapping robotics-outlook coverage, from a different source document.
 - [Amazon Machine Learning And Generative AI Adoption](amazon_machine_learning_and_generative_ai_adoption.md): overlapping coverage of generative AI applied to robotics, from a different source document.
 - [Boston Dynamics AI Institute Research Pillars](boston_dynamics_ai_institute_research_pillars.md): also concerns Boston Dynamics' research direction, from a different source document.
 - [Boston Dynamics Humanoid Research Yielding A Non-Humanoid Robot](boston_dynamics_humanoid_research_yielding_non_humanoid_robot.md): also concerns Boston Dynamics, from a different source document.
 - [Generative AI For Robot Design And Path Planning](generative_ai_for_robot_design_and_path_planning.md): overlapping coverage of generative AI in robot planning, from a different source document.
+- [Barriers To Truly General-Purpose Robots](barriers_to_general_purpose_robots.md): same source document (doc_0420)
+- [Boston Dynamics On The Humanoid Form Factor](boston_dynamics_view_on_humanoid_form_factor.md): same source document (doc_0420)
+- [The Next Industries For Robotics Adoption](next_industries_for_robotics_adoption.md): same source document (doc_0420)
+- [Outlook For Home Robots Beyond Vacuums](outlook_for_home_robots_beyond_vacuums.md): same source document (doc_0420)
+- [The Robotics Supply Chain As An Underappreciated Trend](robotics_supply_chain_as_underappreciated_trend.md): same source document (doc_0420)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

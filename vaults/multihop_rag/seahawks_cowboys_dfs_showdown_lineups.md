@@ -13,11 +13,19 @@ The FanDuel single-game lineup is: MVP (1.5X) Cowboys RB Tony Pollard $14,500; A
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also discusses Dak Prescott, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Dak Prescott and Tyler Lockett, from a different document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also discusses Dak Prescott, from a different document.
 - [Cowboys 49ers First Half Live Blog](cowboys_49ers_first_half_live_blog.md): also discusses Dak Prescott and Jake Ferguson, from a different document.
 - [Cowboys 49ers Second Half Live Blog](cowboys_49ers_second_half_live_blog.md): also discusses Tony Pollard, from a different document.
+- [Cowboys Fantasy Start Recommendations For Week 13](cowboys_fantasy_start_recommendations_week_13.md): same source document (doc_0394)
+- [Seahawks-Cowboys Week 13 TNF Matchup Outlook](seahawks_cowboys_week_13_tnf_matchup_outlook.md): same source document (doc_0394)
+- [Seahawks Fantasy Sit Recommendations For Week 13](seahawks_fantasy_sit_recommendations_week_13.md): same source document (doc_0394)
+- [Tony Pollard's Fantasy Outlook In 2023](tony_pollard_fantasy_outlook_2023.md): same source document (doc_0394)
+- [Zach Charbonnet's Fantasy Outlook In 2023](zach_charbonnet_fantasy_outlook_2023.md): same source document (doc_0394)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
 
 ## Source
 

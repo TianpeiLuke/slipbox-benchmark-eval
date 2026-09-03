@@ -11,11 +11,19 @@ Separately, the Trump Organization was convicted of tax fraud in 2022 in an unre
 
 ## Related Notes
 
+
 - [AI Civil Rights and Consumer Protections in the EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): shares the White House as a referenced institution.
 - [Biden AI Executive Order](biden_ai_executive_order.md): shares the White House as a referenced institution.
 - [Binance DOJ Resolution and CZ Guilty Plea](binance_doj_resolution_and_cz_guilty_plea.md): shares the fraud and guilty-plea subject matter.
 - [Caroline Ellison Guilty Plea and First Day Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): another criminal defendant's guilty plea and testimony.
 - [Cohen Cross-Examination of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): shares the fraud and plea-agreement subject matter.
+- [Engoron's "Fantasy World" Finding on Trump Financial Statements](engoron_fantasy_world_finding_on_trump_financial_statements.md): same source document (doc_0529)
+- [Engoron Summary Judgment That Trump Committed Fraud](engoron_summary_judgment_that_trump_committed_fraud.md): same source document (doc_0529)
+- [Letitia James Asset Inflation Allegations](letitia_james_asset_inflation_allegations.md): same source document (doc_0529)
+- [Letitia James' History of Investigating Trump](letitia_james_history_of_investigating_trump.md): same source document (doc_0529)
+- [Mar-a-Lago Valuation Dispute](mar_a_lago_valuation_dispute.md): same source document (doc_0529)
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Plea Agreement](term_plea_agreement.md): uses the concept plea agreement
 
 ## Source
 

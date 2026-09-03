@@ -11,12 +11,18 @@ Prime Minister Benjamin Netanyahu, then in opposition, referred mainly to the be
 
 ## Related Notes
 
+
 - [Disinformation on X Gaza](disinformation_on_x_gaza.md): also discusses Gaza Strip, from a different source document.
 - [EU Warning Letter to X](eu_warning_letter_to_x.md): also discusses Gaza Strip, from a different source document.
 - [Eylon Levy Aliyah and IDF Service](eylon_levy_aliyah_and_idf_service.md): also discusses Gaza Strip, from a different source document.
 - [Gaza Humanitarian Crisis October 2023 Supply Cutoff](gaza_humanitarian_crisis_october_2023_supply_cutoff.md): also discusses Gaza Strip, from a different source document.
 - [Gaza Internet Blackout and Connectivity](gaza_internet_blackout_and_connectivity.md): another aspect of the Gaza Strip after October 7, from a different source document.
 - [The Berlin Wall's Low-Tech Defense Lesson](berlin_wall_low_tech_defense_lesson.md): the counterexample of low-tech barrier design (doc_0078).
+- [The Construction Of The Gaza Border Barrier](gaza_border_barrier_construction.md): same source document (doc_0078)
+- [The IDF's "Small And Smart Army" Doctrine](idf_small_and_smart_army_doctrine.md): same source document (doc_0078)
+- [The Iron Dome's Strategic Paradox](iron_dome_strategic_paradox.md): same source document (doc_0078)
+- [Israel's Restraint Policy Toward Gaza](israeli_restraint_policy_toward_gaza.md): same source document (doc_0078)
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

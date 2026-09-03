@@ -11,6 +11,7 @@ Justice Department lawyer Meagan Bellshaw built to that answer through a series 
 
 ## Related Notes
 
+
 - [Consumer Search Startup Switching Barriers](consumer_search_startup_switching_barriers.md): overlapping coverage of search, users and Google, from a different source document.
 - [Firefox's Yahoo Default Search Switch](firefox_yahoo_default_search_switch.md): overlapping coverage of search, users and Google defaults, from a different source document.
 - [Google Antitrust Case](google_antitrust_case.md): overlapping coverage of search, Google and trial testimony, from a different source document.
@@ -19,6 +20,9 @@ Justice Department lawyer Meagan Bellshaw built to that answer through a series 
 - [The Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): drawn from the same source document (doc_0014).
 - [Apple's Privacy Stance Versus Google's Default Payments](apple_privacy_stance_versus_google_default_payments.md): drawn from the same source document (doc_0014).
 - [Closed Sessions Limited The Public Record Of Cue's Testimony](closed_sessions_limited_the_public_record_of_cue_testimony.md): drawn from the same source document (doc_0014).
+- [The DOJ Theory That Google's Default Deals Foreclose Search Rivals](doj_theory_that_google_default_deals_foreclose_search_rivals.md): same source document (doc_0014)
+- [Eddy Cue's Testimony In US V. Google](eddy_cue_testimony_in_us_v_google.md): same source document (doc_0014)
+- [Default Search Engine](term_default_search_engine.md): uses the concept default search engine
 
 ## Source
 

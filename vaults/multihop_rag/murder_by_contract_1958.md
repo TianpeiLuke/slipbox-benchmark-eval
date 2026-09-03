@@ -11,11 +11,18 @@ Scorsese's stated reason is economy: "The film puts us all to shame with its eco
 
 ## Related Notes
 
+
 - [Scorsese's 21st Century Filmography](scorsese_21st_century_filmography.md): covers the director this film influenced, including Taxi Driver, from a different source document.
 - [Joker Folie a Deux](joker_folie_a_deux.md): also covers Martin Scorsese, from a different source document.
 - [Killers of the Flower Moon Film](killers_of_the_flower_moon_film.md): also covers Martin Scorsese, from a different source document.
 - [Martin Scorsese Internet Slang Tiktok Quiz](martin_scorsese_internet_slang_tiktok_quiz.md): also covers Martin Scorsese, from a different source document.
 - [Reaction to the Scorsese Slang Video](reaction_to_the_scorsese_slang_video.md): also covers Martin Scorsese, from a different source document.
+- [Bad Times At The El Royale (2018)](bad_times_at_the_el_royale_2018.md): same source document (doc_0327)
+- [Blood Simple (1984)](blood_simple_1984.md): same source document (doc_0327)
+- [Born To Kill (1947)](born_to_kill_1947.md): same source document (doc_0327)
+- [Brick (2005)](brick_2005_rian_johnson.md): same source document (doc_0327)
+- [Detour (1945)](detour_1945_edgar_g_ulmer.md): same source document (doc_0327)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

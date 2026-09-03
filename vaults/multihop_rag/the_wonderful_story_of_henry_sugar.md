@@ -13,11 +13,19 @@ Polygon's Pete Volk describes that aesthetic: in his recent work Anderson has ma
 
 ## Related Notes
 
+
 - [Daily Life at the Possibility Alliance](daily_life_at_the_possibility_alliance.md): shares the streaming-service and user-generated-content topic tags
 - [External Studios Expand Pokémon Animation](external_studios_expand_pokemon_animation.md): shares the same pair of topic tags from a different document
 - [Kevin Nguyen's Non-Writing iPhone Apps](kevin_nguyen_non_writing_iphone_apps.md): shares the streaming-service and user-generated-content tags
 - [Netflix Originals Premiering November 27 to 30 2023](netflix_originals_premiering_november_27_to_30_2023.md): another Netflix-catalog note sharing both tags
 - [Netflix Originals Premiering November 7 to 10 2023](netflix_originals_premiering_november_7_to_10_2023.md): a further Netflix listing sharing the same tags
+- [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): same source document (doc_0094)
+- [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): same source document (doc_0094)
+- [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): same source document (doc_0094)
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

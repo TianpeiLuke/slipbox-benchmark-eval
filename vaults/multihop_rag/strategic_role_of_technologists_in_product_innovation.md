@@ -13,6 +13,7 @@ The claim is offered without conditions on product stage or technology maturity:
 
 ## Related Notes
 
+
 - [Chants Of Sennaar](chants_of_sennaar.md): shares the translation-between-languages framing, from a different source document.
 - [Digital Technology As A Design Material](digital_technology_as_a_design_material.md): drawn from the same source document (doc_0496), on how technologists make that translation concrete.
 - [Disney Innovation As Its Real Legacy](disney_innovation_as_its_real_legacy.md): shares the innovation-as-legacy framing, from a different source document.
@@ -21,6 +22,11 @@ The claim is offered without conditions on product stage or technology maturity:
 - [Eylon Levy Aliyah And IDF Service](eylon_levy_aliyah_and_idf_service.md): shares the translation-and-communication framing, from a different source document.
 - [France And Mistral Opposition To GPAI Rules](france_and_mistral_opposition_to_gpai_rules.md): shares the technology-policy translation framing, from a different source document.
 - [Gemini Pro Translation And Multilingual Weakness](gemini_pro_translation_and_multilingual_weakness.md): shares the translation theme, from a different source document.
+- [Innovation As Perpetual And Mundane](innovation_as_perpetual_and_mundane.md): same source document (doc_0496)
+- [Product Design As A Decision-Making Process](product_design_as_a_decision_making_process.md): same source document (doc_0496)
+- [Product Design In The AI And Spatial Computing Era](product_design_in_the_ai_and_spatial_computing_era.md): same source document (doc_0496)
+- [Technology Innovation Must Solve A Business Problem](technology_innovation_must_solve_a_business_problem.md): same source document (doc_0496)
+- [Machine Translation](term_machine_translation.md): uses the concept machine translation
 
 ## Source
 

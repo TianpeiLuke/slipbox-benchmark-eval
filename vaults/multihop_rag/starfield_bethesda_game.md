@@ -13,6 +13,7 @@ Ashley also names the game's marketing problem: it oversold the idea of a galaxy
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick for Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): both discuss the Xbox Series hardware, from a different source document
 - [Activision Titles on Xbox Game Pass](activision_titles_on_xbox_game_pass.md): overlapping Bethesda and Starfield subject matter from a separate article
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): both reference Xbox Series consoles, from a different document
@@ -20,6 +21,10 @@ Ashley also names the game's marketing problem: it oversold the idea of a galaxy
 - [LG C3 OLED TV](lg_c3_oled_tv.md): another Xbox Series-referencing hardware note
 - [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
 - [Amnesia: The Bunker](amnesia_the_bunker.md): a fellow entry on the same ranked games list
+- [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): same source document (doc_0213)
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

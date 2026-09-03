@@ -11,6 +11,7 @@ In 2021, JPMorgan Chase eliminated fees for overdrafts that were under $50; acco
 
 ## Related Notes
 
+
 - [Amex Cash Magnet Travel Limitations](amex_cash_magnet_travel_limitations.md): another discussion of consumer card and account fees, from a different source document.
 - [Amex Cash Magnet Welcome Bonus Criticism](amex_cash_magnet_welcome_bonus_criticism.md): shares vocabulary around fees, customers and without, from a different source document.
 - [US Q3 Earnings Season and Corporate Movers October 2023](us_q3_earnings_season_and_corporate_movers_october_2023.md): also covers Wells Fargo, from a different source document.
@@ -19,6 +20,7 @@ In 2021, JPMorgan Chase eliminated fees for overdrafts that were under $50; acco
 - [Citigroup Overdraft Fee Elimination](citigroup_overdraft_fee_elimination.md): the full elimination these partial measures are contrasted against (doc_0097).
 - [Overdraft Fees Racial Disparity Argument](overdraft_fees_racial_disparity_argument.md): the argument for eliminating the fees entirely (doc_0097).
 - [Robert Menendez Bribery Indictment](robert_menendez_bribery_indictment.md): the questioner who pressed these banks on their fee policies (doc_0097).
+- [The 2023 Senate Hearing On Bank Capital Rules](senate_banking_hearing_2023_bank_capital_rules.md): same source document (doc_0097)
 
 ## Source
 

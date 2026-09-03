@@ -15,6 +15,7 @@ Products, partnerships and people: the great Zelle pool scam; the Public platfor
 
 ## Related Notes
 
+
 - [Beeper Funding And Investors](beeper_funding_and_investors.md): shares the acquisition and venture-capital themes, from a different source document.
 - [X Bot Countermeasures](x_bot_countermeasures.md): shares the acquisition and payment-processor themes, from a different source document.
 - [The 49ers' 2024 Free Agent Class](49ers_2024_free_agent_class.md): shares an acquisition theme, from an unrelated source document.
@@ -23,6 +24,18 @@ Products, partnerships and people: the great Zelle pool scam; the Public platfor
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares an acquisition theme, from a different source document.
 - [AI Pricing Models](ai_pricing_models.md): shares a payment-processor theme, from a different source document.
 - [The AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): shares a venture-capital theme, from a different source document.
+- [Bolt's SEC Probe Closed Without An Enforcement Recommendation](bolt_sec_probe.md): same source document (doc_0075)
+- [CRED's 255% Operating Revenue Growth To $168.1 Million](cred_revenue_growth.md): same source document (doc_0075)
+- [Fintech Startups On The 2023 Ranking Lists](fintech_startup_rankings_2023.md): same source document (doc_0075)
+- [Gatekeeper Platforms Will Keep Drawing Antitrust Suits Over Their Fees](payment_gatekeeper_antitrust_view.md): same source document (doc_0075)
+- [PayPal's Anti-Steering Class Action](paypal_anti_steering_lawsuit.md): same source document (doc_0075)
+- [Rainforest's Embedded Payments For Software Platforms](rainforest_embedded_payments.md): same source document (doc_0075)
+- [The Investor Thesis For Rainforest](rainforest_investor_thesis.md): same source document (doc_0075)
+- [Slice's Merger With North East Small Finance Bank](slice_bank_merger_india.md): same source document (doc_0075)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
+- [Know Your Customer (KYC)](term_know_your_customer.md): uses the concept know your customer
 
 ## Source
 

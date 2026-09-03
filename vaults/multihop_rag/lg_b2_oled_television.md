@@ -13,6 +13,7 @@ LG's new B3 TV promises a cleaner webOS interface but is priced a good way highe
 
 ## Related Notes
 
+
 - [Expectations For A 24-Inch iMac M3 Refresh](apple_24_inch_imac_m3_refresh_expectations.md): shares the screen-size and upgrade framing, from a different source document.
 - [Apple MacBook Air, 15-Inch M2](apple_macbook_air_15_inch_m2.md): shares the model-tier and processor comparison framing, from a different source document.
 - [LG A2 OLED TV Deal](lg_a2_oled_tv_deal.md): covers another LG OLED tier, from a different source document.
@@ -21,6 +22,8 @@ LG's new B3 TV promises a cleaner webOS interface but is priced a good way highe
 - [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): drawn from the same source document (doc_0250).
 - [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): drawn from the same source document (doc_0250).
 - [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): drawn from the same source document (doc_0250).
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): same source document (doc_0250)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0250)
 
 ## Source
 

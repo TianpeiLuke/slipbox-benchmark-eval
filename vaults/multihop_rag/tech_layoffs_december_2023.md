@@ -13,11 +13,23 @@ Mid-month cuts continued. Etsy laid off 11% of its workforce, with CEO Josh Silv
 
 ## Related Notes
 
+
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs and layoffs and restructuring theme, from a different source document.
 - [Blockcast Decentralized Broadcast Network](blockcast_decentralized_broadcast_network.md): shares the streaming service and venture capital theme, from a different source document.
 - [Boeing Q3 2023 Earnings Preview and 737 Max Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): shares the streaming service and valuation theme, from a different source document.
 - [Brave Software Layoffs](brave_software_layoffs.md): substantial content overlap on workforce, laid, software, from a different source document.
 - [Collegehumor IAC Layoffs and Sale to Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares the layoffs, layoffs and restructuring and streaming service theme, from a different source document.
+- [Tech Layoffs 2023: Overview And Totals](tech_layoffs_2023_overview_and_totals.md): same source document (doc_0049)
+- [Tech Layoffs In April 2023](tech_layoffs_april_2023.md): same source document (doc_0049)
+- [Tech Layoffs In August 2023](tech_layoffs_august_2023.md): same source document (doc_0049)
+- [Tech Layoffs In February 2023](tech_layoffs_february_2023.md): same source document (doc_0049)
+- [Tech Layoffs In January 2023](tech_layoffs_january_2023.md): same source document (doc_0049)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Chapter 11 (Bankruptcy)](term_chapter_11.md): uses the concept chapter 11
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

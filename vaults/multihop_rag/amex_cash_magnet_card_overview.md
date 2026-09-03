@@ -11,6 +11,7 @@ Its stated pros are no annual fee, a flat cash back rate, and an attainable new-
 
 ## Related Notes
 
+
 - [Chase Ink Business Preferred Card Comparison](chase_ink_business_preferred_card_comparison.md): overlapping coverage of card rewards and annual fees, from a different source document.
 - [Tradeoffs Of The Higher-Rate Cash Back Alternative Versus The Fifth Third Card](citi_double_cash_tradeoffs_versus_fifth_third_card.md): overlapping coverage of card fees and bonuses, from a different source document.
 - [Delta Gold Business Card Fees And Eligibility](delta_gold_business_card_fees_and_eligibility.md): overlapping coverage of card annual fees, from a different source document.
@@ -19,6 +20,8 @@ Its stated pros are no annual fee, a flat cash back rate, and an attainable new-
 - [Alternatives To The Amex Cash Magnet Card](alternatives_to_amex_cash_magnet_card.md): drawn from the same source document (doc_0471).
 - [Amex Cash Magnet Approval Odds And Credit Limits](amex_cash_magnet_approval_odds_and_credit_limits.md): drawn from the same source document (doc_0471).
 - [The Amex Cash Magnet Best-Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): drawn from the same source document (doc_0471).
+- [Amex Cash Magnet Cardholder Benefits](amex_cash_magnet_cardholder_benefits.md): same source document (doc_0471)
+- [Amex Cash Magnet Rates And Fees](amex_cash_magnet_rates_and_fees.md): same source document (doc_0471)
 
 ## Source
 

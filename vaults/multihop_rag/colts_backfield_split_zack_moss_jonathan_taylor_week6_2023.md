@@ -13,6 +13,7 @@ The matchup evidence is mixed and is what makes the Moss call a hunch rather tha
 
 ## Related Notes
 
+
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): another "Start Him" verdict in the same weekly-decision format, from a different document.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): overlaps on the same projected-points and fantasy-per-game vocabulary, from a different document.
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): another "Sit Him" verdict of the kind applied to Taylor here, from a different document.
@@ -20,6 +21,9 @@ The matchup evidence is mixed and is what makes the Moss call a hunch rather tha
 - [Cooper Kupp 2023 Ankle Injury And Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): another sit verdict on a player returning to form, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another lineup call from the same Week 6 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method these calls apply, from the same column.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [Dak Prescott As A Week 6 2023 Sit At The Chargers](dak_prescott_week6_2023_sit_recommendation.md): same source document (doc_0149)
 
 ## Source
 

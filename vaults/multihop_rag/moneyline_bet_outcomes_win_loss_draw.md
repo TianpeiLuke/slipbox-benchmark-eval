@@ -13,11 +13,19 @@ A tie handled as a "push" is a different case, and the scope condition matters. 
 
 ## Related Notes
 
+
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): shares the NBA and betting-odds subject areas, from a different document.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): another catalogue of markets including the moneyline, separately sourced.
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): the analogous settlement rules for spreads, in a different document.
 - [DraftKings Sportsbook Betting Markets](draftkings_sportsbook_betting_markets.md): also lists the markets these outcomes apply to, from a separate source.
 - [FanDuel Bet Five, Get $150 Moneyline Promo](fanduel_bet_five_get_150_moneyline_promo.md): overlaps on moneyline wagering and odds, in a different document.
+- [The American Odds Format](american_odds_format.md): same source document (doc_0061)
+- [Favorites And Underdogs In Moneyline Odds](betting_favorites_and_underdogs.md): same source document (doc_0061)
+- [Fractional And Decimal Odds Formats](fractional_and_decimal_odds_formats.md): same source document (doc_0061)
+- [The Moneyline Bet](moneyline_bet_definition.md): same source document (doc_0061)
+- [Moneyline Odds Examples By Sport](moneyline_odds_examples_by_sport.md): same source document (doc_0061)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

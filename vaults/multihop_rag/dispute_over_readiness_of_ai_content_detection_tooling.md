@@ -11,6 +11,7 @@ Music Business Worldwide noted that Believe CEO Denis Ladegallerie might disagre
 
 ## Related Notes
 
+
 - [Defence of Reich 59-Yard Field Goal Call](defence_of_reich_59_yard_field_goal_call.md): shares vocabulary of near-term judgement calls across the corpus.
 - [EU AI Act Training Data Disclosure Rule](eu_ai_act_training_data_disclosure_rule.md): another approach to identifying AI-generated or AI-trained content.
 - [Kyncl Prediction Music First Industry to Feel AI Impact](kyncl_prediction_music_first_industry_to_feel_ai_impact.md): the timing claim this dispute tests.
@@ -19,6 +20,8 @@ Music Business Worldwide noted that Believe CEO Denis Ladegallerie might disagre
 - [Music Streaming Price Hikes and Emerging Market Growth](music_streaming_price_hikes_and_emerging_market_growth.md): another takeaway from the same Q&A session.
 - [Music Streaming Resilience Versus Streaming Video Downturn](music_streaming_resilience_versus_streaming_video_downturn.md): another takeaway from the same Q&A session.
 - [Robert Kyncl, Warner Music Group CEO](robert_kyncl_warner_music_group_ceo.md): identifies the executive whose assessment is being disputed.
+- [Thesis That Music Labels Are Headed for Irrelevance](thesis_that_music_labels_are_headed_for_irrelevance.md): same source document (doc_0455)
+- [YouTube Content ID as Blueprint for AI Rights Management](youtube_content_id_as_blueprint_for_ai_rights_management.md): same source document (doc_0455)
 
 ## Source
 

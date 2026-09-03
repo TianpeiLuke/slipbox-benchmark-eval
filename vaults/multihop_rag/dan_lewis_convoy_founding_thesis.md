@@ -11,10 +11,17 @@ The grounds are the counts that search returned: thousands of companies working 
 
 ## Related Notes
 
+
 - [Flexport And Convoy Technology Acquisition Talks](flexport_convoy_technology_acquisition_talks.md): what may become of the company the thesis built, from a different source document.
 - [Tech Layoffs, October 2023](tech_layoffs_october_2023.md): also concerns Dan Lewis, from a different source document.
 - [NEOM's Autonomous Vehicle And Freight Investments](neom_autonomous_vehicle_and_freight_investments.md): another large bet on freight and mobility, from a different source document.
 - [Rapido's India Cab Market Expansion](rapido_india_cab_market_expansion.md): another entrant choosing a crowded versus uncrowded market, from a different source document.
+- [Google Maps And Waze Halt Israel-Gaza Traffic Data](google_maps_waze_israel_gaza_traffic_halt.md): same sub-plan (Freight, logistics deals and in-car technology), different source document
+- [Archer Aviation's Abu Dhabi Air Taxi Plan](archer_aviation_abu_dhabi_air_taxi_plan.md): same source document (doc_0514)
+- [Autobrains Hires Uri Yacovy As COO](autobrains_hires_uri_yacovy_as_coo.md): same source document (doc_0514)
+- [Bird's E-Bike Relaunch And Delisting](bird_ebike_relaunch_and_delisting.md): same source document (doc_0514)
+- [Bolt Mobility's Distance-Based Pricing](bolt_mobility_distance_based_pricing.md): same source document (doc_0514)
+- [Convoy's Digital Freight Shutdown](convoy_digital_freight_shutdown.md): same source document (doc_0514)
 
 ## Source
 

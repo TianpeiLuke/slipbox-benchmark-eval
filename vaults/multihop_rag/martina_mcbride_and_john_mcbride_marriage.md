@@ -11,6 +11,7 @@ The couple are also business partners: they jointly own Blackbird Studios in Nas
 
 ## Related Notes
 
+
 - [All You Had To Do Was Stay Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): another article about Taylor Swift, who has recorded at their studio
 - [American Pie Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): further Taylor Swift coverage from a different source
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): another Taylor Swift-related article from a separate domain
@@ -19,6 +20,8 @@ The couple are also business partners: they jointly own Blackbird Studios in Nas
 - [Amy Grant And Vince Gill Marriage](amy_grant_and_vince_gill_marriage.md): another couple from the same roundup
 - [Carrie Underwood And Mike Fisher Marriage](carrie_underwood_and_mike_fisher_marriage.md): another couple from the same roundup
 - [Chris Stapleton And Morgane Stapleton Marriage](chris_stapleton_and_morgane_stapleton_marriage.md): another couple from the same roundup
+- [Country Music Couples And Their Advice On Lasting Marriages](country_music_couples_marriage_advice_roundup.md): same source document (doc_0019)
+- [Dolly Parton And Carl Thomas Dean's Marriage](dolly_parton_and_carl_thomas_dean_marriage.md): same source document (doc_0019)
 
 ## Source
 

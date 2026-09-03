@@ -13,11 +13,21 @@ The conclusion is therefore a choice rather than a rule: as a bettor you must de
 
 ## Related Notes
 
+
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): where these futures lines are posted, different source document
 - [Betting Favorites and Underdogs](betting_favorites_and_underdogs.md): how odds encode market opinion, different source document
 - [Brock Purdy Lamar Jackson 2023 MVP Race](brock_purdy_lamar_jackson_2023_mvp_race.md): an in-season MVP market shifting on new information, different source document
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): another NBA betting mechanic, different source document
 - [DraftKings Sportsbook Betting Markets](draftkings_sportsbook_betting_markets.md): another book's NBA markets, different source document
+- [Four Sportsbooks For NBA MVP Futures Betting](best_sportsbooks_for_nba_futures_betting.md): same source document (doc_0589)
+- [The Early Favourites In The 2024 NBA MVP Market](nba_mvp_2024_odds_favourites.md): same source document (doc_0589)
+- [The NBA MVP Award: Voting Format And History](nba_mvp_award_voting_format_and_history.md): same source document (doc_0589)
+- [NBA MVP Futures And Other NBA Futures Markets](nba_mvp_futures_and_other_nba_futures_markets.md): same source document (doc_0589)
+- [Opening And Funding An Online Sportsbook Account](opening_and_funding_an_online_sportsbook_account.md): same source document (doc_0589)
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

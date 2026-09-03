@@ -13,6 +13,7 @@ The device bans are the practical consequence: the Australian government this ye
 
 ## Related Notes
 
+
 - [Chinese Apps' Rise In US App Store Rankings](chinese_apps_rise_in_us_app_store_rankings.md): overlaps on China, bans and government action, from a different source document.
 - [TikTok Bans And ByteDance Data Concerns](tiktok_bans_and_bytedance_data_concerns.md): overlaps closely on TikTok bans and Chinese data access, from a different source document.
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): shares the data-privacy theme, from a different source document.
@@ -21,6 +22,13 @@ The device bans are the practical consequence: the Australian government this ye
 - [Analysis Of Meta's Delay Tactics On The Consent Switch](analysis_of_meta_delay_tactics_on_consent_switch.md): shares the data-privacy theme, from a different source document.
 - [Apple Blocks Beeper Mini's iMessage Access](apple_blocks_beeper_mini_imessage_access.md): shares the data-privacy theme, from a different source document.
 - [Apple iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares the data-privacy theme, from a different source document.
+- [ASPI's Analysis Of TikTok Pixel Data Aggregation Risk](aspi_analysis_of_tiktok_pixel_data_aggregation_risk.md): same source document (doc_0189)
+- [Australian Advertiser Responses To The TikTok Pixel Findings](australian_advertiser_responses_to_tiktok_pixel_findings.md): same source document (doc_0189)
+- [Civic Data's Warning To Remove The TikTok Pixel](civic_data_warning_to_remove_tiktok_pixel.md): same source document (doc_0189)
+- [James Paterson's Call For A TikTok Privacy Investigation](james_paterson_call_for_tiktok_privacy_investigation.md): same source document (doc_0189)
+- [TikTok's Denial And The OAIC's Monitoring Of The Pixel Claims](tiktok_denial_and_oaic_monitoring_of_pixel_claims.md): same source document (doc_0189)
+- [TikTok Pixel Pre-Consent Data Collection Test](tiktok_pixel_pre_consent_data_collection_test.md): same source document (doc_0189)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

@@ -13,6 +13,7 @@ The big question was whether the front office believed Oswald Peraza was capable
 
 ## Related Notes
 
+
 - [Gleyber Torres 2023 Season And Trade Speculation](gleyber_torres_2023_season_and_trade_speculation.md): also discusses Aaron Judge and Gleyber Torres, from a different document.
 - [Juan Soto Traded From Padres To Yankees](juan_soto_traded_from_padres_to_yankees.md): also concerns Aaron Judge and the Yankees, from a different document.
 - [MLB 2023 Winter Meetings Overview](mlb_2023_winter_meetings_overview.md): also concerns Aaron Judge, from a different document.
@@ -21,6 +22,9 @@ The big question was whether the front office believed Oswald Peraza was capable
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): another candidate on the same list, from the same document.
+- [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

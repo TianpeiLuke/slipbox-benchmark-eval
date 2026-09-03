@@ -13,12 +13,19 @@ The warrant is that continuation, not replication, is what honours a legacy — 
 
 ## Related Notes
 
+
 - [Albert Namatjira Hermannsburg Watercolour Painter](albert_namatjira_hermannsburg_watercolour_painter.md): same interview, describing the watercolour legacy being departed from
 - [Don Mclean Vincent Song And Childrens Book](don_mclean_vincent_song_and_childrens_book.md): overlaps on the name Vincent, from a different document
 - [Castlevania Nocturne Surpasses The Original Netflix Series](castlevania_nocturne_surpasses_the_original_netflix_series.md): another successor-versus-predecessor comparison, unrelated subject and source
 - [Google Parallel Antitrust Proceedings 2023](google_parallel_antitrust_proceedings_2023.md): linked only by shared topical tags, unrelated subject
 - [M3 Macbook Pro Lineup And Configurations](m3_macbook_pro_lineup_and_configurations.md): linked only by shared topical tags, unrelated subject
 - [Macbook Pro Design Ports And Space Black Finish](macbook_pro_design_ports_and_space_black_finish.md): linked only by shared topical tags, unrelated subject
+- [Vincent Namatjira: Australia In Colour Survey Exhibition](vincent_namatjira_australia_in_colour_survey_exhibition.md): same source document (doc_0284)
+- [Vincent Namatjira's Call For A Foster Care Apology](vincent_namatjira_call_for_foster_care_apology.md): same source document (doc_0284)
+- [Vincent Namatjira's Childhood In Foster Care And Return To Country](vincent_namatjira_childhood_foster_care_and_return_to_country.md): same source document (doc_0284)
+- [Guerilla Humour: Vincent Namatjira's Portrait Practice](vincent_namatjira_guerilla_humour_portrait_practice.md): same source document (doc_0284)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

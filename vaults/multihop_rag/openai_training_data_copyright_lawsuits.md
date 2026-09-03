@@ -11,11 +11,18 @@ Much in the same manner that Getty Images sued Stability AI for Stable Diffusion
 
 ## Related Notes
 
+
 - [Associated Press And OpenAI's Licensing Deal](associated_press_openai_licensing_deal.md): same source document; the cooperative alternative to litigation over training data.
 - [ChatGPT's 100 Million User Milestone](chatgpt_100_million_user_milestone.md): same source document; the scale that made these disputes consequential.
 - [Anthropic's Fair Use Defense For AI Training](anthropic_fair_use_defense_for_ai_training.md): overlaps in content on copyright holders and AI training, from a different source document.
 - [Google's USCO Filing On AI Training And Fair Use](google_usco_filing_ai_training_fair_use.md): overlaps in content on authors and copyright in AI training, from a different source document.
 - [Ed Newton-Rex's Resignation From Stability AI](ed_newton_rex_resignation_stability_ai.md): overlaps in content on Stability AI and copyright, from a different source document.
+- [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): both discuss Stephen King; different source document
+- [Fair Use, Explained Plainly](fair_use_doctrine_plain_explanation.md): content overlap 0.10 on copyrighted, author, copyright; different source document
+- [The AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): same source document (doc_0099)
+- [ChatGPT's Durability And Regulatory Outlook](chatgpt_durability_and_regulatory_outlook.md): same source document (doc_0099)
+- [ChatGPT Enterprise And Multimodal Features](chatgpt_enterprise_and_multimodal_features.md): same source document (doc_0099)
+- [Class Action](term_class_action.md): uses the concept class action
 
 ## Source
 

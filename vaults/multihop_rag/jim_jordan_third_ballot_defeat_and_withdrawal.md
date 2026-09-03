@@ -13,11 +13,19 @@ The evening before, after a late Thursday meeting at which Jordan sought to hear
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares a consumer-hardware theme from a different source document.
 - [Apple AirPods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): shares a consumer-hardware theme from a different source document.
 - [Engoron Summary Judgment That Trump Committed Fraud](engoron_summary_judgment_that_trump_committed_fraud.md): also concerns Donald Trump, from a different source document.
 - [Gingrich And Boehner Endorse The Interim Speaker Plan](gingrich_and_boehner_endorse_interim_speaker_plan.md): also concerns House Republicans, from a different source document.
 - [Google Pixel Tablet](google_pixel_tablet.md): shares a consumer-hardware theme from a different source document.
+- [Hakeem Jeffries' Bipartisan Offer To Reopen The House](hakeem_jeffries_bipartisan_offer_to_reopen_the_house.md): same source document (doc_0223)
+- [The House GOP's Narrow-Majority Vote Math](house_gop_narrow_majority_vote_math.md): same source document (doc_0223)
+- [The House Paralysis Following Kevin McCarthy's Ouster](house_speakership_vacancy_paralysis_after_mccarthy_ouster.md): same source document (doc_0223)
+- [Jim Jordan's Political Profile And Record](jim_jordan_political_profile_and_record.md): same source document (doc_0223)
+- [Obstacles To Empowering An Interim Speaker](obstacles_to_empowering_an_interim_speaker.md): same source document (doc_0223)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

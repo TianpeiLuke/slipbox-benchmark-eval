@@ -15,11 +15,19 @@ The cost goes beyond money. As Fortnite took off, developers at Epic Games said 
 
 ## Related Notes
 
+
 - [Activision Blizzard Union Stalling and Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): both discuss Activision Blizzard, from a different source document
 - [Activision, Riot and Supercell's Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): another Activision Blizzard subject from a separate article
 - [Activision Titles on Xbox Game Pass](activision_titles_on_xbox_game_pass.md): another Activision Blizzard note from a different document
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs and restructuring topic tags despite unrelated subject matter
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): both discuss Epic Games, from a separate source
+- [Fortnite's Live-Service Content Treadmill](fortnite_live_service_content_treadmill.md): same source document (doc_0545)
+- [Live-Service Games' Dependence on Content Creators](live_service_games_dependence_on_content_creators.md): same source document (doc_0545)
+- [Negative Sentiment as Profitable Streaming Discourse](negative_sentiment_as_profitable_streaming_discourse.md): same source document (doc_0545)
+- [Streamer Burnout and Extreme Stream Formats](streamer_burnout_and_extreme_stream_formats.md): same source document (doc_0545)
+- [Streamers Do Not Represent Typical Player Behavior](streamers_do_not_represent_typical_player_behavior.md): same source document (doc_0545)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

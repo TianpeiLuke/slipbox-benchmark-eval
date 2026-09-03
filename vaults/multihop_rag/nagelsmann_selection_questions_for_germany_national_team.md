@@ -13,6 +13,7 @@ Two further selection tasks follow. Getting the best out of young superstar Jama
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): another Bayern Munich document, different source
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): another Bayern Munich document, different source
 - [Champions League 2023-24 Group A Bayern Copenhagen](champions_league_2023_24_group_a_bayern_copenhagen.md): another Bayern Munich document, different source
@@ -21,6 +22,8 @@ Two further selection tasks follow. Getting the best out of young superstar Jama
 - [Criticism of Germany Travel to North America 2023](criticism_of_germany_travel_to_north_america_2023.md): a separate objection to the same international break, same source document
 - [Germany National Team Decline and Nagelsmann Appointment](germany_national_team_decline_and_nagelsmann_appointment.md): the situation these questions arise from, same source document
 - [Germany Squad October 2023 North America Friendlies](germany_squad_october_2023_north_america_friendlies.md): the squad whose gaps this argument analyses, same source document
+- [Julian Nagelsmann's Career And His Bayern Munich Dismissal](julian_nagelsmann_career_and_bayern_munich_dismissal.md): same source document (doc_0444)
+- [Julian Nagelsmann's Tactical System And Press](julian_nagelsmann_tactical_system_and_press.md): same source document (doc_0444)
 
 ## Source
 

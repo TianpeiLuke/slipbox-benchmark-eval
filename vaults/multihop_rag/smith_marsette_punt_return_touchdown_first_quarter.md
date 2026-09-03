@@ -13,11 +13,18 @@ Chicago answered with a long field goal. At 8:40 p.m. the Bears rattled off two 
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Terrace Marshall, from a different document.
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): also discusses Prime Video, from a different document.
 - [Bears Game-Ending Hail Mary vs Browns](bears_game_ending_hail_mary_vs_browns.md): also discusses Darnell Mooney, from a different document.
 - [Bears Vikings MNF First Half](bears_vikings_mnf_first_half.md): also discusses Cairo Santos and Darnell Mooney, from a different document.
 - [Bears Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): another account of Bears field goals and yardage, from a different document.
+- [Bears 16, Panthers 13 On Thursday Night Football](bears_16_panthers_13_thursday_night_result.md): same source document (doc_0489)
+- [Bears-Panthers Broadcast And Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): same source document (doc_0489)
+- [Bears-Panthers Pregame Storylines](bears_panthers_pregame_storylines_week_10.md): same source document (doc_0489)
+- [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): same source document (doc_0489)
+- [Defence Of Reich's 59-Yard Field Goal Call](defence_of_reich_59_yard_field_goal_call.md): same source document (doc_0489)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

@@ -13,11 +13,18 @@ The reason is timing: because Season of the Malignant launched just over a month
 
 ## Related Notes
 
+
 - [Diablo 3 Switch Local Multiplayer](diablo_3_switch_local_multiplayer.md): covers an earlier Diablo game, from a different source document
 - [Diablo 4 Barbarian Class](diablo_4_barbarian_class.md): a class guide written for this same season, in a separate article
 - [Diablo 4 Game Overview](diablo_4_game_overview.md): the base game and its BlizzCon history, from a different document
 - [Diablo 4 Sorcerer Class](diablo_4_sorcerer_class.md): another season 2 class guide from a separate source
 - [Xbox Series X Diablo IV Bundle Deal](xbox_series_x_diablo_iv_bundle_deal.md): another note covering the same action-RPG, from a different article
+- [Diablo 4 Season 2 Endgame Bosses and Uber Uniques](diablo_4_season_2_endgame_uber_bosses.md): same source document (doc_0533)
+- [Diablo 4 Season 2 Experience and Leveling Changes](diablo_4_season_2_experience_and_leveling_changes.md): same source document (doc_0533)
+- [Diablo 4 Season 2 Nightmare Dungeon and Travel Changes](diablo_4_season_2_nightmare_dungeon_and_travel_changes.md): same source document (doc_0533)
+- [Diablo 4 Season 2 Renown and Gem Inventory Rework](diablo_4_season_2_renown_and_gem_inventory_rework.md): same source document (doc_0533)
+- [Season of Blood's Real Draw Is Quality of Life, Not Vampire Powers](diablo_4_season_of_blood_quality_of_life_focus.md): same source document (doc_0533)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

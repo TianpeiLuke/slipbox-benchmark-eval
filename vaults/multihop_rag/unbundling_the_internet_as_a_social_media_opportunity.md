@@ -11,6 +11,7 @@ The claim's condition is explicit — "if we do this correctly," meaning if the 
 
 ## Related Notes
 
+
 - [ActivityPub And Rival Social Protocols](activitypub_and_rival_social_protocols.md): drawn from the same source document (doc_0508).
 - [The ActivityPub Data Model Of Senders, Messages And Inboxes](activitypub_data_model_of_senders_messages_and_inboxes.md): drawn from the same source document (doc_0508).
 - [Craigslist Unbundling As A Model For Social Media](craigslist_unbundling_as_a_model_for_social_media.md): drawn from the same source document (doc_0508).
@@ -19,6 +20,8 @@ The claim's condition is explicit — "if we do this correctly," meaning if the 
 - [Early Fediverse Messiness As A Product Opportunity](early_fediverse_messiness_as_a_product_opportunity.md): drawn from the same source document (doc_0508).
 - [Federation Alone Is Not A Product Advantage](federation_alone_is_not_a_product_advantage.md): drawn from the same source document (doc_0508).
 - [The Fediverse Definition And The Email Analogy](fediverse_definition_and_the_email_analogy.md): drawn from the same source document (doc_0508).
+- [Jack Dorsey On Twitter As A Protocol And The Origins Of Bluesky](jack_dorsey_on_twitter_as_a_protocol_and_the_origins_of_bluesky.md): same source document (doc_0508)
+- [Many Apps Over One Shared Social Graph](many_apps_over_one_shared_social_graph.md): same source document (doc_0508)
 
 ## Source
 

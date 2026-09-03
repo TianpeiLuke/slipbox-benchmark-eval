@@ -11,11 +11,17 @@ Sporting News assessed four team-level "Prop Stars" markets for the Week 4 Chief
 
 ## Related Notes
 
+
 - [American Odds Format](american_odds_format.md): explains the odds notation used for these props, from a different source document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also covers Zach Wilson, from a different source document.
 - [Brock Purdy Lamar Jackson 2023 MVP Race](brock_purdy_lamar_jackson_2023_mvp_race.md): shares the National Football League and sports-betting-odds subject tags, from a different source document.
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): reports the outcome of the game these props cover, from a different source document.
 - [Chiefs Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): live coverage of the same game featuring Mahomes and Wilson, from a different source document.
+- [The Backlash: Fans Who Say The Swift-Kelce Coverage Is Too Much](backlash_to_traylor_media_coverage.md): same source document (doc_0311)
+- [The Chiefs-Jets Week 4 Swift Sideshow And FanDuel's "Prop Stars" Menu](chiefs_jets_week_4_swift_sideshow_and_prop_stars_menu.md): same source document (doc_0311)
+- [Which Travis Kelce Props To Play In Chiefs-Jets Week 4](travis_kelce_touchdown_props_chiefs_jets_week_4.md): same source document (doc_0311)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

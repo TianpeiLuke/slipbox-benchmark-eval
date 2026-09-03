@@ -13,10 +13,18 @@ The results were: Sept. 20, Real Sociedad 1-1 Inter Milan; Sept. 20, Benfica 0-2
 
 ## Related Notes
 
+
 - [AC Milan 2-0 Win Over Lazio and Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): overlaps on Milan clubs and goals, from a different document.
 - [Atalanta 3-2 AC Milan](atalanta_3_2_ac_milan.md): overlaps on Milan clubs and scoring, from a different document.
 - [Lautaro Martinez 2023 Goalscoring Form](lautaro_martinez_2023_goalscoring_form.md): also concerns Inter Milan and San Siro, from a different document.
 - [Newcastle AC Milan Champions League Defeat 2023](newcastle_ac_milan_champions_league_defeat_2023.md): also concerns San Siro, from a different document.
+- [Champions League 2023/24 Group A: Bayern Munich And Copenhagen Qualify](champions_league_2023_24_group_a_bayern_copenhagen.md): same source document (doc_0187)
+- [Champions League 2023/24 Group B: Arsenal And PSV Qualify](champions_league_2023_24_group_b_arsenal_psv.md): same source document (doc_0187)
+- [Champions League 2023/24 Group C: Real Madrid And Napoli Qualify](champions_league_2023_24_group_c_real_madrid_napoli.md): same source document (doc_0187)
+- [Champions League 2023/24 Group E: Atletico Madrid And Lazio Qualify](champions_league_2023_24_group_e_atletico_lazio.md): same source document (doc_0187)
+- [Champions League 2023/24 Group F: Borussia Dortmund And PSG Qualify](champions_league_2023_24_group_f_dortmund_psg.md): same source document (doc_0187)
+- [Champions League 2023/24 Group G: Manchester City And RB Leipzig Qualify](champions_league_2023_24_group_g_man_city_leipzig.md): same source document (doc_0187)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

@@ -11,11 +11,15 @@ The preview notes that Benavidez may previously have been his own biggest enemy 
 
 ## Related Notes
 
+
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): also covers Caleb Plant, from a different source document.
 - [Deontay Wilder on Pressure Ahead of Parker Bout](deontay_wilder_on_pressure_ahead_of_parker_bout.md): another fighter interview conducted through "Morning Kombat", from a different source document.
 - [Eddie Hearn on Day of Reckoning Card Assembly](eddie_hearn_on_day_of_reckoning_card_assembly.md): also sourced from "Morning Kombat", from a different source document.
 - [Benavidez Andrade Undercard and Jermall Charlo Return](benavidez_andrade_undercard_and_jermall_charlo_return.md): the undercard for the same event (doc_0446).
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): the bout's logistics and odds, from the same preview (doc_0446).
+- [Benavidez vs Andrade: The Stylistic Case For A Benavidez Decision](benavidez_vs_andrade_stylistic_breakdown_and_pick.md): same source document (doc_0446)
+- [Demetrius Andrade: A Career Spent Chasing Opponents Who Would Not Fight Him](demetrius_andrade_career_and_avoided_opponents.md): same source document (doc_0446)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

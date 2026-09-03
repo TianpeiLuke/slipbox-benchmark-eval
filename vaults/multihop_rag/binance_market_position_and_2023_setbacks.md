@@ -13,11 +13,18 @@ Two commercial relationships also broke down in 2023. In April, Binance.US, its 
 
 ## Related Notes
 
+
 - [Alameda Research](alameda_research.md): overlaps on large crypto trading operations, from a different document.
 - [Bankman-Fried And Zhao Convictions And Binance Aftermath](bankman_fried_and_zhao_convictions_and_binance_aftermath.md): the closest overlap on Binance's crypto trading position, from a different document.
 - [Coinbase's SEC Standoff And Regulatory Clarity](coinbase_sec_standoff_and_regulatory_clarity.md): covers the rival exchange named here, from a different document.
 - [Coinbase Stock Rally, November 2023](coinbase_stock_rally_november_2023.md): covers Coinbase during the same week, from a different document.
 - [Consumer Trading Recovery At Coinbase And Robinhood](consumer_trading_recovery_coinbase_and_robinhood.md): overlaps on crypto trading volumes, from a different document.
+- [Binance And Zhao's Plea Agreement Terms](binance_and_zhao_plea_agreement_terms.md): same source document (doc_0374)
+- [Binance's CEO Succession: Richard Teng](binance_ceo_succession_richard_teng.md): same source document (doc_0374)
+- [Binance's Charges: Bank Secrecy Act And Sanctions Violations](binance_charges_bsa_and_sanctions_violations.md): same source document (doc_0374)
+- [Binance's $4.3B DOJ Resolution And CZ's Guilty Plea](binance_doj_resolution_and_cz_guilty_plea.md): same source document (doc_0374)
+- [Kraken's SEC Charges And Staking Settlement](kraken_sec_charges_and_staking_settlement.md): same source document (doc_0374)
+- [Fraud](term_fraud.md): uses the concept fraud
 
 ## Source
 

@@ -11,11 +11,17 @@ The mechanism and its stress points were both visible in October 2023. On the up
 
 ## Related Notes
 
+
 - [Asx and Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): shares vocabulary around stocks, cent and market, from a different source document.
 - [Asx Outlook and Rba Rate Expectations September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): shares vocabulary around stocks, cent and treasury, from a different source document.
 - [Equity Valuations Versus Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): the same valuation-versus-yield tension, from a different source document.
 - [Fed Dovish Comments and Yield Retreat October 2023](fed_dovish_comments_and_yield_retreat_october_2023.md): also tracks West Texas Intermediate and 10-year yields, from a different source document.
 - [US Treasury Yields and Fed Rate Expectations October 2023](us_treasury_yields_and_fed_rate_expectations_october_2023.md): shares vocabulary around cent, stock and market, from a different source document.
+- [Alphabet's Q3 2023 Results And Cloud Miss](alphabet_q3_2023_results_and_cloud_miss.md): same source document (doc_0485)
+- [ASX REITs And Company News, 24 October 2023](asx_reits_and_company_news_october_2023.md): same source document (doc_0485)
+- [Australian Inflation Data And The RBA's Near-Certain November Rise](australian_inflation_data_and_rba_november_rise.md): same source document (doc_0485)
+- [Easing Escalation Concerns Around Israel-Gaza In Late October 2023](israel_gaza_conflict_and_oil_prices_october_2023.md): same source document (doc_0485)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

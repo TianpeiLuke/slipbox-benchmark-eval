@@ -13,6 +13,7 @@ The competition carries a second prize beyond silverware: the winner of the EFL 
 
 ## Related Notes
 
+
 - [Carabao Cup 2023 Quarter Final Draw](carabao_cup_2023_quarter_final_draw.md): also concerns the Carabao Cup, from a different document.
 - [Champions League 2023-24 Group Stage Overview](champions_league_2023_24_group_stage_overview.md): also concerns Newcastle United, from a different document.
 - [Cole Palmer Goal Against Manchester City 4-4 Draw](cole_palmer_goal_against_manchester_city_4_4_draw.md): also mentions the Community Shield, from a different document.
@@ -21,6 +22,9 @@ The competition carries a second prize beyond silverware: the winner of the EFL 
 - [Carabao Cup 2023-24 First Round Results](carabao_cup_2023_24_first_round_results.md): the round-by-round record of the same competition, from the same document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): the round in which the holders went out, from the same document.
 - [Carabao Cup 2023-24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): the round that produced the semifinalists, from the same document.
+- [Carabao Cup 2023/24 Second Round Results](carabao_cup_2023_24_second_round_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Semifinal Draw And Fixtures](carabao_cup_2023_24_semifinal_draw_and_fixtures.md): same source document (doc_0100)
+- [Celebrity Endorsement](term_celebrity_endorsement.md): uses the concept celebrity endorsement
 
 ## Source
 

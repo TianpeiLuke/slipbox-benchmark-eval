@@ -13,6 +13,7 @@ The second half of the prediction is expansion into new grounds: 2024 will bring
 
 ## Related Notes
 
+
 - [Anthropic Fair Use Defense For AI Training](anthropic_fair_use_defense_for_ai_training.md): overlapping coverage of copyright claims over AI training data, from a different source document.
 - [Tim Sweeney's Role As Epic's Controlling Shareholder](tim_sweeney_role_as_epic_controlling_shareholder.md): overlapping coverage of companies in litigation, from a different source document.
 - [AI Hype Meets Reality In 2024](ai_hype_meets_reality_in_2024.md): drawn from the same source document (doc_0365), the frame this prediction sits under.
@@ -21,6 +22,8 @@ The second half of the prediction is expansion into new grounds: 2024 will bring
 - [Prediction: AI Marketing Claims Meet Reality](prediction_ai_marketing_claims_meet_reality.md): drawn from the same source document (doc_0365), which also anticipates lawsuits over unmet claims.
 - [Prediction: Apple Enters The AI Market](prediction_apple_enters_the_ai_market.md): drawn from the same source document (doc_0365), another of the eight predictions.
 - [Prediction: Generative AI Disinformation In The 2024 Election](prediction_generative_ai_disinformation_in_2024_election.md): drawn from the same source document (doc_0365), another of the eight predictions.
+- [Prediction: The Limits Of Monolithic LLMs](prediction_limits_of_monolithic_llms.md): same source document (doc_0365)
+- [Prediction: OpenAI Becomes A Product Company](prediction_openai_becomes_a_product_company.md): same source document (doc_0365)
 
 ## Source
 

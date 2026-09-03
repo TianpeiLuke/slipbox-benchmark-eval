@@ -13,6 +13,7 @@ Critic JR writes that the film gives audiences plenty to ponder, with sudden tur
 
 ## Related Notes
 
+
 - [Amazon Proteus Automation Outside the Cage](amazon_proteus_automation_outside_the_cage.md): incidental term overlap on "cage" from an unrelated source document
 - [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): both discuss Nicolas Cage, from a different article
 - [Mandy (Panos Cosmatos, Nicolas Cage)](mandy_panos_cosmatos_nicolas_cage.md): another Nicolas Cage film covered in a separate document
@@ -21,6 +22,8 @@ Critic JR writes that the film gives audiences plenty to ponder, with sudden tur
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 list
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): a fellow entry on the same ranked list
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
 
 ## Source
 

@@ -13,6 +13,7 @@ Testing was mixed but passing. The reviewers ran into some trouble connecting to
 
 ## Related Notes
 
+
 - [Surfshark VPN Black Friday Deal](surfshark_vpn_black_friday_deal.md): covers pricing on the same service, from a different source document.
 - [CyberGhost, Best For Cross-Platform Accessibility](cyberghost_cross_platform_vpn.md): drawn from the same source document (doc_0229).
 - [Engadget's VPN Testing Methodology](engadget_vpn_testing_methodology.md): drawn from the same source document (doc_0229).
@@ -21,6 +22,8 @@ Testing was mixed but passing. The reviewers ran into some trouble connecting to
 - [ProtonVPN, Best VPN Overall](protonvpn_best_overall_vpn.md): drawn from the same source document (doc_0229).
 - [VPN Services That Missed The Cut](vpn_services_that_missed_the_cut.md): drawn from the same source document (doc_0229).
 - [VPN Use Cases And Prerequisites](vpn_use_cases_and_prerequisites.md): drawn from the same source document (doc_0229).
+- [What A VPN Is, And What It Does Not Hide](what_a_vpn_is_and_what_it_does_not_hide.md): same source document (doc_0229)
+- [Whether A VPN Is Worth It](whether_a_vpn_is_worth_it.md): same source document (doc_0229)
 
 ## Source
 

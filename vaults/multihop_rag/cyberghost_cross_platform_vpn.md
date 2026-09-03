@@ -15,6 +15,7 @@ On security, CyberGhost completed an independent security audit by Deloitte earl
 
 ## Related Notes
 
+
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): shares a United Kingdom reference, from a different source document.
 - [Anthony Joshua's Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): shares a United Kingdom reference, from a different source document.
 - [Argentina-Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): shares a United Kingdom broadcast reference, from a different source document.
@@ -23,6 +24,8 @@ On security, CyberGhost completed an independent security audit by Deloitte earl
 - [Engadget's VPN Testing Methodology](engadget_vpn_testing_methodology.md): drawn from the same source document (doc_0229).
 - [ExpressVPN For Streaming, Travel And Gaming](expressvpn_for_streaming_travel_and_gaming.md): drawn from the same source document (doc_0229).
 - [Google One VPN](google_one_vpn.md): drawn from the same source document (doc_0229).
+- [ProtonVPN, Best VPN Overall](protonvpn_best_overall_vpn.md): same source document (doc_0229)
+- [Surfshark, Best For Multiple Devices](surfshark_unlimited_device_vpn.md): same source document (doc_0229)
 
 ## Source
 

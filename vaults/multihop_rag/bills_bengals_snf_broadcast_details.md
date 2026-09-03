@@ -11,6 +11,7 @@ Several live-stream options were available. NBCSports.com carried a broadcast fo
 
 ## Related Notes
 
+
 - [Bears-Vikings MNF Broadcast Details](bears_vikings_mnf_broadcast_details.md): the parallel broadcast and streaming listing for another primetime game, from a different document.
 - [Blackhawks-Penguins 2023 Broadcast Coverage](blackhawks_penguins_2023_broadcast_coverage.md): also covers Fubo streaming options, separately sourced.
 - [Chiefs Beat Jets, Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): another Sunday Night Football game, in a different document.
@@ -19,6 +20,8 @@ Several live-stream options were available. NBCSports.com carried a broadcast fo
 - [The First Quarter of Bengals 24, Bills 18](bills_bengals_snf_first_quarter.md): the game this broadcast covered, same source document.
 - [The Fourth Quarter of Bengals 24, Bills 18](bills_bengals_snf_fourth_quarter.md): its closing stretch, same source document.
 - [Pregame Notes from Bills at Bengals](bills_bengals_snf_pregame_notes.md): the buildup on the same broadcast, same source document.
+- [Bengals 24, Bills 18 On Sunday Night Football](bills_bengals_snf_result_and_recap.md): same source document (doc_0294)
+- [The Second Quarter Of Bengals 24, Bills 18](bills_bengals_snf_second_quarter.md): same source document (doc_0294)
 
 ## Source
 

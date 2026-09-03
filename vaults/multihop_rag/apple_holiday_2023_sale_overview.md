@@ -11,10 +11,18 @@ By Cyber Monday on 2023-11-27, Engadget reported there were still a handful more
 
 ## Related Notes
 
+
 - [Apple AirPods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): same source documents; one of the headline discounts in this sale.
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): also concerns Cyber Monday timing, from a different source document.
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): another seasonal sale event, from a different source document.
 - [Apple AirPods, Second Generation](apple_airpods_second_generation.md): overlaps in content on Apple devices and AirPods, from a different source document.
+- [AliveCor's EKG Import Ban And The PTAB Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): both discuss Apple Watches; different source document
+- [Amazon Echo Show, Audible And Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): both discuss Cyber Monday; different source document
+- [Apple AirPods 3rd Gen Holiday Deal](apple_airpods_3rd_gen_holiday_deal.md): same source document (doc_0091)
+- [Apple AirPods Max Holiday Deal](apple_airpods_max_holiday_deal.md): same source document (doc_0091)
+- [Apple AirTags Holiday Deal](apple_airtags_holiday_deal.md): same source document (doc_0091)
+- [Apple Gift Card And Amazon Credit Deal](apple_gift_card_amazon_credit_deal.md): same source document (doc_0091)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

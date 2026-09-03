@@ -11,6 +11,7 @@ Its defining selection criteria are personal use and organisation by interest: t
 
 ## Related Notes
 
+
 - [Apple Store Credit And Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): overlapping coverage of gift cards, from a different source document.
 - [Bazella And Geerts' Mother-Daughter Reunion](bazella_and_geerts_mother_daughter_reunion.md): also concerns Christmas Day, from a different source document.
 - [Christmas Give List Versus Wish List](christmas_give_list_versus_wish_list.md): overlapping coverage of Christmas gifts, from a different source document.
@@ -19,6 +20,8 @@ Its defining selection criteria are personal use and organisation by interest: t
 - [Console Subscription And Store Gift Cards For Gamers](console_subscription_and_store_gift_cards_for_gamers.md): drawn from the same source document (doc_0291).
 - [Ebook, Comic And Book Club Subscription Gifts](ebook_comic_and_book_club_subscription_gifts.md): drawn from the same source document (doc_0291).
 - [Fitness And Mindfulness Subscription Gifts](fitness_and_mindfulness_subscription_gifts.md): drawn from the same source document (doc_0291).
+- [Food, Wine And Coffee Subscription Gifts](food_wine_and_coffee_subscription_gifts.md): same source document (doc_0291)
+- [General Purpose Retailer Gift Cards](general_purpose_retailer_gift_cards.md): same source document (doc_0291)
 
 ## Source
 

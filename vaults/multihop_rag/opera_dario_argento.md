@@ -13,6 +13,7 @@ Very loosely based on Argento's own experience directing a failed production of 
 
 ## Related Notes
 
+
 - [Bill Kenwright's Coronation Street Acting Career](bill_kenwright_coronation_street_acting_career.md): incidental term overlap from an unrelated source document
 - [Suspiria (1977, Dario Argento)](suspiria_1977_dario_argento_film.md): covers the same director's masterpiece, from a different article
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
@@ -21,6 +22,8 @@ Very loosely based on Argento's own experience directing a failed production of 
 - [Cat People (1942 Jump Scare Origin)](cat_people_1942_jump_scare_origin.md): another classic-horror pick in the same countdown
 - [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): a fellow entry in the same article
 - [Curve (Tim Egan Horror Short)](curve_tim_egan_horror_short.md): another countdown pick from the same document
+- [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): same source document (doc_0165)
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0165)
 
 ## Source
 

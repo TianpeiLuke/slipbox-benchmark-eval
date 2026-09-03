@@ -11,6 +11,7 @@ The claim carries a condition: if Christian Watson and Jayden Reed remained out,
 
 ## Related Notes
 
+
 - [Chiefs Packers Week 13 First Half Sequence](chiefs_packers_week_13_first_half_sequence.md): also discusses Christian Watson, from a different document.
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): also discusses Christian Watson, from a different document.
 - [Christian Watson Packers Hot Seat](christian_watson_packers_hot_seat.md): also discusses Watson and Jayden Reed, from a different document.
@@ -19,6 +20,8 @@ The claim carries a condition: if Christian Watson and Jayden Reed remained out,
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): another entry in the same preview, from the same document.
 - [Curtis Samuel Week 16 Waiver Target](curtis_samuel_week_16_waiver_target.md): another waiver add in the same list, from the same document.
 - [Deebo Samuel Yards Per Target Pace](deebo_samuel_yards_per_target_pace.md): another entry in the same preview, from the same document.
+- [Demario Douglas Week 16 Waiver Target](demario_douglas_week_16_waiver_target.md): same source document (doc_0146)
+- [Drake London Home Road Fantasy Split](drake_london_home_road_fantasy_split.md): same source document (doc_0146)
 
 ## Source
 

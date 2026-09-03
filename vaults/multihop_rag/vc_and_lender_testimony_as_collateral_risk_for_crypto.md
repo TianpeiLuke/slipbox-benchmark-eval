@@ -11,6 +11,7 @@ The grounds are the shape of the indictment and who it drags in: prosecutors all
 
 ## Related Notes
 
+
 - [Adam Yedidia's First Testimony And His Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): also concerns Sequoia Capital, from a different source document.
 - [Alameda's $65 Billion Line Of Credit At FTX](alameda_65_billion_line_of_credit_at_ftx.md): overlapping coverage of Bankman-Fried, collateral and Alameda, from a different source document.
 - [Alameda Negative Balance Escalation](alameda_negative_balance_escalation.md): overlapping coverage of Bankman-Fried and FTX's lenders, from a different source document.
@@ -19,6 +20,8 @@ The grounds are the shape of the indictment and who it drags in: prosecutors all
 - [Bankman-Fried's Defense Strategy And Appeal Groundwork](bankman_fried_defense_strategy_and_appeal_groundwork.md): drawn from the same source document (doc_0175).
 - [Bankman-Fried's Post-Bankruptcy Media Tour](bankman_fried_post_bankruptcy_media_tour.md): drawn from the same source document (doc_0175).
 - [Bankman-Fried's Pre-Collapse Public Image Strategy](bankman_fried_pre_collapse_public_image_strategy.md): drawn from the same source document (doc_0175).
+- [The FTX Trial's Stakes For The Wider Crypto Industry](ftx_trial_stakes_for_the_wider_crypto_industry.md): same source document (doc_0175)
+- [John J. Ray III Running The FTX Estate](john_ray_iii_running_the_ftx_estate.md): same source document (doc_0175)
 
 ## Source
 

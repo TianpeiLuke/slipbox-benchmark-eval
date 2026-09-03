@@ -13,6 +13,7 @@ Kickoff was 8:15 p.m. ET (7:15 p.m. CT), the normal start time for all of Amazon
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Derek Carr, from a different document.
 - [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): also concerns Thursday Night Football.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also discusses Trevor Lawrence.
@@ -21,6 +22,8 @@ Kickoff was 8:15 p.m. ET (7:15 p.m. CT), the normal start time for all of Amazon
 - [Jaguars Saints First Half Live Blog](jaguars_saints_first_half_live_blog.md): the first-half detail of this same game, same source document.
 - [Jaguars Saints Pregame Inactives and Notes](jaguars_saints_pregame_inactives_and_notes.md): the pregame notes for this game, same source document.
 - [Jaguars Saints Second Half Live Blog](jaguars_saints_second_half_live_blog.md): the second-half detail of this same game, same source document.
+- [Amazon Prime Video As The Home Of Thursday Night Football](thursday_night_football_amazon_prime_video_rights.md): same source document (doc_0035)
+- [Trevor Lawrence Cleared To Start After Week 7 Pregame Workout](trevor_lawrence_knee_injury_start_status_week_7.md): same source document (doc_0035)
 
 ## Source
 

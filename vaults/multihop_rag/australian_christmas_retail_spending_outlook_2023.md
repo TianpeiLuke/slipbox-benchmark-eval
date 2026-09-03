@@ -11,6 +11,7 @@ The same edition's "you may have missed" item recorded that Qantas' freight divi
 
 ## Related Notes
 
+
 - [ASX And Wall Street Selloff October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): sits in the same sub-plan and shows consumer discretionary weakness a week later, from a different source document.
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): sits in the same sub-plan and lists retail names among the laggards, from a different source document.
 - [Atlassian Loom Acquisition 2023](atlassian_loom_acquisition_2023.md): sits in the same sub-plan on October 2023 market coverage, from a different source document.
@@ -19,6 +20,8 @@ The same edition's "you may have missed" item recorded that Qantas' freight divi
 - [ASX And Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): drawn from the same report and covers the session this quote appeared in.
 - [ASX Sector Movers October 4 2023](asx_sector_movers_october_4_2023.md): drawn from the same report and shows the consumer discretionary sector falling that day.
 - [Oil Slump And House Speaker Vacancy October 2023](oil_slump_and_house_speaker_vacancy_october_2023.md): drawn from the same report and covers the inflation backdrop to cost-of-living pressure.
+- [US Jobs And Services Data In Early October 2023](us_jobs_and_services_data_early_october_2023.md): same source document (doc_0029)
+- [US Treasury Yields And Fed Rate Expectations In October 2023](us_treasury_yields_and_fed_rate_expectations_october_2023.md): same source document (doc_0029)
 
 ## Source
 

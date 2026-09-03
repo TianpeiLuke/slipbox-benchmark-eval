@@ -13,6 +13,7 @@ The scope conditions are federal, provisional and time-stamped: the statement co
 
 ## Related Notes
 
+
 - [Influenza Secondary Bacterial Infection Mechanism](influenza_secondary_bacterial_infection_mechanism.md): shares illness, health and respiratory vocabulary, from a different source article.
 - [AKC Owner and Vet Action Guidance for Canine Illness](akc_owner_and_vet_action_guidance_canine_illness.md): the owner-facing counterpart to this official statement, from the same Yahoo News report (doc_0565).
 - [Atypical Small-Genome Canine Microbiome Bacterium](atypical_small_genome_canine_microbiome_bacterium.md): the candidate cause that APHIS has not confirmed, from the same report (doc_0565).
@@ -21,6 +22,8 @@ The scope conditions are federal, provisional and time-stamped: the statement co
 - [Canine Respiratory Illness Cause Evidence and Caveats](canine_respiratory_illness_cause_evidence_caveats.md): the scientific dispute over the cause APHIS has not identified, from the same report (doc_0565).
 - [Canine Respiratory Illness State Case Reports 2023](canine_respiratory_illness_state_case_reports_2023.md): the state-level reports APHIS is coordinating with, from the same report (doc_0565).
 - [Canine Respiratory Illness Three Clinical Presentations](canine_respiratory_illness_three_clinical_presentations.md): the disease courses including the rapid fatal one, from the same report (doc_0565).
+- [Holiday Kennel and Dog Park Avoidance Guidance](holiday_kennel_and_dog_park_avoidance_guidance.md): same source document (doc_0565)
+- [House Sitter and Dog Walker as a Boarding Alternative](house_sitter_dog_walker_boarding_alternative.md): same source document (doc_0565)
 
 ## Source
 

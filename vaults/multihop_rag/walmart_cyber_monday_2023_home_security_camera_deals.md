@@ -13,11 +13,19 @@ Google's Nest Cam (Wired) is described as the smartest indoor security camera yo
 
 ## Related Notes
 
+
 - [Apple AirPods Pro (2nd Generation)](apple_airpods_pro_second_generation.md): shares the battery-technology and patch-notes themes, from a different source document.
 - [Blink Mini Security Camera Two-Pack](blink_mini_security_camera_two_pack.md): overlaps on cameras, security and wired models, from a different source document.
 - [Discord Shop, Remix And Client Improvements](discord_shop_remix_and_client_improvements.md): shares the battery-technology and patch-notes themes, from a different source document.
 - [Google Nest Cam (Battery Model)](google_nest_cam_battery_model.md): also covers the Nest Cam and Nest Aware, from a different source document.
 - [Google Pixel Buds Pro](google_pixel_buds_pro.md): shares the battery-technology and patch-notes themes, from a different source document.
+- [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): same source document (doc_0320)
+- [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Dolby Atmos Soundbar Deals](walmart_cyber_monday_2023_dolby_atmos_soundbar_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Fitness Tracker And Smart Ring Deals](walmart_cyber_monday_2023_fitness_tracker_and_smart_ring_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Kitchen Appliance Deals](walmart_cyber_monday_2023_kitchen_appliance_deals.md): same source document (doc_0320)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

@@ -11,11 +11,18 @@ Allen made his return to practice on a limited basis on Friday and was officiall
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): overlaps on injury-designation language, from a different document.
 - [Chargers 6-0 Patriots Shutout Week 13](chargers_6_0_patriots_shutout_week_13.md): covers the game these reports precede, from a different document.
 - [Fantasy Week 13 Chargers At Patriots Outlook](fantasy_week_13_chargers_at_patriots_outlook.md): previews the same matchup, from a different document.
 - [NFL Week 11 2023 Wide Receiver Injuries](nfl_week_11_2023_wide_receiver_injuries.md): overlaps on receiver injury designations, from a different document.
 - [NFL Week 14 Wide Receiver Injury Report](nfl_week_14_wide_receiver_injury_report.md): overlaps on the same receivers a week later, from a different document.
+- [NFL Week 13 Injuries 49ers At Eagles](nfl_week_13_injuries_49ers_at_eagles.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Bengals At Jaguars](nfl_week_13_injuries_bengals_at_jaguars.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Broncos At Texans](nfl_week_13_injuries_broncos_at_texans.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Browns At Rams](nfl_week_13_injuries_browns_at_rams.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Cardinals At Steelers](nfl_week_13_injuries_cardinals_at_steelers.md): same source document (doc_0289)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

@@ -13,12 +13,17 @@ The comparison is carefully bounded. Turk would take Bedard's shot against anyon
 
 ## Related Notes
 
+
 - [Blackhawks-Penguins 2023 First Period Rust Opener](blackhawks_penguins_2023_first_period_rust_opener.md): also discusses Connor Bedard, from a different document.
 - [Blackhawks-Penguins 2023 Second Period: Bedard's First Point](blackhawks_penguins_2023_second_period_bedard_first_point.md): also discusses Connor Bedard, from a different document.
 - [Connor Bedard's Debut Performance And Pregame Scenes](connor_bedard_debut_performance_and_pregame_scenes.md): also discusses Connor Bedard and Auston Matthews, the comparison here, from a different document.
 - [Connor Bedard's NHL Debut: Blackhawks Beat Penguins 4-2](connor_bedard_nhl_debut_blackhawks_beat_penguins_4_2.md): also discusses Connor Bedard, from a different document.
 - [The Mechanics Of Connor Bedard's Shot](connor_bedard_shot_mechanics_toe_drag_release.md): the technical basis for this judgement, from the same article.
 - [Goalies And Peers On Defending Bedard's Shot](goalies_and_peers_on_defending_bedard_shot.md): corroboration from the players who face it, from the same article.
+- [Connor Bedard's Rookie Adjustment With The Blackhawks](connor_bedard_rookie_adjustment_with_the_blackhawks.md): same source document (doc_0102)
+- [Connor Bedard's Shooting Practice Habits](connor_bedard_shooting_practice_habits.md): same source document (doc_0102)
+- [Scepticism About Bedard's Shooting Style At NHL Level](scepticism_about_bedard_shooting_style_at_nhl_level.md): same source document (doc_0102)
+- [Tim Turk's First Evaluation Of Connor Bedard](tim_turk_first_evaluation_of_connor_bedard.md): same source document (doc_0102)
 
 ## Source
 

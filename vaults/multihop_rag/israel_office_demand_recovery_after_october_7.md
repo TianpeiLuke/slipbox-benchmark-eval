@@ -11,6 +11,7 @@ Newmark Natam VP real estate services Or Ben Zvi Klein says there are even compa
 
 ## Related Notes
 
+
 - [Check Point Business Continuity During The Israel War](check_point_business_continuity_during_the_israel_war.md): also concerns Tel Aviv workplaces continuing through the war, from a different source document.
 - [Eylon Levy Israeli Government Spokesperson](eylon_levy_israeli_government_spokesperson.md): also concerns Tel Aviv in the same period, from a different source document.
 - [Israeli Economy In The First Week Of The Gaza War](israeli_economy_in_the_first_week_of_the_gaza_war.md): covers the standstill that this recovery follows, from a different source document.
@@ -19,6 +20,8 @@ Newmark Natam VP real estate services Or Ben Zvi Klein says there are even compa
 - [AI21 Labs Tel Aviv Office Lease](ai21_labs_tel_aviv_office_lease.md): drawn from the same article and is the scale of deal now absent from the market.
 - [Amot Investments Portfolio And War Scenario Assessment](amot_investments_portfolio_and_war_scenario_assessment.md): drawn from the same article and gives a landlord's view of the same demand.
 - [Azrieli Group Office Portfolio Q3 2023](azrieli_group_office_portfolio_q3_2023.md): drawn from the same article and reports occupancy through the same period.
+- [Israel's Office Space Oversupply](israel_office_space_oversupply.md): same source document (doc_0217)
+- [The Naimi Park Office Development At Messubim](naimi_park_office_development_messubim.md): same source document (doc_0217)
 
 ## Source
 

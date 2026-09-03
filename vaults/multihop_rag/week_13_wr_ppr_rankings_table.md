@@ -88,6 +88,7 @@ Sporting News' full Week 13 wide receiver rankings for PPR scoring formats, publ
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also discusses Brandon Aiyuk and Deebo Samuel, from a different document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): covers the same week's Jaguars, Colts and Bengals, separately sourced.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also covers the Bengals, Titans and Texans that week, in a different document.
@@ -96,6 +97,8 @@ Sporting News' full Week 13 wide receiver rankings for PPR scoring formats, publ
 - [Week 13 Fantasy WR Busts to Avoid](week_13_fantasy_wr_busts_to_avoid.md): the sit calls behind several of these placements, same source document.
 - [Week 13 Fantasy Wide Receiver Byes and Context](week_13_fantasy_wr_byes_and_context.md): why some notable receivers are missing from this table, same source document.
 - [Week 13 Fantasy WR Sleepers and Waiver Adds](week_13_fantasy_wr_sleepers_and_waiver_adds.md): the deep-league names in the lower half, same source document.
+- [Week 13's Top Fantasy Wide Receivers](week_13_top_fantasy_wide_receivers.md): same source document (doc_0114)
+- [Week 13 Wide Receiver Injury Report](week_13_wide_receiver_injury_report.md): same source document (doc_0114)
 
 ## Source
 

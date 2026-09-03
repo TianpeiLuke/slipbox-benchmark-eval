@@ -13,6 +13,7 @@ The escalation drew on Becker's conviction. Becker was found guilty of four char
 
 ## Related Notes
 
+
 - [Billie Jean King 2023 Activities And Ownership Stakes](billie_jean_king_2023_activities_and_ownership_stakes.md): also concerns Grand Slam tennis and its senior figures, from a different document.
 - [Over/Under Betting In MMA, Tennis And Golf](over_under_betting_in_mma_tennis_and_golf.md): also references Grand Slam tennis, from a different document.
 - [Becker's Claim That Kyrgios Owes His Career To Tennis Trailblazers](becker_claim_kyrgios_owes_career_to_tennis_trailblazers.md): gives Becker's side of this exchange, from the same report.
@@ -20,6 +21,9 @@ The escalation drew on Becker's conviction. Becker was found guilty of four char
 - [Corretja Doubts A Djokovic 2024 Golden Slam](corretja_doubts_djokovic_2024_golden_slam.md): another item in the same tennis news round-up.
 - [Djokovic On His Relationship With Federer And Nadal](djokovic_on_his_relationship_with_federer_and_nadal.md): another item in the same round-up.
 - [Lleyton Hewitt's United Cup 2024 Captaincy](lleyton_hewitt_united_cup_2024_captaincy.md): another item in the same round-up.
+- [T.J. Watt Steelers Midseason MVP](tj_watt_steelers_midseason_mvp.md): content overlap 0.10 on becker, eight; different source document
+- [Murray And Rune's Brisbane International Doubles Entry For 2024](murray_and_rune_brisbane_international_doubles_2024.md): same source document (doc_0342)
+- [Pliskova's Claim That The WTA Tour Lost Its Charisma](pliskova_claim_wta_tour_lost_its_charisma.md): same source document (doc_0342)
 
 ## Source
 

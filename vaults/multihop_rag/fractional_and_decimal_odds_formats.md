@@ -13,11 +13,19 @@ The scope condition worth keeping is what the decimal calculation returns. It gi
 
 ## Related Notes
 
+
 - [How Sportsbooks Set and Move Betting Lines](how_sportsbooks_set_and_move_betting_lines.md): also covers odds, profit and betting mechanics, from a different document.
 - [NBA Rookie of the Year Futures Betting Market](nba_rookie_of_the_year_futures_betting_market.md): another market where odds and wagers are read this way, separately sourced.
 - [Point Spread Odds and Line Movement](point_spread_odds_and_line_movement.md): overlaps on decimal odds and payout calculation, in a different document.
 - [Reading a Totals Line and Its Odds](reading_a_totals_line_and_its_odds.md): also explains odds-to-payout arithmetic, from a separate source.
 - [Reading American Odds for NBA Props](reading_american_odds_for_nba_props.md): covers the payout-and-profit distinction in the American format, in a different document.
+- [The American Odds Format](american_odds_format.md): same source document (doc_0061)
+- [Favorites And Underdogs In Moneyline Odds](betting_favorites_and_underdogs.md): same source document (doc_0061)
+- [The Moneyline Bet](moneyline_bet_definition.md): same source document (doc_0061)
+- [Moneyline Outcomes: Win, Loss, Draw And Push](moneyline_bet_outcomes_win_loss_draw.md): same source document (doc_0061)
+- [Moneyline Odds Examples By Sport](moneyline_odds_examples_by_sport.md): same source document (doc_0061)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

@@ -13,6 +13,7 @@ Polygon's advice is to bring your most levelheaded — or, alternatively, chaoti
 
 ## Related Notes
 
+
 - [Hoop Dreams (Steve James Documentary)](hoop_dreams_steve_james_documentary.md): incidental "hoop" term overlap from a different source document
 - [Captain Toad: Treasure Tracker](captain_toad_treasure_tracker.md): another puzzle pick from the same couch co-op roundup
 - [Cat Quest 2](cat_quest_2.md): a fellow entry in the same Switch co-op article
@@ -21,6 +22,8 @@ Polygon's advice is to bring your most levelheaded — or, alternatively, chaoti
 - [Diablo 3 Switch Local Multiplayer](diablo_3_switch_local_multiplayer.md): another co-op entry from the same source
 - [Escape Academy](escape_academy.md): another puzzle-focused co-op pick in the same list
 - [Good Job! (Nintendo Switch)](good_job_nintendo_switch.md): another co-op recommendation from the same article
+- [Kirby and the Forgotten Land](kirby_and_the_forgotten_land.md): same source document (doc_0428)
+- [Lego Star Wars: The Skywalker Saga](lego_star_wars_the_skywalker_saga.md): same source document (doc_0428)
 
 ## Source
 

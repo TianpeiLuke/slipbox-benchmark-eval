@@ -13,6 +13,7 @@ Inter Miami were definitely without both Jordi Alba and Leonardo Campana, out wi
 
 ## Related Notes
 
+
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): also discusses Lionel Messi.
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also discusses Lionel Messi.
 - [Argentina Second Half and Messi Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): also discusses Lionel Messi.
@@ -21,6 +22,8 @@ Inter Miami were definitely without both Jordi Alba and Leonardo Campana, out wi
 - [Chicago Fire 4-1 Inter Miami October 2023 Recap](chicago_fire_4_1_inter_miami_october_2023_recap.md): the result of this match, same source document.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): first-half detail, same source document.
 - [Chicago Fire Inter Miami Second Half Live Blog](chicago_fire_inter_miami_second_half_live_blog.md): second-half detail, same source document.
+- [Inter Miami Eliminated From The 2023 MLS Playoff Race With Two Games Left](inter_miami_2023_mls_playoff_elimination.md): same source document (doc_0041)
+- [Kei Kamara Sat On The Bench One Goal Short Of Landon Donovan](kei_kamara_chicago_fire_role_and_scoring_record.md): same source document (doc_0041)
 
 ## Source
 

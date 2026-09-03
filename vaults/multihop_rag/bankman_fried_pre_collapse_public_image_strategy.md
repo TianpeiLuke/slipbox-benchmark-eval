@@ -11,11 +11,18 @@ The Verge attributes FTX's quick rise as an industry force at least in part to t
 
 ## Related Notes
 
+
 - [FTX](ftx.md): overlapping coverage of Bankman-Fried and crypto's public face, from a different source document.
 - [Going Infinite: Michael Lewis On Sam Bankman-Fried](going_infinite_michael_lewis_on_sam_bankman_fried.md): overlapping coverage of Bankman-Fried, crypto and poker, from a different source document.
 - [Kraken's SEC Charges And Staking Settlement](kraken_sec_charges_and_staking_settlement.md): overlapping coverage of crypto exchanges including Kraken, from a different source document.
 - [Sam Bankman-Fried](sam_bankman_fried.md): overlapping coverage of Bankman-Fried, crypto and fraud, from a different source document.
 - [SBF Trial Day Two: Jury And Courtroom](sbf_trial_day_two_jury_and_courtroom.md): overlapping coverage of Bankman-Fried, crypto and his fall, from a different source document.
+- [Bankman-Fried's Defense Strategy And Appeal Groundwork](bankman_fried_defense_strategy_and_appeal_groundwork.md): same source document (doc_0175)
+- [Bankman-Fried's Post-Bankruptcy Media Tour](bankman_fried_post_bankruptcy_media_tour.md): same source document (doc_0175)
+- [The FTX Trial's Stakes For The Wider Crypto Industry](ftx_trial_stakes_for_the_wider_crypto_industry.md): same source document (doc_0175)
+- [John J. Ray III Running The FTX Estate](john_ray_iii_running_the_ftx_estate.md): same source document (doc_0175)
+- [Prosecution Allegations In The FTX Superseding Indictment](prosecution_allegations_in_the_ftx_superseding_indictment.md): same source document (doc_0175)
+- [Fraud](term_fraud.md): uses the concept fraud
 
 ## Source
 

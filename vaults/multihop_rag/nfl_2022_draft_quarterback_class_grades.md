@@ -13,11 +13,18 @@ Continuing: Bailey Zappe, New England Patriots, Pick 137, grade C- — Mac Jones
 
 ## Related Notes
 
+
 - [2023 Bowl Season Completed Game Results](2023_bowl_season_completed_game_results.md): also mentions Western Kentucky, from a different source document.
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also discusses Brock Purdy and the Super Bowl, from a different source document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also discusses Brock Purdy, from a different source document.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also discusses the Super Bowl, from a different source document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also discusses Kenny Pickett and the Miami Dolphins, from a different source document.
+- [Brock Purdy's 49ers Career Trajectory](brock_purdy_49ers_career_trajectory.md): same source document (doc_0362)
+- [Mr. Irrelevant: The NFL Draft's Final Pick](mr_irrelevant_nfl_draft_final_pick_title.md): same source document (doc_0362)
+- [The Eight Quarterbacks Selected Before Brock Purdy](quarterbacks_selected_before_brock_purdy_2022_draft.md): same source document (doc_0362)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
 
 ## Source
 

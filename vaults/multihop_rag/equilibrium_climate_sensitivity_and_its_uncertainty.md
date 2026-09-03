@@ -11,6 +11,7 @@ The uncertainty is large because climate sensitivity aggregates myriad processes
 
 ## Related Notes
 
+
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): another treatment of how climate change is quantified and communicated.
 - [Climate Sweet Spots and Pattern-Dependent Feedbacks](climate_sweet_spots_and_pattern_dependent_feedbacks.md): from the same article, on why the feedbacks behind sensitivity depend on warming patterns.
 - [Coupled Models Fail to Reproduce Observed Warming Patterns](coupled_models_fail_to_reproduce_observed_warming_patterns.md): from the same article, on a key source of the model-based uncertainty.
@@ -19,6 +20,8 @@ The uncertainty is large because climate sensitivity aggregates myriad processes
 - [Feedback Dependence on Global Mean Temperature](feedback_dependence_on_global_mean_temperature.md): from the same article, on another dependence complicating sensitivity estimates.
 - [Historical Warming Does Not Bound Climate Sensitivity](historical_warming_does_not_bound_climate_sensitivity.md): from the same article, on why one line of evidence cannot constrain the range.
 - [The Magnitude of the Observed Pattern Effect Is Disputed](magnitude_of_the_observed_pattern_effect_is_disputed.md): from the same article, on the disagreement that keeps the estimate uncertain.
+- [The Model Versus Observation Climate Sensitivity Discrepancy](model_versus_observation_climate_sensitivity_discrepancy.md): same source document (doc_0139)
+- [Open Questions on SST Patterns and Earth's Radiation Budget](open_questions_on_sst_patterns_and_earths_radiation_budget.md): same source document (doc_0139)
 
 ## Source
 

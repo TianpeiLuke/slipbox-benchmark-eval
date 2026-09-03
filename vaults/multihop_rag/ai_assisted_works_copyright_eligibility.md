@@ -11,11 +11,18 @@ The submission extends the same reasoning to derivative and revised work, though
 
 ## Related Notes
 
+
 - [Generative AI Deepfakes Harm to Artists](generative_ai_deepfakes_harm_to_artists.md): a related music-industry AI policy concern, from a different source document.
 - [AI-Generated Works Should Not Be Copyrightable](ai_generated_works_should_not_be_copyrightable.md): the opposite side of the distinction this note draws (doc_0271).
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): a companion demand from the same filing (doc_0271).
 - [AI Training Transparency and Recordkeeping](ai_training_transparency_and_recordkeeping.md): another demand from the same filing (doc_0271).
 - [Anthropic Fair Use Defense for AI Training](anthropic_fair_use_defense_for_ai_training.md): another note drawn from the same source document (doc_0271).
+- [Kooker's Rebuttal Of The Tech Industry's "Distorted View Of Copyright"](kooker_on_tech_industry_distorted_copyright_view.md): same sub-plan (Music Industry AI Policy Demands), different source document
+- [Sony Music's Generative AI Principles For Congress](sony_music_generative_ai_principles_for_congress.md): same sub-plan (Music Industry AI Policy Demands), different source document
+- [The EU AI Act's Training Data Disclosure Rule](eu_ai_act_training_data_disclosure_rule.md): same source document (doc_0271)
+- [AI Developers Should Be Required To License Training Material](licensing_requirement_for_ai_training_material.md): same source document (doc_0271)
+- [The NMPA Submission Calling Generative AI The Greatest Risk To The Creative Class](nmpa_submission_generative_ai_greatest_risk.md): same source document (doc_0271)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

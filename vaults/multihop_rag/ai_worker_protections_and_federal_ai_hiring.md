@@ -13,6 +13,7 @@ On hiring, the administration launched a new federal jobs portal on Monday, AI.g
 
 ## Related Notes
 
+
 - [The AI Legislation Gap](ai_legislation_gap.md): also concerns executive orders as an AI policy instrument, from a different source document.
 - [The Artificial Intelligence Advancement Act Of 2023](artificial_intelligence_advancement_act_2023.md): part of the same 2023 US federal AI policy push, from a different source document.
 - [Organized Labor Pushback On AI Deployment](organized_labor_pushback_on_ai_deployment.md): the union and worker demands this section answers, from a different source document.
@@ -20,6 +21,11 @@ On hiring, the administration launched a new federal jobs portal on Monday, AI.g
 - [Schumer's SAFE Innovation Framework](schumer_safe_innovation_framework.md): part of the same 2023 US federal AI policy push, from a different source document.
 - [Civil Rights, Privacy And Consumer Protections In The AI Executive Order](ai_civil_rights_and_consumer_protections_in_the_eo.md): drawn from the same source document (doc_0313).
 - [Critical Infrastructure And CBRN Provisions Of The AI Executive Order](ai_threats_to_critical_infrastructure_provisions.md): drawn from the same source document (doc_0313).
+- [The Biden AI Executive Order Of October 2023](biden_ai_executive_order_october_2023.md): same source document (doc_0313)
+- [Schumer's Objection: An Executive Order Cannot Replace Legislation](executive_order_limits_versus_ai_legislation.md): same source document (doc_0313)
+- [Federal AI Watermarking And Content Provenance](federal_ai_watermarking_and_content_provenance.md): same source document (doc_0313)
+- [Executive Order](term_executive_order.md): uses the concept executive order
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

@@ -11,12 +11,18 @@ ESPN's Jeff Passan reported the Smith agreement: the reliever had spent the past
 
 ## Related Notes
 
+
 - [Adolis Garcia Oblique Injury, 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): also concerns the World Series, referenced here through Will Smith's title run, from a different document.
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): also concerns the World Series, from a different document.
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): also concerns the World Series, from a different document.
 - [Buffalo Bills Defensive Injuries 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): also concerns Kansas City, from a different document.
 - [Chase Field Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): also concerns the World Series, from a different document.
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): another entry from the same free agency tracker, from the same document.
+- [Braves Cut Matt Carpenter After Trying To Trade Him](braves_release_matt_carpenter.md): same source document (doc_0422)
+- [Cody Bellinger's Market And Suitors After Ohtani Signed](cody_bellinger_free_agent_market_and_suitors.md): same source document (doc_0422)
+- [Jack Flaherty's One-Year Deal With The Tigers](jack_flaherty_tigers_one_year_deal.md): same source document (doc_0422)
+- [Lourdes Gurriel Jr. Re-Signs With The Diamondbacks](lourdes_gurriel_jr_diamondbacks_re_signing.md): same source document (doc_0422)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

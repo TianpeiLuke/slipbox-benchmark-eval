@@ -13,6 +13,7 @@ Harper later explained he was upset over a contract situation — which leaves t
 
 ## Related Notes
 
+
 - [Game Preservation and the Ship of Theseus Problem](game_preservation_ship_of_theseus_problem.md): shares a name overlap with this account, from a different document.
 - [Harper Doubled Off on Michael Harris' Catch, NLDS Game 2](harper_doubled_off_on_michael_harris_catch_nlds_game_2.md): shares a name overlap with this account, from a different document.
 - [Harper's Island, the Slasher Series](harpers_island_slasher_series.md): shares a name overlap with this account, from a different document.
@@ -21,6 +22,8 @@ Harper later explained he was upset over a contract situation — which leaves t
 - [Adolpho Washington vs Virgil Hill, 1993: The Camera Stoppage](adolpho_washington_virgil_hill_1993_camera_stoppage.md): drawn from the same document (doc_0228).
 - [Bernard Hopkins vs Robert Allen, 1998: The Referee's Fall](bernard_hopkins_robert_allen_1998_referee_fall.md): drawn from the same document (doc_0228).
 - [The Scope of talkSPORT's Craziest Boxing Fight Endings Ranking](boxing_unorthodox_fight_endings_ranking_scope.md): drawn from the same document (doc_0228).
+- [Kermit Cintron vs Paul Williams, 2004: The Ring Exit](kermit_cintron_paul_williams_2004_ring_exit.md): same source document (doc_0228)
+- [Mayweather vs Ortiz, 2011: The Knockout After The Headbutt](mayweather_ortiz_2011_knockout_after_headbutt.md): same source document (doc_0228)
 
 ## Source
 

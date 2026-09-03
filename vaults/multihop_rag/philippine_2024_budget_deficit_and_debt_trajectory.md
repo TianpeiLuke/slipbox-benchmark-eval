@@ -13,6 +13,7 @@ Against that optimism, President Ferdinand Marcos, Jr. told members of the US-AS
 
 ## Related Notes
 
+
 - [Adobe Analytics and Salesforce Measurement Methodology](adobe_analytics_and_salesforce_measurement_methodology.md): shares trillion-and-billion scale reporting vocabulary.
 - [FAPE and PEAC History and Programs](fape_and_peac_history_and_programs.md): shares President Ferdinand Marcos as a referenced actor.
 - [Fiscal Cost Channels of the Israel-Gaza War](fiscal_cost_channels_of_the_israel_gaza_war.md): the same revenue, deficit and debt dynamics in another country.
@@ -21,6 +22,8 @@ Against that optimism, President Ferdinand Marcos, Jr. told members of the US-AS
 - [Balanced Versus Deficit Budget in Philippine Fiscal Practice](balanced_versus_deficit_budget_in_philippine_fiscal_practice.md): the definitions that classify this budget as a deficit.
 - [Critique of Political Agendas in the Philippine Budget](critique_of_political_agendas_in_the_philippine_budget.md): the closing critique of the debt described here.
 - [DBM Case for a Surplus Budget Policy](dbm_case_for_a_surplus_budget_policy.md): the policy stance this budget departs from.
+- [Philippine House Approval of the 2024 National Budget](philippine_house_approval_of_the_2024_national_budget.md): same source document (doc_0306)
+- [Philippine Inflation and Deficit Vicious Cycle](philippine_inflation_and_deficit_vicious_cycle.md): same source document (doc_0306)
 
 ## Source
 

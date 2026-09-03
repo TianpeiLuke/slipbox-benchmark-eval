@@ -13,11 +13,20 @@ Luke gave two reasons for the decline: a lobbying effort against the speed of el
 
 ## Related Notes
 
+
 - [Check Point Recent Quarterly Financials](check_point_recent_quarterly_financials.md): shares the quarterly-financials reporting framing, from a different source document.
 - [Dave Clark Hiring And Flexport IPO Plan](dave_clark_hiring_and_flexport_ipo_plan.md): shares the COVID-19 and earnings themes, from a different source document.
 - [EV Sector Setbacks: Arrival And US Automakers](ev_sector_setbacks_arrival_and_us_automakers.md): overlapping coverage of electric-vehicle business setbacks and pivots, from a different source document.
 - [Ola Electric Funding Round 2023](ola_electric_funding_round_2023.md): overlapping coverage of electric two-wheeler finances in India, from a different source document.
 - [Tech Layoffs November 2023](tech_layoffs_november_2023.md): shares the battery-technology and earnings themes, from a different source document.
+- [The Ecosystem And Unit-Economics Challenge Of Battery Swapping](battery_swapping_ecosystem_and_unit_economics_challenges.md): same source document (doc_0216)
+- [Growth In Gogoro's Battery-Swapping Service Revenue](gogoro_battery_swapping_service_revenue_growth.md): same source document (doc_0216)
+- [Gogoro's Company Profile And Open Platform Model](gogoro_company_profile_and_open_platform_model.md): same source document (doc_0216)
+- [The Stalled Gogoro–Hero MotoCorp Partnership](gogoro_hero_motocorp_partnership_stall.md): same source document (doc_0216)
+- [Gogoro's Indian Commercial Launch And Investments](gogoro_india_commercial_launch_and_investments.md): same source document (doc_0216)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [COVID-19](term_covid_19.md): uses the concept covid 19
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

@@ -13,6 +13,7 @@ Maher's appointment comes as the tech conference faces a challenge to rebuild re
 
 ## Related Notes
 
+
 - [Israel Tech Industry Boycott](israel_tech_industry_boycott.md): covers the Paddy Cosgrave controversy and Web Summit fallout, from a different document.
 - [Pebble's Traction Metrics And Angel Funding](pebble_traction_metrics_and_angel_funding.md): also discusses Katherine Maher, from a different document.
 - [Web Summit's Business Impact](web_summit_business_impact.md): covers the conference she now leads, from a different document.
@@ -21,6 +22,8 @@ Maher's appointment comes as the tech conference faces a challenge to rebuild re
 - [Apple's iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): drawn from the same source document (doc_0199).
 - [Apple's M3 Chip Lineup And The M3 Mac Reviews](apple_m3_mac_reviews_and_chip_lineup.md): drawn from the same source document (doc_0199).
 - [Atlassian's Critical Security Flaw Warning](atlassian_critical_security_flaw_warning.md): drawn from the same source document (doc_0199).
+- [Cloud Stock Multiples And Startup Valuations](cloud_stock_multiples_and_startup_valuations.md): same source document (doc_0199)
+- [EV Sector Setbacks: Arrival And US Automakers](ev_sector_setbacks_arrival_and_us_automakers.md): same source document (doc_0199)
 
 ## Source
 

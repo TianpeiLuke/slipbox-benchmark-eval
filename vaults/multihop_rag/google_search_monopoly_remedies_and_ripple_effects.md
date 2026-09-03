@@ -13,11 +13,18 @@ The Google outcome could also have a ripple effect on other Big Tech cases. The 
 
 ## Related Notes
 
+
 - [Apple Versus Google Antitrust Conduct Contrast](apple_versus_google_antitrust_conduct_contrast.md): overlaps on deals with carriers and device makers, from a different document.
 - [Apple Watch ITC Import Ban And Preemptive Sales Halt](apple_watch_itc_import_ban_and_preemptive_sales_halt.md): another Big Tech regulatory clash, from a different document.
 - [Big Tech Antitrust Outlook](big_tech_antitrust_outlook.md): covers the same Big Tech antitrust landscape, from a different document.
 - [Big Tech Declines And Amazon FTC Antitrust Lawsuit](big_tech_declines_and_amazon_ftc_antitrust_lawsuit.md): covers the FTC's Amazon suit named here, from a different document.
 - [ChatGPT Third-Party Integrations And Ecosystem](chatgpt_third_party_integrations_and_ecosystem.md): also concerns Big Tech platform ecosystems, from a different document.
+- [Expedia's Testimony On Google Ad Costs And Organic Listings](expedia_testimony_on_google_search_ads.md): same source document (doc_0015)
+- [Firefox's Decline: The Chrome Share Alternative Explanation](firefox_decline_alternative_explanation_chrome_share.md): same source document (doc_0015)
+- [Firefox's Yahoo Default Search Switch, As Recounted By Mitchell Baker](firefox_yahoo_default_search_switch.md): same source document (doc_0015)
+- [MADA And RSA: Google's Two Android Distribution Agreements](google_android_mada_and_rsa_agreements.md): same source document (doc_0015)
+- ["Go Big In Europe": Google's Post-Fine Search Quality Push](google_go_big_in_europe_search_quality_push.md): same source document (doc_0015)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
 
 ## Source
 

@@ -11,11 +11,17 @@ Step one is race. Races in Baldur's Gate 3 do not really have any direct impact 
 
 ## Related Notes
 
+
 - [BG3 Warlock: Pact Casting For Beginners](bg3_warlock_class_overview.md): same source; the class this build procedure applies to.
 - [BG3 Warlock Cantrip List](bg3_warlock_cantrip_list.md): same source; contains Eldritch Blast, the spell the Invocation upgrades.
 - [Ability Scores Link BG3 Classes To Out-Of-Combat Skills](bg3_ability_scores_shape_out_of_combat_skills.md): explains what a Charisma-highest build buys outside combat, from a different source document.
 - [BG3 Fighter Class And Subclasses](bg3_fighter_class_and_subclasses.md): overlaps on shields, subclass choice and Eldritch terminology, from a different source document.
 - [BG3 Barbarian: The Damage Class](bg3_barbarian_class_and_subclasses.md): overlaps in content on armor, shields, weapons, from a different source document.
+- [Choosing A Class And Subclass In Baldur's Gate 3](bg3_class_and_subclass_selection_overview.md): content overlap 0.14 on subclass, spell, important; different source document
+- [BG3 Druid: The Nature Caster](bg3_druid_class_and_circles.md): content overlap 0.10 on armor, medium, subclass; different source document
+- [There Is No Single Best Class In Baldur's Gate 3](bg3_no_single_best_class_argument.md): same source document (doc_0017)
+- [BG3 Warlock Class Features: Hit Points And Proficiencies](bg3_warlock_hit_points_and_proficiencies.md): same source document (doc_0017)
+- [Recommended Feats For A BG3 Warlock](bg3_warlock_recommended_feats.md): same source document (doc_0017)
 
 ## Source
 

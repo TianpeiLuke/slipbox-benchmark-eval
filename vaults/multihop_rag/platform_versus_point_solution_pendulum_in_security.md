@@ -11,6 +11,7 @@ The open question is integration rather than direction: how well those doing the
 
 ## Related Notes
 
+
 - [Beeper Funding and Investors](beeper_funding_and_investors.md): also covers Palo Alto, from a different source document.
 - [Cybercrime Cost Growth Drives Cybersecurity Demand](cybercrime_cost_growth_drives_cybersecurity_demand.md): also covers Palo Alto Networks, from a different source document.
 - [Palo Alto Networks Acquires Dig Security](palo_alto_networks_acquires_dig_security.md): also covers Palo Alto, Palo Alto Networks, from a different source document.
@@ -19,6 +20,7 @@ The open question is integration rather than direction: how well those doing the
 - [Cybersecurity Consolidation Wave 2023](cybersecurity_consolidation_wave_2023.md): drawn from the same source document, doc_0372.
 - [Cybersecurity Spending Resilience and Breach Costs](cybersecurity_spending_resilience_and_breach_costs.md): drawn from the same source document, doc_0372.
 - [Enterprise Browser and Cloud Data Security Categories](enterprise_browser_and_cloud_data_security_categories.md): drawn from the same source document, doc_0372.
+- [Palo Alto's Talks To Acquire Talon And Dig](palo_alto_talks_to_acquire_talon_and_dig.md): same source document (doc_0372)
 
 ## Source
 

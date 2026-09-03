@@ -11,6 +11,7 @@ The Verge calls them a clear departure from conventional earbuds, using an "open
 
 ## Related Notes
 
+
 - [Sony Headphone And Earbud Deals On Prime Day](sony_headphone_and_earbud_deals_prime_day.md): overlapping coverage of Sony's LinkBuds earbuds, from a different source document.
 - [Sony LinkBuds S Earbuds](sony_linkbuds_s_earbuds.md): overlapping coverage of Sony's LinkBuds earbuds, from a different source document.
 - [Sony WF-1000XM5 Black Friday Deal](sony_wf_1000xm5_black_friday_deal.md): overlapping coverage of Sony's earbuds, from a different source document.
@@ -19,6 +20,8 @@ The Verge calls them a clear departure from conventional earbuds, using an "open
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
 - [Amazon Echo Buds Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): drawn from the same source document (doc_0369).
 - [Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): drawn from the same source document (doc_0520).
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
 
 ## Source
 

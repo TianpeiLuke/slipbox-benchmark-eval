@@ -13,6 +13,7 @@ Showtime Sports executive Stephen Espinoza framed the decision in a statement to
 
 ## Related Notes
 
+
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): another Showtime-era super middleweight bout listing.
 - [Boxing Unorthodox Fight Endings Ranking Scope](boxing_unorthodox_fight_endings_ranking_scope.md): another retrospective boxing ranking including Tyson.
 - [Crossover Boxing and the McGregor Canelo Feud](crossover_boxing_and_the_mcgregor_canelo_feud.md): also discusses Floyd Mayweather.
@@ -21,6 +22,8 @@ Showtime Sports executive Stephen Espinoza framed the decision in a statement to
 - [Corrales vs Castillo 2005 Lightweight Classic](corrales_vs_castillo_2005_lightweight_classic.md): one of the five greatest fights listed, same source document.
 - [Duran vs Barkley 1989 WBC Middleweight Upset](duran_vs_barkley_1989_wbc_middleweight_upset.md): one of the five greatest fights listed, same source document.
 - [Hagler vs Mugabi 1986 Showtime Debut Fight](hagler_vs_mugabi_1986_showtime_debut_fight.md): the series' maiden broadcast, same source document.
+- [Holyfield TKO 11 Tyson: The 1996 WBA Heavyweight Upset](tyson_vs_holyfield_1996_wba_heavyweight_upset.md): same source document (doc_0273)
+- [Vazquez SD 12 Marquez III: The Best Of The Most Exciting Modern Trilogy](vazquez_vs_marquez_iii_2008_super_bantamweight_trilogy.md): same source document (doc_0273)
 
 ## Source
 

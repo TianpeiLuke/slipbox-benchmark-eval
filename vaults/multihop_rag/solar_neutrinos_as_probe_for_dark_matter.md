@@ -11,6 +11,7 @@ Dark matter is an elusive type of matter whose identity is still a mystery to sc
 
 ## Related Notes
 
+
 - [Laboratory Development of Quantum Dots, 1980s to 1993](laboratory_development_of_quantum_dots_1980s_to_1993.md): another line of physics research about particles and what they emit.
 - [Quantum Dots: Definition and the Size-Colour Relationship](quantum_dots_definition_and_size_color_relationship.md): another account of particles characterised by their emissions.
 - [Ancient Superflares as a Spark for Life on Earth](ancient_superflares_as_spark_for_life_on_earth.md): from the same year-in-review article on the sun.
@@ -19,6 +20,8 @@ Dark matter is an elusive type of matter whose identity is still a mystery to sc
 - [Quasi-Periodic Pulsations in Solar Radio Bursts](quasi_periodic_pulsations_in_solar_radio_bursts.md): from the same year-in-review article on the sun.
 - [Shortened Solar Cycles During the Maunder Minimum](shortened_solar_cycles_during_the_maunder_minimum.md): from the same year-in-review article on the sun.
 - [Solar Auroras Above Sunspots](solar_auroras_above_sunspots.md): from the same year-in-review article on the sun.
+- [Downward Revision of the Solar Corona's Size](solar_corona_size_downward_revision.md): same source document (doc_0325)
+- [Solar Cycle Maximum Forecast Revision](solar_cycle_25_maximum_forecast_revision.md): same source document (doc_0325)
 
 ## Source
 

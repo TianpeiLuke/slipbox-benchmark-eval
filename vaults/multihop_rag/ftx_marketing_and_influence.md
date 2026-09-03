@@ -13,11 +13,20 @@ On the political side, Bankman-Fried had close ties to U.S. regulators and gover
 
 ## Related Notes
 
+
 - [Bet365 In The US: Daily MLB Odds Boosts And Live Betting](bet365_sportsbook_us_mlb_markets.md): also concerns Major League Baseball, from a different source document.
 - [BetRivers Sportsbook: Alternate Lines, An Integrated Casino, And iRush Rewards](betrivers_sportsbook_betting_markets.md): also concerns Major League Baseball, from a different source document.
 - [Conservative Endorsements Of The Epoch Times' Credibility](conservative_endorsements_of_epoch_times_credibility.md): shares the celebrity-endorsement and political-donations themes, from a different source document.
 - [DraftKings Sportsbook: MLB And NBA Markets And Promotions](draftkings_sportsbook_betting_markets.md): also concerns Major League Baseball, from a different source document.
 - [FanDuel Sportsbook: MLB And NBA Markets, Props And Same-Game Parlays](fanduel_sportsbook_betting_markets.md): shares the political-donations and Major League Baseball themes, from a different source document.
+- [Alameda Research](alameda_research.md): same source document (doc_0010)
+- [Crypto Contagion After FTX](crypto_contagion_after_ftx.md): same source document (doc_0030)
+- [FTX](ftx.md): same source document (doc_0030)
+- [FTX's Bankruptcy And Leadership](ftx_bankruptcy_and_leadership.md): same source document (doc_0010)
+- [The Mechanism Of FTX's Collapse](ftx_collapse_mechanism.md): same source document (doc_0030)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Celebrity Endorsement](term_celebrity_endorsement.md): uses the concept celebrity endorsement
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

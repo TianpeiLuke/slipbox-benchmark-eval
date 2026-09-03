@@ -11,11 +11,14 @@ The setup is bleak. One of Peter's closest pals, Eddie Brock, has become Venom a
 
 ## Related Notes
 
+
 - [The 2002 Spider-Man Thanksgiving Dinner Scene](spider_man_2002_thanksgiving_dinner_scene.md): same source; the Thanksgiving dinner that collapses, contrasted with this one.
 - [Thanksgiving As Communal Need Fulfillment](thanksgiving_as_communal_need_fulfillment.md): same source; the working-in-tandem reading this episode realises.
 - [Spider-Man Embodies Ordinary Struggle](spider_man_embodies_ordinary_struggle.md): same source; the loneliness this finale answers.
 - [Marvel's Relatable Superhero Formula](marvel_relatable_superhero_formula.md): same source; the character approach behind the scene.
 - [Spider-Man's Macy's Thanksgiving Parade Balloon](spider_man_macys_thanksgiving_parade_balloon.md): same source; the real-world side of the same holiday association.
+- [Spider-Man 2: Venom Origin and Miles Morales' Story](spider_man_2_venom_origin_and_miles_morales_story.md): content overlap 0.11 on peter, spider-man, symbiote; different source document
+- [Spider-Man: Across the Spider-Verse](spider_man_across_the_spider_verse.md): both discuss Gwen Stacy; different source document
 
 ## Source
 

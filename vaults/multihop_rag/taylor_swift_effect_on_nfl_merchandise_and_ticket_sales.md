@@ -13,12 +13,18 @@ The effect extended to other teams' gates. On 26 September the timeline notes th
 
 ## Related Notes
 
+
 - [2023 Bowl Season Betting Trends](2023_bowl_season_betting_trends.md): another account of measurable audience and market effects across a sports season, from a different document.
 - [49ers Can Create Cap Room To Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also concerns the Super Bowl-contending tier of the NFL referenced here, from a different document.
 - [Advantages Of Prop Bets](advantages_of_prop_bets.md): also concerns Super Bowl-era commercial interest in the NFL, from a different document.
 - ["All You Had To Do Was Stay" Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): also discusses Taylor Swift, from a different document.
 - ["American Pie" Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): also discusses Taylor Swift and her commercial reach, from a different document.
 - [NFL's Defence Of Its Taylor Swift-Themed Promotion](nfl_defence_of_its_taylor_swift_themed_promotion.md): the league's response to the attention these numbers measure, from the same timeline.
+- [The Kelce Brothers' Criticism Of NFL Swift Coverage](kelce_brothers_criticism_of_nfl_swift_coverage.md): same source document (doc_0059)
+- [NFL Figures React To The Swift-Kelce Romance](nfl_figures_react_to_the_swift_kelce_romance.md): same source document (doc_0059)
+- [The Swift-Kelce Dating Rumours Going Public In September 2023](swift_kelce_dating_rumours_go_public_september_2023.md): same source document (doc_0059)
+- [Taylor Swift's First Chiefs Game Appearance On 24 September 2023](taylor_swift_first_chiefs_game_appearance_september_24_2023.md): same source document (doc_0059)
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
 
 ## Source
 

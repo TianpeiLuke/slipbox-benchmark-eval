@@ -13,6 +13,7 @@ The prediction's strong form is that the volume is unstoppable: "They're not gon
 
 ## Related Notes
 
+
 - [Criticism Of Brand Co-Option And AI-Generated Art](criticism_of_brand_co_option_and_ai_generated_art.md): shares the AI-generated-content backlash theme, from a different source document.
 - [Mr. Irrelevant, The NFL Draft's Final Pick](mr_irrelevant_nfl_draft_final_pick_title.md): shares an irrelevance framing, from a different source document.
 - [The Affiliate Marketing Alligator Party](affiliate_marketing_alligator_party.md): drawn from the same source document (doc_0115).
@@ -21,6 +22,8 @@ The prediction's strong form is that the volume is unstoppable: "They're not gon
 - [Cade Lee, From Black Hat SEO To Construction](cade_lee_from_black_hat_seo_to_construction.md): drawn from the same source document (doc_0115).
 - [Danny Sullivan, From Journalist To Google Liaison](danny_sullivan_from_journalist_to_google_liaison.md): drawn from the same source document (doc_0115).
 - [The Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): drawn from the same source document (doc_0115).
+- [Duane Forrester, Bing, And The Search Engine's View](duane_forrester_bing_and_the_search_engine_view.md): same source document (doc_0115)
+- [Missy Ward, Daron Babin And Darren Blatt: The Early Operators](early_seo_operators_ward_babin_and_blatt.md): same source document (doc_0115)
 
 ## Source
 

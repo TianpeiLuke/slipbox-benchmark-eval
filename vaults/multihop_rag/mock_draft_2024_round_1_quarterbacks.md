@@ -11,11 +11,18 @@ At Pick 11, Tampa Bay takes J.J. McCarthy, QB, Michigan, a junior at 6'3" and 20
 
 ## Related Notes
 
+
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): covers Baker Mayfield and Tampa Bay, the incumbent this mock replaces, from a different source document.
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also covers Baker Mayfield, from a different source document.
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): covers Baker Mayfield and Kirk Cousins, both named in these projections, from a different source document.
 - [Baker Mayfield Zone Coverage and Four-Level Passing](baker_mayfield_zone_coverage_and_four_level_passing.md): also covers Baker Mayfield, from a different source document.
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): covers Justin Fields, whose return frames the Chicago pick, from a different source document.
+- [2024 Mock Draft: Six Defensive Backs Projected In Round 1](mock_draft_2024_round_1_defensive_backs.md): same source document (doc_0179)
+- [2024 Mock Draft: Six Edge Rushers Projected In Round 1](mock_draft_2024_round_1_edge_rushers.md): same source document (doc_0179)
+- [2024 Mock Draft: Brock Bowers Plus Two Interior Defensive Linemen In Round 1](mock_draft_2024_round_1_interior_defenders_and_tight_end.md): same source document (doc_0179)
+- [2024 Mock Draft: Seven Offensive Linemen Projected In Round 1](mock_draft_2024_round_1_offensive_tackles.md): same source document (doc_0179)
+- [2024 Mock Draft: Five Wide Receivers Projected In Round 1](mock_draft_2024_round_1_wide_receivers.md): same source document (doc_0179)
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

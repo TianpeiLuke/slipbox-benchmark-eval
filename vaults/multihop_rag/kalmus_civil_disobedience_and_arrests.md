@@ -11,10 +11,18 @@ When he earned his first arrest, by chaining himself to a bank in Los Angeles la
 
 ## Related Notes
 
+
 - [Amazon Rainforest Tipping Point](amazon_rainforest_tipping_point.md): from the same article, on the darkening outlook he refers to.
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): from the same article, on the wider despair he is not alone in feeling.
 - [Climate Grief Conversation at the Homestead](climate_grief_conversation_at_the_homestead.md): from the same article, on the grief protest is meant to answer.
 - [Daily Life at the Possibility Alliance](daily_life_at_the_possibility_alliance.md): from the same article, on the community that trains climate protesters.
+- [Kalmus's Critique of Biden Climate Policy](kalmus_critique_of_biden_climate_policy.md): same source document (doc_0233)
+- [Kalmus's Personal Emissions Reduction as Detoxification](kalmus_personal_emissions_reduction_as_detoxification.md): same source document (doc_0233)
+- [Kalmus's Reflections on Low-Energy Living](kalmus_reflections_on_low_energy_living.md): same source document (doc_0233)
+- ["No Place Is Safe": Climate Impacts on Kalmus's Life](no_place_is_safe_climate_impacts_on_kalmus_life.md): same source document (doc_0233)
+- [Peter Kalmus, Climate Anxiety and Meditation](peter_kalmus_climate_anxiety_and_meditation.md): same source document (doc_0233)
+- [Peter Kalmus's Profile and Radical Turn](peter_kalmus_profile_and_radical_turn.md): same source document (doc_0233)
+- [Space Mission](term_space_mission.md): uses the concept space mission
 
 ## Source
 

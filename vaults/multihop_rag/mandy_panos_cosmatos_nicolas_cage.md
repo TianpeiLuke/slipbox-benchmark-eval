@@ -13,6 +13,7 @@ Polygon's Toussaint Egan pitches it to readers yearning for more Nicolas Cage-fu
 
 ## Related Notes
 
+
 - [Amazon Proteus Automation Outside the Cage](amazon_proteus_automation_outside_the_cage.md): incidental term overlap on "cage" from an unrelated source document
 - [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): both discuss Nicolas Cage, from a different article
 - [Dream Scenario (Kristoffer Borgli)](dream_scenario_kristoffer_borgli.md): another Nicolas Cage vehicle covered in a separate document
@@ -21,6 +22,8 @@ Polygon's Toussaint Egan pitches it to readers yearning for more Nicolas Cage-fu
 - [Certified Copy (Abbas Kiarostami)](certified_copy_abbas_kiarostami.md): another pick from the same Tubi list
 - [Hoop Dreams (Steve James Documentary)](hoop_dreams_steve_james_documentary.md): a fellow entry in the same free-streaming roundup
 - [Joint Security Area (Park Chan-wook)](joint_security_area_park_chan_wook.md): another film recommended in the same article
+- [Planet Terror (Robert Rodriguez)](planet_terror_robert_rodriguez_grindhouse.md): same source document (doc_0055)
+- [Shadow (Zhang Yimou)](shadow_zhang_yimou_wuxia_film.md): same source document (doc_0055)
 
 ## Source
 

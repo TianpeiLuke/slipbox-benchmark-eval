@@ -15,11 +15,19 @@ And on AirTags: the worst thing about them is that you need something to stick t
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the charging-and-battery accessory theme, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the charging-and-battery theme, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the charging-and-battery theme, from a different source document.
 - [Anker 2-In-1 MagSafe Standby Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): covers competing MagSafe-compatible accessories, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): covers another charging accessory, from a different source document.
+- [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): same source document (doc_0090)
+- [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): same source document (doc_0090)
+- [The Verge's Black Friday Deals Under $25](black_friday_deals_under_25_roundup.md): same source document (doc_0090)
+- [Bluetooth Item Tracker Deals](bluetooth_item_tracker_deals.md): same source document (doc_0090)
+- [Budget Game And Toy Deals](budget_game_and_toy_deals.md): same source document (doc_0090)
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

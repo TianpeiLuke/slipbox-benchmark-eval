@@ -11,6 +11,7 @@ Two further conditions push the same direction. The Eagles' defense played over 
 
 ## Related Notes
 
+
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): covers Chase Young's status with San Francisco, from a different source document.
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): covers Brandon Aiyuk and Deebo Samuel, from a different source document.
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also covers Brock Purdy and Chase Young's future in San Francisco, from a different source document.
@@ -19,6 +20,8 @@ Two further conditions push the same direction. The Eagles' defense played over 
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
 
 ## Source
 

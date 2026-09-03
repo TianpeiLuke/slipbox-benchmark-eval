@@ -13,11 +13,18 @@ The Sporting News read the result through Paraguay's interests: it is far too ea
 
 ## Related Notes
 
+
 - [Argentina vs Paraguay 2026 World Cup Qualifier Preview](argentina_vs_paraguay_2026_world_cup_qualifier_preview.md): another CONMEBOL qualifying document covering the same nations, different source
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): the match these results surrounded, same source document
 - [Argentina First Half Dominance vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): the match itself, same source document
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): how the match was shown, same source document
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): the teams involved, same source document
+- [Argentina's Second Half And Messi's Introduction Against Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): same source document (doc_0534)
+- [Daniel Garnero's Debut As Paraguay Head Coach](daniel_garnero_paraguay_head_coach_debut.md): same source document (doc_0534)
+- [Emiliano Martinez's Argentina Clean-Sheet Record](emiliano_martinez_argentina_clean_sheet_record.md): same source document (doc_0534)
+- [Lautaro Martinez's Form And The Argentina Striker Debate](lautaro_martinez_form_and_argentina_striker_debate.md): same source document (doc_0534)
+- [Messi's Fitness And Inter Miami's Offseason, October 2023](lionel_messi_fitness_and_inter_miami_offseason_october_2023.md): same source document (doc_0534)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

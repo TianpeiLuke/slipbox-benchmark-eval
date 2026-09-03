@@ -11,6 +11,7 @@ House Speaker Ferdinand Martin G. Romualdez noted that the budgeting process was
 
 ## Related Notes
 
+
 - [Texas and Florida Moderation Laws](texas_florida_moderation_laws.md): another note turning on a named House Bill.
 - [A Patent Redesign Must Be More Than a Colorable Difference](a_patent_redesign_must_be_more_than_a_colorable_difference.md): shares a corpus-level content tag with this note.
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): shares a corpus-level content tag with this note.
@@ -19,6 +20,13 @@ House Speaker Ferdinand Martin G. Romualdez noted that the budgeting process was
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares a corpus-level content tag with this note.
 - [Apple AirPods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): shares a corpus-level content tag with this note.
 - [Apple M3 Chip Architecture and GPU Features](apple_m3_chip_architecture_and_gpu_features.md): shares a corpus-level content tag with this note.
+- [Balanced Versus Deficit Budget in Philippine Fiscal Practice](balanced_versus_deficit_budget_in_philippine_fiscal_practice.md): same source document (doc_0306)
+- [Critique of Political Agendas in the Philippine Budget](critique_of_political_agendas_in_the_philippine_budget.md): same source document (doc_0306)
+- [DBM Case for a Surplus Budget Policy](dbm_case_for_a_surplus_budget_policy.md): same source document (doc_0306)
+- [Philippine 2024 Budget Deficit and Debt Trajectory](philippine_2024_budget_deficit_and_debt_trajectory.md): same source document (doc_0306)
+- [Philippine Inflation and Deficit Vicious Cycle](philippine_inflation_and_deficit_vicious_cycle.md): same source document (doc_0306)
+- [Philippine National Government Budget Definition](philippine_national_government_budget_definition.md): same source document (doc_0306)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

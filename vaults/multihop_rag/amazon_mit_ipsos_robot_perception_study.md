@@ -11,11 +11,17 @@ TechCrunch's reporter registers a limitation: human perception of robots is a qu
 
 ## Related Notes
 
+
 - [Amazon's Delivering The Future 2023 Event](amazon_delivering_the_future_2023_event.md): same source document; the announcement set this study belongs to.
 - [Amazon's Agility Digit Humanoid Pilot](amazon_agility_digit_humanoid_pilot.md): same source document; a deployment where worker perception matters.
 - [Cars And Robotics Convergence](cars_and_robotics_convergence.md): overlaps in content on how people think about robots and robotics, from a different source document.
 - [Human-Centric Versus Humanoid Robot Design](human_centric_versus_humanoid_robot_design.md): overlaps in content on designing robots around humans, from a different source document.
 - [Barriers To General-Purpose Robots](barriers_to_general_purpose_robots.md): overlaps in content on industrial robots, from a different source document.
+- [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): content overlap 0.17 on robots, robotics, human; different source document
+- [MIT's Leg Lab And Dynamic Robot Locomotion](mit_leg_lab_robot_locomotion.md): content overlap 0.10 on robots, robotics, professor; different source document
+- [Generative AI In Amazon's Robotics Simulation](amazon_generative_ai_in_robotics_simulation.md): same source document (doc_0528)
+- [Amazon's Greenfield And Brownfield Retrofit Capability](amazon_greenfield_brownfield_retrofit_capability.md): same source document (doc_0528)
+- [Amazon's Industrial Innovation Fund And Agility](amazon_industrial_innovation_fund_and_agility.md): same source document (doc_0528)
 
 ## Source
 

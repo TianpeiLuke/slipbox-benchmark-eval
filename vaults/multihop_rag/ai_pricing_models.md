@@ -15,6 +15,7 @@ The range over which the model holds is bounded by the maturity of the technolog
 
 ## Related Notes
 
+
 - [AMOT Investments Portfolio And War Scenario Assessment](amot_investments_portfolio_and_war_scenario_assessment.md): shares the payment-processor and usage-based-pricing themes, from a different source document.
 - [Enterprise Generative AI Adoption Caution](enterprise_generative_ai_adoption_caution.md): shares the large-language-model and SaaS-pricing themes, from a different source document.
 - [Prediction Limits Of Monolithic LLMs](prediction_limits_of_monolithic_llms.md): shares the cloud-computing and large-language-model themes, from a different source document.
@@ -22,6 +23,13 @@ The range over which the model holds is bounded by the maturity of the technolog
 - [Startup Over-Reliance On OpenAI Proprietary Models](startup_over_reliance_on_openai_proprietary_models.md): shares the cloud-computing and large-language-model themes, from a different source document.
 - [AI Market Spending Forecasts](ai_market_spending_forecasts.md): drawn from the same source document, doc_0161.
 - [AI Startup Defensibility](ai_startup_defensibility.md): drawn from the same source document, doc_0161.
+- [The Four Layers Of The GenAI Tech Stack](llm_stack_layers.md): same source document (doc_0161)
+- [Valor VC's Applied AI Thesis](valor_applied_ai_thesis.md): same source document (doc_0161)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
+- [SaaS Pricing](term_saas_pricing.md): uses the concept saas pricing
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
+- [Cloud Computing](term_cloud_computing.md): uses the concept cloud computing
 
 ## Source
 

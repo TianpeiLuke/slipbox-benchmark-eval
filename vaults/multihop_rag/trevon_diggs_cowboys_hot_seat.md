@@ -11,11 +11,18 @@ The grounds are that in September Diggs suffered a season-ending ACL injury, and
 
 ## Related Notes
 
+
 - [DK Metcalf Week 13 Start Verdict](dk_metcalf_week_13_start_verdict.md): also discusses DaRon Bland at cornerback, from a different document.
 - [Seahawks Fantasy Sit Recommendations Week 13](seahawks_fantasy_sit_recommendations_week_13.md): also discusses Stephon Gilmore, from a different document.
 - [Tyler Lockett Week 13 Flex Verdict](tyler_lockett_week_13_flex_verdict.md): also discusses Stephon Gilmore, from a different document.
 - [Aaron Glenn Lions Hot Seat](aaron_glenn_lions_hot_seat.md): another entry in the same roundup, from the same document.
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): another entry in the same roundup, from the same document.
+- [Christian Watson Packers Hot Seat](christian_watson_packers_hot_seat.md): same source document (doc_0437)
+- [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md): same source document (doc_0437)
+- [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): same source document (doc_0437)
+- [Dennis Allen Saints Hot Seat](dennis_allen_saints_hot_seat.md): same source document (doc_0437)
+- [Desmond Ridder Falcons Hot Seat](desmond_ridder_falcons_hot_seat.md): same source document (doc_0437)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

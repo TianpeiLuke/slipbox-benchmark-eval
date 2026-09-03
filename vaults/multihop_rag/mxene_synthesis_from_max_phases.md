@@ -11,6 +11,7 @@ The classic etchant is a strong acid, commonly hydrofluoric acid — so harsh th
 
 ## Related Notes
 
+
 - [Alabama at Texas A&M, 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): connected through a shared corpus tag rather than subject matter.
 - [Amazon 65-Inch Fire TV QLED Deal](amazon_65_inch_fire_tv_qled_deal.md): connected through a shared corpus tag rather than subject matter.
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): connected through a shared corpus tag rather than subject matter.
@@ -19,6 +20,15 @@ The classic etchant is a strong acid, commonly hydrofluoric acid — so harsh th
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): connected through a shared corpus tag rather than subject matter.
 - [AMC Theatres' Direct Distribution of Concert Films](amc_theatres_direct_distribution_of_concert_films.md): connected through a shared corpus tag rather than subject matter.
 - [American Debt Burden and the New American Dream](american_debt_burden_and_the_new_american_dream.md): connected through a shared corpus tag rather than subject matter.
+- [Carbon Capture Cannot Replace Emissions Cuts](carbon_capture_cannot_replace_emissions_cuts.md): same source document (doc_0247)
+- [MBenes: Boron-Based Nanosheets](mbenes_boron_based_nanosheets.md): same source document (doc_0247)
+- [MXene Family Diversity and Tunability](mxene_family_diversity_and_tunability.md): same source document (doc_0247)
+- [MXene Ink, Films and Deployment Formats](mxene_ink_films_and_deployment_formats.md): same source document (doc_0247)
+- [MXene Nanosheet Structure](mxene_nanosheet_structure.md): same source document (doc_0247)
+- [Practical Limitations of MXene Carbon Capture](practical_limitations_of_mxene_carbon_capture.md): same source document (doc_0247)
+- [Releasing and Converting CO2 Captured by MXenes](releasing_and_converting_co2_captured_by_mxenes.md): same source document (doc_0247)
+- [Why MXenes Capture CO2 Selectively](why_mxenes_capture_co2_selectively.md): same source document (doc_0247)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

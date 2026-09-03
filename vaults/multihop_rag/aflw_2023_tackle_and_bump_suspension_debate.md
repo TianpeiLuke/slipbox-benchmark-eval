@@ -13,6 +13,7 @@ The comparison point is Allen's punishment: she was handed a three-ban suspensio
 
 ## Related Notes
 
+
 - [Erin Phillips' AFLW Retirement](erin_phillips_aflw_retirement.md): also concerns Fox Footy, from a different document.
 - [North Melbourne's 2023 AFLW Top-Four Finish](north_melbourne_2023_aflw_top_four_finish.md): also concerns Fox Footy, from a different document.
 - [Brisbane Lions' 2023 AFLW Top-Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): drawn from the same document (doc_0208).
@@ -21,6 +22,8 @@ The comparison point is Allen's punishment: she was handed a three-ban suspensio
 - [Richelle Cranston's Kidney Disease and Retirement](richelle_cranston_kidney_disease_and_retirement.md): drawn from the same document (doc_0208).
 - [Richmond Tigers' Comeback Win in Cairns, 2023](richmond_tigers_comeback_win_in_cairns_2023.md): drawn from the same document (doc_0208).
 - [St Kilda's 2023 AFLW Finals Near Miss](st_kilda_2023_aflw_finals_near_miss.md): drawn from the same document (doc_0208).
+- [Sydney Swans' First AFLW Finals Berth](sydney_swans_first_aflw_finals_berth.md): same source document (doc_0208)
+- [West Coast Eagles' Upset Win Over Essendon, 2023](west_coast_eagles_upset_win_over_essendon_2023.md): same source document (doc_0208)
 
 ## Source
 

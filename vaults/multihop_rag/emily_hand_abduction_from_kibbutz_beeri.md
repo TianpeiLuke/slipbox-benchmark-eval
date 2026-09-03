@@ -13,6 +13,7 @@ Emily and the others in the family she was staying with hid, like many of the ho
 
 ## Related Notes
 
+
 - [Emily Hand Ninth Birthday In Gaza Captivity](emily_hand_ninth_birthday_in_gaza_captivity.md): same interview, on the birthday spent in captivity
 - [Beeri Kibbutz Casualties And Displaced Residents](beeri_kibbutz_casualties_and_displaced_residents.md): same interview, on what happened to the rest of Be'eri
 - [Bring Them Home Now Hostage Billboard Campaign](bring_them_home_now_hostage_billboard_campaign.md): same interview, on the wider hostage figures
@@ -20,6 +21,8 @@ Emily and the others in the family she was staying with hid, like many of the ho
 - [Israel Hamas War October 2023 Context](israel_hamas_war_october_2023_context.md): overlaps on Gaza, Israel and hostages, from a different document
 - [Gaza Displacement And Casualties October 2023](gaza_displacement_and_casualties_october_2023.md): overlaps on Gaza and Israel, different document
 - [Disinformation On X Gaza](disinformation_on_x_gaza.md): overlaps on Gaza and missile attacks, different document
+- [Hostage Poster Tearing In Midtown Manhattan](hostage_poster_tearing_in_midtown_manhattan.md): same source document (doc_0596)
+- [Thomas Hand's Grief And Irish Background](thomas_hand_grief_and_irish_background.md): same source document (doc_0596)
 
 ## Source
 

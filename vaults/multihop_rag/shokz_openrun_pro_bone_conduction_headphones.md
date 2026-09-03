@@ -13,10 +13,21 @@ The price appears identically across three Engadget roundups: the Prime Day head
 
 ## Related Notes
 
+
 - [Amazon Fire Hd 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): another Prime Big Deal Days listing, different document
 - [Airpods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): comparable earbud discounts, different document
 - [Airpods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): another discounted audio listing, different document
 - [Amazon Fire Tv Stick Deals](amazon_fire_tv_stick_deals.md): another Black Friday discount listing, different document
+- [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares black_friday_cyber_monday, discount_and_msrp; different source document
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): same source document (doc_0404)
+- [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): same source document (doc_0567)
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): same source document (doc_0595)
+- [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): same source document (doc_0567)
+- [Anker Soundcore Liberty 4 NC Earbuds Deal Prices](anker_soundcore_liberty_4_nc_earbuds.md): same source document (doc_0404)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

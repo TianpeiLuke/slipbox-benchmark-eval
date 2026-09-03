@@ -11,6 +11,7 @@ The Royal Swedish Academy of Sciences announced the honour on October 4, and the
 
 ## Related Notes
 
+
 - [Alameda's Special Privileges in FTX Code](alameda_special_privileges_in_ftx_code.md): another item referencing the Massachusetts Institute of Technology.
 - [Laboratory Development of Quantum Dots, 1980s to 1993](laboratory_development_of_quantum_dots_1980s_to_1993.md): another account of the work by Ekimov, Brus and Bawendi.
 - [Multivitamins and Cognition in Older Adults](multivitamins_and_cognition_in_older_adults.md): another item referencing Columbia University.
@@ -18,6 +19,10 @@ The Royal Swedish Academy of Sciences announced the honour on October 4, and the
 - [Nobel Laureates on Basic Research Motivation](nobel_laureates_on_basic_research_motivation.md): another account of the same laureates and their quantum dot work.
 - [Bawendi's Controlled Quantum Dot Synthesis](bawendi_controlled_quantum_dot_synthesis.md): from the same article, on the third laureate's contribution.
 - [Ekimov and Brus's Discovery of Quantum Dots](ekimov_and_brus_discovery_of_quantum_dots.md): from the same article, on the first two laureates' discoveries.
+- [Quantum Dot Applications in Displays, Medicine and Solar](quantum_dot_applications_in_displays_medicine_and_solar.md): same source document (doc_0436)
+- [Quantum Dot Size-Dependent Properties](quantum_dot_size_dependent_properties.md): same source document (doc_0436)
+- [Reactions to the Quantum Dot Nobel](reactions_to_the_quantum_dot_nobel.md): same source document (doc_0436)
+- [Nobel Prize](term_nobel_prize.md): uses the concept nobel prize
 
 ## Source
 

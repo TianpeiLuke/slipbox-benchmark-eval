@@ -11,6 +11,7 @@ On the maritime side, the war may impact Suez Canal trade, a key route between A
 
 ## Related Notes
 
+
 - [AFC 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): also concerns the Middle East, from a different source document.
 - [Anthony Joshua Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): also involves Saudi Arabia, from a different source document.
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also involves Saudi Arabia, from a different source document.
@@ -19,6 +20,7 @@ On the maritime side, the war may impact Suez Canal trade, a key route between A
 - [India Israel Bilateral Trade Exposure 2022 23](india_israel_bilateral_trade_exposure_2022_23.md): drawn from the same article and covers the India-specific trade leg of the disruption.
 - [Israel Hamas Conflict Limited Market Impact Base Case](israel_hamas_conflict_limited_market_impact_base_case.md): drawn from the same article and states the base case in which these channels stay dormant.
 - [Israel Hamas War Full Escalation Scenario](israel_hamas_war_full_escalation_scenario.md): drawn from the same article and supplies the escalation conditions that switch these channels on.
+- [How War Escalation Transmits To Indian Equities](war_escalation_transmission_to_indian_equities.md): same source document (doc_0111)
 
 ## Source
 

@@ -11,6 +11,7 @@ Louis Brus made a compatible but qualified case. He was glad to see recognition 
 
 ## Related Notes
 
+
 - [Bawendi's Controlled Quantum Dot Synthesis](bawendi_controlled_quantum_dot_synthesis.md): overlapping coverage of Brus and quantum dots, from a different source document.
 - [Ekimov And Brus' Discovery Of Quantum Dots](ekimov_and_brus_discovery_of_quantum_dots.md): overlapping coverage of Brus and quantum dots, from a different source document.
 - [Quantum Dot Applications In Displays, Medicine And Solar](quantum_dot_applications_in_displays_medicine_and_solar.md): overlapping coverage of quantum dots and Bawendi, from a different source document.
@@ -19,6 +20,8 @@ Louis Brus made a compatible but qualified case. He was glad to see recognition 
 - [Laboratory Development Of Quantum Dots, 1980s To 1993](laboratory_development_of_quantum_dots_1980s_to_1993.md): drawn from the same source document (doc_0262).
 - [The 2023 Nobel Prize In Chemistry For Quantum Dots](nobel_prize_chemistry_2023_quantum_dots.md): drawn from the same source document (doc_0262).
 - [Nobel Prize Nomination And Selection Procedure](nobel_prize_nomination_and_selection_procedure.md): drawn from the same source document (doc_0262).
+- [The 2023 Nobel Prizes Across Categories](nobel_prizes_2023_across_categories.md): same source document (doc_0262)
+- [The Premature Leak Of The 2023 Chemistry Nobel Announcement](premature_leak_of_2023_chemistry_nobel_announcement.md): same source document (doc_0262)
 
 ## Source
 

@@ -11,12 +11,18 @@ WIRED's general roundup notes it is the most affordable of what Apple touts as i
 
 ## Related Notes
 
+
 - [AliveCor's EKG Import Ban And The PTAB Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): also concerns the Apple Watch, from a different source document.
 - [Apple's Appeal And Stay Prospects On The Watch Ban](apple_appeal_and_stay_prospects_on_the_watch_ban.md): also concerns the Apple Watch, from a different source document.
 - [Apple Holiday 2023 Sale Overview](apple_holiday_2023_sale_overview.md): also concerns the Apple Watch Series, from a different source document.
 - [The Apple-Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): also concerns the Apple Watch and Apple Watch Series, from a different source document.
 - [Apple Watch Double Tap Gesture](apple_watch_double_tap_gesture.md): also concerns the Apple Watch Series, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

@@ -11,6 +11,7 @@ Even so, the relationship generated constant rumours about Swift's personal life
 
 ## Related Notes
 
+
 - [Backlash To Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): separate coverage that also references Joe Alwyn
 - [Swift Effect On NFL Ratings And Kelce Jersey Sales](swift_effect_on_nfl_ratings_and_kelce_jersey_sales.md): covers the dating rumours that followed this breakup
 - [Eras Tour Rio Postponement And Fan Death](eras_tour_rio_postponement_and_fan_death.md): another episode from the same Time profile
@@ -19,6 +20,7 @@ Even so, the relationship generated constant rumours about Swift's personal life
 - [Taylor Swift Attendance At Kansas City Chiefs Games](taylor_swift_attendance_at_kansas_city_chiefs_games.md): the very public relationship that followed, same profile
 - [Taylor Swift Masters Dispute And Taylor's Version Rerecordings](taylor_swift_masters_dispute_and_taylors_version_rerecordings.md): another strand of the same Time profile
 - [Taylor Swift Time 2023 Person Of The Year](taylor_swift_time_2023_person_of_the_year.md): the award coverage this detail was reported within
+- [How Taylor Swift And Travis Kelce's Relationship Began](taylor_swift_travis_kelce_relationship_origin.md): same source document (doc_0046)
 
 ## Source
 

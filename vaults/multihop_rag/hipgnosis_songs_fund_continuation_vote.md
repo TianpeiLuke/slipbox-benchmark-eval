@@ -13,6 +13,7 @@ The changes HSF announced on 28 September invited the question of whether they a
 
 ## Related Notes
 
+
 - [Citrin Cooperman Discount Rate Controversy](citrin_cooperman_discount_rate_controversy.md): concerns the valuation methodology behind the NAV that shareholders were weighing.
 - [Hipgnosis Songs Fund Results Delay December 2023](hipgnosis_songs_fund_results_delay_december_2023.md): a later development at the same fund.
 - [HSF Board Appoints and Oversees Its Own Valuer](hsf_board_appoints_and_oversees_its_own_valuer.md): governance context for the same fund.
@@ -21,6 +22,8 @@ The changes HSF announced on 28 September invited the question of whether they a
 - [Hipgnosis $440 Million Catalog Sale to Hipgnosis Songs Capital](hipgnosis_440_million_catalog_sale_to_hipgnosis_songs_capital.md): the transaction that could influence the vote, from the same report.
 - [Hipgnosis Board Defence of Portfolio Value](hipgnosis_board_defence_of_portfolio_value.md): the board's case to shareholders in the same circular.
 - [Hipgnosis Go-Shop Clause and Rival Bids](hipgnosis_go_shop_clause_and_rival_bids.md): explains how a rival bid could delay this vote into November.
+- [Hipgnosis Investment Advisory Agreement Amendments](hipgnosis_investment_advisory_agreement_amendments.md): same source document (doc_0464)
+- [Hipgnosis Songs Fund Board Changes September 2023](hipgnosis_songs_fund_board_changes_september_2023.md): same source document (doc_0464)
 
 ## Source
 

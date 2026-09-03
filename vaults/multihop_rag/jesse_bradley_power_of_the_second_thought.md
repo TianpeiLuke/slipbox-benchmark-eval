@@ -13,6 +13,7 @@ The concept has a personal source. Bradley graduated from Dartmouth College and 
 
 ## Related Notes
 
+
 - [Pastor Jesse Bradley on Abiding With God](pastor_jesse_bradley_on_abiding_with_god.md): also covers Pastor Jesse Bradley and Grace Community Church, from a different source document.
 - [Building a Daily Prayer Habit](building_a_daily_prayer_habit.md): same sub-plan on faith practice, from a different source document.
 - [The Hallow App's Reported Effect on Users' Faith](hallow_app_reported_effect_on_users_faith.md): same sub-plan on faith practice, from a different source document.
@@ -21,6 +22,7 @@ The concept has a personal source. Bradley graduated from Dartmouth College and 
 - [Reject and Replace Negative First Thoughts](reject_and_replace_negative_first_thoughts.md): drawn from the same source document, doc_0569, and gives the practical method.
 - [Research Linking Positive Thinking to Health](research_linking_positive_thinking_to_health.md): drawn from the same source document, doc_0569.
 - [Scripture as the Source of Renewed Thinking](scripture_as_the_source_of_renewed_thinking.md): drawn from the same source document, doc_0569.
+- [What Positive Thinking Is and Is Not](what_positive_thinking_is_and_is_not.md): same source document (doc_0569)
 
 ## Source
 

@@ -11,6 +11,7 @@ As of MBW's 2023-11-30 report the Act was still the subject of back-and-forth ne
 
 ## Related Notes
 
+
 - [Amazon Response to EU Irobot Objections](amazon_response_to_eu_irobot_objections.md): also discusses European Commission, from a different source document.
 - [Apple Usb C Accessory Transition](apple_usb_c_accessory_transition.md): also discusses European Union, from a different source document.
 - [BEUC Consumer Complaint on Meta's Pay-or-Consent](beuc_consumer_complaint_meta_pay_or_consent.md): another EU regulatory process involving the Commission, from a different source document.
@@ -19,6 +20,8 @@ As of MBW's 2023-11-30 report the Act was still the subject of back-and-forth ne
 - [AI Assisted Works Copyright Eligibility](ai_assisted_works_copyright_eligibility.md): another note drawn from the same source document (doc_0271).
 - [AI-Generated Works Should Not Be Copyrightable](ai_generated_works_should_not_be_copyrightable.md): another policy demand in the same filing (doc_0271).
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): a related argument from the same submission (doc_0271).
+- [AI Training Transparency And Recordkeeping Requirements](ai_training_transparency_and_recordkeeping.md): same source document (doc_0271)
+- [Anthropic's Fair Use Defense For AI Training](anthropic_fair_use_defense_for_ai_training.md): same source document (doc_0271)
 
 ## Source
 

@@ -11,12 +11,18 @@ His grounds were a document in evidence: a 2019 email he sent to all of Google's
 
 ## Related Notes
 
+
 - [Activision 360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): also concerns Google Play, from a different source document.
 - [Amazon Prime Free Games And DLC](amazon_prime_free_games_and_dlc.md): also concerns Star Wars, from a different source document.
 - [Andor On Disney Plus](andor_disney_plus.md): also concerns Star Wars, from a different source document.
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): also concerns Google Play and the Google Play Store, from a different source document.
 - [Beeper Mini Service Restoration And Apple ID Workaround](beeper_mini_service_restoration_and_apple_id_workaround.md): also concerns Google Play, from a different source document.
 - [Activision, Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): drawn from the same source document (doc_0170).
+- [Apple Versus Google: A Contrast In Antitrust Conduct](apple_versus_google_antitrust_conduct_contrast.md): same source document (doc_0170)
+- [Epic Games' 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): same source document (doc_0170)
+- [The Epic Games Store As A General-Purpose App Store](epic_games_store_as_a_general_purpose_app_store.md): same source document (doc_0170)
+- [Epic Games Store Growth And Diversification Beyond Games](epic_games_store_growth_and_diversification_beyond_games.md): same source document (doc_0170)
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
 
 ## Source
 

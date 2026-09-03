@@ -13,6 +13,7 @@ StreamElements' public relations director Chase describes the pattern: "Multipla
 
 ## Related Notes
 
+
 - [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): overlapping Twitch viewership and subscriber subject matter, from a different source document
 - [NFL Thanksgiving Day Games 2023 Viewership](nfl_thanksgiving_day_games_2023_viewership.md): overlapping viewership vocabulary from an unrelated article
 - [Twitch's Investment in Sports Streamers](twitch_investment_in_sports_streamers.md): another Twitch viewership subject from a separate document
@@ -21,6 +22,8 @@ StreamElements' public relations director Chase describes the pattern: "Multipla
 - [Negative Sentiment as Profitable Streaming Discourse](negative_sentiment_as_profitable_streaming_discourse.md): how this visibility shapes discourse, in the same piece
 - [Rising Game Development and Marketing Budgets](rising_game_development_and_marketing_budgets.md): the production economics behind the update treadmill
 - [Streamer Burnout and Extreme Stream Formats](streamer_burnout_and_extreme_stream_formats.md): what the no-pause incentive costs streamers
+- [Streamers Do Not Represent Typical Player Behavior](streamers_do_not_represent_typical_player_behavior.md): same source document (doc_0545)
+- [Tfue (Turner Tenney) and the End of a Fortnite Streaming Era](tfue_turner_tenney_fortnite_streaming_career.md): same source document (doc_0545)
 
 ## Source
 

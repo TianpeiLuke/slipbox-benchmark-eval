@@ -11,6 +11,7 @@ He cut right to the chase about how hastily the card was assembled after months 
 
 ## Related Notes
 
+
 - [Anthony Joshua Fifth Round Stoppage Of Otto Wallin](anthony_joshua_fifth_round_stoppage_of_otto_wallin.md): covers the Joshua result this argument was conditioned on, from a different document.
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also concerns Saudi Arabia, from a different document.
 - [CONMEBOL 2026 Qualifying Broadcast Rights And Channels](conmebol_2026_qualifying_broadcast_rights_and_channels.md): also concerns Saudi Arabia, from a different document.
@@ -19,6 +20,8 @@ He cut right to the chase about how hastily the card was assembled after months 
 - [Anthony Joshua Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): profiles his fighter, from the same document.
 - [Boxing Marination And Upset Risk](boxing_marination_and_upset_risk.md): the risk this strategy runs, from the same document.
 - [Day Of Reckoning Predictions And Picks](day_of_reckoning_predictions_and_picks.md): the picks for the card he assembled, from the same document.
+- [Day Of Reckoning Riyadh Boxing Card](day_of_reckoning_riyadh_boxing_card.md): same source document (doc_0137)
+- [Deontay Wilder Comeback After Fury Trilogy](deontay_wilder_comeback_after_fury_trilogy.md): same source document (doc_0137)
 
 ## Source
 

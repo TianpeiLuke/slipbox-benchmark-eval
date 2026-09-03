@@ -11,6 +11,7 @@ She calls the whole experience a "pinch me" moment, saying The Beatles mean the 
 
 ## Related Notes
 
+
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): shares a corpus topic tag with this note, from a different source document.
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): shares a corpus topic tag with this note, from a different source document.
 - [AI Mass Generated SEO Spam Churn And Burn](ai_mass_generated_seo_spam_churn_and_burn.md): shares a corpus topic tag with this note, from a different source document.
@@ -19,6 +20,17 @@ She calls the whole experience a "pinch me" moment, saying The Beatles mean the 
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): shares a corpus topic tag with this note, from a different source document.
 - [Baldur's Gate 3](baldurs_gate_3.md): shares a corpus topic tag with this note, from a different source document.
 - [Bill Kenwright Tribute At Anfield](bill_kenwright_tribute_at_anfield.md): shares a corpus topic tag with this note, from a different source document.
+- [Capitol's 2023 Frontline Roster Highlights](capitol_2023_frontline_roster_highlights.md): same source document (doc_0212)
+- [Capitol's Hip-Hop And R&B Executive Build-Out](capitol_hip_hop_and_rnb_executive_build_out.md): same source document (doc_0212)
+- [Capitol's International-First, Direct-To-Fan Campaign Model](capitol_international_first_and_direct_to_fan_strategy.md): same source document (doc_0212)
+- [Capitol Music Group's Leadership Turmoil, 2020-2021](capitol_music_group_leadership_turmoil_2020_2021.md): same source document (doc_0212)
+- [Capitol Music Group's Organisational Reset Priorities](capitol_music_group_organisational_reset_priorities.md): same source document (doc_0212)
+- [Jubelirer's Diagnosis Of Capitol's Pre-2021 Decline](capitol_music_group_pre_2021_decline_diagnosis.md): same source document (doc_0212)
+- [Capitol Music Group's Turnaround Results In 2023](capitol_music_group_turnaround_results_2023.md): same source document (doc_0212)
+- [Caroline And Virgin Music Group's Spin-Out From CMG](caroline_virgin_music_group_spin_out_from_cmg.md): same source document (doc_0212)
+- [CMG's Partner Labels: Quality Control And 10K Projects](cmg_partner_labels_quality_control_and_10k_projects.md): same source document (doc_0212)
+- [Doechii's "What It Is (Block Boy)" Campaign](doechii_what_it_is_block_boy_campaign.md): same source document (doc_0212)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

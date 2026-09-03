@@ -11,11 +11,18 @@ Man-of-the-Match Sachin Tendulkar rose to the occasion with 85 runs, Virender Se
 
 ## Related Notes
 
+
 - [Boycott Criticism Of Bairstow And Woakes Selection](boycott_criticism_of_bairstow_and_woakes_selection.md): also concerns Sri Lanka in a cricket context, from a different source document.
 - [England 2023 Cricket World Cup Title Defence Collapse](england_2023_cricket_world_cup_title_defence_collapse.md): also concerns Sri Lanka in a World Cup, from a different source document.
 - [First ODI Cricket World Cup 1975](first_odi_cricket_world_cup_1975.md): covers the tournament's earlier history including Sri Lanka, from a different source document.
 - [India Australia 1983 World Cup Group Matches](india_australia_1983_world_cup_group_matches.md): shares the India, overs and runs match reporting, from a different source document.
 - [India Australia 1987 World Cup Group Matches](india_australia_1987_world_cup_group_matches.md): shares the India, overs and runs match reporting, from a different source document.
+- [ICC ODI World Cup 2023: Knockout Stage And Final](icc_world_cup_2023_knockout_stage_and_final.md): same source document (doc_0133)
+- [India's 1983 World Cup Semi-Final Against England](india_1983_world_cup_semifinal_vs_england.md): same source document (doc_0133)
+- [India's 1987 World Cup Semi-Final Against England](india_1987_world_cup_semifinal_vs_england.md): same source document (doc_0133)
+- [India's 1996 World Cup Semi-Final Against Sri Lanka](india_1996_world_cup_semifinal_vs_sri_lanka.md): same source document (doc_0133)
+- [India's 2003 World Cup Semi-Final Against Kenya](india_2003_world_cup_semifinal_vs_kenya.md): same source document (doc_0133)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

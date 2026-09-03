@@ -13,11 +13,22 @@ OpenAI also extended the platform beyond text. DALL-E 3, its text-to-image model
 
 ## Related Notes
 
+
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the fine penalty, generative AI and model fine tuning theme, from a different source document.
 - [Apple Generative AI Investment Stance](apple_generative_ai_investment_stance.md): shares the earnings report and generative AI theme, from a different source document.
 - [ChatGPT Launch and First Year Evolution](chatgpt_launch_and_first_year_evolution.md): substantial content overlap on gpt-3, openai, dall-e, from a different source document.
 - [ChatGPT Mobile App and Availability Expansion](chatgpt_mobile_app_and_availability_expansion.md): substantial content overlap on openai, chatgpt, developers, from a different source document.
 - [Digital Services Act Obligations for Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): shares the earnings report and fine penalty theme, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): same source document (doc_0048)
+- [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): same source document (doc_0048)
+- [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): same source document (doc_0048)
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Model Fine-Tuning](term_model_fine_tuning.md): uses the concept model fine tuning
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

@@ -11,11 +11,19 @@ The couple were also photographed together away from stadiums, including a date 
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): unrelated NFL coverage of the same Kansas City Chiefs
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): another NFL article covering the Los Angeles Chargers
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): an unrelated article also set in Buenos Aires
 - [Argentina Vs Paraguay 2026 World Cup Qualifier Preview](argentina_vs_paraguay_2026_world_cup_qualifier_preview.md): another Buenos Aires-set article from a different domain
 - [Bills Chargers Week 16 Matchup Preview](bills_chargers_week_16_matchup_preview.md): further coverage of the Chargers from a separate source
+- [The Backlash To Travis Kelce's "Breeder" Remarks](backlash_to_travis_kelce_breeder_remarks.md): same source document (doc_0174)
+- [Taylor Swift's Stated Approach To Public Scrutiny](taylor_swift_approach_to_public_scrutiny.md): same source document (doc_0295)
+- [Taylor Swift's Attendance At Kansas City Chiefs Games](taylor_swift_attendance_at_kansas_city_chiefs_games.md): same source document (doc_0295)
+- [How Taylor Swift And Travis Kelce's Relationship Began](taylor_swift_travis_kelce_relationship_origin.md): same source document (doc_0295)
+- [Travis Kelce's "Breeder" Remarks On The New Heights Podcast](travis_kelce_breeder_remarks_on_new_heights_podcast.md): same source document (doc_0174)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

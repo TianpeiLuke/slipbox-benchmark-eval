@@ -11,9 +11,17 @@ Or Ben Zvi Klein argues prices will not go down because people have learned less
 
 ## Related Notes
 
+
 - [Goldman Sachs Home Price Forecast 2023 2024](goldman_sachs_home_price_forecast_2023_2024.md): concerns whether property prices drop under economic pressure, from a different source document.
 - [MacBook Pro M2 And M1 Generation Deals](macbook_pro_m2_and_m1_generation_deals.md): shares corpus discount and pricing tags, from a different source document.
 - [AI21 Labs Tel Aviv Office Lease](ai21_labs_tel_aviv_office_lease.md): drawn from the same article and gives the rent benchmark set before the war.
+- [Amot Investments' Portfolio And War Scenario Assessment](amot_investments_portfolio_and_war_scenario_assessment.md): same source document (doc_0217)
+- [Azrieli Group's Office Portfolio In Q3 2023](azrieli_group_office_portfolio_q3_2023.md): same source document (doc_0217)
+- [Israeli Office Demand Recovery After October 7](israel_office_demand_recovery_after_october_7.md): same source document (doc_0217)
+- [Israel's Office Space Oversupply](israel_office_space_oversupply.md): same source document (doc_0217)
+- [The Naimi Park Office Development At Messubim](naimi_park_office_development_messubim.md): same source document (doc_0217)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
 
 ## Source
 

@@ -11,6 +11,7 @@ Reece James was a constant menace to Blackburn's defence as he started for the f
 
 ## Related Notes
 
+
 - [Chelsea 4-4 Manchester City Stamford Bridge](chelsea_4_4_manchester_city_stamford_bridge.md): also discusses Reece James, from a different document.
 - [Chelsea Arsenal Derby Team News October 2023](chelsea_arsenal_derby_team_news_october_2023.md): also discusses Reece James, from a different document.
 - [Jos Buttler Reaction To Sri Lanka Defeat 2023](jos_buttler_reaction_to_sri_lanka_defeat_2023.md): overlaps on captaincy comments, from a different document.
@@ -19,6 +20,7 @@ Reece James was a constant menace to Blackburn's defence as he started for the f
 - [Blackburn Rovers Decline And Youthful Selection](blackburn_rovers_decline_and_youthful_selection.md): profiles the opponent he faced, from the same document.
 - [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md): the draw this win fed into, from the same document.
 - [Chelsea 2-0 Blackburn Carabao Cup Last 16](chelsea_2_0_blackburn_carabao_cup_last_16.md): the match report, from the same document.
+- [Cole Palmer Chelsea Performance Vs Blackburn](cole_palmer_chelsea_performance_vs_blackburn.md): same source document (doc_0101)
 
 ## Source
 

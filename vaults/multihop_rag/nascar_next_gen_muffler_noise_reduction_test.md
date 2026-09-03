@@ -11,6 +11,7 @@ Kyle Larson told reporters he did not notice a difference in cockpit cooling wit
 
 ## Related Notes
 
+
 - [Autosport Top 50 Drivers 2023 NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): also discusses Kyle Larson, from a different document.
 - [Dale Earnhardt Jr. Visit To High Limit Commonwealth Clash](dale_earnhardt_jr_visit_to_high_limit_commonwealth_clash.md): also discusses Kyle Larson, from a different document.
 - [Echo Frames Audio Leakage In Quiet Spaces](echo_frames_audio_leakage_in_quiet_spaces.md): overlaps on loudness and quietness judgments, from a different document.
@@ -19,6 +20,8 @@ Kyle Larson told reporters he did not notice a difference in cockpit cooling wit
 - [Aric Almirola Joe Gibbs Racing Xfinity Move](aric_almirola_joe_gibbs_racing_xfinity_move.md): another storyline in the same roundup, from the same document.
 - [Kaulig Racing No. 16 2024 Driver Uncertainty](kaulig_racing_no_16_2024_driver_uncertainty.md): another storyline in the same roundup, from the same document.
 - [NASCAR 2024 Offseason Preparation Window](nascar_2024_offseason_preparation_window.md): the framing for this roundup, from the same document.
+- [NASCAR 2024 Spotter Changes Elliott And Blaney](nascar_2024_spotter_changes_elliott_and_blaney.md): same source document (doc_0487)
+- [NASCAR Phoenix Next Gen Short Track Test](nascar_phoenix_next_gen_short_track_test.md): same source document (doc_0487)
 
 ## Source
 

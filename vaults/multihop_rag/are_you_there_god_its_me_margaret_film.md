@@ -13,6 +13,7 @@ Fremon Craig previously wrote and directed The Edge of Seventeen, so she knows h
 
 ## Related Notes
 
+
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): another film from the same best-of-2023 list
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): a fellow entry on the same ranked list
 - [Barbenheimer Summer 2023 Phenomenon](barbenheimer_summer_2023_phenomenon.md): the year-in-review framing published with this list
@@ -21,6 +22,8 @@ Fremon Craig previously wrote and directed The Edge of Seventeen, so she knows h
 - [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): another film from the same list
 - [Creed III (Michael B. Jordan)](creed_iii_michael_b_jordan.md): another 2023 release from the same document
 - [Dream Scenario (Kristoffer Borgli)](dream_scenario_kristoffer_borgli.md): another entry in the same best-of-2023 roundup
+- [Dungeons & Dragons: Honor Among Thieves](dungeons_and_dragons_honor_among_thieves.md): same source document (doc_0094)
+- [Earth Mama (Savanah Leaf)](earth_mama_savanah_leaf.md): same source document (doc_0094)
 
 ## Source
 

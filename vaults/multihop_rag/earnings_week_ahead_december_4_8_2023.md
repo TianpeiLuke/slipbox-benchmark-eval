@@ -11,10 +11,18 @@ The companies scheduled to release financial figures that week included NIO (NYS
 
 ## Related Notes
 
+
 - [Chevron and Exxon Mobil Q3 2023 Earnings Preview](chevron_and_exxon_mobil_q3_2023_earnings_preview.md): overlaps on NYSE-listed companies announcing earnings, from a different source document.
 - [Cleveland-Cliffs Q3 2023 Earnings Preview](cleveland_cliffs_q3_2023_earnings_preview.md): another NYSE earnings-announcement preview of the same kind, from a different source document.
 - [Q3 2023 Earnings Week October 23-27 Overview](q3_2023_earnings_week_october_23_27_overview.md): the equivalent week-ahead roll-up of NYSE and Nasdaq earnings for an earlier reporting week, from a different source document.
 - [Thanksgiving 2023 Stores Open on the Holiday](thanksgiving_2023_stores_open_on_the_holiday.md): also covers Dollar General, one of the retailers on this week's slate, from a different source document.
+- [Broadcom Q4 Earnings Preview and VMware Integration](broadcom_q4_fy2023_earnings_preview_and_vmware_integration.md): same source document (doc_0581)
+- [December 2023 Earnings Week Secondary Reporters](december_2023_earnings_week_secondary_reporters.md): same source document (doc_0581)
+- [DocuSign Q3 Earnings Preview, December 2023](docusign_q3_fy2024_earnings_preview.md): same source document (doc_0581)
+- [GameStop Meme Stock Rally, December 2023](gamestop_meme_stock_rally_december_2023.md): same source document (doc_0581)
+- [GameStop Q3 Earnings Preview, December 2023](gamestop_q3_fy2023_earnings_preview.md): same source document (doc_0581)
+- [GitLab Q3 Earnings Preview, December 2023](gitlab_q3_fy2024_earnings_preview.md): same source document (doc_0581)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

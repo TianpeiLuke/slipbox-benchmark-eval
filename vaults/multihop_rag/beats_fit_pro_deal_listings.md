@@ -11,12 +11,18 @@ The Verge describes them as the latest fitness earbuds from Apple, offering a sp
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): overlapping coverage of AirPods sound and active noise cancellation, from a different source document.
 - [Apple AirPods 2nd Gen Holiday Deal](apple_airpods_2nd_gen_holiday_deal.md): overlapping coverage of AirPods conveniences and sound, from a different source document.
 - [Apple AirPods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): overlapping coverage of AirPods, the iPhone and charging, from a different source document.
 - [Apple AirPods Second Generation](apple_airpods_second_generation.md): overlapping coverage of how Apple's AirPods work, from a different source document.
 - [Audio-Technica ATH-M20xBT Deal](audio_technica_ath_m20xbt_deal.md): overlapping coverage of comfortable headphones and connectivity, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0600).
+- [Amazon Echo Buds Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): same source document (doc_0369)
+- [Anker 2-In-1 MagSafe StandBy Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): same source document (doc_0600)
+- [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): same source document (doc_0600)
+- [Anker 3-In-1 MagSafe Charging Dock Deal Listings](anker_3_in_1_magsafe_charging_dock_deal_listings.md): same source document (doc_0600)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

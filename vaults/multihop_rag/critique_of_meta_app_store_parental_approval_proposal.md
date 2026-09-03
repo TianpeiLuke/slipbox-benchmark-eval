@@ -13,11 +13,17 @@ Sacha Haworth, executive director of the Tech Oversight Project, a nonprofit dev
 
 ## Related Notes
 
+
 - [The AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also discusses Mark Zuckerberg, from a different document.
 - [Apple Watch ITC Import Ban And Preemptive Sales Halt](apple_watch_itc_import_ban_and_preemptive_sales_halt.md): another Big Tech accountability story, from a different document.
 - [Big Tech Antitrust Outlook](big_tech_antitrust_outlook.md): shares the Big Tech oversight theme, from a different document.
 - [Big Tech Declines And Amazon FTC Antitrust Lawsuit](big_tech_declines_and_amazon_ftc_antitrust_lawsuit.md): shares the Big Tech oversight theme, from a different document.
 - [ChatGPT Third-Party Integrations And Ecosystem](chatgpt_third_party_integrations_and_ecosystem.md): shares the Big Tech platform theme, from a different document.
+- [Meta's Proposal: Parental Approval For App Downloads At The App Store](meta_proposal_app_store_parental_approval.md): same source document (doc_0141)
+- [Arturo Bejar's Critique Of Meta's Teen Safety Self-Regulation](meta_teen_safety_self_regulation_and_bejar_critique.md): same source document (doc_0141)
+- [The 42-State Lawsuit Against Meta Over Harms To Young Users](multistate_lawsuit_against_meta_teen_harms.md): same source document (doc_0141)
+- [The State Patchwork Of Teen Social Media Laws](state_patchwork_of_teen_social_media_laws.md): same source document (doc_0141)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

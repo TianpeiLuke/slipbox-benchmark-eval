@@ -11,6 +11,7 @@ The operative test she described was backwards-looking rather than about quality
 
 ## Related Notes
 
+
 - [Don McLean's Christmas Memories Album](don_mclean_christmas_memories_album.md): overlapping subject matter about songs and album construction, from another document
 - [Global Hits Without Major Label Deals](global_hits_without_major_label_deals.md): overlapping discussion of songs and albums, from a different source
 - [Tate McRae Think Later Album Review](tate_mcrae_think_later_album_review.md): overlapping discussion of album-making, from a different source
@@ -19,6 +20,8 @@ The operative test she described was backwards-looking rather than about quality
 - [Blank Space](blank_space_taylor_swift_song.md): from the same BBC article on 1989
 - [Clean, Written With Imogen Heap](clean_taylor_swift_song_imogen_heap.md): from the same BBC article on 1989
 - [How You Get The Girl](how_you_get_the_girl_taylor_swift_song.md): from the same BBC article on 1989
+- [I Know Places: A Love Song About Hiding From The Cameras](i_know_places_taylor_swift_song.md): same source document (doc_0257)
+- [I Wish You Would: A 2am Song Whose Real Story Runs In Reverse](i_wish_you_would_taylor_swift_song.md): same source document (doc_0257)
 
 ## Source
 

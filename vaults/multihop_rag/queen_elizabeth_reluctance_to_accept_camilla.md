@@ -13,6 +13,7 @@ The relationship changed over time. The Queen grew to become closer to Camilla, 
 
 ## Related Notes
 
+
 - [Netflix Originals Premiering 14-16 November 2023](netflix_originals_premiering_november_14_to_16_2023.md): also concerns Queen Elizabeth, from a different source document.
 - [Vincent Namatjira's Guerilla Humour](vincent_namatjira_guerilla_humour_portrait_practice.md): also concerns Queen Elizabeth, from a different source document.
 - [Vincent Namatjira Painting Royals on Country](vincent_namatjira_painting_royals_on_country.md): also concerns Queen Elizabeth, from a different source document.
@@ -21,6 +22,8 @@ The relationship changed over time. The Queen grew to become closer to Camilla, 
 - [Diana and the Paparazzi on the Fayed Yacht](diana_and_the_paparazzi_on_the_fayed_yacht.md): drawn from the same source document, doc_0265.
 - [Dodi Fayed's Engagement Ring on the Night of the Crash](dodi_fayed_engagement_ring_night_of_the_crash.md): drawn from the same source document, doc_0265.
 - [Kelly Fisher's Engagement to Dodi Fayed](kelly_fisher_engagement_to_dodi_fayed.md): drawn from the same source document, doc_0265.
+- [Mohamed Al Fayed and the Dodi-Diana Kiss Photo](mohamed_al_fayed_and_the_dodi_diana_kiss_photo.md): same source document (doc_0265)
+- [Prince William at Balmoral After Diana's Death](prince_william_at_balmoral_after_dianas_death.md): same source document (doc_0265)
 
 ## Source
 

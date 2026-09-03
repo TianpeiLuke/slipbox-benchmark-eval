@@ -15,6 +15,7 @@ Tasmania had led throughout. They burst out to a double-figure lead by piling on
 
 ## Related Notes
 
+
 - [Brisbane Bullets Beat Tasmania JackJumpers NBL Round 5](brisbane_bullets_beat_tasmania_jackjumpers_nbl_round_5.md): the next round for Tasmania, covering Jordon Crawford and Majok Deng
 - [Cairns Taipans Beat Sydney Kings and Patrick Miller Injury](cairns_taipans_beat_sydney_kings_and_patrick_miller_injury.md): the Kings' next game, covering Jaylen Adams and Mahmoud Abdelfattah
 - [Melbourne United Beat Tasmania JackJumpers in Hobart Round 5](melbourne_united_beat_tasmania_jackjumpers_in_hobart_round_5.md): another Tasmania game covering Crawford and Milton Doyle
@@ -23,6 +24,8 @@ Tasmania had led throughout. They burst out to a double-figure lead by piling on
 - [Aron Baynes Suspension Brisbane Bullets 2023](aron_baynes_suspension_brisbane_bullets_2023.md): another story in the same round-up, same source document
 - [Dejan Vasiljevic Transfer Dispute Between Kings and 36ers](dejan_vasiljevic_transfer_dispute_between_kings_and_36ers.md): the Kings roster dispute in the same round-up, same source document
 - [Melbourne United Beat Illawarra Hawks in Wollongong Round 4](melbourne_united_beat_illawarra_hawks_in_wollongong_round_4.md): another round 4 result, same source document
+- [Melbourne United Beat New Zealand 97-88 In Round 4](melbourne_united_beat_new_zealand_breakers_round_4.md): same source document (doc_0406)
+- [Phoenix Beat Adelaide 102-85 At The Entertainment Centre](south_east_melbourne_phoenix_beat_adelaide_36ers_round_4.md): same source document (doc_0406)
 
 ## Source
 

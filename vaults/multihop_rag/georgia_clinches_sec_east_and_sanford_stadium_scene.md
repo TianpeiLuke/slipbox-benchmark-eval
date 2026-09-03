@@ -11,6 +11,7 @@ The scene in Athens matched the occasion. At 6:35 p.m. the celebrities had arriv
 
 ## Related Notes
 
+
 - [Kentucky at Georgia 2023 Week 6 Betting Line](kentucky_at_georgia_2023_week6_betting_line.md): also discusses Kirby Smart, from a different document.
 - [Brock Bowers' Return from TightRope Surgery](brock_bowers_return_from_tightrope_surgery.md): the returning player's final home game, from the same document.
 - [Georgia 52-17 Ole Miss: Week 11 Recap](georgia_52_17_ole_miss_week_11_recap.md): the game played on this occasion, from the same document.
@@ -19,6 +20,8 @@ The scene in Athens matched the occasion. At 6:35 p.m. the celebrities had arriv
 - [Interceptions by Bullard and Daijahn Anthony](interceptions_by_bullard_and_daijahn_anthony.md): the turnovers in the same game, from the same document.
 - [Kendall Milton's Career-High Rushing Night](kendall_milton_career_high_rushing_night.md): the individual milestone set on this night, from the same document.
 - [Ole Miss-Georgia Broadcast and Kickoff Details](ole_miss_georgia_broadcast_and_kickoff_details.md): the broadcast details for the same game, from the same document.
+- [Ole Miss-Georgia: Late Scoring And The Final Whistle](ole_miss_georgia_fourth_quarter_scoring.md): same source document (doc_0484)
+- [Ole Miss' Stalled Drives And Jaxson Dart's Injury](ole_miss_stalled_drives_and_jaxson_dart_injury.md): same source document (doc_0484)
 
 ## Source
 

@@ -11,6 +11,7 @@ The piece characterises what has taken its place: trust in God in recent decades
 
 ## Related Notes
 
+
 - [Youth Distrust Of Legacy News Media](youth_distrust_of_legacy_news_media.md): another survey-based account of declining trust, from a different source
 - [Bankman-Fried And Zhao Convictions And Binance Aftermath](bankman_fried_and_zhao_convictions_and_binance_aftermath.md): shares a topic tag with this note across the corpus
 - [BetMGM Vermont Sportsbook Welcome Offer](betmgm_vermont_sportsbook_welcome_offer.md): shares a topic tag with this note across the corpus
@@ -19,6 +20,11 @@ The piece characterises what has taken its place: trust in God in recent decades
 - [Caesars Vermont Sportsbook Welcome Offer](caesars_vermont_sportsbook_welcome_offer.md): shares a topic tag with this note across the corpus
 - [Canada Jamaica Second Leg, Second Half](canada_jamaica_second_leg_second_half.md): shares a topic tag with this note across the corpus
 - [Castlevania: Nocturne Surpasses The Original Netflix Series](castlevania_nocturne_surpasses_the_original_netflix_series.md): shares a topic tag with this note across the corpus
+- ["In God We Trust": Origins In Scripture And The Founding Documents](in_god_we_trust_motto_origins_and_founding_documents.md): same source document (doc_0501)
+- ["In God We Trust" On Currency, In The Anthem And In The Courts](in_god_we_trust_on_us_currency_and_courts.md): same source document (doc_0501)
+- [Lost Guiding Light: How Faith's Decline Is Said To Produce Social Decay](loss_of_faith_as_driver_of_social_decay.md): same source document (doc_0501)
+- [Pastor Jesse Bradley: The Motto Matters Less Than What Is Written On Hearts](pastor_jesse_bradley_on_abiding_with_god.md): same source document (doc_0501)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

@@ -11,6 +11,7 @@ Ranking goes beyond looking for sites containing the words typed in: the system 
 
 ## Related Notes
 
+
 - [The Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): part of the same account of US v. Google, search defaults and search quality, from a different source document.
 - [Apple's Privacy Stance Versus Google's Default Payments](apple_privacy_stance_versus_google_default_payments.md): part of the same account of US v. Google, search defaults and search quality, from a different source document.
 - [Closed Sessions Limited The Public Record Of Cue's Testimony](closed_sessions_limited_the_public_record_of_cue_testimony.md): part of the same account of US v. Google, search defaults and search quality, from a different source document.
@@ -19,6 +20,8 @@ Ranking goes beyond looking for sites containing the words typed in: the system 
 - [Google's Defense That Search Defaults Are Easy To Change](google_defense_that_search_defaults_are_easy_to_change.md): drawn from the same source document (doc_0032).
 - [Google's Denial That Ad Keyword Matching Affects Organic Results](google_denial_that_ad_keyword_matching_affects_organic_results.md): drawn from the same source document (doc_0032).
 - [Hands-On Comparison Of Google, Bing And DuckDuckGo Search](hands_on_comparison_of_google_bing_and_duckduckgo_search.md): drawn from the same source document (doc_0032).
+- [Search Quality Complaints Explained By Data Volume Growth](search_quality_complaints_explained_by_data_volume_growth.md): same source document (doc_0032)
+- [Wired's Retracted Claim That Google Manipulates Search Queries](wired_retracted_claim_that_google_manipulates_search_queries.md): same source document (doc_0032)
 
 ## Source
 

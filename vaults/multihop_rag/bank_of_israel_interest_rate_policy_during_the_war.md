@@ -13,11 +13,18 @@ His second ground extends his fiscal reasoning to monetary policy: as with fisca
 
 ## Related Notes
 
+
 - [Case for Raising the Inflation Target](case_for_raising_the_inflation_target.md): a parallel argument about tolerating deviation from an inflation target.
 - [Monetary and Fiscal Policy Coordination Debate](monetary_and_fiscal_policy_coordination_debate.md): the same question of how the two policy arms should interact.
 - [Philippine Debt and Fiscal Consolidation](philippine_debt_and_fiscal_consolidation.md): another case of policy weighed against stability.
 - [Philippine Inflation and Deficit Vicious Cycle](philippine_inflation_and_deficit_vicious_cycle.md): the inflation-deficit interaction in another economy.
 - [Treasury Yields and Fed Higher for Longer](treasury_yields_and_fed_higher_for_longer.md): a comparable central-bank rate-path judgement.
+- [Bank of Israel Thirty Billion Dollar FX Intervention](bank_of_israel_thirty_billion_dollar_fx_intervention.md): same source document (doc_0125)
+- [Fiscal Cost Channels of the Israel-Gaza War](fiscal_cost_channels_of_the_israel_gaza_war.md): same source document (doc_0125)
+- [Israeli Economy in the First Week of the Gaza War](israeli_economy_in_the_first_week_of_the_gaza_war.md): same source document (doc_0125)
+- [Israeli Post-War Economic Rehabilitation Planning Proposal](israeli_post_war_economic_rehabilitation_planning_proposal.md): same source document (doc_0125)
+- [Israeli Sectors Most Exposed to War Damage](israeli_sectors_most_exposed_to_war_damage.md): same source document (doc_0125)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
 
 ## Source
 

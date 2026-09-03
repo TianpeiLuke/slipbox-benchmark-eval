@@ -13,6 +13,7 @@ The boundary of the category is drawn explicitly: fights that finish in a terrib
 
 ## Related Notes
 
+
 - [Anthony Joshua's Mental Rebuild After Usyk and Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): also concerns Tyson Fury, from a different document.
 - [Boxing Marination and Upset Risk](boxing_marination_and_upset_risk.md): overlaps on boxing fighters and fights, from a different document.
 - [Day of Reckoning Card and the Heavyweight Unification Path](day_of_reckoning_card_and_heavyweight_unification_path.md): also concerns Tyson Fury, from a different document.
@@ -21,6 +22,8 @@ The boundary of the category is drawn explicitly: fights that finish in a terrib
 - [Adolpho Washington vs Virgil Hill, 1993: The Camera Stoppage](adolpho_washington_virgil_hill_1993_camera_stoppage.md): drawn from the same document (doc_0228).
 - [Bernard Hopkins vs Robert Allen, 1998: The Referee's Fall](bernard_hopkins_robert_allen_1998_referee_fall.md): drawn from the same document (doc_0228).
 - [Efe Ajagba vs Curtis Harper, 2018: The Walkout](efe_ajagba_curtis_harper_2018_walkout.md): drawn from the same document (doc_0228).
+- [Kermit Cintron vs Paul Williams, 2004: The Ring Exit](kermit_cintron_paul_williams_2004_ring_exit.md): same source document (doc_0228)
+- [Mayweather vs Ortiz, 2011: The Knockout After The Headbutt](mayweather_ortiz_2011_knockout_after_headbutt.md): same source document (doc_0228)
 
 ## Source
 

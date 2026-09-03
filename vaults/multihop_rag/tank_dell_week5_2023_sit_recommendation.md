@@ -13,6 +13,7 @@ The scope conditions are spelled out. If the game is low-scoring, or a one-sided
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another "Sit Him" verdict in the same weekly-decision format, from a different document.
 - [Chiefs Packers Week 13 First Half Sequence](chiefs_packers_week_13_first_half_sequence.md): also discusses Christian Watson, one of the receivers preferred to Dell, from a different document.
 - [Chiefs Packers Week 13 Fourth Quarter Sequence](chiefs_packers_week_13_fourth_quarter_sequence.md): also discusses Romeo Doubs, another preferred alternative, from a different document.
@@ -21,6 +22,8 @@ The scope conditions are spelled out. If the game is low-scoring, or a one-sided
 - [Brock Purdy Fantasy Outlook Weeks 5 And 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another lineup call from the same Week 5 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this sit call applies, from the same column.
 - [Dallas Goedert Week 5 2023 Bust Warning](dallas_goedert_week5_2023_bust_warning.md): another lineup call from the same Week 5 column.
+- [Dameon Pierce As A Week 5 2023 Sit At Atlanta](dameon_pierce_week5_2023_sit_recommendation.md): same source document (doc_0058)
+- [DeAndre Hopkins As A Week 5 2023 Start At Indianapolis](deandre_hopkins_week5_2023_start_recommendation.md): same source document (doc_0058)
 
 ## Source
 

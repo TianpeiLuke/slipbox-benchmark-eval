@@ -13,6 +13,7 @@ The same caution is then applied to the competing bacterial claim rather than on
 
 ## Related Notes
 
+
 - [Influenza Secondary Bacterial Infection Mechanism](influenza_secondary_bacterial_infection_mechanism.md): shares viral, illness and respiratory vocabulary, from a different source article.
 - [Objections to X Bot Fee](objections_to_x_bot_fee.md): also cites Cornell University, though in an unrelated article.
 - [AKC Owner and Vet Action Guidance for Canine Illness](akc_owner_and_vet_action_guidance_canine_illness.md): what owners and vets should do while the cause remains unsettled, from the same Yahoo News report (doc_0565).
@@ -21,6 +22,8 @@ The same caution is then applied to the competing bacterial claim rather than on
 - [Canine Illness True Case Count Likely in the Thousands](canine_illness_true_case_count_likely_thousands.md): the parallel uncertainty about how many dogs are affected, from the same report (doc_0565).
 - [Canine Respiratory Illness State Case Reports 2023](canine_respiratory_illness_state_case_reports_2023.md): the state reports, including the Oregon testing this objection draws on, from the same report (doc_0565).
 - [Canine Respiratory Illness Three Clinical Presentations](canine_respiratory_illness_three_clinical_presentations.md): the symptom picture that prompted the viral reading, from the same report (doc_0565).
+- [Holiday Kennel and Dog Park Avoidance Guidance](holiday_kennel_and_dog_park_avoidance_guidance.md): same source document (doc_0565)
+- [House Sitter and Dog Walker as a Boarding Alternative](house_sitter_dog_walker_boarding_alternative.md): same source document (doc_0565)
 
 ## Source
 

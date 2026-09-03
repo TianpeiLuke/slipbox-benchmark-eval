@@ -11,11 +11,18 @@ Much like the Patriots, the Steelers offense would want to establish the ground 
 
 ## Related Notes
 
+
 - [Cardinals 24-10 Steelers, Week 13](cardinals_24_10_steelers_week_13.md): covers the Pittsburgh quarterback situation behind this Trubisky start, from a different document.
 - [Fantasy RB PPR Rankings Week 14 Full List](fantasy_rb_ppr_rankings_week_14_full_list.md): also ranks Najee Harris, from a different document.
 - [Fantasy RB Standard Rankings Week 14 Full List](fantasy_rb_standard_rankings_week_14_full_list.md): also ranks Najee Harris, from a different document.
 - [Fantasy RB Week 14 Sleepers, PPR](fantasy_rb_week_14_sleepers_ppr.md): also covers Najee Harris, from a different document.
 - [Fantasy Week 13 Cardinals at Steelers Outlook](fantasy_week_13_cardinals_at_steelers_outlook.md): also covers Najee Harris, from a different document.
+- [DraftKings Showdown And FanDuel Single-Game Scoring Rules](draftkings_showdown_and_fanduel_single_game_scoring_rules.md): same source document (doc_0583)
+- [Ezekiel Elliott As The FanDuel MVP Pick](ezekiel_elliott_patriots_lead_back_fanduel_mvp.md): same source document (doc_0583)
+- [Defense And Kicker Plays For A Low-Scoring Patriots-Steelers Game](patriots_steelers_defense_and_kicker_low_scoring_plays.md): same source document (doc_0583)
+- [The Patriots-Steelers SuperDraft Single-Game Lineup](patriots_steelers_superdraft_single_game_lineup.md): same source document (doc_0583)
+- [Patriots-Steelers Week 14 Thursday Night Context](patriots_steelers_week_14_thursday_night_context.md): same source document (doc_0583)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

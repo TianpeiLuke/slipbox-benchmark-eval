@@ -11,6 +11,7 @@ John Praveen, managing director and co-chief investment officer at Paleo Leon, s
 
 ## Related Notes
 
+
 - [Afc 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): also discusses Middle East, from a different source document.
 - [Cairo Diplomatic Surge and Summit for Peace 2023](cairo_diplomatic_surge_and_summit_for_peace_2023.md): the diplomatic track of the same conflict, from a different source document.
 - [Cristiano Ronaldo Al Nassr Move and 2023 Goal Tally](cristiano_ronaldo_al_nassr_move_and_2023_goal_tally.md): also discusses Middle East, from a different source document.
@@ -19,6 +20,8 @@ John Praveen, managing director and co-chief investment officer at Paleo Leon, s
 - [Asx October 2023 Laggards](asx_october_2023_laggards.md): another note drawn from the same source document (doc_0298).
 - [ASX Rally Drivers: Bond Market and China Stimulus](asx_rally_drivers_bond_market_and_china_stimulus.md): the local rally that held despite the risk (doc_0298).
 - [Fed Dovish Comments and Yield Retreat October 2023](fed_dovish_comments_and_yield_retreat_october_2023.md): the bond-yield driver Praveen weighed against the conflict (doc_0298).
+- [Melbourne CBD Confidence And The New Fair Work Ombudsman On Wage Underpayment](melbourne_cbd_confidence_and_wage_underpayment.md): same source document (doc_0298)
+- [US Equity Sector Moves On 10 October 2023](us_equity_sector_moves_october_2023.md): same source document (doc_0298)
 
 ## Source
 

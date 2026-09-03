@@ -13,6 +13,7 @@ By round 5, reported Oct. 26, the Bullets had adapted: despite being without Bay
 
 ## Related Notes
 
+
 - [Adelaide 36ers Beat Perth Wildcats Round 4](adelaide_36ers_beat_perth_wildcats_round_4.md): another result in the round 4 round-up, same source document
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): another result in the round 5 round-up, same source document
 - [Brisbane Bullets Beat Perth Wildcats NBL Round 5](brisbane_bullets_beat_perth_wildcats_nbl_round_5.md): the first Bullets win without Baynes, same source document
@@ -21,6 +22,8 @@ By round 5, reported Oct. 26, the Bullets had adapted: despite being without Bay
 - [Dejan Vasiljevic Transfer Dispute Between Kings and 36ers](dejan_vasiljevic_transfer_dispute_between_kings_and_36ers.md): another roster story in the round 4 round-up, same source document
 - [Melbourne United Beat Illawarra Hawks in Wollongong Round 4](melbourne_united_beat_illawarra_hawks_in_wollongong_round_4.md): another round 4 result, same source document
 - [Melbourne United Beat Illawarra Hawks NBL Round 5](melbourne_united_beat_illawarra_hawks_nbl_round_5.md): another round 5 result, same source document
+- [Melbourne United Beat New Zealand 97-88 In Round 4](melbourne_united_beat_new_zealand_breakers_round_4.md): same source document (doc_0406)
+- [Melbourne United Beat Tasmania 90-82 In Hobart](melbourne_united_beat_tasmania_jackjumpers_in_hobart_round_5.md): same source document (doc_0240)
 
 ## Source
 

@@ -13,6 +13,7 @@ Each is class agnostic, meaning no power is unique to any one class. Polygon sta
 
 ## Related Notes
 
+
 - [English-Language Vampire Fiction Lineage](english_language_vampire_fiction_lineage.md): incidental "vampiric" term overlap from an unrelated source document
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): shares the game-patch-notes topic tag
 - [Apple AirPods Pro Second Generation](apple_airpods_pro_second_generation.md): shares a topic tag from a different document
@@ -21,6 +22,15 @@ Each is class agnostic, meaning no power is unique to any one class. Polygon sta
 - [ASX Rally: Drivers, Bond Market and China Stimulus](asx_rally_drivers_bond_market_and_china_stimulus.md): shares a topic tag from a different financial article
 - [Atlassian Critical Security Flaw Warning](atlassian_critical_security_flaw_warning.md): shares a topic tag from an unrelated document
 - [Balderton's Investment Thesis on Scalable Capital](balderton_investment_thesis_on_scalable_capital.md): shares a topic tag from a separate source
+- [The Barbarian Class in Diablo 4](diablo_4_barbarian_class.md): same source document (doc_0123)
+- [Diablo 4 Barbarian Double Swing Endgame Build](diablo_4_barbarian_double_swing_endgame_build.md): same source document (doc_0123)
+- [Diablo 4 Barbarian Key Passive Build Archetypes](diablo_4_barbarian_key_passive_build_archetypes.md): same source document (doc_0123)
+- [Diablo 4 Barbarian Leveling Build](diablo_4_barbarian_leveling_build.md): same source document (doc_0123)
+- [The Sorcerer Class in Diablo 4](diablo_4_sorcerer_class.md): same source document (doc_0122)
+- [Diablo 4 Sorcerer Element Build Archetypes](diablo_4_sorcerer_element_build_archetypes.md): same source document (doc_0122)
+- [Diablo 4 Sorcerer Firewall Endgame Build](diablo_4_sorcerer_firewall_endgame_build.md): same source document (doc_0122)
+- [Diablo 4 Sorcerer Leveling Build](diablo_4_sorcerer_leveling_build.md): same source document (doc_0122)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

@@ -13,9 +13,18 @@ The Cubs had no urgency to trade him, since Morel was controllable through 2028 
 
 ## Related Notes
 
+
 - [Cubs Ohtani Fit After NL Designated Hitter](cubs_ohtani_fit_after_nl_designated_hitter.md): another Cubs roster-fit storyline, from a different document.
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): another candidate on the same list, from the same document.
+- [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): same source document (doc_0118)
+- [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
+- [Corbin Burnes And Willy Adames Brewers Trade Candidacy](corbin_burnes_willy_adames_brewers_trade_candidacy.md): same source document (doc_0118)
+- [Dylan Carlson Cardinals Trade Candidacy](dylan_carlson_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Dylan Cease White Sox Trade Candidacy](dylan_cease_white_sox_trade_candidacy.md): same source document (doc_0118)
+- [Eloy Jimenez White Sox Trade Candidacy](eloy_jimenez_white_sox_trade_candidacy.md): same source document (doc_0118)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

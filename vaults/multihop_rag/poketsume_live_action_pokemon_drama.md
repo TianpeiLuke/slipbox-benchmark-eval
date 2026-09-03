@@ -15,6 +15,7 @@ The execution is uneven but affectionate. The show can come across a bit silly i
 
 ## Related Notes
 
+
 - [Console Subscriptions And Store Gift Cards For Gamers](console_subscription_and_store_gift_cards_for_gamers.md): shares a Game Boy-era gaming reference, from a different source document.
 - [External Studios Expand Pokémon Animation](external_studios_expand_pokemon_animation.md): drawn from the same source document (doc_0346).
 - [Pokémon As A Lifestyle: The Reinvention Thesis](pokemon_as_lifestyle_reinvention_thesis.md): drawn from the same source document (doc_0346).
@@ -23,6 +24,7 @@ The execution is uneven but affectionate. The show can come across a bit silly i
 - [Pokémon Garden As The First Brand Diversification](pokemon_garden_as_first_brand_diversification.md): drawn from the same source document (doc_0346).
 - [Pokémon Merchandising For Grown-Up Fans](pokemon_merchandising_for_grown_up_fans.md): drawn from the same source document (doc_0346).
 - [The Pokémon With You Foundation And Local Acts](pokemon_with_you_foundation_and_local_acts.md): drawn from the same source document (doc_0346).
+- [The 2023 Pokémon World Championships In Yokohama](pokemon_world_championships_2023_yokohama.md): same source document (doc_0346)
 
 ## Source
 

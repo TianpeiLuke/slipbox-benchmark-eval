@@ -11,9 +11,18 @@ The grounds for using relative valuation anyway are a combination of the complex
 
 ## Related Notes
 
+
 - [HSF Eight Day Delay In Flagging Valuation Concern](hsf_eight_day_delay_in_flagging_valuation_concern.md): concerns valuation of a portfolio and the judgement behind it, from a different source document.
 - [HSM Conflict Of Interest In Valuation Opinion](hsm_conflict_of_interest_in_valuation_opinion.md): concerns who does a valuation and how well, from a different source document.
 - [Bharti Airtel EV EBITDA Valuation Case](bharti_airtel_ev_ebitda_valuation_case.md): drawn from the same article and shows relative valuation actually used to pick a stock.
+- [Enterprise Value Multiples](enterprise_value_multiples.md): same source document (doc_0418)
+- [Equity Multiples Must Use Shareholder Line Items](equity_multiples_and_shareholder_line_items.md): same source document (doc_0418)
+- [Equity Valuations Must Be Judged Against Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): same source document (doc_0418)
+- [Ketchup Economics: The Peer-Multiple Fallacy](ketchup_economics_peer_multiple_fallacy.md): same source document (doc_0418)
+- [Layering Comparisons Against Growth And A Stock's Own History](layered_comparison_against_growth_and_own_history.md): same source document (doc_0418)
+- [Leverage Amplifies The Effect Of An EV Change On Equity Value](leverage_amplifies_ev_change_on_equity_value.md): same source document (doc_0418)
+- [Non-P&L Multiples Are Only Usable With A Credible Story](non_pl_multiples_require_a_credible_story.md): same source document (doc_0418)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

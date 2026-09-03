@@ -11,11 +11,19 @@ On the price side, concert tickets are more expensive than ever, with inflation,
 
 ## Related Notes
 
+
 - [Amazon Seller Skepticism of the FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares the antitrust, covid_19 topic tags, from a different source document.
 - [Android App Distribution Market Definition](android_app_distribution_market_definition.md): shares the antitrust topic tag, from a different source document.
 - [Aoc Twitch Among Us Stream](aoc_twitch_among_us_stream.md): shares the covid_19 topic tag, from a different source document.
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): shares the antitrust topic tag, from a different source document.
 - [Apple 2023 Top iPhone Apps and Games Lists](apple_2023_top_iphone_apps_and_games_lists.md): shares the antitrust topic tag, from a different source document.
+- [Conditions At The BTS Busan Concert](bts_busan_concert_in_person_conditions.md): same source document (doc_0462)
+- [BTS Yet To Come Concert Film](bts_yet_to_come_concert_film.md): same source document (doc_0462)
+- [Concert Film Versus Live Concert](concert_film_versus_live_concert_experience.md): same source document (doc_0462)
+- [Concert Films Flatten The Fandom Hierarchy](concert_films_flatten_fandom_hierarchy.md): same source document (doc_0462)
+- [Taylor Swift: The Eras Tour Concert Film](taylor_swift_eras_tour_concert_film.md): same source document (doc_0462)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

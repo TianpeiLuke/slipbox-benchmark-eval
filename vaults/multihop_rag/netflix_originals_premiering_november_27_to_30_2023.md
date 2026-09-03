@@ -11,11 +11,20 @@ Go Dog Go: Season 4, a Netflix Family title: Tag and her best friend Scooch love
 
 ## Related Notes
 
+
 - [Adult Stem Cells and Tissue Renewal](adult_stem_cells_and_tissue_renewal.md): also covers South Korea, from a different source document.
 - [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): shares the creator_economy, streaming_service topic tags, from a different source document.
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): also covers Las Vegas, from a different source document.
 - [Britney Spears Jason Alexander 55 Hour Marriage](britney_spears_jason_alexander_55_hour_marriage.md): also covers Las Vegas, from a different source document.
 - [Britney Spears Memoir Body Scrutiny and Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): also covers Las Vegas, from a different source document.
+- [Insidious: The Red Door](insidious_the_red_door.md): same source document (doc_0392)
+- [Netflix Games, November 2023](netflix_games_november_2023.md): same source document (doc_0392)
+- [Netflix's Licensed Library Additions, November 2023](netflix_licensed_library_additions_november_2023.md): same source document (doc_0392)
+- [Netflix's November 2023 Slate: Overview](netflix_november_2023_slate_overview.md): same source document (doc_0392)
+- [Netflix Originals Premiering November 14 To 16, 2023](netflix_originals_premiering_november_14_to_16_2023.md): same source document (doc_0392)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

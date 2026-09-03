@@ -13,6 +13,7 @@ He was a year away from free agency, which made another extension with Tampa Bay
 
 ## Related Notes
 
+
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): also concerns Tampa Bay, from a different document.
 - [Baker Mayfield Week 15 Stat Line At Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also concerns Tampa Bay, from a different document.
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): also concerns Tampa Bay, from a different document.
@@ -20,6 +21,11 @@ He was a year away from free agency, which made another extension with Tampa Bay
 - [Houston Astros Manager Search After Dusty Baker](houston_astros_manager_search_after_dusty_baker.md): also mentions Tommy John, from a different document.
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): another candidate on the same list, from the same document.
+- [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): same source document (doc_0118)
+- [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

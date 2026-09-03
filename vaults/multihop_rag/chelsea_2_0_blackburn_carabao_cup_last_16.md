@@ -13,6 +13,7 @@ The visitors showed no intention of surrendering when Harry Leonard caught Axel 
 
 ## Related Notes
 
+
 - [Chelsea 4-4 Manchester City Stamford Bridge](chelsea_4_4_manchester_city_stamford_bridge.md): also discusses Nicolas Jackson and Raheem Sterling, from a different document.
 - [Chelsea Arsenal Derby Team News October 2023](chelsea_arsenal_derby_team_news_october_2023.md): also discusses Axel Disasi and Nicolas Jackson, from a different document.
 - [Destiny Udogie Tackle Escapes Red Card](destiny_udogie_tackle_escapes_red_card.md): also discusses Raheem Sterling, from a different document.
@@ -21,6 +22,7 @@ The visitors showed no intention of surrendering when Harry Leonard caught Axel 
 - [Blackburn Rovers Decline And Youthful Selection](blackburn_rovers_decline_and_youthful_selection.md): profiles the opponent, from the same document.
 - [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md): the draw this win fed into, from the same document.
 - [Cole Palmer Chelsea Performance Vs Blackburn](cole_palmer_chelsea_performance_vs_blackburn.md): the individual performance in this match, from the same document.
+- [Reece James Return From Injury Chelsea](reece_james_return_from_injury_chelsea.md): same source document (doc_0101)
 
 ## Source
 

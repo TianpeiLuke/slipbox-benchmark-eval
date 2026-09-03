@@ -13,6 +13,7 @@ He tied that directly to the fitness situation: "The moment we have all the squa
 
 ## Related Notes
 
+
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Manchester City and the same derby, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also discusses Manchester City, from a different document.
 - [Carabao Cup 2023-24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): overlaps on Chelsea, Manchester and Newcastle fixtures, from a different document.
@@ -21,6 +22,7 @@ He tied that directly to the fitness situation: "The moment we have all the squa
 - [Pochettino and Arteta's Friendship from PSG](pochettino_arteta_friendship_from_psg.md): the manager's mood in the same interview, from the same document.
 - [Pochettino Defends James and His 'Chelsea DNA'](pochettino_defends_james_and_chelsea_dna.md): the captaincy question inside the same crisis, from the same document.
 - [Reece James Hamstring Injury and Return Timeline](reece_james_hamstring_injury_and_return_timeline.md): the injury that is one element of this crisis, from the same document.
+- [Reece James' Touchline Outburst And FA Charge](reece_james_touchline_outburst_and_fa_charge.md): same source document (doc_0109)
 
 ## Source
 

@@ -13,11 +13,15 @@ The warrant is the horror genre's long history of reflecting the tumult and anxi
 
 ## Related Notes
 
+
 - [Thanksgiving Film Origin In Grindhouse Fake Trailer](thanksgiving_film_origin_in_grindhouse_fake_trailer.md): same interview, on the trample videos that prompted this opening
 - [Eli Roth Horror Filmography And Acting Roles](eli_roth_horror_filmography_and_acting_roles.md): same interview, on Roth's standing in the horror genre
 - [Owen Teale Sourcing Darkness For Scrooge And Alliser Thorne](owen_teale_sourcing_darkness_for_scrooge_and_alliser_thorne.md): another screen figure discussing dark material, same grouping
 - [Owen Teale Family And Recent Villain Roles](owen_teale_family_and_recent_villain_roles.md): part of the same screen-figures grouping, different source
 - [Jon Snow Death Scene Fan Reactions To Owen Teale](jon_snow_death_scene_fan_reactions_to_owen_teale.md): part of the same screen-figures grouping, different source
+- [Owen Teale's Barry The Bear Route Into Acting](owen_teale_barry_the_bear_route_into_acting.md): same sub-plan (Screen figures: Eli Roth, Robin Williams, Owen Teale), different source document
+- [Owen Teale's Missed Leading Man Opportunities](owen_teale_missed_leading_man_opportunities.md): same sub-plan (Screen figures: Eli Roth, Robin Williams, Owen Teale), different source document
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

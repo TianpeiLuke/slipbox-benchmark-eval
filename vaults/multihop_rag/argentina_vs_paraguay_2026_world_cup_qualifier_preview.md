@@ -11,11 +11,17 @@ Sporting News translated that kickoff across major territories: Thursday, Oct. 1
 
 ## Related Notes
 
+
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): the result of this fixture at the same Buenos Aires venue.
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): overlapping CONMEBOL territory-by-territory broadcast detail.
 - [Canada Jamaica Second Leg Kickoff and Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): another kickoff-time-across-territories listing.
 - [CONMEBOL 2023 Qualifying Round Other Results](conmebol_2023_qualifying_round_other_results.md): the rest of the CONMEBOL qualifying round.
 - [ICC World Cup 2023 Knockout Stage and Final](icc_world_cup_2023_knockout_stage_and_final.md): another world-tournament schedule item.
+- [Argentina's Squad And Starting XI Against Paraguay, October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): same source document (doc_0105)
+- [Where CONMEBOL 2026 Qualifiers Could And Could Not Be Watched](conmebol_2026_qualifying_broadcast_rights_and_channels.md): same source document (doc_0105)
+- [Messi's Four-Game Injury Absence And His 35-Minute Return](lionel_messi_2023_injury_absence_and_return.md): same source document (doc_0105)
+- [Paraguay's Outlook And Lineup Under New Coach Daniel Garnero](paraguay_national_team_2026_qualifying_squad_and_outlook.md): same source document (doc_0105)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

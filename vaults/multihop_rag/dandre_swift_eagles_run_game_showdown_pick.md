@@ -11,6 +11,7 @@ The message to the Eagles from the fans had been clear: run the ball. It was par
 
 ## Related Notes
 
+
 - [Cowboys Fantasy Start Recommendations, Week 13](cowboys_fantasy_start_recommendations_week_13.md): also covers Jalen Hurts, from a different document.
 - [Dallas Goedert Week 5 2023 Bust Warning](dallas_goedert_week5_2023_bust_warning.md): also covers Andre Swift and Jalen Hurts, from a different document.
 - [Dolphins-Eagles First Half Live Blog](dolphins_eagles_first_half_live_blog.md): also covers Andre Swift and Jalen Hurts, from a different document.
@@ -19,6 +20,8 @@ The message to the Eagles from the fans had been clear: run the ball. It was par
 - [Dallas Goedert Eagles Tight End Showdown Pick](dallas_goedert_eagles_tight_end_showdown_pick.md): another pick in the same Showdown lineup, from the same document.
 - [DeVonta Smith Eagles Showdown Value](devonta_smith_eagles_showdown_value.md): another pick in the same Showdown lineup, from the same document.
 - [The Metcalf-Geno Smith Seahawks Showdown Stack](dk_metcalf_and_geno_smith_seahawks_showdown_stack.md): the Captain pairing in the same lineup, from the same document.
+- [DraftKings Showdown And FanDuel Single-Game Scoring Rules](draftkings_showdown_and_fanduel_single_game_scoring_rules.md): same source document (doc_0386)
+- [The Eagles-Seahawks SuperDraft Single-Game Lineup](eagles_seahawks_superdraft_single_game_lineup.md): same source document (doc_0386)
 
 ## Source
 

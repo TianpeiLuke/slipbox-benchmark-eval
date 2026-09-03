@@ -15,11 +15,19 @@ Dotson (WR, Commanders @ Patriots) came full circle after making the preseason s
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys on Week 5 Sunday Night Football](49ers_rout_cowboys_week_5_sunday_night_recap.md): shares the NFL and playoff-seeding themes, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Curtis Samuel, separately sourced.
 - [Playoff and Roster Stakes in Bears-Vikings on Monday Night](bears_vikings_mnf_playoff_and_roster_stakes.md): another NFL item with playoff stakes, in a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): shares the NFL and playoff-seeding themes, from a separate source.
 - [Brock Purdy's 49ers Career Trajectory](brock_purdy_49ers_career_trajectory.md): another NFL postseason-stakes item, in a different document.
+- [Colts -2.5 At Panthers, Week 9](colts_panthers_week_9_spread_pick.md): same source document (doc_0314)
+- [Dolphins +110 vs Chiefs In Germany](dolphins_chiefs_germany_moneyline_pick.md): same source document (doc_0314)
+- [The 2023 NFL Best Bets Season Record](nfl_best_bets_season_record_2023.md): same source document (doc_0314)
+- [Raiders vs Giants UNDER 37.5, Week 9](raiders_giants_week_9_under_pick.md): same source document (doc_0314)
+- [Seahawks +6 At Ravens, Week 9](seahawks_ravens_week_9_spread_pick.md): same source document (doc_0314)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

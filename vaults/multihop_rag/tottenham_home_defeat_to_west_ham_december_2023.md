@@ -11,6 +11,7 @@ Ange Postecoglou's men were sitting pretty at 1-0 up thanks to an early Cristian
 
 ## Related Notes
 
+
 - [Ange Postecoglou's Reaction And Unbeaten Home Record](ange_postecoglou_reaction_and_unbeaten_home_record.md): also discusses Ange Postecoglou and Tottenham's home form, from a different document.
 - [Argentina's First Half Dominance Vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): also discusses Cristian Romero, the scorer here, from a different document.
 - [Canada-Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also discusses West Ham players, from a different document.
@@ -18,6 +19,9 @@ Ange Postecoglou's men were sitting pretty at 1-0 up thanks to an early Cristian
 - [Carabao Cup 2023-24 Semi-Final Draw And Fixtures](carabao_cup_2023_24_semifinal_draw_and_fixtures.md): also covers West Ham's season, from a different document.
 - [Everton's Win Over Newcastle, December 2023](everton_win_over_newcastle_december_2023.md): the other match covered in the same report.
 - [Howe On Newcastle's Inconsistency And Injury Load](howe_on_newcastle_inconsistency_and_injury_load.md): reaction from that other match, in the same report.
+- [Dyche On Everton's Points Deduction And Appeal](dyche_on_everton_points_deduction_and_appeal.md): same source document (doc_0541)
+- [Moyes On West Ham's Win At Tottenham](moyes_on_west_ham_win_at_tottenham.md): same source document (doc_0541)
+- [Postecoglou's Response To Tottenham's Losing Run](postecoglou_response_to_tottenham_losing_run.md): same source document (doc_0541)
 
 ## Source
 

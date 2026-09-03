@@ -11,6 +11,7 @@ Scientists had suspected nearly a century earlier that nanoparticles' sizes coul
 
 ## Related Notes
 
+
 - [Laboratory Development of Quantum Dots, 1980s to 1993](laboratory_development_of_quantum_dots_1980s_to_1993.md): another account of the same 1980s work by Ekimov and Brus.
 - [Nobel Laureates on Basic Research Motivation](nobel_laureates_on_basic_research_motivation.md): another account of the laureates' path to quantum dots.
 - [Nobel Prize in Chemistry 2023: Quantum Dots](nobel_prize_chemistry_2023_quantum_dots.md): another description of what Ekimov and Brus were honoured for.
@@ -19,6 +20,8 @@ Scientists had suspected nearly a century earlier that nanoparticles' sizes coul
 - [Bawendi's Controlled Quantum Dot Synthesis](bawendi_controlled_quantum_dot_synthesis.md): from the same article, on the size control this work still lacked.
 - [Quantum Dot Applications in Displays, Medicine and Solar](quantum_dot_applications_in_displays_medicine_and_solar.md): from the same article, on the uses these discoveries opened up.
 - [Quantum Dot Size-Dependent Properties](quantum_dot_size_dependent_properties.md): from the same article, on the physics behind their finding.
+- [The 2023 Chemistry Nobel for Quantum Dots](quantum_dots_2023_chemistry_nobel_award.md): same source document (doc_0436)
+- [Reactions to the Quantum Dot Nobel](reactions_to_the_quantum_dot_nobel.md): same source document (doc_0436)
 
 ## Source
 

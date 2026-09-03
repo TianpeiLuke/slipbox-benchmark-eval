@@ -15,6 +15,7 @@ The relationship extends beyond casting. Over the years the team-up has served a
 
 ## Related Notes
 
+
 - [Neo-Noir Genre Boundaries](neo_noir_genre_boundaries.md): both discuss Shutter Island, from a different source document
 - [Scorsese's Answers to Internet Slang Terms](scorsese_answers_to_internet_slang_terms.md): both reference Killers of the Flower Moon, from a separate article
 - [Afrofuture Founding Vision and Mission Pillars](afrofuture_founding_vision_and_mission_pillars.md): shares the user-generated-content topic tag
@@ -23,6 +24,15 @@ The relationship extends beyond casting. Over the years the team-up has served a
 - [Barbenheimer Summer 2023 Phenomenon](barbenheimer_summer_2023_phenomenon.md): shares the box-office topic tag from a different article
 - [Catherine Tan on Public Disclosure and Law Enforcement Gaps](catherine_tan_public_disclosure_and_law_enforcement_gaps.md): shares a topic tag despite unrelated subject matter
 - [City of Winter TTRPG](city_of_winter_ttrpg.md): shares the user-generated-content tag from a separate document
+- [Killers of the Flower Moon (Martin Scorsese)](killers_of_the_flower_moon_film.md): same source document (doc_0192)
+- [Scorsese's 21st-Century Filmography](scorsese_21st_century_filmography.md): same source document (doc_0192)
+- [Scorsese's Late-Career Genre Departures](scorsese_late_career_genre_departures.md): same source document (doc_0192)
+- [Scorsese's Late Career Refutes Tarantino's Claim That Directors Do Not Get Better](scorsese_late_career_refutes_tarantino_decline_claim.md): same source document (doc_0192)
+- [How Scorsese's Late Films Revisit His Earlier Themes](scorsese_late_films_revisit_earlier_themes.md): same source document (doc_0192)
+- [Scorsese's Maximalist, Improvisational Late Style](scorsese_maximalist_improvisational_late_style.md): same source document (doc_0192)
+- [Scorsese's Self-Implication in Killers of the Flower Moon](scorsese_self_implication_in_killers_of_the_flower_moon.md): same source document (doc_0192)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Box Office](term_box_office.md): uses the concept box office
 
 ## Source
 

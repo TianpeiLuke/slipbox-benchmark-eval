@@ -13,9 +13,18 @@ There is also a mundane explanation for the timing. The recent influx of Chinese
 
 ## Related Notes
 
+
 - [Earth Mama And Savanah Leaf](earth_mama_savanah_leaf.md): also concerns the Bay Area, from a different document.
 - [Israel's Tech Sector Scale](israel_tech_sector_scale.md): also concerns Bay Area tech comparisons, from a different document.
 - [Kevin Durant's 2016 Move To The Warriors And Its Legacy](kevin_durant_2016_move_to_warriors_legacy.md): also concerns the Bay Area, from a different document.
+- [China's Tech Crackdown And Investor Exit Risk](china_tech_crackdown_investor_exit_risk.md): same source document (doc_0181)
+- [China Versus Overseas: The Dual-Market Strategy](china_versus_overseas_dual_market_strategy.md): same source document (doc_0181)
+- [Chinese Capital Stigma In US Fundraising](chinese_capital_stigma_in_us_fundraising.md): same source document (doc_0181)
+- [Haigui And Guihai: The Returnee Founder Cycle](haigui_guihai_returnee_founder_cycle.md): same source document (doc_0181)
+- [The Outlook For US-China VC Dealmaking](outlook_for_us_china_vc_dealmaking.md): same source document (doc_0181)
+- [US Outbound Investment Restrictions On China](us_outbound_investment_restrictions_china.md): same source document (doc_0181)
+- [The Decline In US VC Investment In China: The Data](us_vc_investment_in_china_decline_data.md): same source document (doc_0181)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

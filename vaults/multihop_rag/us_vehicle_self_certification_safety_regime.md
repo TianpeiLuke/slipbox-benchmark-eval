@@ -11,6 +11,7 @@ The consequences The Verge draws from that design: it allows Tesla to sell cars 
 
 ## Related Notes
 
+
 - [Cybertruck Availability, Pricing And The EV Tax Credit](cybertruck_availability_pricing_and_ev_tax_credit.md): overlapping coverage of the Cybertruck and Tesla's truck, from a different source document.
 - [Cybertruck Resale Restrictions Walked Back](cybertruck_resale_restrictions_walked_back.md): overlapping coverage of selling the Cybertruck and Tesla's rules, from a different source document.
 - [Cybertruck Variants And Specifications](cybertruck_variants_and_specifications.md): overlapping coverage of the Cybertruck and Tesla's truck, from a different source document.
@@ -19,6 +20,8 @@ The consequences The Verge draws from that design: it allows Tesla to sell cars 
 - [Crumple Zones And The Stainless Steel Concern](crumple_zones_and_the_stainless_steel_concern.md): drawn from the same source document (doc_0548).
 - [The Cybertruck's Danger Is A Large-Truck Problem](cybertruck_danger_is_a_large_truck_problem.md): drawn from the same source document (doc_0548).
 - [The Cybertruck May Have An Unseen Shock-Absorbing Mechanism](cybertruck_may_have_an_unseen_shock_absorbing_mechanism.md): drawn from the same source document (doc_0548).
+- [The Cybertruck Pedestrian Safety Backlash](cybertruck_pedestrian_safety_backlash.md): same source document (doc_0548)
+- [The Cybertruck Is Unlikely To Be Sold In Europe](cybertruck_unlikely_to_be_sold_in_europe.md): same source document (doc_0548)
 
 ## Source
 

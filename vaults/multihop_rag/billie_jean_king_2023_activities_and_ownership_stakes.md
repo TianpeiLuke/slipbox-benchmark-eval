@@ -11,11 +11,18 @@ She is part of ownership groups involved with the Los Angeles Dodgers, the NWSL'
 
 ## Related Notes
 
+
 - [Angels' 2023 Offseason: Ohtani And Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): also concerns the Los Angeles Dodgers, from a different source document.
 - [Backlash To The Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): also concerns the Los Angeles Dodgers, from a different source document.
 - [Corretja Doubts Djokovic's 2024 Golden Slam](corretja_doubts_djokovic_2024_golden_slam.md): also concerns Grand Slam tennis, from a different source document.
 - [Kyrgios-Becker Social Media Feud, December 2023](kyrgios_becker_social_media_feud_december_2023.md): also concerns Grand Slam tennis, from a different source document.
 - [Over/Under Betting In MMA, Tennis And Golf](over_under_betting_in_mma_tennis_and_golf.md): also concerns Grand Slam tennis, from a different source document.
+- [Billie Jean King's Landmark Year Of 1973](billie_jean_king_1973_landmark_year.md): same source document (doc_0412)
+- [The Fiftieth Anniversary Of Equal Prize Money At The US Open](fiftieth_anniversary_of_us_open_equal_prize_money.md): same source document (doc_0412)
+- [King-Riggs Battle Of The Sexes And Its Social Impact](king_riggs_battle_of_the_sexes_social_impact.md): same source document (doc_0412)
+- [Media Coverage Share As The Barrier For Women's Sports](media_coverage_share_as_barrier_for_womens_sports.md): same source document (doc_0412)
+- [The PWHL: A Professional Women's Hockey League Launch](pwhl_professional_womens_hockey_league_launch.md): same source document (doc_0412)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

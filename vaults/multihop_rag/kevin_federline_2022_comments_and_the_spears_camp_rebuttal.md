@@ -11,11 +11,19 @@ Spears attacked the causal claim in a statement on her Instagram Stories, denyin
 
 ## Related Notes
 
+
 - [Britney Spears Estrangement From Her Family](britney_spears_estrangement_from_her_family.md): another account of Spears' fractured family relationships
 - [Britney Spears Memoir Barbs At Timberlake And Federline](britney_spears_memoir_barbs_at_timberlake_and_federline.md): the memoir's own criticism of the same ex-husband
 - [Democratic Social Media Campaign Dominance](democratic_social_media_campaign_dominance.md): an unrelated article that also concerns Instagram Stories as a medium
 - [Jake Paul Savannah Montano Hookup Claims And Denial](jake_paul_savannah_montano_hookup_claims_and_denial.md): another celebrity denial issued via Instagram Stories
 - [Kevin Federline Custody Of Britney Spears Sons](kevin_federline_custody_of_britney_spears_sons.md): the custody backdrop to this public exchange
+- [Britney Spears' Conservatorship Under Jamie Spears](britney_spears_conservatorship_under_jamie_spears.md): same source document (doc_0358)
+- [Britney Spears And Kevin Federline: Marriage And Divorce](britney_spears_kevin_federline_marriage_and_divorce.md): same source document (doc_0358)
+- [The Woman In Me: Britney Spears' Memoir](britney_spears_memoir_the_woman_in_me.md): same source document (doc_0358)
+- [Britney Spears And Sam Asghari: Marriage And Divorce](britney_spears_sam_asghari_marriage_and_divorce.md): same source document (doc_0358)
+- [Kevin Federline's Marriage To Victoria Prince](kevin_federline_marriage_to_victoria_prince.md): same source document (doc_0358)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

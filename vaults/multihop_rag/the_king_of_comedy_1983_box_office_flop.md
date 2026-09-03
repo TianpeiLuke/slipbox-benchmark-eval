@@ -11,11 +11,16 @@ Scorsese corrected the framing from his own memory of the reception: "People hat
 
 ## Related Notes
 
+
 - [Britney Spears Unconfirmed Romances Wade Robson And Colin Farrell](britney_spears_unconfirmed_romances_wade_robson_and_colin_farrell.md): another article citing Entertainment Tonight
 - [Spears Federline Child Support And Custody Disputes](spears_federline_child_support_and_custody_disputes.md): another article quoting Entertainment Tonight
 - [Swift And Kelce Public Appearances Together](swift_and_kelce_public_appearances_together.md): further coverage sourced to Entertainment Tonight
 - [Taylor Swift Arrowhead Stadium Appearance September 2023](taylor_swift_arrowhead_stadium_appearance_september_2023.md): another Entertainment Tonight-sourced item
 - [Taylor Swift First Chiefs Game Appearance September 24 2023](taylor_swift_first_chiefs_game_appearance_september_24_2023.md): another article citing the same outlet
+- [Martin Scorsese's Internet-Slang TikTok Quiz](martin_scorsese_internet_slang_tiktok_quiz.md): same source document (doc_0193)
+- [The Reaction To Francesca Scorsese's Slang Video](reaction_to_the_scorsese_slang_video.md): same source document (doc_0193)
+- [Scorsese's Answers To The Internet Slang Terms](scorsese_answers_to_internet_slang_terms.md): same source document (doc_0193)
+- [Box Office](term_box_office.md): uses the concept box office
 
 ## Source
 

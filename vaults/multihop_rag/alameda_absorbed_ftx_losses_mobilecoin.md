@@ -13,6 +13,7 @@ Bankman-Fried offered a benign reading of the same arrangement from the stand: h
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): also involves Paradigm's Matt Huang, from a different source document.
 - [Alameda Research](alameda_research.md): background on the firm that absorbed the losses, from a different source document.
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): the same firm as the channel for FTX's money, from a different source document.
@@ -21,6 +22,8 @@ Bankman-Fried offered a benign reading of the same arrangement from the stand: h
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the companion privilege running the other way (doc_0121).
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): the same gradual absorption of FTX's exposure (doc_0121).
 - [Alameda Research's Origins and Naming](alameda_research_origins_and_naming.md): Bankman-Fried's own account of the firm, same trial day (doc_0053).
+- [Can Sun's Testimony On Fabricated Justifications](can_sun_testimony_on_fabricated_justifications.md): same source document (doc_0121)
+- [Code Evidence Outweighs Deleted Signal Messages](code_evidence_outweighs_deleted_signal_messages.md): same source document (doc_0305)
 
 ## Source
 

@@ -13,11 +13,16 @@ The closure is not universal, and it is short. Not all grocery stores remain clo
 
 ## Related Notes
 
+
 - [Best Buy Price Match Guarantee](best_buy_price_match_guarantee.md): also concerns Thanksgiving Day, from a different source document.
 - [Cyber Week 2023 Online Spend Forecasts](cyber_week_2023_online_spend_forecasts.md): overlapping coverage of holiday shopping and retailers, from a different source document.
 - [Dell Price Match Policy](dell_price_match_policy.md): also concerns Thanksgiving Day, from a different source document.
 - [The Epoch Times: Founding and Early Growth](epoch_times_founding_and_early_growth_2000s.md): also concerns Thanksgiving Day, from a different source document.
 - [Friendsgiving Alternative Activity Ideas](friendsgiving_alternative_activity_ideas.md): also concerns Thanksgiving Day, from a different source document.
+- [Thanksgiving 2023: Stores Closed on the Holiday](thanksgiving_2023_stores_closed_on_the_holiday.md): same source document (doc_0323)
+- [Thanksgiving 2023: Stores Open on the Holiday](thanksgiving_2023_stores_open_on_the_holiday.md): same source document (doc_0323)
+- [Thanksgiving: The American Holiday](thanksgiving_american_holiday_overview.md): same source document (doc_0323)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

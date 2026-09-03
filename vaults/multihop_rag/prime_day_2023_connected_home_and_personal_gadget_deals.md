@@ -11,12 +11,20 @@ Monster's digital frame isn't as good as options from Aura or Nixplay, which top
 
 ## Related Notes
 
+
 - [Backbone One Mobile Controller Deal](backbone_one_mobile_controller_deal.md): shares the battery-life and streaming themes, from a different source document.
 - [Backbone One Mobile Gamepad](backbone_one_mobile_gamepad.md): shares the battery-life and streaming themes, from a different source document.
 - [Bose QuietComfort 45 Headphones](bose_quietcomfort_45_headphones.md): shares the battery-life and streaming themes, from a different source document.
 - [Google Nest Cam Battery Model](google_nest_cam_battery_model.md): also concerns Google Assistant, from a different source document.
 - [Google Nest Hub Smart Display Deal](google_nest_hub_smart_display_deal.md): also concerns Google Assistant, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

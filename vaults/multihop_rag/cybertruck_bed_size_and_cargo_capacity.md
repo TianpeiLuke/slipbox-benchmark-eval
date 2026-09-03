@@ -11,6 +11,7 @@ Elon Musk promised that Cybertrucks would feature beds longer than six feet, and
 
 ## Related Notes
 
+
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): also covers Elon Musk, from a different source document.
 - [ChatGPT Misuse Fears versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): also covers Elon Musk, from a different source document.
 - [Digital Services Act](digital_services_act.md): also covers Elon Musk, from a different source document.
@@ -19,6 +20,8 @@ Elon Musk promised that Cybertrucks would feature beds longer than six feet, and
 - [Cybertruck Availability Pricing and EV Tax Credit](cybertruck_availability_pricing_and_ev_tax_credit.md): drawn from the same source document, doc_0547.
 - [Cybertruck Resale Restrictions Walked Back](cybertruck_resale_restrictions_walked_back.md): drawn from the same source document, doc_0547.
 - [Cybertruck Stainless Steel Design and Aesthetic](cybertruck_stainless_steel_design_and_aesthetic.md): drawn from the same source document, doc_0547.
+- [Cybertruck Variants And Specifications](cybertruck_variants_and_specifications.md): same source document (doc_0547)
+- [The Environmental Case Against Large Electric Pickups](environmental_case_against_large_electric_pickups.md): same source document (doc_0547)
 
 ## Source
 

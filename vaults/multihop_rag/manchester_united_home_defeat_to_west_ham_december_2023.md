@@ -13,11 +13,18 @@ The result is recorded as another worrying setback for manager Erik ten Hag: Uni
 
 ## Related Notes
 
+
 - [Bruno Fernandes' Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): covers the same Manchester United side and its management, from a different document.
 - [Canada-Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also discusses West Ham players, from a different document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also covers West Ham in the same season, from a different document.
 - [Carabao Cup 2023-24 Semi-Final Draw And Fixtures](carabao_cup_2023_24_semifinal_draw_and_fixtures.md): also covers West Ham's season, from a different document.
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): also covers West Ham, from a different document.
+- [Bournemouth's Comeback Win At Nottingham Forest With A Solanke Hat-Trick](bournemouth_comeback_win_at_nottingham_forest_solanke_hat_trick.md): same source document (doc_0438)
+- [Kostas Tsimikas' Collarbone Break In The Klopp Collision](kostas_tsimikas_collarbone_break_in_klopp_collision.md): same source document (doc_0438)
+- [Liverpool-Arsenal Draw At Anfield, December 2023](liverpool_arsenal_draw_at_anfield_december_2023.md): same source document (doc_0438)
+- [Luton Town's Win Over Newcastle After Lockyer's Cardiac Arrest](luton_town_win_over_newcastle_after_lockyer_cardiac_arrest.md): same source document (doc_0438)
+- [Rebecca Welch As The First Female Premier League Referee](rebecca_welch_first_female_premier_league_referee.md): same source document (doc_0438)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

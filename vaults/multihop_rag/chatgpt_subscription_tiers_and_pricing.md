@@ -13,11 +13,18 @@ Capacity became a binding constraint. Following the Dev Day conference, Sam Altm
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also covers Sam Altman, from a different source document.
 - [Anthropic Founding by OpenAI Researchers](anthropic_founding_by_openai_researchers.md): also covers Sam Altman, from a different source document.
 - [ChatGPT 100 Million User Milestone](chatgpt_100_million_user_milestone.md): also covers Sam Altman, from a different source document.
 - [ChatGPT Adoption Gap Survey Evidence](chatgpt_adoption_gap_survey_evidence.md): substantial content overlap on chatgpt, chatbot, from a different source document.
 - [ChatGPT Competitive Response Across AI Industry](chatgpt_competitive_response_across_ai_industry.md): substantial content overlap on chatgpt, openai, chatbot, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): same source document (doc_0048)
+- [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): same source document (doc_0048)
+- [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): same source document (doc_0048)
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

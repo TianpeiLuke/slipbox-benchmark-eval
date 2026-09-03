@@ -13,11 +13,18 @@ Alongside the films that revisit his old themes, Polygon's 2023-10-26 piece iden
 
 ## Related Notes
 
+
 - [Martin Scorsese Internet Slang TikTok Quiz](martin_scorsese_internet_slang_tiktok_quiz.md): another item involving Scorsese and his daughter Francesca, from a different source document
 - [Neo-Noir Genre Boundaries](neo_noir_genre_boundaries.md): both discuss Shutter Island, from a separate article
 - [Notorious (1946, Alfred Hitchcock)](notorious_1946_alfred_hitchcock.md): both reference Hitchcock, from a different document
 - [Reaction to the Scorsese Slang Video](reaction_to_the_scorsese_slang_video.md): another Scorsese-and-Francesca item from a separate source
 - [Scorsese's Answers to Internet Slang Terms](scorsese_answers_to_internet_slang_terms.md): another Scorsese subject from a different article
+- [Killers of the Flower Moon (Martin Scorsese)](killers_of_the_flower_moon_film.md): same source document (doc_0192)
+- [Scorsese's 21st-Century Filmography](scorsese_21st_century_filmography.md): same source document (doc_0192)
+- [Scorsese and Leonardo DiCaprio's Collaboration](scorsese_and_leonardo_dicaprio_collaboration.md): same source document (doc_0192)
+- [Scorsese's Late Career Refutes Tarantino's Claim That Directors Do Not Get Better](scorsese_late_career_refutes_tarantino_decline_claim.md): same source document (doc_0192)
+- [How Scorsese's Late Films Revisit His Earlier Themes](scorsese_late_films_revisit_earlier_themes.md): same source document (doc_0192)
+- [Film Awards Season](term_film_awards_season.md): uses the concept film awards season
 
 ## Source
 

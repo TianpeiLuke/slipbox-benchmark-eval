@@ -15,6 +15,7 @@ Balogun's rating reflects the effort to feed him: U.S. fans are salivating for h
 
 ## Related Notes
 
+
 - [AC Milan 2-0 Win Over Lazio and Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): another Christian Pulisic document, different source
 - [Atalanta 3-2 AC Milan](atalanta_3_2_ac_milan.md): another Christian Pulisic document, different source
 - [Cole Palmer £42.5m Transfer and Chelsea Squad Turnover](cole_palmer_42_5m_transfer_and_chelsea_squad_turnover.md): another Christian Pulisic document, different source
@@ -23,6 +24,8 @@ Balogun's rating reflects the effort to feed him: U.S. fans are salivating for h
 - [Matt Turner Rating vs Germany 2023](matt_turner_rating_vs_germany_2023.md): the goalkeeping rating from the same match, same source document
 - [USMNT 1-3 Defeat to Germany Hartford 2023](usmnt_3_1_defeat_to_germany_hartford_2023.md): the match these ratings belong to, same source document
 - [USMNT Back Line Defensive Errors vs Germany 2023](usmnt_back_line_defensive_errors_vs_germany_2023.md): the errors that outweighed this attacking work, same source document
+- [USMNT Midfield Ratings Against Germany, October 2023](usmnt_midfield_ratings_vs_germany_2023.md): same source document (doc_0588)
+- [USMNT Substitute Ratings Against Germany, October 2023](usmnt_substitute_ratings_vs_germany_2023.md): same source document (doc_0588)
 
 ## Source
 

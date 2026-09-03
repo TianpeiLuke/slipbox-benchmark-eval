@@ -11,12 +11,18 @@ In moneyline odds, especially in the American odds format, the favorite is usual
 
 ## Related Notes
 
+
 - [2023 Bowl Season Betting Trends](2023_bowl_season_betting_trends.md): also discusses odds and underdogs, from a different document.
 - [College Football Bowl Betting Market Types](college_football_bowl_betting_market_types.md): applies the same odds-and-underdog vocabulary to bowl markets, separately sourced.
 - [FanDuel Bet Five, Get $150 Moneyline Promo](fanduel_bet_five_get_150_moneyline_promo.md): uses favorite and underdog pricing in a promotion, in a different document.
 - [FanDuel Moneyline Bonus Bet Offer, December 2023](fanduel_moneyline_bonus_bet_offer_december_2023.md): another offer resting on the plus/minus sign convention, from a separate source.
 - [MLB Core Betting Markets: Run Line, Moneyline, Totals](mlb_core_betting_markets_run_line_moneyline_totals.md): shows how favorites and underdogs are represented in baseball markets, in a different document.
 - [The American Odds Format](american_odds_format.md): the notation this distinction is expressed in, from the same source document.
+- [Fractional And Decimal Odds Formats](fractional_and_decimal_odds_formats.md): same source document (doc_0061)
+- [The Moneyline Bet](moneyline_bet_definition.md): same source document (doc_0061)
+- [Moneyline Outcomes: Win, Loss, Draw And Push](moneyline_bet_outcomes_win_loss_draw.md): same source document (doc_0061)
+- [Moneyline Odds Examples By Sport](moneyline_odds_examples_by_sport.md): same source document (doc_0061)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

@@ -13,11 +13,18 @@ His rate is the striking figure, with a caveat attached. Haaland is averaging ne
 
 ## Related Notes
 
+
 - [Arsenal-Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Manchester City, Haaland's club, from a different document.
 - [Bayern Munich's 2-2 Draw At RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also discusses Manchester City, from a different document.
 - [Calendar Year 2023 Top Goalscorer Race](calendar_year_2023_top_goalscorer_race.md): also discusses Erling Haaland's scoring rate, from a different document.
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): also discusses Manchester City, from a different document.
 - [Champions League 2023-24 Group G: Man City And Leipzig](champions_league_2023_24_group_g_man_city_leipzig.md): also discusses Manchester City, from a different document.
+- [Haaland's Major Tournament Prospects With Norway](haaland_major_tournament_prospects_with_norway.md): same source document (doc_0400)
+- [The Italy International Goalscoring Record Anomaly](italy_international_goalscoring_record_anomaly.md): same source document (doc_0400)
+- [Jorgen Juve's Norway Goalscoring Record](jorgen_juve_norway_goalscoring_record.md): same source document (doc_0400)
+- [The Longest-Standing International Goalscoring Records](longest_standing_international_goalscoring_records.md): same source document (doc_0400)
+- [Norway's Historical Absence From Major Tournaments](norway_historical_absence_from_major_tournaments.md): same source document (doc_0400)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

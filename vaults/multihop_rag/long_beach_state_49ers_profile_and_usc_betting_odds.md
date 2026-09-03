@@ -13,11 +13,19 @@ Long Beach State came in at 6-4 with wins over major conference squads in DePaul
 
 ## Related Notes
 
+
 - [Bills Chargers Week 16 Matchup Preview](bills_chargers_week_16_matchup_preview.md): shares the coaching-change and sports-betting-odds themes, from a different document.
 - [Chargers Betting Trends With Easton Stick](chargers_betting_trends_with_easton_stick.md): shares the coaching-change and sports-betting-odds themes, from a different document.
 - [Michigan State 2024 Schedule After Big Ten Expansion](michigan_state_2024_schedule_after_big_ten_expansion.md): overlaps on conference scheduling and the Wolverines, from a different document.
 - [November 10 Harbaugh Punishment Day Reporting](november_10_harbaugh_punishment_day_reporting.md): also concerns Ann Arbor, from a different document.
 - [TwitchCon Venue History and Site Selection](twitchcon_venue_history_and_site_selection.md): also mentions Long Beach, from a different document.
+- [Bronny James's Collegiate Debut For USC](bronny_james_usc_collegiate_debut.md): same source document (doc_0103)
+- [USC's Pac-12 And National Title Futures Position](usc_basketball_futures_odds_pac_12_and_national_title.md): same source document (doc_0103)
+- [USC's Player Of The Year Candidates: Isaiah Collier And Boogie Ellis](usc_player_of_the_year_candidates_collier_and_ellis.md): same source document (doc_0103)
+- [USC's Remaining Schedule Gives It A Path Despite The Gonzaga Loss](usc_remaining_2023_24_schedule_outlook.md): same source document (doc_0103)
+- [USC Had Not Forged An Identity Eight Games Into 2023-24](usc_trojans_2023_24_early_season_struggles.md): same source document (doc_0103)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

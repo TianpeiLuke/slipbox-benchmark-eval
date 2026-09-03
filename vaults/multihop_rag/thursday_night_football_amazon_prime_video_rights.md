@@ -13,11 +13,19 @@ Amazon's "Thursday Night Football" broadcast crew consisted of Al Michaels on pl
 
 ## Related Notes
 
+
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): also concerns Amazon Prime.
 - [Amazon Price Matching and Return Policy](amazon_price_matching_and_return_policy.md): also concerns Amazon Prime.
 - [Amazon Prime Free Games and DLC](amazon_prime_free_games_and_dlc.md): also concerns Amazon Prime.
 - [Amazon Prime Holiday 2023 Delivery Cutoffs](amazon_prime_holiday_2023_delivery_cutoffs.md): also concerns Amazon Prime.
 - [Amazon Prime Membership Requirement for Prime Day](amazon_prime_membership_requirement_for_prime_day.md): also concerns Amazon Prime.
+- [Jaguars Survive Late Saints Rally To Win 31-24 On Thursday Night Football](jaguars_beat_saints_week_7_thursday_night_recap.md): same source document (doc_0035)
+- [Jaguars-Saints First Half: Two Etienne Touchdowns And A Fake Punt Build A 17-6 Lead](jaguars_saints_first_half_live_blog.md): same source document (doc_0035)
+- [Jaguars-Saints Pregame: Jamaal Williams Activated, Saints Tackles Out](jaguars_saints_pregame_inactives_and_notes.md): same source document (doc_0035)
+- [Jaguars-Saints Second Half: A Tied Game Broken By Christian Kirk's 44-Yard Score](jaguars_saints_second_half_live_blog.md): same source document (doc_0035)
+- [Trevor Lawrence Cleared To Start After Week 7 Pregame Workout](trevor_lawrence_knee_injury_start_status_week_7.md): same source document (doc_0035)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

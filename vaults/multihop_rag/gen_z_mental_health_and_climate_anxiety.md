@@ -13,6 +13,7 @@ Greta Thunberg is the emblem the article offers: the 20-year-old has become one 
 
 ## Related Notes
 
+
 - [Afrofuture Foundation Philanthropy Programmes](afrofuture_foundation_philanthropy_programmes.md): also concerns the United Nations, from a different source document.
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): overlapping coverage of climate anxiety and extreme weather, from a different source document.
 - [ChatGPT Adoption Gap Survey Evidence](chatgpt_adoption_gap_survey_evidence.md): also draws on Pew Research, from a different source document.
@@ -21,6 +22,8 @@ Greta Thunberg is the emblem the article offers: the 20-year-old has become one 
 - [Gen Z Collective Online Political Action](gen_z_collective_online_political_action.md): drawn from the same source document (doc_0138).
 - [Gen Z Definition And Formative Events](gen_z_definition_and_formative_events.md): drawn from the same source document (doc_0138).
 - [Gen Z Financial Stress And Saving Avoidance](gen_z_financial_stress_and_saving_avoidance.md): drawn from the same source document (doc_0138).
+- [Gen Z News Distress Impairing Work Performance](gen_z_news_distress_impairing_work_performance.md): same source document (doc_0138)
+- [Gen Z Workplace Purpose And ESG Priorities](gen_z_workplace_purpose_and_esg_priorities.md): same source document (doc_0138)
 
 ## Source
 

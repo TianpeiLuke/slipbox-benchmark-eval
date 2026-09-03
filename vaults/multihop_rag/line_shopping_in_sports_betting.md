@@ -13,11 +13,18 @@ In practice a bettor shops using multiple sportsbook apps on a phone or via live
 
 ## Related Notes
 
+
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also discusses odds, lines and bet types, from a different document.
 - [How to Choose a Kentucky Sportsbook](how_to_choose_a_kentucky_sportsbook.md): weighs the same odds-and-lines criteria across books, separately sourced.
 - [How to Use an MLB Betting App](how_to_use_an_mlb_betting_app.md): covers finding odds and lines inside an app, in a different document.
 - [Line Shopping for the Best Betting Odds](line_shopping_for_the_best_betting_odds.md): the closest companion treatment of shopping lines, from a separate source.
 - [MLB Core Betting Markets: Run Line, Moneyline, Totals](mlb_core_betting_markets_run_line_moneyline_totals.md): the markets that can be shopped, in a different document.
+- [How Sportsbooks Set And Move Betting Lines](how_sportsbooks_set_and_move_betting_lines.md): same source document (doc_0060)
+- [How To Line Shop, Including Futures Markets](how_to_line_shop_including_futures.md): same source document (doc_0060)
+- [Sportsbooks Recommended For Line Shopping](sportsbooks_recommended_for_line_shopping.md): same source document (doc_0060)
+- [The Vegas Line As The Odds Benchmark](vegas_line_as_odds_benchmark.md): same source document (doc_0060)
+- [Why Line Shopping Improves Returns](why_line_shopping_improves_returns.md): same source document (doc_0060)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

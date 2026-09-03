@@ -11,6 +11,7 @@ Newcastle would travel to Chelsea after knocking out both Manchester clubs: Eddi
 
 ## Related Notes
 
+
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also concerns Stamford Bridge, from a different document.
 - [Bayern Munich 1-0 Manchester United Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns Old Trafford, from a different document.
 - [Canada Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also mentions West Ham, from a different document.
@@ -19,6 +20,7 @@ Newcastle would travel to Chelsea after knocking out both Manchester clubs: Eddi
 - [Blackburn Rovers Decline And Youthful Selection](blackburn_rovers_decline_and_youthful_selection.md): the beaten side in one of these ties, from the same document.
 - [Chelsea 2-0 Blackburn Carabao Cup Last 16](chelsea_2_0_blackburn_carabao_cup_last_16.md): the match that put Chelsea in this draw, from the same document.
 - [Cole Palmer Chelsea Performance Vs Blackburn](cole_palmer_chelsea_performance_vs_blackburn.md): the individual performance in that match, from the same document.
+- [Reece James Return From Injury Chelsea](reece_james_return_from_injury_chelsea.md): same source document (doc_0101)
 
 ## Source
 

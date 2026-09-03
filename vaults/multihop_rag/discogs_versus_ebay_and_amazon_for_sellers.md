@@ -13,6 +13,7 @@ The Connecticut seller, who has been selling on Discogs since 2009, said of the 
 
 ## Related Notes
 
+
 - [Amazon Seller Fee and Pricing Complaints](amazon_seller_fee_and_pricing_complaints.md): overlaps on seller fees and margins, from a different source document.
 - [eBay Best Price Guarantee](ebay_best_price_guarantee.md): overlaps on eBay selling and prices, from a different source document.
 - [Alexa Kids Privacy and Hardware](alexa_kids_privacy_and_hardware.md): shares the product-launch theme, from a different source document.
@@ -21,6 +22,14 @@ The Connecticut seller, who has been selling on Discogs since 2009, said of the 
 - [Amazon Prime Membership Requirement for Prime Day](amazon_prime_membership_requirement_for_prime_day.md): shares the product-launch theme, from a different source document.
 - [Amazon Seller Skepticism of the FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares the product-launch theme, from a different source document.
 - [Amazon Sequoia Fulfillment System](amazon_sequoia_fulfillment_system.md): shares the product-launch theme, from a different source document.
+- [Discogs' 2023 Seller Fee Increase](discogs_2023_seller_fee_increase.md): same source document (doc_0096)
+- [Discogs' Compounding Cost Pressures](discogs_compounding_cost_pressures.md): same source document (doc_0096)
+- [Discogs' Database Completeness At Risk](discogs_database_completeness_at_risk.md): same source document (doc_0096)
+- [Discogs As Music Database And Marketplace](discogs_music_database_and_marketplace.md): same source document (doc_0096)
+- [Discogs Seller Livelihoods](discogs_seller_livelihoods.md): same source document (doc_0096)
+- [Discogs' Site Dysfunction And Redesign](discogs_site_dysfunction_and_redesign.md): same source document (doc_0096)
+- [Discogs' Stated Justification For The Fee Increase](discogs_stated_justification_for_fee_increase.md): same source document (doc_0096)
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

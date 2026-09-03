@@ -13,6 +13,7 @@ The jury then saw the fabrication deployed in public: a Good Morning America app
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): the other immunized witness, from a different source document.
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): overlaps on Bankman-Fried, Alameda and Yedidia, from a different source document.
 - [Alameda's Special Privileges in FTX's Code](alameda_special_privileges_in_ftx_code.md): overlaps on Bankman-Fried, loans and funds, from a different source document.
@@ -21,6 +22,8 @@ The jury then saw the fabrication deployed in public: a Good Morning America app
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the borrowing that no margin program could explain (doc_0121).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): another arrangement needing a cover story (doc_0121).
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): how the hole Sun was asked to explain was dug (doc_0121).
+- [Allow_negative: Alameda's Exemption From FTX Liquidation](ftx_alameda_allow_negative_liquidation_exemption.md): same source document (doc_0121)
+- [FTX Fraud Charges And The SEC's Allegation](ftx_fraud_charges_and_sec_allegation.md): same source document (doc_0121)
 
 ## Source
 

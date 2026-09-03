@@ -11,6 +11,7 @@ The scope limit matters because Delta has more than 20 airline partners and card
 
 ## Related Notes
 
+
 - [Amex Cash Magnet Travel Limitations](amex_cash_magnet_travel_limitations.md): overlaps on travel redemption limits and fees, from a different source document.
 - [Airpods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): overlaps on discount and msrp subject matter, from a different source document.
 - [Airpods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): overlaps on discount and msrp subject matter, from a different source document.
@@ -19,6 +20,13 @@ The scope limit matters because Delta has more than 20 airline partners and card
 - [Amazon Fire Hd 8 and Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): overlaps on discount and msrp subject matter, from a different source document.
 - [Amazon Fire Tv Stick Deals](amazon_fire_tv_stick_deals.md): overlaps on discount and msrp subject matter, from a different source document.
 - [Amazon Kindle and Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): overlaps on discount and msrp subject matter, from a different source document.
+- [Chase Ink Business Preferred As An Alternative To The Delta Gold Business Card](chase_ink_business_preferred_card_comparison.md): same source document (doc_0557)
+- [Delta Gold Business Card Fees And Eligibility](delta_gold_business_card_fees_and_eligibility.md): same source document (doc_0557)
+- [The Delta SkyMiles Gold Business American Express Card](delta_skymiles_gold_business_amex_card.md): same source document (doc_0557)
+- [Delta SkyMiles Gold Business Card Rewards Rates](delta_skymiles_gold_business_rewards_rates.md): same source document (doc_0557)
+- [Delta SkyMiles Gold Business Card Travel Perks](delta_skymiles_gold_business_travel_perks.md): same source document (doc_0557)
+- [The Delta SkyMiles Gold Business Welcome Bonus](delta_skymiles_gold_business_welcome_bonus.md): same source document (doc_0557)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

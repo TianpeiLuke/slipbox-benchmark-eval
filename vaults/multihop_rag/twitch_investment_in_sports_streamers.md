@@ -13,11 +13,18 @@ That covers formats including podcasts, talk shows, reaction streams, sidecasts,
 
 ## Related Notes
 
+
 - [Alliance DAO Accelerator Program](alliance_dao_accelerator_program.md): incidental accelerator-program vocabulary overlap from an unrelated source document
 - [AOC's Twitch Among Us Stream](aoc_twitch_among_us_stream.md): another Twitch streaming subject from a separate article
 - [NFL Thanksgiving Day Games 2023 Viewership](nfl_thanksgiving_day_games_2023_viewership.md): overlapping viewership vocabulary from a different document
 - [Right-Wing Online Audience Growth](right_wing_online_audience_growth.md): overlapping Twitch and viewership vocabulary from a separate source
 - [Twitch Advertising Strategy](twitch_advertising_strategy.md): another Twitch platform-business subject from a different article
+- [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): same source document (doc_0435)
+- [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): same source document (doc_0435)
+- [EsfandTV's Sports Streaming Channel](esfandtv_sports_streaming_channel.md): same source document (doc_0435)
+- [Keira Megan's Sports Watch-Along Streams](keira_megan_sports_watch_along_streams.md): same source document (doc_0435)
+- [Leagues Should Partner With Twitch Streamers Rather Than Block Markets](sports_league_partnerships_with_twitch_streamers.md): same source document (doc_0435)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

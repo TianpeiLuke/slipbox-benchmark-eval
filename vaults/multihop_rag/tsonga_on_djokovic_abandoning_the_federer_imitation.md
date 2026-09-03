@@ -13,6 +13,7 @@ Tsonga identified the specific trait Djokovic had been suppressing, and argued t
 
 ## Related Notes
 
+
 - [Australia's Davis Cup Semi-Final Win Over Finland](australia_davis_cup_semi_final_win_over_finland.md): also discusses Novak Djokovic, from a different document.
 - [Jannik Sinner's Double Win Over Djokovic In The Davis Cup](jannik_sinner_double_win_over_djokovic_davis_cup.md): also discusses Novak Djokovic, from a different document.
 - [Becker's Claim That Kyrgios Owes His Career To Tennis Trailblazers](becker_claim_kyrgios_owes_career_to_tennis_trailblazers.md): another item in the same tennis news round-up.
@@ -20,6 +21,9 @@ Tsonga identified the specific trait Djokovic had been suppressing, and argued t
 - [Djokovic On His Relationship With Federer And Nadal](djokovic_on_his_relationship_with_federer_and_nadal.md): Djokovic's own account of the rivalry Tsonga describes, from the same report.
 - [The Kyrgios-Becker Social Media Feud Of December 2023](kyrgios_becker_social_media_feud_december_2023.md): another item in the same round-up.
 - [Lleyton Hewitt's United Cup 2024 Captaincy](lleyton_hewitt_united_cup_2024_captaincy.md): another item in the same round-up.
+- [Kyrgios' Rebuttal That He Grew The Tennis Audience](kyrgios_rebuttal_that_he_grew_the_tennis_audience.md): same source document (doc_0342)
+- [Murray And Rune's Brisbane International Doubles Entry For 2024](murray_and_rune_brisbane_international_doubles_2024.md): same source document (doc_0342)
+- [Pliskova's Claim That The WTA Tour Lost Its Charisma](pliskova_claim_wta_tour_lost_its_charisma.md): same source document (doc_0342)
 
 ## Source
 

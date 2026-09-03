@@ -11,6 +11,7 @@ For the Steelers D/ST, the case was that Pittsburgh can get after the quarterbac
 
 ## Related Notes
 
+
 - [Cardinals 24-10 Steelers, Week 13](cardinals_24_10_steelers_week_13.md): covers the Pittsburgh quarterback situation behind this projection, from a different document.
 - [Jabrill Peppers Patriots Midseason MVP](jabrill_peppers_patriots_midseason_mvp.md): covers the Patriots defense praised here, from a different document.
 - [Patriots 26-23 Broncos on Christmas Eve 2023](patriots_26_23_broncos_christmas_eve_result.md): another low-scoring Patriots contest turning on turnovers and kicking, from a different document.
@@ -19,6 +20,8 @@ For the Steelers D/ST, the case was that Pittsburgh can get after the quarterbac
 - [DraftKings Showdown and FanDuel Single-Game Scoring Rules](draftkings_showdown_and_fanduel_single_game_scoring_rules.md): gives the scoring rules these picks are made under, from the same document.
 - [Ezekiel Elliott, Patriots Lead Back and FanDuel MVP](ezekiel_elliott_patriots_lead_back_fanduel_mvp.md): the MVP slot in the same lineup, from the same document.
 - [Najee Harris Steelers Ground Game FanDuel Pick](najee_harris_steelers_ground_game_fanduel_pick.md): another pick in the same lineup, from the same document.
+- [The Patriots-Steelers SuperDraft Single-Game Lineup](patriots_steelers_superdraft_single_game_lineup.md): same source document (doc_0583)
+- [Patriots-Steelers Week 14 Thursday Night Context](patriots_steelers_week_14_thursday_night_context.md): same source document (doc_0583)
 
 ## Source
 

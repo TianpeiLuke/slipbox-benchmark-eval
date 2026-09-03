@@ -11,6 +11,7 @@ Asked what an "autonomous version" of Roblox means, Baszucki said that as with a
 
 ## Related Notes
 
+
 - [Capital Rotation from China into Japanese Assets](capital_rotation_from_china_into_japanese_assets.md): overlaps on China and Japan, from a different source document.
 - [Epic and Google's Courtroom Hypocrisy](epic_and_google_courtroom_hypocrisy.md): overlaps on China and Tencent, from a different source document.
 - [Haigui and the Guihai Returnee Founder Cycle](haigui_guihai_returnee_founder_cycle.md): overlaps on China, Tencent and venture investment, from a different source document.
@@ -19,6 +20,8 @@ Asked what an "autonomous version" of Roblox means, Baszucki said that as with a
 - [Metaverse Interoperability and 3D File Formats](metaverse_interoperability_and_3d_file_formats.md): another strategic thread from the same interview (doc_0539).
 - [Roblox Advertising and Brand Experiences](roblox_advertising_and_brand_experiences.md): another growth avenue from the same interview (doc_0539).
 - [Roblox Aging Up: An Older User Base](roblox_aging_up_older_user_base.md): the demographic growth story alongside the geographic one (doc_0539).
+- [Roblox As A Communication Platform, Not A Game](roblox_as_communication_platform_not_game.md): same source document (doc_0539)
+- [Roblox's Content Delivery Architecture Versus App Stores](roblox_content_delivery_architecture_vs_app_stores.md): same source document (doc_0539)
 
 ## Source
 

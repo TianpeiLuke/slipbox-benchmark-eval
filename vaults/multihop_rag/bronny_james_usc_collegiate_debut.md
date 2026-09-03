@@ -13,6 +13,7 @@ James, a guard, was listed at 6-foot-4 and 210 pounds, and had had a great prep 
 
 ## Related Notes
 
+
 - [Hoop Dreams: Steve James Documentary](hoop_dreams_steve_james_documentary.md): shares surface overlap on basketball and the name James, from a different document.
 - [Luton Town Win Over Newcastle After Lockyer Cardiac Arrest](luton_town_win_over_newcastle_after_lockyer_cardiac_arrest.md): another athlete returning to the picture after a cardiac arrest, from a different document.
 - [NFL Week 13 Injuries: 49ers at Eagles](nfl_week_13_injuries_49ers_at_eagles.md): overlaps on practice status and availability language, from a different document.
@@ -21,6 +22,7 @@ James, a guard, was listed at 6-foot-4 and 210 pounds, and had had a great prep 
 - [USC Player of the Year Candidates: Collier and Ellis](usc_player_of_the_year_candidates_collier_and_ellis.md): the teammates he joins, from the same document.
 - [USC Remaining 2023-24 Schedule Outlook](usc_remaining_2023_24_schedule_outlook.md): what his arrival could mean for the schedule ahead, from the same document.
 - [USC Trojans 2023-24 Early Season Struggles](usc_trojans_2023_24_early_season_struggles.md): the team situation he was joining, from the same document.
+- [USC's Supporting Cast Around Bronny James](usc_trojans_2023_24_supporting_roster.md): same source document (doc_0103)
 
 ## Source
 

@@ -15,11 +15,19 @@ Other controversies span platforms and schools. Discord integrated OpenAI's tech
 
 ## Related Notes
 
+
 - [ChatGPT as User Experience Breakthrough](chatgpt_as_user_experience_breakthrough.md): substantial content overlap on chatgpt, openai, text-generating, from a different source document.
 - [ChatGPT Launch and First Year Evolution](chatgpt_launch_and_first_year_evolution.md): substantial content overlap on chatgpt, openai, models, from a different source document.
 - [ChatGPT Usage Statistics Late 2023](chatgpt_usage_statistics_late_2023.md): substantial content overlap on chatgpt, openai, data, from a different source document.
 - [EU Commission Prior Requests for Information to X](eu_commission_prior_requests_for_information_to_x.md): shares the data privacy and disinformation theme, from a different source document.
 - [Google Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): shares the data privacy and disinformation theme, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): same source document (doc_0048)
+- [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): same source document (doc_0048)
+- [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): same source document (doc_0048)
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Disinformation](term_disinformation.md): uses the concept disinformation
 
 ## Source
 

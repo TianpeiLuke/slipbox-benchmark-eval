@@ -11,11 +11,18 @@ Apple Music is listed at $25 as a great gift for the casual listener, offering m
 
 ## Related Notes
 
+
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): also concerns Dolby Atmos, from a different source document.
 - [Apple Gift Card Amazon Credit Deal](apple_gift_card_amazon_credit_deal.md): also concerns Apple Music, from a different source document.
 - [David Pakman's CoinFund Venture Background](david_pakman_coinfund_venture_background.md): also concerns Apple Music, from a different source document.
 - [Discogs' Stated Justification For Its Fee Increase](discogs_stated_justification_for_fee_increase.md): also concerns Olivia Rodrigo, from a different source document.
 - [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): also mentions Olivia Rodrigo, from a different source document.
+- [Console Subscription And Store Gift Cards For Gamers](console_subscription_and_store_gift_cards_for_gamers.md): same source document (doc_0291)
+- [Ebook, Comic And Book Club Subscription Gifts](ebook_comic_and_book_club_subscription_gifts.md): same source document (doc_0291)
+- [Fitness And Mindfulness Subscription Gifts](fitness_and_mindfulness_subscription_gifts.md): same source document (doc_0291)
+- [Food, Wine And Coffee Subscription Gifts](food_wine_and_coffee_subscription_gifts.md): same source document (doc_0291)
+- [General Purpose Retailer Gift Cards](general_purpose_retailer_gift_cards.md): same source document (doc_0291)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

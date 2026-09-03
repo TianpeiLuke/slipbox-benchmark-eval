@@ -13,6 +13,7 @@ The ending sparked an argument between Mayweather and HBO analyst Larry Merchant
 
 ## Related Notes
 
+
 - [Canelo and McGregor Pay-Per-View Purse History](canelo_and_mcgregor_pay_per_view_purse_history.md): overlaps on Mayweather and Conor McGregor, from a different document.
 - [Canelo's Projected Path to Mayweather Wealth](canelo_projected_path_to_mayweather_wealth.md): overlaps on Floyd Mayweather and McGregor, from a different document.
 - [Corrales vs Castillo, 2005 Lightweight Classic](corrales_vs_castillo_2005_lightweight_classic.md): also concerns Floyd Mayweather, from a different document.
@@ -21,6 +22,8 @@ The ending sparked an argument between Mayweather and HBO analyst Larry Merchant
 - [Adolpho Washington vs Virgil Hill, 1993: The Camera Stoppage](adolpho_washington_virgil_hill_1993_camera_stoppage.md): drawn from the same document (doc_0228).
 - [Bernard Hopkins vs Robert Allen, 1998: The Referee's Fall](bernard_hopkins_robert_allen_1998_referee_fall.md): drawn from the same document (doc_0228).
 - [The Scope of talkSPORT's Craziest Boxing Fight Endings Ranking](boxing_unorthodox_fight_endings_ranking_scope.md): drawn from the same document (doc_0228).
+- [Efe Ajagba vs Curtis Harper, 2018: The Walkout](efe_ajagba_curtis_harper_2018_walkout.md): same source document (doc_0228)
+- [Kermit Cintron vs Paul Williams, 2004: The Ring Exit](kermit_cintron_paul_williams_2004_ring_exit.md): same source document (doc_0228)
 
 ## Source
 

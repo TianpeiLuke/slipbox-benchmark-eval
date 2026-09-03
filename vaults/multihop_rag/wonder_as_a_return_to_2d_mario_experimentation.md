@@ -11,11 +11,18 @@ The warrant is that Wonder revives the old spirit specifically by letting the de
 
 ## Related Notes
 
+
 - [Kids Toy And Playset Gifts 2023](kids_toy_and_playset_gifts_2023.md): another article referencing the Super Mario Bros franchise
 - [Luigi's Mansion 3](luigis_mansion_3.md): another Nintendo title covered separately
 - [Mario Kart 8 Deluxe](mario_kart_8_deluxe.md): another Nintendo franchise entry from a different article
 - [Nostalgia Driven Major Game Releases 2023](nostalgia_driven_major_game_releases_2023.md): the nostalgia-release trend this argument positions Wonder against
 - [Prime Day Console And Controller Deals October 2023](prime_day_console_and_controller_deals_october_2023.md): another article touching the same franchise in a retail context
+- [Super Mario Bros. Wonder As A Send-Off For The Switch](super_mario_bros_wonder_as_a_switch_send_off.md): same source document (doc_0606)
+- [The Badge System In Super Mario Bros. Wonder](super_mario_bros_wonder_badge_system.md): same source document (doc_0606)
+- [Multiplayer In Super Mario Bros. Wonder](super_mario_bros_wonder_multiplayer_mode.md): same source document (doc_0606)
+- [Wonder Seeds And The Transformations They Trigger](super_mario_bros_wonder_wonder_seed_transformations.md): same source document (doc_0606)
+- [Wonder's Disposable-Idea Design As An Alternative To "Forever Games"](wonder_disposable_idea_design_versus_forever_games.md): same source document (doc_0606)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

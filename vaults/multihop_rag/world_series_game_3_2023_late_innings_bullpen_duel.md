@@ -15,12 +15,18 @@ In the ninth the Diamondbacks stayed with Frias, who walked Evan Carter to start
 
 ## Related Notes
 
+
 - [Diamondbacks Late Rally World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): also covers Andrew Saalfrank and Corbin Carroll, from a different source document
 - [Diamondbacks Ninth Inning Insurance Runs](diamondbacks_ninth_inning_insurance_runs.md): a comparable late-inning account of the same two teams, different source document
 - [Kansas City Royals 2023 Offseason Signings](kansas_city_royals_2023_offseason_signings.md): also concerns Aroldis Chapman, from a different source document
 - [Kelly Finishes Seventh and Saalfrank Holds Texas](kelly_finishes_seventh_and_saalfrank_holds_texas.md): another Saalfrank relief appearance against Texas, different source document
 - [Ketel Marte 20-Game Postseason Hitting Streak 2023](ketel_marte_20_game_postseason_hitting_streak_2023.md): the streak that Marte's sixth-inning single here extended, different source document
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): the injury first visible in this eighth inning, same source document
+- [Brandon Pfaadt's Start In World Series Game 3](brandon_pfaadt_start_world_series_game_3.md): same source document (doc_0495)
+- [Corey Seager's Home Runs In The 2023 World Series](corey_seager_home_runs_2023_world_series.md): same source document (doc_0495)
+- [Jon Gray's Surprise Relief Outing In World Series Game 3](jon_gray_emergency_relief_world_series_game_3.md): same source document (doc_0495)
+- [Marcus Semien's Big Hits In World Series Games 3 And 4](marcus_semien_five_rbi_world_series_game_4.md): same source document (doc_0495)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

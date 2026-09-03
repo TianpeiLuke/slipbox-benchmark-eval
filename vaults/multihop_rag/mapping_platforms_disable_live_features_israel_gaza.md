@@ -13,6 +13,7 @@ The Hill reports that Apple Maps took similar action in compliance with the IDF'
 
 ## Related Notes
 
+
 - [Disinformation On X About Gaza](disinformation_on_x_gaza.md): also concerns information flows about the Gaza Strip, from a different document.
 - [EU Warning Letter To X](eu_warning_letter_to_x.md): also concerns platform conduct during the Gaza conflict, from a different document.
 - [Eylon Levy's Aliyah And IDF Service](eylon_levy_aliyah_and_idf_service.md): also concerns the IDF and the Gaza Strip, from a different document.
@@ -21,6 +22,8 @@ The Hill reports that Apple Maps took similar action in compliance with the IDF'
 - [The Gaza Conflict's Information Environment, Late 2023](gaza_conflict_information_environment_late_2023.md): drawn from the same source document (doc_0124).
 - [Gaza's Internet Blackout And Connectivity](gaza_internet_blackout_and_connectivity.md): drawn from the same source document (doc_0124).
 - [Palestinian Content Moderation Distrust On Meta's Platforms](palestinian_content_moderation_distrust_meta_platforms.md): drawn from the same source document (doc_0124).
+- [Snap's Decision To Keep The Gaza Heat Map Live](snap_decision_to_keep_gaza_heat_map_live.md): same source document (doc_0124)
+- [Snap Map's History As A Civic Documentation Tool](snap_map_as_civic_documentation_tool.md): same source document (doc_0124)
 
 ## Source
 

@@ -11,6 +11,7 @@ Matt Jancer, who has wheeled, lifted, and slung around a lot of budget bags over
 
 ## Related Notes
 
+
 - [Lumesner Carry-On Backpack](lumesner_carry_on_backpack.md): also concerns Hydro Flask, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
 - [Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): drawn from the same source document (doc_0520).
@@ -19,6 +20,8 @@ Matt Jancer, who has wheeled, lifted, and slung around a lot of budget bags over
 - [Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): drawn from the same source document (doc_0520).
 - [Anker 2-In-1 MagSafe Standby Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): drawn from the same source document (doc_0520).
 - [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): drawn from the same source document (doc_0520).
+- [Anker 3-In-1 MagSafe Charging Dock Deal Listings](anker_3_in_1_magsafe_charging_dock_deal_listings.md): same source document (doc_0520)
+- [Anker 737 Power Bank Deal Listings](anker_737_power_bank_deal_listings.md): same source document (doc_0520)
 
 ## Source
 

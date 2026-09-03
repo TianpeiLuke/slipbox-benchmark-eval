@@ -11,6 +11,7 @@ The grounds begin with why interdiction is so hard: "We are working very hard on
 
 ## Related Notes
 
+
 - [Gaza Information War and Hamas Narrative](gaza_information_war_and_hamas_narrative.md): also discusses Islamic Jihad, from a different source document.
 - [Mahsa Amini's Death and Iranian Women's Stories](mahsa_amini_death_and_iranian_womens_stories.md): another account of Iran's international standing, from a different source document.
 - [Adam Yedidia Testimony and the Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): overlaps on fraud subject matter, from a different source document.
@@ -19,6 +20,15 @@ The grounds begin with why interdiction is so hard: "We are working very hard on
 - [Alameda Special Privileges in FTX Code](alameda_special_privileges_in_ftx_code.md): overlaps on fraud subject matter, from a different source document.
 - [Bankman Fried Pre Collapse Public Image Strategy](bankman_fried_pre_collapse_public_image_strategy.md): overlaps on fraud subject matter, from a different source document.
 - [Binance Charges Bsa and Sanctions Violations](binance_charges_bsa_and_sanctions_violations.md): overlaps on fraud subject matter, from a different source document.
+- [Hamas Fundraising After October 7](hamas_fundraising_after_october_7.md): same source document (doc_0486)
+- [Hawala As The Main Money Transfer Channel Into Gaza](hawala_money_transfer_into_gaza.md): same source document (doc_0486)
+- [IMPA's Blocking Of A Hamas Fundraising Pipeline In Europe](impa_blocking_hamas_fundraising_in_europe.md): same source document (doc_0486)
+- [The International Terror Finance Task Force](international_terror_finance_task_force.md): same source document (doc_0486)
+- [Iran's State Funding Of Hamas](iran_state_funding_of_hamas.md): same source document (doc_0486)
+- [Israel's Money Laundering And Terror Financing Prohibition Authority](israel_money_laundering_and_terror_financing_authority.md): same source document (doc_0486)
+- [Private Sector Volunteers In Terror Finance Tracking](private_sector_volunteers_in_terror_finance_tracking.md): same source document (doc_0486)
+- [The Surge In Terror Financing Reports After October 7](surge_in_terror_financing_reports_after_october_7.md): same source document (doc_0486)
+- [Fraud](term_fraud.md): uses the concept fraud
 
 ## Source
 

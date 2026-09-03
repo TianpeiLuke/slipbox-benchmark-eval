@@ -11,11 +11,15 @@ The first attacks the value of levelling up. By the end of the first chapter she
 
 ## Related Notes
 
+
 - [Rogue Trader: Turn-Based Squad Combat](rogue_trader_turn_based_squad_combat.md): same source; the satisfying squad combat that voidship battles are contrasted with.
 - [Rogue Trader: CRPG Structure And Moral Paths](rogue_trader_crpg_structure_and_moral_paths.md): same source; the progression system these complaints target.
 - [Rogue Trader And 40K Lore Fidelity](rogue_trader_40k_lore_fidelity.md): same source; the praise this counter-argument is set against.
 - [Rogue Trader: Verdict And Release Details](rogue_trader_verdict_and_release_details.md): same source; the verdict that weighs these annoyances against the strengths.
 - [Rogue Trader: The Companion Cast](rogue_trader_companion_cast.md): same source; the Senechal the reviewer wishes she could delegate to.
+- [Polygon's Selection Process for the Top 50 Games of 2023](polygon_top_50_games_of_2023_selection_process.md): both discuss Rogue Trader; different source document
+- [Rogue Trader: The Koronus Expanse Campaign](rogue_trader_koronus_expanse_campaign.md): same source document (doc_0592)
+- [Warhammer 40,000: Rogue Trader — Premise](warhammer_40k_rogue_trader_premise.md): same source document (doc_0592)
 
 ## Source
 

@@ -13,11 +13,18 @@ From there they looked at buy now, pay later consumer behavior and fintech fundr
 
 ## Related Notes
 
+
 - [Consumer Trading Recovery At Coinbase And Robinhood](consumer_trading_recovery_coinbase_and_robinhood.md): another Equity segment reading fintech recovery signals, from a different document.
 - [Fintech Startup Rankings 2023](fintech_startup_rankings_2023.md): covers the fintech startup market discussed here, from a different document.
 - [IronNet's Shutdown](ironnet_shutdown.md): shares the public-listing and restructuring themes, from a different document.
 - [The Payment Gatekeeper Antitrust View](payment_gatekeeper_antitrust_view.md): also reported by Mary Ann on payments, from a different document.
 - [PayPal Anti-Steering Lawsuit](paypal_anti_steering_lawsuit.md): also reported by Mary Ann on payments, from a different document.
+- [Apple's Generative AI Investment Stance](apple_generative_ai_investment_stance.md): same source document (doc_0116)
+- [Apple's M3 Chip Lineup And The M3 Mac Reviews](apple_m3_mac_reviews_and_chip_lineup.md): same source document (doc_0116)
+- [Aseel: From Afghan Artisan Ecommerce To Humanitarian Aid](aseel_afghan_artisan_ecommerce_to_humanitarian_aid.md): same source document (doc_0116)
+- [Bumble's CEO Transition To Lidiane Jones](bumble_ceo_transition_lidiane_jones.md): same source document (doc_0116)
+- [EV Sector Setbacks: Arrival And US Automakers](ev_sector_setbacks_arrival_and_us_automakers.md): same source document (doc_0116)
+- [Initial Public Offering (IPO)](term_initial_public_offering.md): uses the concept initial public offering
 
 ## Source
 

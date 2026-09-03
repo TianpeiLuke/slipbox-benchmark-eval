@@ -11,6 +11,7 @@ The warrant tying that to Sam Howell's Fantasy value is that getting the ball ou
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another start/sit call covering Curtis Samuel, from a different source document.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): also covers Tyreek Hill among the week's top plays, from a different source document.
 - [Colorado Offensive Line Sacks Allowed 2023](colorado_offensive_line_sacks_allowed_2023.md): shares the sacks-and-pressure-allowed framing applied to a different team, from a different source document.
@@ -19,6 +20,8 @@ The warrant tying that to Sam Howell's Fantasy value is that getting the ball ou
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
 
 ## Source
 

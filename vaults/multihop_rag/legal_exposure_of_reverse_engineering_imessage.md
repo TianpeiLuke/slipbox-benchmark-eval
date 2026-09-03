@@ -13,10 +13,18 @@ What may hold Apple at bay is regulatory timing rather than copyright law. The D
 
 ## Related Notes
 
+
 - [Apple Blocks Beeper Mini iMessage Access](apple_blocks_beeper_mini_imessage_access.md): also covers Beeper Mini, from a different source document.
 - [Beeper Mini Service Restoration and Apple ID Workaround](beeper_mini_service_restoration_and_apple_id_workaround.md): also covers Beeper Mini, from a different source document.
 - [Beeper Security Audit Challenge to Apple](beeper_security_audit_challenge_to_apple.md): also covers Beeper Mini, from a different source document.
 - [Elizabeth Warren Criticism of Apple Blocking Beeper](elizabeth_warren_criticism_of_apple_blocking_beeper.md): substantial content overlap on beeper, apple, block, from a different source document.
+- [Beeper's Company Background And Founders](beeper_company_background_and_founders.md): same source document (doc_0540)
+- [Beeper's Funding And Investors](beeper_funding_and_investors.md): same source document (doc_0540)
+- [Beeper Mini's Encryption And Audit Status](beeper_mini_encryption_and_audit_status.md): same source document (doc_0540)
+- [Beeper Mini Hands-On Test Results](beeper_mini_hands_on_test_results.md): same source document (doc_0540)
+- [Beeper Mini As An iMessage Client For Android](beeper_mini_imessage_client_for_android.md): same source document (doc_0540)
+- [Beeper's Open Source Transparency Effort](beeper_open_source_transparency_effort.md): same source document (doc_0540)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
 
 ## Source
 

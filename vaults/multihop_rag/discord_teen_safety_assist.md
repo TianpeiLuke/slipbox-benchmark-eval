@@ -15,10 +15,17 @@ One boundary is worth recording. An update to the story on October 20, 2023 note
 
 ## Related Notes
 
+
 - [The Accredited Technology Clause And The Encryption Objection](online_safety_act_accredited_technology_and_encryption.md): concerns the regulatory side of protecting minors online, from a different source document.
 - [Technology Neutrality: How The Online Safety Act Covers AI Content](online_safety_act_technology_neutral_treatment_of_ai.md): concerns the regulatory side of the same harms, from a different source document.
 - [The Compliance Burden On Nonprofits](online_safety_compliance_burden_on_nonprofits.md): concerns the cost of the regulatory regime these voluntary features anticipate, from a different source document.
 - [Ofcom's First Guidelines Under The UK Online Safety Act](uk_online_safety_act_ofcom_first_guidelines.md): the regulatory duty of care that mirrors these voluntary safeguards, from a different source document.
+- [Ofcom's Recommended Practices And Enforcement For Illegal Harms](ofcom_illegal_harms_codes_of_practice.md): same sub-plan (Online platform safety: the UK Online Safety Act and Discord's teen safeguards), different source document
+- [Scrutiny Of Discord's CSAM Response After The NBC News Report](discord_csam_scrutiny_after_nbc_news_report.md): same source document (doc_0505)
+- [Discord's Graduated Warning System And Account Standing](discord_graduated_warning_system_and_account_standing.md): same source document (doc_0505)
+- [Discord Premium App Subscriptions And App Portability](discord_premium_app_subscriptions_and_app_portability.md): same source document (doc_0505)
+- [Discord's Shop, Remix And Client Improvements](discord_shop_remix_and_client_improvements.md): same source document (doc_0505)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

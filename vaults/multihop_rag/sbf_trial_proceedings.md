@@ -15,11 +15,20 @@ A second account of the same events was arriving in parallel: "Going Infinite," 
 
 ## Related Notes
 
+
 - [Adam Yedidia's Testimony And The $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): also about Sam Bankman-Fried, from a different source document.
 - [Alameda's Special Privileges Written Into FTX's Code](alameda_special_privileges_in_ftx_code.md): also about Sam Bankman-Fried, from a different source document.
 - [Binance's Market Position And Its 2023 Setbacks](binance_market_position_and_2023_setbacks.md): shares the crypto-exchange collapse vocabulary, from a different source document.
 - [Caroline Ellison's Guilty Plea And First Day Of Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): also about Sam Bankman-Fried, from a different source document.
 - [ChatGPT In Education And Academic Integrity](chatgpt_in_education_and_academic_integrity.md): also mentions Stanford University, from a different source document.
+- [Crypto Contagion After FTX](crypto_contagion_after_ftx.md): same source document (doc_0030)
+- [FTX](ftx.md): same source document (doc_0030)
+- [The Mechanism Of FTX's Collapse](ftx_collapse_mechanism.md): same source document (doc_0030)
+- [FTX's Marketing And Political Influence](ftx_marketing_and_influence.md): same source document (doc_0030)
+- [Reaction To Lewis's Portrayal Of SBF](reaction_to_lewis_portrayal.md): same source document (doc_0030)
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Cross-Examination](term_cross_examination.md): uses the concept cross examination
 
 ## Source
 

@@ -11,6 +11,7 @@ Her mechanism is behavioural rather than technical: "By simply foregoing the win
 
 ## Related Notes
 
+
 - [COP28 Renewable Energy Commitments And The IEA Outlook](cop28_renewable_energy_commitments_and_the_iea_outlook.md): another article on energy demand and emissions policy
 - [India Renewable And Thermal Capacity Policy 2023](india_renewable_and_thermal_capacity_policy_2023.md): comparable coverage of managing electricity demand
 - [Autumn Clock Change And Depressive Episodes](autumn_clock_change_and_depressive_episodes.md): the health strand of the same abolition case
@@ -18,6 +19,9 @@ Her mechanism is behavioural rather than technical: "By simply foregoing the win
 - [Clock Change And Road Accident Risk](clock_change_and_road_accident_risk.md): the road-safety argument for the same reform
 - [Clock Change Circadian Disruption And Immunity](clock_change_circadian_disruption_and_immunity.md): the sleep-and-health argument in the same article
 - [Clocks Going Back And The Drop In Heart Attacks](clocks_going_back_and_the_drop_in_heart_attacks.md): evidence cutting the other way on the autumn change
+- [Sleep School's Impartial Position On The Clock Change's Impact](sleep_school_impartial_on_clock_change_impact.md): same source document (doc_0339)
+- [UK Clock Change Dates For 2023 And 2024](uk_clock_change_dates_2023_and_2024.md): same source document (doc_0339)
+- [Reserve Mobilisation](term_reserve_mobilisation.md): uses the concept reserve mobilisation
 
 ## Source
 

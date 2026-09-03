@@ -13,11 +13,17 @@ Jamaica's absences were more serious. Star striker Michail Antonio suffered an A
 
 ## Related Notes
 
+
 - [Belgium-England Women's Nations League Result, October 2023](belgium_england_womens_nations_league_result_october_2023.md): another Nations League item, from a different document.
 - [Canada's Path to Copa America 2024 Qualification](canada_copa_america_2024_qualification_path.md): also covers Michail Antonio's absence and the Nations League stakes, separately sourced.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): another item involving West Ham, in a different document.
 - [Carabao Cup 2023-24 Semifinal Draw and Fixtures](carabao_cup_2023_24_semifinal_draw_and_fixtures.md): also concerns West Ham, from a separate source.
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): another West Ham item, in a different document.
+- [The First Half Of Canada 2-3 Jamaica](canada_jamaica_second_leg_first_half.md): same source document (doc_0232)
+- [Canada vs Jamaica Second Leg: Kickoff And Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): same source document (doc_0232)
+- [Jamaica 3-2 Canada: The Reggae Boyz Advance On Away Goals](canada_jamaica_second_leg_result.md): same source document (doc_0232)
+- [The Second Half Of Canada 2-3 Jamaica](canada_jamaica_second_leg_second_half.md): same source document (doc_0232)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

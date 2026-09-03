@@ -11,6 +11,7 @@ The contradiction attacks the reliability of the platform's own content-volume c
 
 ## Related Notes
 
+
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): also concerns Elon Musk, from a different source document.
 - [ChatGPT Misuse Fears Versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): also concerns Elon Musk, and likewise contrasts a claim with observed figures, from a different source document.
 - [Cybertruck Bed Size And Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): also concerns Elon Musk, from a different source document.
@@ -19,6 +20,8 @@ The contradiction attacks the reliability of the platform's own content-volume c
 - [Acurable's Patient-Friendly Respiratory Wearables](acurable_respiratory_wearables.md): another item from the same October 7, 2023 Week in Review (doc_0011).
 - [AI Startup Defensibility](ai_startup_defensibility.md): another item from the same source document (doc_0011).
 - [Breathe Battery Technologies' Charging Software](breathe_battery_software.md): another item from the same source document (doc_0011).
+- [Flexport Leadership Turmoil](flexport_leadership_turmoil.md): same source document (doc_0011)
+- [Gmail's New Rules For Bulk Senders](gmail_bulk_sender_rules.md): same source document (doc_0011)
 
 ## Source
 

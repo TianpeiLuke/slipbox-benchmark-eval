@@ -11,6 +11,7 @@ The listed titles were: The Pope's Exorcist, Bottoms, Rye Lane, No Hard Feelings
 
 ## Related Notes
 
+
 - [Creature Commandos Animated Series](creature_commandos_animated_series.md): both mention Guardians of the Galaxy Vol. 3, from a different source document
 - [The Hole in the Ground (Irish Horror)](the_hole_in_the_ground_irish_horror.md): both touch on Evil Dead Rise, from a separate article
 - [The Social Network (Netflix Editor's Pick)](the_social_network_netflix_editors_pick.md): both reference Red, White & Royal Blue, from a different document
@@ -19,6 +20,8 @@ The listed titles were: The Pope's Exorcist, Bottoms, Rye Lane, No Hard Feelings
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another film from the same article that did place inside the ranked top 50
 - [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): a film from the same article that did make the ranked list
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): another same-article entry that placed inside the top 50
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
 
 ## Source
 

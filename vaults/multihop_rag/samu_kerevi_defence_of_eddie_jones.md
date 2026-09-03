@@ -13,6 +13,7 @@ He conceded the standard by which coaches are judged while denying the conclusio
 
 ## Related Notes
 
+
 - [Don McLean on the Emotional Power of Music](don_mclean_on_the_emotional_power_of_music.md): shares an indexing theme with this note, from a different document.
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): shares the coaching-change theme, from a different document.
 - [Argentina Squad and Lineup vs Paraguay, October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): shares the coaching-change theme, from a different document.
@@ -21,6 +22,10 @@ He conceded the standard by which coaches are judged while denying the conclusio
 - [Artemi Panarin Shots on Goal Prop](artemi_panarin_shots_on_goal_prop.md): shares the coaching-change theme, from a different document.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): shares the coaching-change theme, from a different document.
 - [Big Ten Head Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): shares the coaching-change theme, from a different document.
+- [Samu Kerevi's Message On The State Of Australian Rugby](samu_kerevi_message_on_state_of_australian_rugby.md): same source document (doc_0168)
+- [Samu Kerevi's 2023 Rugby World Cup Disappointment](samu_kerevi_rugby_world_cup_2023_disappointment.md): same source document (doc_0168)
+- [The Wallabies' 2023 Rugby World Cup Pool C Elimination Scenario](wallabies_rugby_world_cup_2023_pool_c_elimination_scenario.md): same source document (doc_0168)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

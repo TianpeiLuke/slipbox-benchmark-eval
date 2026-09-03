@@ -15,11 +15,19 @@ The caveats are cost and omissions. The Instinct Pro feels like Scuf essentially
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick For Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): another Xbox Series input device, from a different source document.
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): another controller with rear buttons and triggers, from a different source document.
 - [Alan Wake 2](alan_wake_2.md): shares the Xbox Series platform, from a different source document.
 - [Amnesia: The Bunker](amnesia_the_bunker.md): shares the Xbox Series platform, from a different source document.
 - [Armored Core 6: Fires Of Rubicon](armored_core_6_fires_of_rubicon.md): shares the Xbox Series platform, from a different source document.
+- [Nacon Revolution X Controller](nacon_revolution_x_controller.md): same source document (doc_0350)
+- [PowerA Enhanced Wired Controller](powera_enhanced_wired_controller.md): same source document (doc_0350)
+- [PowerA Fusion Pro 3 Controller](powera_fusion_pro_3_controller.md): same source document (doc_0350)
+- [Turtle Beach Recon Controller](turtle_beach_recon_controller.md): same source document (doc_0350)
+- [How The Verge Evaluates Xbox Controllers](xbox_controller_evaluation_criteria.md): same source document (doc_0350)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

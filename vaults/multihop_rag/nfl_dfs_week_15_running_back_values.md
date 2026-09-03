@@ -11,11 +11,21 @@ With C.J. Stroud in the league's concussion protocol and Nico Collins (calf) joi
 
 ## Related Notes
 
+
 - [Baker Mayfield's Week 15 Stat Line at Lambeau Field](baker_mayfield_week_15_stat_line_at_lambeau.md): also covers Rachaad White, from a different document.
 - [Chicago Fire-Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): shares the coaching-change and league themes, from a different document.
 - [Cowboys-49ers Second Half Live Blog](cowboys_49ers_second_half_live_blog.md): also covers Jordan Mason, from a different document.
 - [Dak Prescott Week 6 2023 Sit Recommendation](dak_prescott_week6_2023_sit_recommendation.md): also covers Sam Howell, from a different document.
 - [Denver Broncos: Payton-Wilson Clock Management Friction](denver_broncos_payton_wilson_clock_management_friction.md): shares the coaching and NFL themes, from a different document.
+- [The DFS Sleeper And Value Lineup Construction Method](dfs_sleeper_and_value_lineup_construction_method.md): same source document (doc_0544)
+- [NFL DFS Week 15 Defense And Special Teams Values](nfl_dfs_week_15_defense_special_teams_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Quarterback Values](nfl_dfs_week_15_quarterback_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Tight End Values](nfl_dfs_week_15_tight_end_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Wide Receiver Values](nfl_dfs_week_15_wide_receiver_values.md): same source document (doc_0544)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

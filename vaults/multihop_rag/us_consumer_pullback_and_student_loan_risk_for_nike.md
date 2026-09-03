@@ -13,9 +13,18 @@ The timing means the effect was not yet measurable in these results. It is still
 
 ## Related Notes
 
+
 - [Federal Student Loan Payment Pause Ending 2023](federal_student_loan_payment_pause_ending_2023.md): the policy change creating this demand risk.
 - [Responsible Credit Card Use During Holidays](responsible_credit_card_use_during_holidays.md): another account of household budgets under loan repayment pressure.
 - [Student Loan Borrowers Curtailing Holiday Gift Spending](student_loan_borrowers_curtailing_holiday_gift_spending.md): direct evidence of the spending pullback anticipated here.
+- [Nike Direct-to-Consumer Channel Performance](nike_direct_to_consumer_channel_performance.md): same source document (doc_0215)
+- [Nike Fiscal 2024 Revenue and Margin Guidance](nike_fiscal_2024_revenue_and_margin_guidance.md): same source document (doc_0215)
+- [Nike Fiscal Q1 2024 Headline Results](nike_fiscal_q1_2024_headline_results.md): same source document (doc_0215)
+- [Nike Greater China Sales Recovery](nike_greater_china_sales_recovery.md): same source document (doc_0215)
+- [Nike Gross Margin Fiscal Q1 2024](nike_gross_margin_fiscal_q1_2024.md): same source document (doc_0215)
+- [Nike Inventory Reduction Fiscal Q1 2024](nike_inventory_reduction_fiscal_q1_2024.md): same source document (doc_0215)
+- [Nike Regional and Product Category Sales Fiscal Q1 2024](nike_regional_and_product_category_sales_fiscal_q1_2024.md): same source document (doc_0215)
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
 
 ## Source
 

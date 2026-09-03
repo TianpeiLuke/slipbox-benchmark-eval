@@ -11,6 +11,7 @@ While the pair battled for the championship in the Australian racing circuit, th
 
 ## Related Notes
 
+
 - [Aric Almirola Joe Gibbs Racing Xfinity Move](aric_almirola_joe_gibbs_racing_xfinity_move.md): overlaps on NASCAR racing moves, from a different document.
 - [Ford F-150 Outsells Mustang Among NASCAR Fans](ford_f150_outsells_mustang_among_nascar_fans.md): overlaps on NASCAR and championship terms, from a different document.
 - [Ford Racing Success As Brand Marketing Engine](ford_racing_success_as_brand_marketing_engine.md): also discusses NASCAR and Supercars, from a different document.
@@ -19,6 +20,8 @@ While the pair battled for the championship in the Australian racing circuit, th
 - [Autosport Top 50 Drivers 2023 NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): the list these two drivers made, from the same document.
 - [Chris Buescher 2023 Season Autosport Snub](chris_buescher_2023_season_autosport_snub.md): a claimed exclusion from the same list, from the same document.
 - [Christopher Bell 2023 Season Autosport Snub](christopher_bell_2023_season_autosport_snub.md): a claimed exclusion from the same list, from the same document.
+- [Denny Hamlin 2023 Season Autosport Snub](denny_hamlin_2023_season_autosport_snub.md): same source document (doc_0297)
+- [Ross Chastain 2023 Season Autosport Snub](ross_chastain_2023_season_autosport_snub.md): same source document (doc_0297)
 
 ## Source
 

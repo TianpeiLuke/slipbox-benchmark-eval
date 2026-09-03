@@ -11,11 +11,18 @@ Coinbase is the fourth-biggest global exchange by daily volume according to Coin
 
 ## Related Notes
 
+
 - [Apple Google Information Services Agreement](apple_google_information_services_agreement.md): also concerns Justice Department action against a large company, from a different source document.
 - [Binance And Zhao Plea Agreement Terms](binance_and_zhao_plea_agreement_terms.md): covers the terms of the plea deal summarised here, from a different source document.
 - [Binance CEO Succession Richard Teng](binance_ceo_succession_richard_teng.md): covers who replaced Zhao at the exchange, from a different source document.
 - [Binance Charges BSA And Sanctions Violations](binance_charges_bsa_and_sanctions_violations.md): covers the underlying charges, from a different source document.
 - [Binance DOJ Resolution And CZ Guilty Plea](binance_doj_resolution_and_cz_guilty_plea.md): covers the $4.3 billion resolution referenced here, from a different source document.
+- [Coinbase's SEC Standoff And The Call For Regulatory Clarity](coinbase_sec_standoff_and_regulatory_clarity.md): same source document (doc_0375)
+- [Coinbase's Stock Rally In November 2023](coinbase_stock_rally_november_2023.md): same source document (doc_0375)
+- [Spot Bitcoin ETFs And Coinbase's Competitive Outlook](spot_bitcoin_etfs_and_coinbase_competitive_outlook.md): same source document (doc_0375)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
+- [Total Addressable Market (TAM)](term_total_addressable_market.md): uses the concept total addressable market
+- [Initial Public Offering (IPO)](term_initial_public_offering.md): uses the concept initial public offering
 
 ## Source
 

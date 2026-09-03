@@ -11,6 +11,7 @@ At Pick 13, Denver takes Jer'Zhan Newton, DL, Illinois, a junior at 6'2" and 295
 
 ## Related Notes
 
+
 - [Brock Bowers Return From Tightrope Surgery](brock_bowers_return_from_tightrope_surgery.md): covers Brock Bowers' college season, from a different source document.
 - [Buffalo Bills Defensive Injuries 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): also covers Kansas City, from a different source document.
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): also covers Kansas City, from a different source document.
@@ -19,6 +20,8 @@ At Pick 13, Denver takes Jer'Zhan Newton, DL, Illinois, a junior at 6'2" and 295
 - [2024 Mock Draft Round 1 Defensive Backs](mock_draft_2024_round_1_defensive_backs.md): the defensive-back projections from the same mock draft (doc_0179).
 - [2024 Mock Draft Round 1 Edge Rushers](mock_draft_2024_round_1_edge_rushers.md): the edge-rusher projections from the same mock draft (doc_0179).
 - [2024 Mock Draft Round 1 Offensive Tackles](mock_draft_2024_round_1_offensive_tackles.md): the offensive-line projections from the same mock draft (doc_0179).
+- [2024 Mock Draft: Four Quarterbacks Off The Board In Round 1](mock_draft_2024_round_1_quarterbacks.md): same source document (doc_0179)
+- [2024 Mock Draft: Five Wide Receivers Projected In Round 1](mock_draft_2024_round_1_wide_receivers.md): same source document (doc_0179)
 
 ## Source
 

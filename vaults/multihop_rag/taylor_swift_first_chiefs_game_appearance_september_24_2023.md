@@ -15,11 +15,18 @@ Afterwards the two were photographed together for the first time, walking side b
 
 ## Related Notes
 
+
 - ["All You Had To Do Was Stay" Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): also discusses Taylor Swift, from a different document.
 - ["American Pie" Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): also discusses Taylor Swift, from a different document.
 - [Backlash To Travis Kelce's Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): also discusses Travis Kelce, from a different document.
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also discusses Taylor Swift and Travis Kelce and the coverage that followed appearances like this, from a different document.
 - ["Bad Blood" Taylor Swift-Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): also discusses Taylor Swift, from a different document.
+- [The Kelce Brothers' Criticism Of NFL Swift Coverage](kelce_brothers_criticism_of_nfl_swift_coverage.md): same source document (doc_0059)
+- [The NFL's Defence Of Its Taylor Swift-Themed Promotion](nfl_defence_of_its_taylor_swift_themed_promotion.md): same source document (doc_0059)
+- [NFL Figures React To The Swift-Kelce Romance](nfl_figures_react_to_the_swift_kelce_romance.md): same source document (doc_0059)
+- [The Swift-Kelce Dating Rumours Going Public In September 2023](swift_kelce_dating_rumours_go_public_september_2023.md): same source document (doc_0059)
+- [The Taylor Swift Effect On NFL Merchandise And Ticket Sales](taylor_swift_effect_on_nfl_merchandise_and_ticket_sales.md): same source document (doc_0059)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

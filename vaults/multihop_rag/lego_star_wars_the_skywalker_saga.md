@@ -13,6 +13,7 @@ The Skywalker Saga's scale is the draw: Lego versions of a whopping nine movies 
 
 ## Related Notes
 
+
 - [Lego Razor Crest Mandalorian Set](lego_razor_crest_mandalorian_set.md): overlapping Lego and minifig subject matter from a different source document
 - [Lego Star Wars Baby Yoda Deal and Doorbuster Decline](lego_star_wars_baby_yoda_deal_and_doorbuster_decline.md): another Lego Star Wars note from a separate article
 - [Prime Day 2023 Lego and Toy Deals](prime_day_2023_lego_and_toy_deals.md): another Lego minifig-focused note from a different document
@@ -21,6 +22,8 @@ The Skywalker Saga's scale is the draw: Lego versions of a whopping nine movies 
 - [Crypt of the NecroDancer](crypt_of_the_necrodancer.md): another local co-op recommendation from the same document
 - [Cuphead Local Co-Op](cuphead_local_co_op.md): another two-player pick in the same roundup
 - [Diablo 3 Switch Local Multiplayer](diablo_3_switch_local_multiplayer.md): another co-op entry from the same source
+- [Escape Academy](escape_academy.md): same source document (doc_0428)
+- [Good Job! (Nintendo Switch)](good_job_nintendo_switch.md): same source document (doc_0428)
 
 ## Source
 

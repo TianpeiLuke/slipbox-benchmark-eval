@@ -15,11 +15,16 @@ As the posts racked up a range of alarming and extreme responses on both sides o
 
 ## Related Notes
 
+
 - [Israel-Hamas War October 2023 Context](israel_hamas_war_october_2023_context.md): background on the Israel, Hamas and Gaza events that triggered this controversy, from a different source document.
 - [Web Summit CEO Katherine Maher](web_summit_ceo_katherine_maher.md): another note covering Paddy Cosgrave and Web Summit's leadership, from a different source document.
 - [Ohanian's Critique of Social Media and the Creator Economy](ohanian_social_media_critique.md): a companion note in the same platform-governance batch, on the pile-on dynamics visible here.
 - [Ohanian's Case for Techno-Optimism](ohanian_techno_optimism.md): a companion note in the same batch, on who answers for a platform's public stance.
 - [Why Platforms Cannot Arbitrate Truth](platform_truth_arbitration.md): a companion note in the same batch, on out-of-date data circulating as argument.
+- [Israeli Tech Industry Boycott of Web Summit](israel_tech_industry_boycott.md): same source document (doc_0267)
+- [Web Summit Business Impact](web_summit_business_impact.md): same source document (doc_0267)
+- [Dangerous Organizations and Individuals Policy](term_dangerous_organizations_policy.md): uses the concept dangerous organizations policy
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

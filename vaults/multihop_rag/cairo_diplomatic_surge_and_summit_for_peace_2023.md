@@ -11,6 +11,7 @@ In the days since Hamas — which the US and Europe designate a terrorist group 
 
 ## Related Notes
 
+
 - [AFC 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): also concerns the Middle East, from a different source document.
 - [Apple-Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): also concerns President Joe Biden, from a different source document.
 - [ASPI Analysis Of TikTok Pixel Data Aggregation Risk](aspi_analysis_of_tiktok_pixel_data_aggregation_risk.md): also concerns the Chinese president, from a different source document.
@@ -19,6 +20,8 @@ In the days since Hamas — which the US and Europe designate a terrorist group 
 - [1991 Gulf War Egyptian Debt Forgiveness](1991_gulf_war_egyptian_debt_forgiveness.md): drawn from the same source document (doc_0218).
 - [Egypt's Economic Crisis And IMF Rescue Program](egypt_economic_crisis_and_imf_rescue_program.md): drawn from the same source document (doc_0218).
 - [Egypt's Refusal To Host Palestinian Refugees](egypt_refusal_to_host_palestinian_refugees.md): drawn from the same source document (doc_0218).
+- [Egypt's Role In The Israel-Hamas War And The Leverage It Creates](egypt_role_in_israel_hamas_war_and_western_leverage.md): same source document (doc_0218)
+- [Egypt's Strategic Value To Europe: Gas And Security](egypt_strategic_value_to_europe_gas_and_security.md): same source document (doc_0218)
 
 ## Source
 

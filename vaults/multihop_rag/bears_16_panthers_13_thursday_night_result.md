@@ -13,11 +13,19 @@ The Bears fell to 3-7 with the win and were hoping to get Justin Fields back in 
 
 ## Related Notes
 
+
 - [Bears Game-Ending Hail Mary vs Browns](bears_game_ending_hail_mary_vs_browns.md): also discusses Justin Fields, from a different document.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): also discusses Justin Fields and D'Onta Foreman, from a different document.
 - [Bears Vikings MNF Result and Recap](bears_vikings_mnf_result_and_recap.md): another Chicago Bears prime-time recap, from a different document.
 - [Buccaneers 21-18 Panthers: Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): also discusses Bryce Young, from a different document.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): shares the draft-pick and playoff-seeding themes, from a different document.
+- [Bears-Panthers Broadcast And Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): same source document (doc_0489)
+- [Bears-Panthers Pregame Storylines](bears_panthers_pregame_storylines_week_10.md): same source document (doc_0489)
+- [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): same source document (doc_0489)
+- [Defence Of Reich's 59-Yard Field Goal Call](defence_of_reich_59_yard_field_goal_call.md): same source document (doc_0489)
+- [D.J. Moore's First Game Against The Panthers](dj_moore_first_game_against_the_panthers.md): same source document (doc_0489)
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

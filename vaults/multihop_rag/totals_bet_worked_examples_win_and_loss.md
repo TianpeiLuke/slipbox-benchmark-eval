@@ -13,11 +13,19 @@ In the losing case, a top sports betting app sets a total of 200.5 points for an
 
 ## Related Notes
 
+
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): shares the NBA and sports betting odds themes, from a different document.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares the NBA and sports betting odds themes, from a different document.
 - [Betting Favorites and Underdogs](betting_favorites_and_underdogs.md): overlaps on how a bettor's odds and outcome are evaluated, from a different document.
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): also uses a Los Angeles Lakers example to settle a bet, from a different document.
 - [DraftKings Sportsbook Betting Markets](draftkings_sportsbook_betting_markets.md): shares the NBA and sports betting odds themes, from a different document.
+- [Line Movement As A Signal Of Betting Value](line_movement_as_a_signal_of_betting_value.md): same source document (doc_0554)
+- [Over/Under Betting In MMA, Tennis And Golf](over_under_betting_in_mma_tennis_and_golf.md): same source document (doc_0554)
+- [Over/Under Totals Bet Definition](over_under_totals_bet_definition.md): same source document (doc_0554)
+- [Over/Under Totals By Team Sport](over_under_totals_by_team_sport.md): same source document (doc_0554)
+- [Reading A Totals Line And Its Odds](reading_a_totals_line_and_its_odds.md): same source document (doc_0554)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

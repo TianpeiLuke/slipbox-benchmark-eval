@@ -15,11 +15,19 @@ The loop closes because Twitch is both cause and measure: the misinformation wil
 
 ## Related Notes
 
+
 - [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): overlapping Twitch and livestreaming subject matter from a different source document
 - [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): another Twitch streamer-ecosystem subject from a separate article
 - [Twitch Advertising Strategy](twitch_advertising_strategy.md): another Twitch platform-business note from a different document
 - [Twitch Competitive Pressure](twitch_competitive_pressure.md): another Twitch service-and-livestreaming subject from a separate source
 - [Twitch Partner Plus Program](twitch_partner_plus_program.md): overlapping Twitch and sentiment vocabulary from a different article
+- [Fortnite's Live-Service Content Treadmill](fortnite_live_service_content_treadmill.md): same source document (doc_0545)
+- [Live-Service Games' Dependence on Content Creators](live_service_games_dependence_on_content_creators.md): same source document (doc_0545)
+- [Rising Game Development and Marketing Budgets](rising_game_development_and_marketing_budgets.md): same source document (doc_0545)
+- [Streamer Burnout and Extreme Stream Formats](streamer_burnout_and_extreme_stream_formats.md): same source document (doc_0545)
+- [Streamers Do Not Represent Typical Player Behavior](streamers_do_not_represent_typical_player_behavior.md): same source document (doc_0545)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Livestreaming](term_livestreaming.md): uses the concept livestreaming
 
 ## Source
 

@@ -11,12 +11,17 @@ The index exists because of a specific analytic gap. Scientists stress that the 
 
 ## Related Notes
 
+
 - [Limitations of the UCSD Fasting Mouse Study](limitations_of_the_ucsd_fasting_mouse_study.md): another study of dietary habits and disease with acknowledged limits.
 - [Cannabis Exposure and Placental Dysfunction](cannabis_exposure_and_placental_dysfunction.md): from the same diet-and-health group of sources.
 - [The Cannabis Pregnancy Study's Urine Screening Method](cannabis_pregnancy_study_urine_screening_method.md): from the same diet-and-health group of sources.
 - [Cannabis Use and the Stillbirth Association](cannabis_use_and_stillbirth_association.md): from the same diet-and-health group of sources.
 - [Cannabis Use in Pregnancy: JAMA Study Findings](cannabis_use_in_pregnancy_jama_study_findings.md): from the same diet-and-health group of sources.
 - [Adapting the Mediterranean Lifestyle to Other Cultures](adapting_the_mediterranean_lifestyle_to_other_cultures.md): from the same article, on applying these components elsewhere.
+- [The Mediterranean Lifestyle Defined](mediterranean_lifestyle_definition.md): same source document (doc_0466)
+- [The Mediterranean Lifestyle UK Biobank Mortality Study](mediterranean_lifestyle_uk_biobank_mortality_study.md): same source document (doc_0466)
+- [Siesta Napping and Mortality Uncertainty](siesta_napping_and_mortality_uncertainty.md): same source document (doc_0466)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
 
 ## Source
 

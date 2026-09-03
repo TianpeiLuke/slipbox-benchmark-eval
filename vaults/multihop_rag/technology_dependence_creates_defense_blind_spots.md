@@ -11,6 +11,7 @@ His grounds are that the enemy sees the same technology: "The problem begins whe
 
 ## Related Notes
 
+
 - [Gen Z Definition and Formative Events](gen_z_definition_and_formative_events.md): also references the Vietnam War era, from a different source document.
 - [The Berlin Wall's Low-Tech Defense Lesson](berlin_wall_low_tech_defense_lesson.md): Barnea's historical counter-model (doc_0078).
 - [Gaza Border Barrier Construction](gaza_border_barrier_construction.md): another note drawn from the same source document (doc_0078).
@@ -19,6 +20,8 @@ His grounds are that the enemy sees the same technology: "The problem begins whe
 - [Israeli Leaders Claims About the Gaza Barrier](israeli_leaders_claims_about_the_gaza_barrier.md): another note drawn from the same source document (doc_0078).
 - [Israeli Restraint Policy Toward Gaza](israeli_restraint_policy_toward_gaza.md): another note drawn from the same source document (doc_0078).
 - [October 7 and the Technological Failure of the Barrier](october_7_technological_failure_of_the_barrier.md): the concrete case this argument generalises from (doc_0078).
+- [Officer Technological Literacy And The Need For Redundancy](officer_technological_literacy_and_system_redundancy.md): same source document (doc_0078)
+- [Strategic Surprise As A Recurring Pattern](strategic_surprise_pattern_across_history.md): same source document (doc_0078)
 
 ## Source
 

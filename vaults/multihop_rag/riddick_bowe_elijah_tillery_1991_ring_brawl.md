@@ -13,6 +13,7 @@ Amid the chaos, the referee decided that Tillery's kicks were worthy of a DQ and
 
 ## Related Notes
 
+
 - [Tyson vs Holyfield, 1996 WBA Heavyweight Upset](tyson_vs_holyfield_1996_wba_heavyweight_upset.md): overlaps on Riddick Bowe and ring incidents, from a different document.
 - [Adolpho Washington vs Virgil Hill, 1993: The Camera Stoppage](adolpho_washington_virgil_hill_1993_camera_stoppage.md): drawn from the same document (doc_0228).
 - [Bernard Hopkins vs Robert Allen, 1998: The Referee's Fall](bernard_hopkins_robert_allen_1998_referee_fall.md): drawn from the same document (doc_0228).
@@ -21,6 +22,8 @@ Amid the chaos, the referee decided that Tillery's kicks were worthy of a DQ and
 - [Kermit Cintron vs Paul Williams, 2004: The Ring Exit](kermit_cintron_paul_williams_2004_ring_exit.md): drawn from the same document (doc_0228).
 - [Mayweather vs Ortiz, 2011: The Knockout After the Headbutt](mayweather_ortiz_2011_knockout_after_headbutt.md): drawn from the same document (doc_0228).
 - [Oliver McCall's Breakdown Against Lennox Lewis, 1997](oliver_mccall_breakdown_against_lennox_lewis_1997.md): drawn from the same document (doc_0228).
+- [Ricky Hatton vs Stephen Smith, 2002: The Disqualification](ricky_hatton_stephen_smith_2002_disqualification.md): same source document (doc_0228)
+- [Tony Wilson vs Steve McCarthy, 1989: The Shoe Intervention](tony_wilson_steve_mccarthy_1989_shoe_intervention.md): same source document (doc_0228)
 
 ## Source
 

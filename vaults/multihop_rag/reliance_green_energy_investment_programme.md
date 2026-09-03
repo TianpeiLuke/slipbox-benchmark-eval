@@ -13,10 +13,17 @@ Business Line frames the investment case around market pricing rather than certa
 
 ## Related Notes
 
+
 - [COP28 Renewable Energy Commitments and the IEA Outlook](cop28_renewable_energy_commitments_and_the_iea_outlook.md): the global renewables demand backdrop for this investment.
 - [India Renewable and Thermal Capacity Policy 2023](india_renewable_and_thermal_capacity_policy_2023.md): the Indian policy setting for such renewable buildouts.
 - [IPL 2024 Auction Team Purse Tracker](ipl_2024_auction_team_purse_tracker.md): shares the crore-denominated reporting convention.
 - [NTPC Capacity Expansion and NGEL IPO Plan](ntpc_capacity_expansion_and_ngel_ipo_plan.md): another Indian renewable-capacity investment programme.
+- [Reliance Industries Share Price and Growth Catalysts](reliance_industries_share_price_and_growth_catalysts.md): same source document (doc_0253)
+- [Reliance Industries Sum-of-the-Parts Valuation Case](reliance_industries_sum_of_the_parts_valuation_case.md): same source document (doc_0253)
+- [Reliance Jio Telecom Growth Outlook](reliance_jio_telecom_growth_outlook.md): same source document (doc_0253)
+- [Reliance O2C and Exploration Business Economics](reliance_o2c_and_exploration_business_economics.md): same source document (doc_0253)
+- [Reliance Retail Ventures Store Expansion](reliance_retail_ventures_store_expansion.md): same source document (doc_0253)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

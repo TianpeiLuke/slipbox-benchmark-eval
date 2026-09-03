@@ -13,11 +13,15 @@ Other commentary framed the risk of a further increase. "Our view is that in the
 
 ## Related Notes
 
+
 - [ASX and Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): a comparable session report covering weaker miners on the local bourse.
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): another account of which sectors and miners dragged the index down.
 - [ASX October 2023 Laggards](asx_october_2023_laggards.md): overlapping coverage of Westpac and other decliners in an earlier session.
 - [ASX Outlook and RBA Rate Expectations September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): the earlier state of the same interest-rate trade and yield backdrop.
 - [ASX Rally Drivers Bond Market and China Stimulus](asx_rally_drivers_bond_market_and_china_stimulus.md): also quotes market commentator Ben Clark, from a different article.
+- [Federal Reserve Rate Path Expectations Late 2023](federal_reserve_rate_path_expectations_late_2023.md): same source document (doc_0357)
+- [Wall Street November 2023 Relief Rally](wall_street_november_2023_relief_rally.md): same source document (doc_0357)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

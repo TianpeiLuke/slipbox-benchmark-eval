@@ -11,6 +11,7 @@ The warrant offered against the obvious objection — would people actually want
 
 ## Related Notes
 
+
 - [Barrios vs Ugas Interim WBC Welterweight 2023](barrios_vs_ugas_interim_wbc_welterweight_2023.md): part of the same sub-plan on the Canelo-Charlo card and boxing economics, from a different source document.
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): part of the same sub-plan, from a different source document.
 - [Canelo Alvarez Next Opponents After Charlo Win](canelo_alvarez_next_opponents_after_charlo_win.md): part of the same sub-plan, from a different source document.
@@ -19,6 +20,8 @@ The warrant offered against the obvious objection — would people actually want
 - [Canelo Alvarez Undisputed Titles and Net Worth](canelo_alvarez_undisputed_titles_and_net_worth.md): the wealth baseline for this case, from the same article (doc_0194).
 - [Canelo and McGregor Pay-Per-View Purse History](canelo_and_mcgregor_pay_per_view_purse_history.md): the PPV evidence supporting this case, from the same article (doc_0194).
 - [Canelo Projected Path to Mayweather Wealth](canelo_projected_path_to_mayweather_wealth.md): the projected payout this argument leads to, from the same article (doc_0194).
+- [How An X Feud Turned Conor McGregor vs Canelo Alvarez Into A Crossover Boxing Prospect](crossover_boxing_and_the_mcgregor_canelo_feud.md): same source document (doc_0194)
+- [Floyd Mayweather's $450 Million Net Worth And Billion-Dollar Career Earnings](floyd_mayweather_net_worth_and_career_earnings.md): same source document (doc_0194)
 
 ## Source
 

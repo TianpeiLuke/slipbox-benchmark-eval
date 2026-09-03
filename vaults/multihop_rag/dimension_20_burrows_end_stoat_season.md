@@ -13,6 +13,7 @@ The tonal boundary is what makes the "cute little critters" genre work. Within t
 
 ## Related Notes
 
+
 - [Exquisite Biome Worldbuilding TTRPG](exquisite_biome_worldbuilding_ttrpg.md): also invokes David Attenborough, in a different document
 - [Triangle Agency TTRPG](triangle_agency_ttrpg.md): also involves Brennan Lee Mulligan, from a different source
 - [AfroFuture Founding Vision And Mission Pillars](afrofuture_founding_vision_and_mission_pillars.md): shares the user-generated content topic tag across the corpus
@@ -21,6 +22,15 @@ The tonal boundary is what makes the "cute little critters" genre work. Within t
 - [Catherine Tan On Public Disclosure And Law Enforcement Gaps](catherine_tan_public_disclosure_and_law_enforcement_gaps.md): shares the user-generated content topic tag across the corpus
 - [City Of Winter TTRPG](city_of_winter_ttrpg.md): shares the user-generated content topic tag across the corpus
 - [Clueless, 1995 Teen Comedy And Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): shares the user-generated content topic tag across the corpus
+- [CollegeHumor's IAC Layoffs And Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): same source document (doc_0586)
+- [Digital Creator "Jail" And Why Anthology Formats Are The Escape](digital_creator_jail_and_anthology_formats.md): same source document (doc_0586)
+- [Easter Eggs In Dropout's Anniversary Video](dropout_anniversary_video_easter_eggs.md): same source document (doc_0586)
+- [Dropout's Fifth Anniversary Announcement: CollegeHumor Is No More](dropout_fifth_anniversary_name_change_announcement.md): same source document (doc_0586)
+- [Dropout's Place In Improv History And Wayne Brady's Verdict](dropout_improv_shows_and_wayne_brady_endorsement.md): same source document (doc_0586)
+- [The Early Gigs Reich And Mulligan Came Up Through](reich_and_mulligan_early_performing_gigs.md): same source document (doc_0586)
+- [Sam Reich's Advice To Creators: Find A Better Business Model](sam_reich_advice_on_off_platform_business_models.md): same source document (doc_0586)
+- [Very Important People: A Reboot Of CollegeHumor's Hello My Name Is](very_important_people_dropout_show.md): same source document (doc_0586)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

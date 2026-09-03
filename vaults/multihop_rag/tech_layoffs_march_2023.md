@@ -13,11 +13,19 @@ The second half of the month was busier still. On March 20 Amazon announced anot
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also covers Mark Zuckerberg, from a different source document.
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs and layoffs and restructuring theme, from a different source document.
 - [Brave Software Layoffs](brave_software_layoffs.md): substantial content overlap on workforce, laid, confirmed, from a different source document.
 - [Campus Stalking of Students and Faculty Research](campus_stalking_of_students_and_faculty_research.md): also covers South Asian, from a different source document.
 - [Collegehumor IAC Layoffs and Sale to Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares the layoffs, layoffs and restructuring and streaming service theme, from a different source document.
+- [Tech Layoffs 2023: Overview And Totals](tech_layoffs_2023_overview_and_totals.md): same source document (doc_0049)
+- [Tech Layoffs In April 2023](tech_layoffs_april_2023.md): same source document (doc_0049)
+- [Tech Layoffs In August 2023](tech_layoffs_august_2023.md): same source document (doc_0049)
+- [Tech Layoffs In December 2023](tech_layoffs_december_2023.md): same source document (doc_0049)
+- [Tech Layoffs In February 2023](tech_layoffs_february_2023.md): same source document (doc_0049)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

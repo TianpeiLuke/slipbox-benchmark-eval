@@ -13,11 +13,21 @@ In a hypothetical MLB matchup between the Yankees and Red Sox with the Yankees a
 
 ## Related Notes
 
+
 - [American Odds Format](american_odds_format.md): shares the NFL and sports betting odds themes, from a different document.
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): shares the NBA and sports betting odds themes, from a different document.
 - [bet365 Sportsbook US MLB Markets](bet365_sportsbook_us_mlb_markets.md): shares the MLB and sports betting odds themes, from a different document.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares the MLB, NBA and sports betting odds themes, from a different document.
 - [BetMGM Vermont Welcome Offer Tradeoffs](betmgm_vermont_welcome_offer_tradeoffs.md): overlaps on how bets win, lose and are wagered, from a different document.
+- [Determining A Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): same source document (doc_0359)
+- [Handicap Betting In Tennis And Golf](handicap_betting_in_tennis_and_golf.md): same source document (doc_0359)
+- [Line Movement As A Signal Of Betting Value](line_movement_as_a_signal_of_betting_value.md): same source document (doc_0359)
+- [Point Spread Bet Definition](point_spread_bet_definition.md): same source document (doc_0359)
+- [Point Spread Odds And Line Movement](point_spread_odds_and_line_movement.md): same source document (doc_0359)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

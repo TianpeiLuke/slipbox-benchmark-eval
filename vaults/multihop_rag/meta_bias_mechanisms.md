@@ -19,11 +19,20 @@ Meta contests the picture. In its response to the report, human rights director 
 
 ## Related Notes
 
+
 - [Digital Services Act](digital_services_act.md): the EU regime named here as the reason European-language moderation gets more resources, from a different source document.
 - [EU Code Of Practice On Disinformation](eu_code_of_practice_on_disinformation.md): another instrument of the same Digital Services Act regulatory context, from a different source document.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also concerns the Digital Services Act, from a different source document.
 - [DMA DSA Oversight Of Meta Advertising Consent](dma_dsa_oversight_of_meta_advertising_consent.md): also concerns Digital Services Act oversight of Meta, from a different source document.
 - [DSA DMA Oversight Of Meta Ad Tracking](dsa_dma_oversight_of_meta_ad_tracking.md): also concerns Digital Services Act oversight of Meta, from a different source document.
+- [Instagram Palestine Suppression](instagram_palestine_suppression.md): same source document (doc_0106)
+- [Meta's Moderation During An Earlier Hamas-Israel Conflict](meta_2021_conflict_moderation.md): same source document (doc_0106)
+- [Meta's Arabic Mistranslation Of "Alhamdulillah"](meta_arabic_mistranslation.md): same source document (doc_0106)
+- [Meta Moderation Bias](meta_moderation_bias.md): same source document (doc_0106)
+- [Meta Response To Suppression Claims](meta_response_to_suppression_claims.md): same source document (doc_0106)
+- [Accessibility Localisation](term_accessibility_localisation.md): uses the concept accessibility localisation
+- [Content Moderation](term_content_moderation.md): uses the concept content moderation
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

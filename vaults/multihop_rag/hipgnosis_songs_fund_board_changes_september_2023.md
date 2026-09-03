@@ -11,6 +11,7 @@ HSF said it had begun a process to recruit a new Chair, and that Sutch will leav
 
 ## Related Notes
 
+
 - [Autobrains Hires Uri Yacovy as COO](autobrains_hires_uri_yacovy_as_coo.md): a comparable senior-appointment note elsewhere in the corpus.
 - [Greg Brockman Account of Altman Removal](greg_brockman_account_of_altman_removal.md): another note about board directors and how a company informed them.
 - [Sam Altman Firing and Reinstatement](sam_altman_firing_and_reinstatement.md): another corporate board-composition episode.
@@ -19,6 +20,7 @@ HSF said it had begun a process to recruit a new Chair, and that Sutch will leav
 - [Hipgnosis Go-Shop Clause and Rival Bids](hipgnosis_go_shop_clause_and_rival_bids.md): part of the same 28 September announcement.
 - [Hipgnosis Investment Advisory Agreement Amendments](hipgnosis_investment_advisory_agreement_amendments.md): the other governance measure confirmed the same day.
 - [Hipgnosis Songs Fund Continuation Vote](hipgnosis_songs_fund_continuation_vote.md): the shareholder vote these changes may have been intended to support.
+- [Hipgnosis Songs Fund NAV-to-Share-Price Discount](hipgnosis_songs_fund_nav_to_share_price_discount.md): same source document (doc_0464)
 
 ## Source
 

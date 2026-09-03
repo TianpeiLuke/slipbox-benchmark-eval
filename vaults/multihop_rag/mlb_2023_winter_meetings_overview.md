@@ -13,11 +13,18 @@ The 2023 meetings ran starting Sunday, Dec. 3 through Wednesday, Dec. 6, and wer
 
 ## Related Notes
 
+
 - [Angels 2023 Offseason: Ohtani and Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): also discusses Shohei Ohtani, from a different document.
 - [Astros Players' Immunity and Mike Fiers](astros_players_immunity_and_mike_fiers.md): also discusses Justin Verlander, from a different document.
 - [Dodgers Payroll Constraints Against Signing Ohtani and Trout](dodgers_payroll_constraints_against_signing_ohtani_and_trout.md): also discusses Shohei Ohtani, from a different document.
 - [Early Ohtani Signing Would Reshape the Offseason](early_ohtani_signing_would_reshape_the_offseason.md): also discusses Juan Soto and the domino effect, from a different document.
 - [Gleyber Torres 2023 Season and Trade Speculation](gleyber_torres_2023_season_and_trade_speculation.md): also discusses Aaron Judge, from a different document.
+- [Braves Land Jarred Kelenic And Marco Gonzales From The Mariners](braves_acquire_jarred_kelenic_from_mariners.md): same source document (doc_0120)
+- [Diamondbacks Land Eduardo Rodriguez On A Four-Year Deal](eduardo_rodriguez_signs_with_diamondbacks.md): same source document (doc_0120)
+- [Juan Soto Traded From The Padres To The Yankees](juan_soto_traded_from_padres_to_yankees.md): same source document (doc_0120)
+- [Jung Hoo Lee Posted From The KBO To MLB](jung_hoo_lee_kbo_posting_to_mlb.md): same source document (doc_0120)
+- [Mariners' Cleared Payroll Space And Winter Meetings Trade Talks](mariners_offseason_payroll_space_and_trade_talks.md): same source document (doc_0120)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

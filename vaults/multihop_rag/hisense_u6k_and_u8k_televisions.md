@@ -13,6 +13,7 @@ For a well-reviewed midrange model, the Hisense U8K provides much better contras
 
 ## Related Notes
 
+
 - [LG A2 OLED TV Deal](lg_a2_oled_tv_deal.md): shares the refresh-rate and contrast comparison framing, from a different source document.
 - [LG C3 OLED TV](lg_c3_oled_tv.md): covers a competing high-contrast television, from a different source document.
 - [Prime Day 2023 TV Deals](prime_day_2023_tv_deals.md): also covers Hisense mini-LED sets in the same sale, from a different source document.
@@ -21,6 +22,8 @@ For a well-reviewed midrange model, the Hisense U8K provides much better contras
 - [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): drawn from the same source document (doc_0250).
 - [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): drawn from the same source document (doc_0250).
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): drawn from the same source document (doc_0567).
+- [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): same source document (doc_0250)
+- [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): same source document (doc_0250)
 
 ## Source
 

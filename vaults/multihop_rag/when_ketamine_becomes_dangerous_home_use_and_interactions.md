@@ -15,6 +15,7 @@ Mixing ketamine with other medicines can also be dangerous, Johnson warned. For 
 
 ## Related Notes
 
+
 - [Adulterated Street Ketamine Risks](adulterated_street_ketamine_risks.md): drawn from the same source document (doc_0390).
 - [ASKP3 Forthcoming at Home Ketamine Guidelines](askp3_forthcoming_at_home_ketamine_guidelines.md): drawn from the same source document (doc_0390).
 - [Distinguishing Anesthetic Therapeutic and Recreational Ketamine Use](distinguishing_anesthetic_therapeutic_and_recreational_ketamine_use.md): drawn from the same source document (doc_0390).
@@ -23,6 +24,8 @@ Mixing ketamine with other medicines can also be dangerous, Johnson warned. For 
 - [Ketamine FDA Approval History and Approved Uses](ketamine_fda_approval_history_and_approved_uses.md): drawn from the same source document (doc_0390).
 - [Matthew Perry Death from Acute Ketamine Effects](matthew_perry_death_from_acute_ketamine_effects.md): drawn from the same source document (doc_0390).
 - [Obtaining Ketamine only through a Licensed Prescriber](obtaining_ketamine_only_through_a_licensed_prescriber.md): drawn from the same source document (doc_0390).
+- [Why Small Self-Administered Ketamine Doses Are Not Safer](risks_of_intranasal_and_micro_dosed_ketamine.md): same source document (doc_0390)
+- [How Ketamine Caused A Drowning Rather Than Direct Toxicity](toxicology_of_ketamine_induced_drowning.md): same source document (doc_0390)
 
 ## Source
 

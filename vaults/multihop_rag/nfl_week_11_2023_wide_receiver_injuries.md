@@ -11,12 +11,18 @@ Darius Slayton of the Giants had a big impact against the Commanders, hauling in
 
 ## Related Notes
 
+
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): also covers Tyreek Hill, from a different source document.
 - [Deebo Samuel Yards Per Target Pace](deebo_samuel_yards_per_target_pace.md): also covers Tyreek Hill, from a different source document.
 - [Dolphins 45-15 Commanders Week 13](dolphins_45_15_commanders_week_13.md): also covers Tyreek Hill, from a different source document.
 - [Dolphins Chiefs Germany Moneyline Pick](dolphins_chiefs_germany_moneyline_pick.md): also covers Tyreek Hill, from a different source document.
 - [Dolphins Eagles First Half Live Blog](dolphins_eagles_first_half_live_blog.md): also covers Tyreek Hill, from a different source document.
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): another injury entry from the same Week 11 roundup (doc_0113).
+- [Cooper Kupp: A Week 11 Ankle Sprain And The Week 13 Case For Benching A Stud](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): same source document (doc_0113)
+- [NFL Week 11 2023: Joey Bosa Carted Off And Talanoa Hufanga Lost For The Season](nfl_week_11_2023_defensive_player_injuries.md): same source document (doc_0113)
+- [NFL Week 11 2023: Three Starting Quarterbacks Hurt, All Three Stayed Or Returned](nfl_week_11_2023_quarterback_injuries.md): same source document (doc_0113)
+- [NFL Week 11 2023: Achane, Walker And Foreman All Exit With Injuries](nfl_week_11_2023_running_back_injuries.md): same source document (doc_0113)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

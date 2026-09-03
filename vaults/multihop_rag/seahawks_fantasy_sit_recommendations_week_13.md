@@ -13,6 +13,7 @@ The remaining sits each rest on a specific matchup or usage ground. Smith-Njigba
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also discusses Brock Purdy, from a different document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also discusses Brock Purdy, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Curtis Samuel, from a different document.
@@ -21,6 +22,8 @@ The remaining sits each rest on a specific matchup or usage ground. Smith-Njigba
 - [Cowboys Fantasy Start Recommendations Week 13](cowboys_fantasy_start_recommendations_week_13.md): the opposite side of the same start/sit column, from the same document.
 - [Seahawks Cowboys DFS Showdown Lineups](seahawks_cowboys_dfs_showdown_lineups.md): turns these calls into DFS rosters, from the same document.
 - [Seahawks Cowboys Week 13 TNF Matchup Outlook](seahawks_cowboys_week_13_tnf_matchup_outlook.md): the game context these recommendations assume, from the same document.
+- [Tony Pollard's Fantasy Outlook In 2023](tony_pollard_fantasy_outlook_2023.md): same source document (doc_0394)
+- [Zach Charbonnet's Fantasy Outlook In 2023](zach_charbonnet_fantasy_outlook_2023.md): same source document (doc_0394)
 
 ## Source
 

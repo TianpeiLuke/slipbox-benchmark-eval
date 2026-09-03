@@ -11,11 +11,17 @@ In the aftermath of that report, Discord banned teen dating servers and changed 
 
 ## Related Notes
 
+
 - [Technology Neutrality: How The Online Safety Act Covers AI Content](online_safety_act_technology_neutral_treatment_of_ai.md): explains how AI-generated CSAM falls under regulation, from a different source document.
 - [The Compliance Burden On Nonprofits](online_safety_compliance_burden_on_nonprofits.md): concerns the same platform-safety regulatory landscape, from a different source document.
 - [Discord's Graduated Warning System And Account Standing](discord_graduated_warning_system_and_account_standing.md): drawn from the same source document (doc_0505).
 - [Discord Premium App Subscriptions And App Portability](discord_premium_app_subscriptions_and_app_portability.md): drawn from the same source document (doc_0505).
 - [Discord Shop, Remix And Client Improvements](discord_shop_remix_and_client_improvements.md): drawn from the same source document (doc_0505).
+- [Ofcom's Recommended Practices And Enforcement For Illegal Harms](ofcom_illegal_harms_codes_of_practice.md): same sub-plan (Online platform safety: the UK Online Safety Act and Discord's teen safeguards), different source document
+- [The Accredited Technology Clause And The Encryption Objection](online_safety_act_accredited_technology_and_encryption.md): same sub-plan (Online platform safety: the UK Online Safety Act and Discord's teen safeguards), different source document
+- [Ofcom's First Guidelines Under The UK Online Safety Act](uk_online_safety_act_ofcom_first_guidelines.md): same sub-plan (Online platform safety: the UK Online Safety Act and Discord's teen safeguards), different source document
+- [Discord Teen Safety Assist](discord_teen_safety_assist.md): same source document (doc_0505)
+- [CSAM Scanning](term_csam_scanning.md): uses the concept csam scanning
 
 ## Source
 

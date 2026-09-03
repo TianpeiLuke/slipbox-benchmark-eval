@@ -11,9 +11,17 @@ The piece first waves away two objections — What We Do in the Shadows is not a
 
 ## Related Notes
 
+
 - [Bram Stoker: Vampire Verdict](bram_stoker_dracula_vampire_verdict.md): same source; the author of the Dracula this verdict invokes.
 - [Bad Times At The El Royale (2018)](bad_times_at_the_el_royale_2018.md): also concerns Chris Hemsworth, from a different source document.
 - [The Count On Sesame Street](the_count_sesame_street.md): overlaps in content on vampire, from a different source document.
+- [Anne Rice: Vampire Verdict](anne_rice_vampire_chronicles_verdict.md): same source document (doc_0452)
+- [The Lineage Of English-Language Vampire Fiction](english_language_vampire_fiction_lineage.md): same source document (doc_0452)
+- [John William Polidori And The Vampyre](john_william_polidori_the_vampyre.md): same source document (doc_0452)
+- [Laurell K. Hamilton: Vampire Verdict](laurell_k_hamilton_anita_blake_verdict.md): same source document (doc_0452)
+- [Stephen King: Vampire Verdict](stephen_king_salems_lot_vampire_verdict.md): same source document (doc_0452)
+- [Which Vampire Authors Were Vampires?](which_vampire_authors_were_vampires_premise.md): same source document (doc_0452)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

@@ -13,6 +13,7 @@ That reading, Evans says, is very, very wrong. He apologises for the spoiler but
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also concerns Silicon Valley, from a different source document.
 - [BlackBerry: Matt Johnson Film](blackberry_matt_johnson_film.md): also concerns Silicon Valley and the tech industry in fiction, from a different source document.
 - [ChatGPT First Year Overview](chatgpt_first_year_overview.md): also concerns Silicon Valley, from a different source document.
@@ -21,6 +22,8 @@ That reading, Evans says, is very, very wrong. He apologises for the spoiler but
 - [Author Endorsements In Book Publishing](author_endorsements_in_book_publishing.md): drawn from the same source document (doc_0243), explaining why authors were asked to recommend.
 - [Barr Moses Recommends Dare To Lead](barr_moses_recommends_dare_to_lead.md): drawn from the same source document (doc_0243), another recommendation in the series.
 - [Georgiana Laudi Recommends Loved: Product Marketing](georgiana_laudi_recommends_loved_product_marketing.md): drawn from the same source document (doc_0243), another recommendation in the series.
+- [James Wise Recommends "The Coming Wave"](james_wise_recommends_the_coming_wave.md): same source document (doc_0243)
+- [Jerry Neumann Recommends "How Data Happened"](jerry_neumann_recommends_how_data_happened.md): same source document (doc_0243)
 
 ## Source
 

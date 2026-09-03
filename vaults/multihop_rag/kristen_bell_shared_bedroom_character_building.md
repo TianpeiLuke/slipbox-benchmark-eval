@@ -13,12 +13,17 @@ The warrant is that shared constraint teaches negotiation and perspective: "I li
 
 ## Related Notes
 
+
 - [Kristen Bell Household Screen Time Rules](kristen_bell_household_screen_time_rules.md): same article, the same household's other rules
 - [Celebrity Tough Love Parenting In Hollywood](celebrity_tough_love_parenting_in_hollywood.md): same article, the roundup she appears in
 - [Daniel Craig Against Leaving An Inheritance](daniel_craig_against_leaving_an_inheritance.md): same source document
 - [Arnold Schwarzenegger Drill Instructor Discipline](arnold_schwarzenegger_drill_instructor_discipline.md): same source document
 - [Gellar And Prinze Strict Household Rules](gellar_and_prinze_strict_household_rules.md): same source document
 - [Spotify Podcast Business Efficiency Pivot](spotify_podcast_business_efficiency_pivot.md): also concerns Dax Shepard, from a different document
+- [Kevin Federline's Marriage To Victoria Prince](kevin_federline_marriage_to_victoria_prince.md): content overlap 0.12 on share, daughters, married; different source document
+- [Candace Cameron Bure's Strict But Loving Boundaries](candace_cameron_bure_strict_but_loving_boundaries.md): same source document (doc_0177)
+- [Kutcher And Kunis Keeping Their Children Grounded](kutcher_and_kunis_keeping_their_children_grounded.md): same source document (doc_0177)
+- [Reese Witherspoon On Letting Children Fail](reese_witherspoon_on_letting_children_fail.md): same source document (doc_0177)
 
 ## Source
 

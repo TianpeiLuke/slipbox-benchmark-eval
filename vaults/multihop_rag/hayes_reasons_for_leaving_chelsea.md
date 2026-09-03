@@ -13,6 +13,7 @@ The personal grounds are given weight alongside the professional ones. The relen
 
 ## Related Notes
 
+
 - [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md): also concerns the English Football League, where Hayes had been linked with jobs, from a different document.
 - [Carabao Cup Naming History And Sponsorship](carabao_cup_naming_history_and_sponsorship.md): also concerns the English Football League, from a different document.
 - [The Benefits Of Hayes' Delayed USWNT Start](benefits_of_hayes_delayed_uswnt_start.md): the family time these reasons point toward, from the same article.
@@ -21,6 +22,8 @@ The personal grounds are given weight alongside the professional ones. The relen
 - [Chelsea Women's Team Succession After Hayes](chelsea_womens_team_succession_after_hayes.md): the orderly transition she says she is trying to enable, from the same article.
 - [Emma Hayes Appointed USWNT Head Coach](emma_hayes_appointed_uswnt_head_coach.md): the job she is leaving for, from the same article.
 - [Emma Hayes As The Highest-Paid Women's Soccer Coach](emma_hayes_highest_paid_womens_soccer_coach.md): the compensation dimension she declined to make central, from the same article.
+- [Hayes' Delayed Start And Her Chelsea Commitment](hayes_delayed_start_and_chelsea_commitment.md): same source document (doc_0108)
+- [The USWNT Head Coach Search Process In 2023](uswnt_head_coach_search_process_2023.md): same source document (doc_0108)
 
 ## Source
 

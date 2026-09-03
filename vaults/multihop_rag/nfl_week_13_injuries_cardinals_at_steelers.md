@@ -11,11 +11,18 @@ Despite missing the entire week of practice, the Cardinals were holding out hope
 
 ## Related Notes
 
+
 - [Cardinals 24-10 Steelers Week 13](cardinals_24_10_steelers_week_13.md): covers the game these reports precede, from a different document.
 - [Fantasy Week 13 Cardinals At Steelers Outlook](fantasy_week_13_cardinals_at_steelers_outlook.md): previews the same matchup, from a different document.
 - [T.J. Watt Steelers Midseason MVP](tj_watt_steelers_midseason_mvp.md): also concerns Pittsburgh personnel, from a different document.
 - [Tyler Adams Injury And USMNT Defensive Midfield Gap](tyler_adams_injury_and_usmnt_defensive_midfield_gap.md): overlaps on hamstring-injury reporting, from a different document.
 - [Week 14 Tight End Byes Thomas And McBride](week_14_tight_end_byes_thomas_and_mcbride.md): also discusses McBride and the Cardinals, from a different document.
+- [NFL Week 13 Injuries 49ers At Eagles](nfl_week_13_injuries_49ers_at_eagles.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Bengals At Jaguars](nfl_week_13_injuries_bengals_at_jaguars.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Broncos At Texans](nfl_week_13_injuries_broncos_at_texans.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Browns At Rams](nfl_week_13_injuries_browns_at_rams.md): same source document (doc_0289)
+- [NFL Week 13 Injuries Chargers At Patriots](nfl_week_13_injuries_chargers_at_patriots.md): same source document (doc_0289)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

@@ -15,11 +15,18 @@ Its central idea, as Polygon's 2023-10-16 Spider-Man 2 piece describes, is an ob
 
 ## Related Notes
 
+
 - [Kids' Headphone, Speaker and Music Gifts 2023](kids_headphone_speaker_and_music_gifts_2023.md): both mention Shameik Moore, from a different source document
 - [Miguel O'Hara: Spider-Man 2099 Vampire](miguel_ohara_spider_man_2099_vampire.md): covers the same villain character in a separate article
 - [Spectacular Spider-Man Thanksgiving Finale](spectacular_spider_man_thanksgiving_finale.md): both discuss Gwen Stacy, from a different document
 - [Spider-Man (2002) Thanksgiving Dinner Scene](spider_man_2002_thanksgiving_dinner_scene.md): both reference Uncle Ben as a canon figure
 - [Spider-Man: Across the Spider-Verse Netflix Debut](spider_man_across_the_spider_verse_netflix_debut.md): covers the same film's streaming release, from a separate source
+- [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): same source document (doc_0094)
+- [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): same source document (doc_0094)
+- [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): same source document (doc_0094)
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

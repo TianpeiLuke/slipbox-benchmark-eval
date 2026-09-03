@@ -11,6 +11,7 @@ TechCrunch judges this unlikely, and gives the disconfirming evidence: the compa
 
 ## Related Notes
 
+
 - [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): overlaps on ChatGPT's growth and Altman, from a different document.
 - [Greg Brockman's Account Of Altman's Removal](greg_brockman_account_of_altman_removal.md): an insider account of the board's reasoning, from a different document.
 - [Microsoft's OpenAI Investment And Early Capability Tests](microsoft_openai_investment_and_early_capability_tests.md): bears on OpenAI's funding and cost base, from a different document.
@@ -19,6 +20,8 @@ TechCrunch judges this unlikely, and gives the disconfirming evidence: the compa
 - [Dismissed Theories: A Murati Coup And A Personal Matter](dismissed_theories_murati_coup_and_personal_matter.md): drawn from the same source document (doc_0333).
 - [The OpenAI Board Ousts Sam Altman, November 2023](openai_board_ousts_sam_altman_november_2023.md): drawn from the same source document (doc_0333).
 - [Theory: Altman Circumvented The Board On A Deal](theory_altman_circumvented_board_on_a_deal.md): drawn from the same source document (doc_0333), and is the rival explanation TechCrunch rates highest.
+- [Theory: An AGI And Mission Rift Between Altman And The Board](theory_openai_agi_mission_rift.md): same source document (doc_0333)
+- [Theory: Copyright Liability Over OpenAI's Training Data](theory_openai_copyright_liability.md): same source document (doc_0333)
 
 ## Source
 

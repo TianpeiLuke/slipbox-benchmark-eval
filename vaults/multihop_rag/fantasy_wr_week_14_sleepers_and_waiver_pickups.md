@@ -13,6 +13,7 @@ Mingo had seen six-plus targets in his past four games, as his rapport with Bryc
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also discusses Joe Flacco, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): also discusses Joe Flacco, from a different document.
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): also discusses Bryce Young, from a different document.
@@ -21,6 +22,8 @@ Mingo had seen six-plus targets in his past four games, as his rapport with Bryc
 - [Fantasy WR PPR Rankings Week 14 Full List](fantasy_wr_ppr_rankings_week_14_full_list.md): where these pickups land in the list, from the same document.
 - [Fantasy WR Week 14 Busts](fantasy_wr_week_14_busts.md): the downgrades from the same article.
 - [Fantasy WR Week 14 Bye Week Impact](fantasy_wr_week_14_bye_week_impact.md): the byes creating some of these openings, from the same document.
+- [Week 14 PPR Wide Receivers To Start](fantasy_wr_week_14_top_starts.md): same source document (doc_0197)
+- [Justin Jefferson's Week 14 Return From Injury](justin_jefferson_week_14_return_from_injury.md): same source document (doc_0197)
 
 ## Source
 

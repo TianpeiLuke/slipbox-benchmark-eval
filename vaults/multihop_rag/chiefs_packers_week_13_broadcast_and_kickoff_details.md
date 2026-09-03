@@ -11,11 +11,18 @@ Per usual, that week's edition of "Sunday Night Football" was broadcast on NBC, 
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also concerns Green Bay, from a different document.
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also concerns Green Bay, from a different document.
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): another game at Lambeau Field, from a different document.
 - [Bills Bengals SNF Broadcast Details](bills_bengals_snf_broadcast_details.md): another NBC Sunday Night Football broadcast with Cris Collinsworth and Melissa Stark, from a different document.
 - [Bills Bengals SNF Pregame Notes](bills_bengals_snf_pregame_notes.md): also covers a Sunday Night Football game, from a different document.
+- [First Half Sequence Of Packers-Chiefs Week 13](chiefs_packers_week_13_first_half_sequence.md): same source document (doc_0034)
+- [Fourth Quarter Sequence Of Packers-Chiefs Week 13](chiefs_packers_week_13_fourth_quarter_sequence.md): same source document (doc_0034)
+- [Packers Edge Chiefs 27-19 On Week 13 Sunday Night Football](chiefs_packers_week_13_snf_final_result.md): same source document (doc_0034)
+- [Third Quarter Sequence Of Packers-Chiefs Week 13](chiefs_packers_week_13_third_quarter_sequence.md): same source document (doc_0034)
+- [Jordan Love's Week 13 Performance Against Kansas City](jordan_love_2023_breakout_season.md): same source document (doc_0034)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

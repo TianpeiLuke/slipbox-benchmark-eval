@@ -11,9 +11,20 @@ Valve has lowered the price of its LCD lineup and will sell through its backstoc
 
 ## Related Notes
 
+
 - [LG A2 OLED TV Deal](lg_a2_oled_tv_deal.md): overlaps in content on OLED models and step-up pricing, from a different source document.
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): shares console-hardware and pricing themes, from a different source document.
 - [Legend Of Vox Machina Soundtrack Vinyl](legend_of_vox_machina_soundtrack_vinyl.md): also concerns a Limited Edition product, from a different source document.
+- [Google Pixel 8 Launch](google_pixel_8_launch.md): shares hardware_device, product_launch; different source document
+- [The Keep, A Lockable Smart Storage Container For Medicine](keep_labs_device.md): shares hardware_device, product_launch; different source document
+- [Handheld PC Gaming Market Growth](handheld_pc_gaming_market_growth.md): same source document (doc_0169)
+- [Steam Deck Game Compatibility Labels](steam_deck_game_compatibility_labels.md): same source document (doc_0169)
+- [Steam Deck OLED As A Couch Console](steam_deck_oled_as_couch_console.md): same source document (doc_0169)
+- [Steam Deck OLED Battery Life](steam_deck_oled_battery_life.md): same source document (doc_0524)
+- [Steam Deck OLED's Custom AMD APU](steam_deck_oled_custom_amd_apu.md): same source document (doc_0524)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Product Launch](term_product_launch.md): uses the concept product launch
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

@@ -11,6 +11,7 @@ The setup: a group of researchers work at an Antarctic base when a dog from a lo
 
 ## Related Notes
 
+
 - [Alone, 2020, John Hyams](alone_2020_john_hyams_film.md): another pick from the same Polygon horror guide
 - [Annihilation, 2018, Alex Garland](annihilation_2018_alex_garland_film.md): another pick from the same Polygon horror guide
 - [Climax, 2018, Gaspar Noé](climax_2018_gaspar_noe_film.md): another pick from the same Polygon horror guide
@@ -19,6 +20,8 @@ The setup: a group of researchers work at an Antarctic base when a dog from a lo
 - [Encounters Of The Spooky Kind, Sammo Hung](encounters_of_the_spooky_kind_sammo_hung.md): another pick from the same Polygon horror guide
 - [Eyes Without A Face, Georges Franju](eyes_without_a_face_georges_franju.md): another pick from the same Polygon horror guide
 - [Hellraiser, 1987, Clive Barker](hellraiser_1987_clive_barker_film.md): another pick from the same Polygon horror guide
+- [Hereditary: A Family Drama That Becomes Terrifying](hereditary_2018_ari_aster_film.md): same source document (doc_0563)
+- [House: Nobuhiko Obayashi's Ghost Story Of Inventive Silliness](house_1977_nobuhiko_obayashi_film.md): same source document (doc_0563)
 
 ## Source
 

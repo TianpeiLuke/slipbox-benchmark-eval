@@ -13,6 +13,7 @@ The line score was Blackhawks 0-1-3 for 4 and Penguins 1-1-0 for 2, final: Black
 
 ## Related Notes
 
+
 - [Connor Bedard Rookie Adjustment with the Blackhawks](connor_bedard_rookie_adjustment_with_the_blackhawks.md): how his rookie season developed, different source document
 - [Connor Bedard Shot Mechanics Toe Drag Release](connor_bedard_shot_mechanics_toe_drag_release.md): the shooting technique on display here, different source document
 - [Tim Turk First Evaluation of Connor Bedard](tim_turk_first_evaluation_of_connor_bedard.md): a coach's assessment of the same player, different source document
@@ -21,6 +22,8 @@ The line score was Blackhawks 0-1-3 for 4 and Penguins 1-1-0 for 2, final: Black
 - [Blackhawks Penguins 2023 First Period Rust Opener](blackhawks_penguins_2023_first_period_rust_opener.md): the opening period of this game, same source document
 - [Blackhawks Penguins 2023 Opening Night Lineups](blackhawks_penguins_2023_opening_night_lineups.md): the rosters that played it, same source document
 - [Blackhawks Penguins 2023 Second Period Bedard First Point](blackhawks_penguins_2023_second_period_bedard_first_point.md): the period in which Bedard recorded his first point, same source document
+- [Blackhawks vs. Penguins 2023: Start Time And Arena](blackhawks_penguins_2023_start_time_and_arena.md): same source document (doc_0483)
+- [Chicago's Third-Period Comeback Against Pittsburgh](blackhawks_third_period_comeback_vs_penguins_2023.md): same source document (doc_0483)
 
 ## Source
 

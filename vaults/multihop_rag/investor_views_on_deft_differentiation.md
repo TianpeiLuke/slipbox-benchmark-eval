@@ -13,6 +13,7 @@ His ground is a change in consumer behavior rather than in technology: "Over the
 
 ## Related Notes
 
+
 - [Google's Knowledge Graph And Featured Snippets](google_knowledge_graph_and_featured_snippets.md): covers the knowledge-graph approach to search cited here, from a different document.
 - [Adam Yedidia Testimony And Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): tagged to the same venture-capital theme, from a different document.
 - [The AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): shares the venture-capital theme, from a different document.
@@ -21,6 +22,14 @@ His ground is a change in consumer behavior rather than in technology: "Over the
 - [Consumer Search Startup Switching Barriers](consumer_search_startup_switching_barriers.md): drawn from the same source document (doc_0301), and is the same investor's caution about adoption.
 - [Creator Economy Sustainability](creator_economy_sustainability.md): shares the venture-capital theme, from a different document.
 - [David Pakman's CoinFund Venture Background](david_pakman_coinfund_venture_background.md): shares the venture-capital theme, from a different document.
+- [Deft's Competitive Landscape: Search Incumbents](deft_competitive_landscape_search_incumbents.md): same source document (doc_0301)
+- [Deft, The E-Commerce Search Startup](deft_ecommerce_search_startup.md): same source document (doc_0301)
+- [Deft's Funding And Traction Metrics](deft_funding_and_traction_metrics.md): same source document (doc_0301)
+- [Deft's Multimodal Search Capabilities](deft_multimodal_search_capabilities.md): same source document (doc_0301)
+- [Deft's Revenue Model And Pricing Tiers](deft_revenue_model_and_pricing_tiers.md): same source document (doc_0301)
+- [E-Commerce Search Startup Viability Challenges](ecommerce_search_startup_viability_challenges.md): same source document (doc_0301)
+- [Why Traditional E-Commerce Search Has Degraded](traditional_ecommerce_search_degradation.md): same source document (doc_0301)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

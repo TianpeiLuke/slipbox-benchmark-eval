@@ -13,6 +13,7 @@ In parallel, the regulator is considering draft risk assessment requirements int
 
 ## Related Notes
 
+
 - [ChatGPT Use In Government And Courts](chatgpt_use_in_government_and_courts.md): shares the data-privacy and drafting themes, from a different document.
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): shares the data-privacy subject area, from a different document.
 - [ADMT: The CPPA's Definition Of Automated Decisionmaking Technology](admt_automated_decisionmaking_technology_definition.md): drawn from the same source document (doc_0164).
@@ -21,6 +22,17 @@ In parallel, the regulator is considering draft risk assessment requirements int
 - [Alexa Kids Interaction Design](alexa_kids_interaction_design.md): shares the AI-guardrails theme, from a different document.
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the AI-guardrails theme, from a different document.
 - [Alexa Kids Privacy And Hardware](alexa_kids_privacy_and_hardware.md): shares the data-privacy subject area, from a different document.
+- [CPPA ADMT Access Rights And Disclosure Requirements](cppa_admt_access_rights_disclosure_requirements.md): same source document (doc_0164)
+- [The CPPA ADMT Opt-Out Right And Its Exemptions](cppa_admt_opt_out_right_and_exemptions.md): same source document (doc_0164)
+- [Why The CPPA's ADMT Rules Would Bite On Behavioral Advertising](cppa_admt_rules_impact_on_behavioral_advertising.md): same source document (doc_0164)
+- [CPPA ADMT Scope Thresholds](cppa_admt_scope_thresholds.md): same source document (doc_0164)
+- [California's CPPA Publishes Draft ADMT Rules](cppa_draft_admt_regulations.md): same source document (doc_0164)
+- [The CPPA Pre-Use Notice Requirement](cppa_pre_use_notice_requirement.md): same source document (doc_0164)
+- [The CPPA's Risk-Based Approach Versus The EU AI Act](cppa_risk_based_approach_versus_eu_ai_act.md): same source document (doc_0164)
+- [The CPPA's ADMT Rulemaking Timeline](cppa_rulemaking_timeline.md): same source document (doc_0164)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Generative AI Guardrails](term_generative_ai_guardrails.md): uses the concept generative ai guardrails
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

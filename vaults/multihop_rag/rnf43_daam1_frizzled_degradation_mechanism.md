@@ -13,11 +13,14 @@ The steps of the relation are specified: "We found that Daam1 is required for Rn
 
 ## Related Notes
 
+
 - [Adult Stem Cells and Tissue Renewal](adult_stem_cells_and_tissue_renewal.md): the cell population this pathway regulates.
 - [Daam1 Controls Paneth Cell Fate in Mice](daam1_controls_paneth_cell_fate_in_mice.md): the in vivo consequence of losing Daam1.
 - [Daam1 Intestinal Stem Cell Study Overview](daam1_intestinal_stem_cell_study_overview.md): the study reporting this mechanism.
 - [Intestinal Organoid Knockout Experiments](intestinal_organoid_knockout_experiments.md): the knockout tests of both genes in this pathway.
 - [Intestinal Stem Cell Balance and Wnt Signalling](intestinal_stem_cell_balance_and_wnt_signalling.md): the pathway this mechanism restrains.
+- [Paneth Cell Niche Explains Organoid Versus Intestine Divergence](paneth_cell_niche_explains_organoid_versus_intestine_divergence.md): same source document (doc_0302)
+- [Embedded Finance](term_embedded_finance.md): uses the concept embedded finance
 
 ## Source
 

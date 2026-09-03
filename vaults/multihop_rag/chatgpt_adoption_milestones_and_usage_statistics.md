@@ -13,6 +13,7 @@ Adoption among the general public is far thinner than the headline numbers sugge
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also covers Sam Altman, from a different source document.
 - [Anthropic Founding by OpenAI Researchers](anthropic_founding_by_openai_researchers.md): also covers Sam Altman, from a different source document.
 - [ChatGPT 100 Million User Milestone](chatgpt_100_million_user_milestone.md): also covers Sam Altman, from a different source document.
@@ -21,6 +22,8 @@ Adoption among the general public is far thinner than the headline numbers sugge
 - [ChatGPT Competitors and Alternatives](chatgpt_competitors_and_alternatives.md): drawn from the same source document, doc_0048.
 - [ChatGPT Custom Instructions and File Analysis](chatgpt_custom_instructions_and_file_analysis.md): drawn from the same source document, doc_0048.
 - [ChatGPT FAQ Basics and Definitions](chatgpt_faq_basics_and_definitions.md): drawn from the same source document, doc_0048.
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [ChatGPT In Education And Academic Integrity](chatgpt_in_education_and_academic_integrity.md): same source document (doc_0048)
 
 ## Source
 

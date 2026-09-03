@@ -13,6 +13,7 @@ The film's distinguishing quality is deliberate excess rather than craft in the 
 
 ## Related Notes
 
+
 - [Andor (Disney Plus)](andor_disney_plus.md): another write-up credited to Toussaint Egan, from a different source document
 - [Castlevania: Nocturne (Netflix)](castlevania_nocturne_netflix.md): another Toussaint Egan piece in a separate article
 - [Crimes of the Future (2022, David Cronenberg)](crimes_of_the_future_2022_david_cronenberg.md): shares the same Polygon critic across documents
@@ -21,6 +22,8 @@ The film's distinguishing quality is deliberate excess rather than craft in the 
 - [Certified Copy (Abbas Kiarostami)](certified_copy_abbas_kiarostami.md): another pick from the same Tubi list
 - [Hoop Dreams (Steve James Documentary)](hoop_dreams_steve_james_documentary.md): a fellow entry in the same free-streaming roundup
 - [Joint Security Area (Park Chan-wook)](joint_security_area_park_chan_wook.md): another film recommended in the same article
+- [Mandy (Panos Cosmatos)](mandy_panos_cosmatos_nicolas_cage.md): same source document (doc_0055)
+- [Shadow (Zhang Yimou)](shadow_zhang_yimou_wuxia_film.md): same source document (doc_0055)
 
 ## Source
 

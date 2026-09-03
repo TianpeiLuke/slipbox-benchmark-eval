@@ -13,6 +13,7 @@ Jandrey gives the comparative reason for preferring these arrangements. Ultimate
 
 ## Related Notes
 
+
 - [AKC Owner and Vet Action Guidance for Canine Illness](akc_owner_and_vet_action_guidance_canine_illness.md): the companion owner-and-vet steps this alternative fits into, from the same Yahoo News report (doc_0565).
 - [Atypical Small-Genome Canine Microbiome Bacterium](atypical_small_genome_canine_microbiome_bacterium.md): the candidate pathogen avoiding boarding is meant to dodge, from the same report (doc_0565).
 - [Canine Atypical Respiratory Illness of 2023](canine_atypical_respiratory_illness_2023_outbreak.md): the illness prompting owners to look for boarding alternatives, from the same report (doc_0565).
@@ -21,6 +22,8 @@ Jandrey gives the comparative reason for preferring these arrangements. Ultimate
 - [Canine Respiratory Illness State Case Reports 2023](canine_respiratory_illness_state_case_reports_2023.md): where the cases prompting the advice have been reported, from the same report (doc_0565).
 - [Canine Respiratory Illness Three Clinical Presentations](canine_respiratory_illness_three_clinical_presentations.md): the outcomes owners are trying to avoid, from the same report (doc_0565).
 - [Holiday Kennel and Dog Park Avoidance Guidance](holiday_kennel_and_dog_park_avoidance_guidance.md): the kennel-avoidance advice this option answers, from the same report (doc_0565).
+- [Small Pathogen Lung Penetration Mechanism in Dogs](small_pathogen_lung_penetration_mechanism_dogs.md): same source document (doc_0565)
+- [Unculturable Canine Bacterium and the Doxycycline Suggestion](unculturable_canine_bacterium_doxycycline_antibiotic_choice.md): same source document (doc_0565)
 
 ## Source
 

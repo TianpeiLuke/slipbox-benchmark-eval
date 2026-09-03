@@ -13,11 +13,19 @@ The post is explicitly a living document rather than a fixed ranking: Polygon sa
 
 ## Related Notes
 
+
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): both mention Prime Video, from a different source document
 - [Bears-Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): shares Prime Video coverage from an unrelated article
 - [Book Club (2018 Romantic Comedy)](book_club_2018_romantic_comedy.md): both reference Paramount Plus, from a separate document
 - [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): both discuss Prime Video in a rights-and-platform context
 - [Castlevania: Nocturne Surpasses the Original Netflix Series](castlevania_nocturne_surpasses_the_original_netflix_series.md): overlapping coverage of the Castlevania: Nocturne addition, from a different document
+- [Andor (Disney Plus)](andor_disney_plus.md): same source document (doc_0185)
+- [Castlevania: Nocturne (Netflix)](castlevania_nocturne_netflix.md): same source document (doc_0185)
+- [Gen V (Prime Video)](gen_v_prime_video.md): same source document (doc_0185)
+- [Hijack (Apple TV Plus)](hijack_apple_tv_plus.md): same source document (doc_0185)
+- [Reservation Dogs (Hulu)](reservation_dogs_hulu.md): same source document (doc_0185)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

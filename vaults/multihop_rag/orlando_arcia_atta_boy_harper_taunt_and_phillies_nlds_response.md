@@ -11,6 +11,7 @@ The comments came back to bite the Braves two days later. Harper homered twice i
 
 ## Related Notes
 
+
 - [Citizens Bank Park Philadelphia Phillies Postseason Atmosphere](citizens_bank_park_philadelphia_phillies_postseason_atmosphere.md): also discusses Bryce Harper.
 - [Efe Ajagba Curtis Harper 2018 Walkout](efe_ajagba_curtis_harper_2018_walkout.md): overlapping surname-level content flagged across the corpus.
 - [NASCAR 2024 Spotter Changes Elliott and Blaney](nascar_2024_spotter_changes_elliott_and_blaney.md): also involves Fox Sports.
@@ -19,6 +20,8 @@ The comments came back to bite the Braves two days later. Harper homered twice i
 - [Alanna Rizzo Apology to Mintz and BBWAA](alanna_rizzo_apology_to_mintz_and_bbwaa.md): the resolution of the reporting row, same source document.
 - [Alanna Rizzo Criticism of Clubhouse Reporting](alanna_rizzo_criticism_of_clubhouse_reporting.md): the criticism the report drew, same source document.
 - [BBWAA Statement Defending Jake Mintz Credentials](bbwaa_statement_defending_jake_mintz_credentials.md): the writers' association response, same source document.
+- [Chelsea Janes' Defense: Reporting An On-The-Record Shout Is Not Wrong](chelsea_janes_defense_of_clubhouse_reporting.md): same source document (doc_0328)
+- [The Play: Harper Doubled Off To End NLDS Game 2](harper_doubled_off_on_michael_harris_catch_nlds_game_2.md): same source document (doc_0328)
 
 ## Source
 

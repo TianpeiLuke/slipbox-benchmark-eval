@@ -13,12 +13,19 @@ Polygon's Toussaint Egan calls the production history a tangled mess of false st
 
 ## Related Notes
 
+
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): both mention Prime Video, from a different source document
 - [Bears-Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): shares Prime Video coverage from an unrelated article
 - [Bose QuietComfort 45 Headphones](bose_quietcomfort_45_headphones.md): shares the fine-penalty and streaming-service topic tags
 - [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): both discuss Prime Video in a platform context
 - [Catherine Called Birdy (2022, Lena Dunham)](catherine_called_birdy_2022_lena_dunham_comedy.md): another Prime Video title from a different document
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
+- [American Horror Story: NYC](american_horror_story_nyc_season.md): same source document (doc_0165)
+- [Apostle (Gareth Evans)](apostle_gareth_evans_folk_horror.md): same source document (doc_0165)
+- [Cat People (1942) and the Origin of the Jump Scare](cat_people_1942_jump_scare_origin.md): same source document (doc_0165)
+- [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): same source document (doc_0165)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

@@ -13,6 +13,7 @@ And then it disappeared. As part of Snap's cost-cutting efforts, the company dec
 
 ## Related Notes
 
+
 - [The French Founder Stealth AI Startup Wave](french_founder_stealth_ai_startup_wave.md): overlaps on Zenly alumni and Snap, from a different document.
 - [Amo's Founding Team And Funding Round](amo_founding_team_and_funding_round.md): drawn from the same source document (doc_0196), and covers where the Zenly team went.
 - [ID: Amo's Creative Social App](amo_id_social_app_launch.md): drawn from the same source document (doc_0196).
@@ -21,6 +22,7 @@ And then it disappeared. As part of Snap's cost-cutting efforts, the company dec
 - [ID's Profile Canvas Mechanics](id_app_profile_canvas_mechanics.md): drawn from the same source document (doc_0196).
 - [ID's Emergent Social Gameplay](id_emergent_social_gameplay.md): drawn from the same source document (doc_0196).
 - [ID's Loneliness Thesis And Anti-Engagement Design](id_loneliness_thesis_and_anti_engagement_design.md): drawn from the same source document (doc_0196).
+- [Social Networks' Drift From Connection To Algorithmic Feeds](social_networks_drift_from_connection_to_algorithmic_feeds.md): same source document (doc_0196)
 
 ## Source
 

@@ -11,6 +11,7 @@ Agustin Carstens, the former governor of the Bank of Mexico who is now general m
 
 ## Related Notes
 
+
 - [Philippine Inflation And Deficit Vicious Cycle](philippine_inflation_and_deficit_vicious_cycle.md): overlapping coverage of fiscal, structural and monetary policy, from a different source document.
 - [Public Policy Objectives: Efficiency, Equity, Stability](public_policy_objectives_efficiency_equity_stability.md): overlapping coverage of policies for sustainable growth, from a different source document.
 - [The Case For Raising The Inflation Target](case_for_raising_the_inflation_target.md): drawn from the same source document (doc_0503).
@@ -19,6 +20,8 @@ Agustin Carstens, the former governor of the Bank of Mexico who is now general m
 - [The Monetary And Fiscal Policy Coordination Debate](monetary_and_fiscal_policy_coordination_debate.md): drawn from the same source document (doc_0503).
 - [The Objection To Moving An Unmet Inflation Target](objection_to_moving_an_unmet_inflation_target.md): drawn from the same source document (doc_0503).
 - [The Post-Tightening Monetary Policy Autopsy Of 2023](post_tightening_monetary_policy_autopsy_2023.md): drawn from the same source document (doc_0503).
+- [Powell's Rejection Of Monetary-Fiscal Coordination](powell_rejection_of_monetary_fiscal_coordination.md): same source document (doc_0503)
+- [The Case For Preemptive Central Bank Response To Supply Shocks](preemptive_central_bank_response_to_supply_shocks.md): same source document (doc_0503)
 
 ## Source
 

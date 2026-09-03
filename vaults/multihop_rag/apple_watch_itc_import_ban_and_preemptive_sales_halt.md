@@ -11,6 +11,7 @@ The Verge wrote on December 19th that it had been hard to believe the ban would 
 
 ## Related Notes
 
+
 - [Apple Holiday 2023 Sale Overview](apple_holiday_2023_sale_overview.md): also concerns the Apple Watch Series, from a different source document.
 - [Apple Watch Double Tap Gesture](apple_watch_double_tap_gesture.md): also concerns the Apple Watch Series, from a different source document.
 - [Apple Watch SE Record Low Price](apple_watch_se_record_low_price.md): also concerns the Apple Watch Series, from a different source document.
@@ -18,6 +19,11 @@ The Verge wrote on December 19th that it had been hard to believe the ban would 
 - [Apple Watch Series 9 Holiday Deal](apple_watch_series_9_holiday_deal.md): also concerns the Apple Watch Series, from a different source document.
 - [A Patent Redesign Must Be More Than A Colorable Difference](a_patent_redesign_must_be_more_than_a_colorable_difference.md): drawn from the same source document (doc_0241).
 - [AliveCor's EKG Import Ban And The PTAB Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): drawn from the same source document (doc_0241).
+- [Apple's Appeal And Stay Prospects On The Watch Ban](apple_appeal_and_stay_prospects_on_the_watch_ban.md): same source document (doc_0241)
+- [The Apple-Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): same source document (doc_0241)
+- [Apple Watch SE And Reseller Inventory Remain Available](apple_watch_se_and_reseller_inventory_remain_available.md): same source document (doc_0241)
+- [Patent Litigation](term_patent_litigation.md): uses the concept patent litigation
+- [Wearable Device](term_wearable_device.md): uses the concept wearable device
 
 ## Source
 

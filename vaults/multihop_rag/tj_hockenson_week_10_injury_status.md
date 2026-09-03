@@ -11,11 +11,19 @@ The fantasy verdict was unequivocal. As long as Hockenson is playing he is not b
 
 ## Related Notes
 
+
 - [Bears-Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): also covers Josh Dobbs throwing to Hockenson, from a different document.
 - [Playoff and Roster Stakes in Bears-Vikings on Monday Night](bears_vikings_mnf_playoff_and_roster_stakes.md): also notes Dobbs' connection with Hockenson, separately sourced.
 - [Cooper Kupp's 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): shares the NFL and player-injury themes, in a different document.
 - [Fantasy Week 13 Falcons-Jets Outlook](fantasy_week_13_falcons_jets_outlook.md): also discusses Josh Dobbs, from a separate source.
 - [Jared Goff's Fantasy Outlook, Weeks 5 and 6 2023](jared_goff_fantasy_outlook_weeks_5_and_6_2023.md): another item referencing Josh Dobbs, in a different document.
+- [Curtis Samuel's Week 10 Injury Status](curtis_samuel_week_10_injury_status.md): same source document (doc_0288)
+- [Ja'Marr Chase's Week 10 Injury Status](jamarr_chase_week_10_injury_status.md): same source document (doc_0288)
+- [Justin Jefferson's Week 10 Injury Status](justin_jefferson_week_10_injury_status.md): same source document (doc_0288)
+- [Week 10 Fantasy Pass-Catcher Injury Overview](week_10_fantasy_pass_catcher_injury_overview.md): same source document (doc_0288)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

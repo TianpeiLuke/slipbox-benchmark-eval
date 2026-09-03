@@ -11,6 +11,7 @@ The contributing factors named for the continuous decline in home transactions a
 
 ## Related Notes
 
+
 - [Affordable Housing Supply Gap For Low-Income Renters](affordable_housing_supply_gap_for_low_income_renters.md): overlapping coverage of mortgages, housing and rates from a different source document.
 - [Bank Of America Housing Turbulence Warning 2023](bank_of_america_housing_turbulence_warning_2023.md): overlapping coverage of mortgages, housing and rates, from a different source document.
 - [Investor Case For Affordable Starter Home Supply](investor_case_for_affordable_starter_home_supply.md): overlapping coverage of housing affordability and homes, from a different source document.
@@ -19,6 +20,8 @@ The contributing factors named for the continuous decline in home transactions a
 - [Goldman Sachs Home Price Forecast 2023-2024](goldman_sachs_home_price_forecast_2023_2024.md): drawn from the same source document (doc_0479).
 - [Housing Affordability Worse Than The 2006 Peak](housing_affordability_worse_than_2006_peak.md): drawn from the same source document (doc_0479).
 - [Housing Market 1980s Analogy Rather Than 2008](housing_market_1980s_analogy_rather_than_2008.md): drawn from the same source document (doc_0479).
+- [Millennials As The New Boomer Homebuying Cohort](millennials_as_the_new_boomer_homebuying_cohort.md): same source document (doc_0479)
+- [The US Housing Inventory Shortage Of 2023](us_housing_inventory_shortage_2023.md): same source document (doc_0479)
 
 ## Source
 

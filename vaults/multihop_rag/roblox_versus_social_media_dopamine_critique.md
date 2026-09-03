@@ -11,6 +11,7 @@ His answer was that Roblox is optimistic because, in the specter of social media
 
 ## Related Notes
 
+
 - [Metaverse Interoperability and 3D File Formats](metaverse_interoperability_and_3d_file_formats.md): another challenge put to him in the same session (doc_0539).
 - [Roblox Advertising and Brand Experiences](roblox_advertising_and_brand_experiences.md): the commercial layer this critique bears on (doc_0539).
 - [Roblox Aging Up: An Older User Base](roblox_aging_up_older_user_base.md): the demographics behind the time-spent question (doc_0539).
@@ -19,6 +20,8 @@ His answer was that Roblox is optimistic because, in the specter of social media
 - [Roblox's Content Delivery Architecture Versus App Stores](roblox_content_delivery_architecture_vs_app_stores.md): another audience question from the same session (doc_0539).
 - [Roblox's Dating Prediction](roblox_dating_prediction.md): another use of time he expects to migrate to Roblox (doc_0539).
 - [Roblox Fashion Design and Direct-to-Avatar](roblox_fashion_design_and_direct_to_avatar.md): the creating-and-inventing activity he contrasts with passive scrolling (doc_0539).
+- [Roblox's Hiring And Recruiting Layoffs](roblox_hiring_and_recruiting_layoffs.md): same source document (doc_0539)
+- [Roblox On VR And AR Headsets](roblox_on_vr_and_ar_headsets.md): same source document (doc_0539)
 
 ## Source
 

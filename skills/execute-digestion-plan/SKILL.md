@@ -75,7 +75,7 @@ grep -E '^status:\s*ready' "$PLANS/$PLAN_FILE" || {
 Refuse to start if:
 - Plan status is `pending` or `in-progress` (not yet sign-off)
 - Plan is missing a Planned Notes table (or a Sub-Plans Index Table for master plans)
-- The assigned source documents are missing under `data/corpus/$CORPUS/` (spot-check that 1-2 of the plan's `doc_*` ids exist)
+- Source URLs are unreachable (do a HEAD-check on 1-2)
 
 For master + sub-plans (per Step 1e of `/slipbox-plan-digestion`), this skill operates on ONE plan at a time. Master plans are not executed directly — execute each sub-plan independently in priority order.
 
@@ -186,7 +186,7 @@ Add three sections the plan does NOT provide:
 ```markdown
 ## Absolute Rules (Non-Negotiable)
 
-1. **Read source FIRST** — your assigned source blocks are inlined in the brief (`scripts/emit_write_brief.py`, drawn from `data/corpus/$CORPUS/doc_*.txt`); write only from them. Never fetch anything external and never write from memory. If the brief is missing its source text, stop and report.
+1. **Read source FIRST** — before writing anything, fetch the assigned source page(s) fully.
 2. **No fabrication** — every claim must trace to source. Sanctioned honest outputs:
    - `"Not specified in source"` when a fact is absent
    - `*(source metadata description absent — inferred from logic)*` when reasoning beyond source
@@ -194,7 +194,6 @@ Add three sections the plan does NOT provide:
 4. **BB atomicity** — one building_block per note. If your assigned section mixes BBs, return STATUS=split-needed and DO NOT write the note.
 5. **Density** — if your draft exceeds 400 lines / 2500 words / 6 code blocks, return STATUS=split-needed.
 6. **Verbatim code** — code blocks must be character-for-character from source. No reformatting.
-7. **Write only under the repo vault** — every note is saved to `$VAULT/<slug>.md` (`vaults/$CORPUS`, inside this repository), flat with no subdirectories. A bare `target_path` filename resolves to `$VAULT/<filename>`; never write a note outside `$VAULT`. A path that escapes the repo vault is a contamination failure (`LN-002`) and invalidates the run.
 
 ## Return Schema (Structured Output)
 
@@ -222,16 +221,13 @@ For each batch defined in the plan's batch table, extract the per-note rows into
 
 Reads: contract_<plan_slug>_shared.md
 
-| Note | Target Path | Source (corpus doc + blocks) | Per-Note Related Notes (from plan) | Per-Note Inlinks (from plan) |
+| Note | Target Path | Source Path / URL | Per-Note Related Notes (from plan) | Per-Note Inlinks (from plan) |
 |---|---|---|---|---|
-| note_1 | $VAULT/topic_overview.md | data/corpus/$CORPUS/doc_0009.txt (blocks 0-5) | [term:A], [tool:B], [entry:C] | from repo_X.md, snippet_Y.md |
+| note_1 | topic_overview.md | https://... | [term:A], [tool:B], [entry:C] | from repo_X.md, snippet_Y.md |
 | ... | ... | ... | ... | ... |
 ```
 
-**Target Path is repo-anchored: always `$VAULT/<slug>.md` (`vaults/$CORPUS`,
-inside this repo), never a bare filename that would resolve to the sub-agent's
-working directory.** The per-batch file is what each sub-agent receives
-alongside the shared contract.
+The per-batch file is what each sub-agent receives alongside the shared contract.
 
 ### 4c. Constraint on extraction: faithful projection only
 
@@ -469,10 +465,35 @@ parameter to the retrieval comparison for no benefit.
 
 ```yaml
 ---
+tags:                                # FM-010 — 2+, first is a P.A.R.A. type
+  - resource                         #   archive | area | entry_point | project | resource
+  - <domain tag>
+keywords:                            # FM-020 — 3+, and see below
+  - <term the note is about>
+  - <term a question would use>
+  - <acronym or variant spelling>
+topics:                              # FM-030
+  - <broad subject area>
+language: markdown                   # FM-040
+date of note: <YYYY-MM-DD>           # FM-040
+status: active                       # FM-040
 building_block: <one of the eight>   # FM-002 / FM-003 — closed enum
-source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this note
+source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence, the scoring key
 ---
 ```
+
+**`keywords` and `topics` are retrieval surface, not decoration.** Graph
+traversal can be seeded by matching a query against
+`note_name`, `keywords`, `topics` and `tags` — so a note with none of them is
+invisible to that seeding, and a vault with none of them cannot run the strategy
+at all. They are also a denser statement of what the note is about than its body:
+a short question tends to use the vocabulary a keyword list is written in, while
+a body buries that vocabulary among incidental words. Write keywords a
+*questioner* would use, not a summary of the note.
+
+`building_block` and `source_docs` are ERRORS if absent. The rest are WARNINGS:
+their absence degrades retrieval without making a note unscorable, and gating on
+them would block a vault that is merely incomplete rather than wrong.
 
 `navigation` notes — glossaries, entry points, indexes — are **exempt from
 `source_docs`**. They index rather than assert, so there is no document to trace

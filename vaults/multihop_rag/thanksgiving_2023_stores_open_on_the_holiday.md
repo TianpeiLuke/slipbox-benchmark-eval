@@ -13,11 +13,16 @@ A spokesperson for Starbucks told Country Living earlier in November that stores
 
 ## Related Notes
 
+
 - [Best Buy Price Match Guarantee](best_buy_price_match_guarantee.md): also concerns Thanksgiving Day, from a different source document.
 - [Dell Price Match Policy](dell_price_match_policy.md): also concerns Thanksgiving Day, from a different source document.
 - [Earnings Week Ahead, 4-8 December 2023](earnings_week_ahead_december_4_8_2023.md): also covers Dollar General, from a different source document.
 - [Epic v Google Trial Schedule](epic_v_google_trial_schedule.md): overlapping references to holiday closing schedules, from a different source document.
 - [The Epoch Times: Founding and Early Growth](epoch_times_founding_and_early_growth_2000s.md): also concerns Thanksgiving Day, from a different source document.
+- [Thanksgiving 2023 Retail Closure Policy](thanksgiving_2023_retail_closure_policy.md): same source document (doc_0323)
+- [Thanksgiving 2023: Stores Closed on the Holiday](thanksgiving_2023_stores_closed_on_the_holiday.md): same source document (doc_0323)
+- [Thanksgiving: The American Holiday](thanksgiving_american_holiday_overview.md): same source document (doc_0323)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

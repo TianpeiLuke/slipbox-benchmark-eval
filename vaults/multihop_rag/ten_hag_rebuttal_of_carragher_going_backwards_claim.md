@@ -13,11 +13,16 @@ Ten Hag conceded ground on consistency without conceding the direction of travel
 
 ## Related Notes
 
+
 - [Andre Onana Goalkeeping Errors in the 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also concerns Ten Hag, from a different document.
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also concerns Manchester City, from a different document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns Bayern Munich, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns Bayern Munich and Manchester City, from a different document.
 - [Bruno Fernandes' Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): overlaps on Manchester United and taking the benefit of chances, from a different document.
+- [Manchester United's Pressing Statistics, October 2023](manchester_united_pressing_statistics_october_2023.md): same source document (doc_0571)
+- [Manchester United's Striker Scoring Problem, 2023](manchester_united_striker_scoring_problem_2023.md): same source document (doc_0571)
+- [PPDA: Passes Allowed Per Defensive Action](ppda_passes_allowed_per_defensive_action.md): same source document (doc_0571)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

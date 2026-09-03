@@ -11,11 +11,17 @@ Oh places the episode in a longer arc: "We're at an inflection point in social m
 
 ## Related Notes
 
+
 - [Pebble's Moderation-First Market Hypothesis](pebble_moderation_first_market_hypothesis.md): same source document; the hypothesis Oh says did not pan out.
 - [The Kindness Versus Engagement Trade-Off](kindness_versus_engagement_tradeoff.md): same source document; the specific correction the founders would make.
 - [Pebble's Moderation Approach Defense](pebble_moderation_approach_defense.md): same source document; the part of the approach the founders still stand behind.
 - [X's Competitive Position](x_competitive_position.md): overlaps in content on Twitter-like platforms and Pebble, from a different source document.
 - [Post-Twitter Social App Landscape](post_twitter_social_app_landscape.md): overlaps in content on Pebble and Cselle, from a different source document.
+- [Beeper's Open Source Transparency Effort](beeper_open_source_transparency_effort.md): content overlap 0.16 on pebble, founders, building; different source document
+- [Pebble/T2's Shutdown As A Warning To Moderation-First Products](pebble_t2_moderation_first_twitter_clone_shutdown.md): content overlap 0.12 on pebble, founders, twitter; different source document
+- [Pebble's Missing Native Mobile App](pebble_missing_native_mobile_app.md): same source document (doc_0593)
+- [Pebble's Multifactor Shutdown Explanation](pebble_shutdown_multifactor_explanation.md): same source document (doc_0593)
+- [Pebble's Shutdown And Wind-Down](pebble_t2_shutdown_and_winddown.md): same source document (doc_0593)
 
 ## Source
 

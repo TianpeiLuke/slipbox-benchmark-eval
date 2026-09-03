@@ -11,9 +11,18 @@ Until recently, the best way to measure the sun's corona was to observe it durin
 
 ## Related Notes
 
+
 - [Solar Cycle Peak and Stronger Auroras](solar_cycle_peak_and_stronger_auroras.md): another account of measuring the sun's behaviour through waves and cycles.
 - [Ancient Superflares as a Spark for Life on Earth](ancient_superflares_as_spark_for_life_on_earth.md): from the same year-in-review article on the sun.
 - [Coronal Rain: The Sun's Shooting Stars](coronal_rain_solar_shooting_stars.md): from the same article, on another discovery about the corona.
+- [The Miyake Event Solar Storm 14,000 Years Ago](miyake_event_solar_storm_14000_years_ago.md): same source document (doc_0325)
+- [Quasi-Periodic Pulsations in Solar Radio Bursts](quasi_periodic_pulsations_in_solar_radio_bursts.md): same source document (doc_0325)
+- [Shortened Solar Cycles During the Maunder Minimum](shortened_solar_cycles_during_the_maunder_minimum.md): same source document (doc_0325)
+- [Solar Auroras Above Sunspots](solar_auroras_above_sunspots.md): same source document (doc_0325)
+- [Solar Cycle Maximum Forecast Revision](solar_cycle_25_maximum_forecast_revision.md): same source document (doc_0325)
+- [Solar Neutrinos as a Probe for Dark Matter](solar_neutrinos_as_probe_for_dark_matter.md): same source document (doc_0325)
+- [Solar Picojets and the Origin of the Solar Wind](solar_picojets_and_the_origin_of_solar_wind.md): same source document (doc_0325)
+- [Space Mission](term_space_mission.md): uses the concept space mission
 
 ## Source
 

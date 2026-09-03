@@ -13,11 +13,20 @@ The second quarter brought fireworks and an injury. At 9:11 p.m. Smith caught hi
 
 ## Related Notes
 
+
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): shares the player-injury-report theme.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also discusses Daniel Jones and Geno Smith.
 - [Cowboys Fantasy Start Recommendations Week 13](cowboys_fantasy_start_recommendations_week_13.md): also discusses Jamal Adams.
 - [Dak Prescott Week 6 2023 Sit Recommendation](dak_prescott_week6_2023_sit_recommendation.md): also discusses Daniel Jones.
 - [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): overlapping Giants and Daniel Jones coverage from a different document.
+- [ESPN's 2023 Monday Night Football Broadcast, Manningcast And Streaming](monday_night_football_2023_broadcast_and_streaming.md): same source document (doc_0290)
+- [Seahawks-Giants Pregame: Jamal Adams Returns, Saquon Barkley Ruled Inactive](seahawks_giants_pregame_inactives_and_jamal_adams_return.md): same source document (doc_0290)
+- [Seahawks-Giants Second Half: Witherspoon's 97-Yard Pick-Six Ends The Contest](seahawks_giants_second_half_live_blog.md): same source document (doc_0290)
+- [Seahawks Sack Daniel Jones 11 Times In A 24-3 Monday Night Win](seahawks_shut_down_giants_week_4_monday_night_recap.md): same source document (doc_0290)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

@@ -13,6 +13,7 @@ Epic will offer two concrete instances. It will specifically reference an agreem
 
 ## Related Notes
 
+
 - [Activision $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): also concerns Google Play and Play Store contracting evidence, from a different document.
 - [Activision, Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): covers developers who dropped their own store plans, from a different document.
 - [Android App Distribution Market Definition](android_app_distribution_market_definition.md): defines the distribution market this argument operates in, from a different document.
@@ -21,6 +22,8 @@ Epic will offer two concrete instances. It will specifically reference an agreem
 - [Epic Games v. Google Goes To Trial On November 6, 2023](epic_games_v_google_antitrust_trial.md): drawn from the same source document (doc_0042).
 - [Google's Defense: Android Openness And Sideloading](google_defense_android_openness_and_sideloading.md): drawn from the same source document (doc_0042), and rebuts this argument.
 - [Google's Parallel Antitrust Proceedings In 2023](google_parallel_antitrust_proceedings_2023.md): drawn from the same source document (doc_0042).
+- [Google Play Billing And The User Choice Billing Alternative](google_play_billing_commission_structure.md): same source document (doc_0042)
+- [Project Hug: Google's Developer Incentive Program, As Characterized By Both Sides](google_project_hug_developer_incentive_program.md): same source document (doc_0042)
 
 ## Source
 

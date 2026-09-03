@@ -15,11 +15,18 @@ Additional runners-up included My Adventures with Superman, the slice-of-life ac
 
 ## Related Notes
 
+
 - [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): both cover work by Hirokazu Kore-eda, from a different source document
 - [Creature Commandos Animated Series](creature_commandos_animated_series.md): both mention Harley Quinn, from a separate article
 - [Dead Boy Detectives (Netflix Series)](dead_boy_detectives_netflix_series.md): both reference Neil Gaiman adaptations, from a different document
 - [Gravity Falls: Northwest Mansion Mystery](gravity_falls_northwest_mansion_mystery.md): both invoke Twin Peaks as a comparison point
 - [Joker: Folie à Deux](joker_folie_a_deux.md): both touch on Harley Quinn as a character property
+- [Andor (Disney Plus)](andor_disney_plus.md): same source document (doc_0185)
+- [Castlevania: Nocturne (Netflix)](castlevania_nocturne_netflix.md): same source document (doc_0185)
+- [Gen V (Prime Video)](gen_v_prime_video.md): same source document (doc_0185)
+- [Hijack (Apple TV Plus)](hijack_apple_tv_plus.md): same source document (doc_0185)
+- [Scope and Update Policy of Polygon's Best New Streaming Series Roundup](polygon_best_new_streaming_series_roundup_scope.md): same source document (doc_0185)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

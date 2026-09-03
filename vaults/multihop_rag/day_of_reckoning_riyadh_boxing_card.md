@@ -13,6 +13,7 @@ The full card and odds: Anthony Joshua -455 vs Otto Wallin +345, heavyweight; De
 
 ## Related Notes
 
+
 - [Anthony Joshua Fifth Round Stoppage Of Otto Wallin](anthony_joshua_fifth_round_stoppage_of_otto_wallin.md): covers the outcome of the main event, from a different document.
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also concerns Saudi Arabia, from a different document.
 - [Boxing Unorthodox Fight Endings Ranking Scope](boxing_unorthodox_fight_endings_ranking_scope.md): also discusses Tyson Fury, from a different document.
@@ -21,6 +22,8 @@ The full card and odds: Anthony Joshua -455 vs Otto Wallin +345, heavyweight; De
 - [Anthony Joshua Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): profiles the main event's headliner, from the same document.
 - [Boxing Marination And Upset Risk](boxing_marination_and_upset_risk.md): the risk analysis for this card, from the same document.
 - [Day Of Reckoning Predictions And Picks](day_of_reckoning_predictions_and_picks.md): the picks for this card, from the same document.
+- [Deontay Wilder Comeback After Fury Trilogy](deontay_wilder_comeback_after_fury_trilogy.md): same source document (doc_0137)
+- [Deontay Wilder On Pressure Ahead Of Parker Bout](deontay_wilder_on_pressure_ahead_of_parker_bout.md): same source document (doc_0137)
 
 ## Source
 

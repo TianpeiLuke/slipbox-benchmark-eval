@@ -11,6 +11,7 @@ The preview argued that with the Bills we often see several versions and levels 
 
 ## Related Notes
 
+
 - [Apple's Generative AI Investment Stance](apple_generative_ai_investment_stance.md): shares a surname with this note's subject, from a different document.
 - [Bills-Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also covers James Cook, from a different document.
 - [Bills-Bengals SNF Fourth Quarter](bills_bengals_snf_fourth_quarter.md): also covers Latavius Murray, from a different document.
@@ -19,6 +20,8 @@ The preview argued that with the Bills we often see several versions and levels 
 - [Buffalo's Against-The-Spread Trends in 2023](bills_against_the_spread_trends_2023.md): gives the betting context for the same team, from the same document.
 - [Bills vs. Chargers Week 16 Matchup Preview](bills_chargers_week_16_matchup_preview.md): gives the matchup this workload projection applies to, from the same document.
 - [Bills vs. Chargers Week 16 Pick and Rationale](bills_chargers_week_16_pick_and_rationale.md): builds its pick partly on this rushing plan, from the same document.
+- [Bills vs. Chargers Week 16 Player Props](bills_chargers_week_16_player_props.md): same source document (doc_0376)
+- [Buffalo's AFC Wild Card Position Going Into Week 16](buffalo_bills_afc_wild_card_position_week_16.md): same source document (doc_0376)
 
 ## Source
 

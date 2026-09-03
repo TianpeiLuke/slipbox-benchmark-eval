@@ -15,11 +15,19 @@ A startup layer formed on top. YC Demo Day's Winter 2023 batch featured no fewer
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also covers Silicon Valley, from a different source document.
 - [Apple Watch Itc Import Ban and Preemptive Sales Halt](apple_watch_itc_import_ban_and_preemptive_sales_halt.md): also covers Big Tech, from a different source document.
 - [Big Tech Antitrust Outlook](big_tech_antitrust_outlook.md): also covers Big Tech, from a different source document.
 - [Big Tech Declines and Amazon FTC Antitrust Lawsuit](big_tech_declines_and_amazon_ftc_antitrust_lawsuit.md): also covers Big Tech, from a different source document.
 - [Blackberry Matt Johnson Film](blackberry_matt_johnson_film.md): also covers Silicon Valley, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): same source document (doc_0048)
+- [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): same source document (doc_0048)
+- [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): same source document (doc_0048)
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
+- [Open Source](term_open_source.md): uses the concept open source
 
 ## Source
 

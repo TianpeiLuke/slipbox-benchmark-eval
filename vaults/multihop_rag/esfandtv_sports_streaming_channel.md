@@ -15,11 +15,21 @@ Esfand says he feels fortunate to have been able to stream more sports content o
 
 ## Related Notes
 
+
 - [Bears-Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): shares the NFL and streaming-service topic tags
 - [Calls for Creative Experimentation in VTuber Agencies](calls_for_creative_experimentation_in_vtuber_agencies.md): shares the creator-economy and streaming-service tags
 - [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): another Twitch creator-economy subject from a different document
 - [DeepMind Founding and Thiel Investment](deepmind_founding_and_thiel_investment.md): shares two topic tags despite unrelated subject matter
 - [Eras Tour Scale and Swift's Preparation Regimen](eras_tour_scale_and_swift_preparation_regimen.md): shares topic tags from a separate article
+- [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): same source document (doc_0435)
+- [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): same source document (doc_0435)
+- [Keira Megan's Sports Watch-Along Streams](keira_megan_sports_watch_along_streams.md): same source document (doc_0435)
+- [Leagues Should Partner With Twitch Streamers Rather Than Block Markets](sports_league_partnerships_with_twitch_streamers.md): same source document (doc_0435)
+- [Twitch as an Alternative Sports Viewing Platform](twitch_as_an_alternative_sports_viewing_platform.md): same source document (doc_0435)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

@@ -13,9 +13,18 @@ Referee Mills Lane eventually just waved the bizarre spectacle off.
 
 ## Related Notes
 
+
 - [Adolpho Washington vs Virgil Hill, 1993: The Camera Stoppage](adolpho_washington_virgil_hill_1993_camera_stoppage.md): drawn from the same document (doc_0228).
 - [Bernard Hopkins vs Robert Allen, 1998: The Referee's Fall](bernard_hopkins_robert_allen_1998_referee_fall.md): drawn from the same document (doc_0228).
 - [The Scope of talkSPORT's Craziest Boxing Fight Endings Ranking](boxing_unorthodox_fight_endings_ranking_scope.md): drawn from the same document (doc_0228).
+- [Efe Ajagba vs Curtis Harper, 2018: The Walkout](efe_ajagba_curtis_harper_2018_walkout.md): same source document (doc_0228)
+- [Kermit Cintron vs Paul Williams, 2004: The Ring Exit](kermit_cintron_paul_williams_2004_ring_exit.md): same source document (doc_0228)
+- [Mayweather vs Ortiz, 2011: The Knockout After The Headbutt](mayweather_ortiz_2011_knockout_after_headbutt.md): same source document (doc_0228)
+- [Ricky Hatton vs Stephen Smith, 2002: The Disqualification](ricky_hatton_stephen_smith_2002_disqualification.md): same source document (doc_0228)
+- [Riddick Bowe vs Elijah Tillery, 1991: The Ring Brawl](riddick_bowe_elijah_tillery_1991_ring_brawl.md): same source document (doc_0228)
+- [Tony Wilson vs Steve McCarthy, 1989: The Shoe Intervention](tony_wilson_steve_mccarthy_1989_shoe_intervention.md): same source document (doc_0228)
+- [Tyson vs Holyfield, 1997: The Bite Fight](tyson_holyfield_1997_bite_fight.md): same source document (doc_0228)
+- [Bail](term_bail.md): uses the concept bail
 
 ## Source
 

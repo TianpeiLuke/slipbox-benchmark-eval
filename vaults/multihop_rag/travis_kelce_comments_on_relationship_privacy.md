@@ -13,11 +13,17 @@ He then set the limit, noting that he wants "to respect both of our lives," and 
 
 ## Related Notes
 
+
 - [Surrender To God When Life Feels Uncontrollable](surrender_to_god_when_life_feels_uncontrollable.md): overlaps on the same theme of what one can and cannot control in one's own life, from a different document.
 - [Taylor Swift's Lambeau Field Attendance In Week 13](taylor_swift_lambeau_field_attendance_week_13.md): covers a later Swift game attendance in the same storyline, from a different document.
 - [Travis Kelce's Breeder Remarks On The New Heights Podcast](travis_kelce_breeder_remarks_on_new_heights_podcast.md): covers the same podcast Kelce hosts with his brother, from a different document.
 - [Travis Kelce On Dating Taylor Swift In Public](travis_kelce_on_dating_taylor_swift_in_public.md): covers his later comments on the same privacy question, from a different document.
 - [The Swift-Kelce Dating Rumours Going Public In September 2023](swift_kelce_dating_rumours_go_public_september_2023.md): the rumour phase these comments respond to, from the same timeline.
+- [The Kelce Brothers' Criticism Of NFL Swift Coverage](kelce_brothers_criticism_of_nfl_swift_coverage.md): same source document (doc_0059)
+- [The NFL's Defence Of Its Taylor Swift-Themed Promotion](nfl_defence_of_its_taylor_swift_themed_promotion.md): same source document (doc_0059)
+- [NFL Figures React To The Swift-Kelce Romance](nfl_figures_react_to_the_swift_kelce_romance.md): same source document (doc_0059)
+- [The Taylor Swift Effect On NFL Merchandise And Ticket Sales](taylor_swift_effect_on_nfl_merchandise_and_ticket_sales.md): same source document (doc_0059)
+- [Taylor Swift's First Chiefs Game Appearance On 24 September 2023](taylor_swift_first_chiefs_game_appearance_september_24_2023.md): same source document (doc_0059)
 
 ## Source
 

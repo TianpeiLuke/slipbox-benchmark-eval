@@ -13,11 +13,18 @@ The partnership's limits also showed. Microsoft's stock price fell more than 1% 
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also covers Satya Nadella, from a different source document.
 - [Google Apple Chrome Agreement](google_apple_chrome_agreement.md): also covers Satya Nadella, from a different source document.
 - [Microsoft OpenAI Investment and Early Capability Tests](microsoft_openai_investment_and_early_capability_tests.md): substantial content overlap on microsoft, openai, altman, from a different source document.
 - [Musk OpenAI Founding and Departure](musk_openai_founding_and_departure.md): also covers Satya Nadella, from a different source document.
 - [OpenAI Board Firing of Sam Altman](openai_board_firing_of_sam_altman.md): substantial content overlap on mira, openai, altman, from a different source document.
+- [Greg Brockman Departure From OpenAI](greg_brockman_departure_from_openai.md): same source document (doc_0415)
+- [OpenAI Board Composition And The Helen Toner Dispute](openai_board_composition_and_helen_toner_dispute.md): same source document (doc_0415)
+- [OpenAI Board's Merger Approach To Anthropic](openai_board_merger_approach_to_anthropic.md): same source document (doc_0415)
+- [OpenAI Board Negotiations Over Altman Reinstatement](openai_board_negotiations_over_altman_reinstatement.md): same source document (doc_0415)
+- [OpenAI Denial Of Malfeasance In Altman Ouster](openai_denial_of_malfeasance_in_altman_ouster.md): same source document (doc_0415)
+- [Initial Public Offering (IPO)](term_initial_public_offering.md): uses the concept initial public offering
 
 ## Source
 

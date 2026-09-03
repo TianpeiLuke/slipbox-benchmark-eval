@@ -11,6 +11,7 @@ Since the war between Israel and Hamas began on Oct. 8, 2023, more than 1,500 Ga
 
 ## Related Notes
 
+
 - [Claim That Mossad Foreknew The Hamas Attack](claim_that_mossad_foreknew_the_hamas_attack.md): overlapping coverage of Hamas and Israel from a different source document.
 - [Disinformation On X About Gaza](disinformation_on_x_gaza.md): overlapping coverage of casualties, Hamas and Israel, from a different source document.
 - [Egypt's Role In The Israel-Hamas War And Western Leverage](egypt_role_in_israel_hamas_war_and_western_leverage.md): overlapping coverage of Hamas, Israel and Gaza, from a different source document.
@@ -19,6 +20,8 @@ Since the war between Israel and Hamas began on Oct. 8, 2023, more than 1,500 Ga
 - [Criticism Of UNRWA Textbooks And Internal Governance](criticism_of_unrwa_textbooks_and_internal_governance.md): drawn from the same source document (doc_0135).
 - [Gaza Economic Isolation And Poverty Indicators](gaza_economic_isolation_and_poverty_indicators.md): drawn from the same source document (doc_0135).
 - [Gaza Food Insecurity And Import Dependence](gaza_food_insecurity_and_import_dependence.md): drawn from the same source document (doc_0135).
+- [The October 2023 Cutoff Of Supplies To Gaza](gaza_humanitarian_crisis_october_2023_supply_cutoff.md): same source document (doc_0135)
+- [The Humanitarian Corridor Proposal For Gaza](humanitarian_corridor_proposal_for_gaza.md): same source document (doc_0135)
 
 ## Source
 

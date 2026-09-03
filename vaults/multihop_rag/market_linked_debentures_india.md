@@ -11,9 +11,14 @@ The boundary case is instructive: although the minimum investment for MLDs is â‚
 
 ## Related Notes
 
+
 - [DBM Case For A Surplus Budget Policy](dbm_case_for_a_surplus_budget_policy.md): shares the principal, debt and surplus vocabulary, from a different source document.
 - [AIF Sub Fund Strategies Available To HNIs](aif_sub_fund_strategies_available_to_hnis.md): drawn from the same article and covers the equity-side alternatives MLDs complement.
 - [Alternative Investment Funds SEBI Framework](alternative_investment_funds_sebi_framework.md): drawn from the same article and gives the higher-minimum vehicle MLDs are contrasted with.
+- [The Case For Alternatives In HNI Portfolios](case_for_alternatives_in_hni_portfolios.md): same source document (doc_0252)
+- [Growth In India's High-Net-Worth Investor Population](indian_high_net_worth_investor_population_growth.md): same source document (doc_0252)
+- [Portfolio Management Services In India](portfolio_management_services_india.md): same source document (doc_0252)
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
 
 ## Source
 

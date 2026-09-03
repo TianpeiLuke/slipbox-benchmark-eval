@@ -11,11 +11,18 @@ Minshew (at the Bengals) was executing Shane Steichen's scheme at an efficient c
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers Joe Flacco, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also covers Derek Carr and Dorian Thompson-Robinson, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): also covers Dorian Thompson-Robinson and Joe Flacco, from a different document.
 - [Anthony Richardson Season-Ending Shoulder Surgery](anthony_richardson_season_ending_shoulder_surgery.md): explains why Gardner Minshew was starting, from a different document.
 - [Baker Mayfield's Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): also covers Baker Mayfield, from a different document.
+- [Week 14's Biggest Potential Quarterback Busts](week_14_fantasy_quarterback_busts.md): same source document (doc_0553)
+- [The Week 14 Fantasy Quarterback Landscape](week_14_fantasy_quarterback_landscape.md): same source document (doc_0553)
+- [Week 14 Fantasy Quarterback Rankings, Top 30](week_14_fantasy_quarterback_rankings_top_30.md): same source document (doc_0553)
+- [Week 14 Quarterback Byes: Murray And Howell](week_14_quarterback_byes_murray_and_howell.md): same source document (doc_0553)
+- [Week 14 Quarterback Injury Report](week_14_quarterback_injury_report.md): same source document (doc_0553)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

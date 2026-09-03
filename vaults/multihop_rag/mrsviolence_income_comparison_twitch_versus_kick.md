@@ -13,11 +13,20 @@ Kelly joined Twitch when it was still operating as Justin.tv and began streaming
 
 ## Related Notes
 
+
 - [Azarus CEO on Curated versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): substantial content overlap on twitch, streaming, streamers, from a different source document.
 - [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): substantial content overlap on twitch, subscribers, streaming, from a different source document.
 - [Dan Clancy Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): substantial content overlap on twitch, streaming, streamer, from a different source document.
 - [Gag City as Free Marketing Win for Nicki Minaj](gag_city_as_free_marketing_win_for_nicki_minaj.md): shares the covid 19 and streaming service theme, from a different source document.
 - [Hulu Black Friday Subscription Deal](hulu_black_friday_subscription_deal.md): substantial content overlap on subscribers, monthly, month, from a different source document.
+- [The Ice Poseidon Sex Worker "Prank" Stream Incident](ice_poseidon_sex_worker_prank_stream_incident.md): same source document (doc_0405)
+- [Kick's Corporate Response To The Incident](kick_corporate_response_to_the_incident.md): same source document (doc_0405)
+- [Kick's Platform Model And Controversy History](kick_platform_model_and_controversy_history.md): same source document (doc_0405)
+- [Kick Streamer Exodus Over The Sex Worker Stream](kick_streamer_exodus_over_sex_worker_stream.md): same source document (doc_0405)
+- [Paul Denino's Defense Of The Kick Stream](paul_denino_defense_of_the_kick_stream.md): same source document (doc_0405)
+- [Revenue Split](term_revenue_split.md): uses the concept revenue split
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

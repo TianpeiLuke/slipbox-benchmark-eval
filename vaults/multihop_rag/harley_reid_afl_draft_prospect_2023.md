@@ -11,6 +11,7 @@ That year he confirmed his ability to impact the game whether forward, midfield 
 
 ## Related Notes
 
+
 - [Erin Phillips AFLW Retirement](erin_phillips_aflw_retirement.md): also concerns Port Adelaide, from a different document.
 - [Vincent Namatjira Australia In Colour Survey Exhibition](vincent_namatjira_australia_in_colour_survey_exhibition.md): also concerns South Australia, from a different document.
 - [Angus Hastie AFL Draft Prospect 2023](angus_hastie_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
@@ -18,6 +19,10 @@ That year he confirmed his ability to impact the game whether forward, midfield 
 - [Archie Roberts AFL Draft Prospect 2023](archie_roberts_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Ari Schoenmaker AFL Draft Prospect 2023](ari_schoenmaker_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Ashton Moya AFL Draft Prospect 2023](ashton_moya_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
+- [Caiden Cleary AFL Draft Prospect 2023](caiden_cleary_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Caleb Windsor AFL Draft Prospect 2023](caleb_windsor_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Charlie Edwards AFL Draft Prospect 2023](charlie_edwards_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
 
 ## Source
 

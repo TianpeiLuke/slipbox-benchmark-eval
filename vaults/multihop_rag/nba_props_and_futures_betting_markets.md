@@ -13,11 +13,21 @@ Alongside futures, bettors can wager on many NBA markets during the regular seas
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): shares the NFL and playoff-seeding themes referenced in this comparison.
 - [American Odds Format](american_odds_format.md): explains how the odds on these markets are expressed.
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): shares the league-and-playoffs subject tags.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): shares the NFL and playoff-seeding themes.
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): where these futures markets are offered.
+- [BetMGM Sportsbook: Deep MLB Markets And The Only NBA Live-Streaming App](betmgm_sportsbook_betting_markets.md): same source document (doc_0368)
+- [BetRivers Sportsbook: Alternate Lines, An Integrated Casino, And iRush Rewards](betrivers_sportsbook_betting_markets.md): same source document (doc_0368)
+- [DraftKings Sportsbook: MLB And NBA Markets And Promotions](draftkings_sportsbook_betting_markets.md): same source document (doc_0368)
+- [FanDuel Sportsbook: MLB And NBA Markets, Props And Same-Game Parlays](fanduel_sportsbook_betting_markets.md): same source document (doc_0368)
+- [Four Criteria For Judging An NBA Betting Site](how_to_evaluate_an_nba_betting_site.md): same source document (doc_0368)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

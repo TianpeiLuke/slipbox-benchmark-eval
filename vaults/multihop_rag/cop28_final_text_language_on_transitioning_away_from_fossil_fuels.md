@@ -11,6 +11,7 @@ More than 100 countries came to the table pushing for an official agreement to "
 
 ## Related Notes
 
+
 - [Afrofuture Foundation Philanthropy Programmes](afrofuture_foundation_philanthropy_programmes.md): also concerns the United Nations, from a different source document.
 - [Climate Policy Reversal's Impact On EV Businesses](climate_policy_reversal_impact_on_ev_businesses.md): overlapping coverage of fossil fuels and climate policy, from a different source document.
 - [Gaza's Economic Isolation And Poverty Indicators](gaza_economic_isolation_and_poverty_indicators.md): also concerns the United Nations, from a different source document.
@@ -19,6 +20,8 @@ More than 100 countries came to the table pushing for an official agreement to "
 - [The COP28 Fossil Fuel Deal That Slipped Away At The Eleventh Hour](cop28_fossil_fuel_deal_slipped_away_at_the_last_hour.md): drawn from the same source document (doc_0602).
 - [COP28 Renewable Energy Commitments And The IEA Outlook](cop28_renewable_energy_commitments_and_the_iea_outlook.md): drawn from the same source document (doc_0602).
 - [Fossil Fuel Lobbyist Access At COP28 In Dubai](fossil_fuel_lobbyist_access_at_cop28_in_dubai.md): drawn from the same source document (doc_0602).
+- [Global Warming Of 1.2 Degrees And Its Impacts](global_warming_of_1_2_degrees_and_its_impacts.md): same source document (doc_0602)
+- [The OPEC Letter Pressuring Members Against Phase-Out Language](opec_letter_pressuring_members_against_phase_out_language.md): same source document (doc_0602)
 
 ## Source
 

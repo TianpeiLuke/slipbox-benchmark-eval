@@ -13,6 +13,7 @@ If the U.S. market turns out to be too challenging to penetrate due to competiti
 
 ## Related Notes
 
+
 - [AFC 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): also concerns the Middle East, from a different document.
 - [Cairo Diplomatic Surge And The 2023 Summit For Peace](cairo_diplomatic_surge_and_summit_for_peace_2023.md): also concerns the Middle East, from a different document.
 - [Cristiano Ronaldo's Al Nassr Move And 2023 Goal Tally](cristiano_ronaldo_al_nassr_move_and_2023_goal_tally.md): also concerns Middle East capital and recruitment, from a different document.
@@ -20,6 +21,10 @@ If the U.S. market turns out to be too challenging to penetrate due to competiti
 - [Fed Dovish Comments And The October 2023 Yield Retreat](fed_dovish_comments_and_yield_retreat_october_2023.md): shares the macro-conditions theme, from a different document.
 - [China's Tech Crackdown And Investor Exit Risk](china_tech_crackdown_investor_exit_risk.md): drawn from the same source document (doc_0181), and explains the regime this outlook depends on.
 - [China Versus Overseas: The Dual-Market Strategy](china_versus_overseas_dual_market_strategy.md): drawn from the same source document (doc_0181).
+- [Chinese Capital Stigma In US Fundraising](chinese_capital_stigma_in_us_fundraising.md): same source document (doc_0181)
+- [Chinese USD Fund Managers' Transitory Phase](chinese_usd_fund_managers_transitory_phase.md): same source document (doc_0181)
+- [Haigui And Guihai: The Returnee Founder Cycle](haigui_guihai_returnee_founder_cycle.md): same source document (doc_0181)
+- [SaaS Pricing](term_saas_pricing.md): uses the concept saas pricing
 
 ## Source
 

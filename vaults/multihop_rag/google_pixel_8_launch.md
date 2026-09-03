@@ -13,6 +13,7 @@ By the October 13, 2023 issue, TechCrunch had taken a deeper look and found the 
 
 ## Related Notes
 
+
 - [Google Nest Cam Battery Model](google_nest_cam_battery_model.md): another Google device tied to Google Assistant, from a different source document.
 - [Google Nest Hub Smart Display Deal](google_nest_hub_smart_display_deal.md): another Google Assistant device, from a different source document.
 - [Google Nest Wifi Pro 6E Mesh System](google_nest_wifi_pro_6e_mesh_system.md): another Google Assistant-connected device, from a different source document.
@@ -20,6 +21,11 @@ By the October 13, 2023 issue, TechCrunch had taken a deeper look and found the 
 - [Google Pixel 8 Black Friday Deal](google_pixel_8_black_friday_deal.md): covers the same Pixel 8 and its upgrades at a later retail moment, from a different source document.
 - [Acurable's Patient-Friendly Respiratory Wearables](acurable_respiratory_wearables.md): another item from the same October 7, 2023 Week in Review (doc_0011).
 - [Adobe Generative AI Tools](adobe_generative_ai_tools.md): another item from the same October 13, 2023 issue (doc_0043).
+- [AI Day Of Action Campaign](ai_day_of_action_campaign.md): same source document (doc_0043)
+- [AI Startup Defensibility](ai_startup_defensibility.md): same source document (doc_0011)
+- [Brave Software Lays Off 9% Of Its Workforce](brave_software_layoffs.md): same source document (doc_0043)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

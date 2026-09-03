@@ -13,11 +13,19 @@ The NBA is also special because of the number of bets available for every game, 
 
 ## Related Notes
 
+
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): overlapping treatment of bets, betting and moneylines.
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): shares the NBA and betting-odds themes.
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): shares the NBA and betting-odds themes.
 - [Drawbacks of Prop Bets](drawbacks_of_prop_bets.md): the counterweight to the prop volume described here.
 - [Exotic Prop Bets](exotic_prop_bets.md): another account of the breadth of prop markets.
+- [BetMGM Sportsbook: Deep MLB Markets And The Only NBA Live-Streaming App](betmgm_sportsbook_betting_markets.md): same source document (doc_0368)
+- [BetRivers Sportsbook: Alternate Lines, An Integrated Casino, And iRush Rewards](betrivers_sportsbook_betting_markets.md): same source document (doc_0368)
+- [DraftKings Sportsbook: MLB And NBA Markets And Promotions](draftkings_sportsbook_betting_markets.md): same source document (doc_0368)
+- [FanDuel Sportsbook: MLB And NBA Markets, Props And Same-Game Parlays](fanduel_sportsbook_betting_markets.md): same source document (doc_0368)
+- [Four Criteria For Judging An NBA Betting Site](how_to_evaluate_an_nba_betting_site.md): same source document (doc_0368)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

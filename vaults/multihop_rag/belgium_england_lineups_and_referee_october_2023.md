@@ -13,6 +13,7 @@ England: Mary Earps, Lucy Bronze, Millie Bright, Alex Greenwood (Carter 32'), Ni
 
 ## Related Notes
 
+
 - [Chelsea Players' Reaction to Hayes' Departure](chelsea_players_reaction_to_hayes_departure.md): also concerns Millie Bright, from a different document.
 - [England 3-2 Netherlands at Wembley: Toone's Winner](england_3_2_netherlands_wembley_toone_winner.md): also concerns Alessia Russo and Chloe Kelly, from a different document.
 - [England 6-0 Scotland at Hampden: Match Report](england_6_0_scotland_hampden_match_report.md): also concerns Fran Kirby and Georgia Stanway, from a different document.
@@ -21,6 +22,8 @@ England: Mary Earps, Lucy Bronze, Millie Bright, Alex Greenwood (Carter 32'), Ni
 - [Alex Greenwood's Head Injury Versus Belgium](alex_greenwood_head_injury_versus_belgium.md): drawn from the same document (doc_0151).
 - [Belgium-England: First-Half Goals and Incidents](belgium_england_first_half_goals_and_incidents.md): drawn from the same document (doc_0151).
 - [Belgium-England: The Second Half and Wullaert's Penalty](belgium_england_second_half_and_wullaert_penalty.md): drawn from the same document (doc_0151).
+- [Belgium 3-2 England: The Women's Nations League Result, October 2023](belgium_england_womens_nations_league_result_october_2023.md): same source document (doc_0151)
+- [Women's Nations League Group A1 Qualification Scenarios](womens_nations_league_group_a1_qualification_scenarios.md): same source document (doc_0151)
 
 ## Source
 

@@ -13,11 +13,15 @@ The relation holds jointly, not separately: "So partially, they [NASCAR] did it 
 
 ## Related Notes
 
+
 - [NASCAR 2024 Spotter Changes Elliott And Blaney](nascar_2024_spotter_changes_elliott_and_blaney.md): also concerns Fox Sports, from a different document.
 - [Orlando Arcia Atta Boy Harper Taunt And Phillies NLDS Response](orlando_arcia_atta_boy_harper_taunt_and_phillies_nlds_response.md): also concerns Fox Sports, from a different document.
 - [World Series 2023 Broadcast Coverage](world_series_2023_broadcast_coverage.md): also concerns Fox Sports, from a different document.
 - [Autosport Top 50 Drivers 2023 NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): part of the same NASCAR grouping, from a different document.
 - [Chris Buescher 2023 Season Autosport Snub](chris_buescher_2023_season_autosport_snub.md): part of the same NASCAR grouping, from a different document.
+- [NASCAR $7.7 Billion Media Rights Deal](nascar_7_7_billion_media_rights_deal.md): same source document (doc_0186)
+- [NASCAR Media Deal Cable Simulcast Ratings Drawback](nascar_media_deal_cable_simulcast_ratings_drawback.md): same source document (doc_0186)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

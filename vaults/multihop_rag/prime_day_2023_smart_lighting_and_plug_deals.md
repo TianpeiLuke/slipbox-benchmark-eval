@@ -11,12 +11,18 @@ The Govee lamp was selected as the best lamp in WIRED's Govee Buying Guide, with
 
 ## Related Notes
 
+
 - [Budget Smart Home And Networking Deals](budget_smart_home_and_networking_deals.md): overlapping coverage of smart plugs and Alexa, from a different source document.
 - [Echo Fourth-Gen Smart Speaker Prime Day Deal](echo_fourth_gen_smart_speaker_prime_day_deal.md): also concerns Amazon Alexa, from a different source document.
 - [Google Nest Cam Battery Model](google_nest_cam_battery_model.md): also concerns Google Assistant, from a different source document.
 - [Google Nest Hub Smart Display Deal](google_nest_hub_smart_display_deal.md): also concerns Google Assistant, from a different source document.
 - [Google Nest Wifi Pro 6E Mesh System](google_nest_wifi_pro_6e_mesh_system.md): also concerns Google Assistant, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

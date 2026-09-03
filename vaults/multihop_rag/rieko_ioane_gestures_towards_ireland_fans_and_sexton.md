@@ -13,6 +13,7 @@ Ian Foster, who made two changes to his starting side and three in total, defend
 
 ## Related Notes
 
+
 - [All Blacks Generational Change After 2023 World Cup](all_blacks_generational_change_after_2023_world_cup.md): another Ian Foster document, different source
 - [Ian Foster All Blacks Turnaround and Succession](ian_foster_all_blacks_turnaround_and_succession.md): the coach defending Ioane here, different source document
 - [Ireland 37-Phase Final Attack versus New Zealand](ireland_37_phase_final_attack_versus_new_zealand.md): the quarter-final finish that preceded these gestures, different source document
@@ -21,6 +22,7 @@ Ian Foster, who made two changes to his starting side and three in total, defend
 - [All Blacks Selection Changes 2023 Semi Final](all_blacks_selection_changes_2023_semi_final.md): the changes Foster announced at the same media session, same source document
 - [Cheika on Inspiring Argentina Beyond Results](cheika_on_inspiring_argentina_beyond_results.md): the opposing coach's framing that week, same source document
 - [Ian Foster Rejects Favourites Label vs Argentina](ian_foster_rejects_favourites_label_vs_argentina.md): Foster's other argument that day, same source document
+- [Cheika's Underdog Framing Before The 2023 Semi-Final](michael_cheika_underdog_framing_argentina_2023.md): same source document (doc_0023)
 
 ## Source
 

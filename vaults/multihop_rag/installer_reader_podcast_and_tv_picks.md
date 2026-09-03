@@ -13,6 +13,7 @@ On television: Travi found the show Detroiters, "really fun 30-minute comedy sta
 
 ## Related Notes
 
+
 - [Chelsea 2-0 Blackburn In The Carabao Cup Last 16](chelsea_2_0_blackburn_carabao_cup_last_16.md): shares a Tim Robinson name reference, from a different source document.
 - [Installer Reader Game And App Picks](installer_reader_game_and_app_picks.md): drawn from the same source document (doc_0607).
 - [Kevin Nguyen's Five-Writing-App Rotation](kevin_nguyen_five_writing_app_rotation.md): drawn from the same source document (doc_0607).
@@ -21,6 +22,7 @@ On television: Travi found the show Detroiters, "really fun 30-minute comedy sta
 - [The Mint Shutdown And The Hunt For Money Apps](mint_shutdown_and_the_hunt_for_money_apps.md): drawn from the same source document (doc_0607).
 - [Spreadsheets And DIY Money Tracking Systems](spreadsheet_and_diy_money_tracking_systems.md): drawn from the same source document (doc_0607).
 - [Tumblr's Uncertain Future](tumblr_uncertain_future.md): drawn from the same source document (doc_0607).
+- [YNAB And Copilot, The Two Go-To Budgeting Apps](ynab_and_copilot_budgeting_apps.md): same source document (doc_0607)
 
 ## Source
 

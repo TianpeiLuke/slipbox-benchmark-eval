@@ -13,11 +13,18 @@ Asked about the following Sunday's opponents, flanker Charles Ollivon was interr
 
 ## Related Notes
 
+
 - [Daniel Garnero Paraguay Head Coach Debut](daniel_garnero_paraguay_head_coach_debut.md): shares the head-coach and World Cup themes, from a different document.
 - [Eddie Jones Commitment to Wallabies Job 2023](eddie_jones_commitment_to_wallabies_job_2023.md): shares the head-coach and World Cup themes, from a different document.
 - [Emiliano Martinez Argentina Clean Sheet Record](emiliano_martinez_argentina_clean_sheet_record.md): shares the head-coach and World Cup themes, from a different document.
 - [Emma Hayes Appointed USWNT Head Coach](emma_hayes_appointed_uswnt_head_coach.md): shares the head-coach and World Cup themes, from a different document.
 - [Erasmus and Nienaber Springboks Coaching Departure 2023](erasmus_nienaber_springboks_coaching_departure_2023.md): shares the head-coach and World Cup themes, from a different document.
+- [Damian Penaud's Try-Scoring Record Run](damian_penaud_try_scoring_record_run.md): same source document (doc_0414)
+- [France's Eight-Try Sequence Against Italy](france_eight_try_sequence_against_italy.md): same source document (doc_0414)
+- [France's Injury Setbacks: Dupont And Capuozzo's HIA](france_injury_setbacks_dupont_and_capuozzo.md): same source document (doc_0414)
+- [Kieran Crowley Criticises The Italian Rugby Federation](kieran_crowley_criticises_italian_rugby_federation.md): same source document (doc_0414)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

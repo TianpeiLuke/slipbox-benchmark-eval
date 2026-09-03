@@ -11,6 +11,7 @@ The woman, who used Ozempic for more than a year before switching to Mounjaro la
 
 ## Related Notes
 
+
 - [GLP-1 Receptor Agonists Diabetes and Weight Loss](glp1_receptor_agonists_diabetes_and_weight_loss.md): also concerns Novo Nordisk, from a different source document.
 - [Novo Nordisk Abbvie Merck Stock Calls](novo_nordisk_abbvie_merck_stock_calls.md): also concerns Novo Nordisk, from a different source document.
 - [US Big Pharma Investment Rationale for Indian Investors](us_big_pharma_investment_rationale_for_indian_investors.md): also concerns Novo Nordisk, from a different source document.
@@ -19,6 +20,8 @@ The woman, who used Ozempic for more than a year before switching to Mounjaro la
 - [Gastroparesis Pancreatitis Bowel Obstruction and Ileus](gastroparesis_pancreatitis_bowel_obstruction_and_ileus.md): drawn from the same source document (doc_0066).
 - [GLP-1 Receptor Agonists Drug Class and US Usage Scale](glp1_receptor_agonists_drug_class_and_us_usage_scale.md): drawn from the same source document (doc_0066).
 - [Individualized GLP-1 Benefit Risk Assessment](individualized_glp1_benefit_risk_assessment.md): drawn from the same source document (doc_0066).
+- [Limitations Of The UBC GLP-1 Claims Analysis](limitations_of_the_ubc_glp1_claims_analysis.md): same source document (doc_0066)
+- [Novo Nordisk's Response To The GLP-1 Gastroparesis Findings](novo_nordisk_response_to_glp1_gastroparesis_findings.md): same source document (doc_0066)
 
 ## Source
 

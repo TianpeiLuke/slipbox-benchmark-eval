@@ -13,6 +13,7 @@ The repositioning is presented as a change of vocabulary rather than of mission.
 
 ## Related Notes
 
+
 - [Cannabis Exposure And Placental Dysfunction](cannabis_exposure_and_placental_dysfunction.md): overlapping coverage of cannabis, from a different source document and a very different domain.
 - [Cannabis Use And Stillbirth Association](cannabis_use_and_stillbirth_association.md): overlapping coverage of cannabis, from a different source document.
 - [Cannabis Use In Pregnancy JAMA Study Findings](cannabis_use_in_pregnancy_jama_study_findings.md): overlapping coverage of cannabis, from a different source document.
@@ -21,6 +22,9 @@ The repositioning is presented as a change of vocabulary rather than of mission.
 - [The Keep, A Lockable Smart Storage Container For Medicine](keep_labs_device.md): drawn from the same source document (doc_0230), describing the product this marketing decision applies to.
 - [Keep Labs' Enterprise Turn And The Pharmacist Co-Lead](keep_labs_enterprise_partnerships.md): drawn from the same source document (doc_0230), covering the enterprise direction this interview traced.
 - [Keep Labs' Funding And Second-Gen Roadmap](keep_labs_funding_and_roadmap.md): drawn from the same source document (doc_0230), covering where the repositioned company is headed.
+- [Keep Labs' COVID Pivot And Leadership Change](keep_labs_pivot_and_leadership.md): same source document (doc_0230)
+- [How Keep Labs Says It Safeguards Patient Data](keep_labs_security_posture.md): same source document (doc_0230)
+- [Harm Reduction](term_harm_reduction.md): uses the concept harm reduction
 
 ## Source
 

@@ -11,6 +11,7 @@ It was the 120th six of the series, and Hope played a gem of an innings, calmly 
 
 ## Related Notes
 
+
 - [Andre Russell's Comeback in the First T20I](andre_russell_comeback_first_t20i.md): covers the first match of the same series, from a different document.
 - [England 171 All Out in the First T20I](england_171_all_out_first_t20i.md): covers England's batting in the first match, from a different document.
 - [First ODI, Cricket World Cup 1975](first_odi_cricket_world_cup_1975.md): also covers West Indies, from a different document.
@@ -19,6 +20,8 @@ It was the 120th six of the series, and Hope played a gem of an innings, calmly 
 - [Adil Rashid T20I Milestones and Series Form](adil_rashid_t20i_milestones_and_series_form.md): covers England's best bowler across this series, from the same document.
 - [England 132 All Out in the T20 Series Decider](england_132_all_out_t20_series_decider.md): covers the total West Indies chased here, from the same document.
 - [England Camp Verdict on the T20 Series Defeat](england_camp_verdict_on_t20_series_defeat.md): gives the England reaction to this result, from the same document.
+- [Shai Hope's Anchor Innings In The T20 Decider](shai_hope_anchor_innings_t20_decider.md): same source document (doc_0064)
+- [The Final Overs Of The T20 Series Clinch](west_indies_final_overs_t20_series_clinch.md): same source document (doc_0064)
 
 ## Source
 

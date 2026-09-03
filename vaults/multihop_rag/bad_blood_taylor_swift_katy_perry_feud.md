@@ -11,12 +11,18 @@ Although she tried not to identify the target, it became common knowledge that K
 
 ## Related Notes
 
+
 - [American Pie Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): another Taylor Swift story from a different document
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): another Taylor Swift story from a separate source
 - [Biggest Concert Films Box Office Records](biggest_concert_films_box_office_records.md): another Taylor Swift item from a different document
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): mentions Taylor Swift in a different news context
 - [Chiefs Jets Pregame Notes Taylor Swift And Rodgers](chiefs_jets_pregame_notes_taylor_swift_and_rodgers.md): another Taylor Swift appearance covered elsewhere
 - [All You Had To Do Was Stay](all_you_had_to_do_was_stay_taylor_swift_song.md): another 1989 track from the same BBC article
+- [Blank Space As Satire Of The "Psycho Serial Dater" Caricature](blank_space_taylor_swift_song.md): same source document (doc_0257)
+- [Clean: The Imogen Heap Collaboration That Closed 1989](clean_taylor_swift_song_imogen_heap.md): same source document (doc_0257)
+- [How You Get The Girl As A Step-By-Step Reconciliation Tutorial](how_you_get_the_girl_taylor_swift_song.md): same source document (doc_0257)
+- [I Know Places: A Love Song About Hiding From The Cameras](i_know_places_taylor_swift_song.md): same source document (doc_0257)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

@@ -13,12 +13,17 @@ Both teams then drafted their top singles players into the doubles decider. Sinn
 
 ## Related Notes
 
+
 - [Billie Jean King's 1973 Landmark Year](billie_jean_king_1973_landmark_year.md): overlaps on singles and doubles play, from a different document.
 - [Corretja Doubts Djokovic's 2024 Golden Slam](corretja_doubts_djokovic_2024_golden_slam.md): also concerns Carlos Alcaraz and the Davis Cup, from a different document.
 - [Golf Betting Bet Types Explained](golf_betting_bet_types_explained.md): shares the broadcast theme, from a different document.
 - [Lleyton Hewitt's United Cup 2024 Captaincy](lleyton_hewitt_united_cup_2024_captaincy.md): also concerns Lleyton Hewitt, from a different document.
 - [Tsonga on Djokovic Abandoning the Federer Imitation](tsonga_on_djokovic_abandoning_the_federer_imitation.md): also concerns Novak Djokovic, from a different document.
 - [Alexei Popyrin's Davis Cup Breakthrough](alexei_popyrin_davis_cup_breakthrough.md): drawn from the same document (doc_0451).
+- [Australia's Davis Cup Semi-Final Win Over Finland](australia_davis_cup_semi_final_win_over_finland.md): same source document (doc_0451)
+- [Australia vs Italy: 2023 Davis Cup Final Preview](australia_italy_davis_cup_final_2023_preview.md): same source document (doc_0451)
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

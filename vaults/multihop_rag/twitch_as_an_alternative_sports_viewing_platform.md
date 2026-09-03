@@ -15,11 +15,24 @@ The scale and audience are documented: EnterpriseAppsToday reported that in 2023
 
 ## Related Notes
 
+
 - [AOC's Twitch Among Us Stream](aoc_twitch_among_us_stream.md): another Twitch platform subject, from a different source document
 - [Bears-Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): shares the NFL and streaming-service topic tags
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares the NBA and streaming-service tags from a separate article
 - [Calls for Creative Experimentation in VTuber Agencies](calls_for_creative_experimentation_in_vtuber_agencies.md): shares the creator-economy and streaming-service tags
 - [Crosby, Malkin and Letang's Eighteenth Season Together](crosby_malkin_letang_eighteenth_season_together.md): shares NBA and NFL topic tags from a different document
+- [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): same source document (doc_0435)
+- [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): same source document (doc_0435)
+- [EsfandTV's Sports Streaming Channel](esfandtv_sports_streaming_channel.md): same source document (doc_0435)
+- [Keira Megan's Sports Watch-Along Streams](keira_megan_sports_watch_along_streams.md): same source document (doc_0435)
+- [Leagues Should Partner With Twitch Streamers Rather Than Block Markets](sports_league_partnerships_with_twitch_streamers.md): same source document (doc_0435)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
+- [Livestreaming](term_livestreaming.md): uses the concept livestreaming
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

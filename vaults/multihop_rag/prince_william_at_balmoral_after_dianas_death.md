@@ -13,6 +13,7 @@ William himself has spoken about that period. During a visit to Scotland in 2021
 
 ## Related Notes
 
+
 - [Diana's Final Phone Call With William and Harry](dianas_final_phone_call_with_william_and_harry.md): overlapping coverage of William, Harry and Diana, from a different source document.
 - [Diana and Dodi's Paris Car Crash, 1997](diana_and_dodi_paris_car_crash_1997.md): same sub-plan on dramatisation versus record, from a different source document.
 - [Elizabeth Debicki on Recreating the Paparazzi Pursuit](elizabeth_debicki_recreating_the_paparazzi_pursuit.md): same sub-plan on dramatisation versus record, from a different source document.
@@ -21,6 +22,8 @@ William himself has spoken about that period. During a visit to Scotland in 2021
 - [Kelly Fisher's Engagement to Dodi Fayed](kelly_fisher_engagement_to_dodi_fayed.md): drawn from the same source document, doc_0265.
 - [Mohamed Al Fayed and the Dodi-Diana Kiss Photo](mohamed_al_fayed_and_the_dodi_diana_kiss_photo.md): drawn from the same source document, doc_0265.
 - [Queen Elizabeth's Reluctance to Accept Camilla](queen_elizabeth_reluctance_to_accept_camilla.md): drawn from the same source document, doc_0265.
+- [The Crown: Diana and a Role With the Blair Government](the_crown_diana_and_tony_blair_government_role.md): same source document (doc_0265)
+- [The Crown: The Fact-Versus-Fiction Criticism](the_crown_fact_versus_fiction_criticism.md): same source document (doc_0265)
 
 ## Source
 

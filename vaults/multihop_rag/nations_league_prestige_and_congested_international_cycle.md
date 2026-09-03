@@ -11,11 +11,16 @@ The grounds for the first claim are the unresolved question the team was left to
 
 ## Related Notes
 
+
 - [Belgium-England Women's Nations League Result, October 2023](belgium_england_womens_nations_league_result_october_2023.md): also covers the Nations League, from a different document.
 - [Canada's Copa America 2024 Qualification Path](canada_copa_america_2024_qualification_path.md): also covers a Nations League qualification route, from a different document.
 - [Canada-Jamaica Second Leg Kickoff and Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): also covers a Nations League tie, from a different document.
 - [Canada-Jamaica Second Leg Result](canada_jamaica_second_leg_result.md): also covers a Nations League tie, from a different document.
 - [Canada-Jamaica Second Leg, Second Half](canada_jamaica_second_leg_second_half.md): also covers a Nations League tie, from a different document.
+- [England 3-2 Netherlands At Wembley: Toone's Winner](england_3_2_netherlands_wembley_toone_winner.md): same source document (doc_0206)
+- [England's Defensive Brittleness And Dropped Points](england_lionesses_defensive_brittleness_and_dropped_points.md): same source document (doc_0206)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

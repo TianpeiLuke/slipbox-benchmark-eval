@@ -11,6 +11,7 @@ Still, Parker is an experienced boxer who owns wins over Andy Ruiz Jr., Hughie F
 
 ## Related Notes
 
+
 - [Anthony Joshua Fifth Round Stoppage Of Otto Wallin](anthony_joshua_fifth_round_stoppage_of_otto_wallin.md): covers the main event on the same card, from a different document.
 - [Boxing Unorthodox Fight Endings Ranking Scope](boxing_unorthodox_fight_endings_ranking_scope.md): also discusses Tyson Fury, from a different document.
 - [Day Of Reckoning Card And Heavyweight Unification Path](day_of_reckoning_card_and_heavyweight_unification_path.md): also discusses Tyson Fury and this card, from a different document.
@@ -19,6 +20,8 @@ Still, Parker is an experienced boxer who owns wins over Andy Ruiz Jr., Hughie F
 - [Anthony Joshua Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): profiles the main event headliner, from the same document.
 - [Boxing Marination And Upset Risk](boxing_marination_and_upset_risk.md): the upset risk framing, from the same document.
 - [Day Of Reckoning Predictions And Picks](day_of_reckoning_predictions_and_picks.md): the pick for his bout, from the same document.
+- [Day Of Reckoning Riyadh Boxing Card](day_of_reckoning_riyadh_boxing_card.md): same source document (doc_0137)
+- [Deontay Wilder Comeback After Fury Trilogy](deontay_wilder_comeback_after_fury_trilogy.md): same source document (doc_0137)
 
 ## Source
 

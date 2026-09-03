@@ -11,6 +11,7 @@ The concession that limits the criticism is the timeframe: the bonus offer gives
 
 ## Related Notes
 
+
 - [bet365 Bonus Code TSNCO Offer](bet365_bonus_code_tsnco_offer.md): overlapping coverage of bonus offers for new customers, from a different source document.
 - [bet365 Welcome Bonus Offers, December 2023](bet365_welcome_bonus_offers_december_2023.md): overlapping coverage of what a welcome bonus gives, from a different source document.
 - [BetMGM Bonus Code TSN50 First Bet Offer](betmgm_bonus_code_tsn50_first_bet_offer.md): overlapping coverage of bonus offers for new customers, from a different source document.
@@ -19,6 +20,8 @@ The concession that limits the criticism is the timeframe: the bonus offer gives
 - [Alternatives To The Amex Cash Magnet Card](alternatives_to_amex_cash_magnet_card.md): drawn from the same source document (doc_0471).
 - [Amex Cash Magnet Approval Odds And Credit Limits](amex_cash_magnet_approval_odds_and_credit_limits.md): drawn from the same source document (doc_0471).
 - [The Amex Cash Magnet Best-Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): drawn from the same source document (doc_0471).
+- [American Express Cash Magnet Card: Overview](amex_cash_magnet_card_overview.md): same source document (doc_0471)
+- [Amex Cash Magnet Cardholder Benefits](amex_cash_magnet_cardholder_benefits.md): same source document (doc_0471)
 
 ## Source
 

@@ -13,6 +13,7 @@ What she probably likes most about this fanny pack, and the brand in general, is
 
 ## Related Notes
 
+
 - [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): drawn from the same source document (doc_0575).
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): drawn from the same source document (doc_0575).
 - [Atumtek Bluetooth Selfie Tripod](atumtek_bluetooth_selfie_tripod.md): drawn from the same source document (doc_0575).
@@ -21,6 +22,8 @@ What she probably likes most about this fanny pack, and the brand in general, is
 - [Epicka Universal Travel Adapter](epicka_universal_travel_adapter.md): drawn from the same source document (doc_0575).
 - [FoodSaver Vacuum Sealer](foodsaver_vacuum_sealer.md): drawn from the same source document (doc_0575).
 - [The Fuzzy Cat Bed Office Companion](fuzzy_cat_bed_office_companion.md): drawn from the same source document (doc_0575).
+- [iOttie Easy One Touch Qi Charger](iottie_easy_one_touch_qi_car_charger.md): same source document (doc_0575)
+- [Lumesner Carry-On Backpack](lumesner_carry_on_backpack.md): same source document (doc_0575)
 
 ## Source
 

@@ -11,6 +11,7 @@ The warrant he offers is a change in perspective on what the pre-war quarrels we
 
 ## Related Notes
 
+
 - [Cairo Diplomatic Surge And Summit For Peace 2023](cairo_diplomatic_surge_and_summit_for_peace_2023.md): also invokes Yom Kippur in the context of this conflict, from a different source document.
 - [Eylon Levy Aliyah And IDF Service](eylon_levy_aliyah_and_idf_service.md): drawn from the same interview and records his participation in the judicial reform protests.
 - [Eylon Levy George Galloway Oxford Debate 2013](eylon_levy_george_galloway_oxford_debate_2013.md): drawn from the same interview and gives his earlier advocacy background.
@@ -19,6 +20,7 @@ The warrant he offers is a change in perspective on what the pre-war quarrels we
 - [Gaza Information War And Hamas Narrative](gaza_information_war_and_hamas_narrative.md): drawn from the same interview and covers the external contest alongside this internal one.
 - [Hostile Interview Questions To Israeli Spokespeople](hostile_interview_questions_to_israeli_spokespeople.md): drawn from the same interview and shows the pressure he answers abroad.
 - [Israeli Case For Continuing The Gaza War](israeli_case_for_continuing_the_gaza_war.md): drawn from the same interview and states the war aim this unity is meant to serve.
+- [The National Public Diplomacy Directorate](national_public_diplomacy_directorate.md): same source document (doc_0413)
 
 ## Source
 

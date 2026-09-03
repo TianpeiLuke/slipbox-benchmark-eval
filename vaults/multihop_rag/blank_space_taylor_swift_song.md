@@ -13,6 +13,7 @@ Lyrically it contains some of her best lines ("darling, I'm a nightmare dressed 
 
 ## Related Notes
 
+
 - [American Pie Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): another Taylor Swift story from a different document
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also covers media portrayal of Taylor Swift, from a separate source
 - [Biggest Concert Films Box Office Records](biggest_concert_films_box_office_records.md): another Taylor Swift item from a different document
@@ -21,6 +22,8 @@ Lyrically it contains some of her best lines ("darling, I'm a nightmare dressed 
 - [All You Had To Do Was Stay](all_you_had_to_do_was_stay_taylor_swift_song.md): another 1989 track from the same BBC article
 - [Bad Blood And The Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): another 1989 track from the same BBC article
 - [Clean, Written With Imogen Heap](clean_taylor_swift_song_imogen_heap.md): another 1989 track from the same BBC article
+- [How You Get The Girl As A Step-By-Step Reconciliation Tutorial](how_you_get_the_girl_taylor_swift_song.md): same source document (doc_0257)
+- [I Know Places: A Love Song About Hiding From The Cameras](i_know_places_taylor_swift_song.md): same source document (doc_0257)
 
 ## Source
 

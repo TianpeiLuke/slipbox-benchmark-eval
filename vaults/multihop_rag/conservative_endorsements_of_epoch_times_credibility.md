@@ -13,11 +13,19 @@ The warrant joining those endorsements to the claim of success is supplied by Br
 
 ## Related Notes
 
+
 - [FTX Marketing And Influence](ftx_marketing_and_influence.md): shares the celebrity-endorsement and political-donations themes, from a different source document.
 - [Israel Tech Industry Boycott](israel_tech_industry_boycott.md): shares the celebrity-endorsement and political-donations themes, from a different source document.
 - [Jake Paul Endorsement Backlash](jake_paul_endorsement_backlash.md): shares the celebrity-endorsement and political-donations themes, from a different source document.
 - [Ron DeSantis' Twitter Spaces Launch Failure](ron_desantis_twitter_spaces_launch_failure.md): overlaps on Republican politicians and presidential campaigns, from a different source document.
 - [Vivek Ramaswamy's TikTok Launch](vivek_ramaswamy_tiktok_launch.md): shares the celebrity-endorsement and political-donations themes, from a different source document.
+- [Chinese Government Ban And Crackdown On Falun Gong, 1999](chinese_government_ban_and_crackdown_on_falun_gong_1999.md): same source document (doc_0076)
+- [The Epoch Times, The 2020 Election And Pro-Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): same source document (doc_0076)
+- [Epoch Times Ad Spending And Falun Gong Affiliate Grants](epoch_times_ad_spending_and_falun_gong_affiliate_grants.md): same source document (doc_0076)
+- [Epoch Times Conservative Donor Funding](epoch_times_conservative_donor_funding.md): same source document (doc_0076)
+- [The Epoch Times As A Conservative News Organization](epoch_times_conservative_news_organization_profile.md): same source document (doc_0076)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Celebrity Endorsement](term_celebrity_endorsement.md): uses the concept celebrity endorsement
 
 ## Source
 

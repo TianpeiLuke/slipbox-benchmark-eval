@@ -13,11 +13,18 @@ The non-textbook use case is geoblocking. VPNs can mask your location, so even i
 
 ## Related Notes
 
+
 - [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): also concerns Amazon Prime services, from a different source document.
 - [Amazon Price Matching And Return Policy](amazon_price_matching_and_return_policy.md): also concerns Amazon Prime, from a different source document.
 - [Amazon Prime Free Games And DLC](amazon_prime_free_games_and_dlc.md): also concerns Amazon Prime benefits, from a different source document.
 - [Amazon Prime Holiday 2023 Delivery Cutoffs](amazon_prime_holiday_2023_delivery_cutoffs.md): also concerns Amazon Prime, from a different source document.
 - [Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): also concerns Amazon Prime, from a different source document.
+- [CyberGhost, Best For Cross-Platform Accessibility](cyberghost_cross_platform_vpn.md): same source document (doc_0229)
+- [Engadget's VPN Testing Methodology](engadget_vpn_testing_methodology.md): same source document (doc_0229)
+- [ExpressVPN For Streaming, Travel And Gaming](expressvpn_for_streaming_travel_and_gaming.md): same source document (doc_0229)
+- [Google One VPN](google_one_vpn.md): same source document (doc_0229)
+- [ProtonVPN, Best VPN Overall](protonvpn_best_overall_vpn.md): same source document (doc_0229)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

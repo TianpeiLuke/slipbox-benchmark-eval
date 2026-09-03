@@ -11,6 +11,7 @@ Music Business Worldwide's 2023-11-23 piece offers a deliberately clumsy example
 
 ## Related Notes
 
+
 - [AI Training Fails Fair Use Test](ai_training_fails_fair_use_test.md): the music-publisher argument that the doctrine does not reach AI training, from a different source document.
 - [Anthropic Fair Use Defense for AI Training](anthropic_fair_use_defense_for_ai_training.md): an AI developer's application of the doctrine to model training.
 - [Kooker on Tech Industry Distorted Copyright View](kooker_on_tech_industry_distorted_copyright_view.md): shares vocabulary around copyright and fair, from a different source document.
@@ -19,6 +20,8 @@ Music Business Worldwide's 2023-11-23 piece offers a deliberately clumsy example
 - [Dream Track Artist Selection and Licensing Questions](dream_track_artist_selection_and_licensing_questions.md): another note drawn from the same source document (doc_0381).
 - [Ed Newton Rex Resignation Stability AI](ed_newton_rex_resignation_stability_ai.md): another note drawn from the same source document (doc_0381).
 - [Google Filing Versus Youtube Music Reassurances](google_filing_versus_youtube_music_reassurances.md): another note drawn from the same source document (doc_0381).
+- [Google's USCO Filing On AI Training And Fair Use](google_usco_filing_ai_training_fair_use.md): same source document (doc_0381)
+- [Sony Music's "Artist-Led" Approach To AI](sony_music_artist_led_approach_to_ai.md): same source document (doc_0381)
 
 ## Source
 

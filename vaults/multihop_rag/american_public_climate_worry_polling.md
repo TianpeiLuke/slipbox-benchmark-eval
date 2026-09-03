@@ -11,6 +11,7 @@ One in 10 Americans reported feeling symptoms of anxiety or depression over clim
 
 ## Related Notes
 
+
 - [Canine Illness True Case Count Likely in the Thousands](canine_illness_true_case_count_likely_thousands.md): another estimate of how many people or cases are affected based on reported symptoms.
 - [ChatGPT Adoption Gap: Survey Evidence](chatgpt_adoption_gap_survey_evidence.md): another poll of Americans reported as a share of the population.
 - [Democracy in a Hotter Time (Essay Collection)](democracy_in_a_hotter_time_essay_collection.md): another treatment of how climate change and extreme weather register publicly.
@@ -19,6 +20,8 @@ One in 10 Americans reported feeling symptoms of anxiety or depression over clim
 - [Amazon Rainforest Tipping Point](amazon_rainforest_tipping_point.md): from the same article, on the scientific outlook behind the worry.
 - [Climate Grief Conversation at the Homestead](climate_grief_conversation_at_the_homestead.md): from the same article, on how that worry is talked about.
 - [Daily Life at the Possibility Alliance](daily_life_at_the_possibility_alliance.md): from the same article, on one American response to it.
+- [Kalmus's Civil Disobedience and Arrests](kalmus_civil_disobedience_and_arrests.md): same source document (doc_0233)
+- [Kalmus's Critique of Biden Climate Policy](kalmus_critique_of_biden_climate_policy.md): same source document (doc_0233)
 
 ## Source
 

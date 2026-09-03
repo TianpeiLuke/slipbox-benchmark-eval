@@ -13,10 +13,18 @@ Polygon's Zosha Millman frames it against the appetite Knives Out demonstrated f
 
 ## Related Notes
 
+
 - [Brick (2005, Rian Johnson)](brick_2005_rian_johnson.md): both invoke Knives Out as a reference point, from a different source document
 - [Dead After Dinner TTRPG](dead_after_dinner_ttrpg.md): another Knives Out reference in a separate article
 - [Gen V (Prime Video)](gen_v_prime_video.md): another write-up by the same critic, Zosha Millman, from a different document
 - [Harper's Island Slasher Series](harpers_island_slasher_series.md): shares the same bylined critic across documents
+- [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): same source document (doc_0094)
+- [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): same source document (doc_0094)
+- [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): same source document (doc_0094)
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): same source document (doc_0094)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

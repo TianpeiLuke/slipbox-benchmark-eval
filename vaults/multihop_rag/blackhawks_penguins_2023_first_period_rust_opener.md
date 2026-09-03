@@ -15,6 +15,7 @@ The rest of the period was end-to-end. At 8:36 p.m. Evgeni Malkin made a beautif
 
 ## Related Notes
 
+
 - [Connor Bedard Rookie Adjustment with the Blackhawks](connor_bedard_rookie_adjustment_with_the_blackhawks.md): how his rookie season developed, different source document
 - [Connor Bedard Shot Mechanics Toe Drag Release](connor_bedard_shot_mechanics_toe_drag_release.md): the release described here, different source document
 - [Goalies and Peers on Defending Bedard Shot](goalies_and_peers_on_defending_bedard_shot.md): also covers Petr Mrazek, different source document
@@ -23,6 +24,8 @@ The rest of the period was end-to-end. At 8:36 p.m. Evgeni Malkin made a beautif
 - [Blackhawks Penguins 2023 Broadcast Coverage](blackhawks_penguins_2023_broadcast_coverage.md): how this game was shown, same source document
 - [Blackhawks Penguins 2023 Opening Night Lineups](blackhawks_penguins_2023_opening_night_lineups.md): the rosters involved, same source document
 - [Blackhawks Penguins 2023 Second Period Bedard First Point](blackhawks_penguins_2023_second_period_bedard_first_point.md): the period that followed, same source document
+- [Blackhawks vs. Penguins 2023: Start Time And Arena](blackhawks_penguins_2023_start_time_and_arena.md): same source document (doc_0483)
+- [Chicago's Third-Period Comeback Against Pittsburgh](blackhawks_third_period_comeback_vs_penguins_2023.md): same source document (doc_0483)
 
 ## Source
 

@@ -13,11 +13,18 @@ Speck's Smartshell case has proper cutouts for ports and rubberised feet to keep
 
 ## Related Notes
 
+
 - [Apple MacBook Air 15-Inch (M2)](apple_macbook_air_15_inch_m2.md): overlaps on MacBook models and versions, from a different source document.
 - [MacBook Air 13-Inch (M1) Holiday Deal](macbook_air_13_inch_m1_holiday_deal.md): overlaps on MacBook laptops on sale, from a different source document.
 - [MacBook Air 13-Inch (M2) Holiday Deal](macbook_air_13_inch_m2_holiday_deal.md): overlaps on MacBook laptops on sale, from a different source document.
 - [MacBook Air 15-Inch (M2) Holiday Deal](macbook_air_15_inch_m2_holiday_deal.md): overlaps on the larger MacBook machines, from a different source document.
 - [MacBook Air M1 And M2 Deals](macbook_air_m1_and_m2_deals.md): overlaps on MacBook sizes and ports, from a different source document.
+- [Apple Store Credit And Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): same source document (doc_0576)
+- [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): same source document (doc_0576)
+- [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): same source document (doc_0576)
+- [Why iPhone Discounts Come From Carriers, Not Retailers](why_iphone_discounts_come_from_carriers_not_retailers.md): same source document (doc_0576)
+- [WIRED's 2023 Holiday Deal Guide Selection And Pricing Method](wired_2023_holiday_deal_guide_selection_and_pricing_method.md): same source document (doc_0576)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

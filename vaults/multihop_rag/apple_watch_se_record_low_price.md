@@ -13,6 +13,7 @@ It features most of the same health tools as the new flagship Apple Watch Series
 
 ## Related Notes
 
+
 - [Apple Watch Series 9 Walmart Deal](apple_watch_series_9_walmart_deal.md): same roundup, the flagship it is compared with
 - [Airpods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): another Apple pick from the same Walmart roundup
 - [Alivecor Ekg Import Ban And The Ptab Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): also concerns Apple Watch, different document
@@ -20,6 +21,13 @@ It features most of the same health tools as the new flagship Apple Watch Series
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): another battery-powered device deal in the same season
 - [Airpods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): another Black Friday listing, different document
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): another battery-powered device deal listing
+- [Dyson V15 Detect Absolute Vacuum Black Friday Deal](dyson_v15_detect_absolute_vacuum_deal.md): same source document (doc_0558)
+- [Echelon Connect Sport Exercise Bike Black Friday Deal](echelon_connect_sport_exercise_bike_deal.md): same source document (doc_0558)
+- [HP Business 2-In-1 Laptop Black Friday Deal](hp_business_2_in_1_laptop_deal.md): same source document (doc_0558)
+- [Wearable Device](term_wearable_device.md): uses the concept wearable device
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

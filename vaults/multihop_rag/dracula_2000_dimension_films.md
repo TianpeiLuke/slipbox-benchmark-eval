@@ -13,12 +13,18 @@ Critic Matt Patches writes that Butler, never more a heartthrob, plays Dracula i
 
 ## Related Notes
 
+
 - [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): another write-up by the same critic, Matt Patches, from a different source document
 - [Danny Elfman's Composing Career and Oingo Boingo](danny_elfman_composing_career_and_oingo_boingo.md): both reference Hot Topic, from a separate article
 - [Discogs' Stated Justification for Fee Increase](discogs_stated_justification_for_fee_increase.md): both mention Olivia Rodrigo, from a different document
 - [Dream Scenario (Kristoffer Borgli)](dream_scenario_kristoffer_borgli.md): both discuss Nicolas Cage, from a separate source
 - [Ice Spice's Breakout and Capitol 10K Partnership](ice_spice_breakout_and_capitol_10k_partnership.md): another Olivia Rodrigo reference from a different article
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
+- [American Horror Story: NYC](american_horror_story_nyc_season.md): same source document (doc_0165)
+- [Apostle (Gareth Evans)](apostle_gareth_evans_folk_horror.md): same source document (doc_0165)
+- [Cat People (1942) and the Origin of the Jump Scare](cat_people_1942_jump_scare_origin.md): same source document (doc_0165)
+- [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): same source document (doc_0165)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

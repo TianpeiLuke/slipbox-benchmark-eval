@@ -11,11 +11,18 @@ At Pick 19, New Orleans takes JT Tuimoloau, Ohio State, a junior at 6'4" and 270
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): also covers Florida State, Jared Verse's program, from a different source document.
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): also covers Chase Young, whose departure creates Washington's need here, from a different source document.
 - [Alabama CFP Head-to-Head Debates: Texas and Florida State](alabama_cfp_head_to_head_debates_texas_florida_state.md): also covers Florida State, from a different source document.
 - [Alabama CFP Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also covers Florida State and Ohio State, from a different source document.
 - [Alabama Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): also covers Florida State and Ohio State, from a different source document.
+- [2024 Mock Draft: Six Defensive Backs Projected In Round 1](mock_draft_2024_round_1_defensive_backs.md): same source document (doc_0179)
+- [2024 Mock Draft: Brock Bowers Plus Two Interior Defensive Linemen In Round 1](mock_draft_2024_round_1_interior_defenders_and_tight_end.md): same source document (doc_0179)
+- [2024 Mock Draft: Seven Offensive Linemen Projected In Round 1](mock_draft_2024_round_1_offensive_tackles.md): same source document (doc_0179)
+- [2024 Mock Draft: Four Quarterbacks Off The Board In Round 1](mock_draft_2024_round_1_quarterbacks.md): same source document (doc_0179)
+- [2024 Mock Draft: Five Wide Receivers Projected In Round 1](mock_draft_2024_round_1_wide_receivers.md): same source document (doc_0179)
+- [Contract Extension](term_contract_extension.md): uses the concept contract extension
 
 ## Source
 

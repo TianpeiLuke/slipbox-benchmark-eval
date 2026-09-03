@@ -13,11 +13,17 @@ On the pitching side, Ohtani is committed to being a starting pitcher, and if he
 
 ## Related Notes
 
+
 - [Alternative Reading of the Mariners Ohtani Leak](alternative_reading_of_the_mariners_ohtani_leak.md): overlaps on Ohtani, from a different document.
 - [Angels 2023 Offseason: Ohtani and Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): overlaps on Ohtani as a hitter in the league, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also concerns the St. Louis Cardinals, from a different document.
 - [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): overlaps on home runs and St. Louis hitters, from a different document.
 - [Camden Yards: Baltimore Orioles Postseason Atmosphere](camden_yards_baltimore_orioles_postseason_atmosphere.md): also concerns the American League, from a different document.
+- [MLB Luxury Tax: Deferrals And Average Annual Value](mlb_luxury_tax_deferrals_and_average_annual_value.md): same source document (doc_0531)
+- [Shohei Ohtani's Elbow Surgery And 2024 Pitching Absence](shohei_ohtani_elbow_surgery_and_2024_pitching_absence.md): same source document (doc_0531)
+- [Shohei Ohtani's Postseason Ambition With The Dodgers](shohei_ohtani_postseason_ambition_with_dodgers.md): same source document (doc_0531)
+- [Shohei Ohtani's $700 Million Dodgers Contract](shohei_ohtani_seven_hundred_million_dodgers_contract.md): same source document (doc_0531)
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
 
 ## Source
 

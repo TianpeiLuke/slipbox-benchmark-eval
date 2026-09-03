@@ -11,11 +11,18 @@ On monetisation, an earlier call had highlighted that NTPC was attempting to mon
 
 ## Related Notes
 
+
 - [Dave Clark Hiring And Flexport IPO Plan](dave_clark_hiring_and_flexport_ipo_plan.md): shares the corporate IPO-planning theme, from a different source document.
 - [India FY24 Capex Led Growth And Fiscal Position](india_fy24_capex_led_growth_and_fiscal_position.md): covers the same FY24 and H1FY24 capex cycle in India, from a different source document.
 - [Palo Alto Talks To Acquire Talon And Dig](palo_alto_talks_to_acquire_talon_and_dig.md): shares corpus tags around earnings reporting and public offerings, from a different source document.
 - [Reliance Green Energy Investment Programme](reliance_green_energy_investment_programme.md): another large Indian renewable-capex programme measured in crore, from a different source document.
 - [India Israel Bilateral Trade Exposure 2022 23](india_israel_bilateral_trade_exposure_2022_23.md): sits in the same sub-plan on geopolitical risk and the Indian power sector, from a different source document.
+- [India's Twin Renewable And Thermal Capacity Push In 2023](india_renewable_and_thermal_capacity_policy_2023.md): same source document (doc_0601)
+- [NTPC's Cost-Plus Tariff And Assured Coal Supply Model](ntpc_cost_plus_tariff_and_coal_supply_model.md): same source document (doc_0601)
+- [NTPC's H1 FY24 Operating Performance](ntpc_h1_fy24_operating_performance.md): same source document (doc_0601)
+- [Why Investors Can Continue To Accumulate NTPC](ntpc_stock_rerating_and_accumulate_call.md): same source document (doc_0601)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
+- [Initial Public Offering (IPO)](term_initial_public_offering.md): uses the concept initial public offering
 
 ## Source
 

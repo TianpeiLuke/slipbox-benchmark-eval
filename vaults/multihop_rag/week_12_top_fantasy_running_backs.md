@@ -13,11 +13,18 @@ Montgomery and Gibbs against the Packers earn a rare exception to the rule that 
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also discusses Green Bay, from a different document.
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also discusses Green Bay, from a different document.
 - [Chiefs Packers Week 13 Broadcast and Kickoff Details](chiefs_packers_week_13_broadcast_and_kickoff_details.md): also discusses Green Bay, from a different document.
 - [Chiefs Packers Week 13 First Half Sequence](chiefs_packers_week_13_first_half_sequence.md): also discusses Green Bay, from a different document.
 - [Chiefs Packers Week 13 Fourth Quarter Sequence](chiefs_packers_week_13_fourth_quarter_sequence.md): also discusses Green Bay, from a different document.
+- [Bye-Free Weeks Complicate Lineup Decisions](bye_free_weeks_complicate_lineup_decisions.md): same source document (doc_0494)
+- [Fantasy Week 12 Schedule And No-Bye Teams](fantasy_week_12_schedule_and_no_bye_teams.md): same source document (doc_0494)
+- [Josh Jacobs' And Breece Hall's 2023 Workloads](josh_jacobs_and_breece_hall_2023_workloads.md): same source document (doc_0494)
+- [Tony Pollard's Fantasy Outlook In 2023](tony_pollard_fantasy_outlook_2023.md): same source document (doc_0494)
+- [Week 12 RB Busts To Avoid](week_12_rb_busts_to_avoid.md): same source document (doc_0494)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

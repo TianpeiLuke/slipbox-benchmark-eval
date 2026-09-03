@@ -11,6 +11,7 @@ Giulia Guerrini, lead pharmacist of the digital pharmacy Medino, sets out the gr
 
 ## Related Notes
 
+
 - [Circadian Clock Realignment Through Meal Timing](circadian_clock_realignment_through_meal_timing.md): another article on realigning the same biological cycle
 - [Sleepagotchi NFT Sleep Game](sleepagotchi_nft_sleep_game.md): another article concerned with healthy sleep habits
 - [Autumn Clock Change And Depressive Episodes](autumn_clock_change_and_depressive_episodes.md): the mood evidence alongside this physiological case
@@ -19,6 +20,7 @@ Giulia Guerrini, lead pharmacist of the digital pharmacy Medino, sets out the gr
 - [Clocks Going Back And The Drop In Heart Attacks](clocks_going_back_and_the_drop_in_heart_attacks.md): the counter-argument that the extra hour benefits health
 - [Scrapping Winter DST To Cut Energy Bills](scrapping_winter_dst_to_cut_energy_bills.md): the energy argument for the same reform
 - [Sleep School Impartial On Clock Change Impact](sleep_school_impartial_on_clock_change_impact.md): the direct rebuttal to the claim that the clock change matters much
+- [UK Clock Change Dates For 2023 And 2024](uk_clock_change_dates_2023_and_2024.md): same source document (doc_0339)
 
 ## Source
 

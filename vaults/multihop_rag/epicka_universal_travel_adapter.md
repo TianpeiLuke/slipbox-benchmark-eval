@@ -15,11 +15,18 @@ The caveat is the word "universal": it is technically only the four most common 
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares a South Africa reference, from a different source document.
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): shares a South Africa reference, from a different source document.
 - [ChatGPT Use In Government And Courts](chatgpt_use_in_government_and_courts.md): shares a South Africa reference, from a different source document.
 - [Damian Penaud's Try-Scoring Record Run](damian_penaud_try_scoring_record_run.md): shares a South Africa reference, from a different source document.
 - [England's Cricket World Cup 2023 Qualification Crisis](england_cricket_world_cup_2023_qualification_crisis.md): shares a South Africa reference, from a different source document.
+- [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): same source document (doc_0090)
+- [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): same source document (doc_0575)
+- [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): same source document (doc_0575)
+- [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): same source document (doc_0090)
+- [Atumtek Bluetooth Selfie Tripod](atumtek_bluetooth_selfie_tripod.md): same source document (doc_0575)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

@@ -11,6 +11,7 @@ Some onlookers had anticipated the level if not the cause: Zillow warned in May 
 
 ## Related Notes
 
+
 - [Affordable Housing Supply Gap For Low-Income Renters](affordable_housing_supply_gap_for_low_income_renters.md): overlapping coverage of mortgages, housing and rates from a different source document.
 - [Bank Of America Housing Turbulence Warning 2023](bank_of_america_housing_turbulence_warning_2023.md): overlapping coverage of mortgages, housing and rates, from a different source document.
 - [US Home Price Peak And Partial Recovery 2022-2023](us_home_price_peak_and_partial_recovery_2022_2023.md): overlapping coverage of mortgages, housing and rates, from a different source document.
@@ -19,6 +20,8 @@ Some onlookers had anticipated the level if not the cause: Zillow warned in May 
 - [Housing Affordability Worse Than The 2006 Peak](housing_affordability_worse_than_2006_peak.md): drawn from the same source document (doc_0479).
 - [Housing Market 1980s Analogy Rather Than 2008](housing_market_1980s_analogy_rather_than_2008.md): drawn from the same source document (doc_0479).
 - [Millennials As The New Boomer Homebuying Cohort](millennials_as_the_new_boomer_homebuying_cohort.md): drawn from the same source document (doc_0479).
+- [US Existing-Home Sales Fell To A 13-Year Low In September 2023](us_existing_home_sales_september_2023_13_year_low.md): same source document (doc_0479)
+- [The US Housing Inventory Shortage Of 2023](us_housing_inventory_shortage_2023.md): same source document (doc_0479)
 
 ## Source
 

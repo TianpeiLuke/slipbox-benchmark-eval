@@ -13,11 +13,20 @@ There is also no confirmed timeline for the probe to conclude. But the fact of i
 
 ## Related Notes
 
+
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): shares the penalty-and-sanction framing, from a different source document.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): shares the Digital Services Act and regulatory-investigation themes, from a different source document.
 - [Digital Services Act](digital_services_act.md): shares the DSA, fine and enforcement themes, from a different source document.
 - [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): shares the VLOP designation and penalty themes, from a different source document.
 - [DMA DSA Oversight Of Meta Advertising Consent](dma_dsa_oversight_of_meta_advertising_consent.md): shares the DSA and very-large-online-platform themes, from a different source document.
+- [The X Probe As A Test Of EU Enforcement Resolve](dsa_probe_as_test_of_eu_enforcement_resolve.md): same source document (doc_0153)
+- [The Commission's Earlier Requests For Information To X](eu_commission_prior_requests_for_information_to_x.md): same source document (doc_0153)
+- [The EU's First Formal DSA Proceeding, Against X](eu_dsa_formal_proceedings_against_x.md): same source document (doc_0153)
+- [The Scope Of The EU's DSA Investigation Into X](scope_of_eu_dsa_investigation_into_x.md): same source document (doc_0153)
+- [X's Content Moderation Retrenchment Under Musk](x_content_moderation_retrenchment_under_musk.md): same source document (doc_0153)
+- [Very Large Online Platform (VLOP)](term_very_large_online_platform.md): uses the concept very large online platform
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
 
 ## Source
 

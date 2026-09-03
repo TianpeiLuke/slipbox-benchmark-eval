@@ -15,11 +15,19 @@ PowerA also now sells the Advantage Wired Controller, essentially a newer versio
 
 ## Related Notes
 
+
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): another controller with mappable rear buttons, from a different source document.
 - [Baldur's Gate 3](baldurs_gate_3.md): shares a Mass Effect-era games reference, from a different source document.
 - [Blink Video Doorbell And Outdoor 4 Deal](blink_video_doorbell_and_outdoor_4_deal.md): shares the budget-hardware and warranty theme, from a different source document.
 - [Bose QuietComfort 45 Headphones](bose_quietcomfort_45_headphones.md): shares the battery-and-charging hardware theme, from a different source document.
 - [Budget Game And Toy Deals](budget_game_and_toy_deals.md): shares a Mass Effect merchandise reference, from a different source document.
+- [Nacon Revolution X Controller](nacon_revolution_x_controller.md): same source document (doc_0350)
+- [PowerA Fusion Pro 3 Controller](powera_fusion_pro_3_controller.md): same source document (doc_0350)
+- [Scuf Instinct Pro Controller](scuf_instinct_pro_controller.md): same source document (doc_0350)
+- [Turtle Beach Recon Controller](turtle_beach_recon_controller.md): same source document (doc_0350)
+- [How The Verge Evaluates Xbox Controllers](xbox_controller_evaluation_criteria.md): same source document (doc_0350)
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

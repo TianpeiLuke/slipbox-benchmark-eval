@@ -13,11 +13,19 @@ So far, what Mozilla has learned is that publishers today feel somewhat resigned
 
 ## Related Notes
 
+
 - [AI Search And Projected Publisher Traffic Loss](ai_search_publisher_traffic_loss_projections.md): overlaps on publishers losing referral traffic, from a different document.
 - [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): overlaps on Mastodon and fediverse experiences, from a different document.
 - [Fediverse Definition And The Email Analogy](fediverse_definition_and_the_email_analogy.md): explains the network publishers are being recruited to, from a different document.
 - [Flipboard's ActivityPub Federation Launch](flipboard_activitypub_federation_launch.md): also covers Instagram Threads and publisher federation, from a different document.
 - [Flipboard's Path To The Fediverse](flipboard_path_to_the_fediverse.md): another publisher-facing fediverse effort, from a different document.
+- [The Fediverse And The ActivityPub Protocol](fediverse_activitypub_protocol.md): same source document (doc_0026)
+- [Fediverse Onboarding Barriers And Mozilla's Proposed Fixes](fediverse_onboarding_barriers_and_mozilla_fixes.md): same source document (doc_0026)
+- [Mozilla's Rationale For Investing In The Fediverse](mozilla_fediverse_investment_rationale.md): same source document (doc_0026)
+- [Mozilla.social's Content Discovery Experiments](mozilla_social_content_discovery_experiments.md): same source document (doc_0026)
+- [Mozilla.social: The Private Beta Mastodon Instance](mozilla_social_mastodon_instance_beta.md): same source document (doc_0026)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Board Governance](term_board_governance.md): uses the concept board governance
 
 ## Source
 

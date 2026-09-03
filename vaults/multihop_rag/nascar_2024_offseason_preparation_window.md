@@ -11,6 +11,7 @@ What distinguishes it is what gets settled in it: come 2024 the grind would soon
 
 ## Related Notes
 
+
 - [Christopher Bell 2023 Season Autosport Snub](christopher_bell_2023_season_autosport_snub.md): overlaps on NASCAR driver terms, from a different document.
 - [Dale Earnhardt Jr. Visit To High Limit Commonwealth Clash](dale_earnhardt_jr_visit_to_high_limit_commonwealth_clash.md): overlaps on NASCAR driver terms, from a different document.
 - [Denny Hamlin 2023 Season Autosport Snub](denny_hamlin_2023_season_autosport_snub.md): overlaps on NASCAR driver terms, from a different document.
@@ -19,6 +20,8 @@ What distinguishes it is what gets settled in it: come 2024 the grind would soon
 - [Aric Almirola Joe Gibbs Racing Xfinity Move](aric_almirola_joe_gibbs_racing_xfinity_move.md): one of the storylines in this window, from the same document.
 - [Kaulig Racing No. 16 2024 Driver Uncertainty](kaulig_racing_no_16_2024_driver_uncertainty.md): one of the storylines in this window, from the same document.
 - [NASCAR 2024 Spotter Changes Elliott And Blaney](nascar_2024_spotter_changes_elliott_and_blaney.md): one of the storylines in this window, from the same document.
+- [NASCAR Next Gen Muffler Noise Reduction Test](nascar_next_gen_muffler_noise_reduction_test.md): same source document (doc_0487)
+- [NASCAR Phoenix Next Gen Short Track Test](nascar_phoenix_next_gen_short_track_test.md): same source document (doc_0487)
 
 ## Source
 

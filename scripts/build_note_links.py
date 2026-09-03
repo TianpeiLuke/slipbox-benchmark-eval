@@ -86,8 +86,14 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("slug")
     ap.add_argument("--plans", required=True)
-    ap.add_argument("--floor", type=int, default=3)
-    ap.add_argument("--max", type=int, default=8)
+    ap.add_argument("--floor", type=int, default=7)
+    ap.add_argument("--max", type=int, default=10)
+    ap.add_argument("--term-links", default="term_links.json",
+                    help="derived term links to MERGE into each note's related set. "
+                         "Term notes are the vault's shared vocabulary: a content note "
+                         "that links to none of them is cut off from the concepts it "
+                         "uses, and the term note itself is reachable only from the "
+                         "glossary rather than from anything that discusses it.")
     ap.add_argument("--keep-single-term", action="store_true",
                     help="keep edges justified by ONE shared term (default: drop them)")
     ap.add_argument("--min-sim", type=float, default=0.10,
@@ -260,7 +266,19 @@ def main() -> None:
         cross = [x for x in ranked if x[1][0] >= 2 and "different source" in x[1][1]][: a.cross_max]
         rest = [x for x in ranked if x[1][0] < 2][: max(0, a.max - len(cross))]
         chosen = cross + rest
-        out[n] = [{"note": o, "why": why} for o, (_, why) in chosen]
+        picked = [{"note": o, "why": why} for o, (_, why) in chosen]
+
+        # Term links are appended rather than competing for the same slots. They
+        # are a different KIND of relation -- this note uses that concept -- and
+        # dropping them to make room for another content note would leave the
+        # vocabulary layer unreachable from the notes that use it.
+        have = {x["note"] for x in picked}
+        for t in terms.get(n, [])[: a.max]:
+            tn = f"term_{t}.md"
+            if tn not in have and tn != n:
+                picked.append({"note": tn, "why": f"uses the concept {t.replace('_', ' ')}"})
+                have.add(tn)
+        out[n] = picked
 
     cross_n = sum(1 for v in out.values() for l in v if "different source document" in l["why"])
     tot_n = sum(len(v) for v in out.values())

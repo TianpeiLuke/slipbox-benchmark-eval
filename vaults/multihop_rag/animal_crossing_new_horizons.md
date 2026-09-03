@@ -11,11 +11,21 @@ The game sticks you on an island where you design a cute house, harvest material
 
 ## Related Notes
 
+
 - [Kids' Nintendo Switch Game And Controller Gifts, 2023](kids_nintendo_switch_game_and_controller_gifts_2023.md): also recommends Animal Crossing, from a different source document.
 - [Stardew Valley Local Co Op](stardew_valley_local_co_op.md): overlaps in content on farming, harvest, friends, from a different source document.
 - [Alameda Research Origins and Naming](alameda_research_origins_and_naming.md): shares the concert_tour topic tag, from a different source document.
 - [Alexei Popyrin Davis Cup Breakthrough](alexei_popyrin_davis_cup_breakthrough.md): shares the concert_tour topic tag, from a different source document.
 - [Amy Grant and Vince Gill Marriage](amy_grant_and_vince_gill_marriage.md): shares the concert_tour topic tag, from a different source document.
+- [Classic Nintendo Franchise Picks For The Switch](classic_nintendo_switch_franchise_picks.md): same source document (doc_0292)
+- [Hades](hades_roguelite.md): same source document (doc_0292)
+- [Hollow Knight](hollow_knight.md): same source document (doc_0292)
+- [Indie Games Suit The Switch's Portability](indie_games_suit_the_switch_portability.md): same source document (doc_0292)
+- [Six Games To Play First On A New Nintendo Switch](nintendo_switch_starter_library_guide.md): same source document (doc_0292)
+- [Stardew Valley](stardew_valley.md): same source document (doc_0292)
+- [Super Mario Odyssey](super_mario_odyssey.md): same source document (doc_0292)
+- [The Legend Of Zelda: Breath Of The Wild](the_legend_of_zelda_breath_of_the_wild.md): same source document (doc_0292)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

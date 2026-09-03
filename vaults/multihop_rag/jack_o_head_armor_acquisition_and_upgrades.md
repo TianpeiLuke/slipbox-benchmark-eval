@@ -13,6 +13,7 @@ Developer Niantic has said that once you have spent 70 Pumpkin Tickets on Jack-o
 
 ## Related Notes
 
+
 - [Home Theater Upgrade Rationale](home_theater_upgrade_rationale.md): incidental upgrade-and-tickets vocabulary overlap from an unrelated source document
 - [Monster Hunter Now (Niantic)](monster_hunter_now_niantic_game.md): covers the base game this event runs in, from a different article
 - [Objections to Blue Halloween Buckets](objections_to_blue_halloween_buckets.md): overlapping Halloween and pumpkin vocabulary from a separate document
@@ -21,6 +22,7 @@ Developer Niantic has said that once you have spent 70 Pumpkin Tickets on Jack-o
 - [Monster Hunter Now Halloween Event Overview](monster_hunter_now_halloween_event_overview.md): the event framing from the same article
 - [Monster Hunter Now Halloween Event Schedule](monster_hunter_now_halloween_event_schedule.md): the dates bounding ticket collection
 - [Monster Hunter Now Pumpkin Hunt Quest Steps](monster_hunter_now_pumpkin_hunt_quest_steps.md): the questline that supplies the tickets
+- [Pumpkin Rock Kulu-Ya-Ku Halloween Monster](pumpkin_rock_kulu_ya_ku_halloween_monster.md): same source document (doc_0499)
 
 ## Source
 

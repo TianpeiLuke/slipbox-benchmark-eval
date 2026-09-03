@@ -11,6 +11,7 @@ Geomagnetic storms are disturbances to Earth's magnetic field caused by solar ma
 
 ## Related Notes
 
+
 - [Coronal Rain: The Sun's Shooting Stars](coronal_rain_solar_shooting_stars.md): another phenomenon involving plasma and the sun's magnetic fields.
 - [The Miyake Event Solar Storm 14,000 Years Ago](miyake_event_solar_storm_14000_years_ago.md): a far more extreme solar storm striking Earth.
 - [Northern Lights: UK Visibility and the Aurora Mechanism](northern_lights_uk_visibility_and_aurora_mechanism.md): explains the atmospheric displays this storm produced.
@@ -19,6 +20,8 @@ Geomagnetic storms are disturbances to Earth's magnetic field caused by solar ma
 - [Aurora Displays Over Britain and Ireland, November 2023](aurora_displays_over_britain_and_ireland_november_2023.md): from the same article, showing what this storm looked like from the UK and Ireland.
 - [Aurora Over the Glasgow, Montana Weather Office](aurora_over_glasgow_montana_weather_office.md): from the same article, a US sighting during this storm.
 - [Aurora Sightings Beyond Usual Latitudes: Greece, Turkey and Australia](aurora_sightings_beyond_usual_latitudes_greece_turkey_australia.md): from the same article, on the unusually low-latitude sightings.
+- [How Geomagnetic Storms Produce Auroras](how_geomagnetic_storms_produce_auroras.md): same source document (doc_0556)
+- [STEVE Sightings, November 2023](steve_sightings_november_2023.md): same source document (doc_0556)
 
 ## Source
 

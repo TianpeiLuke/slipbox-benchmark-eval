@@ -13,6 +13,7 @@ Best of all, you can charge the lights via USB or solar, meaning you can spend l
 
 ## Related Notes
 
+
 - [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): shares the battery-technology theme, from a different source document.
 - [8BitDo Ultimate Bluetooth Hall Effect Controller](8bitdo_ultimate_bluetooth_hall_effect_controller.md): shares the battery-technology theme, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-technology theme, from a different source document.
@@ -21,6 +22,16 @@ Best of all, you can charge the lights via USB or solar, meaning you can spend l
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery-technology theme, from a different source document.
 - [Anchor Pro Under-Desk Headphone Hanger](anchor_pro_under_desk_headphone_hanger.md): drawn from the same source document (doc_0575).
 - [Anker 2-In-1 MagSafe Standby Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): shares the battery-and-charging theme, from a different source document.
+- [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): same source document (doc_0575)
+- [Atumtek Bluetooth Selfie Tripod](atumtek_bluetooth_selfie_tripod.md): same source document (doc_0575)
+- [Baboon To The Moon Fanny Pack](baboon_to_the_moon_fanny_pack.md): same source document (doc_0575)
+- [The Bedside Charging Station Habit](bedside_charging_station_habit.md): same source document (doc_0575)
+- [ChomChom Pet Hair Remover](chomchom_pet_hair_remover.md): same source document (doc_0575)
+- [Epicka Universal Travel Adapter](epicka_universal_travel_adapter.md): same source document (doc_0575)
+- [FoodSaver Vacuum Sealer](foodsaver_vacuum_sealer.md): same source document (doc_0575)
+- [The Fuzzy Cat Bed Office Companion](fuzzy_cat_bed_office_companion.md): same source document (doc_0575)
+- [iOttie Easy One Touch Qi Charger](iottie_easy_one_touch_qi_car_charger.md): same source document (doc_0575)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

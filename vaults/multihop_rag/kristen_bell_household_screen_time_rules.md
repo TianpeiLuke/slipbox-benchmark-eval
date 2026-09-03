@@ -13,6 +13,7 @@ The limit Bell herself flags is the handover at the end: "But I will say, I noti
 
 ## Related Notes
 
+
 - [Kristen Bell Shared Bedroom Character Building](kristen_bell_shared_bedroom_character_building.md): same article, the same household's character-building rule
 - [Gellar And Prinze Strict Household Rules](gellar_and_prinze_strict_household_rules.md): same article, another household's phone rules
 - [Celebrity Tough Love Parenting In Hollywood](celebrity_tough_love_parenting_in_hollywood.md): same article, the roundup this belongs to
@@ -21,6 +22,7 @@ The limit Bell herself flags is the handover at the end: "But I will say, I noti
 - [Daniel Craig Against Leaving An Inheritance](daniel_craig_against_leaving_an_inheritance.md): same source document
 - [Kutcher And Kunis Keeping Their Children Grounded](kutcher_and_kunis_keeping_their_children_grounded.md): same source document
 - [Reese Witherspoon On Letting Children Fail](reese_witherspoon_on_letting_children_fail.md): same source document
+- [Schwarzenegger's Warning On "A Generation Of Wimps"](schwarzenegger_warning_on_a_generation_of_wimps.md): same source document (doc_0177)
 
 ## Source
 

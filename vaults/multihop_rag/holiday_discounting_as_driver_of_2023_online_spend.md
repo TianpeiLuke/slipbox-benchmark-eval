@@ -13,6 +13,7 @@ The mechanism shows up in the discount data. Both Adobe and Salesforce said U.S.
 
 ## Related Notes
 
+
 - [Adobe Generative AI Tools](adobe_generative_ai_tools.md): substantial content overlap on adobe, from a different source document.
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): substantial content overlap on shopping, retailers, cyber, from a different source document.
 - [Anti Prime Big Deal Day Competing Sales](anti_prime_big_deal_day_competing_sales.md): substantial content overlap on discounts, retailers, deals, from a different source document.
@@ -21,6 +22,8 @@ The mechanism shows up in the discount data. Both Adobe and Salesforce said U.S.
 - [Adobe Analytics and Salesforce Measurement Methodology](adobe_analytics_and_salesforce_measurement_methodology.md): drawn from the same source document, doc_0450.
 - [Buy Now Pay Later Usage on Thanksgiving 2023](buy_now_pay_later_usage_on_thanksgiving_2023.md): drawn from the same source document, doc_0450.
 - [Cyber Week 2023 Online Spend Forecasts](cyber_week_2023_online_spend_forecasts.md): drawn from the same source document, doc_0450.
+- [Mobile's Share Of Thanksgiving 2023 E-Commerce](mobile_share_of_thanksgiving_2023_ecommerce.md): same source document (doc_0450)
+- [Thanksgiving 2023 Online Sales Figures](thanksgiving_2023_online_sales_figures.md): same source document (doc_0450)
 
 ## Source
 

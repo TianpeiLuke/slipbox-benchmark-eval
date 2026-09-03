@@ -11,9 +11,19 @@ The immediate evidence is Ramaswamy's own trajectory: the presidential election 
 
 ## Related Notes
 
+
 - [Annie Wu Henry On Gen Z Authenticity](annie_wu_henry_on_gen_z_authenticity.md): same source document; the same strategist's communication-level diagnosis, which this argument subordinates to policy.
 - [SCOTUS Ruling Consequences](scotus_ruling_consequences.md): shares political-lobbying and creator-economy themes, from a different source document.
 - [Tech Layoffs, October 2023](tech_layoffs_october_2023.md): shares creator-economy themes, from a different source document.
+- [The NMPA Submission Calling Generative AI The Greatest Risk To The Creative Class](nmpa_submission_generative_ai_greatest_risk.md): shares creator_economy, lobbying_political_donations; different source document
+- [AOC's Twitch "Among Us" Stream](aoc_twitch_among_us_stream.md): same source document (doc_0468)
+- [Democratic Dominance In Campaign Social Media](democratic_social_media_campaign_dominance.md): same source document (doc_0468)
+- [Doug Mastriano's Facebook Live Campaign](doug_mastriano_facebook_live_campaign.md): same source document (doc_0468)
+- [Influencer Mobilization Beats Endorsement](influencer_mobilization_versus_endorsement_research.md): same source document (doc_0468)
+- [Jake Paul Endorsement Backlash](jake_paul_endorsement_backlash.md): same source document (doc_0468)
+- [Matt Gaetz's Twitch Debut Failure](matt_gaetz_twitch_debut_failure.md): same source document (doc_0468)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

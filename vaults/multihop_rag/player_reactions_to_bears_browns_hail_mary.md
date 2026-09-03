@@ -13,11 +13,16 @@ Fields' counterpart Joe Flacco could only watch on the jumbotron as the play unf
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also discusses Joe Flacco, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): also discusses Joe Flacco, from a different document.
 - [Chiefs Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): also discusses a Hail Mary, from a different document.
 - [Chiefs Packers Week 13 Fourth Quarter Sequence](chiefs_packers_week_13_fourth_quarter_sequence.md): another game ending on a Hail Mary, from a different document.
 - [Fantasy RB Week 14 Top Starts PPR](fantasy_rb_week_14_top_starts_ppr.md): also discusses Joe Flacco, from a different document.
+- [Browns Survive Bears Game-Ending Hail Mary To Win 20-17](bears_game_ending_hail_mary_vs_browns.md): same source document (doc_0080)
+- [Browns' Fourth Quarter Comeback Against The Bears](browns_bears_week_15_fourth_quarter_comeback.md): same source document (doc_0080)
+- [Chicago's Loss To Cleveland Was About More Than The Final Play](why_the_bears_lost_to_the_browns_week_15.md): same source document (doc_0080)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

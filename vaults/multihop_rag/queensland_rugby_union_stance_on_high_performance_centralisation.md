@@ -13,11 +13,18 @@ The QRU also expressed strong support for Rugby Australia to conduct a "fully in
 
 ## Related Notes
 
+
 - [Case for Schmidt Bringing Rugby Smarts to the Wallabies](case_for_schmidt_bringing_rugby_smarts_to_the_wallabies.md): another prescription for the Wallabies program, different source document
 - [David Nucifora Consultancy Approach by Rugby Australia](david_nucifora_consultancy_approach_by_rugby_australia.md): the high-performance expertise RA was pursuing, different source document
 - [Joe Schmidt Coaching Record Ireland and All Blacks](joe_schmidt_coaching_record_ireland_and_all_blacks.md): another document on centralised coaching systems, different source
 - [Joe Schmidt Wallabies Candidacy and Rival Candidates](joe_schmidt_wallabies_candidacy_and_rival_candidates.md): the coaching side of the same reform debate, different source document
 - [Nucifora Argument Against Returning to Australian Rugby](nucifora_argument_against_returning_to_australian_rugby.md): a sceptical view of Australian rugby's reform prospects, different source document
+- [Eddie Jones' Case For Reforming The Australian Rugby System](eddie_jones_case_for_reforming_australian_rugby_system.md): same source document (doc_0492)
+- [The NSW Waratahs' Licence Handover To Rugby Australia](nsw_waratahs_licence_handover_to_rugby_australia.md): same source document (doc_0492)
+- [The QRU Refuses To Centralise Commercial Functions](qru_refusal_to_centralise_commercial_functions.md): same source document (doc_0492)
+- [Rugby Australia's Debt And Funding Position In 2023](rugby_australia_debt_and_funding_position_2023.md): same source document (doc_0492)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

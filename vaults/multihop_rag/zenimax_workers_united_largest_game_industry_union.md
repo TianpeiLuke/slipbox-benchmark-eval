@@ -11,6 +11,7 @@ Microsoft formally recognized the ZeniMax union in January 2023, and the parties
 
 ## Related Notes
 
+
 - [The UAW 2023 Strike And The Just Transition Demand](uaw_2023_strike_and_the_just_transition_demand.md): overlapping coverage of workers organizing within an industry, from a different source document.
 - [Activision Blizzard Union Stalling And Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): drawn from the same source document (doc_0050).
 - [Consolidation Leaves Studios Vulnerable To Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): drawn from the same source document (doc_0050).
@@ -19,6 +20,8 @@ Microsoft formally recognized the ZeniMax union in January 2023, and the parties
 - [Epic Games' 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): drawn from the same source document (doc_0050).
 - [Layoffs At Unity, Bungie, EA And Other Studios In 2023](layoffs_at_unity_bungie_ea_and_other_studios_in_2023.md): drawn from the same source document (doc_0050).
 - [Microsoft's Acquisition Of Activision Blizzard King](microsoft_activision_blizzard_king_acquisition.md): drawn from the same source document (doc_0050).
+- [Microsoft's Cloud Gaming And Device-Agnostic Strategy](microsoft_cloud_gaming_and_device_agnostic_strategy.md): same source document (doc_0050)
+- [Microsoft's Game Studio Portfolio](microsoft_game_studio_portfolio.md): same source document (doc_0050)
 
 ## Source
 

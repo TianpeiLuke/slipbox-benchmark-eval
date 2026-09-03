@@ -11,11 +11,19 @@ The cost claim is the pitch's load-bearing element. Ramadan said streaming a 4K 
 
 ## Related Notes
 
+
 - [Alliance DAO Accelerator Program](alliance_dao_accelerator_program.md): same source document; the accelerator that showcased Blockcast.
 - [Alliance DAO All11 Cohort Selectivity](alliance_dao_all11_cohort_selectivity.md): same source document; the cohort Blockcast graduated in.
 - [MasterClass Founder David Rogier's Seed Round](masterclass_founder_david_rogier_seed_round.md): overlaps in content on seed rounds and streaming, from a different source document.
 - [StarNews Mobile Platform](starnews_mobile_platform.md): shares streaming-service and venture-capital themes, from a different source document.
 - [Tech Layoffs, December 2023](tech_layoffs_december_2023.md): shares streaming-service and venture-capital themes, from a different source document.
+- [Alliance DAO All11 Mentor Roster](alliance_dao_all11_mentor_roster.md): same source document (doc_0465)
+- [Building Web3 Startups In Bear-Market Conditions](crypto_bear_market_startup_conditions.md): same source document (doc_0465)
+- [Inco, Encrypted Ethereum Virtual Machine](inco_encrypted_evm_fhe_network.md): same source document (doc_0465)
+- [Kravata, LatAm Fiat-Crypto On-Ramp](kravata_latam_fiat_crypto_onramp.md): same source document (doc_0465)
+- [Sleepagotchi, NFT-Powered Sleep Game](sleepagotchi_nft_sleep_game.md): same source document (doc_0465)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

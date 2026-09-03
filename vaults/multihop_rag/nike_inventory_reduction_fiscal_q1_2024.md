@@ -11,6 +11,7 @@ Finance chief Matthew Friend tied the position to the coming half-year: "On the 
 
 ## Related Notes
 
+
 - [Stellantis Leapmotor Stake and Joint Venture](stellantis_leapmotor_stake_and_joint_venture.md): shares manufacturing-cost and billion-scale reporting vocabulary.
 - [Nike Direct-to-Consumer Channel Performance](nike_direct_to_consumer_channel_performance.md): the channel that transitioned inventory into full-price sales.
 - [Nike Fiscal 2024 Revenue and Margin Guidance](nike_fiscal_2024_revenue_and_margin_guidance.md): the outlook that depends on this inventory position.
@@ -19,6 +20,7 @@ Finance chief Matthew Friend tied the position to the coming half-year: "On the 
 - [Nike Gross Margin Fiscal Q1 2024](nike_gross_margin_fiscal_q1_2024.md): the margin effect of bloated inventories and promotions.
 - [Nike Regional and Product Category Sales Fiscal Q1 2024](nike_regional_and_product_category_sales_fiscal_q1_2024.md): the sales the inventory was cleared into.
 - [Nike Wholesale Partner Relationship Reset](nike_wholesale_partner_relationship_reset.md): the partners Nike relied on to move excess merchandise.
+- [US Consumer Pullback and Student Loan Risk for Nike](us_consumer_pullback_and_student_loan_risk_for_nike.md): same source document (doc_0215)
 
 ## Source
 

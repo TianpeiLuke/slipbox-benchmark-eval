@@ -11,6 +11,7 @@ She described the decision as an unromantic, deliberate conversation rather than
 
 ## Related Notes
 
+
 - [Diamondbacks Late Rally World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): an unrelated sports article that also features a Will Smith
 - [Garth Brooks And Trisha Yearwood Marriage](garth_brooks_and_trisha_yearwood_marriage.md): another celebrity marriage account touching on divorce and remarriage
 - [Kansas City Royals 2023 Offseason Signings](kansas_city_royals_2023_offseason_signings.md): another article in which a Will Smith appears in a different field entirely
@@ -19,6 +20,8 @@ She described the decision as an unromantic, deliberate conversation rather than
 - [Counterargument Separations Reschedule Rather Than Resolve Problems](counterargument_separations_reschedule_rather_than_resolve_problems.md): expert warning that a no-divorce promise can breed resentment, same article
 - [Expert Debate Over The Oscars Slap Given The Separation](expert_debate_over_the_oscars_slap_given_the_separation.md): same article's competing readings of the couple's commitment
 - [Expert Signs It Is Time To End A Marriage](expert_signs_it_is_time_to_end_a_marriage.md): the divorce-threshold discussion in the same article
+- [Jada Pinkett Smith's 2023 Disclosure Of A Seven-Year Separation](jada_pinkett_smith_2023_separation_disclosure.md): same source document (doc_0360)
+- [Jada Pinkett Smith's "Entanglement" With August Alsina](jada_pinkett_smith_august_alsina_entanglement.md): same source document (doc_0036)
 
 ## Source
 

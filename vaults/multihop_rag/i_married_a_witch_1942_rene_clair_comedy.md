@@ -11,11 +11,19 @@ The plot's mechanism is a curse: when two witches — Jennifer (Lake) and her fa
 
 ## Related Notes
 
+
 - [Amnesia The Bunker](amnesia_the_bunker.md): an unrelated article also set against a World War backdrop
 - [Detour 1945 Edgar G Ulmer](detour_1945_edgar_g_ulmer.md): another Classic Hollywood entry available on Criterion Channel
 - [Encounters Of The Spooky Kind Sammo Hung](encounters_of_the_spooky_kind_sammo_hung.md): another Criterion Channel title from a different guide
 - [Eyes Without A Face Georges Franju](eyes_without_a_face_georges_franju.md): a further Criterion Channel catalogue entry
 - [Freaks Vs The Reich Italian Superhero Film](freaks_vs_the_reich_italian_superhero_film.md): another film using a World War setting
+- [Book Club (2018): The Raunchy Late-Life Romantic Comedy](book_club_2018_romantic_comedy.md): same source document (doc_0597)
+- [Catherine Called Birdy (2022): Lena Dunham's Coming-Of-Age Comedy](catherine_called_birdy_2022_lena_dunham_comedy.md): same source document (doc_0597)
+- [Charade (1963): Stanley Donen's Comedy Thriller](charade_1963_donen_comedy_thriller.md): same source document (doc_0597)
+- [Clueless (1995): The Teen-Comedy Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): same source document (doc_0597)
+- [Coming To America (1988): Eddie Murphy's Romantic Comedy](coming_to_america_1988_eddie_murphy_comedy.md): same source document (doc_0597)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

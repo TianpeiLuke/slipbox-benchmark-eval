@@ -17,6 +17,7 @@ It is important to protect data privacy and security as well, Patel noted, due t
 
 ## Related Notes
 
+
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): shares the data privacy theme, from a different source document.
 - [AI as Clinician Ally not Replacement](ai_as_clinician_ally_not_replacement.md): drawn from the same source document (doc_0163).
 - [AI Civil Rights and Consumer Protections in the Eo](ai_civil_rights_and_consumer_protections_in_the_eo.md): shares the data privacy theme, from a different source document.
@@ -25,6 +26,14 @@ It is important to protect data privacy and security as well, Patel noted, due t
 - [Apple Blocks Beeper Mini Imessage Access](apple_blocks_beeper_mini_imessage_access.md): shares the data privacy theme, from a different source document.
 - [Apple iOS Security Fixes and Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares the data privacy theme, from a different source document.
 - [Apple Privacy Stance versus Google Default Payments](apple_privacy_stance_versus_google_default_payments.md): shares the data privacy theme, from a different source document.
+- [Dr. Bhavik Patel Appointed Chief AI Officer For Mayo Clinic Arizona](bhavik_patel_appointed_mayo_clinic_arizona_chief_ai_officer.md): same source document (doc_0163)
+- [Bhavik Patel's Day-To-Day Duties As Chief AI Officer](bhavik_patel_day_to_day_chief_ai_officer_duties.md): same source document (doc_0163)
+- [The Clinical Benefits Of AI In Health Care](clinical_benefits_of_ai_in_health_care.md): same source document (doc_0163)
+- [Core Functions Of A Health Care Chief AI Officer](core_functions_of_a_health_care_chief_ai_officer.md): same source document (doc_0163)
+- [Mayo Clinic's AI Models For Heart Attack And Cancer Risk](mayo_clinic_ai_models_for_heart_attack_and_cancer_risk.md): same source document (doc_0163)
+- [The Shortage Of AI-Trained Physicians](shortage_of_ai_trained_physicians.md): same source document (doc_0163)
+- [Why A Health System Needs A Chief AI Officer](why_health_systems_need_a_chief_ai_officer.md): same source document (doc_0163)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

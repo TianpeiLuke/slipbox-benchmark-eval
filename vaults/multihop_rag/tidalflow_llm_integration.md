@@ -11,11 +11,18 @@ The scope of the stated aim is deliberately broad — any software, and LLM ecos
 
 ## Related Notes
 
+
 - [Colorado vs. Arizona State 2023: Venue And Broadcast Details](colorado_arizona_state_2023_venue_and_broadcast.md): incidental term overlap on "mountain", from a different source document.
 - [The French Founder Stealth AI Startup Wave](french_founder_stealth_ai_startup_wave.md): overlaps on stealth startups and venture backing, from a different source document.
 - [TuSimple Exits The US Market](tusimple_exits_the_us_market.md): overlaps on the language of exits, from a different source document.
 - [Adobe's Firefly Generative AI Tools And Project Stardust](adobe_generative_ai_tools.md): drawn from the same source document (doc_0043).
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): drawn from the same source document (doc_0043).
+- [Brave Software Lays Off 9% Of Its Workforce](brave_software_layoffs.md): same source document (doc_0043)
+- [Meta Quest 3 And The Affordable End Of AR/VR Hardware](consumer_ar_vr_hardware.md): same source document (doc_0043)
+- [Creator Economy Sustainability And Creator Venture Capital](creator_economy_sustainability.md): same source document (doc_0043)
+- [Whether Founders Should Attend Events](founder_event_attendance_debate.md): same source document (doc_0043)
+- [Google Pixel 8 Launch](google_pixel_8_launch.md): same source document (doc_0043)
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
 
 ## Source
 

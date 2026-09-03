@@ -11,6 +11,7 @@ TechCrunch applied that same spirit editorially for the 2023 holiday season, ask
 
 ## Related Notes
 
+
 - [The Anchorites: The Bone Clocks](the_anchorites_the_bone_clocks.md): overlapping book-and-reading subject matter, from a different source document.
 - [Which Vampire Authors Were Vampires Premise](which_vampire_authors_were_vampires_premise.md): overlapping treatment of authors and writers, from a different source document.
 - [Barr Moses Recommends Dare To Lead](barr_moses_recommends_dare_to_lead.md): drawn from the same source document (doc_0243), one of the solicited recommendations.
@@ -19,6 +20,8 @@ TechCrunch applied that same spirit editorially for the 2023 holiday season, ask
 - [Jerry Neumann Recommends How Data Happened](jerry_neumann_recommends_how_data_happened.md): drawn from the same source document (doc_0243), one of the solicited recommendations.
 - [Jon Evans Recommends The Steerswoman](jon_evans_recommends_the_steerswoman.md): drawn from the same source document (doc_0243), one of the solicited recommendations.
 - [Kashmir Hill Recommends The Listeners](kashmir_hill_recommends_the_listeners_wiretapping_history.md): drawn from the same source document (doc_0243), one of the solicited recommendations.
+- [Polina Marinova Pompliano Recommends "It's What I Do"](polina_marinova_pompliano_recommends_its_what_i_do.md): same source document (doc_0243)
+- [Scott Hurff Recommends "Getting Real"](scott_hurff_recommends_getting_real_by_37signals.md): same source document (doc_0243)
 
 ## Source
 

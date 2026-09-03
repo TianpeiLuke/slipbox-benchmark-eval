@@ -15,10 +15,14 @@ A boundary case reinforces the point: the presence of a black-market armor shop 
 
 ## Related Notes
 
+
 - [Egypt "Too Big to Fail" Thesis](egypt_too_big_to_fail_thesis.md): both reference North African contexts, from an unrelated source document
 - [The Legend of Zelda: Breath of the Wild](the_legend_of_zelda_breath_of_the_wild.md): covers the same game, from a different article
 - [Speculation About Link's Gender Around Breath of the Wild](breath_of_the_wild_link_gender_speculation.md): the reception history preceding this analysis, in the same article
 - [Gendered Assumptions About Link as Casual Misogyny](gendered_assumptions_about_link_as_casual_misogyny.md): the argument this space is used to test, in the same document
+- [Tears of the Kingdom Forecloses Queer Expression](tears_of_the_kingdom_forecloses_queer_expression.md): same source document (doc_0389)
+- [Vilia and the Removed Gerudo Disguise in Tears of the Kingdom](vilia_and_the_removed_gerudo_disguise_in_tears_of_the_kingdom.md): same source document (doc_0389)
+- [Accessibility Localisation](term_accessibility_localisation.md): uses the concept accessibility localisation
 
 ## Source
 

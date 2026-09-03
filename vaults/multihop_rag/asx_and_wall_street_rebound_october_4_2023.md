@@ -11,6 +11,7 @@ The local rebound came after Wall Street rose on relief from relaxing bond yield
 
 ## Related Notes
 
+
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): covers the same index and sectors the following week, from a different source document.
 - [ASX Outlook And RBA Rate Expectations September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): links bond yields to the local index shortly before this session, from a different source document.
 - [ASX September 2023 Session Decliners](asx_september_2023_session_decliners.md): another sector-level session readout, from a different source document.
@@ -19,6 +20,8 @@ The local rebound came after Wall Street rose on relief from relaxing bond yield
 - [ASX Sector Movers October 4 2023](asx_sector_movers_october_4_2023.md): drawn from the same report and gives the individual stock moves in this session.
 - [Australian Christmas Retail Spending Outlook 2023](australian_christmas_retail_spending_outlook_2023.md): drawn from the same report and covers the consumer outlook alongside it.
 - [Oil Slump And House Speaker Vacancy October 2023](oil_slump_and_house_speaker_vacancy_october_2023.md): drawn from the same report and details the oil fall Sycamore cites.
+- [US Jobs And Services Data In Early October 2023](us_jobs_and_services_data_early_october_2023.md): same source document (doc_0029)
+- [US Treasury Yields And Fed Rate Expectations In October 2023](us_treasury_yields_and_fed_rate_expectations_october_2023.md): same source document (doc_0029)
 
 ## Source
 

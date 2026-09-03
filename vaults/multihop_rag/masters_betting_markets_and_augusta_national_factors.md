@@ -11,11 +11,18 @@ For successful Masters betting it is crucial to consider statistics pertinent to
 
 ## Related Notes
 
+
 - [Bet365 Sportsbook Kentucky](bet365_sportsbook_kentucky.md): overlapping betting-range and market coverage.
 - [DraftKings Sportsbook Betting Markets](draftkings_sportsbook_betting_markets.md): a book offering these kinds of odds.
 - [Exotic Prop Bets](exotic_prop_bets.md): the wider category the unique Masters props belong to.
 - [Golf Ball Rollback Application to Men's Majors](golf_ball_rollback_application_to_mens_majors.md): also concerns Augusta National and the majors.
 - [Kentucky Legal Sports Betting Launch and History](kentucky_legal_sports_betting_launch_and_history.md): overlapping sports-betting availability context.
+- [Betting The Other Majors And Team Golf Events](betting_on_golf_majors_and_team_events.md): same source document (doc_0207)
+- [The Bet Types Available In Golf Betting](golf_betting_bet_types_explained.md): same source document (doc_0207)
+- [How To Open A Sportsbook Account, Download The App, And Place A Bet](how_to_open_a_sportsbook_account_and_place_a_bet.md): same source document (doc_0207)
+- [Live In-Play Golf Betting](live_in_play_golf_betting.md): same source document (doc_0207)
+- [The 2024 PGA Tour Schedule: 36 Events On A Calendar Year](pga_tour_2024_calendar_year_schedule.md): same source document (doc_0207)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

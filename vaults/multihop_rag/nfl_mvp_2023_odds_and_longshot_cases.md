@@ -13,11 +13,20 @@ The case for C.J. Stroud rests on production and value. He led the league in pas
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also discusses Brock Purdy, from a different document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also discusses Brock Purdy and Dak Prescott, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Dak Prescott, from a different document.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): shares the NFL and playoff-seeding themes, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): shares the NFL and playoff-seeding themes, from a different document.
+- [Why Bettors Should Consider NFL Award Longshots — And Bet Them Small](nfl_awards_longshot_betting_strategy.md): same source document (doc_0145)
+- [2023 NFL Coach Of The Year: Campbell Favored, Payton The Longshot Case](nfl_coach_of_the_year_2023_odds.md): same source document (doc_0145)
+- [2023 NFL Comeback Player Of The Year: Hamlin Favored, Wilson The Longshot](nfl_comeback_player_of_the_year_2023_odds.md): same source document (doc_0145)
+- [2023 NFL Defensive Player Of The Year: Danielle Hunter As The Longshot](nfl_defensive_player_of_the_year_2023_odds.md): same source document (doc_0145)
+- [2023 NFL Offensive Player Of The Year: Hill The Favorite, Lamb The Longshot](nfl_offensive_player_of_the_year_2023_odds.md): same source document (doc_0145)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

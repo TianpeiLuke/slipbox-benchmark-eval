@@ -13,6 +13,7 @@ The warrant he offers is that the defence position requires an internally incohe
 
 ## Related Notes
 
+
 - [Trump Park Avenue Rent-Stabilised Unit Valuations](trump_park_avenue_rent_stabilised_unit_valuations.md): a worked instance of the rent-regulated apartment issue named here.
 - [Engoron Summary Judgment That Trump Committed Fraud](engoron_summary_judgment_that_trump_committed_fraud.md): the ruling this reasoning supports.
 - [Letitia James Asset Inflation Allegations](letitia_james_asset_inflation_allegations.md): the allegations this finding upholds.
@@ -21,6 +22,8 @@ The warrant he offers is that the defence position requires an internally incohe
 - [Penalties Sought in the Letitia James Civil Fraud Lawsuit](penalties_sought_in_the_letitia_james_civil_fraud_lawsuit.md): what the attorney general asks the court to impose.
 - [Trump Disclaimer Defence and Its Rejection](trump_disclaimer_defence_and_its_rejection.md): the specific defence rejected in this passage.
 - [Trump Motions to Dismiss the Fraud Case Rejected](trump_motions_to_dismiss_the_fraud_case_rejected.md): the other defence arguments the judge dismissed.
+- [Trump's Other Criminal and Civil Cases 2023](trump_other_criminal_and_civil_cases_2023.md): same source document (doc_0529)
+- [Trump Tower Fifth Avenue Penthouse Valuation Dispute](trump_tower_fifth_avenue_penthouse_valuation_dispute.md): same source document (doc_0529)
 
 ## Source
 

@@ -11,6 +11,7 @@ The grounds are the state of each team: for Los Angeles, losing by less than 38 
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): covers both teams' positions in the AFC race, from a different document.
 - [Bills-Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): covers the same Buffalo team in another marquee game, from a different document.
 - [Buffalo Bills Defensive Injuries 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): gives a countervailing read on the Bills' condition, from a different document.
@@ -19,6 +20,8 @@ The grounds are the state of each team: for Los Angeles, losing by less than 38 
 - [Buffalo's Against-The-Spread Trends in 2023](bills_against_the_spread_trends_2023.md): supplies the ATS grounds for this pick, from the same document.
 - [Bills vs. Chargers Week 16 Matchup Preview](bills_chargers_week_16_matchup_preview.md): supplies the line and total this pick is made against, from the same document.
 - [Bills vs. Chargers Week 16 Player Props](bills_chargers_week_16_player_props.md): gives the prop suggestions from the same preview, from the same document.
+- [Buffalo's AFC Wild Card Position Going Into Week 16](buffalo_bills_afc_wild_card_position_week_16.md): same source document (doc_0376)
+- [Chargers Betting Trends With Easton Stick At Quarterback](chargers_betting_trends_with_easton_stick.md): same source document (doc_0376)
 
 ## Source
 

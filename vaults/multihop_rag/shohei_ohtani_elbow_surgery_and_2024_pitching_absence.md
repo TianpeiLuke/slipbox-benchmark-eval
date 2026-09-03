@@ -13,6 +13,7 @@ Balelo has stressed that Ohtani remains committed to both pitching and hitting i
 
 ## Related Notes
 
+
 - [Alternative Reading of the Mariners Ohtani Leak](alternative_reading_of_the_mariners_ohtani_leak.md): overlaps on Ohtani and his camp, from a different document.
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): overlaps on Ohtani, pitching and the Angels, from a different document.
 - [Cubs' Ohtani Fit After the NL Designated Hitter](cubs_ohtani_fit_after_nl_designated_hitter.md): overlaps on whether Ohtani can pitch, from a different document.
@@ -21,6 +22,7 @@ Balelo has stressed that Ohtani remains committed to both pitching and hitting i
 - [MLB Luxury Tax: Deferrals and Average Annual Value](mlb_luxury_tax_deferrals_and_average_annual_value.md): drawn from the same document (doc_0531).
 - [Shohei Ohtani's Postseason Ambition With the Dodgers](shohei_ohtani_postseason_ambition_with_dodgers.md): drawn from the same document (doc_0531).
 - [Shohei Ohtani's $700 Million Dodgers Contract](shohei_ohtani_seven_hundred_million_dodgers_contract.md): drawn from the same document (doc_0531).
+- [Shohei Ohtani's Two-Way Production And The Babe Ruth Comparison](shohei_ohtani_two_way_production_and_babe_ruth_comparison.md): same source document (doc_0531)
 
 ## Source
 

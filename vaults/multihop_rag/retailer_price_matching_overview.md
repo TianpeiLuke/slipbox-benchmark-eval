@@ -13,11 +13,19 @@ The illustration The Verge used: if Best Buy offers a better discount than Targe
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the Black Friday and Cyber Monday discount theme, from a different source document.
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): also concerns Cyber Monday, from a different source document.
 - [Amazon Echo Show, Audible and Fire TV Offers](amazon_echo_show_audible_and_fire_tv_offers.md): also concerns Cyber Monday, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares the Black Friday discount theme, from a different source document.
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the Black Friday discount theme, from a different source document.
+- [Amazon Price Matching And Return Policy](amazon_price_matching_and_return_policy.md): same source document (doc_0403)
+- [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): same source document (doc_0403)
+- [Best Buy Price Match Guarantee](best_buy_price_match_guarantee.md): same source document (doc_0403)
+- [B&H Photo And Costco Price Adjustment](bh_photo_and_costco_price_adjustment.md): same source document (doc_0403)
+- [Dell Price Match Policy](dell_price_match_policy.md): same source document (doc_0403)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

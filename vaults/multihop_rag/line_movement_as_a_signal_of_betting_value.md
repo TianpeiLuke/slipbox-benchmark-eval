@@ -13,11 +13,18 @@ The argument stops short of endorsing either side of a totals bet in the abstrac
 
 ## Related Notes
 
+
 - [DraftKings Sportsbook Betting Markets](draftkings_sportsbook_betting_markets.md): overlaps on the betting options offered to bettors, from a different document.
 - [DraftKings Vermont Welcome Offer Tradeoffs](draftkings_vermont_welcome_offer_tradeoffs.md): overlaps on what an offer is worth to a bettor placing a wager, from a different document.
 - [How Sportsbooks Set and Move Betting Lines](how_sportsbooks_set_and_move_betting_lines.md): covers the line-setting and public-money mechanics this argument rests on, from a different document.
 - [How to Choose a Kentucky Sportsbook](how_to_choose_a_kentucky_sportsbook.md): overlaps on bettors comparing lines when choosing where to bet, from a different document.
 - [Line Shopping in Sports Betting](line_shopping_in_sports_betting.md): covers the related practice of comparing totals lines across books, from a different document.
+- [Determining A Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): same source document (doc_0359)
+- [Handicap Betting In Tennis And Golf](handicap_betting_in_tennis_and_golf.md): same source document (doc_0359)
+- [Over/Under Betting In MMA, Tennis And Golf](over_under_betting_in_mma_tennis_and_golf.md): same source document (doc_0554)
+- [Over/Under Totals Bet Definition](over_under_totals_bet_definition.md): same source document (doc_0554)
+- [Over/Under Totals By Team Sport](over_under_totals_by_team_sport.md): same source document (doc_0554)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

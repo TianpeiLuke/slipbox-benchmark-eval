@@ -11,12 +11,18 @@ During his demo day presentation, CEO and co-founder Alan Hampton said the compa
 
 ## Related Notes
 
+
 - [Alliance DAO Accelerator Program](alliance_dao_accelerator_program.md): same source document; the accelerator that showcased Tazz.
 - [Alliance DAO All11 Cohort Selectivity](alliance_dao_all11_cohort_selectivity.md): same source document; the batch it graduated in.
 - [Alliance DAO All11 Mentor Roster](alliance_dao_all11_mentor_roster.md): same source document; the mentors advising the cohort.
 - [ActivityPub And Rival Social Protocols](activitypub_and_rival_social_protocols.md): overlaps in content on protocols and what they do, from a different source document.
 - [Fediverse ActivityPub Protocol](fediverse_activitypub_protocol.md): overlaps in content on decentralized protocols, from a different source document.
 - [Ola Electric Funding Round 2023](ola_electric_funding_round_2023.md): overlaps in content on debt and multimillion-dollar rounds, from a different source document.
+- [Blockcast, Decentralized Broadcast Delivery Network](blockcast_decentralized_broadcast_network.md): same source document (doc_0465)
+- [Building Web3 Startups In Bear-Market Conditions](crypto_bear_market_startup_conditions.md): same source document (doc_0465)
+- [Inco, Encrypted Ethereum Virtual Machine](inco_encrypted_evm_fhe_network.md): same source document (doc_0465)
+- [Kravata, LatAm Fiat-Crypto On-Ramp](kravata_latam_fiat_crypto_onramp.md): same source document (doc_0465)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

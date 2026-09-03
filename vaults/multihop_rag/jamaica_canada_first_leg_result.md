@@ -13,11 +13,19 @@ Canada's players framed it as a step, not an arrival. "It feels great to get our
 
 ## Related Notes
 
+
 - [Andre Onana's Goalkeeping Errors in the 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): also involves Aston Villa, from a different document.
 - [Argentina 1-0 Paraguay, 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): another international match report with goalscorers, separately sourced.
 - [Belgium-England Women's Nations League Result, October 2023](belgium_england_womens_nations_league_result_october_2023.md): another Nations League result, in a different document.
 - [The First Quarter of Bengals 24, Bills 18](bills_bengals_snf_first_quarter.md): shares injury-report and unrelated tag themes, from a separate source.
 - [Canada-Jamaica Second Leg First Half](canada_jamaica_second_leg_first_half.md): also features Alphonso Davies, in the return fixture reported elsewhere.
+- [Canada's Path To Copa America 2024 Qualification](canada_copa_america_2024_qualification_path.md): same source document (doc_0157)
+- [Fallout From John Herdman's Departure From Canada Soccer](canada_soccer_john_herdman_departure_fallout.md): same source document (doc_0157)
+- [How To Watch Jamaica vs Canada, First Leg](jamaica_canada_first_leg_broadcast.md): same source document (doc_0157)
+- [The First Half Of Jamaica 0-1 Canada](jamaica_canada_first_leg_first_half.md): same source document (doc_0157)
+- [The Rain Postponement Of Jamaica vs Canada](jamaica_canada_first_leg_rain_postponement.md): same source document (doc_0157)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

@@ -13,6 +13,7 @@ Nearer kickoff the notes turned to conditions and presentation. At 7:30 p.m. the
 
 ## Related Notes
 
+
 - [Buccaneers 21-18 Panthers: Mike Evans Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): also discusses Bryce Young and the Carolina Panthers, from a different document.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): also references the Windy City, from a different document.
 - [Colts Panthers Week 9 Spread Pick](colts_panthers_week_9_spread_pick.md): also discusses Bryce Young, from a different document.
@@ -21,6 +22,8 @@ Nearer kickoff the notes turned to conditions and presentation. At 7:30 p.m. the
 - [Bears 16, Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): how the game these storylines set up finished, from the same document.
 - [Bears Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): the broadcast details for the same game, from the same document.
 - [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): the in-game action that followed, from the same document.
+- [Defence Of Reich's 59-Yard Field Goal Call](defence_of_reich_59_yard_field_goal_call.md): same source document (doc_0489)
+- [D.J. Moore's First Game Against The Panthers](dj_moore_first_game_against_the_panthers.md): same source document (doc_0489)
 
 ## Source
 

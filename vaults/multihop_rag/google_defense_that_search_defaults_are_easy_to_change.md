@@ -11,6 +11,7 @@ In court, John Schmidtlein referenced Apple's deals with Yahoo and Bing that mak
 
 ## Related Notes
 
+
 - [Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): also concerns Google Search, from a different source document.
 - [Firefox Decline: The Alternative Chrome-Share Explanation](firefox_decline_alternative_explanation_chrome_share.md): overlapping coverage of defaults, Google and Yahoo, from a different source document.
 - [Firefox's Yahoo Default Search Switch](firefox_yahoo_default_search_switch.md): overlapping coverage of defaults, Google and Yahoo on Firefox, from a different source document.
@@ -19,6 +20,8 @@ In court, John Schmidtlein referenced Apple's deals with Yahoo and Bing that mak
 - [The Apple-Google Information Services Agreement](apple_google_information_services_agreement.md): drawn from the same source document (doc_0014).
 - [Apple's Privacy Stance Versus Google's Default Payments](apple_privacy_stance_versus_google_default_payments.md): drawn from the same source document (doc_0014).
 - [Closed Sessions Limited The Public Record Of Cue's Testimony](closed_sessions_limited_the_public_record_of_cue_testimony.md): drawn from the same source document (doc_0014).
+- [The DOJ Theory That Google's Default Deals Foreclose Search Rivals](doj_theory_that_google_default_deals_foreclose_search_rivals.md): same source document (doc_0014)
+- [Eddy Cue's Testimony In US V. Google](eddy_cue_testimony_in_us_v_google.md): same source document (doc_0014)
 
 ## Source
 

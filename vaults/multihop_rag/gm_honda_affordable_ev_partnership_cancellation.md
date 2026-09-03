@@ -11,6 +11,7 @@ By October 2023 they canned the collaboration, vaguely citing "extensive studies
 
 ## Related Notes
 
+
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also concerns North America as a market, from a different source document.
 - [Aging With HIV And The Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): also concerns North America, from a different source document.
 - [Canada Ski Holidays Overview](canada_ski_holidays_overview.md): also concerns North America, from a different source document.
@@ -19,6 +20,8 @@ By October 2023 they canned the collaboration, vaguely citing "extensive studies
 - [The Case Against Supersized Electric Vehicles](case_against_supersized_electric_vehicles.md): drawn from the same source document (doc_0318), the argument this cancellation illustrates.
 - [ElectraMeccanica Solo Discontinuation](electrameccanica_solo_discontinuation.md): drawn from the same source document (doc_0318), another small EV lost in 2023.
 - [Honda e Production End](honda_e_production_end.md): drawn from the same source document (doc_0318), Honda's other small-EV retreat.
+- [The Mazda MX-30's US Discontinuation](mazda_mx_30_us_discontinuation.md): same source document (doc_0318)
+- [Revel's Moped-Sharing Shutdown](revel_moped_sharing_shutdown.md): same source document (doc_0318)
 
 ## Source
 

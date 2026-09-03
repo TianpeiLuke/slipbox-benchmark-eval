@@ -13,6 +13,7 @@ Ellison's proximity also gave her an unusual view of his character. She said Ala
 
 ## Related Notes
 
+
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): also concerns Alameda Research, from a different source document.
 - [Alameda Research](alameda_research.md): the firm she came to lead, from a different source document.
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): the conduct that ran through the firm she headed, from a different source document.
@@ -20,6 +21,10 @@ Ellison's proximity also gave her an unusual view of his character. She said Ala
 - [Cohen's Cross-Examination of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): also concerns Caroline Ellison, from a different source document.
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the facility she operated under, from the same testimony day (doc_0086).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): the sin-eater role she inherited (doc_0053).
+- [Alameda Research's Origins And Naming](alameda_research_origins_and_naming.md): same source document (doc_0053)
+- [Caroline Ellison's Guilty Plea And First Day Of Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): same source document (doc_0086)
+- [Ellison's Risk Spreadsheet For Venture Investments](ellison_risk_spreadsheet_for_venture_investments.md): same source document (doc_0086)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

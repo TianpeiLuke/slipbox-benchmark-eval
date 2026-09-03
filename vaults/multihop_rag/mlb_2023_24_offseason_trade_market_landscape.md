@@ -13,6 +13,7 @@ That informed a trade landscape headlined by a few stars deep into their arbitra
 
 ## Related Notes
 
+
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): also concerns Tampa Bay, from a different document.
 - [Baker Mayfield Week 15 Stat Line At Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also concerns Tampa Bay, from a different document.
 - [Braves Release Matt Carpenter](braves_release_matt_carpenter.md): overlaps on the offseason, trades and the Padres, from a different document.
@@ -21,6 +22,8 @@ That informed a trade landscape headlined by a few stars deep into their arbitra
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): a candidate from the same Yardbarker list.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): a candidate from the same Yardbarker list.
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): a candidate from the same Yardbarker list.
+- [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
 
 ## Source
 

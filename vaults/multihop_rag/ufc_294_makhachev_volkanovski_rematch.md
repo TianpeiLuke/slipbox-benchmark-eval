@@ -11,6 +11,7 @@ Makhachev carried a favourable 24-1-0 record into the fight, but Volkanovski wou
 
 ## Related Notes
 
+
 - [Benavidez-Andrade Undercard and Jermall Charlo's Return](benavidez_andrade_undercard_and_jermall_charlo_return.md): overlaps on lightweight, featherweight and middleweight divisions, from a different document.
 - [Liam Paro vs Montana Love, December 2023](liam_paro_vs_montana_love_december_2023.md): overlaps on a lightweight title fight, from a different document.
 - [UFC 295 Card Changes and Main Events](ufc_295_card_changes_and_main_events.md): overlaps on title belts and the middleweight division, from a different document.
@@ -19,6 +20,8 @@ Makhachev carried a favourable 24-1-0 record into the fight, but Volkanovski wou
 - [England's 2023 Cricket World Cup Qualification Crisis](england_cricket_world_cup_2023_qualification_crisis.md): drawn from the same document (doc_0300).
 - [England vs South Africa: 2023 Rugby World Cup Semi-Final](england_south_africa_rugby_world_cup_semi_final_2023.md): drawn from the same document (doc_0300).
 - [Liverpool vs Everton: Merseyside Derby Preview, October 2023](liverpool_everton_merseyside_derby_october_2023_preview.md): drawn from the same document (doc_0300).
+- [Newcastle vs Crystal Palace Preview, October 2023](newcastle_versus_crystal_palace_october_2023_preview.md): same source document (doc_0300)
+- [Sheffield United vs Manchester United Preview, October 2023](sheffield_united_versus_manchester_united_october_2023_preview.md): same source document (doc_0300)
 
 ## Source
 

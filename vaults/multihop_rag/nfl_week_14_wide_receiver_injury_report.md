@@ -13,11 +13,19 @@ Sporting News said it would, as usual, update the wide receiver PPR rankings thr
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Marquise Brown, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): also discusses Marquise Brown, from a different document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also discusses Trevor Lawrence, from a different document.
 - [Chiefs Packers Week 13 First Half Sequence](chiefs_packers_week_13_first_half_sequence.md): also discusses Christian Watson, from a different document.
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): also discusses Christian Watson, from a different document.
+- [Week 14 Fantasy Wide Receiver Rankings, Full-Point PPR (Full List)](fantasy_wr_ppr_rankings_week_14_full_list.md): same source document (doc_0197)
+- [Week 14 PPR Wide Receivers To Downgrade](fantasy_wr_week_14_busts.md): same source document (doc_0197)
+- [Week 14 Bye Week Impact On Fantasy Wide Receivers](fantasy_wr_week_14_bye_week_impact.md): same source document (doc_0197)
+- [Week 14 PPR Wide Receiver Sleepers And Waiver Pickups](fantasy_wr_week_14_sleepers_and_waiver_pickups.md): same source document (doc_0197)
+- [Week 14 PPR Wide Receivers To Start](fantasy_wr_week_14_top_starts.md): same source document (doc_0197)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

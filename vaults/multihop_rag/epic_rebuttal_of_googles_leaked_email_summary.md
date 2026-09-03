@@ -11,12 +11,20 @@ He supported the leak claim with trial testimony: Don Harrison testified that he
 
 ## Related Notes
 
+
 - [Amazon Prime Free Games And DLC](amazon_prime_free_games_and_dlc.md): also concerns Star Wars, from a different source document.
 - [Andor On Disney Plus](andor_disney_plus.md): also concerns Star Wars, from a different source document.
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): also concerns the Google Play Store, from a different source document.
 - [Android App Distribution Market Definition](android_app_distribution_market_definition.md): overlapping coverage of Google, payments and Epic, from a different source document.
 - [Beeper Product Lineup, Pricing And Availability](beeper_product_lineup_pricing_and_availability.md): also concerns the Google Play Store, from a different source document.
 - [Activision, Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): drawn from the same source document (doc_0170).
+- [Apple Versus Google: A Contrast In Antitrust Conduct](apple_versus_google_antitrust_conduct_contrast.md): same source document (doc_0170)
+- [Epic Games' 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): same source document (doc_0170)
+- [The Epic Games Store As A General-Purpose App Store](epic_games_store_as_a_general_purpose_app_store.md): same source document (doc_0170)
+- [Epic Games Store Growth And Diversification Beyond Games](epic_games_store_growth_and_diversification_beyond_games.md): same source document (doc_0170)
+- [Data Breach](term_data_breach.md): uses the concept data breach
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

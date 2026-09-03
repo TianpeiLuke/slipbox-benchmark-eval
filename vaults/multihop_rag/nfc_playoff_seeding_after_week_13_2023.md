@@ -13,12 +13,18 @@ At No. 5 were the Cowboys (9-3), second place in the NFC East, who opened Week 1
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also discusses Brock Purdy, from a different document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also discusses Brock Purdy, from a different document.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): overlaps on the Vikings, the Packers and tiebreakers, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): shares the NFL and playoff-seeding themes, from a different document.
 - [Brock Purdy 49ers Career Trajectory](brock_purdy_49ers_career_trajectory.md): also discusses Brock Purdy and the Philadelphia Eagles, from a different document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): gives the AFC half of the same picture, from the same document.
+- [AFC Teams Outside The Playoff Field After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): same source document (doc_0040)
+- [NFC Teams Outside The Playoff Field After Week 13 2023](nfc_wild_card_hunt_after_week_13_2023.md): same source document (doc_0040)
+- [NFL Playoff Race Heading Out Of Week 13 Of The 2023 Season](nfl_2023_week_13_playoff_race_overview.md): same source document (doc_0040)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

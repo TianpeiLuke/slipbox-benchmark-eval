@@ -11,6 +11,7 @@ The groups include IMPALA, the trade association for European indie labels, and 
 
 ## Related Notes
 
+
 - [Spanish Language Music Global Growth](spanish_language_music_global_growth.md): overlaps on artist and label revenue across markets, from a different source document.
 - [Tiktok Music Discovery and Sharing Rates](tiktok_music_discovery_and_sharing_rates.md): shares vocabulary around artists, music and stated, from a different source document.
 - [AI Pricing Models](ai_pricing_models.md): overlaps on payment processor subject matter, from a different source document.
@@ -19,6 +20,13 @@ The groups include IMPALA, the trade association for European indie labels, and 
 - [Amot Investments Portfolio and War Scenario Assessment](amot_investments_portfolio_and_war_scenario_assessment.md): overlaps on payment processor subject matter, from a different source document.
 - [Antibody Drug Conjugates Market](antibody_drug_conjugates_market.md): overlaps on payment processor subject matter, from a different source document.
 - [Apple Versus Google Antitrust Conduct Contrast](apple_versus_google_antitrust_conduct_contrast.md): overlaps on payment processor subject matter, from a different source document.
+- [The CJEU's 2020 Ruling On The Rental/Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): same source document (doc_0361)
+- [The EU-US Asymmetry In Recorded Music Performance Rights](eu_us_performance_rights_asymmetry.md): same source document (doc_0361)
+- [IMPALA's Call For An EU Legislative Fix](impala_call_for_eu_legislative_fix.md): same source document (doc_0361)
+- [The Material Reciprocity Principle In Music Royalties](material_reciprocity_principle_music_royalties.md): same source document (doc_0361)
+- [The Netherlands' Reciprocity Withdrawal And Revenue Drop](netherlands_reciprocity_withdrawal_revenue_drop.md): same source document (doc_0361)
+- [The US Sound Recording Public Performance Right Gap](us_sound_recording_public_performance_right_gap.md): same source document (doc_0361)
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
 
 ## Source
 

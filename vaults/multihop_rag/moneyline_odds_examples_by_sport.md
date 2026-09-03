@@ -15,11 +15,22 @@ Combat sports, tennis and golf round out the pattern. A UFC fight between Conor 
 
 ## Related Notes
 
+
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): shares the NBA and betting-odds subject areas, from a different document.
 - [Bet365 Sportsbook US MLB Markets](bet365_sportsbook_us_mlb_markets.md): another baseball market priced in these odds, separately sourced.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): lists MLB and NBA markets of the kind priced here, in a different document.
 - [BetRivers Sportsbook Betting Markets](betrivers_sportsbook_betting_markets.md): another catalogue covering the same leagues, from a separate source.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): also spans MLB and NFL wagering, in a different document.
+- [The American Odds Format](american_odds_format.md): same source document (doc_0061)
+- [Favorites And Underdogs In Moneyline Odds](betting_favorites_and_underdogs.md): same source document (doc_0061)
+- [Fractional And Decimal Odds Formats](fractional_and_decimal_odds_formats.md): same source document (doc_0061)
+- [The Moneyline Bet](moneyline_bet_definition.md): same source document (doc_0061)
+- [Moneyline Outcomes: Win, Loss, Draw And Push](moneyline_bet_outcomes_win_loss_draw.md): same source document (doc_0061)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

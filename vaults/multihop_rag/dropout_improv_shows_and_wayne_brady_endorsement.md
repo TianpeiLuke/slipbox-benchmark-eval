@@ -13,6 +13,7 @@ Mulligan holds two positions at once. "When Wayne Brady says something like that
 
 ## Related Notes
 
+
 - [CollegeHumor's IAC Layoffs And Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): the break from IAC that made the unscripted pivot possible
 - [Digital Creator Jail And Anthology Formats](digital_creator_jail_and_anthology_formats.md): from the same Polygon interview
 - [Burrow's End: Dimension 20's Stoat Season](dimension_20_burrows_end_stoat_season.md): the Dimension 20 season discussed in the same interview
@@ -21,6 +22,7 @@ Mulligan holds two positions at once. "When Wayne Brady says something like that
 - [The Early Gigs Reich And Mulligan Came Up Through](reich_and_mulligan_early_performing_gigs.md): the improv background referenced here, from the same interview
 - [Sam Reich's Advice To Creators](sam_reich_advice_on_off_platform_business_models.md): from the same Polygon interview
 - [Very Important People, A Dropout Show](very_important_people_dropout_show.md): one of the improv-world shows announced in the same interview
+- [Why Dropout Retired The CollegeHumor Name](why_dropout_retired_the_collegehumor_name.md): same source document (doc_0586)
 
 ## Source
 

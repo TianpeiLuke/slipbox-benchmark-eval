@@ -11,6 +11,7 @@ The prospect of the new drugs has raised hopes that, after years of effort, scie
 
 ## Related Notes
 
+
 - [Biggest Concert Films' Box Office Records](biggest_concert_films_box_office_records.md): linked by shared vocabulary about accounting and millions rather than subject matter.
 - [Dementia Research Register and Trial Participation](dementia_research_register_and_trial_participation.md): another account of the scale of dementia in the UK.
 - [Robin Williams, Lewy Body Dementia and His 2014 Death](robin_williams_lewy_body_dementia_and_2014_death.md): another item on dementia and death.
@@ -19,6 +20,8 @@ The prospect of the new drugs has raised hopes that, after years of effort, scie
 - [Delayed Alzheimer's Diagnosis: Patient Cases](delayed_alzheimers_diagnosis_patient_cases.md): from the same article, on what the burden looks like for families.
 - [The First Drugs to Treat the Cause of Alzheimer's](first_drugs_to_treat_the_cause_of_alzheimers.md): from the same article, on the treatments now in prospect.
 - [Lecanemab and Donanemab: The Amyloid Drugs](lecanemab_and_donanemab_amyloid_drugs.md): from the same article, naming the drugs that raised these hopes.
+- [MHRA and NICE Approval Route and Drug Cost](mhra_and_nice_approval_route_and_drug_cost.md): same source document (doc_0427)
+- [The UK Dementia Diagnosis Bottleneck](uk_dementia_diagnosis_bottleneck.md): same source document (doc_0427)
 
 ## Source
 

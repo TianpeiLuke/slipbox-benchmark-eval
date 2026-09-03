@@ -11,11 +11,18 @@ The indictment also says there were special features in FTX's code that "permitt
 
 ## Related Notes
 
+
 - [Alameda's $65 Billion Line Of Credit At FTX](alameda_65_billion_line_of_credit_at_ftx.md): overlapping coverage of Bankman-Fried and Alameda's unlimited access, from a different source document.
 - [Alameda Research](alameda_research.md): overlapping coverage of Bankman-Fried and Alameda, from a different source document.
 - [Alameda Research As The Alleged Conduit For FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): overlapping coverage of Bankman-Fried, Alameda and customer funds, from a different source document.
 - [Alameda's Special Privileges In FTX Code](alameda_special_privileges_in_ftx_code.md): overlapping coverage of Bankman-Fried, Alameda and customer funds, from a different source document.
 - [Code Evidence Outweighs Deleted Signal Messages](code_evidence_outweighs_deleted_signal_messages.md): overlapping coverage of Bankman-Fried, Alameda and the trial, from a different source document.
+- [Bankman-Fried's Defense Strategy And Appeal Groundwork](bankman_fried_defense_strategy_and_appeal_groundwork.md): same source document (doc_0175)
+- [Bankman-Fried's Post-Bankruptcy Media Tour](bankman_fried_post_bankruptcy_media_tour.md): same source document (doc_0175)
+- [Bankman-Fried's Pre-Collapse Public Image Strategy](bankman_fried_pre_collapse_public_image_strategy.md): same source document (doc_0175)
+- [The FTX Trial's Stakes For The Wider Crypto Industry](ftx_trial_stakes_for_the_wider_crypto_industry.md): same source document (doc_0175)
+- [John J. Ray III Running The FTX Estate](john_ray_iii_running_the_ftx_estate.md): same source document (doc_0175)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

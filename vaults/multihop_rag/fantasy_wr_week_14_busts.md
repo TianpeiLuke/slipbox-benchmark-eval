@@ -13,6 +13,7 @@ Addison was likely to take a step back with Jefferson back in the fold, while th
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Drake London, from a different document.
 - [Bears Vikings MNF First Half](bears_vikings_mnf_first_half.md): also discusses Jordan Addison, from a different document.
 - [Bears Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): also discusses Jordan Addison, from a different document.
@@ -21,6 +22,8 @@ Addison was likely to take a step back with Jefferson back in the fold, while th
 - [Fantasy WR PPR Rankings Week 14 Full List](fantasy_wr_ppr_rankings_week_14_full_list.md): where these players land in the list, from the same document.
 - [Fantasy WR Week 14 Bye Week Impact](fantasy_wr_week_14_bye_week_impact.md): the byes shaping the same week, from the same document.
 - [Fantasy WR Week 14 Sleepers and Waiver Pickups](fantasy_wr_week_14_sleepers_and_waiver_pickups.md): the upgrades from the same article.
+- [Week 14 PPR Wide Receivers To Start](fantasy_wr_week_14_top_starts.md): same source document (doc_0197)
+- [Justin Jefferson's Week 14 Return From Injury](justin_jefferson_week_14_return_from_injury.md): same source document (doc_0197)
 
 ## Source
 

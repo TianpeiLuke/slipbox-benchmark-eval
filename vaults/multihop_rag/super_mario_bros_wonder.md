@@ -13,12 +13,18 @@ Polygon's 2023-10-20 couch co-op roundup adds the local multiplayer detail: Wond
 
 ## Related Notes
 
+
 - [Classic Nintendo Switch Franchise Picks](classic_nintendo_switch_franchise_picks.md): overlapping Mario and Switch subject matter from a different source document
 - [Kids' Toy and Playset Gifts 2023](kids_toy_and_playset_gifts_2023.md): both mention Super Mario Bros., from a separate article
 - [Nintendo Switch OLED Smash Bros Bundle Deal](nintendo_switch_oled_smash_bros_bundle_deal.md): overlapping Nintendo franchise vocabulary from a different document
 - [Nostalgia-Driven Major Game Releases 2023](nostalgia_driven_major_game_releases_2023.md): both cover Super Mario releases, from a separate source
 - [Prime Day Console and Controller Deals, October 2023](prime_day_console_and_controller_deals_october_2023.md): another Super Mario Bros. reference in a deals article
 - [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
+- [Amnesia: The Bunker](amnesia_the_bunker.md): same source document (doc_0213)
+- [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): same source document (doc_0213)
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

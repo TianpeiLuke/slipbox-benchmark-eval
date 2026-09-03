@@ -13,11 +13,18 @@ Forward Miguel Almiron was Paraguay's most prominent goalscoring threat and was 
 
 ## Related Notes
 
+
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): the result of the match this squad played.
 - [Argentina First Half Dominance vs Paraguay](argentina_first_half_dominance_vs_paraguay.md): also covers Carlos Coronel and Daniel Garnero.
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also discusses Lionel Messi and the team news.
 - [Argentina Second Half and Messi Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): also covers Carlos Coronel and Lionel Messi.
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): also concerns Inter Miami and Lionel Messi.
+- [Argentina's Squad And Starting XI Against Paraguay, October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): same source document (doc_0105)
+- [Argentina Host Paraguay At The Monumental In 2026 World Cup Qualifying](argentina_vs_paraguay_2026_world_cup_qualifier_preview.md): same source document (doc_0105)
+- [Where CONMEBOL 2026 Qualifiers Could And Could Not Be Watched](conmebol_2026_qualifying_broadcast_rights_and_channels.md): same source document (doc_0105)
+- [Messi's Four-Game Injury Absence And His 35-Minute Return](lionel_messi_2023_injury_absence_and_return.md): same source document (doc_0105)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

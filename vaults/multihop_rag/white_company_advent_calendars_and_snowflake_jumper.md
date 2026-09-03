@@ -11,6 +11,7 @@ The section frames these as part of the small rituals that make the season disti
 
 ## Related Notes
 
+
 - [AIF Sub Fund Strategies Available To HNIs](aif_sub_fund_strategies_available_to_hnis.md): a similarity-index neighbour on an unrelated shared feature
 - [AliveCor EKG Import Ban And The PTAB Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): another index-level match with no topical overlap
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): another shared-feature match from unrelated product coverage
@@ -19,6 +20,14 @@ The section frames these as part of the small rituals that make the season disti
 - [Bankman Fried Defense Strategy And Appeal Groundwork](bankman_fried_defense_strategy_and_appeal_groundwork.md): a further index-level neighbour with no topical connection
 - [Canada Jamaica Second Leg Second Half](canada_jamaica_second_leg_second_half.md): another shared-feature match from unrelated sports coverage
 - [Cranberry Air Pockets And Seed Dispersal](cranberry_air_pockets_and_seed_dispersal.md): another index-level neighbour from a different field
+- [The Little White Company's Children's Gifts And The Scent Stories Hamper](little_white_company_childrens_gifts_and_scent_hamper.md): same source document (doc_0068)
+- [The White Company's Christmas Range: Overview](the_white_company_christmas_range_overview.md): same source document (doc_0068)
+- [The White Company's Christmas Decorations And Winter Scents](white_company_christmas_decorations_and_winter_scents.md): same source document (doc_0068)
+- [The White Company's Entertaining Glassware And Serving Tray](white_company_entertaining_glassware_and_serving_tray.md): same source document (doc_0068)
+- [The White Company's Nightwear And Pre-Lit Christmas Tree](white_company_nightwear_and_pre_lit_christmas_tree.md): same source document (doc_0068)
+- [The White Company's Puffer Coat And Champagne Trug](white_company_puffer_coat_and_champagne_trug.md): same source document (doc_0068)
+- [The White Company's Relaxation Picks: Diffuser, Bed Socks And Throw](white_company_relaxation_diffuser_bed_socks_and_throw.md): same source document (doc_0068)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
 
 ## Source
 

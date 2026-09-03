@@ -11,6 +11,7 @@ Its formal signature is the long take: Climax is told in beautifully disorientin
 
 ## Related Notes
 
+
 - [Yellowjackets, Rebel Moon And Strife December Releases](yellowjackets_rebel_moon_and_strife_december_releases.md): also covers Sofia Boutella's work, in a different document
 - [Alone, 2020, John Hyams](alone_2020_john_hyams_film.md): another pick from the same Polygon horror guide
 - [Annihilation, 2018, Alex Garland](annihilation_2018_alex_garland_film.md): another pick from the same Polygon horror guide
@@ -19,6 +20,8 @@ Its formal signature is the long take: Climax is told in beautifully disorientin
 - [Encounters Of The Spooky Kind, Sammo Hung](encounters_of_the_spooky_kind_sammo_hung.md): another pick from the same Polygon horror guide
 - [Eyes Without A Face, Georges Franju](eyes_without_a_face_georges_franju.md): another pick from the same Polygon horror guide
 - [Hellraiser, 1987, Clive Barker](hellraiser_1987_clive_barker_film.md): another pick from the same Polygon horror guide
+- [Hereditary: A Family Drama That Becomes Terrifying](hereditary_2018_ari_aster_film.md): same source document (doc_0563)
+- [House: Nobuhiko Obayashi's Ghost Story Of Inventive Silliness](house_1977_nobuhiko_obayashi_film.md): same source document (doc_0563)
 
 ## Source
 

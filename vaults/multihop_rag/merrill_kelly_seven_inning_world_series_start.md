@@ -13,11 +13,18 @@ The outing was also historically unusual. As Tyler Kepner noted on October 29, 2
 
 ## Related Notes
 
+
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): also discusses the World Series, from a different document.
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): also discusses the World Series, from a different document.
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): also discusses the World Series, from a different document.
 - [Chase Field Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): also discusses the World Series, from a different document.
 - [Citizens Bank Park Philadelphia Phillies Postseason Atmosphere](citizens_bank_park_philadelphia_phillies_postseason_atmosphere.md): also discusses the World Series, from a different document.
+- [The Diamondbacks' Ninth-Inning Insurance Runs](diamondbacks_ninth_inning_insurance_runs.md): same source document (doc_0512)
+- [Diamondbacks Win World Series Game 2](diamondbacks_win_world_series_game_2.md): same source document (doc_0512)
+- [Kelly Finishes The Seventh And Saalfrank Holds Texas](kelly_finishes_seventh_and_saalfrank_holds_texas.md): same source document (doc_0512)
+- [The Rangers' Bullpen Collapse In The Eighth Inning](rangers_bullpen_collapse_in_the_eighth_inning.md): same source document (doc_0512)
+- [The Rangers' Final At-Bats In Game 2](rangers_final_at_bats_in_game_2.md): same source document (doc_0512)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

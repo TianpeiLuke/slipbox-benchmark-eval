@@ -13,6 +13,7 @@ The exclusions are specific. The current policy does not apply to products you b
 
 ## Related Notes
 
+
 - [Amazon Prime Holiday 2023 Delivery Cutoffs](amazon_prime_holiday_2023_delivery_cutoffs.md): overlaps on items and third-party sellers, from a different source document.
 - [Apple Store Credit and Gift Card Promotion, November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): overlaps on store and Amazon purchase terms, from a different source document.
 - [Holiday Price Matching Policies, 2023](holiday_price_matching_policies_2023.md): overlaps on Target and competitor matching, from a different source document.
@@ -21,6 +22,8 @@ The exclusions are specific. The current policy does not apply to products you b
 - [Amazon Price Matching and Return Policy](amazon_price_matching_and_return_policy.md): the competitor Target will match, same roundup (doc_0403).
 - [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): another policy in the same roundup (doc_0403).
 - [Best Buy Price Match Guarantee](best_buy_price_match_guarantee.md): the competitor named in Target's policy, same roundup (doc_0403).
+- [B&H Photo And Costco Price Adjustment](bh_photo_and_costco_price_adjustment.md): same source document (doc_0403)
+- [Dell Price Match Policy](dell_price_match_policy.md): same source document (doc_0403)
 
 ## Source
 

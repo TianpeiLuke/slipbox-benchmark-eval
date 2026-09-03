@@ -13,6 +13,7 @@ The boundary on those claims is verification. To be fully trusted, Beeper Mini w
 
 ## Related Notes
 
+
 - [Apple Blocks Beeper Mini iMessage Access](apple_blocks_beeper_mini_imessage_access.md): also covers Beeper Mini, from a different source document.
 - [Beeper Mini Service Restoration and Apple ID Workaround](beeper_mini_service_restoration_and_apple_id_workaround.md): also covers Beeper Mini, from a different source document.
 - [Beeper Security Audit Challenge to Apple](beeper_security_audit_challenge_to_apple.md): also covers Beeper Mini, from a different source document.
@@ -21,6 +22,9 @@ The boundary on those claims is verification. To be fully trusted, Beeper Mini w
 - [Beeper Company Background and Founders](beeper_company_background_and_founders.md): drawn from the same source document, doc_0540.
 - [Beeper Funding and Investors](beeper_funding_and_investors.md): drawn from the same source document, doc_0540.
 - [Beeper Mini Hands on Test Results](beeper_mini_hands_on_test_results.md): drawn from the same source document, doc_0540.
+- [Beeper Mini As An iMessage Client For Android](beeper_mini_imessage_client_for_android.md): same source document (doc_0540)
+- [Beeper's Open Source Transparency Effort](beeper_open_source_transparency_effort.md): same source document (doc_0540)
+- [Encryption at Rest](term_encryption_at_rest.md): uses the concept encryption at rest
 
 ## Source
 

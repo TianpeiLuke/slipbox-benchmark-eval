@@ -11,6 +11,7 @@ The first is for the country to graduate into upper middle-income class status w
 
 ## Related Notes
 
+
 - [Balanced Versus Deficit Budget In Philippine Fiscal Practice](balanced_versus_deficit_budget_in_philippine_fiscal_practice.md): also concerns the National Government's fiscal targets, from a different source document.
 - [Egypt Too Big To Fail Thesis](egypt_too_big_to_fail_thesis.md): also uses World Bank income measures for an emerging economy, from a different source document.
 - [Philippine National Government Budget Definition](philippine_national_government_budget_definition.md): also concerns the National Government's planning instruments, from a different source document.
@@ -19,6 +20,8 @@ The first is for the country to graduate into upper middle-income class status w
 - [Philippine Human Capital Institutions And Infrastructure](philippine_human_capital_institutions_and_infrastructure.md): drawn from the same article and covers the plan's three goals in detail.
 - [Philippine Inflation 2023 And Government Response](philippine_inflation_2023_and_government_response.md): drawn from the same article and covers the threat to the growth path.
 - [Philippine Investment Liberalisation And RCEP](philippine_investment_liberalisation_and_rcep.md): drawn from the same article and covers how the growth is to be achieved.
+- [The Private Sector's Role In Philippine Sustainable Development](private_sector_role_in_philippine_sustainable_development.md): same source document (doc_0410)
+- [Public Policy Objectives: Efficiency, Equity And Stability](public_policy_objectives_efficiency_equity_stability.md): same source document (doc_0410)
 
 ## Source
 

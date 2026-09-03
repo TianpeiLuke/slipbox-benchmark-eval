@@ -11,6 +11,7 @@ The boundary of the concept is the mix of charge types: the indictment paired su
 
 ## Related Notes
 
+
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): also concerns Sam Bankman-Fried, from a different source document.
 - [Alameda's Special Privileges in FTX's Code](alameda_special_privileges_in_ftx_code.md): also concerns Sam Bankman-Fried, from a different source document.
 - [Bolt SEC Probe](bolt_sec_probe.md): another Securities and Exchange Commission matter, from a different source document.
@@ -18,6 +19,11 @@ The boundary of the concept is the mix of charge types: the indictment paired su
 - [Coinbase Stock Rally, November 2023](coinbase_stock_rally_november_2023.md): also concerns Sam Bankman-Fried, from a different source document.
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): the conduct behind the misappropriation allegation (doc_0121).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): another strand of the alleged fraud (doc_0121).
+- [The Escalation Of Alameda's Negative Balance](alameda_negative_balance_escalation.md): same source document (doc_0121)
+- [Alameda Research's Origins And Naming](alameda_research_origins_and_naming.md): same source document (doc_0053)
+- [Can Sun's Testimony On Fabricated Justifications](can_sun_testimony_on_fabricated_justifications.md): same source document (doc_0121)
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

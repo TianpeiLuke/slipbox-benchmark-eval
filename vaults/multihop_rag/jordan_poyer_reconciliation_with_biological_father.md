@@ -13,6 +13,7 @@ Dunbar has done multiple stints in prison for violent crimes. In conversations a
 
 ## Related Notes
 
+
 - [Ayahuasca, the Psychedelic Brew](ayahuasca_psychedelic_brew.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Alcoholism and Sobriety](jordan_poyer_alcoholism_and_sobriety.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Ayahuasca Ceremony Experience](jordan_poyer_ayahuasca_ceremony_experience.md): drawn from the same document (doc_0322).
@@ -21,6 +22,8 @@ Dunbar has done multiple stints in prison for violent crimes. In conversations a
 - [Jordan Poyer's Football Performance After Ayahuasca](jordan_poyer_football_performance_after_ayahuasca.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Handpan and Sound Healing](jordan_poyer_handpan_and_sound_healing.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Marriage to Rachel Bush](jordan_poyer_marriage_to_rachel_bush.md): drawn from the same document (doc_0322).
+- [Jordan Poyer's Retreat At Resonance In Costa Rica](jordan_poyer_resonance_costa_rica_ayahuasca_retreat.md): same source document (doc_0322)
+- [Jordan Poyer's Search For Purpose And Improbable Career](jordan_poyer_search_for_purpose_and_improbable_career.md): same source document (doc_0322)
 
 ## Source
 

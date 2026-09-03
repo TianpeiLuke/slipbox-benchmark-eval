@@ -11,6 +11,7 @@ The record she points to undercuts the pro-worker premise of the attacks: when h
 
 ## Related Notes
 
+
 - [CFPB Funding Structure Supreme Court Challenge](cfpb_funding_structure_supreme_court_challenge.md): also concerns the Supreme Court, from a different source document.
 - [Epic's Fortnite Project Liberty Payment Bypass](epic_fortnite_project_liberty_payment_bypass.md): also concerns the Supreme Court, from a different source document.
 - [Epic V. Apple Ruling As Precedent](epic_v_apple_ruling_as_precedent.md): also concerns the Supreme Court, from a different source document.
@@ -19,6 +20,8 @@ The record she points to undercuts the pro-worker premise of the attacks: when h
 - [Biden's Picket Line Visit And EV Worker Messaging](biden_picket_line_visit_and_ev_worker_messaging.md): drawn from the same source document (doc_0319).
 - [EV Battery Plant Locations And Union Organizing](ev_battery_plant_locations_and_union_organizing.md): drawn from the same source document (doc_0319).
 - [EV Transition Momentum Despite Affordability Concerns](ev_transition_momentum_despite_affordability_concerns.md): drawn from the same source document (doc_0319).
+- [Pew Polling On American EV Purchase Intent](pew_polling_on_american_ev_purchase_intent.md): same source document (doc_0319)
+- [The Republican Effort To Make EVs A Political Wedge Issue](republican_effort_to_make_evs_a_political_wedge_issue.md): same source document (doc_0319)
 
 ## Source
 

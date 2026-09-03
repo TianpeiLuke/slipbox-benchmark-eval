@@ -13,6 +13,7 @@ There have been upsides: they spend a lot of quality time with her parents-in-la
 
 ## Related Notes
 
+
 - [Alexandra Moving Home At 37 And Solo Motherhood](alexandra_moving_home_at_37_and_solo_motherhood.md): same article, another adult back in a parental home
 - [Rachel Claire Photographer Returning To The Family Home](rachel_claire_photographer_returning_to_the_family_home.md): same article, a third case with a different motive
 - [Age Well Daily Habits For The Over Fifties](age_well_daily_habits_for_the_over_fifties.md): part of the same multigenerational grouping, different source
@@ -20,6 +21,7 @@ There have been upsides: they spend a lot of quality time with her parents-in-la
 - [Dementia Research Register And Trial Participation](dementia_research_register_and_trial_participation.md): part of the same ageing-parents grouping, different source
 - [Asx And Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): linked only by shared page furniture, unrelated subject
 - [Us Treasury Yields And Fed Rate Expectations October 2023](us_treasury_yields_and_fed_rate_expectations_october_2023.md): linked only by shared page furniture, unrelated subject
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

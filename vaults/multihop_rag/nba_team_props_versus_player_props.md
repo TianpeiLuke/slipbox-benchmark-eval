@@ -13,11 +13,17 @@ Player props, on the other hand, are driven by individual performance and focus 
 
 ## Related Notes
 
+
 - [Caesars Sportsbook MLB Markets](caesars_sportsbook_mlb_markets.md): the same individual-versus-team prop split in another sport, different source document
 - [College Football Bowl Betting Market Types](college_football_bowl_betting_market_types.md): another taxonomy of statistical and individual prop markets, different source document
 - [Drawbacks of Prop Bets](drawbacks_of_prop_bets.md): the downside of both prop categories, different source document
 - [Exotic Prop Bets](exotic_prop_bets.md): props that fall outside these two main types, different source document
 - [Frisco Bowl Player Prop Bets at BetMGM](frisco_bowl_player_prop_bets_at_betmgm.md): a worked example of the player-prop side, different source document
+- [NBA Prop Bets: Definition And Common Markets](nba_prop_bets_definition_and_common_markets.md): same source document (doc_0497)
+- [Three Strategy Tips For NBA Prop Betting](nba_prop_betting_strategy_tips.md): same source document (doc_0497)
+- [Opening And Funding An Online Sportsbook Account](opening_and_funding_an_online_sportsbook_account.md): same source document (doc_0497)
+- [Reading American Odds For NBA Props](reading_american_odds_for_nba_props.md): same source document (doc_0497)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

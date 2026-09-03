@@ -11,6 +11,7 @@ The Council also confirmed that the AI Act will not apply to systems exclusively
 
 ## Related Notes
 
+
 - [OpenAI Partnerships with Microsoft and Associated Press](openai_partnerships_with_microsoft_and_associated_press.md): substantial content overlap on agreement, systems, affect, from a different source document.
 - [Civil Society Criticism of EU AI Act Biometrics Limits](civil_society_criticism_of_eu_ai_act_biometrics_limits.md): drawn from the same source document, doc_0564.
 - [EU AI Act High Risk AI System Obligations](eu_ai_act_high_risk_ai_system_obligations.md): drawn from the same source document, doc_0564.
@@ -19,6 +20,8 @@ The Council also confirmed that the AI Act will not apply to systems exclusively
 - [EU AI Act Political Agreement December 2023](eu_ai_act_political_agreement_december_2023.md): drawn from the same source document, doc_0564.
 - [EU AI Act Prohibited AI Practices](eu_ai_act_prohibited_ai_practices.md): drawn from the same source document, doc_0564.
 - [EU AI Act Remote Biometric Identification Exceptions](eu_ai_act_remote_biometric_identification_exceptions.md): drawn from the same source document, doc_0564.
+- [EU AI Act Two-Tier Rules For General Purpose AI](eu_ai_act_two_tier_rules_for_general_purpose_ai.md): same source document (doc_0564)
+- [The EU AI Office And Its Scientific Advisory Panel](eu_ai_office_and_scientific_advisory_panel.md): same source document (doc_0564)
 
 ## Source
 

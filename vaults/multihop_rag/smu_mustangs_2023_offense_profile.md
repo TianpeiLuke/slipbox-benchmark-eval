@@ -13,6 +13,7 @@ The supporting cast was spread out. Receivers RJ Maryland and Jordan Hudson had 
 
 ## Related Notes
 
+
 - [Joe Burrow, Bengals Midseason MVP](joe_burrow_bengals_midseason_mvp.md): another quarterback production profile in yards and touchdowns, from a different document.
 - [Lamar Jackson, Ravens Midseason MVP](lamar_jackson_ravens_midseason_mvp.md): also builds a case from a four-game stretch of numbers, separately sourced.
 - [Rams 36-19 Browns, Week 13](rams_36_19_browns_week_13.md): another passing-yards-and-touchdowns account, in a different document.
@@ -21,6 +22,7 @@ The supporting cast was spread out. Receivers RJ Maryland and Jordan Hudson had 
 - [North Texas at SMU: The 2023 Matchup and Efficiency Picture](north_texas_smu_2023_matchup_and_efficiency.md): the matchup context, same source document.
 - [North Texas-SMU Against the Spread Pick](north_texas_smu_against_the_spread_pick.md): the betting conclusion, same source document.
 - [North Texas-SMU Game Prop Markets](north_texas_smu_game_prop_markets.md): the props on the same game, same source document.
+- [Preston Stone's Concussion Contingency](preston_stone_concussion_contingency.md): same source document (doc_0006)
 
 ## Source
 

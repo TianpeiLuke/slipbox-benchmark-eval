@@ -11,11 +11,18 @@ Two hours before the rescheduled quarterfinal, with the Canadian federation reel
 
 ## Related Notes
 
+
 - [World Series 2023 Broadcast Coverage](world_series_2023_broadcast_coverage.md): overlapping Sportsnet and Canadian broadcast content, from a different document.
 - [Canada-Jamaica Second Leg First Half](canada_jamaica_second_leg_first_half.md): the same tie's return leg, separately sourced.
 - [Canada-Jamaica Second Leg Kickoff and Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): the scheduling of that leg, in a different document.
 - [Canada-Jamaica Second Leg Result](canada_jamaica_second_leg_result.md): how the tie ended under the interim regime, from a separate source.
 - [Canada-Jamaica Second Leg Second Half](canada_jamaica_second_leg_second_half.md): more of that decisive match, in a different document.
+- [Canada's Path To Copa America 2024 Qualification](canada_copa_america_2024_qualification_path.md): same source document (doc_0157)
+- [How To Watch Jamaica vs Canada, First Leg](jamaica_canada_first_leg_broadcast.md): same source document (doc_0157)
+- [The First Half Of Jamaica 0-1 Canada](jamaica_canada_first_leg_first_half.md): same source document (doc_0157)
+- [The Rain Postponement Of Jamaica vs Canada](jamaica_canada_first_leg_rain_postponement.md): same source document (doc_0157)
+- [Canada Beat Jamaica 2-1 In The Nations League Quarterfinal First Leg](jamaica_canada_first_leg_result.md): same source document (doc_0157)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

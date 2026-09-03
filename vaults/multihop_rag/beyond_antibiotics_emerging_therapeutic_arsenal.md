@@ -11,6 +11,7 @@ The warrant joining the claim to that ground is the hope that these experimental
 
 ## Related Notes
 
+
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): another Live Science argument about which tools can end a disease threat.
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): another Live Science piece on the limits of a mainstay drug regime.
 - [Cannabis Use in Pregnancy: JAMA Study Findings](cannabis_use_in_pregnancy_jama_study_findings.md): another Live Science health report.
@@ -19,6 +20,8 @@ The warrant joining the claim to that ground is the hope that these experimental
 - [Antibiotic Stewardship Practices](antibiotic_stewardship_practices.md): from the same article, giving the interim measures this argument depends on.
 - [Bacteriophage Therapy Basics](bacteriophage_therapy_basics.md): from the same article, describing one member of the proposed arsenal.
 - [Brussels Airport Bombing Superbug Case](brussels_airport_bombing_superbug_case.md): from the same article, the case that motivates the argument.
+- [CRISPR-Based Antibacterial Therapy](crispr_based_antibacterial_therapy.md): same source document (doc_0566)
+- [The CRISPR-Cas System Mechanism](crispr_cas_system_mechanism.md): same source document (doc_0566)
 
 ## Source
 

@@ -13,10 +13,19 @@ He would make a $13M salary the following year, the final guaranteed season of h
 
 ## Related Notes
 
+
 - [MLB 2023 Offseason Starting Pitcher Trade Market](mlb_2023_offseason_starting_pitcher_trade_market.md): also concerns the White Sox, from a different document.
 - [Patrick Kane 2023 Free Agency Situation](patrick_kane_2023_free_agency_situation.md): shares the trade and free agency theme, from a different document.
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): another candidate on the same list, from the same document.
+- [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): same source document (doc_0118)
+- [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
+- [Christopher Morel Cubs Trade Candidacy](christopher_morel_cubs_trade_candidacy.md): same source document (doc_0118)
+- [Corbin Burnes And Willy Adames Brewers Trade Candidacy](corbin_burnes_willy_adames_brewers_trade_candidacy.md): same source document (doc_0118)
+- [Dylan Carlson Cardinals Trade Candidacy](dylan_carlson_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

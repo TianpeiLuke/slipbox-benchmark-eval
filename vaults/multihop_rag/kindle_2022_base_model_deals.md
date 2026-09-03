@@ -11,11 +11,20 @@ As of The Verge's October 16th, 2023 roundup, the ad-supported model had recentl
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery-and-charging deal theme, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery-and-charging deal theme, from a different source document.
 - [Amazon Kindle and Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): overlaps on the Kindle and Paperwhite models, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): overlaps on Amazon's latest Kindle models, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares the battery-and-charging theme, from a different source document.
+- [Kindle Kids 2022 Deals](kindle_kids_2022_deals.md): same source document (doc_0521)
+- [The Kindle Lineup And Ad-Supported Models](kindle_lineup_and_ad_supported_models.md): same source document (doc_0521)
+- [Kindle Oasis 2019 Deals](kindle_oasis_2019_deals.md): same source document (doc_0521)
+- [Kindle Paperwhite 2021 Deals](kindle_paperwhite_2021_deals.md): same source document (doc_0521)
+- [Kindle Scribe Deals](kindle_scribe_deals.md): same source document (doc_0521)
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

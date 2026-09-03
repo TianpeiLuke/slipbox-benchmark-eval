@@ -11,11 +11,18 @@ Ryan Sturgill, an American national and former head of the Gaza Sky Geeks (GSG) 
 
 ## Related Notes
 
+
 - [Gaza Sky Geeks Accelerator](gaza_sky_geeks_accelerator.md): same source document; the institution whose building was destroyed.
 - [Israel-Hamas War Context, October 2023](israel_hamas_war_october_2023_context.md): same source document; the military operation causing the destruction.
 - [Gaza As A Tech Outsourcing Hub](gaza_tech_outsourcing_hub.md): same source document; the ecosystem being lost.
 - [Dalia Awad's Gaza Engineer Account](dalia_awad_gaza_engineer_account.md): same source document; a personal account of the same bombardment.
 - [Gaza Humanitarian Crisis, October 2023 Supply Cutoff](gaza_humanitarian_crisis_october_2023_supply_cutoff.md): overlaps in content on Gaza's dire conditions and the north, from a different source document.
+- [Gaza Tech Workers' Connectivity Collapse](gaza_tech_workers_connectivity_collapse.md): same source document (doc_0598)
+- [Manara's Assessment Of The Gaza Tech Sector](manara_assessment_of_gaza_tech_sector.md): same source document (doc_0598)
+- [Mohammad Alnobani And The Middle Frame's Displacement](mohammad_alnobani_middle_frame_displacement.md): same source document (doc_0598)
+- [Palestinian Tech Ecosystem Growth Before The War](palestinian_tech_ecosystem_growth_before_the_war.md): same source document (doc_0598)
+- [West Bank Tech Activity Freeze](west_bank_tech_activity_freeze.md): same source document (doc_0598)
+- [Celebrity Endorsement](term_celebrity_endorsement.md): uses the concept celebrity endorsement
 
 ## Source
 

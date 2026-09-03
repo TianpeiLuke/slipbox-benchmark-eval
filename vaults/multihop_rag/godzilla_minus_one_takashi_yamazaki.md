@@ -13,6 +13,7 @@ Its hero, Koichi Shikishima, is a kamikaze pilot who, in the final days of the w
 
 ## Related Notes
 
+
 - [December 2023 Box Office Weekend Slowdown](december_2023_box_office_weekend_slowdown.md): tracks the same film's commercial performance, from a different source document
 - [Godzilla Minus One US Opening](godzilla_minus_one_us_opening.md): covers the same film and lead actor in a separate article
 - [US Weekend Box Office Top Ten, December 2023](us_weekend_box_office_top_ten_december_2023.md): another document following the film's box office run
@@ -21,6 +22,8 @@ Its hero, Koichi Shikishima, is a kamikaze pilot who, in the final days of the w
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
 - [Barbenheimer Summer 2023 Phenomenon](barbenheimer_summer_2023_phenomenon.md): the year-in-review framing published with this list
 - [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): another entry from the same ranked list
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): same source document (doc_0094)
+- [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): same source document (doc_0094)
 
 ## Source
 

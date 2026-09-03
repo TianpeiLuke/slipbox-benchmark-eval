@@ -11,12 +11,18 @@ Adobe and Salesforce were actively tracking sales for Thanksgiving, Black Friday
 
 ## Related Notes
 
+
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): also covers Cyber Weekend, from a different source document.
 - [Black Friday 2023 Dates and Retailer Schedules](black_friday_2023_dates_and_retailer_schedules.md): substantial content overlap on holiday, online, black, from a different source document.
 - [Black Friday 2023 Headphone Deals Overview](black_friday_2023_headphone_deals_overview.md): substantial content overlap on holiday, black, friday, from a different source document.
 - [Deals Continue after Black Friday](deals_continue_after_black_friday.md): substantial content overlap on black, friday, cyber, from a different source document.
 - [Nike Greater China Sales Recovery](nike_greater_china_sales_recovery.md): substantial content overlap on sales, billion, period, from a different source document.
 - [Adobe Analytics and Salesforce Measurement Methodology](adobe_analytics_and_salesforce_measurement_methodology.md): drawn from the same source document, doc_0450.
+- [Buy Now Pay Later Usage On Thanksgiving 2023](buy_now_pay_later_usage_on_thanksgiving_2023.md): same source document (doc_0450)
+- [Holiday Discounting As The Driver Of 2023 Online Spend](holiday_discounting_as_driver_of_2023_online_spend.md): same source document (doc_0450)
+- [Mobile's Share Of Thanksgiving 2023 E-Commerce](mobile_share_of_thanksgiving_2023_ecommerce.md): same source document (doc_0450)
+- [Thanksgiving 2023 Online Sales Figures](thanksgiving_2023_online_sales_figures.md): same source document (doc_0450)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

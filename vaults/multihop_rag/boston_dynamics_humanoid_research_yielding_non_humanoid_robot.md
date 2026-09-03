@@ -11,6 +11,7 @@ Marc Raibert challenges the assumption that humanoid research must produce a hum
 
 ## Related Notes
 
+
 - [Boston Dynamics AI Institute Research Pillars](boston_dynamics_ai_institute_research_pillars.md): also concerns Boston Dynamics, from a different source document.
 - [Boston Dynamics' View On Generative AI In Robotics](boston_dynamics_view_on_generative_ai_in_robotics.md): also concerns Boston Dynamics, from a different source document.
 - [Boston Dynamics' View On The Humanoid Form Factor](boston_dynamics_view_on_humanoid_form_factor.md): overlapping coverage of the humanoid form and box handling, from a different source document.
@@ -19,6 +20,8 @@ Marc Raibert challenges the assumption that humanoid research must produce a hum
 - [Agility Robotics' Digit Warehouse Robot](agility_robotics_digit_warehouse_robot.md): drawn from the same source document (doc_0421).
 - [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): drawn from the same source document (doc_0421).
 - [Amazon's Testing Of Digit In Warehouses](amazon_testing_of_digit_in_warehouses.md): drawn from the same source document (doc_0421).
+- [Dexterity And World Understanding As The Hardest Robotics Problem](dexterity_and_world_understanding_as_hardest_robotics_problem.md): same source document (doc_0421)
+- [Figure AI's Purist Humanoid Market Thesis](figure_ai_purist_humanoid_market_thesis.md): same source document (doc_0421)
 
 ## Source
 

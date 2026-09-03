@@ -11,11 +11,18 @@ The warrant for optimism is the private sector's role as an important catalyst f
 
 ## Related Notes
 
+
 - [AI Worker Protections And Federal AI Hiring](ai_worker_protections_and_federal_ai_hiring.md): shares the government programs and development framing, from a different source document.
 - [Balanced Versus Deficit Budget In Philippine Fiscal Practice](balanced_versus_deficit_budget_in_philippine_fiscal_practice.md): also concerns the National Government's role in the economy, from a different source document.
 - [Israeli Post War Economic Rehabilitation Planning Proposal](israeli_post_war_economic_rehabilitation_planning_proposal.md): concerns the private sector's role in economic recovery, from a different source document.
 - [Philippine National Government Budget Definition](philippine_national_government_budget_definition.md): also concerns the National Government's fiscal instruments, from a different source document.
 - [Policy Inconsistency Signal To Climate Tech](policy_inconsistency_signal_to_climate_tech.md): concerns how policy shapes private climate investment, from a different source document.
+- [The Philippine Climate Resilience Strategy](philippine_climate_resilience_strategy.md): same source document (doc_0410)
+- [Philippine Debt And The Case For Fiscal Consolidation](philippine_debt_and_fiscal_consolidation.md): same source document (doc_0410)
+- [Philippine Development Plan 2023-2028 Targets](philippine_development_plan_2023_2028_targets.md): same source document (doc_0410)
+- [Human Capital, Institutions And Infrastructure In The Philippine Plan](philippine_human_capital_institutions_and_infrastructure.md): same source document (doc_0410)
+- [Philippine Inflation In 2023 And The Government Response](philippine_inflation_2023_and_government_response.md): same source document (doc_0410)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

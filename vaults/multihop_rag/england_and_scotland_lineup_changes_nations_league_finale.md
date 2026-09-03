@@ -11,6 +11,7 @@ The changes were made to the side that had come from two goals down to earn Frid
 
 ## Related Notes
 
+
 - [Belgium-England Lineups and Referee, October 2023](belgium_england_lineups_and_referee_october_2023.md): also covers Esme Morgan and Jess Carter, from a different document.
 - [Belgium-England Second Half and the Wullaert Penalty](belgium_england_second_half_and_wullaert_penalty.md): also covers Jess Carter, from a different document.
 - [Belgium-England Women's Nations League Result, October 2023](belgium_england_womens_nations_league_result_october_2023.md): covers the same group involving England, Belgium and the Netherlands, from a different document.
@@ -19,6 +20,7 @@ The changes were made to the side that had come from two goals down to earn Frid
 - [England 6-0 Scotland at Hampden: Match Report](england_6_0_scotland_hampden_match_report.md): covers the match these lineups played, from the same document.
 - [England's Defensive Brittleness and Dropped Points](england_lionesses_defensive_brittleness_and_dropped_points.md): covers the selection questions behind these changes, from the same document.
 - [England's Olympic Qualification Heartbreak](england_lionesses_olympic_qualification_heartbreak.md): gives the outcome of this final round, from the same document.
+- [The Scotland Commitment Row And The Gulf In Class](scotland_commitment_row_and_gulf_in_class.md): same source document (doc_0184)
 
 ## Source
 

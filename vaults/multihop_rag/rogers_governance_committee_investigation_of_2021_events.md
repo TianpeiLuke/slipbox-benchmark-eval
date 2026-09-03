@@ -11,6 +11,7 @@ The stakes for her are explicit. "The investigation is intended to inform decisi
 
 ## Related Notes
 
+
 - [Amazon Marketplace Foreclosure Theory Of Harm](amazon_marketplace_foreclosure_theory_of_harm.md): shares the regulatory-investigation theme from a different source document.
 - [Astros Players' Immunity And Mike Fiers](astros_players_immunity_and_mike_fiers.md): shares the investigation theme from a different source document.
 - [BG3 Warlock Hit Points And Proficiencies](bg3_warlock_hit_points_and_proficiencies.md): shares an investigation-and-review theme from a different source document.
@@ -19,6 +20,13 @@ The stakes for her are explicit. "The investigation is intended to inform decisi
 - [Bolt SEC Probe](bolt_sec_probe.md): shares the regulatory-investigation theme from a different source document.
 - [The Case That Michigan Sign-Stealing Was Systematic Cheating](case_that_michigan_sign_stealing_was_systematic_cheating.md): shares the investigation theme from a different source document.
 - [China Tech Crackdown Investor Exit Risk](china_tech_crackdown_investor_exit_risk.md): shares the regulatory-investigation theme from a different source document.
+- [Rogers Communications Company Profile](rogers_communications_company_profile.md): same source document (doc_0156)
+- [Rogers Communications' Rebuttal On Information Access](rogers_communications_rebuttal_on_information_access.md): same source document (doc_0156)
+- [The Rogers Control Trust And Family Power Shifts](rogers_control_trust_and_family_power_shifts.md): same source document (doc_0156)
+- [The Rogers Family Boardroom Battle Of 2021](rogers_family_boardroom_battle_2021.md): same source document (doc_0156)
+- [The Rogers Family Truce During The Shaw Takeover](rogers_family_truce_during_shaw_takeover.md): same source document (doc_0156)
+- [The Rogers Sisters' Oppression Lawsuit Of 2023](rogers_sisters_oppression_lawsuit_2023.md): same source document (doc_0156)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
 
 ## Source
 

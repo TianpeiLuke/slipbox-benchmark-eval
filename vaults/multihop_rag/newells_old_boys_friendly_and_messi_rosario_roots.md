@@ -13,11 +13,18 @@ Both men are from the city of Rosario, where Newell's are based. Messi developed
 
 ## Related Notes
 
+
 - [Champions League 2023-24 Group G: Man City, Leipzig](champions_league_2023_24_group_g_man_city_leipzig.md): shares vocabulary around clubs and games played, from a different document.
 - [Chicago Fire 4-1 Inter Miami October 2023 Recap](chicago_fire_4_1_inter_miami_october_2023_recap.md): also discusses Inter Miami, from a different document.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): also discusses Inter Miami, from a different document.
 - [Chicago Fire Inter Miami Second Half Live Blog](chicago_fire_inter_miami_second_half_live_blog.md): also discusses Inter Miami, from a different document.
 - [Chicago Fire Inter Miami Team News and Match Outlook](chicago_fire_inter_miami_team_news_and_match_outlook.md): also discusses Inter Miami, from a different document.
+- [The Cancelled China Tour And The NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): same source document (doc_0535)
+- [Inter Miami's 2024 Preseason Fixture List](inter_miami_2024_preseason_fixture_list.md): same source document (doc_0535)
+- [Inter Miami's Friendly Against El Salvador](inter_miami_friendly_against_el_salvador.md): same source document (doc_0535)
+- [Inter Miami's Hong Kong Leg Of The Asia Tour](inter_miami_hong_kong_leg_of_asia_tour.md): same source document (doc_0535)
+- [Inter Miami vs Vissel Kobe In Tokyo](inter_miami_vs_vissel_kobe_in_tokyo.md): same source document (doc_0535)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

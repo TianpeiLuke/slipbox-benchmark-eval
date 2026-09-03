@@ -15,11 +15,17 @@ At the start of a new character, complete three dungeons first to collect their 
 
 ## Related Notes
 
+
 - [BG3: Barbarian Class and Subclasses](bg3_barbarian_class_and_subclasses.md): covers berserker-style barbarian builds in a different game, from a separate source document
 - [Diablo 4 Sorcerer Leveling Build](diablo_4_sorcerer_leveling_build.md): the Sorcerer counterpart to this leveling procedure, sharing the Primary Resource Aspect
 - [Diablo 4 Sorcerer Class](diablo_4_sorcerer_class.md): the class overview for the other build family in this sub-plan
 - [Diablo 4 Sorcerer Element Build Archetypes](diablo_4_sorcerer_element_build_archetypes.md): the Sorcerer build-archetype model from the same sub-plan
 - [Diablo 4 Sorcerer Firewall Endgame Build](diablo_4_sorcerer_firewall_endgame_build.md): the Sorcerer endgame build from the same sub-plan
+- [The Barbarian Class in Diablo 4](diablo_4_barbarian_class.md): same source document (doc_0123)
+- [Diablo 4 Barbarian Double Swing Endgame Build](diablo_4_barbarian_double_swing_endgame_build.md): same source document (doc_0123)
+- [Diablo 4 Barbarian Key Passive Build Archetypes](diablo_4_barbarian_key_passive_build_archetypes.md): same source document (doc_0123)
+- [Diablo 4 Season 2 Vampiric Powers](diablo_4_season_2_vampiric_powers.md): same source document (doc_0123)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

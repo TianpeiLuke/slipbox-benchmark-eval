@@ -11,6 +11,7 @@ He applied the same logic to advertising. "Creating a great audio ad is somethin
 
 ## Related Notes
 
+
 - [Roblox's Three AI Clouds](roblox_three_ai_clouds.md): shares the generative-AI and machine-translation themes, from a different source document.
 - [Adobe's Generative AI Tools](adobe_generative_ai_tools.md): shares the generative-AI theme, from a different source document.
 - [AI Copyright and Training Disputes](ai_copyright_and_training_disputes.md): shares the generative-AI theme, from a different source document.
@@ -19,6 +20,11 @@ He applied the same logic to advertising. "Creating a great audio ad is somethin
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the generative-AI theme, from a different source document.
 - [AI Training Fails the Fair Use Test](ai_training_fails_fair_use_test.md): shares the generative-AI theme, from a different source document.
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the generative-AI theme, from a different source document.
+- [The Most-Searched Podcasts Ranking](most_searched_podcasts_ranking.md): same source document (doc_0461)
+- [Spotify's Podcast Business Efficiency Pivot](spotify_podcast_business_efficiency_pivot.md): same source document (doc_0461)
+- [Wondery Podcasts On Freevee](wondery_podcasts_on_freevee.md): same source document (doc_0461)
+- [Machine Translation](term_machine_translation.md): uses the concept machine translation
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
 
 ## Source
 

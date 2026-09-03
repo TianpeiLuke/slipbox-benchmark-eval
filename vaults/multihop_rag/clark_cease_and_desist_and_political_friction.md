@@ -11,11 +11,20 @@ Clark's camp suggested other factors may have led to the abrupt firing, among th
 
 ## Related Notes
 
+
 - [AI Risk Paradox Among Tech Billionaires](ai_risk_paradox_among_tech_billionaires.md): also discusses Peter Thiel, from a different source document.
 - [Fifth Third Bank Relationship Eligibility Requirement](fifth_third_bank_relationship_eligibility_requirement.md): also discusses West Virginia, from a different source document.
 - [Flexport Leadership Change and Layoffs](flexport_leadership_change_and_layoffs.md): also discusses Ryan Petersen, from a different source document.
 - [Flexport Leadership Turmoil](flexport_leadership_turmoil.md): another account of the same episode, from a different source document.
 - [FTX Inner Circle Family and Friends Implicated](ftx_inner_circle_family_and_friends_implicated.md): overlaps on board governance, lobbying political donations subject matter, from a different source document.
+- [Dave Clark's Hiring And Flexport's IPO Plan](dave_clark_hiring_and_flexport_ipo_plan.md): same source document (doc_0536)
+- [Dave Clark's Ouster From Flexport](dave_clark_ouster_from_flexport.md): same source document (doc_0536)
+- [Flexport's Board Composition](flexport_board_composition.md): same source document (doc_0536)
+- [The Flexport Forecast Dispute And The Contested Whistleblower Claim](flexport_forecast_dispute_and_whistleblower_claim.md): same source document (doc_0536)
+- [Flexport Versus Amazon In End-To-End Supply Chain Services](flexport_versus_amazon_supply_chain_service.md): same source document (doc_0536)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Board Governance](term_board_governance.md): uses the concept board governance
 
 ## Source
 

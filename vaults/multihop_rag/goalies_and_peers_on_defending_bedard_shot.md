@@ -13,11 +13,18 @@ Blackhawks goalie Arvid Söderblom would certainly call Bedard a shooter. He and
 
 ## Related Notes
 
+
 - [Blackhawks-Penguins 2023 First Period Rust Opener](blackhawks_penguins_2023_first_period_rust_opener.md): also discusses Petr Mrazek, from a different document.
 - [Blackhawks-Penguins 2023 Opening Night Lineups](blackhawks_penguins_2023_opening_night_lineups.md): also discusses the Seattle Thunderbirds, from a different document.
 - [Blackhawks-Penguins 2023 Second Period: Bedard's First Point](blackhawks_penguins_2023_second_period_bedard_first_point.md): also discusses Petr Mrazek, from a different document.
 - [Connor Bedard's Debut Performance And Pregame Scenes](connor_bedard_debut_performance_and_pregame_scenes.md): covers the same player's shot in his first NHL game, from a different document.
 - [Patrick Kane's Buffalo Sabres Fit](patrick_kane_buffalo_sabres_fit.md): also concerns the Sabres and Blackhawks, the clubs of the players quoted here, from a different document.
+- [Connor Bedard's Rookie Adjustment With The Blackhawks](connor_bedard_rookie_adjustment_with_the_blackhawks.md): same source document (doc_0102)
+- [Connor Bedard's Shooting Practice Habits](connor_bedard_shooting_practice_habits.md): same source document (doc_0102)
+- [The Mechanics Of Connor Bedard's Shot](connor_bedard_shot_mechanics_toe_drag_release.md): same source document (doc_0102)
+- [Scepticism About Bedard's Shooting Style At NHL Level](scepticism_about_bedard_shooting_style_at_nhl_level.md): same source document (doc_0102)
+- [Tim Turk's First Evaluation Of Connor Bedard](tim_turk_first_evaluation_of_connor_bedard.md): same source document (doc_0102)
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

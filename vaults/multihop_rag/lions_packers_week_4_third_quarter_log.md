@@ -11,6 +11,7 @@ At 10:15 p.m. the Green Bay defense firmed up, forcing yet another punt, raising
 
 ## Related Notes
 
+
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also covers Green Bay, from a different source document.
 - [Chiefs Packers Week 13 Broadcast and Kickoff Details](chiefs_packers_week_13_broadcast_and_kickoff_details.md): also covers Green Bay, from a different source document.
 - [Chiefs Packers Week 13 First Half Sequence](chiefs_packers_week_13_first_half_sequence.md): also covers Green Bay, from a different source document.
@@ -19,6 +20,8 @@ At 10:15 p.m. the Green Bay defense firmed up, forcing yet another punt, raising
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): draws on the same live coverage (doc_0282).
 - [Lions Defeat Packers Week 4 2023 Recap](lions_defeat_packers_week_4_2023_recap.md): the summary of this game (doc_0282).
 - [Lions Packers Week 4 Broadcast and Streaming Details](lions_packers_week_4_broadcast_and_streaming_details.md): the broadcast details for this game (doc_0282).
+- [Lions-Packers Week 4: Pregame And First-Half Log](lions_packers_week_4_first_half_and_pregame_log.md): same source document (doc_0282)
+- [Lions-Packers Week 4: Fourth Quarter Log](lions_packers_week_4_fourth_quarter_log.md): same source document (doc_0282)
 
 ## Source
 

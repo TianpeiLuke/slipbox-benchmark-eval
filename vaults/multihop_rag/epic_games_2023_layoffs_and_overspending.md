@@ -11,6 +11,7 @@ CEO Tim Sweeney gave the reason in his note about the layoffs: "For a while now,
 
 ## Related Notes
 
+
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs and restructuring themes, from a different source document.
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): also concerns Epic Games, from a different source document.
 - [Android App Distribution Market Definition](android_app_distribution_market_definition.md): also concerns Tim Sweeney, from a different source document.
@@ -18,6 +19,10 @@ CEO Tim Sweeney gave the reason in his note about the layoffs: "For a while now,
 - [CollegeHumor's IAC Layoffs And Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares the layoffs and restructuring themes, from a different source document.
 - [Activision Blizzard Union Stalling And Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): drawn from the same source document (doc_0050).
 - [Activision, Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): drawn from the same source document (doc_0170).
+- [Apple Versus Google: A Contrast In Antitrust Conduct](apple_versus_google_antitrust_conduct_contrast.md): same source document (doc_0170)
+- [Consolidation Leaves Studios Vulnerable To Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): same source document (doc_0050)
+- [The Costs Of Relinquishing Independence After Acquisition](costs_of_relinquishing_independence_after_acquisition.md): same source document (doc_0050)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
 
 ## Source
 

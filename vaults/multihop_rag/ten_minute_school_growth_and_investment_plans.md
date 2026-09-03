@@ -11,9 +11,13 @@ A second major area of investment is content matched to Bangladesh's evolving K1
 
 ## Related Notes
 
+
 - [10 Minute School (10MS)](ten_minute_school_bangladesh_edtech.md): same source document; the existing product surface these investments extend.
 - [Ayman Sadiq And The Origin Of 10 Minute School](ayman_sadiq_ten_minute_school_origin.md): same source document; the earlier monetization pivot that made this expansion possible.
 - [Bangladesh K12 Education Access Gap](bangladesh_k12_education_access_gap.md): same source document; the access problem the AI-personalization plan targets.
+- [Shikho, A Bangladeshi Edtech Competitor](shikho_bangladesh_edtech_competitor.md): same source document (doc_0458)
+- [10 Minute School's Pre-Series A Investor Syndicate](ten_minute_school_pre_series_a_funding_round.md): same source document (doc_0458)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

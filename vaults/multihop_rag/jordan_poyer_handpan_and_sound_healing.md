@@ -13,6 +13,7 @@ The change it marks is illustrated at home. Not long ago Rachel returned home at
 
 ## Related Notes
 
+
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also concerns Jordan Poyer, from a different document.
 - [Bills Bengals SNF Third Quarter](bills_bengals_snf_third_quarter.md): also concerns Jordan Poyer, from a different document.
 - [Canada's Copa America 2024 Qualification Path](canada_copa_america_2024_qualification_path.md): also concerns Costa Rica, from a different document.
@@ -21,6 +22,8 @@ The change it marks is illustrated at home. Not long ago Rachel returned home at
 - [Jordan Poyer's Alcoholism and Sobriety](jordan_poyer_alcoholism_and_sobriety.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Ayahuasca Ceremony Experience](jordan_poyer_ayahuasca_ceremony_experience.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Contract Status and Post-Career Plans](jordan_poyer_contract_status_and_post_career_plans.md): drawn from the same document (doc_0322).
+- [Jordan Poyer's Ego And Perspective Shift](jordan_poyer_ego_and_perspective_shift.md): same source document (doc_0322)
+- [Jordan Poyer's Football Performance After Ayahuasca](jordan_poyer_football_performance_after_ayahuasca.md): same source document (doc_0322)
 
 ## Source
 

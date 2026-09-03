@@ -11,12 +11,18 @@ The structural relations are these. No one expected "Renaissance" to match "The 
 
 ## Related Notes
 
+
 - [All You Had to do Was Stay Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): also discusses Taylor Swift, from a different source document.
 - [American Pie Billboard Record and Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): another treatment of Taylor Swift's commercial records, from a different source document.
 - [Backlash to Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): also concerns the Eras Tour period, from a different source document.
 - [Backlash to Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also discusses Taylor Swift, from a different source document.
 - [Bad Blood Taylor Swift Katy Perry Feud](bad_blood_taylor_swift_katy_perry_feud.md): also discusses Taylor Swift, from a different source document.
 - [AMC Theatres Direct Distribution of Concert Films](amc_theatres_direct_distribution_of_concert_films.md): the shared distribution model behind both films (doc_0173).
+- [The Early December 2023 Box Office Slowdown](december_2023_box_office_weekend_slowdown.md): same source document (doc_0173)
+- ["Godzilla Minus One" Takes Third With $11 Million](godzilla_minus_one_us_opening.md): same source document (doc_0173)
+- [Holdover Performance Of Hunger Games, Trolls, Wish And Napoleon](hunger_games_trolls_wish_napoleon_holdovers.md): same source document (doc_0173)
+- ["Renaissance: A Film by Beyoncé" Opens At $21 Million](renaissance_beyonce_concert_film_opening.md): same source document (doc_0173)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

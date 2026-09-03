@@ -13,6 +13,7 @@ The Independent's separate luxury round-up (13 October 2023) frames the same res
 
 ## Related Notes
 
+
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): also discusses North America, in a different document
 - [Aging With HIV And The Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): also discusses North America, from a different source
 - [The Case Against Supersized Electric Vehicles](case_against_supersized_electric_vehicles.md): also discusses North America, from a different source
@@ -21,6 +22,8 @@ The Independent's separate luxury round-up (13 October 2023) frames the same res
 - [Big White Ski Resort, British Columbia](big_white_ski_resort_british_columbia.md): another Canadian resort from the same guide
 - [Why Canada Belongs On A Skier's Bucket List](canada_ski_holidays_overview.md): the overview that names Whistler as the headline resort
 - [Fernie Alpine Ski Resort](fernie_alpine_ski_resort.md): another Canadian resort from the same guide
+- [Lake Louise: The Largest Banff Resort, With Mount Assiniboine Views](lake_louise_ski_resort_banff.md): same source document (doc_0572)
+- [Lech: The White Ring Circuit And Almost Guaranteed Snow](lech_austria_ski_resort.md): same source document (doc_0573)
 
 ## Source
 

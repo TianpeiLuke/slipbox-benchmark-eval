@@ -11,6 +11,7 @@ Both figures are revisions to previously believed numbers rather than growth eve
 
 ## Related Notes
 
+
 - [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): overlaps on Mastodon, Twitter and platform coverage, from a different source document.
 - [The Fediverse And The ActivityPub Protocol](fediverse_activitypub_protocol.md): overlaps on Mastodon and on Sarah's fediverse reporting, from a different source document.
 - [Flipboard's Path To The Fediverse](flipboard_path_to_the_fediverse.md): overlaps on Mastodon, Twitter and social platforms, from a different source document.
@@ -19,6 +20,8 @@ Both figures are revisions to previously believed numbers rather than growth eve
 - [Adobe's Firefly Generative AI Tools And Project Stardust](adobe_generative_ai_tools.md): drawn from the same source document (doc_0043).
 - [AI Day Of Action Campaign](ai_day_of_action_campaign.md): drawn from the same source document (doc_0043).
 - [Brave Software Lays Off 9% Of Its Workforce](brave_software_layoffs.md): drawn from the same source document (doc_0043).
+- [Meta Quest 3 And The Affordable End Of AR/VR Hardware](consumer_ar_vr_hardware.md): same source document (doc_0043)
+- [Creator Economy Sustainability And Creator Venture Capital](creator_economy_sustainability.md): same source document (doc_0043)
 
 ## Source
 

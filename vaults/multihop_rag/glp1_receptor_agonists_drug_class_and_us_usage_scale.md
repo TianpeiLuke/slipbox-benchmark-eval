@@ -13,6 +13,7 @@ The scale of use is what makes the class's side-effect profile consequential. Th
 
 ## Related Notes
 
+
 - [GLP-1 Receptor Agonists Diabetes and Weight Loss](glp1_receptor_agonists_diabetes_and_weight_loss.md): overlapping vocabulary on diabetes, agonists, glp-1, from a different source document.
 - [Cardiovascular Benefits Outweigh GLP-1 GI Risks](cardiovascular_benefits_outweigh_glp1_gi_risks.md): drawn from the same source document (doc_0066).
 - [Case for Adding Gastroparesis to GLP-1 Warning Labels](case_for_adding_gastroparesis_to_glp1_warning_labels.md): drawn from the same source document (doc_0066).
@@ -21,6 +22,8 @@ The scale of use is what makes the class's side-effect profile consequential. Th
 - [Limitations of the UBC GLP-1 Claims Analysis](limitations_of_the_ubc_glp1_claims_analysis.md): drawn from the same source document (doc_0066).
 - [Louisiana Lawsuit over Ozempic and Mounjaro GI Injuries](louisiana_lawsuit_over_ozempic_and_mounjaro_gi_injuries.md): drawn from the same source document (doc_0066).
 - [Novo Nordisk Response to GLP-1 Gastroparesis Findings](novo_nordisk_response_to_glp1_gastroparesis_findings.md): drawn from the same source document (doc_0066).
+- [Whether Gastroparesis Persists After Stopping GLP-1 Drugs](persistence_of_gastroparesis_after_stopping_glp1_drugs.md): same source document (doc_0066)
+- [The UBC JAMA Study On GLP-1 Gastrointestinal Adverse Events](ubc_jama_study_glp1_gastrointestinal_adverse_events.md): same source document (doc_0066)
 
 ## Source
 

@@ -13,11 +13,19 @@ The report frames the appeal as giving bettors more ways to "have skin in the ga
 
 ## Related Notes
 
+
 - [Best Sportsbooks For NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): compares DraftKings' betting menu with rivals, from a different document.
 - [DraftKings Sportsbook Welcome Offers, December 2023](draftkings_sportsbook_welcome_offers_december_2023.md): covers the same operator's customer offers, from a different document.
 - [DraftKings' Vermont Sportsbook Welcome Offer](draftkings_vermont_sportsbook_welcome_offer.md): covers the same operator in another state, from a different document.
 - [DraftKings Vermont Welcome Offer Tradeoffs](draftkings_vermont_welcome_offer_tradeoffs.md): weighs the same operator's bonus terms, from a different document.
 - [FanDuel Vermont Sportsbook Welcome Offer](fanduel_vermont_sportsbook_welcome_offer.md): covers the chief daily-fantasy-rooted competitor, from a different document.
+- [Bet365 Sportsbook In Kentucky](bet365_sportsbook_kentucky.md): same source document (doc_0071)
+- [BetMGM Sportsbook In Kentucky](betmgm_sportsbook_kentucky.md): same source document (doc_0071)
+- [Betting On Kentucky And Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): same source document (doc_0071)
+- [Caesars Sportsbook In Kentucky](caesars_sportsbook_kentucky.md): same source document (doc_0071)
+- [Fanatics Sportsbook In Kentucky](fanatics_sportsbook_kentucky.md): same source document (doc_0071)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

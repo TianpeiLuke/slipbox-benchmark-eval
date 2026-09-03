@@ -11,11 +11,19 @@ The trade-off is that this deal lacks a pre-packaged game, but Polygon notes ple
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick For Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): same source; an accessory deal for the same console.
 - [Activision Titles On Xbox Game Pass](activision_titles_on_xbox_game_pass.md): another account of the Game Pass library, from a different source document.
 - [Alan Wake 2](alan_wake_2.md): also covers Xbox Series, from a different source document.
 - [Amnesia the Bunker](amnesia_the_bunker.md): also covers Xbox Series, from a different source document.
 - [Armored Core 6 Fires of Rubicon](armored_core_6_fires_of_rubicon.md): also covers Xbox Series, from a different source document.
+- [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): both discuss Xbox Series; different source document
+- [Cocoon Wins Best Indie Game, 2023](cocoon_best_indie_game_2023.md): same source document (doc_0308)
+- [Criterion Collection 4K Blu-ray Sale](criterion_collection_4k_blu_ray_sale.md): same source document (doc_0308)
+- [Hi-Fi Rush Wins Audio Design, 2023](hi_fi_rush_audio_design_award_2023.md): same source document (doc_0308)
+- [The Legend Of Vox Machina Soundtrack Vinyl](legend_of_vox_machina_soundtrack_vinyl.md): same source document (doc_0308)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

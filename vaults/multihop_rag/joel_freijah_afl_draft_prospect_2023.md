@@ -11,6 +11,7 @@ He announced himself as an AFL prospect when he kicked six goals from 26 disposa
 
 ## Related Notes
 
+
 - [AFLW 2023 Finals Qualification And Week One Fixture](aflw_2023_finals_qualification_and_week_one_fixture.md): also concerns the Brisbane Lions, from a different document.
 - [Brayden Maynard Collingwood Dynasty Ambition](brayden_maynard_collingwood_dynasty_ambition.md): also concerns the Brisbane Lions, from a different document.
 - [Brisbane Lions 2023 AFLW Top Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): also concerns the Brisbane Lions, from a different document.
@@ -19,6 +20,8 @@ He announced himself as an AFL prospect when he kicked six goals from 26 disposa
 - [Archer Reid AFL Draft Prospect 2023](archer_reid_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Archie Roberts AFL Draft Prospect 2023](archie_roberts_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Ari Schoenmaker AFL Draft Prospect 2023](ari_schoenmaker_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
+- [Ashton Moya AFL Draft Prospect 2023](ashton_moya_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Caiden Cleary AFL Draft Prospect 2023](caiden_cleary_afl_draft_prospect_2023.md): same source document (doc_0244)
 
 ## Source
 

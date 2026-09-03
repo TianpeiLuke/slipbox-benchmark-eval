@@ -11,6 +11,7 @@ The choice between Lamb and Tyreek Hill would not be an easy one; the tiebreaker
 
 ## Related Notes
 
+
 - [Colts Backfield Split Zack Moss Jonathan Taylor Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): overlaps on projection-table statistics, from a different document.
 - [Cowboys Fantasy Start Recommendations Week 13](cowboys_fantasy_start_recommendations_week_13.md): also discusses CeeDee Lamb, from a different document.
 - [Dolphins 45-15 Commanders Week 13](dolphins_45_15_commanders_week_13.md): also discusses Tyreek Hill, from a different document.
@@ -18,6 +19,10 @@ The choice between Lamb and Tyreek Hill would not be an easy one; the tiebreaker
 - [Dolphins Eagles First Half Live Blog](dolphins_eagles_first_half_live_blog.md): also discusses Tyreek Hill, from a different document.
 - [Curtis Samuel Week 16 Waiver Target](curtis_samuel_week_16_waiver_target.md): another entry in the same preview, from the same document.
 - [Deebo Samuel Yards Per Target Pace](deebo_samuel_yards_per_target_pace.md): another entry in the same preview, from the same document.
+- [Demario Douglas Week 16 Waiver Target](demario_douglas_week_16_waiver_target.md): same source document (doc_0146)
+- [Dontayvion Wicks Week 16 Waiver Target](dontayvion_wicks_week_16_waiver_target.md): same source document (doc_0146)
+- [Drake London Home Road Fantasy Split](drake_london_home_road_fantasy_split.md): same source document (doc_0146)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

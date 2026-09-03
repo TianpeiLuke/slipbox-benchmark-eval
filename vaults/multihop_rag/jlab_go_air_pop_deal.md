@@ -11,10 +11,18 @@ Engadget highlights the Go Air Pop as an honorable mention in its budget wireles
 
 ## Related Notes
 
+
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): same source document; another affordable earbud in the same roundup.
 - [JLab Go Air Pop Budget Earbuds](jlab_go_air_pop_budget_earbuds.md): also concerns the Go Air Pop, from a different source document.
 - [Sony WF-1000XM5 Wireless Earbuds](sony_wf_1000xm5_wireless_earbuds.md): overlaps in content on wireless earphones, from a different source document.
 - [Sony LinkBuds S Earbuds](sony_linkbuds_s_earbuds.md): overlaps in content on wireless earbuds highlighted as honorable mentions, from a different source document.
+- [Anker Soundcore Liberty 4 NC Earbuds Deal Prices](anker_soundcore_liberty_4_nc_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0404)
+- [Anker Soundcore Space Q45 Deal](anker_soundcore_space_q45_deal.md): same source document (doc_0404)
+- [Apple AirPods 2nd Gen Holiday Deal](apple_airpods_2nd_gen_holiday_deal.md): same source document (doc_0404)
+- [Apple AirPods 3rd Gen Holiday Deal](apple_airpods_3rd_gen_holiday_deal.md): same source document (doc_0404)
+- [Apple AirPods Max Holiday Deal](apple_airpods_max_holiday_deal.md): same source document (doc_0404)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
 
 ## Source
 

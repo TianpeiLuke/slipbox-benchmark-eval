@@ -11,11 +11,17 @@ The latest Mac Mini comes in a base configuration with Apple's M2 processor or a
 
 ## Related Notes
 
+
 - [Amazon Fire HD 8 and Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): overlaps on processor performance in budget devices, from a different source document.
 - [Apple Budget iPad and iPad Mini](apple_budget_ipad_and_ipad_mini.md): overlaps on model features and configurations, from a different source document.
 - [Apple M3 Mac Reviews and Chip Lineup](apple_m3_mac_reviews_and_chip_lineup.md): also concerns the Mac Studio, from a different source document.
 - [Apple MacBook Air 15-Inch M2](apple_macbook_air_15_inch_m2.md): overlaps on base configurations and retailer pricing, from a different source document.
 - [Apple Silicon Chip Naming and Relative Performance](apple_silicon_chip_naming_and_relative_performance.md): also concerns the Mac Studio, from a different source document.
+- [MacBook Air M1 And M2 Deals](macbook_air_m1_and_m2_deals.md): same source document (doc_0351)
+- [MacBook Pricing And Discount Landscape](macbook_pricing_and_discount_landscape.md): same source document (doc_0351)
+- [MacBook Pro M2 And M1 Generation Deals](macbook_pro_m2_and_m1_generation_deals.md): same source document (doc_0351)
+- [MacBook Pro M3 Generation Deals](macbook_pro_m3_generation_deals.md): same source document (doc_0351)
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

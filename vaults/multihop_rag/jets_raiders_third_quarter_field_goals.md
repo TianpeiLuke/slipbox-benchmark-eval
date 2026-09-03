@@ -15,11 +15,18 @@ The quarter closed with the Raiders threatening. At 10:34 p.m. Gipson was brough
 
 ## Related Notes
 
+
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): also discusses Las Vegas, from a different document.
 - [Britney Spears Jason Alexander 55-Hour Marriage](britney_spears_jason_alexander_55_hour_marriage.md): also discusses Las Vegas, from a different document.
 - [Britney Spears Memoir Body Scrutiny and Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): also discusses Las Vegas, from a different document.
 - [Caesars Sportsbook Kentucky](caesars_sportsbook_kentucky.md): also discusses Las Vegas, from a different document.
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): also discusses Las Vegas, from a different document.
+- [Jets And Raiders Week 10 Season Implications](jets_and_raiders_week_10_season_implications.md): same source document (doc_0439)
+- [Jets' Final Drive And The Spillane Interception](jets_final_drive_and_spillane_interception.md): same source document (doc_0439)
+- [Jets-Raiders Broadcast And Kickoff Details](jets_raiders_broadcast_and_kickoff_details.md): same source document (doc_0439)
+- [Jets-Raiders First Quarter Field Goals And Interception](jets_raiders_first_quarter_field_goals_and_interception.md): same source document (doc_0439)
+- [Jets-Raiders Second Quarter Scoring](jets_raiders_second_quarter_scoring.md): same source document (doc_0439)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

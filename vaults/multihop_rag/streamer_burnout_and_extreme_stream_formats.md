@@ -15,11 +15,19 @@ Polygon's conclusion is that it was inevitable for things like sleep streams, un
 
 ## Related Notes
 
+
 - [AOC's Twitch Among Us Stream](aoc_twitch_among_us_stream.md): another Twitch creator subject from a different source document
 - [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): shares the creator-economy and streaming-service topic tags
 - [Calls for Creative Experimentation in VTuber Agencies](calls_for_creative_experimentation_in_vtuber_agencies.md): shares both tags, and covers a parallel creator-burnout context
 - [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): shares the creator-economy and streaming-service tags
 - [EsfandTV's Sports Streaming Channel](esfandtv_sports_streaming_channel.md): another Twitch creator profile sharing both tags
+- [Fortnite's Live-Service Content Treadmill](fortnite_live_service_content_treadmill.md): same source document (doc_0545)
+- [Live-Service Games' Dependence on Content Creators](live_service_games_dependence_on_content_creators.md): same source document (doc_0545)
+- [Negative Sentiment as Profitable Streaming Discourse](negative_sentiment_as_profitable_streaming_discourse.md): same source document (doc_0545)
+- [Rising Game Development and Marketing Budgets](rising_game_development_and_marketing_budgets.md): same source document (doc_0545)
+- [Streamers Do Not Represent Typical Player Behavior](streamers_do_not_represent_typical_player_behavior.md): same source document (doc_0545)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

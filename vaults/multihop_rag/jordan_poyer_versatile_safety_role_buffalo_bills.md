@@ -13,11 +13,18 @@ His record establishes the standing behind the role: he is the only player in th
 
 ## Related Notes
 
+
 - [Bills Against the Spread Trends 2023](bills_against_the_spread_trends_2023.md): overlaps on the Bills as a team, from a different document.
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also concerns Jordan Poyer, from a different document.
 - [Bills Bengals SNF Third Quarter](bills_bengals_snf_third_quarter.md): also concerns Jordan Poyer, from a different document.
 - [Bills Chargers Week 16 Pick and Rationale](bills_chargers_week_16_pick_and_rationale.md): overlaps on the Buffalo Bills, from a different document.
 - [Patrick Surtain II, Broncos Midseason MVP](patrick_surtain_ii_broncos_midseason_mvp.md): also concerns the Pro Bowl, from a different document.
+- [Ayahuasca, The Psychedelic Brew](ayahuasca_psychedelic_brew.md): same source document (doc_0322)
+- [Jordan Poyer's Alcoholism And Sobriety](jordan_poyer_alcoholism_and_sobriety.md): same source document (doc_0322)
+- [Jordan Poyer's Ayahuasca Ceremony Experience](jordan_poyer_ayahuasca_ceremony_experience.md): same source document (doc_0322)
+- [Jordan Poyer's Contract Status And Post-Career Plans](jordan_poyer_contract_status_and_post_career_plans.md): same source document (doc_0322)
+- [Jordan Poyer's Ego And Perspective Shift](jordan_poyer_ego_and_perspective_shift.md): same source document (doc_0322)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

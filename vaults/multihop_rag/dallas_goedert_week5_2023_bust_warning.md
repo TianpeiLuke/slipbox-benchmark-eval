@@ -13,6 +13,7 @@ The matchup evidence is presented as a trap. The Rams got stung for two touchdow
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also discusses George Kittle, cited here among the tight ends the Rams shut down, from a different document.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also discusses George Kittle, from a different document.
 - [Bears Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also discusses Cole Kmet, one of the tight ends preferred to Goedert in non-PPR, from a different document.
@@ -21,6 +22,8 @@ The matchup evidence is presented as a trap. The Rams got stung for two touchdow
 - [Brock Purdy Fantasy Outlook Weeks 5 And 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another lineup call from the same Week 5 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this bust warning applies, from the same column.
 - [Dameon Pierce Week 5 2023 Sit Recommendation](dameon_pierce_week5_2023_sit_recommendation.md): another lineup call from the same Week 5 column.
+- [DeAndre Hopkins As A Week 5 2023 Start At Indianapolis](deandre_hopkins_week5_2023_start_recommendation.md): same source document (doc_0058)
+- [Gabe Davis As A Week 5 2023 Flex Starter Against Jacksonville](gabe_davis_week5_2023_flex_recommendation.md): same source document (doc_0058)
 
 ## Source
 

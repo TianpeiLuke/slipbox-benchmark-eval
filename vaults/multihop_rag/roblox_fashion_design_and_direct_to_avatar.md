@@ -11,6 +11,7 @@ He also framed Roblox as a prototyping environment for the fashion industry: you
 
 ## Related Notes
 
+
 - [Roblox, the Online Game Platform](roblox_online_game_platform.md): overlaps on the platform and what can be imagined on it, from a different source document.
 - [Metaverse Interoperability and 3D File Formats](metaverse_interoperability_and_3d_file_formats.md): the file-format question behind moving virtual garments around (doc_0539).
 - [Roblox Advertising and Brand Experiences](roblox_advertising_and_brand_experiences.md): the brand and virtual-goods business fashion feeds (doc_0539).
@@ -19,6 +20,8 @@ He also framed Roblox as a prototyping environment for the fashion industry: you
 - [Roblox's China Strategy and Tencent](roblox_china_strategy_and_tencent.md): another strand of the same interview (doc_0539).
 - [Roblox's Content Delivery Architecture Versus App Stores](roblox_content_delivery_architecture_vs_app_stores.md): how creations reach every device (doc_0539).
 - [Roblox's Dating Prediction](roblox_dating_prediction.md): another RDC prediction from the same conversation (doc_0539).
+- [Roblox's Hiring And Recruiting Layoffs](roblox_hiring_and_recruiting_layoffs.md): same source document (doc_0539)
+- [Roblox On VR And AR Headsets](roblox_on_vr_and_ar_headsets.md): same source document (doc_0539)
 
 ## Source
 

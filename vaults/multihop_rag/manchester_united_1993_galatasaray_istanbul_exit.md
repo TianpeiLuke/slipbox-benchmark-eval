@@ -11,6 +11,7 @@ United realistically required a win to progress after drawing 3-3 in the first l
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns the Champions League at Old Trafford, from a different document.
 - [Bayern Munich 2-2 Draw At RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns the Champions League, from a different document.
 - [Carabao Cup 2023-24 Quarter-Final Results](carabao_cup_2023_24_quarterfinal_results.md): also concerns Old Trafford, from a different document.
@@ -19,6 +20,8 @@ United realistically required a win to progress after drawing 3-3 in the first l
 - [Galatasaray Istanbul Hostile Atmosphere 1993](galatasaray_istanbul_hostile_atmosphere_1993.md): the off-field intimidation that night, from the same document.
 - [Garnacho And Mainoo United Teenagers Vs Everton](garnacho_and_mainoo_united_teenagers_vs_everton.md): the young players facing the 2023 return, from the same document.
 - [Istanbul 1993 Defeat As Formative Experience](istanbul_1993_defeat_as_formative_experience.md): the argument about what the defeat taught, from the same document.
+- [Manchester United 2023 Galatasaray Group Decider](manchester_united_2023_galatasaray_group_decider.md): same source document (doc_0013)
+- [Manchester United Recent Champions League Failures](manchester_united_recent_champions_league_failures.md): same source document (doc_0013)
 
 ## Source
 

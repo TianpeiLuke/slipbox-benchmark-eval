@@ -13,12 +13,17 @@ The departures of, among others, Mason Mount, Kai Havertz, Christian Pulisic and
 
 ## Related Notes
 
+
 - [AC Milan 2-0 Win Over Lazio and the Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): also discusses Christian Pulisic, one of the Chelsea departures listed here, from a different source document.
 - [Arsenal-Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Stamford Bridge, from a different source document.
 - [Atalanta 3-2 AC Milan](atalanta_3_2_ac_milan.md): also discusses Christian Pulisic, from a different source document.
 - [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md): also discusses Stamford Bridge, from a different source document.
 - [Champions League 2023-24 Group G: Man City and Leipzig](champions_league_2023_24_group_g_man_city_leipzig.md): also discusses Pep Guardiola, from a different source document.
 - [Cole Palmer's England Call-Up and Upbringing](cole_palmer_england_call_up_and_upbringing.md): same interview, on where this transfer left him internationally.
+- [Cole Palmer's Goal Against Manchester City In The 4-4 Draw](cole_palmer_goal_against_manchester_city_4_4_draw.md): same source document (doc_0445)
+- [Cole Palmer's Move To Chelsea And Settling In London](cole_palmer_move_to_chelsea_and_settling_in_london.md): same source document (doc_0445)
+- [Cole Palmer's Penalty-Taking Role And Record](cole_palmer_penalty_taking_role_and_record.md): same source document (doc_0445)
+- [Transfer Window](term_transfer_window.md): uses the concept transfer window
 
 ## Source
 

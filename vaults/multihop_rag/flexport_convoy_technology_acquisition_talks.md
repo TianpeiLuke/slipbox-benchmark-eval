@@ -11,9 +11,19 @@ If Flexport acquires the technology, the company plans to restore Convoy's truck
 
 ## Related Notes
 
+
 - [Convoy's Digital Freight Shutdown](convoy_digital_freight_shutdown.md): the collapse that put this technology on the market, from a different source document.
 - [Flexport Leadership Turmoil](flexport_leadership_turmoil.md): overlaps in content on Flexport and freight startups, from a different source document.
 - [Dave Clark's Ouster From Flexport](dave_clark_ouster_from_flexport.md): overlaps in content on Flexport and Petersen, from a different source document.
+- [Dave Clark's Hiring And Flexport's IPO Plan](dave_clark_hiring_and_flexport_ipo_plan.md): content overlap 0.13 on flexport, petersen, customers; different source document
+- [The Flexport Forecast Dispute And The Contested Whistleblower Claim](flexport_forecast_dispute_and_whistleblower_claim.md): content overlap 0.11 on flexport, petersen, freight; different source document
+- [California Robotaxi Opposition Groups](california_robotaxi_opposition_groups.md): same source document (doc_0537)
+- [Cruise's California Permit Suspension](cruise_california_permit_suspension.md): same source document (doc_0537)
+- [Cruise's Nationwide Driverless Pause](cruise_nationwide_driverless_pause.md): same source document (doc_0537)
+- [Faction Driverless Funding Round](faction_driverless_funding_round.md): same source document (doc_0537)
+- [Flexport Leadership Change And Layoffs](flexport_leadership_change_and_layoffs.md): same source document (doc_0537)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

@@ -11,11 +11,18 @@ The matchup makes it worse rather than better: the Panthers offense can't score 
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another sit call covering Chris Godwin and Curtis Samuel, from a different source document.
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): covers the Tampa Bay quarterback situation behind Godwin's production, from a different source document.
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): covers Chris Godwin and Tampa Bay later in the same season, from a different source document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another Sit Him verdict in the same weekly format, from a different source document.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): shares the receiving-yards, projected-points and PPR-points evaluation style, from a different source document.
+- [Amari Cooper Week 13: Start Him, Because Joe Flacco Should Restore His Downfield Role](amari_cooper_week_13_start_verdict.md): same source document (doc_0057)
+- [Cooper Kupp: A Week 11 Ankle Sprain And The Week 13 Case For Benching A Stud](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): same source document (doc_0057)
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
+- [Weekly Fantasy Lineup Method: Set Lineups By Matchup, Not By Draft Order](fantasy_football_weekly_lineup_matchup_method.md): same source document (doc_0057)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

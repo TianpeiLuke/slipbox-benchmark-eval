@@ -11,6 +11,7 @@ From that experience he got his big break as a stage manager for a concert he pi
 
 ## Related Notes
 
+
 - [Abdullah on Product Over Profit in the Music Industry](abdullah_on_product_over_profit_in_the_music_industry.md): the same interviewee's view of what the industry gets wrong.
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): from the same interview.
 - [AfroFuture Festival, Accra, Ghana](afrofuture_festival_accra_ghana.md): the venture this career path led to.
@@ -19,6 +20,7 @@ From that experience he got his big break as a stage manager for a concert he pi
 - [AfroFuture Impact on Ghana Tourism](afrofuture_impact_on_ghana_tourism.md): from the same interview.
 - [AfroFuture Rising Star Challenge Competition](afrofuture_rising_star_challenge_competition.md): from the same interview.
 - [Road to AfroFuture Geographic Brand Expansion](road_to_afrofuture_geographic_brand_expansion.md): from the same interview.
+- [Sub-Saharan Africa Recorded Music Market Growth](sub_saharan_africa_recorded_music_market_growth.md): same source document (doc_0085)
 
 ## Source
 

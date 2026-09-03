@@ -13,6 +13,7 @@ Suddenly football fans and Swifties were living through this surprising collisio
 
 ## Related Notes
 
+
 - [Taylor Swift Arrowhead Stadium Appearance And Easter Eggs](taylor_swift_arrowhead_stadium_appearance_and_easter_eggs.md): same timeline, the stadium appearance this builds to
 - [Travis Kelce Invites Taylor Swift To Arrowhead](travis_kelce_invites_taylor_swift_to_arrowhead.md): same timeline, the invitation issued days later
 - [Travis Kelce Moustache Remark And New York Visit](travis_kelce_moustache_remark_and_new_york_visit.md): same timeline, the New York visit referred to here
@@ -21,6 +22,8 @@ Suddenly football fans and Swifties were living through this surprising collisio
 - [Nfl Defence Of Its Taylor Swift Themed Promotion](nfl_defence_of_its_taylor_swift_themed_promotion.md): the league's own response to this coverage, different document
 - [Patriots Broncos Start Time And Broadcast Details](patriots_broncos_start_time_and_broadcast_details.md): also mentions Rich Eisen, unrelated subject
 - [Taylor Swift 1989 Original Album Success And Tour](taylor_swift_1989_original_album_success_and_tour.md): covers Blank Space's album, from a different document
+- [Travis Kelce's First Contact Attempt And The Eras Tour Bracelet](travis_kelce_taylor_swift_first_contact_and_eras_tour_bracelet.md): same source document (doc_0044)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

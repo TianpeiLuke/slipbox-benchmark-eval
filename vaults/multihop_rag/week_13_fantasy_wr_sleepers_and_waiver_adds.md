@@ -13,11 +13,18 @@ Two more rested on opponent weakness. Mingo drew a plus matchup against a reelin
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Curtis Samuel, from a different document.
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): another Curtis Samuel-adjacent Week 13 call, separately sourced.
 - [Christian Watson and the Packers' Hot Seat](christian_watson_packers_hot_seat.md): also covers Jayden Reed, in a different document.
 - [Curtis Samuel Week 16 Waiver Target](curtis_samuel_week_16_waiver_target.md): the same player as a later waiver add, from a separate source.
 - [Dontayvion Wicks Week 16 Waiver Target](dontayvion_wicks_week_16_waiver_target.md): also concerns Jayden Reed's Green Bay role, in a different document.
+- [Week 13 Fantasy WR Busts To Avoid](week_13_fantasy_wr_busts_to_avoid.md): same source document (doc_0114)
+- [Week 13 Fantasy Wide Receiver Byes And Context](week_13_fantasy_wr_byes_and_context.md): same source document (doc_0114)
+- [Week 13's Top Fantasy Wide Receivers](week_13_top_fantasy_wide_receivers.md): same source document (doc_0114)
+- [Week 13 Wide Receiver Injury Report](week_13_wide_receiver_injury_report.md): same source document (doc_0114)
+- [Week 13 Wide Receiver PPR Rankings, 1-76](week_13_wr_ppr_rankings_table.md): same source document (doc_0114)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
 
 ## Source
 

@@ -11,6 +11,7 @@ Seattle was almost certainly not going to trade George Kirby, and it would take 
 
 ## Related Notes
 
+
 - [Governor Bryan Account Of George Dismissal](governor_bryan_account_of_george_dismissal.md): overlaps on shared name terms, from a different document.
 - [Mariners Offseason Payroll Space And Trade Talks](mariners_offseason_payroll_space_and_trade_talks.md): covers Seattle's trade posture that winter, from a different document.
 - [Mariners Reported Out Of The Ohtani Chase](mariners_reported_out_of_the_ohtani_chase.md): another Seattle offseason storyline, from a different document.
@@ -19,6 +20,8 @@ Seattle was almost certainly not going to trade George Kirby, and it would take 
 - [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): another candidate on the same list, from the same document.
+- [Christopher Morel Cubs Trade Candidacy](christopher_morel_cubs_trade_candidacy.md): same source document (doc_0118)
+- [Corbin Burnes And Willy Adames Brewers Trade Candidacy](corbin_burnes_willy_adames_brewers_trade_candidacy.md): same source document (doc_0118)
 
 ## Source
 

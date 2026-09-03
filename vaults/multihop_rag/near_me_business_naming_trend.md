@@ -13,6 +13,7 @@ The boundary condition is saturation. Silva is always thinking about what is nex
 
 ## Related Notes
 
+
 - [American Cranberry Native Range and Harvest Window](american_cranberry_native_range_and_harvest_window.md): also mentions Cape Cod, from a different source document.
 - [Fitbit Charge 6 Deal](fitbit_charge_6_deal.md): also concerns Google Maps, from a different source document.
 - [Google Maps and Waze Halt Israel-Gaza Traffic Data](google_maps_waze_israel_gaza_traffic_halt.md): also concerns Google Maps, from a different source document.
@@ -21,6 +22,8 @@ The boundary condition is saturation. Silva is always thinking about what is nex
 - [Barber Shop Near Me and Felix Silva](barber_shop_near_me_felix_silva.md): the barber who named his shop this way (doc_0127).
 - [Google Local Search Ranking Factors](google_local_search_ranking_factors.md): the system these names try to exploit (doc_0127).
 - [Restaurants Optimizing Menus for Algorithms](restaurants_optimizing_menus_for_algorithms.md): the same optimizing logic applied to food (doc_0127).
+- [The SEO Naming Effect On Customer Acquisition](seo_naming_effect_on_customer_acquisition.md): same source document (doc_0127)
+- [Thai Food Near Me's Customer Experience](thai_food_near_me_customer_experience.md): same source document (doc_0127)
 
 ## Source
 

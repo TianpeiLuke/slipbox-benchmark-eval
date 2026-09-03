@@ -13,11 +13,18 @@ Finally, under director Emma Tammi, the film hit theaters simultaneously with a 
 
 ## Related Notes
 
+
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): both mention Five Nights at Freddy's, from a different source document
 - [Apple 2023 Top iPhone Apps and Games Lists](apple_2023_top_iphone_apps_and_games_lists.md): another Five Nights reference from a separate article
 - [DC Studios DCU Reboot Under Gunn and Safran](dc_studios_dcu_reboot_under_gunn_and_safran.md): both discuss Warner Bros., from a different document
 - [Dead Boy Detectives (Netflix Series)](dead_boy_detectives_netflix_series.md): another Warner Bros. subject from a separate source
 - [Kindle Kids 2022 Deals](kindle_kids_2022_deals.md): both mention Harry Potter and Percy Jackson, from an unrelated article
+- [Is the Five Nights at Freddy's Movie Accessible to Newcomers?](five_nights_at_freddys_movie_accessibility_to_newcomers.md): same source document (doc_0387)
+- [Age Appropriateness of the Five Nights at Freddy's Movie](five_nights_at_freddys_movie_age_appropriateness.md): same source document (doc_0387)
+- [Five Nights at Freddy's Movie Mid-Credits Scene](five_nights_at_freddys_movie_mid_credits_scene.md): same source document (doc_0387)
+- [The Movie's Simplified Lore Cuts Against the "For the Fans" Framing](five_nights_at_freddys_movie_simplified_lore_for_fans.md): same source document (doc_0387)
+- [Willy's Wonderland (Nicolas Cage Animatronic Horror)](willys_wonderland_nicolas_cage_animatronic_horror.md): same source document (doc_0387)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

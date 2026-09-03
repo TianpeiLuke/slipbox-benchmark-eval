@@ -11,6 +11,7 @@ The Eos article presents the current consensus that emerged during that workshop
 
 ## Related Notes
 
+
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): another account of how climate scientists and their findings reach a wider audience.
 - [Climate Sweet Spots and Pattern-Dependent Feedbacks](climate_sweet_spots_and_pattern_dependent_feedbacks.md): from the same article, part of the consensus the workshop reviewed.
 - [Coupled Models Fail to Reproduce Observed Warming Patterns](coupled_models_fail_to_reproduce_observed_warming_patterns.md): from the same article, one of the workshop's open problems.
@@ -19,6 +20,8 @@ The Eos article presents the current consensus that emerged during that workshop
 - [Evaluating Model Pattern Bias with Cloud-Resolving Models](evaluating_model_pattern_bias_with_cloud_resolving_models.md): from the same article, on a proposed line of investigation.
 - [Feedback Dependence on Global Mean Temperature](feedback_dependence_on_global_mean_temperature.md): from the same article, on one of the unresolved questions raised.
 - [Historical Warming Does Not Bound Climate Sensitivity](historical_warming_does_not_bound_climate_sensitivity.md): from the same article, part of the consensus reported.
+- [The Magnitude of the Observed Pattern Effect Is Disputed](magnitude_of_the_observed_pattern_effect_is_disputed.md): same source document (doc_0139)
+- [The Model Versus Observation Climate Sensitivity Discrepancy](model_versus_observation_climate_sensitivity_discrepancy.md): same source document (doc_0139)
 
 ## Source
 

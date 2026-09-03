@@ -11,6 +11,7 @@ Arsenal had triumphed in their last three trips to Stamford Bridge and had not l
 
 ## Related Notes
 
+
 - [Arsenal 2-1 Win at Sevilla, Group B](arsenal_2_1_win_at_sevilla_group_b.md): also concerns Mikel Arteta, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns Manchester City, from a different document.
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): also concerns Manchester City, from a different document.
@@ -19,6 +20,8 @@ Arsenal had triumphed in their last three trips to Stamford Bridge and had not l
 - [Chelsea Arsenal Derby Team News October 2023](chelsea_arsenal_derby_team_news_october_2023.md): drawn from the same document (doc_0300).
 - [England's 2023 Cricket World Cup Qualification Crisis](england_cricket_world_cup_2023_qualification_crisis.md): drawn from the same document (doc_0300).
 - [England vs South Africa: 2023 Rugby World Cup Semi-Final](england_south_africa_rugby_world_cup_semi_final_2023.md): drawn from the same document (doc_0300).
+- [Liverpool vs Everton: Merseyside Derby Preview, October 2023](liverpool_everton_merseyside_derby_october_2023_preview.md): same source document (doc_0300)
+- [Newcastle vs Crystal Palace Preview, October 2023](newcastle_versus_crystal_palace_october_2023_preview.md): same source document (doc_0300)
 
 ## Source
 

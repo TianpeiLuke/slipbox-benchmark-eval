@@ -13,12 +13,16 @@ It was also the first time the UA took down four ranked teams in a season since 
 
 ## Related Notes
 
+
 - [Colorado 27-24 Arizona State 2023 Recap](colorado_27_24_arizona_state_2023_recap.md): overlapping Arizona and Pac-12 coverage, from a different source document.
 - [Colorado-Arizona State 2023 Venue and Broadcast](colorado_arizona_state_2023_venue_and_broadcast.md): overlapping Arizona stadium and Saturday fixture coverage, from a different source document.
 - [USC Basketball Futures Odds: Pac-12 and National Title](usc_basketball_futures_odds_pac_12_and_national_title.md): overlapping ranked-Wildcats and Arizona coverage, from a different source document.
 - [Arizona's Defensive Performance Versus Utah](arizona_defensive_performance_versus_utah.md): same match report, on how the defence produced this margin.
 - [Arizona Versus Arizona State: The 2023 Territorial Cup](arizona_versus_arizona_state_territorial_cup_2023.md): same match report, on the fixture that followed.
 - [Arizona's Scoring Plays Versus Utah](arizona_wildcats_scoring_plays_versus_utah.md): same match report, detailing how the 42 points were scored.
+- [Jedd Fisch On What The Utah Win Signified](jedd_fisch_on_arizona_program_trajectory.md): same source document (doc_0475)
+- [Jordan Morgan's Senior Day At Arizona Stadium](jordan_morgan_senior_day_at_arizona_stadium.md): same source document (doc_0475)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

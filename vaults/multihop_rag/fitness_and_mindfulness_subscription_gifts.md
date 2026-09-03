@@ -11,6 +11,7 @@ Peloton's monthly subscription is listed at $13 — $12.99 a month for thousands
 
 ## Related Notes
 
+
 - [Fitbit Charge 6 Deal](fitbit_charge_6_deal.md): overlapping coverage of Fitbit, workouts and fitness, from a different source document.
 - [Google Pixel Watch First Gen Deal](google_pixel_watch_first_gen_deal.md): also concerns Fitbit Premium, from a different source document.
 - [Headspace Black Friday Deal](headspace_black_friday_deal.md): overlapping coverage of guided meditation and fitness, from a different source document.
@@ -19,6 +20,8 @@ Peloton's monthly subscription is listed at $13 — $12.99 a month for thousands
 - [Food, Wine And Coffee Subscription Gifts](food_wine_and_coffee_subscription_gifts.md): drawn from the same source document (doc_0291).
 - [General Purpose Retailer Gift Cards](general_purpose_retailer_gift_cards.md): drawn from the same source document (doc_0291).
 - [The Last-Minute Digital Gifts And Subscriptions Guide](last_minute_digital_gifts_and_subscriptions_guide.md): drawn from the same source document (doc_0291).
+- [Music Streaming And Vinyl Subscription Gifts](music_streaming_and_vinyl_subscription_gifts.md): same source document (doc_0291)
+- [Online Class And Creative Software Subscription Gifts](online_class_and_creative_software_subscription_gifts.md): same source document (doc_0291)
 
 ## Source
 

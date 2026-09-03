@@ -11,6 +11,7 @@ Speaking during Monday's "Morning Kombat" interview ahead of the Dec. 23, 2023 c
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick For Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): overlaps on shared keywords, from a different document.
 - [David Benavidez Career And Canelo Alvarez Pursuit](david_benavidez_career_and_canelo_alvarez_pursuit.md): also cites Morning Kombat, from a different document.
 - [Day Of Reckoning Card And Heavyweight Unification Path](day_of_reckoning_card_and_heavyweight_unification_path.md): also discusses Wilder and Joshua on this card, from a different document.
@@ -19,6 +20,8 @@ Speaking during Monday's "Morning Kombat" interview ahead of the Dec. 23, 2023 c
 - [Day Of Reckoning Predictions And Picks](day_of_reckoning_predictions_and_picks.md): the picks for his bout, from the same document.
 - [Day Of Reckoning Riyadh Boxing Card](day_of_reckoning_riyadh_boxing_card.md): the card he fought on, from the same document.
 - [Deontay Wilder Comeback After Fury Trilogy](deontay_wilder_comeback_after_fury_trilogy.md): the background to his return, from the same document.
+- [Eddie Hearn On Day Of Reckoning Card Assembly](eddie_hearn_on_day_of_reckoning_card_assembly.md): same source document (doc_0137)
+- [Joseph Parker Fighter Profile](joseph_parker_fighter_profile.md): same source document (doc_0137)
 
 ## Source
 

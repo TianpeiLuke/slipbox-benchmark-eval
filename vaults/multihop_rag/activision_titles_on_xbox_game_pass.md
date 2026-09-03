@@ -13,6 +13,7 @@ The precedent that makes the concern concrete is Starfield: Bethesda, which is o
 
 ## Related Notes
 
+
 - [Activision Blizzard Union Stalling And Other Studio Unions](activision_blizzard_union_stalling_and_other_studio_unions.md): also concerns Activision Blizzard, from a different source document.
 - [Activision, Riot And Supercell's Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): also concerns Activision Blizzard, from a different source document.
 - [DualSense PC Setup: Steam Input And DS4Windows](dualsense_pc_setup_steaminput_and_ds4windows.md): also concerns Game Pass, from a different source document.
@@ -20,6 +21,10 @@ The precedent that makes the concern concrete is Starfield: Bethesda, which is o
 - [Google's Project Hug Developer Incentive Program](google_project_hug_developer_incentive_program.md): also concerns Activision Blizzard, from a different source document.
 - [Call Of Duty's PlayStation Availability After The Microsoft Deal](call_of_duty_playstation_availability_after_microsoft_deal.md): drawn from the same source document (doc_0214).
 - [Fan Opposition To Activision Console Exclusivity Risk](fan_opposition_to_activision_console_exclusivity_risk.md): drawn from the same source document (doc_0214).
+- [Gamer Reactions At EGX To The Microsoft-Activision Deal](gamer_reactions_at_egx_to_microsoft_activision_deal.md): same source document (doc_0214)
+- [Microsoft's Acquisition Of Activision Blizzard King](microsoft_activision_blizzard_king_acquisition.md): same source document (doc_0214)
+- [Microsoft's Gaming Studio Acquisition Portfolio](microsoft_gaming_studio_acquisition_portfolio.md): same source document (doc_0214)
+- [Video Game Release](term_video_game_release.md): uses the concept video game release
 
 ## Source
 

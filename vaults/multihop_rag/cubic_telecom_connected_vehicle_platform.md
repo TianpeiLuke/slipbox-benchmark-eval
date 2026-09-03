@@ -13,6 +13,7 @@ The business has scale and history. It has partnerships with 90 national and mul
 
 ## Related Notes
 
+
 - [A Patent Redesign Must Be More Than a Colorable Difference](a_patent_redesign_must_be_more_than_a_colorable_difference.md): shares the hardware device theme, from a different source document.
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): shares the hardware device theme, from a different source document.
 - [AI Alliance Working Groups and Governance Plan](ai_alliance_working_groups_and_governance_plan.md): shares the hardware device theme, from a different source document.
@@ -21,6 +22,11 @@ The business has scale and history. It has partnerships with 90 national and mul
 - [Apple Airpods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): shares the hardware device theme, from a different source document.
 - [Apple M3 Chip Architecture and GPU Features](apple_m3_chip_architecture_and_gpu_features.md): shares the hardware device theme, from a different source document.
 - [Apple M3 Chip Release Cadence](apple_m3_chip_release_cadence.md): shares the hardware device theme, from a different source document.
+- [Connected Car Market Growth Forecasts](connected_car_market_growth_forecasts.md): same source document (doc_0510)
+- [The Future Of Vehicle Connectivity Provisioning And eSIMs](future_of_vehicle_connectivity_provisioning_esim.md): same source document (doc_0510)
+- [SoftBank's "Beyond Japan" Strategy Via The Cubic Partnership](softbank_beyond_japan_strategy_via_cubic_partnership.md): same source document (doc_0510)
+- [SoftBank Corp's Majority Stake In Cubic Telecom](softbank_corp_majority_stake_in_cubic_telecom.md): same source document (doc_0510)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

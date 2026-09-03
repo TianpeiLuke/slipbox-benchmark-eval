@@ -15,11 +15,20 @@ Antonio Conte, the former Chelsea and Tottenham boss, had not cropped up near th
 
 ## Related Notes
 
+
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns Bayern Munich and the Champions League, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns Bayern Munich and the Champions League, from a different document.
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): shares the playoff and World Cup themes, from a different document.
 - [Carabao Cup 2023-24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): also mentions Old Trafford, from a different document.
 - [Carabao Cup 2023 Quarter Final Draw](carabao_cup_2023_quarter_final_draw.md): also mentions Old Trafford, from a different document.
+- [Erik Ten Hag Under Pressure In December 2023](erik_ten_hag_under_pressure_december_2023.md): same source document (doc_0315)
+- [Jim Ratcliffe Completes His 25% Stake In Manchester United](jim_ratcliffe_minority_stake_in_manchester_united.md): same source document (doc_0315)
+- [Manchester United's 2023/24 Champions League Elimination](man_united_2023_24_champions_league_elimination.md): same source document (doc_0315)
+- [Why Nagelsmann, Scaloni, Southgate And Pochettino Do Not Add Up For United](man_united_next_manager_ruled_out_candidates.md): same source document (doc_0315)
+- [Zidane, Potter And De Zerbi As Manchester United Manager Candidates](man_united_next_manager_zidane_potter_de_zerbi.md): same source document (doc_0315)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Premier League](term_premier_league.md): uses the concept premier league
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

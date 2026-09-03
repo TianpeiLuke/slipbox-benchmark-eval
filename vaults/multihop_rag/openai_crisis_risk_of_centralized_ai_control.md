@@ -13,11 +13,18 @@ TechCrunch qualifies the claim: it is still too early to make any surefire claim
 
 ## Related Notes
 
+
 - [Greg Brockman's Account Of Altman's Removal](greg_brockman_account_of_altman_removal.md): the insider account of the events driving this argument, from a different document.
 - [Greg Brockman's Departure From OpenAI](greg_brockman_departure_from_openai.md): covers Brockman's exit, from a different document.
 - [Sam Altman's Next Move After The OpenAI Firing](sam_altman_next_move_after_openai_firing.md): covers where Altman and Brockman went next, from a different document.
 - [Dismissed Theories: A Murati Coup And A Personal Matter](dismissed_theories_murati_coup_and_personal_matter.md): covers the causes of the crisis this argument builds on, from a different document in this sub-plan.
 - [Theory: Altman Circumvented The Board On A Deal](theory_altman_circumvented_board_on_a_deal.md): the leading account of what triggered the crisis, from a different document in this sub-plan.
+- [Google's "No Moat" Memo On Open Source AI](google_no_moat_memo_open_source_ai.md): same source document (doc_0054)
+- [Llama's Open Source Licensing Limits](llama_open_source_licensing_limits.md): same source document (doc_0054)
+- [Meta Positioned To Benefit From The OpenAI Turmoil](meta_positioned_to_benefit_from_openai_turmoil.md): same source document (doc_0054)
+- [Mozilla's Open Letter On AI Openness](mozilla_open_letter_on_ai_openness.md): same source document (doc_0054)
+- [The OpenAI Board Ousts Sam Altman, November 2023](openai_board_ousts_sam_altman_november_2023.md): same source document (doc_0054)
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
 
 ## Source
 

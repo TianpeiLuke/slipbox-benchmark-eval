@@ -11,11 +11,15 @@ The accompanying commentary gives the bowling detail, and for the top two names 
 
 ## Related Notes
 
+
 - [Harshal Patel Vijay Hazare Trophy Form Before IPL Auction](harshal_patel_vijay_hazare_trophy_form_before_ipl_auction.md): reports wickets and bowling figures across matches, from a different source document.
 - [India 1987 World Cup Semifinal Vs England](india_1987_world_cup_semifinal_vs_england.md): also concerns a match at the Wankhede Stadium, from a different source document.
 - [India 2011 World Cup Semifinal Vs Pakistan](india_2011_world_cup_semifinal_vs_pakistan.md): shares the India-Pakistan World Cup runs-and-wickets material, from a different source document.
 - [India Australia 1983 World Cup Group Matches](india_australia_1983_world_cup_group_matches.md): shares the wickets-picked-and-runs match reporting style, from a different source document.
 - [India Australia 1992 World Cup Brisbane Rain Match](india_australia_1992_world_cup_brisbane_rain_match.md): shares the wickets-picked-and-runs match reporting style, from a different source document.
+- [ICC ODI World Cup 2023: Knockout Stage And Final](icc_world_cup_2023_knockout_stage_and_final.md): same source document (doc_0482)
+- [ICC World Cup 2023: Top Ten Run Scorers](icc_world_cup_2023_top_run_scorers.md): same source document (doc_0482)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

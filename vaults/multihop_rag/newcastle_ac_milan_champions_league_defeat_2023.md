@@ -13,11 +13,16 @@ Goalkeeping and goal-line defending shaped the night. At 0-0, Fikayo Tomori made
 
 ## Related Notes
 
+
 - [AC Milan 2-0 Win Over Lazio and Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): also concerns Stefano Pioli, from a different document.
 - [Arsenal 2-1 Win at Sevilla, Group B](arsenal_2_1_win_at_sevilla_group_b.md): also concerns the Europa League, from a different document.
 - [Atalanta 3-2 AC Milan](atalanta_3_2_ac_milan.md): also concerns Olivier Giroud, from a different document.
 - [Champions League 2023-24 Group B: Arsenal and PSV](champions_league_2023_24_group_b_arsenal_psv.md): also concerns the Europa League, from a different document.
 - [Champions League 2023-24 Group C: Real Madrid and Napoli](champions_league_2023_24_group_c_real_madrid_napoli.md): also concerns the Europa League, from a different document.
+- [Joelinton's Reinvention In Newcastle's Midfield](joelinton_newcastle_midfield_reinvention.md): same source document (doc_0425)
+- [Newcastle's Elimination From The Group Of Death](newcastle_group_of_death_elimination_2023.md): same source document (doc_0425)
+- [Newcastle's Squad-Depth Deficit In Europe](newcastle_squad_depth_deficit_in_europe.md): same source document (doc_0425)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

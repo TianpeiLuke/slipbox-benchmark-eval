@@ -13,11 +13,19 @@ A year later, at midnight on the Friday of AfroTech, Terrell held up a glass of 
 
 ## Related Notes
 
+
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): also covers Elon Musk, from a different source document.
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs and layoffs and restructuring theme, from a different source document.
 - [Brave Software Layoffs](brave_software_layoffs.md): shares the layoffs and layoffs and restructuring theme, from a different source document.
 - [ChatGPT Misuse Fears versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): also covers Elon Musk, from a different source document.
 - [Collegehumor IAC Layoffs and Sale to Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares the layoffs and layoffs and restructuring theme, from a different source document.
+- [The Post-Twitter Social App Landscape](post_twitter_social_app_landscape.md): same source document (doc_0488)
+- [Spill's Community-Quality-Over-Growth Argument](spill_community_quality_over_growth_argument.md): same source document (doc_0488)
+- [Spill's Public Launch And Creator Payment Plans](spill_public_launch_and_creator_payment_plans.md): same source document (doc_0488)
+- [Spill's Seed Extension Funding Round](spill_seed_extension_funding_round.md): same source document (doc_0488)
+- [Spill's Tea Party Feature And Celebrity Users](spill_tea_party_feature_and_celebrity_users.md): same source document (doc_0488)
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

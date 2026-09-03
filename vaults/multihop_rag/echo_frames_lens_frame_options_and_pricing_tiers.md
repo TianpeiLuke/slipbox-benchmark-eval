@@ -11,6 +11,7 @@ For a flashier style, Amazon is also continuing its partnership with Carrera, an
 
 ## Related Notes
 
+
 - [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): overlapping coverage of Amazon's Echo and smart-device lineup, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): overlapping coverage of Amazon's Echo and smart-device lineup, from a different source document.
 - [Echo Fourth-Gen Smart Speaker Prime Day Deal](echo_fourth_gen_smart_speaker_prime_day_deal.md): overlapping coverage of Amazon's Echo and smart-device lineup, from a different source document.
@@ -19,6 +20,8 @@ For a flashier style, Amazon is also continuing its partnership with Carrera, an
 - [Alexa's Limitations As An On-The-Go Assistant On Echo Frames](alexa_limitations_as_an_on_the_go_assistant_on_echo_frames.md): drawn from the same source document (doc_0431).
 - [Echo Frames: Alexa At Home And Find My Frames](echo_frames_alexa_at_home_and_find_my_frames.md): drawn from the same source document (doc_0431).
 - [Echo Frames Audio Leakage In Quiet Spaces](echo_frames_audio_leakage_in_quiet_spaces.md): drawn from the same source document (doc_0431).
+- [Echo Frames Battery Life And Charging Stand](echo_frames_battery_life_and_charging_stand.md): same source document (doc_0431)
+- [Echo Frames Call Quality And Multi-Device Pairing](echo_frames_call_quality_and_multi_device_pairing.md): same source document (doc_0431)
 
 ## Source
 

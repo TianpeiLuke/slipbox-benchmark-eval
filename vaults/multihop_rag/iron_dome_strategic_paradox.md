@@ -11,11 +11,18 @@ Prof. Eviatar Matania puts the paradox as follows: up until October 7, the syste
 
 ## Related Notes
 
+
 - [Disinformation on X Gaza](disinformation_on_x_gaza.md): also discusses Gaza Strip, from a different source document.
 - [EU Warning Letter to X](eu_warning_letter_to_x.md): also discusses Gaza Strip, from a different source document.
 - [Eylon Levy Aliyah and IDF Service](eylon_levy_aliyah_and_idf_service.md): also discusses Gaza Strip, from a different source document.
 - [Gaza Humanitarian Crisis October 2023 Supply Cutoff](gaza_humanitarian_crisis_october_2023_supply_cutoff.md): another aspect of the Gaza Strip conflict, from a different source document.
 - [Gaza Internet Blackout and Connectivity](gaza_internet_blackout_and_connectivity.md): also discusses Gaza Strip, from a different source document.
+- [The Berlin Wall's Low-Tech Defense Lesson](berlin_wall_low_tech_defense_lesson.md): same source document (doc_0078)
+- [The Construction Of The Gaza Border Barrier](gaza_border_barrier_construction.md): same source document (doc_0078)
+- [The IDF's "Small And Smart Army" Doctrine](idf_small_and_smart_army_doctrine.md): same source document (doc_0078)
+- [What Israeli Leaders Claimed The Gaza Barrier Would Do](israeli_leaders_claims_about_the_gaza_barrier.md): same source document (doc_0078)
+- [Israel's Restraint Policy Toward Gaza](israeli_restraint_policy_toward_gaza.md): same source document (doc_0078)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

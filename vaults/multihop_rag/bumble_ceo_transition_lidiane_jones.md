@@ -13,6 +13,7 @@ Ron and Sarah write that while Bumble now has a clear line of succession, the mo
 
 ## Related Notes
 
+
 - [Roblox Dating Prediction](roblox_dating_prediction.md): overlaps on Bumble and the dating-app market, from a different document.
 - [Apple's Generative AI Investment Stance](apple_generative_ai_investment_stance.md): drawn from the same source document (doc_0116).
 - [Apple's M3 Chip Lineup And The M3 Mac Reviews](apple_m3_mac_reviews_and_chip_lineup.md): drawn from the same source document (doc_0116).
@@ -21,6 +22,8 @@ Ron and Sarah write that while Bumble now has a clear line of succession, the mo
 - [The Fediverse And The ActivityPub Protocol](fediverse_activitypub_protocol.md): drawn from the same source document (doc_0116).
 - [Ford Shuts Down VIIZR, Its Field Service SaaS](ford_viizr_field_service_saas_shutdown.md): drawn from the same source document (doc_0116).
 - [Klarna's IPO Preparation And Fintech Signals](klarna_ipo_preparation_and_fintech_signals.md): drawn from the same source document (doc_0116).
+- [GPTs: OpenAI's Custom Chatbots And The Dev Day Announcements](openai_custom_gpts_and_devday_announcements.md): same source document (doc_0116)
+- [Another Room-Temperature Superconductor Claim Retracted](room_temperature_superconductor_claim_retraction.md): same source document (doc_0116)
 
 ## Source
 

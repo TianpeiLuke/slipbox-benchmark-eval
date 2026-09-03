@@ -11,12 +11,16 @@ Sentiment began to improve over the summer after U.S. Secretary of State Antony 
 
 ## Related Notes
 
+
 - [ASPI Analysis Of TikTok Pixel Data Aggregation Risk](aspi_analysis_of_tiktok_pixel_data_aggregation_risk.md): also concerns the Chinese President and US-China technology tension, from a different source document.
 - [Australian Inflation Data And RBA November Rise](australian_inflation_data_and_rba_november_rise.md): also references the Chinese President in the same period, from a different source document.
 - [Cairo Diplomatic Surge And Summit For Peace 2023](cairo_diplomatic_surge_and_summit_for_peace_2023.md): also concerns the Chinese President in 2023 diplomacy, from a different source document.
 - [Executive Order Limits Versus AI Legislation](executive_order_limits_versus_ai_legislation.md): also involves Senate Majority Leader Chuck Schumer, from a different source document.
 - [Kashmir Hill Recommends The Listeners Wiretapping History](kashmir_hill_recommends_the_listeners_wiretapping_history.md): shares the American Studies reference in the corpus, from a different source document.
 - [Biden Xi San Francisco Summit November 2023](biden_xi_san_francisco_summit_november_2023.md): drawn from the same article and is the summit this cycle leads to.
+- [US-China Areas Of Cooperation In 2023](us_china_areas_of_cooperation_2023.md): same source document (doc_0385)
+- [US Export Controls On China And The Taiwan Flashpoint](us_export_controls_on_china_and_taiwan_flashpoint.md): same source document (doc_0385)
+- [Machine Translation](term_machine_translation.md): uses the concept machine translation
 
 ## Source
 

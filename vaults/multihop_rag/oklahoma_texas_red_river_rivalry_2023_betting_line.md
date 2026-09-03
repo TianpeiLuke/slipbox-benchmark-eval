@@ -13,11 +13,18 @@ The playoff implications are described as even more pressing than the conference
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): covers where Oklahoma and Texas ended up at season's end, from a different document.
 - [Alabama's CFP-Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also turns on two-loss teams and Longhorns playoff scenarios, from a different document.
 - [Brock Purdy's 49ers Career Trajectory](brock_purdy_49ers_career_trajectory.md): also concerns a Championship Game path, from a different document.
 - [College Football Playoff 2023 Final Four Field](college_football_playoff_2023_final_four_field.md): the playoff field this game's loser was chasing, from a different document.
 - [FanDuel Week 14 DFS WR, TE Flex And Defense Picks](fanduel_week_14_dfs_wr_te_flex_and_defense_picks.md): also references Championship Game stakes in a betting context, from a different document.
+- [Alabama At Texas A&M: The 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): same source document (doc_0259)
+- [The College Football Week 6 2023 Ranked Matchup Slate](college_football_week6_2023_ranked_matchup_slate.md): same source document (doc_0259)
+- [The Remaining College Football Week 6 2023 Betting Lines](college_football_week6_2023_remaining_betting_lines.md): same source document (doc_0259)
+- [Kentucky At Georgia: The 2023 Week 6 Betting Line](kentucky_at_georgia_2023_week6_betting_line.md): same source document (doc_0259)
+- [LSU At Missouri: The 2023 Week 6 Betting Line](lsu_at_missouri_2023_week6_betting_line.md): same source document (doc_0259)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

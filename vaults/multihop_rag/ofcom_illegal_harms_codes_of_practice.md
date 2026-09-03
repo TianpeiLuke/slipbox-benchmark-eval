@@ -15,11 +15,21 @@ Enforcement runs through complaint and penalty. If users suspect a site is not c
 
 ## Related Notes
 
+
 - [ChatGPT Enterprise And Multimodal Features](chatgpt_enterprise_and_multimodal_features.md): shares the product-and-penalty regulatory theme, from a different source document.
 - [EU CSAM Scanning Proposal](eu_csam_scanning_proposal.md): a parallel European CSAM-detection mandate, from a different source document.
 - [EU Enforcement Against X](eu_enforcement_against_x.md): another regulator applying fines to platform conduct, from a different source document.
 - [Google Pixel Buds Pro](google_pixel_buds_pro.md): shares a product-update theme tag, from a different source document.
 - [Mozilla's Social Trust And Safety Moderation Stance](mozilla_social_trust_and_safety_moderation_stance.md): overlaps on illegal and self-harm content moderation, from a different source document.
+- [The Accredited Technology Clause And The Encryption Objection](online_safety_act_accredited_technology_and_encryption.md): same source document (doc_0498)
+- [Technology Neutrality: How The Online Safety Act Covers AI Content](online_safety_act_technology_neutral_treatment_of_ai.md): same source document (doc_0498)
+- [The Compliance Burden On Nonprofits](online_safety_compliance_burden_on_nonprofits.md): same source document (doc_0498)
+- [Ofcom's First Guidelines Under The UK Online Safety Act](uk_online_safety_act_ofcom_first_guidelines.md): same source document (doc_0498)
+- [X As The Outlier Against Ofcom's Rules](x_moderation_rollback_versus_ofcom_rules.md): same source document (doc_0498)
+- [CSAM Scanning](term_csam_scanning.md): uses the concept csam scanning
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

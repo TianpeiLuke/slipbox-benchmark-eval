@@ -11,11 +11,17 @@ Its distinguishing feature as a gift is that, unlike some other gift cards on th
 
 ## Related Notes
 
+
 - [Crunchyroll Anime Streaming Service](crunchyroll_anime_streaming_service.md): same source; the other gift-card viewing option in the guide.
 - [Chromecast With Google TV (4K)](chromecast_with_google_tv_4k.md): same source; a device on which such a catalog is watched.
 - [Teenage Mutant Ninja Turtles: Mutant Mayhem](teenage_mutant_ninja_turtles_mutant_mayhem.md): covers the new release Vudu is illustrated with, from a different source document.
 - [General-Purpose Retailer Gift Cards](general_purpose_retailer_gift_cards.md): another treatment of gift cards as presents, from a different source document.
 - [Apple Store Credit and Gift Card Promotion November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): overlaps in content on gift, cards, storefront, from a different source document.
+- [Console Gift Card Black Friday Deals](console_gift_card_black_friday_deals.md): content overlap 0.13 on gift, cards, digital; different source document
+- [The Last-Minute Digital Gifts And Subscriptions Guide](last_minute_digital_gifts_and_subscriptions_guide.md): content overlap 0.12 on gift, cards, gifts; different source document
+- [CouchConsole Sofa Caddy](couchconsole_sofa_caddy.md): same source document (doc_0454)
+- [Disney Bundle Trio Streaming Package](disney_bundle_trio_streaming_package.md): same source document (doc_0454)
+- [Govee Envisual TV Backlight Kit](govee_envisual_tv_backlight_kit.md): same source document (doc_0454)
 
 ## Source
 

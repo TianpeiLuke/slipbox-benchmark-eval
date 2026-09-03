@@ -11,11 +11,20 @@ The most consequential case was Geno Smith of the Seahawks, who suffered an inju
 
 ## Related Notes
 
+
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also covers Geno Smith, from a different source document.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): shares the coaching-change and National Football League subject tags, from a different source document.
 - [C.J. Stroud Texans Midseason MVP](cj_stroud_texans_midseason_mvp.md): covers C.J. Stroud and the Texans, from a different source document.
 - [Dak Prescott Week 6 2023 Sit Recommendation](dak_prescott_week6_2023_sit_recommendation.md): also covers Sam Howell, from a different source document.
 - [Denver Broncos Payton Wilson Clock Management Friction](denver_broncos_payton_wilson_clock_management_friction.md): shares the coaching-change and National Football League subject tags, from a different source document.
+- [Aaron Jones In 2023: From A Thursday Night Return To A Week 11 Knee Injury](aaron_jones_2023_hamstring_injury_timeline.md): same source document (doc_0113)
+- [Cooper Kupp: A Week 11 Ankle Sprain And The Week 13 Case For Benching A Stud](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): same source document (doc_0113)
+- [NFL Week 11 2023: Joey Bosa Carted Off And Talanoa Hufanga Lost For The Season](nfl_week_11_2023_defensive_player_injuries.md): same source document (doc_0113)
+- [NFL Week 11 2023: Achane, Walker And Foreman All Exit With Injuries](nfl_week_11_2023_running_back_injuries.md): same source document (doc_0113)
+- [NFL Week 11 2023: Tyreek Hill Returns From A Hand Injury, Darius Slayton Does Not](nfl_week_11_2023_wide_receiver_injuries.md): same source document (doc_0113)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

@@ -11,12 +11,17 @@ Interest-rate sensitive sectors, including REITs and consumer companies, were am
 
 ## Related Notes
 
+
 - [Asx and Wall Street Selloff October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): shares vocabulary around cent, rising and inflation, from a different source document.
 - [Asx December 2023 Session Movers](asx_december_2023_session_movers.md): also discusses Reserve Bank, from a different source document.
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): a comparable laggards list including Resmed, from a different source document.
 - [Asx November 2023 Session and Rba Rate Expectations](asx_november_2023_session_and_rba_rate_expectations.md): shares vocabulary around cent, interest-rate and laggards, from a different source document.
 - [ASX October 2023 Laggards](asx_october_2023_laggards.md): another decliners wrap in the same series, from a different source document.
 - [Alphabet Q3 2023 Results and Cloud Miss](alphabet_q3_2023_results_and_cloud_miss.md): the big tech results reported in the same wrap (doc_0485).
+- [Australian Inflation Data And The RBA's Near-Certain November Rise](australian_inflation_data_and_rba_november_rise.md): same source document (doc_0485)
+- [Big Tech Concentration In The S&P 500](big_tech_concentration_in_the_sp500.md): same source document (doc_0485)
+- [Easing Escalation Concerns Around Israel-Gaza In Late October 2023](israel_gaza_conflict_and_oil_prices_october_2023.md): same source document (doc_0485)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

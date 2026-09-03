@@ -15,12 +15,18 @@ The update, which now prompts users to sign in with their Apple ID, also include
 
 ## Related Notes
 
+
 - [Activision $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): also concerns Google Play and the Play Store, from a different source document.
 - [Activision, Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): also concerns Google Play, from a different source document.
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): also concerns Play Store distribution and sideloading, from a different source document.
 - [Beeper Company Background And Founders](beeper_company_background_and_founders.md): overlapping coverage of Beeper and Migicovsky, from a different source document.
 - [Beeper Funding And Investors](beeper_funding_and_investors.md): overlapping coverage of Beeper and Migicovsky, from a different source document.
 - [Apple Blocks Beeper Mini iMessage Access](apple_blocks_beeper_mini_imessage_access.md): drawn from the same source document (doc_0402), the block this update reverses.
+- [Beeper Mini As An iMessage Client For Android](beeper_mini_imessage_client_for_android.md): same source document (doc_0402)
+- [Beeper's Security Audit Challenge To Apple](beeper_security_audit_challenge_to_apple.md): same source document (doc_0402)
+- [Elizabeth Warren's Criticism Of Apple Blocking Beeper](elizabeth_warren_criticism_of_apple_blocking_beeper.md): same source document (doc_0402)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
+- [Encryption at Rest](term_encryption_at_rest.md): uses the concept encryption at rest
 
 ## Source
 

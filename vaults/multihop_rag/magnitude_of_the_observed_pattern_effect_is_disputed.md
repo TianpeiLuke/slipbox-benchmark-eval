@@ -11,6 +11,7 @@ The current best estimate is that the radiative feedback or damping under ideali
 
 ## Related Notes
 
+
 - [Climate Sweet Spots and Pattern-Dependent Feedbacks](climate_sweet_spots_and_pattern_dependent_feedbacks.md): from the same article, on the mechanism whose size is in dispute.
 - [Coupled Models Fail to Reproduce Observed Warming Patterns](coupled_models_fail_to_reproduce_observed_warming_patterns.md): from the same article, on model errors compounding the uncertainty.
 - [Emerging Tools for Quantifying the Pattern Effect](emerging_tools_for_quantifying_the_pattern_effect.md): from the same article, on the observations that could settle the dispute.
@@ -19,6 +20,8 @@ The current best estimate is that the radiative feedback or damping under ideali
 - [Feedback Dependence on Global Mean Temperature](feedback_dependence_on_global_mean_temperature.md): from the same article, on a second source of uncertainty in sensitivity estimates.
 - [Historical Warming Does Not Bound Climate Sensitivity](historical_warming_does_not_bound_climate_sensitivity.md): from the same article, the claim this uncertainty qualifies.
 - [The Model Versus Observation Climate Sensitivity Discrepancy](model_versus_observation_climate_sensitivity_discrepancy.md): from the same article, the discrepancy the pattern effect is invoked to explain.
+- [Open Questions on SST Patterns and Earth's Radiation Budget](open_questions_on_sst_patterns_and_earths_radiation_budget.md): same source document (doc_0139)
+- [Paleorecords Must Account for the Pattern Effect](paleorecords_must_account_for_the_pattern_effect.md): same source document (doc_0139)
 
 ## Source
 

@@ -11,6 +11,7 @@ The precondition for the method was a research need rather than a product goal. 
 
 ## Related Notes
 
+
 - [Laboratory Development of Quantum Dots, 1980s to 1993](laboratory_development_of_quantum_dots_1980s_to_1993.md): another account of the development from Brus's work to Bawendi's method.
 - [Nobel Laureates on Basic Research Motivation](nobel_laureates_on_basic_research_motivation.md): another account of Bawendi's stated motivation for the work.
 - [Nobel Prize in Chemistry 2023: Quantum Dots](nobel_prize_chemistry_2023_quantum_dots.md): another description of the contribution honoured here.
@@ -19,6 +20,8 @@ The precondition for the method was a research need rather than a product goal. 
 - [Ekimov and Brus's Discovery of Quantum Dots](ekimov_and_brus_discovery_of_quantum_dots.md): from the same article, on the earlier discoveries this method completed.
 - [Quantum Dot Applications in Displays, Medicine and Solar](quantum_dot_applications_in_displays_medicine_and_solar.md): from the same article, on the uses this method unlocked.
 - [Quantum Dot Size-Dependent Properties](quantum_dot_size_dependent_properties.md): from the same article, on why specific sizes give specific properties.
+- [The 2023 Chemistry Nobel for Quantum Dots](quantum_dots_2023_chemistry_nobel_award.md): same source document (doc_0436)
+- [Reactions to the Quantum Dot Nobel](reactions_to_the_quantum_dot_nobel.md): same source document (doc_0436)
 
 ## Source
 

@@ -11,12 +11,20 @@ His grounds are the mechanics of each scheme. Apple uses its own store and its o
 
 ## Related Notes
 
+
 - [Activision 360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): overlapping coverage of Google, competition and developers, from a different source document.
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): overlapping coverage of OEMs, Google and Android, from a different source document.
 - [Android App Distribution Market Definition](android_app_distribution_market_definition.md): overlapping coverage of Apple, Google and paying for position, from a different source document.
 - [DOJ Theory That Google's Default Deals Foreclose Search Rivals](doj_theory_that_google_default_deals_foreclose_search_rivals.md): overlapping coverage of Apple-Google deals, from a different source document.
 - [Epic's Antitrust Claims Against Google Play](epic_antitrust_claims_against_google_play.md): overlapping coverage of Google, competition and developers, from a different source document.
 - [Activision, Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): drawn from the same source document (doc_0170).
+- [Epic Games' 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): same source document (doc_0170)
+- [The Epic Games Store As A General-Purpose App Store](epic_games_store_as_a_general_purpose_app_store.md): same source document (doc_0170)
+- [Epic Games Store Growth And Diversification Beyond Games](epic_games_store_growth_and_diversification_beyond_games.md): same source document (doc_0170)
+- [Epic's Post-Verdict Remedy Strategy And Global Cases](epic_post_verdict_remedy_strategy_and_global_cases.md): same source document (doc_0170)
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
+- [Open Source](term_open_source.md): uses the concept open source
 
 ## Source
 

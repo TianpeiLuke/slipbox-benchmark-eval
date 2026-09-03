@@ -13,6 +13,7 @@ The $50 add-on carries a state restriction: the extra $50 bonus bet offer is not
 
 ## Related Notes
 
+
 - [Bet365 Welcome Bonus Offers December 2023](bet365_welcome_bonus_offers_december_2023.md): overlaps on bonus codes and welcome offer terms, from a different document.
 - [BetMGM First Bet Bonus Offer December 2023](betmgm_first_bet_bonus_offer_december_2023.md): covers the same BetMGM First Bet bonus structure and codes, from a different document.
 - [BetMGM Vermont Sportsbook Welcome Offer](betmgm_vermont_sportsbook_welcome_offer.md): overlaps on BetMGM bonus and deposit requirements, from a different document.
@@ -21,6 +22,8 @@ The $50 add-on carries a state restriction: the extra $50 bonus bet offer is not
 - [Bet365 Bonus Code TSNCO Offer](bet365_bonus_code_tsnco_offer.md): a parallel offer in the same roundup, from the same document.
 - [BetRivers Promo Code SPORTSRIV Second Chance Bet](betrivers_promo_code_sportsriv_second_chance_bet.md): a parallel offer in the same roundup, from the same document.
 - [Caesars Sportsbook Promo Code NEWS1000](caesars_sportsbook_promo_code_news1000.md): a parallel offer in the same roundup, from the same document.
+- [DraftKings Welcome Offer Claim Steps](draftkings_welcome_offer_claim_steps.md): same source document (doc_0432)
+- [FanDuel Bet $5, Get $150 Moneyline Promo](fanduel_bet_five_get_150_moneyline_promo.md): same source document (doc_0432)
 
 ## Source
 

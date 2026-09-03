@@ -13,6 +13,7 @@ Coach Marcus Freeman framed the performance as a team effort after the game: "I 
 
 ## Related Notes
 
+
 - [College Football Week 6 2023 Ranked Matchup Slate](college_football_week6_2023_ranked_matchup_slate.md): another report covering Notre Dame, from a different source document
 - [Michigan Needs Harbaugh Against Ohio State](michigan_needs_harbaugh_against_ohio_state.md): also concerns the Heisman Trophy, from a different source document
 - [Mock Draft 2024 Round 1 Offensive Tackles](mock_draft_2024_round_1_offensive_tackles.md): another document discussing Notre Dame players
@@ -21,6 +22,8 @@ Coach Marcus Freeman framed the performance as a team effort after the game: "I 
 - [Notre Dame USC 2023 First Quarter](notre_dame_usc_2023_first_quarter.md): the play-by-play of the quarter containing Watts' first interception, same source document
 - [Notre Dame USC 2023 Fourth Quarter](notre_dame_usc_2023_fourth_quarter.md): the play-by-play of Watts' fumble return touchdown, same source document
 - [Notre Dame USC 2023 Second Quarter](notre_dame_usc_2023_second_quarter.md): the play-by-play of Watts' second interception, same source document
+- [Notre Dame's Third Quarter Against USC, Oct. 14 2023](notre_dame_usc_2023_third_quarter.md): same source document (doc_0378)
+- [Turnovers, Not Yardage, Decided Notre Dame's Win Over USC](notre_dame_usc_2023_turnover_margin_analysis.md): same source document (doc_0378)
 
 ## Source
 

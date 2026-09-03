@@ -15,6 +15,7 @@ The observation may seem banal — Marshall McLuhan was talking about the global
 
 ## Related Notes
 
+
 - [Meta Moderation Bias](meta_moderation_bias.md): also cites the Electronic Frontier Foundation's perspective on platforms, from a different source document.
 - [Amazon Seller Skepticism Of The FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares a COVID-era commerce theme tag, from a different source document.
 - [AOC's Twitch Among Us Stream](aoc_twitch_among_us_stream.md): shares a COVID-era networked-politics theme, from a different source document.
@@ -23,6 +24,11 @@ The observation may seem banal — Marshall McLuhan was talking about the global
 - [Capital Rotation From China Into Japanese Assets](capital_rotation_from_china_into_japanese_assets.md): shares a COVID-era theme tag, from a different source document.
 - [Capitol Music Group Leadership Turmoil, 2020-2021](capitol_music_group_leadership_turmoil_2020_2021.md): shares a COVID-era theme tag, from a different source document.
 - [Capitol Music Group's Pre-2021 Decline Diagnosis](capitol_music_group_pre_2021_decline_diagnosis.md): shares a COVID-era theme tag, from a different source document.
+- [The Contested Evidence On Social Media Harm](contested_evidence_on_social_media_harm.md): same source document (doc_0234)
+- [Democracy In A Hotter Time](democracy_in_a_hotter_time_essay_collection.md): same source document (doc_0234)
+- [The Internet As A Central Obstacle To Climate Action](internet_as_central_obstacle_to_climate_action.md): same source document (doc_0234)
+- [Three Forces: Climate, Authoritarianism And The Internet](three_forces_climate_authoritarianism_internet.md): same source document (doc_0234)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

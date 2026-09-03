@@ -11,6 +11,7 @@ She stressed, however, that operations are normal and business is continuing as 
 
 ## Related Notes
 
+
 - [AI21 Labs Tel Aviv Office Lease](ai21_labs_tel_aviv_office_lease.md): another Tel Aviv technology company in the same period.
 - [Eylon Levy, Israeli Government Spokesperson](eylon_levy_israeli_government_spokesperson.md): shares the Israeli wartime setting.
 - [Gaza Displacement and Casualties October 2023](gaza_displacement_and_casualties_october_2023.md): the wider human toll of the same war.
@@ -19,6 +20,8 @@ She stressed, however, that operations are normal and business is continuing as 
 - [Check Point Product Expansion and 2024 Outlook](check_point_product_expansion_and_2024_outlook.md): the outlook stated despite these conditions.
 - [Check Point Recent Quarterly Financials](check_point_recent_quarterly_financials.md): the results reported around this time.
 - [Cybercrime Cost Growth Drives Cybersecurity Demand](cybercrime_cost_growth_drives_cybersecurity_demand.md): the demand backdrop from the same interview.
+- [Palo Alto Networks and Fortinet Billings Weakness](palo_alto_networks_and_fortinet_billings_weakness.md): same source document (doc_0373)
+- [Rupal Shah Hollenbeck, Check Point President](rupal_shah_hollenbeck_check_point_president.md): same source document (doc_0373)
 
 ## Source
 

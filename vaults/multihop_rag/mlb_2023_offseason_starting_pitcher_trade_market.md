@@ -13,11 +13,21 @@ The market developed over the meetings. On Sunday, Dec. 3, Jon Morosi reported t
 
 ## Related Notes
 
+
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): also discusses Blake Snell and cites Jon Morosi, from a different document.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): shares the MLB and playoff-seeding themes, from a different document.
 - [Blue Jays Roster Implications of Ohtani Pursuit](blue_jays_roster_implications_of_ohtani_pursuit.md): also cites Jon Heyman, from a different document.
 - [Christopher Bell 2023 Season Autosport Snub](christopher_bell_2023_season_autosport_snub.md): linked through shared corpus tags, from a different document.
 - [Cleveland Guardians Manager Search After Francona](cleveland_guardians_manager_search_after_francona.md): shares the MLB and playoff-seeding themes and the Cleveland context, from a different document.
+- [Braves Land Jarred Kelenic And Marco Gonzales From The Mariners](braves_acquire_jarred_kelenic_from_mariners.md): same source document (doc_0120)
+- [Diamondbacks Land Eduardo Rodriguez On A Four-Year Deal](eduardo_rodriguez_signs_with_diamondbacks.md): same source document (doc_0120)
+- [Juan Soto Traded From The Padres To The Yankees](juan_soto_traded_from_padres_to_yankees.md): same source document (doc_0120)
+- [Jung Hoo Lee Posted From The KBO To MLB](jung_hoo_lee_kbo_posting_to_mlb.md): same source document (doc_0120)
+- [Mariners' Cleared Payroll Space And Winter Meetings Trade Talks](mariners_offseason_payroll_space_and_trade_talks.md): same source document (doc_0120)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

@@ -13,11 +13,19 @@ Everton were winless in their first five games but had since picked up two much-
 
 ## Related Notes
 
+
 - [Bill Kenwright Everton Chairmanship Record](bill_kenwright_everton_chairmanship_record.md): overlaps on Merseyside, Everton and the Premier League, from a different document.
 - [Dyche on Everton's Points Deduction and Appeal](dyche_on_everton_points_deduction_and_appeal.md): also concerns Sean Dyche, from a different document.
 - [Everton Appeal Against Points Deduction](everton_appeal_against_points_deduction.md): overlaps on Everton and the Premier League, from a different document.
 - [Everton Manchester City 2022 Handball VAR Error](everton_manchester_city_2022_handball_var_error.md): overlaps on Everton and Liverpool, from a different document.
 - [Everton's Ten-Point Deduction for a PSR Breach](everton_ten_point_deduction_for_psr_breach.md): also concerns Sean Dyche, from a different document.
+- [Arsenal vs Chelsea: London Derby Form Guide, October 2023](arsenal_chelsea_london_derby_october_2023_form_guide.md): same source document (doc_0300)
+- [Chelsea vs Arsenal: Derby Team News, October 2023](chelsea_arsenal_derby_team_news_october_2023.md): same source document (doc_0300)
+- [England's 2023 Cricket World Cup Qualification Crisis](england_cricket_world_cup_2023_qualification_crisis.md): same source document (doc_0300)
+- [England vs South Africa: 2023 Rugby World Cup Semi-Final](england_south_africa_rugby_world_cup_semi_final_2023.md): same source document (doc_0300)
+- [Newcastle vs Crystal Palace Preview, October 2023](newcastle_versus_crystal_palace_october_2023_preview.md): same source document (doc_0300)
+- [Premier League](term_premier_league.md): uses the concept premier league
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

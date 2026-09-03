@@ -11,6 +11,7 @@ Its design answered a specific earlier threat. After Operation Protective Edge i
 
 ## Related Notes
 
+
 - [Disinformation on X Gaza](disinformation_on_x_gaza.md): also discusses Gaza Strip, from a different source document.
 - [Epoch Times 2020 Election and Pro Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): also discusses President Donald Trump, from a different source document.
 - [EU Warning Letter to X](eu_warning_letter_to_x.md): also discusses Gaza Strip, from a different source document.
@@ -18,6 +19,10 @@ Its design answered a specific earlier threat. After Operation Protective Edge i
 - [Gaza Humanitarian Crisis October 2023 Supply Cutoff](gaza_humanitarian_crisis_october_2023_supply_cutoff.md): conditions in the enclave the fence enclosed, from a different source document.
 - [The Berlin Wall's Low-Tech Defense Lesson](berlin_wall_low_tech_defense_lesson.md): the historical comparison the article sets against it (doc_0078).
 - [IDF Small and Smart Army Doctrine](idf_small_and_smart_army_doctrine.md): the doctrine the barrier expressed (doc_0078).
+- [The Iron Dome's Strategic Paradox](iron_dome_strategic_paradox.md): same source document (doc_0078)
+- [What Israeli Leaders Claimed The Gaza Barrier Would Do](israeli_leaders_claims_about_the_gaza_barrier.md): same source document (doc_0078)
+- [Israel's Restraint Policy Toward Gaza](israeli_restraint_policy_toward_gaza.md): same source document (doc_0078)
+- [In-Car Surveillance](term_in_car_surveillance.md): uses the concept in car surveillance
 
 ## Source
 

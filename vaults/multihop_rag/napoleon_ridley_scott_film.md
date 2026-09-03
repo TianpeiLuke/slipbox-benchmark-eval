@@ -13,6 +13,7 @@ But between those massive and awe-inspiring battles, the film finds time to gawk
 
 ## Related Notes
 
+
 - [Hunger Games, Trolls, Wish, Napoleon, Holdovers](hunger_games_trolls_wish_napoleon_holdovers.md): covers the same film, star, and director in a release-schedule article
 - [Joker: Folie à Deux](joker_folie_a_deux.md): another Joaquin Phoenix project, from a different source document
 - [US Weekend Box Office Top Ten, December 2023](us_weekend_box_office_top_ten_december_2023.md): tracks the same film's theatrical run in a separate document
@@ -21,6 +22,8 @@ But between those massive and awe-inspiring battles, the film finds time to gawk
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
 - [Barbenheimer Summer 2023 Phenomenon](barbenheimer_summer_2023_phenomenon.md): the year-in-review framing published with this list
 - [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): another entry from the same ranked list
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): same source document (doc_0094)
+- [Broker (Hirokazu Kore-eda)](broker_hirokazu_kore_eda.md): same source document (doc_0094)
 
 ## Source
 

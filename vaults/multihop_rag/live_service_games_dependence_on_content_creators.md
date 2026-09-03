@@ -13,11 +13,18 @@ The relation runs both ways, and taxes the other side too. While a Twitch stream
 
 ## Related Notes
 
+
 - [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): another Twitch streamer-ecosystem subject from a different source document
 - [Moni's UserVoice TwitchCon Critique](moni_uservoice_twitchcon_critique.md): another streamer-versus-platform subject from a separate article
 - [Streamers Who Cannot Afford to Leave Kick](streamers_who_cannot_afford_to_leave_kick.md): overlapping livelihood-and-contracts subject matter from a different document
 - [Twitch Advertising Strategy](twitch_advertising_strategy.md): another Twitch creator-economics note from a separate source
 - [Twitch's Investment in Sports Streamers](twitch_investment_in_sports_streamers.md): another note on platforms cultivating creators
+- [Fortnite's Live-Service Content Treadmill](fortnite_live_service_content_treadmill.md): same source document (doc_0545)
+- [Negative Sentiment as Profitable Streaming Discourse](negative_sentiment_as_profitable_streaming_discourse.md): same source document (doc_0545)
+- [Rising Game Development and Marketing Budgets](rising_game_development_and_marketing_budgets.md): same source document (doc_0545)
+- [Streamer Burnout and Extreme Stream Formats](streamer_burnout_and_extreme_stream_formats.md): same source document (doc_0545)
+- [Streamers Do Not Represent Typical Player Behavior](streamers_do_not_represent_typical_player_behavior.md): same source document (doc_0545)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
 
 ## Source
 

@@ -15,6 +15,7 @@ The trio's grand final heartbreak sparked renewed debate about whether every pla
 
 ## Related Notes
 
+
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): grouped with this note under the shared data-privacy topic tag, from a different source document.
 - [AI Civil Rights and Consumer Protections in the EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): shares the data-privacy topic tag, from a different source document.
 - [Alexa Kids Privacy and Hardware](alexa_kids_privacy_and_hardware.md): shares the data-privacy topic tag, from a different source document.
@@ -23,6 +24,13 @@ The trio's grand final heartbreak sparked renewed debate about whether every pla
 - [Apple iOS Security Fixes and Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares the data-privacy topic tag, from a different source document.
 - [Apple Privacy Stance Versus Google Default Payments](apple_privacy_stance_versus_google_default_payments.md): shares the data-privacy topic tag, from a different source document.
 - [ASPI Analysis of TikTok Pixel Data Aggregation Risk](aspi_analysis_of_tiktok_pixel_data_aggregation_risk.md): shares the data-privacy topic tag, from a different source document.
+- [Brayden Maynard Says Collingwood's 2023 Premiership Is "Just The Beginning"](brayden_maynard_collingwood_dynasty_ambition.md): same source document (doc_0220)
+- [Collingwood's Post-Premiership Celebration And Its 16th Flag](collingwood_post_premiership_celebration_and_club_history.md): same source document (doc_0220)
+- [Craig McRae's "44 Sons" Shirt Collar Message](craig_mcrae_44_sons_shirt_collar_message.md): same source document (doc_0220)
+- [Jeremy Howe Played Out The 2023 Grand Final With Bruised Ribs](jeremy_howe_rib_injury_2023_afl_grand_final.md): same source document (doc_0220)
+- [Oleg Markov's Journey From The AFL Scrapheap To Collingwood Premiership Hero](oleg_markov_collingwood_premiership_journey.md): same source document (doc_0220)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

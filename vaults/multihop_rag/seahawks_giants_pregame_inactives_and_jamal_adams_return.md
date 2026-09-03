@@ -11,11 +11,18 @@ Barkley, listed as doubtful with a high ankle sprain, had no concrete availabili
 
 ## Related Notes
 
+
 - [Cowboys Fantasy Start Recommendations Week 13](cowboys_fantasy_start_recommendations_week_13.md): also discusses Jamal Adams.
 - [Fantasy RB PPR Rankings Week 14 Full List](fantasy_rb_ppr_rankings_week_14_full_list.md): also discusses Saquon Barkley.
 - [Fantasy RB Standard Rankings Week 14 Full List](fantasy_rb_standard_rankings_week_14_full_list.md): also discusses Saquon Barkley.
 - [Fantasy RB Week 14 Top Starts PPR](fantasy_rb_week_14_top_starts_ppr.md): also discusses Saquon Barkley.
 - [Fantasy RB Week 14 Top Starts Standard](fantasy_rb_week_14_top_starts_standard.md): also discusses Saquon Barkley.
+- [ESPN's 2023 Monday Night Football Broadcast, Manningcast And Streaming](monday_night_football_2023_broadcast_and_streaming.md): same source document (doc_0290)
+- [Seahawks-Giants First Half: Penalties, A Geno Smith Knee Scare, And A 14-3 Lead](seahawks_giants_first_half_live_blog.md): same source document (doc_0290)
+- [Seahawks-Giants Second Half: Witherspoon's 97-Yard Pick-Six Ends The Contest](seahawks_giants_second_half_live_blog.md): same source document (doc_0290)
+- [Seahawks Sack Daniel Jones 11 Times In A 24-3 Monday Night Win](seahawks_shut_down_giants_week_4_monday_night_recap.md): same source document (doc_0290)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

@@ -13,12 +13,17 @@ Thomas Hand said he hopes the billboards will remind Americans of the ongoing te
 
 ## Related Notes
 
+
 - [Emily Hand Abduction From Kibbutz Beeri](emily_hand_abduction_from_kibbutz_beeri.md): same interview, on how Emily became one of the hostages
 - [Beeri Kibbutz Casualties And Displaced Residents](beeri_kibbutz_casualties_and_displaced_residents.md): same interview, on the community losses behind the campaign
 - [Emily Hand Dancing Talent And Beyonce Routines](emily_hand_dancing_talent_and_beyonce_routines.md): same source document
 - [Nba 2023 Christmas Day Game Slate](nba_2023_christmas_day_game_slate.md): shares the Madison Square Garden venue, unrelated subject
 - [Anthony Joshua Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): shares the Madison Square Garden venue, unrelated subject
 - [Reich And Mulligan Early Performing Gigs](reich_and_mulligan_early_performing_gigs.md): shares the Times Square setting, unrelated subject
+- [Injury Context For The Tuesday NHL National Slate](nhl_tuesday_slate_injury_context.md): both discuss Madison Square Garden; different source document
+- [UFC 295: A Lost Main Event, Two Title Fights And A Season Betting Record Of 28-28](ufc_295_card_changes_and_main_events.md): both discuss Madison Square Garden; different source document
+- [Emily Hand's Ninth Birthday In Gaza Captivity](emily_hand_ninth_birthday_in_gaza_captivity.md): same source document (doc_0596)
+- [Hostage Poster Tearing In Midtown Manhattan](hostage_poster_tearing_in_midtown_manhattan.md): same source document (doc_0596)
 
 ## Source
 

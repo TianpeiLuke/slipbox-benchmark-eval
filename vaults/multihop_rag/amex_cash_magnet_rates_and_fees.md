@@ -11,6 +11,7 @@ The remaining fees are a $0 annual fee, a foreign transaction fee of 2.7% of eac
 
 ## Related Notes
 
+
 - [Delta Gold Business Card Fees And Eligibility](delta_gold_business_card_fees_and_eligibility.md): overlapping coverage of variable APRs and transaction fees, from a different source document.
 - [Delta SkyMiles Gold Business Welcome Bonus](delta_skymiles_gold_business_welcome_bonus.md): overlapping coverage of intro periods from account opening, from a different source document.
 - [Fifth Third 1.67% Card Rates And Fees](fifth_third_1_67_card_rates_and_fees.md): overlapping coverage of variable APRs and balance transfer terms, from a different source document.
@@ -18,6 +19,11 @@ The remaining fees are a $0 annual fee, a foreign transaction fee of 2.7% of eac
 - [Marshall's Frisco Bowl Transfer Portal Exodus](marshall_frisco_bowl_transfer_portal_exodus.md): overlapping use of the transfer terminology, from a different source document.
 - [Alternatives To The Amex Cash Magnet Card](alternatives_to_amex_cash_magnet_card.md): drawn from the same source document (doc_0471).
 - [Amex Cash Magnet Approval Odds And Credit Limits](amex_cash_magnet_approval_odds_and_credit_limits.md): drawn from the same source document (doc_0471).
+- [The Amex Cash Magnet Best-Fit Cardholder Profile](amex_cash_magnet_best_fit_cardholder_profile.md): same source document (doc_0471)
+- [American Express Cash Magnet Card: Overview](amex_cash_magnet_card_overview.md): same source document (doc_0471)
+- [Amex Cash Magnet Cardholder Benefits](amex_cash_magnet_cardholder_benefits.md): same source document (doc_0471)
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
+- [Transfer Window](term_transfer_window.md): uses the concept transfer window
 
 ## Source
 

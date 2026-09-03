@@ -11,6 +11,7 @@ Her grounds are that the arrangement's organising purpose is continuity of the p
 
 ## Related Notes
 
+
 - [Will And Jada Denials Of Open Marriage And Divorce Rumours](will_and_jada_denials_of_open_marriage_and_divorce_rumours.md): the couple's own insistence that separation is not divorce
 - [Will And Jada Life Partnership Framing](will_and_jada_life_partnership_framing.md): the Smiths' own vocabulary for the arrangement Winter labels LAT
 - [Will Smith Baltimore Book Event Remarks On Brutiful Marriage](will_smith_baltimore_book_event_remarks_on_brutiful_marriage.md): Smith's public account of living inside such a separated marriage
@@ -19,6 +20,8 @@ Her grounds are that the arrangement's organising purpose is continuity of the p
 - [Expert Debate Over The Oscars Slap Given The Separation](expert_debate_over_the_oscars_slap_given_the_separation.md): the same two experts disagreeing over the Oscars incident
 - [Expert Signs It Is Time To End A Marriage](expert_signs_it_is_time_to_end_a_marriage.md): Winter's account of when the LAT option should give way to divorce
 - [Jada Pinkett Smith 2023 Separation Disclosure](jada_pinkett_smith_2023_separation_disclosure.md): the disclosure that prompted this expert commentary
+- [Jada Pinkett Smith's "Entanglement" With August Alsina](jada_pinkett_smith_august_alsina_entanglement.md): same source document (doc_0036)
+- [The Terms Of A Separation Agreement Determine Its Outcome](terms_of_a_separation_agreement_determine_its_outcome.md): same source document (doc_0036)
 
 ## Source
 

@@ -13,11 +13,21 @@ One practical limit on the deterrent: while the price for X ignoring the EU's wa
 
 ## Related Notes
 
+
 - [Digital Services Act](digital_services_act.md): substantial content overlap on vlops, disinformation, obligation, from a different source document.
 - [DMA DSA Oversight of Meta Advertising Consent](dma_dsa_oversight_of_meta_advertising_consent.md): shares the digital services act and very large online platform theme, from a different source document.
 - [DSA Enforcement Powers and Penalties](dsa_enforcement_powers_and_penalties.md): shares the digital services act, fine penalty and very large online platform theme, from a different source document.
 - [Equity Valuations versus Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): shares the earnings report and fine penalty theme, from a different source document.
 - [EU Commission Prior Requests for Information to X](eu_commission_prior_requests_for_information_to_x.md): shares the digital services act and disinformation theme, from a different source document.
+- [The EU Code Of Practice On Disinformation](eu_code_of_practice_on_disinformation.md): same source document (doc_0248)
+- [EU Demands On Fact-Checking And Researcher Data Access](eu_demands_on_fact_checking_and_researcher_data_access.md): same source document (doc_0248)
+- [EU Warning On Deepfake Election Risks](eu_warning_on_deepfake_election_risks.md): same source document (doc_0248)
+- [Google's Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): same source document (doc_0248)
+- [Kremlin Propaganda And Platform Countermeasures](kremlin_propaganda_and_platform_countermeasures.md): same source document (doc_0248)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Very Large Online Platform (VLOP)](term_very_large_online_platform.md): uses the concept very large online platform
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

@@ -11,11 +11,19 @@ The routine runs on a fixed cadence and a fixed set of sources. Every Tuesday th
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also covers Puka Nacua, cited here as a past breakout, from a different document.
 - [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md): also covers Puka Nacua, from a different document.
 - [DeAndre Hopkins Week 5 2023 Start Recommendation](deandre_hopkins_week5_2023_start_recommendation.md): also covers Puka Nacua, from a different document.
 - [DraftKings Sportsbook Kentucky](draftkings_sportsbook_kentucky.md): also concerns DraftKings and daily fantasy, from a different document.
 - [Ezekiel Elliott, Patriots Lead Back and FanDuel MVP](ezekiel_elliott_patriots_lead_back_fanduel_mvp.md): applies the same daily-fantasy approach to a single game, from a different document.
+- [NFL DFS Week 15 Defense And Special Teams Values](nfl_dfs_week_15_defense_special_teams_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Quarterback Values](nfl_dfs_week_15_quarterback_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Running Back Values](nfl_dfs_week_15_running_back_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Tight End Values](nfl_dfs_week_15_tight_end_values.md): same source document (doc_0544)
+- [NFL DFS Week 15 Wide Receiver Values](nfl_dfs_week_15_wide_receiver_values.md): same source document (doc_0544)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

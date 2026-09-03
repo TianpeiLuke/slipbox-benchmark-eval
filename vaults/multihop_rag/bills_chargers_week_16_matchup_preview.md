@@ -11,11 +11,19 @@ Buffalo would be the first foes faced by Chargers interim head coach Giff Smith,
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also covers the Los Angeles Chargers, from a different document.
 - [Bills-Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also covers Josh Allen, from a different document.
 - [Bills-Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): also covers Josh Allen, from a different document.
 - [Buffalo Bills Defensive Injuries 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): covers the same Bills team's condition that season, from a different document.
 - [Chargers 6-0 Patriots Shutout, Week 13](chargers_6_0_patriots_shutout_week_13.md): also covers the Los Angeles Chargers, from a different document.
+- [Buffalo's Against-The-Spread Trends In 2023](bills_against_the_spread_trends_2023.md): same source document (doc_0376)
+- [Why Sporting News Picked The Bills In Week 16](bills_chargers_week_16_pick_and_rationale.md): same source document (doc_0376)
+- [Bills vs. Chargers Week 16 Player Props](bills_chargers_week_16_player_props.md): same source document (doc_0376)
+- [Buffalo's AFC Wild Card Position Going Into Week 16](buffalo_bills_afc_wild_card_position_week_16.md): same source document (doc_0376)
+- [Chargers Betting Trends With Easton Stick At Quarterback](chargers_betting_trends_with_easton_stick.md): same source document (doc_0376)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

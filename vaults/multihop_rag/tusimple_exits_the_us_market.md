@@ -11,6 +11,7 @@ When TuSimple went public in 2021 it was flying high as the leading self-driving
 
 ## Related Notes
 
+
 - [Tech Layoffs August 2023](tech_layoffs_august_2023.md): overlapping coverage of workforce cuts, from a different source document.
 - [Tech Layoffs May 2023](tech_layoffs_may_2023.md): overlapping coverage of TuSimple's workforce cuts, from a different source document.
 - [Tidalflow LLM Integration](tidalflow_llm_integration.md): overlapping coverage of startup exits, from a different source document.
@@ -19,6 +20,8 @@ When TuSimple went public in 2021 it was flying high as the leading self-driving
 - [Battery Swapping Ecosystem And Unit Economics Challenges](battery_swapping_ecosystem_and_unit_economics_challenges.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
 - [Bitcoin's Ascent To $44,000](bitcoin_ascent_to_44000_dollars.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
 - [Consumer Trading Recovery: Coinbase And Robinhood](consumer_trading_recovery_coinbase_and_robinhood.md): drawn from the same source document (doc_0334), another item in the same weekly roundup.
+- [David Pakman's Venture Background At CoinFund](david_pakman_coinfund_venture_background.md): same source document (doc_0334)
+- [DICOM Medical Imaging Server Exposure](dicom_medical_imaging_server_exposure.md): same source document (doc_0334)
 
 ## Source
 

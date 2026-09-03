@@ -11,9 +11,18 @@ Two of his own positions supply the contradiction. Like many of his Republican c
 
 ## Related Notes
 
+
 - [Annie Wu Henry On Gen Z Authenticity](annie_wu_henry_on_gen_z_authenticity.md): same source document; the strategist's account of why young users detect this kind of mismatch.
 - [AOC's Twitch Among Us Stream](aoc_twitch_among_us_stream.md): same source document; an example of the social-media stardom Ramaswamy is trying to replicate.
 - [TikTok Music Discovery And Sharing Rates](tiktok_music_discovery_and_sharing_rates.md): overlaps in content on TikTok as a social platform, from a different source document.
+- [Democratic Dominance In Campaign Social Media](democratic_social_media_campaign_dominance.md): same source document (doc_0468)
+- [Doug Mastriano's Facebook Live Campaign](doug_mastriano_facebook_live_campaign.md): same source document (doc_0468)
+- [Gen Z Policy Misalignment With The Republican Party](gen_z_policy_misalignment_republican_party.md): same source document (doc_0468)
+- [Influencer Mobilization Beats Endorsement](influencer_mobilization_versus_endorsement_research.md): same source document (doc_0468)
+- [Jake Paul Endorsement Backlash](jake_paul_endorsement_backlash.md): same source document (doc_0468)
+- [Matt Gaetz's Twitch Debut Failure](matt_gaetz_twitch_debut_failure.md): same source document (doc_0468)
+- [Mehmet Oz's TikTok Campaign](mehmet_oz_tiktok_campaign.md): same source document (doc_0468)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

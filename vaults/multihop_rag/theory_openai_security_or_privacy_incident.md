@@ -11,11 +11,19 @@ What works against this theory is the identity of the replacement. CTO Mira Mura
 
 ## Related Notes
 
+
 - [Greg Brockman's Account Of Altman's Removal](greg_brockman_account_of_altman_removal.md): an insider account of what the board acted on, from a different document.
 - [Greg Brockman's Departure From OpenAI](greg_brockman_departure_from_openai.md): also covers Mira Murati's elevation, from a different document.
 - [Microsoft's OpenAI Investment And Early Capability Tests](microsoft_openai_investment_and_early_capability_tests.md): bears on Microsoft's internal use of OpenAI models, from a different document.
 - [Microsoft's OpenAI Partnership And Response To The Firing](microsoft_openai_partnership_and_response_to_firing.md): covers Microsoft's posture and Murati, from a different document.
 - [OpenAI Board Composition And The Helen Toner Dispute](openai_board_composition_and_helen_toner_dispute.md): overlaps on the board's stated safety concerns, from a different document.
+- [Dismissed Theories: A Murati Coup And A Personal Matter](dismissed_theories_murati_coup_and_personal_matter.md): same source document (doc_0333)
+- [The OpenAI Board Ousts Sam Altman, November 2023](openai_board_ousts_sam_altman_november_2023.md): same source document (doc_0333)
+- [Theory: Altman Circumvented The Board On A Deal](theory_altman_circumvented_board_on_a_deal.md): same source document (doc_0333)
+- [Theory: An AGI And Mission Rift Between Altman And The Board](theory_openai_agi_mission_rift.md): same source document (doc_0333)
+- [Theory: Copyright Liability Over OpenAI's Training Data](theory_openai_copyright_liability.md): same source document (doc_0333)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

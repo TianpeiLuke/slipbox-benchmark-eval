@@ -13,6 +13,7 @@ He spoke from Leeds, where he was visiting his younger daughter Gracie, 21, who 
 
 ## Related Notes
 
+
 - [Owen Teale Barry The Bear Route Into Acting](owen_teale_barry_the_bear_route_into_acting.md): same interview, on the chance meeting he refers to here
 - [Jon Snow Death Scene Fan Reactions To Owen Teale](jon_snow_death_scene_fan_reactions_to_owen_teale.md): same interview, on the most famous of these villain roles
 - [Owen Teale Missed Leading Man Opportunities](owen_teale_missed_leading_man_opportunities.md): same interview, on the leading roles he did not take
@@ -20,6 +21,8 @@ He spoke from Leeds, where he was visiting his younger daughter Gracie, 21, who 
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): also concerns Amazon Prime, unrelated subject
 - [Amazon Prime Holiday 2023 Delivery Cutoffs](amazon_prime_holiday_2023_delivery_cutoffs.md): also concerns Amazon Prime, unrelated subject
 - [Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): also concerns Amazon Prime, unrelated subject
+- [Amazon Price Matching And Return Policy](amazon_price_matching_and_return_policy.md): both discuss Amazon Prime; different source document
+- [How Owen Teale Sources Darkness For Scrooge And Alliser Thorne](owen_teale_sourcing_darkness_for_scrooge_and_alliser_thorne.md): same source document (doc_0578)
 
 ## Source
 

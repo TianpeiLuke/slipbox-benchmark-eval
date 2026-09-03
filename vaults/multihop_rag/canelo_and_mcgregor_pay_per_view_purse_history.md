@@ -11,6 +11,7 @@ On Conor McGregor's side, he has created his own history in MMA as well as boxin
 
 ## Related Notes
 
+
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): covers the Jermell Charlo fight counted here, from a different source document.
 - [Canelo Charlo Round-by-Round Scorecard](canelo_charlo_round_by_round_scorecard.md): also covers Jermell Charlo, from a different source document.
 - [Mayweather Ortiz 2011 Knockout After Headbutt](mayweather_ortiz_2011_knockout_after_headbutt.md): shares the McGregor-and-Mayweather subject matter, from a different source document.
@@ -19,6 +20,8 @@ On Conor McGregor's side, he has created his own history in MMA as well as boxin
 - [Canelo Alvarez Undisputed Titles and Net Worth](canelo_alvarez_undisputed_titles_and_net_worth.md): the wealth context for these purses, from the same article (doc_0194).
 - [Canelo Projected Path to Mayweather Wealth](canelo_projected_path_to_mayweather_wealth.md): the projection these numbers support, from the same article (doc_0194).
 - [Canelo vs McGregor Superfight Revenue Case](canelo_vs_mcgregor_superfight_revenue_case.md): the revenue argument these numbers evidence, from the same article (doc_0194).
+- [How An X Feud Turned Conor McGregor vs Canelo Alvarez Into A Crossover Boxing Prospect](crossover_boxing_and_the_mcgregor_canelo_feud.md): same source document (doc_0194)
+- [Floyd Mayweather's $450 Million Net Worth And Billion-Dollar Career Earnings](floyd_mayweather_net_worth_and_career_earnings.md): same source document (doc_0194)
 
 ## Source
 

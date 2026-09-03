@@ -11,6 +11,7 @@ The prizes in literature, peace and economics followed, with one announcement ev
 
 ## Related Notes
 
+
 - [Quantum Dots: The 2023 Chemistry Nobel Award](quantum_dots_2023_chemistry_nobel_award.md): also concerns the Nobel Prize, from a different source document.
 - [Vincent Namatjira's Ramsay And Archibald Prize Wins](vincent_namatjira_ramsay_and_archibald_prize_wins.md): overlapping coverage of prizes and prize sequences, from a different source document.
 - [Amazon Seller Skepticism Of The FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares the COVID-19 theme from a different source document.
@@ -19,6 +20,16 @@ The prizes in literature, peace and economics followed, with one announcement ev
 - [Capital Rotation From China Into Japanese Assets](capital_rotation_from_china_into_japanese_assets.md): shares the COVID-19 theme from a different source document.
 - [Capitol Music Group Leadership Turmoil 2020-2021](capitol_music_group_leadership_turmoil_2020_2021.md): shares the COVID-19 theme from a different source document.
 - [Capitol Music Group Pre-2021 Decline Diagnosis](capitol_music_group_pre_2021_decline_diagnosis.md): shares the COVID-19 theme from a different source document.
+- [Laboratory Development Of Quantum Dots, 1980s To 1993](laboratory_development_of_quantum_dots_1980s_to_1993.md): same source document (doc_0262)
+- [The 2023 Laureates On Basic Research As The Motivation](nobel_laureates_on_basic_research_motivation.md): same source document (doc_0262)
+- [The 2023 Nobel Prize In Chemistry For Quantum Dots](nobel_prize_chemistry_2023_quantum_dots.md): same source document (doc_0262)
+- [The Nobel Prize Nomination And Selection Procedure](nobel_prize_nomination_and_selection_procedure.md): same source document (doc_0262)
+- [The Premature Leak Of The 2023 Chemistry Nobel Announcement](premature_leak_of_2023_chemistry_nobel_announcement.md): same source document (doc_0262)
+- [Quantum Dot Applications In Displays And Biomedical Imaging](quantum_dot_applications_displays_and_biomedical_imaging.md): same source document (doc_0262)
+- [Quantum Dots: Definition And The Size-Color Relationship](quantum_dots_definition_and_size_color_relationship.md): same source document (doc_0262)
+- [How The 2023 Chemistry Nobel Laureates Reacted](reactions_of_2023_chemistry_nobel_laureates.md): same source document (doc_0262)
+- [Nobel Prize](term_nobel_prize.md): uses the concept nobel prize
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

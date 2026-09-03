@@ -13,6 +13,7 @@ CEO John Donahoe, who said he had travelled to China twice in the previous four 
 
 ## Related Notes
 
+
 - [Cyber Week 2023 Online Spend Forecasts](cyber_week_2023_online_spend_forecasts.md): another consumer-spending measure from the same season.
 - [Uber Q3 2023 Profitability Metrics](uber_q3_2023_profitability_metrics.md): another year-over-year quarterly comparison.
 - [US VC Investment in China Decline Data](us_vc_investment_in_china_decline_data.md): another read on China's economic pull in the same period.
@@ -21,6 +22,8 @@ CEO John Donahoe, who said he had travelled to China twice in the previous four 
 - [Nike Fiscal Q1 2024 Headline Results](nike_fiscal_q1_2024_headline_results.md): the group results this region contributed to.
 - [Nike Gross Margin Fiscal Q1 2024](nike_gross_margin_fiscal_q1_2024.md): another investor focus area in the same quarter.
 - [Nike Inventory Reduction Fiscal Q1 2024](nike_inventory_reduction_fiscal_q1_2024.md): the inventory position behind the same results.
+- [Nike Regional and Product Category Sales Fiscal Q1 2024](nike_regional_and_product_category_sales_fiscal_q1_2024.md): same source document (doc_0215)
+- [Nike Wholesale Partner Relationship Reset](nike_wholesale_partner_relationship_reset.md): same source document (doc_0215)
 
 ## Source
 

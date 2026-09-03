@@ -11,6 +11,7 @@ The grounds are the unpredictability of what a trial surfaces, voiced by Yesha Y
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony And The Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): also concerns Sam Bankman-Fried, from a different source document.
 - [Alameda's Special Privileges In FTX Code](alameda_special_privileges_in_ftx_code.md): also concerns Sam Bankman-Fried, from a different source document.
 - [Caroline Ellison's Guilty Plea And First Day Of Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): also concerns Sam Bankman-Fried, from a different source document.
@@ -19,6 +20,8 @@ The grounds are the unpredictability of what a trial surfaces, voiced by Yesha Y
 - [Bankman-Fried's Defense Strategy And Appeal Groundwork](bankman_fried_defense_strategy_and_appeal_groundwork.md): drawn from the same source document (doc_0175).
 - [Bankman-Fried's Post-Bankruptcy Media Tour](bankman_fried_post_bankruptcy_media_tour.md): drawn from the same source document (doc_0175).
 - [Bankman-Fried's Pre-Collapse Public Image Strategy](bankman_fried_pre_collapse_public_image_strategy.md): drawn from the same source document (doc_0175).
+- [John J. Ray III Running The FTX Estate](john_ray_iii_running_the_ftx_estate.md): same source document (doc_0175)
+- [Prosecution Allegations In The FTX Superseding Indictment](prosecution_allegations_in_the_ftx_superseding_indictment.md): same source document (doc_0175)
 
 ## Source
 

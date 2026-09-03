@@ -21,11 +21,19 @@ In wider responses related to concerns about how much commercial interest had in
 
 ## Related Notes
 
+
 - [The Digital Services Act](digital_services_act.md): the EU rulebook whose obligations frame this hearing, and it likewise turns on Member States, from a different source document.
 - [EU Commission Prior Requests For Information To X](eu_commission_prior_requests_for_information_to_x.md): shares the disinformation and regulatory-investigation themes, from a different source document.
 - [EU Demands On Fact Checking And Researcher Data Access](eu_demands_on_fact_checking_and_researcher_data_access.md): another case of the Commission demanding evidence and transparency, and it likewise turns on Member States, from a different source document.
 - [EU AI Act Phased Entry Into Force Timeline](eu_ai_act_phased_entry_into_force_timeline.md): another EU legislative file whose obligations fall on Member States, from a different source document.
 - [EU AI Office And Scientific Advisory Panel](eu_ai_office_and_scientific_advisory_panel.md): another EU body drawing on outside expert input alongside Member States, from a different source document.
+- [The Commission's Microtargeted Ad Campaign For CSAM Scanning](commission_microtargeted_ad_campaign.md): same source document (doc_0457)
+- [Johansson's Rebuttals To The Case Against The CSAM Scanning Proposal](csam_proposal_opposition.md): same source document (doc_0457)
+- [The Commission's Defence Of Political Ad Targeting And The Channels MEPs Say It Bypassed](dsa_political_ad_restrictions.md): same source document (doc_0457)
+- [The EU CSAM Scanning Proposal](eu_csam_scanning_proposal.md): same source document (doc_0457)
+- [CSAM Scanning](term_csam_scanning.md): uses the concept csam scanning
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
 
 ## Source
 

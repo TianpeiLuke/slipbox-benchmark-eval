@@ -11,6 +11,7 @@ The question the work addresses is how stem cells choose an identity. Stem cells
 
 ## Related Notes
 
+
 - [Antibody-Drug Conjugates Market](antibody_drug_conjugates_market.md): another note on cells and cancer biology.
 - [Cancer Immunotherapy Checkpoint Inhibitors](cancer_immunotherapy_checkpoint_inhibitors.md): another cancer-cell mechanism note.
 - [CAR T-Cell Therapy](car_t_cell_therapy.md): another cell-based cancer research note.
@@ -19,6 +20,8 @@ The question the work addresses is how stem cells choose an identity. Stem cells
 - [Daam1 Controls Paneth Cell Fate in Mice](daam1_controls_paneth_cell_fate_in_mice.md): the in vivo result of this study.
 - [Intestinal Organoid Knockout Experiments](intestinal_organoid_knockout_experiments.md): the organoid experiments behind this finding.
 - [Intestinal Stem Cell Balance and Wnt Signalling](intestinal_stem_cell_balance_and_wnt_signalling.md): the signalling context this gene acts within.
+- [Paneth Cell Niche Explains Organoid Versus Intestine Divergence](paneth_cell_niche_explains_organoid_versus_intestine_divergence.md): same source document (doc_0302)
+- [Rnf43-Daam1 Frizzled Degradation Mechanism](rnf43_daam1_frizzled_degradation_mechanism.md): same source document (doc_0302)
 
 ## Source
 

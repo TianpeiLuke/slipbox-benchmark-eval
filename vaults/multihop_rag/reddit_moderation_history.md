@@ -13,10 +13,15 @@ He extended the observation beyond any single platform, to the combined load of 
 
 ## Related Notes
 
+
 - [Reddit API and Third-Party Apps](reddit_api_third_party_apps.md): overlapping coverage of Reddit as a platform and business, from a different source document.
 - [Israeli Tech Industry Boycott of Web Summit](israel_tech_industry_boycott.md): a companion note in the same platform-governance batch, on how fast a conversation can move against a platform.
 - [Web Summit Business Impact](web_summit_business_impact.md): a companion note in the same batch, on the commercial consequences of a viral pile-on.
 - [Web Summit Cosgrave Controversy](web_summit_cosgrave_controversy.md): a companion note in the same batch, a worked case of user-generated posts becoming the epicenter of a conversation.
+- [Ohanian's Critique of Social Media and the Creator Economy](ohanian_social_media_critique.md): same source document (doc_0278)
+- [Ohanian's Case for Techno-Optimism](ohanian_techno_optimism.md): same source document (doc_0278)
+- [Why Platforms Cannot Arbitrate Truth](platform_truth_arbitration.md): same source document (doc_0278)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

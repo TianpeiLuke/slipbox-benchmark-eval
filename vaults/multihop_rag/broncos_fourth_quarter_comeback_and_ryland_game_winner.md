@@ -11,6 +11,7 @@ The live blog recorded the sequence in order: at 10:44 p.m. the Broncos edged de
 
 ## Related Notes
 
+
 - [Chargers 6-0 Patriots Shutout, Week 13](chargers_6_0_patriots_shutout_week_13.md): another Patriots game turning on field goals, from a different document.
 - [Chiefs-Jets Second Half Live Blog](chiefs_jets_second_half_live_blog.md): another live-blog account of a late two-point and touchdown sequence, from a different document.
 - [Colorado-Arizona State 2023 Second Half](colorado_arizona_state_2023_second_half.md): another play-by-play account of late touchdowns, from a different document.
@@ -19,6 +20,8 @@ The live blog recorded the sequence in order: at 10:44 p.m. the Broncos edged de
 - [Patriots 26-23 Broncos on Christmas Eve 2023](patriots_26_23_broncos_christmas_eve_result.md): gives the final result this sequence produced, from the same document.
 - [Patriots-Broncos First Half Play by Play](patriots_broncos_first_half_play_by_play.md): gives the first half of the same game, from the same document.
 - [Patriots-Broncos Playoff and Draft Implications](patriots_broncos_playoff_and_draft_implications.md): gives what this result meant for both teams, from the same document.
+- [Patriots-Broncos Pregame Inactives And Lineups](patriots_broncos_pregame_inactives_and_lineups.md): same source document (doc_0449)
+- [Patriots-Broncos Start Time And Broadcast Details](patriots_broncos_start_time_and_broadcast_details.md): same source document (doc_0449)
 
 ## Source
 

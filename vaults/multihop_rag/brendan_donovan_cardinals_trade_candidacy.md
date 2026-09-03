@@ -11,6 +11,7 @@ The 26-year-old hit .284/.365/.422 with 11 homers through 371 plate appearances 
 
 ## Related Notes
 
+
 - [Kei Kamara Chicago Fire Role And Scoring Record](kei_kamara_chicago_fire_role_and_scoring_record.md): overlaps on a shared name term, from a different document.
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): another candidate on the same list, from the same document.
@@ -19,6 +20,8 @@ The 26-year-old hit .284/.365/.422 with 11 homers through 371 plate appearances 
 - [Christopher Morel Cubs Trade Candidacy](christopher_morel_cubs_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Corbin Burnes And Willy Adames Brewers Trade Candidacy](corbin_burnes_willy_adames_brewers_trade_candidacy.md): another candidate on the same list, from the same document.
 - [Dylan Carlson Cardinals Trade Candidacy](dylan_carlson_cardinals_trade_candidacy.md): the other Cardinals candidate compared against him here, from the same document.
+- [Dylan Cease White Sox Trade Candidacy](dylan_cease_white_sox_trade_candidacy.md): same source document (doc_0118)
+- [Eloy Jimenez White Sox Trade Candidacy](eloy_jimenez_white_sox_trade_candidacy.md): same source document (doc_0118)
 
 ## Source
 

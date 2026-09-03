@@ -11,6 +11,7 @@ The grounds run across three kinds of contribution: the No. 1 overall pick in 20
 
 ## Related Notes
 
+
 - [NFL Defensive Player Of The Year 2023 Odds](nfl_defensive_player_of_the_year_2023_odds.md): also discusses Myles Garrett, from a different document.
 - [Player Reactions To Bears Browns Hail Mary](player_reactions_to_bears_browns_hail_mary.md): also discusses Myles Garrett, from a different document.
 - [Rams 36-19 Browns Week 13](rams_36_19_browns_week_13.md): also concerns Cleveland, from a different document.
@@ -19,6 +20,8 @@ The grounds run across three kinds of contribution: the No. 1 overall pick in 20
 - [AFC Midseason Team MVP Roundup Premise](afc_midseason_team_mvp_roundup_premise.md): the premise framing this entry, from the same document.
 - [CJ Stroud Texans Midseason MVP](cj_stroud_texans_midseason_mvp.md): another entry in the same list, from the same document.
 - [Jabrill Peppers Patriots Midseason MVP](jabrill_peppers_patriots_midseason_mvp.md): another entry in the same list, from the same document.
+- [Jeffery Simmons Titans Midseason MVP](jeffery_simmons_titans_midseason_mvp.md): same source document (doc_0515)
+- [Joe Burrow Bengals Midseason MVP](joe_burrow_bengals_midseason_mvp.md): same source document (doc_0515)
 
 ## Source
 

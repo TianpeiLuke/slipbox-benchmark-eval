@@ -11,6 +11,7 @@ The live blog logged the half in order: at 8:17 p.m. Bailey Zappe pump faked and
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): covers the Broncos and Patriots earlier in the same season, from a different document.
 - [Chargers 6-0 Patriots Shutout, Week 13](chargers_6_0_patriots_shutout_week_13.md): also covers Bailey Zappe as the Patriots quarterback, from a different document.
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): also covers Courtland Sutton, from a different document.
@@ -19,6 +20,8 @@ The live blog logged the half in order: at 8:17 p.m. Bailey Zappe pump faked and
 - [Broncos Fourth Quarter Comeback and Ryland Game Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): gives the closing sequence of the same game, from the same document.
 - [Patriots 26-23 Broncos on Christmas Eve 2023](patriots_26_23_broncos_christmas_eve_result.md): gives the final result, from the same document.
 - [Patriots-Broncos Playoff and Draft Implications](patriots_broncos_playoff_and_draft_implications.md): gives what the result meant for both teams, from the same document.
+- [Patriots-Broncos Pregame Inactives And Lineups](patriots_broncos_pregame_inactives_and_lineups.md): same source document (doc_0449)
+- [Patriots-Broncos Start Time And Broadcast Details](patriots_broncos_start_time_and_broadcast_details.md): same source document (doc_0449)
 
 ## Source
 

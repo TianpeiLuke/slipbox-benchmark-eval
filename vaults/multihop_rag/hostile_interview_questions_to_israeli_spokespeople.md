@@ -11,6 +11,7 @@ He was asked twice, in Ireland and by the Voice of America, why Hamas had been b
 
 ## Related Notes
 
+
 - [Beeri Kibbutz Casualties And Displaced Residents](beeri_kibbutz_casualties_and_displaced_residents.md): also concerns Shifa Hospital and the October 7 aftermath, from a different source document.
 - [Cristiano Ronaldo Al Nassr Move And 2023 Goal Tally](cristiano_ronaldo_al_nassr_move_and_2023_goal_tally.md): also involves Piers Morgan, from a different source document.
 - [Israel Hamas War October 2023 Context](israel_hamas_war_october_2023_context.md): covers the hostages and Gaza campaign these questions concern, from a different source document.
@@ -19,6 +20,8 @@ He was asked twice, in Ireland and by the Voice of America, why Hamas had been b
 - [Eylon Levy George Galloway Oxford Debate 2013](eylon_levy_george_galloway_oxford_debate_2013.md): drawn from the same interview and is an earlier hostile encounter.
 - [Eylon Levy Israeli Government Spokesperson](eylon_levy_israeli_government_spokesperson.md): drawn from the same interview and defines the role in which he faces these questions.
 - [Eylon Levy Kay Burley Sky News Interview](eylon_levy_kay_burley_sky_news_interview.md): drawn from the same interview and is the best-known example of such a question.
+- [The Gaza Information War And The Hamas Narrative](gaza_information_war_and_hamas_narrative.md): same source document (doc_0413)
+- [The Israeli Case For Continuing The Gaza War](israeli_case_for_continuing_the_gaza_war.md): same source document (doc_0413)
 
 ## Source
 

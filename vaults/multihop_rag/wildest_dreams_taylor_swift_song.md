@@ -11,6 +11,7 @@ Swift described the shift in her own terms to Rolling Stone: "The way I used to 
 
 ## Related Notes
 
+
 - [Bye Free Weeks Complicate Lineup Decisions](bye_free_weeks_complicate_lineup_decisions.md): incidental phrasing overlap only, from a different source document
 - [Danny Elfman Coachella Performances](danny_elfman_coachella_performances.md): also draws on Rolling Stone reporting, in a different document
 - [All You Had To Do Was Stay](all_you_had_to_do_was_stay_taylor_swift_song.md): another 1989 track from the same BBC article
@@ -19,6 +20,8 @@ Swift described the shift in her own terms to Rolling Stone: "The way I used to 
 - [Clean, Written With Imogen Heap](clean_taylor_swift_song_imogen_heap.md): another 1989 track from the same BBC article
 - [How You Get The Girl](how_you_get_the_girl_taylor_swift_song.md): another 1989 track from the same BBC article
 - [I Know Places](i_know_places_taylor_swift_song.md): the track where the early Wildest Dreams draft idea resurfaced
+- [I Wish You Would: A 2am Song Whose Real Story Runs In Reverse](i_wish_you_would_taylor_swift_song.md): same source document (doc_0257)
+- [New Romantics: The Beloved Anthem Swift Initially Held Back](new_romantics_taylor_swift_song.md): same source document (doc_0257)
 
 ## Source
 

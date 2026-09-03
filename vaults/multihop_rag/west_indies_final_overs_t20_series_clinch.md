@@ -11,6 +11,7 @@ Reece Topley had Rovman Powell caught for 8 at short third man by Rashid, a smar
 
 ## Related Notes
 
+
 - [Andre Russell's Comeback in the First T20I](andre_russell_comeback_first_t20i.md): covers the same all-rounder earlier in the series, from a different document.
 - [Boycott's Criticism of Bairstow and Woakes Selection](boycott_criticism_of_bairstow_and_woakes_selection.md): also covers Chris Woakes, from a different document.
 - [Boycott Defends Jos Buttler's Captaincy](boycott_defends_jos_buttler_captaincy.md): also covers Jos Buttler, from a different document.
@@ -19,6 +20,8 @@ Reece Topley had Rovman Powell caught for 8 at short third man by Rashid, a smar
 - [Adil Rashid T20I Milestones and Series Form](adil_rashid_t20i_milestones_and_series_form.md): covers the England spinner fielding and bowling in these overs, from the same document.
 - [England 132 All Out in the T20 Series Decider](england_132_all_out_t20_series_decider.md): gives the total being defended, from the same document.
 - [England Camp Verdict on the T20 Series Defeat](england_camp_verdict_on_t20_series_defeat.md): gives England's reaction to this finish, from the same document.
+- [Shai Hope's Anchor Innings In The T20 Decider](shai_hope_anchor_innings_t20_decider.md): same source document (doc_0064)
+- [West Indies Win The 2023 T20I Series 3-2](west_indies_england_2023_t20i_series_outcome.md): same source document (doc_0064)
 
 ## Source
 

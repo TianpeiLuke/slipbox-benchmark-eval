@@ -13,11 +13,17 @@ Meta has continued to flout the Datatilsynet order — which includes a daily fi
 
 ## Related Notes
 
+
 - [Apple USB C Accessory Transition](apple_usb_c_accessory_transition.md): also covers European Union, from a different source document.
 - [BEUC Consumer Complaint Meta Pay or Consent](beuc_consumer_complaint_meta_pay_or_consent.md): also covers European Union, from a different source document.
 - [CJEU 2020 Ruling on Rental Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): also covers European Union, from a different source document.
 - [CJEU Appropriate Fee Ruling](cjeu_appropriate_fee_ruling.md): substantial content overlap on meta, tracking, profiling, from a different source document.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also covers General Data Protection Regulation, from a different source document.
+- [Analysis Of Meta's Delay Tactics On The Consent Switch](analysis_of_meta_delay_tactics_on_consent_switch.md): same source document (doc_0107)
+- [Meta's Legal Basis Chain For Personalized Ads Under GDPR](meta_legal_basis_chain_for_personalized_ads_under_gdpr.md): same source document (doc_0107)
+- [Meta's Response To The Norwegian DPA Referral](meta_response_to_norwegian_dpa_referral.md): same source document (doc_0107)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

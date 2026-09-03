@@ -11,6 +11,7 @@ The supporting case is the Last Glacial Maximum (LGM): the cooling pattern durin
 
 ## Related Notes
 
+
 - [Policy Inconsistency as a Signal to Climate Tech](policy_inconsistency_signal_to_climate_tech.md): another argument about what present evidence implies for future climate expectations.
 - [Climate Sweet Spots and Pattern-Dependent Feedbacks](climate_sweet_spots_and_pattern_dependent_feedbacks.md): from the same article, on the pattern dependence paleorecords must correct for.
 - [Coupled Models Fail to Reproduce Observed Warming Patterns](coupled_models_fail_to_reproduce_observed_warming_patterns.md): from the same article, on model shortcomings in the equatorial Pacific.
@@ -19,6 +20,8 @@ The supporting case is the Last Glacial Maximum (LGM): the cooling pattern durin
 - [Evaluating Model Pattern Bias with Cloud-Resolving Models](evaluating_model_pattern_bias_with_cloud_resolving_models.md): from the same article, on evaluating models against observed patterns.
 - [Feedback Dependence on Global Mean Temperature](feedback_dependence_on_global_mean_temperature.md): from the same article, on the second effect that complicates paleo-based estimates.
 - [Historical Warming Does Not Bound Climate Sensitivity](historical_warming_does_not_bound_climate_sensitivity.md): from the same article, making the parallel argument for the recent record.
+- [The Magnitude of the Observed Pattern Effect Is Disputed](magnitude_of_the_observed_pattern_effect_is_disputed.md): same source document (doc_0139)
+- [The Model Versus Observation Climate Sensitivity Discrepancy](model_versus_observation_climate_sensitivity_discrepancy.md): same source document (doc_0139)
 
 ## Source
 

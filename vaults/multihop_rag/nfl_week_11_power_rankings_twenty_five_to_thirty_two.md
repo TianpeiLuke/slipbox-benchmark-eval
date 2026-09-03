@@ -13,11 +13,16 @@ The New York Giants were 31st at 2-8 (30) and could flush away the season withou
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also covers the Tennessee Titans, from a different document.
 - [Bears 16, Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): also discusses Bryce Young and Justin Fields, separately sourced.
 - [Bears' Game-Ending Hail Mary vs the Browns](bears_game_ending_hail_mary_vs_browns.md): another Justin Fields item, in a different document.
 - [Bears-Panthers Broadcast and Kickoff Details](bears_panthers_broadcast_and_kickoff_details.md): another Chicago Bears item, from a separate source.
 - [Bears-Panthers Pregame Storylines, Week 10](bears_panthers_pregame_storylines_week_10.md): also covers Bryce Young and the Panthers, in a different document.
+- [NFL Week 11 Power Rankings, 9-16](nfl_week_11_power_rankings_nine_to_sixteen.md): same source document (doc_0119)
+- [NFL Week 11 Power Rankings, 1-8](nfl_week_11_power_rankings_one_to_eight.md): same source document (doc_0119)
+- [NFL Week 11 Power Rankings, 17-24](nfl_week_11_power_rankings_seventeen_to_twenty_four.md): same source document (doc_0119)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

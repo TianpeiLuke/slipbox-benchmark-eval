@@ -13,6 +13,7 @@ Brisbane captain Sobey led from the front while defensive specialist Mitch Norto
 
 ## Related Notes
 
+
 - [Melbourne United Beat Illawarra Hawks in Wollongong Round 4](melbourne_united_beat_illawarra_hawks_in_wollongong_round_4.md): another document covering Melbourne United, different source
 - [Melbourne United Beat New Zealand Breakers Round 4](melbourne_united_beat_new_zealand_breakers_round_4.md): another Melbourne United result, different source document
 - [South East Melbourne Phoenix Beat Brisbane Bullets Round 4](south_east_melbourne_phoenix_beat_brisbane_bullets_round_4.md): Brisbane's earlier defeat in the same stretch, different source document
@@ -21,6 +22,8 @@ Brisbane captain Sobey led from the front while defensive specialist Mitch Norto
 - [Aron Baynes Suspension Brisbane Bullets 2023](aron_baynes_suspension_brisbane_bullets_2023.md): the absence Brisbane won through here, same source document
 - [Brisbane Bullets Beat Perth Wildcats NBL Round 5](brisbane_bullets_beat_perth_wildcats_nbl_round_5.md): the first of Brisbane's two straight wins, same source document
 - [Cairns Taipans Beat Sydney Kings and Patrick Miller Injury](cairns_taipans_beat_sydney_kings_and_patrick_miller_injury.md): another round 5 result, same source document
+- [Melbourne United Beat Illawarra 96-84 In Round 5](melbourne_united_beat_illawarra_hawks_nbl_round_5.md): same source document (doc_0240)
+- [Melbourne United Beat Tasmania 90-82 In Hobart](melbourne_united_beat_tasmania_jackjumpers_in_hobart_round_5.md): same source document (doc_0240)
 
 ## Source
 

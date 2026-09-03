@@ -11,11 +11,19 @@ The 2023 MacBook Air (8/10, WIRED Recommends) is one of WIRED's favorite laptops
 
 ## Related Notes
 
+
 - [Apple AirPods Pro 2nd Gen Holiday Deal](apple_airpods_pro_2nd_gen_holiday_deal.md): shares the battery-life and hardware themes, from a different source document.
 - [M3 MacBook Pro Lineup And Configurations](m3_macbook_pro_lineup_and_configurations.md): also concerns the Touch Bar, from a different source document.
 - [MacBook Air 13-Inch M1 Holiday Deal](macbook_air_13_inch_m1_holiday_deal.md): overlapping coverage of MacBook laptops, from a different source document.
 - [MacBook Air 15-Inch M2 Holiday Deal](macbook_air_15_inch_m2_holiday_deal.md): overlapping coverage of MacBook processors and tasks, from a different source document.
 - [MacBook Air M1 And M2 Deals](macbook_air_m1_and_m2_deals.md): overlapping coverage of MacBook processors and ports, from a different source document.
+- [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): same source document (doc_0520)
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

@@ -11,6 +11,7 @@ As for Jermell Charlo, he still owned the IBF, WBA and WBC championships and cou
 
 ## Related Notes
 
+
 - [Benavidez Andrade Undercard and Jermall Charlo Return](benavidez_andrade_undercard_and_jermall_charlo_return.md): also covers David Benavidez and Jermall Charlo, both named here as options, from a different source document.
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): also covers David Benavidez, from a different source document.
 - [Canelo Alvarez Undisputed Titles and Net Worth](canelo_alvarez_undisputed_titles_and_net_worth.md): shares the Charlo and undisputed-titles subject matter, from a different source document.
@@ -19,6 +20,8 @@ As for Jermell Charlo, he still owned the IBF, WBA and WBC championships and cou
 - [Barrios vs Ugas Interim WBC Welterweight 2023](barrios_vs_ugas_interim_wbc_welterweight_2023.md): another bout on the same card (doc_0245).
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): the fight that prompts these next-opponent questions (doc_0245).
 - [Canelo Charlo PPV Card Schedule](canelo_charlo_ppv_card_schedule.md): the running order of the same event (doc_0245).
+- [Canelo vs Charlo: Sporting News' Round-By-Round Unofficial Scorecard](canelo_charlo_round_by_round_scorecard.md): same source document (doc_0245)
+- [Elijah Garcia Stops Armando Resendiz In The Eighth To Open The Canelo-Charlo PPV](elijah_garcia_stops_armando_resendiz_2023.md): same source document (doc_0245)
 
 ## Source
 

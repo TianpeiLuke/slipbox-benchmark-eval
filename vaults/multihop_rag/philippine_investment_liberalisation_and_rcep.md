@@ -11,6 +11,7 @@ The trade leg runs through the Regional Comprehensive Economic Partnership, a tr
 
 ## Related Notes
 
+
 - [Adult Stem Cells And Tissue Renewal](adult_stem_cells_and_tissue_renewal.md): also concerns South Korea, one of the RCEP partners named here, from a different source document.
 - [BTS Yet To Come Concert Film](bts_yet_to_come_concert_film.md): also concerns South Korea, from a different source document.
 - [ChatGPT Mobile App Launches And Revenue](chatgpt_mobile_app_launches_and_revenue.md): also concerns South Korea as a market, from a different source document.
@@ -19,6 +20,8 @@ The trade leg runs through the Regional Comprehensive Economic Partnership, a tr
 - [Philippine Climate Resilience Strategy](philippine_climate_resilience_strategy.md): drawn from the same article and covers the renewable investment this liberalisation is meant to fund.
 - [Philippine Debt And Fiscal Consolidation](philippine_debt_and_fiscal_consolidation.md): drawn from the same article and covers the incentive system that must be harmonised with revenue needs.
 - [Philippine Development Plan 2023 2028 Targets](philippine_development_plan_2023_2028_targets.md): drawn from the same article and gives the growth targets this investment is meant to deliver.
+- [Human Capital, Institutions And Infrastructure In The Philippine Plan](philippine_human_capital_institutions_and_infrastructure.md): same source document (doc_0410)
+- [Philippine Inflation In 2023 And The Government Response](philippine_inflation_2023_and_government_response.md): same source document (doc_0410)
 
 ## Source
 

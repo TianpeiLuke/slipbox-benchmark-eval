@@ -11,12 +11,18 @@ The V15 Detect holds the top spot in WIRED's Best Dyson Vacuums guide: 7 pounds,
 
 ## Related Notes
 
+
 - [Dyson V15 Detect Absolute Vacuum Deal](dyson_v15_detect_absolute_vacuum_deal.md): overlapping coverage of the cordless Dyson V15 Detect, from a different source document.
 - [Dyson V15 Detect Vacuum Deal](dyson_v15_detect_vacuum_deal.md): overlapping coverage of the Dyson V15 Detect cleaner, from a different source document.
 - [iRobot Roomba Black Friday Deals](irobot_roomba_black_friday_deals.md): overlapping coverage of robot vacuums, from a different source document.
 - [Prime Day Robot Vacuum Deals, October 2023](prime_day_robot_vacuum_deals_october_2023.md): overlapping coverage of vacuum and carpet cleaning deals, from a different source document.
 - [Shark Matrix Robot Vacuum Deal](shark_matrix_robot_vacuum_deal.md): overlapping coverage of vacuuming and mopping robots, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

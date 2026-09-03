@@ -11,11 +11,18 @@ Arizona took control late in the first half with a 99-yard touchdown drive that 
 
 ## Related Notes
 
+
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers Kenny Pickett's injury and the Steelers' standing, from a different document.
 - [Emari Demercado Week 6 2023 Sit Recommendation](emari_demercado_week6_2023_sit_recommendation.md): also covers the Arizona backfield and James Conner, from a different document.
 - [Fantasy RB Week 14 Bye Week Impact](fantasy_rb_week_14_bye_week_impact.md): also covers Arizona and James Conner, from a different document.
 - [Fantasy RB Week 14 Sleepers, PPR](fantasy_rb_week_14_sleepers_ppr.md): also covers Kenny Pickett, from a different document.
 - [Fantasy Week 13 Cardinals at Steelers Outlook](fantasy_week_13_cardinals_at_steelers_outlook.md): previews this same game through Kenny Pickett and Kyler Murray, from a different document.
+- [Buccaneers 21-18 Panthers And Mike Evans' 1,000-Yard Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): same source document (doc_0150)
+- [Chargers 6-0 Patriots, Week 13 2023](chargers_6_0_patriots_shutout_week_13.md): same source document (doc_0150)
+- [Colts 31-28 Titans In Overtime, Week 13 2023](colts_31_28_titans_overtime_week_13.md): same source document (doc_0150)
+- [Dolphins 45-15 Commanders, Week 13 2023](dolphins_45_15_commanders_week_13.md): same source document (doc_0150)
+- [The Greenlaw-DiSandro Sideline Ejections](dre_greenlaw_dom_disandro_sideline_ejections.md): same source document (doc_0150)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

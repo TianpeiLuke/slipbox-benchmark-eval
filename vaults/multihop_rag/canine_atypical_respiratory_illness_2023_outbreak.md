@@ -13,6 +13,7 @@ The boundaries of the category are unsettled in two important ways. Scientists a
 
 ## Related Notes
 
+
 - [Influenza Secondary Bacterial Infection Mechanism](influenza_secondary_bacterial_infection_mechanism.md): shares vocabulary about illness, respiratory disease and disease causation, from a different source article.
 - [AKC Owner and Vet Action Guidance for Canine Illness](akc_owner_and_vet_action_guidance_canine_illness.md): the guidance issued in response to this illness, from the same Yahoo News report (doc_0565).
 - [Atypical Small-Genome Canine Microbiome Bacterium](atypical_small_genome_canine_microbiome_bacterium.md): the candidate pathogen proposed for this illness, from the same report (doc_0565).
@@ -21,6 +22,8 @@ The boundaries of the category are unsettled in two important ways. Scientists a
 - [Canine Respiratory Illness State Case Reports 2023](canine_respiratory_illness_state_case_reports_2023.md): where the cases have been reported, from the same report (doc_0565).
 - [Canine Respiratory Illness Three Clinical Presentations](canine_respiratory_illness_three_clinical_presentations.md): the three ways the illness develops, from the same report (doc_0565).
 - [Holiday Kennel and Dog Park Avoidance Guidance](holiday_kennel_and_dog_park_avoidance_guidance.md): exposure advice prompted by this outbreak, from the same report (doc_0565).
+- [House Sitter and Dog Walker as a Boarding Alternative](house_sitter_dog_walker_boarding_alternative.md): same source document (doc_0565)
+- [Small Pathogen Lung Penetration Mechanism in Dogs](small_pathogen_lung_penetration_mechanism_dogs.md): same source document (doc_0565)
 
 ## Source
 

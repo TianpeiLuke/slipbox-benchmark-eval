@@ -11,11 +11,20 @@ Elena Knows, a Netflix Film: as her Parkinson's disease progresses, a woman lead
 
 ## Related Notes
 
+
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): shares the fine_penalty, regulatory_investigation topic tags, from a different source document.
 - [Bose Quietcomfort 45 Headphones](bose_quietcomfort_45_headphones.md): shares the fine_penalty, streaming_service topic tags, from a different source document.
 - [Digital Services Act](digital_services_act.md): shares the fine_penalty, regulatory_investigation topic tags, from a different source document.
 - [DSA Enforcement Powers and Penalties](dsa_enforcement_powers_and_penalties.md): shares the fine_penalty, regulatory_investigation topic tags, from a different source document.
 - [EU Enforcement Against X](eu_enforcement_against_x.md): shares the fine_penalty, regulatory_investigation topic tags, from a different source document.
+- [Insidious: The Red Door](insidious_the_red_door.md): same source document (doc_0392)
+- [Netflix Games, November 2023](netflix_games_november_2023.md): same source document (doc_0392)
+- [Netflix's Licensed Library Additions, November 2023](netflix_licensed_library_additions_november_2023.md): same source document (doc_0392)
+- [Netflix's November 2023 Slate: Overview](netflix_november_2023_slate_overview.md): same source document (doc_0392)
+- [Netflix Originals Premiering November 14 To 16, 2023](netflix_originals_premiering_november_14_to_16_2023.md): same source document (doc_0392)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

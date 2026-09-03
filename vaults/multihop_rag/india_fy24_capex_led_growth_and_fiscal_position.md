@@ -13,6 +13,7 @@ On the fiscal position, the deficit for 5MFY24 stood at 36% of the FY24 budget e
 
 ## Related Notes
 
+
 - [NTPC Capacity Expansion and NGEL IPO Plan](ntpc_capacity_expansion_and_ngel_ipo_plan.md): a company-level example of the FY24 capex push.
 - [NTPC H1 FY24 Operating Performance](ntpc_h1_fy24_operating_performance.md): power-sector performance matching the supply growth cited here.
 - [China Recovery Greenshoots and Commodity Price Outlook](china_recovery_greenshoots_and_commodity_price_outlook.md): the external environment in the same note.
@@ -21,6 +22,7 @@ On the fiscal position, the deficit for 5MFY24 stood at 36% of the FY24 budget e
 - [IMF Assessment of India and Global Growth Divergence](imf_assessment_of_india_and_global_growth_divergence.md): the international assessment of this resilience.
 - [India's Demographic Dividend Versus China's Decline](india_demographic_dividend_versus_china_decline.md): the structural case behind current growth.
 - [India Long-Term Growth Drivers and FDI Inflows](india_long_term_growth_drivers_and_fdi_inflows.md): the longer-run drivers this year's data reflects.
+- [India Nominal GDP Forecast to 2030](india_nominal_gdp_forecast_to_2030.md): same source document (doc_0532)
 
 ## Source
 

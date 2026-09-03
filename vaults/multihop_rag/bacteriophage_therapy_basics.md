@@ -11,6 +11,7 @@ The idea is older than antibiotics themselves: it was first conceived more than 
 
 ## Related Notes
 
+
 - [Unculturable Canine Bacterium and the Doxycycline Antibiotic Choice](unculturable_canine_bacterium_doxycycline_antibiotic_choice.md): another case of bacteria whose handling departs from ordinary antibiotic practice.
 - [Antibiotic Stewardship Practices](antibiotic_stewardship_practices.md): from the same article, on the conventional measures used while phages remain experimental.
 - [Beyond Antibiotics: The Emerging Therapeutic Arsenal](beyond_antibiotics_emerging_therapeutic_arsenal.md): from the same article, which places phages first in the proposed arsenal.
@@ -19,6 +20,8 @@ The idea is older than antibiotics themselves: it was first conceived more than 
 - [CRISPR-Cas System Mechanism](crispr_cas_system_mechanism.md): from the same article, on the bacterial defence system evolved against phages.
 - [Global Burden of Antibiotic-Resistant Infections](global_burden_of_antibiotic_resistant_infections.md): from the same article, giving the burden phage therapy is meant to address.
 - [How Antibiotic Resistance Emerges and Spreads](how_antibiotic_resistance_emerges_and_spreads.md): from the same article, explaining the efflux pumps phages exploit.
+- [Lysins as Bacteria-Slaying Enzymes](lysins_as_bacteria_slaying_enzymes.md): same source document (doc_0566)
+- [Peptide Nucleic Acids as Antibacterials](peptide_nucleic_acids_as_antibacterials.md): same source document (doc_0566)
 
 ## Source
 

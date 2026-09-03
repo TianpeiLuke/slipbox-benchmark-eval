@@ -13,12 +13,20 @@ In November 2022 things went bad. Julliard followed Bankman-Fried on Twitter and
 
 ## Related Notes
 
+
 - [Cohen Cross-Examination Of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): also concerns Adam Yedidia, from a different source document.
 - [FTX Final Days And Alameda Shortfall](ftx_final_days_and_alameda_shortfall.md): shares the criminal-trial and financial-penalty themes from a different source document.
 - [FTX Inner Circle Family And Friends Implicated](ftx_inner_circle_family_and_friends_implicated.md): also concerns Adam Yedidia, from a different source document.
 - [Mary Jane Mission Pacing And Verdict: Spider-Man 2](mary_jane_mission_pacing_and_verdict_spider_man_2.md): shares the trial-and-verdict framing from a different source document.
 - [Penalties Sought In The Letitia James Civil Fraud Lawsuit](penalties_sought_in_the_letitia_james_civil_fraud_lawsuit.md): shares the criminal-trial and penalty themes from a different source document.
 - [Adam Yedidia Testimony And Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): drawn from the same source document (doc_0031).
+- [Alameda Research As The Alleged Conduit For FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): same source document (doc_0031)
+- [The Defense's Good-Faith Case For Bankman-Fried](defense_good_faith_case_for_bankman_fried.md): same source document (doc_0031)
+- [Defense Opening Statement: The Plane Metaphor](defense_opening_statement_plane_metaphor.md): same source document (doc_0162)
+- [FTX's Absence Of A Chief Risk Officer](ftx_absence_of_chief_risk_officer.md): same source document (doc_0162)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Bot Detection](term_bot_detection.md): uses the concept bot detection
 
 ## Source
 

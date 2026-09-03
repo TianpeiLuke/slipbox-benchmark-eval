@@ -11,11 +11,19 @@ The reason the rule is workable is that today's phones and tablets do not differ
 
 ## Related Notes
 
+
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): also covers Nintendo Switch, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
+- [Power Bank Capacity And Port Basics](power_bank_capacity_and_port_basics.md): same source document (doc_0519)
+- [Power Bank For The Nintendo Switch](power_bank_for_nintendo_switch.md): same source document (doc_0519)
+- [Power Bank For The Steam Deck](power_bank_for_steam_deck.md): same source document (doc_0519)
+- [Power Bank For USB-C Laptops](power_bank_for_usb_c_laptops.md): same source document (doc_0519)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

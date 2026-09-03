@@ -13,6 +13,7 @@ The gender trouble continued closer to release, as a series of leaked screenshot
 
 ## Related Notes
 
+
 - [The Legend of Zelda: Breath of the Wild](the_legend_of_zelda_breath_of_the_wild.md): covers the same game, from a different source document
 - [The Legend of Zelda: Tears of the Kingdom](the_legend_of_zelda_tears_of_the_kingdom.md): covers the sequel this criticism contrasts with, from a separate article
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): shares a topic tag despite unrelated subject matter
@@ -21,6 +22,11 @@ The gender trouble continued closer to release, as a series of leaked screenshot
 - [Chiefs-Packers Week 13 Third Quarter Sequence](chiefs_packers_week_13_third_quarter_sequence.md): shares a topic tag from a separate article
 - [Epic's Rebuttal of Google's Leaked Email Summary](epic_rebuttal_of_googles_leaked_email_summary.md): shares a topic tag from an unrelated document
 - [EU CSAM Scanning Proposal](eu_csam_scanning_proposal.md): shares a topic tag from a different source
+- [Gendered Assumptions About Link as Casual Misogyny](gendered_assumptions_about_link_as_casual_misogyny.md): same source document (doc_0389)
+- [Gerudo Town's Gender Segregation in Breath of the Wild](gerudo_town_gender_segregation_in_breath_of_the_wild.md): same source document (doc_0389)
+- [Tears of the Kingdom Forecloses Queer Expression](tears_of_the_kingdom_forecloses_queer_expression.md): same source document (doc_0389)
+- [Vilia and the Removed Gerudo Disguise in Tears of the Kingdom](vilia_and_the_removed_gerudo_disguise_in_tears_of_the_kingdom.md): same source document (doc_0389)
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

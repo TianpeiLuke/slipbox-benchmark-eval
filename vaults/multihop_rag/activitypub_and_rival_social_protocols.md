@@ -11,6 +11,7 @@ It is not alone in the category — there are other similar protocols such as Bl
 
 ## Related Notes
 
+
 - [The Fediverse ActivityPub Protocol](fediverse_activitypub_protocol.md): overlapping coverage of ActivityPub versus centralized alternatives, from a different source document.
 - [Flipboard's Path To The Fediverse](flipboard_path_to_the_fediverse.md): overlapping coverage of ActivityPub and the social fediverse, from a different source document.
 - [Tazz Protocol Debt Market](tazz_protocol_debt_market.md): overlapping coverage of what a protocol does, from a different source document.
@@ -19,6 +20,8 @@ It is not alone in the category — there are other similar protocols such as Bl
 - [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): drawn from the same source document (doc_0508).
 - [Decentralization As A Free Market, Not An Anti-Capitalist Project](decentralization_as_a_free_market_not_an_anti_capitalist_project.md): drawn from the same source document (doc_0508).
 - [Early Fediverse Messiness As A Product Opportunity](early_fediverse_messiness_as_a_product_opportunity.md): drawn from the same source document (doc_0508).
+- [Federation Alone Is Not A Product Advantage](federation_alone_is_not_a_product_advantage.md): same source document (doc_0508)
+- [The Fediverse Definition And The Email Analogy](fediverse_definition_and_the_email_analogy.md): same source document (doc_0508)
 
 ## Source
 

@@ -13,10 +13,17 @@ The Verge's October 16th, 2023 guide lists each model currently available, notin
 
 ## Related Notes
 
+
 - [Amazon Kindle and Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): overlaps on the Kindle line and ad-supported models, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): overlaps on Kindle ebook models, from a different source document.
 - [iPad and Kindle Oasis Deals, Prime Day](ipad_and_kindle_oasis_deals_prime_day.md): overlaps on the Kindle e-reader range, from a different source document.
 - [Prime Day 2023 Amazon Echo, Kindle and Fire Deals](prime_day_2023_amazon_echo_kindle_and_fire_deals.md): also concerns the Kindle Scribe, from a different source document.
+- [Kindle 2022 Base Model Deals](kindle_2022_base_model_deals.md): same source document (doc_0521)
+- [Kindle Kids 2022 Deals](kindle_kids_2022_deals.md): same source document (doc_0521)
+- [Kindle Oasis 2019 Deals](kindle_oasis_2019_deals.md): same source document (doc_0521)
+- [Kindle Paperwhite 2021 Deals](kindle_paperwhite_2021_deals.md): same source document (doc_0521)
+- [Kindle Scribe Deals](kindle_scribe_deals.md): same source document (doc_0521)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

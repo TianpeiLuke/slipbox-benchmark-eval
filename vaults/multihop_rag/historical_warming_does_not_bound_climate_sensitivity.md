@@ -11,6 +11,7 @@ The grounds for that claim are physical: the observed surface warming pattern ca
 
 ## Related Notes
 
+
 - [Amazon Rainforest Tipping Point](amazon_rainforest_tipping_point.md): another argument about the limits of extrapolating climate studies forward.
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): another treatment of how climate change findings are framed publicly.
 - [Democracy in a Hotter Time (Essay Collection)](democracy_in_a_hotter_time_essay_collection.md): another discussion built around climate change projections.
@@ -19,6 +20,8 @@ The grounds for that claim are physical: the observed surface warming pattern ca
 - [Emerging Tools for Quantifying the Pattern Effect](emerging_tools_for_quantifying_the_pattern_effect.md): from the same article, on tools that could sharpen this constraint.
 - [Equilibrium Climate Sensitivity and Its Uncertainty](equilibrium_climate_sensitivity_and_its_uncertainty.md): from the same article, on the quantity this argument says cannot be bounded historically.
 - [Evaluating Model Pattern Bias with Cloud-Resolving Models](evaluating_model_pattern_bias_with_cloud_resolving_models.md): from the same article, on assessing whether model biases persist into the future.
+- [Feedback Dependence on Global Mean Temperature](feedback_dependence_on_global_mean_temperature.md): same source document (doc_0139)
+- [The Magnitude of the Observed Pattern Effect Is Disputed](magnitude_of_the_observed_pattern_effect_is_disputed.md): same source document (doc_0139)
 
 ## Source
 

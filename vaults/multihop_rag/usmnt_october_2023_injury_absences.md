@@ -11,6 +11,7 @@ Two midfield situations went the other way. Johnny Cardoso, who had pulled out o
 
 ## Related Notes
 
+
 - [Fulham Injury List and Striker Choice November 2023](fulham_injury_list_and_striker_choice_november_2023.md): also discusses Antonee Robinson.
 - [Julian Nagelsmann Tactical System and Press](julian_nagelsmann_tactical_system_and_press.md): also discusses Gregg Berhalter's opposite number.
 - [Premier League Standings and Other Results November 2023](premier_league_standings_and_other_results_november_2023.md): also discusses Antonee Robinson.
@@ -19,6 +20,7 @@ Two midfield situations went the other way. Johnny Cardoso, who had pulled out o
 - [Gio Reyna USMNT Return and Berhalter Reconciliation](gio_reyna_usmnt_return_and_berhalter_reconciliation.md): a returning player in the same squad, same source document.
 - [Tyler Adams Injury and USMNT Defensive Midfield Gap](tyler_adams_injury_and_usmnt_defensive_midfield_gap.md): the most consequential absence, same source document.
 - [USMNT October 2023 23 Man Roster](usmnt_october_2023_23_man_roster.md): the squad these players were left out of, same source document.
+- [The USMNT's October 2023 Friendlies Against Germany And Ghana](usmnt_october_2023_friendlies_vs_germany_and_ghana.md): same source document (doc_0231)
 
 ## Source
 

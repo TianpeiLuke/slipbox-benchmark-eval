@@ -13,11 +13,19 @@ Discord frames the design as a model for the industry. "We think we've built the
 
 ## Related Notes
 
+
 - [Instagram Palestine Suppression](instagram_palestine_suppression.md): also concerns platform Community Guidelines enforcement, from a different source document.
 - [Microsoft Generative AI Disinformation Measures](microsoft_generative_ai_disinformation_measures.md): shares the platform-enforcement and appeals theme, from a different source document.
 - [Palestinian Content Moderation Distrust On Meta Platforms](palestinian_content_moderation_distrust_meta_platforms.md): also concerns Community Guidelines enforcement disputes, from a different source document.
 - [Ofcom's Recommended Practices And Enforcement For Illegal Harms](ofcom_illegal_harms_codes_of_practice.md): the regulatory counterpart requiring reporting and complaint routes, from a different source document.
 - [The Accredited Technology Clause And The Encryption Objection](online_safety_act_accredited_technology_and_encryption.md): concerns the regulatory side of platform safety duties, from a different source document.
+- [Scrutiny Of Discord's CSAM Response After The NBC News Report](discord_csam_scrutiny_after_nbc_news_report.md): same source document (doc_0505)
+- [Discord Premium App Subscriptions And App Portability](discord_premium_app_subscriptions_and_app_portability.md): same source document (doc_0505)
+- [Discord's Shop, Remix And Client Improvements](discord_shop_remix_and_client_improvements.md): same source document (doc_0505)
+- [Discord Teen Safety Assist](discord_teen_safety_assist.md): same source document (doc_0505)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Terms of Service](term_terms_of_service.md): uses the concept terms of service
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

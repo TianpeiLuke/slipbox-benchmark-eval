@@ -11,6 +11,7 @@ Before giving that statement he had appeared to mock the publicity storm surroun
 
 ## Related Notes
 
+
 - [Jada Pinkett Smith August Alsina Entanglement](jada_pinkett_smith_august_alsina_entanglement.md): an earlier chapter of the marriage the memoir revisits
 - [Will And Jada 2021 Public Accounts Of Marital Strain](will_and_jada_2021_public_accounts_of_marital_strain.md): his 2021 memoir covered the same difficulties from his side
 - [Will And Jada Denials Of Open Marriage And Divorce Rumours](will_and_jada_denials_of_open_marriage_and_divorce_rumours.md): earlier instances of the couple answering press speculation directly
@@ -19,6 +20,8 @@ Before giving that statement he had appeared to mock the publicity storm surroun
 - [Jada Pinkett Smith 2023 Separation Disclosure](jada_pinkett_smith_2023_separation_disclosure.md): the memoir revelation that prompted this response
 - [Will And Jada Life Partnership Framing](will_and_jada_life_partnership_framing.md): the couple's term for where they want the relationship to go, same article
 - [Will And Jada No Prenuptial Agreement](will_and_jada_no_prenuptial_agreement.md): another Worthy-promotion disclosure reported in the same piece
+- [The Smiths' Promise That Divorce Would Never Be Necessary](will_and_jada_promise_never_to_divorce.md): same source document (doc_0360)
+- [Will Smith's Baltimore Book-Event Remarks On A "Brutiful" Marriage](will_smith_baltimore_book_event_remarks_on_brutiful_marriage.md): same source document (doc_0159)
 
 ## Source
 

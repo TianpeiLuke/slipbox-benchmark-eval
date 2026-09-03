@@ -15,11 +15,18 @@ Notre Dame responded on the next drive. Ford's return gave the Irish the ball at
 
 ## Related Notes
 
+
 - [College Football Week 6 2023 Ranked Matchup Slate](college_football_week6_2023_ranked_matchup_slate.md): another Notre Dame item, from a different source document
 - [Mock Draft 2024 Round 1 Offensive Tackles](mock_draft_2024_round_1_offensive_tackles.md): another document discussing Notre Dame
 - [Notre Dame at Louisville 2023 Week 6 Betting Line](notre_dame_at_louisville_2023_week6_betting_line.md): another Notre Dame item from a separate document
 - [Ohio State Michigan Rivalry TV Ratings](ohio_state_michigan_rivalry_tv_ratings.md): also references Notre Dame, from a different source document
 - [SBF Trial Testimony](sbf_trial_testimony.md): another document that mentions Notre Dame, in an unrelated domain
+- [Notre Dame's First Quarter Against USC, Oct. 14 2023](notre_dame_usc_2023_first_quarter.md): same source document (doc_0378)
+- [Notre Dame's Fourth Quarter Against USC, Oct. 14 2023](notre_dame_usc_2023_fourth_quarter.md): same source document (doc_0378)
+- [Notre Dame's Second Quarter Against USC, Oct. 14 2023](notre_dame_usc_2023_second_quarter.md): same source document (doc_0378)
+- [Turnovers, Not Yardage, Decided Notre Dame's Win Over USC](notre_dame_usc_2023_turnover_margin_analysis.md): same source document (doc_0378)
+- [USC vs. Notre Dame 2023: Broadcast And Venue Details](usc_notre_dame_2023_broadcast_and_venue.md): same source document (doc_0378)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

@@ -13,11 +13,19 @@ The Amp is presented as a great option for powering a turntable, TV, outdoor spe
 
 ## Related Notes
 
+
 - [AirPods Pro (2nd Generation) Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the discount-versus-MSRP and hardware-device themes, from a different source document.
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): shares the discount-versus-MSRP and hardware-device themes, from a different source document.
 - [Apple MacBook Air 15-Inch (M2)](apple_macbook_air_15_inch_m2.md): shares the discount-versus-MSRP and hardware-device themes, from a different source document.
 - [Echo Show 5 And Nest Hub Smart Display Deals](echo_show_5_and_nest_hub_smart_display_deals.md): overlaps on bass, third-generation hardware and built-in mics, from a different source document.
 - [Google Pixel Tablet](google_pixel_tablet.md): shares the discount-versus-MSRP and hardware-device themes, from a different source document.
+- [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): same source document (doc_0320)
+- [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Dolby Atmos Soundbar Deals](walmart_cyber_monday_2023_dolby_atmos_soundbar_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Fitness Tracker And Smart Ring Deals](walmart_cyber_monday_2023_fitness_tracker_and_smart_ring_deals.md): same source document (doc_0320)
+- [Walmart Cyber Monday 2023 Home Security Camera Deals](walmart_cyber_monday_2023_home_security_camera_deals.md): same source document (doc_0320)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

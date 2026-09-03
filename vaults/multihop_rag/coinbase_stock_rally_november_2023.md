@@ -11,12 +11,17 @@ The industry fallout came to a head that month. Sam Bankman-Fried, founder of fo
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony And The Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): also concerns Sam Bankman-Fried and the FTX collapse, from a different source document.
 - [Alameda Special Privileges In FTX Code](alameda_special_privileges_in_ftx_code.md): also concerns Sam Bankman-Fried's exchange, from a different source document.
 - [Binance Charges BSA And Sanctions Violations](binance_charges_bsa_and_sanctions_violations.md): covers the Bank Secrecy Act charges referenced here, from a different source document.
 - [Binance DOJ Resolution And CZ Guilty Plea](binance_doj_resolution_and_cz_guilty_plea.md): covers Changpeng Zhao's guilty plea directly, from a different source document.
 - [Binance Market Position And 2023 Setbacks](binance_market_position_and_2023_setbacks.md): covers the competitor crises that helped this rally, from a different source document.
 - [Bankman Fried And Zhao Convictions And Binance Aftermath](bankman_fried_and_zhao_convictions_and_binance_aftermath.md): drawn from the same article and follows what happened to the two convicted founders.
+- [Coinbase's SEC Standoff And The Call For Regulatory Clarity](coinbase_sec_standoff_and_regulatory_clarity.md): same source document (doc_0375)
+- [Spot Bitcoin ETFs And Coinbase's Competitive Outlook](spot_bitcoin_etfs_and_coinbase_competitive_outlook.md): same source document (doc_0375)
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Plea Agreement](term_plea_agreement.md): uses the concept plea agreement
 
 ## Source
 

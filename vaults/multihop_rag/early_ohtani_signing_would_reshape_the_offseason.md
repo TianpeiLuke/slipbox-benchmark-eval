@@ -11,12 +11,18 @@ For the signing team, the gains are commercial and competitive: it will kick the
 
 ## Related Notes
 
+
 - [Blue Jays Roster Implications of Ohtani Pursuit](blue_jays_roster_implications_of_ohtani_pursuit.md): covers how another club's plans hinged on the Ohtani signing, from a different document.
 - [Juan Soto Padres Trade Candidacy](juan_soto_padres_trade_candidacy.md): also discusses Juan Soto as the alternative target named here, from a different document.
 - [Juan Soto Traded from Padres to Yankees](juan_soto_traded_from_padres_to_yankees.md): also discusses Juan Soto, from a different document.
 - [MLB 2023-24 Offseason Market Overview](mlb_2023_24_offseason_market_overview.md): also discusses Juan Soto and the wider market, from a different document.
 - [MLB 2023 Offseason Starting Pitcher Trade Market](mlb_2023_offseason_starting_pitcher_trade_market.md): covers the pitcher market teams would turn to, from a different document.
 - [Alternative Reading of the Mariners Ohtani Leak](alternative_reading_of_the_mariners_ohtani_leak.md): another item from the same rumor tracker, from the same document.
+- [The Cubs' Ohtani Fit After The NL Designated Hitter](cubs_ohtani_fit_after_nl_designated_hitter.md): same source document (doc_0480)
+- [The Mariners Reported Out Of The Ohtani Chase](mariners_reported_out_of_the_ohtani_chase.md): same source document (doc_0480)
+- [Ohtani's Camp Secrecy And The Reporting Blackout](ohtani_camp_secrecy_and_reporting_blackout.md): same source document (doc_0480)
+- [The Report Of Ohtani's 'Affinity' For Boston](report_of_ohtani_affinity_for_boston.md): same source document (doc_0480)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

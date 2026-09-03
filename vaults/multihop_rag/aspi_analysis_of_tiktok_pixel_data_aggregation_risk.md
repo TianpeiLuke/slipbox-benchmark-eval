@@ -13,11 +13,18 @@ Strategic Policy Institute researcher Samantha Hoffman said the data collected b
 
 ## Related Notes
 
+
 - [Australian Inflation Data And The RBA's November Rise](australian_inflation_data_and_rba_november_rise.md): also mentions the Chinese President, from a different source document.
 - [Biden And Xi's San Francisco Summit, November 2023](biden_xi_san_francisco_summit_november_2023.md): also mentions the Chinese President, from a different source document.
 - [Cairo Diplomatic Surge And The 2023 Summit For Peace](cairo_diplomatic_surge_and_summit_for_peace_2023.md): also mentions the Chinese President, from a different source document.
 - [Chinese Apps' Rise In US App Store Rankings](chinese_apps_rise_in_us_app_store_rankings.md): overlaps on TikTok and Chinese technology firms, from a different source document.
 - [Taylor Swift, Time's 2023 Person Of The Year](taylor_swift_time_2023_person_of_the_year.md): also mentions the Chinese President, from a different source document.
+- [Australian Advertiser Responses To The TikTok Pixel Findings](australian_advertiser_responses_to_tiktok_pixel_findings.md): same source document (doc_0189)
+- [China's Data Laws And Government TikTok Device Bans](china_data_laws_and_government_tiktok_device_bans.md): same source document (doc_0189)
+- [Civic Data's Warning To Remove The TikTok Pixel](civic_data_warning_to_remove_tiktok_pixel.md): same source document (doc_0189)
+- [James Paterson's Call For A TikTok Privacy Investigation](james_paterson_call_for_tiktok_privacy_investigation.md): same source document (doc_0189)
+- [TikTok's Denial And The OAIC's Monitoring Of The Pixel Claims](tiktok_denial_and_oaic_monitoring_of_pixel_claims.md): same source document (doc_0189)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

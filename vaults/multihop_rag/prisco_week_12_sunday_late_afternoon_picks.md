@@ -11,6 +11,7 @@ For the Chiefs-Raiders game at 4:25 p.m. ET on CBS and Paramount+, he observed t
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also touches Super Bowl-contender framing, from a different source document.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also discusses Super Bowl betting, from a different source document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): covers the same Raiders, Broncos and Bills playoff picture, from a different source document.
@@ -19,6 +20,8 @@ For the Chiefs-Raiders game at 4:25 p.m. ET on CBS and Paramount+, he observed t
 - [Prisco 2023 Week 12 Picks Season Record](prisco_2023_week_12_picks_season_record.md): the season-record framing for the same column (doc_0343).
 - [Prisco Week 12 Sunday Early Window Picks](prisco_week_12_sunday_early_window_picks.md): the earlier window of picks in the same column (doc_0343).
 - [Prisco Week 12 Sunday Night and Monday Night Picks](prisco_week_12_sunday_night_and_monday_night_picks.md): the prime-time picks from the same column (doc_0343).
+- [Prisco's Week 12 Thanksgiving And Black Friday Picks](prisco_week_12_thanksgiving_and_black_friday_picks.md): same source document (doc_0343)
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
 
 ## Source
 

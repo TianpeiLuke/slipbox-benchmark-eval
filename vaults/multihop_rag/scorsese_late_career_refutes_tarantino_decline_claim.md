@@ -15,11 +15,19 @@ The mechanism the piece identifies is autonomy. This century Scorsese has zigged
 
 ## Related Notes
 
+
 - [Eli Roth Horror Filmography and Acting Roles](eli_roth_horror_filmography_and_acting_roles.md): both discuss Quentin Tarantino, from a different source document
 - [Joker: Folie à Deux](joker_folie_a_deux.md): both reference Martin Scorsese, from a separate article
 - [Martin Scorsese Internet Slang TikTok Quiz](martin_scorsese_internet_slang_tiktok_quiz.md): another Scorsese subject from a different document
 - [Murder by Contract (1958)](murder_by_contract_1958.md): another Scorsese-linked film covered elsewhere
 - [Planet Terror (Robert Rodriguez)](planet_terror_robert_rodriguez_grindhouse.md): both mention Quentin Tarantino, from a separate source
+- [Killers of the Flower Moon (Martin Scorsese)](killers_of_the_flower_moon_film.md): same source document (doc_0192)
+- [Scorsese's 21st-Century Filmography](scorsese_21st_century_filmography.md): same source document (doc_0192)
+- [Scorsese and Leonardo DiCaprio's Collaboration](scorsese_and_leonardo_dicaprio_collaboration.md): same source document (doc_0192)
+- [Scorsese's Late-Career Genre Departures](scorsese_late_career_genre_departures.md): same source document (doc_0192)
+- [How Scorsese's Late Films Revisit His Earlier Themes](scorsese_late_films_revisit_earlier_themes.md): same source document (doc_0192)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

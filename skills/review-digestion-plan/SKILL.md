@@ -242,7 +242,7 @@ Update the plan's Split Decisions table with new entries.
 
 ### 8a. Spot-check 2-3 source pages
 
-Pick 2-3 documents from the plan's Source table (preferably the densest — those mapped to the most notes). Re-segment them with `scripts/plan_coverage.py $CORPUS --segment <doc_id>` and confirm the block/word counts match the plan. The corpus is local; there is nothing to WebFetch.
+Pick 2-3 pages from the plan's Source table (preferably the densest ones — those mapped to the most notes). Re-read them using the same tool (WebFetch/local file read/Read). Count actual words.
 
 ### 8b. Compare measured vs plan estimates
 
@@ -300,7 +300,7 @@ grep -c '^## Term-Note Authoring Requirements' "$PLAN_FILE"
 The section MUST be present AND contain:
 - YAML frontmatter spec (required fields including `building_block: concept` + `related_wiki`)
 - Required H1 + H2 sections in order (Definition / Context / Key Characteristics / Performance optional / Related Terms 8-15 minimum / References external-only)
-- Research scoped to corpus + vault (external enrichment only in a quarantined `## Background (external)` section, never scored; no internal Amazon systems)
+- Multi-source research mandate (≥5 sources: WIKI + corpus document + SAGE_HORDE + BROADCAST + external)
 - Cross-domain diversity matrix (6 connection types)
 - Fleeting content guard
 - Glossary entry format (4-5 sentence Description, no metrics)
@@ -407,7 +407,7 @@ If any FAIL: Report which checkpoints failed and what needs to be fixed. Do NOT 
 3. **All 9 must pass** — partial passes don't count. A plan with 8/9 is NOT READY.
 4. **Review is the final gate before execution** — once READY, execution can begin immediately.
 5. **Record the review** — append a `## Review Sign-Off` section to the plan with date, result, and any notes.
-6. **CP7 requires actual source reads** — the reviewer MUST re-segment 2-3 corpus documents (`scripts/plan_coverage.py $CORPUS --segment <doc_id>`) and confirm block/word counts against the plan. This cannot be done from memory. Flag any document whose counts do not match.
+6. **CP7 requires actual page reads** — the reviewer MUST WebFetch/Read 2-3 pages to verify word counts. This cannot be done from memory. If you cannot read the pages (e.g., auth required), mark CP7 as "DEFERRED — verify during execution" and note which pages were unverifiable.
 
 ## Where Notes Go, and What They Must Carry
 
@@ -425,10 +425,35 @@ parameter to the retrieval comparison for no benefit.
 
 ```yaml
 ---
+tags:                                # FM-010 — 2+, first is a P.A.R.A. type
+  - resource                         #   archive | area | entry_point | project | resource
+  - <domain tag>
+keywords:                            # FM-020 — 3+, and see below
+  - <term the note is about>
+  - <term a question would use>
+  - <acronym or variant spelling>
+topics:                              # FM-030
+  - <broad subject area>
+language: markdown                   # FM-040
+date of note: <YYYY-MM-DD>           # FM-040
+status: active                       # FM-040
 building_block: <one of the eight>   # FM-002 / FM-003 — closed enum
-source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence for this note
+source_docs: [<corpus_doc_id>, ...]  # FM-004 — the corpus evidence, the scoring key
 ---
 ```
+
+**`keywords` and `topics` are retrieval surface, not decoration.** Graph
+traversal can be seeded by matching a query against
+`note_name`, `keywords`, `topics` and `tags` — so a note with none of them is
+invisible to that seeding, and a vault with none of them cannot run the strategy
+at all. They are also a denser statement of what the note is about than its body:
+a short question tends to use the vocabulary a keyword list is written in, while
+a body buries that vocabulary among incidental words. Write keywords a
+*questioner* would use, not a summary of the note.
+
+`building_block` and `source_docs` are ERRORS if absent. The rest are WARNINGS:
+their absence degrades retrieval without making a note unscorable, and gating on
+them would block a vault that is merely incomplete rather than wrong.
 
 `navigation` notes — glossaries, entry points, indexes — are **exempt from
 `source_docs`**. They index rather than assert, so there is no document to trace

@@ -11,11 +11,19 @@ The couple's first child, son Sean Preston, was born weeks before their first we
 
 ## Related Notes
 
+
 - [Britney Spears Memoir Barbs At Timberlake And Federline](britney_spears_memoir_barbs_at_timberlake_and_federline.md): the memoir's own account of the same ex-husband
 - [Britney Spears Memoir Body Scrutiny And Diet Control](britney_spears_memoir_body_scrutiny_and_diet_control.md): separate memoir coverage that also involves Justin Timberlake
 - [Britney Spears Memoir Early Fame Loss Of Freedom](britney_spears_memoir_early_fame_loss_of_freedom.md): another memoir strand touching the Timberlake years
 - [Britney Spears Music Making From Baby One More Time To Blackout](britney_spears_music_making_from_baby_one_more_time_to_blackout.md): covers the era of "Gimme More," the record this marriage overlapped
 - [Kevin Federline Custody Of Britney Spears Sons](kevin_federline_custody_of_britney_spears_sons.md): what became of the custody arrangement set here
+- [Britney Spears And Adnan Ghalib](britney_spears_adnan_ghalib_relationship.md): same source document (doc_0051)
+- [Britney Spears And Justin Timberlake's Relationship](britney_spears_and_justin_timberlake_relationship.md): same source document (doc_0051)
+- [Britney Spears And Charlie Ebersol](britney_spears_charlie_ebersol_relationship.md): same source document (doc_0051)
+- [Britney Spears' Conservatorship Under Jamie Spears](britney_spears_conservatorship_under_jamie_spears.md): same source document (doc_0358)
+- [Britney Spears And David Lucado](britney_spears_david_lucado_relationship.md): same source document (doc_0051)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
+- [Payment Processor](term_payment_processor.md): uses the concept payment processor
 
 ## Source
 

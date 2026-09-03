@@ -11,12 +11,18 @@ He openly discussed the company's efforts to get unauthorized AI content removed
 
 ## Related Notes
 
+
 - [Google Filing Versus Youtube Music Reassurances](google_filing_versus_youtube_music_reassurances.md): also discusses Sony Music, from a different source document.
 - [Sony Music Artist-Led Approach to AI](sony_music_artist_led_approach_to_ai.md): the same company's posture toward licensed voice cloning, from a different source document.
 - [Tiktok Music Services Expansion](tiktok_music_services_expansion.md): also discusses Sony Music, from a different source document.
 - [UMG and WMG Licensing of Dream Track](umg_and_wmg_licensing_of_dream_track.md): overlaps on unauthorized exploitation of artists by AI platforms, from a different source document.
 - [Youtube Dream Track Voice Cloning Experiment](youtube_dream_track_voice_cloning_experiment.md): also discusses Sony Music Entertainment, from a different source document.
 - [Anthropic Fair Use Defense for AI Training](anthropic_fair_use_defense_for_ai_training.md): the developer-side position Sony is arguing against (doc_0380).
+- [Ed Newton-Rex's Resignation From Stability AI](ed_newton_rex_resignation_stability_ai.md): same source document (doc_0380)
+- [Deepfakes And Unauthorized Voice Clones Harm Artists](generative_ai_deepfakes_harm_to_artists.md): same source document (doc_0380)
+- [Google's USCO Filing On AI Training And Fair Use](google_usco_filing_ai_training_fair_use.md): same source document (doc_0380)
+- [Kooker's Rebuttal Of The Tech Industry's "Distorted View Of Copyright"](kooker_on_tech_industry_distorted_copyright_view.md): same source document (doc_0380)
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

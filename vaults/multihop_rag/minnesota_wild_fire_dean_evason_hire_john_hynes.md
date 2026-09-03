@@ -11,6 +11,7 @@ Wild GM Bill Guerin's statement read: "Dean did an excellent job during his tenu
 
 ## Related Notes
 
+
 - [Matt Eberflus Bears Hot Seat](matt_eberflus_bears_hot_seat.md): another head coach under job pressure, from a different document.
 - [Argentina Paraguay 2023 Team News And Lineups](argentina_paraguay_2023_team_news_and_lineups.md): shares the coaching-change theme, from a different document.
 - [Argentina Squad And Lineup Vs Paraguay October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): shares the coaching-change theme, from a different document.
@@ -19,6 +20,11 @@ Wild GM Bill Guerin's statement read: "Dean did an excellent job during his tenu
 - [Artemi Panarin Shots On Goal Prop](artemi_panarin_shots_on_goal_prop.md): shares the coaching-change theme, from a different document.
 - [Big Ten Coaches Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): shares the coaching-change theme, from a different document.
 - [Big Ten Head Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): shares the coaching-change theme, from a different document.
+- [Dean Evason Coaching Career Path](dean_evason_coaching_career_path.md): same source document (doc_0340)
+- [John Hynes Contract And Predators Permission](john_hynes_contract_and_predators_permission.md): same source document (doc_0340)
+- [Minnesota Wild 2023-24 Slump Causes](minnesota_wild_2023_24_slump_causes.md): same source document (doc_0340)
+- [Minnesota Wild Turnaround Outlook Under Hynes](minnesota_wild_turnaround_outlook_under_hynes.md): same source document (doc_0340)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

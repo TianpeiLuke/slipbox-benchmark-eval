@@ -13,12 +13,19 @@ The following day, at 7:18 p.m. before Game 4 on Oct. 31, the Sporting News repo
 
 ## Related Notes
 
+
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): another World Series document, on a different controversy
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): another World Series document, different source
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares Major League Baseball and streaming-service context, different source document
 - [Chase Field Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): the venue for the game he left, from a different source document
 - [Citizens Bank Park Philadelphia Phillies Postseason Atmosphere](citizens_bank_park_philadelphia_phillies_postseason_atmosphere.md): another postseason venue account, different source document
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): the other Rangers injury in the same series, same source document
+- [Brandon Pfaadt's Start In World Series Game 3](brandon_pfaadt_start_world_series_game_3.md): same source document (doc_0495)
+- [Corey Seager's Home Runs In The 2023 World Series](corey_seager_home_runs_2023_world_series.md): same source document (doc_0495)
+- [The Diamondbacks' Late Rally In World Series Game 4](diamondbacks_late_rally_world_series_game_4.md): same source document (doc_0408)
+- [Jon Gray's Surprise Relief Outing In World Series Game 3](jon_gray_emergency_relief_world_series_game_3.md): same source document (doc_0495)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

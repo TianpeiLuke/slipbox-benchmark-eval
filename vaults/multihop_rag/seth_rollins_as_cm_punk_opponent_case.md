@@ -13,12 +13,15 @@ The projected payoff is modest and specific: if CM Punk returns at Survivor Seri
 
 ## Related Notes
 
+
 - [Dillon Danis And Savannah Montano's Relationship Status](dillon_danis_and_savannah_montano_relationship_status.md): also discusses Logan Paul, whom Rollins compares Punk to, from a different document.
 - [Dillon Danis' Feud With The Paul Brothers](dillon_danis_feud_with_the_paul_brothers.md): also discusses Logan Paul, from a different document.
 - [Jake Paul Endorsement Backlash](jake_paul_endorsement_backlash.md): also discusses Logan Paul, from a different document.
 - [Mary Jane's Gameplay Changes Between 2018 And Spider-Man 2](mary_jane_gameplay_changes_2018_versus_spider_man_2.md): another Essentially Sports pop-culture feature in the same set, from a different document.
 - [CM Punk WWE Return Speculation Ahead Of Survivor Series 2023](cm_punk_wwe_return_speculation_survivor_series_2023.md): the return speculation this case depends on, from the same feature.
 - [Shinsuke Nakamura As A CM Punk Opponent](shinsuke_nakamura_as_cm_punk_opponent_case.md): a rival opponent case, from the same feature.
+- [Mary Jane's Mission Pacing And The Verdict On Spider-Man 2](mary_jane_mission_pacing_and_verdict_spider_man_2.md): same sub-plan (Essentially Sports Pop-Culture Features: Spider-Man 2 and CM Punk), different source document
+- [Cody Rhodes As A CM Punk Opponent](cody_rhodes_as_cm_punk_opponent_case.md): same source document (doc_0349)
 
 ## Source
 

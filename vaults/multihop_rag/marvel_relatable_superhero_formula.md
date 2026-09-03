@@ -11,11 +11,15 @@ The formula shows across the line — the Fantastic Four were vulnerable to inse
 
 ## Related Notes
 
+
 - [Spider-Man Embodies Ordinary Struggle](spider_man_embodies_ordinary_struggle.md): same source; the specific traits that make this formula work for Peter Parker.
 - [Thanksgiving As Communal Need Fulfillment](thanksgiving_as_communal_need_fulfillment.md): same source; the reading of the holiday this formula is matched to.
 - [The 2002 Spider-Man Thanksgiving Dinner Scene](spider_man_2002_thanksgiving_dinner_scene.md): same source; a worked example of the formula on screen.
 - [The Spectacular Spider-Man Thanksgiving Finale](spectacular_spider_man_thanksgiving_finale.md): same source; another worked example of the same pattern.
 - [Marvel Multiverse Role-Playing Game](marvel_multiverse_role_playing_game.md): another treatment of Marvel's characters, from a different source document.
+- [Marvel's Spider-Man 2 (Insomniac Games)](marvels_spider_man_2_game.md): content overlap 0.10 on spider-man, marvel; different source document
+- [Mary Jane's Missions In Spider-Man 2 As An Improvement On Their Reception](mary_jane_missions_spider_man_2_reception_improvement.md): content overlap 0.10 on spider-man, marvel, superhero; different source document
+- [Spider-Man's Macy's Thanksgiving Parade Balloon](spider_man_macys_thanksgiving_parade_balloon.md): same source document (doc_0279)
 
 ## Source
 

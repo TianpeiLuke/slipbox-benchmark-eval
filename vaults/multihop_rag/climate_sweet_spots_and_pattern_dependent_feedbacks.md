@@ -11,6 +11,7 @@ For decades, researchers assumed that global mean radiative feedbacks mostly dep
 
 ## Related Notes
 
+
 - [Coupled Models Fail to Reproduce Observed Warming Patterns](coupled_models_fail_to_reproduce_observed_warming_patterns.md): from the same article, on the model-observation mismatch in warming patterns.
 - [Emerging Tools for Quantifying the Pattern Effect](emerging_tools_for_quantifying_the_pattern_effect.md): from the same article, on measuring the effect this model describes.
 - [Equilibrium Climate Sensitivity and Its Uncertainty](equilibrium_climate_sensitivity_and_its_uncertainty.md): from the same article, on the quantity these pattern-dependent feedbacks control.
@@ -19,6 +20,8 @@ For decades, researchers assumed that global mean radiative feedbacks mostly dep
 - [Historical Warming Does Not Bound Climate Sensitivity](historical_warming_does_not_bound_climate_sensitivity.md): from the same article, drawing an inference from this pattern dependence.
 - [The Magnitude of the Observed Pattern Effect Is Disputed](magnitude_of_the_observed_pattern_effect_is_disputed.md): from the same article, on disagreement about how large this effect is.
 - [The Model Versus Observation Climate Sensitivity Discrepancy](model_versus_observation_climate_sensitivity_discrepancy.md): from the same article, on the puzzle this mechanism helps resolve.
+- [Open Questions on SST Patterns and Earth's Radiation Budget](open_questions_on_sst_patterns_and_earths_radiation_budget.md): same source document (doc_0139)
+- [Paleorecords Must Account for the Pattern Effect](paleorecords_must_account_for_the_pattern_effect.md): same source document (doc_0139)
 
 ## Source
 

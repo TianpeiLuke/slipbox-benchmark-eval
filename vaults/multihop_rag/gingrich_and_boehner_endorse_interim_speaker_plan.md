@@ -11,10 +11,18 @@ The warrant Gingrich offered is the cost of continued paralysis: "We can't sit a
 
 ## Related Notes
 
+
 - [Jim Jordan's Third-Ballot Defeat And Withdrawal](jim_jordan_third_ballot_defeat_and_withdrawal.md): also concerns House Republicans, from a different source document.
 - [Obstacles To Empowering An Interim Speaker](obstacles_to_empowering_an_interim_speaker.md): overlapping coverage of whether Republicans could agree on this plan, from a different source document, and argues the other way.
 - [Republican State-Level TikTok Ban Push](republican_state_level_tiktok_ban_push.md): overlapping coverage of Republicans and social media, from a different source document.
 - [The Fall: Michael Wolff On The Murdoch Empire](the_fall_michael_wolff_on_the_murdoch_empire.md): also concerns Fox News, from a different source document.
+- [Hakeem Jeffries' Bipartisan Offer To Reopen The House](hakeem_jeffries_bipartisan_offer_to_reopen_the_house.md): same source document (doc_0377)
+- [The House GOP's Narrow-Majority Vote Math](house_gop_narrow_majority_vote_math.md): same source document (doc_0377)
+- [The House Paralysis Following Kevin McCarthy's Ouster](house_speakership_vacancy_paralysis_after_mccarthy_ouster.md): same source document (doc_0377)
+- [Jim Jordan's Political Profile And Record](jim_jordan_political_profile_and_record.md): same source document (doc_0377)
+- [Jim Jordan's Second-Ballot Defeat](jim_jordan_second_ballot_defeat.md): same source document (doc_0377)
+- [The Proposal To Expand Patrick McHenry's Speaker Pro Tempore Powers](patrick_mchenry_expanded_speaker_pro_tempore_proposal.md): same source document (doc_0377)
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
 
 ## Source
 

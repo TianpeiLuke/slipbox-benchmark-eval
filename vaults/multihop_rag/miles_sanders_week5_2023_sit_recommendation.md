@@ -13,6 +13,7 @@ The opponent evidence is the other half. Detroit is a tough matchup, giving up 2
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another "Sit Him" verdict in the same weekly-decision format, from a different document.
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): also discusses Bryce Young, whose passing threat is cited here as the missing deterrent, from a different document.
 - [Bears Panthers Pregame Storylines Week 10](bears_panthers_pregame_storylines_week_10.md): also discusses Bryce Young, from a different document.
@@ -21,6 +22,8 @@ The opponent evidence is the other half. Detroit is a tough matchup, giving up 2
 - [Brock Purdy Fantasy Outlook Weeks 5 And 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another lineup call from the same Week 5 column.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): the method this sit call applies, from the same column.
 - [Dallas Goedert Week 5 2023 Bust Warning](dallas_goedert_week5_2023_bust_warning.md): another lineup call from the same Week 5 column.
+- [Dameon Pierce As A Week 5 2023 Sit At Atlanta](dameon_pierce_week5_2023_sit_recommendation.md): same source document (doc_0058)
+- [DeAndre Hopkins As A Week 5 2023 Start At Indianapolis](deandre_hopkins_week5_2023_start_recommendation.md): same source document (doc_0058)
 
 ## Source
 

@@ -13,11 +13,18 @@ The procedure assumes an operating precondition stated by the third criterion: b
 
 ## Related Notes
 
+
 - [Fanatics Sportsbook's Vermont Launch Plans](fanatics_sportsbook_vermont_launch_plans.md): covers the operator cited here as the rewards example, from a different document.
 - [How Sportsbooks Set And Move Betting Lines](how_sportsbooks_set_and_move_betting_lines.md): explains why each book prices a market differently, the premise of the odds criterion, from a different document.
 - [How To Line Shop Including Futures](how_to_line_shop_including_futures.md): the detailed method behind the line-shopping step, from a different document.
 - [Line Shopping For The Best Betting Odds](line_shopping_for_the_best_betting_odds.md): also covers comparing odds across sportsbooks, from a different document.
 - [NBA MVP Futures And Other NBA Futures Markets](nba_mvp_futures_and_other_nba_futures_markets.md): covers the futures markets named in the markets criterion, from a different document.
+- [Bet365 Sportsbook In Kentucky](bet365_sportsbook_kentucky.md): same source document (doc_0071)
+- [BetMGM Sportsbook In Kentucky](betmgm_sportsbook_kentucky.md): same source document (doc_0071)
+- [Betting On Kentucky And Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): same source document (doc_0071)
+- [Caesars Sportsbook In Kentucky](caesars_sportsbook_kentucky.md): same source document (doc_0071)
+- [DraftKings Sportsbook In Kentucky](draftkings_sportsbook_kentucky.md): same source document (doc_0071)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

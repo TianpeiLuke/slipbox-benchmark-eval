@@ -11,6 +11,7 @@ By 12 October the same mechanism was running the other way. The stock market has
 
 ## Related Notes
 
+
 - [ASX Outlook And RBA Rate Expectations September 2023](asx_outlook_and_rba_rate_expectations_september_2023.md): covers Treasury yields and inflation feeding into rate expectations, from a different source document.
 - [ASX September 2023 Session Decliners](asx_september_2023_session_decliners.md): covers Treasury yields and rates against local stocks, from a different source document.
 - [Equity Valuations Versus Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): covers what these yield levels do to equity valuations, from a different source document.
@@ -19,6 +20,8 @@ By 12 October the same mechanism was running the other way. The stock market has
 - [ASX And Wall Street Rebound October 4 2023](asx_and_wall_street_rebound_october_4_2023.md): drawn from the same 4 October report and shows the equity response to falling yields.
 - [ASX And Wall Street Selloff October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): drawn from the same 12 October report and shows the equity response to rising yields.
 - [ASX Laggards October 12 2023](asx_laggards_october_12_2023.md): drawn from the same 12 October report and lists the rate-sensitive names that fell.
+- [ASX Sector Movers On 4 October 2023](asx_sector_movers_october_4_2023.md): same source document (doc_0029)
+- [Atlassian's Acquisition Of Loom In 2023](atlassian_loom_acquisition_2023.md): same source document (doc_0074)
 
 ## Source
 

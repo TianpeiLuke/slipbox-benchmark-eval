@@ -11,6 +11,7 @@ Over the 18 months preceding October 2023, current Fed chair Jerome Powell has b
 
 ## Related Notes
 
+
 - [Affordable Housing Supply Gap For Low-Income Renters](affordable_housing_supply_gap_for_low_income_renters.md): overlapping coverage of mortgages, rates and housing from a different source document.
 - [Powell Rejection Of Monetary-Fiscal Coordination](powell_rejection_of_monetary_fiscal_coordination.md): also concerns Fed chair Jerome Powell, from a different source document.
 - [Treasury Yields And The Fed's Higher-For-Longer Stance](treasury_yields_and_fed_higher_for_longer.md): overlapping coverage of rates, inflation and interest, from a different source document.
@@ -19,6 +20,8 @@ Over the 18 months preceding October 2023, current Fed chair Jerome Powell has b
 - [Housing Affordability Worse Than The 2006 Peak](housing_affordability_worse_than_2006_peak.md): drawn from the same source document (doc_0479).
 - [Housing Market 1980s Analogy Rather Than 2008](housing_market_1980s_analogy_rather_than_2008.md): drawn from the same source document (doc_0479).
 - [Millennials As The New Boomer Homebuying Cohort](millennials_as_the_new_boomer_homebuying_cohort.md): drawn from the same source document (doc_0479).
+- [US Existing-Home Sales Fell To A 13-Year Low In September 2023](us_existing_home_sales_september_2023_13_year_low.md): same source document (doc_0479)
+- [US Home Prices Peaked In June 2022 And Returned To A Record High By July 2023](us_home_price_peak_and_partial_recovery_2022_2023.md): same source document (doc_0112)
 
 ## Source
 

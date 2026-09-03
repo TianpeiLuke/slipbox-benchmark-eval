@@ -11,11 +11,19 @@ At Pick 18, Cincinnati takes Keon Coleman, Florida State, a junior at 6'4" and 2
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): also covers Florida State, Keon Coleman's program, from a different source document.
 - [Alabama CFP Head-to-Head Debates: Texas and Florida State](alabama_cfp_head_to_head_debates_texas_florida_state.md): also covers Florida State, from a different source document.
 - [Alabama CFP Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also covers Florida State and Ohio State, the programs these prospects come from, from a different source document.
 - [Alabama Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): also covers Florida State and Ohio State, from a different source document.
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): also covers Ohio State, from a different source document.
+- [2024 Mock Draft: Six Defensive Backs Projected In Round 1](mock_draft_2024_round_1_defensive_backs.md): same source document (doc_0179)
+- [2024 Mock Draft: Six Edge Rushers Projected In Round 1](mock_draft_2024_round_1_edge_rushers.md): same source document (doc_0179)
+- [2024 Mock Draft: Brock Bowers Plus Two Interior Defensive Linemen In Round 1](mock_draft_2024_round_1_interior_defenders_and_tight_end.md): same source document (doc_0179)
+- [2024 Mock Draft: Seven Offensive Linemen Projected In Round 1](mock_draft_2024_round_1_offensive_tackles.md): same source document (doc_0179)
+- [2024 Mock Draft: Four Quarterbacks Off The Board In Round 1](mock_draft_2024_round_1_quarterbacks.md): same source document (doc_0179)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

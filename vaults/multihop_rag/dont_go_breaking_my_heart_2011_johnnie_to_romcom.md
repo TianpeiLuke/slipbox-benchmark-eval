@@ -11,11 +11,18 @@ The structure is a love triangle. Fresh off the end of a long-term relationship,
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony And The Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): an unrelated article that also references Hong Kong
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): another Hong Kong-referencing article from a different domain
 - [CONMEBOL 2026 Qualifying Broadcast Rights And Channels](conmebol_2026_qualifying_broadcast_rights_and_channels.md): further broadcast coverage touching Hong Kong
 - [Engadget VPN Testing Methodology](engadget_vpn_testing_methodology.md): another article involving Hong Kong in a technical context
 - [Inter Miami Hong Kong Leg Of Asia Tour](inter_miami_hong_kong_leg_of_asia_tour.md): unrelated sports coverage set in Hong Kong
+- [Book Club (2018): The Raunchy Late-Life Romantic Comedy](book_club_2018_romantic_comedy.md): same source document (doc_0597)
+- [Catherine Called Birdy (2022): Lena Dunham's Coming-Of-Age Comedy](catherine_called_birdy_2022_lena_dunham_comedy.md): same source document (doc_0597)
+- [Charade (1963): Stanley Donen's Comedy Thriller](charade_1963_donen_comedy_thriller.md): same source document (doc_0597)
+- [Clueless (1995): The Teen-Comedy Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): same source document (doc_0597)
+- [Coming To America (1988): Eddie Murphy's Romantic Comedy](coming_to_america_1988_eddie_murphy_comedy.md): same source document (doc_0597)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

@@ -13,11 +13,19 @@ Letterboxd he calls quietly the best social app and a great way to triangulate w
 
 ## Related Notes
 
+
 - [Daily Life At The Possibility Alliance](daily_life_at_the_possibility_alliance.md): shares a user-generated-content theme tag, from a different source document.
 - [External Studios Expand Pokémon Animation](external_studios_expand_pokemon_animation.md): shares the streaming-service theme, from a different source document.
 - [Fitbit Charge 6 Deal](fitbit_charge_6_deal.md): also concerns Google Maps integration, from a different source document.
 - [Google Local Search Ranking Factors](google_local_search_ranking_factors.md): also concerns Google Maps, from a different source document.
 - [Google Maps And Waze Israel-Gaza Traffic Halt](google_maps_waze_israel_gaza_traffic_halt.md): also concerns Google Maps, from a different source document.
+- [Installer Reader Game And App Picks](installer_reader_game_and_app_picks.md): same source document (doc_0607)
+- [Installer Reader Podcast And TV Picks](installer_reader_podcast_and_tv_picks.md): same source document (doc_0607)
+- [Kevin Nguyen's Five-Writing-App Rotation](kevin_nguyen_five_writing_app_rotation.md): same source document (doc_0607)
+- [Kevin Nguyen's Music, Book And Film Picks](kevin_nguyen_music_book_and_film_picks.md): same source document (doc_0607)
+- [The Mint Shutdown And The Hunt For Money Apps](mint_shutdown_and_the_hunt_for_money_apps.md): same source document (doc_0607)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

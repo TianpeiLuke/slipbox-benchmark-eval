@@ -13,12 +13,18 @@ Opetaia, a former Olympian, said afterwards: "I train for 12 rounds, was prepare
 
 ## Related Notes
 
+
 - [Anthony Joshua's Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): also concerns boxing staged in Saudi Arabia, from a different document.
 - [Argentina-Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also discusses Saudi Arabia as a sports host and rights market, from a different document.
 - [Boxing Marination And Upset Risk](boxing_marination_and_upset_risk.md): also concerns the Saudi-hosted boxing scene, from a different document.
 - [Canelo Alvarez's Undisputed Titles And Net Worth](canelo_alvarez_undisputed_titles_and_net_worth.md): also discusses the Ring Magazine belt Opetaia retained, from a different document.
 - [CONMEBOL 2026 Qualifying Broadcast Rights And Channels](conmebol_2026_qualifying_broadcast_rights_and_channels.md): also discusses Saudi Arabia in sport, from a different document.
 - [Anthony Joshua's Fifth-Round Stoppage Of Otto Wallin](anthony_joshua_fifth_round_stoppage_of_otto_wallin.md): the main event on the same card, from the same report.
+- [The Day Of Reckoning Card And The Heavyweight Unification Path](day_of_reckoning_card_and_heavyweight_unification_path.md): same source document (doc_0561)
+- [Day Of Reckoning Undercard Results: Bivol, Dubois And Kabayel](day_of_reckoning_undercard_results_bivol_dubois_kabayel.md): same source document (doc_0561)
+- [Eddie Hearn On Opetaia Emulating Usyk And Unifying Cruiserweight](eddie_hearn_on_opetaia_emulating_usyk_and_unifying_cruiserweight.md): same source document (doc_0561)
+- [Joseph Parker's Upset Win Over Deontay Wilder](joseph_parker_upset_win_over_deontay_wilder.md): same source document (doc_0561)
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
 
 ## Source
 

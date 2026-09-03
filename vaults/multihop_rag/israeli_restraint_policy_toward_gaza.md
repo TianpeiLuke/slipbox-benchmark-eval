@@ -11,6 +11,7 @@ Ortal treated the policy as natural — "a Western nation cannot lead its life i
 
 ## Related Notes
 
+
 - [Ai21 Labs Tel Aviv Office Lease](ai21_labs_tel_aviv_office_lease.md): also discusses Tel Aviv, from a different source document.
 - [Check Point Business Continuity During the Israel War](check_point_business_continuity_during_the_israel_war.md): also discusses Tel Aviv, from a different source document.
 - [Disinformation on X Gaza](disinformation_on_x_gaza.md): also discusses Gaza Strip, from a different source document.
@@ -19,6 +20,8 @@ Ortal treated the policy as natural — "a Western nation cannot lead its life i
 - [Berlin Wall Low Tech Defense Lesson](berlin_wall_low_tech_defense_lesson.md): another note drawn from the same source document (doc_0078).
 - [Gaza Border Barrier Construction](gaza_border_barrier_construction.md): the barrier Ortal warned would not prove more immune (doc_0078).
 - [IDF Small and Smart Army Doctrine](idf_small_and_smart_army_doctrine.md): the wider doctrine restraint fitted into (doc_0078).
+- [The Iron Dome's Strategic Paradox](iron_dome_strategic_paradox.md): same source document (doc_0078)
+- [What Israeli Leaders Claimed The Gaza Barrier Would Do](israeli_leaders_claims_about_the_gaza_barrier.md): same source document (doc_0078)
 
 ## Source
 

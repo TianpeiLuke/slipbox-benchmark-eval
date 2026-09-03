@@ -11,11 +11,19 @@ Boos and jabs at away games were the least of it. When the Astros went to play a
 
 ## Related Notes
 
+
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): also concerns the World Series, from a different source document.
 - [Angels 2023 Offseason: Ohtani and Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): also covers the Los Angeles Dodgers, from a different source document.
 - [Billie Jean King 2023 Activities and Ownership Stakes](billie_jean_king_2023_activities_and_ownership_stakes.md): also covers the Los Angeles Dodgers, from a different source document.
 - [Chase Field Arizona Diamondbacks Postseason Atmosphere](chase_field_arizona_diamondbacks_postseason_atmosphere.md): also concerns the World Series, from a different source document.
 - [Citizens Bank Park Philadelphia Phillies Postseason Atmosphere](citizens_bank_park_philadelphia_phillies_postseason_atmosphere.md): also concerns the World Series, from a different source document.
+- [The Astros' Camera-To-Trash-Can Sign-Stealing Machine](astros_camera_and_trash_can_sign_stealing_scheme.md): same source document (doc_0007)
+- [Astros Players Got Immunity While The Staff Took The Punishment](astros_players_immunity_and_mike_fiers.md): same source document (doc_0007)
+- [How The Astros Scheme Was Exposed And What MLB Did About It](astros_sign_stealing_exposure_and_mlb_penalties.md): same source document (doc_0007)
+- [How Jim Crane And Jeff Luhnow Rebuilt A Losing Astros Front Office](houston_astros_front_office_rebuild_under_crane_and_luhnow.md): same source document (doc_0007)
+- [Legal Sign Stealing Versus What The Astros Did](sign_stealing_rules_and_mlb_countermeasures.md): same source document (doc_0007)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

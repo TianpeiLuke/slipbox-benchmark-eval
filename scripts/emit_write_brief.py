@@ -60,10 +60,19 @@ def main() -> None:
 
     idx = json.loads((CORPUS / a.slug / "index.json").read_text())
     cache: dict[str, list[str]] = {}
+    # Both mappings. An earlier version of this generator carried note links only,
+    # and 4,513 already-derived term edges were computed, verified against source,
+    # and then never delivered to a writing agent -- 0.2% of the vault ended up
+    # linking to a term note. Nothing reported it: the notes validated, indexed and
+    # retrieved, they were simply cut off from the vocabulary layer.
     nl = {}
     nlp = P / "note_links.json"
     if nlp.exists():
         nl = json.loads(nlp.read_text())
+    tl = {}
+    tlp = P / "term_links.json"
+    if tlp.exists():
+        tl = json.loads(tlp.read_text())
 
     out = [f"# Writing brief — {a.cluster}", ""]
     n_notes = 0
@@ -76,7 +85,13 @@ def main() -> None:
             out.append(f"### `{note['note']}`")
             out.append(f"- building_block: `{note['bb']}`")
             out.append(f"- source_docs: [{', '.join(docs)}]")
-            rel = nl.get(note["note"], [])
+            rel = list(nl.get(note["note"], []))
+            have = {r["note"] for r in rel}
+            for tm in tl.get(note["note"], []):
+                tn = f"term_{tm}.md"
+                if tn not in have:
+                    rel.append({"note": tn, "why": f"uses the concept {tm.replace('_', ' ')}"})
+                    have.add(tn)
             if rel:
                 out.append("- **Related Notes to use** (already chosen by content relevance; "
                            "copy the reason into the note):")

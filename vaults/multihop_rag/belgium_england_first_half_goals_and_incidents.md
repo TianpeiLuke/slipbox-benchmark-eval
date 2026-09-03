@@ -13,6 +13,7 @@ That lengthy delay reignited England's intensity, which paid off as Bronze drew 
 
 ## Related Notes
 
+
 - [England 3-2 Netherlands at Wembley: Toone's Winner](england_3_2_netherlands_wembley_toone_winner.md): also concerns Alessia Russo and Chloe Kelly, from a different document.
 - [England 6-0 Scotland at Hampden: Match Report](england_6_0_scotland_hampden_match_report.md): also concerns Fran Kirby, from a different document.
 - [England Lionesses' Defensive Brittleness and Dropped Points](england_lionesses_defensive_brittleness_and_dropped_points.md): also concerns Alex Greenwood and Lucy Bronze, from a different document.
@@ -21,6 +22,7 @@ That lengthy delay reignited England's intensity, which paid off as Bronze drew 
 - [Belgium-England Lineups and Referee, October 2023](belgium_england_lineups_and_referee_october_2023.md): drawn from the same document (doc_0151).
 - [Belgium-England: The Second Half and Wullaert's Penalty](belgium_england_second_half_and_wullaert_penalty.md): drawn from the same document (doc_0151).
 - [Belgium 3-2 England: The Women's Nations League Result, October 2023](belgium_england_womens_nations_league_result_october_2023.md): drawn from the same document (doc_0151).
+- [Women's Nations League Group A1 Qualification Scenarios](womens_nations_league_group_a1_qualification_scenarios.md): same source document (doc_0151)
 
 ## Source
 

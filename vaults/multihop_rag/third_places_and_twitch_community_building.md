@@ -11,10 +11,18 @@ The grounds are both platform and venue. Compared to its competitors, Twitch's r
 
 ## Related Notes
 
+
 - [The Third Place](third_place_sociological_concept.md): same source document; the concept this argument applies.
 - [Loss Of Spontaneous Creator Meetups](loss_of_spontaneous_creator_meetups.md): same source document; the concrete losses that motivate the conclusion.
 - [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): same source document; the leadership positioned to act on it.
 - [Twitch Partner Plus Program](twitch_partner_plus_program.md): overlaps in content on Twitch, its convention and livestreaming, from a different source document.
+- [Twitch Advertising Strategy](twitch_advertising_strategy.md): content overlap 0.10 on twitch, livestreaming, feedback; different source document
+- [Las Vegas Strip Navigation And Accessibility Problems](las_vegas_strip_navigation_and_accessibility_problems.md): same source document (doc_0551)
+- [Moni's UserVoice TwitchCon Critique](moni_uservoice_twitchcon_critique.md): same source document (doc_0551)
+- [Twitch's Convention Scaling Response](twitch_convention_scaling_response.md): same source document (doc_0551)
+- [Twitch Demographics Versus Las Vegas Culture](twitch_demographics_versus_las_vegas_culture.md): same source document (doc_0551)
+- [TwitchCon 2022 San Diego Crowding Problems](twitchcon_2022_san_diego_crowding_problems.md): same source document (doc_0551)
+- [Livestreaming](term_livestreaming.md): uses the concept livestreaming
 
 ## Source
 

@@ -11,6 +11,7 @@ The examples: Mastodon deliberately looks and feels like Twitter, as do Firefish
 
 ## Related Notes
 
+
 - [The Fediverse ActivityPub Protocol](fediverse_activitypub_protocol.md): overlapping coverage of the fediverse, Mastodon and its apps, from a different source document.
 - [Flipboard's ActivityPub Federation Launch](flipboard_activitypub_federation_launch.md): overlapping coverage of the federated fediverse and Mastodon, from a different source document.
 - [Flipboard Front-End Redesign Questions](flipboard_front_end_redesign_questions.md): overlapping coverage of federated fediverse user experience, from a different source document.
@@ -19,6 +20,8 @@ The examples: Mastodon deliberately looks and feels like Twitter, as do Firefish
 - [ActivityPub And Rival Social Protocols](activitypub_and_rival_social_protocols.md): drawn from the same source document (doc_0508).
 - [The ActivityPub Data Model Of Senders, Messages And Inboxes](activitypub_data_model_of_senders_messages_and_inboxes.md): drawn from the same source document (doc_0508).
 - [Craigslist Unbundling As A Model For Social Media](craigslist_unbundling_as_a_model_for_social_media.md): drawn from the same source document (doc_0508).
+- [Decentralization As A Free Market, Not An Anti-Capitalist Project](decentralization_as_a_free_market_not_an_anti_capitalist_project.md): same source document (doc_0508)
+- [Early Fediverse Messiness As A Product Opportunity](early_fediverse_messiness_as_a_product_opportunity.md): same source document (doc_0508)
 
 ## Source
 

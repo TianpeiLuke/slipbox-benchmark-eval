@@ -13,11 +13,18 @@ Polygon's Toussaint Egan calls it a wild, weird, and genuinely funny comedy anch
 
 ## Related Notes
 
+
 - [Andor (Disney Plus)](andor_disney_plus.md): another write-up credited to Toussaint Egan, from a different source document
 - [Castlevania: Nocturne (Netflix)](castlevania_nocturne_netflix.md): another Toussaint Egan piece in a separate article
 - [Crimes of the Future (2022, David Cronenberg)](crimes_of_the_future_2022_david_cronenberg.md): shares the same Polygon critic across documents
 - [Messiah of Evil (1973 Cosmic Horror)](messiah_of_evil_1973_cosmic_horror.md): another Toussaint Egan recommendation elsewhere in the corpus
 - [Planet Terror (Robert Rodriguez)](planet_terror_robert_rodriguez_grindhouse.md): another genre-throwback pick by the same critic
+- [Anatomy of a Fall (Justine Triet)](anatomy_of_a_fall_justine_triet.md): same source document (doc_0094)
+- [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): same source document (doc_0094)
+- [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): same source document (doc_0094)
+- [The Barbenheimer Phenomenon of 2023](barbenheimer_summer_2023_phenomenon.md): same source document (doc_0094)
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

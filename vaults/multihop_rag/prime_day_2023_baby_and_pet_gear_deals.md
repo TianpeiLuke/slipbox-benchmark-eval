@@ -11,10 +11,20 @@ WIRED's favorite wearable breast pump is easy to use, easy to clean, and easy to
 
 ## Related Notes
 
+
 - [Apple Watch Series 9 Holiday Deal](apple_watch_series_9_holiday_deal.md): shares the discount and wearable-device themes, from a different source document.
 - [Google Nest Hub Smart Display Deal](google_nest_hub_smart_display_deal.md): shares the data-privacy and discount themes, from a different source document.
 - [WIRED Black Friday 2023 Screen Protector, Grip And Cable Deals](wired_black_friday_2023_screen_protector_grip_and_cable_deals.md): shares the data-privacy and discount themes, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same source document (doc_0520).
+- [The Amazon Invite-Only Deals System](amazon_invite_only_deals_system.md): same source document (doc_0520)
+- [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): same source document (doc_0520)
+- [Amazon Prime Big Deal Days October 2023 Dates](amazon_prime_big_deal_days_october_2023_dates.md): same source document (doc_0520)
+- [The Amazon Prime Membership Requirement For Prime Day](amazon_prime_membership_requirement_for_prime_day.md): same source document (doc_0520)
+- [Anker 2-In-1 MagSafe StandBy Charger Deal Listings](anker_2_in_1_magsafe_standby_charger_deal_listings.md): same source document (doc_0520)
+- [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): same source document (doc_0520)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Wearable Device](term_wearable_device.md): uses the concept wearable device
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

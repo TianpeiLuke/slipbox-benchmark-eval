@@ -13,12 +13,17 @@ That landmark strike was followed at the start of August by Meta announcing an "
 
 ## Related Notes
 
+
 - [Canada Jamaica Second Leg Second Half](canada_jamaica_second_leg_second_half.md): shares the actors and writers strike and class action settlement theme, from a different source document.
 - [CJEU Appropriate Fee Ruling](cjeu_appropriate_fee_ruling.md): substantial content overlap on meta, legal, ruling, from a different source document.
 - [Irish Dpc Assessment of Meta Consent Model](irish_dpc_assessment_of_meta_consent_model.md): substantial content overlap on meta, processing, legal, from a different source document.
 - [Meta Legal Basis for Ad Tracking in EU](meta_legal_basis_for_ad_tracking_in_eu.md): substantial content overlap on meta, legitimate, claim, from a different source document.
 - [Meta Pay or Consent GDPR Dimension](meta_pay_or_consent_gdpr_dimension.md): substantial content overlap on meta, legitimate, processing, from a different source document.
 - [Analysis of Meta Delay Tactics on Consent Switch](analysis_of_meta_delay_tactics_on_consent_switch.md): drawn from the same source document, doc_0107.
+- [Meta's Response To The Norwegian DPA Referral](meta_response_to_norwegian_dpa_referral.md): same source document (doc_0107)
+- [Norway's Ban On Meta's Consentless Tracking Ads](norway_ban_on_meta_consentless_tracking_ads.md): same source document (doc_0107)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

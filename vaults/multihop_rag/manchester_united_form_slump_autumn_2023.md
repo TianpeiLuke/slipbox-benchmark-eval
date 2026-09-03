@@ -13,11 +13,18 @@ It still seemed that coach Erik Ten Hag had the backing of the management; howev
 
 ## Related Notes
 
+
 - [Arsenal-Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): overlapping form-guide coverage across competitions, from a different source document.
 - [Bruno Fernandes' Role Against Top Teams](bruno_fernandes_role_against_top_teams.md): overlapping Manchester United coverage, from a different source document.
 - [Carabao Cup 2023-24 First Round Results](carabao_cup_2023_24_first_round_results.md): also discusses the Carabao Cup, the competition United were eliminated from, from a different source document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): also discusses Newcastle United, from a different source document.
 - [Carabao Cup 2023-24 Overview and Stakes](carabao_cup_2023_24_overview_and_stakes.md): also discusses the Carabao Cup and Newcastle United, from a different source document.
+- [Fulham's Form And League Position, November 2023](fulham_form_and_league_position_november_2023.md): same source document (doc_0260)
+- [Fulham's Injury List And Striker Choice, November 2023](fulham_injury_list_and_striker_choice_november_2023.md): same source document (doc_0260)
+- [Man United Vs Fulham, 4 November 2023: The Fixture](man_united_vs_fulham_november_2023_fixture.md): same source document (doc_0260)
+- [Manchester United's Injury List Before The Fulham Match](manchester_united_injury_list_november_2023.md): same source document (doc_0260)
+- [Premier League Broadcast And Streaming Rights In India](premier_league_india_broadcast_and_streaming_rights.md): same source document (doc_0260)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

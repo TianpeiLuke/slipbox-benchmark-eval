@@ -11,11 +11,19 @@ Her own role was to marshal everyone in the company to come up with creative and
 
 ## Related Notes
 
+
 - [Gag City As Free Marketing Win For Nicki Minaj](gag_city_as_free_marketing_win_for_nicki_minaj.md): shares corpus tags on streaming and promotion, from a different source document.
 - [I Married A Witch 1942 Rene Clair Comedy](i_married_a_witch_1942_rene_clair_comedy.md): shares a corpus streaming-service tag, from a different source document.
 - [OpenAI Board Negotiations Over Altman Reinstatement](openai_board_negotiations_over_altman_reinstatement.md): shares corpus topic tags with this note, from a different source document.
 - [Oppenheimer Christopher Nolan](oppenheimer_christopher_nolan.md): shares a corpus streaming-service tag, from a different source document.
 - [Suspiria 2018 Luca Guadagnino](suspiria_2018_luca_guadagnino.md): shares a corpus streaming-service tag, from a different source document.
+- [The Beatles' "Now And Then" 2023 Release](beatles_now_and_then_2023_release.md): same source document (doc_0212)
+- [Capitol's 2023 Frontline Roster Highlights](capitol_2023_frontline_roster_highlights.md): same source document (doc_0212)
+- [Capitol's Hip-Hop And R&B Executive Build-Out](capitol_hip_hop_and_rnb_executive_build_out.md): same source document (doc_0212)
+- [Capitol's International-First, Direct-To-Fan Campaign Model](capitol_international_first_and_direct_to_fan_strategy.md): same source document (doc_0212)
+- [Capitol Music Group's Leadership Turmoil, 2020-2021](capitol_music_group_leadership_turmoil_2020_2021.md): same source document (doc_0212)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

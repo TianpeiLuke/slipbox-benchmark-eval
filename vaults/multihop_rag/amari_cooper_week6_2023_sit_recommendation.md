@@ -13,11 +13,18 @@ The matchup is the closing ground. No team allows fewer yards per catch to wideo
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): covers the 49ers defense that anchors this call and also discusses Dak Prescott, from a different document.
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): a later verdict on the same receiver that also discusses Dorian Thompson-Robinson and Marquise Brown, from a different document.
 - [Baker Mayfield Week 15 Stat Line At Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also discusses Chris Godwin, one of the receivers preferred to Cooper, from a different document.
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): also discusses Chris Godwin and Curtis Samuel, both named here, from a different document.
 - [Christian Watson Packers Hot Seat](christian_watson_packers_hot_seat.md): overlaps on the same question of a receiver's yardage depending on his quarterback, from a different document.
+- [Brock Purdy's Fantasy Outlook In Weeks 5 And 6 Of 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): same source document (doc_0149)
+- [CBS Sports' Matchup-First Method For Weekly Fantasy Lineup Decisions](cbs_fantasy_lineup_decisions_matchup_method.md): same source document (doc_0149)
+- [Cole Kmet As A Week 6 2023 Start Against Minnesota](cole_kmet_week6_2023_start_recommendation.md): same source document (doc_0149)
+- [The Colts Backfield Split Between Zack Moss And Jonathan Taylor In Week 6 2023](colts_backfield_split_zack_moss_jonathan_taylor_week6_2023.md): same source document (doc_0149)
+- [Dak Prescott As A Week 6 2023 Sit At The Chargers](dak_prescott_week6_2023_sit_recommendation.md): same source document (doc_0149)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

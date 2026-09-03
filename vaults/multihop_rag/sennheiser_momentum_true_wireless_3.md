@@ -13,6 +13,7 @@ That warm yet customizable sound is joined by a solid adaptive ANC system, thoug
 
 ## Related Notes
 
+
 - [Apple AirPods Second, Third Gen And AirPods Max Deals](apple_airpods_second_third_gen_and_airpods_max_deals.md): covers competing discounted wireless pairs, from a different source document.
 - [Audio-Technica ATH-M20xBT Deal](audio_technica_ath_m20xbt_deal.md): covers another discounted wireless audio pair, from a different source document.
 - [Black Friday 2023 Headphone Deals Overview](black_friday_2023_headphone_deals_overview.md): covers the same category at a later sale, from a different source document.
@@ -20,6 +21,10 @@ That warm yet customizable sound is joined by a solid adaptive ANC system, thoug
 - [Jabra Elite Earbud Deals](jabra_elite_earbud_deals.md): covers competing earbuds with adaptive ANC, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): drawn from the same source document (doc_0595).
 - [Amazon's October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): drawn from the same source document (doc_0595).
+- [Anker Soundcore Liberty 4 NC Earbuds Deal Prices](anker_soundcore_liberty_4_nc_earbuds.md): same source document (doc_0595)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0595)
+- [Anker Soundcore Space Q45 And Life Q30](anker_soundcore_space_q45_and_life_q30.md): same source document (doc_0595)
+- [Noise-Cancelling Headphones](term_noise_cancelling_headphones.md): uses the concept noise cancelling headphones
 
 ## Source
 

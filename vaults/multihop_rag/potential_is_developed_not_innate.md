@@ -13,6 +13,7 @@ The warrant is a reversal of the usual relationship between passion and progress
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares a topic tag with this note across the corpus, from a different source
 - [AirPods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): shares a topic tag with this note across the corpus, from a different source
 - [Amazon Buy Box Price Parity Enforcement](amazon_buy_box_price_parity_enforcement.md): shares a topic tag with this note across the corpus, from a different source
@@ -21,6 +22,10 @@ The warrant is a reversal of the usual relationship between passion and progress
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares a topic tag with this note across the corpus, from a different source
 - [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): shares a topic tag with this note across the corpus, from a different source
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): shares a topic tag with this note across the corpus, from a different source
+- [Titles, Money And Awards Are Poor Proxies For Mattering](extrinsic_rewards_are_poor_proxies_for_mattering.md): same source document (doc_0147)
+- [Adam Grant: Parents Impose Career Models That Have Already Expired](parents_imposing_outdated_career_models.md): same source document (doc_0147)
+- [The Soft Skills Premium Employers Actually Pay For](soft_skills_premium_in_the_labour_market.md): same source document (doc_0147)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

@@ -13,6 +13,7 @@ The relation this sets up runs forward a decade. While it is easy to mark 2016's
 
 ## Related Notes
 
+
 - [Instagram Palestine Suppression](instagram_palestine_suppression.md): shares a user-generated-content platform theme, from a different source document.
 - [Meta's Response To Suppression Claims](meta_response_to_suppression_claims.md): shares a platform-and-audience theme tag, from a different source document.
 - [AfroFuture's Founding Vision And Mission Pillars](afrofuture_founding_vision_and_mission_pillars.md): also concerns building an audience-facing brand, from a different source document.
@@ -21,6 +22,16 @@ The relation this sets up runs forward a decade. While it is easy to mark 2016's
 - [AliveCor's EKG Import Ban And The PTAB Patentability Ruling](alivecor_ekg_import_ban_and_the_ptab_patentability_ruling.md): shares an appeals-process theme tag, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares a consumer-product theme tag, from a different source document.
 - [Apple's Appeal And Stay Prospects On The Watch Ban](apple_appeal_and_stay_prospects_on_the_watch_ban.md): shares an appeals-process theme tag, from a different source document.
+- [External Studios Expand Pokémon Animation](external_studios_expand_pokemon_animation.md): same source document (doc_0346)
+- [Pokémon As A Lifestyle: The Reinvention Thesis](pokemon_as_lifestyle_reinvention_thesis.md): same source document (doc_0346)
+- [Pokémon Diamond And Pearl At The Sales Crossroads](pokemon_diamond_and_pearl_sales_crossroads.md): same source document (doc_0346)
+- [Pokémon's Longevity And Scale](pokemon_franchise_longevity_and_scale.md): same source document (doc_0346)
+- [Pokémon Merchandising For Grown-Up Fans](pokemon_merchandising_for_grown_up_fans.md): same source document (doc_0346)
+- [The Pokémon With You Foundation And Local Acts](pokemon_with_you_foundation_and_local_acts.md): same source document (doc_0346)
+- [The 2023 Pokémon World Championships In Yokohama](pokemon_world_championships_2023_yokohama.md): same source document (doc_0346)
+- [PokéTsume, The Live-Action Pokémon Workplace Drama](poketsume_live_action_pokemon_drama.md): same source document (doc_0346)
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

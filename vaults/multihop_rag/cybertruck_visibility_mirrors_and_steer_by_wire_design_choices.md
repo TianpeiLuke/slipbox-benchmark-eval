@@ -11,6 +11,7 @@ The steering is digital rather than mechanical — "steering by wire" — sidevi
 
 ## Related Notes
 
+
 - [XPeng Removes HD Mapping From XNGP](xpeng_removes_hd_mapping_from_xngp.md): overlapping coverage of in-car mapping and removed features alongside Tesla, from a different source document.
 - [Crumple Zones And The Stainless Steel Concern](crumple_zones_and_the_stainless_steel_concern.md): drawn from the same source document (doc_0548).
 - [The Cybertruck's Danger Is A Large-Truck Problem](cybertruck_danger_is_a_large_truck_problem.md): drawn from the same source document (doc_0548).
@@ -19,6 +20,8 @@ The steering is digital rather than mechanical — "steering by wire" — sidevi
 - [The Cybertruck Is Unlikely To Be Sold In Europe](cybertruck_unlikely_to_be_sold_in_europe.md): drawn from the same source document (doc_0548).
 - [The IIHS Finding That Tall, Blunt Front Ends Raise Pedestrian Risk](iihs_finding_that_tall_blunt_front_ends_raise_pedestrian_risk.md): drawn from the same source document (doc_0548).
 - [Musk And Tesla's Safety Rating Record Claims](musk_and_tesla_safety_rating_record_claims.md): drawn from the same source document (doc_0548).
+- [Safety Experts Are Awaiting Independent Cybertruck Crash Data](safety_experts_awaiting_independent_cybertruck_crash_data.md): same source document (doc_0548)
+- [The US Pedestrian Death Crisis And Truck Dimensions](us_pedestrian_death_crisis_and_truck_dimensions.md): same source document (doc_0548)
 
 ## Source
 

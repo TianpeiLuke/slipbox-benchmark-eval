@@ -13,11 +13,20 @@ Inter Miami kept coming. In the 14th minute Facundo Farias took a dangerous free
 
 ## Related Notes
 
+
 - [Affiliate Marketing Alligator Party](affiliate_marketing_alligator_party.md): also concerns South Florida.
 - [Argentina 1-0 Paraguay 2023 World Cup Qualifier](argentina_1_0_paraguay_2023_world_cup_qualifier.md): also discusses Lionel Messi.
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also discusses Facundo Farias and Lionel Messi.
 - [Argentina Second Half and Messi Introduction vs Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): also discusses Lionel Messi.
 - [Argentina Squad and Lineup vs Paraguay October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): also discusses Facundo Farias.
+- [FC Cincinnati Won The 2023 Supporters' Shield As Regular Season Champions](fc_cincinnati_2023_supporters_shield.md): same source document (doc_0088)
+- [Inter Miami Lose 1-0 To FC Cincinnati And Fall Out Of The Playoff Race](inter_miami_0_1_fc_cincinnati_october_2023_recap.md): same source document (doc_0088)
+- [Inter Miami Eliminated From The 2023 MLS Playoff Race With Two Games Left](inter_miami_2023_mls_playoff_elimination.md): same source document (doc_0088)
+- [Inter Miami Supporters Protested The 2024 Price Hike By Sitting In Silence](inter_miami_fan_backlash_to_2024_ticket_prices.md): same source document (doc_0088)
+- [Inter Miami-FC Cincinnati Lineups: Messi On The Bench, Aviles Back From Suspension](inter_miami_fc_cincinnati_lineups_and_team_news.md): same source document (doc_0088)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

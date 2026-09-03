@@ -13,11 +13,18 @@ Klopp's compliments towards Dyche and his local rivals were of the back-handed n
 
 ## Related Notes
 
+
 - [Bill Kenwright Everton Chairmanship Record](bill_kenwright_everton_chairmanship_record.md): overlaps on Everton's Premier League record, from a different document.
 - [Dyche on Everton Points Deduction and Appeal](dyche_on_everton_points_deduction_and_appeal.md): also discusses Sean Dyche, from a different document.
 - [Everton Appeal Against Points Deduction](everton_appeal_against_points_deduction.md): also discusses Dyche and Everton's league position, from a different document.
 - [Everton Case Implications for Manchester City and Chelsea](everton_case_implications_for_manchester_city_and_chelsea.md): also discusses Dyche and Everton in the league, from a different document.
 - [Everton Fan Protests and Siege Mentality](everton_fan_protests_and_siege_mentality.md): also discusses Dyche and Everton in the Premier League, from a different document.
+- [Klopp On Building Defensive Protection](klopp_on_building_defensive_protection.md): same source document (doc_0542)
+- [Klopp On Consistency And The Midfield Rebuild](klopp_on_consistency_and_the_midfield_rebuild.md): same source document (doc_0542)
+- [Liverpool's Attacking Form: Núñez And Salah](liverpool_attacking_form_nunez_and_salah.md): same source document (doc_0542)
+- [Liverpool's Early-Season Form In 2023-24](liverpool_early_season_form_2023_24.md): same source document (doc_0542)
+- [The 243rd Merseyside Derby And Klopp's Record](merseyside_derby_243rd_edition_and_klopp_record.md): same source document (doc_0542)
+- [Premier League](term_premier_league.md): uses the concept premier league
 
 ## Source
 

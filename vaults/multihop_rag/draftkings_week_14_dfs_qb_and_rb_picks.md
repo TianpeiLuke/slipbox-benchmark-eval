@@ -15,11 +15,19 @@ McCaffrey (49ers vs. Seahawks) was the splurge: fantasy's best running back had 
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Derek Carr, from a different document.
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): also discusses Justin Fields, from a different document.
 - [Browns Survive Bears Game-Ending Hail Mary](bears_game_ending_hail_mary_vs_browns.md): also discusses Justin Fields, from a different document.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): also discusses Justin Fields, from a different document.
 - [Bills Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): shares the playoff-seeding theme, from a different document.
+- [DraftKings NFL DFS Contest Format And Scoring Rules](draftkings_nfl_dfs_contest_format_and_scoring.md): same source document (doc_0331)
+- [DraftKings Week 14 DFS Receiver, Tight End, Flex And Defense Picks](draftkings_week_14_dfs_wr_te_flex_and_defense_picks.md): same source document (doc_0331)
+- [SuperDraft's Multiplier-Based DFS Scoring Format](superdraft_dfs_multiplier_scoring_format.md): same source document (doc_0331)
+- [SuperDraft Week 14 NFL DFS Lineup](superdraft_week_14_nfl_dfs_lineup.md): same source document (doc_0331)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

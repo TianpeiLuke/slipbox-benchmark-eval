@@ -11,6 +11,7 @@ Two names are floated. Gabe Kapler, who made his exit three days before the San 
 
 ## Related Notes
 
+
 - [Cubs Ohtani Fit After NL Designated Hitter](cubs_ohtani_fit_after_nl_designated_hitter.md): also covers Craig Counsell, from a different source document.
 - [How to Open a Sportsbook Account and Place a Bet](how_to_open_a_sportsbook_account_and_place_a_bet.md): shares the year-award subject overlap, from a different source document.
 - [Pete Alonso Mets Trade Candidacy](pete_alonso_mets_trade_candidacy.md): also covers David Stearns and the Mets, from a different source document.
@@ -19,6 +20,8 @@ Two names are floated. Gabe Kapler, who made his exit three days before the San 
 - [Cleveland Guardians Manager Search After Francona](cleveland_guardians_manager_search_after_francona.md): a parallel vacancy from the same article (doc_0416).
 - [Houston Astros Manager Search After Dusty Baker](houston_astros_manager_search_after_dusty_baker.md): a parallel vacancy from the same article (doc_0416).
 - [Los Angeles Angels Manager Search 2023](los_angeles_angels_manager_search_2023.md): a parallel vacancy from the same article (doc_0416).
+- [Five MLB Teams Were Hunting For A Manager At The End Of 2023](mlb_2023_managerial_vacancies_overview.md): same source document (doc_0416)
+- [The Padres' Manager Search After Losing Bob Melvin To The Giants](san_diego_padres_manager_search_2023.md): same source document (doc_0416)
 
 ## Source
 

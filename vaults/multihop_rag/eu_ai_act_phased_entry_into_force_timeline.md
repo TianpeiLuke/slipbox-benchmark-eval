@@ -13,10 +13,19 @@ Within the phased approach, 24 months are allowed before the high-risk rules wil
 
 ## Related Notes
 
+
 - [Digital Services Act](digital_services_act.md): also covers Member States, from a different source document.
 - [EU Demands on Fact Checking and Researcher Data Access](eu_demands_on_fact_checking_and_researcher_data_access.md): also covers Member States, from a different source document.
 - [Johansson Parliament Hearing](johansson_parliament_hearing.md): also covers Member States, from a different source document.
 - [X Platform Worst Disinformation Ratio EU Finding](x_platform_worst_disinformation_ratio_eu_finding.md): also covers Member States, from a different source document.
+- [Civil Society Criticism Of The EU AI Act's Biometrics Limits](civil_society_criticism_of_eu_ai_act_biometrics_limits.md): same source document (doc_0564)
+- [EU AI Act Copyright Obligations For GPAI Makers](eu_ai_act_copyright_obligations_for_gpai_makers.md): same source document (doc_0525)
+- [EU AI Act High-Risk AI System Obligations](eu_ai_act_high_risk_ai_system_obligations.md): same source document (doc_0564)
+- [EU AI Act Penalties For Non-Compliance](eu_ai_act_penalties_for_non_compliance.md): same source document (doc_0564)
+- [EU AI Act Political Agreement, December 2023](eu_ai_act_political_agreement_december_2023.md): same source document (doc_0525)
+- [EU AI Act Prohibited AI Practices](eu_ai_act_prohibited_ai_practices.md): same source document (doc_0564)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Machine Translation](term_machine_translation.md): uses the concept machine translation
 
 ## Source
 

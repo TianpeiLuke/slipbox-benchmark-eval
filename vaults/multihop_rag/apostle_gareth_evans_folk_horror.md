@@ -13,10 +13,18 @@ The film deliberately starts in roughly the same place as the classic 1973 suspe
 
 ## Related Notes
 
+
 - [Andor (Disney Plus)](andor_disney_plus.md): both reference Rogue One, from a different source document
 - [The Maltese Falcon (1941)](the_maltese_falcon_1941.md): another write-up by the same critic, Tasha Robinson, in a separate article
 - [The Origin of Evil (Sébastien Marnier)](the_origin_of_evil_sebastien_marnier.md): shares the same bylined critic across documents
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
+- [American Horror Story: NYC](american_horror_story_nyc_season.md): same source document (doc_0165)
+- [Cat People (1942) and the Origin of the Jump Scare](cat_people_1942_jump_scare_origin.md): same source document (doc_0165)
+- [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): same source document (doc_0165)
+- [Curve (Tim Egan Horror Short)](curve_tim_egan_horror_short.md): same source document (doc_0165)
+- [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): same source document (doc_0165)
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0165)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

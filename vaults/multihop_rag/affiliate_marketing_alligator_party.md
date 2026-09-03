@@ -13,6 +13,7 @@ The alligator itself made an unsupervised appearance. Waiting in line for a drin
 
 ## Related Notes
 
+
 - [Inter Miami vs FC Cincinnati First Half Live Blog](inter_miami_fc_cincinnati_first_half_live_blog.md): shares the South Florida setting, from a different source document.
 - [Reactions To Jim Harbaugh's Suspension](reactions_to_jim_harbaugh_suspension.md): shares a South Florida reference, from a different source document.
 - [Yuki Matsui's Padres Five-Year Deal](yuki_matsui_padres_five_year_deal.md): shares a Sunshine State reference, from a different source document.
@@ -21,6 +22,8 @@ The alligator itself made an unsupervised appearance. Waiting in line for a drin
 - [The Blurred Line Between SEO And Spam](blurred_line_between_seo_and_spam.md): drawn from the same source document (doc_0115).
 - [Cade Lee, From Black Hat SEO To Construction](cade_lee_from_black_hat_seo_to_construction.md): drawn from the same source document (doc_0115).
 - [Danny Sullivan, From Journalist To Google Liaison](danny_sullivan_from_journalist_to_google_liaison.md): drawn from the same source document (doc_0115).
+- [The Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): same source document (doc_0115)
+- [Duane Forrester, Bing, And The Search Engine's View](duane_forrester_bing_and_the_search_engine_view.md): same source document (doc_0115)
 
 ## Source
 

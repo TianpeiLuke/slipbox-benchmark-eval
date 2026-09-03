@@ -11,11 +11,17 @@ This year's event ran two days. The first was held inside the Spheres, the big, 
 
 ## Related Notes
 
+
 - [Amazon's Agility Digit Humanoid Pilot](amazon_agility_digit_humanoid_pilot.md): same source document; another announcement discussed at the event.
 - [Amazon's Machine Learning And Generative AI Adoption](amazon_machine_learning_and_generative_ai_adoption.md): same source document; a topic from the interview conducted around the event.
 - [Amazon Generative AI In Robotics Simulation](amazon_generative_ai_in_robotics_simulation.md): same source document; another interview topic.
 - [Amazon's Industrial Innovation Fund And Agility](amazon_industrial_innovation_fund_and_agility.md): same source document; the investment context behind the Digit pilot.
 - [Human-Centric Versus Humanoid Robot Design](human_centric_versus_humanoid_robot_design.md): overlaps in content on Seattle robotics events and venues, from a different source document.
+- [Amazon's Greenfield And Brownfield Retrofit Capability](amazon_greenfield_brownfield_retrofit_capability.md): same source document (doc_0528)
+- [Amazon's Interest In Bipedal Locomotion](amazon_interest_in_bipedal_locomotion.md): same source document (doc_0528)
+- [Amazon's Machine Learning Flow And Fleet Management](amazon_machine_learning_fleet_and_flow_management.md): same source document (doc_0528)
+- [Amazon, MIT And Ipsos Robot Perception Study](amazon_mit_ipsos_robot_perception_study.md): same source document (doc_0528)
+- [Amazon's Mobile Manipulation Program](amazon_mobile_manipulation_program.md): same source document (doc_0528)
 
 ## Source
 

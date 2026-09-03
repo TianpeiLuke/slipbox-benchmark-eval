@@ -13,6 +13,7 @@ The GPT store slipped. According to a memo seen by Axios, OpenAI planned to dela
 
 ## Related Notes
 
+
 - [OpenAI Custom Gpts and Devday Announcements](openai_custom_gpts_and_devday_announcements.md): substantial content overlap on turbo, gpt-4, openai, from a different source document.
 - [Alexa Kids Privacy and Hardware](alexa_kids_privacy_and_hardware.md): shares the product launch theme, from a different source document.
 - [Amazon Buy Box Price Parity Enforcement](amazon_buy_box_price_parity_enforcement.md): shares the product launch theme, from a different source document.
@@ -21,6 +22,16 @@ The GPT store slipped. According to a memo seen by Axios, OpenAI planned to dela
 - [Amazon Seller Skepticism of the FTC Case](amazon_seller_skepticism_of_the_ftc_case.md): shares the product launch theme, from a different source document.
 - [Amazon Sequoia Fulfillment System](amazon_sequoia_fulfillment_system.md): shares the product launch theme, from a different source document.
 - [Amo Scale Ambition and Product Roadmap](amo_scale_ambition_and_product_roadmap.md): shares the product launch theme, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): same source document (doc_0048)
+- [ChatGPT Competitors And Alternatives](chatgpt_competitors_and_alternatives.md): same source document (doc_0048)
+- [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): same source document (doc_0048)
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [ChatGPT In Education And Academic Integrity](chatgpt_in_education_and_academic_integrity.md): same source document (doc_0048)
+- [ChatGPT Legal And Privacy Controversies](chatgpt_legal_and_privacy_controversies.md): same source document (doc_0048)
+- [ChatGPT Mobile App Launches And Revenue](chatgpt_mobile_app_launches_and_revenue.md): same source document (doc_0048)
+- [ChatGPT Overview And Significance](chatgpt_overview_and_significance.md): same source document (doc_0048)
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

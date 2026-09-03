@@ -13,11 +13,16 @@ The warrant is that at this level effort is not a substitute for resources. Newc
 
 ## Related Notes
 
+
 - [AC Milan 2-0 Win Over Lazio and Serie A Standings](ac_milan_2_0_win_over_lazio_and_serie_a_standings.md): also concerns Noah Okafor, from a different document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): also concerns the Champions League, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns the Champions League, from a different document.
 - [Calendar Year 2023 Top Goalscorer Race](calendar_year_2023_top_goalscorer_race.md): also concerns Kylian Mbappe, from a different document.
 - [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md): also concerns Eddie Howe, from a different document.
+- [Joelinton's Reinvention In Newcastle's Midfield](joelinton_newcastle_midfield_reinvention.md): same source document (doc_0425)
+- [Newcastle's Champions League Defeat To AC Milan](newcastle_ac_milan_champions_league_defeat_2023.md): same source document (doc_0425)
+- [Newcastle's Elimination From The Group Of Death](newcastle_group_of_death_elimination_2023.md): same source document (doc_0425)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

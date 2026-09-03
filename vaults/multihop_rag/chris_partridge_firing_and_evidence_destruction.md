@@ -13,11 +13,20 @@ Michigan's statement on the firing appeared to indicate a connection between Par
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): another Big Ten item from a different document.
 - [Alabama's Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also concerns the Big Ten, separately sourced.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): the conference-level reaction to the same scandal, in a different document.
 - [Big Ten Commissioner Petitti's Punishment Dilemma](big_ten_commissioner_petitti_punishment_dilemma.md): the conference decision that ran alongside this NCAA inquiry, reported elsewhere.
 - [The Big Ten's 2023 Run of Scandals](big_ten_conference_scandal_run_2023.md): another Big Ten misconduct item from a separate source.
+- [The Big Ten's Deliberation Over Harbaugh's Punishment](big_ten_deliberation_over_harbaugh_punishment.md): same source document (doc_0180)
+- [The Big Ten's Head-Coach Responsibility Doctrine](big_ten_head_coach_responsibility_doctrine.md): same source document (doc_0180)
+- [The Big Ten Suspends Jim Harbaugh For Three Games](big_ten_suspension_of_jim_harbaugh.md): same source document (doc_0180)
+- [Connor Stalions And The In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): same source document (doc_0180)
+- [Michigan Drops Its Suit And Accepts The Three-Game Ban](michigan_litigation_resolution_and_accepted_ban.md): same source document (doc_0180)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
+- [Public Health Guidance](term_public_health_guidance.md): uses the concept public health guidance
 
 ## Source
 

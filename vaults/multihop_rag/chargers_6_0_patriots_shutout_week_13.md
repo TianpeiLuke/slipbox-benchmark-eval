@@ -11,11 +11,18 @@ Justin Herbert threw for 212 yards and set up the pair of Dicker field goals tha
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also covers the Los Angeles Chargers' standing, from a different document.
 - [Bills-Chargers Week 16 Matchup Preview](bills_chargers_week_16_matchup_preview.md): also covers the Los Angeles Chargers, from a different document.
 - [Broncos Fourth Quarter Comeback and Ryland Game Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): another 2023 Patriots game decided by kicking, from a different document.
 - [Chargers Fire Brandon Staley and Tom Telesco](chargers_fire_brandon_staley_and_tom_telesco.md): covers the Chargers and Justin Herbert later that season, from a different document.
 - [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): another case of a struggling quarterback's season, from a different document.
+- [Buccaneers 21-18 Panthers And Mike Evans' 1,000-Yard Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): same source document (doc_0150)
+- [Cardinals 24-10 Steelers, Week 13 2023](cardinals_24_10_steelers_week_13.md): same source document (doc_0150)
+- [Colts 31-28 Titans In Overtime, Week 13 2023](colts_31_28_titans_overtime_week_13.md): same source document (doc_0150)
+- [Dolphins 45-15 Commanders, Week 13 2023](dolphins_45_15_commanders_week_13.md): same source document (doc_0150)
+- [The Greenlaw-DiSandro Sideline Ejections](dre_greenlaw_dom_disandro_sideline_ejections.md): same source document (doc_0150)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

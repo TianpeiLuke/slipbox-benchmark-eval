@@ -15,6 +15,7 @@ The fourth option is to skip third-party tools entirely: a lot of banks now offe
 
 ## Related Notes
 
+
 - [The 50/30/20 Budgeting Method](fifty_thirty_twenty_budgeting_method.md): another spreadsheet-and-template approach to budgeting, from a different source document.
 - [Installer Reader Game And App Picks](installer_reader_game_and_app_picks.md): drawn from the same source document (doc_0607).
 - [Installer Reader Podcast And TV Picks](installer_reader_podcast_and_tv_picks.md): drawn from the same source document (doc_0607).
@@ -23,6 +24,7 @@ The fourth option is to skip third-party tools entirely: a lot of banks now offe
 - [Kevin Nguyen's Non-Writing iPhone Apps](kevin_nguyen_non_writing_iphone_apps.md): drawn from the same source document (doc_0607).
 - [The Mint Shutdown And The Hunt For Money Apps](mint_shutdown_and_the_hunt_for_money_apps.md): drawn from the same source document (doc_0607).
 - [Tumblr's Uncertain Future](tumblr_uncertain_future.md): drawn from the same source document (doc_0607).
+- [YNAB And Copilot, The Two Go-To Budgeting Apps](ynab_and_copilot_budgeting_apps.md): same source document (doc_0607)
 
 ## Source
 

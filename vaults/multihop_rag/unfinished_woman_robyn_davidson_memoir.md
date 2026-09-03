@@ -13,6 +13,7 @@ The book's centre is family, and particularly her mother, who took her own life 
 
 ## Related Notes
 
+
 - [Stone Yard Devotional Charlotte Wood](stone_yard_devotional_charlotte_wood.md): the roundup pairs it as another reckoning with a mother's death
 - [Killing For Country David Marr](killing_for_country_david_marr.md): another October title in the same roundup
 - [My Life As A Jew Michael Gawenda](my_life_as_a_jew_michael_gawenda.md): another memoir in the same roundup
@@ -21,6 +22,8 @@ The book's centre is family, and particularly her mother, who took her own life 
 - [Life As We Knew It Australian Pandemic Account](life_as_we_knew_it_australian_pandemic_account.md): another October title in the same roundup
 - [Mr Einsteins Secretary Matthew Reilly](mr_einsteins_secretary_matthew_reilly.md): another October title in the same roundup
 - [Connor Bedard Rookie Adjustment With The Blackhawks](connor_bedard_rookie_adjustment_with_the_blackhawks.md): overlaps only on shared words, unrelated subject
+- [Michael Wolff On Fox News And Rupert Murdoch](the_fall_michael_wolff_on_the_murdoch_empire.md): same source document (doc_0582)
+- [The Seven, Chris Hammer's Crime Novel](the_seven_chris_hammer_crime_novel.md): same source document (doc_0582)
 
 ## Source
 

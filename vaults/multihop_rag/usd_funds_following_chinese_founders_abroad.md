@@ -13,10 +13,18 @@ The warrant is a claim about what venture investing actually depends on: "VCs th
 
 ## Related Notes
 
+
 - [The Biden-Xi San Francisco Summit, November 2023](biden_xi_san_francisco_summit_november_2023.md): covers the China-US relationship shaping these flows, from a different document.
 - [Roblox's China Strategy And Tencent](roblox_china_strategy_and_tencent.md): overlaps on China-facing network strategy, from a different document.
 - [Ten Minute School's Pre-Series A Funding Round](ten_minute_school_pre_series_a_funding_round.md): overlaps on local versus foreign investor participation, from a different document.
 - [China's Tech Crackdown And Investor Exit Risk](china_tech_crackdown_investor_exit_risk.md): drawn from the same source document (doc_0181), and explains why they are looking abroad.
+- [China Versus Overseas: The Dual-Market Strategy](china_versus_overseas_dual_market_strategy.md): same source document (doc_0181)
+- [Chinese Capital Stigma In US Fundraising](chinese_capital_stigma_in_us_fundraising.md): same source document (doc_0181)
+- [Chinese USD Fund Managers' Transitory Phase](chinese_usd_fund_managers_transitory_phase.md): same source document (doc_0181)
+- [Haigui And Guihai: The Returnee Founder Cycle](haigui_guihai_returnee_founder_cycle.md): same source document (doc_0181)
+- [The Outlook For US-China VC Dealmaking](outlook_for_us_china_vc_dealmaking.md): same source document (doc_0181)
+- [US Outbound Investment Restrictions On China](us_outbound_investment_restrictions_china.md): same source document (doc_0181)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

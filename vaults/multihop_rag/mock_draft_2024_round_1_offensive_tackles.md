@@ -11,11 +11,19 @@ At Pick 12, the N.Y. Jets take Amarius Mims, OT, Georgia, a junior at 6'7" and 3
 
 ## Related Notes
 
+
 - [Aaron Jones 2023 Hamstring Injury Timeline](aaron_jones_2023_hamstring_injury_timeline.md): also covers Green Bay, from a different source document.
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also covers Green Bay, from a different source document.
 - [BetMGM Bonus Code TSN50 First Bet Offer](betmgm_bonus_code_tsn50_first_bet_offer.md): also references the Blue Devils, Graham Barton's program, from a different source document.
 - [Chase Young Trade to 49ers 2023 Deadline](chase_young_trade_to_49ers_2023_deadline.md): shares the National Football League and trade-and-free-agency subject tags, from a different source document.
 - [Chiefs Packers Week 13 Broadcast and Kickoff Details](chiefs_packers_week_13_broadcast_and_kickoff_details.md): also covers Green Bay, from a different source document.
+- [2024 Mock Draft: Six Defensive Backs Projected In Round 1](mock_draft_2024_round_1_defensive_backs.md): same source document (doc_0179)
+- [2024 Mock Draft: Six Edge Rushers Projected In Round 1](mock_draft_2024_round_1_edge_rushers.md): same source document (doc_0179)
+- [2024 Mock Draft: Brock Bowers Plus Two Interior Defensive Linemen In Round 1](mock_draft_2024_round_1_interior_defenders_and_tight_end.md): same source document (doc_0179)
+- [2024 Mock Draft: Four Quarterbacks Off The Board In Round 1](mock_draft_2024_round_1_quarterbacks.md): same source document (doc_0179)
+- [2024 Mock Draft: Five Wide Receivers Projected In Round 1](mock_draft_2024_round_1_wide_receivers.md): same source document (doc_0179)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

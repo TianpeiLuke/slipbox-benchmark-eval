@@ -11,12 +11,18 @@ His stated reason for the generosity is asymmetry of resources — very few comp
 
 ## Related Notes
 
+
 - [Cecile De Jongh's Role And Deposition Denial](cecile_de_jongh_role_and_deposition_denial.md): overlapping coverage of litigation and what a party is seeking, from a different source document.
 - [Google App Store Antitrust Settlements](google_app_store_antitrust_settlements.md): also concerns Match Group, from a different source document.
 - [Google's Parallel Antitrust Proceedings In 2023](google_parallel_antitrust_proceedings_2023.md): also concerns Match Group, from a different source document.
 - [Siya Kolisi's Post-Match Reaction To The RWC 2023 Final](siya_kolisi_post_match_reaction_rwc_2023_final.md): overlapping language of fighting and being grateful, from a different source document.
 - [Activision, Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): drawn from the same source document (doc_0170).
 - [Apple Versus Google Antitrust Conduct Contrast](apple_versus_google_antitrust_conduct_contrast.md): drawn from the same source document (doc_0170).
+- [Epic Games' 2023 Layoffs And Overspending](epic_games_2023_layoffs_and_overspending.md): same source document (doc_0170)
+- [The Epic Games Store As A General-Purpose App Store](epic_games_store_as_a_general_purpose_app_store.md): same source document (doc_0170)
+- [Epic Games Store Growth And Diversification Beyond Games](epic_games_store_growth_and_diversification_beyond_games.md): same source document (doc_0170)
+- [Epic's Post-Verdict Remedy Strategy And Global Cases](epic_post_verdict_remedy_strategy_and_global_cases.md): same source document (doc_0170)
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

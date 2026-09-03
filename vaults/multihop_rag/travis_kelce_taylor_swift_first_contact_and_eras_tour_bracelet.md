@@ -13,6 +13,7 @@ Seven years on, things started to heat up: in July, speaking on the podcast he s
 
 ## Related Notes
 
+
 - [Travis Kelce Invites Taylor Swift To Arrowhead](travis_kelce_invites_taylor_swift_to_arrowhead.md): same timeline, the invitation that eventually worked
 - [Nfl Broadcasters Taylor Swift Lyric References](nfl_broadcasters_taylor_swift_lyric_references.md): same timeline, the media pile-on that followed
 - [Backlash To Travis Kelce Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): also concerns Kelce and the Eras Tour, different document
@@ -20,6 +21,10 @@ Seven years on, things started to heat up: in July, speaking on the podcast he s
 - [49ers Can Create Cap Room To Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): shares the Super Bowl context, unrelated subject
 - [Advantages Of Prop Bets](advantages_of_prop_bets.md): shares the Super Bowl context, unrelated subject
 - [Betting On Kentucky And Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): shares the Super Bowl context, unrelated subject
+- [Taylor Swift's Arrowhead Appearance And Its Easter Eggs](taylor_swift_arrowhead_stadium_appearance_and_easter_eggs.md): same source document (doc_0044)
+- [Travis Kelce's Moustache Remark And New York Visit](travis_kelce_moustache_remark_and_new_york_visit.md): same source document (doc_0044)
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

@@ -11,6 +11,7 @@ Palmer played his part in Badiashile's opening goal — the defender's first app
 
 ## Related Notes
 
+
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also concerns Manchester City, from a different document.
 - [Bayern Munich 2-2 Draw At RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also mentions Manchester City, from a different document.
 - [Carabao Cup 2023-24 Third Round Results](carabao_cup_2023_24_third_round_results.md): also concerns Manchester City, from a different document.
@@ -19,6 +20,7 @@ Palmer played his part in Badiashile's opening goal — the defender's first app
 - [Blackburn Rovers Decline And Youthful Selection](blackburn_rovers_decline_and_youthful_selection.md): profiles the side he dispatched, from the same document.
 - [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md): the draw this win fed into, from the same document.
 - [Chelsea 2-0 Blackburn Carabao Cup Last 16](chelsea_2_0_blackburn_carabao_cup_last_16.md): the match report, from the same document.
+- [Reece James Return From Injury Chelsea](reece_james_return_from_injury_chelsea.md): same source document (doc_0101)
 
 ## Source
 

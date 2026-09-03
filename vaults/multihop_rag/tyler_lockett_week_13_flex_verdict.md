@@ -11,6 +11,7 @@ The resulting ranking: the author does not mind him as a WR3 over Drake London, 
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also covers Drake London, one of the receivers Lockett is ranked above, from a different source document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): another quarterback-driven outlook covering Geno Smith, from a different source document.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): shares the receiving-yards, projected-points and Fantasy-points-per-game evaluation format, from a different source document.
@@ -19,6 +20,8 @@ The resulting ranking: the author does not mind him as a WR3 over Drake London, 
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): a parallel Week 13 player verdict from the same article (doc_0057).
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a parallel Week 13 player verdict from the same article (doc_0057).
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): a parallel Week 13 player verdict from the same article (doc_0057).
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
 
 ## Source
 

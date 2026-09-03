@@ -11,6 +11,7 @@ Bryan later gave a different reason, saying he couldn't have an attorney general
 
 ## Related Notes
 
+
 - [Mariners' Young Starting Pitcher Trade Candidates](mariners_young_starting_pitcher_trade_candidates.md): overlapping coverage of figures named Bryan and George, from a different source document.
 - [SBF's Defense Counsel](sbf_defense_counsel.md): also concerns Jeffrey Epstein, from a different source document.
 - [The Good Fight On Paramount+](the_good_fight_paramount_plus.md): also concerns Jeffrey Epstein, from a different source document.
@@ -19,6 +20,8 @@ Bryan later gave a different reason, saying he couldn't have an attorney general
 - [Denise George: Profile And Epstein Case Role](denise_george_profile_and_epstein_case_role.md): drawn from the same source document (doc_0477).
 - [The Epstein Estate Civil Racketeering Pursuit](epstein_estate_civil_racketeering_pursuit.md): drawn from the same source document (doc_0477).
 - [Epstein-Related Settlements With The US Virgin Islands](epstein_related_settlements_with_us_virgin_islands.md): drawn from the same source document (doc_0477).
+- [Epstein's Sex Offender Waiver Request And Its Denial](epstein_sex_offender_waiver_request_and_denial.md): same source document (doc_0477)
+- [Epstein's Web Of Influence In The US Virgin Islands](epstein_web_of_influence_in_us_virgin_islands.md): same source document (doc_0477)
 
 ## Source
 

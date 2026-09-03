@@ -11,6 +11,7 @@ The Athletic's Ken Rosenthal first reported on Wednesday, Dec. 13 that the Rays 
 
 ## Related Notes
 
+
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): also relies on reporting by Ken Rosenthal, from a different document.
 - [Dodgers Payroll Constraints Against Signing Ohtani and Trout](dodgers_payroll_constraints_against_signing_ohtani_and_trout.md): overlaps on Dodgers contract and extension commitments, from a different document.
 - [Eduardo Rodriguez Signs With Diamondbacks](eduardo_rodriguez_signs_with_diamondbacks.md): also relies on reporting by Jeff Passan, from a different document.
@@ -18,6 +19,11 @@ The Athletic's Ken Rosenthal first reported on Wednesday, Dec. 13 that the Rays 
 - [MLB Luxury Tax, Deferrals and Average Annual Value](mlb_luxury_tax_deferrals_and_average_annual_value.md): covers the deferred-money mechanics this contract explicitly avoids, from a different document.
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): another entry from the same free agency tracker, from the same document.
 - [Braves Release Matt Carpenter](braves_release_matt_carpenter.md): another entry from the same free agency tracker, from the same document.
+- [Cody Bellinger's Market And Suitors After Ohtani Signed](cody_bellinger_free_agent_market_and_suitors.md): same source document (doc_0422)
+- [Jack Flaherty's One-Year Deal With The Tigers](jack_flaherty_tigers_one_year_deal.md): same source document (doc_0422)
+- [Kansas City Royals' December 2023 Signings](kansas_city_royals_2023_offseason_signings.md): same source document (doc_0422)
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
+- [Contract Extension](term_contract_extension.md): uses the concept contract extension
 
 ## Source
 

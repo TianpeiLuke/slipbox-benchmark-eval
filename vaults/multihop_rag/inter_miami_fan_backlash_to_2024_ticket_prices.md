@@ -13,6 +13,7 @@ A billing error compounded the alarm. Mike Ryan, a Miami local who regularly app
 
 ## Related Notes
 
+
 - [Cancelled China Tour and NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): also concerns Inter Miami.
 - [Chicago Fire 4-1 Inter Miami October 2023 Recap](chicago_fire_4_1_inter_miami_october_2023_recap.md): also concerns Inter Miami.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): also concerns Inter Miami.
@@ -21,6 +22,8 @@ A billing error compounded the alarm. Mike Ryan, a Miami local who regularly app
 - [FC Cincinnati 2023 Supporters' Shield](fc_cincinnati_2023_supporters_shield.md): the opponent that night, same source document.
 - [Inter Miami 0-1 FC Cincinnati October 2023 Recap](inter_miami_0_1_fc_cincinnati_october_2023_recap.md): the match the protest framed, same source document.
 - [Inter Miami 2023 MLS Playoff Elimination](inter_miami_2023_mls_playoff_elimination.md): the elimination sealed that night, same source document.
+- [Inter Miami's 2024 Season Ticket Prices Rose Up To 113% After Messi's Arrival](inter_miami_2024_season_ticket_price_increase.md): same source document (doc_0203)
+- [Inter Miami-FC Cincinnati First Half: Three Times Off The Woodwork, Still 0-0](inter_miami_fc_cincinnati_first_half_live_blog.md): same source document (doc_0088)
 
 ## Source
 

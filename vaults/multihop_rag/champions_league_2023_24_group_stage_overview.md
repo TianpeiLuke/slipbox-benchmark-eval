@@ -13,6 +13,7 @@ Manchester United and Newcastle United would play no further part in Europe, hav
 
 ## Related Notes
 
+
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): also discusses Manchester City, from a different document.
 - [Bayern Munich 1-0 Manchester United at Old Trafford](bayern_munich_1_0_manchester_united_old_trafford.md): covers one of this group stage's final-day games, from a different document.
 - [Bayern Munich 2-2 Draw at RB Leipzig](bayern_munich_2_2_draw_at_rb_leipzig.md): also concerns Bayern Munich and the Champions League, from a different document.
@@ -21,6 +22,8 @@ Manchester United and Newcastle United would play no further part in Europe, hav
 - [Champions League 2023-24 Group A: Bayern and Copenhagen](champions_league_2023_24_group_a_bayern_copenhagen.md): one of the eight groups reviewed, from the same document.
 - [Champions League 2023-24 Group B: Arsenal and PSV](champions_league_2023_24_group_b_arsenal_psv.md): one of the eight groups reviewed, from the same document.
 - [Champions League 2023-24 Group C: Real Madrid and Napoli](champions_league_2023_24_group_c_real_madrid_napoli.md): one of the eight groups reviewed, from the same document.
+- [Champions League 2023/24 Group D: Real Sociedad And Inter Milan Qualify](champions_league_2023_24_group_d_real_sociedad_inter.md): same source document (doc_0187)
+- [Champions League 2023/24 Group E: Atletico Madrid And Lazio Qualify](champions_league_2023_24_group_e_atletico_lazio.md): same source document (doc_0187)
 
 ## Source
 

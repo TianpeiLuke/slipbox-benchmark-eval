@@ -13,6 +13,7 @@ ID is an empty canvas paired with creative tools that help you express yourself.
 
 ## Related Notes
 
+
 - [iPad 10th Generation Cyber Monday Deal](ipad_10th_generation_cyber_monday_deal.md): overlaps on the iPad and its display, from a different document.
 - [iPad Air M1 Holiday Deal](ipad_air_m1_holiday_deal.md): overlaps on the iPad as a device, from a different document.
 - [Amo's Founding Team And Funding Round](amo_founding_team_and_funding_round.md): drawn from the same source document (doc_0196).
@@ -21,6 +22,8 @@ ID is an empty canvas paired with creative tools that help you express yourself.
 - [ID's Profile Canvas Mechanics](id_app_profile_canvas_mechanics.md): drawn from the same source document (doc_0196), and is the canvas in practice.
 - [ID's Emergent Social Gameplay](id_emergent_social_gameplay.md): drawn from the same source document (doc_0196), and covers what users do with the blank canvas.
 - [ID's Loneliness Thesis And Anti-Engagement Design](id_loneliness_thesis_and_anti_engagement_design.md): drawn from the same source document (doc_0196).
+- [Social Networks' Drift From Connection To Algorithmic Feeds](social_networks_drift_from_connection_to_algorithmic_feeds.md): same source document (doc_0196)
+- [Zenly's Acquisition And Shutdown By Snap](zenly_acquisition_and_shutdown_by_snap.md): same source document (doc_0196)
 
 ## Source
 

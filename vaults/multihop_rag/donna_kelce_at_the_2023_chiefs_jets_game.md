@@ -11,11 +11,16 @@ He described messaging her afterwards: "I shot her a text. I didn't get a chance
 
 ## Related Notes
 
+
 - [Taylor Swift Arrowhead Stadium Appearance September 2023](taylor_swift_arrowhead_stadium_appearance_september_2023.md): another article featuring Donna Kelce in the family suite
 - [Taylor Swift Effect On NFL Audience And Revenue](taylor_swift_effect_on_nfl_audience_and_revenue.md): separate coverage that also involves Donna Kelce
 - [Taylor Swift Effect On NFL Merchandise And Ticket Sales](taylor_swift_effect_on_nfl_merchandise_and_ticket_sales.md): the commercial side of the same suite-and-ticket phenomenon
 - [Taylor Swift Travis Kelce Relationship Origin](taylor_swift_travis_kelce_relationship_origin.md): the podcast confession that started the story told on this same show
 - [Taylor Swift Travis Kelce Romance Overview](taylor_swift_travis_kelce_romance_overview.md): a broader account of the romance that also covers Donna Kelce
+- [Travis Kelce's Criticism That The NFL Overdid Its Taylor Swift Coverage](criticism_that_the_nfl_overdid_its_taylor_swift_coverage.md): same source document (doc_0559)
+- [The NFL's Statement Defending Its Taylor Swift Coverage](nfl_statement_defending_its_taylor_swift_coverage.md): same source document (doc_0559)
+- [The Swift Effect On NFL Ratings And Kelce Jersey Sales](swift_effect_on_nfl_ratings_and_kelce_jersey_sales.md): same source document (doc_0559)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

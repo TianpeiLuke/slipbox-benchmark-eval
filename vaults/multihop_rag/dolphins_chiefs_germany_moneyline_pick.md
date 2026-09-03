@@ -15,11 +15,18 @@ Other Week 9 moneylines the column liked were Vikings (+170) at Falcons, Bengals
 
 ## Related Notes
 
+
 - [Broncos' Fourth-Quarter Comeback and the Ryland Game-Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): another Russell Wilson item, from a different document.
 - [Buffalo Bills' Defensive Injuries, 2023 Outlook](buffalo_bills_defensive_injuries_2023_outlook.md): also concerns Kansas City, separately sourced.
 - [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md): also discusses Tyreek Hill, in a different document.
 - [Chiefs Beat Jets, Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): another Kansas City and Patrick Mahomes item, from a separate source.
 - [Chiefs-Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): also covers Breece Hall and Kansas City, in a different document.
+- [Colts -2.5 At Panthers, Week 9](colts_panthers_week_9_spread_pick.md): same source document (doc_0314)
+- [The 2023 NFL Best Bets Season Record](nfl_best_bets_season_record_2023.md): same source document (doc_0314)
+- [NFL Week 9 Player Prop Picks](nfl_week_9_player_prop_picks.md): same source document (doc_0314)
+- [Raiders vs Giants UNDER 37.5, Week 9](raiders_giants_week_9_under_pick.md): same source document (doc_0314)
+- [Seahawks +6 At Ravens, Week 9](seahawks_ravens_week_9_spread_pick.md): same source document (doc_0314)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

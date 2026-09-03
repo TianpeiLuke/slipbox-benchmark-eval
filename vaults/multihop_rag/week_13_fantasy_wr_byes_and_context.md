@@ -13,11 +13,18 @@ The byes cut both ways for matchups. Owners would not get to pick on the poor re
 
 ## Related Notes
 
+
 - [Bears-Vikings MNF First Half](bears_vikings_mnf_first_half.md): also concerns Jordan Addison, from a different document.
 - [Bears-Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): another Jordan Addison appearance, separately sourced.
 - [Playoff and Roster Stakes in Bears-Vikings on Monday Night](bears_vikings_mnf_playoff_and_roster_stakes.md): also covers Justin Jefferson's availability, in a different document.
 - [The First Quarter of Bengals 24, Bills 18](bills_bengals_snf_first_quarter.md): also features Khalil Shakir and Stefon Diggs, from a separate source.
 - [The Second Quarter of Bengals 24, Bills 18](bills_bengals_snf_second_quarter.md): also features Gabe Davis, in a different document.
+- [Week 13 Fantasy WR Busts To Avoid](week_13_fantasy_wr_busts_to_avoid.md): same source document (doc_0114)
+- [Week 13 Fantasy WR Sleepers And Waiver Adds](week_13_fantasy_wr_sleepers_and_waiver_adds.md): same source document (doc_0114)
+- [Week 13's Top Fantasy Wide Receivers](week_13_top_fantasy_wide_receivers.md): same source document (doc_0114)
+- [Week 13 Wide Receiver Injury Report](week_13_wide_receiver_injury_report.md): same source document (doc_0114)
+- [Week 13 Wide Receiver PPR Rankings, 1-76](week_13_wr_ppr_rankings_table.md): same source document (doc_0114)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
 
 ## Source
 

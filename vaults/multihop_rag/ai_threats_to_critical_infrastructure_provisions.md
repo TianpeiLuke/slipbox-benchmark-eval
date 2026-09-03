@@ -11,6 +11,7 @@ The order also looks to use AI defensively. In an effort to proactively address 
 
 ## Related Notes
 
+
 - [OpenAI Model Risk Categories And Deployment Thresholds](openai_model_risk_categories_and_deployment_thresholds.md): covers a comparable cybersecurity and CBRN risk taxonomy, from a different source document.
 - [The Artificial Intelligence Advancement Act Of 2023](artificial_intelligence_advancement_act_2023.md): part of the same 2023 US federal AI policy push, from a different source document.
 - [Organized Labor Pushback On AI Deployment](organized_labor_pushback_on_ai_deployment.md): part of the same 2023 US federal AI policy push, from a different source document.
@@ -18,6 +19,10 @@ The order also looks to use AI defensively. In an effort to proactively address 
 - [Schumer's SAFE Innovation Framework](schumer_safe_innovation_framework.md): part of the same 2023 US federal AI policy push, from a different source document.
 - [AI Civil Rights And Consumer Protections In The EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): drawn from the same source document (doc_0313).
 - [AI Worker Protections And Federal AI Hiring](ai_worker_protections_and_federal_ai_hiring.md): drawn from the same source document (doc_0313).
+- [The Biden AI Executive Order Of October 2023](biden_ai_executive_order_october_2023.md): same source document (doc_0313)
+- [Schumer's Objection: An Executive Order Cannot Replace Legislation](executive_order_limits_versus_ai_legislation.md): same source document (doc_0313)
+- [Federal AI Watermarking And Content Provenance](federal_ai_watermarking_and_content_provenance.md): same source document (doc_0313)
+- [Executive Order](term_executive_order.md): uses the concept executive order
 
 ## Source
 

@@ -13,11 +13,19 @@ The Commission's early analysis of Big Tech's Code reports produced three concre
 
 ## Related Notes
 
+
 - [Apple Watch Itc Import Ban and Preemptive Sales Halt](apple_watch_itc_import_ban_and_preemptive_sales_halt.md): also covers Big Tech, from a different source document.
 - [Big Tech Antitrust Outlook](big_tech_antitrust_outlook.md): also covers Big Tech, from a different source document.
 - [Big Tech Declines and Amazon FTC Antitrust Lawsuit](big_tech_declines_and_amazon_ftc_antitrust_lawsuit.md): also covers Big Tech, from a different source document.
 - [ChatGPT Mobile App and Availability Expansion](chatgpt_mobile_app_and_availability_expansion.md): also covers Bing Search, from a different source document.
 - [ChatGPT Third Party Integrations and Ecosystem](chatgpt_third_party_integrations_and_ecosystem.md): also covers Big Tech, from a different source document.
+- [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md): same source document (doc_0248)
+- [The EU Code Of Practice On Disinformation](eu_code_of_practice_on_disinformation.md): same source document (doc_0248)
+- [EU Demands On Fact-Checking And Researcher Data Access](eu_demands_on_fact_checking_and_researcher_data_access.md): same source document (doc_0248)
+- [EU Warning On Deepfake Election Risks](eu_warning_on_deepfake_election_risks.md): same source document (doc_0248)
+- [Google's Generative AI Disinformation Measures](google_generative_ai_disinformation_measures.md): same source document (doc_0248)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

@@ -11,6 +11,7 @@ The Guardian's James Wallace called it an intriguing game that set up the T20I s
 
 ## Related Notes
 
+
 - [Boycott Defends Jos Buttler's Captaincy](boycott_defends_jos_buttler_captaincy.md): also covers Jos Buttler, from a different document.
 - [England 132 All Out in the T20 Series Decider](england_132_all_out_t20_series_decider.md): covers the same series' final match and Buttler's side, from a different document.
 - [England Camp Verdict on the T20 Series Defeat](england_camp_verdict_on_t20_series_defeat.md): also covers Jos Buttler, from a different document.
@@ -19,6 +20,8 @@ The Guardian's James Wallace called it an intriguing game that set up the T20I s
 - [Adil Rashid T20I Milestones and Series Form](adil_rashid_t20i_milestones_and_series_form.md): covers an England bowler across the same series, from a different document.
 - [Andre Russell's Comeback in the First T20I](andre_russell_comeback_first_t20i.md): covers the player of the match in this game, from the same document.
 - [England 171 All Out in the First T20I](england_171_all_out_first_t20i.md): covers the collapse summarised here, from the same document.
+- [The Rain Delay And DLS Position In The First T20I](rain_delay_and_dls_position_first_t20i.md): same source document (doc_0063)
+- [Rehan Ahmed And Adil Rashid Through The Middle Overs](rehan_ahmed_and_rashid_middle_overs_first_t20i.md): same source document (doc_0063)
 
 ## Source
 

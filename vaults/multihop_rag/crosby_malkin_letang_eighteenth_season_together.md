@@ -13,11 +13,20 @@ The record spans four leagues — Pens Inside Scoop noted the trio were set to s
 
 ## Related Notes
 
+
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): another document spanning MLB and NBA markets, different source
 - [BetRivers Sportsbook Betting Markets](betrivers_sportsbook_betting_markets.md): another multi-league document, different source
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): another document spanning MLB and NFL, different source
 - [Biden Picket Line Visit and EV Worker Messaging](biden_picket_line_visit_and_ev_worker_messaging.md): another document using the Big Three label, unrelated domain
 - [Canada Jamaica Second Leg Kickoff and Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): another North American sports document, different source
+- [Blackhawks vs. Penguins 2023: Broadcast Coverage](blackhawks_penguins_2023_broadcast_coverage.md): same source document (doc_0483)
+- [First Period: Bryan Rust Opens The Scoring](blackhawks_penguins_2023_first_period_rust_opener.md): same source document (doc_0483)
+- [Blackhawks And Penguins Opening Night Lineups, October 2023](blackhawks_penguins_2023_opening_night_lineups.md): same source document (doc_0483)
+- [Second Period: Bedard's First NHL Point](blackhawks_penguins_2023_second_period_bedard_first_point.md): same source document (doc_0483)
+- [Blackhawks vs. Penguins 2023: Start Time And Arena](blackhawks_penguins_2023_start_time_and_arena.md): same source document (doc_0483)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

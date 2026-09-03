@@ -11,6 +11,7 @@ The grounds are what the qualifier permits: it means polluters can continue burn
 
 ## Related Notes
 
+
 - [Carbon Capture Cannot Replace Emissions Cuts](carbon_capture_cannot_replace_emissions_cuts.md): overlapping coverage of emerging greenhouse-gas capture technologies, from a different source document.
 - [Climate Policy Reversal's Impact On EV Businesses](climate_policy_reversal_impact_on_ev_businesses.md): overlapping coverage of phasing down fossil fuels, from a different source document.
 - [Kalmus On Personal Emissions Reduction As Detoxification](kalmus_personal_emissions_reduction_as_detoxification.md): overlapping coverage of fossil fuels and emissions, from a different source document.
@@ -19,6 +20,8 @@ The grounds are what the qualifier permits: it means polluters can continue burn
 - [The COP28 Final Text's Language On Transitioning Away From Fossil Fuels](cop28_final_text_language_on_transitioning_away_from_fossil_fuels.md): drawn from the same source document (doc_0602).
 - [The COP28 Fossil Fuel Deal That Slipped Away At The Eleventh Hour](cop28_fossil_fuel_deal_slipped_away_at_the_last_hour.md): drawn from the same source document (doc_0602).
 - [COP28 Renewable Energy Commitments And The IEA Outlook](cop28_renewable_energy_commitments_and_the_iea_outlook.md): drawn from the same source document (doc_0602).
+- [Fossil Fuel Lobbyist Access At COP28 In Dubai](fossil_fuel_lobbyist_access_at_cop28_in_dubai.md): same source document (doc_0602)
+- [Global Warming Of 1.2 Degrees And Its Impacts](global_warming_of_1_2_degrees_and_its_impacts.md): same source document (doc_0602)
 
 ## Source
 

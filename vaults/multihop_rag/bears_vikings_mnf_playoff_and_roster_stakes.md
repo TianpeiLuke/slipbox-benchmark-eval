@@ -13,11 +13,19 @@ Availability shaped both sides. The Vikings were officially without Justin Jeffe
 
 ## Related Notes
 
+
 - [49ers Rout Cowboys on Week 5 Sunday Night Football](49ers_rout_cowboys_week_5_sunday_night_recap.md): shares the NFL and playoff-seeding themes, from a different document.
 - [Bears 16, Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): also covers Justin Fields and D'Onta Foreman, separately sourced.
 - [Bears' Game-Ending Hail Mary vs the Browns](bears_game_ending_hail_mary_vs_browns.md): another Justin Fields item, in a different document.
 - [Bears-Panthers Second-Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also mentions Tyrique Stevenson, from a separate source.
 - [Betting on Kentucky and Nearby Sports Teams](betting_on_kentucky_and_nearby_sports_teams.md): shares the NFL and playoff-seeding themes, in a different document.
+- [Bears-Vikings Monday Night Broadcast Details](bears_vikings_mnf_broadcast_details.md): same source document (doc_0144)
+- [The First Half Of Bears 12, Vikings 10](bears_vikings_mnf_first_half.md): same source document (doc_0144)
+- [The Fourth Quarter Of Bears 12, Vikings 10](bears_vikings_mnf_fourth_quarter.md): same source document (doc_0144)
+- [Bears 12, Vikings 10 On Monday Night Football](bears_vikings_mnf_result_and_recap.md): same source document (doc_0144)
+- [The Third Quarter Of Bears 12, Vikings 10](bears_vikings_mnf_third_quarter.md): same source document (doc_0144)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

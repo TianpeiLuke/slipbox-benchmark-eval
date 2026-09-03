@@ -13,6 +13,7 @@ Reich describes his response to the current slate with a term of art: "Every onc
 
 ## Related Notes
 
+
 - [A Wounded Fawn, Travis Stevens](a_wounded_fawn_travis_stevens.md): also concerns Josh Ruben, in a different document
 - [CollegeHumor's IAC Layoffs And Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): the CollegeHumor era this show is revived from
 - [Digital Creator Jail And Anthology Formats](digital_creator_jail_and_anthology_formats.md): from the same Polygon interview
@@ -21,6 +22,8 @@ Reich describes his response to the current slate with a term of art: "Every onc
 - [Dropout's Fifth Anniversary Name Change Announcement](dropout_fifth_anniversary_name_change_announcement.md): the announcement that carried the reveal
 - [Dropout's Place In Improv History](dropout_improv_shows_and_wayne_brady_endorsement.md): the improv world this show's cast is drawn from
 - [The Early Gigs Reich And Mulligan Came Up Through](reich_and_mulligan_early_performing_gigs.md): from the same Polygon interview
+- [Sam Reich's Advice To Creators: Find A Better Business Model](sam_reich_advice_on_off_platform_business_models.md): same source document (doc_0586)
+- [Why Dropout Retired The CollegeHumor Name](why_dropout_retired_the_collegehumor_name.md): same source document (doc_0586)
 
 ## Source
 

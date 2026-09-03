@@ -13,6 +13,7 @@ The warrant is explicitly conditional: to the extent that past is prologue, she 
 
 ## Related Notes
 
+
 - [US-China Relations Deterioration And Thaw 2023](us_china_relations_deterioration_and_thaw_2023.md): also touches American Studies scholarship, from a different source document.
 - [23andMe Data Breach Scope](23andme_data_breach_scope.md): shares the data-privacy theme, from a different source document.
 - [AI Civil Rights And Consumer Protections In The EO](ai_civil_rights_and_consumer_protections_in_the_eo.md): shares the data-privacy theme, from a different source document.
@@ -21,6 +22,15 @@ The warrant is explicitly conditional: to the extent that past is prologue, she 
 - [Apple Blocks Beeper Mini iMessage Access](apple_blocks_beeper_mini_imessage_access.md): shares the data-privacy theme, from a different source document.
 - [Apple iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares the surveillance and data-privacy theme, from a different source document.
 - [Apple Privacy Stance Versus Google Default Payments](apple_privacy_stance_versus_google_default_payments.md): shares the data-privacy theme, from a different source document.
+- [Author Endorsements In Book Publishing](author_endorsements_in_book_publishing.md): same source document (doc_0243)
+- [Barr Moses Recommends "Dare To Lead"](barr_moses_recommends_dare_to_lead.md): same source document (doc_0243)
+- [Georgiana Laudi Recommends "Loved"](georgiana_laudi_recommends_loved_product_marketing.md): same source document (doc_0243)
+- [James Wise Recommends "The Coming Wave"](james_wise_recommends_the_coming_wave.md): same source document (doc_0243)
+- [Jerry Neumann Recommends "How Data Happened"](jerry_neumann_recommends_how_data_happened.md): same source document (doc_0243)
+- [Jon Evans Recommends "The Steerswoman"](jon_evans_recommends_the_steerswoman.md): same source document (doc_0243)
+- [Polina Marinova Pompliano Recommends "It's What I Do"](polina_marinova_pompliano_recommends_its_what_i_do.md): same source document (doc_0243)
+- [Scott Hurff Recommends "Getting Real"](scott_hurff_recommends_getting_real_by_37signals.md): same source document (doc_0243)
+- [Data Privacy](term_data_privacy.md): uses the concept data privacy
 
 ## Source
 

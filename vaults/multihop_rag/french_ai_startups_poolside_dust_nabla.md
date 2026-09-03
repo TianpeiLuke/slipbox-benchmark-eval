@@ -13,6 +13,7 @@ The clustering itself is the observation TechCrunch draws out: at Dust's office 
 
 ## Related Notes
 
+
 - [Beeper's Open Source Transparency Effort](beeper_open_source_transparency_effort.md): overlaps on GitHub and code-focused companies, from a different document.
 - [France And Mistral's Opposition To GPAI Rules](france_and_mistral_opposition_to_gpai_rules.md): covers the French model-builder policy position, from a different document.
 - [Adam Yedidia Testimony And Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): tagged to the same venture-capital theme, from a different document.
@@ -21,6 +22,12 @@ The clustering itself is the observation TechCrunch draws out: at Dust's office 
 - [Blockcast, The Decentralized Broadcast Network](blockcast_decentralized_broadcast_network.md): shares the venture-capital theme, from a different document.
 - [Creator Economy Sustainability](creator_economy_sustainability.md): shares the venture-capital theme, from a different document.
 - [David Pakman's CoinFund Venture Background](david_pakman_coinfund_venture_background.md): shares the venture-capital theme, from a different document.
+- [The French AI Startup Ecosystem's Momentum](french_ai_startup_ecosystem_momentum.md): same source document (doc_0038)
+- [French AI Startups' State Backing And Compliance Edge](french_ai_startups_state_backing_and_compliance_edge.md): same source document (doc_0038)
+- [The French Founder Stealth AI Startup Wave](french_founder_stealth_ai_startup_wave.md): same source document (doc_0038)
+- [Mistral AI, The French LLM Startup](mistral_ai_french_llm_startup.md): same source document (doc_0038)
+- [The Paris AI Research Talent Pipeline](paris_ai_research_talent_pipeline.md): same source document (doc_0038)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
 
 ## Source
 

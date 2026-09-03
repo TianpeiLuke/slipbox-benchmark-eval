@@ -13,12 +13,20 @@ The Twins had Matt Wallner and Trevor Larnach as left-handed hitting corner outf
 
 ## Related Notes
 
+
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares the Major League Baseball theme, from a different document.
 - [Dodgers Payroll Constraints Against Signing Ohtani And Trout](dodgers_payroll_constraints_against_signing_ohtani_and_trout.md): another club-payroll constraint story, from a different document.
 - [Mariners Offseason Payroll Space And Trade Talks](mariners_offseason_payroll_space_and_trade_talks.md): another payroll-driven trade situation, from a different document.
 - [Max Scherzer Back Injury And Roster Removal 2023 World Series](max_scherzer_back_injury_and_roster_removal_2023_world_series.md): shares the Major League Baseball theme, from a different document.
 - [MLB 2023 Offseason Starting Pitcher Trade Market](mlb_2023_offseason_starting_pitcher_trade_market.md): shares the trade and free agency theme, from a different document.
 - [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md): another candidate on the same list, from the same document.
+- [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md): same source document (doc_0118)
+- [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): same source document (doc_0118)
+- [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md): same source document (doc_0118)
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md): same source document (doc_0118)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

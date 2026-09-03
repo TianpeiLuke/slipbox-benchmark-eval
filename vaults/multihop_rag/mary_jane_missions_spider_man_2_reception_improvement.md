@@ -13,11 +13,15 @@ The grounds for the improvement are mechanical. Being a journalist at The Daily 
 
 ## Related Notes
 
+
 - [Black Friday 2023 Video Game Sales](black_friday_2023_video_game_sales.md): also discusses Miles Morales, from a different document.
 - [Marvel's Relatable Superhero Formula](marvel_relatable_superhero_formula.md): covers the same Marvel superhero framing this argument invokes, from a different document.
 - [Marvel's Spider-Man 2 Game](marvels_spider_man_2_game.md): covers the same game and also discusses Miles Morales and Peter Parker, from a different document.
 - [Meta AI Assistant Limits On Smart Glasses](meta_ai_assistant_limits_on_smart_glasses.md): also discusses Peter Parker, from a different document.
 - [PS5 Spider-Man 2 Bundle Deal](ps5_spider_man_2_bundle_deal.md): covers the same PS5 exclusive and its characters, from a different document.
+- [Mary Jane's Gameplay Changes Between 2018 And Spider-Man 2](mary_jane_gameplay_changes_2018_versus_spider_man_2.md): same source document (doc_0082)
+- [Mary Jane's Mission Pacing And The Verdict On Spider-Man 2](mary_jane_mission_pacing_and_verdict_spider_man_2.md): same source document (doc_0082)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

@@ -13,6 +13,7 @@ Baker's account of why, according to Bloomberg: "I felt strongly that Yahoo was 
 
 ## Related Notes
 
+
 - [Apple Google Information Services Agreement](apple_google_information_services_agreement.md): the other major default-search-engine payment arrangement, from a different document.
 - [Closed Sessions Limited The Public Record Of Cue Testimony](closed_sessions_limited_the_public_record_of_cue_testimony.md): also covers testimony about Google's search engine deals, from a different document.
 - [Consumer Search Startup Switching Barriers](consumer_search_startup_switching_barriers.md): overlaps on default search engines and user switching, from a different document.
@@ -20,6 +21,10 @@ Baker's account of why, according to Bloomberg: "I felt strongly that Yahoo was 
 - [Fediverse ActivityPub Protocol](fediverse_activitypub_protocol.md): overlaps on Mozilla and Firefox as subjects, from a different document.
 - [Expedia Testimony On Google Search Ads](expedia_testimony_on_google_search_ads.md): drawn from the same source document (doc_0015).
 - [Firefox Decline: The Chrome Share Alternative Explanation](firefox_decline_alternative_explanation_chrome_share.md): drawn from the same source document (doc_0015), and contests the causal reading of this episode.
+- [MADA And RSA: Google's Two Android Distribution Agreements](google_android_mada_and_rsa_agreements.md): same source document (doc_0015)
+- ["Go Big In Europe": Google's Post-Fine Search Quality Push](google_go_big_in_europe_search_quality_push.md): same source document (doc_0015)
+- [Google's Parallel Antitrust Proceedings In Late 2023](google_parallel_antitrust_proceedings_2023.md): same source document (doc_0015)
+- [Default Search Engine](term_default_search_engine.md): uses the concept default search engine
 
 ## Source
 

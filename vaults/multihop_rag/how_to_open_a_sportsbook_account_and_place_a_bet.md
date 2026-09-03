@@ -13,11 +13,22 @@ Placing the bet is the last step. Browse the app to understand the odds and mark
 
 ## Related Notes
 
+
 - [Activision $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): also concerns the App Store as a distribution channel.
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): also concerns the Google Play Store.
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): also concerns the App Store.
 - [Apple Gift Card Amazon Credit Deal](apple_gift_card_amazon_credit_deal.md): also concerns the App Store.
 - [Beeper Product Lineup Pricing and Availability](beeper_product_lineup_pricing_and_availability.md): also concerns the Google Play Store.
+- [Bet365 In The US: Daily MLB Odds Boosts And Live Betting](bet365_sportsbook_us_mlb_markets.md): same source document (doc_0264)
+- [BetMGM Sportsbook: Deep MLB Markets And The Only NBA Live-Streaming App](betmgm_sportsbook_betting_markets.md): same source document (doc_0264)
+- [BetRivers Sportsbook: Alternate Lines, An Integrated Casino, And iRush Rewards](betrivers_sportsbook_betting_markets.md): same source document (doc_0264)
+- [Betting The Other Majors And Team Golf Events](betting_on_golf_majors_and_team_events.md): same source document (doc_0207)
+- [Caesars Sportsbook: MLB Odds, Futures And Early Cash-Out](caesars_sportsbook_mlb_markets.md): same source document (doc_0264)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Terms of Service](term_terms_of_service.md): uses the concept terms of service
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
 
 ## Source
 

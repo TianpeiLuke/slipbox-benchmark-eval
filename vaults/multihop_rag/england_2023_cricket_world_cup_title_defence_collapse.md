@@ -13,11 +13,18 @@ The Roar noted a hard deadline on that arithmetic: England's tournament might on
 
 ## Related Notes
 
+
 - [First ODI Cricket World Cup 1975](first_odi_cricket_world_cup_1975.md): the tournament's origins, also involving Sri Lanka, different source document
 - [ICC World Cup 2023 Knockout Stage and Final](icc_world_cup_2023_knockout_stage_and_final.md): the knockout stage England were failing to reach, different source document
 - [India 1983 World Cup Semifinal vs England](india_1983_world_cup_semifinal_vs_england.md): an earlier England semi-final, different source document
 - [India 1987 World Cup Semifinal vs England](india_1987_world_cup_semifinal_vs_england.md): another earlier England semi-final, different source document
 - [India 1996 World Cup Semifinal vs Sri Lanka](india_1996_world_cup_semifinal_vs_sri_lanka.md): another World Cup match involving Sri Lanka, different source document
+- [Boycott On The Selection Of Bairstow And Woakes](boycott_criticism_of_bairstow_and_woakes_selection.md): same source document (doc_0132)
+- [Boycott Defends Jos Buttler's Captaincy](boycott_defends_jos_buttler_captaincy.md): same source document (doc_0132)
+- [Boycott: England Failed To Prepare For The 2023 World Cup](geoff_boycott_on_england_world_cup_preparation_failure.md): same source document (doc_0132)
+- [Jos Buttler's Reaction To The Sri Lanka Defeat](jos_buttler_reaction_to_sri_lanka_defeat_2023.md): same source document (doc_0132)
+- [Atherton: The Sri Lanka Defeat Marked The End Of An Era](michael_atherton_end_of_an_era_english_white_ball_cricket.md): same source document (doc_0132)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

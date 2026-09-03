@@ -11,6 +11,7 @@ Plate tectonics had by then brought all the continents together into a single gi
 
 ## Related Notes
 
+
 - [Deep Ocean Deoxygenation from Climate Change](deep_ocean_deoxygenation_from_climate_change.md): a modern parallel in which warming reduces the oxygen available for metabolism.
 - [The Cambrian Explosion and the Rise of Oxygen](cambrian_explosion_and_the_rise_of_oxygen.md): from the same excerpt, on the oxygen rise this collapse reversed.
 - [Cynodonts, the Surviving Mammal Ancestors](cynodonts_the_surviving_mammal_ancestors.md): from the same excerpt, on the proto-mammals that came through it.
@@ -19,6 +20,7 @@ Plate tectonics had by then brought all the continents together into a single gi
 - [The Ordovician Glaciation Mass Extinction](ordovician_glaciation_mass_extinction.md): from the same excerpt, on the opposite kind of CO2 excursion.
 - [The Permian-Triassic Extinction: Scale of Losses](permian_triassic_extinction_scale_of_losses.md): from the same excerpt, on the losses this mechanism produced.
 - [Synapsids and Therapsids: Permian Dominance](synapsids_and_therapsids_permian_dominance.md): from the same excerpt, on the animals this collapse disadvantaged.
+- [Vascular Plants, Weathering and the Paleozoic Oxygen Rise](vascular_plants_weathering_and_paleozoic_oxygen_rise.md): same source document (doc_0460)
 
 ## Source
 

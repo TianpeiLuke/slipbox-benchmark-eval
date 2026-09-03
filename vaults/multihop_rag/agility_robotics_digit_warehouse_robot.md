@@ -11,6 +11,7 @@ Its features bear that out. Digit has a head containing cameras, other sensors a
 
 ## Related Notes
 
+
 - [Amazon-Agility Digit Humanoid Pilot](amazon_agility_digit_humanoid_pilot.md): overlapping coverage of Digit and humanoids, from a different source document.
 - [Amazon's Interest In Bipedal Locomotion](amazon_interest_in_bipedal_locomotion.md): overlapping coverage of legs and Agility, from a different source document.
 - [Boston Dynamics' View On The Humanoid Form Factor](boston_dynamics_view_on_humanoid_form_factor.md): overlapping coverage of humanoid robot form, from a different source document.
@@ -19,6 +20,8 @@ Its features bear that out. Digit has a head containing cameras, other sensors a
 - [Boston Dynamics' Humanoid Research Yielding A Non-Humanoid Robot](boston_dynamics_humanoid_research_yielding_non_humanoid_robot.md): drawn from the same source document (doc_0421).
 - [Dexterity And World Understanding As The Hardest Robotics Problem](dexterity_and_world_understanding_as_hardest_robotics_problem.md): drawn from the same source document (doc_0421).
 - [Figure AI's Purist Humanoid Market Thesis](figure_ai_purist_humanoid_market_thesis.md): drawn from the same source document (doc_0421).
+- [Human-Centric Versus Humanoid Robot Design](human_centric_versus_humanoid_robot_design.md): same source document (doc_0421)
+- [Humanoid Prototype Reality Check: Figure And Optimus](humanoid_prototype_reality_check_figure_and_optimus.md): same source document (doc_0421)
 
 ## Source
 

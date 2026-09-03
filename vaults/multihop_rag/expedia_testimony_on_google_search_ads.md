@@ -11,6 +11,7 @@ Expedia executives also testified about the cost of ads and how increases had no
 
 ## Related Notes
 
+
 - [Apple Google Information Services Agreement](apple_google_information_services_agreement.md): also features Sundar Pichai's role in Google's deals, from a different document.
 - [Autobrains Hires Uri Yacovy As COO](autobrains_hires_uri_yacovy_as_coo.md): overlaps on chief operating officer appointments, from a different document.
 - [Deft Multimodal Search Capabilities](deft_multimodal_search_capabilities.md): overlaps on search listings and results quality, from a different document.
@@ -19,6 +20,8 @@ Expedia executives also testified about the cost of ads and how increases had no
 - [Firefox Decline: The Chrome Share Alternative Explanation](firefox_decline_alternative_explanation_chrome_share.md): drawn from the same source document (doc_0015).
 - [Firefox's Yahoo Default Search Switch](firefox_yahoo_default_search_switch.md): drawn from the same source document (doc_0015).
 - [MADA And RSA: Google's Two Android Distribution Agreements](google_android_mada_and_rsa_agreements.md): drawn from the same source document (doc_0015).
+- ["Go Big In Europe": Google's Post-Fine Search Quality Push](google_go_big_in_europe_search_quality_push.md): same source document (doc_0015)
+- [Google's Parallel Antitrust Proceedings In Late 2023](google_parallel_antitrust_proceedings_2023.md): same source document (doc_0015)
 
 ## Source
 

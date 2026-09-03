@@ -13,6 +13,7 @@ The behaviour the names target is real even if the leverage is limited. The term
 
 ## Related Notes
 
+
 - [Danny Sullivan: From Journalist to Google Liaison](danny_sullivan_from_journalist_to_google_liaison.md): also concerns Danny Sullivan, from a different source document.
 - [Fitbit Charge 6 Deal](fitbit_charge_6_deal.md): also concerns Google Maps, from a different source document.
 - [Google's Denial That Ad Keyword Matching Affects Organic Results](google_denial_that_ad_keyword_matching_affects_organic_results.md): also concerns Danny Sullivan, from a different source document.
@@ -21,6 +22,8 @@ The behaviour the names target is real even if the leverage is limited. The term
 - [Barber Shop Near Me and Felix Silva](barber_shop_near_me_felix_silva.md): a business owner building his profile around these factors (doc_0127).
 - [The "Near Me" Business Naming Trend](near_me_business_naming_trend.md): the naming strategy aimed at this system (doc_0127).
 - [Restaurants Optimizing Menus for Algorithms](restaurants_optimizing_menus_for_algorithms.md): optimization applied past the business name (doc_0127).
+- [The SEO Naming Effect On Customer Acquisition](seo_naming_effect_on_customer_acquisition.md): same source document (doc_0127)
+- [Thai Food Near Me's Customer Experience](thai_food_near_me_customer_experience.md): same source document (doc_0127)
 
 ## Source
 

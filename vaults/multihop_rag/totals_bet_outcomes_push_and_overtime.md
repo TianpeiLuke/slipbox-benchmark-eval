@@ -13,11 +13,18 @@ Overtime is a separate boundary case. In most sports and with the majority of sp
 
 ## Related Notes
 
+
 - [DraftKings Vermont Welcome Offer Tradeoffs](draftkings_vermont_welcome_offer_tradeoffs.md): overlaps on how a wager and its total resolve for bettors, from a different document.
 - [Kentucky Legal Sports Betting Launch and History](kentucky_legal_sports_betting_launch_and_history.md): overlaps on wagering rules at sportsbooks, from a different document.
 - [MLB Betting Rules at Online Sportsbooks](mlb_betting_rules_at_online_sportsbooks.md): overlaps on when sportsbooks refund a wager based on the score, from a different document.
 - [Moneyline Bet Outcomes: Win, Loss, Draw](moneyline_bet_outcomes_win_loss_draw.md): covers the parallel refund and overtime rules for moneyline bets, from a different document.
 - [NBA MVP Futures and Other NBA Futures Markets](nba_mvp_futures_and_other_nba_futures_markets.md): overlaps on totals markets offered by sportsbooks, from a different document.
+- [Line Movement As A Signal Of Betting Value](line_movement_as_a_signal_of_betting_value.md): same source document (doc_0554)
+- [Over/Under Betting In MMA, Tennis And Golf](over_under_betting_in_mma_tennis_and_golf.md): same source document (doc_0554)
+- [Over/Under Totals Bet Definition](over_under_totals_bet_definition.md): same source document (doc_0554)
+- [Over/Under Totals By Team Sport](over_under_totals_by_team_sport.md): same source document (doc_0554)
+- [Reading A Totals Line And Its Odds](reading_a_totals_line_and_its_odds.md): same source document (doc_0554)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

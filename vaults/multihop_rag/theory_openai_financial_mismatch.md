@@ -13,6 +13,7 @@ What weighs against the family of financial theories is the difficulty of concea
 
 ## Related Notes
 
+
 - [Greg Brockman's Account Of Altman's Removal](greg_brockman_account_of_altman_removal.md): an insider account bearing on what the board knew, from a different document.
 - [OpenAI Board Composition And The Helen Toner Dispute](openai_board_composition_and_helen_toner_dispute.md): covers the board's stated grievances, from a different document.
 - [The OpenAI Board's Firing Of Sam Altman](openai_board_firing_of_sam_altman.md): the event this theory tries to explain, from a different document.
@@ -21,6 +22,8 @@ What weighs against the family of financial theories is the difficulty of concea
 - [Dismissed Theories: A Murati Coup And A Personal Matter](dismissed_theories_murati_coup_and_personal_matter.md): drawn from the same source document (doc_0333).
 - [The OpenAI Board Ousts Sam Altman, November 2023](openai_board_ousts_sam_altman_november_2023.md): drawn from the same source document (doc_0333).
 - [Theory: Altman Circumvented The Board On A Deal](theory_altman_circumvented_board_on_a_deal.md): drawn from the same source document (doc_0333), and is the leading rival explanation.
+- [Theory: An AGI And Mission Rift Between Altman And The Board](theory_openai_agi_mission_rift.md): same source document (doc_0333)
+- [Theory: Copyright Liability Over OpenAI's Training Data](theory_openai_copyright_liability.md): same source document (doc_0333)
 
 ## Source
 

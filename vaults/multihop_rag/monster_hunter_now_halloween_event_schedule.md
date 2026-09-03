@@ -13,6 +13,7 @@ Alongside those quests, monsters, and currencies, the game's various arenas also
 
 ## Related Notes
 
+
 - [Monster Hunter Now (Niantic)](monster_hunter_now_niantic_game.md): covers the base game this event runs in, from a different source document
 - [Objections to Blue Halloween Buckets](objections_to_blue_halloween_buckets.md): overlapping Halloween and pumpkin subject matter from an unrelated article
 - [49ers 2024 Free Agent Class](49ers_2024_free_agent_class.md): shares the acquisition topic tag despite unrelated subject matter
@@ -21,6 +22,13 @@ Alongside those quests, monsters, and currencies, the game's various arenas also
 - [ASX and Wall Street Selloff, October 12 2023](asx_and_wall_street_selloff_october_12_2023.md): shares a topic tag from a financial article
 - [Beeper Funding and Investors](beeper_funding_and_investors.md): shares the acquisition tag from an unrelated document
 - [Brandon Drury's Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md): shares a topic tag from a sports article
+- [How to Earn Pumpkin Tickets in Monster Hunter Now](how_to_earn_pumpkin_tickets_in_monster_hunter_now.md): same source document (doc_0499)
+- [Jack-o'-Head Armor Acquisition and Upgrades](jack_o_head_armor_acquisition_and_upgrades.md): same source document (doc_0499)
+- [Jack-o'-Head Armor's Solidarity (Pumpkin Hunt) Skill](jack_o_head_armor_solidarity_pumpkin_hunt_skill.md): same source document (doc_0499)
+- [Monster Hunter Now Halloween Event Overview](monster_hunter_now_halloween_event_overview.md): same source document (doc_0499)
+- [Monster Hunter Now Pumpkin Hunt Quest Steps](monster_hunter_now_pumpkin_hunt_quest_steps.md): same source document (doc_0499)
+- [Pumpkin Rock Kulu-Ya-Ku Halloween Monster](pumpkin_rock_kulu_ya_ku_halloween_monster.md): same source document (doc_0499)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

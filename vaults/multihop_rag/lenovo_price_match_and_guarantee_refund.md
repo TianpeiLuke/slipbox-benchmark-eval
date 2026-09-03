@@ -11,6 +11,7 @@ Lenovo also offers a separate price guarantee refund for laptops and personal de
 
 ## Related Notes
 
+
 - [Holiday Return Policy Windows into January 2024](holiday_return_policy_windows_into_january_2024.md): overlaps on post-purchase policy windows, from a different source document.
 - [Amazon Price Matching and Return Policy](amazon_price_matching_and_return_policy.md): the retailer with no matching at all, same roundup (doc_0403).
 - [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): another own-price-drop refund, same roundup (doc_0403).
@@ -19,6 +20,8 @@ Lenovo also offers a separate price guarantee refund for laptops and personal de
 - [Dell Price Match Policy](dell_price_match_policy.md): one of the brands Lenovo will match against, same roundup (doc_0403).
 - [eBay Best Price Guarantee](ebay_best_price_guarantee.md): another conditional matching scheme, same roundup (doc_0403).
 - [GameStop and Google Store Price Matching](gamestop_and_google_store_price_matching.md): other limited or informal policies, same roundup (doc_0403).
+- [Home Depot And Lowe's Price Match Policies](home_depot_and_lowes_price_match_policies.md): same source document (doc_0403)
+- [HP Price Match Policy](hp_price_match_policy.md): same source document (doc_0403)
 
 ## Source
 

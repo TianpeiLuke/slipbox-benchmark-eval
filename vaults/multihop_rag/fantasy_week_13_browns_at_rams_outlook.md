@@ -11,6 +11,7 @@ On the passing side, the article concedes it is silly to say the Rams passing ga
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): another start/sit call covering Puka Nacua and Tutu Atwell, from a different source document.
 - [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md): covers Cooper Kupp and Puka Nacua in the same Rams receiving corps, from a different source document.
 - [Dak Prescott Week 6 2023 Sit Recommendation](dak_prescott_week6_2023_sit_recommendation.md): another quarterback call covering Matthew Stafford, from a different source document.
@@ -19,6 +20,8 @@ On the passing side, the article concedes it is silly to say the Rams passing ga
 - [Amari Cooper Week 13 Start Verdict](amari_cooper_week_13_start_verdict.md): the player-level version of this game's Amari Cooper call, from the same article (doc_0057).
 - [Chris Godwin Week 13 Sit Verdict](chris_godwin_week_13_sit_verdict.md): a player-level verdict from the same Week 13 lineup-decisions article (doc_0057).
 - [Cooper Kupp 2023 Ankle Injury and Week 13 Sit Verdict](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): the player-level version of this game's Cooper Kupp call, from the same article (doc_0057).
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
 
 ## Source
 

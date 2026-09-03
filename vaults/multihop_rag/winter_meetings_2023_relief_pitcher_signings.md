@@ -13,12 +13,18 @@ On Tuesday, Dec. 5, Rosenthal reported that Kirby Yates, who would be 37 when th
 
 ## Related Notes
 
+
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): also cites Ken Rosenthal, from a different document.
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): also concerns Tampa Bay, from a different document.
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also concerns Tampa Bay, from a different document.
 - [Braves Release Matt Carpenter](braves_release_matt_carpenter.md): also cites Ken Rosenthal, from a different document.
 - [Camden Yards Baltimore Orioles Postseason Atmosphere](camden_yards_baltimore_orioles_postseason_atmosphere.md): overlaps on the Orioles and late-inning relief, from a different document.
 - [Braves Acquire Jarred Kelenic From Mariners](braves_acquire_jarred_kelenic_from_mariners.md): another move from the same tracker (doc_0120).
+- [Diamondbacks Land Eduardo Rodriguez On A Four-Year Deal](eduardo_rodriguez_signs_with_diamondbacks.md): same source document (doc_0120)
+- [Juan Soto Traded From The Padres To The Yankees](juan_soto_traded_from_padres_to_yankees.md): same source document (doc_0120)
+- [Jung Hoo Lee Posted From The KBO To MLB](jung_hoo_lee_kbo_posting_to_mlb.md): same source document (doc_0120)
+- [Mariners' Cleared Payroll Space And Winter Meetings Trade Talks](mariners_offseason_payroll_space_and_trade_talks.md): same source document (doc_0120)
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
 
 ## Source
 

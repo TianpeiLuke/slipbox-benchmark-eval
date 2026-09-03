@@ -11,6 +11,7 @@ The grounds offered for that reading are documentary and personal. Correspondenc
 
 ## Related Notes
 
+
 - [SBF's Defense Counsel](sbf_defense_counsel.md): also concerns Jeffrey Epstein, from a different source document.
 - [The Good Fight On Paramount+](the_good_fight_paramount_plus.md): also concerns Jeffrey Epstein, from a different source document.
 - [Amazon Marketplace Foreclosure Theory Of Harm](amazon_marketplace_foreclosure_theory_of_harm.md): shares the regulatory-investigation theme from a different source document.
@@ -19,6 +20,15 @@ The grounds offered for that reading are documentary and personal. Correspondenc
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): shares the investigation theme from a different source document.
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): shares the investigation theme from a different source document.
 - [Bolt SEC Probe](bolt_sec_probe.md): shares the regulatory-investigation theme from a different source document.
+- [Cecile de Jongh's Role And Her Deposition Denial](cecile_de_jongh_role_and_deposition_denial.md): same source document (doc_0477)
+- [Denise George's Firing As US Virgin Islands Attorney General](denise_george_firing_as_usvi_attorney_general.md): same source document (doc_0477)
+- [Denise George: Profile And Epstein Case Role](denise_george_profile_and_epstein_case_role.md): same source document (doc_0477)
+- [The Epstein Estate Civil Racketeering Pursuit](epstein_estate_civil_racketeering_pursuit.md): same source document (doc_0477)
+- [Epstein-Related Settlements With The US Virgin Islands](epstein_related_settlements_with_us_virgin_islands.md): same source document (doc_0477)
+- [Epstein's Sex Offender Waiver Request And Its Denial](epstein_sex_offender_waiver_request_and_denial.md): same source document (doc_0477)
+- [Epstein's Web Of Influence In The US Virgin Islands](epstein_web_of_influence_in_us_virgin_islands.md): same source document (doc_0477)
+- [George's Claim Of Epstein's Political Influence](george_claim_of_epstein_political_influence.md): same source document (doc_0477)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
 
 ## Source
 

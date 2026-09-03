@@ -13,11 +13,20 @@ Two further challengers were in development. The Google-owned research lab DeepM
 
 ## Related Notes
 
+
 - [AI Startup Defensibility](ai_startup_defensibility.md): shares the generative AI and large language model theme, from a different source document.
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): shares the generative AI and large language model theme, from a different source document.
 - [Alexa Kids Privacy and Hardware](alexa_kids_privacy_and_hardware.md): shares the generative AI and large language model theme, from a different source document.
 - [Alphago as Evidence for AI Risk Concerns](alphago_as_evidence_for_ai_risk_concerns.md): substantial content overlap on deepmind, google, claimed, from a different source document.
 - [ChatGPT Adoption Gap Survey Evidence](chatgpt_adoption_gap_survey_evidence.md): substantial content overlap on chatbot, chatgpt, questions, from a different source document.
+- [ChatGPT Adoption Milestones And Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): same source document (doc_0048)
+- [ChatGPT Custom Instructions And File Analysis](chatgpt_custom_instructions_and_file_analysis.md): same source document (doc_0048)
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
+- [ChatGPT In Education And Academic Integrity](chatgpt_in_education_and_academic_integrity.md): same source document (doc_0048)
+- [Large Language Model (LLM)](term_large_language_model.md): uses the concept large language model
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Open Source](term_open_source.md): uses the concept open source
 
 ## Source
 

@@ -11,6 +11,7 @@ Will Smith answered the separation-and-divorce rumours in a mocking Facebook pos
 
 ## Related Notes
 
+
 - [Expert Debate Over The Oscars Slap Given The Separation](expert_debate_over_the_oscars_slap_given_the_separation.md): outside commentary that questions the couple's public account of their relationship
 - [Expert Signs It Is Time To End A Marriage](expert_signs_it_is_time_to_end_a_marriage.md): the divorce question these denials were answering, treated by experts
 - [Separation As An Alternative To Divorce Lat Partnership](separation_as_an_alternative_to_divorce_lat_partnership.md): the expert alternative to the divorce the couple denied pursuing
@@ -19,6 +20,8 @@ Will Smith answered the separation-and-divorce rumours in a mocking Facebook pos
 - [Jada Pinkett Smith 2023 Separation Disclosure](jada_pinkett_smith_2023_separation_disclosure.md): the later revelation that complicated these denials, from the same timeline
 - [Jada Pinkett Smith August Alsina Entanglement](jada_pinkett_smith_august_alsina_entanglement.md): the episode that prompted much of the open-marriage speculation, same timeline
 - [Will And Jada 2021 Public Accounts Of Marital Strain](will_and_jada_2021_public_accounts_of_marital_strain.md): the couple's own admissions of difficulty in the same timeline
+- ["Life Partnership" As The Smiths' Own Term For Their Marriage](will_and_jada_life_partnership_framing.md): same source document (doc_0018)
+- [Will Smith's Slap Of Chris Rock At The 2022 Oscars](will_smith_chris_rock_2022_oscars_slap.md): same source document (doc_0018)
 
 ## Source
 

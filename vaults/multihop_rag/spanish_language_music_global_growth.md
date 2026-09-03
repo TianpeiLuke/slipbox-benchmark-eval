@@ -11,11 +11,18 @@ The mechanism she gives has two linked parts. First, the world is one where musi
 
 ## Related Notes
 
+
 - [Dream Track Artist Selection And Licensing Questions](dream_track_artist_selection_and_licensing_questions.md): concerns artists, music and licensing arrangements, from a different source document.
 - [EU US Performance Rights Asymmetry](eu_us_performance_rights_asymmetry.md): concerns artists, music and labels across territories, from a different source document.
 - [Kravata LATAM Fiat Crypto Onramp](kravata_latam_fiat_crypto_onramp.md): also concerns Latin America as a market, from a different source document.
 - [Material Reciprocity Principle Music Royalties](material_reciprocity_principle_music_royalties.md): concerns artists and labels and cross-border income, from a different source document.
 - [Microsoft Generative AI Disinformation Measures](microsoft_generative_ai_disinformation_measures.md): also concerns Latin America, from a different source document.
+- [Artists Now Seek Control, Transparency And Ownership Of Their Masters](artists_seeking_control_transparency_and_masters_ownership.md): same source document (doc_0211)
+- [Believe And Alejandra Olea, Managing Director, Americas](believe_distributor_profile_and_alejandra_olea.md): same source document (doc_0211)
+- [Believe's Local Scouting Model And The Acqustic Partnership](believe_local_scouting_and_acqustic_partnership.md): same source document (doc_0211)
+- [Believe's Marketing Playbook For "Si No Estás"](believe_marketing_playbook_for_si_no_estas.md): same source document (doc_0211)
+- [The Digital-First Artist Development Model](digital_first_artist_development_model.md): same source document (doc_0211)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
 
 ## Source
 

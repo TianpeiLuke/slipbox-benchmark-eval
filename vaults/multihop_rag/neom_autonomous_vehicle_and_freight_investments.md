@@ -11,10 +11,17 @@ Neom also announced plans that week to set up a $10 billion joint venture with D
 
 ## Related Notes
 
+
 - [Cruise's California Permit Suspension](cruise_california_permit_suspension.md): same source document; the autonomous-vehicle setback in the same issue.
 - [Cruise Nationwide Driverless Pause](cruise_nationwide_driverless_pause.md): same source document; the contrasting retreat in driverless operations.
 - [Cristiano Ronaldo's Al Nassr Move And 2023 Goal Tally](cristiano_ronaldo_al_nassr_move_and_2023_goal_tally.md): also concerns Saudi Arabian investment, from a different source document.
 - [Argentina-Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also concerns Saudi Arabia, from a different source document.
+- [Anthony Joshua Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): both discuss Saudi Arabia; different source document
+- [Boxing Marination And Upset Risk](boxing_marination_and_upset_risk.md): both discuss Saudi Arabia; different source document
+- [Where CONMEBOL 2026 Qualifiers Could And Could Not Be Watched](conmebol_2026_qualifying_broadcast_rights_and_channels.md): both discuss Saudi Arabia; different source document
+- [California Robotaxi Opposition Groups](california_robotaxi_opposition_groups.md): same source document (doc_0537)
+- [Faction Driverless Funding Round](faction_driverless_funding_round.md): same source document (doc_0537)
+- [Flexport And Convoy Technology Acquisition Talks](flexport_convoy_technology_acquisition_talks.md): same source document (doc_0537)
 
 ## Source
 

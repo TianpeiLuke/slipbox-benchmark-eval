@@ -13,11 +13,19 @@ Critic ZM calls the show taut, making every moment count even in unexpected ways
 
 ## Related Notes
 
+
 - [Azarus CEO on Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): shares the creator-economy and streaming-service topic tags
 - [Calls for Creative Experimentation in VTuber Agencies](calls_for_creative_experimentation_in_vtuber_agencies.md): shares the same pair of tags from a different document
 - [Dan Clancy's Twitch Leadership Transition](dan_clancy_twitch_leadership_transition.md): shares the creator-economy and streaming-service tags
 - [EsfandTV Sports Streaming Channel](esfandtv_sports_streaming_channel.md): shares both topic tags from a separate article
 - [Netflix Originals Premiering November 27 to 30 2023](netflix_originals_premiering_november_27_to_30_2023.md): another streaming-catalog note sharing both tags
+- [Andor (Disney Plus)](andor_disney_plus.md): same source document (doc_0185)
+- [Castlevania: Nocturne (Netflix)](castlevania_nocturne_netflix.md): same source document (doc_0185)
+- [Gen V (Prime Video)](gen_v_prime_video.md): same source document (doc_0185)
+- [Scope and Update Policy of Polygon's Best New Streaming Series Roundup](polygon_best_new_streaming_series_roundup_scope.md): same source document (doc_0185)
+- [Reservation Dogs (Hulu)](reservation_dogs_hulu.md): same source document (doc_0185)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

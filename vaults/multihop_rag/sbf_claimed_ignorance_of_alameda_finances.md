@@ -11,6 +11,7 @@ The counter-argument extended to reinterpreting each earlier warning as somethin
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and Immunity Deal](adam_yedidia_testimony_and_immunity_deal.md): also concerns Adam Yedidia, from a different source document.
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): the testimony this account contradicts, from a different source document.
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): overlaps on Alameda and Bankman-Fried's surprise, from a different source document.
@@ -18,6 +19,10 @@ The counter-argument extended to reinterpreting each earlier warning as somethin
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): the movement of money he said he did not track, from a different source document.
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): another privilege he denied knowing about, same testimony (doc_0053).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): his benign reading of another Alameda arrangement (doc_0053).
+- [Alameda Research's Origins And Naming](alameda_research_origins_and_naming.md): same source document (doc_0053)
+- [FTX's Absence Of A Chief Risk Officer](ftx_absence_of_chief_risk_officer.md): same source document (doc_0053)
+- [Allow_negative: Alameda's Exemption From FTX Liquidation](ftx_alameda_allow_negative_liquidation_exemption.md): same source document (doc_0053)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
 
 ## Source
 

@@ -11,6 +11,7 @@ Gacki kept her promise, Ostrovitch-Levi says: "Since that day, we've received an
 
 ## Related Notes
 
+
 - [Apple Masimo Pulse Oximetry Patent Dispute History](apple_masimo_pulse_oximetry_patent_dispute_history.md): also discusses President Joe Biden, from a different source document.
 - [Biden Xi San Francisco Summit November 2023](biden_xi_san_francisco_summit_november_2023.md): also discusses President Joe Biden, from a different source document.
 - [Binance DOJ Resolution and CZ Guilty Plea](binance_doj_resolution_and_cz_guilty_plea.md): another FinCEN and OFAC enforcement matter, from a different source document.
@@ -19,6 +20,8 @@ Gacki kept her promise, Ostrovitch-Levi says: "Since that day, we've received an
 - [FATF Iran Isolation and Cash Dependency](fatf_iran_isolation_and_cash_dependency.md): why sanctions are argued to be the durable remedy (doc_0486).
 - [Hamas Fundraising after October 7](hamas_fundraising_after_october_7.md): another note drawn from the same source document (doc_0486).
 - [Hawala Money Transfer into Gaza](hawala_money_transfer_into_gaza.md): another note drawn from the same source document (doc_0486).
+- [IMPA's Blocking Of A Hamas Fundraising Pipeline In Europe](impa_blocking_hamas_fundraising_in_europe.md): same source document (doc_0486)
+- [The International Terror Finance Task Force](international_terror_finance_task_force.md): same source document (doc_0486)
 
 ## Source
 

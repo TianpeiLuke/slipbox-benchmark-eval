@@ -13,6 +13,7 @@ The fixtures were: week commencing Jan. 8, 2024 — Middlesbrough vs. Chelsea an
 
 ## Related Notes
 
+
 - [Canada Jamaica Second Leg Team News](canada_jamaica_second_leg_team_news.md): also mentions West Ham, from a different document.
 - [Carabao Cup 2023 Quarter Final Draw](carabao_cup_2023_quarter_final_draw.md): also concerns the Carabao Cup and West Ham, from a different document.
 - [Europa Conference League Round-Up: Villa and Klaksvik](europa_conference_league_round_up_villa_and_klaksvik.md): also mentions West Ham, from a different document.
@@ -21,6 +22,8 @@ The fixtures were: week commencing Jan. 8, 2024 — Middlesbrough vs. Chelsea an
 - [Carabao Cup 2023-24 First Round Results](carabao_cup_2023_24_first_round_results.md): an earlier round of the same competition, from the same document.
 - [Carabao Cup 2023-24 Fourth Round Results](carabao_cup_2023_24_fourth_round_results.md): an earlier round of the same competition, from the same document.
 - [Carabao Cup 2023-24 Overview and Stakes](carabao_cup_2023_24_overview_and_stakes.md): what the eventual winners play for, from the same document.
+- [Carabao Cup 2023/24 Quarterfinal Results](carabao_cup_2023_24_quarterfinal_results.md): same source document (doc_0100)
+- [Carabao Cup 2023/24 Second Round Results](carabao_cup_2023_24_second_round_results.md): same source document (doc_0100)
 
 ## Source
 

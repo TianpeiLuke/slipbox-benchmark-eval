@@ -13,6 +13,7 @@ Geelong coach Daniel Lowther said the strong winds made it hard for his side to 
 
 ## Related Notes
 
+
 - [Angus Hastie, AFL Draft Prospect 2023](angus_hastie_afl_draft_prospect_2023.md): overlaps on Geelong and defence, from a different document.
 - [Geelong Cats' 2023 AFLW Finals Qualification](geelong_cats_2023_aflw_finals_qualification.md): overlaps on Geelong and its Richmond fixture, from a different document.
 - [The Swans' On-Field Turnaround Under Chloe Molloy](swans_on_field_turnaround_under_chloe_molloy.md): also concerns Chloe Molloy, from a different document.
@@ -21,6 +22,8 @@ Geelong coach Daniel Lowther said the strong winds made it hard for his side to 
 - [Brisbane Lions' 2023 AFLW Top-Four Finish](brisbane_lions_2023_aflw_top_four_finish.md): drawn from the same document (doc_0208).
 - [Melbourne (Narrm)'s 2023 AFLW Ladder Position](melbourne_narrm_2023_aflw_ladder_position.md): drawn from the same document (doc_0208).
 - [Richelle Cranston's Kidney Disease and Retirement](richelle_cranston_kidney_disease_and_retirement.md): drawn from the same document (doc_0208).
+- [Richmond Tigers' Comeback Win In Cairns, 2023](richmond_tigers_comeback_win_in_cairns_2023.md): same source document (doc_0208)
+- [St Kilda's 2023 AFLW Finals Near Miss](st_kilda_2023_aflw_finals_near_miss.md): same source document (doc_0208)
 
 ## Source
 

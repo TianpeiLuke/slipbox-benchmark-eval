@@ -13,6 +13,7 @@ He was well into his 50s when he landed his highest-profile role, but it would b
 
 ## Related Notes
 
+
 - [Owen Teale Missed Leading Man Opportunities](owen_teale_missed_leading_man_opportunities.md): same interview, expanding on the Sean Bean comparison
 - [Owen Teale Family And Recent Villain Roles](owen_teale_family_and_recent_villain_roles.md): same interview, on the villain typecasting this celebrity rests on
 - [Owen Teale Barry The Bear Route Into Acting](owen_teale_barry_the_bear_route_into_acting.md): same interview, on his start in the profession
@@ -20,6 +21,9 @@ He was well into his 50s when he landed his highest-profile role, but it would b
 - [Robin Williams Cocaine Use At The Comedy Store](robin_williams_cocaine_use_at_the_comedy_store.md): part of the same screen-figures grouping, different source
 - [Robin Williams Lewy Body Dementia And 2014 Death](robin_williams_lewy_body_dementia_and_2014_death.md): part of the same screen-figures grouping
 - [Robin Williams Quitting Cocaine After Belushi Death](robin_williams_quitting_cocaine_after_belushi_death.md): part of the same screen-figures grouping
+- [Robin Williams' Cocaine Material In His Stand-Up Act](robin_williams_cocaine_material_in_his_stand_up_act.md): same sub-plan (Screen figures: Eli Roth, Robin Williams, Owen Teale), different source document
+- [How Owen Teale Sources Darkness For Scrooge And Alliser Thorne](owen_teale_sourcing_darkness_for_scrooge_and_alliser_thorne.md): same source document (doc_0578)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

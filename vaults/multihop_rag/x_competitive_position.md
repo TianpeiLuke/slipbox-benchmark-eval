@@ -13,11 +13,16 @@ One scope condition limits how far the fee comparison can be pushed. X's charge 
 
 ## Related Notes
 
+
 - [Mastodon And X Traffic Figures](mastodon_and_x_traffic_figures.md): traffic and user figures for the same platforms, from a different source document.
 - [Twitter Alternative Market Competition](twitter_alternative_market_competition.md): covers the same rival set — Mastodon, Spoutible, Bluesky — from a different source document.
 - [Post-Twitter Social App Landscape](post_twitter_social_app_landscape.md): maps the same field of Mastodon, Bluesky and other successor apps, from a different source document.
 - [ChatGPT Usage Statistics Late 2023](chatgpt_usage_statistics_late_2023.md): also reports Similarweb app and user measurements, from a different source document.
 - [Founder Lessons From Pebble](founder_lessons_from_pebble.md): covers one of the Twitter-like apps named here, from a different source document.
+- [Objections To X's $1 Bot Fee](objections_to_x_bot_fee.md): same source document (doc_0195)
+- [X's Bot Countermeasures](x_bot_countermeasures.md): same source document (doc_0195)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Open Source](term_open_source.md): uses the concept open source
 
 ## Source
 

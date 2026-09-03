@@ -13,11 +13,19 @@ The bloc had been closely scrutinizing the Amazon-iRobot deal since July, when t
 
 ## Related Notes
 
+
 - [Apple USB-C Accessory Transition](apple_usb_c_accessory_transition.md): another European Union regulatory intervention in a tech product, from a different document.
 - [BEUC Consumer Complaint Against Meta's Pay-Or-Consent Model](beuc_consumer_complaint_meta_pay_or_consent.md): another European Union enforcement action against a large platform, from a different document.
 - [CJEU 2020 Ruling On The Rental And Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): also concerns European Union law, from a different document.
 - [CPPA Draft ADMT Regulations](cppa_draft_admt_regulations.md): compares a US regulator's approach with the European Union's, from a different document.
 - [EU AI Act Political Agreement, December 2023](eu_ai_act_political_agreement_december_2023.md): another European Union regulatory milestone, from a different document.
+- [The EU's Marketplace Foreclosure Theory Of Harm In Amazon-iRobot](amazon_marketplace_foreclosure_theory_of_harm.md): same source document (doc_0039)
+- [Amazon's Response To The EU's iRobot Objections](amazon_response_to_eu_irobot_objections.md): same source document (doc_0039)
+- [The EU's Prior Amazon Settlements And Its DMA Gatekeeper Designation](eu_amazon_prior_settlements_and_dma_gatekeeper.md): same source document (doc_0039)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Acquisition](term_acquisition.md): uses the concept acquisition
+- [Antitrust](term_antitrust.md): uses the concept antitrust
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

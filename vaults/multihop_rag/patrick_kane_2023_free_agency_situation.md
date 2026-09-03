@@ -13,11 +13,19 @@ The caveats about his form are explicit. Kane is no longer the offensive dynamo 
 
 ## Related Notes
 
+
 - [Connor Bedard's Shooting Practice Habits](connor_bedard_shooting_practice_habits.md): also discusses Patrick Kane, from a different document.
 - [Dean Evason's Coaching Career Path](dean_evason_coaching_career_path.md): another Stanley Cup-related item, separately sourced.
 - [Dylan Cease's White Sox Trade Candidacy](dylan_cease_white_sox_trade_candidacy.md): shares the trade-and-free-agency theme, in a different document.
 - [Eloy Jimenez's White Sox Trade Candidacy](eloy_jimenez_white_sox_trade_candidacy.md): another trade-market item, from a separate source.
 - [FanDuel Sportsbook Betting Markets](fanduel_sportsbook_betting_markets.md): shares tagged themes with this item, in a different document.
+- [Patrick Kane's Fit With The Buffalo Sabres](patrick_kane_buffalo_sabres_fit.md): same source document (doc_0356)
+- [Patrick Kane's Fit With The Dallas Stars](patrick_kane_dallas_stars_fit.md): same source document (doc_0356)
+- [Patrick Kane's Fit With The Detroit Red Wings](patrick_kane_detroit_red_wings_fit.md): same source document (doc_0356)
+- [Patrick Kane's Fit With The Florida Panthers](patrick_kane_florida_panthers_fit.md): same source document (doc_0356)
+- [Trade and Free Agency](term_trade_and_free_agency.md): uses the concept trade and free agency
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

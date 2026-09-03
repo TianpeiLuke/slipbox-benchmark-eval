@@ -13,11 +13,20 @@ Golf betting has surged in popularity, especially live golf betting, which allow
 
 ## Related Notes
 
+
 - [BetMGM Vermont Welcome Offer Tradeoffs](betmgm_vermont_welcome_offer_tradeoffs.md): overlapping bets-and-wager terminology.
 - [Determining a Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): overlapping outright-wager settlement concepts.
 - [ESFANDTV Sports Streaming Channel](esfandtv_sports_streaming_channel.md): shares the streaming-service theme that makes live golf betting possible.
 - [FanDuel Vermont Welcome Offer Tradeoffs](fanduel_vermont_welcome_offer_tradeoffs.md): overlapping bets-and-winnings terminology.
 - [Handicap Betting in Tennis and Golf](handicap_betting_in_tennis_and_golf.md): the handicap counterpart to these outright golf markets.
+- [Betting The Other Majors And Team Golf Events](betting_on_golf_majors_and_team_events.md): same source document (doc_0207)
+- [How To Open A Sportsbook Account, Download The App, And Place A Bet](how_to_open_a_sportsbook_account_and_place_a_bet.md): same source document (doc_0207)
+- [Live In-Play Golf Betting](live_in_play_golf_betting.md): same source document (doc_0207)
+- [Betting The Masters: Markets And The Augusta National Factors](masters_betting_markets_and_augusta_national_factors.md): same source document (doc_0207)
+- [The 2024 PGA Tour Schedule: 36 Events On A Calendar Year](pga_tour_2024_calendar_year_schedule.md): same source document (doc_0207)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

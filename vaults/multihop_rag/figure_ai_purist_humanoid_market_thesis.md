@@ -11,6 +11,7 @@ The market claim rests on labor scarcity rather than cost substitution. "There's
 
 ## Related Notes
 
+
 - [Boston Dynamics' View On The Humanoid Form Factor](boston_dynamics_view_on_humanoid_form_factor.md): overlapping coverage of humanoids and humans, from a different source document.
 - [Agility Robotics' Digit Warehouse Robot](agility_robotics_digit_warehouse_robot.md): drawn from the same source document (doc_0421).
 - [Agility Robotics' Prediction Of Ubiquitous Humanoids](agility_robotics_prediction_of_ubiquitous_humanoids.md): drawn from the same source document (doc_0421).
@@ -19,6 +20,8 @@ The market claim rests on labor scarcity rather than cost substitution. "There's
 - [Dexterity And World Understanding As The Hardest Robotics Problem](dexterity_and_world_understanding_as_hardest_robotics_problem.md): drawn from the same source document (doc_0421).
 - [Human-Centric Versus Humanoid Robot Design](human_centric_versus_humanoid_robot_design.md): drawn from the same source document (doc_0421) and takes the opposing design view.
 - [Humanoid Prototype Reality Check: Figure And Optimus](humanoid_prototype_reality_check_figure_and_optimus.md): drawn from the same source document (doc_0421).
+- [The State Of Humanoid Robot Development In 2023](humanoid_robot_development_state_of_the_art_2023.md): same source document (doc_0421)
+- [Robot Labor Supply And The Artificial General Intelligence Goal](robot_labor_supply_and_artificial_general_intelligence_goal.md): same source document (doc_0421)
 
 ## Source
 

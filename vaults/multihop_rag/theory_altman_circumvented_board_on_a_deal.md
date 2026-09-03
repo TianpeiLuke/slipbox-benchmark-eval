@@ -13,11 +13,21 @@ Microsoft is the natural candidate: few would be shocked if Microsoft, which is 
 
 ## Related Notes
 
+
 - [Clark Cease-And-Desist And Political Friction](clark_cease_and_desist_and_political_friction.md): shares the acquisition and board-governance themes, from a different document.
 - [Cohen's Cross-Examination Of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): shares the board-governance and candor themes, from a different document.
 - [Connor Stalions' In-Person Scouting Operation](connor_stalions_in_person_scouting_operation.md): tagged to the same governance-and-deception themes, from a different document.
 - [FTX Inner Circle: Family And Friends Implicated](ftx_inner_circle_family_and_friends_implicated.md): shares the governance-failure theme, from a different document.
 - [Greg Brockman's Account Of Altman's Removal](greg_brockman_account_of_altman_removal.md): the strongest overlap, giving an insider account of the removal, from a different document.
+- [Dismissed Theories: A Murati Coup And A Personal Matter](dismissed_theories_murati_coup_and_personal_matter.md): same source document (doc_0333)
+- [The OpenAI Board Ousts Sam Altman, November 2023](openai_board_ousts_sam_altman_november_2023.md): same source document (doc_0333)
+- [Theory: An AGI And Mission Rift Between Altman And The Board](theory_openai_agi_mission_rift.md): same source document (doc_0333)
+- [Theory: Copyright Liability Over OpenAI's Training Data](theory_openai_copyright_liability.md): same source document (doc_0333)
+- [Theory: A Financial Mismatch At OpenAI](theory_openai_financial_mismatch.md): same source document (doc_0333)
+- [Board Governance](term_board_governance.md): uses the concept board governance
+- [Embedded Finance](term_embedded_finance.md): uses the concept embedded finance
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

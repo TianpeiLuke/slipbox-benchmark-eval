@@ -13,6 +13,7 @@ His friends noted that while he loved being around people, he also "cherished" h
 
 ## Related Notes
 
+
 - [Robin Williams Cocaine Use At The Comedy Store](robin_williams_cocaine_use_at_the_comedy_store.md): same documentary report, on the drug use that followed this rise
 - [Robin Williams Cocaine Material In His Stand Up Act](robin_williams_cocaine_material_in_his_stand_up_act.md): same source, on how the stand-up act absorbed his drug use
 - [Robin Williams Lewy Body Dementia And 2014 Death](robin_williams_lewy_body_dementia_and_2014_death.md): same source, on the death referenced here
@@ -21,6 +22,7 @@ His friends noted that while he loved being around people, he also "cherished" h
 - [Owen Teale Barry The Bear Route Into Acting](owen_teale_barry_the_bear_route_into_acting.md): another performer's route into the profession, different source
 - [Owen Teale Family And Recent Villain Roles](owen_teale_family_and_recent_villain_roles.md): part of the same screen-figures grouping
 - [Jon Snow Death Scene Fan Reactions To Owen Teale](jon_snow_death_scene_fan_reactions_to_owen_teale.md): part of the same screen-figures grouping
+- [Robin Williams Quitting Cocaine After John Belushi's Death](robin_williams_quitting_cocaine_after_belushi_death.md): same source document (doc_0227)
 
 ## Source
 

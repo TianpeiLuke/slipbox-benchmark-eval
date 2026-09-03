@@ -11,9 +11,19 @@ For simulation, Brady says: "One example that's in my lab today is that we gener
 
 ## Related Notes
 
+
 - [Amazon's Machine Learning And Generative AI Adoption](amazon_machine_learning_and_generative_ai_adoption.md): same source document; the framing that precedes these examples.
 - [LLM Limits In Robot Manipulation](llm_limits_in_robot_manipulation.md): overlaps in content on picking objects and system capability, from a different source document.
 - [Gemini Pro Jailbreak By Robust Intelligence](gemini_pro_jailbreak_by_robust_intelligence.md): shares generative-AI themes, from a different source document.
+- [Amazon's Agility Digit Humanoid Pilot As A Test Case](amazon_agility_digit_humanoid_pilot.md): same source document (doc_0528)
+- [Amazon's Delivering The Future 2023 Event](amazon_delivering_the_future_2023_event.md): same source document (doc_0528)
+- [Amazon's Greenfield And Brownfield Retrofit Capability](amazon_greenfield_brownfield_retrofit_capability.md): same source document (doc_0528)
+- [Amazon's Industrial Innovation Fund And Agility](amazon_industrial_innovation_fund_and_agility.md): same source document (doc_0528)
+- [Amazon's Interest In Bipedal Locomotion](amazon_interest_in_bipedal_locomotion.md): same source document (doc_0528)
+- [Amazon's Machine Learning Flow And Fleet Management](amazon_machine_learning_fleet_and_flow_management.md): same source document (doc_0528)
+- [Amazon, MIT And Ipsos Robot Perception Study](amazon_mit_ipsos_robot_perception_study.md): same source document (doc_0528)
+- [Generative AI](term_generative_ai.md): uses the concept generative ai
+- [Recommendation Algorithm](term_recommendation_algorithm.md): uses the concept recommendation algorithm
 
 ## Source
 

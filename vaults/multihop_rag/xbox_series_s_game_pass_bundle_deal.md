@@ -11,9 +11,19 @@ The console by itself has a list price of $300, and three months of access to Xb
 
 ## Related Notes
 
+
 - [8BitDo Arcade Stick For Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): also concerns Xbox Series consoles, from a different source document.
 - [Activision Titles On Xbox Game Pass](activision_titles_on_xbox_game_pass.md): overlaps in content on Xbox, Microsoft and Game Pass access, from a different source document.
 - [Alan Wake 2](alan_wake_2.md): also concerns Xbox Series hardware, from a different source document.
+- [Amnesia: The Bunker](amnesia_the_bunker.md): both discuss Xbox Series; different source document
+- [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): both discuss Xbox Series; different source document
+- [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): same source document (doc_0222)
+- [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): same source document (doc_0222)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0222)
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

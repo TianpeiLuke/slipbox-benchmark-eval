@@ -11,11 +11,18 @@ Many of the top teams were expected to be in the mix, with the Dodgers and Cubs 
 
 ## Related Notes
 
+
 - [Alanna Rizzo Criticism of Clubhouse Reporting](alanna_rizzo_criticism_of_clubhouse_reporting.md): also covers the Blue Jays, from a different document.
 - [Angels 2023 Offseason: Ohtani and Trout Availability](angels_2023_offseason_ohtani_and_trout_availability.md): also covers Shohei Ohtani, from a different document.
 - [Angels Pursuit of Blake Snell](angels_pursuit_of_blake_snell.md): also relays reporting from Jon Morosi, from a different document.
 - [Astros Sign-Stealing Exposure and MLB Penalties](astros_sign_stealing_exposure_and_mlb_penalties.md): also relays reporting from Ken Rosenthal, from a different document.
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): shares the Major League Baseball and Most Valuable Player themes, from a different document.
+- [Why Signing Ohtani Could Have Cost Toronto Bichette And Guerrero](blue_jays_roster_implications_of_ohtani_pursuit.md): same source document (doc_0426)
+- [Ohtani Free Agency: Market Expectations And Decision Timeline](ohtani_free_agency_market_expectations_and_timeline.md): same source document (doc_0426)
+- [Shohei Ohtani's 10-Year, $700 Million Contract With The Dodgers](shohei_ohtani_dodgers_ten_year_700_million_contract.md): same source document (doc_0426)
+- [The Toronto Reports And Denials Of Dec. 8, 2023](shohei_ohtani_toronto_reports_and_denials.md): same source document (doc_0426)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
 
 ## Source
 

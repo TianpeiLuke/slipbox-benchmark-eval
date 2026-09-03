@@ -13,6 +13,7 @@ The supporting evidence is the 2023 record on both sides. Djokovic ended 2023 as
 
 ## Related Notes
 
+
 - [Alexei Popyrin's Davis Cup Breakthrough](alexei_popyrin_davis_cup_breakthrough.md): also discusses the Davis Cup, one of the competitions cited here, from a different document.
 - [Australia's Davis Cup Semi-Final Win Over Finland](australia_davis_cup_semi_final_win_over_finland.md): also discusses the Davis Cup and Jannik Sinner, from a different document.
 - [Australia-Italy Davis Cup Final 2023 Preview](australia_italy_davis_cup_final_2023_preview.md): also discusses the Davis Cup, from a different document.
@@ -21,6 +22,8 @@ The supporting evidence is the 2023 record on both sides. Djokovic ended 2023 as
 - [Becker's Claim That Kyrgios Owes His Career To Tennis Trailblazers](becker_claim_kyrgios_owes_career_to_tennis_trailblazers.md): another item in the same tennis news round-up.
 - [Djokovic On His Relationship With Federer And Nadal](djokovic_on_his_relationship_with_federer_and_nadal.md): another item in the same round-up.
 - [The Kyrgios-Becker Social Media Feud Of December 2023](kyrgios_becker_social_media_feud_december_2023.md): another item in the same round-up.
+- [Kyrgios' Rebuttal That He Grew The Tennis Audience](kyrgios_rebuttal_that_he_grew_the_tennis_audience.md): same source document (doc_0342)
+- [Lleyton Hewitt's United Cup 2024 Captaincy](lleyton_hewitt_united_cup_2024_captaincy.md): same source document (doc_0342)
 
 ## Source
 

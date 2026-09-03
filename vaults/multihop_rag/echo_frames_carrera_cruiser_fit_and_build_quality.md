@@ -11,6 +11,7 @@ Because the Cruiser only comes with sunglass lenses, the reviewer wore them duri
 
 ## Related Notes
 
+
 - [Alexa's Limitations As An On-The-Go Assistant On Echo Frames](alexa_limitations_as_an_on_the_go_assistant_on_echo_frames.md): drawn from the same source document (doc_0431).
 - [Echo Frames: Alexa At Home And Find My Frames](echo_frames_alexa_at_home_and_find_my_frames.md): drawn from the same source document (doc_0431).
 - [Echo Frames Audio Leakage In Quiet Spaces](echo_frames_audio_leakage_in_quiet_spaces.md): drawn from the same source document (doc_0431).
@@ -19,6 +20,8 @@ Because the Cruiser only comes with sunglass lenses, the reviewer wore them duri
 - [Echo Frames Lens, Frame Options And Pricing Tiers](echo_frames_lens_frame_options_and_pricing_tiers.md): drawn from the same source document (doc_0431).
 - [Echo Frames Notification Control And VIP Filter](echo_frames_notification_control_and_vip_filter.md): drawn from the same source document (doc_0431).
 - [Echo Frames Open-Ear Audio And Bass Performance](echo_frames_open_ear_audio_and_bass_performance.md): drawn from the same source document (doc_0431).
+- [Echo Frames Physical Controls And Button Actions](echo_frames_physical_controls_and_button_actions.md): same source document (doc_0431)
+- [The Third-Gen Echo Frames Are Only An Incremental Improvement](echo_frames_third_gen_incremental_improvements.md): same source document (doc_0431)
 
 ## Source
 

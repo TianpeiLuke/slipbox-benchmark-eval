@@ -13,6 +13,7 @@ He closed with an appeal for composure and unity: "We are at war. In war, one ne
 
 ## Related Notes
 
+
 - [Disinformation on X: Gaza](disinformation_on_x_gaza.md): shares the Gaza Strip as its subject.
 - [EU Warning Letter to X](eu_warning_letter_to_x.md): concerns the information environment around this Gaza conflict.
 - [Eylon Levy: Aliyah and IDF Service](eylon_levy_aliyah_and_idf_service.md): shares the Gaza conflict setting.
@@ -21,6 +22,7 @@ He closed with an appeal for composure and unity: "We are at war. In war, one ne
 - [Claim That Mossad Foreknew the Hamas Attack](claim_that_mossad_foreknew_the_hamas_attack.md): from the same report.
 - [Commentary That Israeli Intelligence and Defence Failed](commentary_that_israeli_intelligence_and_defence_failed.md): from the same report.
 - [Hamas October 7 2023 Surprise Attack on Israel](hamas_october_7_2023_surprise_attack_on_israel.md): the attack this declaration responds to.
+- [Sderot Police Headquarters Seized During the Attack](sderot_police_headquarters_seized_during_the_attack.md): same source document (doc_0134)
 
 ## Source
 

@@ -11,11 +11,18 @@ Michigan State athletic director Alan Haller framed the hire around Smith's reco
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): also covers the Big Ten, the conference Smith joins, from a different source document.
 - [Alabama 2023 CFP Case and SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): also covers the College Football Playoff, cited in Haller's endorsement, from a different source document.
 - [Alabama CFP Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also covers the Big Ten and the College Football Playoff, from a different source document.
 - [Big Ten Coaches' Anger Over Michigan Sign-Stealing](big_ten_coaches_anger_over_michigan_sign_stealing.md): also covers the Big Ten, from a different source document.
 - [Big Ten Commissioner Petitti's Punishment Dilemma](big_ten_commissioner_petitti_punishment_dilemma.md): also covers the Big Ten, from a different source document.
+- [Jonathan Smith's Oregon State Tenure And Coaching Path](jonathan_smith_oregon_state_tenure_and_coaching_career.md): same source document (doc_0411)
+- [Mel Tucker's Firing And Michigan State's Decline Since Mark Dantonio](mel_tucker_firing_and_michigan_state_decline.md): same source document (doc_0411)
+- [Michigan State's 2024 Schedule Under A Division-Free, Expanded Big Ten](michigan_state_2024_schedule_after_big_ten_expansion.md): same source document (doc_0411)
+- [Oregon State Loses Its Coach While The Pac-12 Loses Ten Of Twelve Members](oregon_state_coaching_search_and_pac_12_breakup.md): same source document (doc_0411)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

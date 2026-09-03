@@ -11,11 +11,15 @@ Throughout the Nations League campaign this had been an England team fighting it
 
 ## Related Notes
 
+
 - [Belgium-England First Half Goals and Incidents](belgium_england_first_half_goals_and_incidents.md): also covers Alessia Russo and Chloe Kelly, from a different document.
 - [Belgium-England Lineups and Referee, October 2023](belgium_england_lineups_and_referee_october_2023.md): also covers Alessia Russo and Chloe Kelly, from a different document.
 - [Belgium-England Second Half and the Wullaert Penalty](belgium_england_second_half_and_wullaert_penalty.md): also covers Georgia Stanway, from a different document.
 - [Belgium-England Women's Nations League Result, October 2023](belgium_england_womens_nations_league_result_october_2023.md): covers another match in the same Nations League group, from a different document.
 - [Canada's Copa America 2024 Qualification Path](canada_copa_america_2024_qualification_path.md): another Nations League qualification path, from a different document.
+- [England's Defensive Brittleness And Dropped Points](england_lionesses_defensive_brittleness_and_dropped_points.md): same source document (doc_0206)
+- [Nations League Prestige And The Congested International Cycle](nations_league_prestige_and_congested_international_cycle.md): same source document (doc_0206)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

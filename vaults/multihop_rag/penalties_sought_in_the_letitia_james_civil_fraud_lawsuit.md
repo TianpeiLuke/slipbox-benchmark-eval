@@ -13,11 +13,20 @@ Manhattan prosecutors had looked into bringing a criminal case over the same con
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and the Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): shares the fraud-trial subject matter.
 - [Alameda Negative Balance Escalation](alameda_negative_balance_escalation.md): shares the fraud-and-penalty content tags used across the corpus.
 - [Caroline Ellison Guilty Plea and First Day Testimony](caroline_ellison_guilty_plea_and_first_day_testimony.md): shares the fraud-trial subject matter.
 - [Cohen Cross-Examination of Caroline Ellison](cohen_cross_examination_of_caroline_ellison.md): shares the fraud-trial subject matter.
 - [Defense Good Faith Case for Bankman-Fried](defense_good_faith_case_for_bankman_fried.md): shares the fraud-trial subject matter.
+- [Engoron's "Fantasy World" Finding on Trump Financial Statements](engoron_fantasy_world_finding_on_trump_financial_statements.md): same source document (doc_0529)
+- [Engoron Summary Judgment That Trump Committed Fraud](engoron_summary_judgment_that_trump_committed_fraud.md): same source document (doc_0529)
+- [Letitia James Asset Inflation Allegations](letitia_james_asset_inflation_allegations.md): same source document (doc_0529)
+- [Letitia James' History of Investigating Trump](letitia_james_history_of_investigating_trump.md): same source document (doc_0529)
+- [Mar-a-Lago Valuation Dispute](mar_a_lago_valuation_dispute.md): same source document (doc_0529)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
+- [Fraud](term_fraud.md): uses the concept fraud
 
 ## Source
 

@@ -11,6 +11,7 @@ The reporter set the scene in Belfast, Maine, on a picture-perfect August evenin
 
 ## Related Notes
 
+
 - [Amazon Rainforest Tipping Point](amazon_rainforest_tipping_point.md): from the same article, on the worst-case scenarios he dwells on.
 - [American Public Climate Worry Polling](american_public_climate_worry_polling.md): from the same article, on how widely climate anxiety is felt.
 - [Climate Grief Conversation at the Homestead](climate_grief_conversation_at_the_homestead.md): from the same article, on his attempts to talk about this grief with others.
@@ -19,6 +20,8 @@ The reporter set the scene in Belfast, Maine, on a picture-perfect August evenin
 - [Kalmus's Critique of Biden Climate Policy](kalmus_critique_of_biden_climate_policy.md): from the same article, on the political frustration feeding his anxiety.
 - [Kalmus's Personal Emissions Reduction as Detoxification](kalmus_personal_emissions_reduction_as_detoxification.md): from the same article, on the life changes he made first.
 - [Kalmus's Reflections on Low-Energy Living](kalmus_reflections_on_low_energy_living.md): from the same article, on what he took away from the visit.
+- ["No Place Is Safe": Climate Impacts on Kalmus's Life](no_place_is_safe_climate_impacts_on_kalmus_life.md): same source document (doc_0233)
+- [Peter Kalmus's Profile and Radical Turn](peter_kalmus_profile_and_radical_turn.md): same source document (doc_0233)
 
 ## Source
 

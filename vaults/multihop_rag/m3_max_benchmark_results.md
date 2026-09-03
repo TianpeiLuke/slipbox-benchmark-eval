@@ -13,11 +13,20 @@ The conditions matter for reading these results. The M3 Max powering the review 
 
 ## Related Notes
 
+
 - [Airpods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery life and charging and battery technology theme, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery life and charging and battery technology theme, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery life and charging and battery technology theme, from a different source document.
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): shares the battery life and charging and battery technology theme, from a different source document.
 - [Anker 3 in 1 Magsafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): shares the battery life and charging and battery technology theme, from a different source document.
+- [Apple M3 Chip Architecture And GPU Features](apple_m3_chip_architecture_and_gpu_features.md): same source document (doc_0526)
+- [Apple Silicon Chip Naming And Relative Performance](apple_silicon_chip_naming_and_relative_performance.md): same source document (doc_0526)
+- [The M3 MacBook Pro Lineup And Its Configurations](m3_macbook_pro_lineup_and_configurations.md): same source document (doc_0526)
+- [M3 Max Gaming Performance On macOS](m3_max_gaming_performance_on_macos.md): same source document (doc_0526)
+- [M3 Max MacBook Pro Battery Runtime Test](m3_max_macbook_pro_battery_runtime_test.md): same source document (doc_0526)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

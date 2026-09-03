@@ -13,11 +13,18 @@ The range over which the model runs is therefore a spectrum of scenarios rather 
 
 ## Related Notes
 
+
 - [Call for Consistent Macroeconomic Policy](call_for_consistent_macroeconomic_policy.md): another argument about economic policy under shocks.
 - [IDF Small and Smart Army Doctrine](idf_small_and_smart_army_doctrine.md): draws on the same Yom Kippur War precedent.
 - [India Nominal GDP Forecast to 2030](india_nominal_gdp_forecast_to_2030.md): a contrasting case of quantified long-run growth projection.
 - [Israeli Restraint Policy Toward Gaza](israeli_restraint_policy_toward_gaza.md): draws on the same Yom Kippur War precedent.
 - [Strategic Surprise Pattern Across History](strategic_surprise_pattern_across_history.md): draws on the same Yom Kippur War precedent.
+- [Bank of Israel Interest Rate Policy During the War](bank_of_israel_interest_rate_policy_during_the_war.md): same source document (doc_0125)
+- [Bank of Israel Thirty Billion Dollar FX Intervention](bank_of_israel_thirty_billion_dollar_fx_intervention.md): same source document (doc_0125)
+- [Fiscal Cost Channels of the Israel-Gaza War](fiscal_cost_channels_of_the_israel_gaza_war.md): same source document (doc_0125)
+- [Israeli Economy in the First Week of the Gaza War](israeli_economy_in_the_first_week_of_the_gaza_war.md): same source document (doc_0125)
+- [Israeli Post-War Economic Rehabilitation Planning Proposal](israeli_post_war_economic_rehabilitation_planning_proposal.md): same source document (doc_0125)
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

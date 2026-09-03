@@ -11,6 +11,7 @@ To restore the energy balance after a forcing, the planet must warm. But warming
 
 ## Related Notes
 
+
 - [Carbon Capture Cannot Replace Emissions Cuts](carbon_capture_cannot_replace_emissions_cuts.md): another account of greenhouse gases and the climate response to them.
 - [Global Water Scarcity Under Climate Change](global_water_scarcity_under_climate_change.md): another treatment of how a warming planet changes water, snow and ice.
 - [Climate Sweet Spots and Pattern-Dependent Feedbacks](climate_sweet_spots_and_pattern_dependent_feedbacks.md): from the same article, on how these feedbacks depend on where warming occurs.
@@ -19,6 +20,8 @@ To restore the energy balance after a forcing, the planet must warm. But warming
 - [Equilibrium Climate Sensitivity and Its Uncertainty](equilibrium_climate_sensitivity_and_its_uncertainty.md): from the same article, on the quantity these feedbacks determine.
 - [Evaluating Model Pattern Bias with Cloud-Resolving Models](evaluating_model_pattern_bias_with_cloud_resolving_models.md): from the same article, on simulating the cloud feedbacks named here.
 - [Feedback Dependence on Global Mean Temperature](feedback_dependence_on_global_mean_temperature.md): from the same article, on how these feedbacks vary with temperature.
+- [Historical Warming Does Not Bound Climate Sensitivity](historical_warming_does_not_bound_climate_sensitivity.md): same source document (doc_0139)
+- [The Magnitude of the Observed Pattern Effect Is Disputed](magnitude_of_the_observed_pattern_effect_is_disputed.md): same source document (doc_0139)
 
 ## Source
 

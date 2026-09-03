@@ -11,10 +11,18 @@ This is an entry-level model from 2022, so it's limited to a 60Hz refresh rate, 
 
 ## Related Notes
 
+
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): same source document; other TV accessories in the same roundup.
 - [LG B2 OLED Television](lg_b2_oled_television.md): overlaps in content on LG OLED sets and HDMI ports, from a different source document.
 - [LG C3 OLED TV](lg_c3_oled_tv.md): overlaps in content on OLED refresh rates and contrast, from a different source document.
 - [Steam Deck OLED Display Upgrade](steam_deck_oled_display_upgrade.md): overlaps in content on OLED brightness and refresh rates, from a different source document.
+- [Hisense U6K And U8K Televisions](hisense_u6k_and_u8k_televisions.md): content overlap 0.24 on gaming-friendly, angles, hdmi; different source document
+- [Steam Deck OLED HDR Display](steam_deck_oled_hdr_display.md): content overlap 0.11 on oled, refresh, delivers; different source document
+- [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): same source document (doc_0222)
+- [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): same source document (doc_0222)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0222)
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
 
 ## Source
 

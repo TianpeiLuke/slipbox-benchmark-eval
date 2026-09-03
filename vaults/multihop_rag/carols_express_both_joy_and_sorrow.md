@@ -13,11 +13,18 @@ The warrant joining the textual reading to the claim is that this double registe
 
 ## Related Notes
 
+
 - [Don McLean's Christmas Memories Album](don_mclean_christmas_memories_album.md): also concerns "White Christmas", from a different source document.
 - [American Pie's Billboard Record and Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
 - [Don McLean's Career Honours and Recognition](don_mclean_career_honours_and_recognition.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
 - [Don McLean on the Emotional Power of Music](don_mclean_on_the_emotional_power_of_music.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
 - [Don McLean's Upcoming Albums and Touring](don_mclean_upcoming_albums_and_touring.md): same sub-plan on Christmas carols and Don McLean, from a different source document.
+- [Carol of the Bells and Its Biblical Roots](carol_of_the_bells_biblical_roots.md): same source document (doc_0270)
+- [Christmas Carols and Advertising](christmas_carols_and_advertising.md): same source document (doc_0270)
+- [Christmas Hope Amid War and Suffering](christmas_hope_amid_war_and_suffering.md): same source document (doc_0270)
+- [The Structure of "I Heard the Bells"](i_heard_the_bells_poem_structure.md): same source document (doc_0270)
+- [Longfellow's "I Heard the Bells", 1863](longfellow_i_heard_the_bells_origin_1863.md): same source document (doc_0270)
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

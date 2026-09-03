@@ -13,6 +13,7 @@ Its continuity placement is explicit: the film will be separate from Matt Reeves
 
 ## Related Notes
 
+
 - [Brave Software Layoffs](brave_software_layoffs.md): incidental name overlap on "Brave" from an unrelated source document
 - [Aquaman and the Lost Kingdom](aquaman_and_the_lost_kingdom.md): another DC project from the same slate article
 - [Arkham Asylum: The Batman Prequel Series](arkham_asylum_the_batman_prequel_series.md): a Batman-family project in the separate Reeves continuity
@@ -21,6 +22,8 @@ Its continuity placement is explicit: the film will be separate from Matt Reeves
 - [Creature Commandos Animated Series](creature_commandos_animated_series.md): another DC Studios project from the same document
 - [The DC Extended Universe (DCEU)](dc_extended_universe_dceu.md): the continuity this new DCU line replaces
 - [DC Studios DCU Reboot Under Gunn and Safran](dc_studios_dcu_reboot_under_gunn_and_safran.md): the reboot whose continuity this film helps establish
+- [Dead Boy Detectives (Netflix Series)](dead_boy_detectives_netflix_series.md): same source document (doc_0081)
+- [Joker: Folie à Deux](joker_folie_a_deux.md): same source document (doc_0081)
 
 ## Source
 

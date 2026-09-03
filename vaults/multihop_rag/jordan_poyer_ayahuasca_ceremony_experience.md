@@ -13,6 +13,7 @@ The content of the experience followed the intentions. First, highest-version Po
 
 ## Related Notes
 
+
 - [Ayahuasca, the Psychedelic Brew](ayahuasca_psychedelic_brew.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Alcoholism and Sobriety](jordan_poyer_alcoholism_and_sobriety.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Contract Status and Post-Career Plans](jordan_poyer_contract_status_and_post_career_plans.md): drawn from the same document (doc_0322).
@@ -21,6 +22,8 @@ The content of the experience followed the intentions. First, highest-version Po
 - [Jordan Poyer's Handpan and Sound Healing](jordan_poyer_handpan_and_sound_healing.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Marriage to Rachel Bush](jordan_poyer_marriage_to_rachel_bush.md): drawn from the same document (doc_0322).
 - [Jordan Poyer's Reconciliation With His Biological Father](jordan_poyer_reconciliation_with_biological_father.md): drawn from the same document (doc_0322).
+- [Jordan Poyer's Retreat At Resonance In Costa Rica](jordan_poyer_resonance_costa_rica_ayahuasca_retreat.md): same source document (doc_0322)
+- [Jordan Poyer's Search For Purpose And Improbable Career](jordan_poyer_search_for_purpose_and_improbable_career.md): same source document (doc_0322)
 
 ## Source
 

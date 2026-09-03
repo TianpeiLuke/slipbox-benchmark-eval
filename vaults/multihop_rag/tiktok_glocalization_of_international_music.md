@@ -11,9 +11,18 @@ The mechanism has two linked components. First, taste: "TikTok users have a stro
 
 ## Related Notes
 
+
 - [EU-US Performance Rights Asymmetry](eu_us_performance_rights_asymmetry.md): overlaps on cross-border artist economics, from a different source document.
 - [Genre Labels Should Not Define Music](genre_labels_should_not_define_music.md): overlaps on how genres travel, from a different source document.
 - [Teen Time Spent on Tiktok Snapchat and Instagram](teen_time_spent_on_tiktok_snapchat_and_instagram.md): shares vocabulary around tiktok, average and study, from a different source document.
+- [The 2023 Luminate Study Of TikTok And Music](luminate_tiktok_music_study_2023.md): same source document (doc_0363)
+- [TikTok Bans And ByteDance Data Concerns](tiktok_bans_and_bytedance_data_concerns.md): same source document (doc_0363)
+- [TikTok's Claim To Be The Driving Force Behind Music Discovery](tiktok_claim_to_drive_music_discovery.md): same source document (doc_0363)
+- [TikTok Users' Music Discovery And Sharing Rates](tiktok_music_discovery_and_sharing_rates.md): same source document (doc_0363)
+- [TikTok's Expansion Into Music Services](tiktok_music_services_expansion.md): same source document (doc_0363)
+- [TikTok Users' Streaming Service Penetration](tiktok_user_streaming_service_penetration.md): same source document (doc_0363)
+- [TikTok Users' Merch And Live Music Spending](tiktok_users_music_merch_and_live_spending.md): same source document (doc_0363)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

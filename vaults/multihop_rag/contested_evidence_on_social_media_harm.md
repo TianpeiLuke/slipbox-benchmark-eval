@@ -13,11 +13,19 @@ That literature sits alongside a substantial body of work outlining the contours
 
 ## Related Notes
 
+
 - [ChatGPT Political Disinformation Guardrail Failure](chatgpt_political_disinformation_guardrail_failure.md): shares the disinformation theme, from a different source document.
 - [Epoch Times 2020 Election And Pro-Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): shares the online-political-media theme, from a different source document.
 - [Federal AI Watermarking And Content Provenance](federal_ai_watermarking_and_content_provenance.md): a policy response premised on the content-harm framing, from a different source document.
 - [SCOTUS Ruling Consequences](scotus_ruling_consequences.md): shares the social-media harms and law theme, from a different source document.
 - [SCOTUS Social Media Cases](scotus_social_media_cases.md): shares the social-media harms and law theme, from a different source document.
+- [The Attention Economy And Limbic Capitalism](attention_economy_and_limbic_capitalism.md): same source document (doc_0234)
+- [Democracy In A Hotter Time](democracy_in_a_hotter_time_essay_collection.md): same source document (doc_0234)
+- [The Internet As A Central Obstacle To Climate Action](internet_as_central_obstacle_to_climate_action.md): same source document (doc_0234)
+- [The Internet As A Global Endocrine System](internet_as_global_endocrine_system.md): same source document (doc_0234)
+- [Three Forces: Climate, Authoritarianism And The Internet](three_forces_climate_authoritarianism_internet.md): same source document (doc_0234)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

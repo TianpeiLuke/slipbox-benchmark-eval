@@ -13,11 +13,16 @@ He located StarNews' distinctiveness in holding all three layers locally: "Produ
 
 ## Related Notes
 
+
 - [Israel's Startup Funding Decline Before the War](israel_startup_funding_decline.md): another global tech ecosystem in the same batch, from a different source document.
 - [The Scale of Israel's Technology Sector in 2022](israel_tech_sector_scale.md): another global tech ecosystem in the same batch, from a different source document.
 - [Reserve Mobilisation Inside Israeli Tech Companies](israel_tech_workforce_mobilisation.md): another global tech ecosystem in the same batch, from a different source document.
 - [Israeli Founders and Investors on Operating Through the War](israeli_founders_operating_at_war.md): another global tech ecosystem in the same batch, from a different source document.
 - [African Telco Distribution Model](african_telco_distribution_model.md): the telco-led distribution model these partnership results come from, drawn from the same source document (doc_0456).
+- [StarNews Mobile's $3M Pre-Series A Round](starnews_funding_round.md): same source document (doc_0456)
+- [StarNews Mobile As An African Mobile Video Network](starnews_mobile_platform.md): same source document (doc_0456)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Telco Distribution](term_telco_distribution.md): uses the concept telco distribution
 
 ## Source
 

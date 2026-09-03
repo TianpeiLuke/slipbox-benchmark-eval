@@ -11,6 +11,7 @@ Crystal Ski Holidays has seven nights B&B at the Hilton Niseko Village, less tha
 
 ## Related Notes
 
+
 - [Family Offices And The "This Time Is Different" Test For Japan](family_offices_and_the_this_time_is_different_test_for_japan.md): another Japan-focused piece from a different source document
 - [Lake Louise Ski Resort, Banff](lake_louise_ski_resort_banff.md): another resort priced from London Heathrow, in a different guide
 - [Mont Tremblant, Quebec Ski Resort](mont_tremblant_quebec_ski_resort.md): another resort priced from London Heathrow, in a different guide
@@ -19,6 +20,8 @@ Crystal Ski Holidays has seven nights B&B at the Hilton Niseko Village, less tha
 - [What Makes A Five-Star Ski Holiday](luxury_ski_holiday_overview.md): the overview that opens the same round-up
 - [Megève, France Ski Resort](megeve_france_ski_resort.md): another resort from the same luxury round-up
 - [Ólafsfjörður, Iceland Heliskiing](olafsfjordur_iceland_heliskiing.md): another entry from the same luxury round-up
+- [Vail: North America's Premium Ski Destination](vail_colorado_ski_resort.md): same source document (doc_0573)
+- [Whistler Blackcomb: North America's Largest Ski Resort](whistler_blackcomb_ski_resort.md): same source document (doc_0573)
 
 ## Source
 

@@ -13,6 +13,7 @@ The relation the article draws from these is durability of position and margin: 
 
 ## Related Notes
 
+
 - [Bharti Airtel EV/EBITDA Valuation Case](bharti_airtel_ev_ebitda_valuation_case.md): covers the second player in the duopoly described here.
 - [AI Pricing Models](ai_pricing_models.md): shares the usage-based pricing content tag used across the corpus.
 - [Amot Investments Portfolio and War Scenario Assessment](amot_investments_portfolio_and_war_scenario_assessment.md): shares a corpus-level content tag with this note.
@@ -21,6 +22,12 @@ The relation the article draws from these is durability of position and margin: 
 - [Cavefish Ketogenic Diet Behavioral Results](cavefish_ketogenic_diet_behavioral_results.md): shares a corpus-level content tag with this note.
 - [China Recovery Greenshoots and Commodity Price Outlook](china_recovery_greenshoots_and_commodity_price_outlook.md): shares a corpus-level content tag with this note.
 - [Digital Twins Deployed for Sustainability Goals](digital_twins_deployed_for_sustainability_goals.md): shares a corpus-level content tag with this note.
+- [Reliance Green Energy Investment Programme](reliance_green_energy_investment_programme.md): same source document (doc_0253)
+- [Reliance Industries Share Price and Growth Catalysts](reliance_industries_share_price_and_growth_catalysts.md): same source document (doc_0253)
+- [Reliance Industries Sum-of-the-Parts Valuation Case](reliance_industries_sum_of_the_parts_valuation_case.md): same source document (doc_0253)
+- [Reliance O2C and Exploration Business Economics](reliance_o2c_and_exploration_business_economics.md): same source document (doc_0253)
+- [Reliance Retail Ventures Store Expansion](reliance_retail_ventures_store_expansion.md): same source document (doc_0253)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
 
 ## Source
 

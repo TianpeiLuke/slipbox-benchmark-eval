@@ -11,11 +11,18 @@ The warrant joining the pattern to the conclusion is that spending reveals prior
 
 ## Related Notes
 
+
 - [Alameda Research](alameda_research.md): overlaps on Bankman-Fried, Alameda and the sums involved, from a different source document.
 - [Alameda Research as Alleged Conduit for FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): the source of the money that was spent, from a different source document.
 - [Alameda Research's Origins and Naming](alameda_research_origins_and_naming.md): overlaps on Bankman-Fried, Alameda and Singh, from a different source document.
 - [Code Evidence Outweighs Deleted Signal Messages](code_evidence_outweighs_deleted_signal_messages.md): overlaps on Bankman-Fried, Alameda and the money trail, from a different source document.
 - [Ellison's Risk Spreadsheet for Venture Investments](ellison_risk_spreadsheet_for_venture_investments.md): the venture-investment plan whose risk she modelled, from a different source document.
+- [Alameda's $65 Billion Line Of Credit At FTX](alameda_65_billion_line_of_credit_at_ftx.md): same source document (doc_0121)
+- [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): same source document (doc_0121)
+- [The Escalation Of Alameda's Negative Balance](alameda_negative_balance_escalation.md): same source document (doc_0121)
+- [Can Sun's Testimony On Fabricated Justifications](can_sun_testimony_on_fabricated_justifications.md): same source document (doc_0121)
+- [Allow_negative: Alameda's Exemption From FTX Liquidation](ftx_alameda_allow_negative_liquidation_exemption.md): same source document (doc_0121)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

@@ -11,11 +11,17 @@ The setup is in the first film, where The Oracle tells Neo that things that go b
 
 ## Related Notes
 
+
 - [The Surprise Vampire Trope](surprise_vampire_trope.md): same source; the trope this scene exemplifies at its most easily missed.
 - [Cassidy In Preacher](cassidy_preacher_vampire.md): same source; another supernatural ensemble where the vampire is still a shock.
 - [Miguel O'Hara, Spider-Man 2099](miguel_ohara_spider_man_2099_vampire.md): same source; another barely-explained vampire detail in a blockbuster.
 - [Shark Matrix Robot Vacuum Deal](shark_matrix_robot_vacuum_deal.md): overlaps in content on matrix, from a different source document.
 - [Astarion, Baldur's Gate 3 Vampire Companion](astarion_baldurs_gate_3_vampire_companion.md): drawn from the same source document (doc_0453).
+- [The Elder Scrolls: Vampires Everywhere](elder_scrolls_playable_vampirism.md): same source document (doc_0453)
+- [Marceline The Vampire Queen](marceline_the_vampire_queen_adventure_time.md): same source document (doc_0453)
+- [Morbius In Spider-Man: The Animated Series](morbius_in_spider_man_the_animated_series.md): same source document (doc_0453)
+- [The Anchorites In The Bone Clocks](the_anchorites_the_bone_clocks.md): same source document (doc_0453)
+- [The Count On Sesame Street](the_count_sesame_street.md): same source document (doc_0453)
 
 ## Source
 

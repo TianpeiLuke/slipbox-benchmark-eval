@@ -13,6 +13,7 @@ The wider ambition he describes is to continue strengthening the brand's narrati
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): shares South Africa as an expansion market.
 - [ChatGPT Use in Government and Courts](chatgpt_use_in_government_and_courts.md): shares South Africa as a geographic subject.
 - [Damian Penaud Try-Scoring Record Run](damian_penaud_try_scoring_record_run.md): shares South Africa as a geographic subject.
@@ -21,6 +22,8 @@ The wider ambition he describes is to continue strengthening the brand's narrati
 - [Abdul Karim Abdullah's Path into the Music Business](abdul_karim_abdullah_path_into_the_music_business.md): from the same interview.
 - [Abdullah on Product Over Profit in the Music Industry](abdullah_on_product_over_profit_in_the_music_industry.md): from the same interview.
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): the international audience this expansion targets.
+- [AfroFuture Festival, Accra, Ghana](afrofuture_festival_accra_ghana.md): same source document (doc_0085)
+- [AfroFuture Foundation Philanthropy Programmes](afrofuture_foundation_philanthropy_programmes.md): same source document (doc_0085)
 
 ## Source
 

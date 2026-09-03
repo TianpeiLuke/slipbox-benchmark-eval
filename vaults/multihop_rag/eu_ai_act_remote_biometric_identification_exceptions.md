@@ -11,6 +11,7 @@ The exceptions differ by whether the use is retrospective or live. Retrospective
 
 ## Related Notes
 
+
 - [Civil Society Criticism of EU AI Act Biometrics Limits](civil_society_criticism_of_eu_ai_act_biometrics_limits.md): drawn from the same source document, doc_0564.
 - [EU AI Act High Risk AI System Obligations](eu_ai_act_high_risk_ai_system_obligations.md): drawn from the same source document, doc_0564.
 - [EU AI Act Penalties for Non Compliance](eu_ai_act_penalties_for_non_compliance.md): drawn from the same source document, doc_0564.
@@ -19,6 +20,8 @@ The exceptions differ by whether the use is retrospective or live. Retrospective
 - [EU AI Act Prohibited AI Practices](eu_ai_act_prohibited_ai_practices.md): drawn from the same source document, doc_0564.
 - [EU AI Act Scope Exclusions National Security and Research](eu_ai_act_scope_exclusions_national_security_and_research.md): drawn from the same source document, doc_0564.
 - [EU AI Act Two Tier Rules for General Purpose AI](eu_ai_act_two_tier_rules_for_general_purpose_ai.md): drawn from the same source document, doc_0564.
+- [The EU AI Office And Its Scientific Advisory Panel](eu_ai_office_and_scientific_advisory_panel.md): same source document (doc_0564)
+- [The EU AI Pact As A Voluntary Stopgap For GPAI Makers](eu_ai_pact_voluntary_stopgap_for_gpai_makers.md): same source document (doc_0564)
 
 ## Source
 

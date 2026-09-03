@@ -13,11 +13,22 @@ Engadget gave the Pixel Tablet a review score of 85 in June: its crisp/sharp LCD
 
 ## Related Notes
 
+
 - [Amazon Invite Only Deals System](amazon_invite_only_deals_system.md): also concerns Prime Big Deal Days mechanics, different document
 - [Airpods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): another hardware discount listing, different document
 - [Anker 511 Nano 3 Charger](anker_511_nano_3_charger.md): linked by shared discount and battery tags, different document
 - [Anker Soundcore Space Q45 And Life Q30](anker_soundcore_space_q45_and_life_q30.md): linked by shared discount tags, different document
 - [Amazon Fire Tv Stick 4k](amazon_fire_tv_stick_4k.md): another Amazon device deal listing, different document
+- [Amazon Echo Dot And Echo Show 5](amazon_echo_dot_and_echo_show_5.md): same source document (doc_0250)
+- [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): same source document (doc_0222)
+- [Amazon Fire HD 8 And Fire Max 11 Tablets](amazon_fire_hd_8_and_fire_max_11_tablets.md): same source document (doc_0250)
+- [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): same source document (doc_0222)
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

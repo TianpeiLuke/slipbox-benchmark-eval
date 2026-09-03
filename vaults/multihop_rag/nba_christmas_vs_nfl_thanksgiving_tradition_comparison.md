@@ -11,11 +11,18 @@ The grounds set the two leagues as genuine rivals rather than a clear hierarchy.
 
 ## Related Notes
 
+
 - [Bazella And Geerts Mother-Daughter Reunion](bazella_and_geerts_mother_daughter_reunion.md): also concerns Christmas Day, from a different document.
 - [Best Buy Price Match Guarantee](best_buy_price_match_guarantee.md): also mentions Thanksgiving Day, from a different document.
 - [Crosby Malkin Letang Eighteenth Season Together](crosby_malkin_letang_eighteenth_season_together.md): shares the NBA and NFL themes, from a different document.
 - [Dell Price Match Policy](dell_price_match_policy.md): also mentions Thanksgiving Day, from a different document.
 - [Determining A Point Spread Bet Outcome](determining_a_point_spread_bet_outcome.md): shares the NBA and NFL themes, from a different document.
+- [NBA 2023 Christmas Day Game Slate](nba_2023_christmas_day_game_slate.md): same source document (doc_0281)
+- [NBA Christmas Day Games Tradition](nba_christmas_day_games_tradition.md): same source document (doc_0281)
+- [NFL Christmas Day Scheduling Threat To NBA](nfl_christmas_day_scheduling_threat_to_nba.md): same source document (doc_0281)
+- [NFL Thanksgiving Day Games 2023 Viewership](nfl_thanksgiving_day_games_2023_viewership.md): same source document (doc_0281)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
 
 ## Source
 

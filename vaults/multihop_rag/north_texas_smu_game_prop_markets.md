@@ -11,6 +11,7 @@ Among them were a pair of team combo specials pairing the first touchdown with t
 
 ## Related Notes
 
+
 - [BetRivers Promo Code SPORTSRIV Second Chance Bet](betrivers_promo_code_sportsriv_second_chance_bet.md): another BetRivers item, from a different document.
 - [BetRivers Second Chance Bet Offer, December 2023](betrivers_second_chance_bet_offer_december_2023.md): also covers BetRivers offers, separately sourced.
 - [BetRivers Vermont Sportsbook Welcome Offer](betrivers_vermont_sportsbook_welcome_offer.md): another BetRivers item mentioning props, in a different document.
@@ -19,6 +20,8 @@ Among them were a pair of team combo specials pairing the first touchdown with t
 - [North Texas Mean Green 2023 Profile](north_texas_mean_green_2023_profile.md): one team in these markets, same source document.
 - [North Texas at SMU: The 2023 Matchup and Efficiency Picture](north_texas_smu_2023_matchup_and_efficiency.md): the matchup being priced, same source document.
 - [North Texas-SMU Against the Spread Pick](north_texas_smu_against_the_spread_pick.md): the spread recommendation alongside these props, same source document.
+- [Preston Stone's Concussion Contingency](preston_stone_concussion_contingency.md): same source document (doc_0006)
+- [SMU Mustangs 2023 Offense Profile](smu_mustangs_2023_offense_profile.md): same source document (doc_0006)
 
 ## Source
 

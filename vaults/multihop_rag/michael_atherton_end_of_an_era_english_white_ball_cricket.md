@@ -13,6 +13,7 @@ Atherton's closing observation set the Bengaluru performance below even the prev
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): another document about South Africa, in an unrelated domain
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): another document about South Africa, in an unrelated domain
 - [ChatGPT Use in Government and Courts](chatgpt_use_in_government_and_courts.md): another document referencing South Africa, unrelated domain
@@ -21,6 +22,8 @@ Atherton's closing observation set the Bengaluru performance below even the prev
 - [Boycott Criticism of Bairstow and Woakes Selection](boycott_criticism_of_bairstow_and_woakes_selection.md): the selection critique running alongside this one, same source document
 - [Boycott Defends Jos Buttler Captaincy](boycott_defends_jos_buttler_captaincy.md): the counter-argument on where blame belongs, same source document
 - [England 2023 Cricket World Cup Title Defence Collapse](england_2023_cricket_world_cup_title_defence_collapse.md): the results this verdict rests on, same source document
+- [Boycott: England Failed To Prepare For The 2023 World Cup](geoff_boycott_on_england_world_cup_preparation_failure.md): same source document (doc_0132)
+- [Jos Buttler's Reaction To The Sri Lanka Defeat](jos_buttler_reaction_to_sri_lanka_defeat_2023.md): same source document (doc_0132)
 
 ## Source
 

@@ -13,11 +13,16 @@ The loss was also particularly crushing for a team that had won back-to-back gam
 
 ## Related Notes
 
+
 - [Bears Panthers Pregame Storylines Week 10](bears_panthers_pregame_storylines_week_10.md): also frames Chicago as the Windy City, from a different document.
 - [Bears Vikings MNF First Half](bears_vikings_mnf_first_half.md): overlaps on Fields, Chicago and interceptions, from a different document.
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): overlaps on the Bears' wild-card position, from a different document.
 - [Bears Vikings MNF Result and Recap](bears_vikings_mnf_result_and_recap.md): overlaps on Chicago's yardage and result, from a different document.
 - [Bears Vikings MNF Third Quarter](bears_vikings_mnf_third_quarter.md): overlaps on Chicago's interceptions, from a different document.
+- [Browns Survive Bears Game-Ending Hail Mary To Win 20-17](bears_game_ending_hail_mary_vs_browns.md): same source document (doc_0080)
+- [Browns' Fourth Quarter Comeback Against The Bears](browns_bears_week_15_fourth_quarter_comeback.md): same source document (doc_0080)
+- [Player Reactions To The Bears-Browns Hail Mary Finish](player_reactions_to_bears_browns_hail_mary.md): same source document (doc_0080)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

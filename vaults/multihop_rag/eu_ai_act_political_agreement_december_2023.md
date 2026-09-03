@@ -13,11 +13,18 @@ The deal is billed by the bloc as the world's first comprehensive law for regula
 
 ## Related Notes
 
+
 - [Apple USB C Accessory Transition](apple_usb_c_accessory_transition.md): also covers European Union, from a different source document.
 - [BEUC Consumer Complaint Meta Pay or Consent](beuc_consumer_complaint_meta_pay_or_consent.md): also covers European Union, from a different source document.
 - [CJEU 2020 Ruling on Rental Lending Directive](cjeu_2020_ruling_on_rental_lending_directive.md): also covers European Union, from a different source document.
 - [Commission Microtargeted Ad Campaign](commission_microtargeted_ad_campaign.md): also covers European Parliament, from a different source document.
 - [CPPA Draft ADMT Regulations](cppa_draft_admt_regulations.md): also covers European Union, from a different source document.
+- [Civil Society Criticism Of The EU AI Act's Biometrics Limits](civil_society_criticism_of_eu_ai_act_biometrics_limits.md): same source document (doc_0564)
+- [EU AI Act Copyright Obligations For GPAI Makers](eu_ai_act_copyright_obligations_for_gpai_makers.md): same source document (doc_0525)
+- [EU AI Act High-Risk AI System Obligations](eu_ai_act_high_risk_ai_system_obligations.md): same source document (doc_0564)
+- [EU AI Act Penalties For Non-Compliance](eu_ai_act_penalties_for_non_compliance.md): same source document (doc_0564)
+- [EU AI Act Phased Entry Into Force Timeline](eu_ai_act_phased_entry_into_force_timeline.md): same source document (doc_0525)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

@@ -13,6 +13,7 @@ The direct examination had already supplied grounds. Beyond the two obvious lies
 
 ## Related Notes
 
+
 - [Adam Yedidia's Testimony and the $8 Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): shares the cross-examination and fraud themes, from a different source document.
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): also concerns Alameda Research, from a different source document.
 - [Alameda Research](alameda_research.md): also concerns Alameda Research, from a different source document.
@@ -20,6 +21,12 @@ The direct examination had already supplied grounds. Beyond the two obvious lies
 - [Bankman-Fried's Post-Bankruptcy Media Tour](bankman_fried_post_bankruptcy_media_tour.md): his earlier habit of telling his own story publicly, from a different source document.
 - [Alameda's $65 Billion Line of Credit at FTX](alameda_65_billion_line_of_credit_at_ftx.md): one of the claims that damaged his credibility (doc_0053).
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): another benign account offered from the stand (doc_0053).
+- [Alameda Research's Origins And Naming](alameda_research_origins_and_naming.md): same source document (doc_0053)
+- [FTX's Absence Of A Chief Risk Officer](ftx_absence_of_chief_risk_officer.md): same source document (doc_0053)
+- [Allow_negative: Alameda's Exemption From FTX Liquidation](ftx_alameda_allow_negative_liquidation_exemption.md): same source document (doc_0053)
+- [Fraud](term_fraud.md): uses the concept fraud
+- [Cross-Examination](term_cross_examination.md): uses the concept cross examination
+- [Board Governance](term_board_governance.md): uses the concept board governance
 
 ## Source
 

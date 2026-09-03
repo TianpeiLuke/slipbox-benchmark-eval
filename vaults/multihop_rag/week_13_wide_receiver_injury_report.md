@@ -11,6 +11,7 @@ Four more receivers left their games hurt the previous week: Chris Olave (concus
 
 ## Related Notes
 
+
 - [The First Quarter of Bengals 24, Bills 18](bills_bengals_snf_first_quarter.md): also features Tee Higgins, from a different document.
 - [Chiefs-Jets First Half Live Blog](chiefs_jets_first_half_live_blog.md): also covers Kadarius Toney, separately sourced.
 - [Curtis Samuel Week 16 Waiver Target](curtis_samuel_week_16_waiver_target.md): also discusses Demario Douglas, in a different document.
@@ -19,6 +20,8 @@ Four more receivers left their games hurt the previous week: Chris Olave (concus
 - [Week 13 Fantasy WR Busts to Avoid](week_13_fantasy_wr_busts_to_avoid.md): the sit calls shaped by these absences, same source document.
 - [Week 13 Fantasy Wide Receiver Byes and Context](week_13_fantasy_wr_byes_and_context.md): the byes compounding them, same source document.
 - [Week 13 Fantasy WR Sleepers and Waiver Adds](week_13_fantasy_wr_sleepers_and_waiver_adds.md): the replacements these injuries create room for, same source document.
+- [Week 13's Top Fantasy Wide Receivers](week_13_top_fantasy_wide_receivers.md): same source document (doc_0114)
+- [Week 13 Wide Receiver PPR Rankings, 1-76](week_13_wr_ppr_rankings_table.md): same source document (doc_0114)
 
 ## Source
 

@@ -11,11 +11,18 @@ The article frames the fixture as a callback: two decades earlier these two goli
 
 ## Related Notes
 
+
 - [African Telco Distribution Model](african_telco_distribution_model.md): also concerns South Africa, where the 2003 final was played, from a different source document.
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also concerns South Africa, from a different source document.
 - [Australia Women Test Defeat To India Mumbai 2023](australia_women_test_defeat_to_india_mumbai_2023.md): another India-Australia defeat recorded in 2023, from a different source document.
 - [ChatGPT Use In Government And Courts](chatgpt_use_in_government_and_courts.md): also concerns South Africa, from a different source document.
 - [Damian Penaud Try Scoring Record Run](damian_penaud_try_scoring_record_run.md): also concerns South Africa, from a different source document.
+- [ICC ODI World Cup 2023: Knockout Stage And Final](icc_world_cup_2023_knockout_stage_and_final.md): same source document (doc_0246)
+- [India vs Australia At The 1983 World Cup](india_australia_1983_world_cup_group_matches.md): same source document (doc_0246)
+- [India vs Australia At The 1987 World Cup](india_australia_1987_world_cup_group_matches.md): same source document (doc_0246)
+- [India vs Australia At The 1992 World Cup: The Rain-Affected One-Run Defeat](india_australia_1992_world_cup_brisbane_rain_match.md): same source document (doc_0246)
+- [India vs Australia At The 1996 World Cup](india_australia_1996_world_cup_mumbai_match.md): same source document (doc_0246)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

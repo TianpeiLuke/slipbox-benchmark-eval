@@ -13,11 +13,22 @@ The Epoch Times was also an early and aggressive promoter of election misinforma
 
 ## Related Notes
 
+
 - [Baldur's Gate 3](baldurs_gate_3.md): shares the political-donations and user-generated-content themes, from a different source document.
 - [ChatGPT Political Disinformation Guardrail Failure](chatgpt_political_disinformation_guardrail_failure.md): shares the disinformation and political-donations themes, from a different source document.
 - [Contested Evidence On Social Media Harm](contested_evidence_on_social_media_harm.md): shares the disinformation and political-donations themes, from a different source document.
 - [Democratic Social Media Campaign Dominance](democratic_social_media_campaign_dominance.md): shares the political-donations and user-generated-content themes, from a different source document.
 - [Digital Creator Jail And Anthology Formats](digital_creator_jail_and_anthology_formats.md): shares the Covid-19 and user-generated-content themes, from a different source document.
+- [Chinese Government Ban And Crackdown On Falun Gong, 1999](chinese_government_ban_and_crackdown_on_falun_gong_1999.md): same source document (doc_0076)
+- [Conservative Endorsements Of The Epoch Times' Credibility](conservative_endorsements_of_epoch_times_credibility.md): same source document (doc_0076)
+- [Epoch Times Ad Spending And Falun Gong Affiliate Grants](epoch_times_ad_spending_and_falun_gong_affiliate_grants.md): same source document (doc_0076)
+- [Epoch Times Conservative Donor Funding](epoch_times_conservative_donor_funding.md): same source document (doc_0076)
+- [The Epoch Times As A Conservative News Organization](epoch_times_conservative_news_organization_profile.md): same source document (doc_0076)
+- [Disinformation](term_disinformation.md): uses the concept disinformation
+- [Fraud](term_fraud.md): uses the concept fraud
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [COVID-19](term_covid_19.md): uses the concept covid 19
 
 ## Source
 

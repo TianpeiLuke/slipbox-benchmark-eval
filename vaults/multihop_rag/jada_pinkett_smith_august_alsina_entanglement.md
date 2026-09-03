@@ -11,6 +11,7 @@ Pinkett Smith's representatives called the claims "absolutely not true" on the d
 
 ## Related Notes
 
+
 - [Will Smith Baltimore Book Event Remarks On Brutiful Marriage](will_smith_baltimore_book_event_remarks_on_brutiful_marriage.md): Will Smith's later public account of the same "brutiful" separated marriage
 - [Will Smith Response To Jada Memoir Worthy](will_smith_response_to_jada_memoir_worthy.md): his 2023 reaction to her fuller written account of the marriage
 - [Counterargument Separations Reschedule Rather Than Resolve Problems](counterargument_separations_reschedule_rather_than_resolve_problems.md): expert scepticism about open-ended separations, from the same article
@@ -19,6 +20,8 @@ Pinkett Smith's representatives called the claims "absolutely not true" on the d
 - [Jada Pinkett Smith 2023 Separation Disclosure](jada_pinkett_smith_2023_separation_disclosure.md): the 2023 revelation that put this 2020 episode in a new light
 - [Separation As An Alternative To Divorce Lat Partnership](separation_as_an_alternative_to_divorce_lat_partnership.md): expert framing of separation as its own arrangement, same article
 - [Terms Of A Separation Agreement Determine Its Outcome](terms_of_a_separation_agreement_determine_its_outcome.md): the point that undefined separation terms create exactly this kind of grey area
+- [The Smiths' 2021 Public Accounts Of Marital Strain](will_and_jada_2021_public_accounts_of_marital_strain.md): same source document (doc_0018)
+- [Will And Jada As A New, Unconventional Marriage Model](will_and_jada_as_an_unconventional_marriage_model.md): same source document (doc_0036)
 
 ## Source
 

@@ -13,11 +13,21 @@ With the account set up and the terms accepted you can claim your welcome bonus 
 
 ## Related Notes
 
+
 - [BetMGM Bonus Code TSN50 First Bet Offer](betmgm_bonus_code_tsn50_first_bet_offer.md): a worked example of the bonus-code step, different source document
 - [BetMGM First Bet Bonus Offer December 2023](betmgm_first_bet_bonus_offer_december_2023.md): another welcome-bonus example, different source document
 - [BetMGM Sportsbook Betting Markets](betmgm_sportsbook_betting_markets.md): what one book offers once the account is open, different source document
 - [BetRivers Second Chance Bet Offer December 2023](betrivers_second_chance_bet_offer_december_2023.md): another deposit-and-bonus offer, different source document
 - [Brock Purdy Lamar Jackson 2023 MVP Race](brock_purdy_lamar_jackson_2023_mvp_race.md): the kind of MVP futures market this account is used for, different source document
+- [Four Sportsbooks For NBA MVP Futures Betting](best_sportsbooks_for_nba_futures_betting.md): same source document (doc_0589)
+- [The Early Favourites In The 2024 NBA MVP Market](nba_mvp_2024_odds_favourites.md): same source document (doc_0589)
+- [The NBA MVP Award: Voting Format And History](nba_mvp_award_voting_format_and_history.md): same source document (doc_0589)
+- [NBA MVP Futures And Other NBA Futures Markets](nba_mvp_futures_and_other_nba_futures_markets.md): same source document (doc_0589)
+- [NBA Prop Bets: Definition And Common Markets](nba_prop_bets_definition_and_common_markets.md): same source document (doc_0497)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Terms of Service](term_terms_of_service.md): uses the concept terms of service
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
 
 ## Source
 

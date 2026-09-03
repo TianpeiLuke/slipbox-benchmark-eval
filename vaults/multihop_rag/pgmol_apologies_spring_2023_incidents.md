@@ -11,6 +11,7 @@ Arsenal 1-1 Brentford, February 11, 2023: Arsenal were denied two points in thei
 
 ## Related Notes
 
+
 - [Argentina Paraguay 2023 Team News and Lineups](argentina_paraguay_2023_team_news_and_lineups.md): also covers Mac Allister, from a different source document.
 - [Argentina Squad and Lineup vs Paraguay October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): also covers Mac Allister, from a different source document.
 - [Arsenal 2-1 Win at Sevilla, Group B](arsenal_2_1_win_at_sevilla_group_b.md): also covers Mikel Arteta, from a different source document.
@@ -19,6 +20,7 @@ Arsenal 1-1 Brentford, February 11, 2023: Arsenal were denied two points in thei
 - [Everton Manchester City 2022 Handball VAR Error](everton_manchester_city_2022_handball_var_error.md): another apology on the same list (doc_0395).
 - [PGMOL and VAR Review in English Football](pgmol_and_var_review_in_english_football.md): the body and list these incidents belong to (doc_0395).
 - [PGMOL Apologies 2023/24 Season Opening Months](pgmol_apologies_2023_24_season_opening_months.md): later apologies on the same list (doc_0395).
+- [PGMOL Apologies From Autumn 2022](pgmol_apologies_autumn_2022_incidents.md): same source document (doc_0395)
 
 ## Source
 

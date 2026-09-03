@@ -15,11 +15,18 @@ The Bengals then killed the game. Starting at the 25, Cincinnati passed on the o
 
 ## Related Notes
 
+
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): overlapping Burrow, Bengals and Bills content, from a different document.
 - [Fantasy RB PPR Rankings Week 14 Full List](fantasy_rb_ppr_rankings_week_14_full_list.md): also covers Latavius Murray, separately sourced.
 - [Fantasy RB Standard Rankings Week 14 Full List](fantasy_rb_standard_rankings_week_14_full_list.md): another listing including Latavius Murray, in a different document.
 - [Ja'Marr Chase Week 10 Injury Status](jamarr_chase_week_10_injury_status.md): also mentions Sam Hubbard, from a separate source.
 - [James Cook's Bills Rushing Workload Surge](james_cook_bills_rushing_workload_surge.md): also covers Latavius Murray's role in Buffalo, in a different document.
+- [Bills At Bengals Broadcast Details](bills_bengals_snf_broadcast_details.md): same source document (doc_0294)
+- [The First Quarter Of Bengals 24, Bills 18](bills_bengals_snf_first_quarter.md): same source document (doc_0294)
+- [Pregame Notes From Bills At Bengals](bills_bengals_snf_pregame_notes.md): same source document (doc_0294)
+- [Bengals 24, Bills 18 On Sunday Night Football](bills_bengals_snf_result_and_recap.md): same source document (doc_0294)
+- [The Second Quarter Of Bengals 24, Bills 18](bills_bengals_snf_second_quarter.md): same source document (doc_0294)
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

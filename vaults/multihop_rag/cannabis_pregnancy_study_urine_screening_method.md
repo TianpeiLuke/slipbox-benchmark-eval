@@ -11,6 +11,7 @@ The participants were originally recruited between 2010 and 2013 for a long-term
 
 ## Related Notes
 
+
 - [Limitations of the UBC GLP-1 Claims Analysis](limitations_of_the_ubc_glp1_claims_analysis.md): another study whose conclusions turn on how its records were assembled.
 - [Adapting the Mediterranean Lifestyle to Other Cultures](adapting_the_mediterranean_lifestyle_to_other_cultures.md): from the same diet-and-health group of sources.
 - [The Mediterranean Lifestyle Defined](mediterranean_lifestyle_definition.md): from the same diet-and-health group of sources.
@@ -19,6 +20,7 @@ The participants were originally recruited between 2010 and 2013 for a long-term
 - [Cannabis Exposure and Placental Dysfunction](cannabis_exposure_and_placental_dysfunction.md): from the same article, on the mechanism behind the outcomes recorded.
 - [Cannabis Use and the Stillbirth Association](cannabis_use_and_stillbirth_association.md): from the same article, on one of the outcomes tracked.
 - [Cannabis Use in Pregnancy: JAMA Study Findings](cannabis_use_in_pregnancy_jama_study_findings.md): from the same article, reporting what this method found.
+- [Limits of the Cannabis Pregnancy Causal Claim](limits_of_the_cannabis_pregnancy_causal_claim.md): same source document (doc_0604)
 
 ## Source
 

@@ -13,6 +13,7 @@ The state boundaries are explicit: the Second Chance Bet is worth up to $100 for
 
 ## Related Notes
 
+
 - [Bet365 Bonus Code TSNCO Offer](bet365_bonus_code_tsnco_offer.md): a parallel promo-code welcome offer, from a different document.
 - [BetMGM Bonus Code TSN50 First Bet Offer](betmgm_bonus_code_tsn50_first_bet_offer.md): another code-driven account registration offer, from a different document.
 - [BetMGM Vermont Welcome Offer Tradeoffs](betmgm_vermont_welcome_offer_tradeoffs.md): overlaps on second-chance style bonus structures, from a different document.
@@ -21,6 +22,8 @@ The state boundaries are explicit: the Second Chance Bet is worth up to $100 for
 - [Bet365 Welcome Bonus Offers December 2023](bet365_welcome_bonus_offers_december_2023.md): a sibling offer in the same roundup (doc_0202).
 - [BetMGM First Bet Bonus Offer December 2023](betmgm_first_bet_bonus_offer_december_2023.md): a sibling offer in the same roundup (doc_0202).
 - [Caesars Sportsbook First Bet Offer December 2023](caesars_sportsbook_first_bet_offer_december_2023.md): a sibling offer in the same roundup (doc_0202).
+- [Claiming DraftKings' Three Welcome Offers Worth Up To $1,200](draftkings_sportsbook_welcome_offers_december_2023.md): same source document (doc_0202)
+- [Playoff Stakes Of The Eagles-Seahawks Monday Night Football Game](eagles_seahawks_week_15_mnf_playoff_stakes.md): same source document (doc_0202)
 
 ## Source
 

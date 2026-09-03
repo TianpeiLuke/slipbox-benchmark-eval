@@ -15,11 +15,21 @@ Space black is the new color, and its distinguishing property is fingerprint res
 
 ## Related Notes
 
+
 - [Apple M3 Mac Reviews and Chip Lineup](apple_m3_mac_reviews_and_chip_lineup.md): substantial content overlap on inch, macbook, apple, from a different source document.
 - [Apple MacBook Air 15 Inch M2](apple_macbook_air_15_inch_m2.md): substantial content overlap on inch, macbook, laptops, from a different source document.
 - [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): also covers Apple Store, from a different source document.
 - [Apple Store Credit and Gift Card Promotion November 2023](apple_store_credit_and_gift_card_promotion_november_2023.md): also covers Apple Store, from a different source document.
 - [Backbone One Mobile Controller Deal](backbone_one_mobile_controller_deal.md): shares the battery life and charging and streaming service theme, from a different source document.
+- [Apple M3 Chip Architecture And GPU Features](apple_m3_chip_architecture_and_gpu_features.md): same source document (doc_0526)
+- [Apple Silicon Chip Naming And Relative Performance](apple_silicon_chip_naming_and_relative_performance.md): same source document (doc_0526)
+- [The M3 MacBook Pro Lineup And Its Configurations](m3_macbook_pro_lineup_and_configurations.md): same source document (doc_0526)
+- [M3 Max Benchmark Results](m3_max_benchmark_results.md): same source document (doc_0526)
+- [M3 Max Gaming Performance On macOS](m3_max_gaming_performance_on_macos.md): same source document (doc_0526)
+- [Cloud Computing](term_cloud_computing.md): uses the concept cloud computing
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

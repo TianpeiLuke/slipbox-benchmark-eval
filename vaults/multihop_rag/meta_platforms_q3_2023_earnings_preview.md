@@ -13,11 +13,18 @@ The preview also noted that Alphabet's unit Google, Meta Platforms and Apple had
 
 ## Related Notes
 
+
 - [Broadcom Q4 FY2023 Earnings Preview and VMware Integration](broadcom_q4_fy2023_earnings_preview_and_vmware_integration.md): the same consensus-estimate and earnings-insight preview format.
 - [DocuSign Q3 FY2024 Earnings Preview](docusign_q3_fy2024_earnings_preview.md): the same Quant Rating and consensus-estimate preview format.
 - [GameStop Q3 FY2023 Earnings Preview](gamestop_q3_fy2023_earnings_preview.md): the same preview format for another company.
 - [GitLab Q3 FY2024 Earnings Preview](gitlab_q3_fy2024_earnings_preview.md): the same preview format for another company.
 - [Hello Group (Momo) Q3 2023 Earnings Preview](hello_group_momo_q3_2023_earnings_preview.md): the same preview format for another company.
+- [Alphabet Q3 2023 Earnings Preview](alphabet_q3_2023_earnings_preview.md): same source document (doc_0338)
+- [Amazon Q3 2023 Earnings Preview](amazon_q3_2023_earnings_preview.md): same source document (doc_0338)
+- [Boeing Q3 2023 Earnings Preview and 737 MAX Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): same source document (doc_0338)
+- [Chevron and Exxon Mobil Q3 2023 Earnings Preview](chevron_and_exxon_mobil_q3_2023_earnings_preview.md): same source document (doc_0338)
+- [Cleveland-Cliffs Q3 2023 Earnings Preview](cleveland_cliffs_q3_2023_earnings_preview.md): same source document (doc_0338)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

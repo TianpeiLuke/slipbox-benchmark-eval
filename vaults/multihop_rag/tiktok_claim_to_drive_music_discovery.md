@@ -11,6 +11,7 @@ The stated motive for commissioning the research was to move beyond the anecdota
 
 ## Related Notes
 
+
 - [Believe Marketing Playbook for Si No Estas](believe_marketing_playbook_for_si_no_estas.md): shares vocabulary around tiktok, music and global, from a different source document.
 - [Global Hits Without Major Label Deals](global_hits_without_major_label_deals.md): overlaps on Billboard Hot 100 breakthroughs, from a different source document.
 - [Ice Spice Breakout and Capitol 10k Partnership](ice_spice_breakout_and_capitol_10k_partnership.md): also discusses Billboard Hot, from a different source document.
@@ -19,6 +20,8 @@ The stated motive for commissioning the research was to move beyond the anecdota
 - [Luminate TikTok Music Study 2023](luminate_tiktok_music_study_2023.md): the commissioned research this claim rests on (doc_0363).
 - [Tiktok Bans and Bytedance Data Concerns](tiktok_bans_and_bytedance_data_concerns.md): another note drawn from the same source document (doc_0363).
 - [Tiktok Glocalization of International Music](tiktok_glocalization_of_international_music.md): another note drawn from the same source document (doc_0363).
+- [TikTok Users' Music Discovery And Sharing Rates](tiktok_music_discovery_and_sharing_rates.md): same source document (doc_0363)
+- [TikTok's Expansion Into Music Services](tiktok_music_services_expansion.md): same source document (doc_0363)
 
 ## Source
 

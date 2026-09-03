@@ -13,9 +13,16 @@ The catalysts behind the six-year outperformance were the launch of Jio's data s
 
 ## Related Notes
 
+
 - [Bharti Airtel EV/EBITDA Valuation Case](bharti_airtel_ev_ebitda_valuation_case.md): a comparable Indian stock valuation case built on CAGR and multiples.
 - [Leverage Amplifies EV Change on Equity Value](leverage_amplifies_ev_change_on_equity_value.md): the valuation mechanics behind such stock re-ratings.
 - [NTPC Stock Re-Rating and Accumulate Call](ntpc_stock_rerating_and_accumulate_call.md): another Indian large-cap re-rating argument.
+- [Reliance Green Energy Investment Programme](reliance_green_energy_investment_programme.md): same source document (doc_0253)
+- [Reliance Industries Sum-of-the-Parts Valuation Case](reliance_industries_sum_of_the_parts_valuation_case.md): same source document (doc_0253)
+- [Reliance Jio Telecom Growth Outlook](reliance_jio_telecom_growth_outlook.md): same source document (doc_0253)
+- [Reliance O2C and Exploration Business Economics](reliance_o2c_and_exploration_business_economics.md): same source document (doc_0253)
+- [Reliance Retail Ventures Store Expansion](reliance_retail_ventures_store_expansion.md): same source document (doc_0253)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

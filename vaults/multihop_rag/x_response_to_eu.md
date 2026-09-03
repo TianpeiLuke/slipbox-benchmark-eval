@@ -11,12 +11,17 @@ The company gave the press nothing comparable. TechCrunch contacted X for a resp
 
 ## Related Notes
 
+
 - [X's Response To The EU DSA Investigation](x_response_to_eu_dsa_investigation.md): another account of Linda Yaccarino answering EU regulators, from a different source document.
 - [X Post Volume Discrepancy](x_post_volume_discrepancy.md): also turns on figures Linda Yaccarino gave about content on the platform, from a different source document.
 - [The Digital Services Act](digital_services_act.md): the rulebook whose compliance is at issue in this response, drawn from the same source document (doc_0024).
 - [X's Bot Countermeasures](x_bot_countermeasures.md): another company response to a platform-integrity demand, from a different source document in the same batch.
 - [X's Competitive Position](x_competitive_position.md): the commercial backdrop to X's dealings with regulators, from a different source document in the same batch.
 - [Objections To X's $1 Bot Fee](objections_to_x_bot_fee.md): outside criticism of another X policy answer, from a different source document in the same batch.
+- [Disinformation On X After The Hamas Attacks On Israel](disinformation_on_x_gaza.md): same source document (doc_0025)
+- [EU Enforcement Steps Against X Over DSA Compliance](eu_enforcement_against_x.md): same source document (doc_0025)
+- [The EU's Urgent Warning Letter To X](eu_warning_letter_to_x.md): same source document (doc_0025)
+- [EU Warnings To Other Platforms](eu_warnings_to_other_platforms.md): same source document (doc_0024)
 
 ## Source
 

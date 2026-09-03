@@ -11,9 +11,18 @@ For anyone interested in mechanical keyboards but unsure where to start, the NZX
 
 ## Related Notes
 
+
 - [Chromecast With Google TV 4K](chromecast_with_google_tv_4k.md): overlapping coverage of favorite high-end peripherals, from a different source document.
 - [Kids' Maker And DIY Kit Gifts 2023](kids_maker_and_diy_kit_gifts_2023.md): overlapping coverage of hot-swappable mechanical keyboards, from a different source document.
 - [WIRED Black Friday 2023 Mac Keyboard Deals](wired_black_friday_2023_mac_keyboard_deals.md): overlapping coverage of keyboard switches and loudness, from a different source document.
+- [Anker's Early Black Friday Charger Sale](anker_prime_early_black_friday_charger_sale.md): same source document (doc_0527)
+- [Google Pixel Buds A-Series Deal Listings](google_pixel_buds_a_series_deal_listings.md): same source document (doc_0527)
+- [Samsung Galaxy Buds 2 Deal Listings](samsung_galaxy_buds_2_deal_listings.md): same source document (doc_0527)
+- [Samsung Galaxy Buds 2 Pro Deal Prices](samsung_galaxy_buds_2_pro_deal.md): same source document (doc_0527)
+- [WIRED's Pre-Black Friday Gaming Mouse Deals](wired_november_2023_gaming_mouse_deals.md): same source document (doc_0527)
+- [WIRED's Pre-Black Friday TV And Soundbar Deals](wired_november_2023_tv_and_soundbar_deals.md): same source document (doc_0527)
+- [WIRED's Pre-Black Friday 2023 Deal Window](wired_pre_black_friday_2023_deal_window.md): same source document (doc_0527)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

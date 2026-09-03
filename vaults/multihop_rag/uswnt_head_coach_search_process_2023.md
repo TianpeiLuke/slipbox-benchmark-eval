@@ -13,11 +13,19 @@ Two further details are recorded. The federation had also checked in on the avai
 
 ## Related Notes
 
+
 - [Belgium-England Second Half And The Wullaert Penalty](belgium_england_second_half_and_wullaert_penalty.md): also discusses Sarina Wiegman, whose availability was checked here, from a different document.
 - [Dean Evason's Coaching Career Path](dean_evason_coaching_career_path.md): another coaching-change process, from a different document.
 - [Eddie Jones Denies Japan Head Coach Talks](eddie_jones_denies_japan_head_coach_talks.md): another coaching search conducted in public, from a different document.
 - [England Lionesses' Defensive Brittleness And Dropped Points](england_lionesses_defensive_brittleness_and_dropped_points.md): also discusses Sarina Wiegman's England, from a different document.
 - [England Lionesses' Olympic Qualification Heartbreak](england_lionesses_olympic_qualification_heartbreak.md): also discusses Sarina Wiegman, from a different document.
+- [The Benefits Of Hayes' Delayed USWNT Start](benefits_of_hayes_delayed_uswnt_start.md): same source document (doc_0108)
+- [Chelsea's Early Announcement Of Hayes' Departure](chelsea_early_announcement_of_hayes_departure.md): same source document (doc_0108)
+- [Chelsea Players' Reaction To Hayes' Departure](chelsea_players_reaction_to_hayes_departure.md): same source document (doc_0108)
+- [Chelsea Women's Team Succession After Hayes](chelsea_womens_team_succession_after_hayes.md): same source document (doc_0108)
+- [Emma Hayes Appointed USWNT Head Coach](emma_hayes_appointed_uswnt_head_coach.md): same source document (doc_0108)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

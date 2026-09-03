@@ -13,12 +13,17 @@ The line's rationale is experience rather than statistics. There isn't a ton sep
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): covers where Louisville ended up at season's end, from a different document.
 - [Alabama's CFP-Preferred Championship Weekend Scenarios](alabama_cfp_preferred_championship_weekend_scenarios.md): also discusses Ohio State, the team that beat Notre Dame here, from a different document.
 - [Alabama-Texas SEC Selection Dilemma 2023](alabama_texas_sec_selection_dilemma_2023.md): also discusses Ohio State, from a different document.
 - [Big Ten Conference Scandal Run 2023](big_ten_conference_scandal_run_2023.md): also discusses Ohio State, from a different document.
 - [Big Ten Suspension Of Jim Harbaugh](big_ten_suspension_of_jim_harbaugh.md): also discusses Ohio State, from a different document.
 - [The College Football Week 6 2023 Ranked Matchup Slate](college_football_week6_2023_ranked_matchup_slate.md): places this fixture in the week's four ranked games, from the same preview.
+- [Alabama At Texas A&M: The 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): same source document (doc_0259)
+- [The Remaining College Football Week 6 2023 Betting Lines](college_football_week6_2023_remaining_betting_lines.md): same source document (doc_0259)
+- [Kentucky At Georgia: The 2023 Week 6 Betting Line](kentucky_at_georgia_2023_week6_betting_line.md): same source document (doc_0259)
+- [LSU At Missouri: The 2023 Week 6 Betting Line](lsu_at_missouri_2023_week6_betting_line.md): same source document (doc_0259)
 
 ## Source
 

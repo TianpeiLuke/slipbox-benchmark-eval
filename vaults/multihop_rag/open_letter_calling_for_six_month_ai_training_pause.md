@@ -13,6 +13,7 @@ The warrant that joins those grounds to the demand for a pause is a claim about 
 
 ## Related Notes
 
+
 - [AI Development Moratorium Open Letter](ai_development_moratorium_open_letter.md): also covers Elon Musk, Steve Wozniak, from a different source document.
 - [ChatGPT Misuse Fears versus Observed Abuse](chatgpt_misuse_fears_versus_observed_abuse.md): also covers Elon Musk, Steve Wozniak, from a different source document.
 - [Cybertruck Bed Size and Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): also covers Elon Musk, from a different source document.
@@ -21,6 +22,8 @@ The warrant that joins those grounds to the demand for a pause is a claim about 
 - [ChatGPT Adoption Milestones and Usage Statistics](chatgpt_adoption_milestones_and_usage_statistics.md): drawn from the same source document, doc_0048.
 - [ChatGPT Competitors and Alternatives](chatgpt_competitors_and_alternatives.md): drawn from the same source document, doc_0048.
 - [ChatGPT Custom Instructions and File Analysis](chatgpt_custom_instructions_and_file_analysis.md): drawn from the same source document, doc_0048.
+- [ChatGPT FAQ: Basics And Definitions](chatgpt_faq_basics_and_definitions.md): same source document (doc_0048)
+- [ChatGPT FAQ: Capabilities And Limits](chatgpt_faq_capabilities_and_limits.md): same source document (doc_0048)
 
 ## Source
 

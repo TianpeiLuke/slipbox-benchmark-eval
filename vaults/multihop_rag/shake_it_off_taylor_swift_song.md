@@ -13,12 +13,18 @@ The video's premise came from real criticism of her dancing. "When I'm at award 
 
 ## Related Notes
 
+
 - [American Pie Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): another Taylor Swift story from a different document
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also covers media treatment of Taylor Swift, from a separate source
 - [Biggest Concert Films Box Office Records](biggest_concert_films_box_office_records.md): another Taylor Swift item from a different document
 - [Britney Spears Music Making From Baby One More Time To Blackout](britney_spears_music_making_from_baby_one_more_time_to_blackout.md): also covers producer Max Martin, in a different document
 - [Chiefs Beat Jets Week 4 Sunday Night Recap](chiefs_beat_jets_week_4_sunday_night_recap.md): mentions Taylor Swift in a different news context
 - [All You Had To Do Was Stay](all_you_had_to_do_was_stay_taylor_swift_song.md): another 1989 track from the same BBC article
+- [Bad Blood, The Katy Perry Feud And Rolling Stone's Last Place](bad_blood_taylor_swift_katy_perry_feud.md): same source document (doc_0257)
+- [Blank Space As Satire Of The "Psycho Serial Dater" Caricature](blank_space_taylor_swift_song.md): same source document (doc_0257)
+- [Clean: The Imogen Heap Collaboration That Closed 1989](clean_taylor_swift_song_imogen_heap.md): same source document (doc_0257)
+- [How You Get The Girl As A Step-By-Step Reconciliation Tutorial](how_you_get_the_girl_taylor_swift_song.md): same source document (doc_0257)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

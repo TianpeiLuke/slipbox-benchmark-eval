@@ -13,9 +13,17 @@ From May onward: May 2-5 AT&T Byron Nelson; May 9-12 Wells Fargo Championship; M
 
 ## Related Notes
 
+
 - [Alabama 2023 Strength of Schedule and Record Metrics](alabama_2023_strength_of_schedule_and_record_metrics.md): another schedule-and-championship listing.
 - [FedEx 2023 Holiday Shipping Deadlines](fedex_2023_holiday_shipping_deadlines.md): shares the FedEx name across an unrelated subject.
 - [NBA 2023-24 Season Calendar](nba_2023_24_season_calendar.md): the equivalent season calendar for basketball.
+- [Betting The Other Majors And Team Golf Events](betting_on_golf_majors_and_team_events.md): same source document (doc_0207)
+- [The Bet Types Available In Golf Betting](golf_betting_bet_types_explained.md): same source document (doc_0207)
+- [How To Open A Sportsbook Account, Download The App, And Place A Bet](how_to_open_a_sportsbook_account_and_place_a_bet.md): same source document (doc_0207)
+- [Live In-Play Golf Betting](live_in_play_golf_betting.md): same source document (doc_0207)
+- [Betting The Masters: Markets And The Augusta National Factors](masters_betting_markets_and_augusta_national_factors.md): same source document (doc_0207)
+- [The Four Recommended Sportsbook Apps: DraftKings, FanDuel, BetMGM, Caesars](sportsbook_app_rankings_draftkings_fanduel_betmgm_caesars.md): same source document (doc_0207)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

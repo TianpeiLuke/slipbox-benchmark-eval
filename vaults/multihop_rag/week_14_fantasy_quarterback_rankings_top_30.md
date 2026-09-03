@@ -11,6 +11,7 @@ The full order was: 1 Josh Allen, Bills at Chiefs; 2 Tua Tagovailoa, Dolphins vs
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also covers Brock Purdy, from a different document.
 - [49ers Rout Cowboys, Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): also covers Brock Purdy and Dak Prescott, from a different document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers Joe Flacco, from a different document.
@@ -19,6 +20,8 @@ The full order was: 1 Josh Allen, Bills at Chiefs; 2 Tua Tagovailoa, Dolphins vs
 - [Week 14 Fantasy Quarterback Busts](week_14_fantasy_quarterback_busts.md): the bust warnings behind some of these ranks, from the same document.
 - [The Week 14 Fantasy Quarterback Landscape](week_14_fantasy_quarterback_landscape.md): the same column's framing of the week, from the same document.
 - [Week 14 Fantasy Quarterback Streamers and Sleepers](week_14_fantasy_quarterback_streamers.md): the streaming picks drawn from this list, from the same document.
+- [Week 14 Quarterback Byes: Murray And Howell](week_14_quarterback_byes_murray_and_howell.md): same source document (doc_0553)
+- [Week 14 Quarterback Injury Report](week_14_quarterback_injury_report.md): same source document (doc_0553)
 
 ## Source
 

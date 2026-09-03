@@ -11,11 +11,21 @@ The controller is a refined version of Microsoft's Xbox One wireless model, with
 
 ## Related Notes
 
+
 - [8BitDo USB Adapter 2](8bitdo_usb_adapter_2.md): same source; the $19.99 accessory that extends this controller to Switch, Mac and Raspberry Pi.
 - [8BitDo Arcade Stick For Xbox Series X](8bitdo_arcade_stick_for_xbox_series_x.md): another Xbox-compatible input device, from a different source document.
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
 - [Amazon Echo Buds 2023](amazon_echo_buds_2023.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): shares the battery_life_and_charging, battery_technology topic tags, from a different source document.
+- [Amnesia: The Bunker](amnesia_the_bunker.md): both discuss Xbox One; different source document
+- [8BitDo Ultimate 2.4G Controller](8bitdo_ultimate_2_4g_controller.md): same source document (doc_0236)
+- [8BitDo Ultimate Bluetooth Hall Effect Controller](8bitdo_ultimate_bluetooth_hall_effect_controller.md): same source document (doc_0236)
+- [Setting Up A DualSense On PC](dualsense_pc_setup_steaminput_and_ds4windows.md): same source document (doc_0236)
+- [Nintendo Switch Pro Controller](nintendo_switch_pro_controller.md): same source document (doc_0236)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

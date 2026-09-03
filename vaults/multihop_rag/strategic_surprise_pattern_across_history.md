@@ -11,6 +11,7 @@ The irony is sharpened by timing: in the months leading up to October 7, former 
 
 ## Related Notes
 
+
 - [Afc 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md): also discusses Middle East, from a different source document.
 - [Cairo Diplomatic Surge and Summit for Peace 2023](cairo_diplomatic_surge_and_summit_for_peace_2023.md): another Middle East strategic development, from a different source document.
 - [Cristiano Ronaldo Al Nassr Move and 2023 Goal Tally](cristiano_ronaldo_al_nassr_move_and_2023_goal_tally.md): also discusses Middle East, from a different source document.
@@ -19,6 +20,8 @@ The irony is sharpened by timing: in the months leading up to October 7, former 
 - [Berlin Wall Low Tech Defense Lesson](berlin_wall_low_tech_defense_lesson.md): another note drawn from the same source document (doc_0078).
 - [Gaza Border Barrier Construction](gaza_border_barrier_construction.md): another note drawn from the same source document (doc_0078).
 - [IDF Small and Smart Army Doctrine](idf_small_and_smart_army_doctrine.md): another note drawn from the same source document (doc_0078).
+- [The Iron Dome's Strategic Paradox](iron_dome_strategic_paradox.md): same source document (doc_0078)
+- [What Israeli Leaders Claimed The Gaza Barrier Would Do](israeli_leaders_claims_about_the_gaza_barrier.md): same source document (doc_0078)
 
 ## Source
 

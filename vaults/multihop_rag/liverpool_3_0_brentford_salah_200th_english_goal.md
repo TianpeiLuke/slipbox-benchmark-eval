@@ -11,11 +11,19 @@ The Reds broke the deadlock after two earlier efforts were disallowed by VAR. On
 
 ## Related Notes
 
+
 - [Arsenal 2-1 Win At Sevilla Group B](arsenal_2_1_win_at_sevilla_group_b.md): also concerns European competition, from a different document.
 - [Carabao Cup 2023-24 Semi-Final Draw And Fixtures](carabao_cup_2023_24_semifinal_draw_and_fixtures.md): also concerns Liverpool at Anfield, from a different document.
 - [Champions League 2023-24 Group B Arsenal PSV](champions_league_2023_24_group_b_arsenal_psv.md): also concerns European competition, from a different document.
 - [Champions League 2023-24 Group C Real Madrid Napoli](champions_league_2023_24_group_c_real_madrid_napoli.md): also concerns European competition, from a different document.
 - [Champions League 2023-24 Group E Atletico Lazio](champions_league_2023_24_group_e_atletico_lazio.md): also concerns European competition, from a different document.
+- [Chelsea 4-4 Manchester City Stamford Bridge](chelsea_4_4_manchester_city_stamford_bridge.md): same source document (doc_0142)
+- [Cole Palmer Stoppage-Time Penalty Vs Manchester City](cole_palmer_stoppage_time_penalty_vs_manchester_city.md): same source document (doc_0142)
+- [Guardiola Reaction To Chelsea City Draw](guardiola_reaction_to_chelsea_city_draw.md): same source document (doc_0142)
+- [Pochettino Reaction To Chelsea City Draw](pochettino_reaction_to_chelsea_city_draw.md): same source document (doc_0142)
+- [Premier League Standings And Other Results November 2023](premier_league_standings_and_other_results_november_2023.md): same source document (doc_0142)
+- [Premier League](term_premier_league.md): uses the concept premier league
+- [Actors and Writers Strike](term_actors_and_writers_strike.md): uses the concept actors and writers strike
 
 ## Source
 

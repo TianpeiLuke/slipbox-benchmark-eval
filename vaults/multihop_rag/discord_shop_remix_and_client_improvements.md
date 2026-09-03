@@ -13,11 +13,19 @@ On the client side, the company spent much of the last year improving its Androi
 
 ## Related Notes
 
+
 - [Apple AirPods Pro, Second Generation](apple_airpods_pro_second_generation.md): shares the battery-life and product-update theme, from a different source document.
 - [Google Pixel Buds Pro](google_pixel_buds_pro.md): shares the battery-life and product-update theme, from a different source document.
 - [Google Pixel Watch First Generation Deal](google_pixel_watch_first_gen_deal.md): shares the battery-life and product-update theme, from a different source document.
 - [IMF Assessment Of India And Global Growth Divergence](imf_assessment_of_india_and_global_growth_divergence.md): shares a subscription-and-pricing theme tag, from a different source document.
 - [India Nominal GDP Forecast To 2030](india_nominal_gdp_forecast_to_2030.md): shares a subscription-and-pricing theme tag, from a different source document.
+- [Scrutiny Of Discord's CSAM Response After The NBC News Report](discord_csam_scrutiny_after_nbc_news_report.md): same source document (doc_0505)
+- [Discord's Graduated Warning System And Account Standing](discord_graduated_warning_system_and_account_standing.md): same source document (doc_0505)
+- [Discord Premium App Subscriptions And App Portability](discord_premium_app_subscriptions_and_app_portability.md): same source document (doc_0505)
+- [Discord Teen Safety Assist](discord_teen_safety_assist.md): same source document (doc_0505)
+- [Usage-Based Pricing](term_usage_based_pricing.md): uses the concept usage based pricing
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

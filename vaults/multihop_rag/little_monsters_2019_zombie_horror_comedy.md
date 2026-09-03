@@ -11,6 +11,7 @@ The comic complication is that the petting zoo sits right next to a US Army base
 
 ## Related Notes
 
+
 - [The Quiet Year Map Drawing Game](the_quiet_year_map_drawing_game.md): a similarity-index neighbour matching on shared vocabulary, topically unrelated
 - [Us 2019 Jordan Peele Film](us_2019_jordan_peele_film.md): another horror write-up featuring Lupita Nyong'o
 - [Book Club 2018 Romantic Comedy](book_club_2018_romantic_comedy.md): another pick from the same Polygon guide
@@ -19,6 +20,8 @@ The comic complication is that the petting zoo sits right next to a US Army base
 - [Clueless 1995 Teen Comedy Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): another comedy from the same guide
 - [Coming To America 1988 Eddie Murphy Comedy](coming_to_america_1988_eddie_murphy_comedy.md): another entry in the same guide
 - [Don't Go Breaking My Heart 2011 Johnnie To Romcom](dont_go_breaking_my_heart_2011_johnnie_to_romcom.md): another international pick from the same guide
+- [Eega (2012): S.S. Rajamouli's Slapstick Revenge Comedy](eega_2012_rajamouli_revenge_comedy.md): same source document (doc_0597)
+- [I Married A Witch (1942): René Clair's Romantic Comedy](i_married_a_witch_1942_rene_clair_comedy.md): same source document (doc_0597)
 
 ## Source
 

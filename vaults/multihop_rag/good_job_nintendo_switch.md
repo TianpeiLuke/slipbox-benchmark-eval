@@ -13,6 +13,7 @@ In this isometric game you are given a list of tasks — like bringing a project
 
 ## Related Notes
 
+
 - [Captain Toad: Treasure Tracker](captain_toad_treasure_tracker.md): another pick from the same couch co-op roundup
 - [Cat Quest 2](cat_quest_2.md): a fellow entry in the same Switch co-op article
 - [Crypt of the NecroDancer](crypt_of_the_necrodancer.md): another local co-op recommendation from the same document
@@ -21,6 +22,8 @@ In this isometric game you are given a list of tasks — like bringing a project
 - [Escape Academy](escape_academy.md): another puzzle-focused co-op pick in the same list
 - [Kirby and the Forgotten Land](kirby_and_the_forgotten_land.md): another Nintendo co-op title from the same article
 - [Lego Star Wars: The Skywalker Saga](lego_star_wars_the_skywalker_saga.md): another co-op entry in the same roundup
+- [Lovers in a Dangerous Spacetime](lovers_in_a_dangerous_spacetime.md): same source document (doc_0428)
+- [Luigi's Mansion 3](luigis_mansion_3.md): same source document (doc_0428)
 
 ## Source
 

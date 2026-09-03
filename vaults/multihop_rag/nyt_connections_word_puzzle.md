@@ -13,11 +13,18 @@ The game offers a grid of 16 words and a mission: detect the common threads betw
 
 ## Related Notes
 
+
 - [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): another write-up by the same critic, Matt Patches, from a different source document
 - [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): another Matt Patches piece in a separate article
 - [Malignant (2021, James Wan)](malignant_2021_james_wan_film.md): shares the same bylined critic across documents
 - [Alan Wake 2](alan_wake_2.md): another game ranked in the same best-of-2023 article
 - [Amnesia: The Bunker](amnesia_the_bunker.md): a fellow entry on the same ranked list
+- [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): same source document (doc_0213)
+- [Baldur's Gate 3](baldurs_gate_3.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Chants of Sennaar](chants_of_sennaar.md): same source document (doc_0213)
+- [Cocoon (Geometric Interactive)](cocoon_geometric_interactive.md): same source document (doc_0213)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

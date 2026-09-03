@@ -11,11 +11,18 @@ The necessary context is Ulmer's career. He was a prolific director in the Class
 
 ## Related Notes
 
+
 - [Alone (2020)](alone_2020_john_hyams_film.md): another film write-up by the same critic, Pete Volk, from a different source document.
 - [Apple 2023 Top iPad Apps and Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): also covers Prime Video, from a different source document.
 - [Bears Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): also covers Prime Video, from a different source document.
 - [Broadcast Rights Limits on Twitch Sports Streams](broadcast_rights_limits_on_twitch_sports_streams.md): also covers Prime Video, from a different source document.
 - [Catherine Called Birdy 2022 Lena Dunham Comedy](catherine_called_birdy_2022_lena_dunham_comedy.md): also covers Prime Video, from a different source document.
+- [Bad Times At The El Royale (2018)](bad_times_at_the_el_royale_2018.md): same source document (doc_0327)
+- [Blood Simple (1984)](blood_simple_1984.md): same source document (doc_0327)
+- [Born To Kill (1947)](born_to_kill_1947.md): same source document (doc_0327)
+- [Brick (2005)](brick_2005_rian_johnson.md): same source document (doc_0327)
+- [Double Indemnity (1944)](double_indemnity_1944.md): same source document (doc_0327)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

@@ -11,6 +11,7 @@ These developments encourage an optimistic outlook on the ability to quantify th
 
 ## Related Notes
 
+
 - [Chelsea-Arsenal Derby Team News, October 2023](chelsea_arsenal_derby_team_news_october_2023.md): shares South America among the regions it mentions.
 - [Deontay Wilder's Comeback After the Fury Trilogy](deontay_wilder_comeback_after_fury_trilogy.md): shares South America as a place referenced.
 - [Rising Shipping Costs, Canals and Decarbonization](rising_shipping_costs_canals_and_decarbonization.md): shares South America and a climate-related subject.
@@ -19,6 +20,8 @@ These developments encourage an optimistic outlook on the ability to quantify th
 - [Coupled Models Fail to Reproduce Observed Warming Patterns](coupled_models_fail_to_reproduce_observed_warming_patterns.md): from the same article, on the biases these observations could diagnose.
 - [Equilibrium Climate Sensitivity and Its Uncertainty](equilibrium_climate_sensitivity_and_its_uncertainty.md): from the same article, on the uncertainty they aim to reduce.
 - [Evaluating Model Pattern Bias with Cloud-Resolving Models](evaluating_model_pattern_bias_with_cloud_resolving_models.md): from the same article, on the high-resolution modelling opportunity.
+- [Feedback Dependence on Global Mean Temperature](feedback_dependence_on_global_mean_temperature.md): same source document (doc_0139)
+- [Historical Warming Does Not Bound Climate Sensitivity](historical_warming_does_not_bound_climate_sensitivity.md): same source document (doc_0139)
 
 ## Source
 

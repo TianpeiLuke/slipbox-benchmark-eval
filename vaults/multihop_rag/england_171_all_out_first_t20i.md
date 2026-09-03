@@ -11,6 +11,7 @@ Tymal Mills got a gossamer-thin edge through to Pooran to end the innings, compl
 
 ## Related Notes
 
+
 - [Broncos Fourth Quarter Comeback and Ryland Game Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): another late-collapse turnaround account, from a different document.
 - [England 132 All Out in the T20 Series Decider](england_132_all_out_t20_series_decider.md): another England collapse against West Indies in the same series, from a different document.
 - [First ODI, Cricket World Cup 1975](first_odi_cricket_world_cup_1975.md): also covers West Indies, from a different document.
@@ -19,6 +20,8 @@ Tymal Mills got a gossamer-thin edge through to Pooran to end the innings, compl
 - [Adil Rashid T20I Milestones and Series Form](adil_rashid_t20i_milestones_and_series_form.md): covers the England bowler dismissed here across the series, from a different document.
 - [Andre Russell's Comeback in the First T20I](andre_russell_comeback_first_t20i.md): covers the bowler who took three of these wickets, from the same document.
 - [First T20I in Barbados: Match Summary](first_t20i_barbados_match_summary.md): places this innings in the whole match, from the same document.
+- [The Rain Delay And DLS Position In The First T20I](rain_delay_and_dls_position_first_t20i.md): same source document (doc_0063)
+- [Rehan Ahmed And Adil Rashid Through The Middle Overs](rehan_ahmed_and_rashid_middle_overs_first_t20i.md): same source document (doc_0063)
 
 ## Source
 

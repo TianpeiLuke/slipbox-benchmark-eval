@@ -11,11 +11,22 @@ Elsewhere, the Sonos Roam portable speaker was down to $134 from its usual $179,
 
 ## Related Notes
 
+
 - [Amazon Echo Speaker Black Friday Sale](amazon_echo_speaker_black_friday_sale.md): same source document; the Echo Studio comparison Engadget makes against the Era 100.
 - [Amazon Echo Show Black Friday Sale](amazon_echo_show_black_friday_sale.md): same source document; the smart display deals alongside.
 - [Anker Soundcore Space Q45 Deal](anker_soundcore_space_q45_deal.md): shares Black Friday audio-discount coverage, from a different source document.
 - [Apple MacBook Air 15-Inch M2](apple_macbook_air_15_inch_m2.md): shares discount-and-MSRP framing for hardware, from a different source document.
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): shares seasonal-discount framing, from a different source document.
+- [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares black_friday_cyber_monday, discount_and_msrp, hardware_device; different source document
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): shares appeals_process, black_friday_cyber_monday; different source document
+- [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): same source document (doc_0222)
+- [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): same source document (doc_0222)
+- [Anker Soundcore Space A40 Earbuds Deal Prices](anker_soundcore_space_a40_earbuds.md): same source document (doc_0222)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
+- [Hardware Device](term_hardware_device.md): uses the concept hardware device
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
+- [Smart Home Device](term_smart_home_device.md): uses the concept smart home device
 
 ## Source
 

@@ -11,11 +11,19 @@ Bet insurance: get a refund if you lose a specific bet or your parlay comes up o
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also discusses the Super Bowl, one of the special events named here, from a different source document.
 - [Adolis Garcia Oblique Injury 2023 World Series](adolis_garcia_oblique_injury_2023_world_series.md): also concerns the World Series, named here as a special event market, from a different source document.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): another bet-type explainer that also covers the Super Bowl, from a different source document.
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): also concerns the World Series, from a different source document.
 - [Backlash to the Astros Cheating Scandal](backlash_to_the_astros_cheating_scandal.md): also concerns the World Series, from a different source document.
+- [How BetMGM Sportsbook's Up-To-$1,500 First Bet Offer Would Work In Vermont](betmgm_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [BetMGM's Vermont Offer Is The Most Generous "Second Chance" — If You Lose First](betmgm_vermont_welcome_offer_tradeoffs.md): same source document (doc_0072)
+- [How BetRivers Sportsbook's Up-To-$500 Second Chance Offer Works](betrivers_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [How Caesars Sportsbook's Up-To-$1,000 First Bet Offer Would Work In Vermont](caesars_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [How To Claim DraftKings Sportsbook Vermont's Prelive Or Multi-Part Welcome Offer](draftkings_vermont_sportsbook_welcome_offer.md): same source document (doc_0072)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
 
 ## Source
 

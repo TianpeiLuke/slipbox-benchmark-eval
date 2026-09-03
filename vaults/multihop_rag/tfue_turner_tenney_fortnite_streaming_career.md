@@ -15,11 +15,19 @@ Polygon presents his arc as a summary of gaming's biggest growing pains during t
 
 ## Related Notes
 
+
 - [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares the layoffs and restructuring topic tags despite unrelated subject matter
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): both discuss Epic Games, from a different source document
 - [Brave Software Layoffs](brave_software_layoffs.md): shares the layoffs topic tags from a separate article
 - [CollegeHumor, IAC Layoffs and Sale to Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares layoffs tags from a different document
 - [Consolidation Leaves Studios Vulnerable to Bulk Layoffs](consolidation_leaves_studios_vulnerable_to_bulk_layoffs.md): covers the games-industry layoffs this note references, from a separate source
+- [Fortnite's Live-Service Content Treadmill](fortnite_live_service_content_treadmill.md): same source document (doc_0545)
+- [Live-Service Games' Dependence on Content Creators](live_service_games_dependence_on_content_creators.md): same source document (doc_0545)
+- [Negative Sentiment as Profitable Streaming Discourse](negative_sentiment_as_profitable_streaming_discourse.md): same source document (doc_0545)
+- [Rising Game Development and Marketing Budgets](rising_game_development_and_marketing_budgets.md): same source document (doc_0545)
+- [Streamer Burnout and Extreme Stream Formats](streamer_burnout_and_extreme_stream_formats.md): same source document (doc_0545)
+- [Livestreaming](term_livestreaming.md): uses the concept livestreaming
+- [Layoffs](term_layoffs.md): uses the concept layoffs
 
 ## Source
 

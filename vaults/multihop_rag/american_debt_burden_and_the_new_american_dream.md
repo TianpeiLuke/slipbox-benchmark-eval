@@ -13,6 +13,7 @@ The warrant is a question about rational choice under those conditions: if getti
 
 ## Related Notes
 
+
 - [Alabama At Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): shares the streaming-service theme, from a different source document.
 - [Amazon 65-Inch Fire TV QLED Deal](amazon_65_inch_fire_tv_qled_deal.md): shares the streaming-service theme, from a different source document.
 - [Amazon Eero Max 7 Mesh Router](amazon_eero_max_7_mesh_router.md): shares the streaming-service theme, from a different source document.
@@ -21,6 +22,12 @@ The warrant is a question about rational choice under those conditions: if getti
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the streaming-service theme, from a different source document.
 - [AMC Theatres Direct Distribution Of Concert Films](amc_theatres_direct_distribution_of_concert_films.md): shares the entertainment-distribution theme, from a different source document.
 - [Amex Cash Magnet Welcome Bonus Terms](amex_cash_magnet_welcome_bonus_terms.md): shares the consumer-credit theme, from a different source document.
+- [MrBeast's 100-Day Room Challenge](mrbeast_100_days_room_challenge.md): same source document (doc_0509)
+- [MrBeast Contestants Motivated By Debt](mrbeast_contestants_motivated_by_debt.md): same source document (doc_0509)
+- [MrBeast's Stunt Escalation And Audience Demands](mrbeast_stunt_escalation_and_audience_demands.md): same source document (doc_0509)
+- [The Squid Game Parallel To MrBeast's Challenges](squid_game_parallel_to_mrbeast_challenges.md): same source document (doc_0509)
+- [Suzie Taylor Converts Her Winnings Into A Creator Career](suzie_taylor_converts_winnings_into_creator_career.md): same source document (doc_0509)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

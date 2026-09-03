@@ -11,10 +11,17 @@ Polygon's reading focuses on the opening of the scene rather than its collapse. 
 
 ## Related Notes
 
+
 - [Book Club 2018 Romantic Comedy](book_club_2018_romantic_comedy.md): overlaps in content on jane, mary, from a different source document.
 - [Mary Jane Mission Pacing and Verdict Spider Man 2](mary_jane_mission_pacing_and_verdict_spider_man_2.md): also covers Mary Jane, from a different source document.
 - [Mary Jane Missions Spider Man 2 Reception Improvement](mary_jane_missions_spider_man_2_reception_improvement.md): also covers Mary Jane, from a different source document.
 - [Spider Man Across the Spider Verse](spider_man_across_the_spider_verse.md): also covers Uncle Ben, from a different source document.
+- [Marvel's Relatable Superhero Formula](marvel_relatable_superhero_formula.md): same source document (doc_0279)
+- [The Spectacular Spider-Man Thanksgiving Finale](spectacular_spider_man_thanksgiving_finale.md): same source document (doc_0279)
+- [Spider-Man Embodies Ordinary Struggle](spider_man_embodies_ordinary_struggle.md): same source document (doc_0279)
+- [Spider-Man's Macy's Thanksgiving Parade Balloon](spider_man_macys_thanksgiving_parade_balloon.md): same source document (doc_0279)
+- [Thanksgiving As Communal Need Fulfillment](thanksgiving_as_communal_need_fulfillment.md): same source document (doc_0279)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

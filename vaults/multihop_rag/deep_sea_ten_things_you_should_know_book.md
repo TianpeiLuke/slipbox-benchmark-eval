@@ -11,12 +11,18 @@ Copley described the book in a video interview with Live Science, in which he di
 
 ## Related Notes
 
+
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): another Live Science science feature.
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): another Live Science report.
 - [Beyond Antibiotics: The Emerging Therapeutic Arsenal](beyond_antibiotics_emerging_therapeutic_arsenal.md): another Live Science science feature.
 - [Cannabis Use in Pregnancy: JAMA Study Findings](cannabis_use_in_pregnancy_jama_study_findings.md): another Live Science health report.
 - [CRISPR-Based Antibacterial Therapy](crispr_based_antibacterial_therapy.md): another Live Science science story.
 - [Advances in Deep-Sea Sensory Ecology](advances_in_deep_sea_sensory_ecology.md): from the same interview, on the new discoveries the book collects.
+- [Chemosynthesis and the Search for Life Beyond Earth](chemosynthesis_and_the_search_for_life_beyond_earth.md): same source document (doc_0459)
+- [Deep Ocean Deoxygenation from Climate Change](deep_ocean_deoxygenation_from_climate_change.md): same source document (doc_0459)
+- [Deep-Sea Mining and Hydrothermal Vent Protection](deep_sea_mining_and_hydrothermal_vent_protection.md): same source document (doc_0459)
+- [Jon Copley, Ocean Explorer](jon_copley_ocean_explorer.md): same source document (doc_0459)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

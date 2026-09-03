@@ -13,11 +13,18 @@ The early honours went to two teams. The West Indies won the first tournament an
 
 ## Related Notes
 
+
 - [Adil Rashid T20I Milestones and Series Form](adil_rashid_t20i_milestones_and_series_form.md): another document covering the West Indies, different source
 - [African Telco Distribution Model](african_telco_distribution_model.md): another document about South Africa, in an unrelated domain
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): another document about South Africa, in an unrelated domain
 - [Andre Russell Comeback First T20I](andre_russell_comeback_first_t20i.md): another West Indies cricket document, different source
 - [Boycott Criticism of Bairstow and Woakes Selection](boycott_criticism_of_bairstow_and_woakes_selection.md): another document involving Sri Lanka, different source
+- [The ICC ODI Men's Cricket World Cup](icc_odi_cricket_world_cup_overview.md): same source document (doc_0409)
+- [The 1987 ODI World Cup Format Change](odi_cricket_world_cup_1987_format_change.md): same source document (doc_0409)
+- [The 1992 World Cup: White Ball, Coloured Kits And South Africa's Return](odi_cricket_world_cup_1992_white_ball_coloured_kits.md): same source document (doc_0409)
+- [The 1996 Semi-Final Abandonment And The Short 1999 Cycle](odi_cricket_world_cup_1996_semi_final_abandonment_and_1999_cycle.md): same source document (doc_0409)
+- [The 2011 World Cup: India's Last Hosting Before 2023](odi_cricket_world_cup_2011_india_hosting.md): same source document (doc_0409)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

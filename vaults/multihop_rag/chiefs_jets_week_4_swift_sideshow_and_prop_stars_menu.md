@@ -11,11 +11,16 @@ One of the most hyped Sunday Night Football games of the year had been expected 
 
 ## Related Notes
 
+
 - [BetMGM Bonus Code TSN50 First Bet Offer](betmgm_bonus_code_tsn50_first_bet_offer.md): also references Puerto Rico, from a different source document.
 - [Bills Bengals SNF Broadcast Details](bills_bengals_snf_broadcast_details.md): also covers a Sunday Night Football broadcast, from a different source document.
 - [Bills Bengals SNF Pregame Notes](bills_bengals_snf_pregame_notes.md): also covers Sunday Night Football, from a different source document.
 - [Bills Bengals SNF Result and Recap](bills_bengals_snf_result_and_recap.md): also covers Sunday Night Football, from a different source document.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also covers Zach Wilson, from a different source document.
+- [The Backlash: Fans Who Say The Swift-Kelce Coverage Is Too Much](backlash_to_traylor_media_coverage.md): same source document (doc_0311)
+- [Which Team-Level Props To Play In Chiefs-Jets Week 4](chiefs_jets_week_4_team_level_props.md): same source document (doc_0311)
+- [Which Travis Kelce Props To Play In Chiefs-Jets Week 4](travis_kelce_touchdown_props_chiefs_jets_week_4.md): same source document (doc_0311)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

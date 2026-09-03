@@ -13,6 +13,7 @@ Other Week 9 spreads the column liked were Patriots (-3) vs. Commanders and Raid
 
 ## Related Notes
 
+
 - [Brock Purdy's Fantasy Outlook, Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also discusses Geno Smith, from a different document.
 - [DK Metcalf and Geno Smith Seahawks Showdown Stack](dk_metcalf_and_geno_smith_seahawks_showdown_stack.md): another item pairing Smith and Metcalf, separately sourced.
 - [Eagles-Seahawks SuperDraft Single-Game Lineup](eagles_seahawks_superdraft_single_game_lineup.md): also builds around Geno Smith, in a different document.
@@ -21,6 +22,8 @@ Other Week 9 spreads the column liked were Patriots (-3) vs. Commanders and Raid
 - [Colts -2.5 at Panthers, Week 9](colts_panthers_week_9_spread_pick.md): the other spread pick that week, same source document.
 - [Dolphins +110 vs Chiefs in Germany](dolphins_chiefs_germany_moneyline_pick.md): the week's moneyline pick, same source document.
 - [The 2023 NFL Best Bets Season Record](nfl_best_bets_season_record_2023.md): the running record these picks feed, same source document.
+- [NFL Week 9 Player Prop Picks](nfl_week_9_player_prop_picks.md): same source document (doc_0314)
+- [Raiders vs Giants UNDER 37.5, Week 9](raiders_giants_week_9_under_pick.md): same source document (doc_0314)
 
 ## Source
 

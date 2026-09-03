@@ -13,11 +13,18 @@ The preconditions are registering a new account with the code and meeting the $1
 
 ## Related Notes
 
+
 - [Best Sportsbooks for NBA Futures Betting](best_sportsbooks_for_nba_futures_betting.md): also discusses Caesars Sportsbook, from a different document.
 - [BetMGM Bonus Code TSN50 First Bet Offer](betmgm_bonus_code_tsn50_first_bet_offer.md): another First Bet style welcome offer, from a different document.
 - [Caesars Sportsbook Kentucky](caesars_sportsbook_kentucky.md): also discusses Caesars Sportsbook, from a different document.
 - [Caesars Sportsbook Promo Code NEWS1000](caesars_sportsbook_promo_code_news1000.md): covers the same NEWS1000 First Bet offer, from a different document.
 - [Caesars Vermont Sportsbook Welcome Offer](caesars_vermont_sportsbook_welcome_offer.md): another state version of the Caesars welcome offer, from a different document.
+- [Claiming Bet365's Two Welcome Offers With Bonus Code TSNCO](bet365_welcome_bonus_offers_december_2023.md): same source document (doc_0202)
+- [Claiming BetMGM's $1,500 First Bet Offer With Bonus Code SPORTSPICK](betmgm_first_bet_bonus_offer_december_2023.md): same source document (doc_0202)
+- [Claiming BetRivers' Second Chance Bet With Bonus Code SPORTSRIV](betrivers_second_chance_bet_offer_december_2023.md): same source document (doc_0202)
+- [Claiming DraftKings' Three Welcome Offers Worth Up To $1,200](draftkings_sportsbook_welcome_offers_december_2023.md): same source document (doc_0202)
+- [Playoff Stakes Of The Eagles-Seahawks Monday Night Football Game](eagles_seahawks_week_15_mnf_playoff_stakes.md): same source document (doc_0202)
+- [Sports Betting Odds](term_sports_betting_odds.md): uses the concept sports betting odds
 
 ## Source
 

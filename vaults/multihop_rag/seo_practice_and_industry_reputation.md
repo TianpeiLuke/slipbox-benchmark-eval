@@ -15,6 +15,7 @@ The stereotype of the practitioner is a hustler: a content goblin willing to esc
 
 ## Related Notes
 
+
 - [Gemini Pro News Summarization Refusals](gemini_pro_news_summarization_refusals.md): also concerns Google Search's behavior, from a different source document.
 - [Google's Defense That Search Defaults Are Easy To Change](google_defense_that_search_defaults_are_easy_to_change.md): also concerns Google Search's market position, from a different source document.
 - [Google's Denial That Ad Keyword Matching Affects Organic Results](google_denial_that_ad_keyword_matching_affects_organic_results.md): also concerns the boundary between ads and organic results, from a different source document.
@@ -23,6 +24,9 @@ The stereotype of the practitioner is a hustler: a content goblin willing to esc
 - [The Affiliate Marketing Alligator Party](affiliate_marketing_alligator_party.md): drawn from the same source document (doc_0115).
 - [AI-Generated Content Will Overwhelm Search](ai_generated_content_will_overwhelm_search_prediction.md): drawn from the same source document (doc_0115).
 - [Mass-Generated AI SEO Spam And Churn And Burn](ai_mass_generated_seo_spam_churn_and_burn.md): drawn from the same source document (doc_0115).
+- [The Blurred Line Between SEO And Spam](blurred_line_between_seo_and_spam.md): same source document (doc_0115)
+- [Cade Lee, From Black Hat SEO To Construction](cade_lee_from_black_hat_seo_to_construction.md): same source document (doc_0115)
+- [Total Addressable Market (TAM)](term_total_addressable_market.md): uses the concept total addressable market
 
 ## Source
 

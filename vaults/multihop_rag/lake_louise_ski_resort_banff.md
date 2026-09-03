@@ -13,6 +13,7 @@ Another Fairmont offering is the magnificent Chateau Lake Louise, a historic hot
 
 ## Related Notes
 
+
 - [Niseko, Japan Ski Resort](niseko_japan_ski_resort.md): another resort priced from London Heathrow, in a different guide
 - [Snowdonia Dark Sky Reserve Aurora Viewing](snowdonia_dark_sky_reserve_aurora_viewing.md): overlapping subject matter about lakes, views and national parks, from a different source
 - [Vail, Colorado Ski Resort](vail_colorado_ski_resort.md): another resort priced from London Heathrow, in a different guide
@@ -21,6 +22,8 @@ Another Fairmont offering is the magnificent Chateau Lake Louise, a historic hot
 - [Fernie Alpine Ski Resort](fernie_alpine_ski_resort.md): another Canadian resort from the same guide
 - [Mont Tremblant, Quebec Ski Resort](mont_tremblant_quebec_ski_resort.md): another Canadian resort from the same guide
 - [Revelstoke Mountain Ski Resort](revelstoke_mountain_ski_resort.md): another Canadian resort from the same guide
+- [Sunshine Village: Banff Snow Quality And A Season To Late May](sunshine_village_banff_ski_resort.md): same source document (doc_0572)
+- [Whistler Blackcomb: North America's Largest Ski Resort](whistler_blackcomb_ski_resort.md): same source document (doc_0572)
 
 ## Source
 

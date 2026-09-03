@@ -11,6 +11,7 @@ On a huge digital display on a stand outside Gates' living room, the OpenAI crew
 
 ## Related Notes
 
+
 - [Denise George Profile And Epstein Case Role](denise_george_profile_and_epstein_case_role.md): also concerns Bill Gates, from a different source document.
 - [Greg Brockman Account Of Altman Removal](greg_brockman_account_of_altman_removal.md): also concerns Brockman, Altman and OpenAI, from a different source document.
 - [Greg Brockman Departure From OpenAI](greg_brockman_departure_from_openai.md): also concerns Brockman and Altman at OpenAI, from a different source document.
@@ -19,6 +20,8 @@ On a huge digital display on a stand outside Gates' living room, the OpenAI crew
 - [AlphaGo As Evidence For AI Risk Concerns](alphago_as_evidence_for_ai_risk_concerns.md): drawn from the same article and is the earlier demonstration read as a warning.
 - [Anthropic Founding By OpenAI Researchers](anthropic_founding_by_openai_researchers.md): drawn from the same article and covers the language-model lineage leading to GPT-4.
 - [DeepMind Ethics Board Single Meeting 2015](deepmind_ethics_board_single_meeting_2015.md): drawn from the same article and covers the safety oversight that lapsed as capability grew.
+- [DeepMind's Founding And Thiel's Investment](deepmind_founding_and_thiel_investment.md): same source document (doc_0027)
+- [DeepMind's Sale To Google And Facebook's AI Lab](deepmind_google_acquisition_and_facebook_ai_lab.md): same source document (doc_0027)
 
 ## Source
 

@@ -11,11 +11,19 @@ What distinguishes the film, in Polygon's account, is the pairing of its two sta
 
 ## Related Notes
 
+
 - [Activision $360 Million Payment Evidence Dispute](activision_360_million_payment_evidence_dispute.md): an unrelated article that also concerns Google Play
 - [Activision Riot And Supercell Abandoned Android Store Plans](activision_riot_and_supercell_abandoned_android_store_plans.md): another Google Play-related article from a different domain
 - [Android Alternative App Store Barriers](android_alternative_app_store_barriers.md): further Google Play coverage with no topical overlap
 - [Apple 2023 Top iPad Apps And Games Lists](apple_2023_top_ipad_apps_and_games_lists.md): another article referencing Prime Video
 - [Bears Panthers Second Quarter Field Goal Exchange](bears_panthers_second_quarter_field_goal_exchange.md): unrelated coverage that also involves Prime Video
+- [Book Club (2018): The Raunchy Late-Life Romantic Comedy](book_club_2018_romantic_comedy.md): same source document (doc_0597)
+- [Catherine Called Birdy (2022): Lena Dunham's Coming-Of-Age Comedy](catherine_called_birdy_2022_lena_dunham_comedy.md): same source document (doc_0597)
+- [Clueless (1995): The Teen-Comedy Emma Adaptation](clueless_1995_teen_comedy_emma_adaptation.md): same source document (doc_0597)
+- [Coming To America (1988): Eddie Murphy's Romantic Comedy](coming_to_america_1988_eddie_murphy_comedy.md): same source document (doc_0597)
+- [Don't Go Breaking My Heart (2011): Johnnie To's Romantic Comedy](dont_go_breaking_my_heart_2011_johnnie_to_romcom.md): same source document (doc_0597)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Space Mission](term_space_mission.md): uses the concept space mission
 
 ## Source
 

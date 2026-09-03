@@ -13,6 +13,7 @@ With that foundation in place, the founders launched the inaugural festival at t
 
 ## Related Notes
 
+
 - [Abdul Karim Abdullah's Path into the Music Business](abdul_karim_abdullah_path_into_the_music_business.md): the experience the co-founder brought to this vision.
 - [Abdullah on Product Over Profit in the Music Industry](abdullah_on_product_over_profit_in_the_music_industry.md): the same founder's wider industry argument.
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): who the global-audience mission actually reaches.
@@ -20,6 +21,9 @@ With that foundation in place, the founders launched the inaugural festival at t
 - [AfroFuture Foundation Philanthropy Programmes](afrofuture_foundation_philanthropy_programmes.md): the educational-support mission put into practice.
 - [AfroFuture Impact on Ghana Tourism](afrofuture_impact_on_ghana_tourism.md): the local outcomes of the mission pillars.
 - [AfroFuture Rising Star Challenge Competition](afrofuture_rising_star_challenge_competition.md): the artist-development expression of these missions.
+- [Road to AfroFuture Geographic Brand Expansion](road_to_afrofuture_geographic_brand_expansion.md): same source document (doc_0085)
+- [Sub-Saharan Africa Recorded Music Market Growth](sub_saharan_africa_recorded_music_market_growth.md): same source document (doc_0085)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

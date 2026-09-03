@@ -11,6 +11,7 @@ The article stresses that calling this fight a long time coming would be an insu
 
 ## Related Notes
 
+
 - [Canelo Alvarez Next Opponents After Charlo Win](canelo_alvarez_next_opponents_after_charlo_win.md): also covers Jermall Charlo, one of the names Andrade chased, from a different source document.
 - [Canelo Alvarez Undisputed Titles and Net Worth](canelo_alvarez_undisputed_titles_and_net_worth.md): covers Canelo Alvarez, the opponent Andrade could never land, from a different source document.
 - [Canelo Charlo Round-by-Round Scorecard](canelo_charlo_round_by_round_scorecard.md): also covers Canelo Alvarez, from a different source document.
@@ -19,6 +20,7 @@ The article stresses that calling this fight a long time coming would be an insu
 - [Benavidez Andrade Undercard and Jermall Charlo Return](benavidez_andrade_undercard_and_jermall_charlo_return.md): the undercard for this same fight (doc_0446).
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): the bout's logistics and odds, from the same preview (doc_0446).
 - [Benavidez vs Andrade Stylistic Breakdown and Pick](benavidez_vs_andrade_stylistic_breakdown_and_pick.md): the analytical prediction for the same fight (doc_0446).
+- [David Benavidez: Anointed Successor To Canelo, Still Waiting For The Call](david_benavidez_career_and_canelo_alvarez_pursuit.md): same source document (doc_0446)
 
 ## Source
 

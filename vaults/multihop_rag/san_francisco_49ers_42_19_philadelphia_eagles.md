@@ -11,11 +11,19 @@ The fiery NFC championship game rematch also featured 49ers touchdowns on six st
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also covers Deebo Samuel, from a different document.
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also covers Brock Purdy, from a different document.
 - [49ers Rout Cowboys, Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): another 49ers win built on Brock Purdy, from a different document.
 - [Brock Purdy 49ers Career Trajectory](brock_purdy_49ers_career_trajectory.md): also covers Brock Purdy, from a different document.
 - [Brock Purdy and Lamar Jackson, 2023 MVP Race](brock_purdy_lamar_jackson_2023_mvp_race.md): also covers Brock Purdy, from a different document.
+- [Buccaneers 21-18 Panthers And Mike Evans' 1,000-Yard Milestone](buccaneers_21_18_panthers_mike_evans_milestone.md): same source document (doc_0150)
+- [Cardinals 24-10 Steelers, Week 13 2023](cardinals_24_10_steelers_week_13.md): same source document (doc_0150)
+- [Chargers 6-0 Patriots, Week 13 2023](chargers_6_0_patriots_shutout_week_13.md): same source document (doc_0150)
+- [Colts 31-28 Titans In Overtime, Week 13 2023](colts_31_28_titans_overtime_week_13.md): same source document (doc_0150)
+- [Dolphins 45-15 Commanders, Week 13 2023](dolphins_45_15_commanders_week_13.md): same source document (doc_0150)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
 
 ## Source
 

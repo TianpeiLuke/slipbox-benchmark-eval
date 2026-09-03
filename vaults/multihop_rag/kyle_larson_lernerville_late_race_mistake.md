@@ -11,6 +11,7 @@ Unlike Texas, he did not DNF and managed to get his car back on track, but his c
 
 ## Related Notes
 
+
 - [Autosport Top 50 Drivers 2023: NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md): also discusses Kyle Larson, from a different source document.
 - [NASCAR Next Gen Muffler Noise Reduction Test](nascar_next_gen_muffler_noise_reduction_test.md): also discusses Kyle Larson, from a different source document.
 - [NASCAR Phoenix Next Gen Short Track Test](nascar_phoenix_next_gen_short_track_test.md): also discusses Kyle Larson, from a different source document.
@@ -19,6 +20,7 @@ Unlike Texas, he did not DNF and managed to get his car back on track, but his c
 - [Dale Earnhardt Jr's Visit to High Limit's Commonwealth Clash](dale_earnhardt_jr_visit_to_high_limit_commonwealth_clash.md): same source document, on the event Larson was urged to race in.
 - [High Limit Racing's Purse Escalation Mechanism](high_limit_racing_purse_escalation_mechanism.md): same source document, on the $50,000 winner's purse Larson missed out on.
 - [High Limit Racing: Kyle Larson's Sprint Car Series](high_limit_racing_sprint_car_series.md): same source document, describing the series he co-owns and raced in.
+- [Kyle Larson On The Origins Of High Limit Racing](kyle_larson_origins_of_high_limit_racing.md): same source document (doc_0443)
 
 ## Source
 

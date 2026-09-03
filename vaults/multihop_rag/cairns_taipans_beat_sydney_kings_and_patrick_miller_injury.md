@@ -15,6 +15,7 @@ Without Miller running the point the home side's offence suddenly looked shaky i
 
 ## Related Notes
 
+
 - [Tasmania JackJumpers Record Score Beat Sydney Kings Round 4](tasmania_jackjumpers_record_score_beat_sydney_kings_round_4.md): the Kings' earlier defeat, covering Jaylen Adams and Mahmoud Abdelfattah
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): another round 5 result, same source document
 - [Aron Baynes Suspension Brisbane Bullets 2023](aron_baynes_suspension_brisbane_bullets_2023.md): another story in the same round-up, same source document
@@ -23,6 +24,8 @@ Without Miller running the point the home side's offence suddenly looked shaky i
 - [Melbourne United Beat Illawarra Hawks NBL Round 5](melbourne_united_beat_illawarra_hawks_nbl_round_5.md): another round 5 result, same source document
 - [Melbourne United Beat Tasmania JackJumpers in Hobart Round 5](melbourne_united_beat_tasmania_jackjumpers_in_hobart_round_5.md): another round 5 result, same source document
 - [South East Melbourne Phoenix Beat New Zealand Breakers Round 5](south_east_melbourne_phoenix_beat_new_zealand_breakers_round_5.md): another round 5 result, same source document
+- [Tyler Harvey's Buzzer-Beater Sinks Cairns 84-83](tyler_harvey_buzzer_beater_hawks_beat_taipans_round_5.md): same source document (doc_0240)
+- [Zylan Cheatham's Leg Injury For The New Zealand Breakers](zylan_cheatham_leg_injury_new_zealand_breakers_2023.md): same source document (doc_0240)
 
 ## Source
 

@@ -13,6 +13,7 @@ Roumie also set out the app's confessional scope: "And obviously [the Hallow app
 
 ## Related Notes
 
+
 - [Catholic Major and Minor Exorcism](catholic_major_and_minor_exorcism.md): overlapping coverage of the Catholic Church and prayer, from a different source document.
 - [Jesse Bradley and The Power of the Second Thought](jesse_bradley_power_of_the_second_thought.md): same sub-plan on faith practice, from a different source document.
 - [Reject and Replace Negative First Thoughts](reject_and_replace_negative_first_thoughts.md): same sub-plan on faith practice, from a different source document.
@@ -21,6 +22,8 @@ Roumie also set out the app's confessional scope: "And obviously [the Hallow app
 - [Building a Daily Prayer Habit](building_a_daily_prayer_habit.md): drawn from the same source document, doc_0570.
 - [The Hallow Prayer App: Contents and Features](hallow_prayer_app_contents_and_features.md): drawn from the same source document, doc_0570.
 - [Jonathan Roumie and the Hallow Advent Prayer Challenge](jonathan_roumie_hallow_advent_prayer_challenge.md): drawn from the same source document, doc_0570.
+- [Playing Jesus Deepened Roumie's Own Faith](playing_jesus_deepened_roumies_own_faith.md): same source document (doc_0570)
+- [Roumie's Prayer of Surrender and "The Chosen"](roumie_prayer_of_surrender_and_the_chosen.md): same source document (doc_0570)
 
 ## Source
 

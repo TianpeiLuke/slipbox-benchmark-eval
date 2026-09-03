@@ -13,11 +13,18 @@ The report places the loss against Australia's recent record. It comes after one
 
 ## Related Notes
 
+
 - [Cancelled China Tour And The NYCFC Noche D'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): another disrupted international tour schedule, from a different document.
 - [England 132 All Out In The T20 Series Decider](england_132_all_out_t20_series_decider.md): another international cricket series result, from a different document.
 - [ICC World Cup 2023 Knockout Stage And Final](icc_world_cup_2023_knockout_stage_and_final.md): also covers Australia and India meeting in Indian conditions, from a different document.
 - [India's 1983 World Cup Semi-Final Vs England](india_1983_world_cup_semifinal_vs_england.md): another account of India as hosts and their innings against a touring side, from a different document.
 - [India's 1987 World Cup Semi-Final Vs England](india_1987_world_cup_semifinal_vs_england.md): another India match played in Mumbai, from a different document.
+- [Australia Women's White-Ball Reset Before The 2024 T20 World Cup](australia_women_white_ball_reset_before_2024_t20_world_cup.md): same source document (doc_0440)
+- [Healy's Case For A Three-Test Series In India](healy_case_for_three_test_series_in_india.md): same source document (doc_0440)
+- [Healy's Criticism Of A One-Off Test Outside A Multi-Format Series](healy_criticism_of_one_off_test_outside_multi_format_series.md): same source document (doc_0440)
+- [Healy Denies The End Of Australian Women's Cricket Dominance](healy_denies_end_of_australian_womens_cricket_dominance.md): same source document (doc_0440)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

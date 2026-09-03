@@ -15,6 +15,7 @@ The reporter notes an open question about the boundaries of the scheme: he asked
 
 ## Related Notes
 
+
 - [AI Threats To Critical Infrastructure Provisions](ai_threats_to_critical_infrastructure_provisions.md): overlapping vocabulary of cybersecurity, radiological and critical-infrastructure risk, from a different source document.
 - [Amazon Cyber Monday 2023 Sale Schedule](amazon_cyber_monday_2023_sale_schedule.md): shares a graded-tier, specification-style framing, from a different source document.
 - [Apple AirPods Pro Second Generation](apple_airpods_pro_second_generation.md): shares a specification-style framing, from a different source document.
@@ -23,6 +24,12 @@ The reporter notes an open question about the boundaries of the scheme: he asked
 - [ASX Rally Drivers Bond Market And China Stimulus](asx_rally_drivers_bond_market_and_china_stimulus.md): shares a threshold-and-level framing, from a different source document.
 - [Atlassian Critical Security Flaw Warning](atlassian_critical_security_flaw_warning.md): shares the critical-severity cybersecurity framing, from a different source document.
 - [Balderton Investment Thesis On Scalable Capital](balderton_investment_thesis_on_scalable_capital.md): shares a graded-criteria framing, from a different source document.
+- [OpenAI's Definition Of Catastrophic Risk](openai_catastrophic_risk_definition.md): same source document (doc_0117)
+- [OpenAI's Updated Preparedness Framework](openai_preparedness_framework_update.md): same source document (doc_0117)
+- [OpenAI's Safety Advisory Group And Board Veto Process](openai_safety_advisory_group_and_board_veto_process.md): same source document (doc_0117)
+- [OpenAI's Three-Tier AI Safety Team Structure](openai_three_tier_ai_safety_team_structure.md): same source document (doc_0117)
+- [Skepticism That OpenAI's Board Will Use Its Veto](skepticism_about_openai_board_veto_enforcement.md): same source document (doc_0117)
+- [Game Patch Notes](term_game_patch_notes.md): uses the concept game patch notes
 
 ## Source
 

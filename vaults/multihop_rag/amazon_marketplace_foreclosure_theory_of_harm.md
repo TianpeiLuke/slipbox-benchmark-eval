@@ -13,6 +13,7 @@ On incentive, the Commission is worried Amazon may find foreclosure economically
 
 ## Related Notes
 
+
 - [Amazon Generative AI In Robotics Simulation](amazon_generative_ai_in_robotics_simulation.md): shares the recommendation-algorithm theme raised by marketplace ranking levers, from a different document.
 - [Amazon's Response To The EU's iRobot Objections](amazon_response_to_eu_irobot_objections.md): drawn from the same source document (doc_0039), and contests this theory.
 - [Astros Players' Immunity And Mike Fiers](astros_players_immunity_and_mike_fiers.md): shares the investigation theme, from a different document.
@@ -21,6 +22,10 @@ On incentive, the Commission is worried Amazon may find foreclosure economically
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): shares the investigation theme, from a different document.
 - [Bolt SEC Probe](bolt_sec_probe.md): shares the regulatory-investigation theme, from a different document.
 - [The Case That Michigan Sign Stealing Was Systematic Cheating](case_that_michigan_sign_stealing_was_systematic_cheating.md): shares the investigation theme, from a different document.
+- [The EU's Prior Amazon Settlements And Its DMA Gatekeeper Designation](eu_amazon_prior_settlements_and_dma_gatekeeper.md): same source document (doc_0039)
+- [EU Sends Amazon A Statement Of Objections Over The iRobot Deal](eu_in_depth_probe_amazon_irobot_acquisition.md): same source document (doc_0039)
+- [Regulatory Investigation](term_regulatory_investigation.md): uses the concept regulatory investigation
+- [Recommendation Algorithm](term_recommendation_algorithm.md): uses the concept recommendation algorithm
 
 ## Source
 

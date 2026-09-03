@@ -11,11 +11,18 @@ Earlier in the season, in Sporting News' live coverage of the Lions-Packers Thur
 
 ## Related Notes
 
+
 - [Baker Mayfield Perfect Passer Rating Road Record](baker_mayfield_perfect_passer_rating_road_record.md): also covers Green Bay, from a different source document.
 - [Chargers 6-0 Patriots Shutout Week 13](chargers_6_0_patriots_shutout_week_13.md): shares the Chargers and injury subject matter, from a different source document.
 - [Chiefs Packers Week 13 Broadcast and Kickoff Details](chiefs_packers_week_13_broadcast_and_kickoff_details.md): also covers Green Bay, from a different source document.
 - [Chiefs Packers Week 13 First Half Sequence](chiefs_packers_week_13_first_half_sequence.md): also covers Green Bay, from a different source document.
 - [Chiefs Packers Week 13 Fourth Quarter Sequence](chiefs_packers_week_13_fourth_quarter_sequence.md): also covers Green Bay, from a different source document.
+- [Cooper Kupp: A Week 11 Ankle Sprain And The Week 13 Case For Benching A Stud](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): same source document (doc_0113)
+- [Lions 34, Packers 20: Detroit's Supporting Cast Wins At Lambeau](lions_defeat_packers_week_4_2023_recap.md): same source document (doc_0282)
+- [Lions-Packers Week 4: Kickoff, Channels And Streaming](lions_packers_week_4_broadcast_and_streaming_details.md): same source document (doc_0282)
+- [Lions-Packers Week 4: Pregame And First-Half Log](lions_packers_week_4_first_half_and_pregame_log.md): same source document (doc_0282)
+- [Lions-Packers Week 4: Fourth Quarter Log](lions_packers_week_4_fourth_quarter_log.md): same source document (doc_0282)
+- [Player Injury Report](term_player_injury_report.md): uses the concept player injury report
 
 ## Source
 

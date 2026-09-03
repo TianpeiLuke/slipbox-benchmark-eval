@@ -13,11 +13,19 @@ The rationale offered for adding cooling is the composition of the drug pipeline
 
 ## Related Notes
 
+
 - [Faction's Driverless Funding Round](faction_driverless_funding_round.md): overlapping coverage of venture capital, funds and partners, from a different source document.
 - [The Two-Way Interaction Design Of Explore With Alexa](alexa_kids_interaction_design.md): assigned to the same consumer-AI-and-devices batch, from a different source document.
 - [Alexa Kids LLM Guardrails](alexa_kids_llm_guardrails.md): assigned to the same consumer-AI-and-devices batch, from a different source document.
 - [Explore With Alexa](explore_with_alexa.md): assigned to the same consumer-AI-and-devices batch, from a different source document.
 - [Alexa Kids Data Handling And The Echo Pop Kids Launch](alexa_kids_privacy_and_hardware.md): shares the product-launch theme, from a different source document.
+- [Keep Labs' Repositioning From Cannabis To Medicine](keep_labs_cannabis_repositioning.md): same source document (doc_0230)
+- [The Keep, A Lockable Smart Storage Container For Medicine](keep_labs_device.md): same source document (doc_0230)
+- [Keep Labs' Enterprise Turn And The Pharmacist Co-Lead](keep_labs_enterprise_partnerships.md): same source document (doc_0230)
+- [Keep Labs' COVID Pivot And Leadership Change](keep_labs_pivot_and_leadership.md): same source document (doc_0230)
+- [How Keep Labs Says It Safeguards Patient Data](keep_labs_security_posture.md): same source document (doc_0230)
+- [Venture Capital](term_venture_capital.md): uses the concept venture capital
+- [Product Launch](term_product_launch.md): uses the concept product launch
 
 ## Source
 

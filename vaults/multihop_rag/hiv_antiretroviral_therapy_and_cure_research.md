@@ -11,12 +11,18 @@ The model's boundary is explicit: by limiting viral replication, ARTs by design 
 
 ## Related Notes
 
+
 - [Antiretroviral Therapy And Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): covers the same viral suppression and cure question, from a different source document.
 - [HIV Pre Exposure Prophylaxis Prevention Tools](hiv_pre_exposure_prophylaxis_prevention_tools.md): covers the pre-exposure prophylaxis tools named here, from a different source document.
 - [Alzheimer's Lecanemab And Aducanumab Approvals](alzheimers_lecanemab_and_aducanumab_approvals.md): drawn from the same article and covers another unmet need it surveys.
 - [Antibody Drug Conjugates Market](antibody_drug_conjugates_market.md): drawn from the same article and covers the antibody engineering this cure route is modelled on.
 - [Cancer Immunotherapy Checkpoint Inhibitors](cancer_immunotherapy_checkpoint_inhibitors.md): drawn from the same article and describes the mABs the bNAb approach is compared to.
 - [CAR-T Cell Therapy](car_t_cell_therapy.md): drawn from the same article and covers another cell-level therapeutic route.
+- [A Framework For Valuing US Pharma Stocks](framework_for_valuing_us_pharma_stocks.md): same source document (doc_0239)
+- [GLP-1 Receptor Agonists In Diabetes And Weight Loss](glp1_receptor_agonists_diabetes_and_weight_loss.md): same source document (doc_0239)
+- [Stock Calls On Novo Nordisk, AbbVie And Merck](novo_nordisk_abbvie_merck_stock_calls.md): same source document (doc_0239)
+- [Why Indian Investors Should Look To US Big Pharma](us_big_pharma_investment_rationale_for_indian_investors.md): same source document (doc_0239)
+- [Public Health Guidance](term_public_health_guidance.md): uses the concept public health guidance
 
 ## Source
 

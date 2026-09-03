@@ -11,6 +11,7 @@ Its function follows from the Act's long lead time: while the full regulation wi
 
 ## Related Notes
 
+
 - [Civil Society Criticism of EU AI Act Biometrics Limits](civil_society_criticism_of_eu_ai_act_biometrics_limits.md): drawn from the same source document, doc_0564.
 - [EU AI Act Copyright Obligations for GPAI Makers](eu_ai_act_copyright_obligations_for_gpai_makers.md): drawn from the same source document, doc_0525.
 - [EU AI Act High Risk AI System Obligations](eu_ai_act_high_risk_ai_system_obligations.md): drawn from the same source document, doc_0564.
@@ -19,6 +20,8 @@ Its function follows from the Act's long lead time: while the full regulation wi
 - [EU AI Act Political Agreement December 2023](eu_ai_act_political_agreement_december_2023.md): drawn from the same source document, doc_0564.
 - [EU AI Act Prohibited AI Practices](eu_ai_act_prohibited_ai_practices.md): drawn from the same source document, doc_0564.
 - [EU AI Act Remote Biometric Identification Exceptions](eu_ai_act_remote_biometric_identification_exceptions.md): drawn from the same source document, doc_0564.
+- [EU AI Act Scope Exclusions For National Security And Research](eu_ai_act_scope_exclusions_national_security_and_research.md): same source document (doc_0564)
+- [EU AI Act Two-Tier Rules For General Purpose AI](eu_ai_act_two_tier_rules_for_general_purpose_ai.md): same source document (doc_0525)
 
 ## Source
 

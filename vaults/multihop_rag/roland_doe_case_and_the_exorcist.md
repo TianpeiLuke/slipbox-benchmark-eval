@@ -11,6 +11,7 @@ Doe's story was adapted into the 1971 book "The Exorcist" by William Peter Blatt
 
 ## Related Notes
 
+
 - [The Crown: Diana and a Role With the Blair Government](the_crown_diana_and_tony_blair_government_role.md): overlapping named references, from a different source document.
 - [The Exorcist III](the_exorcist_iii.md): also concerns William Peter Blatty, from a different source document.
 - [Catholic Major and Minor Exorcism](catholic_major_and_minor_exorcism.md): drawn from the same source document, doc_0562, and defines the major exorcisms performed in this case.
@@ -19,6 +20,7 @@ Doe's story was adapted into the 1971 book "The Exorcist" by William Peter Blatt
 - [The Ouija Board as an Invitation to Demons](ouija_board_as_an_invitation_to_demons.md): drawn from the same source document, doc_0562.
 - [Ouija Board Origin and the 1891 Patent](ouija_board_origin_and_1891_patent.md): drawn from the same source document, doc_0562.
 - [Reehil's Reported Ouija-Linked Oppression Cases](reehil_reported_ouija_linked_oppression_cases.md): drawn from the same source document, doc_0562.
+- [Three Levels of Demonic Incursion](three_levels_of_demonic_incursion.md): same source document (doc_0562)
 
 ## Source
 

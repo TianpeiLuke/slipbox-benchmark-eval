@@ -13,6 +13,7 @@ Together the players platform their way through the haunted hotel to save Mario,
 
 ## Related Notes
 
+
 - [Gravity Falls: Northwest Mansion Mystery](gravity_falls_northwest_mansion_mystery.md): overlapping spooky-mansion vocabulary from a different source document
 - [Super Mario Bros. Wonder Multiplayer Mode](super_mario_bros_wonder_multiplayer_mode.md): overlapping Mario-cast vocabulary from a separate article
 - [Captain Toad: Treasure Tracker](captain_toad_treasure_tracker.md): another pick from the same couch co-op roundup
@@ -21,6 +22,8 @@ Together the players platform their way through the haunted hotel to save Mario,
 - [Cuphead Local Co-Op](cuphead_local_co_op.md): another two-player pick in the same roundup
 - [Diablo 3 Switch Local Multiplayer](diablo_3_switch_local_multiplayer.md): another co-op entry from the same source
 - [Escape Academy](escape_academy.md): another co-op pick in the same list
+- [Good Job! (Nintendo Switch)](good_job_nintendo_switch.md): same source document (doc_0428)
+- [Kirby and the Forgotten Land](kirby_and_the_forgotten_land.md): same source document (doc_0428)
 
 ## Source
 

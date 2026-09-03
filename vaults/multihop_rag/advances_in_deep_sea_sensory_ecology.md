@@ -11,6 +11,7 @@ That work concerns how animals perceive their environment, how they respond to i
 
 ## Related Notes
 
+
 - [Party Animals](party_animals.md): linked by shared vocabulary about animals rather than subject matter.
 - [Sample Size Critique of the Jellyfish Learning Result](sample_size_critique_of_the_jellyfish_learning_result.md): another debate about what marine animals perceive and learn.
 - [Chemosynthesis and the Search for Life Beyond Earth](chemosynthesis_and_the_search_for_life_beyond_earth.md): from the same interview, on other surprises from the deep.
@@ -19,6 +20,7 @@ That work concerns how animals perceive their environment, how they respond to i
 - [Deep Sea: Ten Things You Should Know (Book)](deep_sea_ten_things_you_should_know_book.md): from the same interview, on the book that collects these advances.
 - [Jon Copley, Ocean Explorer](jon_copley_ocean_explorer.md): from the same interview, introducing the researcher.
 - [The Myth That We Know Less About the Deep Sea Than Mars](myth_that_we_know_less_about_the_deep_sea_than_mars.md): from the same interview, on how much is in fact known.
+- [Why Communicating Deep-Sea Science Matters](why_communicating_deep_sea_science_matters.md): same source document (doc_0459)
 
 ## Source
 

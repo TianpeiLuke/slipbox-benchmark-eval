@@ -11,6 +11,7 @@ The premise it declines to grant is that the timing of the shift is what matters
 
 ## Related Notes
 
+
 - [Insomnia Definition And Prevalence](insomnia_definition_and_prevalence.md): separate reporting on sleep difficulty and its measurement
 - [Sleepagotchi NFT Sleep Game](sleepagotchi_nft_sleep_game.md): another article concerned with sleep behaviour
 - [Autumn Clock Change And Depressive Episodes](autumn_clock_change_and_depressive_episodes.md): one of the strong-effect claims this position qualifies
@@ -19,6 +20,7 @@ The premise it declines to grant is that the timing of the shift is what matters
 - [Clock Change Circadian Disruption And Immunity](clock_change_circadian_disruption_and_immunity.md): the circadian argument this position directly qualifies
 - [Clocks Going Back And The Drop In Heart Attacks](clocks_going_back_and_the_drop_in_heart_attacks.md): the other sceptical voice in the same article
 - [Scrapping Winter DST To Cut Energy Bills](scrapping_winter_dst_to_cut_energy_bills.md): the non-health argument for reform, unaffected by this objection
+- [UK Clock Change Dates For 2023 And 2024](uk_clock_change_dates_2023_and_2024.md): same source document (doc_0339)
 
 ## Source
 

@@ -13,12 +13,14 @@ The article adds a prediction about the shape such a feud would take: as Nakamur
 
 ## Related Notes
 
+
 - [Vermont Sport-Specific Betting Promotions](vermont_sport_specific_betting_promotions.md): shares the vocabulary of promos and fan-facing build-up, from a different document.
 - [Mary Jane's Gameplay Changes Between 2018 And Spider-Man 2](mary_jane_gameplay_changes_2018_versus_spider_man_2.md): another Essentially Sports pop-culture feature in the same set, from a different document.
 - [Mary Jane's Mission Pacing And The Verdict On Spider-Man 2](mary_jane_mission_pacing_and_verdict_spider_man_2.md): another Essentially Sports pop-culture feature in the same set, from a different document.
 - [CM Punk WWE Return Speculation Ahead Of Survivor Series 2023](cm_punk_wwe_return_speculation_survivor_series_2023.md): the return speculation this case depends on, from the same feature.
 - [Cody Rhodes As A CM Punk Opponent](cody_rhodes_as_cm_punk_opponent_case.md): a rival opponent case, from the same feature.
 - [Seth Rollins As A CM Punk Opponent](seth_rollins_as_cm_punk_opponent_case.md): a rival opponent case, from the same feature.
+- [Mary Jane's Missions In Spider-Man 2 As An Improvement On Their Reception](mary_jane_missions_spider_man_2_reception_improvement.md): same sub-plan (Essentially Sports Pop-Culture Features: Spider-Man 2 and CM Punk), different source document
 
 ## Source
 

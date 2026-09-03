@@ -13,6 +13,7 @@ Critic PV singles out the performances: Song Kang-ho and Bae Doona are electrify
 
 ## Related Notes
 
+
 - [Joint Security Area (Park Chan-wook)](joint_security_area_park_chan_wook.md): both feature Song Kang-ho, from a different source document
 - [Streaming Service Runner-Up Series Picks](streaming_service_runner_up_series_picks.md): both discuss Hirokazu Kore-eda's work, from a separate article
 - [The Host (2006, Bong Joon-ho)](the_host_2006_bong_joon_ho_film.md): another Song Kang-ho film covered in a different document
@@ -21,6 +22,8 @@ Critic PV singles out the performances: Song Kang-ho and Bae Doona are electrify
 - [Are You There God? It's Me, Margaret](are_you_there_god_its_me_margaret_film.md): a fellow entry on the same ranked list
 - [Asteroid City (Wes Anderson)](asteroid_city_wes_anderson.md): another 2023 film from the same document
 - [Barbenheimer Summer 2023 Phenomenon](barbenheimer_summer_2023_phenomenon.md): the year-in-review framing published with this list
+- [Barbie (Greta Gerwig)](barbie_greta_gerwig_film.md): same source document (doc_0094)
+- [BlackBerry (Matt Johnson)](blackberry_matt_johnson_film.md): same source document (doc_0094)
 
 ## Source
 

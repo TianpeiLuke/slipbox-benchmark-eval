@@ -11,6 +11,7 @@ He was slightly hampered by a hip injury at various parts of the 2023 season but
 
 ## Related Notes
 
+
 - [Aurora Sightings Beyond Usual Latitudes Greece Turkey Australia](aurora_sightings_beyond_usual_latitudes_greece_turkey_australia.md): also mentions Western Australia, from a different document.
 - [Angus Hastie AFL Draft Prospect 2023](angus_hastie_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Archer Reid AFL Draft Prospect 2023](archer_reid_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
@@ -19,6 +20,8 @@ He was slightly hampered by a hip injury at various parts of the 2023 season but
 - [Caiden Cleary AFL Draft Prospect 2023](caiden_cleary_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Caleb Windsor AFL Draft Prospect 2023](caleb_windsor_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
 - [Charlie Edwards AFL Draft Prospect 2023](charlie_edwards_afl_draft_prospect_2023.md): another profile on the same list, from the same document.
+- [Clay Hall AFL Draft Prospect 2023](clay_hall_afl_draft_prospect_2023.md): same source document (doc_0244)
+- [Colby McKercher AFL Draft Prospect 2023](colby_mckercher_afl_draft_prospect_2023.md): same source document (doc_0244)
 
 ## Source
 

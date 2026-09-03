@@ -13,6 +13,7 @@ The jump-scare origin is a specific sequence: one character stalks another, and 
 
 ## Related Notes
 
+
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another pick from the same Halloween Countdown article
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): shares the streaming-service topic tag
 - [Amazon 65-Inch Fire TV QLED Deal](amazon_65_inch_fire_tv_qled_deal.md): shares the streaming-service tag from a hardware article
@@ -21,6 +22,16 @@ The jump-scare origin is a specific sequence: one character stalks another, and 
 - [Amazon Fire TV Stick 4K](amazon_fire_tv_stick_4k.md): another streaming-service-tagged hardware note
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares the streaming-service topic tag
 - [AMC Theatres Direct Distribution of Concert Films](amc_theatres_direct_distribution_of_concert_films.md): shares the streaming-service tag from a distribution article
+- [American Horror Story: NYC](american_horror_story_nyc_season.md): same source document (doc_0165)
+- [Apostle (Gareth Evans)](apostle_gareth_evans_folk_horror.md): same source document (doc_0165)
+- [Creepshow (1982 Horror Anthology)](creepshow_1982_horror_anthology.md): same source document (doc_0165)
+- [Curve (Tim Egan Horror Short)](curve_tim_egan_horror_short.md): same source document (doc_0165)
+- [Dracula 2000 (Dimension Films)](dracula_2000_dimension_films.md): same source document (doc_0165)
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0165)
+- [Ginger Snaps (Werewolf Body Horror)](ginger_snaps_werewolf_body_horror.md): same source document (doc_0165)
+- [Gravity Falls: Northwest Mansion Mystery](gravity_falls_northwest_mansion_mystery.md): same source document (doc_0165)
+- [Harper's Island (Slasher Series)](harpers_island_slasher_series.md): same source document (doc_0165)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

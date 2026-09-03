@@ -11,9 +11,20 @@ Clancy appears to have made it up to the streamer community in time for this yea
 
 ## Related Notes
 
+
 - [Brave Software Layoffs](brave_software_layoffs.md): shares the layoffs-and-restructuring theme, from a different source document.
 - [CollegeHumor, IAC Layoffs And The Sale To Sam Reich](collegehumor_iac_layoffs_and_sale_to_sam_reich.md): shares layoffs and streaming-service themes, from a different source document.
 - [Azarus CEO On Curated Versus Grassroots Sports Streaming](azarus_ceo_on_curated_versus_grassroots_sports_streaming.md): overlaps in content on Twitch, streamers and creators, from a different source document.
+- [Amazon Prime Air Pharmacy Drone Delivery](amazon_prime_air_pharmacy_drone_delivery.md): shares layoffs, layoffs_and_restructuring; different source document
+- [Calls for Creative Experimentation in VTuber Agencies](calls_for_creative_experimentation_in_vtuber_agencies.md): shares creator_economy, streaming_service; different source document
+- [Las Vegas Strip Navigation And Accessibility Problems](las_vegas_strip_navigation_and_accessibility_problems.md): same source document (doc_0551)
+- [Loss Of Spontaneous Creator Meetups](loss_of_spontaneous_creator_meetups.md): same source document (doc_0551)
+- [Moni's UserVoice TwitchCon Critique](moni_uservoice_twitchcon_critique.md): same source document (doc_0551)
+- [The Third Place](third_place_sociological_concept.md): same source document (doc_0551)
+- [Third Places And Twitch Community Building](third_places_and_twitch_community_building.md): same source document (doc_0551)
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Layoffs](term_layoffs.md): uses the concept layoffs
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

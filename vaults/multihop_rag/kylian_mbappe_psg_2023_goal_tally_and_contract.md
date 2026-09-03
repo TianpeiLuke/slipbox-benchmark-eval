@@ -13,6 +13,7 @@ PSG had no games left to play in 2023 due to the French winter break, leaving Mb
 
 ## Related Notes
 
+
 - [Champions League 2023-24 Group C: Real Madrid and Napoli](champions_league_2023_24_group_c_real_madrid_napoli.md): also discusses Real Madrid, Mbappe's suitor, from a different source document.
 - [Champions League 2023-24 Group F: Dortmund and PSG](champions_league_2023_24_group_f_dortmund_psg.md): also discusses Paris Saint-Germain, from a different source document.
 - [Champions League 2023-24 Group Stage Overview](champions_league_2023_24_group_stage_overview.md): also discusses Paris Saint-Germain and Real Madrid, from a different source document.
@@ -21,6 +22,8 @@ PSG had no games left to play in 2023 due to the French winter break, leaving Mb
 - [The 2023 Calendar-Year Top Goalscorer Race](calendar_year_2023_top_goalscorer_race.md): same source document, framing the race Mbappe could not win.
 - [Cristiano Ronaldo's Al Nassr Move and 2023 Goal Tally](cristiano_ronaldo_al_nassr_move_and_2023_goal_tally.md): same source document, on the player Mbappe could not catch.
 - [Erling Haaland's Manchester City 2023 Goal Tally](erling_haaland_manchester_city_2023_goal_tally.md): same source document, on another contender in the same ranking.
+- [Harry Kane's 2023 Goal Tally And Bayern Munich Scoring Records](harry_kane_bayern_munich_2023_scoring_records.md): same source document (doc_0277)
+- [Jamie Carragher's "Sad End" Verdict On Ronaldo's Saudi Move](jamie_carragher_criticism_of_ronaldo_saudi_transfer.md): same source document (doc_0277)
 
 ## Source
 

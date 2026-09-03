@@ -11,6 +11,7 @@ The article's accompanying image credit places Saul "Canelo" Alvarez of Mexico a
 
 ## Related Notes
 
+
 - [Benavidez Andrade Undercard and Jermall Charlo Return](benavidez_andrade_undercard_and_jermall_charlo_return.md): shares the Charlo and super-middleweight subject matter, from a different source document.
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): shares the arena and super-middleweight subject matter, from a different source document.
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): covers the Jermell Charlo fight referenced here, from a different source document.
@@ -19,6 +20,8 @@ The article's accompanying image credit places Saul "Canelo" Alvarez of Mexico a
 - [Canelo and McGregor Pay-Per-View Purse History](canelo_and_mcgregor_pay_per_view_purse_history.md): the PPV earnings record, from the same article (doc_0194).
 - [Canelo Projected Path to Mayweather Wealth](canelo_projected_path_to_mayweather_wealth.md): the projection built on this $180 million figure, from the same article (doc_0194).
 - [Canelo vs McGregor Superfight Revenue Case](canelo_vs_mcgregor_superfight_revenue_case.md): the revenue argument, from the same article (doc_0194).
+- [How An X Feud Turned Conor McGregor vs Canelo Alvarez Into A Crossover Boxing Prospect](crossover_boxing_and_the_mcgregor_canelo_feud.md): same source document (doc_0194)
+- [Floyd Mayweather's $450 Million Net Worth And Billion-Dollar Career Earnings](floyd_mayweather_net_worth_and_career_earnings.md): same source document (doc_0194)
 
 ## Source
 

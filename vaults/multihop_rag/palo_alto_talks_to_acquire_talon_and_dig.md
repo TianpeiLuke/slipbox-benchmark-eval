@@ -13,11 +13,18 @@ The approach was proactive: from TechCrunch's understanding Palo Alto approached
 
 ## Related Notes
 
+
 - [Beeper Funding and Investors](beeper_funding_and_investors.md): also covers Palo Alto, from a different source document.
 - [Cybercrime Cost Growth Drives Cybersecurity Demand](cybercrime_cost_growth_drives_cybersecurity_demand.md): also covers Palo Alto Networks, from a different source document.
 - [Dave Clark Hiring and Flexport IPO Plan](dave_clark_hiring_and_flexport_ipo_plan.md): shares the earnings report and initial public offering theme, from a different source document.
 - [NTPC Capacity Expansion and NGEL IPO Plan](ntpc_capacity_expansion_and_ngel_ipo_plan.md): shares the earnings report and initial public offering theme, from a different source document.
 - [Palo Alto Networks Acquires Dig Security](palo_alto_networks_acquires_dig_security.md): also covers Dig Security, Palo Alto, from a different source document.
+- [The 2023 Cybersecurity Consolidation Wave](cybersecurity_consolidation_wave_2023.md): same source document (doc_0372)
+- [Cybersecurity Spending Resilience And Breach Costs](cybersecurity_spending_resilience_and_breach_costs.md): same source document (doc_0372)
+- [Enterprise Browser And Cloud Data Security As Categories](enterprise_browser_and_cloud_data_security_categories.md): same source document (doc_0372)
+- [The Platform Versus Point Solution Pendulum In Security](platform_versus_point_solution_pendulum_in_security.md): same source document (doc_0372)
+- [Initial Public Offering (IPO)](term_initial_public_offering.md): uses the concept initial public offering
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

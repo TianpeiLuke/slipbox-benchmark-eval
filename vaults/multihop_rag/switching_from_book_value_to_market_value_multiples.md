@@ -11,6 +11,7 @@ The illustrating case is the 2003-2007 bull market, when many textile stocks, fo
 
 ## Related Notes
 
+
 - [AirPods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): shares a corpus pricing-and-discount tag, from a different source document.
 - [AirPods Pro Second Generation Lightning Deal](airpods_pro_second_generation_lightning_deal.md): shares a corpus pricing-and-discount tag, from a different source document.
 - [Amazon Buy Box Price Parity Enforcement](amazon_buy_box_price_parity_enforcement.md): shares a corpus pricing-and-discount tag, from a different source document.
@@ -19,6 +20,17 @@ The illustrating case is the 2003-2007 bull market, when many textile stocks, fo
 - [Amazon Fire TV Stick Deals](amazon_fire_tv_stick_deals.md): shares a corpus pricing-and-discount tag, from a different source document.
 - [Amazon Kindle And Kindle Paperwhite](amazon_kindle_and_kindle_paperwhite.md): shares a corpus pricing-and-discount tag, from a different source document.
 - [Amazon October Prime Big Deal Days 2023](amazon_october_prime_big_deal_days_2023.md): shares a corpus pricing-and-discount tag, from a different source document.
+- [Bharti Airtel: The EV/EBITDA Case That PE Would Have Missed](bharti_airtel_ev_ebitda_valuation_case.md): same source document (doc_0418)
+- [Enterprise Value Multiples](enterprise_value_multiples.md): same source document (doc_0418)
+- [Equity Multiples Must Use Shareholder Line Items](equity_multiples_and_shareholder_line_items.md): same source document (doc_0418)
+- [Equity Valuations Must Be Judged Against Rising Bond Yields](equity_valuations_versus_rising_bond_yields.md): same source document (doc_0418)
+- [Ketchup Economics: The Peer-Multiple Fallacy](ketchup_economics_peer_multiple_fallacy.md): same source document (doc_0418)
+- [Layering Comparisons Against Growth And A Stock's Own History](layered_comparison_against_growth_and_own_history.md): same source document (doc_0418)
+- [Leverage Amplifies The Effect Of An EV Change On Equity Value](leverage_amplifies_ev_change_on_equity_value.md): same source document (doc_0418)
+- [Non-P&L Multiples Are Only Usable With A Credible Story](non_pl_multiples_require_a_credible_story.md): same source document (doc_0418)
+- [Price To EBITDA Hides Debt: A Worked Example](price_to_ebitda_ignores_debt_worked_example.md): same source document (doc_0418)
+- [Relative Valuation: Definition And Prevalence](relative_valuation_definition_and_prevalence.md): same source document (doc_0418)
+- [Discount and MSRP](term_discount_and_msrp.md): uses the concept discount and msrp
 
 ## Source
 

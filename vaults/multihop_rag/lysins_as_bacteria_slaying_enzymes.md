@@ -11,6 +11,7 @@ They act like tiny swords that slice through the outer wall of a bacterial cell,
 
 ## Related Notes
 
+
 - [Unculturable Canine Bacterium and the Doxycycline Antibiotic Choice](unculturable_canine_bacterium_doxycycline_antibiotic_choice.md): another case about matching an antibacterial agent to a specific bacterium.
 - [Antibiotic Stewardship Practices](antibiotic_stewardship_practices.md): from the same article, on the interim measures used while lysins are still in trials.
 - [Bacteriophage Therapy Basics](bacteriophage_therapy_basics.md): from the same article, on the phages that deploy lysins in nature.
@@ -19,6 +20,8 @@ They act like tiny swords that slice through the outer wall of a bacterial cell,
 - [CRISPR-Based Antibacterial Therapy](crispr_based_antibacterial_therapy.md): from the same article, on another targeted antibacterial approach.
 - [CRISPR-Cas System Mechanism](crispr_cas_system_mechanism.md): from the same article, on the phage-bacteria conflict these tools are drawn from.
 - [Global Burden of Antibiotic-Resistant Infections](global_burden_of_antibiotic_resistant_infections.md): from the same article, quantifying the problem lysins are meant to help solve.
+- [How Antibiotic Resistance Emerges and Spreads](how_antibiotic_resistance_emerges_and_spreads.md): same source document (doc_0566)
+- [Peptide Nucleic Acids as Antibacterials](peptide_nucleic_acids_as_antibacterials.md): same source document (doc_0566)
 
 ## Source
 

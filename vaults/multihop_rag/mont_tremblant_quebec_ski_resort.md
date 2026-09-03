@@ -13,6 +13,7 @@ British Airways Holidays has trips to the Fairmont Tremblant, one of the more gr
 
 ## Related Notes
 
+
 - [British Airways Holidays Dubai Packages](british_airways_holidays_dubai_packages.md): another British Airways Holidays package covered in a different document
 - [Niseko, Japan Ski Resort](niseko_japan_ski_resort.md): another resort priced from London Heathrow, in a different guide
 - [Vail, Colorado Ski Resort](vail_colorado_ski_resort.md): another resort priced from London Heathrow, in a different guide
@@ -21,6 +22,8 @@ British Airways Holidays has trips to the Fairmont Tremblant, one of the more gr
 - [Fernie Alpine Ski Resort](fernie_alpine_ski_resort.md): another Canadian resort from the same guide
 - [Lake Louise Ski Resort, Banff](lake_louise_ski_resort_banff.md): another Canadian resort from the same guide
 - [Revelstoke Mountain Ski Resort](revelstoke_mountain_ski_resort.md): another Canadian resort from the same guide
+- [Sunshine Village: Banff Snow Quality And A Season To Late May](sunshine_village_banff_ski_resort.md): same source document (doc_0572)
+- [Whistler Blackcomb: North America's Largest Ski Resort](whistler_blackcomb_ski_resort.md): same source document (doc_0572)
 
 ## Source
 

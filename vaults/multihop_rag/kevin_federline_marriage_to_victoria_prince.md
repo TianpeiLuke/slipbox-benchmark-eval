@@ -11,6 +11,7 @@ The marriage is presented as the post-divorce chapter of the Spears-Federline st
 
 ## Related Notes
 
+
 - [Jordan Croft AFL Draft Prospect 2023](jordan_croft_afl_draft_prospect_2023.md): an unrelated sports article surfacing on shared name and volleyball terms
 - [Kevin Federline Custody Of Britney Spears Sons](kevin_federline_custody_of_britney_spears_sons.md): the co-parenting arrangement running alongside this second family
 - [Kristen Bell Shared Bedroom Character Building](kristen_bell_shared_bedroom_character_building.md): another article about a married couple raising daughters
@@ -19,6 +20,8 @@ The marriage is presented as the post-divorce chapter of the Spears-Federline st
 - [Britney Spears Adnan Ghalib Relationship](britney_spears_adnan_ghalib_relationship.md): another relationship catalogued in the same timeline article
 - [Britney Spears And Justin Timberlake Relationship](britney_spears_and_justin_timberlake_relationship.md): the earlier romance from the same timeline
 - [Britney Spears Charlie Ebersol Relationship](britney_spears_charlie_ebersol_relationship.md): a further entry in the same relationship timeline
+- [Britney Spears' Conservatorship Under Jamie Spears](britney_spears_conservatorship_under_jamie_spears.md): same source document (doc_0358)
+- [Britney Spears And David Lucado](britney_spears_david_lucado_relationship.md): same source document (doc_0051)
 
 ## Source
 

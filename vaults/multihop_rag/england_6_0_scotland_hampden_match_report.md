@@ -11,6 +11,7 @@ Where England had played well for the opening 10 minutes against the Dutch only 
 
 ## Related Notes
 
+
 - [Belgium-England First Half Goals and Incidents](belgium_england_first_half_goals_and_incidents.md): also covers Fran Kirby, from a different document.
 - [Belgium-England Lineups and Referee, October 2023](belgium_england_lineups_and_referee_october_2023.md): also covers Fran Kirby and Georgia Stanway, from a different document.
 - [Belgium-England Second Half and the Wullaert Penalty](belgium_england_second_half_and_wullaert_penalty.md): also covers Georgia Stanway, from a different document.
@@ -19,6 +20,7 @@ Where England had played well for the opening 10 minutes against the Dutch only 
 - [England and Scotland Lineup Changes for the Nations League Finale](england_and_scotland_lineup_changes_nations_league_finale.md): gives the teams that played this match, from the same document.
 - [England's Defensive Brittleness and Dropped Points](england_lionesses_defensive_brittleness_and_dropped_points.md): argues why six goals were not enough, from the same document.
 - [England's Olympic Qualification Heartbreak](england_lionesses_olympic_qualification_heartbreak.md): gives the outcome this win could not change, from the same document.
+- [The Scotland Commitment Row And The Gulf In Class](scotland_commitment_row_and_gulf_in_class.md): same source document (doc_0184)
 
 ## Source
 

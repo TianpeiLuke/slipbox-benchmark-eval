@@ -13,11 +13,18 @@ The counter-case rests on consequences. Most of us know in our gut that the Crim
 
 ## Related Notes
 
+
 - [2023 Conference Championship Game Slate](2023_conference_championship_game_slate.md): also concerns Florida State, from a different document.
 - [Alabama's 2023 CFP Case and the SEC Championship Game](alabama_2023_cfp_case_and_sec_championship_game.md): also concerns the Crimson Tide, from a different document.
 - [Alabama's 2023 Strength of Schedule and Record Metrics](alabama_2023_strength_of_schedule_and_record_metrics.md): also concerns the Crimson Tide, from a different document.
 - [Alabama at Texas A&M 2023 Week 6 Betting Line](alabama_at_texas_am_2023_week6_betting_line.md): overlaps on Alabama and the Crimson Tide, from a different document.
 - [Alabama CFP Head-to-Head Debates: Texas and Florida State](alabama_cfp_head_to_head_debates_texas_florida_state.md): also concerns the Crimson Tide and Florida State, from a different document.
+- [The CFP Committee's "Different Team" Justification For Florida State](cfp_committee_florida_state_different_team_justification.md): same source document (doc_0155)
+- [CFP Twelve-Team Expansion And The Sanctity Of The Regular Season](cfp_twelve_team_expansion_and_regular_season_sanctity.md): same source document (doc_0155)
+- [College Football's "Best Versus Most Deserving" Debate](college_football_best_versus_most_deserving_debate.md): same source document (doc_0155)
+- [The 2023 College Football Playoff Final Four Field](college_football_playoff_2023_final_four_field.md): same source document (doc_0155)
+- [Florida State's Exclusion And Jordan Travis' Injury](florida_state_exclusion_and_jordan_travis_injury.md): same source document (doc_0155)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

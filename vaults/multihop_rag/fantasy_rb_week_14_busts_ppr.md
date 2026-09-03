@@ -13,6 +13,7 @@ The same reasoning applied to Zach Charbonnet (@ 49ers): it was great that the W
 
 ## Related Notes
 
+
 - [Baker Mayfield 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): also concerns Tampa Bay, from a different document.
 - [Baker Mayfield Week 15 Stat Line at Lambeau](baker_mayfield_week_15_stat_line_at_lambeau.md): also concerns Tampa Bay, from a different document.
 - [Bills Bengals SNF First Quarter](bills_bengals_snf_first_quarter.md): also discusses James Cook, from a different document.
@@ -21,6 +22,8 @@ The same reasoning applied to Zach Charbonnet (@ 49ers): it was great that the W
 - [Fantasy RB PPR Rankings Week 14 Full List](fantasy_rb_ppr_rankings_week_14_full_list.md): where these downgrades land in the list, from the same document.
 - [Fantasy RB Week 14 Bye Week Impact](fantasy_rb_week_14_bye_week_impact.md): the byes shaping the same week, from the same document.
 - [Fantasy RB Week 14 Sleepers PPR](fantasy_rb_week_14_sleepers_ppr.md): the upgrades from the same article.
+- [Week 14 PPR Running Backs To Start](fantasy_rb_week_14_top_starts_ppr.md): same source document (doc_0317)
+- [Week 14 Running Back Injury Report](nfl_week_14_running_back_injury_report.md): same source document (doc_0317)
 
 ## Source
 

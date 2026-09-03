@@ -11,6 +11,7 @@ The grounds are comparative and statistical. He was outshined by fellow 2022 dra
 
 ## Related Notes
 
+
 - [AFC Midseason Team MVP Roundup Premise](afc_midseason_team_mvp_roundup_premise.md): overlaps on wideout evaluation language, from a different document.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): overlaps on receiver production terms, from a different document.
 - [Chiefs Packers Week 13 First Half Sequence](chiefs_packers_week_13_first_half_sequence.md): also discusses Christian Watson, from a different document.
@@ -19,6 +20,8 @@ The grounds are comparative and statistical. He was outshined by fellow 2022 dra
 - [Aaron Glenn Lions Hot Seat](aaron_glenn_lions_hot_seat.md): another entry in the same roundup, from the same document.
 - [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md): another entry in the same roundup, from the same document.
 - [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md): another entry in the same roundup, from the same document.
+- [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md): same source document (doc_0437)
+- [Dennis Allen Saints Hot Seat](dennis_allen_saints_hot_seat.md): same source document (doc_0437)
 
 ## Source
 

@@ -11,6 +11,7 @@ ART is given as daily pills or as monthly or bimonthly injections. "People livin
 
 ## Related Notes
 
+
 - [Beyond Antibiotics: The Emerging Therapeutic Arsenal](beyond_antibiotics_emerging_therapeutic_arsenal.md): another Live Science survey of drug-based responses to infection.
 - [Cannabis Use in Pregnancy: JAMA Study Findings](cannabis_use_in_pregnancy_jama_study_findings.md): another Live Science medical report.
 - [CRISPR-Based Antibacterial Therapy](crispr_based_antibacterial_therapy.md): another Live Science piece on treating infection with newer molecular tools.
@@ -19,6 +20,8 @@ ART is given as daily pills or as monthly or bimonthly injections. "People livin
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): from the same article, on the population that survives because of this therapy.
 - [Country Progress Toward the 95-95-95 Targets](country_progress_toward_95_95_95_targets.md): from the same article, measuring how widely ART and suppression have been achieved.
 - [CRISPR-Cas System Mechanism](crispr_cas_system_mechanism.md): from the same CRISPR article, describing the tool proposed to go beyond lifetime therapy.
+- [EBT-101 CRISPR HIV Gene Therapy](ebt_101_crispr_hiv_gene_therapy.md): same source document (doc_0472)
+- [EBT-101 Trial Next Steps and Follow-Up](ebt_101_trial_next_steps_and_follow_up.md): same source document (doc_0472)
 
 ## Source
 

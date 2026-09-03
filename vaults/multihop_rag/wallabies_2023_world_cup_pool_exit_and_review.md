@@ -13,11 +13,18 @@ On the review process, Rugby Australia had so far said it intended backing Jones
 
 ## Related Notes
 
+
 - [Case for Schmidt Bringing Rugby Smarts to the Wallabies](case_for_schmidt_bringing_rugby_smarts_to_the_wallabies.md): a rival coaching case for the same job, different source document
 - [Gio Reyna USMNT Return and Berhalter Reconciliation](gio_reyna_usmnt_return_and_berhalter_reconciliation.md): another national-team post-tournament fallout, different source document
 - [Graham Arnold 2022 World Cup Qualification Crisis](graham_arnold_2022_world_cup_qualification_crisis.md): another Australian national coach under review, different source document
 - [ICC World Cup 2023 Top Run Scorers](icc_world_cup_2023_top_run_scorers.md): another World Cup document, different sport and source
 - [Joe Schmidt Coaching Record Ireland and All Blacks](joe_schmidt_coaching_record_ireland_and_all_blacks.md): another document covering the Rugby Championship and coaching candidates
+- [Eddie Jones' Case For Reforming The Australian Rugby System](eddie_jones_case_for_reforming_australian_rugby_system.md): same source document (doc_0407)
+- [Eddie Jones Commits To The Wallabies Job After The 2023 World Cup](eddie_jones_commitment_to_wallabies_job_2023.md): same source document (doc_0407)
+- [Jones Defends Leaving Cooper And Hooper Out Of The World Cup Squad](eddie_jones_defends_youth_selection_over_cooper_and_hooper.md): same source document (doc_0407)
+- [Eddie Jones Denies Talks Over The Japan Head Coach Role](eddie_jones_denies_japan_head_coach_talks.md): same source document (doc_0407)
+- [World Cup](term_world_cup.md): uses the concept world cup
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
 
 ## Source
 

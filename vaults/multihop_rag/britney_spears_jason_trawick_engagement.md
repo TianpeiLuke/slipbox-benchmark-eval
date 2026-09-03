@@ -11,6 +11,7 @@ Spears said in a statement sent by her representative to ABC News: "Jason and I 
 
 ## Related Notes
 
+
 - [Britney Spears Adnan Ghalib Relationship](britney_spears_adnan_ghalib_relationship.md): the relationship that preceded this one in the same timeline
 - [Britney Spears And Justin Timberlake Relationship](britney_spears_and_justin_timberlake_relationship.md): the earliest romance catalogued in the same article
 - [Britney Spears Charlie Ebersol Relationship](britney_spears_charlie_ebersol_relationship.md): a later entry in the same timeline
@@ -19,6 +20,8 @@ Spears said in a statement sent by her representative to ABC News: "Jason and I 
 - [Britney Spears Kevin Federline Marriage And Divorce](britney_spears_kevin_federline_marriage_and_divorce.md): the marriage that produced the boys Trawick refers to
 - [Britney Spears Memoir The Woman In Me](britney_spears_memoir_the_woman_in_me.md): the memoir this timeline was published ahead of
 - [Britney Spears Sam Asghari Marriage And Divorce](britney_spears_sam_asghari_marriage_and_divorce.md): the last relationship in the same timeline
+- [Britney Spears' Unconfirmed Romances With Wade Robson And Colin Farrell](britney_spears_unconfirmed_romances_wade_robson_and_colin_farrell.md): same source document (doc_0051)
+- [Justin Timberlake's Apology And Support For Britney Spears](justin_timberlake_apology_and_support_for_britney_spears.md): same source document (doc_0051)
 
 ## Source
 

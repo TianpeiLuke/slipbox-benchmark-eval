@@ -13,6 +13,7 @@ The warrant is Pochettino's view of what management actually requires, which ext
 
 ## Related Notes
 
+
 - [Arsenal Chelsea London Derby October 2023 Form Guide](arsenal_chelsea_london_derby_october_2023_form_guide.md): overlaps on the Gunners under Arteta, from a different document.
 - [Chelsea Selection Crisis and Fixture Run](chelsea_selection_crisis_and_fixture_run.md): overlaps on Pochettino and Arsenal, from a different document.
 - [Pochettino and Arteta's Friendship From PSG](pochettino_arteta_friendship_from_psg.md): overlaps on Pochettino's view of Arteta as a coach, from a different document.
@@ -21,6 +22,7 @@ The warrant is Pochettino's view of what management actually requires, which ext
 - [Arteta and Pochettino's Derby-Day Competitive Edge](arteta_pochettino_derby_day_competitive_edge.md): drawn from the same document (doc_0110).
 - [Chelsea Arsenal Derby Team News October 2023](chelsea_arsenal_derby_team_news_october_2023.md): drawn from the same document (doc_0110).
 - [Havertz and Jorginho's Return to Stamford Bridge](havertz_jorginho_return_to_stamford_bridge.md): drawn from the same document (doc_0110).
+- [Pochettino's Mentorship Of Arteta At PSG](pochettino_mentorship_of_arteta_at_psg.md): same source document (doc_0110)
 
 ## Source
 

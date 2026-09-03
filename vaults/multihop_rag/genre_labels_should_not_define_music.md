@@ -11,6 +11,7 @@ The operating philosophy that follows is that great ideas transcend genre: CMG h
 
 ## Related Notes
 
+
 - [TikTok Glocalization Of International Music](tiktok_glocalization_of_international_music.md): concerns music genres and streaming volume, from a different source document.
 - [Beatles Now And Then 2023 Release](beatles_now_and_then_2023_release.md): drawn from the same interview and is a release that crossed formats and audiences.
 - [Capitol 2023 Frontline Roster Highlights](capitol_2023_frontline_roster_highlights.md): drawn from the same interview and shows a roster spanning what would usually be separate genres.
@@ -19,6 +20,8 @@ The operating philosophy that follows is that great ideas transcend genre: CMG h
 - [Capitol Music Group Leadership Turmoil 2020 2021](capitol_music_group_leadership_turmoil_2020_2021.md): drawn from the same interview and gives the leadership context for this philosophy.
 - [Capitol Music Group Organisational Reset Priorities](capitol_music_group_organisational_reset_priorities.md): drawn from the same interview and includes the replacement of outdated terminology.
 - [Capitol Music Group Pre 2021 Decline Diagnosis](capitol_music_group_pre_2021_decline_diagnosis.md): drawn from the same interview and covers the culture change this view belongs to.
+- [Capitol Music Group's Turnaround Results In 2023](capitol_music_group_turnaround_results_2023.md): same source document (doc_0212)
+- [Caroline And Virgin Music Group's Spin-Out From CMG](caroline_virgin_music_group_spin_out_from_cmg.md): same source document (doc_0212)
 
 ## Source
 

@@ -11,6 +11,7 @@ The argument, as put to TechCrunch in December 2023, is that the market is not p
 
 ## Related Notes
 
+
 - [Bank Of America Housing Turbulence Warning 2023](bank_of_america_housing_turbulence_warning_2023.md): overlapping coverage of housing, mortgages and rates, from a different source document.
 - [Housing Affordability Worse Than 2006 Peak](housing_affordability_worse_than_2006_peak.md): overlapping coverage of housing affordability and inventory, from a different source document.
 - [Housing Market: 1980s Analogy Rather Than 2008](housing_market_1980s_analogy_rather_than_2008.md): overlapping coverage of interest rates and the housing market, from a different source document.
@@ -19,6 +20,8 @@ The argument, as put to TechCrunch in December 2023, is that the market is not p
 - [Investor Case For Affordable Starter Home Supply](investor_case_for_affordable_starter_home_supply.md): drawn from the same source document (doc_0430), on why new construction misses this market.
 - [Simply Homes AI Underwriting Model](simply_homes_ai_underwriting_model.md): drawn from the same source document (doc_0430), the method one company uses to address the gap.
 - [Simply Homes Company Profile And Funding](simply_homes_company_profile_and_funding.md): drawn from the same source document (doc_0430), the company addressing this problem.
+- [Simply Homes' Interest-Rate Underwriting Resilience](simply_homes_interest_rate_underwriting_resilience.md): same source document (doc_0430)
+- [Simply Homes' Operating Metrics And Markets](simply_homes_operating_metrics_and_markets.md): same source document (doc_0430)
 
 ## Source
 

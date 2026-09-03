@@ -11,6 +11,7 @@ Neill, a staple of this list, is absolutely fantastic responding to the horrors 
 
 ## Related Notes
 
+
 - [Prince Of Darkness, John Carpenter](prince_of_darkness_john_carpenter.md): the other apocalypse trilogy entry, covered in a different document
 - [The Exorcist III](the_exorcist_iii.md): another film discussed alongside John Carpenter's work, from a different document
 - [Alone, 2020, John Hyams](alone_2020_john_hyams_film.md): another pick from the same Polygon horror guide
@@ -19,6 +20,8 @@ Neill, a staple of this list, is absolutely fantastic responding to the horrors 
 - [Crimes Of The Future, 2022, David Cronenberg](crimes_of_the_future_2022_david_cronenberg.md): another pick from the same Polygon horror guide
 - [Cure, 1997, Kiyoshi Kurosawa](cure_1997_kiyoshi_kurosawa_film.md): another pick from the same Polygon horror guide
 - [Encounters Of The Spooky Kind, Sammo Hung](encounters_of_the_spooky_kind_sammo_hung.md): another pick from the same Polygon horror guide
+- [Eyes Without a Face (Georges Franju)](eyes_without_a_face_georges_franju.md): same source document (doc_0563)
+- [Hellraiser: Clive Barker's Lament Configuration And The Cenobites](hellraiser_1987_clive_barker_film.md): same source document (doc_0563)
 
 ## Source
 

@@ -13,11 +13,18 @@ Scope conditions: this is one Seeking Alpha author's view as relayed on December
 
 ## Related Notes
 
+
 - [Alphabet Q3 2023 Earnings Preview](alphabet_q3_2023_earnings_preview.md): another note carrying Seeking Alpha's view of a company ahead of results, from a different source document.
 - [Boeing Q3 2023 Earnings Preview and 737 MAX Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): another Seeking Alpha preview weighing a company-specific read against consensus, from a different source document.
 - [Check Point Recent Quarterly Financials](check_point_recent_quarterly_financials.md): overlaps on analysts reading signs in a company's recent earnings, from a different source document.
 - [Chevron and Exxon Mobil Q3 2023 Earnings Preview](chevron_and_exxon_mobil_q3_2023_earnings_preview.md): another Seeking Alpha preview to compare author and Quant views against, from a different source document.
 - [Cleveland-Cliffs Q3 2023 Earnings Preview](cleveland_cliffs_q3_2023_earnings_preview.md): another Seeking Alpha preview in the same corpus, from a different source document.
+- [Broadcom Q4 Earnings Preview and VMware Integration](broadcom_q4_fy2023_earnings_preview_and_vmware_integration.md): same source document (doc_0581)
+- [December 2023 Earnings Week Secondary Reporters](december_2023_earnings_week_secondary_reporters.md): same source document (doc_0581)
+- [DocuSign Q3 Earnings Preview, December 2023](docusign_q3_fy2024_earnings_preview.md): same source document (doc_0581)
+- [Earnings Week Ahead: December 4-8, 2023](earnings_week_ahead_december_4_8_2023.md): same source document (doc_0581)
+- [GameStop Meme Stock Rally, December 2023](gamestop_meme_stock_rally_december_2023.md): same source document (doc_0581)
+- [Earnings Report](term_earnings_report.md): uses the concept earnings report
 
 ## Source
 

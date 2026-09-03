@@ -11,11 +11,18 @@ Once diagnosed and started on ART, women's viral suppression rates are "high and
 
 ## Related Notes
 
+
 - [CD Unfamiliarity as a Generational Marker](cd_unfamiliarity_as_generational_marker.md): another observation framed around what young people do and do not encounter.
 - [Media Coverage Share as a Barrier for Women's Sports](media_coverage_share_as_barrier_for_womens_sports.md): another account of structural disadvantage facing girls and women.
 - [Sub-Saharan Africa Recorded Music Market Growth](sub_saharan_africa_recorded_music_market_growth.md): shares sub-Saharan Africa as its region of focus.
 - [Aging with HIV and the Vaccine Cure Quest](aging_with_hiv_and_the_vaccine_cure_quest.md): from the same article, on the older end of the HIV-positive population.
 - [Antiretroviral Therapy and Viral Suppression](antiretroviral_therapy_and_viral_suppression.md): from the same article, defining the suppression rates cited here.
+- [Country Progress Toward the 95-95-95 Targets](country_progress_toward_95_95_95_targets.md): same source document (doc_0238)
+- [Global HIV Burden in 2022](global_hiv_burden_2022.md): same source document (doc_0238)
+- [HIV Key Population Treatment Gaps](hiv_key_population_treatment_gaps.md): same source document (doc_0238)
+- [HIV Pre-Exposure Prophylaxis and Other Prevention Tools](hiv_pre_exposure_prophylaxis_prevention_tools.md): same source document (doc_0238)
+- [HIV Treatment Access and Cost Barriers](hiv_treatment_access_and_cost_barriers.md): same source document (doc_0238)
+- [Acquisition](term_acquisition.md): uses the concept acquisition
 
 ## Source
 

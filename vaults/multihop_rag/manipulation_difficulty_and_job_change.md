@@ -11,12 +11,20 @@ The claim follows from a stated goal: "I want to eliminate every menial, mundane
 
 ## Related Notes
 
+
 - [Amazon's Mobile Manipulation Program](amazon_mobile_manipulation_program.md): same source document; the program whose difficulty this argument describes.
 - [Amazon, MIT And Ipsos Robot Perception Study](amazon_mit_ipsos_robot_perception_study.md): same source document; the MIT work Brady ties this to.
 - [People-Centered Robotics Philosophy At Amazon](people_centered_robotics_philosophy_amazon.md): same source document; Brady's more general claim that more robots means more jobs.
 - [Amazon Robot Fleet Scale And Jobs](amazon_robot_fleet_scale_and_jobs.md): same source document; the hiring figures offered alongside the automation record.
 - [Amazon's Delivering The Future 2023 Event](amazon_delivering_the_future_2023_event.md): same source document; the setting for the interview.
 - [Video Game Layoffs 2023 Scale](video_game_layoffs_2023_scale.md): overlaps in content on jobs at scale, from a different source document.
+- [Amazon's Agility Digit Humanoid Pilot As A Test Case](amazon_agility_digit_humanoid_pilot.md): same source document (doc_0528)
+- [Generative AI In Amazon's Robotics Simulation](amazon_generative_ai_in_robotics_simulation.md): same source document (doc_0528)
+- [Amazon's Greenfield And Brownfield Retrofit Capability](amazon_greenfield_brownfield_retrofit_capability.md): same source document (doc_0528)
+- [Amazon's Industrial Innovation Fund And Agility](amazon_industrial_innovation_fund_and_agility.md): same source document (doc_0528)
+- [Amazon's Interest In Bipedal Locomotion](amazon_interest_in_bipedal_locomotion.md): same source document (doc_0528)
+- [Amazon's Machine Learning And Generative AI Adoption](amazon_machine_learning_and_generative_ai_adoption.md): same source document (doc_0528)
+- [Amazon's Machine Learning Flow And Fleet Management](amazon_machine_learning_fleet_and_flow_management.md): same source document (doc_0528)
 
 ## Source
 

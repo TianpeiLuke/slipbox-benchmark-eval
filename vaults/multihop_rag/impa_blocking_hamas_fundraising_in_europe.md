@@ -11,6 +11,7 @@ The intelligence included the name of the organization, its fundraising methods,
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and the Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): overlaps on fraud subject matter, from a different source document.
 - [AI Copyright and Training Disputes](ai_copyright_and_training_disputes.md): overlaps on fraud subject matter, from a different source document.
 - [Alameda Negative Balance Escalation](alameda_negative_balance_escalation.md): overlaps on fraud subject matter, from a different source document.
@@ -19,6 +20,17 @@ The intelligence included the name of the organization, its fundraising methods,
 - [Binance Charges Bsa and Sanctions Violations](binance_charges_bsa_and_sanctions_violations.md): overlaps on fraud subject matter, from a different source document.
 - [Binance DOJ Resolution and CZ Guilty Plea](binance_doj_resolution_and_cz_guilty_plea.md): another financial-crime enforcement action, from a different source document.
 - [Binance Market Position and 2023 Setbacks](binance_market_position_and_2023_setbacks.md): overlaps on fraud subject matter, from a different source document.
+- [Isolating Iran Through FATF, And The Cash Dependency Problem](fatf_iran_isolation_and_cash_dependency.md): same source document (doc_0486)
+- [Hamas Fundraising After October 7](hamas_fundraising_after_october_7.md): same source document (doc_0486)
+- [Hawala As The Main Money Transfer Channel Into Gaza](hawala_money_transfer_into_gaza.md): same source document (doc_0486)
+- [The International Terror Finance Task Force](international_terror_finance_task_force.md): same source document (doc_0486)
+- [Iran's State Funding Of Hamas](iran_state_funding_of_hamas.md): same source document (doc_0486)
+- [Israel's Money Laundering And Terror Financing Prohibition Authority](israel_money_laundering_and_terror_financing_authority.md): same source document (doc_0486)
+- [Private Sector Volunteers In Terror Finance Tracking](private_sector_volunteers_in_terror_finance_tracking.md): same source document (doc_0486)
+- [The Surge In Terror Financing Reports After October 7](surge_in_terror_financing_reports_after_october_7.md): same source document (doc_0486)
+- [Trade-Based Terror Financing Schemes](trade_based_terror_financing_schemes.md): same source document (doc_0486)
+- [The US Treasury's FinCEN And OFAC Response](us_treasury_fincen_and_ofac_response.md): same source document (doc_0486)
+- [Fraud](term_fraud.md): uses the concept fraud
 
 ## Source
 

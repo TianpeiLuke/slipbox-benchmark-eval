@@ -11,6 +11,7 @@ The analytical grounds: those who have followed Andrade's career closely will re
 
 ## Related Notes
 
+
 - [Canelo Alvarez Defeats Jermell Charlo 2023](canelo_alvarez_defeats_jermell_charlo_2023.md): also covers Caleb Plant, the comparison point in this breakdown, from a different source document.
 - [Kevin Durant Most Disrespected Superstar Claim](kevin_durant_most_disrespected_superstar_claim.md): also invokes Michael Jordan, from a different source document.
 - [NBA MVP Award Voting Format and History](nba_mvp_award_voting_format_and_history.md): also invokes Michael Jordan, from a different source document.
@@ -19,6 +20,7 @@ The analytical grounds: those who have followed Andrade's career closely will re
 - [Benavidez Andrade Undercard and Jermall Charlo Return](benavidez_andrade_undercard_and_jermall_charlo_return.md): the undercard for the same event (doc_0446).
 - [Benavidez vs Andrade 2023 Bout Details and Odds](benavidez_vs_andrade_2023_bout_details_and_odds.md): the bout's logistics and odds, from the same preview (doc_0446).
 - [David Benavidez Career and Canelo Alvarez Pursuit](david_benavidez_career_and_canelo_alvarez_pursuit.md): the background on Benavidez that this breakdown builds on (doc_0446).
+- [Demetrius Andrade: A Career Spent Chasing Opponents Who Would Not Fight Him](demetrius_andrade_career_and_avoided_opponents.md): same source document (doc_0446)
 
 ## Source
 

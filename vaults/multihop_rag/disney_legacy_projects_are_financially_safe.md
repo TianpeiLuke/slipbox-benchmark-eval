@@ -11,11 +11,16 @@ The evidence Polygon gives is the gap between reception and revenue — Disney's
 
 ## Related Notes
 
+
 - [Disney's Centennial And The Wish Nostalgia Thesis](disney_centennial_wish_nostalgia_thesis.md): same source; the overall thesis this financial explanation supports.
 - [Disney's Remake And Franchise Oversaturation](disney_remake_and_franchise_oversaturation.md): same source; where the volume of safe projects leads.
 - [Innovation Is Disney's Real Legacy](disney_innovation_as_its_real_legacy.md): same source; the risky alternative this safety is contrasted with.
 - [The Disney Direct-To-Video Sequel Era](disney_direct_to_video_sequel_era.md): same source; an earlier profitable strategy Disney later disowned.
 - [Disney Must Take Creative Risks To Last](disney_must_take_creative_risks_to_last.md): same source; the conclusion that playing it safe does not build a century.
+- [Accelerating Game Nostalgia Cycles](accelerating_game_nostalgia_cycles.md): content overlap 0.11 on remakes, nostalgia, past; different source document
+- [Disney Bundle Trio Streaming Package](disney_bundle_trio_streaming_package.md): content overlap 0.12 on disney, original, without; different source document
+- [Disney Fans' Conflicting Nostalgic Demands](disney_fans_conflicting_nostalgic_demands.md): same source document (doc_0434)
+- [Nostalgia Works Best As A Side Ingredient](nostalgia_works_best_as_a_side_ingredient.md): same source document (doc_0434)
 
 ## Source
 

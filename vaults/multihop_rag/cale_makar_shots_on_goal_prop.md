@@ -11,6 +11,7 @@ The matchup argument is that facing a Devils team reeling from injuries should h
 
 ## Related Notes
 
+
 - [Colorado-Arizona State 2023 First Half](colorado_arizona_state_2023_first_half.md): overlapping Colorado and scoring content, from a different document.
 - [Colorado-Arizona State 2023 Pregame Notes](colorado_arizona_state_2023_pregame_notes.md): another Colorado item touching streaks, separately sourced.
 - [Colorado-Arizona State 2023 Second Half](colorado_arizona_state_2023_second_half.md): also covers Colorado scoring, in a different document.
@@ -19,6 +20,7 @@ The matchup argument is that facing a Devils team reeling from injuries should h
 - [Daniel Sprong Shots on Goal Prop](daniel_sprong_shots_on_goal_prop.md): a third such pick, same source document.
 - [Jesper Bratt UNDER 0.5 Assists](jesper_bratt_assists_under_prop.md): the pick on the other side of this game, same source document.
 - [Injury Context for the Tuesday NHL National Slate](nhl_tuesday_slate_injury_context.md): the injury backdrop this argument uses, same source document.
+- [SuperDraft Player Prop Parlay Mechanics](superdraft_player_prop_parlay_mechanics.md): same source document (doc_0296)
 
 ## Source
 

@@ -11,6 +11,7 @@ Despite that history, Lucado defended his ex in a 2016 interview with the New Yo
 
 ## Related Notes
 
+
 - [Britney Spears Conservatorship Under Jamie Spears](britney_spears_conservatorship_under_jamie_spears.md): the arrangement Lucado publicly questioned, from separate reporting
 - [Eddie Jones Denies Japan Head Coach Talks](eddie_jones_denies_japan_head_coach_talks.md): an unrelated article built on a similar public denial of reported claims
 - [FreeBritney Movement And Conservatorship Termination 2021](freebritney_movement_and_conservatorship_termination_2021.md): the campaign that eventually ended the conservatorship he criticised
@@ -19,6 +20,8 @@ Despite that history, Lucado defended his ex in a 2016 interview with the New Yo
 - [Britney Spears Adnan Ghalib Relationship](britney_spears_adnan_ghalib_relationship.md): an earlier relationship from the same timeline article
 - [Britney Spears And Justin Timberlake Relationship](britney_spears_and_justin_timberlake_relationship.md): the first romance in the same timeline
 - [Britney Spears Charlie Ebersol Relationship](britney_spears_charlie_ebersol_relationship.md): the relationship that followed this one, same timeline
+- [Britney Spears' 55-Hour Marriage To Jason Alexander](britney_spears_jason_alexander_55_hour_marriage.md): same source document (doc_0051)
+- [Britney Spears' Engagement To Jason Trawick](britney_spears_jason_trawick_engagement.md): same source document (doc_0051)
 
 ## Source
 

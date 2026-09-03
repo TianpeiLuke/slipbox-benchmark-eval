@@ -13,11 +13,20 @@ Critic RG writes that like a good DM, the game teases out story beats that feel 
 
 ## Related Notes
 
+
 - [Astarion, Baldur's Gate 3 Vampire Companion](astarion_baldurs_gate_3_vampire_companion.md): covers a companion character from the same game, in a different source document
 - [BG3: Class and Subclass Selection Overview](bg3_class_and_subclass_selection_overview.md): a guide to the same game's systems, from a separate article
 - [BG3: Custom Character vs. Origin Character](bg3_custom_character_vs_origin_character.md): another guide to the same game from a different document
 - [BG3: No Single Best Class Argument](bg3_no_single_best_class_argument.md): an argument about the same game's build choices, from a separate source
 - [Budget Game and Toy Deals](budget_game_and_toy_deals.md): both mention Mass Effect, from an unrelated article
+- [Alan Wake 2](alan_wake_2.md): same source document (doc_0213)
+- [Amnesia: The Bunker](amnesia_the_bunker.md): same source document (doc_0213)
+- [Armored Core 6: Fires of Rubicon](armored_core_6_fires_of_rubicon.md): same source document (doc_0213)
+- [Blasphemous 2](blasphemous_2.md): same source document (doc_0213)
+- [Chants of Sennaar](chants_of_sennaar.md): same source document (doc_0213)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+- [Console Hardware](term_console_hardware.md): uses the concept console hardware
 
 ## Source
 

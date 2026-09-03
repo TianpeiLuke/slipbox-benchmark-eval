@@ -11,6 +11,7 @@ Alzheimer's disease is triggered by the buildup of a protein called amyloid in t
 
 ## Related Notes
 
+
 - [Alzheimer's Disease Prevalence and Early Detection](alzheimers_disease_prevalence_and_early_detection.md): another account of slowing Alzheimer's and catching it early.
 - [Alzheimer's: Lecanemab and Aducanumab Approvals](alzheimers_lecanemab_and_aducanumab_approvals.md): another account of lecanemab and amyloid-targeting approvals.
 - [GLP-1 Receptor Agonists in Diabetes and Weight Loss](glp1_receptor_agonists_diabetes_and_weight_loss.md): another drug class from Eli Lilly.
@@ -19,6 +20,8 @@ Alzheimer's disease is triggered by the buildup of a protein called amyloid in t
 - [The Blood-Brain Barrier and Active Drug Transport](blood_brain_barrier_and_active_drug_transport.md): from the same article, on getting such drugs into the brain.
 - [Blood Tests and Brain Health Clinics for Earlier Diagnosis](blood_tests_and_brain_health_clinics_for_earlier_diagnosis.md): from the same article, on identifying patients who could take them.
 - [Delayed Alzheimer's Diagnosis: Patient Cases](delayed_alzheimers_diagnosis_patient_cases.md): from the same article, on the diagnostic delays that keep patients from treatment.
+- [The First Drugs to Treat the Cause of Alzheimer's](first_drugs_to_treat_the_cause_of_alzheimers.md): same source document (doc_0427)
+- [MHRA and NICE Approval Route and Drug Cost](mhra_and_nice_approval_route_and_drug_cost.md): same source document (doc_0427)
 
 ## Source
 

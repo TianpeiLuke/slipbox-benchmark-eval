@@ -11,6 +11,7 @@ William Byron led the list of NASCAR drivers with a 12th-place ranking, with Kyl
 
 ## Related Notes
 
+
 - [Dale Earnhardt Jr. Visit To High Limit Commonwealth Clash](dale_earnhardt_jr_visit_to_high_limit_commonwealth_clash.md): also discusses the Cup Series and Kyle Larson, from a different document.
 - [High Limit Racing Purse Escalation Mechanism](high_limit_racing_purse_escalation_mechanism.md): also discusses Kyle Larson, from a different document.
 - [High Limit Racing Sprint Car Series](high_limit_racing_sprint_car_series.md): also discusses the Cup Series and Kyle Larson, from a different document.
@@ -19,6 +20,8 @@ William Byron led the list of NASCAR drivers with a 12th-place ranking, with Kyl
 - [Chris Buescher 2023 Season Autosport Snub](chris_buescher_2023_season_autosport_snub.md): one of the exclusions this list frames, from the same document.
 - [Christopher Bell 2023 Season Autosport Snub](christopher_bell_2023_season_autosport_snub.md): one of the exclusions this list frames, from the same document.
 - [Denny Hamlin 2023 Season Autosport Snub](denny_hamlin_2023_season_autosport_snub.md): one of the exclusions this list frames, from the same document.
+- [Ross Chastain 2023 Season Autosport Snub](ross_chastain_2023_season_autosport_snub.md): same source document (doc_0297)
+- [Supercars Drivers In 2023 NASCAR Races](supercars_drivers_in_2023_nascar_races.md): same source document (doc_0297)
 
 ## Source
 

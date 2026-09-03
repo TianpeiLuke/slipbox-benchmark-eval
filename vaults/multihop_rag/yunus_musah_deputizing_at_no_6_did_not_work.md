@@ -13,10 +13,16 @@ The related claim is that removing Reyna compounded the problem: the collapse fr
 
 ## Related Notes
 
+
 - [USMNT 3-1 Defeat to Germany Hartford 2023](usmnt_3_1_defeat_to_germany_hartford_2023.md): another account of the same defeat covering Reyna and Musah.
 - [USMNT Midfield Ratings vs Germany 2023](usmnt_midfield_ratings_vs_germany_2023.md): player-by-player midfield assessment of the same match.
 - [USMNT Substitute Ratings vs Germany 2023](usmnt_substitute_ratings_vs_germany_2023.md): assessment of the substitutions, including Reyna's replacement.
 - [USMNT October 2023 23 Man Roster](usmnt_october_2023_23_man_roster.md): the squad from which this midfield was picked.
+- [The USMNT's October 2023 Friendlies Against Germany And Ghana](usmnt_october_2023_friendlies_vs_germany_and_ghana.md): same sub-plan (USMNT October 2023 camp and the Germany friendly), different source document
+- [Gio Reyna's Return Under Berhalter, And His 45 Minutes Against Germany](gio_reyna_usmnt_return_and_berhalter_reconciliation.md): same source document (doc_0249)
+- [Tyler Adams' Hamstring Injury Left The USMNT Without A Recognized No. 6](tyler_adams_injury_and_usmnt_defensive_midfield_gap.md): same source document (doc_0249)
+- [USMNT Blow An Early Lead And Lose 3-1 To Germany In East Hartford](usmnt_1_3_germany_friendly_match_report.md): same source document (doc_0249)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

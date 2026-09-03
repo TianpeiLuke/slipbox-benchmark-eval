@@ -17,11 +17,17 @@ Minnesota's last possession died in three plays. Dobbs converted 4th & inches on
 
 ## Related Notes
 
+
 - [Bears-Vikings MNF First Half](bears_vikings_mnf_first_half.md): also covers Greg Joseph's kicking, from a different document.
 - [Bears-Vikings MNF Fourth Quarter](bears_vikings_mnf_fourth_quarter.md): overlapping Vikings and Dobbs late-game detail, separately sourced.
 - [Bears-Vikings MNF Result and Recap](bears_vikings_mnf_result_and_recap.md): also covers Joshua Dobbs, in a different document.
 - [Bears-Vikings MNF Third Quarter](bears_vikings_mnf_third_quarter.md): also features Dobbs and Ty Chandler, from a separate source.
 - [Broncos' Fourth-Quarter Comeback and the Ryland Game-Winner](broncos_fourth_quarter_comeback_and_ryland_game_winner.md): another Russell Wilson late comeback, in a different document.
+- [The First Three Quarters Of Vikings-Broncos On Sunday Night](vikings_broncos_snf_first_three_quarters.md): same source document (doc_0037)
+- [Vikings-Broncos Sunday Night Pregame And Broadcast](vikings_broncos_snf_pregame_and_broadcast.md): same source document (doc_0037)
+- [Broncos 21, Vikings 20 On Sunday Night Football](vikings_broncos_snf_result_and_comeback.md): same source document (doc_0037)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

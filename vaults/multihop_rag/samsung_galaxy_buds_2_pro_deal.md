@@ -13,11 +13,20 @@ Engadget's 24 November 2023 Black Friday list put them at $160 with a free $10 A
 
 ## Related Notes
 
+
 - [Airpods Pro Second Generation Deal Listings](airpods_pro_second_generation_deal_listings.md): drawn from the same Verge headphone-deals roundup
 - [Anker Charger And Power Bank Deals](anker_charger_and_power_bank_deals.md): another battery-related Black Friday listing, different document
 - [Amazon Kindle Kids Edition Deal Listings](amazon_kindle_kids_edition_deal_listings.md): another battery-powered device deal listing
 - [Anker 737 Power Bank Deal Listings](anker_737_power_bank_deal_listings.md): linked by shared charging tags, different document
 - [Anker 321 Travel Power Strip](anker_321_travel_power_strip.md): linked by shared charging tags, different document
+- [Anker 3-In-1 MagSafe Charging Cube Deal Listings](anker_3_in_1_magsafe_charging_cube_deal_listings.md): shares battery_life_and_charging, battery_technology; different source document
+- [Amazon Echo Buds (2023) Deal Prices](amazon_echo_buds_2023.md): same source document (doc_0404)
+- [Amazon Echo Buds Second And Third Gen Deals](amazon_echo_buds_second_and_third_gen_deals.md): same source document (doc_0369)
+- [Anker's Early Black Friday Charger Sale](anker_prime_early_black_friday_charger_sale.md): same source document (doc_0527)
+- [Anker Soundcore Liberty 4 NC Earbuds Deal Prices](anker_soundcore_liberty_4_nc_earbuds.md): same source document (doc_0404)
+- [Battery Technology](term_battery_technology.md): uses the concept battery technology
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
+- [Battery Life and Charging](term_battery_life_and_charging.md): uses the concept battery life and charging
 
 ## Source
 

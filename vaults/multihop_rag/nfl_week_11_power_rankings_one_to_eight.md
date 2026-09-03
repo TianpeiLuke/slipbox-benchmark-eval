@@ -13,11 +13,19 @@ The Baltimore Ravens were fifth at 7-3 (2): their offense was fine with Lamar Ja
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also discusses Brock Purdy and the Super Bowl, from a different document.
 - [49ers Rout Cowboys on Week 5 Sunday Night Football](49ers_rout_cowboys_week_5_sunday_night_recap.md): another Brock Purdy item, separately sourced.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also references the Super Bowl, in a different document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers the Ravens and Browns, from a separate source.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Deshaun Watson, in a different document.
+- [NFL Week 11 Power Rankings, 9-16](nfl_week_11_power_rankings_nine_to_sixteen.md): same source document (doc_0119)
+- [NFL Week 11 Power Rankings, 17-24](nfl_week_11_power_rankings_seventeen_to_twenty_four.md): same source document (doc_0119)
+- [NFL Week 11 Power Rankings, 25-32](nfl_week_11_power_rankings_twenty_five_to_thirty_two.md): same source document (doc_0119)
+- [Fine / Penalty](term_fine_penalty.md): uses the concept fine penalty
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

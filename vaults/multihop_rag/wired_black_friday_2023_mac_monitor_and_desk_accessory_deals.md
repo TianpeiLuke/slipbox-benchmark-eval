@@ -13,6 +13,7 @@ The monitor is described as both affordable and well built; WIRED reviews editor
 
 ## Related Notes
 
+
 - [Apple Magic Keyboard Deal Listings](apple_magic_keyboard_deal_listings.md): overlaps on external desk setup gear, from a different source document.
 - [Prime Day 2023 Mac Desk And Hub Accessory Deals](prime_day_2023_mac_desk_and_hub_accessory_deals.md): overlaps on desk, laptop and portable accessories, from a different source document.
 - [Samsung Smart Monitor M8](samsung_smart_monitor_m8.md): overlaps on monitor size and pricing, from a different source document.
@@ -21,6 +22,8 @@ The monitor is described as both affordable and well built; WIRED reviews editor
 - [Apple Watch Series 9, SE And Ultra 2 Holiday 2023 Deals](apple_watch_series_9_se_and_ultra_2_holiday_2023_deals.md): drawn from the same source document (doc_0576).
 - [Beats And AirPods Holiday 2023 Deals](beats_and_airpods_holiday_2023_deals.md): drawn from the same source document (doc_0576).
 - [Why iPhone Discounts Come From Carriers, Not Retailers](why_iphone_discounts_come_from_carriers_not_retailers.md): drawn from the same source document (doc_0576).
+- [WIRED's 2023 Holiday Deal Guide Selection And Pricing Method](wired_2023_holiday_deal_guide_selection_and_pricing_method.md): same source document (doc_0576)
+- [WIRED Black Friday 2023 Apple Pencil And iPad Accessory Deals](wired_black_friday_2023_apple_pencil_and_ipad_accessory_deals.md): same source document (doc_0576)
 
 ## Source
 

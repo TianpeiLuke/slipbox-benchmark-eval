@@ -13,6 +13,7 @@ The qualification it added is that Jefferson's return only helps one owner in ea
 
 ## Related Notes
 
+
 - [Bears Vikings MNF Playoff and Roster Stakes](bears_vikings_mnf_playoff_and_roster_stakes.md): also discusses Justin Jefferson, from a different document.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): also discusses Justin Jefferson, from a different document.
 - [Jordan Addison Week 5 2023 Sit Recommendation](jordan_addison_week5_2023_sit_recommendation.md): also discusses Justin Jefferson, from a different document.
@@ -21,6 +22,8 @@ The qualification it added is that Jefferson's return only helps one owner in ea
 - [Fantasy WR PPR Rankings Week 14 Full List](fantasy_wr_ppr_rankings_week_14_full_list.md): where his return places him, from the same document.
 - [Fantasy WR Week 14 Busts](fantasy_wr_week_14_busts.md): the teammates his return downgrades, from the same document.
 - [Fantasy WR Week 14 Bye Week Impact](fantasy_wr_week_14_bye_week_impact.md): the byes shaping the same week, from the same document.
+- [Week 14 PPR Wide Receiver Sleepers And Waiver Pickups](fantasy_wr_week_14_sleepers_and_waiver_pickups.md): same source document (doc_0197)
+- [Week 14 PPR Wide Receivers To Start](fantasy_wr_week_14_top_starts.md): same source document (doc_0197)
 
 ## Source
 

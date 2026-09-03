@@ -13,6 +13,7 @@ Its significance is partly contextual: the late 1950s were not a booming era for
 
 ## Related Notes
 
+
 - [Detour (1945, Edgar G. Ulmer)](detour_1945_edgar_g_ulmer.md): both are Criterion Channel titles written up in a different source document
 - [I Married a Witch (1942, René Clair Comedy)](i_married_a_witch_1942_rene_clair_comedy.md): another Criterion Channel pick from a separate article
 - [Jordan Croft, AFL Draft Prospect 2023](jordan_croft_afl_draft_prospect_2023.md): shares the film-awards-season and streaming-service topic tags
@@ -20,6 +21,11 @@ Its significance is partly contextual: the late 1950s were not a booming era for
 - [Netflix Originals Premiering November 7 to 10 2023](netflix_originals_premiering_november_7_to_10_2023.md): shares the film-awards-season and streaming-service tags
 - [A Wounded Fawn (Travis Stevens)](a_wounded_fawn_travis_stevens.md): another entry in the same Halloween countdown article
 - [Alone (2020, John Hyams Film)](alone_2020_john_hyams_film.md): another horror pick from the same best-horror-movies article
+- [American Horror Story: NYC](american_horror_story_nyc_season.md): same source document (doc_0165)
+- [Annihilation: The Creepiest Movie About Plants Ever Made](annihilation_2018_alex_garland_film.md): same source document (doc_0563)
+- [Apostle (Gareth Evans)](apostle_gareth_evans_folk_horror.md): same source document (doc_0165)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Film Awards Season](term_film_awards_season.md): uses the concept film awards season
 
 ## Source
 

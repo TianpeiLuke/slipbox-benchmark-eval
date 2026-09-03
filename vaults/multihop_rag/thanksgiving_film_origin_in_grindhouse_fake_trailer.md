@@ -13,12 +13,16 @@ In a metatextual flip that cheekily ribs Hollywood's predictability, the 2023 fi
 
 ## Related Notes
 
+
 - [Thanksgiving Black Friday Opening As Consumerism Critique](thanksgiving_black_friday_opening_as_consumerism_critique.md): same interview, on the Black Friday opening this breakthrough produced
 - [Eli Roth Horror Filmography And Acting Roles](eli_roth_horror_filmography_and_acting_roles.md): same interview, on the director's wider career
 - [Planet Terror Robert Rodriguez Grindhouse](planet_terror_robert_rodriguez_grindhouse.md): covers the same Tarantino/Rodriguez Grindhouse project, different document
 - [December 2023 Box Office Weekend Slowdown](december_2023_box_office_weekend_slowdown.md): also mentions Silent Night, from a different document
 - [Don Mclean Christmas Memories Album](don_mclean_christmas_memories_album.md): also mentions Silent Night, unrelated subject
 - [Owen Teale Barry The Bear Route Into Acting](owen_teale_barry_the_bear_route_into_acting.md): another screen-figure profile sharing the same site boilerplate
+- [Edenglassie: A Dual-Timeline Novel Of Colonial And Contemporary Brisbane](edenglassie_novel_melissa_lucashenko.md): both discuss Save Log; different source document
+- [Black Friday / Cyber Monday](term_black_friday_cyber_monday.md): uses the concept black friday cyber monday
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

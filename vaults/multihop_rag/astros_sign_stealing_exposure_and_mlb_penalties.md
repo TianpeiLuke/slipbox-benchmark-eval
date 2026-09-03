@@ -11,12 +11,18 @@ MLB tried to curb the situation as best it could. In two months the league inves
 
 ## Related Notes
 
+
 - [Braves Release Matt Carpenter](braves_release_matt_carpenter.md): also sourced from Ken Rosenthal's reporting, from a different source document.
 - [Lourdes Gurriel Jr. Diamondbacks Re-Signing](lourdes_gurriel_jr_diamondbacks_re_signing.md): also sourced from Ken Rosenthal, from a different source document.
 - [MLB 2023 Postseason Results Bracket](mlb_2023_postseason_results_bracket.md): also covers the Astros, from a different source document.
 - [Rosenthal Report: Ohtani May Wait for Yamamoto](rosenthal_report_ohtani_may_wait_for_yamamoto.md): also sourced from Ken Rosenthal, from a different source document.
 - [San Francisco Giants 2023 Offseason Signings](san_francisco_giants_2023_offseason_signings.md): also sourced from Ken Rosenthal, from a different source document.
 - [Astros Camera and Trash Can Sign-Stealing Scheme](astros_camera_and_trash_can_sign_stealing_scheme.md): the scheme this investigation uncovered, from the same article (doc_0007).
+- [Astros Players Got Immunity While The Staff Took The Punishment](astros_players_immunity_and_mike_fiers.md): same source document (doc_0007)
+- [The Backlash: Inflatable Trash Cans, "Take The Trash Out" And LeBron James](backlash_to_the_astros_cheating_scandal.md): same source document (doc_0007)
+- [How Jim Crane And Jeff Luhnow Rebuilt A Losing Astros Front Office](houston_astros_front_office_rebuild_under_crane_and_luhnow.md): same source document (doc_0007)
+- [Legal Sign Stealing Versus What The Astros Did](sign_stealing_rules_and_mlb_countermeasures.md): same source document (doc_0007)
+- [Major League Baseball (MLB)](term_major_league_baseball.md): uses the concept major league baseball
 
 ## Source
 

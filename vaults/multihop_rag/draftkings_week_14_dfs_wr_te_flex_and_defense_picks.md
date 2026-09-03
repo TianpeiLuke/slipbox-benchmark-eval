@@ -13,11 +13,18 @@ Jordan (Texans @ Jets) had been a great streaming option and fill-in for those w
 
 ## Related Notes
 
+
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Drake London and Tyler Lockett, from a different document.
 - [Bears Panthers Pregame Storylines Week 10](bears_panthers_pregame_storylines_week_10.md): also frames Chicago as the Windy City, from a different document.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): also invokes the Windy City, from a different document.
 - [Deebo Samuel Yards Per Target Pace](deebo_samuel_yards_per_target_pace.md): also discusses Tyler Lockett, from a different document.
 - [DJ Moore First Game Against the Panthers](dj_moore_first_game_against_the_panthers.md): also discusses DJ Moore and the Bears, from a different document.
+- [DraftKings NFL DFS Contest Format And Scoring Rules](draftkings_nfl_dfs_contest_format_and_scoring.md): same source document (doc_0331)
+- [DraftKings Week 14 DFS Quarterback And Running Back Picks](draftkings_week_14_dfs_qb_and_rb_picks.md): same source document (doc_0331)
+- [SuperDraft's Multiplier-Based DFS Scoring Format](superdraft_dfs_multiplier_scoring_format.md): same source document (doc_0331)
+- [SuperDraft Week 14 NFL DFS Lineup](superdraft_week_14_nfl_dfs_lineup.md): same source document (doc_0331)
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

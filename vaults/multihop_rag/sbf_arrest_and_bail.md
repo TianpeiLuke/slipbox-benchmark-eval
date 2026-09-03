@@ -11,12 +11,18 @@ That release did not hold. It was revoked in August, after he was accused of int
 
 ## Related Notes
 
+
 - [Alameda Research As The Alleged Conduit For FTX Customer Funds](alameda_research_as_alleged_conduit_for_ftx_customer_funds.md): overlapping coverage of Caroline Ellison and Alameda, from a different source document.
 - [Alameda Research's Origins And Naming](alameda_research_origins_and_naming.md): also concerns Caroline Ellison, from a different source document.
 - [Bankman-Fried's Post-Bankruptcy Media Tour](bankman_fried_post_bankruptcy_media_tour.md): overlapping coverage of the arrest and the house-arrest period, from a different source document.
 - [Beeper's Funding And Investors](beeper_funding_and_investors.md): also concerns Palo Alto, from a different source document.
 - [Code Evidence Outweighs Deleted Signal Messages](code_evidence_outweighs_deleted_signal_messages.md): overlapping coverage of Ellison, Alameda and Bankman-Fried, from a different source document.
 - [Alameda Research](alameda_research.md): drawn from the same source document (doc_0010).
+- [Crypto Contagion After FTX](crypto_contagion_after_ftx.md): same source document (doc_0010)
+- [FTX](ftx.md): same source document (doc_0010)
+- [FTX's Bankruptcy And Leadership](ftx_bankruptcy_and_leadership.md): same source document (doc_0010)
+- [The Mechanism Of FTX's Collapse](ftx_collapse_mechanism.md): same source document (doc_0010)
+- [Bail](term_bail.md): uses the concept bail
 
 ## Source
 

@@ -13,10 +13,17 @@ Bruton's counter on the Thursday night rests on the release itself: "I've only g
 
 ## Related Notes
 
+
 - [Adelaide 36ers Upset New Zealand Breakers Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): a later Adelaide result featuring Vasiljevic, different source document
 - [South East Melbourne Phoenix Beat New Zealand Breakers Round 5](south_east_melbourne_phoenix_beat_new_zealand_breakers_round_5.md): another Phoenix result, different source document
 - [Adelaide 36ers Beat Perth Wildcats Round 4](adelaide_36ers_beat_perth_wildcats_round_4.md): Adelaide's next game after the debut, same source document
 - [Aron Baynes Suspension Brisbane Bullets 2023](aron_baynes_suspension_brisbane_bullets_2023.md): another roster story in the same round-up, same source document
+- [Melbourne United Beat Illawarra 101-91 In Wollongong](melbourne_united_beat_illawarra_hawks_in_wollongong_round_4.md): same source document (doc_0406)
+- [Melbourne United Beat New Zealand 97-88 In Round 4](melbourne_united_beat_new_zealand_breakers_round_4.md): same source document (doc_0406)
+- [Phoenix Beat Adelaide 102-85 At The Entertainment Centre](south_east_melbourne_phoenix_beat_adelaide_36ers_round_4.md): same source document (doc_0406)
+- [South East Melbourne Phoenix Beat Brisbane Bullets 96-73](south_east_melbourne_phoenix_beat_brisbane_bullets_round_4.md): same source document (doc_0406)
+- [JackJumpers Set A Club-Record Score Beating The Kings](tasmania_jackjumpers_record_score_beat_sydney_kings_round_4.md): same source document (doc_0406)
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
 
 ## Source
 

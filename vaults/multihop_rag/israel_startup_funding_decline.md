@@ -15,11 +15,17 @@ TechCrunch spoke to a number of startup founders, PR people who work with startu
 
 ## Related Notes
 
+
 - [Palo Alto Networks Acquires Dig Security](palo_alto_networks_acquires_dig_security.md): overlapping coverage of Israeli tech companies, from a different source document.
 - [African Telco Distribution Model](african_telco_distribution_model.md): another global tech ecosystem in the same batch, from a different source document.
 - [StarNews Content and Growth](starnews_content_and_growth.md): another global tech ecosystem in the same batch, from a different source document.
 - [StarNews Funding Round](starnews_funding_round.md): another venture round in the same batch, from a different source document.
 - [StarNews Mobile Platform](starnews_mobile_platform.md): another global tech ecosystem in the same batch, from a different source document.
+- [The Scale Of Israel's Technology Sector In 2022](israel_tech_sector_scale.md): same source document (doc_0448)
+- [Reserve Mobilisation Inside Israeli Tech Companies](israel_tech_workforce_mobilisation.md): same source document (doc_0448)
+- [Israeli Founders And Investors On Operating Through The War](israeli_founders_operating_at_war.md): same source document (doc_0448)
+- [Reserve Mobilisation](term_reserve_mobilisation.md): uses the concept reserve mobilisation
+- [Judicial Reform (Israel, 2023)](term_judicial_reform.md): uses the concept judicial reform
 
 ## Source
 

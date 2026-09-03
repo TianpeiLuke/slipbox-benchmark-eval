@@ -13,12 +13,17 @@ In the second quarter Purdy hit Kittle again after some trickery at 9:14 p.m. fo
 
 ## Related Notes
 
+
 - [49ers 2024 Salary Cap Position](49ers_2024_salary_cap_position.md): also covers Brandon Aiyuk and Deebo Samuel.
 - [Amari Cooper Week 6 2023 Sit Recommendation](amari_cooper_week6_2023_sit_recommendation.md): also discusses Dak Prescott.
 - [Brock Purdy Fantasy Outlook Weeks 5 and 6 2023](brock_purdy_fantasy_outlook_weeks_5_and_6_2023.md): also covers Brandon Aiyuk and Dak Prescott.
 - [Chase Young Trade to 49ers 2023 Deadline](chase_young_trade_to_49ers_2023_deadline.md): also discusses Nick Bosa.
 - [Dak Prescott Week 6 2023 Sit Recommendation](dak_prescott_week6_2023_sit_recommendation.md): also discusses Tony Pollard.
 - [49ers Rout Cowboys Week 5 Sunday Night Recap](49ers_rout_cowboys_week_5_sunday_night_recap.md): the recap of this same game, from the same source document.
+- [Cowboys-49ers Pregame: Gregory Inactive, Jones' Test, And The NFC Top Seed](cowboys_49ers_pregame_notes_and_nfc_race.md): same source document (doc_0275)
+- [Cowboys-49ers Second Half: Three Prescott Interceptions And A 42-10 Final](cowboys_49ers_second_half_live_blog.md): same source document (doc_0275)
+- [NBC's 2023 Sunday Night Football Broadcast And Streaming Package](sunday_night_football_2023_nbc_broadcast_team.md): same source document (doc_0275)
+- [Coaching Change](term_coaching_change.md): uses the concept coaching change
 
 ## Source
 

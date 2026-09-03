@@ -11,11 +11,19 @@ The grounds start with the reasons for doubt. Netflix's first Castlevania animat
 
 ## Related Notes
 
+
 - [Castlevania: Nocturne On Netflix](castlevania_nocturne_netflix.md): overlapping coverage of Castlevania, Nocturne and Konami, from a different source document.
 - [Google's Parallel Antitrust Proceedings In 2023](google_parallel_antitrust_proceedings_2023.md): shares the streaming-service theme, from a different source document.
 - [M3 MacBook Pro Lineup And Configurations](m3_macbook_pro_lineup_and_configurations.md): shares the streaming-service theme, from a different source document.
 - [MacBook Pro Design, Ports And Space Black Finish](macbook_pro_design_ports_and_space_black_finish.md): shares the streaming-service theme, from a different source document.
 - [Polygon's Best New Streaming Series Roundup Scope](polygon_best_new_streaming_series_roundup_scope.md): overlapping coverage of Castlevania: Nocturne on Netflix, from a different source document.
+- [Castlevania: Nocturne's Premise And Richter Belmont](castlevania_nocturne_premise_and_richter_belmont.md): same source document (doc_0329)
+- [Nocturne's Animation Inconsistency And Late-Season Pacing](nocturne_animation_inconsistency_and_late_season_pacing.md): same source document (doc_0329)
+- [Nocturne As A Critique Of Revolutionary France's Colonialism](nocturne_as_a_critique_of_revolutionary_france_colonialism.md): same source document (doc_0329)
+- [Nocturne's French Revolution Setting And Konami Game Lore](nocturne_french_revolution_setting_and_konami_game_lore.md): same source document (doc_0329)
+- [Nocturne's Moral Stakes Of Killing The Innocent](nocturne_moral_stakes_of_killing_the_innocent.md): same source document (doc_0329)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
+- [Class Action Settlement](term_class_action_settlement.md): uses the concept class action settlement
 
 ## Source
 

@@ -11,6 +11,7 @@ The reviewer also liked that the glasses can be paired to multiple devices and s
 
 ## Related Notes
 
+
 - [Meta AI Assistant Limits On Smart Glasses](meta_ai_assistant_limits_on_smart_glasses.md): overlapping coverage of glasses, ambient conditions and usefulness, from a different source document.
 - [Ray-Ban Meta As A Smart Glasses Turning Point](ray_ban_meta_as_smart_glasses_turning_point.md): overlapping coverage of Meta's smart glasses, from a different source document.
 - [Ray-Ban Meta Design And Discreetness](ray_ban_meta_design_and_discreetness.md): overlapping coverage of glasses, hearing and ambient noise, from a different source document.
@@ -19,6 +20,8 @@ The reviewer also liked that the glasses can be paired to multiple devices and s
 - [Alexa's Limitations As An On-The-Go Assistant On Echo Frames](alexa_limitations_as_an_on_the_go_assistant_on_echo_frames.md): drawn from the same source document (doc_0431).
 - [Echo Frames: Alexa At Home And Find My Frames](echo_frames_alexa_at_home_and_find_my_frames.md): drawn from the same source document (doc_0431).
 - [Echo Frames Audio Leakage In Quiet Spaces](echo_frames_audio_leakage_in_quiet_spaces.md): drawn from the same source document (doc_0431).
+- [Echo Frames Battery Life And Charging Stand](echo_frames_battery_life_and_charging_stand.md): same source document (doc_0431)
+- [Echo Frames Carrera Cruiser Fit And Build Quality](echo_frames_carrera_cruiser_fit_and_build_quality.md): same source document (doc_0431)
 
 ## Source
 

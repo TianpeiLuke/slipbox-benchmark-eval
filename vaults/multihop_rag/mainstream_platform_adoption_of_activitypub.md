@@ -11,6 +11,7 @@ Other tech companies are moving in the same direction. Automattic made it possib
 
 ## Related Notes
 
+
 - [AMO ID Social App Launch](amo_id_social_app_launch.md): overlapping coverage of blogs and social platforms including Tumblr, from a different source document.
 - [Current Fediverse Apps Mostly Clone Existing Platforms](current_fediverse_apps_mostly_clone_existing_platforms.md): overlapping coverage of federated apps including Mammoth, from a different source document.
 - [Federation Alone Is Not A Product Advantage](federation_alone_is_not_a_product_advantage.md): overlapping coverage of federated platforms and Mastodon, from a different source document.
@@ -19,6 +20,8 @@ Other tech companies are moving in the same direction. Automattic made it possib
 - [Flipboard's ActivityPub Federation Launch](flipboard_activitypub_federation_launch.md): drawn from the same source document (doc_0507), the adoption that prompted this survey.
 - [Flipboard Front-End Redesign Questions](flipboard_front_end_redesign_questions.md): drawn from the same source document (doc_0507), on the design questions federation raises.
 - [Flipboard's Path To The Fediverse](flipboard_path_to_the_fediverse.md): drawn from the same source document (doc_0507), on one company's route into the fediverse.
+- [Flipboard's Social Magazine Platform](flipboard_social_magazine_platform.md): same source document (doc_0507)
+- [How Flipboard "Flips" Publish To Mastodon](how_flipboard_flips_publish_to_mastodon.md): same source document (doc_0507)
 
 ## Source
 

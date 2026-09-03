@@ -11,11 +11,20 @@ The method carries explicit scope conditions. It is too early in the process to 
 
 ## Related Notes
 
+
 - [Bears 16 Panthers 13 Thursday Night Result](bears_16_panthers_13_thursday_night_result.md): shares the draft-pick and playoff-seeding subject matter that shapes late-season lineup stakes, from a different source document.
 - [Bye-Free Weeks Complicate Lineup Decisions](bye_free_weeks_complicate_lineup_decisions.md): also about how weekly lineup decisions get made, from a different source document.
 - [CBS Fantasy Lineup Decisions Matchup Method](cbs_fantasy_lineup_decisions_matchup_method.md): another statement of the same Fantasy Football matchup-first approach, from a different source document.
 - [DraftKings Week 14 DFS QB and RB Picks](draftkings_week_14_dfs_qb_and_rb_picks.md): shares the daily-fantasy-sports and playoff-seeding context in which these lineup calls are made, from a different source document.
 - [FanDuel Week 14 DFS QB and RB Picks](fanduel_week_14_dfs_qb_and_rb_picks.md): shares the daily-fantasy-sports and playoff-seeding context, from a different source document.
+- [Amari Cooper Week 13: Start Him, Because Joe Flacco Should Restore His Downfield Role](amari_cooper_week_13_start_verdict.md): same source document (doc_0057)
+- [Chris Godwin Week 13: Sit Him, A Slot Receiver Who No Longer Plays The Slot](chris_godwin_week_13_sit_verdict.md): same source document (doc_0057)
+- [Cooper Kupp: A Week 11 Ankle Sprain And The Week 13 Case For Benching A Stud](cooper_kupp_2023_ankle_injury_and_week_13_sit_verdict.md): same source document (doc_0057)
+- [Devin Singletary Week 13: Start Him, Last Week's Carry Count Was An Aberration](devin_singletary_week_13_start_verdict.md): same source document (doc_0057)
+- [DK Metcalf Week 13: Start Him On Volume, Not On Efficiency](dk_metcalf_week_13_start_verdict.md): same source document (doc_0057)
+- [Daily Fantasy Sports (DFS)](term_daily_fantasy_sports.md): uses the concept daily fantasy sports
+- [Draft Pick](term_draft_pick.md): uses the concept draft pick
+- [Playoff Seeding](term_playoff_seeding.md): uses the concept playoff seeding
 
 ## Source
 

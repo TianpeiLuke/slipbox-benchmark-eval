@@ -15,11 +15,15 @@ On headline attendance the organisation gave figures close to the prior year: th
 
 ## Related Notes
 
+
 - [Beeper Funding and Investors](beeper_funding_and_investors.md): another account involving Garry Tan, whose cancellation is reported here, from a different source document.
 - [Web Summit CEO Katherine Maher](web_summit_ceo_katherine_maher.md): another note on Web Summit's leadership, from a different source document.
 - [Ohanian's Critique of Social Media and the Creator Economy](ohanian_social_media_critique.md): a companion note in the same platform-governance batch, on how online pile-ons gather force.
 - [Ohanian's Case for Techno-Optimism](ohanian_techno_optimism.md): a companion note in the same batch, on who is accountable for a platform's public conduct.
 - [Why Platforms Cannot Arbitrate Truth](platform_truth_arbitration.md): a companion note in the same batch, on contested facts circulating faster than any arbiter can settle them.
+- [Israeli Tech Industry Boycott of Web Summit](israel_tech_industry_boycott.md): same source document (doc_0267)
+- [Web Summit and the Paddy Cosgrave Controversy](web_summit_cosgrave_controversy.md): same source document (doc_0267)
+- [Streaming Service](term_streaming_service.md): uses the concept streaming service
 
 ## Source
 

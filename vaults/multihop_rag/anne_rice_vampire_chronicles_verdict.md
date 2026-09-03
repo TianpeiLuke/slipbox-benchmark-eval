@@ -11,10 +11,18 @@ The case for suspecting her is her place in the genre. Ever since the Victorian 
 
 ## Related Notes
 
+
 - [Marceline The Vampire Queen](marceline_the_vampire_queen_adventure_time.md): another treatment of sympathetic vampires, from a different source document.
 - [Miguel O'Hara, Spider-Man 2099](miguel_ohara_spider_man_2099_vampire.md): overlaps in content on vampire, vampires, from a different source document.
 - [The Surprise Vampire Trope](surprise_vampire_trope.md): overlaps in content on vampire, vampires, audiences, from a different source document.
 - [The Count On Sesame Street](the_count_sesame_street.md): overlaps in content on vampire, from a different source document.
+- [Bram Stoker: Vampire Verdict](bram_stoker_dracula_vampire_verdict.md): same source document (doc_0452)
+- [The Lineage Of English-Language Vampire Fiction](english_language_vampire_fiction_lineage.md): same source document (doc_0452)
+- [John William Polidori And The Vampyre](john_william_polidori_the_vampyre.md): same source document (doc_0452)
+- [Laurell K. Hamilton: Vampire Verdict](laurell_k_hamilton_anita_blake_verdict.md): same source document (doc_0452)
+- [Stephen King: Vampire Verdict](stephen_king_salems_lot_vampire_verdict.md): same source document (doc_0452)
+- [Taika Waititi: Vampire Verdict](taika_waititi_what_we_do_in_the_shadows_verdict.md): same source document (doc_0452)
+- [Criminal Trial](term_criminal_trial.md): uses the concept criminal trial
 
 ## Source
 

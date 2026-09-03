@@ -13,12 +13,17 @@ A year after the Saga interview he repeated the sentiment in Candis magazine, ca
 
 ## Related Notes
 
+
 - [Celebrity Tough Love Parenting In Hollywood](celebrity_tough_love_parenting_in_hollywood.md): same article, the tough-love roundup this belongs to
 - [Kristen Bell Shared Bedroom Character Building](kristen_bell_shared_bedroom_character_building.md): same article, another privilege-limiting argument
 - [Arnold Schwarzenegger Drill Instructor Discipline](arnold_schwarzenegger_drill_instructor_discipline.md): same source document
 - [Candace Cameron Bure Strict But Loving Boundaries](candace_cameron_bure_strict_but_loving_boundaries.md): same source document
 - [Ray Ban Meta Design And Discreetness](ray_ban_meta_design_and_discreetness.md): also references James Bond, unrelated subject
 - [Smart Glasses Category Expectations And Echo Frames Positioning](smart_glasses_category_expectations_and_echo_frames_positioning.md): also references James Bond, unrelated subject
+- [Gellar And Prinze's Strict Household Rules](gellar_and_prinze_strict_household_rules.md): same source document (doc_0177)
+- [Kristen Bell's Household Screen-Time Rules](kristen_bell_household_screen_time_rules.md): same source document (doc_0177)
+- [Kutcher And Kunis Keeping Their Children Grounded](kutcher_and_kunis_keeping_their_children_grounded.md): same source document (doc_0177)
+- [Reese Witherspoon On Letting Children Fail](reese_witherspoon_on_letting_children_fail.md): same source document (doc_0177)
 
 ## Source
 

@@ -13,11 +13,19 @@ Critic Zosha Millman says what makes the show compelling is how deftly it weaves
 
 ## Related Notes
 
+
 - [Epoch Times 2020 Election and Pro-Trump Coverage](epoch_times_2020_election_and_pro_trump_coverage.md): shares two topic tags despite unrelated subject matter
 - [Google Secret OEM and Carrier Deals and Deleted Chats](google_secret_oem_and_carrier_deals_and_deleted_chats.md): shares the same pair of topic tags from a different document
 - [Harper's Island Slasher Series](harpers_island_slasher_series.md): another write-up by the same critic, Zosha Millman
 - [Missing (2023 Screenlife Mystery)](missing_2023_screenlife_mystery.md): shares the same bylined critic across documents
 - [SBF Trial Day Two: Jury and Courtroom](sbf_trial_day_two_jury_and_courtroom.md): shares two topic tags from an unrelated source
+- [Andor (Disney Plus)](andor_disney_plus.md): same source document (doc_0185)
+- [Castlevania: Nocturne (Netflix)](castlevania_nocturne_netflix.md): same source document (doc_0185)
+- [Hijack (Apple TV Plus)](hijack_apple_tv_plus.md): same source document (doc_0185)
+- [Scope and Update Policy of Polygon's Best New Streaming Series Roundup](polygon_best_new_streaming_series_roundup_scope.md): same source document (doc_0185)
+- [Reservation Dogs (Hulu)](reservation_dogs_hulu.md): same source document (doc_0185)
+- [Fraud](term_fraud.md): uses the concept fraud
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
 
 ## Source
 

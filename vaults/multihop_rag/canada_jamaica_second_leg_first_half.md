@@ -15,6 +15,7 @@ Jamaica threatened sporadically thereafter without equalising. At 29 minutes Nic
 
 ## Related Notes
 
+
 - [The First Half of Jamaica 0-1 Canada](jamaica_canada_first_leg_first_half.md): also features Alphonso Davies and Andre Blake, from a different document.
 - [The Rain Postponement of Jamaica vs Canada](jamaica_canada_first_leg_rain_postponement.md): the delayed staging of the first leg, separately sourced.
 - [Canada Beat Jamaica 2-1 in the Nations League Quarterfinal First Leg](jamaica_canada_first_leg_result.md): also covers Alphonso Davies, in a different document.
@@ -23,6 +24,7 @@ Jamaica threatened sporadically thereafter without equalising. At 29 minutes Nic
 - [Canada-Jamaica Second Leg Kickoff and Broadcast](canada_jamaica_second_leg_kickoff_and_broadcast.md): the scheduling and coverage for this match, same source document.
 - [Jamaica 3-2 Canada: The Reggae Boyz Advance on Away Goals](canada_jamaica_second_leg_result.md): how this game finished, same source document.
 - [The Second Half of Canada 2-3 Jamaica](canada_jamaica_second_leg_second_half.md): the collapse that followed this half, same source document.
+- [Team News For Canada vs Jamaica, Second Leg](canada_jamaica_second_leg_team_news.md): same source document (doc_0232)
 
 ## Source
 

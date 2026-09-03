@@ -13,6 +13,7 @@ It is a depressing state of affairs, but there is room for optimism: every major
 
 ## Related Notes
 
+
 - [AfroFuture Audience Demographics](afrofuture_audience_demographics.md): shares a North America reference, from a different source document.
 - [Aging With HIV And The Quest For A Vaccine Or Cure](aging_with_hiv_and_the_vaccine_cure_quest.md): shares a North America reference, from a different source document.
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): also cites Imperial College London, from a different source document.
@@ -21,6 +22,8 @@ It is a depressing state of affairs, but there is room for optimism: every major
 - [6PPD-Quinone And Coho Salmon Die-Offs](6ppd_quinone_and_coho_salmon_die_offs.md): drawn from the same source document (doc_0190).
 - [Bridgestone's Wireless In-Wheel EV Charging](bridgestone_wireless_in_wheel_ev_charging.md): drawn from the same source document (doc_0190).
 - [Cutting Wear Mass May Raise Toxicity](cutting_wear_mass_may_raise_toxicity.md): drawn from the same source document (doc_0190).
+- [What Drivers Can Do To Reduce Tire Pollution](driver_actions_that_reduce_tire_pollution.md): same source document (doc_0190)
+- [Guayule As A Renewable Natural Rubber](guayule_as_renewable_natural_rubber.md): same source document (doc_0190)
 
 ## Source
 

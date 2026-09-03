@@ -13,11 +13,18 @@ While the match was the only one in Asia confirmed at the time, Inter Miami's re
 
 ## Related Notes
 
+
 - [Adam Yedidia Testimony and the Eight Billion Bug](adam_yedidia_testimony_and_the_eight_billion_bug.md): also discusses Hong Kong, from a different document.
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also discusses Hong Kong, from a different document.
 - [Chicago Fire 4-1 Inter Miami October 2023 Recap](chicago_fire_4_1_inter_miami_october_2023_recap.md): also discusses Inter Miami, from a different document.
 - [Chicago Fire Inter Miami First Half Live Blog](chicago_fire_inter_miami_first_half_live_blog.md): also discusses Inter Miami, from a different document.
 - [Chicago Fire Inter Miami Second Half Live Blog](chicago_fire_inter_miami_second_half_live_blog.md): also discusses Inter Miami, from a different document.
+- [The Cancelled China Tour And The NYCFC Noche d'Or Replacement](cancelled_china_tour_and_nycfc_noche_dor_replacement.md): same source document (doc_0535)
+- [Inter Miami's 2024 Preseason Fixture List](inter_miami_2024_preseason_fixture_list.md): same source document (doc_0535)
+- [Inter Miami's Friendly Against El Salvador](inter_miami_friendly_against_el_salvador.md): same source document (doc_0535)
+- [Inter Miami vs Vissel Kobe In Tokyo](inter_miami_vs_vissel_kobe_in_tokyo.md): same source document (doc_0535)
+- [Messi vs Ronaldo: The Inter Miami-Al Nassr Friendly](messi_vs_ronaldo_inter_miami_al_nassr_friendly.md): same source document (doc_0535)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

@@ -11,6 +11,7 @@ The sale of the mutual funds will yield a gain to Psagot of NIS 90 million, to b
 
 ## Related Notes
 
+
 - [Aif Sub Fund Strategies Available to Hnis](aif_sub_fund_strategies_available_to_hnis.md): shares vocabulary around mutual, funds and yield, from a different source document.
 - [Portfolio Management Services India](portfolio_management_services_india.md): overlaps on mutual funds and portfolio management businesses, from a different source document.
 - [Ai21 Labs Tel Aviv Office Lease](ai21_labs_tel_aviv_office_lease.md): overlaps on valuation subject matter, from a different source document.
@@ -19,6 +20,14 @@ The sale of the mutual funds will yield a gain to Psagot of NIS 90 million, to b
 - [Atlassian Loom Acquisition 2023](atlassian_loom_acquisition_2023.md): overlaps on valuation subject matter, from a different source document.
 - [Bharti Airtel Ev Ebitda Valuation Case](bharti_airtel_ev_ebitda_valuation_case.md): overlaps on valuation subject matter, from a different source document.
 - [Boeing Q3 2023 Earnings Preview and 737 Max Bulkhead Defect](boeing_q3_2023_earnings_preview_and_737_max_bulkhead_defect.md): overlaps on valuation subject matter, from a different source document.
+- [Three Causes Of Psagot's Value Decline](causes_of_psagot_value_decline.md): same source document (doc_0073)
+- [Group Psagot's Debt Refinancing Plan](group_psagot_debt_refinancing_plan.md): same source document (doc_0073)
+- [Group Psagot's Share Price Collapse](group_psagot_share_price_collapse.md): same source document (doc_0073)
+- [Psagot's Asset Growth Without Profit](psagot_asset_growth_without_profit.md): same source document (doc_0073)
+- [Rani Zim's Acquisition Of Psagot Investment House](rani_zim_acquisition_of_psagot_investment_house.md): same source document (doc_0073)
+- [Rani Zim's Search For A Psagot Buyer](rani_zim_search_for_a_psagot_buyer.md): same source document (doc_0073)
+- [Retail And Real Estate Management Skills Do Not Transfer To Finance](retail_management_skills_do_not_transfer_to_finance.md): same source document (doc_0073)
+- [Valuation](term_valuation.md): uses the concept valuation
 
 ## Source
 

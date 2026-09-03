@@ -11,6 +11,7 @@ His discriminating features are size and stance: standing only half an inch shor
 
 ## Related Notes
 
+
 - [Anthony Joshua Fifth Round Stoppage Of Otto Wallin](anthony_joshua_fifth_round_stoppage_of_otto_wallin.md): covers his fight with Joshua, from a different document.
 - [Day Of Reckoning Card And Heavyweight Unification Path](day_of_reckoning_card_and_heavyweight_unification_path.md): also discusses Wallin, Fury and Parker, from a different document.
 - [Anthony Joshua Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): profiles his opponent, from the same document.
@@ -19,6 +20,8 @@ His discriminating features are size and stance: standing only half an inch shor
 - [Day Of Reckoning Riyadh Boxing Card](day_of_reckoning_riyadh_boxing_card.md): the card he fought on, from the same document.
 - [Deontay Wilder Comeback After Fury Trilogy](deontay_wilder_comeback_after_fury_trilogy.md): the co-main event fighter's background, from the same document.
 - [Deontay Wilder On Pressure Ahead Of Parker Bout](deontay_wilder_on_pressure_ahead_of_parker_bout.md): the co-main event fighter's comments, from the same document.
+- [Eddie Hearn On Day Of Reckoning Card Assembly](eddie_hearn_on_day_of_reckoning_card_assembly.md): same source document (doc_0137)
+- [Joseph Parker Fighter Profile](joseph_parker_fighter_profile.md): same source document (doc_0137)
 
 ## Source
 

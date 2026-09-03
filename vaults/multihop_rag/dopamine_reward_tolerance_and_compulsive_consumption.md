@@ -13,6 +13,7 @@ The same reward vocabulary is applied to smartphones in separate reporting on ch
 
 ## Related Notes
 
+
 - [Case for Classifying Ultra Processed Foods as Addictive](case_for_classifying_ultra_processed_foods_as_addictive.md): drawn from the same source document (doc_0467).
 - [Common Sense Media Teen Smartphone Study Design and Scope](common_sense_media_teen_smartphone_study_design_and_scope.md): drawn from the same source document (doc_0518).
 - [Global Policy Responses to Ultra Processed Foods](global_policy_responses_to_ultra_processed_foods.md): drawn from the same source document (doc_0467).
@@ -21,6 +22,8 @@ The same reward vocabulary is applied to smartphones in separate reporting on ch
 - [Limits of Review Evidence on Food Addiction](limits_of_review_evidence_on_food_addiction.md): drawn from the same source document (doc_0467).
 - [Managing Disordered Eating and Food Cravings](managing_disordered_eating_and_food_cravings.md): drawn from the same source document (doc_0467).
 - [Online Predation and Sextortion Risk for Children](online_predation_and_sextortion_risk_for_children.md): drawn from the same source document (doc_0518).
+- [Parental Rules For Delaying And Limiting Phone Access](parental_rules_for_delaying_and_limiting_phone_access.md): same source document (doc_0518)
+- [Skepticism That Food Is Addictive The Way Drugs Are](skepticism_that_food_is_addictive_like_drugs.md): same source document (doc_0467)
 
 ## Source
 

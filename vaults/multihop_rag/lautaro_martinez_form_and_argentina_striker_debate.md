@@ -13,11 +13,18 @@ The debate over the No. 9 shirt was also being conducted in public, with one quo
 
 ## Related Notes
 
+
 - [Argentina Squad and Lineup vs Paraguay October 2023](argentina_squad_and_lineup_vs_paraguay_october_2023.md): the selection question this debate feeds, covering Lionel Scaloni
 - [Inter Milan 4-0 Udinese](inter_milan_4_0_udinese.md): another document on Lautaro's Inter form, different source
 - [Lautaro Martinez 2023 Goalscoring Form](lautaro_martinez_2023_goalscoring_form.md): the same scoring run covered elsewhere, different source document
 - [Lionel Messi 2023 Injury Absence and Return](lionel_messi_2023_injury_absence_and_return.md): the fitness situation behind Messi's bench role, different source document
 - [Lionel Messi 2023 MLS Award Nominations](lionel_messi_2023_mls_award_nominations.md): another Messi document, different source
+- [Argentina 1-0 Paraguay, CONMEBOL World Cup Qualifying, October 2023](argentina_1_0_paraguay_2023_world_cup_qualifier.md): same source document (doc_0534)
+- [Argentina's First-Half Dominance Against Paraguay](argentina_first_half_dominance_vs_paraguay.md): same source document (doc_0534)
+- [Broadcast Rights For Argentina vs Paraguay, October 2023](argentina_paraguay_2023_broadcast_rights.md): same source document (doc_0534)
+- [Team News And Lineups: Argentina vs Paraguay, October 2023](argentina_paraguay_2023_team_news_and_lineups.md): same source document (doc_0534)
+- [Argentina's Second Half And Messi's Introduction Against Paraguay](argentina_second_half_and_messi_introduction_vs_paraguay.md): same source document (doc_0534)
+- [World Cup](term_world_cup.md): uses the concept world cup
 
 ## Source
 

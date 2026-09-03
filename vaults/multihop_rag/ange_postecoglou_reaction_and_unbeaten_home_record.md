@@ -11,6 +11,7 @@ Speaking to BBC post-match, Postecoglou said: "There was a fair bit going on, a 
 
 ## Related Notes
 
+
 - [Chelsea 4-4 Manchester City at Stamford Bridge](chelsea_4_4_manchester_city_stamford_bridge.md): also discusses Ange Postecoglou, from a different source document.
 - [Tottenham's Home Defeat to West Ham, December 2023](tottenham_home_defeat_to_west_ham_december_2023.md): also discusses Ange Postecoglou and a later home defeat, from a different source document.
 - [Tottenham's Win Over Everton: Richarlison, December 2023](tottenham_win_over_everton_richarlison_december_2023.md): also discusses Ange Postecoglou, from a different source document.
@@ -19,6 +20,8 @@ Speaking to BBC post-match, Postecoglou said: "There was a fair bit going on, a 
 - [Nicolas Jackson's First Premier League Hat-Trick at Tottenham](nicolas_jackson_first_premier_league_hat_trick.md): same source document, on the goals that ended the run.
 - [Red Cards and VAR Decisions in Tottenham vs Chelsea](spurs_chelsea_red_cards_and_var_decisions.md): same source document, on the VAR interventions Postecoglou mentions.
 - [Tottenham's Unbeaten Run Ends in a Home Loss to Chelsea](tottenham_1_4_chelsea_november_2023_result.md): same source document, giving the result behind this reaction.
+- [Tottenham And Chelsea's Next Fixtures After Their November 2023 Meeting](tottenham_and_chelsea_next_fixtures_november_2023.md): same source document (doc_0478)
+- [Tottenham vs Chelsea, November 2023: Line-Ups And Referee](tottenham_chelsea_line_ups_and_referee_november_2023.md): same source document (doc_0478)
 
 ## Source
 

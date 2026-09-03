@@ -13,11 +13,16 @@ Confusingly, the Partnership on AI is in fact a member of the AI Alliance. A pre
 
 ## Related Notes
 
+
 - [Alliance DAO Accelerator Program](alliance_dao_accelerator_program.md): overlapping alliance-and-consortium vocabulary, from a different source document.
 - [AI Alliance Case For Open AI Development](ai_alliance_case_for_open_ai_development.md): drawn from the same source document (doc_0268), setting out the coalition's stated rationale.
 - [AI Alliance Membership Roster](ai_alliance_membership_roster.md): drawn from the same source document (doc_0268), listing who joined.
 - [AI Alliance Notable Non-Members](ai_alliance_notable_non_members.md): drawn from the same source document (doc_0268), on who stayed out.
 - [AI Alliance Working Groups And Governance Plan](ai_alliance_working_groups_and_governance_plan.md): drawn from the same source document (doc_0268), on how the body will be organised.
+- [Doubts About The AI Alliance's Effectiveness](doubts_about_ai_alliance_effectiveness.md): same source document (doc_0268)
+- [IBM's Generative AI Business Motive In The AI Alliance](ibm_generative_ai_business_motive_in_ai_alliance.md): same source document (doc_0268)
+- [Meta's Open Source AI Strategy And Motives](meta_open_source_ai_strategy_and_motives.md): same source document (doc_0268)
+- [Open Source](term_open_source.md): uses the concept open source
 
 ## Source
 

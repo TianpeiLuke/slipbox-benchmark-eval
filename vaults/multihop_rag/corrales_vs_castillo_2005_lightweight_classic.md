@@ -13,6 +13,7 @@ Despite functional height and reach advantages, Corrales elected to meet Castill
 
 ## Related Notes
 
+
 - [Canelo Alvarez Undisputed Titles and Net Worth](canelo_alvarez_undisputed_titles_and_net_worth.md): also concerns Ring Magazine championships.
 - [Crossover Boxing and the McGregor Canelo Feud](crossover_boxing_and_the_mcgregor_canelo_feud.md): also discusses Floyd Mayweather.
 - [Floyd Mayweather Net Worth and Career Earnings](floyd_mayweather_net_worth_and_career_earnings.md): also discusses Floyd Mayweather.
@@ -21,6 +22,8 @@ Despite functional height and reach advantages, Corrales elected to meet Castill
 - [Duran vs Barkley 1989 WBC Middleweight Upset](duran_vs_barkley_1989_wbc_middleweight_upset.md): another of the five greatest Showtime fights, same source document.
 - [Hagler vs Mugabi 1986 Showtime Debut Fight](hagler_vs_mugabi_1986_showtime_debut_fight.md): another of the five greatest Showtime fights, same source document.
 - [Showtime Championship Boxing Series Ends 2023](showtime_championship_boxing_series_ends_2023.md): the series retrospective this fight belongs to, same source document.
+- [Holyfield TKO 11 Tyson: The 1996 WBA Heavyweight Upset](tyson_vs_holyfield_1996_wba_heavyweight_upset.md): same source document (doc_0273)
+- [Vazquez SD 12 Marquez III: The Best Of The Most Exciting Modern Trilogy](vazquez_vs_marquez_iii_2008_super_bantamweight_trilogy.md): same source document (doc_0273)
 
 ## Source
 

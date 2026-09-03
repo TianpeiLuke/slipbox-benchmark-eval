@@ -13,11 +13,19 @@ The property's economics have also shifted. Historically Mar-a-Lago never made m
 
 ## Related Notes
 
+
 - [Jim Jordan Second Ballot Defeat](jim_jordan_second_ballot_defeat.md): shares Donald Trump as a referenced actor.
 - [Jim Jordan Third Ballot Defeat and Withdrawal](jim_jordan_third_ballot_defeat_and_withdrawal.md): shares Donald Trump as a referenced actor.
 - [Sam Bankman-Fried](sam_bankman_fried.md): shares the fraud and valuation content tags used across the corpus.
 - [The Good Fight on Paramount+](the_good_fight_paramount_plus.md): shares Donald Trump as a referenced subject.
 - [Trump Detroit Speech Attacks on Electric Vehicles](trump_detroit_speech_attacks_on_electric_vehicles.md): shares Donald Trump as a referenced actor.
+- [Engoron's "Fantasy World" Finding on Trump Financial Statements](engoron_fantasy_world_finding_on_trump_financial_statements.md): same source document (doc_0529)
+- [Engoron Summary Judgment That Trump Committed Fraud](engoron_summary_judgment_that_trump_committed_fraud.md): same source document (doc_0529)
+- [40 Wall Street Valuation Dispute](forty_wall_street_valuation_dispute.md): same source document (doc_0530)
+- [Letitia James Asset Inflation Allegations](letitia_james_asset_inflation_allegations.md): same source document (doc_0529)
+- [Letitia James' History of Investigating Trump](letitia_james_history_of_investigating_trump.md): same source document (doc_0529)
+- [Valuation](term_valuation.md): uses the concept valuation
+- [Fraud](term_fraud.md): uses the concept fraud
 
 ## Source
 

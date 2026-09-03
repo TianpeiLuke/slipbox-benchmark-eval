@@ -11,6 +11,7 @@ The Google Store's policy is explicit but narrow. Google will match online prici
 
 ## Related Notes
 
+
 - [Amazon's Invite-Only Deals System](amazon_invite_only_deals_system.md): overlaps on Amazon product pricing mechanics, from a different source document.
 - [Amazon Prime Membership Requirement for Prime Day](amazon_prime_membership_requirement_for_prime_day.md): overlaps on retailers and price-matching, from a different source document.
 - [Anti-Prime Big Deal Day Competing Sales](anti_prime_big_deal_day_competing_sales.md): overlaps on retailer pricing tactics, from a different source document.
@@ -19,6 +20,8 @@ The Google Store's policy is explicit but narrow. Google will match online prici
 - [Amazon Price Matching and Return Policy](amazon_price_matching_and_return_policy.md): the retailer both of these match against, same roundup (doc_0403).
 - [Apple Price Adjustment Policy](apple_price_adjustment_policy.md): another company without a formal match, same roundup (doc_0403).
 - [Best Buy Price Match Guarantee](best_buy_price_match_guarantee.md): one of the retailers Google will match, same roundup (doc_0403).
+- [B&H Photo And Costco Price Adjustment](bh_photo_and_costco_price_adjustment.md): same source document (doc_0403)
+- [Dell Price Match Policy](dell_price_match_policy.md): same source document (doc_0403)
 
 ## Source
 

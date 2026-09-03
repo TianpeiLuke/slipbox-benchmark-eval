@@ -13,12 +13,18 @@ The release broke several theatrical norms. It arrived uncommonly fast, just a l
 
 ## Related Notes
 
+
 - [All You Had To Do Was Stay: A Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): also concerns Taylor Swift, from a different source document.
 - [AMC Theatres' Direct Distribution Of Concert Films](amc_theatres_direct_distribution_of_concert_films.md): overlapping coverage of Swift and ticketing, from a different source document.
 - [American Pie's Billboard Record And Taylor Swift](american_pie_billboard_record_and_taylor_swift.md): also concerns Taylor Swift, from a different source document.
 - [Backlash To Travis Kelce's Breeder Remarks](backlash_to_travis_kelce_breeder_remarks.md): also concerns the Eras Tour, from a different source document.
 - [Backlash To Traylor Media Coverage](backlash_to_traylor_media_coverage.md): also concerns Taylor Swift, from a different source document.
 - [The AMC-Taylor Swift Direct Distribution Deal](amc_taylor_swift_direct_distribution_deal.md): drawn from the same source document (doc_0419).
+- [Biggest Concert Films: The Box Office Records](biggest_concert_films_box_office_records.md): same source document (doc_0419)
+- [Conditions At The BTS Busan Concert](bts_busan_concert_in_person_conditions.md): same source document (doc_0462)
+- [BTS Yet To Come Concert Film](bts_yet_to_come_concert_film.md): same source document (doc_0462)
+- [Concert Film Versus Live Concert](concert_film_versus_live_concert_experience.md): same source document (doc_0462)
+- [Concert Tour](term_concert_tour.md): uses the concept concert tour
 
 ## Source
 

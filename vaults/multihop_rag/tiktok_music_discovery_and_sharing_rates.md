@@ -11,6 +11,7 @@ In the UK, TikTok users were 108% more likely to discover and share music than o
 
 ## Related Notes
 
+
 - [AI Copyright and Training Disputes](ai_copyright_and_training_disputes.md): shares vocabulary around artists, music and particular, from a different source document.
 - [Believe Marketing Playbook for Si No Estas](believe_marketing_playbook_for_si_no_estas.md): a worked example of TikTok-led music marketing, from a different source document.
 - [EU-US Performance Rights Asymmetry](eu_us_performance_rights_asymmetry.md): overlaps on how artists earn from their recordings, from a different source document.
@@ -19,6 +20,8 @@ In the UK, TikTok users were 108% more likely to discover and share music than o
 - [Luminate TikTok Music Study 2023](luminate_tiktok_music_study_2023.md): the study these comparisons come from (doc_0363).
 - [Tiktok Bans and Bytedance Data Concerns](tiktok_bans_and_bytedance_data_concerns.md): another note drawn from the same source document (doc_0363).
 - [TikTok Claim to Drive Music Discovery](tiktok_claim_to_drive_music_discovery.md): the corporate claim these rates are marshalled for (doc_0363).
+- [TikTok As A Driver Of Music "Glocalization"](tiktok_glocalization_of_international_music.md): same source document (doc_0363)
+- [TikTok's Expansion Into Music Services](tiktok_music_services_expansion.md): same source document (doc_0363)
 
 ## Source
 

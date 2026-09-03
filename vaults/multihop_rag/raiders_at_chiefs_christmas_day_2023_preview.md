@@ -11,11 +11,19 @@ The second storyline is whether Raiders quarterback Aidan O'Connell can earn nex
 
 ## Related Notes
 
+
 - [49ers Can Create Cap Room to Keep Chase Young](49ers_can_create_cap_room_to_keep_chase_young.md): also discusses the Super Bowl, from a different source document.
 - [Advantages of Prop Bets](advantages_of_prop_bets.md): also discusses the Super Bowl, from a different source document.
 - [AFC Playoff Seeding After Week 13 2023](afc_playoff_seeding_after_week_13_2023.md): also covers the Kansas City Chiefs, from a different source document.
 - [AFC Wild Card Hunt After Week 13 2023](afc_wild_card_hunt_after_week_13_2023.md): also covers the Las Vegas Raiders, from a different source document.
 - [All You Had to Do Was Stay: Taylor Swift Song](all_you_had_to_do_was_stay_taylor_swift_song.md): also covers Taylor Swift, from a different source document.
+- [Brock Purdy Leads Lamar Jackson In The 2023 MVP Odds](brock_purdy_lamar_jackson_2023_mvp_race.md): same source document (doc_0003)
+- [Giants At Eagles, Christmas Day 2023: Storylines To Watch](giants_at_eagles_christmas_day_2023_preview.md): same source document (doc_0003)
+- [Ravens At 49ers, Christmas Day 2023: A Possible Super Bowl Preview](ravens_at_49ers_christmas_day_2023_preview.md): same source document (doc_0003)
+- [National Football League (NFL)](term_national_football_league.md): uses the concept national football league
+- [Super Bowl](term_super_bowl.md): uses the concept super bowl
+- [National Basketball Association (NBA)](term_national_basketball_association.md): uses the concept national basketball association
+- [Most Valuable Player (MVP)](term_most_valuable_player.md): uses the concept most valuable player
 
 ## Source
 

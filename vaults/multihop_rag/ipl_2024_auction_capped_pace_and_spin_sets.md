@@ -13,11 +13,18 @@ The spinners' set came up at 3:55 PM IST. Adil Rashid was up next at 3:56 PM IST
 
 ## Related Notes
 
+
 - [Adil Rashid T20I Milestones and Series Form](adil_rashid_t20i_milestones_and_series_form.md): also discusses Adil Rashid, from a different source document.
 - [England 132 All Out in the T20 Series Decider](england_132_all_out_t20_series_decider.md): also discusses Adil Rashid and Akeal Hosein, from a different source document.
 - [ICC World Cup 2023 Leading Wicket Takers](icc_world_cup_2023_leading_wicket_takers.md): also discusses Josh Hazlewood, from a different source document.
 - [India-Australia 2015 World Cup Semi-Final in Sydney](india_australia_2015_world_cup_semifinal_sydney.md): also discusses Umesh Yadav, from a different source document.
 - [West Indies Death Overs Win, First T20I](west_indies_death_overs_win_first_t20i.md): also discusses Adil Rashid, from a different source document.
+- [Harshal Patel's Vijay Hazare Trophy Form Before The IPL Auction](harshal_patel_vijay_hazare_trophy_form_before_ipl_auction.md): same source document (doc_0307)
+- [IPL 2024 Auction: The All-Rounders Set](ipl_2024_auction_all_rounders_set.md): same source document (doc_0307)
+- [IPL 2024 Auction: The Capped Batters Set](ipl_2024_auction_capped_batters_set.md): same source document (doc_0307)
+- [IPL 2024 Auction: The Capped Wicketkeepers Set](ipl_2024_auction_capped_wicketkeepers_set.md): same source document (doc_0307)
+- [IPL 2024 Auction: Expert Previews And Team Strategy](ipl_2024_auction_expert_previews_and_team_strategy.md): same source document (doc_0307)
+- [Data Breach](term_data_breach.md): uses the concept data breach
 
 ## Source
 

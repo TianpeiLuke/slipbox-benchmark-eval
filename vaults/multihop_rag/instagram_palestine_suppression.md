@@ -19,11 +19,25 @@ Enforcement also runs inconsistent in the other direction. Al Saadi tried to rep
 
 ## Related Notes
 
+
 - [Amnesty Automated Apartheid Report On West Bank Surveillance](amnesty_automated_apartheid_report_on_west_bank_surveillance.md): also concerns the West Bank, from a different source document.
 - [Amnesty Verification Of CCTV Identified Detentions](amnesty_verification_of_cctv_identified_detentions.md): also concerns the West Bank, from a different source document.
 - [Afrofuture Audience Demographics](afrofuture_audience_demographics.md): also concerns the United Kingdom, from a different source document.
 - [Anthony Joshua Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md): also concerns the United Kingdom, from a different source document.
 - [Argentina Paraguay 2023 Broadcast Rights](argentina_paraguay_2023_broadcast_rights.md): also concerns the United Kingdom, from a different source document.
+- [Meta's Moderation During An Earlier Hamas-Israel Conflict](meta_2021_conflict_moderation.md): same source document (doc_0106)
+- [Meta's Arabic Mistranslation Of "Alhamdulillah"](meta_arabic_mistranslation.md): same source document (doc_0106)
+- [Meta Bias Mechanisms](meta_bias_mechanisms.md): same source document (doc_0106)
+- [Meta Moderation Bias](meta_moderation_bias.md): same source document (doc_0106)
+- [Meta Response To Suppression Claims](meta_response_to_suppression_claims.md): same source document (doc_0106)
+- [User-Generated Content](term_user_generated_content.md): uses the concept user generated content
+- [Accessibility Localisation](term_accessibility_localisation.md): uses the concept accessibility localisation
+- [Terms of Service](term_terms_of_service.md): uses the concept terms of service
+- [Shadowbanning](term_shadowbanning.md): uses the concept shadowbanning
+- [Dangerous Organizations and Individuals Policy](term_dangerous_organizations_policy.md): uses the concept dangerous organizations policy
+- [Creator Economy](term_creator_economy.md): uses the concept creator economy
+- [Appeals Process](term_appeals_process.md): uses the concept appeals process
+- [Recommendation Algorithm](term_recommendation_algorithm.md): uses the concept recommendation algorithm
 
 ## Source
 

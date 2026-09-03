@@ -11,6 +11,7 @@ The grounds are the defenses available to him: he may suggest he was acting on t
 
 ## Related Notes
 
+
 - [Binance's Market Position And 2023 Setbacks](binance_market_position_and_2023_setbacks.md): overlapping coverage of Binance and the crypto firms around it, from a different source document.
 - [Code Evidence Outweighs Deleted Signal Messages](code_evidence_outweighs_deleted_signal_messages.md): overlapping coverage of Bankman-Fried, messages and evidence, from a different source document.
 - [Google Chat Auto-Deletion And Sanctions](google_chat_auto_deletion_and_sanctions.md): overlapping coverage of chat messages as evidence, from a different source document.
@@ -19,6 +20,9 @@ The grounds are the defenses available to him: he may suggest he was acting on t
 - [Bankman-Fried's Defense Strategy And Appeal Groundwork](bankman_fried_defense_strategy_and_appeal_groundwork.md): drawn from the same source document (doc_0175).
 - [Bankman-Fried's Post-Bankruptcy Media Tour](bankman_fried_post_bankruptcy_media_tour.md): drawn from the same source document (doc_0175).
 - [Bankman-Fried's Pre-Collapse Public Image Strategy](bankman_fried_pre_collapse_public_image_strategy.md): drawn from the same source document (doc_0175).
+- [The FTX Trial's Stakes For The Wider Crypto Industry](ftx_trial_stakes_for_the_wider_crypto_industry.md): same source document (doc_0175)
+- [John J. Ray III Running The FTX Estate](john_ray_iii_running_the_ftx_estate.md): same source document (doc_0175)
+- [Bail](term_bail.md): uses the concept bail
 
 ## Source
 
