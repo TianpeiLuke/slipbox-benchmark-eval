@@ -45,6 +45,27 @@ def expected(slug: str) -> dict[str, set[str]]:
     for f in sorted(P.glob("subplan_*_assignments.json")):
         for note, m in json.loads(f.read_text()).items():
             out.setdefault(note, set()).update(d for d, v in m.items() if v)
+
+    # Term notes are planned in terms.json rather than in a block assignment: the
+    # plan says WHICH terms to capture, and the documents each cites are found at
+    # write time by searching the corpus for the term. Their provenance is still
+    # checkable -- every source_doc must be a real corpus document -- but it
+    # cannot be predicted from the plan, so they are listed as planned-with-open
+    # provenance rather than reported as unplanned.
+    tf = P / "terms.json"
+    reuse = {}
+    rf = P / "term_reuse.json"
+    if rf.exists():
+        reuse = json.loads(rf.read_text())
+    if tf.exists():
+        for t in json.loads(tf.read_text()):
+            # A term deliberately REUSED an existing note instead of getting its
+            # own is dedup working, not a gap: two notes for one concept split the
+            # evidence between them. The reuse map records the decision so the
+            # absence is auditable rather than merely absent.
+            if t in reuse:
+                continue
+            out.setdefault(f"term_{t}.md", set())
     return out
 
 
@@ -72,6 +93,8 @@ def main() -> None:
         print(f"the plan expects {len(exp)} notes; run --emit to write the expected map.")
         sys.exit(2)
 
+    corpus_docs = set(json.loads(
+        (ROOT / "data" / "corpus" / a.slug / "index.json").read_text()))
     con = sqlite3.connect(db)
     actual = {}
     navs = set()
@@ -85,6 +108,14 @@ def main() -> None:
     for note, docs in sorted(exp.items()):
         if note not in actual:
             bad.append(f"MISSING   {note}")
+        elif not docs:
+            # planned with open provenance: check the documents are real, not that
+            # they match a prediction the plan never made
+            unknown = actual[note] - corpus_docs
+            if unknown:
+                bad.append(f"BAD-DOC   {note}: cites {sorted(unknown)}, not in the corpus")
+            elif not actual[note] and note not in navs:
+                bad.append(f"EMPTY     {note}: no source_docs — cannot be scored")
         elif actual[note] != docs:
             miss = docs - actual[note]
             extra = actual[note] - docs

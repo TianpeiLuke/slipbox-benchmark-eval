@@ -53,8 +53,9 @@ behaviour the rule wants.
 | | |
 |---|---|
 | Corpus | MultiHop-RAG, 609 documents, 1,063,319 words, 49 publishers |
-| Vault | `vaults/multihop_rag/` — **4,925 notes**, 30,968 resolved links |
-| Mean note | 328 words; 299 notes cite more than one document |
+| Vault | `vaults/multihop_rag/` — **5,093 notes**, 40,712 resolved links, **0 orphans** |
+| Mean note | 375 words; 299 notes cite more than one document |
+| Of those | 4,925 content · 126 glossary terms · 41 entry points · 1 glossary |
 | Plan | 33 cluster plans + 13 pilot sub-plans, 595 sub-plans total |
 | Gates | validator 0 errors · 0 broken links · 0 ghosts · provenance PASS · quarantine PASS |
 | Baseline | chunk-RAG measured: BM25 **Recall@10 0.699**, **All-Recall@10 0.419** |
@@ -220,13 +221,13 @@ gone by 8,192. A comparison run only at a large budget cannot show a slope.
 - **H3 needs an order-sensitive metric.** Its first pass returned a null, and
   the null was uninformative: bag-of-words recall is order-invariant by
   construction, so it cannot detect position effects at all.
-- **Term and entry-point notes are planned but unwritten.** 131 curated terms
-  (`terms.json`); the entry-point hierarchy is specified in
-  `plan_corpus_master.md`. Write terms **before** the linking pass, or links to
-  them become ghosts.
-- **725 notes have no inbound link.** An orphan is retrievable by name and
-  unreachable by traversal, so it is invisible to the graph arm — which is the
-  arm under test.
+- ~~Term and entry-point notes~~ **done** — 126 term notes, a 41-note
+  entry-point hierarchy and the glossary landed from another machine. Four terms
+  deliberately reused an existing note instead of duplicating it, recorded in
+  `term_reuse.json`; one was dropped for linking to nothing, recorded in
+  `terms_dropped.md`. Both files exist so an absence is auditable rather than
+  merely absent.
+- ~~725 orphans~~ **0** — the entry-point hierarchy connected every note.
 
 ---
 
@@ -260,6 +261,12 @@ self-referential framing. All three then passed with the evidence shown.
 relation first — same article — is the obvious choice and it is wrong for
 multi-hop: it fills the graph with edges connecting notes a retriever already
 reaches together.
+
+**A checker only knows the plan shape it was taught.** `check_provenance.py`
+reported 91 term notes as UNPLANNED when they arrived, because it read block
+assignments and had never heard of `terms.json`. The notes were correct; the
+checker was incomplete. When a gate fires on incoming work, establish which side
+is wrong before acting on it.
 
 **Trust the agents' problem reports.** Two independently flagged the noisy links;
 all thirteen pilot agents flagged an empty `building_block` in my brief
