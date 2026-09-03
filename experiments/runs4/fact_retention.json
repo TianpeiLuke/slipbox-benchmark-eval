@@ -1,0 +1,48 @@
+{
+ "notes": {
+  "0.55": {
+   "retention": 0.9313524590163934,
+   "facts_covered": 909,
+   "units_carrying_a_fact": 1803,
+   "mean_facts_per_carrying_unit": 1.3815862451469774,
+   "share_units_with_2plus": 0.24514697726012202
+  },
+  "0.65": {
+   "retention": 0.8165983606557377,
+   "facts_covered": 797,
+   "units_carrying_a_fact": 1047,
+   "mean_facts_per_carrying_unit": 1.2063037249283668,
+   "share_units_with_2plus": 0.16141356255969436
+  },
+  "0.75": {
+   "retention": 0.5952868852459017,
+   "facts_covered": 581,
+   "units_carrying_a_fact": 592,
+   "mean_facts_per_carrying_unit": 1.0962837837837838,
+   "share_units_with_2plus": 0.08445945945945946
+  }
+ },
+ "chunks": {
+  "0.55": {
+   "retention": 0.9979508196721312,
+   "facts_covered": 974,
+   "units_carrying_a_fact": 4188,
+   "mean_facts_per_carrying_unit": 1.2700573065902578,
+   "share_units_with_2plus": 0.20773638968481375
+  },
+  "0.65": {
+   "retention": 0.9907786885245902,
+   "facts_covered": 967,
+   "units_carrying_a_fact": 2201,
+   "mean_facts_per_carrying_unit": 1.1281235801908223,
+   "share_units_with_2plus": 0.11176737846433439
+  },
+  "0.75": {
+   "retention": 0.9631147540983607,
+   "facts_covered": 940,
+   "units_carrying_a_fact": 1367,
+   "mean_facts_per_carrying_unit": 1.0512070226773957,
+   "share_units_with_2plus": 0.043891733723482075
+  }
+ }
+}
