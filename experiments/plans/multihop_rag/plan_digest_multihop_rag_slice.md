@@ -59,19 +59,19 @@ The master never duplicates the sub-plan note tables.
 
 | Sub-plan | Pri | Docs | Words | Notes | Status |
 |---|---|---|---|---|---|
-| [01 FTX Trial and Collapse](subplan_01_ftx_trial.md) | P1 | 3 | 3,569 | 14 | ready |
-| [02 EU Enforcement Against X](subplan_02_eu_x_enforcement.md) | P1 | 3 | 4,114 | 11 | ready |
-| [03 Meta Moderation](subplan_03_meta_moderation.md) | P1 | 2 | 3,905 | 10 | ready |
-| [04 Antitrust and Speech Law](subplan_04_antitrust_and_speech.md) | P1 | 2 | 2,446 | 10 | ready |
-| [05 AI Policy and Investment](subplan_05_ai_policy_and_investment.md) | P2 | 2 | 3,026 | 8 | ready |
-| [06 Fintech Funding and Payments](subplan_06_fintech.md) | P2 | 1 | 1,921 | 11 | ready |
-| [07 Consumer AI and Devices](subplan_07_consumer_ai_devices.md) | P2 | 2 | 2,821 | 10 | ready |
-| [08 Creator Economy and Platform Safety](subplan_08_creator_economy_and_safety.md) | P2 | 3 | 3,929 | 13 | ready |
-| [09 Platform Governance Debate](subplan_09_platform_governance_debate.md) | P2 | 2 | 2,427 | 7 | ready |
-| [10 Global Tech Ecosystems](subplan_10_global_ecosystems.md) | P3 | 2 | 2,861 | 8 | ready |
-| [11 EU CSAM Scanning Proposal](subplan_11_eu_csam.md) | P3 | 1 | 2,496 | 5 | ready |
-| [12 Week in Review Roundup](subplan_12_weekly_review_roundup.md) | P3 | 1 | 1,179 | 12 | ready |
-| [13 Startups Weekly Roundup](subplan_13_startups_weekly_roundup.md) | P3 | 1 | 1,201 | 13 | ready |
+| [01 FTX Trial and Collapse](subplan_01_ftx_trial.md) | P1 | 3 | 3,569 | 14 | completed |
+| [02 EU Enforcement Against X](subplan_02_eu_x_enforcement.md) | P1 | 3 | 4,114 | 11 | completed |
+| [03 Meta Moderation](subplan_03_meta_moderation.md) | P1 | 2 | 3,905 | 10 | completed |
+| [04 Antitrust and Speech Law](subplan_04_antitrust_and_speech.md) | P1 | 2 | 2,446 | 10 | completed |
+| [05 AI Policy and Investment](subplan_05_ai_policy_and_investment.md) | P2 | 2 | 3,026 | 8 | completed |
+| [06 Fintech Funding and Payments](subplan_06_fintech.md) | P2 | 1 | 1,921 | 11 | completed |
+| [07 Consumer AI and Devices](subplan_07_consumer_ai_devices.md) | P2 | 2 | 2,821 | 10 | completed |
+| [08 Creator Economy and Platform Safety](subplan_08_creator_economy_and_safety.md) | P2 | 3 | 3,929 | 13 | completed |
+| [09 Platform Governance Debate](subplan_09_platform_governance_debate.md) | P2 | 2 | 2,427 | 7 | completed |
+| [10 Global Tech Ecosystems](subplan_10_global_ecosystems.md) | P3 | 2 | 2,861 | 8 | completed |
+| [11 EU CSAM Scanning Proposal](subplan_11_eu_csam.md) | P3 | 1 | 2,496 | 5 | completed |
+| [12 Week in Review Roundup](subplan_12_weekly_review_roundup.md) | P3 | 1 | 1,179 | 12 | completed |
+| [13 Startups Weekly Roundup](subplan_13_startups_weekly_roundup.md) | P3 | 1 | 1,201 | 13 | completed |
 
 **13 sub-plans, 132 notes, every one in the 4–15 range.**
 The skill's rule is that a sub-plan producing more than 15 notes splits further;

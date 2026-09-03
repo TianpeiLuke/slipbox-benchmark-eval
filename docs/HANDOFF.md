@@ -97,9 +97,16 @@ bash scripts/test_gates.sh      # 18 assertions on a deliberately broken vault
 To confirm the vault is complete rather than merely present:
 
 ```bash
-python3 scripts/check_execution.py  multihop_rag --vault vaults/multihop_rag
-python3 scripts/check_provenance.py multihop_rag --vault vaults/multihop_rag
+python3 scripts/check_execution.py   multihop_rag --vault vaults/multihop_rag
+python3 scripts/check_provenance.py  multihop_rag --vault vaults/multihop_rag
+python3 scripts/mark_plan_status.py  multihop_rag --vault vaults/multihop_rag --check
 ```
+
+All three derive their answer from the vault. `mark_plan_status.py --check`
+exists because a `status:` field is a claim that decays: it is written when a
+plan is authored and nothing forces it to change when the plan is executed.
+Thirteen sub-plans here read `ready` after being fully written, and 33 cluster
+plans carried no status at all. Run it without `--check` to correct them.
 
 `check_execution.py` asks the question a `status:` field cannot answer, in both
 directions: every planned note exists, and every note on disk is accounted for
