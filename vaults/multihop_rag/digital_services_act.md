@@ -23,6 +23,36 @@ The regulation also contains a "crisis response" mechanism (Article 36) which en
 - [Cybertruck Bed Size And Cargo Capacity](cybertruck_bed_size_and_cargo_capacity.md): overlapping coverage of Elon Musk, from a different source document.
 - [Big Ten Deliberation Over Harbaugh Punishment](big_ten_deliberation_over_harbaugh_punishment.md): shares the fine-penalty and regulatory-investigation themes, from a different source document.
 
+
+
+
+## Corpus References
+
+Corpus notes whose source text references this term (evidence-backed, from `term_links.json`):
+
+- [Digital Services Act Obligations For Very Large Online Platforms](digital_services_act_obligations_for_very_large_online_platforms.md)
+- [DMA And DSA Oversight Of Meta's Advertising Consent](dma_dsa_oversight_of_meta_advertising_consent.md)
+- [DSA And DMA Oversight Of Meta's Ad Tracking](dsa_dma_oversight_of_meta_ad_tracking.md)
+- [DSA Enforcement Powers And Penalties](dsa_enforcement_powers_and_penalties.md)
+- [The EU Code Of Practice On Disinformation](eu_code_of_practice_on_disinformation.md)
+- [The Commission's Earlier Requests For Information To X](eu_commission_prior_requests_for_information_to_x.md)
+- [The EU CSAM Scanning Proposal](eu_csam_scanning_proposal.md)
+- [The EU's First Formal DSA Proceeding, Against X](eu_dsa_formal_proceedings_against_x.md)
+- [EU Enforcement Steps Against X Over DSA Compliance](eu_enforcement_against_x.md)
+- [The EU's Urgent Warning Letter To X](eu_warning_letter_to_x.md)
+- [EU Warnings To Other Platforms](eu_warnings_to_other_platforms.md)
+- [Meta Bias Mechanisms](meta_bias_mechanisms.md)
+- [Meta's Subscription Age Restriction And Teens](meta_subscription_age_restriction_and_teens.md)
+- [Musk's Position On Disinformation](musk_position_on_disinformation.md)
+- [The Compliance Burden On Nonprofits](online_safety_compliance_burden_on_nonprofits.md)
+- [The Scope Of The EU's DSA Investigation Into X](scope_of_eu_dsa_investigation_into_x.md)
+- [X's Content Moderation Retrenchment Under Musk](x_content_moderation_retrenchment_under_musk.md)
+- [X's Exit From The EU Disinformation Code Under Musk](x_exit_from_eu_disinformation_code_under_musk.md)
+- [X's Moderation Capacity After The Musk Takeover](x_moderation_capacity.md)
+- [X Found To Have The Worst Disinformation Ratio In EU Analysis](x_platform_worst_disinformation_ratio_eu_finding.md)
+- [X's Response To The EU](x_response_to_eu.md)
+- [X's Response To The EU's DSA Investigation](x_response_to_eu_dsa_investigation.md)
+
 ## Source
 
 - doc_0024: TechCrunch, 2023-10-13

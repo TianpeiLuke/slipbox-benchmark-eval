@@ -22,6 +22,16 @@ The discriminating feature of the Sam coins was that their book value was not re
 - [Alameda Absorbed FTX's Losses, Including MobileCoin](alameda_absorbed_ftx_losses_mobilecoin.md): another Alameda-FTX accounting manoeuvre from the same code-review day (doc_0305).
 - [The Escalation of Alameda's Negative Balance](alameda_negative_balance_escalation.md): FTT's value was the excuse offered as the balance went further negative (doc_0305).
 
+
+
+
+## Corpus References
+
+Corpus notes whose source text references this term (evidence-backed, from `term_links.json`):
+
+- [The Mechanism Of FTX's Collapse](ftx_collapse_mechanism.md)
+- [Bankman-Fried And Ellison: Relationship And Alameda Leadership](sbf_and_ellison_relationship_and_alameda_leadership.md)
+
 ## Source
 
 - doc_0086: The Verge, 2023-10-10
