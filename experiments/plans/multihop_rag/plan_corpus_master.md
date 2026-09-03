@@ -12,7 +12,7 @@ topics:
   - Evaluation Infrastructure
 language: markdown
 date of note: 2026-09-02
-status: ready
+status: completed
 building_block: navigation
 ---
 
@@ -146,3 +146,48 @@ at roughly 30 per wave.
 - [Pilot slice master plan](plan_digest_multihop_rag_slice.md)
 - [Merges declined, with reasons](merge_declined.md)
 - [Building blocks](../../../docs/BUILDING_BLOCKS.md)
+
+## Execution Report (term notes + entry-point hierarchy)
+
+Executed 2026-09-02/03 via the `execute-digestion-plan` / `capture-term-note`
+skills, driven by dynamic multi-agent workflows. The 4,925 content notes already
+existed; this run added the two remaining deliverables.
+
+| Deliverable | Result |
+|---|---|
+| Term notes | **126 written** (125 fan-out + 1 hand-piloted VLOP); 4 dedup→reuse (`digital_services_act`→existing note, `ftt_token`, `passkeys`, `layoffs_and_restructuring`→`term_layoffs`); `regulatory_approval` dropped (0 corpus hits, 0 referencing notes → would be a graph island) |
+| Glossary | **`glossary.md`**, 130 entries (navigation) |
+| Entry-point hierarchy | **41 navigation notes** — 34 cluster (`entry_c01`..`c33` + `entry_pilot`) + 6 category + 1 root `entry_multihop_rag`. (34 cluster entries vs the plan's 33 because the pilot is its own cluster.) |
+| Term↔content edges | **~4,030** materialized from `term_links.json`, evidence-backed. Written once inside the term notes; the DB symmetrises links (undirected graph), so this equals editing every referencing content note — no content note was modified. |
+
+### Graph effect
+| Metric | Before | After |
+|---|---|---|
+| Notes | 4,925 | **5,093** |
+| Resolved links | 30,968 | **40,712** (0 external/unresolved) |
+| Orphans (no inbound) | **725** | **0** — cluster entries link to every member note; glossary/term links reach every term note |
+| Broken / ghost | 0 / 0 | 0 / 0 |
+
+### Faithfulness (adversarial verify + fix loop)
+The capture fan-out passed all deterministic gates but an independent adversarial
+re-read found systematic issues (36-note sample: 18 fabrication-tier, mostly
+unattributed general definitions smuggled into scored sections + some invented
+specifics). A fix pass over all 126 notes (re-read source, correct, relocate
+general definitions to attributed `## Background (external)`, trim unused
+`source_docs`) plus a bounded second round on 5 stragglers converged to:
+**0 fabrication-tier, 0 enrichment leaks, 0 `source_docs` errors** on re-verify;
+residual issues are minor glossary-level paraphrase within tolerance. **88 term
+notes are web-enriched** (`enriched: web`), all ablatable for the enrichment
+ablation. Quarantine held throughout — no note references the questions/gold.
+
+### Gate status
+Format 0 errors · links 0-external · orphans 0 · broken 0 · ghost 0 ·
+`scrub_check` PASS · `selftest.sh` PASS · quarantine clean.
+`check_provenance`: **0 MISMATCH/EMPTY/MISSING across the 4,925 planned content
+notes** (scoring integrity intact); it flags the 126 term notes as `UNPLANNED`
+because it models only the block-assignment digestion plan, not this file's
+"Undigested Terms Plan" — a checker scope limitation, not a provenance defect.
+
+## Status
+
+Execution complete. Plan moves from `ready` → `completed`.
