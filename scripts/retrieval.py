@@ -28,6 +28,7 @@ from __future__ import annotations
 import argparse
 import json
 import math
+import threading
 import re
 import sqlite3
 import sys
@@ -63,6 +64,9 @@ def bm25(vault: Path, query: str, k: int) -> list[tuple[str, float]]:
 # ------------------------------------------------------------------ dense
 
 _MODEL = None
+# lazy init is not thread-safe: concurrent first calls raced inside torch and
+# died with "Cannot copy out of meta tensor". One loader, everyone else waits.
+_MODEL_LOCK = threading.Lock()
 
 
 def dense(vault: Path, query: str, k: int) -> list[tuple[str, float]]:
@@ -79,7 +83,9 @@ def dense(vault: Path, query: str, k: int) -> list[tuple[str, float]]:
     meta = json.loads(ipath.read_text())
     if _MODEL is None:
         from sentence_transformers import SentenceTransformer
-        _MODEL = SentenceTransformer(meta["model"])
+        with _MODEL_LOCK:
+            if _MODEL is None:
+                _MODEL = SentenceTransformer(meta["model"])
     emb = np.load(epath)
     q = _MODEL.encode([query], convert_to_numpy=True, normalize_embeddings=True)[0]
     sims = emb @ q
@@ -199,7 +205,9 @@ def encode_query(vault: Path, query: str):
     meta = json.loads((vault / "embedding_ids.json").read_text())
     if _MODEL is None:
         from sentence_transformers import SentenceTransformer
-        _MODEL = SentenceTransformer(meta["model"])
+        with _MODEL_LOCK:
+            if _MODEL is None:
+                _MODEL = SentenceTransformer(meta["model"])
     return _MODEL.encode([query], convert_to_numpy=True, normalize_embeddings=True)[0]
 
 

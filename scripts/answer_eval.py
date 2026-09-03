@@ -223,6 +223,9 @@ def main() -> None:
                 "contains": float(bool(gold) and normalise(gold) in normalise(ans)),
             }
 
+        # warm the embedding model and per-vault caches on ONE thread first;
+        # eight threads racing the lazy loader is what crashed the slots run
+        build_context(vault, bodies, toks, qs[0]["query"], a.condition, a.k, a.budget)
         with ThreadPoolExecutor(max_workers=a.workers) as ex:
             res = list(ex.map(one, qs))
         errs = [r for r in res if "err" in r]
