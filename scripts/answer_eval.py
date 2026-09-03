@@ -47,7 +47,7 @@ Backends
 
 from __future__ import annotations
 
-import argparse, json, os, re, string, subprocess, sys, random
+import argparse, json, os, re, string, subprocess, sys, random, threading
 from collections import Counter
 from pathlib import Path
 
@@ -58,14 +58,20 @@ from score_retrieval import strip_scaffolding      # noqa: E402
 
 REFUSAL = "INSUFFICIENT"
 
-PROMPT = """Answer the question using ONLY the context below.
+# FIXED across every arm, condition and run. The only thing that varies between
+# the two arms is the retrieved context, so any difference in answer quality is
+# attributable to the retrieval representation and not to prompting.
+SYSTEM = (
+    "You are a question-answering system. Answer strictly from the context you "
+    "are given, never from prior knowledge.\n"
+    "- Reply with the shortest span that answers the question: a name, a number, "
+    "a date, or yes/no.\n"
+    "- Do not explain, do not restate the question, do not cite the context.\n"
+    f"- If the context does not contain the answer, reply with exactly: {REFUSAL}\n"
+    "- Never call a tool. Reply with the answer text only."
+)
 
-Rules:
-- Answer with the shortest span that answers it -- a name, a number, a date, or yes/no.
-- Do not explain. Do not restate the question.
-- If the context does not contain the answer, reply with exactly: {refusal}
-
-Context:
+USER = """Context:
 {context}
 
 Question: {question}
@@ -95,33 +101,50 @@ def f1(pred: str, gold: str) -> float:
 
 # ---------------------------------------------------------------- backends
 
-def ask_openai(prompt: str, model: str) -> str:
+def ask_openai(system: str, user: str, model: str) -> str:
     from openai import OpenAI
-    c = OpenAI()
-    r = c.chat.completions.create(model=model,
-                                  messages=[{"role": "user", "content": prompt}])
+    r = OpenAI().chat.completions.create(
+        model=model,
+        messages=[{"role": "system", "content": system},
+                  {"role": "user", "content": user}])
     return (r.choices[0].message.content or "").strip()
 
 
-def ask_anthropic(prompt: str, model: str) -> str:
+def ask_anthropic(system: str, user: str, model: str) -> str:
     import anthropic
-    c = anthropic.Anthropic()
-    r = c.messages.create(model=model, max_tokens=64,
-                          messages=[{"role": "user", "content": prompt}])
+    r = anthropic.Anthropic().messages.create(
+        model=model, max_tokens=64, system=system,
+        messages=[{"role": "user", "content": user}])
     return "".join(b.text for b in r.content if b.type == "text").strip()
 
 
-def ask_cline(prompt: str, model: str) -> str:
-    """Cline CLI in headless mode. Emits newline-delimited JSON; the answer is
-    the concatenation of `text` fields, so reasoning lines are skipped."""
-    cmd = ["cline", "--json", "--auto-approve", "true"]
+_CLINE_SANDBOX = Path(os.environ.get("CLINE_SANDBOX", "/tmp/cline_qa_sandbox"))
+
+
+def ask_cline(system: str, user: str, model: str) -> str:
+    """Cline CLI, one shot, no tools, isolated state.
+
+    cline is an agent, not a completion endpoint, so three things are forced:
+    --cwd points at an empty sandbox so a stray tool call cannot touch the repo,
+    --auto-approve false stops it acting on one, and -s replaces its coding
+    system prompt with ours. It still bills ~7,000 tokens of tool schemas per
+    call regardless -- constant across arms, so the comparison holds, but it is
+    the reason a run is not cheap.
+
+    The answer is the `text` field of the final run_result line; the streamed
+    reasoning lines are ignored so a reasoning model's scratchpad is never
+    scored.
+    """
+    _CLINE_SANDBOX.mkdir(parents=True, exist_ok=True)
+    data_dir = _CLINE_SANDBOX / f"state_{threading.get_ident()}"
+    cmd = ["cline", "-P", os.environ.get("CLINE_PROVIDER", "cline"),
+           "--cwd", str(_CLINE_SANDBOX), "--data-dir", str(data_dir),
+           "--auto-approve", "false", "-t", "120", "--json", "-s", system]
     if model:
         cmd += ["-m", model]
-    cmd.append(prompt)
-    out = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
-    if out.returncode != 0:
-        raise RuntimeError(f"cline exited {out.returncode}: {out.stderr[:300]}")
-    parts = []
+    cmd.append(user)
+    out = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
+    text, cost = None, 0.0
     for line in out.stdout.splitlines():
         line = line.strip()
         if not line.startswith("{"):
@@ -130,9 +153,20 @@ def ask_cline(prompt: str, model: str) -> str:
             o = json.loads(line)
         except json.JSONDecodeError:
             continue
-        if o.get("type") in (None, "text", "say") and o.get("text"):
-            parts.append(o["text"])
-    return (" ".join(parts) or out.stdout).strip()
+        if o.get("type") == "run_result":
+            text = (o.get("text") or "").strip()
+            cost = (o.get("aggregateUsage") or {}).get("totalCost", 0.0) or \
+                   (o.get("usage") or {}).get("totalCost", 0.0)
+    if text is None:
+        raise RuntimeError(f"cline gave no run_result (rc={out.returncode}): "
+                           f"{out.stderr[:200] or out.stdout[-200:]}")
+    with _COST_LOCK:
+        _COST[0] += cost
+    return text
+
+
+_COST = [0.0]
+_COST_LOCK = threading.Lock()
 
 
 BACKENDS = {"openai": ask_openai, "anthropic": ask_anthropic, "cline": ask_cline}
@@ -204,9 +238,9 @@ def main() -> None:
         def one(q):
             ctx, nunits = build_context(vault, bodies, toks, q["query"],
                                         a.condition, a.k, a.budget)
-            p = PROMPT.format(refusal=REFUSAL, context=ctx, question=q["query"])
+            u = USER.format(context=ctx, question=q["query"])
             try:
-                ans = ask(p, a.model)
+                ans = ask(SYSTEM, u, a.model)
             except Exception as e:
                 return {"err": str(e)[:200]}
             gold = q.get("answer") or ""
@@ -255,6 +289,8 @@ def main() -> None:
         (x, rx), (y, ry) = out.items()
         print(f"\n{y} - {x}:  F1 {ry['f1']-rx['f1']:+.3f}   EM {ry['em']-rx['em']:+.3f}   "
               f"abstain@null {ry['abstained_on_null']-rx['abstained_on_null']:+.3f}")
+    if _COST[0]:
+        print(f"\ncline spend this run: ${_COST[0]:.2f}")
     if a.json:
         Path(a.json).parent.mkdir(parents=True, exist_ok=True)
         Path(a.json).write_text(json.dumps(out, indent=1))
