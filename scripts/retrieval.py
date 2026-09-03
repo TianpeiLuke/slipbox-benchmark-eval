@@ -73,7 +73,8 @@ def dense(vault: Path, query: str, k: int) -> list[tuple[str, float]]:
         # silently equal nothing -- a missing index would read as a real result.
         raise FileNotFoundError(
             f"no dense index at {epath}. Run: python3 scripts/build_embeddings.py {vault}\n"
-            f"(bm25, bfs and ppr work without it; dense and hybrid do not.)")
+            f"(bm25 works without it. bfs and ppr SEED from hybrid, so they need it too "
+            f"unless you pass seed='bm25'.)")
     global _MODEL
     meta = json.loads(ipath.read_text())
     if _MODEL is None:
@@ -99,6 +100,23 @@ def hybrid(vault: Path, query: str, k: int) -> list[tuple[str, float]]:
 
 # ------------------------------------------------------------------ graph
 
+def navigation_notes(vault: Path) -> set[str]:
+    """Notes that index rather than assert.
+
+    They must stay IN the graph -- an entry point is often the only path between
+    two clusters, so removing it would disconnect the very traversal the graph
+    arm tests. But they must not be RETURNED: an entry point carries no
+    source_docs, so it can never satisfy passage-level gold, and every slot one
+    occupies in the top k is a slot that could have held an answer. Leaving them
+    in results does not merely add noise, it understates the arm.
+    """
+    con = sqlite3.connect(vault / "notes.db")
+    out = {n for n, in con.execute(
+        "SELECT note_id FROM notes WHERE building_block = 'navigation'")}
+    con.close()
+    return out
+
+
 def load_graph(vault: Path) -> dict[str, list[str]]:
     """Adjacency over RESOLVED in-vault links only. An unresolved link points
     outside this vault and must never be traversed."""
@@ -112,12 +130,27 @@ def load_graph(vault: Path) -> dict[str, list[str]]:
     return adj
 
 
-def bfs(vault: Path, query: str, k: int, seeds: int = 5, depth: int = 2
-        ) -> list[tuple[str, float]]:
-    """Best-first expansion: seed with hybrid, walk resolved links outward,
+def _seed(vault: Path, query: str, n: int, seed: str) -> list[tuple[str, float]]:
+    """Seed set for a graph walk.
+
+    The graph arms are not dense arms: what they test is whether traversal adds
+    anything over the seeds, and that question is well posed for any seeding.
+    Defaulting to hybrid keeps the comparison against HippoRAG honest, but the
+    seed is explicit so the graph can still be run with no embedding index --
+    chosen by the caller, never silently substituted, because a silent fallback
+    would make bfs report a hybrid seeding it did not use.
+    """
+    if seed not in ("hybrid", "bm25"):
+        raise ValueError(f"seed must be 'hybrid' or 'bm25', got {seed!r}")
+    return (hybrid if seed == "hybrid" else bm25)(vault, query, n)
+
+
+def bfs(vault: Path, query: str, k: int, seeds: int = 5, depth: int = 2,
+        seed: str = "hybrid") -> list[tuple[str, float]]:
+    """Best-first expansion: seed, then walk resolved links outward,
     discounting by hop distance."""
     adj = load_graph(vault)
-    seeded = hybrid(vault, query, seeds)
+    seeded = _seed(vault, query, seeds, seed)
     scores: dict[str, float] = {nid: s for nid, s in seeded}
     frontier = [(nid, 0) for nid, _ in seeded]
     seen = {nid for nid, _ in seeded}
@@ -132,16 +165,19 @@ def bfs(vault: Path, query: str, k: int, seeds: int = 5, depth: int = 2
             if nb not in seen:
                 seen.add(nb)
                 frontier.append((nb, d + 1))
-    return sorted(scores.items(), key=lambda x: -x[1])[:k]
+    nav = navigation_notes(vault)
+    return [x for x in sorted(scores.items(), key=lambda y: -y[1])
+            if x[0] not in nav][:k]
 
 
-def ppr(vault: Path, query: str, k: int, seeds: int = 5) -> list[tuple[str, float]]:
-    """Personalised PageRank with the teleport distribution set to the hybrid
-    seeds. This is the HippoRAG-style graph arm."""
+def ppr(vault: Path, query: str, k: int, seeds: int = 5,
+        seed: str = "hybrid") -> list[tuple[str, float]]:
+    """Personalised PageRank with the teleport distribution set to the seeds.
+    This is the HippoRAG-style graph arm."""
     adj = load_graph(vault)
     if not adj:
-        return hybrid(vault, query, k)
-    seeded = hybrid(vault, query, seeds)
+        return _seed(vault, query, k, seed)
+    seeded = _seed(vault, query, seeds, seed)
     if not seeded:
         return []
     total = sum(s for _, s in seeded) or 1.0
@@ -164,7 +200,9 @@ def ppr(vault: Path, query: str, k: int, seeds: int = 5) -> list[tuple[str, floa
         rank = nxt
         if delta < 1e-8:
             break
-    return sorted(rank.items(), key=lambda x: -x[1])[:k]
+    nav = navigation_notes(vault)
+    return [x for x in sorted(rank.items(), key=lambda y: -y[1])
+            if x[0] not in nav][:k]
 
 
 STRATEGIES = {"bm25": bm25, "dense": dense, "hybrid": hybrid, "bfs": bfs, "ppr": ppr}
@@ -177,6 +215,10 @@ def main() -> None:
     ap.add_argument("--strategy", default="hybrid",
                     choices=list(STRATEGIES) + ["all"])
     ap.add_argument("--k", type=int, default=5)
+    ap.add_argument("--seed", default="hybrid", choices=["hybrid", "bm25"],
+                    help="seed set for bfs and ppr. Default hybrid, matching the "
+                         "HippoRAG protocol; bm25 lets the graph arms run with no "
+                         "embedding index. Chosen, never substituted silently.")
     a = ap.parse_args()
 
     vault = Path(a.vault)
@@ -186,7 +228,9 @@ def main() -> None:
 
     names = list(STRATEGIES) if a.strategy == "all" else [a.strategy]
     for name in names:
-        res = STRATEGIES[name](vault, a.query, a.k)
+        res = (STRATEGIES[name](vault, a.query, a.k, seed=a.seed)
+               if name in ("bfs", "ppr")
+               else STRATEGIES[name](vault, a.query, a.k))
         print(f"\n=== {name} ===")
         if not res:
             print("  (no results -- embeddings missing, or no lexical match)")

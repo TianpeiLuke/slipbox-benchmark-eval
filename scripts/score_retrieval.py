@@ -78,13 +78,23 @@ def note_provenance(vault: Path) -> dict[str, set[str]]:
     """note_id -> the corpus documents it declares. This is what makes it scorable."""
     con = sqlite3.connect(vault / "notes.db")
     prov: dict[str, set[str]] = {}
-    for nid, src in con.execute("SELECT note_id, source_doc FROM notes"):
+    nav = set()
+    for nid, src, bb in con.execute(
+            "SELECT note_id, source_doc, building_block FROM notes"):
         prov[nid] = {s.strip() for s in (src or "").split(",") if s.strip()}
+        if bb == "navigation":
+            nav.add(nid)
     con.close()
-    missing = [n for n, s in prov.items() if not s]
+    # navigation notes have no source_docs by design -- they index rather than
+    # assert -- and retrieval already excludes them from results. Reporting them
+    # as a problem would train a reader to ignore this warning.
+    missing = [n for n, s in prov.items() if not s and n not in nav]
+    if nav:
+        print(f"note: {len(nav)} navigation notes carry no source_docs by design "
+              f"and are excluded from retrieval results.")
     if missing:
-        print(f"WARNING: {len(missing)}/{len(prov)} notes declare no source_docs "
-              f"and can never be credited. Run validate_notes.py --gate.")
+        print(f"WARNING: {len(missing)}/{len(prov)} content notes declare no "
+              f"source_docs and can never be credited. Run validate_notes.py --gate.")
     return prov
 
 
