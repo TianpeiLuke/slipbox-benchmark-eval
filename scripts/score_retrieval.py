@@ -98,9 +98,23 @@ def note_provenance(vault: Path) -> dict[str, set[str]]:
     return prov
 
 
-def score(questions: list[dict], resolve, ks: list[int], topk: int) -> dict:
-    """resolve(query, k) -> ordered list of retrieval units mapped to doc-id sets."""
+def score(questions: list[dict], resolve, ks: list[int], topk: int,
+          budgets: list[int] | None = None, words=None) -> dict:
+    """resolve(query, k) -> ordered list of (unit_id, doc-id set), ranked.
+
+    Two ways to cut the ranked list, and they answer different questions.
+
+    By k: the conventional report, comparable to published Recall@k numbers.
+
+    By TOKEN BUDGET: assemble units in rank order until the budget is spent.
+    This is the only fair cut between representations of different size --
+    matching k gives the win to whichever arm has larger units, since 5 chunks
+    of 200 words is not 5 notes of 328. H1 is a claim about how the gap moves
+    with budget, so it cannot be tested on k at all.
+    """
     stats = {k: {"recall": [], "all": []} for k in ks}
+    bstats = {b: {"recall": [], "all": []} for b in (budgets or [])}
+    qids: list[str] = []
     by_type: dict[str, dict[int, list[float]]] = defaultdict(lambda: defaultdict(list))
     answerable = 0
 
@@ -108,17 +122,32 @@ def score(questions: list[dict], resolve, ks: list[int], topk: int) -> dict:
         if not q["gold"]:
             continue                      # null_query: nothing to retrieve
         answerable += 1
+        qids.append(q["query"])
         ranked = resolve(q["query"], topk)
         for k in ks:
             seen: set[str] = set()
-            for unit_docs in ranked[:k]:
+            for _, unit_docs in ranked[:k]:
                 seen |= unit_docs
             hit = q["gold"] & seen
             r = len(hit) / len(q["gold"])
             stats[k]["recall"].append(r)
             stats[k]["all"].append(1.0 if hit == q["gold"] else 0.0)
             by_type[q["type"]][k].append(r)
-    return {"stats": stats, "by_type": by_type, "answerable": answerable}
+
+        for b in (budgets or []):
+            seen, spent = set(), 0
+            for uid, unit_docs in ranked:
+                w = words.get(uid, 0) if words else 0
+                if spent + w > b:
+                    continue          # skip a unit that overruns; keep filling
+                spent += w
+                seen |= unit_docs
+            hit = q["gold"] & seen
+            bstats[b]["recall"].append(len(hit) / len(q["gold"]))
+            bstats[b]["all"].append(1.0 if hit == q["gold"] else 0.0)
+
+    return {"stats": stats, "by_type": by_type, "answerable": answerable,
+            "budgets": bstats, "qids": qids}
 
 
 def main() -> None:
@@ -129,6 +158,12 @@ def main() -> None:
     ap.add_argument("--chunk-db", help="chunks arm: directory holding the chunk index")
     ap.add_argument("--strategies", default="bm25,hybrid,ppr")
     ap.add_argument("--k", default="2,5,10")
+    ap.add_argument("--budgets", default="",
+                    help="comma-separated TOKEN budgets, e.g. 512,1024,2048,4096,8192. "
+                         "Assembles units in rank order until spent. This is the cut H1 "
+                         "needs; k is not comparable across arms with different unit sizes.")
+    ap.add_argument("--seed", default="hybrid", choices=["hybrid", "bm25"],
+                    help="seed for the bfs and ppr arms")
     ap.add_argument("--limit", type=int, default=0, help="score only the first N questions")
     ap.add_argument("--covered-only", action="store_true",
                     help="score only questions whose gold documents were ALL ingested")
@@ -136,6 +171,8 @@ def main() -> None:
     a = ap.parse_args()
 
     ks = sorted(int(x) for x in a.k.split(","))
+    budgets = sorted(int(x) for x in a.budgets.split(",") if x.strip())
+    TOK_PER_WORD = 1.3          # same factor used to size the corpus budget range
     questions, _ = load_gold(a.slug)
     if a.limit:
         questions = questions[: a.limit]
@@ -149,6 +186,10 @@ def main() -> None:
             sys.exit(2)
         prov = note_provenance(vault)
         unit_docs = lambda nid: prov.get(nid, set())          # noqa: E731
+        _c = sqlite3.connect(vault / "notes.db")
+        words = {n: int(w * TOK_PER_WORD)
+                 for n, w in _c.execute("SELECT note_id, words FROM notes")}
+        _c.close()
     else:
         cdir = Path(a.chunk_db or f"data/chunks/{a.slug}")
         if not (cdir / "notes.db").exists():
@@ -158,6 +199,8 @@ def main() -> None:
         con = sqlite3.connect(cdir / "notes.db")
         cmap = {nid: {src} for nid, src in
                 con.execute("SELECT note_id, source_doc FROM notes")}
+        words = {n: int(w * TOK_PER_WORD)
+                 for n, w in con.execute("SELECT note_id, words FROM notes")}
         con.close()
         unit_docs = lambda nid: cmap.get(nid, set())          # noqa: E731
 
@@ -186,10 +229,13 @@ def main() -> None:
             sys.exit(2)
 
         def resolve(query: str, k: int, _s=strat):
-            hits = R.STRATEGIES[_s](vault, query, k)
-            return [unit_docs(nid) for nid, _ in hits]
+            hits = (R.STRATEGIES[_s](vault, query, k, seed="bm25")
+                    if _s in ("bfs", "ppr") and a.seed == "bm25"
+                    else R.STRATEGIES[_s](vault, query, k))
+            return [(nid, unit_docs(nid)) for nid, _ in hits]
 
-        out = score(questions, resolve, ks, max(ks))
+        out = score(questions, resolve, ks, max(max(ks), 40 if budgets else max(ks)),
+                    budgets, words)
         results[strat] = out
         print(f"\n=== {a.arm} / {strat} — {out['answerable']} answerable questions ===")
         print(f"{'k':>4}  {'Recall@k':>9}  {'All-Recall@k':>13}")
@@ -197,17 +243,33 @@ def main() -> None:
             r = out["stats"][k]["recall"]
             al = out["stats"][k]["all"]
             print(f"{k:>4}  {sum(r)/len(r):>9.3f}  {sum(al)/len(al):>13.3f}")
+        if budgets:
+            print(f"  {'budget':>7}  {'Recall':>9}  {'All-Recall':>11}")
+            for b in budgets:
+                r = out["budgets"][b]["recall"]; al = out["budgets"][b]["all"]
+                print(f"  {b:>7}  {sum(r)/len(r):>9.3f}  {sum(al)/len(al):>11.3f}")
         print("  by question type (Recall@%d):" % ks[-1])
         for t, d in sorted(out["by_type"].items()):
             v = d[ks[-1]]
             print(f"    {t:<20} {sum(v)/len(v):.3f}  (n={len(v)})")
 
     if a.json:
+        # Per-question vectors are kept, not just means. A paired bootstrap needs
+        # the pairing: both arms answer the same questions, and discarding that
+        # gives an interval wider than the evidence supports. qids fixes the order
+        # so two runs can be aligned question by question.
         Path(a.json).write_text(json.dumps(
-            {s: {"stats": {k: {m: sum(v)/len(v) for m, v in d.items()}
-                           for k, d in o["stats"].items()},
-                 "answerable": o["answerable"]}
-             for s, o in results.items()}, indent=2))
+            {"arm": a.arm, "vault": str(vault), "answerable": None,
+             "strategies": {
+                 st: {"answerable": o["answerable"],
+                      "qids": o["qids"],
+                      "k": {str(k): {m: v for m, v in d.items()}
+                            for k, d in o["stats"].items()},
+                      "budget": {str(b): {m: v for m, v in d.items()}
+                                 for b, d in o["budgets"].items()},
+                      "by_type": {t: {str(k): v for k, v in d.items()}
+                                  for t, d in o["by_type"].items()}}
+                 for st, o in results.items()}}, indent=1))
         print(f"\nwrote {a.json}")
 
 
