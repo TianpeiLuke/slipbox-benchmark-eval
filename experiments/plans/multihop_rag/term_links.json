@@ -256,8 +256,7 @@
   "foundation_model",
   "model_fine_tuning",
   "prompt_engineering",
-  "total_addressable_market",
-  "fine_penalty"
+  "total_addressable_market"
  ],
  "biden_ai_executive_order.md": [
   "executive_order"
@@ -269,7 +268,6 @@
   "foundation_model",
   "model_fine_tuning",
   "total_addressable_market",
-  "fine_penalty",
   "cloud_computing",
   "open_source"
  ],
@@ -285,7 +283,6 @@
   "llm_observability",
   "usage_based_pricing",
   "defensibility",
-  "fine_penalty",
   "cloud_computing"
  ],
  "bolt_sec_probe.md": [
@@ -690,8 +687,7 @@
   "hardware_device"
  ],
  "jim_jordan_third_ballot_defeat_and_withdrawal.md": [
-  "hardware_device",
-  "battery_technology"
+  "hardware_device"
  ],
  "house_speakership_vacancy_paralysis_after_mccarthy_ouster.md": [
   "hardware_device",
@@ -788,7 +784,9 @@
  ],
  "objection_to_moving_an_unmet_inflation_target.md": [],
  "preemptive_central_bank_response_to_supply_shocks.md": [],
- "quantitative_easing_mechanism_and_fiscal_cost.md": [],
+ "quantitative_easing_mechanism_and_fiscal_cost.md": [
+  "covid_19"
+ ],
  "criticism_of_qe_and_its_narrower_future_role.md": [
   "reserve_mobilisation"
  ],
@@ -815,8 +813,8 @@
   "covid_19"
  ],
  "shipping_overcapacity_supply_demand_mechanism.md": [
-  "product_launch",
-  "covid_19"
+  "covid_19",
+  "product_launch"
  ],
  "container_carrier_capacity_management_tools.md": [],
  "shipping_price_war_risk_and_carrier_restraint.md": [
@@ -1203,8 +1201,8 @@
  "amazon_seller_support_for_the_ftc_case.md": [],
  "amazon_seller_skepticism_of_the_ftc_case.md": [
   "product_launch",
-  "antitrust",
-  "covid_19"
+  "covid_19",
+  "antitrust"
  ],
  "amazon_seller_fee_and_pricing_complaints.md": [],
  "sam_bankman_fried_federal_fraud_trial.md": [
@@ -1247,12 +1245,11 @@
  ],
  "dave_clark_hiring_and_flexport_ipo_plan.md": [
   "initial_public_offering",
-  "earnings_report",
-  "covid_19"
+  "covid_19",
+  "earnings_report"
  ],
  "flexport_board_composition.md": [],
  "flexport_forecast_dispute_and_whistleblower_claim.md": [
-  "fine_penalty",
   "battery_technology"
  ],
  "clark_cease_and_desist_and_political_friction.md": [
@@ -1583,10 +1580,15 @@
   "usage_based_pricing",
   "payment_processor"
  ],
- "israel_office_space_oversupply.md": [],
- "israel_office_demand_recovery_after_october_7.md": [],
+ "israel_office_space_oversupply.md": [
+  "covid_19"
+ ],
+ "israel_office_demand_recovery_after_october_7.md": [
+  "covid_19"
+ ],
  "naimi_park_office_development_messubim.md": [],
  "why_israeli_office_rents_have_not_fallen.md": [
+  "covid_19",
   "discount_and_msrp",
   "payment_processor"
  ],
@@ -1786,8 +1788,8 @@
   "covid_19"
  ],
  "israeli_sectors_most_exposed_to_war_damage.md": [
-  "usage_based_pricing",
-  "covid_19"
+  "covid_19",
+  "usage_based_pricing"
  ],
  "bank_of_israel_thirty_billion_dollar_fx_intervention.md": [
   "reserve_mobilisation"
@@ -1843,7 +1845,9 @@
   "payment_processor",
   "earnings_report"
  ],
- "nike_greater_china_sales_recovery.md": [],
+ "nike_greater_china_sales_recovery.md": [
+  "covid_19"
+ ],
  "nike_regional_and_product_category_sales_fiscal_q1_2024.md": [],
  "nike_direct_to_consumer_channel_performance.md": [
   "covid_19"
@@ -1871,6 +1875,7 @@
  ],
  "reliance_industries_sum_of_the_parts_valuation_case.md": [
   "valuation",
+  "covid_19",
   "earnings_report"
  ],
  "daam1_intestinal_stem_cell_study_overview.md": [],
@@ -9189,7 +9194,9 @@
  "smartwatch_gestures_and_phone_independence.md": [
   "wearable_fitness_tracker"
  ],
- "roblox_as_communication_platform_not_game.md": [],
+ "roblox_as_communication_platform_not_game.md": [
+  "covid_19"
+ ],
  "roblox_playstation_and_cross_platform_expansion.md": [
   "creator_economy"
  ],
@@ -10750,9 +10757,12 @@
   "lobbying_political_donations",
   "covid_19"
  ],
- "epoch_times_covid_ccp_virus_coverage.md": [],
+ "epoch_times_covid_ccp_virus_coverage.md": [
+  "covid_19"
+ ],
  "epoch_times_conservative_donor_funding.md": [
-  "disinformation"
+  "disinformation",
+  "covid_19"
  ],
  "epoch_times_ad_spending_and_falun_gong_affiliate_grants.md": [],
  "epoch_times_denial_of_falun_gong_affiliation.md": [
@@ -10879,7 +10889,6 @@
  "chatgpt_custom_instructions_and_file_analysis.md": [],
  "dalle_3_image_generation_in_chatgpt.md": [],
  "openai_developer_platform_and_api_releases.md": [
-  "fine_penalty",
   "model_fine_tuning",
   "generative_ai",
   "payment_processor",
@@ -10890,8 +10899,7 @@
   "open_source"
  ],
  "gpt_model_releases_from_gpt35_to_gpt4.md": [
-  "appeals_process",
-  "fine_penalty"
+  "appeals_process"
  ],
  "openai_corporate_deals_and_business_moves.md": [
   "acquisition",
@@ -11743,7 +11751,6 @@
   "lobbying_political_donations"
  ],
  "chatgpt_enterprise_and_multimodal_features.md": [
-  "fine_penalty",
   "game_patch_notes"
  ],
  "openai_q4_2023_product_launches.md": [

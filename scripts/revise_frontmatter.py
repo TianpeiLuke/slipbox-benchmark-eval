@@ -41,14 +41,63 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 FM = re.compile(r"^---\n(.*?)\n---\n", re.S)
 H1 = re.compile(r"^# (.+)$", re.M)
-WORD = re.compile(r"[A-Za-z][A-Za-z0-9\-']{2,}")
+# A token must start at a real word boundary, or "49ers" yields "ers" and
+# "23andMe" yields "andme". Hyphenated compounds stay whole: "fine-tuning" is
+# one word to a reader, so it is one token here.
+WORD = re.compile(r"(?<![A-Za-z0-9])[A-Za-z0-9][A-Za-z0-9\-']{2,}(?![A-Za-z0-9])")
+
+# Related Notes and Source are scaffolding the pipeline wrote, not content the
+# document asserts. Deriving keywords from them imports the ENTITIES OF
+# NEIGHBOURING NOTES -- a betting-pick note acquires the names of five fighters
+# it never mentions -- and those keywords retrieve the note for questions it
+# cannot answer. Same sections score_retrieval.py excludes from token accounting.
+SCAFFOLD = re.compile(r"^## (Related Notes|Source|References)\s*$.*?(?=^## |\Z)",
+                      re.M | re.S)
+
+
+def tokens(text: str) -> Counter:
+    """Content tokens of a note, possessives normalised, stopwords dropped."""
+    out: Counter = Counter()
+    for w in WORD.findall(text):
+        w = re.sub(r"'s$", "", w.lower()).strip("'-")
+        if len(w) > 2 and w not in STOP and any(c.isalpha() for c in w):
+            out[w] += 1
+    return out
+
+
+def derive_keywords(title, body, terms, df, N, want, with_title):
+    """Title phrase (optional), linked term names, then discriminating own terms."""
+    kws: list[str] = []
+    if with_title:
+        t = re.sub(r"[^A-Za-z0-9 ]", " ", title).strip().lower()
+        # drop a leading article: "the digital services act" and "digital
+        # services act" are the same keyword, and a question never opens with it
+        t = re.sub(r"^(the|a|an)\s+", "", re.sub(r"\s+", " ", t))
+        if t:
+            kws.append(t)
+    for t in terms[:3]:
+        k = t.replace("_", " ")
+        # a term already contained in the title phrase adds nothing
+        if k not in kws and not any(k in x or x in k for x in kws):
+            kws.append(k)
+    scored = sorted(((w, c * math.log(N / (1 + df[w])))
+                     for w, c in tokens(SCAFFOLD.sub("", body)).items()
+                     if 1 < df[w] < N * 0.25), key=lambda x: -x[1])
+    for w, _ in scored:
+        if len(kws) >= want:
+            break
+        if w not in " ".join(kws):
+            kws.append(w)
+    return kws
 
 STOP = set("""the and for that with this from have has had was were been are you your their
 they them its it will would could should about into over under after before more most some
 such than then there here when what which who whom while also just only said says say new
 one two three first last year years time told according but not all any can may might must
 our out per via etc other another each both many much very own same too how why where
-because during through against between among within without across behind beyond""".split())
+because during through against between among within without across behind beyond
+she her him his hers he who's dont doesnt isnt wasnt were being does did done get got
+make made take taken come came goes going know known think thought see seen look looking""".split())
 
 PARA_FOR_BB = {"navigation": "entry_point"}   # everything else is a resource
 
@@ -75,6 +124,10 @@ def main() -> None:
     ap.add_argument("--vault")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--keywords", type=int, default=6)
+    # Every note's first keyword used to be its own title, lowercased -- one slot
+    # in six spent on a string already indexed as the title column. Off by
+    # default now; the flag exists to reproduce a vault built the old way.
+    ap.add_argument("--title-keyword", action="store_true")
     a = ap.parse_args()
 
     V = Path(a.vault or f"vaults/{a.slug}")
@@ -92,13 +145,11 @@ def main() -> None:
     con.close()
 
     # document frequency over the whole vault, so keywords are DISCRIMINATING
+    # over EVIDENCE text only -- scaffolding words are near-universal, so
+    # counting them distorts every other term's idf as well as leaking entities
     df: Counter = Counter()
-    toks: dict[str, Counter] = {}
-    for nid, title, body, _bb, _s in rows:
-        c = Counter(w.lower() for w in WORD.findall(f"{title} {body}")
-                    if w.lower() not in STOP)
-        toks[nid] = c
-        df.update(c.keys())
+    for _nid, title, body, _bb, _s in rows:
+        df.update(tokens(f"{title} {SCAFFOLD.sub('', body)}").keys())
     N = len(rows)
 
     written = skipped = 0
@@ -115,28 +166,8 @@ def main() -> None:
         para = PARA_FOR_BB.get(bb, "resource")
         tags = [para] + cats + ([bb] if bb and bb != "navigation" else [])
 
-        # keywords: title phrase, linked term names, then discriminating body terms
-        kws: list[str] = []
-        t_clean = re.sub(r"[^A-Za-z0-9 ]", " ", title).strip().lower()
-        # drop a leading article: "the digital services act" and "digital services
-        # act" are the same keyword, and a question never opens with the article
-        t_clean = re.sub(r"^(the|a|an)\s+", "", re.sub(r"\s+", " ", t_clean))
-        if t_clean:
-            kws.append(t_clean)
-        for t in tl.get(nid, [])[:3]:
-            k = t.replace("_", " ")
-            # a term already contained in the title phrase adds nothing
-            if k not in kws and not any(k in x or x in k for x in kws):
-                kws.append(k)
-        scored = sorted(
-            ((w, c * math.log(N / (1 + df[w]))) for w, c in toks[nid].items()
-             if 1 < df[w] < N * 0.25),
-            key=lambda x: -x[1])
-        for w, _ in scored:
-            if len(kws) >= a.keywords:
-                break
-            if w not in " ".join(kws):
-                kws.append(w)
+        kws = derive_keywords(title, body, tl.get(nid, []), df, N,
+                              a.keywords, a.title_keyword)
 
         topics = [c.replace("_", " ").title() for c in cats]
 

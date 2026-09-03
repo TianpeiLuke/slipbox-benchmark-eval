@@ -78,6 +78,14 @@ ck "moved link rewritten to the real path" "[Moved](target_note.md)" "$(cat "$V/
 ck "ghost left alone (needs a decision)"   "no_such_thing_anywhere.md" "$(cat "$V/good.md")"
 
 echo
+echo "=== term matcher boundaries ==="
+if out=$(python3 tests/test_term_boundaries.py 2>&1); then
+  echo "  ok    $(tail -1 <<<"$out")"
+else
+  echo "  FAIL  term matcher regressed"; echo "$out" | sed 's/^/        /'; fails=$((fails+1))
+fi
+
+echo
 echo "=== fabricated-edge guard (term links must be backed by source) ==="
 if [ -f experiments/plans/multihop_rag/term_links.json ]; then
   out=$(python3 scripts/build_term_links.py multihop_rag \

@@ -31,13 +31,46 @@ ROOT = Path(__file__).resolve().parent.parent
 CORPUS = ROOT / "data" / "corpus"
 
 
+# Compounds where the form's SENSE changes, so the term does not apply. This
+# list is short because it is derived from the corpus rather than imagined: of
+# the 143 hyphenated occurrences of any term form, these are the ones where the
+# head noun is not the term. "fine-tuning" is not a monetary fine; "hard-
+# charging" is not a battery. Everything else -- "COVID-19", "battery-swapping",
+# "anti-disinformation", "pre-pandemic" -- IS the term, and a rule that treats
+# every hyphen as a wall loses all of them to catch these two.
+# An acronym only needs case-sensitivity when lowercasing it yields a real
+# English word -- "WHO"/"who", "IT"/"it", "US"/"us". "COVID" lowercases to
+# nothing else, so forcing exact case on it just loses "covid-related". Blanket
+# case-sensitivity for anything all-caps was the wrong generalisation.
+AMBIGUOUS_ACRONYMS = {
+    "who", "it", "us", "can", "may", "all", "are", "was", "has", "but", "now",
+    "new", "one", "two", "so", "no", "on", "in", "at", "by", "or", "and", "for",
+    "the", "a", "an", "is", "be", "as", "if", "up", "out", "act", "aid", "ally",
+    "bit", "cap", "cost", "fit", "gap", "hit", "ice", "id", "led", "lot", "map",
+    "mass", "net", "pass", "pop", "post", "put", "ran", "run", "set", "sun",
+    "tip", "top", "war", "way", "win",
+}
+
+EXCLUDED_COMPOUNDS = {
+    "fine": ["fine-tuning", "fine-tune", "fine-tuned", "fine-tunes"],
+    "charging": ["hard-charging"],
+}
+
+
 def compile_forms(forms: list[str]) -> re.Pattern:
-    """One pattern per term, with the two properties a naive join gets wrong.
+    """One pattern per term, with the three properties a naive join gets wrong.
 
     WORD BOUNDARIES. Without them "bot" matches inside "both", "NFL" inside
     "influenza", and "trial" inside "clinical trial" -- so a canine-illness note
     acquires links to bot detection and criminal trials. Every such edge is
     fabricated, and bfs and ppr traverse every edge they are given.
+
+    HYPHENS. A hyphen is a word boundary to \b, which is USUALLY right: the
+    corpus writes "COVID-19" for the term whose form is "COVID", and
+    "battery-swapping" for "battery". Walling off hyphens entirely was a
+    correction that cost more than the error it fixed -- 19 correct COVID edges
+    to remove 8 wrong "fine" ones. So hyphens stay permeable and the small set
+    of sense-changing compounds is excluded by name.
 
     CASE. An acronym is case-SENSITIVE: "WHO" is an organisation, "who" is a
     pronoun. A lowercase phrase is not, because it may open a sentence.
@@ -46,9 +79,22 @@ def compile_forms(forms: list[str]) -> re.Pattern:
     for f in forms:
         esc = re.escape(f)
         # a form starting/ending with a word character needs a boundary there
-        left = r"\b" if f[:1].isalnum() else ""
-        right = r"\b" if f[-1:].isalnum() else ""
-        if f.isupper() and len(f) <= 6 and f.isalpha():
+        # A hyphen IS a word boundary, so \b alone lets "fine" match inside
+        # "fine-tuning" and "battery" inside "battery-powered". A hyphenated
+        # compound is one token to a reader and should be one to the matcher, so
+        # the boundary also has to exclude an adjacent hyphen.
+        left = r"(?<!\w)" if f[:1].isalnum() else ""
+        right = r"(?!\w)" if f[-1:].isalnum() else ""
+        bad = EXCLUDED_COMPOUNDS.get(f.lower(), [])
+        # block the compound from either side: "fine" must not match in
+        # "fine-tuning", and "charging" must not match in "hard-charging"
+        for c in bad:
+            head, _, tail = c.lower().partition("-")
+            if head == f.lower():
+                right = r"(?!-" + re.escape(tail) + r")" + right
+            elif tail == f.lower():
+                left = r"(?<!" + re.escape(head) + r"-)" + left
+        if f.isupper() and f.isalpha() and f.lower() in AMBIGUOUS_ACRONYMS:
             parts.append(f"(?-i:{left}{esc}{right})")   # acronym: exact case
         else:
             parts.append(f"{left}{esc}{right}")

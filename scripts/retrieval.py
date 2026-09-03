@@ -281,11 +281,17 @@ def bfs(vault: Path, query: str, k: int, seeds: int = 5,
     adj, _ = load_graph(vault)
     emb, ids, idx = _embeddings(vault)
     q = encode_query(vault, query)
+    # Seeds are drawn from nodes that HAVE edges, since a seed that cannot
+    # expand contributes nothing a dense query would not already return. On a
+    # graph with no edges at all that set is empty, which silently zeroes the
+    # arm rather than degenerating it to dense seeding -- so an empty adjacency
+    # lifts the restriction instead of emptying the candidate pool.
+    linked = set(adj) or None
     if seed == "dense":
-        start = dense_seed(vault, q, seeds, set(adj))
+        start = dense_seed(vault, q, seeds, linked)
     elif seed == "keyword":
-        start = [n for n, _ in keyword_seed(vault, query, seeds, set(adj))] \
-            or dense_seed(vault, q, seeds, set(adj))
+        start = [n for n, _ in keyword_seed(vault, query, seeds, linked)] \
+            or dense_seed(vault, q, seeds, linked)
     else:
         start = [n for n, _ in bm25(vault, query, seeds)]
 
