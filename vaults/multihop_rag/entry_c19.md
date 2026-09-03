@@ -1,0 +1,233 @@
+---
+building_block: navigation
+---
+
+# Entry Point — Sports Cluster `c19`
+
+Index of the 212 notes derived from the `c19` document cluster (sports). Building blocks: 93 empirical_observation, 56 argument, 53 concept, 4 counter_argument, 4 model, 2 procedure.
+
+Parent: [Sports Entry Point](entry_sports.md) · Root: [MultiHop-RAG Corpus](entry_multihop_rag.md).
+
+## Notes
+
+- [Aaron Glenn Lions Hot Seat](aaron_glenn_lions_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [AFC 2026 World Cup Qualifying Format](afc_2026_world_cup_qualifying_format.md) — *procedure*: The Asian confederation's road to the 2026 World Cup runs in stages, The Roar set out on Nov.
+- [AFC Midseason Team MVP Roundup Premise](afc_midseason_team_mvp_roundup_premise.md) — *concept*: Yardbarker's Nov.
+- [Alek Manoah Blue Jays Trade Candidacy](alek_manoah_blue_jays_trade_candidacy.md) — *empirical_observation*: Alek Manoah was ranked No.
+- [Alex Verdugo Red Sox Trade Candidacy](alex_verdugo_red_sox_trade_candidacy.md) — *empirical_observation*: Alex Verdugo was ranked No.
+- [Alexander Mattison Vikings Hot Seat](alexander_mattison_vikings_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Andrew Redmayne Substitution In Peru Playoff](andrew_redmayne_substitution_in_peru_playoff.md) — *empirical_observation*: Graham Arnold's record-breaking achievement is conceivably down to one big ballsy call in the playoff against Peru, The Roar wrote on Nov.
+- [Angus Hastie AFL Draft Prospect 2023](angus_hastie_afl_draft_prospect_2023.md) — *concept*: Angus Hastie, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Anthony Joshua Mental Rebuild After Usyk And Ruiz](anthony_joshua_mental_rebuild_after_usyk_and_ruiz.md) — *empirical_observation*: Anthony Joshua, the global star from the United Kingdom, had traversed a difficult road mentally from his pair of title losses to Oleksandr Usyk, which trigg…
+- [Archer Reid AFL Draft Prospect 2023](archer_reid_afl_draft_prospect_2023.md) — *concept*: Archer Reid, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Archie Roberts AFL Draft Prospect 2023](archie_roberts_afl_draft_prospect_2023.md) — *concept*: Archie Roberts, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Ari Schoenmaker AFL Draft Prospect 2023](ari_schoenmaker_afl_draft_prospect_2023.md) — *concept*: Ari Schoenmaker — pronounced Show-en-maker — profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Aric Almirola Joe Gibbs Racing Xfinity Move](aric_almirola_joe_gibbs_racing_xfinity_move.md) — *empirical_observation*: Unbeknownst to most at the Washington Commanders game the previous Sunday, many in NASCAR became aware of part of Joe Gibbs Racing's 2024 plans in the Xfinit…
+- [Ashton Moya AFL Draft Prospect 2023](ashton_moya_afl_draft_prospect_2023.md) — *concept*: Ashton Moya — pronounced Moy-ya — profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Autosport Top 50 Drivers 2023 NASCAR Representation](autosport_top_50_drivers_2023_nascar_representation.md) — *concept*: Autosport's annual Top 50 drivers list is a ranking of the 50 standout performers in motorsports for the year, a tradition the renowned motorsports publishin…
+- [Blackburn Rovers Decline And Youthful Selection](blackburn_rovers_decline_and_youthful_selection.md) — *empirical_observation*: Blackburn's fortunes since Andy Cole scored the winning goal that saw off Tottenham in the final of this competition more than 20 years earlier under Graeme…
+- [Boxing Marination And Upset Risk](boxing_marination_and_upset_risk.md) — *argument*: CBSSports.com argued on Dec.
+- [Brandon Drury Angels Trade Candidacy](brandon_drury_angels_trade_candidacy.md) — *empirical_observation*: Brandon Drury was ranked No.
+- [Brendan Donovan Cardinals Trade Candidacy](brendan_donovan_cardinals_trade_candidacy.md) — *empirical_observation*: Brendan Donovan was ranked No.
+- [Bryson DeChambeau Opposition To Golf Ball Rollback](bryson_dechambeau_opposition_to_golf_ball_rollback.md) — *counter_argument*: Bryson DeChambeau attacked the rollback on the ground that it penalizes earned skill rather than correcting an equipment problem, telling Essentially Sports'…
+- [Caiden Cleary AFL Draft Prospect 2023](caiden_cleary_afl_draft_prospect_2023.md) — *concept*: Caiden Cleary, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Caleb Windsor AFL Draft Prospect 2023](caleb_windsor_afl_draft_prospect_2023.md) — *concept*: Caleb Windsor, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Carabao Cup 2023 Quarter-Final Draw](carabao_cup_2023_quarter_final_draw.md) — *empirical_observation*: The Carabao Cup quarter-final draw, reported by The Guardian on Nov.
+- [CeeDee Lamb Week 16 Top DFS Play](ceedee_lamb_week_16_top_dfs_play.md) — *argument*: CBSSports.com's Dec.
+- [Charlie Edwards AFL Draft Prospect 2023](charlie_edwards_afl_draft_prospect_2023.md) — *concept*: Charlie Edwards, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Chelsea 2-0 Blackburn Carabao Cup Last 16](chelsea_2_0_blackburn_carabao_cup_last_16.md) — *empirical_observation*: Chelsea beat Blackburn 2-0 at Stamford Bridge to secure a Carabao Cup last-eight spot, with goals from Benoît Badiashile and a rejuvenated Raheem Sterling, T…
+- [Chelsea 4-4 Manchester City Stamford Bridge](chelsea_4_4_manchester_city_stamford_bridge.md) — *empirical_observation*: Former Manchester City player Cole Palmer scored a penalty in the fifth minute of stoppage time as Chelsea came back to claim a 4-4 draw with the defending P…
+- [Chris Buescher 2023 Season Autosport Snub](chris_buescher_2023_season_autosport_snub.md) — *argument*: Essentially Sports argued on Dec.
+- [Christian Vazquez Twins Trade Candidacy](christian_vazquez_twins_trade_candidacy.md) — *empirical_observation*: Christian Vázquez was ranked No.
+- [Christian Watson Packers Hot Seat](christian_watson_packers_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Christopher Bell 2023 Season Autosport Snub](christopher_bell_2023_season_autosport_snub.md) — *argument*: Essentially Sports argued on Dec.
+- [Christopher Morel Cubs Trade Candidacy](christopher_morel_cubs_trade_candidacy.md) — *empirical_observation*: Christopher Morel was ranked No.
+- [C.J. Stroud Texans Midseason MVP](cj_stroud_texans_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Clay Hall AFL Draft Prospect 2023](clay_hall_afl_draft_prospect_2023.md) — *concept*: Clay Hall, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Colby McKercher AFL Draft Prospect 2023](colby_mckercher_afl_draft_prospect_2023.md) — *concept*: Colby McKercher, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Cole Palmer Chelsea Performance Vs Blackburn](cole_palmer_chelsea_performance_vs_blackburn.md) — *empirical_observation*: Mauricio Pochettino could take heart from Cole Palmer's brilliant performance as the former Manchester City forward helped dispatch Jon Dahl Tomasson's inexp…
+- [Cole Palmer Stoppage-Time Penalty Vs Manchester City](cole_palmer_stoppage_time_penalty_vs_manchester_city.md) — *empirical_observation*: Cole Palmer, who left Manchester City for Chelsea in a deal worth around $A82 million in September, showed supreme composure to fire past Ederson in the dyin…
+- [Connor O'Sullivan AFL Draft Prospect 2023](connor_osullivan_afl_draft_prospect_2023.md) — *concept*: Connor O'Sullivan, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Cooper Kupp Rams Hot Seat](cooper_kupp_rams_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Cooper Simpson AFL Draft Prospect 2023](cooper_simpson_afl_draft_prospect_2023.md) — *concept*: Cooper Simpson, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Corbin Burnes And Willy Adames Brewers Trade Candidacy](corbin_burnes_willy_adames_brewers_trade_candidacy.md) — *empirical_observation*: Corbin Burnes and Willy Adames were ranked No.
+- [Curtis Samuel Week 16 Waiver Target](curtis_samuel_week_16_waiver_target.md) — *argument*: CBSSports.com's Dec.
+- [Daniel Curtin AFL Draft Prospect 2023](daniel_curtin_afl_draft_prospect_2023.md) — *concept*: Daniel Curtin, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Daniel Jones Giants Hot Seat](daniel_jones_giants_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Darcy Wilson AFL Draft Prospect 2023](darcy_wilson_afl_draft_prospect_2023.md) — *concept*: Darcy Wilson, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Day Of Reckoning Predictions And Picks](day_of_reckoning_predictions_and_picks.md) — *argument*: CBSSports.com's Dec.
+- [Day Of Reckoning Riyadh Boxing Card](day_of_reckoning_riyadh_boxing_card.md) — *concept*: "The Day of Reckoning" was a blockbuster pay-per-view boxing card staged on Dec.
+- [Dean Evason Coaching Career Path](dean_evason_coaching_career_path.md) — *concept*: Dean Evason's coaching career, as summarized by Yardbarker on Nov.
+- [Deebo Samuel Yards Per Target Pace](deebo_samuel_yards_per_target_pace.md) — *empirical_observation*: CBSSports.com's Dec.
+- [Demario Douglas Week 16 Waiver Target](demario_douglas_week_16_waiver_target.md) — *argument*: CBSSports.com's Dec.
+- [Dennis Allen Saints Hot Seat](dennis_allen_saints_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Denny Hamlin 2023 Season Autosport Snub](denny_hamlin_2023_season_autosport_snub.md) — *argument*: Essentially Sports argued on Dec.
+- [Deontay Wilder Comeback After Fury Trilogy](deontay_wilder_comeback_after_fury_trilogy.md) — *empirical_observation*: After coming up empty in the final two fights of his trilogy with Tyson Fury, both of which ended via violent stoppage, Deontay Wilder sat out a full year be…
+- [Deontay Wilder On Pressure Ahead Of Parker Bout](deontay_wilder_on_pressure_ahead_of_parker_bout.md) — *empirical_observation*: Speaking during Monday's "Morning Kombat" interview ahead of the Dec.
+- [Desmond Ridder Falcons Hot Seat](desmond_ridder_falcons_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Dontayvion Wicks Week 16 Waiver Target](dontayvion_wicks_week_16_waiver_target.md) — *argument*: CBSSports.com's Dec.
+- [Drake London Home Road Fantasy Split](drake_london_home_road_fantasy_split.md) — *empirical_observation*: CBSSports.com's Dec.
+- [Dylan Carlson Cardinals Trade Candidacy](dylan_carlson_cardinals_trade_candidacy.md) — *empirical_observation*: Dylan Carlson was ranked No.
+- [Dylan Cease White Sox Trade Candidacy](dylan_cease_white_sox_trade_candidacy.md) — *empirical_observation*: Dylan Cease was ranked No.
+- [Eddie Hearn On Day Of Reckoning Card Assembly](eddie_hearn_on_day_of_reckoning_card_assembly.md) — *argument*: Eddie Hearn of Matchroom Sport, Joshua's long-time promoter, argued in a "Morning Kombat" interview reported by CBSSports.com on Dec.
+- [Eloy Jimenez White Sox Trade Candidacy](eloy_jimenez_white_sox_trade_candidacy.md) — *empirical_observation*: Eloy Jiménez was ranked No.
+- [Ethan Read AFL Draft Prospect 2023](ethan_read_afl_draft_prospect_2023.md) — *concept*: Ethan Read, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Everton Appeal Against Points Deduction](everton_appeal_against_points_deduction.md) — *empirical_observation*: Everton's appeal against the 10-point deduction would be heard by a different three-person panel before the end of the season, The Guardian reported on Nov.
+- [Everton Case Implications For Manchester City And Chelsea](everton_case_implications_for_manchester_city_and_chelsea.md) — *empirical_observation*: Sean Dyche declined to comment on the implications of Everton's punishment for Manchester City and Chelsea, The Guardian reported on Nov.
+- [Everton Fan Protests And Siege Mentality](everton_fan_protests_and_siege_mentality.md) — *empirical_observation*: Everton fans had a series of protests against the Premier League planned for Sunday's home game against Manchester United, when a win could possibly lift Dyc…
+- [Everton Squad Response To Points Deduction](everton_squad_response_to_points_deduction.md) — *empirical_observation*: Sean Dyche addressed the first-team squad at Everton's Finch Farm training ground on the Friday morning after the players returned from international duty, a…
+- [Everton Ten Point Deduction For PSR Breach](everton_ten_point_deduction_for_psr_breach.md) — *empirical_observation*: An independent commission imposed a 10-point penalty on Everton for breaching Premier League financial rules — the biggest sporting sanction in Premier Leagu…
+- [Galatasaray Istanbul Hostile Atmosphere 1993](galatasaray_istanbul_hostile_atmosphere_1993.md) — *empirical_observation*: Former United defender Gary Pallister, injured for the 1993 game and watching from the stands, described the hostility in Istanbul as something he never expe…
+- [Garnacho And Mainoo United Teenagers Vs Everton](garnacho_and_mainoo_united_teenagers_vs_everton.md) — *empirical_observation*: Manchester United's win against Everton on the Sunday was defined by two teenagers, Alejandro Garnacho and Kobbie Mainoo, The Guardian reported on Nov.
+- [Geno Smith Seahawks Hot Seat](geno_smith_seahawks_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [George Stevens AFL Draft Prospect 2023](george_stevens_afl_draft_prospect_2023.md) — *concept*: George Stevens, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Gleyber Torres Yankees Trade Candidacy](gleyber_torres_yankees_trade_candidacy.md) — *empirical_observation*: Gleyber Torres was ranked No.
+- [Golf Ball Rollback Application To Men's Majors](golf_ball_rollback_application_to_mens_majors.md) — *empirical_observation*: If the rules pass, the R&A, which organizes The Open, and the USGA, the organizer of the U.S.
+- [Golf Ball Rollback Effect On LIV Golf](golf_ball_rollback_effect_on_liv_golf.md) — *model*: Essentially Sports laid out on Dec.
+- [Golf Ball Rollback Exclusion Of Women's Golf](golf_ball_rollback_exclusion_of_womens_golf.md) — *empirical_observation*: Although the R&A and USGA each organize an LPGA major — the Women's Open and the U.S.
+- [Golf Ball Rollback Policy](golf_ball_rollback_policy.md) — *concept*: The golf ball rollback policy is the Royal & Ancient (R&A) and United States Golf Association (USGA) decision to limit how far golf balls travel, taken becau…
+- [Graham Arnold 2022 World Cup Qualification Crisis](graham_arnold_2022_world_cup_qualification_crisis.md) — *empirical_observation*: In March 2022 Graham Arnold seemed a dead man walking — the Socceroos' World Cup qualification campaign was lurching towards failure and the manager was bein…
+- [Graham Arnold Reflections On Coaching Development](graham_arnold_reflections_on_coaching_development.md) — *empirical_observation*: Reflecting on his milestone, Graham Arnold said his 2006 caretaker period taught him a great deal about coaching and that, on reflection, he probably was not…
+- [Graham Arnold Socceroos Coaching Appearance Record](graham_arnold_socceroos_coaching_appearance_record.md) — *empirical_observation*: Graham Arnold would prowl the technical area for a 59th time on the Thursday, taking him clear of Frank Farina as the Socceroos' record-holder for matches co…
+- [Guardiola Reaction To Chelsea City Draw](guardiola_reaction_to_chelsea_city_draw.md) — *empirical_observation*: Manchester City coach Pep Guardiola said the 4-4 scoreline was a fair reflection of the game, The Roar reported on Nov.
+- [Harley Reid AFL Draft Prospect 2023](harley_reid_afl_draft_prospect_2023.md) — *concept*: Harley Reid, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Harry DeMattia AFL Draft Prospect 2023](harry_demattia_afl_draft_prospect_2023.md) — *concept*: Harry DeMattia — pronounced De-matt-e-ya — profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Istanbul 1993 Defeat As Formative Experience](istanbul_1993_defeat_as_formative_experience.md) — *argument*: Mike Phelan, who started in central midfield in Istanbul in 1993, argued that the defeat galvanised the squad — the claim being that a team sometimes has to…
+- [Jabrill Peppers Patriots Midseason MVP](jabrill_peppers_patriots_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Jake Rogers AFL Draft Prospect 2023](jake_rogers_afl_draft_prospect_2023.md) — *concept*: Jake Rogers, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [James Johnson Tribute To Graham Arnold](james_johnson_tribute_to_graham_arnold.md) — *empirical_observation*: Football Australia CEO James Johnson paid tribute to Graham Arnold in a statement marking the coach's milestone, calling him one of the greatest contributors…
+- [James Leake AFL Draft Prospect 2023](james_leake_afl_draft_prospect_2023.md) — *concept*: James Leake, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Jaylen Waddle Week 16 Contrarian DFS Play](jaylen_waddle_week_16_contrarian_dfs_play.md) — *argument*: CBSSports.com's Dec.
+- [Jed Walter AFL Draft Prospect 2023](jed_walter_afl_draft_prospect_2023.md) — *concept*: Jed Walter, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Jeffery Simmons Titans Midseason MVP](jeffery_simmons_titans_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Joe Burrow Bengals Midseason MVP](joe_burrow_bengals_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Joel Freijah AFL Draft Prospect 2023](joel_freijah_afl_draft_prospect_2023.md) — *concept*: Joel Freijah — pronounced Free-jah — profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [John Hynes Contract And Predators Permission](john_hynes_contract_and_predators_permission.md) — *empirical_observation*: John Hynes, who was let go by the Predators after the previous season, was technically in the final season of his contract with Nashville when Minnesota hire…
+- [Jonathan India Reds Trade Candidacy](jonathan_india_reds_trade_candidacy.md) — *empirical_observation*: Jonathan India was ranked No.
+- [Jordan Croft AFL Draft Prospect 2023](jordan_croft_afl_draft_prospect_2023.md) — *concept*: Jordan Croft, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Joseph Parker Fighter Profile](joseph_parker_fighter_profile.md) — *concept*: Joseph Parker, as characterized by CBSSports.com on Dec.
+- [Josh Allen Bills Midseason MVP](josh_allen_bills_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Josh Harris Commanders Hot Seat](josh_harris_commanders_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Joshua Vs Wilder 2024 Superfight Prospect](joshua_vs_wilder_2024_superfight_prospect.md) — *empirical_observation*: As of CBSSports.com's Dec.
+- [Juan Soto Padres Trade Candidacy](juan_soto_padres_trade_candidacy.md) — *empirical_observation*: Juan Soto, the Padres' left fielder, was ranked No.
+- [Justin Thomas Opposition To Golf Ball Rollback](justin_thomas_opposition_to_golf_ball_rollback.md) — *counter_argument*: Justin Thomas attacked the rollback's premise that the change serves the good of the game, calling it "selfish" on the USGA's part, in remarks reported by Es…
+- [Kane McAuliffe AFL Draft Prospect 2023](kane_mcauliffe_afl_draft_prospect_2023.md) — *concept*: Kane McAuliffe, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Kaulig Racing No. 16 2024 Driver Uncertainty](kaulig_racing_no_16_2024_driver_uncertainty.md) — *empirical_observation*: While the Stewart-Haas No.
+- [Keenan Allen Chargers Midseason MVP](keenan_allen_chargers_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Kevin Durant 2016 Move To Warriors Legacy](kevin_durant_2016_move_to_warriors_legacy.md) — *empirical_observation*: In the 2016 Western Conference finals, the Kevin Durant and Russell Westbrook-led OKC Thunder faced the 73-9 Warriors and, after swiftly securing a 3-1 serie…
+- [Kevin Durant Career Accolades And Scoring Ranks](kevin_durant_career_accolades_and_scoring_ranks.md) — *concept*: Kevin Durant, as Essentially Sports characterized him on Dec.
+- [Kevin Durant Most Disrespected Superstar Claim](kevin_durant_most_disrespected_superstar_claim.md) — *argument*: Essentially Sports argued on Dec.
+- [Kevin Durant Sensitivity And Burner Account Criticism](kevin_durant_sensitivity_and_burner_account_criticism.md) — *counter_argument*: Against the case that Durant is simply disrespected, Essentially Sports set out on Dec.
+- [Kevin Sheehan 2023 AFL Draft Top 40 Prospects List](kevin_sheehan_2023_afl_draft_top_40_prospects_list.md) — *concept*: AFL Talent Ambassador Kevin Sheehan's top 40 prospects list is his ranking of the leading players available ahead of the 2023 AFL Draft, announced in a press…
+- [Koltyn Tholstrup AFL Draft Prospect 2023](koltyn_tholstrup_afl_draft_prospect_2023.md) — *concept*: Koltyn Tholstrup — pronounced Foal-strup — profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Kyle Shanahan 49ers Hot Seat](kyle_shanahan_49ers_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Kyler Murray Cardinals Hot Seat](kyler_murray_cardinals_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Kynan Brown AFL Draft Prospect 2023](kynan_brown_afl_draft_prospect_2023.md) — *concept*: Kynan Brown, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Lamar Jackson Ravens Midseason MVP](lamar_jackson_ravens_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Lance Collard AFL Draft Prospect 2023](lance_collard_afl_draft_prospect_2023.md) — *concept*: Lance Collard, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Liverpool 3-0 Brentford Salah 200th English Goal](liverpool_3_0_brentford_salah_200th_english_goal.md) — *empirical_observation*: Liverpool beat Brentford 3-0 with Mohamed Salah continuing his remarkable Anfield scoring record with two more goals to bring up his 200th in English footbal…
+- [Luis Robert Jr. White Sox Trade Candidacy](luis_robert_jr_white_sox_trade_candidacy.md) — *empirical_observation*: Luis Robert Jr.
+- [Manchester United 1993 Galatasaray Istanbul Exit](manchester_united_1993_galatasaray_istanbul_exit.md) — *empirical_observation*: Thirty years before United's Nov.
+- [Manchester United 2023 Galatasaray Group Decider](manchester_united_2023_galatasaray_group_decider.md) — *empirical_observation*: United's match against Galatasaray on the Wednesday was not a knockout game, but in truth the scenario was not much different, The Guardian reported on Nov.
+- [Manchester United Recent Champions League Failures](manchester_united_recent_champions_league_failures.md) — *empirical_observation*: Thirty years on from Istanbul, United headed to Turkey knowing they had rarely been convincing in the Champions League in recent years, The Guardian reported…
+- [Mariners Young Starting Pitcher Trade Candidates](mariners_young_starting_pitcher_trade_candidates.md) — *empirical_observation*: Yardbarker's Nov.
+- [Matt Eberflus Bears Hot Seat](matt_eberflus_bears_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Max Kepler And Jorge Polanco Twins Trade Candidacy](max_kepler_jorge_polanco_twins_trade_candidacy.md) — *empirical_observation*: Max Kepler and Jorge Polanco were ranked No.
+- [Maxx Crosby Raiders Midseason MVP](maxx_crosby_raiders_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Minnesota Wild 2023-24 Slump Causes](minnesota_wild_2023_24_slump_causes.md) — *model*: Yardbarker's Nov.
+- [Minnesota Wild Fire Dean Evason And Hire John Hynes](minnesota_wild_fire_dean_evason_hire_john_hynes.md) — *empirical_observation*: The Minnesota Wild relieved head coach Dean Evason and assistant coach Bob Woods of their duties effective immediately, the team said in a statement on Monda…
+- [Minnesota Wild Turnaround Outlook Under Hynes](minnesota_wild_turnaround_outlook_under_hynes.md) — *argument*: Yardbarker argued on Nov.
+- [Mitchell Edwards AFL Draft Prospect 2023](mitchell_edwards_afl_draft_prospect_2023.md) — *concept*: Mitchell Edwards, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [MLB 2023-24 Offseason Trade Market Landscape](mlb_2023_24_offseason_trade_market_landscape.md) — *empirical_observation*: As of Yardbarker's Nov.
+- [MLB Secondary Trade Candidates By Team](mlb_secondary_trade_candidates_by_team_list.md) — *empirical_observation*: Alongside its top 25 ranked names, Yardbarker's Nov.
+- [MLBTR Trade Candidate Ranking Methodology](mlbtr_trade_candidate_ranking_methodology.md) — *procedure*: Before presenting its top 25 MLB offseason trade candidates on Nov.
+- [Myles Garrett Browns Midseason MVP](myles_garrett_browns_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [NASCAR 2024 Offseason Preparation Window](nascar_2024_offseason_preparation_window.md) — *concept*: The NASCAR offseason, as characterized by CBSSports.com on Dec.
+- [NASCAR 2024 Spotter Changes Elliott And Blaney](nascar_2024_spotter_changes_elliott_and_blaney.md) — *empirical_observation*: Two of the biggest stars in NASCAR would have new eyes in the sky in 2024, CBSSports.com reported on Dec.
+- [NASCAR $7.7 Billion Media Rights Deal](nascar_7_7_billion_media_rights_deal.md) — *concept*: The NASCAR media rights deal reported by Essentially Sports on Dec.
+- [NASCAR Media Deal Cable Simulcast Ratings Drawback](nascar_media_deal_cable_simulcast_ratings_drawback.md) — *counter_argument*: Against the view that NASCAR's media rights deal is straightforwardly good news, Sports Business Journal's Adam Stern, quoted by Essentially Sports on Dec.
+- [NASCAR Media Deal Streaming Diversification Rationale](nascar_media_deal_streaming_diversification_rationale.md) — *model*: Sports Business Journal's Adam Stern, speaking on the Dirty Mo Live podcast and quoted by Essentially Sports on Dec.
+- [NASCAR Next Gen Muffler Noise Reduction Test](nascar_next_gen_muffler_noise_reduction_test.md) — *empirical_observation*: CBSSports.com reported on Dec.
+- [NASCAR Phoenix Next Gen Short Track Test](nascar_phoenix_next_gen_short_track_test.md) — *empirical_observation*: One month after Ryan Blaney was crowned the Cup Series champion and the 2023 season was completed out west, Blaney and a select group of other drivers and te…
+- [Nate Caddy AFL Draft Prospect 2023](nate_caddy_afl_draft_prospect_2023.md) — *concept*: Nate Caddy, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [NBA 2023 Christmas Day Game Slate](nba_2023_christmas_day_game_slate.md) — *empirical_observation*: The 2023 NBA Christmas Day slate was loaded, with games in New York, Los Angeles and Miami, Essentially Sports reported on Dec.
+- [NBA Christmas Day Games Tradition](nba_christmas_day_games_tradition.md) — *concept*: The NBA's Christmas Day games are an annual holiday fixture older than the NFL's Super Bowl, dating back to 1947, when the league featured three games as a f…
+- [NBA Christmas Vs NFL Thanksgiving Tradition Comparison](nba_christmas_vs_nfl_thanksgiving_tradition_comparison.md) — *argument*: Essentially Sports concluded on Dec.
+- [NFC Hottest Seat Roundup Premise](nfc_hottest_seat_roundup_premise.md) — *concept*: Yardbarker's Nov.
+- [NFL Christmas Day Scheduling Threat To NBA](nfl_christmas_day_scheduling_threat_to_nba.md) — *argument*: Essentially Sports argued on Dec.
+- [NFL Thanksgiving Day Games 2023 Viewership](nfl_thanksgiving_day_games_2023_viewership.md) — *empirical_observation*: The NFL's Thanksgiving Day games in the 2023 season made history, Essentially Sports reported on Dec.
+- [NFL Week 13 Injuries 49ers At Eagles](nfl_week_13_injuries_49ers_at_eagles.md) — *empirical_observation*: In the Week 13 final injury reports published by CBSSports.com on Dec.
+- [NFL Week 13 Injuries Bengals At Jaguars](nfl_week_13_injuries_bengals_at_jaguars.md) — *empirical_observation*: In the Week 13 final injury reports published by CBSSports.com on Dec.
+- [NFL Week 13 Injuries Broncos At Texans](nfl_week_13_injuries_broncos_at_texans.md) — *empirical_observation*: In the Week 13 final injury reports published by CBSSports.com on Dec.
+- [NFL Week 13 Injuries Browns At Rams](nfl_week_13_injuries_browns_at_rams.md) — *empirical_observation*: In the Week 13 final injury reports published by CBSSports.com on Dec.
+- [NFL Week 13 Injuries Cardinals At Steelers](nfl_week_13_injuries_cardinals_at_steelers.md) — *empirical_observation*: In the Week 13 final injury reports published by CBSSports.com on Dec.
+- [NFL Week 13 Injuries Chargers At Patriots](nfl_week_13_injuries_chargers_at_patriots.md) — *empirical_observation*: In the Week 13 final injury reports published by CBSSports.com on Dec.
+- [NFL Week 13 Injuries Chiefs At Packers](nfl_week_13_injuries_chiefs_at_packers.md) — *empirical_observation*: In the Week 13 final injury reports published by CBSSports.com on Dec.
+- [NFL Week 13 Injuries Colts At Titans](nfl_week_13_injuries_colts_at_titans.md) — *empirical_observation*: In the Week 13 final injury reports published by CBSSports.com on Dec.
+- [NFL Week 13 Injuries Dolphins At Commanders](nfl_week_13_injuries_dolphins_at_commanders.md) — *empirical_observation*: In the Week 13 final injury reports published by CBSSports.com on Dec.
+- [NFL Week 13 Injuries Falcons At Jets](nfl_week_13_injuries_falcons_at_jets.md) — *empirical_observation*: In the Week 13 final injury reports published by CBSSports.com on Dec.
+- [NFL Week 13 Injuries Lions At Saints](nfl_week_13_injuries_lions_at_saints.md) — *empirical_observation*: In the Week 13 final injury reports published by CBSSports.com on Dec.
+- [NFL Week 13 Injuries Panthers At Buccaneers](nfl_week_13_injuries_panthers_at_buccaneers.md) — *empirical_observation*: In the Week 13 final injury reports published by CBSSports.com on Dec.
+- [NFL Week 13 Injury Report Overview](nfl_week_13_injury_report_overview.md) — *empirical_observation*: CBSSports.com's Dec.
+- [Nick Watson AFL Draft Prospect 2023](nick_watson_afl_draft_prospect_2023.md) — *concept*: Nick Watson, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Noah Brown Boom Bust Fantasy Profile](noah_brown_boom_bust_fantasy_profile.md) — *empirical_observation*: CBSSports.com's Dec.
+- [Noah Gragson Stewart-Haas No. 10 Seat](noah_gragson_stewart_haas_no_10_seat.md) — *empirical_observation*: The matter of Aric Almirola's replacement in the Stewart-Haas Racing No.
+- [Ollie Murphy AFL Draft Prospect 2023](ollie_murphy_afl_draft_prospect_2023.md) — *concept*: Ollie Murphy, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Otto Wallin Fighter Profile](otto_wallin_fighter_profile.md) — *concept*: Otto Wallin, as characterized by CBSSports.com on Dec.
+- [Patrick Mahomes Chiefs Midseason MVP](patrick_mahomes_chiefs_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Patrick Surtain II Broncos Midseason MVP](patrick_surtain_ii_broncos_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Paul Blackburn Athletics Trade Candidacy](paul_blackburn_athletics_trade_candidacy.md) — *empirical_observation*: Paul Blackburn was ranked No.
+- [Pete Alonso Mets Trade Candidacy](pete_alonso_mets_trade_candidacy.md) — *empirical_observation*: Pete Alonso was ranked No.
+- [Phoenix Gothard AFL Draft Prospect 2023](phoenix_gothard_afl_draft_prospect_2023.md) — *concept*: Phoenix Gothard, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Pochettino Reaction To Chelsea City Draw](pochettino_reaction_to_chelsea_city_draw.md) — *empirical_observation*: Chelsea boss Mauricio Pochettino said after the 4-4 draw with Manchester City that he was proud and happy and that the players never gave up, The Roar report…
+- [Premier League Standings And Other Results November 2023](premier_league_standings_and_other_results_november_2023.md) — *empirical_observation*: Manchester City led the Premier League table on 28 points, with Liverpool going into second on 27, above Arsenal on goal difference, and Tottenham fourth on…
+- [Puka Nacua Rookie Reception Record Chase](puka_nacua_rookie_reception_record_chase.md) — *empirical_observation*: CBSSports.com's Dec.
+- [Quez Watkins Eagles Hot Seat](quez_watkins_eagles_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Quincy Williams Jets Midseason MVP](quincy_williams_jets_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Randy Arozarena Rays Trade Candidacy](randy_arozarena_rays_trade_candidacy.md) — *empirical_observation*: Randy Arozarena was ranked No.
+- [Rashee Rice Week 16 Must-Start Case](rashee_rice_week_16_must_start_case.md) — *argument*: CBSSports.com's Dec.
+- [Reece James Return From Injury Chelsea](reece_james_return_from_injury_chelsea.md) — *empirical_observation*: Reece James was a constant menace to Blackburn's defence as he started for the first time since the opening day of the season on his return from injury, and…
+- [Riley Hardeman AFL Draft Prospect 2023](riley_hardeman_afl_draft_prospect_2023.md) — *concept*: Riley Hardeman, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Rory McIlroy Support For Golf Ball Rollback](rory_mcilroy_support_for_golf_ball_rollback.md) — *argument*: Rory McIlroy backed the rollback proposal for elite-level golfers, arguing it would help the overall professional game, in comments to the No Laying Up Podca…
+- [Ross Chastain 2023 Season Autosport Snub](ross_chastain_2023_season_autosport_snub.md) — *argument*: Essentially Sports argued on Dec.
+- [Ryley Sanders AFL Draft Prospect 2023](ryley_sanders_afl_draft_prospect_2023.md) — *concept*: Ryley Sanders, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Scott Fitterer Panthers Hot Seat](scott_fitterer_panthers_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Sean Dyche On Everton Survival Prospects](sean_dyche_on_everton_survival_prospects.md) — *argument*: Sean Dyche argued on Nov.
+- [Shane Bieber Guardians Trade Candidacy](shane_bieber_guardians_trade_candidacy.md) — *empirical_observation*: Shane Bieber was ranked No.
+- [Spire Motorsports 2024 Personnel Hires](spire_motorsports_2024_personnel_hires.md) — *empirical_observation*: Spire Motorsports announced a number of personnel moves the week of Dec.
+- [Supercars Drivers In 2023 NASCAR Races](supercars_drivers_in_2023_nascar_races.md) — *empirical_observation*: Two drivers who featured in both the 2023 NASCAR season and Autosport's Top 50 Drivers list were Supercars racers Shane van Gisbergen and Brodie Kostecki, Es…
+- [Taylor Goad AFL Draft Prospect 2023](taylor_goad_afl_draft_prospect_2023.md) — *concept*: Taylor Goad, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Tew Jiath AFL Draft Prospect 2023](tew_jiath_afl_draft_prospect_2023.md) — *concept*: Tew Jiath — pronounced T-ow Gee-ath — profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Tiger Woods Support For Pro Amateur Ball Split](tiger_woods_support_for_pro_amateur_ball_split.md) — *argument*: Tiger Woods supported the rollback and went further, arguing for an explicit split between a professional ball and an amateur ball, in comments reported by E…
+- [T.J. Watt Steelers Midseason MVP](tj_watt_steelers_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Todd Bowles Buccaneers Hot Seat](todd_bowles_buccaneers_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Travis Etienne Jaguars Midseason MVP](travis_etienne_jaguars_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Trent Grisham And Ha-Seong Kim Padres Trade Candidacy](trent_grisham_ha_seong_kim_padres_trade_candidacy.md) — *empirical_observation*: Trent Grisham and Ha-Seong Kim were ranked No.
+- [Trevon Diggs Cowboys Hot Seat](trevon_diggs_cowboys_hot_seat.md) — *argument*: Yardbarker's Nov.
+- [Tyler Glasnow Rays Trade Candidacy](tyler_glasnow_rays_trade_candidacy.md) — *empirical_observation*: Tyler Glasnow was ranked No.
+- [Tyler Reddick 2023 Season Autosport Snub](tyler_reddick_2023_season_autosport_snub.md) — *argument*: Essentially Sports argued on Dec.
+- [Tyreek Hill 2,000-Yard Season Pursuit](tyreek_hill_2000_yard_season_pursuit.md) — *empirical_observation*: CBSSports.com's Dec.
+- [Tyreek Hill Dolphins Midseason MVP](tyreek_hill_dolphins_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Warriors 2020 And 2021 Draft Misses](warriors_2020_and_2021_draft_misses.md) — *argument*: Yardbarker argued on Nov.
+- [Warriors 2021 Draft Kuminga And Moody](warriors_2021_draft_kuminga_and_moody.md) — *empirical_observation*: In June of 2021, Jonathan Kuminga and Moses Moody sat on a stage on the Chase Center court, with then-GM Bob Myers to their left, as the Warriors introduced…
+- [Warriors Aging Core Curry Thompson Green](warriors_aging_core_curry_thompson_green.md) — *empirical_observation*: If the Warriors seemed old in November 2023, it was because they were, Yardbarker reported on Nov.
+- [Warriors Collapse Vs Kings In-Season Tournament](warriors_collapse_vs_kings_in_season_tournament.md) — *empirical_observation*: The Warriors fell to 8-10 following Tuesday's disastrous collapse to the Kings in Sacramento, Yardbarker reported on Nov.
+- [Warriors Recent Draft Class Outcomes](warriors_recent_draft_class_outcomes.md) — *empirical_observation*: Golden State's original sins run deeper than the 2020 and 2021 drafts, Yardbarker reported on Nov.
+- [Warriors Roster Reorientation Around Curry Window](warriors_roster_reorientation_around_curry_window.md) — *argument*: Yardbarker argued on Nov.
+- [Warriors Two-Timeline Plan Failure](warriors_two_timeline_plan_failure.md) — *model*: Yardbarker set out on Nov.
+- [Week 16 Wide Receiver Matchup Projection Table](week_16_wide_receiver_matchup_projection_table.md) — *empirical_observation*: CBSSports.com's Dec.
+- [Week 16 Wide Receivers Ruled Out](week_16_wide_receivers_ruled_out.md) — *empirical_observation*: CBSSports.com's Dec.
+- [Will Graham AFL Draft Prospect 2023](will_graham_afl_draft_prospect_2023.md) — *concept*: Will Graham, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Will Green AFL Draft Prospect 2023](will_green_afl_draft_prospect_2023.md) — *concept*: Will Green, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Will McCabe AFL Draft Prospect 2023](will_mccabe_afl_draft_prospect_2023.md) — *concept*: Will McCabe, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+- [Zack Moss Colts Midseason MVP](zack_moss_colts_midseason_mvp.md) — *argument*: Yardbarker's Nov.
+- [Zane Duursma AFL Draft Prospect 2023](zane_duursma_afl_draft_prospect_2023.md) — *concept*: Zane Duursma, profiled in Kevin Sheehan's top 40 for the 2023 AFL Draft as reported by The Roar on Nov.
+
+## Related Notes
+
+- [Sports Entry Point](entry_sports.md): parent category index this cluster belongs to.
+- [MultiHop-RAG Corpus](entry_multihop_rag.md): the corpus root index.
+
+## References
+
+- Source: index of notes derived from the MultiHop-RAG corpus (Tang & Yang, 2024, arXiv:2401.15391), ODC-BY-1.0.
