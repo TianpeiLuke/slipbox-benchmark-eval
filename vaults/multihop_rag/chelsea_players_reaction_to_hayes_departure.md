@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - chelsea players reaction to hayes departure
+  - coaching change
+  - earnings report
+  - hayes'
+  - uswnt
+  - emma
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0108]
 ---

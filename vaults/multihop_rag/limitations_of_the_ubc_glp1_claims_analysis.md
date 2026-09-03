@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - counter_argument
+keywords:
+  - limitations of the ubc glp 1 claims analysis
+  - glp-1
+  - gastroparesis
+  - glp1
+  - drugs
+  - adverse
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0066]
 ---

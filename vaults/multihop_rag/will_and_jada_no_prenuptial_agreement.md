@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - why will smith and jada pinkett smith never signed a prenup
+  - divorce
+  - marriage
+  - separation
+  - expert
+  - promise
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0036, doc_0360]
 ---

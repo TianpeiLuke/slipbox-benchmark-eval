@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - paraguay s outlook and lineup under new coach daniel garnero
+  - world cup
+  - coaching change
+  - argentina
+  - messi
+  - coronel
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0105]
 ---

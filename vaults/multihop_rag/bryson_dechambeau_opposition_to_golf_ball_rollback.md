@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - bryson dechambeau opposition to golf ball rollback
+  - handicap
+  - liv
+  - policy
+  - majors
+  - rory
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0490]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - rory mcilroy support for golf ball rollback
+  - concert tour
+  - thematic
+  - tagging
+  - note
+  - opposition
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0490]
 ---

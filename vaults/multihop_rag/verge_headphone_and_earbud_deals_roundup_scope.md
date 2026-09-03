@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - verge s headphone and earbud deals roundup scope
+  - noise cancelling headphones
+  - earbuds
+  - beats
+  - wireless
+  - pro
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0369]
 ---

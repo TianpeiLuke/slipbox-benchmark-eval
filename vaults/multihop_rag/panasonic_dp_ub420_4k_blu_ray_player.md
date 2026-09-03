@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - panasonic dp ub420 4k blu ray player
+  - streaming service
+  - blu-ray
+  - fire
+  - dp-ub420
+  - topic
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0454]
 ---

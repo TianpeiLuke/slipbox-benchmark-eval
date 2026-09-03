@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - amazon s mobile manipulation program
+  - agility
+  - robots
+  - amazon's
+  - digit
+  - humanoid
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0528]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - case that michigan s sign stealing was systematic cheating
+  - regulatory investigation
+  - covid 19
+  - ten
+  - big
+  - punishment
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0504]
 ---

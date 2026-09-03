@@ -1,11 +1,27 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - board governance
+  - altman
+  - openai
+  - nonprofit
+  - composition
+  - directors
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0226, doc_0332, doc_0333, doc_0415, doc_0536]
 enriched: web
 external_refs:
   - url: https://en.wikipedia.org/wiki/Corporate_governance
-    publisher: Wikipedia
-    accessed: 2026-09-02
 ---
 
 # Board Governance

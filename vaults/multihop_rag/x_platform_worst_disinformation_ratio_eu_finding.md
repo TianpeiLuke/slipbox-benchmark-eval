@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - x found to have the worst disinformation ratio in eu analysis
+  - digital services act
+  - very large online platform
+  - indicators
+  - code
+  - signatories
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0248, doc_0396]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - model
+keywords:
+  - box jellyfish rhopalia and contrast based navigation
+  - learning
+  - roots
+  - experiment
+  - waters
+  - tank
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0261]
 ---

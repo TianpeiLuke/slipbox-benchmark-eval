@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - baldur s gate 3
+  - user generated content
+  - lobbying political donations
+  - console hardware
+  - bg3
+  - baldur's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0213]
 ---

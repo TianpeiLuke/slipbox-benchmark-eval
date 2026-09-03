@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - fediverse definition and the email analogy
+  - data privacy
+  - flipboard
+  - activitypub
+  - mastodon
+  - apps
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0508]
 ---

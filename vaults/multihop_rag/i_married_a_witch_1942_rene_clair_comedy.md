@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - i married a witch 1942 ren clair s romantic comedy
+  - lobbying political donations
+  - streaming service
+  - criterion
+  - fredric
+  - lake
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

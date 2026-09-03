@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - rashee rice week 16 must start case
+  - daily fantasy sports
+  - samuel
+  - waiver
+  - target
+  - deebo
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0146]
 ---

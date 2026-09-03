@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - epic v google what the trial is
+  - antitrust
+  - game patch notes
+  - store
+  - games
+  - app
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0355]
 ---

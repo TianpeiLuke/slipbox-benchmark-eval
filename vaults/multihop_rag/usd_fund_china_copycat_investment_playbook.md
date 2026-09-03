@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - usd fund copycat playbook in china
+  - venture capital
+  - valley
+  - silicon
+  - chinese
+  - crackdown
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0181]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - week 13 packers chiefs spagnuolo s blitz wave should undo jordan love s improvement
+  - verdict
+  - love's
+  - spagnuolo's
+  - isiah
+  - pacheco
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057]
 ---

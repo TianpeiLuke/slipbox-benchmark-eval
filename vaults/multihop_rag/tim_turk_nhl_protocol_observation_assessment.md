@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - tim turk s nhl protocol observation assessment
+  - bedard
+  - connor
+  - bedard's
+  - turk's
+  - shooting
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0102]
 ---

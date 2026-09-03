@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - amazon prime membership requirement for prime day
+  - product launch
+  - kindle
+  - deal
+  - listings
+  - days
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0520]
 ---

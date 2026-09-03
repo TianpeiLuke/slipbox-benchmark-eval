@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - eu ai act two tier rules for general purpose ai
+  - generative ai
+  - cloud computing
+  - guardrails
+  - gpais
+  - systemic
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0525, doc_0564]
 ---

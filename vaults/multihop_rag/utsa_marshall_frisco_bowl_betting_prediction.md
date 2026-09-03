@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - sporting news frisco bowl pick utsa even laying a big number
+  - marshall
+  - college-football
+  - portal
+  - herd
+  - alabama
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0005]
 ---

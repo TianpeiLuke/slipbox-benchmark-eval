@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - india nominal gdp forecast to 2030
+  - usage based pricing
+  - game patch notes
+  - growth
+  - india's
+  - indian
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0532]
 ---

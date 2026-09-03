@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - x s content moderation retrenchment under musk
+  - digital services act
+  - regulatory investigation
+  - dsa
+  - enforcement
+  - formal
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0153]
 ---

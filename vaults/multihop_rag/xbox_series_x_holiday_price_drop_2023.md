@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - xbox series x holiday price drop 2023
+  - console hardware
+  - discount and msrp
+  - cocoon
+  - titles
+  - library
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0308]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - raiders 16 jets 12 on sunday night football
+  - interception
+  - details
+  - snf
+  - bengals
+  - broadcast
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0439]
 ---

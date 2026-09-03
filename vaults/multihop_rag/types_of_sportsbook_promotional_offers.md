@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - nine categories of sportsbook promotional offer
+  - sports betting odds
+  - super bowl
+  - bonus
+  - vermont
+  - wagering
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0072]
 ---

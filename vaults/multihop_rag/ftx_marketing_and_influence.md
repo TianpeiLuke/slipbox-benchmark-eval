@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - ftx s marketing and political influence
+  - lobbying political donations
+  - celebrity endorsement
+  - major league baseball
+  - sportsbook
+  - lewis
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0010, doc_0030]
 ---

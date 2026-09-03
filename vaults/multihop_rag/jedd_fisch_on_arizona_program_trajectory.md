@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - jedd fisch on what the utah win signified
+  - arizona
+  - match
+  - versus
+  - territorial
+  - arizona's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0475]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - england s defensive brittleness and dropped points
+  - belgium
+  - greenwood
+  - wembley
+  - england's
+  - alex
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0184, doc_0206]
 ---

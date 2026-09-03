@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - procedure
+keywords:
+  - bhavik patel s day to day duties as chief ai officer
+  - day-to-day
+  - mayo
+  - clinical
+  - patel's
+  - health
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0163]
 ---

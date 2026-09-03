@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - shohei ohtani s 10 year 700 million contract with the dodgers
+  - most valuable player
+  - major league baseball
+  - angeles
+  - angels
+  - los
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0422, doc_0426]
 ---

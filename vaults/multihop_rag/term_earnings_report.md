@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - earnings report
+  - preview
+  - eps
+  - guidance
+  - nike
+  - consensus
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0024, doc_0215, doc_0337, doc_0338]
 enriched: web

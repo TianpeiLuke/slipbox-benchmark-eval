@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - marvel s spider man 2 insomniac games
+  - user generated content
+  - console hardware
+  - spider-man
+  - miles
+  - marvel's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0213, doc_0383]
 ---

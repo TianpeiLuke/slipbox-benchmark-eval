@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - s9 chip s neural engines enable double tap
+  - wearable device
+  - streaming service
+  - wearable fitness tracker
+  - gesture
+  - watch
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0491]
 ---

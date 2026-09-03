@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - sam altman fired as openai ceo in november 2023
+  - generative ai
+  - board governance
+  - chatgpt
+  - faq
+  - altman's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0048, doc_0415, doc_0516]
 ---

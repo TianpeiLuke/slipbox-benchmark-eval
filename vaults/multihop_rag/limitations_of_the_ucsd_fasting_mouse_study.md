@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - counter_argument
+keywords:
+  - limitations of the uc san diego fasting mouse study
+  - restricted
+  - alzheimers
+  - eating
+  - desplats
+  - disease
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0309]
 ---

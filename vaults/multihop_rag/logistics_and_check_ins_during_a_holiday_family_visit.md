@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - logistics and check ins during a holiday family visit
+  - partner
+  - stress
+  - relationship
+  - conversations
+  - introduction
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0070]
 ---

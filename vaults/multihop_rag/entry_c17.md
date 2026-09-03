@@ -1,4 +1,19 @@
 ---
+tags:
+  - entry_point
+  - general
+keywords:
+  - entry point sports cluster c17
+  - empirical
+  - observation
+  - jamaica
+  - prop
+  - canada
+topics:
+  - General
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: navigation
 ---
 

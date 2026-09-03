@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jack harlow announced as the lions thanksgiving halftime performer
+  - national football league
+  - detroit
+  - raiders
+  - lions-raiders
+  - week
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0004]
 ---

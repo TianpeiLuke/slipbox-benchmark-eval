@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - lucashenko s argument against the trope of the dying race
+  - class action settlement
+  - aboriginal
+  - lucashenko's
+  - birds
+  - melissa
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0283]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - bengals 24 bills 18 on sunday night football
+  - super bowl
+  - playoff seeding
+  - actors and writers strike
+  - burrow
+  - cincinnati
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0294]
 ---

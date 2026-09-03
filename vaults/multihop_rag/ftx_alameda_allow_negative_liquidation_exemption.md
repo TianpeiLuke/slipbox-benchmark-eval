@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - allow negative alameda s exemption from ftx liquidation
+  - criminal trial
+  - line of credit
+  - fraud
+  - alameda's
+  - ftx's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0053, doc_0121, doc_0305]
 ---

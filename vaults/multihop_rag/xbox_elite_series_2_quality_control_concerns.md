@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - quality control concerns about the elite series 2
+  - user generated content
+  - controller
+  - xbox
+  - powera
+  - tag
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0350]
 ---

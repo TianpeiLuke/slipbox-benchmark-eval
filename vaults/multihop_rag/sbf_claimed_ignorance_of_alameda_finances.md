@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - bankman fried s claimed ignorance of alameda s finances
+  - fine penalty
+  - ftx
+  - alameda's
+  - testimony
+  - adam
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0053]
 ---

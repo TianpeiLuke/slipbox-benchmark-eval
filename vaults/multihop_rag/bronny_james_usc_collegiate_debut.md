@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - bronny james s collegiate debut for usc
+  - cardiac
+  - arrest
+  - trojans
+  - hoop
+  - beach
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0103]
 ---

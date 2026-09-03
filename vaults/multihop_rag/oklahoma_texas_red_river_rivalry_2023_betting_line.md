@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - oklahoma texas red river rivalry 2023 betting line
+  - playoff seeding
+  - championship
+  - college
+  - longhorns
+  - week6
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0259]
 ---

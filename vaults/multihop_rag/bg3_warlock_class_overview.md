@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - bg3 warlock pact casting for beginners
+  - class
+  - classes
+  - caster
+  - spells
+  - subclasses
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0016, doc_0017]
 ---

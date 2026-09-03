@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - boeing q3 2023 earnings preview and 737 max bulkhead defect
+  - valuation
+  - streaming service
+  - earnings report
+  - fy2023
+  - consensus-estimate
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0338]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - bolt mobility s distance based pricing
+  - distance-based
+  - convoy
+  - minicar
+  - rocket
+  - foxconn
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0514]
 ---

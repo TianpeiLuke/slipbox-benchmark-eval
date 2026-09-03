@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - chapter 11 bankruptcy
+  - filing
+  - smiledirectclub
+  - wework
+  - ftx's
+  - collapse
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0010, doc_0049, doc_0116]
 enriched: web

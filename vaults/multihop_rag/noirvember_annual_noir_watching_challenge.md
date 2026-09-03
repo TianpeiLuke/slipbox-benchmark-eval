@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - noirvember the annual noir watching challenge
+  - celebrity endorsement
+  - genre
+  - veterans
+  - indemnity
+  - neo-noir
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0327]
 ---

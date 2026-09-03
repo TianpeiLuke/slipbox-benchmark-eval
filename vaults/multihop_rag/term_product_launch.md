@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - product launch
+  - shipping
+  - pixel
+  - launches
+  - holiday
+  - cutoffs
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0011, doc_0099, doc_0188, doc_0230, doc_0287, doc_0524]
 enriched: web

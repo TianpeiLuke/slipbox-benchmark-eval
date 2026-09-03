@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - yankees land alex verdugo from the red sox
+  - trade
+  - mookie
+  - betts
+  - dodgers
+  - payroll
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0120]
 ---

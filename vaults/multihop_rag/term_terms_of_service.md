@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - sports
+  - technology
+  - concept
+keywords:
+  - terms of service
+  - guidelines
+  - sportsbook
+  - enforcement
+  - community
+  - rulebook
+topics:
+  - Sports
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0024, doc_0025, doc_0062, doc_0072, doc_0106, doc_0124, doc_0505]
 enriched: web

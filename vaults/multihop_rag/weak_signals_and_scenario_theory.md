@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - procedure
+keywords:
+  - handling weak signals through scenario theory
+  - reserve mobilisation
+  - barrier
+  - gaza
+  - israeli
+  - eiland
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0078]
 ---

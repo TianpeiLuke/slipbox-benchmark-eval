@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - james wise recommends the coming wave
+  - venture capital
+  - mustafa
+  - suleyman
+  - hurff
+  - steerswoman
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0243]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - suspiria argento s witch academy defined by colour and goblin s score
+  - horror
+  - dario
+  - film
+  - polygon
+  - guide
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - usc fasting mimicking diet studies in alzheimer s mice
+  - brain
+  - alzheimer's
+  - fasting-mimicking
+  - alzheimers
+  - ketosis
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0309]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - erik ten hag s position under ratcliffe
+  - hag's
+  - murtough
+  - blanc
+  - ineos
+  - glazer
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0089]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - are you there god it s me margaret
+  - fremon
+  - blume's
+  - mcadams
+  - safdie
+  - abby
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0094]
 ---

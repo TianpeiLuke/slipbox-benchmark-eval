@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - eu enforcement steps against x over dsa compliance
+  - digital services act
+  - regulatory investigation
+  - disinformation
+  - request
+  - breton
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0024, doc_0025]
 ---

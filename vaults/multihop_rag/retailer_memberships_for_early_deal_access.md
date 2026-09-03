@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - retailer memberships for early deal access
+  - video game release
+  - black friday cyber monday
+  - product launch
+  - amazon
+  - prime
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0574]
 ---

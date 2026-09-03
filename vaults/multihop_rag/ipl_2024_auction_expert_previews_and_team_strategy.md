@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - ipl 2024 auction expert previews and team strategy
+  - capped
+  - ist
+  - icc
+  - cricket
+  - chinnaswamy
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0307]
 ---

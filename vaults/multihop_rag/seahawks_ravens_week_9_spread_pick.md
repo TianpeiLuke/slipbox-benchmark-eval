@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - seahawks 6 at ravens week 9
+  - geno
+  - smith
+  - metcalf
+  - fantasy
+  - kenneth
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0314]
 ---

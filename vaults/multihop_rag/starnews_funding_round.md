@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - starnews mobile s 3m pre series a round
+  - creator economy
+  - venture capital
+  - african
+  - madrid
+  - real
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0456]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - timing an nba mvp futures bet early versus late
+  - most valuable player
+  - sports betting odds
+  - national basketball association
+  - markets
+  - sportsbook
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0589]
 ---

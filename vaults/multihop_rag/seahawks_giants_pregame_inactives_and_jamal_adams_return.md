@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - seahawks giants pregame jamal adams returns saquon barkley ruled inactive
+  - national football league
+  - game patch notes
+  - seahawks-giants
+  - fantasy
+  - week
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0290]
 ---

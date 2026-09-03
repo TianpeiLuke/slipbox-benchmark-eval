@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - week 13 broncos texans denver s defense is real but c j stroud can still be started
+  - verdict
+  - quarterbacks
+  - bills
+  - player-level
+  - lineup-decisions
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057]
 ---

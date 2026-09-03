@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - mlb luxury tax deferrals and average annual value
+  - fine penalty
+  - major league baseball
+  - shohei
+  - dodgers
+  - mookie
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0531]
 ---

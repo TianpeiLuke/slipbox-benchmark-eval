@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - james leake afl draft prospect 2023
+  - draft pick
+  - swans
+  - devils
+  - tasmania
+  - sydney
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0244]
 ---

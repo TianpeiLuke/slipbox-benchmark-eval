@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - how counterfeit jet engine parts are detected and why aog s were hard to catch
+  - technics
+  - aog's
+  - bolts
+  - cfm
+  - volta
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0506]
 ---

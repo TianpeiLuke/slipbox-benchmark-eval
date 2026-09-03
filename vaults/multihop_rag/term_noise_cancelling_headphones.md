@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - technology
+  - concept
+keywords:
+  - noise cancelling headphones
+  - sony
+  - quietcomfort
+  - bose
+  - deal
+  - earbud
+topics:
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0000, doc_0091, doc_0222, doc_0250, doc_0404, doc_0595, doc_0369, doc_0584]
 enriched: web

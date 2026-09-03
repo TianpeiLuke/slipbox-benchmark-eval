@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - layoffs
+  - tech
+  - workforce
+  - ironnet
+  - closures
+  - efficiency
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0011, doc_0024, doc_0043, doc_0049, doc_0050, doc_0334, doc_0536, doc_0537]
 enriched: web

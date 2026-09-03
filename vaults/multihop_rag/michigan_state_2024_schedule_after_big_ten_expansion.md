@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - michigan state s 2024 schedule under a division free expanded big ten
+  - oregon
+  - smith
+  - jonathan
+  - ohio
+  - dilemma
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0411]
 ---

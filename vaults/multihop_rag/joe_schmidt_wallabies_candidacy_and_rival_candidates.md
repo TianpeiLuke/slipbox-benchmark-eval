@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - joe schmidt s wallabies candidacy and the rival candidates
+  - world cup
+  - blacks
+  - rugby
+  - rwc
+  - schmidt's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0493]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - national basketball association nba
+  - betting
+  - futures
+  - christmas
+  - sportsbook
+  - durant
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0060, doc_0062, doc_0072, doc_0203, doc_0240, doc_0281, doc_0406, doc_0441, doc_0497, doc_0522, doc_0589]
 ---

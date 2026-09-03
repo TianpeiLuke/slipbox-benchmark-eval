@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ipl 2024 auction the uncapped batters and wicketkeepers phase
+  - ist
+  - csk
+  - blog
+  - bidding
+  - set
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0307]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - ming chi kuo s m3 macbook pro forecast
+  - product launch
+  - streaming service
+  - earnings report
+  - apple
+  - ming-chi
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0287]
 ---

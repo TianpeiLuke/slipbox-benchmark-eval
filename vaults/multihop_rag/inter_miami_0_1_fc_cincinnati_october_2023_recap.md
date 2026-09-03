@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - inter miami lose 1 0 to fc cincinnati and fall out of the playoff race
+  - playoff seeding
+  - messi
+  - paraguay
+  - argentina
+  - lionel
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0088]
 ---

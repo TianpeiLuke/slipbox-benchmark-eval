@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - objections to x s 1 bot fee
+  - bot detection
+  - digital divide
+  - battery technology
+  - patch-notes
+  - x's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0195]
 ---

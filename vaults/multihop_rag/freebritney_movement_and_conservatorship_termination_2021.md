@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - fan movement and the 2021 end of britney spears conservatorship
+  - freedom
+  - memoir
+  - timberlake
+  - her
+  - spears'
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0052]
 ---

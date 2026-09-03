@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - erasmus 2019 final speech country over ego
+  - world cup
+  - africa
+  - blacks
+  - south
+  - mistakes
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0176]
 ---

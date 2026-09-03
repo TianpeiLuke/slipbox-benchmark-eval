@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - caroline ellison s guilty plea and first day of testimony
+  - fraud
+  - plea agreement
+  - criminal trial
+  - alameda
+  - ftx
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0086]
 ---

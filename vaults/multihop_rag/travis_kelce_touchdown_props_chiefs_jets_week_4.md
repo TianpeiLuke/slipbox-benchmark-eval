@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - which travis kelce props to play in chiefs jets week 4
+  - fine penalty
+  - ranch
+  - chiefs-jets
+  - live
+  - swift
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0311]
 ---

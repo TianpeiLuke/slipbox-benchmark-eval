@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - joseph parker s upset win over deontay wilder
+  - sports betting odds
+  - reckoning
+  - heavyweight
+  - hearn
+  - card
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0561]
 ---

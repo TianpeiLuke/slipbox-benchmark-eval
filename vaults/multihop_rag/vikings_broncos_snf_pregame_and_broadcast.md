@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - vikings broncos sunday night pregame and broadcast
+  - national football league
+  - mattison
+  - mnf
+  - vikings-broncos
+  - alexander
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0037]
 ---

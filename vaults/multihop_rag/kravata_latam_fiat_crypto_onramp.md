@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - kravata latam fiat crypto on ramp
+  - venture capital
+  - dao
+  - latin
+  - alliance
+  - all11
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0465]
 ---

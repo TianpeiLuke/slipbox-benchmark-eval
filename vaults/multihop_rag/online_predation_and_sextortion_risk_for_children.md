@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - argument
+keywords:
+  - online predation and sextortion risk for children
+  - smartphone
+  - teen
+  - access
+  - teens
+  - volume
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0518]
 ---

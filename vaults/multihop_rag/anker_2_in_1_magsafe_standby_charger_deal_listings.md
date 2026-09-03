@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - anker 2 in 1 magsafe standby charger deal listings
+  - battery technology
+  - airpods
+  - apple
+  - prime
+  - amazon
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0520, doc_0600]
 ---

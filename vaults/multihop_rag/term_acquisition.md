@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - acquisition
+  - activision
+  - irobot
+  - blizzard
+  - merger
+  - dig
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0039, doc_0048, doc_0050, doc_0372, doc_0338]
 enriched: web

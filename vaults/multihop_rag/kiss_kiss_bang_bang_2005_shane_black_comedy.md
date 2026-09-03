@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - kiss kiss bang bang 2005 shane black s neo noir black comedy
+  - black's
+  - neo-noir
+  - activision
+  - kilmer
+  - downey
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

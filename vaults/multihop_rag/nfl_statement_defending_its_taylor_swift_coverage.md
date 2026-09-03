@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - counter_argument
+keywords:
+  - nfl s statement defending its taylor swift coverage
+  - national football league
+  - kelce
+  - jets
+  - chiefs
+  - travis
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0559]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - digital divide
+  - fee
+  - x's
+  - bots
+  - philippines
+  - digital-divide
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0195]
 enriched: web

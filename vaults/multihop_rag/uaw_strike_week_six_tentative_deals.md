@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - uaw strike week six tentative deals
+  - actors and writers strike
+  - driverless
+  - workers
+  - california
+  - shawn
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0537]
 ---

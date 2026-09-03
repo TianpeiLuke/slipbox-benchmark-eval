@@ -1,4 +1,24 @@
 ---
+tags:
+  - resource
+  - business
+  - science
+  - technology
+  - concept
+keywords:
+  - space mission
+  - solar
+  - nasa
+  - spacex
+  - orbiter
+  - observatory
+topics:
+  - Business
+  - Science
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0027, doc_0233, doc_0268, doc_0325]
 enriched: web

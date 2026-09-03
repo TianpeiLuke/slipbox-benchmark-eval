@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - discord s graduated warning system and account standing
+  - appeals process
+  - terms of service
+  - earnings report
+  - discord's
+  - enforcement
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0505]
 ---

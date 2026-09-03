@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - openai denial of malfeasance in altman ouster
+  - data privacy
+  - lightcap
+  - memo
+  - board's
+  - communication
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0415]
 ---

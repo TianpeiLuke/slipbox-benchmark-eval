@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - model
+keywords:
+  - how ketamine caused a drowning rather than direct toxicity
+  - anesthetic
+  - matthew
+  - dose
+  - unconsciousness
+  - perry's
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0390]
 ---

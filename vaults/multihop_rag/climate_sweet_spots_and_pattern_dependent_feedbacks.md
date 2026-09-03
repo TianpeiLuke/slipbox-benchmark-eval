@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - model
+keywords:
+  - climate sweet spots and pattern dependent feedbacks
+  - warming
+  - temperature
+  - surface
+  - radiative
+  - sensitivity
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0139]
 ---

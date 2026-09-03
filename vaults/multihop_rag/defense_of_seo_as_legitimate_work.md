@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - defense of seo as legitimate work
+  - search
+  - google
+  - seos
+  - websites
+  - schwartz
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0115]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - model
+keywords:
+  - handwritten cards as deliberately low tech suicide prevention
+  - caring
+  - contacts
+  - schalley
+  - low-tech
+  - social
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0158]
 ---

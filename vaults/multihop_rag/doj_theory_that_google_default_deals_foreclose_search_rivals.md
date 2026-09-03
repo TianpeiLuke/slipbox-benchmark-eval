@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - doj theory that google s default deals foreclose search rivals
+  - default search engine
+  - cue's
+  - testimony
+  - eddy
+  - firefox
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0014]
 ---

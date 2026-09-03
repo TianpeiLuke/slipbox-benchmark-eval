@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - king of comedy 1983 as a box office flop
+  - slang
+  - scorsese
+  - tonight
+  - swift
+  - entertainment
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0193]
 ---

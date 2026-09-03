@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - epic games store as a general purpose app store
+  - android
+  - brave
+  - layoffs
+  - software
+  - ds4windows
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0170]
 ---

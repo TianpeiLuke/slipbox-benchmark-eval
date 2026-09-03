@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - playoff and roster stakes in bears vikings on monday night
+  - playoff seeding
+  - national football league
+  - mnf
+  - fields
+  - bears'
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0144]
 ---

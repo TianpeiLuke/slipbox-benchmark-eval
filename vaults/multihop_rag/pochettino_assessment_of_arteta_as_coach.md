@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - pochettino s assessment of arteta as a coach
+  - pochettino's
+  - chelsea
+  - arsenal
+  - derby
+  - psg
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0110]
 ---

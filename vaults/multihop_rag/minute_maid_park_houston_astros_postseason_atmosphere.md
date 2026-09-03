@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - minute maid park houston astros postseason atmosphere
+  - playoff seeding
+  - major league baseball
+  - postseason-seeding
+  - responded
+  - manager
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0008]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - usmnt s 23 man roster for the october 2023 friendlies
+  - milan
+  - pulisic
+  - psv
+  - dortmund
+  - reyna
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0231]
 ---

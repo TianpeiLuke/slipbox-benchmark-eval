@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - what a ruling against google would mean for big tech
+  - antitrust
+  - ftc
+  - cases
+  - default
+  - third-party
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0237]
 ---

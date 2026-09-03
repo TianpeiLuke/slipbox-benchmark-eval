@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - immersive screen lineage from cinerama to postcard from earth
+  - sphere
+  - las
+  - vegas
+  - degree
+  - sphere's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0560]
 ---

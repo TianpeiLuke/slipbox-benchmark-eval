@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - jim harbaugh s legacy and future after the suspension
+  - national football league
+  - contract extension
+  - michigan
+  - big
+  - punishment
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0079]
 ---

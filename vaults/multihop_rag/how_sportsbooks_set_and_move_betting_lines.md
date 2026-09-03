@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - how sportsbooks set and move betting lines
+  - sports betting odds
+  - shopping
+  - mlb
+  - markets
+  - choose
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0060]
 ---

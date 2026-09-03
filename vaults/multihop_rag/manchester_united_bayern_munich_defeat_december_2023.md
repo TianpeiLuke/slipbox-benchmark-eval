@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - manchester united s 1 0 defeat to bayern munich december 2023
+  - lobbying political donations
+  - champions
+  - kane
+  - united's
+  - bruno
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0219, doc_0546]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - prime day security camera and doorbell deals october 2023
+  - data privacy
+  - smart
+  - alerts
+  - floodlight
+  - blink
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0205]
 ---

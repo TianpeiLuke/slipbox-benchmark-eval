@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - liam paro responds to the shakur stevenson sparring clip
+  - data breach
+  - las
+  - vegas
+  - paro's
+  - boxing
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0341]
 ---

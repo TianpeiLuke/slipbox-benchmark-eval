@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - vasiljevic dispute between the kings and the 36ers
+  - national basketball association
+  - adelaide
+  - melbourne
+  - beat
+  - phoenix
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0406]
 ---

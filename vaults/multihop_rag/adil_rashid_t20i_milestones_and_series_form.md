@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - adil rashid s t20i milestones and series form
+  - england
+  - rashid's
+  - indies
+  - cup
+  - odi
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0063, doc_0064, doc_0371]
 ---

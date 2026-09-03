@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - scotland commitment row and the gulf in class
+  - england
+  - scotland's
+  - olympic
+  - qualification
+  - hampden
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0184]
 ---

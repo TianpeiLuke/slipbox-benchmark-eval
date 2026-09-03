@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - mayo clinic s ai models for heart attack and cancer risk
+  - covid 19
+  - officer
+  - patel
+  - bhavik
+  - chief
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0163]
 ---

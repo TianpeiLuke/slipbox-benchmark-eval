@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - negative sentiment as profitable streaming discourse
+  - disinformation
+  - livestreaming
+  - twitch
+  - burnout
+  - live-service
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0545]
 ---

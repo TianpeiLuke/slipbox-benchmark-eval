@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - bg3 bard the support class and its colleges
+  - bards
+  - subclasses
+  - warlock
+  - valor
+  - character
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0016]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - amari cooper as a week 6 2023 sit against the 49ers
+  - national football league
+  - brissett
+  - watson
+  - godwin
+  - targets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0149]
 ---

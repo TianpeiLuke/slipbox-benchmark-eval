@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - tim sweeney s role as epic s controlling shareholder
+  - criminal trial
+  - google
+  - store
+  - jury
+  - epic's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0170]
 ---

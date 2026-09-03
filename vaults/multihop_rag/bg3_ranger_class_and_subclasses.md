@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - bg3 ranger the beginner ranged class
+  - melee
+  - subclass
+  - subclasses
+  - character
+  - hunters
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0016]
 ---

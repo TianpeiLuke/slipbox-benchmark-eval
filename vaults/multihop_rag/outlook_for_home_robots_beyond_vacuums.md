@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - hypothesis
+keywords:
+  - outlook for home robots beyond vacuums
+  - robotics
+  - boston
+  - dynamics
+  - underappreciated
+  - ipsos
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0420]
 ---

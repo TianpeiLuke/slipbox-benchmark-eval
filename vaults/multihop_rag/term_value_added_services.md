@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - value added services vas
+  - value-added
+  - monetization
+  - starnews
+  - sms-based
+  - kamgaing
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0456]
 enriched: web

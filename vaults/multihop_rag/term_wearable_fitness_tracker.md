@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - wearable fitness tracker
+  - watch
+  - fitbit
+  - sensor
+  - spo2
+  - smartwatch
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0069, doc_0091, doc_0104, doc_0222, doc_0241, doc_0491]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - elijah garcia stops armando resendiz in the eighth to open the canelo charlo ppv
+  - canelo-charlo
+  - alvarez
+  - middleweight
+  - undercard
+  - kos
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0245]
 ---

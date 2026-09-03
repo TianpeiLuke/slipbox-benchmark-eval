@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - nfl week 11 2023 tyreek hill returns from a hand injury darius slayton does not
+  - player injury report
+  - dolphins
+  - injuries
+  - commanders
+  - deebo
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0113]
 ---

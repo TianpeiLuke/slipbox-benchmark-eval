@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - pure research model at automaker backed institutes
+  - battery technology
+  - cars
+  - robotics
+  - toyota
+  - boston
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0511]
 ---

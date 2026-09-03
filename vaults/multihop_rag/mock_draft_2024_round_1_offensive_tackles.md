@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - 2024 mock draft seven offensive linemen projected in round 1
+  - national football league
+  - trade and free agency
+  - lbs
+  - prospect
+  - junior
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0179]
 ---

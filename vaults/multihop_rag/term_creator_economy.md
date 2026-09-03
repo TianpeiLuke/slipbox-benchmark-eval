@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - technology
+  - concept
+keywords:
+  - creator economy
+  - twitch
+  - creators
+  - twitch's
+  - monetization
+  - streamers
+topics:
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0043, doc_0401, doc_0405, doc_0488, doc_0517]
 enriched: web

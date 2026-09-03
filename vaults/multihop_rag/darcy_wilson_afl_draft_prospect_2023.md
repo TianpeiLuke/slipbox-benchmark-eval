@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - darcy wilson afl draft prospect 2023
+  - profile
+  - list
+  - bushrangers
+  - erin
+  - phillips
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0244]
 ---

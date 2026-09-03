@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - central bankers call for fiscal restraint and structural growth
+  - monetary
+  - inflation
+  - policy
+  - coordination
+  - debate
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0503]
 ---

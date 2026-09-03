@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - bg3 fighter the beginner melee class
+  - subclass
+  - eldritch
+  - warlock
+  - ability
+  - subclasses
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0016]
 ---

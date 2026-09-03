@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - prime day 2023 ipad air pro and mini deals
+  - battery life and charging
+  - pencil
+  - listings
+  - apple
+  - keyboard
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0600]
 ---

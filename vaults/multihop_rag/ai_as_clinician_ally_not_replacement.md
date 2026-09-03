@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - argument
+keywords:
+  - ai as a clinician s ally not a replacement
+  - care
+  - officer
+  - health
+  - patel
+  - chief
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0163]
 ---

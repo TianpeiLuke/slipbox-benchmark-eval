@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - yankees failed 2023 and their plan to reset for 2024
+  - gleyber
+  - torres
+  - manager
+  - yankees'
+  - search
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0429]
 ---

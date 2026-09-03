@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - amazon s october prime big deal days 2023
+  - black friday cyber monday
+  - discount and msrp
+  - echo
+  - fire
+  - sale
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0250, doc_0567, doc_0595]
 ---

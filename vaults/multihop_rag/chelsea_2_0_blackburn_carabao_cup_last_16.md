@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - chelsea 2 0 blackburn carabao cup last 16
+  - sterling
+  - palmer
+  - raheem
+  - jackson
+  - pochettino
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0101]
 ---

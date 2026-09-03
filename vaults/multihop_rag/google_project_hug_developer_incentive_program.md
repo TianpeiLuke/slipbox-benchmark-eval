@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - project hug google s developer incentive program as characterized by both sides
+  - activision
+  - android
+  - blizzard
+  - epic
+  - store
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0042]
 ---

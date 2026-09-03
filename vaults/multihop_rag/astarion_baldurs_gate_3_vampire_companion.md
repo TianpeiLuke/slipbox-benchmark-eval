@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - astarion baldur s gate 3 vampire companion
+  - baldur's
+  - bg3
+  - vampirism
+  - character
+  - role-playing
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0453]
 ---

@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - technology
+  - empirical_observation
+keywords:
+  - bose quietcomfort 45 headphones deal prices
+  - noise cancelling headphones
+  - battery technology
+  - battery life and charging
+  - echo
+  - amazon
+topics:
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0000, doc_0250, doc_0595]
 ---

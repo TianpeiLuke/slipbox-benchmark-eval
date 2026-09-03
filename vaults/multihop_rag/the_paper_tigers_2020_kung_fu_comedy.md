@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - paper tigers 2020 a middle aged kung fu comedy
+  - middle-aged
+  - activision
+  - google
+  - android
+  - romantic
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

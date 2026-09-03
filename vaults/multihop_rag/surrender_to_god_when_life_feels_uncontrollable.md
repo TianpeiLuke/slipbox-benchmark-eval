@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - surrender to god when life feels uncontrollable
+  - prayer
+  - faith
+  - hallow
+  - thinking
+  - practice
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0570]
 ---

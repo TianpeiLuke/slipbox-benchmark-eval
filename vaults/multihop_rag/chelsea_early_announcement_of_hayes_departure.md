@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - chelsea s early announcement of hayes departure
+  - coaching change
+  - class action settlement
+  - uswnt
+  - hayes'
+  - emma
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0108]
 ---

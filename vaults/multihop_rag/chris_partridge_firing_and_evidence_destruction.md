@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - chris partridge s firing and the evidence destruction allegation
+  - regulatory investigation
+  - data privacy
+  - public health guidance
+  - ten
+  - michigan
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0180]
 ---

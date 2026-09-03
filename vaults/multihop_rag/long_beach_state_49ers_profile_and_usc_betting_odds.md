@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - long beach state s profile and the usc betting odds
+  - sports betting odds
+  - coaching change
+  - usc's
+  - chargers
+  - arbor
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0103]
 ---

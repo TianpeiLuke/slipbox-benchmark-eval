@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - usmnt 1 3 germany hartford october 2023
+  - world cup
+  - pulisic
+  - ratings
+  - reyna
+  - berhalter
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0588]
 ---

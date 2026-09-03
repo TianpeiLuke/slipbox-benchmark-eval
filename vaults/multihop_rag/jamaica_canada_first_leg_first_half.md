@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - first half of jamaica 0 1 canada
+  - actors and writers strike
+  - leg
+  - minutes
+  - bailey
+  - stewart
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0157]
 ---

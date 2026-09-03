@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - eight day delay in flagging the valuation concern
+  - discount and msrp
+  - hsf
+  - hipgnosis
+  - citrin
+  - board
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0263]
 ---

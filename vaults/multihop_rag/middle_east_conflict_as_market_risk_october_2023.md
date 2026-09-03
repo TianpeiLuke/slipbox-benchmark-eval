@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - middle east conflict as a market risk in october 2023
+  - bond
+  - yields
+  - asx
+  - equity
+  - praveen
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0298]
 ---

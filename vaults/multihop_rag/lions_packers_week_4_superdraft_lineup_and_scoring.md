@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - superdraft lineup for lions packers week 4 and how its multiplier scoring works
+  - daily fantasy sports
+  - national football league
+  - lions-packers
+  - dfs
+  - flex
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0183]
 ---

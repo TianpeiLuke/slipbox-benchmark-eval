@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - founder lessons from pebble
+  - pebble's
+  - shutdown
+  - founders
+  - hypothesis
+  - twitter
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0593]
 ---

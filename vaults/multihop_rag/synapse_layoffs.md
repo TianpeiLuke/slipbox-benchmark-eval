@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - synapse laid off 86 people about 40 of the company
+  - layoffs
+  - banking as a service
+  - fintech
+  - restructuring
+  - banking-as-a-service
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0075]
 ---

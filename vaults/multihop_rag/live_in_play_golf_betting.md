@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - live in play golf betting
+  - sports betting odds
+  - sportsbook
+  - events
+  - app
+  - in-play
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0207]
 ---

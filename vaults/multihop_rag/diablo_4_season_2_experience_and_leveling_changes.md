@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - diablo 4 season 2 experience and leveling changes
+  - game patch notes
+  - gains
+  - renown
+  - rework
+  - bosses
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0533]
 ---

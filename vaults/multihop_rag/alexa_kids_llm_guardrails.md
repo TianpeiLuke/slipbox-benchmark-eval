@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - amazon s offline guardrail pipeline for alexa kids generative ai
+  - large language model
+  - ai hallucination
+  - llm
+  - generative-ai
+  - guardrails
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0188]
 ---

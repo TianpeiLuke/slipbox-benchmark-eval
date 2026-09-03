@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - platform owners should treat developers as partners
+  - antitrust
+  - epic
+  - google
+  - store
+  - games
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0170]
 ---

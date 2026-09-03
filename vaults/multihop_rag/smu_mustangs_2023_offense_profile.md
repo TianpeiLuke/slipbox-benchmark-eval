@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - smu mustangs 2023 offense profile
+  - north
+  - texas
+  - midseason
+  - touchdowns
+  - yards
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0006]
 ---

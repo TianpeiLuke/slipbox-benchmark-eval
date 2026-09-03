@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - spotify s ai translation and generative ad creation
+  - machine translation
+  - generative ai
+  - generative-ai
+  - podcasts
+  - spotify's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0461]
 ---

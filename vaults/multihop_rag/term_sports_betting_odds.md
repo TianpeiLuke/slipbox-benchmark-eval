@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - sports betting odds
+  - sportsbook
+  - vermont
+  - moneyline
+  - nba
+  - totals
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0060, doc_0061, doc_0359, doc_0554, doc_0201, doc_0433, doc_0003]
 ---

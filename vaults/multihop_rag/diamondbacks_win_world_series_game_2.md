@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - diamondbacks win world series game 2
+  - streaming service
+  - inning
+  - merrill
+  - arizona
+  - kelly
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0512]
 ---

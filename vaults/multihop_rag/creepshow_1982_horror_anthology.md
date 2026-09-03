@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - creepshow 1982 horror anthology
+  - plante
+  - blu-ray
+  - countdown
+  - paranormasight
+  - honjo
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0165]
 ---

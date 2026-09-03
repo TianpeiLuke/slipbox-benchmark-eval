@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - clock change circadian disruption and immunity
+  - sleep
+  - hour
+  - daylight
+  - clocks
+  - saving
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0339]
 ---

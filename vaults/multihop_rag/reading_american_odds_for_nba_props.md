@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - reading american odds for nba props
+  - sports betting odds
+  - wager
+  - numbers
+  - moneyline
+  - positive
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0497]
 ---

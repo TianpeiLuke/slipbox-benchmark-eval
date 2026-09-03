@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - model
+keywords:
+  - dinosaurs as beneficiaries of the p t extinction
+  - excerpt
+  - oxygen
+  - p-t
+  - weathering
+  - permian
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0460]
 ---

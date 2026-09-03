@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - best buy price match guarantee
+  - thanksgiving
+  - policy
+  - mentions
+  - adjustment
+  - nfl
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0403]
 ---

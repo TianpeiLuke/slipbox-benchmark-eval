@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - buffalo s against the spread trends in 2023
+  - bills
+  - chargers
+  - week
+  - buffalo's
+  - midseason
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0376]
 ---

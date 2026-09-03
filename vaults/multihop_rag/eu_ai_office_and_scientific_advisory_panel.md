@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - eu ai office and its scientific advisory panel
+  - act
+  - commission
+  - european
+  - obligations
+  - gpai
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0525, doc_0564]
 ---

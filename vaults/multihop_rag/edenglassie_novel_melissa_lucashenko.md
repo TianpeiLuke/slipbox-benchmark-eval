@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - edenglassie a dual timeline novel of colonial and contemporary brisbane
+  - user generated content
+  - embedded finance
+  - lucashenko
+  - write
+  - aboriginal
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0283]
 ---

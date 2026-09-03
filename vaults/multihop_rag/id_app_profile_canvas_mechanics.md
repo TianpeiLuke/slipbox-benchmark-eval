@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - id s profile canvas mechanics
+  - fine penalty
+  - id's
+  - amo
+  - zoom
+  - amo's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0196]
 ---

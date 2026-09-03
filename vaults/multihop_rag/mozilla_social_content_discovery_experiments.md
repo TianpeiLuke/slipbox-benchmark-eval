@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - mozilla social s content discovery experiments
+  - user generated content
+  - fediverse
+  - pocket
+  - mastodon
+  - social's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0026]
 ---

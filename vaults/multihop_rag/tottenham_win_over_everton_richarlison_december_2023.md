@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - tottenham s win over everton with richarlison scoring december 2023
+  - player injury report
+  - ange
+  - deduction
+  - dyche
+  - postecoglou
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0438]
 ---

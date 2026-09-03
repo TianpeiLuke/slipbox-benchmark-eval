@@ -1,4 +1,19 @@
 ---
+tags:
+  - entry_point
+  - general
+keywords:
+  - science category entry point
+  - multihop-rag
+  - c13
+  - c14
+  - corpus
+  - clusters
+topics:
+  - General
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: navigation
 ---
 

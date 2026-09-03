@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - prisco crosses 500 against the spread before week 12 of the 2023 season
+  - national football league
+  - prisco's
+  - picks
+  - sunday
+  - jedd
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0343]
 ---

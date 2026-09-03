@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - ouija board as an invitation to demons
+  - reehil
+  - exorcist
+  - occult
+  - demonic
+  - divination
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0562]
 ---

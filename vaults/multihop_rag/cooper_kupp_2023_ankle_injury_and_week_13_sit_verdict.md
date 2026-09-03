@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - cooper kupp a week 11 ankle sprain and the week 13 case for benching a stud
+  - national football league
+  - player injury report
+  - sit
+  - verdict
+  - him
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057, doc_0113]
 ---

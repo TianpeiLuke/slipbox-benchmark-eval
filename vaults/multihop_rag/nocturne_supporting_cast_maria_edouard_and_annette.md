@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - nocturne s supporting cast maria edouard and annette
+  - nocturne's
+  - castlevania
+  - show's
+  - castlevania's
+  - thuso
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0329]
 ---

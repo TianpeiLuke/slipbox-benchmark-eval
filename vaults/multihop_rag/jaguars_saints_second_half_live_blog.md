@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jaguars saints second half a tied game broken by christian kirk s 44 yard score
+  - national football league
+  - streaming service
+  - kamara
+  - jacksonville
+  - orleans
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0035]
 ---

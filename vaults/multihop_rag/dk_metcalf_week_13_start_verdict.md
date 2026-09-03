@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - dk metcalf week 13 start him on volume not on efficiency
+  - verdict
+  - bland
+  - cooper
+  - weekly
+  - kupp
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057]
 ---

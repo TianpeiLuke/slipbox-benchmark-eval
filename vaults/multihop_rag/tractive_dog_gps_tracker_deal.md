@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - tractive dog gps tracker black friday deal
+  - battery technology
+  - black friday cyber monday
+  - battery-powered
+  - walmart
+  - anker
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0558]
 ---

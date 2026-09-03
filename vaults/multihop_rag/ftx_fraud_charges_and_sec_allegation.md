@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - ftx fraud charges and the sec s allegation
+  - criminal trial
+  - alameda
+  - counts
+  - bankman-fried
+  - wire
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0053, doc_0083, doc_0086, doc_0121, doc_0293]
 ---

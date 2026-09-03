@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - boycott on the selection of bairstow and woakes
+  - lobbying political donations
+  - lanka
+  - sri
+  - cup
+  - world
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0132]
 ---

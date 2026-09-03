@@ -1,4 +1,24 @@
 ---
+tags:
+  - resource
+  - business
+  - entertainment
+  - technology
+  - concept
+keywords:
+  - discount and msrp
+  - deals
+  - price
+  - friday
+  - prime
+  - black
+topics:
+  - Business
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0091, doc_0104, doc_0000, doc_0002, doc_0403, doc_0222]
 enriched: web

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - diablo 4 game overview
+  - console hardware
+  - covid 19
+  - xbox
+  - leveling
+  - series
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0213]
 ---

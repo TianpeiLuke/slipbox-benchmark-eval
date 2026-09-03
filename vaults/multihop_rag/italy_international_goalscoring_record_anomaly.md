@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - italy international goalscoring record anomaly
+  - world cup
+  - norway
+  - italy's
+  - strikers
+  - prolific
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0400]
 ---

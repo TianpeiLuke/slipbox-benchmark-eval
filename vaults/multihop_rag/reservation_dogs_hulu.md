@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - reservation dogs hulu
+  - plus
+  - peacock
+  - sterlin
+  - harjo
+  - roundup
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0185]
 ---

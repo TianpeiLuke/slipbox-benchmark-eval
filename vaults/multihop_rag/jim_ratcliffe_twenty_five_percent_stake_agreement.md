@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jim ratcliffe s twenty five per cent stake agreement
+  - premier league
+  - manchester
+  - united
+  - trafford
+  - old
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0166, doc_0366]
 ---

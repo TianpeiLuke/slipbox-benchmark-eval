@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - aaron glenn lions hot seat
+  - national football league
+  - saints
+  - packers
+  - harlow
+  - desmond
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0437]
 ---

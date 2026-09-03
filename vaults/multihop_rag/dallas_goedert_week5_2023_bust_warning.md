@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - dallas goedert as a week 5 2023 bust candidate at the rams
+  - tight
+  - ends
+  - kittle
+  - ers
+  - fantasy
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0058]
 ---

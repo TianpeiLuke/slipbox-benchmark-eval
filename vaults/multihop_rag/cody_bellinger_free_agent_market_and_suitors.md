@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - cody bellinger s market and suitors after ohtani signed
+  - contract extension
+  - jays
+  - cubs
+  - blue
+  - bellinger's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0422]
 ---

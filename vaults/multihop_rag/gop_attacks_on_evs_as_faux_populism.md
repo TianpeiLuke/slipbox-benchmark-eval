@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - gop attacks on evs as faux populism
+  - supreme
+  - court
+  - ghazarian
+  - transition
+  - wedge
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0319]
 ---

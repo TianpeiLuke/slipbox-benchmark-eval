@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - swans matchday experience model for local attendance
+  - swans'
+  - aflw
+  - sydney
+  - on-field
+  - johns
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0210]
 ---

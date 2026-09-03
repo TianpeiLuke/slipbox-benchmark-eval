@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - annie wu henry on gen z authenticity
+  - endorsement
+  - republican
+  - influencer
+  - campaign
+  - twitch
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0468]
 ---

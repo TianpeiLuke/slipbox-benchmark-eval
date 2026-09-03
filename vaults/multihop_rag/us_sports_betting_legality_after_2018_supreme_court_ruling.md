@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - us sports betting legality since the 2018 supreme court ruling
+  - national basketball association
+  - fraud
+  - sports betting odds
+  - nba
+  - sportsbook
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0062, doc_0368]
 ---

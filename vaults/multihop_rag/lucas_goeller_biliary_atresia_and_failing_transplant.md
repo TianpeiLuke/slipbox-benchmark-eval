@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - concept
+keywords:
+  - lucas goeller s biliary atresia and his failing transplant
+  - liver
+  - organ
+  - donor
+  - donation
+  - pediatric
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0594]
 ---

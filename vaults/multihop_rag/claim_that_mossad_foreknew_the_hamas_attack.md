@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - claim that mossad foreknew the hamas attack
+  - surprise
+  - israel
+  - intelligence
+  - gaza
+  - sderot
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0134]
 ---

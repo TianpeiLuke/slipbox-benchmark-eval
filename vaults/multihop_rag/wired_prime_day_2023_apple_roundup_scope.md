@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - wired s prime day 2023 apple roundup scope
+  - battery technology
+  - listings
+  - deal
+  - magsafe
+  - anker
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0600]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - sandwich generation parenting your own parents
+  - covid 19
+  - multigenerational
+  - older
+  - adults
+  - ageing
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0605]
 ---

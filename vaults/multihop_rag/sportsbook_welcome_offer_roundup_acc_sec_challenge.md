@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - sportsbook welcome offer roundup for the acc sec challenge
+  - sports betting odds
+  - bonus
+  - code
+  - promo
+  - betmgm
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0432]
 ---

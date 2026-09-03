@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - trade and free agency
+  - candidacy
+  - ohtani
+  - contract
+  - deadline
+  - sox
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0118, doc_0120, doc_0179, doc_0220, doc_0316, doc_0356, doc_0500]
 ---

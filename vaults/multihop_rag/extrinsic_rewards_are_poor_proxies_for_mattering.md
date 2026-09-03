@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - counter_argument
+keywords:
+  - titles money and awards are poor proxies for mattering
+  - earnings report
+  - topic
+  - tag
+  - corpus
+  - alphabet
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0147]
 ---

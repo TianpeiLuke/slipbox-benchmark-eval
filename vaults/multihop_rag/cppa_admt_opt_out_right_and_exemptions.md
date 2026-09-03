@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - cppa admt opt out right and its exemptions
+  - fraud
+  - opt-out
+  - processing
+  - cppa's
+  - decisionmaking
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0164]
 ---

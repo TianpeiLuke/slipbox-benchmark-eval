@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - manchester united s 2023 24 champions league group stage record
+  - lobbying political donations
+  - premier league
+  - bayern
+  - trafford
+  - munich
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0219, doc_0546]
 ---

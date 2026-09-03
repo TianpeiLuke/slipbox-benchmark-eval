@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - tyler mitchell s case for lightly staged black leisure photography
+  - covid 19
+  - namatjira
+  - vincent
+  - ngv
+  - triennial
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0171]
 ---

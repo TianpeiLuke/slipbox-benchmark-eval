@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - evolution of meltwater s media monitoring business
+  - meltwater's
+  - digitized
+  - unstructured
+  - lyseggen
+  - netscape
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0580]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - epoch times as a conservative news organization
+  - lobbying political donations
+  - falun
+  - gong
+  - communist
+  - chinese
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0076]
 ---

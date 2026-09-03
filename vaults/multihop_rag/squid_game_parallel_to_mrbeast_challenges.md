@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - squid game parallel to mrbeast s challenges
+  - streaming service
+  - mrbeast's
+  - contestants
+  - debt
+  - netflix
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0509]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - ed newton rex s resignation from stability ai
+  - generative ai
+  - fair
+  - training
+  - copyright
+  - use
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0380, doc_0381]
 ---

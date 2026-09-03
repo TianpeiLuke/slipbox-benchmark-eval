@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - fanduel week 14 dfs receiver tight end flex and defense picks
+  - playoff seeding
+  - daily fantasy sports
+  - discount and msrp
+  - baker
+  - mayfield
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0276]
 ---

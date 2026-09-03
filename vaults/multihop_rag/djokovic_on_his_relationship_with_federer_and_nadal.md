@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - djokovic on his relationship with federer and nadal
+  - round-up
+  - tennis
+  - kyrgios
+  - item
+  - tsonga
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0342]
 ---

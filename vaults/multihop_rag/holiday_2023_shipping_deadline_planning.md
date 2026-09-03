@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - holiday 2023 shipping deadline planning
+  - product launch
+  - deadlines
+  - cutoffs
+  - pickup
+  - delivery
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0473]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - nfl week 11 2023 joey bosa carted off and talanoa hufanga lost for the season
+  - player injury report
+  - injuries
+  - shanahan
+  - prisco
+  - kyle
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0113]
 ---

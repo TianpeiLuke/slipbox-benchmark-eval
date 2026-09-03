@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - volker s case for continued and expanded ukraine aid
+  - volker's
+  - ought
+  - offensives
+  - counteroffensive
+  - negotiation
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0442]
 ---

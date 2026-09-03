@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - rehan ahmed and adil rashid through the middle overs
+  - t20i
+  - indies
+  - west
+  - pooran
+  - odi
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0063]
 ---

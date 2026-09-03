@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - skinamarink kyle edward ball
+  - horror
+  - film
+  - countdown
+  - ball's
+  - yawning
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0094, doc_0165]
 ---

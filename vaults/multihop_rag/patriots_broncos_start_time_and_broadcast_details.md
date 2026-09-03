@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - patriots broncos start time and broadcast details
+  - national football league
+  - patriots-broncos
+  - listing
+  - carriers
+  - nfl
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0449]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - polygon s selection process for the top 50 games of 2023
+  - rogue
+  - trader
+  - cutoff
+  - combat
+  - deferred
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0213]
 ---

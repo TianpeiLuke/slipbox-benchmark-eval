@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - us copyright office s 2023 study of ai and copyright
+  - training
+  - music
+  - submissions
+  - universal
+  - fair
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0271]
 ---

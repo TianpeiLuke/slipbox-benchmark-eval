@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - building a daily prayer habit
+  - faith
+  - hallow
+  - thinking
+  - roumie's
+  - jesus
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0570]
 ---

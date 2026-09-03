@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - how insomnia outlives its trigger
+  - sleep
+  - sleeplessness
+  - depression
+  - worry
+  - remedies
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0310]
 ---

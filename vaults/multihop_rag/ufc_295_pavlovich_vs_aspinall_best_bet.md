@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - ufc 295 best bet tom aspinall s moneyline in a fight likely to end fast
+  - sports betting odds
+  - danis
+  - montano
+  - savannah
+  - dillon
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0577]
 ---

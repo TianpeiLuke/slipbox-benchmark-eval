@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - collingwood s post premiership celebration and its 16th flag
+  - browne
+  - collingwood's
+  - club
+  - ambition
+  - collar
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0220]
 ---

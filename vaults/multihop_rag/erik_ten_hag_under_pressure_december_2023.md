@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - erik ten hag under pressure in december 2023
+  - premier league
+  - united
+  - man
+  - chelsea
+  - manchester
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0129, doc_0315]
 ---

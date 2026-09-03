@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - why chinese apps rose in the us app store rankings
+  - tiktok
+  - bans
+  - bytedance
+  - lists
+  - iphone
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0384]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - matthew perry s death from acute effects of ketamine
+  - perry's
+  - anesthetic
+  - recreational
+  - adulterated
+  - askp3
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0390]
 ---

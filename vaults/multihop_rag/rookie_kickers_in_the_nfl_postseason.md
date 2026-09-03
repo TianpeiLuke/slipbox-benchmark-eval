@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - rookie kickers in the nfl postseason
+  - playoff seeding
+  - super bowl
+  - national football league
+  - rookies
+  - veterans
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0316]
 ---

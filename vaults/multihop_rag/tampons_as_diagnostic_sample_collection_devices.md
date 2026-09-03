@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - tampons as diagnostic sample collection devices
+  - daye
+  - screening
+  - test
+  - vaginal
+  - pcr
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0603]
 ---

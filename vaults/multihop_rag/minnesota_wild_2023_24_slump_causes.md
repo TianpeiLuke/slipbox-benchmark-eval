@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - minnesota wild 2023 24 slump causes
+  - playoff seeding
+  - playoff-seeding
+  - hynes
+  - theme
+  - dean
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0340]
 ---

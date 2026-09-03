@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - meta positioned to benefit from the openai turmoil
+  - open source
+  - embedded finance
+  - openness
+  - altman
+  - crisis
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0054]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - cutting wear mass may raise toxicity
+  - tire
+  - compound
+  - ppd
+  - intent
+  - reduce
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0190]
 ---

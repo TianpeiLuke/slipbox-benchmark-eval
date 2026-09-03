@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - cloud computing
+  - compute
+  - flops
+  - multi-cloud
+  - spending
+  - incumbents
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0027, doc_0054, doc_0161, doc_0525, doc_0564]
 enriched: web

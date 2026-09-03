@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - rebecca timlin scalera and the founding of cancer couch
+  - breast
+  - timlin-scalera
+  - she
+  - metastatic
+  - foundation
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0303]
 ---

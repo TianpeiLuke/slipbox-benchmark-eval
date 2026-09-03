@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - future of vehicle connectivity provisioning and esims
+  - cubic
+  - softbank
+  - telecom
+  - connected
+  - corp
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0510]
 ---

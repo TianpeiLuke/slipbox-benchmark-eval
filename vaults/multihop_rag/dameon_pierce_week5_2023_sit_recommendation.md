@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - dameon pierce as a week 5 2023 sit at atlanta
+  - fine penalty
+  - yards
+  - chiefs
+  - isiah
+  - pacheco
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0058]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - shetland britain s most northerly point closest to the north pole
+  - viewing
+  - aurora
+  - lights
+  - northern
+  - sites
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0555]
 ---

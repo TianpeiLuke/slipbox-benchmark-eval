@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - why canada belongs on a skier s bucket list
+  - resort
+  - north
+  - banff
+  - resorts
+  - america
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0572]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - meta s response to the norwegian dpa referral
+  - data privacy
+  - consent
+  - tracking
+  - protection
+  - basis
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0107]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - day of reckoning predictions and picks
+  - wilder
+  - joshua
+  - wallin
+  - deontay
+  - saudi
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0137]
 ---

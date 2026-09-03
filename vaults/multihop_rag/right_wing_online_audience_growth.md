@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - right wing online audience growth
+  - creator economy
+  - lobbying political donations
+  - viewership
+  - conservative
+  - right-wing
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0468]
 ---

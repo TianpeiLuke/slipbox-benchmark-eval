@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - asx decliners in the session before the october 2023 rba meeting
+  - laggards
+  - cent
+  - iron
+  - movers
+  - lithium
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0087]
 ---

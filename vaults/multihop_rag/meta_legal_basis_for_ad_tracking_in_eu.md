@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - meta s legal basis for ad tracking in the eu
+  - data privacy
+  - meta's
+  - consent
+  - gdpr
+  - subscription
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0608]
 ---

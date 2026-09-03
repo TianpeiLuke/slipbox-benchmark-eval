@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - james paterson s call for a tiktok privacy investigation
+  - regulatory investigation
+  - data privacy
+  - data breach
+  - pixel
+  - chinese
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0189]
 ---

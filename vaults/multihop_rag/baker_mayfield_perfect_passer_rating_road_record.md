@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - mayfield s perfect passer rating and road record
+  - national football league
+  - bay
+  - green
+  - chiefs-packers
+  - sequence
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0447]
 ---

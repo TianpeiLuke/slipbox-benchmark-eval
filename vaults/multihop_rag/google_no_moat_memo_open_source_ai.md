@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - google s no moat memo on open source ai
+  - data breach
+  - large language model
+  - llm
+  - leaked
+  - openai
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0054]
 ---

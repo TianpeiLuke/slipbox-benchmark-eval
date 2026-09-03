@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - timing trade off in rookie of the year futures betting
+  - sports betting odds
+  - national basketball association
+  - nba
+  - sportsbook
+  - betting-odds
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0062]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - ufc 295 best bet under 1 5 rounds in frevola vs saint denis
+  - montano
+  - savannah
+  - saint-denis
+  - danis
+  - paul
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0577]
 ---

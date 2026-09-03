@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - team news and lineups for manchester united vs chelsea december 2023
+  - lisandro
+  - bruno
+  - fernandes
+  - paraguay
+  - argentina
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0129]
 ---

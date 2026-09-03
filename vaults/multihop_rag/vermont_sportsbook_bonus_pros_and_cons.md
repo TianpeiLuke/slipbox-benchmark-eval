@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - vermont sportsbook bonuses the pros and cons side by side
+  - sports betting odds
+  - offer
+  - welcome
+  - promo
+  - bonus-bets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0072]
 ---

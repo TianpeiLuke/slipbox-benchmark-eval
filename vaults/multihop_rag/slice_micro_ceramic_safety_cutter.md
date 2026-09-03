@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - slice micro ceramic safety cutter
+  - blade
+  - packaging
+  - iottie
+  - travel
+  - fuzzy
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0575]
 ---

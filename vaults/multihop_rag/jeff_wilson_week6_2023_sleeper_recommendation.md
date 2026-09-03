@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - jeff wilson as a week 6 2023 sneaky sleeper against carolina
+  - player injury report
+  - dolphins
+  - backs
+  - mostert
+  - special-teams
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0149]
 ---

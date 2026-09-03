@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - softbank s beyond japan strategy via the cubic partnership
+  - telecom
+  - connected
+  - softbank's
+  - connectivity
+  - vehicle
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0510]
 ---

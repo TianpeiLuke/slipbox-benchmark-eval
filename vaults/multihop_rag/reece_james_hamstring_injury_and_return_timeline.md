@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - reece james hamstring injury and return timeline
+  - reserve mobilisation
+  - user generated content
+  - pochettino
+  - chelsea
+  - james'
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0109]
 ---

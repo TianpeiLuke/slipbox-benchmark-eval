@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - spill s public launch and creator payment plans
+  - creator economy
+  - spill's
+  - terrell
+  - app
+  - creators
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0488]
 ---

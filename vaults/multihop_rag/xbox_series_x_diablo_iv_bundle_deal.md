@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - technology
+  - empirical_observation
+keywords:
+  - xbox series x and diablo iv bundle deal
+  - discount and msrp
+  - console hardware
+  - black friday cyber monday
+  - amazon
+  - doorbuster
+topics:
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0222, doc_0558]
 ---

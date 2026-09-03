@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - miyake event solar storm 14 000 years ago
+  - revision
+  - rings
+  - radiation
+  - year-in-review
+  - themyscira
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0325]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - gaming s nostalgia trend 2023
+  - user generated content
+  - fortnite
+  - fortnite's
+  - gaming's
+  - retro
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0549]
 ---

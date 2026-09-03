@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - nocturne as a critique of revolutionary france s colonialism
+  - nocturne's
+  - castlevania
+  - belmont
+  - aristocrats
+  - netflix
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0329]
 ---

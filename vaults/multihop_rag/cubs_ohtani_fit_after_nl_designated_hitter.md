@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - cubs ohtani fit after the nl designated hitter
+  - acquisition
+  - major league baseball
+  - mariners
+  - cubs'
+  - signing
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0480]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - prosecution and defense arguments on day two of the sbf trial
+  - fraud
+  - criminal trial
+  - ellison
+  - caroline
+  - committed
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0011]
 ---

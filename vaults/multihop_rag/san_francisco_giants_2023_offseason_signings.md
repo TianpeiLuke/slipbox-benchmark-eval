@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - san francisco giants december 2023 signings
+  - trade and free agency
+  - mlb
+  - lee
+  - heyman
+  - kbo
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0422]
 ---

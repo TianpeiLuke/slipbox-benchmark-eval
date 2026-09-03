@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - us export controls on china and the taiwan flashpoint
+  - lobbying political donations
+  - hardware device
+  - relations
+  - tag
+  - corpus
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0385]
 ---

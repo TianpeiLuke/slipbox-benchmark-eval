@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - patriots steelers week 14 thursday night context
+  - national football league
+  - daily fantasy sports
+  - fanduel
+  - patriots-steelers
+  - dfs
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0583]
 ---

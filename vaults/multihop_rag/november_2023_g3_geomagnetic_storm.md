@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - november 2023 g3 geomagnetic storm
+  - aurora
+  - northern
+  - lights
+  - sightings
+  - solar
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0556]
 ---

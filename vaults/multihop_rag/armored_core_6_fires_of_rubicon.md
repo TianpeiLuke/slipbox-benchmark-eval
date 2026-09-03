@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - armored core 6 fires of rubicon
+  - console hardware
+  - xbox
+  - fromsoftware
+  - missiles
+  - series
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0213]
 ---

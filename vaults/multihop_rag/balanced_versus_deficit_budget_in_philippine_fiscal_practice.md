@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - balanced versus deficit budget in philippine fiscal practice
+  - government
+  - surplus
+  - dbm
+  - debt
+  - expenditures
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0306]
 ---

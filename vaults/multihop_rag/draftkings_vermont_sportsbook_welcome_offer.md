@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - how to claim draftkings sportsbook vermont s prelive or multi part welcome offer
+  - sports betting odds
+  - daily fantasy sports
+  - bonus
+  - deposit
+  - bets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0072]
 ---

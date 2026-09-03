@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - kansas city chiefs declining explosive passing 2023
+  - mahomes
+  - jets
+  - chiefs'
+  - patrick
+  - offense
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0316]
 ---

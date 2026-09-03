@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - how shameless works contingency through team growth trust through escalation
+  - advice
+  - founders
+  - parenthood
+  - ask
+  - friendship
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0523]
 ---

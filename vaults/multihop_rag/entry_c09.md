@@ -1,4 +1,19 @@
 ---
+tags:
+  - entry_point
+  - general
+keywords:
+  - entry point entertainment cluster c09
+  - empirical
+  - bg3
+  - observation
+  - vampire
+  - netflix
+topics:
+  - General
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: navigation
 ---
 

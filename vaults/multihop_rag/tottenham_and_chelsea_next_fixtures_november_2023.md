@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - tottenham and chelsea s next fixtures after their november 2023 meeting
+  - premier league
+  - carabao
+  - cup
+  - stamford
+  - chelsea's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0478]
 ---

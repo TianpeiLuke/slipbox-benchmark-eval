@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - reserve mobilisation
+  - war
+  - reserves
+  - israeli
+  - workforce
+  - terror
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0078, doc_0125, doc_0448]
 enriched: web

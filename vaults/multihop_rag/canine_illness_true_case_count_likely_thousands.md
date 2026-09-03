@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - argument
+keywords:
+  - canine illness true case count likely in the thousands
+  - respiratory
+  - influenza
+  - atypical
+  - kennel
+  - guidance
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0565]
 ---

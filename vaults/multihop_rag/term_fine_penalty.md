@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - fine penalty
+  - fines
+  - dsa
+  - penalties
+  - turnover
+  - cftc
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0024, doc_0025, doc_0107, doc_0140, doc_0153, doc_0015, doc_0374]
 enriched: web

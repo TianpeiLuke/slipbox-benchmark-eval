@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - counter_argument
+keywords:
+  - canine respiratory illness cause evidence and caveats
+  - viral
+  - bacterial
+  - atypical
+  - dog
+  - guidance
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0565]
 ---

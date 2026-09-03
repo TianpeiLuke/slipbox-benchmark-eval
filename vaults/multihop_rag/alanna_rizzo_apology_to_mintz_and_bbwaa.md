@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - alanna rizzo apologized on air to jake mintz and the bbwaa
+  - clubhouse
+  - arcia
+  - nlds
+  - taunt
+  - harper
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0328]
 ---

@@ -1,4 +1,19 @@
 ---
+tags:
+  - entry_point
+  - general
+keywords:
+  - health category entry point
+  - multihop-rag
+  - c12
+  - corpus
+  - clusters
+  - index
+topics:
+  - General
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: navigation
 ---
 

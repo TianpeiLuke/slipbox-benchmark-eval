@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - benefits of hayes delayed uswnt start
+  - hayes'
+  - chelsea
+  - compensation
+  - emma
+  - soccer
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0108]
 ---

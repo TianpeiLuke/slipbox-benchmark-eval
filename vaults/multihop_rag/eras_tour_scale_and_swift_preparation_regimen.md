@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - eras tour s scale and taylor swift s preparation regimen
+  - concert tour
+  - box office
+  - national football league
+  - swift's
+  - kelce
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0046]
 ---

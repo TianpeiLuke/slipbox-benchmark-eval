@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - uswnt olympic preparation risks under hayes
+  - world cup
+  - player injury report
+  - hayes'
+  - chelsea
+  - delayed
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0108]
 ---

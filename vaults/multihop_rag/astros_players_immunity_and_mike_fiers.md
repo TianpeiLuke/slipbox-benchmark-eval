@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - astros players got immunity while the staff took the punishment
+  - regulatory investigation
+  - houston
+  - mccullers
+  - mlb
+  - lance
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0007]
 ---

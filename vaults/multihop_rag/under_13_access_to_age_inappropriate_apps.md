@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - under 13 access to age inappropriate apps
+  - smartphone
+  - teen
+  - age-inappropriate
+  - tiktok
+  - study
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0518]
 ---

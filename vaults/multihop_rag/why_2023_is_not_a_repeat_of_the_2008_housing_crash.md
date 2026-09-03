@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - why 2023 is not a repeat of the 2008 housing crash
+  - mortgage
+  - mortgages
+  - compared
+  - rates
+  - america's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0112]
 ---

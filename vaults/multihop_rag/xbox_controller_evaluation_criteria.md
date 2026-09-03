@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - how the verge evaluates xbox controllers
+  - powera
+  - wired
+  - criteria
+  - extras
+  - recon
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0350]
 ---

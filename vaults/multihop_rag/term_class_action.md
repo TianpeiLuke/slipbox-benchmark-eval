@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - class action
+  - class-action
+  - suit
+  - helena
+  - authors
+  - corpus
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0009, doc_0033, doc_0075, doc_0099, doc_0367, doc_0526]
 enriched: web

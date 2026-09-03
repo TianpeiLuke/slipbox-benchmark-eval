@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - frank reich s hot seat under david tepper
+  - draft pick
+  - coaching change
+  - schefter
+  - carolina's
+  - bears
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0474]
 ---

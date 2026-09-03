@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - phoenix survive a late scare to beat new zealand 103 100
+  - bullets
+  - round
+  - melbourne
+  - breakers
+  - brisbane
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0240]
 ---

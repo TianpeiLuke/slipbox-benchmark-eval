@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - 2023 nfl mvp favorites and the longshot cases for goff and stroud
+  - national football league
+  - most valuable player
+  - playoff seeding
+  - prescott
+  - ers
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0145]
 ---

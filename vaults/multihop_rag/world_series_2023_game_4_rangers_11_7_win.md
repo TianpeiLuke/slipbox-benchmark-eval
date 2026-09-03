@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - rangers beat diamondbacks 11 7 in world series game 4
+  - playoff seeding
+  - major league baseball
+  - actors and writers strike
+  - corey
+  - marcus
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0408]
 ---

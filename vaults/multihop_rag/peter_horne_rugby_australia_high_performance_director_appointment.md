@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - peter horne s appointment as rugby australia high performance director
+  - world cup
+  - high-performance
+  - wallabies
+  - schmidt
+  - africa
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0493]
 ---

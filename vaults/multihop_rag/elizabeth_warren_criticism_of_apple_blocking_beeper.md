@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - elizabeth warren s criticism of apple blocking beeper
+  - mini
+  - imessage
+  - audit
+  - texts
+  - android
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0402]
 ---

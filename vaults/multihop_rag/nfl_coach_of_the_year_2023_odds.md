@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - 2023 nfl coach of the year campbell favored payton the longshot case
+  - broncos
+  - wilson
+  - russell
+  - odds
+  - comeback
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0145]
 ---

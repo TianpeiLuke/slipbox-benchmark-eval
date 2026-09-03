@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - encryption at rest
+  - in-transit
+  - data
+  - beeper
+  - vpn
+  - end-to-end
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0230, doc_0229, doc_0402, doc_0457, doc_0498]
 enriched: web

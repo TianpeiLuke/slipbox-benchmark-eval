@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - smart home device
+  - deals
+  - prime
+  - lighting
+  - thermostat
+  - echo
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0039, doc_0069, doc_0205, doc_0230, doc_0090]
 ---

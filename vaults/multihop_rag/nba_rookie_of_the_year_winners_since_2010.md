@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - nba rookie of the year winners since 2010
+  - national basketball association
+  - guard
+  - futures
+  - betting
+  - markets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0062]
 ---

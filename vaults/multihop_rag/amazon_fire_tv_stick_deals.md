@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - amazon fire tv stick deals
+  - streaming service
+  - black friday cyber monday
+  - discount and msrp
+  - max
+  - wi-fi
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0222]
 ---

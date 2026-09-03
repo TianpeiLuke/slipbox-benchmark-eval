@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - warriors 2020 and 2021 draft misses
+  - national basketball association
+  - draft pick
+  - curry
+  - nba
+  - steph
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0522]
 ---

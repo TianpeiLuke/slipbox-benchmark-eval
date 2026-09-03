@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - jim jordan s second ballot defeat
+  - hardware device
+  - vote
+  - trump
+  - jordan's
+  - donald
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0377]
 ---

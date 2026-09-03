@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - sandman season 2 netflix
+  - game patch notes
+  - user generated content
+  - streaming service
+  - streaming-service
+  - tags
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0081]
 ---

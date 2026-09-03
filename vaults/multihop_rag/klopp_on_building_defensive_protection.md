@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - klopp on building defensive protection
+  - liverpool's
+  - derby
+  - consistency
+  - step
+  - form
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0542]
 ---

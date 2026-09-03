@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - google s secret oem and carrier deals and its deleted chats
+  - antitrust
+  - fraud
+  - user generated content
+  - store
+  - epic
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0170]
 ---

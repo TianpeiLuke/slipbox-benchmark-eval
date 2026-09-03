@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - digital engagement protects the ageing brain
+  - older
+  - adults
+  - laird
+  - parents
+  - restricted
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0605]
 ---

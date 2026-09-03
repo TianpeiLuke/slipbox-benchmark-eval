@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - astros camera to trash can sign stealing machine
+  - series
+  - dugout
+  - world
+  - astros'
+  - diamondbacks
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0007]
 ---

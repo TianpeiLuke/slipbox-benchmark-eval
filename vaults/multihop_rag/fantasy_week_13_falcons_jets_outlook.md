@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - week 13 falcons jets a leaky atlanta defense lifts garrett wilson and breece hall
+  - verdict
+  - sit
+  - cooper
+  - vikings
+  - player-level
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057]
 ---

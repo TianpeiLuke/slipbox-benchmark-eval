@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - bank of israel thirty billion dollar fx intervention
+  - reserve mobilisation
+  - war
+  - israeli
+  - corpus-level
+  - terror
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0125]
 ---

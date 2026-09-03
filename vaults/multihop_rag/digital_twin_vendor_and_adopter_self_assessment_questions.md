@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - procedure
+keywords:
+  - digital twin vendor and adopter self assessment questions
+  - interoperability
+  - vendors
+  - twins
+  - sustainability
+  - adopters
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0191]
 ---

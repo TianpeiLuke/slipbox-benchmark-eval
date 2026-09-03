@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - dan lewis s convoy founding thesis
+  - freight
+  - lewis's
+  - trucking
+  - industries
+  - cab
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0514]
 ---

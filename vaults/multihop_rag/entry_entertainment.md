@@ -1,4 +1,19 @@
 ---
+tags:
+  - entry_point
+  - general
+keywords:
+  - entertainment category entry point
+  - cluster
+  - multihop-rag
+  - c06
+  - c07
+  - c08
+topics:
+  - General
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: navigation
 ---
 

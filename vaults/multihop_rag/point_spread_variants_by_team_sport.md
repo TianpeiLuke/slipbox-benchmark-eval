@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - point spread variants by team sport
+  - sports betting odds
+  - national football league
+  - national basketball association
+  - win
+  - raptors
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0359]
 ---

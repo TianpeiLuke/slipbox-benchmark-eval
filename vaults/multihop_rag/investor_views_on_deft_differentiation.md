@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - investor views on deft s differentiation
+  - venture capital
+  - search
+  - deft's
+  - venture-capital
+  - graph
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0301]
 ---

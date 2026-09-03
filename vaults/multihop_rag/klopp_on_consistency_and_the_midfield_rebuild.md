@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - klopp on consistency and the midfield rebuild
+  - fine penalty
+  - premier league
+  - class action settlement
+  - aston
+  - carabao
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0542]
 ---

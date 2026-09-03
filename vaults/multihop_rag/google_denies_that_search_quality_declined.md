@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - google s denial that search quality has declined
+  - seo
+  - sullivan
+  - seos
+  - spam
+  - ranking
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0115]
 ---

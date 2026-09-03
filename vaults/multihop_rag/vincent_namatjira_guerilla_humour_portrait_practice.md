@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - guerilla humour vincent namatjira s portrait practice
+  - queen
+  - namatjira's
+  - elizabeth
+  - mitchell
+  - tyler
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0284]
 ---

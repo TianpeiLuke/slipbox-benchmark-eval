@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - warde manuel s rebuttal of the harbaugh suspension
+  - regulatory investigation
+  - ten
+  - big
+  - ten's
+  - complete
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0180]
 ---

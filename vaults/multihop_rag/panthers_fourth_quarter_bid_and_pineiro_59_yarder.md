@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - panthers fourth quarter bid and pineiro s 59 yarder
+  - streaming service
+  - bears
+  - pineiro's
+  - fourth-quarter
+  - bagent
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0489]
 ---

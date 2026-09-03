@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - firefox s yahoo default search switch as recounted by mitchell baker
+  - default search engine
+  - google
+  - mozilla
+  - google's
+  - firefox's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0015]
 ---

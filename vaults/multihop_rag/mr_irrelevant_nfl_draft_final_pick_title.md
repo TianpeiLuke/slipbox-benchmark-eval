@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - mr irrelevant the nfl draft s final pick
+  - national football league
+  - selected
+  - sheehan
+  - brock
+  - draft's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0362]
 ---

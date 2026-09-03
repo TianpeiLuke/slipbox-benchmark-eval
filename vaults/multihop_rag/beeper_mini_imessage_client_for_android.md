@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - beeper mini as an imessage client for android
+  - wearable fitness tracker
+  - encryption at rest
+  - store
+  - app
+  - migicovsky
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0402, doc_0540]
 ---

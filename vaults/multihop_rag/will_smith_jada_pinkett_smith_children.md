@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - smith children jaden willow and trey
+  - separation
+  - jada
+  - pinkett
+  - marriage
+  - expert
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0018, doc_0036, doc_0360]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - ray ban meta as open ear headphones
+  - noise cancelling headphones
+  - ray-ban
+  - glasses
+  - open-ear
+  - audio
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0364]
 ---

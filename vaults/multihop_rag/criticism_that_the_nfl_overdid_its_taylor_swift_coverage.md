@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - counter_argument
+keywords:
+  - travis kelce s criticism that the nfl overdid its taylor swift coverage
+  - national football league
+  - overdoing
+  - backlash
+  - remarks
+  - calm
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0559]
 ---

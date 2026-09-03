@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - amazon s cyber monday 2023 sale schedule
+  - black friday cyber monday
+  - game patch notes
+  - mashable
+  - deals
+  - retailer
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0000]
 ---

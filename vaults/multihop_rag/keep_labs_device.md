@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - keep a lockable smart storage container for medicine
+  - harm reduction
+  - medication adherence
+  - product launch
+  - hardware-device
+  - labs
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0230]
 ---

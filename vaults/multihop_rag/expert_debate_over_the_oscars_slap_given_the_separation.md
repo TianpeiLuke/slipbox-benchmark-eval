@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - counter_argument
+keywords:
+  - expert disagreement over what the oscars slap meant given the separation
+  - jada
+  - marriage
+  - pinkett
+  - smith
+  - divorce
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0036]
 ---

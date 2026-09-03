@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - twitch demographics versus las vegas culture
+  - uservoice
+  - twitchcon
+  - britney
+  - twitch's
+  - usership
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0551]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - couchconsole sofa caddy
+  - battery technology
+  - controller
+  - ultimate
+  - bitdo
+  - controllers
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0454]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - big white canada s favourite family resort for learning powder
+  - ski
+  - banff
+  - canadian
+  - ski-in
+  - ski-out
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0572]
 ---

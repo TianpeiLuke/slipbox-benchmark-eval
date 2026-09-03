@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - google s rebuttal to the publisher antitrust suit
+  - publishers
+  - helena
+  - traffic
+  - websites
+  - social
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0033]
 ---

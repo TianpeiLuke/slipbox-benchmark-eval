@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - five nights at freddy s movie development and release
+  - streaming service
+  - freddy's
+  - freddys
+  - warner
+  - lore
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0387]
 ---

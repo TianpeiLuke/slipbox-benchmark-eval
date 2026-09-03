@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - siya kolisi s reaction after the 2023 world cup final
+  - blacks
+  - rwc
+  - semifinal
+  - kolisi's
+  - beaten
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0022]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - georgiana laudi recommends loved
+  - saas pricing
+  - actors and writers strike
+  - lauchengco
+  - bg3
+  - marketing
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0243]
 ---

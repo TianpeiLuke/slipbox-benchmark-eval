@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - gpt model lineage and the chatgpt launch
+  - disinformation
+  - large language model
+  - chatgpt's
+  - gpt-3
+  - pre-trained
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0099]
 ---

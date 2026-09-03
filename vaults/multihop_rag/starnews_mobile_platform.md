@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - starnews mobile as an african mobile video network
+  - creator economy
+  - telco distribution
+  - value added services
+  - creators
+  - monetization
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0456]
 ---

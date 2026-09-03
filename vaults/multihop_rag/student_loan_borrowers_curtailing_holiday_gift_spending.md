@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - student loan borrowers curtailing holiday gift spending
+  - payment processor
+  - covid 19
+  - gifts
+  - amex
+  - magnet
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0251]
 ---

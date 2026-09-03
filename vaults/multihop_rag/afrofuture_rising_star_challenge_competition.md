@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - procedure
+keywords:
+  - afrofuture rising star challenge competition
+  - festival
+  - ghana
+  - music
+  - artists
+  - abdullah
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0085]
 ---

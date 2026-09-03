@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - jawan shah rukh khan
+  - streaming service
+  - fire
+  - amazon
+  - streaming-service
+  - blockbuster
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0094]
 ---

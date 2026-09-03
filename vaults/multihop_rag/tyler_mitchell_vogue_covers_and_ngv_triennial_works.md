@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - tyler mitchell s vogue covers and ngv triennial works
+  - boilerplate
+  - staged
+  - mitchell's
+  - leisure
+  - sharing
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0171]
 ---

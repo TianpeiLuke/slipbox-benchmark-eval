@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - draft pick
+  - first-round
+  - picks
+  - warriors
+  - afl
+  - korchinski
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0102, doc_0118, doc_0244, doc_0362, doc_0483, doc_0522]
 enriched: web

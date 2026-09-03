@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - hawala as the main money transfer channel into gaza
+  - terror
+  - hamas
+  - changers
+  - cash
+  - financing
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0486]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - denise george profile and epstein case role
+  - gates
+  - islands
+  - virgin
+  - bill
+  - george's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0477]
 ---

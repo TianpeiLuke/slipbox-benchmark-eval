@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - jed walter afl draft prospect 2023
+  - suns
+  - coast
+  - gold
+  - aflw
+  - profile
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0244]
 ---

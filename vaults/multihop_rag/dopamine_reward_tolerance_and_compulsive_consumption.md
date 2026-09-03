@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - model
+keywords:
+  - dopamine reward tolerance and compulsive consumption
+  - foods
+  - cravings
+  - addictive
+  - smartphone
+  - processed
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0467, doc_0518]
 ---

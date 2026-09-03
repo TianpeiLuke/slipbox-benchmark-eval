@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - kentucky sportsbook app platforms and features
+  - sports betting odds
+  - caesars
+  - rewards
+  - apps
+  - secure
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0071]
 ---

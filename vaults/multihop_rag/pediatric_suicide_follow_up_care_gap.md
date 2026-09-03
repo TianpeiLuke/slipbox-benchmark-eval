@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - follow up care gap after a pediatric suicide attempt
+  - caring
+  - contacts
+  - follow-up
+  - patients
+  - nebraska
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0158]
 ---

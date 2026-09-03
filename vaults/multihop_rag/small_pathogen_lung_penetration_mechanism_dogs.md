@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - model
+keywords:
+  - small pathogen lung penetration mechanism in dogs
+  - canine
+  - illness
+  - respiratory
+  - pneumonia
+  - severity
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0565]
 ---

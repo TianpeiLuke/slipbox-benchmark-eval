@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - justin thomas opposition to golf ball rollback
+  - concert tour
+  - national basketball association
+  - thematic
+  - tagging
+  - note
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0490]
 ---

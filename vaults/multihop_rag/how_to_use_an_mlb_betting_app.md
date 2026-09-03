@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - how to use an mlb betting app
+  - sports betting odds
+  - major league baseball
+  - sportsbook
+  - vermont
+  - offer
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0264]
 ---

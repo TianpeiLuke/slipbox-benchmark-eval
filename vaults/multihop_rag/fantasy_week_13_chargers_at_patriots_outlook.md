@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - week 13 chargers patriots herbert is matchup proof and 20 points should win it
+  - verdict
+  - chargers-patriots
+  - player-level
+  - lineup-decisions
+  - start
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - robot labor supply and the artificial general intelligence goal
+  - humanoid
+  - digit
+  - agility
+  - robotics
+  - figure
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0421]
 ---

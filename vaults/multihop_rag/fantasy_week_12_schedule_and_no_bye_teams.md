@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - fantasy week 12 schedule and no bye teams
+  - national football league
+  - daily fantasy sports
+  - dfs
+  - starts
+  - nfl
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0494]
 ---

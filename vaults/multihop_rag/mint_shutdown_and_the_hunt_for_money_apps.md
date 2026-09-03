@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - mint shutdown and the hunt for money apps
+  - installer
+  - kevin
+  - reader
+  - picks
+  - nguyen's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0607]
 ---

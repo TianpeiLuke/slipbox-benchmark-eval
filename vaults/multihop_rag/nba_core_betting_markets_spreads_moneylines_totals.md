@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - three staple nba bet types point spreads moneylines and totals
+  - national basketball association
+  - sports betting odds
+  - most valuable player
+  - sportsbook
+  - knicks
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0368]
 ---

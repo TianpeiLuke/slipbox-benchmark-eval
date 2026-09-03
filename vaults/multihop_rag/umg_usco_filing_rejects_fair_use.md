@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - umg s usco filing rejecting fair use for ai training
+  - large language model
+  - copyright
+  - umg's
+  - music
+  - thaler
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0380, doc_0381]
 ---

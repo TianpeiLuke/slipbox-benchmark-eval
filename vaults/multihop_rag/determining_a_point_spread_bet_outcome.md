@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - determining a point spread bet outcome
+  - sports betting odds
+  - national football league
+  - national basketball association
+  - lakers
+  - bears
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0359]
 ---

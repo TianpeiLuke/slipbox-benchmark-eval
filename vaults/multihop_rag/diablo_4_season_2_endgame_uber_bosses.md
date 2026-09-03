@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - diablo 4 season 2 endgame bosses and uber uniques
+  - streaming service
+  - fire
+  - streaming-service
+  - tag
+  - amazon
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0533]
 ---

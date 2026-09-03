@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - crosby malkin and letang s 18th season together
+  - national football league
+  - national basketball association
+  - major league baseball
+  - penguins
+  - blackhawks
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0483]
 ---

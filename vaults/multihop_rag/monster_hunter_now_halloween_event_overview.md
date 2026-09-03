@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - monster hunter now halloween event overview
+  - pumpkin
+  - armor
+  - jack-o'-head
+  - currency
+  - tickets
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0499]
 ---

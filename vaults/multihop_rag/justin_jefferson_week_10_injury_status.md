@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - justin jefferson s week 10 injury status
+  - player injury report
+  - national football league
+  - coaching change
+  - mnf
+  - osborn
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0288]
 ---

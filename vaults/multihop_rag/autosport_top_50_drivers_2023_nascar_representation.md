@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - autosport top 50 drivers 2023 nascar representation
+  - larson
+  - kyle
+  - snub
+  - racing
+  - limit
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0297]
 ---

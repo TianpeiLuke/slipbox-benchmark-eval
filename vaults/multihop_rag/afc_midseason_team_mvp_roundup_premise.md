@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - afc midseason team mvp roundup premise
+  - most valuable player
+  - allen
+  - mvps
+  - wideout
+  - keenan
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0515]
 ---

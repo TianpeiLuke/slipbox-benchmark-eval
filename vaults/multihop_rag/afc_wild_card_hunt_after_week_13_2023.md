@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - afc teams outside the playoff field after week 13 2023
+  - playoff seeding
+  - bills
+  - bengals
+  - chargers
+  - burrow
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0040]
 ---

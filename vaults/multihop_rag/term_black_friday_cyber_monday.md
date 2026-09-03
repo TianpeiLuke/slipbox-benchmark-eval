@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - technology
+  - concept
+keywords:
+  - black friday cyber monday
+  - deal
+  - holiday
+  - deals
+  - thanksgiving
+  - retailer
+topics:
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0000, doc_0090, doc_0222, doc_0450, doc_0574]
 ---

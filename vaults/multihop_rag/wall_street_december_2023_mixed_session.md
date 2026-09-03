@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - wall street december 2023 mixed session
+  - asx
+  - expectations
+  - yields
+  - equity
+  - rate
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0028]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - trump s backing of jim jordan s speaker bid
+  - fraud
+  - hardware device
+  - biden
+  - president
+  - joe
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0223, doc_0377]
 ---

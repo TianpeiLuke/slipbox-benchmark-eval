@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - argument
+keywords:
+  - evaluating model pattern bias with cloud resolving models
+  - warming
+  - climate
+  - sensitivity
+  - feedbacks
+  - coupled
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0139]
 ---

@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - regulatory investigation
+  - dsa
+  - michigan
+  - probe
+  - formal
+  - enforcement
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0024, doc_0039, doc_0153, doc_0156, doc_0189, doc_0477, doc_0506]
 enriched: web

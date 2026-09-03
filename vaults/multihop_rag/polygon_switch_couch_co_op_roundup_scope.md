@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - couch co op on the nintendo switch as a roundup category
+  - game patch notes
+  - console hardware
+  - co-op
+  - multiplayer
+  - local
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0428]
 ---

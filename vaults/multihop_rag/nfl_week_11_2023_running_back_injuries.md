@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - nfl week 11 2023 achane walker and foreman all exit with injuries
+  - player injury report
+  - coaching change
+  - bears
+  - sidelines
+  - d'onta
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0113]
 ---

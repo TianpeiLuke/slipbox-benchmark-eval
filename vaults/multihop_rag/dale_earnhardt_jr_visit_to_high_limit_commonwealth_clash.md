@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - dale earnhardt jr s visit to high limit s commonwealth clash
+  - larson
+  - nascar
+  - kyle
+  - autosport
+  - racing
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0443]
 ---

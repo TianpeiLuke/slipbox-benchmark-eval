@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - what a vpn is and what it does not hide
+  - data privacy
+  - encryption at rest
+  - multi factor authentication
+  - provider
+  - network
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0229]
 ---

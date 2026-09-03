@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - how the blockade produces food insecurity and import dependence in gaza
+  - west
+  - bank
+  - amnesty
+  - humanitarian
+  - unrwa
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0135]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - james conner week 13 sit him because kyler murray s return changed the math
+  - verdict
+  - murray's
+  - cooper
+  - start
+  - conner's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057]
 ---

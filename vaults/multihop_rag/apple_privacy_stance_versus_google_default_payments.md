@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - apple s privacy stance versus google s default payments
+  - data privacy
+  - cue
+  - search
+  - google's
+  - bellshaw
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0014]
 ---

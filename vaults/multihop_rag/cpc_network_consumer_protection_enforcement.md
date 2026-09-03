@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - how cpc network consumer protection enforcement works
+  - fine penalty
+  - beuc
+  - commission
+  - meta
+  - dsa
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0140]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - transfer window
+  - loan
+  - takeover
+  - manchester
+  - permanent
+  - corpus
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0110, doc_0277, doc_0366, doc_0445, doc_0534]
 enriched: web

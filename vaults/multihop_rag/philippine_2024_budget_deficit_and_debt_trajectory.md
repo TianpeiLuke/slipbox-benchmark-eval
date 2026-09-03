@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - philippine 2024 budget deficit and debt trajectory
+  - trillion
+  - fiscal
+  - debt-to-gdp
+  - marcos
+  - ferdinand
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0306]
 ---

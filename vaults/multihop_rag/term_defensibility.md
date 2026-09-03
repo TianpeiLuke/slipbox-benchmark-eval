@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - defensibility
+  - defensible
+  - grinnell's
+  - startups
+  - proprietary
+  - framework
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0161]
 enriched: web

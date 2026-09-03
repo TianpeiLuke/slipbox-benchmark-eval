@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - hypothesis
+keywords:
+  - prediction ai generated content will overwhelm search
+  - seo
+  - spam
+  - ai-generated
+  - irrelevant
+  - shitty
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0115]
 ---

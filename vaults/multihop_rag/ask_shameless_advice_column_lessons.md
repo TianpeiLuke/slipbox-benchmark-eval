@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - what three years of ask shameless letters taught its authors
+  - andrews
+  - mcdonald
+  - advice
+  - founders
+  - trust
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0523]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - ftx s absence of a chief risk officer
+  - criminal trial
+  - alameda
+  - plane
+  - ftx's
+  - metaphor
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0053, doc_0162]
 ---

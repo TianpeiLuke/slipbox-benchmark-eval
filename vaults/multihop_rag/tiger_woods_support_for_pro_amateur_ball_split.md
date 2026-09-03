@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - tiger woods support for pro amateur ball split
+  - golf
+  - rollback
+  - policy
+  - opposition
+  - majors
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0490]
 ---

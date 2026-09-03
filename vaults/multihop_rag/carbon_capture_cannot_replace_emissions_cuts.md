@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - argument
+keywords:
+  - carbon capture cannot replace emissions cuts
+  - lobbying political donations
+  - mxene
+  - co2
+  - mxenes
+  - connected
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0247]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - cfp national championship winners 2015 to 2023
+  - playoff seeding
+  - alabama
+  - crimson
+  - tide
+  - season
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0433]
 ---

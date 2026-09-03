@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - winter 2023 front line conditions and russian offensives
+  - ukraine
+  - ukrainian
+  - forces
+  - aid
+  - operations
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0442]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - backlash inflatable trash cans take the trash out and lebron james
+  - national basketball association
+  - playoff seeding
+  - astros
+  - postseason
+  - atmosphere
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0007]
 ---

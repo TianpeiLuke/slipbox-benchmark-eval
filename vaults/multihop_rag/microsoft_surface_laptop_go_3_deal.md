@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - microsoft surface laptop go 3 cyber monday deal
+  - black friday cyber monday
+  - discount and msrp
+  - amazon
+  - sale
+  - fire
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0000]
 ---

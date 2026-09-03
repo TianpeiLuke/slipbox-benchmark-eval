@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - ten hag rejects the crisis framing of manchester united s season
+  - erik
+  - chelsea
+  - ratcliffe
+  - december
+  - champions
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0129]
 ---

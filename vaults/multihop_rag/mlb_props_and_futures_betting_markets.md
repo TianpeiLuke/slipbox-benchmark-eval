@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - mlb props and futures world series mvp home run leader and win totals
+  - sports betting odds
+  - most valuable player
+  - major league baseball
+  - sportsbook
+  - markets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0264]
 ---

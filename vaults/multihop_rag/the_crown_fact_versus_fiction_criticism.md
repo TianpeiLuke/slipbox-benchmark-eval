@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - counter_argument
+keywords:
+  - crown the fact versus fiction criticism
+  - streaming service
+  - fayed
+  - dodi
+  - diana
+  - dramatisation
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0265]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - laboratory development of quantum dots 1980s to 1993
+  - nobel
+  - chemistry
+  - ekimov
+  - brus
+  - bawendi
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0262]
 ---

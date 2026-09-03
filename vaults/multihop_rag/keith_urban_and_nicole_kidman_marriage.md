@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - keith urban and nicole kidman s marriage
+  - stapleton
+  - mcbride
+  - roundup
+  - balance
+  - kidman's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0019]
 ---

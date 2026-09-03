@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - kermit cintron vs paul williams 2004 the ring exit
+  - fight
+  - boxing
+  - tillery
+  - brawl
+  - riddick
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0228]
 ---

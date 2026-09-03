@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - entertainment
+  - empirical_observation
+keywords:
+  - taylor swift the eras tour concert film
+  - concert tour
+  - bts
+  - amc
+  - direct
+  - films
+topics:
+  - Business
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0419, doc_0462]
 ---

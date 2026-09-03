@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - fr dan reehil exorcist of the diocese of nashville
+  - ouija
+  - exorcism
+  - board
+  - demons
+  - incursion
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0562]
 ---

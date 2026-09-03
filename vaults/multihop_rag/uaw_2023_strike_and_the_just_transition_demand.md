@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - uaw 2023 strike and the just transition demand
+  - actors and writers strike
+  - lobbying political donations
+  - auto
+  - evs
+  - workers
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0319]
 ---

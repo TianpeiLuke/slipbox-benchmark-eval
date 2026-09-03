@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - moonstruck 1987 norman jewison s romantic comedy
+  - cage
+  - cher
+  - activision
+  - jewison's
+  - android
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

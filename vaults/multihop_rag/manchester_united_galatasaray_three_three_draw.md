@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - manchester united s 3 3 draw with galatasaray
+  - actors and writers strike
+  - bayern
+  - munich
+  - champions
+  - fernandes
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0012]
 ---

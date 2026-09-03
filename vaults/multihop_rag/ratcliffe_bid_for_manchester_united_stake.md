@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ratcliffe s bid for a manchester united stake
+  - hag
+  - ten
+  - erik
+  - onana
+  - jim
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0330]
 ---

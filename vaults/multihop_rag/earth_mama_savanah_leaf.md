@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - earth mama savanah leaf
+  - paramount
+  - leaf's
+  - gia
+  - plante
+  - comedy
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0094]
 ---

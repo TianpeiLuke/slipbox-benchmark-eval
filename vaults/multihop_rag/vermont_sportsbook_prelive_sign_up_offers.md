@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - prelive and welcome offer table for vermont s incoming sportsbooks
+  - sports betting odds
+  - bonus
+  - betmgm
+  - promo
+  - caesars
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0072]
 ---

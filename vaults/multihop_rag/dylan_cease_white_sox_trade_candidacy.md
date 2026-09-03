@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - dylan cease white sox trade candidacy
+  - lobbying political donations
+  - trade and free agency
+  - actors and writers strike
+  - offseason
+  - mlb
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0118]
 ---

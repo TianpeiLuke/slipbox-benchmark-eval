@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - beeper mini s encryption and audit status
+  - encryption at rest
+  - imessage
+  - encrypted
+  - apple
+  - android
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0540]
 ---

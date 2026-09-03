@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - gag city the meme s origin and meaning
+  - pink
+  - minaj
+  - barbz
+  - brand
+  - nicki
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0469]
 ---

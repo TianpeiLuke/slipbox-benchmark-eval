@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - whether gastroparesis persists after stopping glp 1 drugs
+  - glp-1
+  - glp1
+  - condition
+  - ubc
+  - amputation
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0066]
 ---

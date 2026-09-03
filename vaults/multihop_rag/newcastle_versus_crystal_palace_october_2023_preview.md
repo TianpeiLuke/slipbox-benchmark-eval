@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - newcastle vs crystal palace preview october 2023
+  - carabao
+  - cup
+  - derby
+  - munich
+  - bayern
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0300]
 ---

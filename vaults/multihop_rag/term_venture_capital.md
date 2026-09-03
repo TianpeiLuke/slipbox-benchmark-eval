@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - venture capital
+  - funding
+  - seed
+  - round
+  - pre-series
+  - french
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0010, doc_0027, doc_0031, doc_0038, doc_0075, doc_0181, doc_0448, doc_0456]
 enriched: web

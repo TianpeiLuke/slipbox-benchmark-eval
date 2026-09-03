@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - argument
+keywords:
+  - chemosynthesis and the search for life beyond earth
+  - deep
+  - deep-sea
+  - interview
+  - ocean
+  - copley
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0459]
 ---

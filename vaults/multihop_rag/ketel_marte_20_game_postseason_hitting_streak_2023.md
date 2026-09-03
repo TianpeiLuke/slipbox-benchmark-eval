@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ketel marte s 20 game postseason hitting streak
+  - playoff seeding
+  - series
+  - rangers
+  - world
+  - inning
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0408]
 ---

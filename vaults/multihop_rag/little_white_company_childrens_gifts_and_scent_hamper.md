@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - little white company s children s gifts and the scent stories hamper
+  - user generated content
+  - christmas
+  - company's
+  - neighbour
+  - index-level
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0068]
 ---

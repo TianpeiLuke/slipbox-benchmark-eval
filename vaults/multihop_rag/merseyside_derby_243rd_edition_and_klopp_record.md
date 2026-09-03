@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - 243rd merseyside derby and klopp s record
+  - premier league
+  - liverpool
+  - klopp's
+  - anfield
+  - everton
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0542]
 ---

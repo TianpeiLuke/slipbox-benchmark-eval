@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - pastor jesse bradley the motto matters less than what is written on hearts
+  - god
+  - trust
+  - faith
+  - currency
+  - inscription
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0501]
 ---

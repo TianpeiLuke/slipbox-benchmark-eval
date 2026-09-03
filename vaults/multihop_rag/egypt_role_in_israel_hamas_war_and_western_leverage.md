@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - egypt s role in the israel hamas war and the leverage it creates
+  - egypt's
+  - gaza
+  - refugees
+  - residents
+  - casualties
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0218]
 ---

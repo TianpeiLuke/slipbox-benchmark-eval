@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - aif sub fund strategies available to hnis
+  - initial public offering
+  - appeals process
+  - funds
+  - portfolios
+  - start-up
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0252]
 ---

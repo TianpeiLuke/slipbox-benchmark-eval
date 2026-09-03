@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - john hynes contract and predators permission
+  - lobbying political donations
+  - playoff seeding
+  - coaching change
+  - minnesota
+  - evason
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0340]
 ---

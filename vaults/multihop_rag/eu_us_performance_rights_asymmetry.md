@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - eu us asymmetry in recorded music performance rights
+  - payment processor
+  - artists
+  - reciprocity
+  - labels
+  - publishers
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0361]
 ---

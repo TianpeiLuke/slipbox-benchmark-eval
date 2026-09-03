@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - proving intent in the ftx fraud case
+  - plea agreement
+  - data breach
+  - alameda
+  - lavigne
+  - bankman-fried's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0175]
 ---

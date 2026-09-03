@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - magic mike 2012 and magic mike xxl 2015
+  - user generated content
+  - comedy
+  - manganiello
+  - activision
+  - soderbergh's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

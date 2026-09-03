@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - retelling as a narrative strategy
+  - spider
+  - spider-man
+  - canon
+  - venom
+  - hood
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0383]
 ---

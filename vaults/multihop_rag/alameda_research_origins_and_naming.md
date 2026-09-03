@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - alameda research s origins and naming
+  - criminal trial
+  - concert tour
+  - ftx
+  - bankman-fried
+  - alameda's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0053]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - nfc teams outside the playoff field after week 13 2023
+  - bears
+  - saints
+  - afc
+  - seeding
+  - chicago
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0040]
 ---

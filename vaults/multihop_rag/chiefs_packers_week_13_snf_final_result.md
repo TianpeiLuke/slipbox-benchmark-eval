@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - packers edge chiefs 27 19 on week 13 sunday night football
+  - playoff seeding
+  - lambeau
+  - lions
+  - sequence
+  - packers-chiefs
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0034]
 ---

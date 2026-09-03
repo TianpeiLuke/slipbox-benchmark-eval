@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - checking sportsbook rules before placing prop bets
+  - terms of service
+  - sports betting odds
+  - vermont
+  - welcome
+  - sportsbooks
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0201]
 ---

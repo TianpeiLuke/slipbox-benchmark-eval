@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - seahawks cowboys dfs showdown lineups
+  - fine penalty
+  - most valuable player
+  - pollard
+  - dak
+  - prescott
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0394]
 ---

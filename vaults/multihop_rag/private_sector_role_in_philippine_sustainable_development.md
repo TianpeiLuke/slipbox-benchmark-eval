@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - private sector s role in philippine sustainable development
+  - covid 19
+  - climate
+  - sector's
+  - government
+  - fiscal
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0410]
 ---

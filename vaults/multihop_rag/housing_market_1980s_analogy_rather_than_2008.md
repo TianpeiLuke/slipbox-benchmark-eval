@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - 1980s not 2008 is the better analogy for today s housing market
+  - today's
+  - interest
+  - home
+  - boomer
+  - millennials
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0112, doc_0479]
 ---

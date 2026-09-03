@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - counter_argument
+keywords:
+  - barriers to commercializing zinc iodine batteries
+  - battery technology
+  - hydrogel
+  - zinc-iodine
+  - electrolytes
+  - battery-technology
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0286]
 ---

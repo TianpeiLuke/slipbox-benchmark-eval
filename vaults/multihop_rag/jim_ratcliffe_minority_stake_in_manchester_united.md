@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jim ratcliffe completes his 25 stake in manchester united
+  - hag
+  - ten
+  - erik
+  - champions
+  - manager
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0315]
 ---

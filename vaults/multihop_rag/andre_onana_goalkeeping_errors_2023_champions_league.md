@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - andre onana s goalkeeping errors in the 2023 champions league
+  - lobbying political donations
+  - villa
+  - erik
+  - hag
+  - ten
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0012, doc_0546]
 ---

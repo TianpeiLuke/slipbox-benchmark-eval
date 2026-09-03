@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - bears panthers broadcast and kickoff details
+  - national football league
+  - streaming service
+  - chicago
+  - bears-panthers
+  - field
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0489]
 ---

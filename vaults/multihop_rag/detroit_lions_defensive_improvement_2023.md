@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - detroit lions defensive improvement 2023
+  - playoff seeding
+  - aaron
+  - lions'
+  - las
+  - vegas
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0316]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - cbs sports matchup first method for weekly fantasy lineup decisions
+  - daily fantasy sports
+  - draft pick
+  - playoff seeding
+  - dfs
+  - columns
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0058, doc_0149]
 ---

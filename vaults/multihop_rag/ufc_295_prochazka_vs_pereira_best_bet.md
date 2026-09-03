@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - ufc 295 best bet over 1 5 rounds in prochazka vs pereira
+  - montano
+  - savannah
+  - danis
+  - paul
+  - dillon
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0577]
 ---

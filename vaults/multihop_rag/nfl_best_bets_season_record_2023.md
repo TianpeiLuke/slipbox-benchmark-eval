@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - 2023 nfl best bets season record
+  - sports betting odds
+  - national football league
+  - week
+  - spread
+  - picks
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0314]
 ---

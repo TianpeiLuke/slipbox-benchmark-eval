@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - ai assisted works should still be copyrightable
+  - creator economy
+  - training
+  - submission
+  - generative
+  - music
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0271]
 ---

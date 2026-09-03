@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - arturo bejar s critique of meta s teen safety self regulation
+  - data privacy
+  - meta's
+  - parental
+  - self-regulation
+  - approval
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0141]
 ---

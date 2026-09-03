@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - rainforest s embedded payments for software platforms
+  - payment processor
+  - embedded finance
+  - total addressable market
+  - payment-processor
+  - fintech
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0075]
 ---

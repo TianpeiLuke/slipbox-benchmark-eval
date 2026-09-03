@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - mls season pass on apple tv as the only route to these matches
+  - streaming service
+  - miami
+  - chicago
+  - inter
+  - fire
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0041, doc_0088]
 ---

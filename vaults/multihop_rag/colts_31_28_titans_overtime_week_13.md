@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - colts 31 28 titans in overtime week 13 2023
+  - tennessee
+  - afc
+  - ejections
+  - ryland
+  - comeback
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0150]
 ---

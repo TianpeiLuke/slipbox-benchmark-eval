@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - allison miller s influenza sepsis and leg amputation
+  - pneumonia
+  - she
+  - vaccination
+  - bacterial
+  - severe
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0065]
 ---

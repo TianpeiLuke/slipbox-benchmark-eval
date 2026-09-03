@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - capitol music group s leadership turmoil 2020 2021
+  - covid 19
+  - universal
+  - cmg
+  - jubelirer
+  - dream
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0212]
 ---

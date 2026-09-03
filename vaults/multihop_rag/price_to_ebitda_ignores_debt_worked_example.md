@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - price to ebitda hides debt a worked example
+  - valuation
+  - equity
+  - multiples
+  - revenue
+  - economics
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0418]
 ---

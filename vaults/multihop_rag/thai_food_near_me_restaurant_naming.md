@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - thai food near me a restaurant named for a search query
+  - google
+  - restaurants
+  - seo
+  - naming
+  - optimizing
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0127]
 ---

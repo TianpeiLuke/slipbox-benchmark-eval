@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - handicap betting in tennis and golf
+  - sports betting odds
+  - spread
+  - point
+  - strokes
+  - rollback
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0359]
 ---

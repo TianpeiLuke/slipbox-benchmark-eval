@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - middle innings of world series game 4 2023
+  - major league baseball
+  - diamondbacks
+  - nelson
+  - heaney
+  - rangers
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0408]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - robyn davidson s memoir published october 2023
+  - davidson's
+  - michael
+  - roundup
+  - life
+  - her
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0582]
 ---

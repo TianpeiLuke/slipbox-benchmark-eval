@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - shohei ohtani s 700 million dodgers contract
+  - major league baseball
+  - trade and free agency
+  - ohtani's
+  - trout
+  - ruth
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0531]
 ---

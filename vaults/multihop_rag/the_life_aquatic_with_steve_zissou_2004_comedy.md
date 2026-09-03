@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - life aquatic with steve zissou 2004 wes anderson s ensemble comedy
+  - anderson's
+  - activision
+  - android
+  - romantic
+  - shark
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

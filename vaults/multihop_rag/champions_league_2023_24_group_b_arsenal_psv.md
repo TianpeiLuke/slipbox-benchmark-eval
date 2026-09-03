@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - champions league 2023 24 group b arsenal and psv qualify
+  - sevilla
+  - lens
+  - sibling
+  - madrid
+  - arsenal's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0187]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - lafsfj r ur summit to sea heliskiing on iceland s troll peninsula
+  - resort
+  - luxury
+  - round-up
+  - iceland's
+  - summit-to-sea
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0573]
 ---

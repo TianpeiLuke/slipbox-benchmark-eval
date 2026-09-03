@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - springboks beat all blacks 12 11 to win a record fourth world cup
+  - ian
+  - succession
+  - south
+  - africa
+  - england
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0022]
 ---

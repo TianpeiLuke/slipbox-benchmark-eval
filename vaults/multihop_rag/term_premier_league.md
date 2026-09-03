@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - premier league
+  - manchester
+  - united
+  - chelsea
+  - everton
+  - clubs
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0100, doc_0092, doc_0204, doc_0395, doc_0260]
 ---

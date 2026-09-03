@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - concept
+keywords:
+  - lecanemab and donanemab the amyloid drugs
+  - alzheimer's
+  - brain
+  - disease
+  - alzheimers
+  - diagnosis
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0427]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - model
+keywords:
+  - urban heat islands and chronic heat health effects
+  - disparity
+  - stress
+  - outdoors
+  - temperatures
+  - cities
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0084]
 ---

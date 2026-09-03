@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - verge s score and verdict for the echo frames carrera cruiser
+  - battery technology
+  - battery life and charging
+  - alexa
+  - amazon
+  - audio
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0431]
 ---

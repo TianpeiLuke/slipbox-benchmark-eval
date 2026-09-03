@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - mass generated ai seo spam and the churn and burn strategy
+  - lobbying political donations
+  - seos
+  - search
+  - tag
+  - hat
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0115]
 ---

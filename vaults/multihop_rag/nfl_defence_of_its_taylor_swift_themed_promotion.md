@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - nfl s defence of its taylor swift themed promotion
+  - national football league
+  - kelce
+  - travis
+  - chiefs
+  - swift-themed
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0059]
 ---

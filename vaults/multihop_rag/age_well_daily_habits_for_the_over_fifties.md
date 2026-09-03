@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - daily habits for ageing well after fifty
+  - adults
+  - protein
+  - older
+  - multigenerational
+  - grouping
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0605]
 ---

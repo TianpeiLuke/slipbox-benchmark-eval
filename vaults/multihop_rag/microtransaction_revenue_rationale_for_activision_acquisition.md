@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - microtransaction revenue rationale for the activision acquisition
+  - streaming service
+  - blizzard
+  - in-game
+  - purchases
+  - playstation
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0214]
 ---

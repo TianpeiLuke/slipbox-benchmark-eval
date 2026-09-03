@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - talk to me danny and michael philippou
+  - film
+  - sketch
+  - thieves
+  - list
+  - borgli
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0094]
 ---

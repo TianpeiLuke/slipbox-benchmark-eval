@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - fortnite s peak and current popularity
+  - streaming service
+  - epic
+  - fortnite's
+  - nostalgia
+  - map
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0549]
 ---

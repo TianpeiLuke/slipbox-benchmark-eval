@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - flexport forecast dispute and the contested whistleblower claim
+  - fine penalty
+  - battery technology
+  - petersen
+  - clark
+  - cnbc
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0536]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - kevin nguyen s five writing app rotation
+  - apps
+  - installer
+  - nguyen's
+  - reader
+  - picks
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0607]
 ---

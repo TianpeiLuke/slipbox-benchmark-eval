@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - scrapping winter dst to cut energy bills
+  - reserve mobilisation
+  - clock
+  - change
+  - foley
+  - renewable
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0339]
 ---

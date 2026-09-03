@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - epic s jury verdict against google december 2023
+  - criminal trial
+  - antitrust
+  - store
+  - android
+  - app
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0170]
 ---

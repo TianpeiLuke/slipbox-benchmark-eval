@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - reaction content on youtube
+  - creator economy
+  - fine penalty
+  - sssniperwolf
+  - doxxing
+  - tag
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0517]
 ---

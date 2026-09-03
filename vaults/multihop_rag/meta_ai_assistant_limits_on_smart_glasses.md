@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - meta ai assistant limits on smart glasses
+  - battery technology
+  - smart home device
+  - battery life and charging
+  - ray-ban
+  - battery-and-charging
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0364]
 ---

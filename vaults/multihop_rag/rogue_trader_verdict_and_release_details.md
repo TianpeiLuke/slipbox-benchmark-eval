@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - rogue trader verdict and release details
+  - lobbying political donations
+  - combat
+  - vox
+  - moral
+  - lore
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0592]
 ---

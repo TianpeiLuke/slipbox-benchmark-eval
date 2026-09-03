@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - brock purdy s fantasy outlook in weeks 5 and 6 of 2023
+  - playoff seeding
+  - zone
+  - touchdowns
+  - rate
+  - yards
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0058, doc_0149]
 ---

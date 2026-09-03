@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - id s loneliness thesis and anti engagement design
+  - social
+  - id's
+  - amo
+  - canvas
+  - anti-engagement
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0196]
 ---

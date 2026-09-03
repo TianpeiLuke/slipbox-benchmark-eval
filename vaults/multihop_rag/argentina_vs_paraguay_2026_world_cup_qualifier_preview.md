@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - argentina host paraguay at the monumental in 2026 world cup qualifying
+  - conmebol
+  - oct
+  - broadcast
+  - friday
+  - buenos
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0105]
 ---

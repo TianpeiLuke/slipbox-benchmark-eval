@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - amari cooper week 13 start him because joe flacco should restore his downfield role
+  - verdict
+  - fantasy
+  - sit
+  - browns
+  - weekly
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057]
 ---

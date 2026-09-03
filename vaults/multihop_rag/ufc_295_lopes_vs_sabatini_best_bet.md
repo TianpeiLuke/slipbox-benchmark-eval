@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - ufc 295 best bet pat sabatini s wrestling over diego lopes
+  - sports betting odds
+  - danis
+  - montano
+  - savannah
+  - submission
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0577]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - 8bitdo usb adapter 2
+  - console hardware
+  - controller
+  - switch
+  - nintendo
+  - xbox
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0236]
 ---

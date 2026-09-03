@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - end of the federal student loan payment pause
+  - payment processor
+  - holiday
+  - gift
+  - borrowers
+  - amex
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0251]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - youtube content id as blueprint for ai rights management
+  - user generated content
+  - music
+  - copyright
+  - kyncl
+  - holders
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0455]
 ---

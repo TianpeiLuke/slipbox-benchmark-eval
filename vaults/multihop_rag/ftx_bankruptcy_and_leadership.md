@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - ftx s bankruptcy and leadership
+  - sbf
+  - ftx-trial
+  - cluster
+  - ftx's
+  - crimes
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0010]
 ---

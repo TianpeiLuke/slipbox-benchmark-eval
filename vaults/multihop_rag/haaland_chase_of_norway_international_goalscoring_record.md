@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - haaland s chase of norway s international goalscoring record
+  - world cup
+  - norway's
+  - haaland's
+  - jorgen
+  - juve
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0400]
 ---

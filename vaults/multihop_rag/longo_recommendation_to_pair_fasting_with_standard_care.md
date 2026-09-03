@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - argument
+keywords:
+  - longo s recommendation to pair fasting with standard care
+  - alzheimers
+  - restricted
+  - drugs
+  - ucsd
+  - mouse
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0309]
 ---

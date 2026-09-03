@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - going infinite michael lewis on sam bankman fried
+  - criminal trial
+  - bankman-fried
+  - ftx
+  - ellison
+  - caroline
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0582]
 ---

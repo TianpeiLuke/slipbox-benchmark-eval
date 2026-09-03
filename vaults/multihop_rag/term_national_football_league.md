@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - national football league nfl
+  - week
+  - mvp
+  - swift
+  - midseason
+  - dfs
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0344, doc_0040, doc_0035, doc_0281, doc_0003]
 enriched: web

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - rescuing thaniel and defending the portal
+  - halsin
+  - cullagh
+  - art
+  - lute
+  - frisco
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0399]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - procedure
+keywords:
+  - folding fape and peac into philed
+  - programs
+  - deped
+  - education
+  - fund
+  - trustees
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0463]
 ---

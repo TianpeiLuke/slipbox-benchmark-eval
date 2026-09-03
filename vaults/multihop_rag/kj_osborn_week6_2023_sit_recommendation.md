@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - k j osborn as a week 6 2023 sit at chicago
+  - vikings
+  - jefferson
+  - mnf
+  - zone
+  - targets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0149]
 ---

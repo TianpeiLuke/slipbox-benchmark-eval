@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - eu code of practice on disinformation
+  - digital services act
+  - very large online platform
+  - dsa
+  - signatories
+  - dma
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0248]
 ---

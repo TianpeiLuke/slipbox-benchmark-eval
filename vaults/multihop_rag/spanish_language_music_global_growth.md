@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - why spanish language music keeps growing globally
+  - usage based pricing
+  - latin
+  - artists
+  - acqustic
+  - alejandra
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0211]
 ---

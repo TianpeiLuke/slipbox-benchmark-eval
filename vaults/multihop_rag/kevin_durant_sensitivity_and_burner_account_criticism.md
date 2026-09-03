@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - kevin durant sensitivity and burner account criticism
+  - national basketball association
+  - trade and free agency
+  - nba
+  - warriors
+  - disrespected
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0441]
 ---

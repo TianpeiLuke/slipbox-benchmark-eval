@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - activitypub data model of senders messages and inboxes
+  - content moderation
+  - national basketball association
+  - fediverse
+  - nba
+  - protocol
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0508]
 ---

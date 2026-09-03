@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - chatgpt faq capabilities and limits
+  - substantial
+  - coding
+  - statistics
+  - code
+  - listicles
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0048]
 ---

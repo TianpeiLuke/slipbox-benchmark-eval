@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - jada pinkett smith s 2023 disclosure of a seven year separation
+  - divorce
+  - expert
+  - slap
+  - seven-year
+  - independent's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0018, doc_0036, doc_0159, doc_0360]
 ---

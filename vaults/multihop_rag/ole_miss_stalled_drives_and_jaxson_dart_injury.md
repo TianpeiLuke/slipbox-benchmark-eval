@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ole miss stalled drives and jaxson dart s injury
+  - georgia
+  - dart's
+  - georgia's
+  - betting
+  - miss'
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0484]
 ---

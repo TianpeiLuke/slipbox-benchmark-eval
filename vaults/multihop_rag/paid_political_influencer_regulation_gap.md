@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - paid political influencer regulation gap
+  - lobbying political donations
+  - creator economy
+  - regulatory investigation
+  - campaign
+  - messaging
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0468]
 ---

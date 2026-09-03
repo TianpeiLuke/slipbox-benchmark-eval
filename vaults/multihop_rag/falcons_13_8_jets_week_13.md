@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - falcons 13 8 jets week 13 2023
+  - bay
+  - green
+  - metlife
+  - chiefs
+  - chiefs-packers
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0150]
 ---

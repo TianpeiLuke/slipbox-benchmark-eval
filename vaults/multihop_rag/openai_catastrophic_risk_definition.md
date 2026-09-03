@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - openai s definition of catastrophic risk
+  - existential
+  - veto
+  - preparedness
+  - framework
+  - safety
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0117]
 ---

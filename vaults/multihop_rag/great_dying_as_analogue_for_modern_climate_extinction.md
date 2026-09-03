@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - argument
+keywords:
+  - great dying as an analogue for modern climate extinction
+  - excerpt
+  - oxygen
+  - mann
+  - permian
+  - mass
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0460]
 ---

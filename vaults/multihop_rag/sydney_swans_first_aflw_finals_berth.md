@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - sydney swans first aflw finals berth
+  - sports betting odds
+  - molloy
+  - chloe
+  - swans'
+  - geelong
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0208, doc_0209]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - fortnite s battle royale live service model
+  - nostalgia
+  - fortnite's
+  - map
+  - grande
+  - ariana
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0549]
 ---

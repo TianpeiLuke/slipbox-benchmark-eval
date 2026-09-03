@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - procedure
+keywords:
+  - container carriers capacity management tools
+  - shipping
+  - carriers'
+  - disinflation
+  - decarbonization
+  - overcapacity
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0321]
 ---

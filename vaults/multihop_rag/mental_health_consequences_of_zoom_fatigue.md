@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - argument
+keywords:
+  - mental health consequences of zoom fatigue
+  - video
+  - videoconferencing
+  - tiring
+  - reduce
+  - burnout
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0590]
 ---

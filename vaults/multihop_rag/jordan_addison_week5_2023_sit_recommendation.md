@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - jordan addison as a week 5 2023 sit against kansas city
+  - vikings
+  - catch
+  - snaps
+  - receivers
+  - yards
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0058]
 ---

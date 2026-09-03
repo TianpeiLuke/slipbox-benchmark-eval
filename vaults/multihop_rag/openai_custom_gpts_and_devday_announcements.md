@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - gpts openai s custom chatbots and the dev day announcements
+  - creator economy
+  - chatgpt
+  - openai's
+  - gpt-4
+  - tiers
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0047, doc_0116]
 ---

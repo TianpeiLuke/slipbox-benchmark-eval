@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - will alabama make the 2023 college football playoff
+  - ten
+  - texas
+  - crimson
+  - tide
+  - sec
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0258]
 ---

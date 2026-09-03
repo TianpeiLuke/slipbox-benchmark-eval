@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - eu ai act political agreement december 2023
+  - lobbying political donations
+  - european
+  - commission
+  - union
+  - obligations
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0525, doc_0564]
 ---

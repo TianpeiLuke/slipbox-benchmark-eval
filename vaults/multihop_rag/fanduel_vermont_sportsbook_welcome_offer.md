@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - how to claim fanduel sportsbook vermont s prelive and welcome offers
+  - sports betting odds
+  - national basketball association
+  - daily fantasy sports
+  - bonus
+  - bets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0072]
 ---

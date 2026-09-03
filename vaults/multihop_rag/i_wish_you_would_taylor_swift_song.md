@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - i wish you would a 2am song whose real story runs in reverse
+  - bbc
+  - swift
+  - taylor
+  - track
+  - street
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0257]
 ---

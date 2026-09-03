@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - brave software lays off 9 of its workforce
+  - layoffs
+  - restructuring
+  - theme
+  - relinquishing
+  - pharmacy
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0043]
 ---

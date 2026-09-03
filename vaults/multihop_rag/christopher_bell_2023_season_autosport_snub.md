@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - christopher bell 2023 season autosport snub
+  - lobbying political donations
+  - playoff seeding
+  - nascar
+  - racing
+  - limit
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0297]
 ---

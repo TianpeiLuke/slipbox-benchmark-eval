@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - liverpool beat toulouse in the europa league group stage
+  - premier league
+  - actors and writers strike
+  - nottingham
+  - forest
+  - gravenberch
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0152]
 ---

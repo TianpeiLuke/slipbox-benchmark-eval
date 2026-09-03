@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - counter_argument
+keywords:
+  - sample size critique of the jellyfish learning result
+  - animals
+  - rhopalia
+  - experiment
+  - box
+  - associative
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0261]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - vermont s online sports betting law up to six sites launching january 2024
+  - sports betting odds
+  - total addressable market
+  - lobbying political donations
+  - sportsbook
+  - offer
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0072]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - us peele s underrated slasher about the tethered
+  - streaming service
+  - fire
+  - peele's
+  - horror
+  - lupita
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

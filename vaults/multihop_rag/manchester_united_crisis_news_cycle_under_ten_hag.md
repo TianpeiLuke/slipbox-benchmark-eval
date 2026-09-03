@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - manchester united crisis news cycle under ten hag
+  - user generated content
+  - champions
+  - solanke
+  - chelsea
+  - bayern
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0242, doc_0370]
 ---

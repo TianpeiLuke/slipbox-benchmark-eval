@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - state patchwork of teen social media laws
+  - communist
+  - chinese
+  - epoch
+  - meta
+  - parental
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0141]
 ---

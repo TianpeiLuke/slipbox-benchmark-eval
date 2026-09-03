@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - israeli unity after october 7 versus the judicial reform fight
+  - eylon
+  - levy
+  - interview
+  - war
+  - spokesperson
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0413]
 ---

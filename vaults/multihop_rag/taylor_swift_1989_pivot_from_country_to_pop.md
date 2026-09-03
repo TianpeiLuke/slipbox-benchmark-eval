@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - why 1989 had to abandon country swift s case for a clean break
+  - taylor
+  - song
+  - album
+  - her
+  - romantics
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0257]
 ---

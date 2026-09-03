@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - jim jordan s third ballot defeat and removal as nominee
+  - hardware device
+  - battery technology
+  - house
+  - republicans
+  - speaker
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0223]
 ---

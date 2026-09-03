@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - annihilation the creepiest movie about plants ever made
+  - streaming service
+  - film
+  - cronenberg
+  - portman
+  - haynes
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - goalies and peers on defending bedard s shot
+  - draft pick
+  - connor
+  - bedard's
+  - blackhawks
+  - sabres
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0102]
 ---

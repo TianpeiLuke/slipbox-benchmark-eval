@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - daniel sprong over 2 5 shots on goal
+  - wings
+  - prop
+  - red
+  - nhl
+  - slate
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0296]
 ---

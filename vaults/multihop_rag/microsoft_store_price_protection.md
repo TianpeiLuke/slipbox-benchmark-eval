@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - microsoft store price protection
+  - console hardware
+  - xbox
+  - refund
+  - policy
+  - adjustment
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0403]
 ---

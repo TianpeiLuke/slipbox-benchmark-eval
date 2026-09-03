@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - argument that a trump presidency would not doom ukraine
+  - aid
+  - letitia
+  - volker
+  - negotiation
+  - offensives
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0442]
 ---

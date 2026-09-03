@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - tess moone selling the perth home and the rental crisis
+  - covid 19
+  - parents
+  - her
+  - grouping
+  - ageing-parents
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0020]
 ---

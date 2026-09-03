@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - procedure
+keywords:
+  - antibiotic stewardship practices
+  - antibiotics
+  - bacteria
+  - resistance
+  - therapy
+  - bacterium
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0566]
 ---

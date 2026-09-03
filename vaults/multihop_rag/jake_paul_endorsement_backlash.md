@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - jake paul endorsement backlash
+  - celebrity endorsement
+  - creator economy
+  - lobbying political donations
+  - dillon
+  - danis
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0468]
 ---

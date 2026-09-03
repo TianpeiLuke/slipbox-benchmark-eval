@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - cairo diplomatic surge and the 2023 summit for peace
+  - president
+  - egypt's
+  - egyptian
+  - biden
+  - strategic
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0218]
 ---

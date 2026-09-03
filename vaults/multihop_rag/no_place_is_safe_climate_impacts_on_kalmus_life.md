@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - no place is safe climate impacts on kalmus s life
+  - northwest
+  - pacific
+  - carolina
+  - kalmus's
+  - location
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0233]
 ---

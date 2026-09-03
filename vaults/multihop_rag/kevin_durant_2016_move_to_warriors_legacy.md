@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - kevin durant 2016 move to warriors legacy
+  - national basketball association
+  - kane
+  - bay
+  - patrick
+  - area
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0441]
 ---

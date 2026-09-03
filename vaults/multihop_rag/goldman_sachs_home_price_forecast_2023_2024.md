@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - hypothesis
+keywords:
+  - goldman sachs forecast that home prices keep rising slowly through 2024
+  - housing
+  - peak
+  - sachs'
+  - unemployment
+  - crash
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0479]
 ---

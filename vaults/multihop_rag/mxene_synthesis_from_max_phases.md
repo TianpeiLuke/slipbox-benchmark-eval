@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - procedure
+keywords:
+  - mxene synthesis from max phases
+  - streaming service
+  - mxenes
+  - connected
+  - layers
+  - fire
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0247]
 ---

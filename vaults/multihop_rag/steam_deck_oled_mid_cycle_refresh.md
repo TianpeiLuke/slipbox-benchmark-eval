@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - steam deck oled as a mid cycle refresh
+  - console hardware
+  - battery technology
+  - battery life and charging
+  - mid-cycle
+  - listings
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0169, doc_0524]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - scorsese and leonardo dicaprio s collaboration
+  - user generated content
+  - box office
+  - scorsese's
+  - killers
+  - flower
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0192]
 ---

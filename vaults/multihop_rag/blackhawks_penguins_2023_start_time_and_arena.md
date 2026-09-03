@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - blackhawks vs penguins 2023 start time and arena
+  - bedard
+  - pittsburgh
+  - period
+  - connor
+  - debut
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0483]
 ---

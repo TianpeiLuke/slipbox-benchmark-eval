@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - harry kane the striker manchester united did not sign
+  - champions
+  - bayern
+  - league
+  - munich
+  - erik
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0219, doc_0546]
 ---

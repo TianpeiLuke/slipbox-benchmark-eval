@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - reject and replace negative first thoughts
+  - hallow
+  - prayer
+  - bradley
+  - faith
+  - jesse
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0569]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - procedure
+keywords:
+  - layering comparisons against growth and a stock s own history
+  - valuation
+  - multiples
+  - equity
+  - valuations
+  - peer
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0418]
 ---

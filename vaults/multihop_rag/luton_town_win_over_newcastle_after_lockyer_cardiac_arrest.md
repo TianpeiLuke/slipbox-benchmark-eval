@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - luton town s win over newcastle after lockyer s cardiac arrest
+  - carabao
+  - cup
+  - results
+  - united
+  - welch
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0438]
 ---

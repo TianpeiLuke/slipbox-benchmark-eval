@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - utsa vs marshall in the 2023 scooter s coffee frisco bowl
+  - sports betting odds
+  - scooter's
+  - portal
+  - roadrunners
+  - transfer
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0005]
 ---

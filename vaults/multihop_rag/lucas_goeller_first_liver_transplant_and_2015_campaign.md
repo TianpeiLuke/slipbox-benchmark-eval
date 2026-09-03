@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - lucas goeller s first liver transplant and the 2015 campaign
+  - lobbying political donations
+  - user generated content
+  - goeller's
+  - organ
+  - theme
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0594]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - tony pollard s fantasy outlook in 2023
+  - cowboys
+  - week
+  - dak
+  - rankings
+  - prescott
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0394, doc_0494]
 ---

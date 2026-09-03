@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - cfp twelve team expansion and the sanctity of the regular season
+  - florida
+  - college
+  - four-team
+  - twelve-team
+  - state
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0155]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - three concurrent roles of a manchester united manager
+  - managing
+  - dysfunction
+  - ronay
+  - hag
+  - incoherence
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0370]
 ---

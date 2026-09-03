@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - argentina 1 0 paraguay conmebol world cup qualifying october 2023
+  - messi
+  - inter
+  - miami
+  - match
+  - chicago
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0534]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - eu ai act high risk ai system obligations
+  - high-risk
+  - systems
+  - classified
+  - exceptions
+  - stopgap
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0564]
 ---

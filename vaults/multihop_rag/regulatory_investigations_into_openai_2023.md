@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - regulatory investigations into openai in 2023
+  - generative ai
+  - data privacy
+  - chatgpt
+  - breach
+  - ftc
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0048]
 ---

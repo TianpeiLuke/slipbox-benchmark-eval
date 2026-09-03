@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - concept
+keywords:
+  - caring contacts the program at a nebraska children s hospital
+  - suicide
+  - handwritten
+  - schalley
+  - lifeline
+  - enrollment
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0158]
 ---

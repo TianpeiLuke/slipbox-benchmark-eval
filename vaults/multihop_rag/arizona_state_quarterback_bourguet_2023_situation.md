@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - trenton bourguet s 335 yard effort in arizona state s narrow loss
+  - colorado
+  - bourguet's
+  - state's
+  - territorial
+  - half
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0568]
 ---

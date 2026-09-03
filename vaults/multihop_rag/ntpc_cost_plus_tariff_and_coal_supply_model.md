@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - ntpc s cost plus tariff and assured coal supply model
+  - transfer window
+  - capacity
+  - pass-through
+  - ntpc's
+  - fuel
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0601]
 ---

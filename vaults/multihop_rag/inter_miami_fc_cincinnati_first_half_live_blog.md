@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - inter miami fc cincinnati first half three times off the woodwork still 0 0
+  - playoff seeding
+  - battery technology
+  - coaching change
+  - messi
+  - farias
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0088]
 ---

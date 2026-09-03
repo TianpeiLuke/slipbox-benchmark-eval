@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - multiple maniacs 1970 john waters transgressive comedy
+  - streaming service
+  - waters'
+  - activision
+  - lochary
+  - criterion
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - model
+keywords:
+  - deep ocean deoxygenation from climate change
+  - sea
+  - deep-sea
+  - water
+  - interview
+  - currents
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0459]
 ---

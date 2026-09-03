@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - sphere s plug and play touring economics
+  - immersive
+  - plug-and-play
+  - screen
+  - show
+  - bring
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0560]
 ---

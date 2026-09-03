@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - patrick kane s fit with the detroit red wings
+  - playoff seeding
+  - kane's
+  - panarin
+  - artemi
+  - eastern
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0356]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - holiday return policy windows into january 2024
+  - black friday cyber monday
+  - items
+  - matching
+  - price
+  - purchased
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0574]
 ---

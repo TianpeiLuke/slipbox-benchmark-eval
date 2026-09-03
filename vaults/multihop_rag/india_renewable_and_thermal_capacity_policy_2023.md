@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - india s twin renewable and thermal capacity push in 2023
+  - ntpc
+  - energy
+  - demand
+  - indian
+  - ntpc's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0601]
 ---

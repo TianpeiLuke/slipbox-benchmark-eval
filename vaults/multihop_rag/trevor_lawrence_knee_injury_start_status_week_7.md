@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - trevor lawrence cleared to start after week 7 pregame workout
+  - jaguars
+  - saints
+  - fantasy
+  - thursday
+  - pederson
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0035]
 ---

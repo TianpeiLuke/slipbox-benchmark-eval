@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - graham arnold 2022 world cup qualification crisis
+  - lobbying political donations
+  - playoff seeding
+  - coaching
+  - emirates
+  - peru
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0172]
 ---

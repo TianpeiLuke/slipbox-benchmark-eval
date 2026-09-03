@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - georgia 52 17 ole miss week 11 recap
+  - player injury report
+  - playoff seeding
+  - sec
+  - alabama
+  - championship
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0484]
 ---

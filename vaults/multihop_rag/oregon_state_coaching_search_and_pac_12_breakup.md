@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - oregon state loses its coach while the pac 12 loses ten of twelve members
+  - contract extension
+  - michigan
+  - big
+  - pac-12
+  - smith
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0411]
 ---

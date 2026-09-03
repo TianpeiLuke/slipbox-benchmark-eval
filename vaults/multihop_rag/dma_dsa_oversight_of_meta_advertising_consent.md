@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - dma and dsa oversight of meta s advertising consent
+  - digital services act
+  - very large online platform
+  - data privacy
+  - beuc
+  - consumer
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0140]
 ---

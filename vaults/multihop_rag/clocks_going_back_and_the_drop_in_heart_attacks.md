@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - counter_argument
+keywords:
+  - clocks going back and the drop in heart attacks
+  - change
+  - sleep
+  - daylight
+  - autumn
+  - saving
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0339]
 ---

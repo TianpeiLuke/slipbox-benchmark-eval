@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - machine translation
+  - automatic
+  - roblox
+  - gemini
+  - spotify's
+  - instagram's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0106, doc_0126, doc_0461, doc_0539]
 enriched: web

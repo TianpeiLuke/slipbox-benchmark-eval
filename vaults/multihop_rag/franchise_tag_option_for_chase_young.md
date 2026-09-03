@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - why the franchise tag may not suit chase young
+  - super bowl
+  - trade and free agency
+  - ers
+  - cap
+  - prop
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0500]
 ---

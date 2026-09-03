@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - ai developers should be required to license training material
+  - streaming service
+  - music
+  - warner
+  - fair
+  - licensing
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0271]
 ---

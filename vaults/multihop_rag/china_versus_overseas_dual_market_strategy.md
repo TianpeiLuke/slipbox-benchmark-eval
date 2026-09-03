@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - china versus overseas the dual market strategy
+  - large language model
+  - large-language-model
+  - usd
+  - chinese
+  - area
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0181]
 ---

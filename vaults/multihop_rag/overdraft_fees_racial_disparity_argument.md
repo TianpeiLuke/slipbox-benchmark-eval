@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - overdraft fees are a choice that disproportionately harms black and brown communities
+  - battery technology
+  - americans
+  - menendez
+  - banks
+  - cfpb
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0097]
 ---

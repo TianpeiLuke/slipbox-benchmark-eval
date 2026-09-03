@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - x s moderation capacity after the musk takeover
+  - disinformation
+  - community notes
+  - content moderation
+  - layoffs
+  - element
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0024, doc_0025]
 ---

@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - dangerous organizations and individuals policy
+  - terrorist
+  - hamas
+  - meta
+  - hebrew
+  - arabic
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0106, doc_0135, doc_0267, doc_0335]
 enriched: web

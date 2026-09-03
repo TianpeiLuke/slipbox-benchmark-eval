@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - deandre hopkins as a week 5 2023 start at indianapolis
+  - national football league
+  - colts
+  - matchup
+  - tannehill
+  - cooper
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0058]
 ---

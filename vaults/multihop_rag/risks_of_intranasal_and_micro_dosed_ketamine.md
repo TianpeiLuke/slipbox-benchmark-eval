@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - counter_argument
+keywords:
+  - why small self administered ketamine doses are not safer
+  - anesthetic
+  - self-administered
+  - prescriber
+  - askp3
+  - weaning
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0390]
 ---

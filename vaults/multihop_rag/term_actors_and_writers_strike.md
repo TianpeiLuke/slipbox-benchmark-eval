@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - actors and writers strike
+  - half
+  - quarter
+  - writers'
+  - uaw
+  - notre
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0272, doc_0419]
 enriched: web

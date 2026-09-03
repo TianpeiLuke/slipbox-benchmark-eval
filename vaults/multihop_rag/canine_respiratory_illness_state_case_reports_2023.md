@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - canine respiratory illness state case reports in 2023
+  - carolina
+  - atypical
+  - rhode
+  - north
+  - mentions
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0565]
 ---

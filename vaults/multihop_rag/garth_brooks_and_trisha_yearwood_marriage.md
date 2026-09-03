@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - garth brooks and trisha yearwood s marriage
+  - stapleton
+  - mcbride
+  - couple
+  - roundup
+  - yearwood's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0019]
 ---

@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - technology
+  - concept
+keywords:
+  - battery life and charging
+  - deals
+  - pro
+  - prime
+  - deck
+  - steam
+topics:
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0169, doc_0524, doc_0519, doc_0216, doc_0091, doc_0431]
 ---

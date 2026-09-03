@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - why israeli office rents have not fallen
+  - discount and msrp
+  - payment processor
+  - property
+  - portfolio
+  - war
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0217]
 ---

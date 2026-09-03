@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - amex cash magnet rewards structure and exclusions
+  - card
+  - cardholder
+  - purchases
+  - skymiles
+  - delta
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0471]
 ---

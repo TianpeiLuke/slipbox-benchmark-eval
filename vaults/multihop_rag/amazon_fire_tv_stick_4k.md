@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - amazon fire tv stick 4k
+  - streaming service
+  - dolby
+  - wi-fi
+  - processor
+  - vision
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0090, doc_0567]
 ---

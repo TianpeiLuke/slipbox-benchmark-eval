@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jordan morgan s senior day at arizona stadium
+  - utah
+  - craig
+  - soldier
+  - arizona's
+  - match
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0475]
 ---

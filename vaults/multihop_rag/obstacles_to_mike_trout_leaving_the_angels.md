@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - obstacles to mike trout leaving the angels
+  - major league baseball
+  - ohtani
+  - dodgers
+  - angeles
+  - los
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0423]
 ---

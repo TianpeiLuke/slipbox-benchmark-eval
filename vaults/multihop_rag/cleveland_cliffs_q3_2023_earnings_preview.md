@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - cleveland cliffs q3 2023 earnings preview
+  - earnings report
+  - cleveland-cliffs
+  - fy2024
+  - fy2023
+  - rating
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0338]
 ---

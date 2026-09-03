@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - how taylor swift and travis kelce s relationship began
+  - concert tour
+  - national football league
+  - eras
+  - swift's
+  - confessed
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0046, doc_0295]
 ---

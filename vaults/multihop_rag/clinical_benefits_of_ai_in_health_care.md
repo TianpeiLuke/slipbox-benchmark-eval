@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - concept
+keywords:
+  - clinical benefits of ai in health care
+  - patel
+  - officer
+  - chief
+  - bhavik
+  - mayo
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0163]
 ---

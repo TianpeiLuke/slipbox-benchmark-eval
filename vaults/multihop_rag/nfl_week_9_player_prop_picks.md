@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - nfl week 9 player prop picks
+  - national football league
+  - playoff seeding
+  - yards
+  - receiving
+  - dotson
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0314]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - norway s historical absence from major tournaments
+  - world cup
+  - goalscoring
+  - solskjaer
+  - gunnar
+  - ole
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0400]
 ---

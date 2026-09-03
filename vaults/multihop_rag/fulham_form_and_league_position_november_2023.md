@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - fulham s form and league position november 2023
+  - premier league
+  - carabao
+  - ipswich
+  - fulham's
+  - cup
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0260]
 ---

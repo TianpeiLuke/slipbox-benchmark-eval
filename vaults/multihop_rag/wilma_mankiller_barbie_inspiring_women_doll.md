@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - wilma mankiller barbie in the inspiring women series
+  - cherokee
+  - mattel
+  - nation
+  - doll
+  - basket
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0095]
 ---

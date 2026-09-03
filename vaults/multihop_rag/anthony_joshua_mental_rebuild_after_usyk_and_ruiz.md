@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - anthony joshua mental rebuild after usyk and ruiz
+  - boxing
+  - fury
+  - deontay
+  - wilder
+  - reckoning
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0137]
 ---

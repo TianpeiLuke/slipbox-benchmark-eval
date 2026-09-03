@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - mrsviolence s income comparison between twitch and kick
+  - revenue split
+  - streaming service
+  - covid 19
+  - subscribers
+  - streamer
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0405]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ja marr chase s week 10 injury status
+  - game patch notes
+  - player injury report
+  - bengals
+  - bills
+  - boyd
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0288]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - small ev and bike share options that survived 2023
+  - bolt
+  - discontinuation
+  - honda
+  - e-bikes
+  - bike-share
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0318]
 ---

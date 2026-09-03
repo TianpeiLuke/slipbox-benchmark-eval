@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - age appropriateness of the five nights at freddy s movie
+  - appeals process
+  - freddy's
+  - pg-13
+  - freddys
+  - animatronic
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0387]
 ---

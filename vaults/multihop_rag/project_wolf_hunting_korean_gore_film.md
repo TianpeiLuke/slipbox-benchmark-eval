@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - project wolf hunting korean gore film
+  - horror
+  - countdown
+  - monster
+  - gory
+  - halloween
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0165]
 ---

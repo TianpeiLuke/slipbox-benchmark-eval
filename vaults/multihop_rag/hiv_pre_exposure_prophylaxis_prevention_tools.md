@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - concept
+keywords:
+  - hiv pre exposure prophylaxis and other prevention tools
+  - treatment
+  - medicines
+  - pre-exposure
+  - prep
+  - cabotegravir
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0238]
 ---

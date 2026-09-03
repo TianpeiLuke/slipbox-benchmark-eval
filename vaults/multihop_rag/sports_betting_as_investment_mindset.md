@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - sports betting as an investment mindset
+  - sports betting odds
+  - national football league
+  - nfl
+  - week
+  - spread
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0314]
 ---

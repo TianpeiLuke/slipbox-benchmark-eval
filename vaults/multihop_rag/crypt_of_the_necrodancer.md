@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - crypt of the necrodancer
+  - co-op
+  - switch
+  - nintendo
+  - local
+  - spacetime
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0428]
 ---

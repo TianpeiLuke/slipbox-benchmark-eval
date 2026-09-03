@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - team news and lineups argentina vs paraguay october 2023
+  - coaching change
+  - rojas
+  - messi
+  - facundo
+  - farias
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0534]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - showtime championship boxing ends after 37 years with a december 2023 finale
+  - mayweather
+  - floyd
+  - middleweight
+  - tyson
+  - hagler
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0273]
 ---

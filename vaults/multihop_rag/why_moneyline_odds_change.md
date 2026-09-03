@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - why moneyline odds change
+  - sports betting odds
+  - super bowl
+  - adjust
+  - perceived
+  - information
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0061]
 ---

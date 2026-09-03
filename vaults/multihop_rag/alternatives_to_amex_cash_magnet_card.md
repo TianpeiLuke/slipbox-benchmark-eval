@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - alternatives to the amex cash magnet card
+  - purchases
+  - delta
+  - fees
+  - cardholder
+  - express
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0471]
 ---

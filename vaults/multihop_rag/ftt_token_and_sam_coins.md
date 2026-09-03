@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - ftt token and the sam coins
+  - alameda
+  - bankman-fried
+  - ftx
+  - ellison
+  - wang
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0086, doc_0305]
 ---

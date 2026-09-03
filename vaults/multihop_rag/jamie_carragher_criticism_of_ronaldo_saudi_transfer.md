@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - jamie carragher s sad end verdict on ronaldo s saudi move
+  - tally
+  - carragher's
+  - ronaldo's
+  - goal
+  - scorer
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0277]
 ---

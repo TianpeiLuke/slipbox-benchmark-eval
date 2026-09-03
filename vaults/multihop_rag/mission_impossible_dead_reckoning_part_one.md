@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - mission impossible dead reckoning part one
+  - releases
+  - film
+  - hayley
+  - set-piece
+  - cruise
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0094]
 ---

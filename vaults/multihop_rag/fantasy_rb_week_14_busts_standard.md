@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - week 14 standard league running backs to downgrade
+  - national football league
+  - standard-league
+  - buffalo
+  - cook
+  - fantasy
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0198]
 ---

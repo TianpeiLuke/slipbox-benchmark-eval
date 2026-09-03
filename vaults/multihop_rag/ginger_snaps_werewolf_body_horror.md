@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - ginger snaps werewolf body horror
+  - user generated content
+  - criterion
+  - critic
+  - orphan
+  - reacher
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0165]
 ---

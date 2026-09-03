@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - medication adherence
+  - labs
+  - enterprise
+  - keep
+  - reduction
+  - harm
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0230]
 enriched: web

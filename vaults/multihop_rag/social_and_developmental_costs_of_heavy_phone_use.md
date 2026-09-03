@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - argument
+keywords:
+  - social and developmental costs of heavy phone use
+  - smartphone
+  - kelman
+  - face-to-face
+  - teen
+  - access
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0518]
 ---

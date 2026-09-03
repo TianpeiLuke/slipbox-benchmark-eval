@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - aurora sightings beyond usual latitudes greece turkey and australia
+  - afl
+  - prospect
+  - draft
+  - western
+  - geomagnetic
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0556]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - exotic prop bets
+  - super bowl
+  - sports betting odds
+  - props
+  - ers
+  - drawbacks
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0201]
 ---

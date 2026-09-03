@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - polygon s weekend deals roundup december 9 2023
+  - console hardware
+  - black friday cyber monday
+  - xbox
+  - collection
+  - criterion
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0308]
 ---

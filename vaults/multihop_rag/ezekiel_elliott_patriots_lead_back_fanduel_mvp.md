@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ezekiel elliott as the fanduel mvp pick
+  - national football league
+  - most valuable player
+  - daily fantasy sports
+  - patriots-steelers
+  - rhamondre
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0583]
 ---

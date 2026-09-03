@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - 49ers trade for chase young at the 2023 deadline
+  - trade and free agency
+  - national football league
+  - sacks
+  - montez
+  - cap
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0500]
 ---

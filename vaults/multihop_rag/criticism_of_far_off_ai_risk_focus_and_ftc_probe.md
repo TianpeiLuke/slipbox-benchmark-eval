@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - criticism of the focus on far off ai risk and the ftc probe
+  - regulatory investigation
+  - altman
+  - openai
+  - altman's
+  - analyst
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0332]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - vpn use cases and prerequisites
+  - streaming service
+  - prime
+  - amazon
+  - cyberghost
+  - expressvpn
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0229]
 ---

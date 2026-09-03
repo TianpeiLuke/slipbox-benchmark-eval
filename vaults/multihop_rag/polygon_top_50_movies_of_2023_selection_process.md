@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - polygon s selection process for the best movies of 2023
+  - scope
+  - list
+  - roundup
+  - calendar
+  - tastes
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0094]
 ---

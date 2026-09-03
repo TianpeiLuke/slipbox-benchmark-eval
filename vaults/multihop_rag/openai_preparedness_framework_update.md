@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - openai s updated preparedness framework
+  - game patch notes
+  - openai's
+  - ilya
+  - sutskever
+  - toner
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0117]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - michigan state hires jonathan smith away from oregon state
+  - lobbying political donations
+  - playoff seeding
+  - ten
+  - championship
+  - big
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0411]
 ---

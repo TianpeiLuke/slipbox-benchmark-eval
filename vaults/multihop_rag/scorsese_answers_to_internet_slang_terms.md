@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - scorsese s answers to the internet slang terms
+  - flower
+  - killers
+  - moon
+  - quiz
+  - slept
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0193]
 ---

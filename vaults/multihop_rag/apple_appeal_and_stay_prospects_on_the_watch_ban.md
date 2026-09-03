@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - apple s appeal and stay prospects on the watch ban
+  - appeals process
+  - import
+  - magsafe
+  - anker
+  - patent
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0241]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - 360 million activision payment and its evidentiary weakness
+  - store
+  - google
+  - epic's
+  - app
+  - android
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0299]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - curtis samuel s week 10 injury status
+  - game patch notes
+  - jahan
+  - fantasy
+  - dotson
+  - samuel's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0288]
 ---

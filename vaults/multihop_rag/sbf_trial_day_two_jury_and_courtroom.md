@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - day two of the bankman fried trial jury selection and the courtroom audience
+  - criminal trial
+  - fraud
+  - user generated content
+  - bankman-fried
+  - testimony
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0031]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - monaco 3 2 marseille akliouche brace takes monaco top of ligue 1
+  - actors and writers strike
+  - balogun
+  - usmnt
+  - folarin
+  - ratings
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0352]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - week 14 tight end byes logan thomas and trey mcbride
+  - fantasy
+  - cardinals
+  - steelers
+  - impact
+  - column's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0552]
 ---

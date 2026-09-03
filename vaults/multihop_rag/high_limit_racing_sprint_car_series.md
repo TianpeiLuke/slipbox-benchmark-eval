@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - high limit racing kyle larson s sprint car series
+  - nascar
+  - larson's
+  - autosport
+  - motorsports
+  - snub
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0443]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - admt the cppa s definition of automated decisionmaking technology
+  - cppa's
+  - profiling
+  - personal
+  - rulemaking
+  - exemptions
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0164]
 ---

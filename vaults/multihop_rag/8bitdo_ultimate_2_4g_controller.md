@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - 8bitdo ultimate 2 4g controller
+  - battery technology
+  - buttons
+  - powera
+  - xbox
+  - sticks
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0236]
 ---

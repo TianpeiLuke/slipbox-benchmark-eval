@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - totals bet worked examples win and loss
+  - national basketball association
+  - sports betting odds
+  - nba
+  - bettor
+  - lakers
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0554]
 ---

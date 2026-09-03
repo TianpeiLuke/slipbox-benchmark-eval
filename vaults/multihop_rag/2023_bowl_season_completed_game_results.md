@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - 2023 bowl season completed game results
+  - state
+  - cfp
+  - frisco
+  - championship
+  - mexico
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0433]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - ability scores link bg3 classes to out of combat skills
+  - wisdom-based
+  - character
+  - out-of-combat
+  - subclasses
+  - baldur's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0016]
 ---

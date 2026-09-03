@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - chiefs jets pregame taylor swift in donna kelce s box rodgers back on the sideline
+  - national football league
+  - most valuable player
+  - chiefs-jets
+  - sunday
+  - travis
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0200]
 ---

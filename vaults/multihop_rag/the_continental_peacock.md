@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - continental from the world of john wick peacock
+  - creator economy
+  - movies'
+  - series
+  - woodell
+  - unfriended
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0185]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - people centered robotics philosophy at amazon
+  - robots
+  - agility
+  - digit
+  - amazon's
+  - people-centered
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0528]
 ---

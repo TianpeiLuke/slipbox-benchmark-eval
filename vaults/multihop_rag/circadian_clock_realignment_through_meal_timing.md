@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - model
+keywords:
+  - realigning the circadian clock through meal timing
+  - fasting
+  - restricted
+  - eating
+  - study
+  - feeding
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0309]
 ---

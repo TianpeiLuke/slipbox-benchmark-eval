@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - golf ball rollback policy
+  - concert tour
+  - thematic
+  - tagging
+  - balls
+  - note
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0490]
 ---

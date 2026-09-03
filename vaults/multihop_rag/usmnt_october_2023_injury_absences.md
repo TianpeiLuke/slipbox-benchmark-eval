@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - who the usmnt was missing through injury in october 2023
+  - germany
+  - berhalter
+  - antonee
+  - robinson
+  - friendlies
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0231]
 ---

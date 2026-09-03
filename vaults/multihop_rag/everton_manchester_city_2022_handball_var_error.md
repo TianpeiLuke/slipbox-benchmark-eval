@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - everton 0 1 manchester city the rodri handball var error of february 2022
+  - pgmol
+  - apologies
+  - leipzig
+  - incidents
+  - chairmanship
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0395]
 ---

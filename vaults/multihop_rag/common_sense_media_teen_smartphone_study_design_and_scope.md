@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - common sense media s teen smartphone study design and scope
+  - smartphones
+  - teens
+  - volume
+  - use
+  - media's
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0518]
 ---

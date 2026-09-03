@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - bet365 sportsbook in kentucky
+  - total addressable market
+  - sports betting odds
+  - offer
+  - operator's
+  - bonus
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0071]
 ---

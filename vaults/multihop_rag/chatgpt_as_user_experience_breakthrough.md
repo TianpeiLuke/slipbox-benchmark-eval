@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - chatgpt as a user experience breakthrough not an ai one
+  - generative ai
+  - adoption
+  - ais
+  - chatgpt's
+  - text-generating
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0047]
 ---

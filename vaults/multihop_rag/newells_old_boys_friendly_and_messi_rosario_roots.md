@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - newell s old boys friendly and messi s rosario roots
+  - coaching change
+  - inter
+  - miami
+  - newell's
+  - chicago
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0535]
 ---

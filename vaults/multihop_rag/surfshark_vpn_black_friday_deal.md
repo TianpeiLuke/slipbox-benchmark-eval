@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - surfshark vpn black friday deal
+  - black friday cyber monday
+  - holiday
+  - sale
+  - airpods
+  - apple
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0222]
 ---

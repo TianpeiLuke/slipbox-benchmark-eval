@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - egypt s 1991 gulf war debt forgiveness
+  - egypt's
+  - creditor
+  - cairo
+  - relief
+  - sinai
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0218]
 ---

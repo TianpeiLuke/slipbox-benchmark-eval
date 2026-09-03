@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - beats and airpods holiday 2023 deals
+  - discount and msrp
+  - battery technology
+  - battery life and charging
+  - wired
+  - walmart
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0320, doc_0576]
 ---

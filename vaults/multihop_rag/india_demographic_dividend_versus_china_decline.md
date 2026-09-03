@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - india s demographic dividend versus china s decline
+  - growth
+  - india's
+  - china's
+  - population
+  - global
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0532]
 ---

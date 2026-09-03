@@ -1,4 +1,24 @@
 ---
+tags:
+  - resource
+  - business
+  - entertainment
+  - science
+  - concept
+keywords:
+  - clinical trial
+  - trials
+  - placebo
+  - phage
+  - therapy
+  - efficacy
+topics:
+  - Business
+  - Entertainment
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0239, doc_0472, doc_0566, doc_0310]
 enriched: web

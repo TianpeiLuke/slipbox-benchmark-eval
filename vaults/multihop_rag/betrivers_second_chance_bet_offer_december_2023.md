@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - claiming betrivers second chance bet with bonus code sportsriv
+  - offer
+  - welcome
+  - betmgm
+  - vermont
+  - bet365
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0202]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - premier league standings and other results november 2023
+  - nottingham
+  - city
+  - forest
+  - chelsea
+  - reaction
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0142]
 ---

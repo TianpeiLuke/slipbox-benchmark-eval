@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - 14 inch macbook pro m3 holiday deal
+  - discount and msrp
+  - black friday cyber monday
+  - ram
+  - amazon
+  - anker
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0091, doc_0104, doc_0222]
 ---

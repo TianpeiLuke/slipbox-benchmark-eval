@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - binance s ceo succession richard teng
+  - zhao
+  - binance's
+  - plea
+  - abu
+  - dhabi
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0374]
 ---

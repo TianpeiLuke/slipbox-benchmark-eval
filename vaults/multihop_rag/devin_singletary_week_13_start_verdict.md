@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - devin singletary week 13 start him last week s carry count was an aberration
+  - verdict
+  - texans
+  - matchup
+  - mixon
+  - weekly
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057]
 ---

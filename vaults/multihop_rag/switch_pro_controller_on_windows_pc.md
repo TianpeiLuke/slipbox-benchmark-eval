@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - using a switch pro controller on a windows pc
+  - steam
+  - bitdo
+  - dualsense
+  - wireless
+  - ultimate
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0236]
 ---

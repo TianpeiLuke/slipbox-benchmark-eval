@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - affordable housing supply gap for low income renters
+  - homes
+  - simply
+  - underwriting
+  - affordability
+  - inventory
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0430]
 ---

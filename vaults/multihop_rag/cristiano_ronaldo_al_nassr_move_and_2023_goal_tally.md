@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - cristiano ronaldo s al nassr move and 53 goal 2023
+  - transfer window
+  - saudi
+  - arabia
+  - tally
+  - ronaldo's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0277]
 ---

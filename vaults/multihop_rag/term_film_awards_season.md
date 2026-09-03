@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - technology
+  - concept
+keywords:
+  - film awards season
+  - oscar
+  - academy
+  - bait
+  - nominations
+  - oscar-baity
+topics:
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0094, doc_0126, doc_0165, doc_0177, doc_0192, doc_0587]
 enriched: web

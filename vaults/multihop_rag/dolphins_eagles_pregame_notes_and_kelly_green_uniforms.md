@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - dolphins eagles pregame kelly green day afc east stakes and a tua hurts reunion
+  - national football league
+  - dolphins-eagles
+  - philadelphia
+  - jalen
+  - sunday
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0143]
 ---

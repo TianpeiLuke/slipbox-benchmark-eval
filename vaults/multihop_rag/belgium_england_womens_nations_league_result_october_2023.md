@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - belgium 3 2 england the women s nations league result october 2023
+  - leg
+  - canada-jamaica
+  - second
+  - belgium-england
+  - qualification
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0151]
 ---

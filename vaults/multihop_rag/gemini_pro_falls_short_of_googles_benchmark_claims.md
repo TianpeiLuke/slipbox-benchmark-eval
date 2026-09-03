@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - anecdotal evidence undercuts google s gemini pro claims
+  - multilingual
+  - summarization
+  - coding
+  - failures
+  - bard
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0126]
 ---

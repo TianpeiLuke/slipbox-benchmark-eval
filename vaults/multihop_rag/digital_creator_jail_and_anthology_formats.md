@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - digital creator jail and why anthology formats are the escape
+  - covid 19
+  - user generated content
+  - reich
+  - mulligan
+  - dropout
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0586]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - white company s nightwear and pre lit christmas tree
+  - nba
+  - tradition
+  - decorations
+  - picks
+  - traditions
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0068]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - gogoro s indian commercial launch and investments
+  - battery technology
+  - gogoro's
+  - battery-technology
+  - electric
+  - battery-swapping
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0216]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - concept
+keywords:
+  - cranberry flower and pollination biology
+  - cranberries
+  - cultivation
+  - genome
+  - breeding
+  - thanksgiving
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0131]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - anker soundcore liberty 4 nc earbuds deal prices
+  - discount and msrp
+  - space
+  - charger
+  - a40
+  - q45
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0404, doc_0595]
 ---

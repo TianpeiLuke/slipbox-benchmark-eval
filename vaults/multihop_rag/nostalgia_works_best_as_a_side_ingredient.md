@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - nostalgia works best as a side ingredient
+  - sports betting odds
+  - streaming service
+  - disney
+  - walt
+  - disney's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0434]
 ---

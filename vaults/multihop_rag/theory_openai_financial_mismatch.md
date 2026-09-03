@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - hypothesis
+keywords:
+  - theory a financial mismatch at openai
+  - altman
+  - board
+  - theories
+  - firing
+  - board's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0333]
 ---

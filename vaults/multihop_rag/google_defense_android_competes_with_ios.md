@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - google s defense android competes with ios
+  - antitrust
+  - criminal trial
+  - store
+  - epic
+  - app
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0299, doc_0355]
 ---

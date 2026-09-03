@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - good fight paramount plus
+  - user generated content
+  - streaming service
+  - creator economy
+  - tags
+  - bail
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0185]
 ---

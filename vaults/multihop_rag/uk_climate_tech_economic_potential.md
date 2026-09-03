@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - uk s climate tech economic potential
+  - product launch
+  - policy
+  - consistent
+  - uk's
+  - reversal
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0599]
 ---

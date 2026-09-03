@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - dean evason coaching career path
+  - lobbying political donations
+  - playoff seeding
+  - coaching change
+  - wild
+  - hynes
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0340]
 ---

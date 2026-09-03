@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - nfl s revenue lead and goodell s 27 billion target for 2027
+  - national football league
+  - premier league
+  - appeals process
+  - nfl's
+  - deduction
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0344]
 ---

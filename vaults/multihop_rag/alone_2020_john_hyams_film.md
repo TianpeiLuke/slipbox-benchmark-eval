@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - alone a taut 98 minute woman on the run thriller
+  - horror
+  - woman-on-the-run
+  - polygon
+  - willcox
+  - menchaca
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

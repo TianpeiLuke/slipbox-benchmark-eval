@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - bankman fried and zhao convictions and binance s aftermath
+  - class action settlement
+  - total addressable market
+  - initial public offering
+  - coinbase
+  - exchange
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0375]
 ---

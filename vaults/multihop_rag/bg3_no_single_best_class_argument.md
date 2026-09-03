@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - there is no single best class in baldur s gate 3
+  - bg3
+  - baldur's
+  - classes
+  - character
+  - cullagh
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0016, doc_0017]
 ---

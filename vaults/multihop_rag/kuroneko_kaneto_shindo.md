@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - kuroneko kaneto shindo
+  - streaming service
+  - criterion
+  - samurai
+  - channel
+  - horror
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0165]
 ---

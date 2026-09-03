@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - canada vs jamaica second leg kickoff and broadcast
+  - streaming service
+  - nations
+  - concacaf
+  - copa
+  - fubo
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0232]
 ---

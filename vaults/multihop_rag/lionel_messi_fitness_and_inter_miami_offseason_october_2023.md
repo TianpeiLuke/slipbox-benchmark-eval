@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - messi s fitness and inter miami s offseason october 2023
+  - playoff seeding
+  - transfer window
+  - world cup
+  - paraguay
+  - argentina
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0534]
 ---

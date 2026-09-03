@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - cybertruck s danger is a large truck problem
+  - pedestrian
+  - highway
+  - safety
+  - tesla
+  - stainless
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0548]
 ---

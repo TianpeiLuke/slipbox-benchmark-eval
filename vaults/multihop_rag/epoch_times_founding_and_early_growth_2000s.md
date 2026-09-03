@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - epoch times founding and early growth in the 2000s
+  - lobbying political donations
+  - falun
+  - gong
+  - thanksgiving
+  - chinese
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0076]
 ---

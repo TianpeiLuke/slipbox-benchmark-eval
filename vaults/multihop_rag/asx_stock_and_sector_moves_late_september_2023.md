@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - asx stock and sector moves late september 2023
+  - cent
+  - miners
+  - session
+  - wall
+  - selloff
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0001]
 ---

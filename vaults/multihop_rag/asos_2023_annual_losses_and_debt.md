@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - asos 2023 annual losses and debt
+  - fashion
+  - ratajkowski
+  - emily
+  - shoot
+  - asos's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0397]
 ---

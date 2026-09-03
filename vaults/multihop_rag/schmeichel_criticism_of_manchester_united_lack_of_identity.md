@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - schmeichel s criticism of manchester united s lack of identity
+  - ham
+  - west
+  - carabao
+  - cup
+  - schmeichel's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0438]
 ---

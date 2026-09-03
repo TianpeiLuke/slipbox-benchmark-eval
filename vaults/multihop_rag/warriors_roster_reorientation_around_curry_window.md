@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - warriors roster reorientation around curry window
+  - trade and free agency
+  - draft
+  - candidacy
+  - contract
+  - deadline
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0522]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - hypothesis
+keywords:
+  - agility robotics prediction of ubiquitous humanoids
+  - robots
+  - digit
+  - warehouse
+  - agility's
+  - robotics'
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0421]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - nicolas jackson s first premier league hat trick at tottenham
+  - lobbying political donations
+  - actors and writers strike
+  - chelsea
+  - hat-trick
+  - sterling
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0478]
 ---

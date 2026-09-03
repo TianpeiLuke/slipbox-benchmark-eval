@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - mortgage rate lock in effect freezing us home sales
+  - housing
+  - lock-in
+  - inventory
+  - rates
+  - peak
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0479]
 ---

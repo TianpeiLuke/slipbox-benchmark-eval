@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - jim jordan s political profile and record
+  - lobbying political donations
+  - ohio
+  - state
+  - house
+  - cfp
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0223, doc_0377]
 ---

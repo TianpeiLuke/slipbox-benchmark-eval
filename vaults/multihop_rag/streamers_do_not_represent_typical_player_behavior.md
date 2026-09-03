@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - counter_argument
+keywords:
+  - streamers do not represent typical player behavior
+  - creator economy
+  - twitch
+  - sentiment
+  - tfue
+  - tenney
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0545]
 ---

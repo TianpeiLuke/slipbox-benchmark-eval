@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - eu ai act remote biometric identification exceptions
+  - trafficking
+  - stopgap
+  - exploitation
+  - suspected
+  - retrospective
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0564]
 ---

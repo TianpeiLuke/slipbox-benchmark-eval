@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - nfl week 11 power rankings 1 8
+  - fine penalty
+  - national football league
+  - super bowl
+  - ers
+  - playoff
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0119]
 ---

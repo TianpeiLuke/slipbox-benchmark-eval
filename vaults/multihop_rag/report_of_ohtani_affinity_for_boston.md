@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - report of ohtani s affinity for boston
+  - trade and free agency
+  - offseason
+  - passan's
+  - jeff
+  - mariners
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0480]
 ---

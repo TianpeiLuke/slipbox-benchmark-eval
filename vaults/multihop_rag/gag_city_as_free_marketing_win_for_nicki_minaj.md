@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - gag city as a free marketing win for nicki minaj
+  - lobbying political donations
+  - streaming service
+  - covid 19
+  - covid-era
+  - meme
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0469]
 ---

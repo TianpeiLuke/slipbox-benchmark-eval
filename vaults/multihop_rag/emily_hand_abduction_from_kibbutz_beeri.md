@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - emily hand s abduction from kibbutz be eri
+  - gaza
+  - hostage
+  - be'eri
+  - israel
+  - casualties
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0596]
 ---

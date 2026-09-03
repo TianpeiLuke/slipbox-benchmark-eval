@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - tiktok users music discovery and sharing rates
+  - luminate
+  - artists
+  - study
+  - contradiction
+  - marketing
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0363]
 ---

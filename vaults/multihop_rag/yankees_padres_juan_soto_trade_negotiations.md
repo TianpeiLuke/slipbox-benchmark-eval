@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - how the yankees padres juan soto negotiations progressed
+  - major league baseball
+  - acquisition
+  - verdugo
+  - trade
+  - jon
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0120]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - hypothesis
+keywords:
+  - theory a security or privacy incident at openai
+  - data privacy
+  - sports betting odds
+  - altman
+  - murati
+  - board
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0333]
 ---

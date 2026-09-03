@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - women in leadership and company performance argument
+  - check
+  - point
+  - rupal
+  - hollenbeck
+  - she
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0373]
 ---

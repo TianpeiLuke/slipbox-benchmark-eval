@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - franke defense that hildebrandt s influence drove the abuse
+  - plea
+  - statement
+  - franke's
+  - jodi
+  - ruby
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0269]
 ---

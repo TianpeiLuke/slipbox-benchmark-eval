@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - youtube s ai music incubator and its rightsholder pledges
+  - generative ai
+  - creator economy
+  - artists
+  - fair
+  - training
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0381]
 ---

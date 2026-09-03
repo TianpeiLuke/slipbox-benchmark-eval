@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - connor bedard s nhl debut blackhawks beat penguins 4 2
+  - period
+  - turk
+  - rust
+  - bedard's
+  - rookie
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0483]
 ---

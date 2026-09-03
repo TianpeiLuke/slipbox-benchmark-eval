@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - france beat italy to top rugby world cup pool a
+  - coaching change
+  - head-coach
+  - dupont
+  - france's
+  - galthi
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0414]
 ---

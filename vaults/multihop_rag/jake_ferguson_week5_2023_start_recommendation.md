@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - jake ferguson as a week 5 2023 start against the 49ers
+  - prescott
+  - catch
+  - goedert
+  - dallas
+  - tight
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0058]
 ---

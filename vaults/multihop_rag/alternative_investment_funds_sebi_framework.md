@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - alternative investment funds under the sebi framework
+  - initial public offering
+  - aifs
+  - hni
+  - crore
+  - portfolios
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0252]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - nba in game betting wagering while the game unfolds
+  - sports betting odds
+  - national basketball association
+  - sportsbook
+  - fanduel
+  - markets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0368]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - coming to america 1988 eddie murphy s romantic comedy
+  - streaming service
+  - murphy's
+  - activision
+  - arsenio
+  - earl
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

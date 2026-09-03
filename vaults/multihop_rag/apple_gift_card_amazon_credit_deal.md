@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - apple gift card and amazon credit deal
+  - holiday
+  - store
+  - airpods
+  - promotion
+  - gen
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0091, doc_0104]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - american debt burden and the new american dream
+  - streaming service
+  - mrbeast
+  - fire
+  - streaming-service
+  - theme
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0509]
 ---

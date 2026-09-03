@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - st kilda s 2023 aflw finals near miss
+  - fremantle
+  - brisbane
+  - disposals
+  - prospect
+  - possessions
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0208, doc_0209]
 ---

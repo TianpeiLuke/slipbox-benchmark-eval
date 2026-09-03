@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - reactions to jim harbaugh s suspension
+  - coaching change
+  - ten
+  - michigan
+  - big
+  - punishment
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0180]
 ---

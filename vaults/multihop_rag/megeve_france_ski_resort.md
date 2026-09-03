@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - meg ve 400km of slopes and mont blanc views
+  - resort
+  - ski
+  - luxury
+  - round-up
+  - alpine
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0573]
 ---

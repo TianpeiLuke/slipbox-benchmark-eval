@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - kei kamara sat on the bench one goal short of landon donovan
+  - miami
+  - inter
+  - chicago
+  - cincinnati
+  - fire
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0041]
 ---

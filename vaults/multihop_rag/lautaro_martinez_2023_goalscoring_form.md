@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - lautaro martinez s 2023 goalscoring form for inter milan
+  - lobbying political donations
+  - actors and writers strike
+  - serie
+  - paraguay
+  - argentina
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0277, doc_0352]
 ---

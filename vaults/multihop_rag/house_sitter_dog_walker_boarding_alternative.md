@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - procedure
+keywords:
+  - house sitter and dog walker as a boarding alternative
+  - canine
+  - illness
+  - respiratory
+  - atypical
+  - bacterium
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0565]
 ---

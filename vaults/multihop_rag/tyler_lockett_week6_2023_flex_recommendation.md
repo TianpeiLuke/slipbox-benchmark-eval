@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - tyler lockett as a week 6 2023 flex starter at cincinnati
+  - bengals
+  - zone
+  - receivers
+  - mayfield
+  - snf
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0149]
 ---

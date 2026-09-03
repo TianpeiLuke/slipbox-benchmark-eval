@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - what really matters is the underlying catalogue performance
+  - acquisition
+  - hipgnosis
+  - hsf
+  - songs
+  - mercuriadis
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0263]
 ---

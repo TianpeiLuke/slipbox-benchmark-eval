@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - user generated content
+  - ugc
+  - snap
+  - user-generated
+  - stories
+  - map
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0025, doc_0026, doc_0106, doc_0124, doc_0401]
 enriched: web

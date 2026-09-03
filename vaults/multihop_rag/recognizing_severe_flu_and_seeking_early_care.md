@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - procedure
+keywords:
+  - recognizing a severe flu and seeking early care
+  - miller
+  - allison
+  - amputation
+  - influenza
+  - vaccination
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0065]
 ---

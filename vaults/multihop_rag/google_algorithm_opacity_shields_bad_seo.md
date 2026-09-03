@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - how algorithm opacity shields bad seos
+  - spam
+  - search
+  - babin
+  - blatt
+  - talented
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0115]
 ---

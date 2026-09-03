@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - justice hill as a week 6 2023 ppr sneaky sleeper at tennessee
+  - colts
+  - moss
+  - fantasy
+  - zack
+  - gus
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0149]
 ---

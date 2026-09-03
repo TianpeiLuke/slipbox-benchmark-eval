@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - newcastle s squad depth deficit in europe
+  - actors and writers strike
+  - newcastle's
+  - milan
+  - champions
+  - munich
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0425]
 ---

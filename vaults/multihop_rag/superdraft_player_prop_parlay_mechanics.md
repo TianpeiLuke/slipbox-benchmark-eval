@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - superdraft player prop parlay mechanics
+  - sports betting odds
+  - shots
+  - two-legged
+  - payout
+  - markets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0296]
 ---

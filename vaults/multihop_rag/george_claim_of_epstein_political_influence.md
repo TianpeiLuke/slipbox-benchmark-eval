@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - george s claim of epstein s political influence
+  - fraud
+  - lobbying political donations
+  - denise
+  - islands
+  - virgin
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0477]
 ---

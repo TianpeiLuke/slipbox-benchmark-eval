@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - cole palmer s england call up and upbringing
+  - stamford
+  - bridge
+  - chelsea
+  - palmer's
+  - call-up
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0445]
 ---

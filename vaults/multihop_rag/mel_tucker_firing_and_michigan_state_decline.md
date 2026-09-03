@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - mel tucker s firing and michigan state s decline since mark dantonio
+  - contract extension
+  - penn
+  - oregon
+  - stalions
+  - jonathan
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0411]
 ---

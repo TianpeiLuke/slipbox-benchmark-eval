@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - risk that bankman fried implicates the whole crypto industry
+  - bail
+  - bankman-fried
+  - messages
+  - chat
+  - ftx
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0175]
 ---

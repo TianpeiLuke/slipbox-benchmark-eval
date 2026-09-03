@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - diablo 4 sorcerer firewall endgame build
+  - dungeon
+  - drop
+  - barbarian
+  - rank
+  - leveling
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0122]
 ---

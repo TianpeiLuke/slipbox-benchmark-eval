@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - why sporting news picked the bills in week 16
+  - chargers
+  - buffalo
+  - trends
+  - afc
+  - wild
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0376]
 ---

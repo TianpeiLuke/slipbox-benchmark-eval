@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ufc 295 a lost main event two title fights and a season betting record of 28 28
+  - prochazka
+  - pereira
+  - madison
+  - garden
+  - square
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0577]
 ---

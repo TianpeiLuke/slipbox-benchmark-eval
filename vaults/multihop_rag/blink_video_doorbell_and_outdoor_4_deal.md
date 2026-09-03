@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - blink video doorbell and outdoor 4 deal
+  - battery technology
+  - fine penalty
+  - battery life and charging
+  - battery-and-charging
+  - listings
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0069]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - hands on comparison of google bing and duckduckgo search
+  - generative ai
+  - hardware device
+  - smart home device
+  - writer
+  - crawls
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0032]
 ---

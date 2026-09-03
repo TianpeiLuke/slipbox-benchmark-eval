@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - line of credit
+  - alameda
+  - ftx
+  - testified
+  - billion
+  - facility
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0009, doc_0053, doc_0086, doc_0121, doc_0226, doc_0305]
 enriched: web

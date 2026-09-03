@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - travis kelce relationship and eras tour film publicity
+  - national football league
+  - chiefs
+  - box
+  - movie
+  - backlash
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0419]
 ---

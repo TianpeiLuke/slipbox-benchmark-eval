@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - dodgers payroll constraints against signing both ohtani and trout
+  - valuation
+  - major league baseball
+  - streaming service
+  - million
+  - dodgers'
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0423]
 ---

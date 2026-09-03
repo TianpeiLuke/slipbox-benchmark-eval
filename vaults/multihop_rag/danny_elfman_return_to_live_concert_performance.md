@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - danny elfman s return to live concert performance
+  - nightmare
+  - oingo
+  - boingo
+  - elfman's
+  - coachella
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0587]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - fashion industry s plus size inclusivity gap
+  - plus-size
+  - asos
+  - ratajkowski
+  - emily
+  - shoot
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0502]
 ---

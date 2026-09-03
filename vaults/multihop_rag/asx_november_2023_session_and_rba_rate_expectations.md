@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - asx november 2023 session and rba rate expectations
+  - game patch notes
+  - cent
+  - laggards
+  - miners
+  - down
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0357]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - intestinal stem cell balance and wnt signalling
+  - cells
+  - daam1
+  - paneth
+  - organoid
+  - tissue
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0302]
 ---

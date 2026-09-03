@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - cjeu s 2020 ruling on the rental lending directive
+  - payment processor
+  - reciprocity
+  - copyright
+  - european
+  - legislature
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0361]
 ---

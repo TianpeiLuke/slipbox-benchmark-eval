@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - ynab and copilot the two go to budgeting apps
+  - installer
+  - kevin
+  - reader
+  - picks
+  - go-to
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0607]
 ---

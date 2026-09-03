@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - savannah montano s denial attacks the premise that she knew jake paul
+  - user generated content
+  - dillon
+  - danis
+  - paul's
+  - montano's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0274]
 ---

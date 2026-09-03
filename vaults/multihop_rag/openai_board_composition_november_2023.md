@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - openai s board composition in november 2023
+  - sutskever
+  - ilya
+  - toner
+  - helen
+  - departure
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0332]
 ---

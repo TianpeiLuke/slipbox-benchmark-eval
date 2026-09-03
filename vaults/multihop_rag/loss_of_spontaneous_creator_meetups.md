@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - loss of spontaneous creator meetups
+  - creator economy
+  - twitch
+  - streamers
+  - commented
+  - creators
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0551]
 ---

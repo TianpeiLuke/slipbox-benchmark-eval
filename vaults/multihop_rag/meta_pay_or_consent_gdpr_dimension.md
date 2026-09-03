@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - gdpr track running alongside the consumer complaint
+  - data privacy
+  - beuc
+  - meta
+  - protection
+  - meta's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0140]
 ---

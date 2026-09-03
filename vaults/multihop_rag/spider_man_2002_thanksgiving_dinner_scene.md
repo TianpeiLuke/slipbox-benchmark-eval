@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - 2002 spider man thanksgiving dinner scene
+  - sports betting odds
+  - jane
+  - mary
+  - spider-man
+  - aunt
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0279]
 ---

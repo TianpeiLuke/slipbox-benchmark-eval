@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - prime day 2023 portable power station deals
+  - battery technology
+  - stations
+  - bank
+  - ecoflow
+  - lifepo4
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0520]
 ---

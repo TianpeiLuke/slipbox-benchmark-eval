@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ian foster s all blacks tenure and scott robertson s succession
+  - world cup
+  - coaching change
+  - proud
+  - africa
+  - final
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0022, doc_0176]
 ---

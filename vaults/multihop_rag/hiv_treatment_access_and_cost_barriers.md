@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - hiv treatment access and cost barriers
+  - science
+  - cabotegravir
+  - therapy
+  - art
+  - abdool
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0238]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - fifth third 1 67 cash back card overview
+  - amex
+  - magnet
+  - redemption
+  - rewards
+  - cardholder
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0470]
 ---

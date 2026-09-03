@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - deft s revenue model and pricing tiers
+  - search
+  - deft's
+  - e-commerce
+  - startup
+  - incumbents
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0301]
 ---

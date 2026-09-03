@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - science
+  - concept
+keywords:
+  - nobel prize
+  - chemistry
+  - quantum
+  - prizes
+  - swedish
+  - bequest
+topics:
+  - Business
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0262, doc_0436, doc_0418]
 enriched: web

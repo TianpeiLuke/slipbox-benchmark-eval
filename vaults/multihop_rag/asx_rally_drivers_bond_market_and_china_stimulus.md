@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - what drove the asx rally on 10 october 2023
+  - game patch notes
+  - earnings report
+  - session
+  - rba
+  - clark
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0298]
 ---

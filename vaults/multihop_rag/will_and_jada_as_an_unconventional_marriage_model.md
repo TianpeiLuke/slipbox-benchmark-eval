@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - will and jada as a new unconventional marriage model
+  - separation
+  - smith
+  - pinkett
+  - arrangement
+  - expert
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0036]
 ---

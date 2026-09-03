@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - hipgnosis songs fund s results delay december 2023
+  - valuation
+  - discount and msrp
+  - hsf
+  - fund's
+  - citrin
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0263]
 ---

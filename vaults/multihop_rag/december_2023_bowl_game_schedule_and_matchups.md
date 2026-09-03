@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - december 2023 bowl game schedule and matchups
+  - sports betting odds
+  - espn
+  - broadcast
+  - cfp
+  - championship
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0433]
 ---

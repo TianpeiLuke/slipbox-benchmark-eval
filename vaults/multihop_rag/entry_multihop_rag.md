@@ -1,4 +1,19 @@
 ---
+tags:
+  - entry_point
+  - general
+keywords:
+  - multihop rag corpus root entry point
+  - clusters
+  - multihop-rag
+  - glossary
+  - stats
+  - publishers
+topics:
+  - General
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: navigation
 ---
 

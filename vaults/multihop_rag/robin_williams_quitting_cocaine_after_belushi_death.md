@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - robin williams quitting cocaine after john belushi s death
+  - overdose
+  - teale
+  - owen
+  - belushi's
+  - screen-figures
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0227]
 ---

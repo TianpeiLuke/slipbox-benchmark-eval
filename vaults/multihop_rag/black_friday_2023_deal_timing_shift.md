@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - black friday 2023 deals started a week early
+  - black friday cyber monday
+  - holiday
+  - amazon
+  - price
+  - camelcamelcamel
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0574]
 ---

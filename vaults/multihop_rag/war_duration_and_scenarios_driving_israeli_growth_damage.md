@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - war duration and scenarios driving israeli growth damage
+  - covid 19
+  - yom
+  - kippur
+  - economic
+  - policy
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0125]
 ---

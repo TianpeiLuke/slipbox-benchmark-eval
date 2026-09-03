@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - erasmus and nienaber depart after the springboks 2023 title
+  - world cup
+  - coaching change
+  - blacks
+  - africa
+  - rugby
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0022]
 ---

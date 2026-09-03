@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - west coast eagles upset win over essendon 2023
+  - aflw
+  - swanson
+  - collingwood
+  - wind
+  - finals
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0208]
 ---

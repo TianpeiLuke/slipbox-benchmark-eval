@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - killing for country by david marr
+  - regulatory investigation
+  - michael
+  - memoir
+  - genealogical
+  - devotional
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0582]
 ---

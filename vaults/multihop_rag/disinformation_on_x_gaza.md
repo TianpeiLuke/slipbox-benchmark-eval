@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - disinformation on x after the hamas attacks on israel
+  - gaza
+  - false
+  - border
+  - footage
+  - environment
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0024, doc_0025]
 ---

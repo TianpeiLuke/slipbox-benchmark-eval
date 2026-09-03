@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - nicolas jackson s goal disallowed for offside
+  - chelsea
+  - sterling
+  - raheem
+  - red
+  - udogie
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0379]
 ---

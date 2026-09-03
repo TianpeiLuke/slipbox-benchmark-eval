@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - gen z policy misalignment with the republican party
+  - creator economy
+  - lobbying political donations
+  - endorsement
+  - annie
+  - henry
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0468]
 ---

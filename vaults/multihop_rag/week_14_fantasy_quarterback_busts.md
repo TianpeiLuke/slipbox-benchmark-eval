@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - week 14 s biggest potential quarterback busts
+  - dobbs
+  - mnf
+  - fantasy
+  - bears-vikings
+  - josh
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0553]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - walmart cyber monday 2023 sonos amplifier and subwoofer deals
+  - hardware device
+  - discount and msrp
+  - hardware-device
+  - speakers
+  - discount-versus-msrp
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0320]
 ---

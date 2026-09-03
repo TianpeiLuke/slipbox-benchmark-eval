@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - hypothesis
+keywords:
+  - prediction generative ai disinformation in the 2024 election
+  - predictions
+  - reality
+  - eight
+  - becomes
+  - monolithic
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0365]
 ---

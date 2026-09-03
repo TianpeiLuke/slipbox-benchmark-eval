@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - against messi s mls mvp and newcomer nominations the league minutes do not support them
+  - most valuable player
+  - film awards season
+  - inter
+  - miami
+  - cincinnati
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0088]
 ---

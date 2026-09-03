@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - abdullah on product over profit in the music industry
+  - afrofuture
+  - ghana
+  - karim
+  - interview
+  - accra
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0085]
 ---

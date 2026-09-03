@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - alameda s special privileges written into ftx s code
+  - line of credit
+  - fraud
+  - wang
+  - billion
+  - ftx's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0226]
 ---

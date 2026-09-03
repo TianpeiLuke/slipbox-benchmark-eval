@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - pricing models for ai products
+  - usage based pricing
+  - large language model
+  - saas pricing
+  - usage-based
+  - llms
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0161]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - four layers of the genai tech stack
+  - large language model
+  - generative ai
+  - defensibility
+  - large-language-model
+  - startups
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0161]
 ---

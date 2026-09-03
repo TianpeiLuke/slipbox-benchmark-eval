@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - gogoro s company profile and open platform model
+  - battery technology
+  - gogoro's
+  - battery-technology
+  - india
+  - taiwan
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0216]
 ---

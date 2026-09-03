@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - model
+keywords:
+  - allocation challenge for children on liver transplant lists
+  - lucas
+  - goeller
+  - organ
+  - donor
+  - transplants
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0594]
 ---

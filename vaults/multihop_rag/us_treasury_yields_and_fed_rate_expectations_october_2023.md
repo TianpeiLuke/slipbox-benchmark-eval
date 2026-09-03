@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - us treasury yields and fed rate expectations in october 2023
+  - asx
+  - inflation
+  - cent
+  - equity
+  - higher
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0029, doc_0074]
 ---

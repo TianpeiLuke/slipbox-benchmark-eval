@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - prisco s week 12 sunday early window picks
+  - bucs
+  - mayfield
+  - baker
+  - prisco's
+  - jaguars
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0343]
 ---

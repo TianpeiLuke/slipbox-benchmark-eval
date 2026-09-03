@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - caring contacts effect on the social work staff who write the cards
+  - suicide
+  - nebraska
+  - schalley
+  - families
+  - licensed
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0158]
 ---

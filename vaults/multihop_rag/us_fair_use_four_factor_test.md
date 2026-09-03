@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - us four factor fair use test
+  - training
+  - copyrighted
+  - factors
+  - purposes
+  - four-factor
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0271]
 ---

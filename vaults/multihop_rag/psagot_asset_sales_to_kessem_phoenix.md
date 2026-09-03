@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - psagot s asset sales to kessem and the phoenix holdings group
+  - valuation
+  - psagot's
+  - rani
+  - mutual
+  - management
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0073]
 ---

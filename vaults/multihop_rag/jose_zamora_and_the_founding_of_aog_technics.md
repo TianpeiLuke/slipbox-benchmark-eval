@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - jose zamora and the founding of aog technics
+  - parts
+  - counterfeit
+  - london
+  - hove
+  - nasser
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0506]
 ---

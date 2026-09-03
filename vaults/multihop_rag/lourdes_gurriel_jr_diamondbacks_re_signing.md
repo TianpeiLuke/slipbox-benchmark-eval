@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - lourdes gurriel jr re signs with the diamondbacks
+  - astros
+  - arizona
+  - series
+  - re-signs
+  - free
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0422]
 ---

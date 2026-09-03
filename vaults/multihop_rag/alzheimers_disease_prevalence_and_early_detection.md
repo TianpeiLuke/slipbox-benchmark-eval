@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - alzheimer s prevalence and the value of early detection
+  - fasting
+  - restricted
+  - alzheimer's
+  - alzheimers
+  - eating
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0309]
 ---

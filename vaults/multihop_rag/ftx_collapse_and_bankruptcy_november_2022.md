@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - ftx s collapse and bankruptcy november 2022
+  - fine penalty
+  - bankman-fried
+  - alameda
+  - wang
+  - customer
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0162, doc_0293, doc_0305]
 ---

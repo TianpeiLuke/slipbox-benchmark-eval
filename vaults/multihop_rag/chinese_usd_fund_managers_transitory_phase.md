@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - chinese usd fund managers transitory phase
+  - covid 19
+  - china
+  - bay
+  - area
+  - tech
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0181]
 ---

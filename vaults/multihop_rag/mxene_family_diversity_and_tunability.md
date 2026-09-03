@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - concept
+keywords:
+  - mxene family diversity and tunability
+  - lobbying political donations
+  - mxenes
+  - co2
+  - connected
+  - tag
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0247]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - from the zero rate era to 8 mortgage rates
+  - housing
+  - mortgages
+  - zero-rate
+  - peak
+  - home
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0479]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - critique of political agendas in the philippine budget
+  - lobbying political donations
+  - corpus-level
+  - deficit
+  - tag
+  - equilibrium
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0306]
 ---

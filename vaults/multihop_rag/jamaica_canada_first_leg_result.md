@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - canada beat jamaica 2 1 in the nations league quarterfinal first leg
+  - player injury report
+  - actors and writers strike
+  - copa
+  - canada's
+  - soccer
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0157]
 ---

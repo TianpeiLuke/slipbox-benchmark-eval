@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - minecraft switch local multiplayer
+  - co-op
+  - sandbox
+  - stardew
+  - nintendo
+  - insecurity
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0428]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ole miss georgia broadcast and kickoff details
+  - streaming service
+  - georgia's
+  - espn
+  - sanford
+  - alabama
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0484]
 ---

@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - executive order
+  - marcos
+  - instrument
+  - president
+  - biden
+  - philippine
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0098, doc_0181, doc_0313, doc_0410, doc_0463]
 enriched: web

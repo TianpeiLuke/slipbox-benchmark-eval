@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - belgium england the second half and wullaert s penalty
+  - stanway
+  - nations
+  - belgium-england
+  - scotland
+  - wullaert's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0151]
 ---

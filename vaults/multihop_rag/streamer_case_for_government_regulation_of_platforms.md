@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - streamer s case for government regulation of platforms
+  - creator economy
+  - livestreaming
+  - streaming service
+  - kick
+  - twitch
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0405]
 ---

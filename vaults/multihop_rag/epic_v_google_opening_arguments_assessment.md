@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - simple versus complicated assessing the opening arguments
+  - criminal trial
+  - antitrust
+  - revenue split
+  - epic
+  - store
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0299]
 ---

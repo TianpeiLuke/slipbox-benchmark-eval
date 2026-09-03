@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - concept
+keywords:
+  - zinc iodine battery advantages and the dendrite problem
+  - battery technology
+  - batteries
+  - hydrogel
+  - battery-technology
+  - zinc-iodine
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0286]
 ---

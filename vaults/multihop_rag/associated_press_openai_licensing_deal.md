@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - associated press and openai s licensing deal
+  - generative ai
+  - product launch
+  - chatgpt
+  - chatgpt's
+  - openai's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0099]
 ---

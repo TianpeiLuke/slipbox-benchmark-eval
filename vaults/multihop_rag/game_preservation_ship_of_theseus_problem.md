@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - game preservation and the ship of theseus problem
+  - harper
+  - fortnite
+  - fortnite's
+  - nostalgia
+  - versions
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0549]
 ---

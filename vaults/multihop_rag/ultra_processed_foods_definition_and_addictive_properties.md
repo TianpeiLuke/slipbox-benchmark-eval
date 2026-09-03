@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - concept
+keywords:
+  - ultra processed foods definition and addictive properties
+  - addiction
+  - ultra-processed
+  - fats
+  - review
+  - classifying
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0467]
 ---

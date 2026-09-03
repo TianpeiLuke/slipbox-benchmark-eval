@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - sports
+  - concept
+keywords:
+  - contract extension
+  - oregon
+  - michigan
+  - worth
+  - signing
+  - state
+topics:
+  - Business
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0079, doc_0179, doc_0316, doc_0411, doc_0120, doc_0142, doc_0089]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - spill s community quality over growth argument
+  - community-quality-over-growth
+  - spill's
+  - ppv
+  - tea
+  - social
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0488]
 ---

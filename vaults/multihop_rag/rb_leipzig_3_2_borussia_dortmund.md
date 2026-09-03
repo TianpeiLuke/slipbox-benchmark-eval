@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - rb leipzig 3 2 borussia dortmund
+  - champions
+  - psg
+  - milan
+  - bayern
+  - udinese
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0093]
 ---

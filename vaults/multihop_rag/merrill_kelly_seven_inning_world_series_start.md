@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - merrill kelly s seven inning world series start
+  - playoff seeding
+  - bullpen
+  - diamondbacks
+  - postseason
+  - innings
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0512]
 ---

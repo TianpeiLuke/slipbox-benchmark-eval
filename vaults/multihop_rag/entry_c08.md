@@ -1,4 +1,19 @@
 ---
+tags:
+  - entry_point
+  - general
+keywords:
+  - entry point entertainment cluster c08
+  - polygon's
+  - ranked
+  - starring
+  - playstation
+  - diablo
+topics:
+  - General
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: navigation
 ---
 

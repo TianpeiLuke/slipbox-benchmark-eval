@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - federal reserve rate path expectations late 2023
+  - earnings report
+  - cent
+  - asx
+  - yields
+  - session
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0028, doc_0357]
 ---

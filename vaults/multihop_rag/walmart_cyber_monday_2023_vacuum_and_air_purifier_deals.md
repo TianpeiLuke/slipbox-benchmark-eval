@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - walmart cyber monday 2023 vacuum and air purifier deals
+  - battery technology
+  - streaming service
+  - discount and msrp
+  - discount-versus-msrp
+  - wired
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0320]
 ---

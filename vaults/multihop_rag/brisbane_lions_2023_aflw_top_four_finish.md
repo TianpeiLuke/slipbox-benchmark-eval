@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - brisbane lions 2023 aflw top four finish
+  - lobbying political donations
+  - finals
+  - prospect
+  - melbourne
+  - draft
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0208, doc_0209]
 ---

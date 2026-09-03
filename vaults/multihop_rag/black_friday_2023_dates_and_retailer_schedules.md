@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - black friday 2023 dates and retailer schedules
+  - black friday cyber monday
+  - video game release
+  - amazon
+  - sale
+  - walmart
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0222]
 ---

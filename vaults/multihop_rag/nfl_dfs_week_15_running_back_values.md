@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - nfl dfs week 15 running back values
+  - national football league
+  - daily fantasy sports
+  - coaching change
+  - discount
+  - gibson
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0544]
 ---

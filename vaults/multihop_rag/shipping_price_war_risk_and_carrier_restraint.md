@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - shipping price war risk and the case for carrier restraint
+  - covid 19
+  - pandemic-era
+  - container
+  - cma
+  - context
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0321]
 ---

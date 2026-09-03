@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - michael wolff on fox news and rupert murdoch
+  - lewis
+  - infinite
+  - title
+  - roundup
+  - novel
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0582]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - lego star wars baby yoda deal and the decline of the doorbuster
+  - black friday cyber monday
+  - discount and msrp
+  - walmart
+  - amazon
+  - watch
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0558]
 ---

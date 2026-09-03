@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - cat people 1942 and the origin of the jump scare
+  - streaming service
+  - horror
+  - fire
+  - streaming-service
+  - amazon
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0165]
 ---

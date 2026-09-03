@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - argentina s first half dominance against paraguay
+  - actors and writers strike
+  - lautaro
+  - enzo
+  - fernandez
+  - argentina's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0534]
 ---

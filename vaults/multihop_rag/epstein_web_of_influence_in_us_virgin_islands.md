@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - epstein s web of influence in the us virgin islands
+  - lobbying political donations
+  - governor
+  - george
+  - denise
+  - epstein's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0477]
 ---

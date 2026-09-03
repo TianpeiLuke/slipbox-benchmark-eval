@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - caring contacts origin and its may 2020 launch
+  - covid 19
+  - suicide
+  - schalley
+  - contacts'
+  - nebraska
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0158]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - amazon mit and ipsos robot perception study
+  - robots
+  - robotics
+  - agility
+  - amazon's
+  - industrial
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0528]
 ---

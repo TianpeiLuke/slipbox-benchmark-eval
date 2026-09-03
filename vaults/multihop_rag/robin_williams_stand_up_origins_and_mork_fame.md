@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - robin williams stand up origins and mork fame
+  - cocaine
+  - teale
+  - owen
+  - death
+  - stand-up
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0227]
 ---

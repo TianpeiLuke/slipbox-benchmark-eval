@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - booster gold tv series
+  - public health guidance
+  - logline
+  - lanterns
+  - studios
+  - detectives
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0081]
 ---

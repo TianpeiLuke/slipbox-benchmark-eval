@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - model
+keywords:
+  - blood brain barrier and active drug transport
+  - drugs
+  - dementia
+  - diagnosis
+  - blood-brain
+  - amyloid
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0427]
 ---

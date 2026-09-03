@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - arsenal s 2 1 win at sevilla in group b
+  - champions
+  - arsenal's
+  - league
+  - group-stage
+  - arteta
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0476]
 ---

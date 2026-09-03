@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - canelo alvarez s undisputed super middleweight titles and 180 million net worth
+  - charlo
+  - mcgregor
+  - jermell
+  - benavidez
+  - andrade
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0194]
 ---

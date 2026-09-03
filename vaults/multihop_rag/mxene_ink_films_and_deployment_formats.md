@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - procedure
+keywords:
+  - mxene ink films and deployment formats
+  - co2
+  - mxenes
+  - capture
+  - carbon
+  - powder
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0247]
 ---

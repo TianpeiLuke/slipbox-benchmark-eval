@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - india fy24 capex led growth and fiscal position
+  - year-on-year
+  - ntpc
+  - global
+  - gdp
+  - cent
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0532]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - samu kerevi s defence of eddie jones
+  - coaching change
+  - coaching-change
+  - rugby
+  - kerevi's
+  - he's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0168]
 ---

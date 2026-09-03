@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - procedure
+keywords:
+  - core functions of a health care chief ai officer
+  - castro
+  - bhavik
+  - mayo
+  - clinic
+  - patel
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0163]
 ---

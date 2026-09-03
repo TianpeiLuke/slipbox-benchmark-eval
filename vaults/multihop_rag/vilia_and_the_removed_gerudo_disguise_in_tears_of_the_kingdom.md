@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - vilia and the removed gerudo disguise in tears of the kingdom
+  - class action settlement
+  - link
+  - gender
+  - armor
+  - breath
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0389]
 ---

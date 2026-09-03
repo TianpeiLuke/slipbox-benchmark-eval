@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - britney spears on body scrutiny and diet control
+  - concert tour
+  - conservatorship
+  - timberlake
+  - her
+  - spears'
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0052]
 ---

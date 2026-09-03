@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - grinchy griping and child egocentric thinking
+  - christmas
+  - hannah
+  - children
+  - keeley's
+  - martyr
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0148]
 ---

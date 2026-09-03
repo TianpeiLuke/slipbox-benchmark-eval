@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - escalation of alameda s negative balance
+  - ftt token
+  - line of credit
+  - fraud
+  - ftx
+  - wang
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0121, doc_0305]
 ---

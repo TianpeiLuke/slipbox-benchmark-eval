@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jordan poyer s ego and perspective shift
+  - national football league
+  - ayahuasca
+  - poyer's
+  - chiefs
+  - kansas
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0322]
 ---

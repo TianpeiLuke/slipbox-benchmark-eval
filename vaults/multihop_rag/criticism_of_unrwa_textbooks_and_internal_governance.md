@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - criticism of unrwa s textbooks and internal governance
+  - gaza
+  - humanitarian
+  - unrwa's
+  - administrations
+  - agency's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0135]
 ---

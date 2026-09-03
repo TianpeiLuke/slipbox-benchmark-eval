@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - astros manager search after dusty baker s retirement
+  - showalter
+  - astros'
+  - vacancies
+  - series
+  - managerial
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0416]
 ---

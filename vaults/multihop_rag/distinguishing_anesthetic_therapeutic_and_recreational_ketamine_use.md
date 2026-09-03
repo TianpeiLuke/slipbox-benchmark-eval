@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - concept
+keywords:
+  - distinguishing anesthetic therapeutic and recreational ketamine use
+  - depression
+  - adulterated
+  - askp3
+  - dissociative
+  - prescriber
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0390]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - meta moderation bias
+  - accessibility localisation
+  - shadowbanning
+  - lobbying political donations
+  - palestinian
+  - arabic
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0106]
 ---

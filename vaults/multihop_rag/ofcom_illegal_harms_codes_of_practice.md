@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - ofcom s recommended practices and enforcement for illegal harms
+  - csam scanning
+  - fine penalty
+  - game patch notes
+  - safety
+  - ofcom's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0498]
 ---

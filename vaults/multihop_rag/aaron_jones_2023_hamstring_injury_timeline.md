@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - aaron jones in 2023 from a thursday night return to a week 11 knee injury
+  - player injury report
+  - packers
+  - lions-packers
+  - green
+  - bay
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0113, doc_0282]
 ---

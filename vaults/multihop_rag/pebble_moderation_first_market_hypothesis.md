@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - hypothesis
+keywords:
+  - pebble s moderation first market hypothesis
+  - pebble's
+  - twitter
+  - shutdown
+  - moderation-first
+  - kindness
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0593]
 ---

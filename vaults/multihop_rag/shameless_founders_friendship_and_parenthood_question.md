@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - parenthood conversation shameless s founders had to have as business partners
+  - mcdonald
+  - shameless's
+  - andrews
+  - contingency
+  - profile
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0523]
 ---

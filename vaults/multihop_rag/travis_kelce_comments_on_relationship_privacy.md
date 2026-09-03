@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - travis kelce s comments on relationship privacy
+  - swift
+  - taylor
+  - nfl
+  - swift's
+  - attendance
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0059]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - coupled models fail to reproduce observed warming patterns
+  - climate
+  - sensitivity
+  - variability
+  - biases
+  - ocean
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0139]
 ---

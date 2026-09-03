@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - procedure
+keywords:
+  - heat index and humidex mapping method
+  - stress
+  - urban
+  - disparity
+  - cities
+  - humidity
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0084]
 ---

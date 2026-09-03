@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - inter miami eliminated from the 2023 mls playoff race with two games left
+  - playoff seeding
+  - messi
+  - chicago
+  - paraguay
+  - lionel
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0041, doc_0088]
 ---

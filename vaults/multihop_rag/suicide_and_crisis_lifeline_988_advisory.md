@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - concept
+keywords:
+  - 988 suicide and crisis lifeline advisory
+  - caring
+  - contacts
+  - waller
+  - amanda
+  - spinoff
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0158]
 ---

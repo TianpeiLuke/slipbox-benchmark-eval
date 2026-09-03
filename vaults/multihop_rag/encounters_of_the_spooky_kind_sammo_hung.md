@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - encounters of the spooky kind sammo hung s jiangshi martial arts comedy
+  - streaming service
+  - horror
+  - criterion
+  - vampire
+  - hung's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

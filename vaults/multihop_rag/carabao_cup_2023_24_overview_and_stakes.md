@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - what the carabao cup is and what winning it is worth in 2023 24
+  - celebrity endorsement
+  - round
+  - results
+  - draw
+  - league
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0100]
 ---

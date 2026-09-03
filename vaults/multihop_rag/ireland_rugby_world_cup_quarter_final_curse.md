@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - ireland s rugby world cup quarter final curse
+  - blacks
+  - quarter-final
+  - ireland's
+  - rwc
+  - zealand
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0538]
 ---

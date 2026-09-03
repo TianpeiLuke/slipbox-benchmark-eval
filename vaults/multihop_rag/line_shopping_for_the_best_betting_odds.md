@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - line shopping comparing sportsbooks to maximize your return
+  - sports betting odds
+  - national basketball association
+  - major league baseball
+  - nba
+  - lines
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0264, doc_0368]
 ---

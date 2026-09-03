@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - technology
+  - concept
+keywords:
+  - data breach
+  - roblox
+  - andme
+  - hacked
+  - dicom
+  - exposure
+topics:
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0015, doc_0178, doc_0189, doc_0334]
 enriched: web

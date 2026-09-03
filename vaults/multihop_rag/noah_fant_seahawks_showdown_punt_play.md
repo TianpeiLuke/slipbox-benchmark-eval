@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - noah fant as the showdown punt play
+  - fine penalty
+  - fanduel
+  - tight
+  - seahawks
+  - eagles'
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0386]
 ---

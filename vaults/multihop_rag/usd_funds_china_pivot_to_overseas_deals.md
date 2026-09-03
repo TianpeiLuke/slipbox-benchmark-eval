@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - usd funds in china turn to overseas deals
+  - covid 19
+  - appeals process
+  - valley
+  - silicon
+  - area
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0181]
 ---

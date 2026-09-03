@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - toronto reports and denials of dec 8 2023
+  - major league baseball
+  - ohtani
+  - jays
+  - blue
+  - angels
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0426]
 ---

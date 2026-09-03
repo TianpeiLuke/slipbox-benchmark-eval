@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - t2 to pebble rebrand misstep
+  - pebble's
+  - twitter
+  - shutdown
+  - moderation
+  - cselle
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0593]
 ---

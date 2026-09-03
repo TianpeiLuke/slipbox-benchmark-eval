@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - betrivers promo code sportsriv second chance bet
+  - bonus
+  - offer
+  - welcome
+  - sportsbook
+  - bet365
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0432]
 ---

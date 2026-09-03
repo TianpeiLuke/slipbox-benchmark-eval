@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - how reporting on ohtani s decision timeline shifted during the winter meetings
+  - major league baseball
+  - trade and free agency
+  - morosi
+  - jon
+  - trout
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0120]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - what makes a good pc gaming controller
+  - battery technology
+  - battery life and charging
+  - bitdo
+  - ultimate
+  - listings
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0236]
 ---

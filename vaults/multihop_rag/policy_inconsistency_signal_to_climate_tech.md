@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - policy inconsistency as a signal to climate tech
+  - crisis response mechanism
+  - consistent
+  - sustainable
+  - u-turn
+  - sector
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0599]
 ---

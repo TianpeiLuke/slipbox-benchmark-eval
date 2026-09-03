@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - concept
+keywords:
+  - hetero polyionic hydrogel electrolyte design
+  - battery technology
+  - zinc
+  - battery-technology
+  - hetero-polyionic
+  - batteries
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0286]
 ---

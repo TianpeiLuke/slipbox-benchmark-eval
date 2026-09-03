@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - india long term growth drivers and fdi inflows
+  - covid 19
+  - market
+  - global
+  - long-term
+  - manufacturing
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0532]
 ---

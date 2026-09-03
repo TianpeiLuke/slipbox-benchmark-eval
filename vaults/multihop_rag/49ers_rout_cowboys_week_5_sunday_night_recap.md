@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - 49ers rout cowboys 42 10 on week 5 sunday night football
+  - national football league
+  - playoff seeding
+  - nfc
+  - prescott
+  - cowboys-49ers
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0275]
 ---

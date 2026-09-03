@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - post tightening monetary policy autopsy of 2023
+  - criminal trial
+  - lobbying political donations
+  - fiscal
+  - inflation
+  - east
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0503]
 ---

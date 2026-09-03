@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - tiktok s denial and the oaic s monitoring of the pixel claims
+  - regulatory investigation
+  - data privacy
+  - regulatory-investigation
+  - data-privacy
+  - information
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0189]
 ---

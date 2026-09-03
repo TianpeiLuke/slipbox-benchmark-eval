@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - how to earn pumpkin tickets in monster hunter now
+  - halloween
+  - quest
+  - armor
+  - event
+  - kulu-ya-ku
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0499]
 ---

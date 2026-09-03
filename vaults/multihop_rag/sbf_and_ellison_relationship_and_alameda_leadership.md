@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - bankman fried and ellison relationship and alameda leadership
+  - ftt token
+  - criminal trial
+  - she
+  - bankman-fried
+  - ftx
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0053, doc_0086]
 ---

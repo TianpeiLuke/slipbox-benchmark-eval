@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - x s response to the eu s dsa investigation
+  - digital services act
+  - regulatory investigation
+  - lobbying political donations
+  - x's
+  - dma
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0153]
 ---

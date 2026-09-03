@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - identity verification
+  - phone
+  - payment
+  - legacy
+  - x's
+  - anti-bot
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0025, doc_0195]
 enriched: web

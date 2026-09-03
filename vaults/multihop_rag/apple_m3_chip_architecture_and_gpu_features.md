@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - apple m3 chip architecture and gpu features
+  - usage based pricing
+  - hardware device
+  - macbook
+  - pro
+  - max
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0526]
 ---

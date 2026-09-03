@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - chromecast with google tv 4k
+  - streaming service
+  - panasonic
+  - easy-to-use
+  - powerline
+  - sc9
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0454]
 ---

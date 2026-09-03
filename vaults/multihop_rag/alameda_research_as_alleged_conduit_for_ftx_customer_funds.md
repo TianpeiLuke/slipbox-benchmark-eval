@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - alameda research as the alleged conduit for ftx customer funds
+  - bankman-fried
+  - testimony
+  - rehn
+  - julliard
+  - prosecution's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0031]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - colts backfield split between zack moss and jonathan taylor in week 6 2023
+  - sit
+  - verdict
+  - yards
+  - taylor's
+  - cooper
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0149]
 ---

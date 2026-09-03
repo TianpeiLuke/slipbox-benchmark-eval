@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - owen teale s barry the bear route into acting
+  - regulatory investigation
+  - coaching change
+  - alliser
+  - scrooge
+  - teale's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0578]
 ---

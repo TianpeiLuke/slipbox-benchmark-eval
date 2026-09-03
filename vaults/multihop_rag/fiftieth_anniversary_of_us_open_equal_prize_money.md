@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - fiftieth anniversary of equal prize money at the us open
+  - obama
+  - billie
+  - jean
+  - barack
+  - king's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0412]
 ---

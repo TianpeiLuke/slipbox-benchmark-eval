@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - cecile de jongh s role and her deposition denial
+  - epstein
+  - islands
+  - virgin
+  - denise
+  - epstein's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0477]
 ---

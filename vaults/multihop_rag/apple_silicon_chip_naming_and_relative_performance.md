@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - apple silicon chip naming and relative performance
+  - macbook
+  - max
+  - cores
+  - pro
+  - neural
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0526]
 ---

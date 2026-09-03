@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - botched public hanging of dundalli brisbane 1855
+  - lucashenko
+  - melissa
+  - aboriginal
+  - edenglassie
+  - hangman
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0283]
 ---

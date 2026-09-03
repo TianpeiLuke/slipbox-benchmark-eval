@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - model
+keywords:
+  - how ketones might act on behavior
+  - ketogenic
+  - diet
+  - cavefish
+  - autism
+  - cells
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0391]
 ---

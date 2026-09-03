@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - coppa allegations against meta
+  - meta's
+  - subscription
+  - facebook
+  - consent
+  - instagram
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0304]
 ---

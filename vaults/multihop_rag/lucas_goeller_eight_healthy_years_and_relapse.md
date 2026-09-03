@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - lucas goeller s eight healthy years and his relapse
+  - transplant
+  - liver
+  - organ
+  - donor
+  - pediatric
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0594]
 ---

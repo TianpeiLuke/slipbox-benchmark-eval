@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - american cranberry s native range and harvest window
+  - cranberries
+  - urann
+  - cultivation
+  - thanksgiving
+  - cod
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0130]
 ---

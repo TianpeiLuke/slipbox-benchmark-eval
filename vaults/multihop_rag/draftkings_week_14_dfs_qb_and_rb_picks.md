@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - draftkings week 14 dfs quarterback and running back picks
+  - daily fantasy sports
+  - playoff seeding
+  - actors and writers strike
+  - fields
+  - bears
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0331]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - mechanism of ftx s collapse
+  - ftt token
+  - chapter 11
+  - bank run
+  - alameda
+  - ftx's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0010, doc_0030]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - criticism of germany s october 2023 trip to north america
+  - world cup
+  - munich
+  - bayern
+  - nagelsmann
+  - julian
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0444]
 ---

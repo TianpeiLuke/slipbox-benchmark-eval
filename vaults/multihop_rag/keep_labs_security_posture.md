@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - how keep labs says it safeguards patient data
+  - encryption at rest
+  - data privacy
+  - hipaa
+  - medication
+  - enterprise
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0230]
 ---

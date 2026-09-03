@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - platform transparency after x went private
+  - regulatory investigation
+  - earnings report
+  - bot
+  - batch
+  - x's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0024]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - college bowl season game count and the new year s six
+  - cfp
+  - championship
+  - matchups
+  - bowls
+  - year's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0433]
 ---

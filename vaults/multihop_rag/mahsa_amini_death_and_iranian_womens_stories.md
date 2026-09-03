@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - mahsa amini s death and iranian women s stories
+  - bail
+  - user generated content
+  - shayda
+  - noora
+  - niasari
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0347]
 ---

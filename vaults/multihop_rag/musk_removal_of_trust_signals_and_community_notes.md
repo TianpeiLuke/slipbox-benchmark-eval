@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - musk s removal of trust signals and the turn to community notes
+  - disinformation
+  - musk's
+  - x's
+  - drift
+  - tweets
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0396]
 ---

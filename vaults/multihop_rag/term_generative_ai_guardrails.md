@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - generative ai guardrails
+  - cppa
+  - automated
+  - gemini
+  - jailbreak
+  - roundtable
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0033, doc_0099, doc_0126, doc_0164, doc_0188, doc_0272, doc_0564]
 ---

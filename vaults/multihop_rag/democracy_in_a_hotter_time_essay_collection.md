@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - democracy in a hotter time
+  - climate
+  - internet
+  - endocrine
+  - authoritarianism
+  - limbic
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0234]
 ---

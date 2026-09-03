@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - four criteria for judging an nba betting site
+  - sports betting odds
+  - national basketball association
+  - sportsbook
+  - vermont
+  - markets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0368]
 ---

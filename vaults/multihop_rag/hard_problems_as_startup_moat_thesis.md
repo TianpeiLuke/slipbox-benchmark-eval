@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - hard problems as a startup moat
+  - battery technology
+  - tagged
+  - shared
+  - ultimate
+  - corpus
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0199]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - mrbeast s stunt escalation and audience demands
+  - mrbeast's
+  - contestants
+  - debt
+  - stunts
+  - suzie
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0509]
 ---

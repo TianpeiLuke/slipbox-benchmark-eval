@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - week 13 wide receiver ppr rankings 1 76
+  - jaguars
+  - saints
+  - titans
+  - colts
+  - bengals
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0114]
 ---

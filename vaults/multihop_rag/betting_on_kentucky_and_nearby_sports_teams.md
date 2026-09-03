@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - betting on kentucky and nearby sports teams
+  - playoff seeding
+  - national football league
+  - major league baseball
+  - sportsbook
+  - louisville
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0071]
 ---

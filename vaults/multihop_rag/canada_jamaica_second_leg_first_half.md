@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - first half of canada 2 3 jamaica
+  - leg
+  - minutes
+  - davies
+  - blake
+  - six-yard
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0232]
 ---

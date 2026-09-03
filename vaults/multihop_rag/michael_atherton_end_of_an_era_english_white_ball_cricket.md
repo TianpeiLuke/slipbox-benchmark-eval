@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - atherton the sri lanka defeat marked the end of an era
+  - boycott
+  - england
+  - jos
+  - africa
+  - cricket
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0132]
 ---

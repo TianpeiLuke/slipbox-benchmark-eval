@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - host bong joon ho s han river monster movie as political commentary
+  - streaming service
+  - film
+  - kang-ho
+  - joon-ho's
+  - park
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

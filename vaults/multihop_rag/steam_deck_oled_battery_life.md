@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - technology
+  - empirical_observation
+keywords:
+  - steam deck oled battery life
+  - battery technology
+  - console hardware
+  - battery life and charging
+  - valve's
+  - percent
+topics:
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0169, doc_0354, doc_0524]
 ---

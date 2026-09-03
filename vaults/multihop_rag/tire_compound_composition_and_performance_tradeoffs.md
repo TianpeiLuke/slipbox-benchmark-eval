@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - tire compound composition and its performance tradeoffs
+  - rubber
+  - silica
+  - wear
+  - tires
+  - ppd
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0190]
 ---

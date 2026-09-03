@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - guayule as a renewable natural rubber
+  - tire
+  - tires
+  - wear
+  - bridgestone
+  - ppd
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0190]
 ---

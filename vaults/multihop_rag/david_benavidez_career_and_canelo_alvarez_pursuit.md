@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - david benavidez anointed successor to canelo still waiting for the call
+  - covid 19
+  - andrade
+  - alvarez
+  - kombat
+  - i'm
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0446]
 ---

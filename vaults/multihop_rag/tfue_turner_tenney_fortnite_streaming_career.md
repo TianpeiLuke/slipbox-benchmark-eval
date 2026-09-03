@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - tfue turner tenney and the end of a fortnite streaming era
+  - livestreaming
+  - layoffs
+  - esports
+  - burnout
+  - treadmill
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0545]
 ---

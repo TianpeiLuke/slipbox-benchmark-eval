@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - commission s microtargeted ad campaign for csam scanning
+  - microtargeting
+  - lobbying political donations
+  - digital services act
+  - proposal
+  - data-privacy
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0457]
 ---

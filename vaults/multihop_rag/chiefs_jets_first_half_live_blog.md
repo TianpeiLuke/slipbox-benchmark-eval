@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - chiefs jets first half a 17 0 start trimmed to 20 12 at halftime
+  - coaching change
+  - wilson
+  - yard
+  - mahomes
+  - kelce
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0200]
 ---

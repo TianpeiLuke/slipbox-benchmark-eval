@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - philhealth s earmarked revenue model as a template for philed
+  - education
+  - philhealth's
+  - fape
+  - peac
+  - programs
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0463]
 ---

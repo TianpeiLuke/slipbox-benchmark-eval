@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - colorado ucla live blog four bruins turnovers a targeting ejection and a 28 16 finish
+  - coaching change
+  - garbers
+  - sanders
+  - yard
+  - arizona
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0225]
 ---

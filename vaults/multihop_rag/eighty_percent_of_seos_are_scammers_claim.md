@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - claim that 80 percent of seos are scammers
+  - battery technology
+  - spam
+  - dummies
+  - search
+  - kent
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0115]
 ---

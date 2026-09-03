@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - platform culture as a model of political engagement
+  - lobbying political donations
+  - twitch
+  - endorsement
+  - stream
+  - campaign
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0468]
 ---

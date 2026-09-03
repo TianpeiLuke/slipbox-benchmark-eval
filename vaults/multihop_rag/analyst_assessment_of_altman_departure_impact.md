@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - analyst assessment of altman s departure impact
+  - generative ai
+  - openai
+  - altman's
+  - chandrasekaran
+  - revolt
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0332]
 ---

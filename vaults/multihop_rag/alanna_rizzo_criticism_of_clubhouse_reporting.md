@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - alanna rizzo s attack on the report the clubhouse is a sacred space
+  - major league baseball
+  - mintz
+  - jays
+  - blue
+  - bbwaa
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0328]
 ---

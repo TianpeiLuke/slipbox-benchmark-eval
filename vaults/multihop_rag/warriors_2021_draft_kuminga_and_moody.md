@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - warriors 2021 draft kuminga and moody
+  - draft pick
+  - draft-pick
+  - curry
+  - a-grade
+  - ignite
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0522]
 ---

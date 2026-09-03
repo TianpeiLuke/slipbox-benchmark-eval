@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - messi s four game injury absence and his 35 minute return
+  - playoff seeding
+  - inter
+  - miami
+  - argentina
+  - paraguay
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0041, doc_0088, doc_0105]
 ---

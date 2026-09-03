@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - model
+keywords:
+  - releasing and converting co2 captured by mxenes
+  - carbon
+  - stavila
+  - hydrogen
+  - article
+  - electrons
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0247]
 ---

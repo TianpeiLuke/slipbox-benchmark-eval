@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - technology
+  - concept
+keywords:
+  - livestreaming
+  - twitch
+  - meta
+  - ray-ban
+  - simulcasting
+  - platforms
+topics:
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0229, doc_0235, doc_0335, doc_0364, doc_0401, doc_0533, doc_0551]
 enriched: web

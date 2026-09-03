@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - amazon s 65 inch fire tv qled deal
+  - streaming service
+  - cyber
+  - monday
+  - streambar
+  - echo
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0000]
 ---

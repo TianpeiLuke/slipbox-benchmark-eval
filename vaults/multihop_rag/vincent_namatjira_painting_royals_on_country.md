@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - vincent namatjira on painting royals on country
+  - queen
+  - mitchell
+  - tyler
+  - elizabeth
+  - portraits
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0284]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - raiders at chiefs christmas day 2023 storylines to watch
+  - national football league
+  - super bowl
+  - national basketball association
+  - yards
+  - mvp
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0003]
 ---

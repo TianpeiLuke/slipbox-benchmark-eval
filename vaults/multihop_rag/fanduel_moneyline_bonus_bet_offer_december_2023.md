@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - claiming fanduel s bet 5 on any moneyline get 150 offer
+  - sports betting odds
+  - bonus
+  - code
+  - promo
+  - mnf
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0202]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - jaylen waddle week 16 contrarian dfs play
+  - daily fantasy sports
+  - dolphins
+  - waiver
+  - target
+  - tagovailoa
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0146]
 ---

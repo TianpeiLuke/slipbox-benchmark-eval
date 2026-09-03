@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - default search engine
+  - google
+  - setup
+  - isa
+  - antitrust
+  - yahoo
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0014, doc_0015, doc_0237, doc_0301]
 ---

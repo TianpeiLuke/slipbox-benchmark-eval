@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - financial pressure of holiday gift giving
+  - gifts
+  - loan
+  - family
+  - student
+  - borrowers
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0251]
 ---

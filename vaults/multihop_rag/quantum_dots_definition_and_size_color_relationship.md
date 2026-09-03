@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - quantum dots definition and the size color relationship
+  - nobel
+  - particles
+  - chemistry
+  - emit
+  - prize
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0262]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - betting the masters markets and the augusta national factors
+  - sports betting odds
+  - golf
+  - majors
+  - golfer
+  - sportsbook
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0207]
 ---

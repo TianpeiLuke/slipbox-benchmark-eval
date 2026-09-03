@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - counter_argument
+keywords:
+  - roblox s response on its parental safety tools
+  - gellar
+  - complaint
+  - sarah
+  - michelle
+  - minigame
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0178]
 ---

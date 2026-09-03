@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - danny elfman s composing career and oingo boingo
+  - film awards season
+  - concert tour
+  - nightmare
+  - elfman's
+  - coachella
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0587]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jaguars survive late saints rally to win 31 24 on thursday night football
+  - orleans
+  - lawrence
+  - trevor
+  - pregame
+  - alvin
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0035]
 ---

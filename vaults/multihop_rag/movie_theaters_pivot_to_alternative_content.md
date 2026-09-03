@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - movie theaters pivot to alternative content
+  - streaming service
+  - concert tour
+  - actors and writers strike
+  - eras
+  - marcus
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0419]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - niseko champagne powder onsen and mount y tei views
+  - resort
+  - ski
+  - heathrow
+  - banff
+  - round-up
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0573]
 ---

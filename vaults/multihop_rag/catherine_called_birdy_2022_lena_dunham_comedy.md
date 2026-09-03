@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - catherine called birdy 2022 lena dunham s coming of age comedy
+  - streaming service
+  - ramsey
+  - romantic
+  - adaptation
+  - dunham's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

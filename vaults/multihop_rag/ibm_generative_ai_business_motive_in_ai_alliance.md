@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - ibm s generative ai business motive in the ai alliance
+  - earnings report
+  - ibm's
+  - meta
+  - development
+  - co-founding
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0268]
 ---

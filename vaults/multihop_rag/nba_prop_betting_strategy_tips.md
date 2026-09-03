@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - three strategy tips for nba prop betting
+  - sports betting odds
+  - national basketball association
+  - player injury report
+  - props
+  - sportsbook
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0497]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - capital rotation from china into japanese assets
+  - covid 19
+  - covid-19
+  - reform
+  - tag
+  - capitol
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0182]
 ---

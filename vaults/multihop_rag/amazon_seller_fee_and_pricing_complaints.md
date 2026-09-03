@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - seller complaints about amazon s fees and pricing policies
+  - discogs
+  - sellers
+  - price
+  - ftc
+  - amazon's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0002]
 ---

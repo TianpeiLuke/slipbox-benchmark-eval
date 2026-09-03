@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - opt in versus opt out consent for ai training
+  - creator economy
+  - copyright
+  - opt-out
+  - works
+  - fair
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0271]
 ---

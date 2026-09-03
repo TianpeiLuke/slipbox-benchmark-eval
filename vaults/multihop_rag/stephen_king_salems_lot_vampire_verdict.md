@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - stephen king vampire verdict
+  - criminal trial
+  - user generated content
+  - king's
+  - salem's
+  - complimentary
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0452]
 ---

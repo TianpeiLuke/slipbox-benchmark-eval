@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - xbox controller market in late 2023
+  - console hardware
+  - powera
+  - scuf
+  - bitdo
+  - turtle
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0350]
 ---

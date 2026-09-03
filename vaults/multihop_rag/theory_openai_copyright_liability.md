@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - hypothesis
+keywords:
+  - theory copyright liability over openai s training data
+  - board
+  - altman
+  - openai's
+  - greg
+  - systematically
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0333]
 ---

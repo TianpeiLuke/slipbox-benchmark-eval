@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - procedure
+keywords:
+  - ebt 101 trial next steps and follow up
+  - clinical trial
+  - hiv
+  - ebt-101
+  - therapy
+  - latent
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0472]
 ---

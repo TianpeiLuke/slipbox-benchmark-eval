@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - healy denies the end of australian women s cricket dominance
+  - test
+  - india
+  - women's
+  - blip
+  - healy's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0440]
 ---

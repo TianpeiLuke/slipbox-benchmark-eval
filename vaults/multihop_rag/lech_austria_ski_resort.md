@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - lech the white ring circuit and almost guaranteed snow
+  - resort
+  - ski
+  - round-up
+  - luxury
+  - alpine
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0573]
 ---

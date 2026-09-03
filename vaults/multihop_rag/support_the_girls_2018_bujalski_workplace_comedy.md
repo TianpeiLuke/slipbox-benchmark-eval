@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - support the girls 2018 andrew bujalski s workplace comedy
+  - streaming service
+  - activision
+  - haley
+  - bujalski's
+  - android
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

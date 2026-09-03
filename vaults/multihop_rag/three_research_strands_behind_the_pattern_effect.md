@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - model
+keywords:
+  - three research strands behind the pattern effect
+  - feedbacks
+  - climate
+  - sensitivity
+  - warming
+  - patterns
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0139]
 ---

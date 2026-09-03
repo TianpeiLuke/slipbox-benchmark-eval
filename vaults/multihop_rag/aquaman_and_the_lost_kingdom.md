@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - aquaman and the lost kingdom
+  - wan
+  - kidman
+  - nicole
+  - james
+  - batman
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0081]
 ---

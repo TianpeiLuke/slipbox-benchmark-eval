@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - cancer couch foundation
+  - scalera
+  - mombies
+  - breast
+  - metastatic
+  - mombies'
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0303]
 ---

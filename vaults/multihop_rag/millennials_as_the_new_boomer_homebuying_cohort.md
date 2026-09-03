@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - millennials as the new boomer homebuying cohort
+  - housing
+  - supply
+  - affordable
+  - boomers
+  - homes
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0112, doc_0479]
 ---

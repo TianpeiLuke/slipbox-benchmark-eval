@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - reliance retail ventures store expansion
+  - usage based pricing
+  - total addressable market
+  - corpus-level
+  - share
+  - tag
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0253]
 ---

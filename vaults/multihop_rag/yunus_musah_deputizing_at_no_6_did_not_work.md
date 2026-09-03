@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - playing yunus musah at no 6 against germany did not work
+  - world cup
+  - usmnt
+  - reyna
+  - midfield
+  - ratings
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0249]
 ---

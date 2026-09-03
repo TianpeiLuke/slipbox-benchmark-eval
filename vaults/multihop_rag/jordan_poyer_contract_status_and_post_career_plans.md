@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jordan poyer s contract status and post career plans
+  - poyer's
+  - ayahuasca
+  - resonance
+  - retreat
+  - handpan
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0322]
 ---

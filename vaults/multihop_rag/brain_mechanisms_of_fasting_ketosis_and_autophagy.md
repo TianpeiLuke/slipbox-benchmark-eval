@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - model
+keywords:
+  - how fasting acts on the brain ketosis blood sugar and autophagy
+  - restricted
+  - alzheimers
+  - antoun
+  - eating
+  - ucsd
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0309]
 ---

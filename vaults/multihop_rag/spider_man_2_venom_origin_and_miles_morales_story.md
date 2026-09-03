@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - spider man 2 venom origin and miles morales story
+  - user generated content
+  - spider-man
+  - missions
+  - canon
+  - miles'
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0383]
 ---

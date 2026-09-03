@@ -1,4 +1,24 @@
 ---
+tags:
+  - resource
+  - business
+  - entertainment
+  - technology
+  - concept
+keywords:
+  - streaming service
+  - netflix
+  - comedy
+  - music
+  - deals
+  - macbook
+topics:
+  - Business
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0185, doc_0363, doc_0392, doc_0434, doc_0455, doc_0461]
 enriched: web

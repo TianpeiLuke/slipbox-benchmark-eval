@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - ftx s spending served bankman fried s status not philanthropy
+  - lobbying political donations
+  - alameda
+  - bankman-fried
+  - money
+  - investments
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0121]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - japanese corporate governance reform and shareholder alignment
+  - capital
+  - nisa
+  - pitch
+  - global
+  - investor
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0182]
 ---

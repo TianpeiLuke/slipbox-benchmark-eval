@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - idf s small and smart army doctrine
+  - lobbying political donations
+  - technological
+  - directorate
+  - barrier
+  - israeli
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0078]
 ---

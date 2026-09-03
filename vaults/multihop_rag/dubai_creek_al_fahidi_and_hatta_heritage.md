@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - old dubai in winter the creek al fahidi and hatta
+  - village
+  - itinerary
+  - oldest
+  - towers
+  - sightseeing
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0513]
 ---

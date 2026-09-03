@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - crude oil prices and gaza supply risk in october 2023
+  - barrel
+  - asx
+  - brent
+  - qantas
+  - volatile
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0074]
 ---

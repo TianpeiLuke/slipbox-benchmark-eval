@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - t j watt steelers midseason mvp
+  - national football league
+  - pittsburgh
+  - nfl
+  - jeffery
+  - najee
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0515]
 ---

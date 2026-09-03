@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - golf ball rollback effect on liv golf
+  - concert tour
+  - thematic
+  - tagging
+  - dechambeau
+  - note
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0490]
 ---

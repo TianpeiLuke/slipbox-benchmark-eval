@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - spider man embodies ordinary struggle
+  - thanksgiving
+  - spider-man
+  - parker
+  - peter
+  - superhero
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0279]
 ---

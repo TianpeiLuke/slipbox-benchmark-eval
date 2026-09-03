@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jaguars saints pregame jamaal williams activated saints tackles out
+  - reserve mobilisation
+  - player injury report
+  - jaguars-saints
+  - thursday
+  - lawrence
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0035]
 ---

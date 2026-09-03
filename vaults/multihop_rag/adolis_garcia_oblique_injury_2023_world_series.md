@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - adolis garcia s oblique injury ends his 2023 world series
+  - postseason
+  - diamondbacks
+  - garcia's
+  - inning
+  - astros
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0408, doc_0495]
 ---

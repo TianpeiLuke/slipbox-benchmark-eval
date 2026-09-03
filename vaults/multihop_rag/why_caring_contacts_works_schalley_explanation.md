@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - argument
+keywords:
+  - why caring contacts works according to schalley
+  - suicide
+  - program
+  - factors
+  - handwritten
+  - lifeline
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0158]
 ---

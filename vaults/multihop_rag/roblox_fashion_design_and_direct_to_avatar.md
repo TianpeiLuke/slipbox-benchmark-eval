@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - roblox fashion design and direct to avatar
+  - roblox's
+  - rdc
+  - direct-to-avatar
+  - designs
+  - prediction
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0539]
 ---

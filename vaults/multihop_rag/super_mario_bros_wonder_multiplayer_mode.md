@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - multiplayer in super mario bros wonder
+  - switch
+  - kart
+  - transformations
+  - characters
+  - overworld
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0606]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - nbc s 2023 sunday night football broadcast and streaming package
+  - national football league
+  - snf
+  - play-by-play
+  - bengals
+  - bills
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0143, doc_0200, doc_0275]
 ---

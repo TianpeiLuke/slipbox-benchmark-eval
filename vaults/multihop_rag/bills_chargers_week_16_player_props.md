@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - bills vs chargers week 16 player props
+  - everett
+  - kincaid
+  - gerald
+  - trends
+  - afc
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0376]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - environmental case against large electric pickups
+  - battery technology
+  - cybertruck
+  - vehicles
+  - tire
+  - pedestrians
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0547]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - eddie jones denies talks over the japan head coach role
+  - lobbying political donations
+  - coaching change
+  - wallabies
+  - cup
+  - japanese
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0407]
 ---

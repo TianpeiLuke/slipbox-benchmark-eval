@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - firefox s decline the chrome share alternative explanation
+  - total addressable market
+  - google
+  - search
+  - default
+  - yahoo
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0015]
 ---

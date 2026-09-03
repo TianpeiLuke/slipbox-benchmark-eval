@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - remedies sought against google and the ripple effect on big tech cases
+  - antitrust
+  - search
+  - ftc
+  - data
+  - third-party
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0015]
 ---

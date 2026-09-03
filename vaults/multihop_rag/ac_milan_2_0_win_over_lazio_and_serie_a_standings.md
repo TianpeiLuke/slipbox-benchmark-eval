@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ac milan 2 0 lazio and the serie a standings
+  - inter
+  - pulisic
+  - monaco
+  - munich
+  - bayern
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0352]
 ---

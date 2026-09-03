@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - reliance o2c and exploration business economics
+  - valuation
+  - crude
+  - ril's
+  - refining
+  - margins
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0253]
 ---

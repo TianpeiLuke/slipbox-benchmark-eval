@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - gio reyna s return under berhalter and his 45 minutes against germany
+  - world cup
+  - coaching change
+  - regulatory investigation
+  - usmnt
+  - nations
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0231, doc_0249]
 ---

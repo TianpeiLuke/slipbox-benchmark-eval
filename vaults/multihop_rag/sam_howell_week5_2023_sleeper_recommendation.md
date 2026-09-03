@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - sam howell as a week 5 2023 sneaky sleeper against chicago
+  - yards
+  - quarterback
+  - bears
+  - dak
+  - fields
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0058]
 ---

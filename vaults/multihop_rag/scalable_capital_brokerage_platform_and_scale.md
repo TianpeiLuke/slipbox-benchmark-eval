@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - scalable capital s brokerage platform and scale
+  - etfs
+  - capital's
+  - investing
+  - european
+  - neobroker
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0398]
 ---

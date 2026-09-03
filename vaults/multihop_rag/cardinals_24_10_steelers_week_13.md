@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - cardinals 24 10 steelers week 13 2023
+  - actors and writers strike
+  - kenny
+  - conner
+  - pickett
+  - fantasy
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0150]
 ---

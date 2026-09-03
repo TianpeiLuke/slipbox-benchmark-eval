@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - india vs australia in the 2011 world cup quarter final
+  - cricket
+  - lanka
+  - sri
+  - wickets
+  - odi
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0246]
 ---

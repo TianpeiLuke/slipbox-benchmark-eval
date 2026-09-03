@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - holiday discounting as the driver of 2023 online spend
+  - adobe
+  - thanksgiving
+  - discounts
+  - cyber
+  - substantial
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0450]
 ---

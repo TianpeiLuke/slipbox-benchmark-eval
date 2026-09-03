@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - erik ten hag s position after the champions league exit
+  - premier league
+  - united
+  - bayern
+  - manchester
+  - trafford
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0219, doc_0546]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - tekton everybit tech rescue kit
+  - class action settlement
+  - steam
+  - deck
+  - oled
+  - screwdriver
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0090, doc_0575]
 ---

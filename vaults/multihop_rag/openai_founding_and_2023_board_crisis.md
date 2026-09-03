@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - openai s founding and its 2023 board crisis
+  - valuation
+  - fine penalty
+  - chatgpt
+  - valley
+  - thiel's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0027]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - why the springboks were predicted to beat england at the stade de france
+  - world cup
+  - africa
+  - south
+  - semi-final
+  - rugby
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0167]
 ---

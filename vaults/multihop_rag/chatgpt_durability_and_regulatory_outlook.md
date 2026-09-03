@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - chatgpt s durability and regulatory outlook
+  - chatgpt's
+  - predictions
+  - fad
+  - biden
+  - development
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0099]
 ---

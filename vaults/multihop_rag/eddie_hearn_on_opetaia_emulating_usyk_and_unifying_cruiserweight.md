@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - eddie hearn on opetaia emulating usyk and unifying cruiserweight
+  - reckoning
+  - fury
+  - tyson
+  - card
+  - riyadh
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0561]
 ---

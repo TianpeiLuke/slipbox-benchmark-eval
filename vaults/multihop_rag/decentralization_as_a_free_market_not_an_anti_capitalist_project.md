@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - decentralization as a free market not an anti capitalist project
+  - fediverse
+  - social
+  - mastodon
+  - activitypub
+  - flipboard
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0508]
 ---

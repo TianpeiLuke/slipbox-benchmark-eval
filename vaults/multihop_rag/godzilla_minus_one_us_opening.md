@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - godzilla minus one takes third with 11 million
+  - film
+  - concert
+  - renaissance
+  - toho
+  - weekend
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0173]
 ---

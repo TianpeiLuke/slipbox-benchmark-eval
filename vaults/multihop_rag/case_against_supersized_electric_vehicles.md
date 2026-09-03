@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - case against supersized electric vehicles
+  - north
+  - america
+  - discontinuation
+  - evs
+  - honda
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0318]
 ---

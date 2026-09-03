@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - white company s christmas decorations and winter scents
+  - diffuser
+  - entertaining
+  - tree
+  - oils
+  - warmth
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0068]
 ---

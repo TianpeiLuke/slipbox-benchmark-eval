@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - china s data laws and government tiktok device bans
+  - data privacy
+  - pixel
+  - data-privacy
+  - china's
+  - theme
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0189]
 ---

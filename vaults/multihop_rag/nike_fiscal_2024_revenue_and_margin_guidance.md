@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - nike fiscal 2024 revenue and margin guidance
+  - earnings report
+  - earnings-report
+  - gross
+  - alphabet
+  - protections
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0215]
 ---

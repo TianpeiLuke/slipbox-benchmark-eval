@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - michigan s ten page letter to the big ten
+  - regulatory investigation
+  - fine penalty
+  - player injury report
+  - harbaugh
+  - punishment
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0180]
 ---

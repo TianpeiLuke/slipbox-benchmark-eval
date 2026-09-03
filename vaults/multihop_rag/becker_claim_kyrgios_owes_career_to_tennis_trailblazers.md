@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - becker s claim that kyrgios owes his career to tennis trailblazers
+  - djokovic
+  - round-up
+  - federer
+  - becker's
+  - item
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0342]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - joelinton s reinvention in newcastle s midfield
+  - user generated content
+  - actors and writers strike
+  - newcastle's
+  - maignan
+  - milan
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0425]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - john j ray iii running the ftx estate
+  - bankman-fried's
+  - enron
+  - crypto
+  - lawyers
+  - implicates
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0175]
 ---

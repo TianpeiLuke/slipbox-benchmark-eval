@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - imf assessment of india and global growth divergence
+  - usage based pricing
+  - game patch notes
+  - economies
+  - emerging
+  - revised
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0532]
 ---

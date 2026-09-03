@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - civic data s warning to remove the tiktok pixel
+  - data privacy
+  - regulatory investigation
+  - data's
+  - regulatory-investigation
+  - consent
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0189]
 ---

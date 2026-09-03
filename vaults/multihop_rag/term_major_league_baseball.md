@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - sports
+  - technology
+  - concept
+keywords:
+  - major league baseball mlb
+  - ohtani
+  - mlb's
+  - trade
+  - shohei
+  - meetings
+topics:
+  - Sports
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0007, doc_0008, doc_0010, doc_0079, doc_0118, doc_0120, doc_0328, doc_0422, doc_0531]
 enriched: web

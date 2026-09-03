@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - 2023 laureates on basic research as the motivation
+  - quantum
+  - dots
+  - nobel
+  - chemistry
+  - brus
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0262]
 ---

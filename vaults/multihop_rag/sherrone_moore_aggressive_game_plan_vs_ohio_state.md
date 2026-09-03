@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - sherrone moore s case for attacking ohio state
+  - michigan
+  - penn
+  - conservative
+  - moore's
+  - disservice
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0224]
 ---

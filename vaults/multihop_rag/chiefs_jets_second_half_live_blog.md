@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - chiefs jets second half wilson s fumble decides a 23 20 final
+  - coaching change
+  - mahomes
+  - kansas
+  - yard
+  - chiefs-jets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0200]
 ---

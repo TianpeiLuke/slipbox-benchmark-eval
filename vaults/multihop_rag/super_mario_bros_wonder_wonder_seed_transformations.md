@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - wonder seeds and the transformations they trigger
+  - creator economy
+  - mario
+  - bros
+  - super
+  - switch
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0606]
 ---

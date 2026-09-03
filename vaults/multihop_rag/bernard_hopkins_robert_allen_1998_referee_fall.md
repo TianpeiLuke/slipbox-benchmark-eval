@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - bernard hopkins vs robert allen 1998 the referee s fall
+  - fight
+  - ring
+  - tillery
+  - brawl
+  - lopes
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0228]
 ---

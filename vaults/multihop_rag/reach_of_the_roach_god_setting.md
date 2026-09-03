@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - reach of the roach god
+  - lobbying political donations
+  - ttrpg
+  - southeast
+  - topic
+  - tag
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0591]
 ---

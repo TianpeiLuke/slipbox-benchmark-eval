@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - empty canvas analogy for id
+  - ipad
+  - amo's
+  - social
+  - id's
+  - schweizer
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0196]
 ---

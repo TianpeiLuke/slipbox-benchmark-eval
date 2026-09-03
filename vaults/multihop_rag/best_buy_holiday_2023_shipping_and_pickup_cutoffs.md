@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - best buy holiday 2023 shipping and pickup cutoffs
+  - product launch
+  - deadlines
+  - delivery
+  - next-day
+  - buy's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0473]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - procedure
+keywords:
+  - redeeming delta skymiles with the takeoff15 discount
+  - discount and msrp
+  - gold
+  - business
+  - card
+  - flights
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0557]
 ---

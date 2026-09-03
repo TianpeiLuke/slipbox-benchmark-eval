@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - x s response to the eu
+  - digital services act
+  - x's
+  - yaccarino
+  - bot
+  - linda
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0024, doc_0025]
 ---

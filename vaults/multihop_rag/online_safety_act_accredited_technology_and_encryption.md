@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - accredited technology clause and the encryption objection
+  - encryption at rest
+  - csam scanning
+  - data privacy
+  - ofcom
+  - messaging
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0498]
 ---

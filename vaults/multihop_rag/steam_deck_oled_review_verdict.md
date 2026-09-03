@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - steam deck oled review verdict
+  - console hardware
+  - battery technology
+  - battery life and charging
+  - valve
+  - handheld
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0169]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - india israel bilateral trade exposure in 2022 23
+  - asx
+  - disruption
+  - war
+  - laggards
+  - cent
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0111]
 ---

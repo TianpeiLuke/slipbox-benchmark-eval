@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - nyad
+  - streaming service
+  - netflix
+  - elizabeth
+  - netflix's
+  - november
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0382, doc_0392]
 ---

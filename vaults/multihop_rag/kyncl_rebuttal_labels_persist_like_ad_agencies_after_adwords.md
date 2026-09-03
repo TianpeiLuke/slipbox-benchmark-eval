@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - kyncl rebuttal labels persist like ad agencies after adwords
+  - lobbying political donations
+  - music
+  - corpus-level
+  - tag
+  - content
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0455]
 ---

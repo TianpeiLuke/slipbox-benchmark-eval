@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - grading the 2022 nfl draft quarterback class
+  - national football league
+  - draft pick
+  - super bowl
+  - grade
+  - purdy
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0362]
 ---

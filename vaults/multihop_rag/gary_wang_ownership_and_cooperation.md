@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - gary wang s ownership stake and cooperation deal
+  - criminal trial
+  - fraud
+  - bail
+  - alameda
+  - ftx
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0121, doc_0305]
 ---

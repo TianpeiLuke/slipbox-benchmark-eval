@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - united s squad incoherence and old trafford s decline
+  - bayern
+  - manchester
+  - champions
+  - munich
+  - united's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0370]
 ---

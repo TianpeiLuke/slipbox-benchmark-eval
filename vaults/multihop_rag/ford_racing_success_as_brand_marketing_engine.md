@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - ford racing success as a brand marketing engine
+  - nascar
+  - mustang
+  - supercars
+  - races
+  - series
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0481]
 ---

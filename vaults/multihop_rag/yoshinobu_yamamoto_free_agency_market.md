@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - yoshinobu yamamoto s free agency market at the winter meetings
+  - major league baseball
+  - yankees
+  - gleyber
+  - torres
+  - giants
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0120]
 ---

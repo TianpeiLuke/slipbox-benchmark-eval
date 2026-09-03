@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - dead boy detectives netflix series
+  - streaming service
+  - crystal
+  - palace
+  - warner
+  - carabao
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0081]
 ---

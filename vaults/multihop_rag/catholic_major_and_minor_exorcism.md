@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - catholic major and minor exorcism
+  - ouija
+  - exorcist
+  - reehil
+  - priest
+  - diocese
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0562]
 ---

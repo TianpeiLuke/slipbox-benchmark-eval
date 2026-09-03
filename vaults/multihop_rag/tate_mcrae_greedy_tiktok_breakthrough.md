@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - tate mcrae s greedy tiktok breakthrough
+  - concert tour
+  - pop
+  - mcrae's
+  - eilish
+  - gabriel
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0579]
 ---

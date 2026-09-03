@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - hypothesis
+keywords:
+  - saudi co leadership as egypt s way out of the dilemma
+  - arabia
+  - egypt's
+  - cairo
+  - co-leadership
+  - peace
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0218]
 ---

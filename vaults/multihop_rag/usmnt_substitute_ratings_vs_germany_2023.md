@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - usmnt substitute ratings against germany october 2023
+  - reyna
+  - minutes
+  - torre
+  - touches
+  - gio
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0588]
 ---

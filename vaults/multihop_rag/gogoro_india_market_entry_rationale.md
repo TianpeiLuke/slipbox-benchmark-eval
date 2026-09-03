@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - gogoro s rationale for entering india
+  - swapping
+  - gogoro's
+  - luke
+  - motocorp
+  - company
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0216]
 ---

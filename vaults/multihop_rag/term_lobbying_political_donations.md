@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - lobbying and political donations
+  - campaign
+  - influence
+  - epoch
+  - manchester
+  - ftx
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0009, doc_0010, doc_0011, doc_0030, doc_0031, doc_0121, doc_0175]
 ---

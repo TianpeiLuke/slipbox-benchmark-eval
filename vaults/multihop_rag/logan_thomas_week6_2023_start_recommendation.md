@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - logan thomas as a week 6 2023 start at atlanta
+  - streaming service
+  - tight
+  - zone
+  - throws
+  - ends
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0149]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - thanksgiving the american holiday
+  - national football league
+  - black friday cyber monday
+  - tradition
+  - friendsgiving
+  - stores
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0280, doc_0323]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - garnacho and mainoo united teenagers vs everton
+  - premier league
+  - istanbul
+  - goodison
+  - galatasaray
+  - manchester
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0013]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - ecosystem and unit economics challenge of battery swapping
+  - battery technology
+  - battery life and charging
+  - battery-life
+  - battery-swapping
+  - listings
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0216, doc_0334]
 ---

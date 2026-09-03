@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - argument
+keywords:
+  - why a health system needs a chief ai officer
+  - mayo
+  - clinic
+  - care
+  - patel
+  - bhavik
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0163]
 ---

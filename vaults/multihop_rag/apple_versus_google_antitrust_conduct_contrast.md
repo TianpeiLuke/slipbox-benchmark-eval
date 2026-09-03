@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - apple versus google a contrast in antitrust conduct
+  - payment processor
+  - open source
+  - store
+  - android
+  - epic
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0170]
 ---

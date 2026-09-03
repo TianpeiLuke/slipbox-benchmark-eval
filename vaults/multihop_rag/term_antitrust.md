@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - antitrust
+  - google
+  - sherman
+  - epic
+  - act
+  - ftc
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0001, doc_0002, doc_0014, doc_0033, doc_0039, doc_0042, doc_0075, doc_0237]
 enriched: web

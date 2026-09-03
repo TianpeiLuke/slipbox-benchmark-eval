@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - how inter miami s 2024 prices compare to europe the nfl the nba and mls
+  - national football league
+  - valuation
+  - national basketball association
+  - ticket
+  - expensive
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0203]
 ---

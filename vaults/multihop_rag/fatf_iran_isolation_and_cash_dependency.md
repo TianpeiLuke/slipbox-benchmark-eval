@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - isolating iran through fatf and the cash dependency problem
+  - fraud
+  - terror
+  - financing
+  - hamas
+  - sanctions
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0486]
 ---

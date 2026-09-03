@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - musk and tesla s safety rating record claims
+  - battery technology
+  - cybertruck
+  - tesla's
+  - elon
+  - vehicles
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0548]
 ---

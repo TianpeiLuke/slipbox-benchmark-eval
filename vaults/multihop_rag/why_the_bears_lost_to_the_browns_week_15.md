@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - chicago s loss to cleveland was about more than the final play
+  - playoff seeding
+  - bears
+  - hail
+  - vikings
+  - mnf
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0080]
 ---

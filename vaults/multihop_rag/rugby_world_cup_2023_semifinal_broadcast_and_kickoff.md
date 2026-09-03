@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - kickoff times and broadcasters for the england south africa semi final
+  - world cup
+  - streaming service
+  - semi-final
+  - malaysia
+  - singapore
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0167]
 ---

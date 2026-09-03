@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - ppda passes allowed per defensive action
+  - pressing
+  - metric
+  - manchester
+  - backwards
+  - indicates
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0571]
 ---

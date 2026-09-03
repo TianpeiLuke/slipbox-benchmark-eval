@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - archie roberts afl draft prospect 2023
+  - fine penalty
+  - sandringham
+  - metro
+  - colby
+  - mckercher
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0244]
 ---

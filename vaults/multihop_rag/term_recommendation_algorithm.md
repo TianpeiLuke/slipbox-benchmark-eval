@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - recommendation algorithm
+  - visibility
+  - marketplace
+  - algorithmic
+  - ranking
+  - widget
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0039, doc_0106, doc_0256, doc_0033]
 enriched: web

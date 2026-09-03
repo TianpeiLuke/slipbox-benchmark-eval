@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - television ratings for the ohio state michigan rivalry
+  - playoff seeding
+  - harbaugh
+  - cfp
+  - nielsen
+  - ten
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0079]
 ---

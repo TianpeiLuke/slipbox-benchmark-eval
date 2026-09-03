@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jamaica 3 2 canada the reggae boyz advance on away goals
+  - fine penalty
+  - playoff seeding
+  - nations
+  - leg
+  - aggregate
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0232]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - warhammer 40 000 rogue trader premise
+  - combat
+  - imperium
+  - explores
+  - voidship
+  - crpg
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0592]
 ---

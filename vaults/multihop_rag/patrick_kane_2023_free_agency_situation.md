@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - patrick kane s 2023 free agency situation
+  - trade and free agency
+  - lobbying political donations
+  - national basketball association
+  - kane's
+  - fit
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0356]
 ---

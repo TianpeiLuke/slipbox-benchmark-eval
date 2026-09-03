@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - model
+keywords:
+  - vascular plants weathering and the paleozoic oxygen rise
+  - extinction
+  - excerpt
+  - permian
+  - organic
+  - ocean
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0460]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - colts 2 5 at panthers week 9
+  - sports betting odds
+  - class action settlement
+  - bryce
+  - young
+  - sportsbook
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0314]
 ---

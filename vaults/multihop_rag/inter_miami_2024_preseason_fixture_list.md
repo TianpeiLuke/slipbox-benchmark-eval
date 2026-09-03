@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - inter miami s 2024 preseason fixture list
+  - lobbying political donations
+  - concert tour
+  - playoff seeding
+  - messi
+  - paraguay
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0535]
 ---

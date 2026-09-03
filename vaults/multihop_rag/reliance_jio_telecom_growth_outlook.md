@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - reliance jio telecom growth outlook
+  - usage based pricing
+  - corpus-level
+  - tag
+  - industries
+  - note
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0253]
 ---

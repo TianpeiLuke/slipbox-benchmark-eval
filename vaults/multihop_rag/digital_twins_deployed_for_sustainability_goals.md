@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - digital twins deployed for sustainability goals
+  - usage based pricing
+  - recommendation algorithm
+  - earnings report
+  - earnings-report
+  - simulation
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0191]
 ---

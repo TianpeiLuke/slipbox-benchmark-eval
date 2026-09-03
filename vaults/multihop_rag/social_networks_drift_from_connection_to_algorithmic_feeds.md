@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - social networks drift from connection to algorithmic feeds
+  - elon
+  - musk
+  - amo's
+  - inflection
+  - advertisers
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0026, doc_0196]
 ---

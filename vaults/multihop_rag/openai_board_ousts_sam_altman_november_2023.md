@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - openai board ousts sam altman november 2023
+  - generative ai
+  - board governance
+  - fine penalty
+  - brockman
+  - chatgpt
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0054, doc_0333]
 ---

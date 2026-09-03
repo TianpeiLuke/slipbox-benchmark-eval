@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - lions raiders first half detroit leads 16 7 as gibbs and st brown move the ball
+  - player injury report
+  - las
+  - vegas
+  - lions-raiders
+  - goff
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0004]
 ---

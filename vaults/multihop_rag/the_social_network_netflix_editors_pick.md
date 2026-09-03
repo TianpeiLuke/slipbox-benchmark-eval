@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - social network as netflix editor s pick
+  - zuckerberg
+  - november
+  - editor's
+  - mark
+  - licensed
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0392]
 ---

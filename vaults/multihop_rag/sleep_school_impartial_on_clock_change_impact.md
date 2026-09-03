@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - counter_argument
+keywords:
+  - sleep school s impartial position on the clock change s impact
+  - clocks
+  - circadian
+  - change's
+  - depressive
+  - abolish
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0339]
 ---

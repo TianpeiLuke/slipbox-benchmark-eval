@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - fanduel sportsbook mlb and nba markets props and same game parlays
+  - national basketball association
+  - sports betting odds
+  - lobbying political donations
+  - draftkings
+  - same-game
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0264, doc_0368]
 ---

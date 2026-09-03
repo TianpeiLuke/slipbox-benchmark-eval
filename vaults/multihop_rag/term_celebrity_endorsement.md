@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - sports
+  - technology
+  - concept
+keywords:
+  - celebrity endorsement
+  - sponsorship
+  - curry
+  - brady
+  - jake
+  - endorsements
+topics:
+  - Sports
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0010, doc_0030, doc_0076, doc_0100, doc_0267, doc_0468]
 enriched: web

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - josh allen bills midseason mvp
+  - national football league
+  - most valuable player
+  - bengals
+  - snf
+  - jeffery
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0515]
 ---

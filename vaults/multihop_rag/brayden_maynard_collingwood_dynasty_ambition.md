@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - brayden maynard says collingwood s 2023 premiership is just the beginning
+  - collingwood's
+  - brisbane
+  - lions
+  - club
+  - aflw
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0220]
 ---

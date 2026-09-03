@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - vincent namatjira on choosing his own path from albert s legacy
+  - streaming service
+  - class action settlement
+  - albert's
+  - watercolour
+  - namatjira's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0284]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - michigan s 2023 team culture and expectations
+  - regulatory investigation
+  - playoff seeding
+  - ohio
+  - championship
+  - ten
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0224]
 ---

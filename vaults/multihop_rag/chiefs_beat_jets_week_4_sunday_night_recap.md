@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - chiefs beat jets 23 20 on week 4 sunday night football
+  - national football league
+  - taylor
+  - swift
+  - kelce
+  - kansas
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0200]
 ---

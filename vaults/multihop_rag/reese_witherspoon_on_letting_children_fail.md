@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - reese witherspoon on letting children fail
+  - film awards season
+  - kristen
+  - strict
+  - household
+  - schwarzenegger
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0177]
 ---

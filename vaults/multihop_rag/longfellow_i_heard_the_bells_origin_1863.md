@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - longfellow s i heard the bells 1863
+  - streaming service
+  - christmas
+  - poem
+  - carols
+  - longfellow's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0270]
 ---

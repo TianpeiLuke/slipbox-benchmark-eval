@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - bot detection
+  - spam
+  - deterrence
+  - phishing
+  - spammers
+  - fee
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0195, doc_0011, doc_0115, doc_0047, doc_0402, doc_0256]
 ---

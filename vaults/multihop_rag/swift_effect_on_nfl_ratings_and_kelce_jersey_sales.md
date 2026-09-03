@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - swift effect on nfl ratings and kelce jersey sales
+  - national football league
+  - taylor
+  - rumours
+  - viewership
+  - merchandise
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0559]
 ---

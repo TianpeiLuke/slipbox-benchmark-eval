@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - padres manager search after losing bob melvin to the giants
+  - playoff seeding
+  - flaherty
+  - padres'
+  - san
+  - cardinals
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0416]
 ---

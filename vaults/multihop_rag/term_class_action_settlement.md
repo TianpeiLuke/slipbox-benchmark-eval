@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - class action settlement
+  - settlements
+  - epic
+  - google
+  - plaintiff
+  - match's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0015, doc_0033, doc_0042, doc_0170, doc_0355, doc_0526]
 ---

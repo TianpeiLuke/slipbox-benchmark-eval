@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - nico collins as a week 6 2023 ppr flex starter against new orleans
+  - zone
+  - godwin
+  - yards
+  - fantasy
+  - receivers
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0149]
 ---

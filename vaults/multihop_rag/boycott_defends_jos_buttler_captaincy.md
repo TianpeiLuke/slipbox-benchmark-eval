@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - boycott defends jos buttler s captaincy
+  - world cup
+  - class action settlement
+  - england
+  - t20
+  - buttler's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0132]
 ---

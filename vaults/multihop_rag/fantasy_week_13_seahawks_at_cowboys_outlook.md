@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - week 13 seahawks cowboys start dallas fade the seattle passing game
+  - verdict
+  - dak
+  - prescott
+  - sit
+  - cooper
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057]
 ---

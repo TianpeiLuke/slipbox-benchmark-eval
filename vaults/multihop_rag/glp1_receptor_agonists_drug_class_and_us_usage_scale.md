@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - concept
+keywords:
+  - glp 1 receptor agonists the drug class and its us usage scale
+  - glp-1
+  - gastroparesis
+  - glp1
+  - diabetes
+  - ubc
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0066]
 ---

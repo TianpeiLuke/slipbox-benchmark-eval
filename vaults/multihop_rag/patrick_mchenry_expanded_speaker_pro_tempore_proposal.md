@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - proposal to expand patrick mchenry s speaker pro tempore powers
+  - hardware device
+  - jim
+  - house
+  - republican
+  - jordan's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0223, doc_0377]
 ---

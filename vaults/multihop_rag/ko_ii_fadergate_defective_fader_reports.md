@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - k o ii fadergate defective fader reports
+  - game patch notes
+  - product-update
+  - sampler
+  - update-notes
+  - theme
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0417]
 ---

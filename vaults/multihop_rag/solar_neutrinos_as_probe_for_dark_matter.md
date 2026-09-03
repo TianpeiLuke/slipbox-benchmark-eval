@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - hypothesis
+keywords:
+  - solar neutrinos as a probe for dark matter
+  - sun
+  - year-in-review
+  - revision
+  - dots
+  - particles
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0325]
 ---

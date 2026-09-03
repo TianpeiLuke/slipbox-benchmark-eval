@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - preparing both partner and family before a holiday introduction
+  - stress
+  - zar
+  - holidays
+  - preparation
+  - lurie
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0070]
 ---

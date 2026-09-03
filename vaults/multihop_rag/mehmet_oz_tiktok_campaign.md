@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - mehmet oz s tiktok campaign
+  - lobbying political donations
+  - endorsement
+  - twitch
+  - republican
+  - oz's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0468]
 ---

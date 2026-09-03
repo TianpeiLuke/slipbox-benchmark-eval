@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - sputnik a russian sci fi horror built on a twisted trolley problem
+  - covid 19
+  - film
+  - sci-fi
+  - cold
+  - akinshina
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

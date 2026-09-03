@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - champions league 2023 24 group a bayern munich and copenhagen qualify
+  - galatasaray
+  - manchester
+  - united
+  - sibling
+  - madrid
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0187]
 ---

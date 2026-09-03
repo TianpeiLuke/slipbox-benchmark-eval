@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - pcr testing in daye s sti screening
+  - covid 19
+  - daye's
+  - diagnostic
+  - theme
+  - capitol
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0603]
 ---

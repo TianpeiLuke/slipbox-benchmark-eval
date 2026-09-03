@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - tiktok s expansion into music services
+  - product launch
+  - streaming service
+  - tiktok's
+  - bytedance
+  - discovery
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0363]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - sam altman s side ventures helion retro and worldcoin
+  - openai
+  - altman's
+  - analyst
+  - openai's
+  - existential
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0332]
 ---

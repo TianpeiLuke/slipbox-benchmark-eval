@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - cowboys 49ers first half two kittle touchdowns build a 21 7 lead
+  - coaching change
+  - prescott
+  - aiyuk
+  - purdy
+  - cowboys-49ers
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0275]
 ---

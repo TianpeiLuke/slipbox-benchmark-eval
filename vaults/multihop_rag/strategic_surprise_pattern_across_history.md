@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - strategic surprise as a recurring pattern
+  - east
+  - middle
+  - barrier
+  - iron
+  - idf
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0078]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - point spread odds and line movement
+  - sports betting odds
+  - sportsbooks
+  - lines
+  - fractional
+  - decimal
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0359]
 ---

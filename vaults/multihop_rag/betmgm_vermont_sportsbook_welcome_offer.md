@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - how betmgm sportsbook s up to 1 500 first bet offer would work in vermont
+  - sports betting odds
+  - class action settlement
+  - bonus
+  - welcome
+  - bets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0072]
 ---

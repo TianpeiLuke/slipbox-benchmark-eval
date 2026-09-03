@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - rebecca welch as the first female premier league referee
+  - burnley
+  - fulham
+  - fulham's
+  - kostas
+  - collarbone
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0438]
 ---

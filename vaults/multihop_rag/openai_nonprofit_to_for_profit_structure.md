@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - openai s nonprofit to for profit structure
+  - large language model
+  - board governance
+  - elon
+  - musk
+  - altman
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0332]
 ---

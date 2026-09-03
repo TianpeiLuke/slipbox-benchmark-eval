@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - retail and real estate management skills do not transfer to finance
+  - psagot
+  - zim's
+  - rani
+  - asset
+  - capital
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0073]
 ---

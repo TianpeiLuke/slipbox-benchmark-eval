@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - vamp in metal gear solid 2
+  - vampire
+  - trope
+  - morbius
+  - vampirism
+  - anchorites
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0453]
 ---

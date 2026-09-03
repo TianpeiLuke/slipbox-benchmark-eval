@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - compliance burden on nonprofits
+  - digital services act
+  - earnings report
+  - ofcom
+  - online
+  - safety
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0498]
 ---

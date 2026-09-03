@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - inco encrypted ethereum virtual machine
+  - encryption at rest
+  - venture capital
+  - dao
+  - all11
+  - alliance
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0465]
 ---

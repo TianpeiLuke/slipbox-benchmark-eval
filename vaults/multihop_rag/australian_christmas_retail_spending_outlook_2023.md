@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - australian christmas retail spending outlook for 2023
+  - asx
+  - october
+  - movers
+  - sub-plan
+  - oil
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0029]
 ---

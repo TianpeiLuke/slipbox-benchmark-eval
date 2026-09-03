@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - cairngorms the uk s largest national park and a dark sky park
+  - viewing
+  - aurora
+  - lights
+  - northern
+  - uk's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0555]
 ---

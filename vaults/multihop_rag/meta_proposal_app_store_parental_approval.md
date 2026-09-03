@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - meta s proposal parental approval for app downloads at the app store
+  - meta's
+  - teens
+  - social
+  - critique
+  - subscription
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0141]
 ---

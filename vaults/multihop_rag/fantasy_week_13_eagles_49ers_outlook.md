@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - week 13 eagles 49ers san francisco s defense since chase young makes philadelphia s starters underwhelm
+  - verdict
+  - niners
+  - brock
+  - player-level
+  - lineup-decisions
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057]
 ---

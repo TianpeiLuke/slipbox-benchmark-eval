@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - caesars sportsbook mlb odds futures and early cash out
+  - major league baseball
+  - sports betting odds
+  - markets
+  - bets
+  - cash-out
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0264]
 ---

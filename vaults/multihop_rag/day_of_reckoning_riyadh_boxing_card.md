@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - day of reckoning riyadh boxing card
+  - wilder
+  - heavyweight
+  - joshua
+  - arabia
+  - deontay
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0137]
 ---

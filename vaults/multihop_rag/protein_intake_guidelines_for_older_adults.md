@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - protein intake guidelines for older adults
+  - ageing
+  - multigenerational
+  - diet
+  - parents
+  - daily
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0605]
 ---

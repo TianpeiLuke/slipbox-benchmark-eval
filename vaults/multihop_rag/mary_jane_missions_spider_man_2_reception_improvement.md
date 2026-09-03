@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - mary jane s missions in spider man 2 as an improvement on their reception
+  - console hardware
+  - spider-man
+  - jane's
+  - ps5
+  - marvel's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0082]
 ---

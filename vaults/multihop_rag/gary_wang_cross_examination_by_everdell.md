@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - gary wang s cross examination by everdell
+  - criminal trial
+  - alameda
+  - testimony
+  - balance
+  - negative
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0086]
 ---

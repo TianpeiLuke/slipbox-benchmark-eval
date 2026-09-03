@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - vc and lender testimony as collateral risk for crypto
+  - ftx
+  - alameda
+  - bankman-fried
+  - lenders
+  - testify
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0175]
 ---

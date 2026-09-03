@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - champions league 2023 24 group e atletico madrid and lazio qualify
+  - feyenoord
+  - celtic
+  - europa
+  - liverpool
+  - sibling
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0187]
 ---

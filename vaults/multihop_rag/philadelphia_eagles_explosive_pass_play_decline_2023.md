@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - philadelphia eagles explosive pass play decline 2023
+  - dallas
+  - goedert
+  - hurts
+  - jalen
+  - showdown
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0316]
 ---

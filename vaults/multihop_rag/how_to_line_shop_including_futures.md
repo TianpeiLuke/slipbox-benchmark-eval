@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - how to line shop including futures markets
+  - sports betting odds
+  - shopping
+  - sportsbooks
+  - lines
+  - mlb
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0060]
 ---

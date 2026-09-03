@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - chatgpt s hallucinated legal filing incident
+  - generative ai
+  - ai hallucination
+  - chatgpt's
+  - generative-ai
+  - guardrails
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0099]
 ---

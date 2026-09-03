@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - mastercard s cfo doubts upi s commercial sustainability
+  - mastercard's
+  - digitization
+  - reservations
+  - india
+  - emerging
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0043]
 ---

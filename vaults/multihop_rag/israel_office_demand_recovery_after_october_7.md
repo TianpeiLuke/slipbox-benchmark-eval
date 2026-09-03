@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - israeli office demand recovery after october 7
+  - tel
+  - aviv
+  - offices
+  - war
+  - stoppage
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0217]
 ---

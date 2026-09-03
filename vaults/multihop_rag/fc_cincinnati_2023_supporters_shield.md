@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - fc cincinnati won the 2023 supporters shield as regular season champions
+  - playoff seeding
+  - inter
+  - miami
+  - chicago
+  - fire
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0088]
 ---

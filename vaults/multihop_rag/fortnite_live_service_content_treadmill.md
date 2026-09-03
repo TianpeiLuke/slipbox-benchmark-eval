@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - fortnite s live service content treadmill
+  - creator economy
+  - epic
+  - games
+  - live-service
+  - fortnite's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0545]
 ---

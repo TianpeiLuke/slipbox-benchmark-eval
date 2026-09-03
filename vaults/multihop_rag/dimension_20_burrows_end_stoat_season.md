@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - burrow s end dimension 20 s stoat season and the specificity rule
+  - user generated content
+  - mulligan
+  - ttrpg
+  - user-generated
+  - reich
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0586]
 ---

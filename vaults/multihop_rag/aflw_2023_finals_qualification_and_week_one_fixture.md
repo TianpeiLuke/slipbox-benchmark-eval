@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - aflw 2023 finals qualification and week one fixture
+  - brisbane
+  - aedt
+  - qualifying
+  - coast
+  - lions
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0209]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - headwinds to us consumer spending in late 2023
+  - game patch notes
+  - north
+  - asx
+  - rba
+  - repayments
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0087]
 ---

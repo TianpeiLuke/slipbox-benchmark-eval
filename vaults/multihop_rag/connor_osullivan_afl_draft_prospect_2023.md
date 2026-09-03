@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - connor o sullivan afl draft prospect 2023
+  - most valuable player
+  - o'sullivan
+  - murray
+  - bushrangers
+  - profile
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0244]
 ---

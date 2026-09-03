@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - cowboys 49ers pregame gregory inactive jones test and the nfc top seed
+  - acquisition
+  - national football league
+  - harbaugh
+  - cowboys-49ers
+  - jim
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0275]
 ---

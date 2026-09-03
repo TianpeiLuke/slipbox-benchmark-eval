@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - adam grant parents impose career models that have already expired
+  - generative ai
+  - topic
+  - tag
+  - corpus
+  - kids
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0147]
 ---

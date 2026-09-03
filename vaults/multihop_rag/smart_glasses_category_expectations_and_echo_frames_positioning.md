@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - smart glasses category expectations and echo frames positioning
+  - alexa
+  - amazon
+  - devices
+  - amazon's
+  - inheritance
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0431]
 ---

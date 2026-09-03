@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - empirical_observation
+keywords:
+  - marc antoine julliard s testimony as ftx s first witness victim
+  - criminal trial
+  - fine penalty
+  - bot detection
+  - yedidia
+  - crypto
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0031, doc_0162]
 ---

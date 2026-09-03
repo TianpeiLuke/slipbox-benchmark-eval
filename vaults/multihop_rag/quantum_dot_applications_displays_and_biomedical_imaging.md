@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - quantum dot applications in displays and biomedical imaging
+  - nobel
+  - dots
+  - chemistry
+  - prize
+  - laboratory
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0262]
 ---

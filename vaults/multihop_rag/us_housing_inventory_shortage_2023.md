@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - us housing inventory shortage of 2023
+  - affordability
+  - homes
+  - affordable
+  - supply
+  - september
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0479]
 ---

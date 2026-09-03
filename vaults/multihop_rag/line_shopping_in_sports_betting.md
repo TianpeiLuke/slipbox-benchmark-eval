@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - line shopping in sports betting
+  - sports betting odds
+  - lines
+  - sportsbooks
+  - bets
+  - mlb
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0060]
 ---

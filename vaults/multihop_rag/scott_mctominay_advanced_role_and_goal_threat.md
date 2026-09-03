@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - scott mctominay s advanced role and goal threat
+  - hag
+  - ten
+  - erik
+  - hag's
+  - maguire
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0242]
 ---

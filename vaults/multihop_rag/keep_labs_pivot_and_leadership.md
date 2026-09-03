@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - keep labs covid pivot and leadership change
+  - covid 19
+  - product launch
+  - lobbying political donations
+  - preorder
+  - covid-19
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0230]
 ---

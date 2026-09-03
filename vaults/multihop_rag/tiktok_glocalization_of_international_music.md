@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - tiktok as a driver of music glocalization
+  - streaming service
+  - discovery
+  - users'
+  - luminate
+  - preference
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0363]
 ---

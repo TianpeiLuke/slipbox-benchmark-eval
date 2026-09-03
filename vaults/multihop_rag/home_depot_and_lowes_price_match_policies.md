@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - home depot and lowe s price match policies
+  - black friday cyber monday
+  - lowe's
+  - policy
+  - retailer
+  - matching
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0403]
 ---

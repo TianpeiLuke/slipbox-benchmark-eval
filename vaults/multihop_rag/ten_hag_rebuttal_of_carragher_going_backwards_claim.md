@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - ten hag s rebuttal of carragher s going backwards claim
+  - premier league
+  - manchester
+  - united
+  - munich
+  - bayern
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0571]
 ---

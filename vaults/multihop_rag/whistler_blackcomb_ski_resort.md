@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - whistler blackcomb north america s largest ski resort
+  - travel
+  - spa
+  - heathrow
+  - banff
+  - fernie
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0572, doc_0573]
 ---

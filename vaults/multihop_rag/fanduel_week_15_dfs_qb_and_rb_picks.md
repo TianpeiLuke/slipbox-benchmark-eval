@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - fanduel week 15 dfs quarterback and running back picks
+  - daily fantasy sports
+  - draft pick
+  - playoff seeding
+  - rachaad
+  - stafford
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0056]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - procedure
+keywords:
+  - 50 30 20 budgeting method
+  - spreadsheet
+  - gift
+  - alev
+  - loan
+  - student
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0251]
 ---

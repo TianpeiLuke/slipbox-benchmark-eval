@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - concept
+keywords:
+  - atypical small genome canine microbiome bacterium
+  - illness
+  - respiratory
+  - dogs
+  - pathogen
+  - germ
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0565]
 ---

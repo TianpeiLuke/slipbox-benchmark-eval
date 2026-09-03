@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - eu s marketplace foreclosure theory of harm in amazon irobot
+  - regulatory investigation
+  - recommendation algorithm
+  - rvcs
+  - irobot's
+  - eu's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0039]
 ---

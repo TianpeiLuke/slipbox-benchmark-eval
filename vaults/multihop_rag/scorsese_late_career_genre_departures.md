@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - scorsese s late career genre departures
+  - film awards season
+  - scorsese's
+  - slang
+  - hitchcock
+  - films
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0192]
 ---

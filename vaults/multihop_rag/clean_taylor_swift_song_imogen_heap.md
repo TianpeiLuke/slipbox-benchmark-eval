@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - clean the imogen heap collaboration that closed 1989
+  - bbc
+  - song
+  - swift
+  - taylor
+  - track
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0257]
 ---

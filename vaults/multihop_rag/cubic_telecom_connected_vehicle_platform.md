@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - cubic telecom s connected vehicle platform
+  - hardware device
+  - connectivity
+  - theme
+  - telecom's
+  - softbank
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0510]
 ---

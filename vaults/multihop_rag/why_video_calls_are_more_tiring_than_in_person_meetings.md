@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - model
+keywords:
+  - why video calls are more tiring than in person meetings
+  - fatigue
+  - zoom
+  - in-person
+  - cues
+  - interactions
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0590]
 ---

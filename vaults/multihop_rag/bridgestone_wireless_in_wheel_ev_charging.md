@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - bridgestone s wireless in wheel ev charging
+  - battery technology
+  - tire
+  - tires
+  - wear
+  - in-wheel
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0190]
 ---

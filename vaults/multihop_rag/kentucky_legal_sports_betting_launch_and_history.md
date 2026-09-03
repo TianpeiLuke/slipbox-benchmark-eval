@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - kentucky s legal sports betting launch and history
+  - sports betting odds
+  - sportsbook
+  - nba
+  - futures
+  - prop
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0071]
 ---

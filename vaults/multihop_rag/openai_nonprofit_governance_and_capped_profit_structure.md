@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - openai s nonprofit governance and capped profit structure
+  - altman
+  - firing
+  - openai's
+  - agi
+  - board
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0516]
 ---

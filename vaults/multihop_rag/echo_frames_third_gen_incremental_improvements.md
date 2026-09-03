@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - third gen echo frames are only an incremental improvement
+  - battery technology
+  - alexa
+  - amazon
+  - third-gen
+  - bass
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0431]
 ---

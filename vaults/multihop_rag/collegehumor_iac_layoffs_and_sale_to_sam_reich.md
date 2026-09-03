@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - collegehumor s iac layoffs and sale to sam reich
+  - streaming service
+  - layoffs and restructuring
+  - anniversary
+  - dropout's
+  - tags
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0586]
 ---

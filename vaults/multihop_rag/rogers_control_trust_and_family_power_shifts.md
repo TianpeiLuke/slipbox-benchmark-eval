@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - rogers control trust and family power shifts
+  - communications
+  - edward
+  - truce
+  - boardroom
+  - shaw
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0156]
 ---

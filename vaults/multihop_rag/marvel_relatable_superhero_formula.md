@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - marvel s relatable superhero formula
+  - spider-man
+  - thanksgiving
+  - marvel's
+  - embodies
+  - communal
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0279]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - juan soto traded from the padres to the yankees
+  - major league baseball
+  - most valuable player
+  - mlb
+  - verdugo
+  - braves
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0120]
 ---

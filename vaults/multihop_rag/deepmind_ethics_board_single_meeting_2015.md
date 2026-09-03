@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - deepmind s ethics board and its single meeting in 2015
+  - disinformation
+  - space mission
+  - alphago
+  - deepmind's
+  - google
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0027]
 ---

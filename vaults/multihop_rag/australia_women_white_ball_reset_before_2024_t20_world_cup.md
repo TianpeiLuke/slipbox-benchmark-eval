@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - australia women s white ball reset before the 2024 t20 world cup
+  - white-ball
+  - healy
+  - cricket
+  - we're
+  - india
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0440]
 ---

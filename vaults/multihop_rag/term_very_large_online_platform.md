@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - very large online platform vlop
+  - dsa
+  - disinformation
+  - commission
+  - vlops
+  - designation
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0024, doc_0140, doc_0153, doc_0248]
 enriched: web

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - external studios expand pok mon animation
+  - user generated content
+  - streaming service
+  - netflix
+  - pokemon
+  - series
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0346]
 ---

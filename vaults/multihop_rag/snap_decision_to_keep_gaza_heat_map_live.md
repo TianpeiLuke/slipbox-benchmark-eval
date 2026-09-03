@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - snap s decision to keep the gaza heat map live
+  - user generated content
+  - disinformation
+  - moderation
+  - documentation
+  - snap's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0124]
 ---

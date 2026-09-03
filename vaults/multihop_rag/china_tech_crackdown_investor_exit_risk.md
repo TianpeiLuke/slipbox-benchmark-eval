@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - china s tech crackdown and investor exit risk
+  - regulatory investigation
+  - usd
+  - chinese
+  - overseas
+  - theme
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0181]
 ---

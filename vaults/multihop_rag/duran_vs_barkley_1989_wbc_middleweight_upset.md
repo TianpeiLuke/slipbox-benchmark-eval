@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - duran sd 12 barkley a 37 year old takes a fourth world title
+  - showtime
+  - fights
+  - wba
+  - greatest
+  - middleweight
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0273]
 ---

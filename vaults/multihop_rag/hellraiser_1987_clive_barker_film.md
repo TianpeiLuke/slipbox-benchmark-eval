@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - hellraiser clive barker s lament configuration and the cenobites
+  - streaming service
+  - julia
+  - barker's
+  - frank
+  - video
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - shadowban workarounds
+  - shadowbanning
+  - creator economy
+  - user generated content
+  - meta
+  - user-generated-content
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0106]
 ---

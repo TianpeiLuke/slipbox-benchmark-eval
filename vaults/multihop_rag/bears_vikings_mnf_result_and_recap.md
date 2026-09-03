@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - bears 12 vikings 10 on monday night football
+  - mnf
+  - bears-vikings
+  - fields
+  - bears'
+  - dobbs
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0144]
 ---

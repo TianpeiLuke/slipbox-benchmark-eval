@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - postecoglou s response to tottenham s losing run
+  - tottenham's
+  - manager's
+  - postecoglou's
+  - west
+  - newcastle
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0541]
 ---

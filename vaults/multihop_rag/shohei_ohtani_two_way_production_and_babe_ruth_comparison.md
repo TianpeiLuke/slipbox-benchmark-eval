@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - shohei ohtani s two way production and the babe ruth comparison
+  - most valuable player
+  - ohtani's
+  - elbow
+  - dodgers
+  - postseason
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0531]
 ---

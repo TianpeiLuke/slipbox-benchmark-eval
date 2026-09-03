@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - roblox versus the social media dopamine critique
+  - roblox's
+  - metaverse
+  - older
+  - optimistic
+  - tencent
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0539]
 ---

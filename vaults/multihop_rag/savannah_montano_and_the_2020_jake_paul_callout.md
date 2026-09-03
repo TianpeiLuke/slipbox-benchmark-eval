@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - savannah montano and jake paul s 2020 facetime callout
+  - user generated content
+  - national basketball association
+  - danis
+  - dillon
+  - ufc
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0274]
 ---

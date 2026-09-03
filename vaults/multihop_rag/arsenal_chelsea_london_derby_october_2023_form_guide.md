@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - arsenal vs chelsea london derby form guide october 2023
+  - cup
+  - leipzig
+  - city
+  - carabao
+  - preview
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0300]
 ---

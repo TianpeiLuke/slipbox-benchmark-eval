@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jets raiders first quarter field goals and interception
+  - wilson
+  - garrett
+  - raiders'
+  - jets-raiders
+  - gipson
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0439]
 ---

@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - disinformation
+  - dsa
+  - platforms
+  - chatgpt
+  - illegal
+  - musk
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0024, doc_0025, doc_0026, doc_0027, doc_0047, doc_0124, doc_0248, doc_0396]
 ---

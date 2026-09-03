@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - denver broncos payton and wilson s clock management friction
+  - national football league
+  - coaching change
+  - huddle
+  - clock-management
+  - timeouts
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0316]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - american odds format
+  - sports betting odds
+  - national football league
+  - moneyline
+  - fractional
+  - decimal
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0061]
 ---

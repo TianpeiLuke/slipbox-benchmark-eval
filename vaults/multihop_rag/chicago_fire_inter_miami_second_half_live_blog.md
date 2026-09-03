@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - chicago fire inter miami second half four goals in 23 minutes
+  - coaching change
+  - farias
+  - paraguay
+  - fire-inter
+  - klopas
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0041]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - eyes without a face georges franju
+  - streaming service
+  - film awards season
+  - horror
+  - criterion
+  - channel
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0165, doc_0563]
 ---

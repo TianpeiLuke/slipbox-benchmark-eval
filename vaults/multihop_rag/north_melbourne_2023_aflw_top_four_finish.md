@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - north melbourne s 2023 aflw top four finish
+  - finals
+  - coast
+  - top-four
+  - bulldogs
+  - western
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0209]
 ---

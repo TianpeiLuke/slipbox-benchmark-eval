@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - gamestop and google store price matching
+  - policy
+  - amazon
+  - adjustment
+  - retailers
+  - price-matching
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0403]
 ---

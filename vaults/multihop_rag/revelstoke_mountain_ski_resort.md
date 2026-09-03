@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - revelstoke the continent s longest vertical still under construction
+  - resort
+  - ski
+  - canadian
+  - banff
+  - guide
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0572]
 ---

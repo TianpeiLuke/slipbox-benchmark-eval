@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - zenimax workers united the game industry s largest union
+  - microsoft
+  - studio
+  - layoffs
+  - studios
+  - blizzard
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0050]
 ---

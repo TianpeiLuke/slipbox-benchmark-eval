@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - most valuable player mvp
+  - nba
+  - award
+  - futures
+  - nfl
+  - informal
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0003, doc_0071, doc_0088, doc_0145, doc_0515, doc_0589]
 enriched: web

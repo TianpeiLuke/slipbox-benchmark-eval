@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - paul mitchell s blueprint for a manchester united rebuild
+  - mitchell's
+  - recruitment
+  - ratcliffe
+  - bayern
+  - consistency
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0166]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - claiming betmgm s 1 500 first bet offer with bonus code sportspick
+  - welcome
+  - sportsbook
+  - vermont
+  - bet365
+  - betmgm's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0202]
 ---

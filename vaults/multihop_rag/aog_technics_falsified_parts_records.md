@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - aog technics and the falsification of aviation parts records
+  - counterfeit
+  - zamora
+  - airline
+  - jose
+  - engine
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0506]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - jones defends leaving cooper and hooper out of the world cup squad
+  - rugby
+  - eddie
+  - judgment
+  - australian
+  - wallabies
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0407]
 ---

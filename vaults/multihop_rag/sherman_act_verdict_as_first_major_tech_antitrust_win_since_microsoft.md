@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - sherman act verdict as the first major tech antitrust win since microsoft
+  - criminal trial
+  - epic
+  - google
+  - store
+  - jury
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0170]
 ---

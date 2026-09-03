@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - sphere and abba voyage as two models of immersion
+  - immersive
+  - elton
+  - effects
+  - venue
+  - lipson
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0560]
 ---

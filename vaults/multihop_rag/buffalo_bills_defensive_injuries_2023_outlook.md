@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - buffalo bills defensive injuries and the 2023 outlook
+  - cincinnati
+  - afc
+  - chargers
+  - contender
+  - bengals
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0316]
 ---

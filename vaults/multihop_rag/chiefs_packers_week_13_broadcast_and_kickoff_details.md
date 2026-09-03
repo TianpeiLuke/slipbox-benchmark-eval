@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - broadcast and kickoff details for chiefs packers week 13
+  - national football league
+  - sequence
+  - snf
+  - lambeau
+  - packers-chiefs
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0034]
 ---

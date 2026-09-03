@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - player injury report
+  - week
+  - injuries
+  - nfl
+  - designations
+  - questionable
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0035, doc_0113, doc_0149, doc_0288, doc_0289]
 ---

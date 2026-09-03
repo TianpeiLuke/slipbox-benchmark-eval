@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - cfp national championship format and schedule
+  - sports betting odds
+  - playoff seeding
+  - bowl
+  - jan
+  - college
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0433]
 ---

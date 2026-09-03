@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - mechanics of connor bedard s shot
+  - bedard's
+  - nhl
+  - puck
+  - shooting
+  - blackhawks
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0102]
 ---

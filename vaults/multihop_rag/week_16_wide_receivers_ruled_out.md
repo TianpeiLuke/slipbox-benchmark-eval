@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - week 16 wide receivers ruled out
+  - fine penalty
+  - waiver
+  - target
+  - samuel
+  - snf
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0146]
 ---

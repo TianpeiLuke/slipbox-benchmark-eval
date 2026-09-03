@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - lamar jackson ravens midseason mvp
+  - most valuable player
+  - national football league
+  - super bowl
+  - baltimore
+  - contention
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0515]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - nike regional and product category sales fiscal q1 2024
+  - billion
+  - margin
+  - america
+  - tag
+  - streetaccount
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0215]
 ---

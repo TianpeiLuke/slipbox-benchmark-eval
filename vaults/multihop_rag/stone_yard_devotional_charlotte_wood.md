@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - charlotte wood s october 2023 novel
+  - wood's
+  - michael
+  - title
+  - roundup
+  - memoir
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0582]
 ---

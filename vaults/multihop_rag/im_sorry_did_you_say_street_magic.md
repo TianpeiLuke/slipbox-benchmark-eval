@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - i m sorry did you say street magic
+  - ttrpg
+  - caro
+  - asercion
+  - city
+  - multiverse
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0591]
 ---

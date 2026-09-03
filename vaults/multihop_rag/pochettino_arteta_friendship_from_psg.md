@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - pochettino and arteta s friendship from psg
+  - carabao
+  - cup
+  - reece
+  - arteta's
+  - james
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0109]
 ---

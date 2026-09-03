@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - discogs compounding cost pressures
+  - covid 19
+  - discogs'
+  - covid-19
+  - seller
+  - sellers
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0096]
 ---

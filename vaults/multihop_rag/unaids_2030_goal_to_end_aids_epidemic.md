@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - concept
+keywords:
+  - unaids 2030 goal to end the aids epidemic
+  - hiv
+  - infections
+  - vaccine
+  - cure
+  - afrofuture
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0238]
 ---

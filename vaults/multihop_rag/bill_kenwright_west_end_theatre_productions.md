@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - kenwright as producer more than 500 productions across six decades
+  - concert tour
+  - touring
+  - bill
+  - lucashenko
+  - kenwright's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0543]
 ---

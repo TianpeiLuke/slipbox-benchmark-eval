@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - science
+  - technology
+  - concept
+keywords:
+  - battery technology
+  - deals
+  - charging
+  - prime
+  - deck
+  - pro
+topics:
+  - Science
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0011, doc_0286, doc_0216, doc_0049]
 ---

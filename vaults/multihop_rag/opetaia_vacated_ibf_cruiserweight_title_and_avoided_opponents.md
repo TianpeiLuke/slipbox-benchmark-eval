@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - opetaia s vacated ibf cruiserweight title and avoided opponents
+  - opetaia's
+  - reckoning
+  - jai
+  - briedis
+  - report
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0561]
 ---

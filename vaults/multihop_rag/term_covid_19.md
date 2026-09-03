@@ -1,4 +1,24 @@
 ---
+tags:
+  - resource
+  - business
+  - health
+  - technology
+  - concept
+keywords:
+  - covid 19
+  - pandemic
+  - covid-19
+  - epoch
+  - twitch
+  - ccp
+topics:
+  - Business
+  - Health
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0002, doc_0076, doc_0065, doc_0158, doc_0590, doc_0096]
 enriched: web

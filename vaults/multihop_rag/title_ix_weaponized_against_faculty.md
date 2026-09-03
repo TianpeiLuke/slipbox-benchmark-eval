@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - title ix weaponized against faculty
+  - harassment
+  - academics
+  - university
+  - sexual
+  - professor
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0136]
 ---

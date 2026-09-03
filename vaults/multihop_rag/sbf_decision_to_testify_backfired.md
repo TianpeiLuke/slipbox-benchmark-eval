@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - bankman fried s decision to testify backfired
+  - fraud
+  - cross examination
+  - board governance
+  - alameda
+  - ftx
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0053, doc_0083]
 ---

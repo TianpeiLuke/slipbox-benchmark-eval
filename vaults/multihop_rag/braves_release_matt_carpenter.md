@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - braves cut matt carpenter after trying to trade him
+  - rosenthal
+  - ken
+  - ohtani
+  - relies
+  - suitors
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0422]
 ---

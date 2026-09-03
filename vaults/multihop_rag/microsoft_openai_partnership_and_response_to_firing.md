@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - microsoft openai partnership and microsoft s response to the firing
+  - initial public offering
+  - altman
+  - satya
+  - nadella
+  - mira
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0415, doc_0516]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - asx and wall street selloff of 12 october 2023
+  - acquisition
+  - movers
+  - sharemarket
+  - interest-rate
+  - hotter-than-expected
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0074]
 ---

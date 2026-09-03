@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - risk of missing hiv screening with at home tests
+  - daye
+  - sti
+  - at-home
+  - diagnostic
+  - patients
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0603]
 ---

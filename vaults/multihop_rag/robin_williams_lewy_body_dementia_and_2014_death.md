@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - robin williams lewy body dementia and 2014 death
+  - cocaine
+  - mayo
+  - clinic
+  - williams'
+  - disease
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0227]
 ---

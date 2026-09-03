@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - accessibility localisation
+  - arabic
+  - meta
+  - hebrew
+  - language
+  - dialects
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0106, doc_0188, doc_0335]
 ---

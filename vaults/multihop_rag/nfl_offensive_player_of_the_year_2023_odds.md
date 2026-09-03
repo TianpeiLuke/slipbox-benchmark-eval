@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - 2023 nfl offensive player of the year hill the favorite lamb the longshot
+  - tyreek
+  - dolphins
+  - odds
+  - award
+  - ceedee
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0145]
 ---

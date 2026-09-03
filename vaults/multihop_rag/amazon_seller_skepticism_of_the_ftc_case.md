@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - seller skepticism that the ftc picked the right issues
+  - product launch
+  - antitrust
+  - covid 19
+  - sellers
+  - amazon
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0002]
 ---

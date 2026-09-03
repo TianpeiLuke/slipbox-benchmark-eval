@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - style named for harry styles explained as a song about fashion
+  - bbc
+  - swift
+  - taylor
+  - getty
+  - track
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0257]
 ---

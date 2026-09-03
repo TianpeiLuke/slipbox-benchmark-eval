@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - counter_argument
+keywords:
+  - argument that cardiovascular benefits outweigh glp 1 gi risks
+  - glp-1
+  - gastroparesis
+  - agonists
+  - glp1
+  - receptor
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0066]
 ---

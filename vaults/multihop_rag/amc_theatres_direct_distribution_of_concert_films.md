@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - amc theatres as direct distributor of concert films
+  - streaming service
+  - ticket
+  - swift
+  - taylor
+  - beyonc
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0173]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - women s nations league group a1 qualification scenarios
+  - belgium
+  - england
+  - netherlands
+  - kick-off
+  - lionesses
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0151]
 ---

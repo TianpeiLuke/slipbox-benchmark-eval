@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - fourth quarter of broncos 21 vikings 20
+  - fine penalty
+  - coaching change
+  - dobbs
+  - mnf
+  - denver
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0037]
 ---

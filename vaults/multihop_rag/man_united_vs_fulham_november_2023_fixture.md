@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - man united vs fulham 4 november 2023 the fixture
+  - premier league
+  - manchester
+  - carabao
+  - united's
+  - cup
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0260]
 ---

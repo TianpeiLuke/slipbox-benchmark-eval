@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - x s revenue decline and the information network decay argument
+  - disinformation
+  - bot detection
+  - theme
+  - chatgpt
+  - x's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0396]
 ---

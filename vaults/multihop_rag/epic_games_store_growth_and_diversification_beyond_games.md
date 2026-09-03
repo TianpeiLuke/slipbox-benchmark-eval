@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - epic games store growth and diversification beyond games
+  - fortnite
+  - google
+  - steam
+  - million
+  - sweeney
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0170]
 ---

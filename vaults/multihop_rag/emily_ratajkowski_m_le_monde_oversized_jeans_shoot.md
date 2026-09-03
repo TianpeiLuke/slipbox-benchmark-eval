@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - emily ratajkowski s m le monde oversized jeans shoot
+  - fashion
+  - asos
+  - ratajkowski's
+  - plus-size
+  - image
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0502]
 ---

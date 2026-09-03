@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - nike wholesale partner relationship reset
+  - fiscal
+  - wholesalers
+  - sales
+  - margin
+  - nike's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0215]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - digital twin interoperability standards initiatives
+  - open source
+  - open-source
+  - twins
+  - alliance
+  - dtc
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0191]
 ---

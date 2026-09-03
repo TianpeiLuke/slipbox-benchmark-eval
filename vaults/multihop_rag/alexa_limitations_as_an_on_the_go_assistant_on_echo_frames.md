@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - alexa s limitations as an on the go assistant on echo frames
+  - fine penalty
+  - smart home device
+  - phone
+  - glasses
+  - reviewer
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0431]
 ---

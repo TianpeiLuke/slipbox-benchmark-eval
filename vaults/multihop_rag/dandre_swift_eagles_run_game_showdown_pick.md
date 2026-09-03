@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - d andre swift and the eagles run game in the showdown lineup
+  - hurts
+  - jalen
+  - goedert
+  - dolphins-eagles
+  - d'andre
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0386]
 ---

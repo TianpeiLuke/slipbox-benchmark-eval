@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - nfl christmas day scheduling threat to nba
+  - national football league
+  - national basketball association
+  - purdy
+  - brock
+  - tradition
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0281]
 ---

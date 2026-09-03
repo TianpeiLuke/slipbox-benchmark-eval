@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - ireland the greatest team yet still without a knockout win
+  - blacks
+  - final
+  - rwc
+  - zealand
+  - curse
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0538]
 ---

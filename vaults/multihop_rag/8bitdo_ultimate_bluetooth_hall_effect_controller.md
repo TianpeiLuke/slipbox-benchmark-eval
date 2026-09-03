@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - 8bitdo ultimate bluetooth hall effect controller
+  - battery technology
+  - switch
+  - nintendo
+  - sticks
+  - nintendo-style
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0236]
 ---

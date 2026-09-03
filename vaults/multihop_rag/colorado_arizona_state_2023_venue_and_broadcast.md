@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - colorado vs arizona state 2023 venue and broadcast details
+  - streaming service
+  - pac-12
+  - tempe
+  - network
+  - fubo
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0568]
 ---

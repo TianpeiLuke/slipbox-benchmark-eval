@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - building web3 startups in bear market conditions
+  - dao
+  - alliance
+  - crypto
+  - all11
+  - bear-market
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0465]
 ---

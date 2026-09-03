@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - real madrid 3 0 girona bellingham helps madrid go top
+  - champions
+  - bayern
+  - monaco
+  - league
+  - munich
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0352]
 ---

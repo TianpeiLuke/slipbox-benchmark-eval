@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - castlevania nocturne s premise and richter belmont
+  - streaming service
+  - nocturne's
+  - fire
+  - streaming-service
+  - revolution
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0329]
 ---

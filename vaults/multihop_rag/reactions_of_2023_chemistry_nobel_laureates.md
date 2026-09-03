@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - how the 2023 chemistry nobel laureates reacted
+  - nobel prize
+  - quantum
+  - dots
+  - brus
+  - ekimov
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0262]
 ---

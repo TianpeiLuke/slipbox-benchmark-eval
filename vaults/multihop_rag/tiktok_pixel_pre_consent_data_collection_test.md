@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - tiktok pixel pre consent data collection test
+  - data privacy
+  - data-privacy
+  - theme
+  - websites
+  - analysis
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0189]
 ---

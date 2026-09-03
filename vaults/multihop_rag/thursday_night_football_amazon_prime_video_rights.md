@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - amazon prime video as the home of thursday night football
+  - streaming service
+  - national football league
+  - saints
+  - jaguars-saints
+  - pregame
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0035]
 ---

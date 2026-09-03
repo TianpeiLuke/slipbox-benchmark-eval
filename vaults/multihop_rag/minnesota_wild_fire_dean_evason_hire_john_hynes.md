@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - minnesota wild fire dean evason and hire john hynes
+  - coaching change
+  - coaching-change
+  - utah
+  - theme
+  - predators
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0340]
 ---

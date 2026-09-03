@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - investor thesis for rainforest
+  - payment processor
+  - venture capital
+  - saas pricing
+  - payments
+  - fintech
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0075]
 ---

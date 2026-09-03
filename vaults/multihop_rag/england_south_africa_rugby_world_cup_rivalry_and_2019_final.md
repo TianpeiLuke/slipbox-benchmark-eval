@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - england and south africa meet again four years after the 2019 final
+  - world cup
+  - semifinal
+  - semi-final
+  - rugby
+  - unchanged
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0167]
 ---

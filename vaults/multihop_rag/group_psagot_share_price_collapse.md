@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - group psagot s share price collapse
+  - acquisition
+  - psagot's
+  - rani
+  - zim
+  - nis
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0073]
 ---

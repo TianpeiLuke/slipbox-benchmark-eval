@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - role player signings and trades at the 2023 winter meetings
+  - major league baseball
+  - contract extension
+  - braves
+  - gonzales
+  - caratini
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0120]
 ---

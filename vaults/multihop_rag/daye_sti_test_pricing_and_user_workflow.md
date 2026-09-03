@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - daye sti test pricing and user workflow
+  - screening
+  - diagnostic
+  - sample
+  - daye's
+  - tampon
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0603]
 ---

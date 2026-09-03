@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - canada s path to copa america 2024 qualification
+  - playoff seeding
+  - jamaica
+  - leg
+  - nations
+  - canada-jamaica
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0157]
 ---

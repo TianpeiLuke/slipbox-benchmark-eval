@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - danny elfman as jack skellington in the nightmare before christmas
+  - disney
+  - elfman's
+  - renaissance
+  - composing
+  - oingo
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0587]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - starnews african telco distribution model
+  - creator economy
+  - acquisition
+  - south
+  - operator
+  - mtn
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0456]
 ---

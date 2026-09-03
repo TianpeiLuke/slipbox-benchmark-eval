@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - twitch s investment in sports streamers
+  - creator economy
+  - viewership
+  - streams
+  - accelerator
+  - program
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0435]
 ---

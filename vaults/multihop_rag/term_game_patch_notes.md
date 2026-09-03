@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - game patch notes
+  - diablo
+  - season
+  - update
+  - quality-of-life
+  - phantom
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0533, doc_0213]
 enriched: web

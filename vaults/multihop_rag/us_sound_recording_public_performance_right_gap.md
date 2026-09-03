@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - us sound recording public performance right gap
+  - payment processor
+  - music
+  - royalty
+  - recordings
+  - rights
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0361]
 ---

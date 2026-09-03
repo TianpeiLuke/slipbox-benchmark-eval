@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - citigroup s elimination of overdraft fees
+  - hearing
+  - fraser
+  - menendez
+  - banks
+  - cfpb
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0097]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - draftkings nfl dfs contest format and scoring rules
+  - superdraft
+  - passing
+  - picks
+  - yards
+  - multiplier
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0331]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - woman in me britney spears memoir
+  - spears'
+  - relationship
+  - publication
+  - federline
+  - conservatorship
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0051, doc_0358]
 ---

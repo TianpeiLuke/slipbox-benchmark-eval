@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - ray ban meta as a smart glasses turning point
+  - creator economy
+  - ray-ban
+  - echo
+  - frames
+  - assistant
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0364]
 ---

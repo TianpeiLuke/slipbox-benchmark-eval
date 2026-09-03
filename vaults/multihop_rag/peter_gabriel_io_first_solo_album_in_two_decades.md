@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - peter gabriel s i o his first solo album in two decades
+  - gabriel's
+  - tate
+  - mcrae
+  - eighties
+  - drum
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0579]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - 2023 chemistry nobel for quantum dots
+  - nobel prize
+  - ekimov
+  - properties
+  - brus
+  - bawendi
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0436]
 ---

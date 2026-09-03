@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - epoch times denial of a falun gong affiliation
+  - disinformation
+  - times'
+  - conservative
+  - chatgpt
+  - theme
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0076]
 ---

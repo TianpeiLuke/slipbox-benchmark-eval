@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - equity valuations must be judged against rising bond yields
+  - earnings report
+  - fine penalty
+  - asx
+  - multiples
+  - attractive
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0418]
 ---

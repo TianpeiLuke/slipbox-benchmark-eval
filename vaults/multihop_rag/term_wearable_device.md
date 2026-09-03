@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - technology
+  - concept
+keywords:
+  - wearable device
+  - watch
+  - wearables
+  - apple
+  - fitness
+  - heart-rate
+topics:
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0011, doc_0069, doc_0091, doc_0104, doc_0241, doc_0250, doc_0320, doc_0491, doc_0520, doc_0558]
 enriched: web

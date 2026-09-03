@@ -1,4 +1,24 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - sports
+  - technology
+  - concept
+keywords:
+  - console hardware
+  - deck
+  - steam
+  - oled
+  - xbox
+  - controller
+topics:
+  - Entertainment
+  - Sports
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0169, doc_0524, doc_0236, doc_0350, doc_0082, doc_0526, doc_0214]
 enriched: web

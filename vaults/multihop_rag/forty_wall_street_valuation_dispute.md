@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - 40 wall street valuation dispute
+  - lease
+  - trump
+  - avenue
+  - valuations
+  - cent
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0530]
 ---

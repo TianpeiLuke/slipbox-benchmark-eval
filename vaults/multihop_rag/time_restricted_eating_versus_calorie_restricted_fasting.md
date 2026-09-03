@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - argument
+keywords:
+  - time restricted eating versus calorie restricted fasting
+  - diego
+  - brain
+  - san
+  - soto
+  - juan
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0309]
 ---

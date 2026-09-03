@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - simply homes company profile and funding
+  - underwriting
+  - affordable
+  - supply
+  - capital
+  - ola
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0430]
 ---

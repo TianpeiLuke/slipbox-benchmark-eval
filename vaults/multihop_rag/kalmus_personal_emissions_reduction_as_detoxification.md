@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - kalmus s personal emissions reduction as detoxification
+  - lobbying political donations
+  - fossil
+  - climate
+  - fuel
+  - fuels
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0233]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - why traditional e commerce search has degraded
+  - deft
+  - google
+  - engines
+  - deft's
+  - e-commerce
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0301]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - gingrich and boehner endorse the interim speaker plan
+  - hardware device
+  - republicans
+  - jim
+  - house
+  - vote
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0377]
 ---

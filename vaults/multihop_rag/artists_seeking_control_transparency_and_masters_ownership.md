@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - artists now seek control transparency and ownership of their masters
+  - believe
+  - estas
+  - interview
+  - alejandra
+  - olea
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0211]
 ---

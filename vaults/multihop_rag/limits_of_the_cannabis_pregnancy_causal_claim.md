@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - counter_argument
+keywords:
+  - limits of the cannabis pregnancy causal claim
+  - mediterranean
+  - lifestyle
+  - study
+  - diet-and-health
+  - urine
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0604]
 ---

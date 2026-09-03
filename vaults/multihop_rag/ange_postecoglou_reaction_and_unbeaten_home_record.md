@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ange postecoglou s reaction and the end of his 52 match unbeaten home run
+  - tottenham
+  - chelsea
+  - var
+  - tottenham's
+  - richarlison
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0478]
 ---

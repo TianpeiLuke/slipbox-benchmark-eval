@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - lost guiding light how faith s decline is said to produce social decay
+  - god
+  - trust
+  - faith's
+  - breakdowns
+  - society
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0501]
 ---

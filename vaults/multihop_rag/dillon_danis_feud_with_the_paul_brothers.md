@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - dillon danis s feud with the paul brothers predates the logan paul fight
+  - jake
+  - montano
+  - savannah
+  - danis's
+  - paul's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0274]
 ---

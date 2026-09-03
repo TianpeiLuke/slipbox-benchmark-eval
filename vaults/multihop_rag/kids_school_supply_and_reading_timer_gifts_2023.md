@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - kids school supply and reading timer gifts 2023
+  - kids'
+  - pens
+  - arteza
+  - mark-my-time
+  - keepsake
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0424]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - content moderation
+  - dsa
+  - enforcement
+  - bias
+  - meta
+  - editorial
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0024, doc_0025, doc_0026, doc_0106, doc_0153, doc_0256, doc_0335, doc_0405, doc_0508]
 enriched: web

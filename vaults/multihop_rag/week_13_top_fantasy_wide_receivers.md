@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - week 13 s top fantasy wide receivers
+  - burrow
+  - ja'marr
+  - ppr
+  - byes
+  - wr1
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0114]
 ---

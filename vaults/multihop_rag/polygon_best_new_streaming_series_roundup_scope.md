@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - scope and update policy of polygon s best new streaming series roundup
+  - streaming service
+  - game patch notes
+  - castlevania
+  - nocturne
+  - plus
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0185]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - prosecution s opening statement against bankman fried
+  - lobbying political donations
+  - criminal trial
+  - ftx
+  - rehn
+  - bankman-fried
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0031]
 ---

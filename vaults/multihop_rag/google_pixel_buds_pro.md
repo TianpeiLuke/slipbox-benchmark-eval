@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - google pixel buds pro across the 2023 sale season
+  - battery technology
+  - noise cancelling headphones
+  - battery life and charging
+  - echo
+  - amazon
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0069, doc_0222, doc_0250, doc_0404, doc_0595]
 ---

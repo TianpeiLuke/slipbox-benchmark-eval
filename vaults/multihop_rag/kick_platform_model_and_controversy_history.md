@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - kick s platform model and controversy history
+  - revenue split
+  - streaming service
+  - sex
+  - worker
+  - fire
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0405]
 ---

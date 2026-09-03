@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - pandemic shift to videoconferencing
+  - covid 19
+  - fatigue
+  - zoom
+  - theme
+  - virtual
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0590]
 ---

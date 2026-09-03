@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - which artists joined dream track and the licensing questions that follow
+  - payment processor
+  - swift
+  - music
+  - taylor
+  - fair
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0381]
 ---

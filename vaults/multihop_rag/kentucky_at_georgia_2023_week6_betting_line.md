@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - kentucky at georgia the 2023 week 6 betting line
+  - georgia's
+  - bulldogs
+  - ranked
+  - week6
+  - college
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0259]
 ---

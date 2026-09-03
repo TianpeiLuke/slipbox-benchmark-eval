@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - december 2023 on apple tv the snoopy show and family plan
+  - fine penalty
+  - las
+  - vegas
+  - britney
+  - happiness
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0154]
 ---

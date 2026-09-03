@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - democratic dominance in campaign social media
+  - lobbying political donations
+  - user generated content
+  - republican
+  - house
+  - tiktok
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0468]
 ---

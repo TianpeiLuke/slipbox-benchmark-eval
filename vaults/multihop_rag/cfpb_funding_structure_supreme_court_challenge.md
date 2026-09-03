@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - supreme court challenge to the cfpb s funding structure
+  - earnings report
+  - overdraft
+  - cfpb's
+  - epic
+  - financial
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0097]
 ---

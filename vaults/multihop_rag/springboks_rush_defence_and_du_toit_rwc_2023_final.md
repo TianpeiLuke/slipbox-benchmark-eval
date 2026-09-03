@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - pieter steph du toit and the springboks rush defence in the final
+  - blacks
+  - springboks'
+  - pieter-steph
+  - rwc
+  - england
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0022]
 ---

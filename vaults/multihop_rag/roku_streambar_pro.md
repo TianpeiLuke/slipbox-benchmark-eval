@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - roku streambar pro
+  - streaming service
+  - soundbar
+  - chromecast
+  - couchconsole
+  - crunchyroll
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0454]
 ---

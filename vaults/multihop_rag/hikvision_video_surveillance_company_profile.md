@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - hikvision video surveillance company profile
+  - in car surveillance
+  - human
+  - occupied
+  - hangzhou
+  - zhejiang
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0336]
 ---

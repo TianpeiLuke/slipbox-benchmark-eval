@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - castlevania nocturne surpasses the original netflix series
+  - streaming service
+  - class action settlement
+  - nocturne's
+  - lore
+  - konami
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0329]
 ---

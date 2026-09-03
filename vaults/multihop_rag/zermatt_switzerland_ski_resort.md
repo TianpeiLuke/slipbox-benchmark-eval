@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - zermatt 360km of high altitude slopes beneath the matterhorn
+  - resort
+  - ski
+  - round-up
+  - luxury
+  - chalet
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0573]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - boston dynamics on the humanoid form factor
+  - robot
+  - robotics
+  - robots
+  - boxes
+  - humanoids
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0420]
 ---

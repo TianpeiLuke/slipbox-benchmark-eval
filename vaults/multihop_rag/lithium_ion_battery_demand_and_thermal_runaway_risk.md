@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - lithium ion battery demand and thermal runaway risk
+  - battery technology
+  - lithium-ion
+  - batteries
+  - hydrogel
+  - fuels
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0286]
 ---

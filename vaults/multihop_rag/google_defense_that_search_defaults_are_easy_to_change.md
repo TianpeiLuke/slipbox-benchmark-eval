@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - google s defense that search defaults are easy to change
+  - yahoo
+  - firefox
+  - google's
+  - testimony
+  - eddy
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0014, doc_0032]
 ---

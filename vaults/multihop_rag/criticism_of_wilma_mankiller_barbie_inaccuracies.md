@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - counter_argument
+keywords:
+  - criticism of the wilma mankiller barbie s inaccuracies
+  - cherokee
+  - doll
+  - nation
+  - mattel
+  - symbols
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0095]
 ---

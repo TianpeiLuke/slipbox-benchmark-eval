@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - cop28 final text s language on transitioning away from fossil fuels
+  - climate
+  - phase
+  - countries
+  - nations
+  - coal
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0602]
 ---

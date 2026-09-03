@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - five mlb teams were hunting for a manager at the end of 2023
+  - major league baseball
+  - lobbying political donations
+  - layoffs and restructuring
+  - search
+  - houston
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0416]
 ---

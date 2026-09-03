@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - trump park avenue rent stabilised unit valuations
+  - criminal trial
+  - discount and msrp
+  - apartments
+  - rent-stabilised
+  - dispute
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0530]
 ---

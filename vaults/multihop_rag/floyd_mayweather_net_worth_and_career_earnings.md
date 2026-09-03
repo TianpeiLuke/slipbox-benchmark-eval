@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - floyd mayweather s 450 million net worth and billion dollar career earnings
+  - terms of service
+  - canelo
+  - mcgregor
+  - las
+  - vegas
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0194]
 ---

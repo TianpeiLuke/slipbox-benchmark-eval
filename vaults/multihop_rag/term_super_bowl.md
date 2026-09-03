@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - sports
+  - concept
+keywords:
+  - super bowl
+  - prop
+  - nfl
+  - ers
+  - christmas
+  - betting
+topics:
+  - Entertainment
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0003, doc_0044, doc_0059, doc_0061, doc_0071, doc_0072, doc_0201, doc_0316]
 enriched: web

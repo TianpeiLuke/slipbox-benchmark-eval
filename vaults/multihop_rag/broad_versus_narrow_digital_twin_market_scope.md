@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - broad versus narrow digital twin market scope
+  - hardware device
+  - hardware-device
+  - tag
+  - twins
+  - corpus
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0191]
 ---

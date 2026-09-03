@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - bbwaa s statement mintz earned his credential
+  - clubhouse
+  - arcia
+  - nlds
+  - alanna
+  - rizzo
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0328]
 ---

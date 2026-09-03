@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - debate over flexibility in meeting inflation targets
+  - monetary
+  - fiscal
+  - central
+  - coordination
+  - policy
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0503]
 ---

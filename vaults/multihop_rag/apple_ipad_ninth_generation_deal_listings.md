@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - apple ipad ninth generation deal listings
+  - streaming service
+  - discount and msrp
+  - amazon
+  - airpods
+  - prime
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0424, doc_0520, doc_0600]
 ---

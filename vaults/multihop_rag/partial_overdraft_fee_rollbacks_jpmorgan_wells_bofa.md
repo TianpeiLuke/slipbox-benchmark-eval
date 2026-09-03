@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - partial overdraft fee rollbacks at jpmorgan wells fargo and bank of america
+  - fees
+  - cfpb
+  - citigroup
+  - banks
+  - amex
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0097]
 ---

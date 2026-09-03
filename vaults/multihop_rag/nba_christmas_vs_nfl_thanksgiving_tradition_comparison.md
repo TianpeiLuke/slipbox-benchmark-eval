@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - nba christmas vs nfl thanksgiving tradition comparison
+  - national basketball association
+  - national football league
+  - day
+  - leagues
+  - viewership
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0281]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - pay or okay the cookie paywall model meta borrowed
+  - data privacy
+  - consent
+  - gdpr
+  - beuc
+  - paywalls
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0140]
 ---

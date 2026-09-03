@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - generative ai
+  - chatgpt
+  - openai
+  - adoption
+  - robotics
+  - enterprise
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0043, doc_0047, doc_0048, doc_0160, doc_0248, doc_0271, doc_0525, doc_0528]
 enriched: web

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - kooker s rebuttal of the tech industry s distorted view of copyright
+  - creator economy
+  - fair
+  - training
+  - filing
+  - office
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0380]
 ---

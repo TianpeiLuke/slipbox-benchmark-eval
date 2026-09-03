@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - snapchat design features alleged to enable drug sales
+  - fentanyl
+  - overdose
+  - dealer
+  - lawsuit
+  - death
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0345]
 ---

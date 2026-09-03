@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - britney spears on music making from baby one more time to blackout
+  - streaming service
+  - elton
+  - conservatorship
+  - she
+  - federline
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0052]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - model
+keywords:
+  - when ketamine becomes dangerous home use and drug interactions
+  - anesthetic
+  - unsupervised
+  - prescribed
+  - dependence
+  - doses
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0390]
 ---

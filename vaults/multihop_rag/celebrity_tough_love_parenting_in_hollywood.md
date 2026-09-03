@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - celebrity tough love parenting in hollywood
+  - kristen
+  - strict
+  - schwarzenegger
+  - household
+  - arnold
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0177]
 ---

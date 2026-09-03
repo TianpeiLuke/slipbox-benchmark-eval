@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - jake ferguson week 13 sit him because the game script and seattle s tight end defense cap his upside
+  - verdict
+  - cooper
+  - amari
+  - start
+  - everett
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057]
 ---

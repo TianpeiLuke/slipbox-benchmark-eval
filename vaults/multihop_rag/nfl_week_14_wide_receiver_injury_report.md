@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - week 14 wide receiver injury report
+  - game patch notes
+  - player injury report
+  - fantasy
+  - ppr
+  - marquise
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0197]
 ---

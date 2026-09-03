@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - valuation
+  - dcf
+  - multiples
+  - relative
+  - round
+  - billion
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0009, doc_0010, doc_0011, doc_0038, doc_0048, doc_0398, doc_0418]
 enriched: web

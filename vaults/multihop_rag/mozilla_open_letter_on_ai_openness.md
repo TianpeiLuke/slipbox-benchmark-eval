@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - mozilla s open letter on ai openness
+  - open source
+  - tech
+  - openai
+  - lecun
+  - proprietary
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0054]
 ---

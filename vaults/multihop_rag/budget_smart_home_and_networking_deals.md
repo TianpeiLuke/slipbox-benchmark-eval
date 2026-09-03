@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - budget smart home and networking deals
+  - smart home device
+  - echo
+  - amazon
+  - wi-fi
+  - plug
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0090]
 ---

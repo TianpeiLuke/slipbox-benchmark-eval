@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - expert signs that it is time to end a marriage
+  - jada
+  - separation
+  - pinkett
+  - smith
+  - divorce
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0036]
 ---

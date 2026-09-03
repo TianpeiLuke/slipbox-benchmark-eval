@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - urban heat stress disparity across 481 us cities
+  - populations
+  - extreme
+  - humidex
+  - redlining
+  - census
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0084]
 ---

@@ -1,4 +1,24 @@
 ---
+tags:
+  - resource
+  - business
+  - sports
+  - technology
+  - concept
+keywords:
+  - total addressable market tam
+  - share
+  - rainforest
+  - search
+  - payments
+  - fiserv
+topics:
+  - Business
+  - Sports
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0015, doc_0032, doc_0071, doc_0072, doc_0075, doc_0115, doc_0161, doc_0212, doc_0237, doc_0253, doc_0375, doc_0514]
 enriched: web

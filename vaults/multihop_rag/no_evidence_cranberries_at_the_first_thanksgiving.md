@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - no evidence cranberries were at the first thanksgiving
+  - class action settlement
+  - cranberry
+  - pilgrims
+  - harvest
+  - urann
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0130]
 ---

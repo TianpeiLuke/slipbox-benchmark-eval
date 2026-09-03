@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - night of the living dead the film that launched the modern zombie movie
+  - streaming service
+  - paramount
+  - plus
+  - comedy
+  - covered
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

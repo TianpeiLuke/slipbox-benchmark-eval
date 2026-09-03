@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - audio technica ath m20xbt deal
+  - battery technology
+  - black friday cyber monday
+  - noise cancelling headphones
+  - soundcore
+  - kindle
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0404]
 ---

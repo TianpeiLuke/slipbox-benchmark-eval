@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - panthers offense struggles under bryce young
+  - national football league
+  - acquisition
+  - bears
+  - carolina
+  - nfc
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0474, doc_0489]
 ---

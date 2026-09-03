@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - ratcliffe glazer ownership split and control risk
+  - erik
+  - hag
+  - ten
+  - united
+  - manchester
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0089]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - spo2 sensors are not essential to the apple watch
+  - magsafe
+  - wearables
+  - ban
+  - anker
+  - patent
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0241]
 ---

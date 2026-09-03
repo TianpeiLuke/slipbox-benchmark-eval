@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - why the 1991 debt relief bargain cannot simply be repeated
+  - egypt's
+  - sinai
+  - gazans
+  - war
+  - forgiveness
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0218]
 ---

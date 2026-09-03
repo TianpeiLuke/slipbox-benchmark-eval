@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - why nagelsmann scaloni southgate and pochettino do not add up for united
+  - world cup
+  - coaching change
+  - premier league
+  - manchester
+  - carabao
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0315]
 ---

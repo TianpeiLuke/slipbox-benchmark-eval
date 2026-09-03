@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - eagles seahawks week 15 monday night context
+  - playoff seeding
+  - showdown
+  - fanduel
+  - eagles-seahawks
+  - single-game
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0386]
 ---

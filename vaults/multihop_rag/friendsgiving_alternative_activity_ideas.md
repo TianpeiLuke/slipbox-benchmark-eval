@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - friendsgiving alternative activity ideas
+  - thanksgiving
+  - tradition
+  - host
+  - wine
+  - trot
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0324]
 ---

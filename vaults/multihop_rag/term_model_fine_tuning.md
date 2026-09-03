@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - model fine tuning
+  - fine-tuning
+  - gpt-3
+  - api
+  - gpt-4
+  - turbo
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0048, doc_0161]
 enriched: web

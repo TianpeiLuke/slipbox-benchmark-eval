@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - revenue split
+  - app-store
+  - twitch's
+  - google's
+  - streamers
+  - rsas
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0015, doc_0299, doc_0401, doc_0405]
 enriched: web

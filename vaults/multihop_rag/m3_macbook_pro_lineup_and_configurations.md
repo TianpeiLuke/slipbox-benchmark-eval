@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - m3 macbook pro lineup and its configurations
+  - streaming service
+  - class action
+  - inch
+  - apple
+  - scary
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0526]
 ---

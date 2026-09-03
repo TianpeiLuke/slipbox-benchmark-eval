@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - google s gemini model family and its capability claims
+  - generative ai
+  - product launch
+  - chatgpt
+  - bard
+  - product-launch
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0126, doc_0334]
 ---

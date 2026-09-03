@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - reaction to biden s ai order
+  - executive order
+  - red teaming
+  - data privacy
+  - biden's
+  - red-teaming
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0098]
 ---

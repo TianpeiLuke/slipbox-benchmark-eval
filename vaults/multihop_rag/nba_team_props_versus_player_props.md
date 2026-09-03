@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - nba team props versus player props
+  - national basketball association
+  - bets
+  - statistical
+  - markets
+  - bowl
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0497]
 ---

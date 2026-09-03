@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - spot bitcoin etfs and coinbase s competitive outlook
+  - class action settlement
+  - coinbase's
+  - binance
+  - sec
+  - crypto
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0375]
 ---

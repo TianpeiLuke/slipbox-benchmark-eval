@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - data privacy
+  - meta
+  - consent
+  - gdpr
+  - meta's
+  - pixel
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0107, doc_0164, doc_0189, doc_0304]
 enriched: web

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - where ftx customer money went
+  - criminal trial
+  - alameda
+  - bankman-fried
+  - ellison
+  - singh
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0086, doc_0121]
 ---

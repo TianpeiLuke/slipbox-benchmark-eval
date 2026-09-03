@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - adult stem cells and tissue renewal
+  - intestinal
+  - korea
+  - paneth
+  - organoid
+  - daam1
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0302]
 ---

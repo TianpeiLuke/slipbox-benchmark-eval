@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - aging with hiv and the vaccine cure quest
+  - population
+  - abdool
+  - north
+  - america
+  - science
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0238]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - adelaide 36ers beat perth wildcats 89 78 in round 4
+  - melbourne
+  - bullets
+  - humphries
+  - brisbane
+  - phoenix
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0406]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - kindle 2022 base model deals
+  - battery life and charging
+  - battery technology
+  - game patch notes
+  - paperwhite
+  - battery-and-charging
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0521]
 ---

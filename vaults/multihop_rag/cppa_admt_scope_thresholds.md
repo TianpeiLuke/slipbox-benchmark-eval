@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - cppa admt scope thresholds
+  - generative ai
+  - profiling
+  - cppa's
+  - generative-ai
+  - rules
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0164]
 ---

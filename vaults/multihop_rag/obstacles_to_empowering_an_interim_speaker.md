@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - obstacles to empowering an interim speaker
+  - hardware device
+  - jim
+  - republicans
+  - house
+  - jordan's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0223]
 ---

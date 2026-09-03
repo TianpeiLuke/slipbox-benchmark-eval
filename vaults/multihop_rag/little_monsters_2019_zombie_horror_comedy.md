@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - little monsters 2019 the kindergarten zombie comedy
+  - nyong'o
+  - guide
+  - gad
+  - zoo
+  - lupita
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

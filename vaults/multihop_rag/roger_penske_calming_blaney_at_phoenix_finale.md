@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - roger penske calming blaney at the phoenix finale
+  - earnings report
+  - nascar
+  - chastain
+  - ryan
+  - ross
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0481]
 ---

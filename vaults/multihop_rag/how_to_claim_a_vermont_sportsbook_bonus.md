@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - how to claim a vermont sportsbook bonus
+  - sports betting odds
+  - terms of service
+  - offer
+  - welcome
+  - betmgm
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0072]
 ---

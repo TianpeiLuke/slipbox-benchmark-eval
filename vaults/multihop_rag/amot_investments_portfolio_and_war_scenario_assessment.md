@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - amot investments portfolio and war scenario assessment
+  - usage based pricing
+  - payment processor
+  - office
+  - damage
+  - israeli
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0217]
 ---

@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - sports
+  - technology
+  - concept
+keywords:
+  - appeals process
+  - deduction
+  - ban
+  - everton
+  - import
+  - groundwork
+topics:
+  - Sports
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0092, doc_0106, doc_0175, doc_0241, doc_0335, doc_0505]
 ---

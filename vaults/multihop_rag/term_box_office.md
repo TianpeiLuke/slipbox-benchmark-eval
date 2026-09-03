@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - entertainment
+  - concept
+keywords:
+  - box office
+  - tour
+  - film's
+  - eras
+  - flop
+  - films
+topics:
+  - Business
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0046, doc_0081, doc_0094, doc_0173, doc_0192, doc_0193, doc_0419, doc_0563]
 enriched: web

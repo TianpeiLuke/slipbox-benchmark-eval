@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - choosing a class and subclass in baldur s gate 3
+  - bg3
+  - baldur's
+  - classes
+  - character
+  - caster
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0016]
 ---

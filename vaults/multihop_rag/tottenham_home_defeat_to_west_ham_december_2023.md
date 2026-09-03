@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - tottenham s home defeat to west ham december 2023
+  - ange
+  - tottenham's
+  - postecoglou's
+  - carabao
+  - newcastle
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0541]
 ---

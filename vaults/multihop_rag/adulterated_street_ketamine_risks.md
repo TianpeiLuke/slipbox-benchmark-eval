@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - risk of adulterated street ketamine
+  - anesthetic
+  - weaning
+  - titration
+  - dosed
+  - intranasal
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0390]
 ---

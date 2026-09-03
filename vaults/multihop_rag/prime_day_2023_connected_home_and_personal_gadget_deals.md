@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - prime day 2023 connected home and personal gadget deals
+  - streaming service
+  - smart home device
+  - battery life and charging
+  - nest
+  - body
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0520]
 ---

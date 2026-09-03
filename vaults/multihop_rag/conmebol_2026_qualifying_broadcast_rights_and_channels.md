@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - where conmebol 2026 qualifiers could and could not be watched
+  - streaming service
+  - world cup
+  - paraguay
+  - argentina
+  - astro
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0105]
 ---

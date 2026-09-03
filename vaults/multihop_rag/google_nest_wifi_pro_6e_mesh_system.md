@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - google nest wi fi pro 6e mesh system
+  - discount and msrp
+  - wi-fi
+  - smart
+  - deal
+  - router
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0567]
 ---

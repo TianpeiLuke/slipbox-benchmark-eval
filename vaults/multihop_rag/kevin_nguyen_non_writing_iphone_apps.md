@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - kevin nguyen s non writing iphone apps
+  - user generated content
+  - streaming service
+  - maps
+  - nguyen's
+  - installer
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0607]
 ---

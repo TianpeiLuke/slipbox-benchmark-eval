@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - bonta the numbers are for impact the violation is the point
+  - meta
+  - meta's
+  - under-13
+  - parental
+  - proposal
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0304]
 ---

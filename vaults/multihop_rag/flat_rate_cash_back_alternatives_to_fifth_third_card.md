@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - flat rate cash back alternatives to the fifth third card
+  - amex
+  - magnet
+  - earning
+  - cardholder
+  - rewards
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0470]
 ---

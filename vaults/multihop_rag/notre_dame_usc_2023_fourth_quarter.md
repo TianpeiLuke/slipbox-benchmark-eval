@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - notre dame s fourth quarter against usc oct 14 2023
+  - coaching change
+  - actors and writers strike
+  - dame's
+  - williams
+  - left
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0378]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - rnf43 daam1 frizzled degradation mechanism
+  - embedded finance
+  - wnt
+  - cell
+  - intestinal
+  - stem
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0302]
 ---

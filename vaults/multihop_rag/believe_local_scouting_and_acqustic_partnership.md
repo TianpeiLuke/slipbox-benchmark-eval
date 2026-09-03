@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - believe s local scouting model and the acqustic partnership
+  - believe's
+  - artists
+  - estas
+  - labels
+  - music
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0211]
 ---

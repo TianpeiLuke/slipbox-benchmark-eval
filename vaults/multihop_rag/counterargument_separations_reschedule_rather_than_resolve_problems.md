@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - counter_argument
+keywords:
+  - counter argument separations reschedule problems rather than resolve them
+  - fine penalty
+  - jada
+  - divorce
+  - pinkett
+  - neighbour
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0036]
 ---

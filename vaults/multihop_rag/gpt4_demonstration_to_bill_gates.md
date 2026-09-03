@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - gpt 4 demonstration to bill gates
+  - brockman
+  - altman
+  - openai
+  - greg
+  - gpt-4
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0027]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - fan reactions to owen teale after jon snow s death scene
+  - concert tour
+  - robin
+  - alliser
+  - cocaine
+  - williams
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0578]
 ---

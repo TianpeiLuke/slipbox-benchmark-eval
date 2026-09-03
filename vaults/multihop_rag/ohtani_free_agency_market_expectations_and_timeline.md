@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ohtani free agency market expectations and decision timeline
+  - major league baseball
+  - trade and free agency
+  - shohei
+  - suitors
+  - jon
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0426]
 ---

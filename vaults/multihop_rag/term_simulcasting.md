@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - sports
+  - technology
+  - concept
+keywords:
+  - simulcasting
+  - cable
+  - tnt
+  - twitch's
+  - twitchcon
+  - livestreaming
+topics:
+  - Sports
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0186, doc_0290, doc_0401, doc_0551]
 enriched: web

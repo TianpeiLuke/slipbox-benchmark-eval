@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - i know places a love song about hiding from the cameras
+  - bbc
+  - taylor
+  - swift
+  - track
+  - article
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0257]
 ---

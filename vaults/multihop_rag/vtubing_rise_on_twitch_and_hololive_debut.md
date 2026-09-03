@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - vtubing s rise on twitch and hololive s english debut
+  - creator economy
+  - covid 19
+  - streaming service
+  - vtuber
+  - vtubing's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0550]
 ---

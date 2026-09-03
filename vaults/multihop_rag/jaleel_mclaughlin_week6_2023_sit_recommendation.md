@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - jaleel mclaughlin as a week 6 2023 sit at kansas city
+  - snaps
+  - mattison
+  - alexander
+  - touches
+  - vikings
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0149]
 ---

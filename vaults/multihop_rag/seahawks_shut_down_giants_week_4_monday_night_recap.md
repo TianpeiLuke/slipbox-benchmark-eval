@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - seahawks sack daniel jones 11 times in a 24 3 monday night win
+  - fine penalty
+  - national football league
+  - giants
+  - mnf
+  - seahawks-giants
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0290]
 ---

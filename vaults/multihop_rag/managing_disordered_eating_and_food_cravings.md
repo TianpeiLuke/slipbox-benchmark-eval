@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - procedure
+keywords:
+  - managing disordered eating and food cravings
+  - processed
+  - foods
+  - addictive
+  - addiction
+  - ultra
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0467]
 ---

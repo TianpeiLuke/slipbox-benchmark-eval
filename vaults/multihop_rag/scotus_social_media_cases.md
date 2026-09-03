@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - supreme court s pair of social media moderation cases
+  - lobbying political donations
+  - content moderation
+  - disinformation
+  - court's
+  - laws
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0256]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - why the cppa s admt rules would bite on behavioral advertising
+  - fraud
+  - cppa's
+  - profiling
+  - exemptions
+  - ccpa
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0164]
 ---

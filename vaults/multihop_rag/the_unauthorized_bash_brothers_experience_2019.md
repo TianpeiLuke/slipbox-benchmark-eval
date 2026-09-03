@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - unauthorized bash brothers experience 2019
+  - streaming service
+  - concert tour
+  - comedy
+  - schaffer
+  - romantic
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

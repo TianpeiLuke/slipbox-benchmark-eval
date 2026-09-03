@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - cyber week 2023 online spend forecasts
+  - black friday cyber monday
+  - sales
+  - thanksgiving
+  - salesforce
+  - adobe
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0450]
 ---

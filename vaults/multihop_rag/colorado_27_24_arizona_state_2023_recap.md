@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - colorado 27 arizona state 24 week 6 2023 recap
+  - colorado's
+  - sanders
+  - shedeur
+  - bourguet
+  - alejandro
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0568]
 ---

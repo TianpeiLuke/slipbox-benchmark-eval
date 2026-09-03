@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - call of duty s playstation availability after the microsoft deal
+  - activision
+  - xbox
+  - acquisition
+  - mario
+  - exclusivity
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0214]
 ---

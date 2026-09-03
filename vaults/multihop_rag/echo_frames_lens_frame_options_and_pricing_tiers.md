@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - echo frames lens frame options and pricing tiers
+  - lenses
+  - smart-device
+  - filtering
+  - sunglass
+  - glasses
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0431]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - michele borba on labelling a child
+  - halloween
+  - child's
+  - blue
+  - bucket
+  - psychologist
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0388]
 ---

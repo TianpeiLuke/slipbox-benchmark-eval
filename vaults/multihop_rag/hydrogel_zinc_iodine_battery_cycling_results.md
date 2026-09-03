@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - hydrogel zinc iodine battery cycling results
+  - battery technology
+  - battery-technology
+  - zinc-iodine
+  - connected
+  - tag
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0286]
 ---

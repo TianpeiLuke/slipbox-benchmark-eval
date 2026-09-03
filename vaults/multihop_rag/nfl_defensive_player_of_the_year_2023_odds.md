@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - 2023 nfl defensive player of the year danielle hunter as the longshot
+  - myles
+  - garrett
+  - odds
+  - parsons
+  - browns
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0145]
 ---

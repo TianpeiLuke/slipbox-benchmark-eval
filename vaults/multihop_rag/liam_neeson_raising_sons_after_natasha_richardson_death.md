@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - liam neeson raising his sons after natasha richardson s death
+  - custody
+  - sheen
+  - thing
+  - hallow
+  - prayer
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0255]
 ---

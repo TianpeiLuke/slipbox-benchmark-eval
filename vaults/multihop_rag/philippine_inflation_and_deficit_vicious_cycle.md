@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - philippine inflation and deficit vicious cycle
+  - budget
+  - fiscal
+  - policy
+  - surplus
+  - coordination
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0306]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - sam altman s career and public profile
+  - concert tour
+  - openai
+  - biden
+  - firing
+  - president
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0516]
 ---

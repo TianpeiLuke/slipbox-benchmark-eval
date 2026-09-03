@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - lions packers rivalry turned in 2022 and week 4 2023 is the rematch
+  - national football league
+  - daily fantasy sports
+  - lions-packers
+  - rodgers
+  - bay
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0183]
 ---

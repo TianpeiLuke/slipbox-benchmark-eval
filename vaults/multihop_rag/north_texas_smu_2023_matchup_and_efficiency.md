@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - north texas at smu the 2023 matchup and efficiency picture
+  - sports betting odds
+  - mustangs
+  - bet365
+  - sportsbook
+  - markets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0006]
 ---

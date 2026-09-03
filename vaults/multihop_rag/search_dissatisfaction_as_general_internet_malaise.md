@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - hypothesis
+keywords:
+  - hypothesis search anger is really general internet malaise
+  - seo
+  - spam
+  - babin
+  - seos
+  - blatt
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0115]
 ---

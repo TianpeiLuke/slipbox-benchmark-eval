@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - josh arnold s gamestop structural unprofitability critique
+  - earnings
+  - preview
+  - alpha
+  - seeking
+  - arnold's
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0581]
 ---

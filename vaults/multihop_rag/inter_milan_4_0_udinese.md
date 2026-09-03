@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - inter milan 4 0 udinese
+  - lautaro
+  - mart
+  - napoli
+  - nez
+  - madrid
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0093]
 ---

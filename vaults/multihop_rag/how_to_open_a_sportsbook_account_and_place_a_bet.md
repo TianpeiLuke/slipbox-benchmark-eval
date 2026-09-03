@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - how to open a sportsbook account download the app and place a bet
+  - sports betting odds
+  - national basketball association
+  - terms of service
+  - store
+  - mlb
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0062, doc_0207, doc_0264, doc_0368]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - swift and kelce s public appearances together
+  - national football league
+  - concert tour
+  - kelce's
+  - travis
+  - taylor
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0174, doc_0295]
 ---

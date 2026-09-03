@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - louisiana lawsuit over ozempic and mounjaro gi injuries
+  - novo
+  - glp-1
+  - nordisk
+  - gastroparesis
+  - glp1
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0066]
 ---

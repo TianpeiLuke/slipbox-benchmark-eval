@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - draftkings sportsbook mlb and nba markets and promotions
+  - national basketball association
+  - sports betting odds
+  - major league baseball
+  - bet365
+  - astros
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0264, doc_0368]
 ---

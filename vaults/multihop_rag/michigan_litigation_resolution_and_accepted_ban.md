@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - michigan drops its suit and accepts the three game ban
+  - regulatory investigation
+  - coaching change
+  - harbaugh
+  - ten
+  - big
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0180]
 ---

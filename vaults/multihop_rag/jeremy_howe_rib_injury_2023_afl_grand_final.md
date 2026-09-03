@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jeremy howe played out the 2023 grand final with bruised ribs
+  - collingwood
+  - premiership
+  - collingwood's
+  - pain
+  - cameron
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0220]
 ---

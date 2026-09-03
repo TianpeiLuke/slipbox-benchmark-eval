@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - us weekend box office top ten early december 2023
+  - godzilla
+  - million
+  - minus
+  - amc
+  - napoleon
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0173]
 ---

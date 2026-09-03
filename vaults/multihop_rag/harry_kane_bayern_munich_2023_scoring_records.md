@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - harry kane s 2023 goal tally and bayern munich scoring records
+  - lobbying political donations
+  - champions
+  - dortmund
+  - bundesliga
+  - league
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0277, doc_0352]
 ---

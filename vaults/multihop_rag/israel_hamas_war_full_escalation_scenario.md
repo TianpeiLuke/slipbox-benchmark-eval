@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - full escalation scenario against the non escalation base case
+  - actors and writers strike
+  - east
+  - middle
+  - arabia
+  - full-escalation
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0111]
 ---

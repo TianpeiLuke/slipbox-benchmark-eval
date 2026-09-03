@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - betrivers sportsbook alternate lines an integrated casino and irush rewards
+  - major league baseball
+  - national basketball association
+  - mlb
+  - nba
+  - markets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0264, doc_0368]
 ---

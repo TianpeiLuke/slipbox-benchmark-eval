@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - big ten suspends jim harbaugh for three games
+  - dilemma
+  - punishment
+  - conference
+  - michigan
+  - ohio
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0079, doc_0180]
 ---

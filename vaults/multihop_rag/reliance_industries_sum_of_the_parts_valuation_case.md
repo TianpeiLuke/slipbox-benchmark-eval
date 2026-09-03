@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - reliance industries sum of the parts valuation case
+  - earnings report
+  - ril
+  - valuations
+  - sum-of-the-parts
+  - value
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0253]
 ---

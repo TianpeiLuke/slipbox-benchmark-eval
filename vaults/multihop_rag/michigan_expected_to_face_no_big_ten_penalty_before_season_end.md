@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - michigan expected to face no big ten penalty before the season s end
+  - regulatory investigation
+  - covid 19
+  - punishment
+  - harbaugh
+  - conference
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0504]
 ---

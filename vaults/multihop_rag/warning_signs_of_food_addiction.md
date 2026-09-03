@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - concept
+keywords:
+  - warning signs of food addiction
+  - foods
+  - carolina
+  - processed
+  - north
+  - addictive
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0467]
 ---

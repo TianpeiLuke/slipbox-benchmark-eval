@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - let the right one in a kaleidoscopic swedish vampire friendship
+  - streaming service
+  - film
+  - video
+  - prime
+  - comedy
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

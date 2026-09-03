@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - reading prop bet odds
+  - sports betting odds
+  - nba
+  - bets
+  - futures
+  - wager
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0201]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - tottenham s premier league record of failing to win after leading
+  - manchester
+  - bayern
+  - champions
+  - tottenham's
+  - consecutive
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0541]
 ---

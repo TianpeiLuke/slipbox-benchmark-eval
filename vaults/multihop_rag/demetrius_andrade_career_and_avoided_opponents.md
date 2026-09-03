@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - demetrius andrade a career spent chasing opponents who would not fight him
+  - canelo
+  - alvarez
+  - benavidez
+  - charlo
+  - jermall
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0446]
 ---

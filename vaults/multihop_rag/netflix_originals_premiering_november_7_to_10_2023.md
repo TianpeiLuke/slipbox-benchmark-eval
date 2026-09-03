@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - netflix originals premiering november 7 to 10 2023
+  - streaming service
+  - user generated content
+  - film awards season
+  - documentary
+  - tags
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0392]
 ---

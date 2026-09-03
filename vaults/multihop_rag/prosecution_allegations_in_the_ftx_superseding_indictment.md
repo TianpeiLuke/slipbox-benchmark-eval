@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - prosecution allegations in the ftx superseding indictment
+  - lobbying political donations
+  - alameda
+  - bankman-fried
+  - customer
+  - funds
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0175]
 ---

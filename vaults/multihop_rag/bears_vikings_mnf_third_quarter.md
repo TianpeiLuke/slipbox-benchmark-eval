@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - third quarter of bears 12 vikings 10
+  - player injury report
+  - mnf
+  - mattison
+  - moore
+  - roschon
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0144]
 ---

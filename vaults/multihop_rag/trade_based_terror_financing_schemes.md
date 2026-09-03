@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - trade based terror financing schemes
+  - hamas
+  - gaza
+  - israel
+  - fundraising
+  - iran
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0486]
 ---

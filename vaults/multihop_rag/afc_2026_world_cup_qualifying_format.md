@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - afc 2026 world cup qualifying format
+  - arnold
+  - graham
+  - east
+  - middle
+  - qualifiers
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0172]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - cargo shorts photograph with clinton and blair
+  - testimony
+  - dispatch
+  - valley
+  - silicon
+  - alameda
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0121]
 ---

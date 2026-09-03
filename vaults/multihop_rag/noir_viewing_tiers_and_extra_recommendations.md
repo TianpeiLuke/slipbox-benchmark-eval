@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - noir viewing tiers and extra recommendations
+  - user generated content
+  - murder
+  - noirvember
+  - seminal
+  - genre
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0327]
 ---

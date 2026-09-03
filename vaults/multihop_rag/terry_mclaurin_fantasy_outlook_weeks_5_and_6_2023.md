@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - terry mclaurin s fantasy outlook in weeks 5 and 6 of 2023
+  - sports betting odds
+  - targets
+  - bears
+  - receivers
+  - mclaurin's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0058, doc_0149]
 ---

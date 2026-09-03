@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - in god we trust on currency in the anthem and in the courts
+  - motto
+  - supreme
+  - faith
+  - epic
+  - proceedings
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0501]
 ---

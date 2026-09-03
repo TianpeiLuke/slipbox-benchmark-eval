@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - atalanta 3 2 ac milan
+  - pulisic
+  - serie
+  - dortmund
+  - psg
+  - real
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0093]
 ---

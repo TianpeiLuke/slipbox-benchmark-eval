@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - generative ai public priming by dall e 2
+  - dall-e
+  - chatgpt
+  - image
+  - chatgpt's
+  - generator
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0099]
 ---

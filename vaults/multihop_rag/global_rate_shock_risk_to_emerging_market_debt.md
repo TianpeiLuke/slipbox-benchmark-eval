@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - global rate shock risk to emerging market debt
+  - india
+  - economies
+  - inflows
+  - growth
+  - fiscal
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0532]
 ---

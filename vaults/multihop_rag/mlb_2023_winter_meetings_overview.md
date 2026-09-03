@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - what the mlb winter meetings are and why the 2023 edition mattered
+  - major league baseball
+  - ohtani
+  - offseason
+  - trout
+  - soto
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0120]
 ---

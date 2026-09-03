@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - hypothesis
+keywords:
+  - translating time restricted eating into human alzheimer s trials
+  - fasting
+  - alzheimers
+  - time-restricted
+  - ucsd
+  - mouse
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0309]
 ---

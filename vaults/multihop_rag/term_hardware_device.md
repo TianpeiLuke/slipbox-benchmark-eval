@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - technology
+  - concept
+keywords:
+  - hardware device
+  - speaker
+  - steam
+  - deck
+  - pixel
+  - oled
+topics:
+  - Entertainment
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0000, doc_0011, doc_0364, doc_0431, doc_0524]
 ---

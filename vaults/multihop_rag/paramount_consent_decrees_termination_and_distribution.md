@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - paramount consent decrees and their termination
+  - antitrust
+  - concert tour
+  - swift
+  - taylor
+  - distribution
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0419]
 ---

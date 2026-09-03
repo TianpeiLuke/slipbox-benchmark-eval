@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - flexport s board composition
+  - clark
+  - softbank
+  - dave
+  - flexport's
+  - horowitz
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0536]
 ---

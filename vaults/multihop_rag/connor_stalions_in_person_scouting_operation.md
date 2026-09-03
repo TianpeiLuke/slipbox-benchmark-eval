@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - connor stalions and the in person scouting operation
+  - board governance
+  - regulatory investigation
+  - fraud
+  - michigan
+  - ten
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0079, doc_0180]
 ---

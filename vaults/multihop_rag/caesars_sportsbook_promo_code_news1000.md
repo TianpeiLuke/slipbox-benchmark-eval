@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - caesars sportsbook promo code news1000
+  - sports betting odds
+  - offer
+  - bonus
+  - betrivers
+  - betmgm
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0432]
 ---

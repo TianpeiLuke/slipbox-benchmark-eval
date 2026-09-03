@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - counter_argument
+keywords:
+  - limits of review evidence on food addiction
+  - processed
+  - foods
+  - addictive
+  - ultra
+  - cravings
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0467]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - june 2022 alameda s reckoning and lender repayment
+  - ftx
+  - alameda's
+  - ellison
+  - lenders
+  - wang
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0053, doc_0305]
 ---

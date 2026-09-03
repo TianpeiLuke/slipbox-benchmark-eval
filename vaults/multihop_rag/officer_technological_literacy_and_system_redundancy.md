@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - officer technological literacy and the need for redundancy
+  - barrier
+  - systems
+  - gaza
+  - strategic
+  - israeli
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0078]
 ---

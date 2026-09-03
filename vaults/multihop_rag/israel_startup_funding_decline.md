@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - israel s startup funding decline before the war
+  - reserve mobilisation
+  - judicial reform
+  - starnews
+  - tech
+  - israeli
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0448]
 ---

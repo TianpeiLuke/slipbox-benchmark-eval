@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - youth depression and suicide screening rates since covid
+  - covid 19
+  - caring
+  - contacts
+  - contacts'
+  - vocabulary
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0158]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - swift effect how 104 million swifties could complete the nfl s revenue target
+  - national football league
+  - super bowl
+  - taylor
+  - nfl's
+  - cte
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0344]
 ---

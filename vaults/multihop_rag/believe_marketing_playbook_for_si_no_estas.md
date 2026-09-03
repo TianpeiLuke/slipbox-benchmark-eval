@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - procedure
+keywords:
+  - believe s marketing playbook for si no est s
+  - spotify
+  - believe's
+  - latin
+  - playlists
+  - alejandra
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0211]
 ---

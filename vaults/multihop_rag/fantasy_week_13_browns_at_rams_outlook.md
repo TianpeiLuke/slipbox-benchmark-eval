@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - week 13 browns rams a soft cleveland run defense and two banged up rams receivers point to a low scoring game
+  - cooper
+  - kupp
+  - puka
+  - nacua
+  - sit
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - biden s picket line visit and ev worker messaging
+  - battery technology
+  - actors and writers strike
+  - uaw
+  - evs
+  - stellantis
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0319]
 ---

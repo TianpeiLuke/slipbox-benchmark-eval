@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - fanduel nfl dfs contest format and scoring rules
+  - picks
+  - superdraft
+  - multiplier
+  - week
+  - flex
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0056, doc_0276]
 ---

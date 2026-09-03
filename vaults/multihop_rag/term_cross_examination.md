@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - cross examination
+  - cross-examination
+  - witness
+  - sassoon's
+  - bankman-fried's
+  - direct
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0009, doc_0031, doc_0053, doc_0083, doc_0226, doc_0293]
 ---

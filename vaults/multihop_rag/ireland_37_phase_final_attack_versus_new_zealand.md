@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ireland s 37 phase final attack against new zealand
+  - sexton
+  - ireland's
+  - quarter-final
+  - match
+  - rieko
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0538]
 ---

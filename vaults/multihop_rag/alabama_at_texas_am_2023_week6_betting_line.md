@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - alabama at texas a m the 2023 week 6 betting line
+  - streaming service
+  - sec
+  - alabama's
+  - tide
+  - championship
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0259]
 ---

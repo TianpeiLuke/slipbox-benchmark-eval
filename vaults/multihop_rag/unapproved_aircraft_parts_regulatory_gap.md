@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - regulatory gap around unapproved aircraft parts
+  - regulatory investigation
+  - aog
+  - aviation
+  - counterfeit
+  - technics
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0506]
 ---

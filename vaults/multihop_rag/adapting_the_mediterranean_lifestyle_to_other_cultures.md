@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - argument
+keywords:
+  - adapting the mediterranean lifestyle to other cultures
+  - cannabis
+  - diet-and-health
+  - pregnancy
+  - sources
+  - mortality
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0466]
 ---

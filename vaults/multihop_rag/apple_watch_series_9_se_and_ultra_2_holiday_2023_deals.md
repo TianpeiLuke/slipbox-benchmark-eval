@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - apple watch series 9 se and ultra 2 holiday 2023 deals
+  - battery technology
+  - battery life and charging
+  - wearable fitness tracker
+  - walmart
+  - second-generation
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0320, doc_0576]
 ---

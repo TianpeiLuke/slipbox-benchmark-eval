@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - week 13 jaguars bengals jacksonville s defense is legit and should overwhelm jake browning
+  - verdict
+  - mixon
+  - snf
+  - jacksonville's
+  - bills
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0057]
 ---

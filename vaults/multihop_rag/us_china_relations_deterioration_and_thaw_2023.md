@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - 2023 deterioration and thaw in u s china relations
+  - machine translation
+  - summit
+  - chinese
+  - studies
+  - easing
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0385]
 ---

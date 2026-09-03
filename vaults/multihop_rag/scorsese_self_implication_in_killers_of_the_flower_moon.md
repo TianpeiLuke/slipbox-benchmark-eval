@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - scorsese s self implication in killers of the flower moon
+  - scorsese's
+  - self-implication
+  - late
+  - film
+  - maximalist
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0192]
 ---

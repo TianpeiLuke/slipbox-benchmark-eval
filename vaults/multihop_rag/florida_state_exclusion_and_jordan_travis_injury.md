@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - florida state s exclusion and jordan travis injury
+  - cfp
+  - college
+  - championship
+  - state's
+  - alabama
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0155]
 ---

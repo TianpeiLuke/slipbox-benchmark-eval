@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - meta researchers avoided documenting under 13 users
+  - meta's
+  - coppa
+  - under-13
+  - parental
+  - instagram
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0304]
 ---

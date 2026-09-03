@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - sports betting terminology glossary
+  - sports betting odds
+  - most valuable player
+  - kentucky
+  - sportsbook
+  - wager
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0071]
 ---

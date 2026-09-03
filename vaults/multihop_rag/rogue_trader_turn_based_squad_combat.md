@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - rogue trader turn based squad combat
+  - senechal
+  - turn-based
+  - companion
+  - gate
+  - voidship
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0592]
 ---

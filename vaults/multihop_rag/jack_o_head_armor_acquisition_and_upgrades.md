@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - jack o head armor acquisition and upgrades
+  - pumpkin
+  - monster
+  - hunter
+  - halloween
+  - jack-o'-head
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0499]
 ---

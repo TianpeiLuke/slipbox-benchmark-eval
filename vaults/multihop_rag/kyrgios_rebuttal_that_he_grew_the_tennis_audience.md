@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - kyrgios rebuttal that he grew the tennis audience
+  - streaming service
+  - djokovic
+  - i've
+  - federer
+  - owes
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0342]
 ---

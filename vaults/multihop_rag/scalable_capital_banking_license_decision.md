@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - scalable capital s decision not to seek a banking license
+  - capital's
+  - leaner
+  - european
+  - neobroker
+  - countercyclically
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0398]
 ---

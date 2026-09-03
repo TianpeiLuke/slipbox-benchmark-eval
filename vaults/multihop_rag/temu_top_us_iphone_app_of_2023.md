@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - temu as the top us iphone app of 2023
+  - appeals process
+  - apps
+  - store
+  - chinese
+  - rankings
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0384]
 ---

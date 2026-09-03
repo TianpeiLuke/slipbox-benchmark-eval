@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jon gray s surprise relief outing in world series game 3
+  - lourdes
+  - gurriel
+  - moreno
+  - innings
+  - diamondbacks
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0495]
 ---

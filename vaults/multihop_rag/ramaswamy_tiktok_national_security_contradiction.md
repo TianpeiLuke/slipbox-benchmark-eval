@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - ramaswamy s tiktok national security contradiction
+  - lobbying political donations
+  - ramaswamy's
+  - endorsement
+  - campaign
+  - twitch
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0468]
 ---

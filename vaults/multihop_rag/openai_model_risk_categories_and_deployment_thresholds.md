@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - openai s model risk scoring and deployment thresholds
+  - game patch notes
+  - openai's
+  - critical
+  - veto
+  - cybersecurity
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0117]
 ---

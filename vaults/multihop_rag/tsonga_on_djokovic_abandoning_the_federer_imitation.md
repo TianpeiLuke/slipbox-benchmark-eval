@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - tsonga on djokovic abandoning the federer imitation
+  - nadal
+  - tennis
+  - kyrgios
+  - round-up
+  - novak
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0342]
 ---

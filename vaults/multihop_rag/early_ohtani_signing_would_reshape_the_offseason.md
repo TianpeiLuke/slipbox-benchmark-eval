@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - early ohtani signing would reshape the offseason
+  - discount and msrp
+  - soto
+  - juan
+  - mariners
+  - padres
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0480]
 ---

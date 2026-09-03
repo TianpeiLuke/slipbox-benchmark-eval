@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - procedure
+keywords:
+  - holiday kennel and dog park avoidance guidance
+  - canine
+  - illness
+  - respiratory
+  - atypical
+  - oregon
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0565]
 ---

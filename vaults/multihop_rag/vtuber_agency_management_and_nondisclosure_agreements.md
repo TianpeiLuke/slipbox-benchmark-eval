@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - vtuber agency management and nondisclosure agreements
+  - vtubing
+  - agencies
+  - vtubers
+  - graduations
+  - talents
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0550]
 ---

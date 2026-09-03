@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - eu ai act s training data disclosure rule
+  - european
+  - commission
+  - transparency
+  - fair
+  - ai-generated
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0271]
 ---

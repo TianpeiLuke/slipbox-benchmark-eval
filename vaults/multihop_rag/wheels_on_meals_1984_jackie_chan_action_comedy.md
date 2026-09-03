@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - wheels on meals 1984 the jackie chan action comedy
+  - hung
+  - hong
+  - yuen
+  - kong
+  - sammo
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - nba mvp award voting format and history
+  - most valuable player
+  - national basketball association
+  - markets
+  - futures
+  - first-place
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0589]
 ---

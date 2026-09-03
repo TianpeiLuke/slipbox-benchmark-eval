@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - works created principally through ai should not be copyrightable
+  - creator economy
+  - training
+  - submission
+  - generative
+  - nmpa
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0271]
 ---

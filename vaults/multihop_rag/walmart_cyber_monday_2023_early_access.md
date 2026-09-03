@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - walmart s cyber monday 2023 early access for walmart members
+  - black friday cyber monday
+  - video game release
+  - sale
+  - deal
+  - walmart's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0558]
 ---

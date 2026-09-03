@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - second half of jamaica 1 2 canada
+  - leg
+  - minutes
+  - copa
+  - nicholson
+  - canada-jamaica
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0157]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - counter_argument
+keywords:
+  - novo nordisk s response to the glp 1 gastroparesis findings
+  - glp-1
+  - glp1
+  - nordisk's
+  - medicines
+  - ozempic
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0066]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - argument
+keywords:
+  - allison miller s case for getting an annual flu vaccine
+  - amputation
+  - influenza
+  - severe
+  - severity
+  - her
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0065]
 ---

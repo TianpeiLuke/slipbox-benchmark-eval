@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - hannah keeley s five christmas parenting mistakes
+  - parents
+  - blunders
+  - keeley's
+  - grinchy
+  - griping
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0148]
 ---

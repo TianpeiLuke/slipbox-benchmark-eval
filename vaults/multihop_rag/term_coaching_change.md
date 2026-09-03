@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - coaching change
+  - head
+  - seat
+  - half
+  - uswnt
+  - nfl
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0022, doc_0108, doc_0315, doc_0340, doc_0437, doc_0474]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - billie jean king s case that women s sports are at an investment tipping point
+  - women's
+  - king's
+  - fiftieth
+  - sexes
+  - pwhl
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0412]
 ---

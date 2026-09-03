@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - analysis of meta s delay tactics on the consent switch
+  - data privacy
+  - meta's
+  - referral
+  - gdpr
+  - ads
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0107]
 ---

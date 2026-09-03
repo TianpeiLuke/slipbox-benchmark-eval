@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - manchester united s injury list before the fulham match
+  - lisandro
+  - bruno
+  - fernandes
+  - martinez
+  - november
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0260]
 ---

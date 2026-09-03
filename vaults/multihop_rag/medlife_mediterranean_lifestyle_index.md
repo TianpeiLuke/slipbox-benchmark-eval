@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - concept
+keywords:
+  - medlife mediterranean lifestyle index
+  - usage based pricing
+  - cannabis
+  - study
+  - diet-and-health
+  - components
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0466]
 ---

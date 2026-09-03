@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - michael gawenda s exploration of his jewish identity
+  - user generated content
+  - memoir
+  - gawenda's
+  - title
+  - roundup
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0582]
 ---

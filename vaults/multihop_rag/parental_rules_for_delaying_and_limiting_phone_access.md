@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - procedure
+keywords:
+  - parental rules for delaying and limiting phone access
+  - smartphone
+  - parents
+  - kelman
+  - teen
+  - sextortion
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0518]
 ---

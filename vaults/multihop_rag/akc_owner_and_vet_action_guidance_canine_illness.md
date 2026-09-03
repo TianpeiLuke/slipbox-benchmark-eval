@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - procedure
+keywords:
+  - akc owner and vet action guidance for canine illness
+  - respiratory
+  - dog
+  - klein
+  - atypical
+  - owners
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0565]
 ---

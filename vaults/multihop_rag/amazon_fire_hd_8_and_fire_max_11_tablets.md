@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - amazon fire hd 8 and fire max 11 tablets
+  - streaming service
+  - discount and msrp
+  - kindle
+  - deal
+  - matching
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0250]
 ---

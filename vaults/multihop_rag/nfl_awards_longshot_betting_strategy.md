@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - why bettors should consider nfl award longshots and bet them small
+  - sports betting odds
+  - national football league
+  - sports-betting-odds
+  - player
+  - mvp
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0145]
 ---

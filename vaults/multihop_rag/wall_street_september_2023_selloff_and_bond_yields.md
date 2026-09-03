@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - wall street september 2023 selloff and bond yields
+  - asx
+  - session
+  - treasury
+  - cent
+  - rba
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0001]
 ---

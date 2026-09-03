@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - compact disc from philips to itunes
+  - taylor
+  - swift
+  - grouping
+  - kelce
+  - swifties
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0128]
 ---

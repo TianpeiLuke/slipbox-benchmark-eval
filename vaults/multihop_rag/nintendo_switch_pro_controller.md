@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - nintendo switch pro controller
+  - console hardware
+  - battery technology
+  - battery life and charging
+  - bitdo
+  - ultimate
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0236]
 ---

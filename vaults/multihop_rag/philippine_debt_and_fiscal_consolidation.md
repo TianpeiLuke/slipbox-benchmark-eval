@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - philippine debt and the case for fiscal consolidation
+  - covid 19
+  - investment
+  - tax
+  - deficit
+  - budget
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0410]
 ---

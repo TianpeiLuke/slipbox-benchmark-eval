@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - hypothesis
+keywords:
+  - hypothesis a mcgregor fight would lift canelo s net worth to 240 million
+  - earnings report
+  - alvarez
+  - canelo's
+  - mayweather
+  - charlo
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0194]
 ---

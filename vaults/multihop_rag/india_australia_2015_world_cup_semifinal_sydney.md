@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - india vs australia in the 2015 world cup semi final at sydney
+  - wickets
+  - semi-final
+  - balls
+  - runs
+  - england
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0133, doc_0246]
 ---

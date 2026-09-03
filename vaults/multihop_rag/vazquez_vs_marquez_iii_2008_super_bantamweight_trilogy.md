@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - vazquez sd 12 marquez iii the best of the most exciting modern trilogy
+  - showtime
+  - fights
+  - greatest
+  - wbc
+  - upset
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0273]
 ---

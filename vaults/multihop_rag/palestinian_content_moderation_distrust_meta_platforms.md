@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - palestinian content moderation distrust on meta s platforms
+  - shadowbanning
+  - user generated content
+  - terms of service
+  - gaza
+  - meta's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0124]
 ---

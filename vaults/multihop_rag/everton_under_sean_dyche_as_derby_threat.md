@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - everton under sean dyche as a derby threat
+  - premier league
+  - klopp
+  - liverpool's
+  - deduction
+  - merseyside
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0542]
 ---

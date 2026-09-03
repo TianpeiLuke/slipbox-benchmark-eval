@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - openai s three tier ai safety team structure
+  - veto
+  - preparedness
+  - chatgpt
+  - models
+  - three-tier
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0117]
 ---

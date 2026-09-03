@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - askp3 s forthcoming guidelines for at home ketamine use
+  - anesthetic
+  - at-home
+  - askp3's
+  - risks
+  - matthew
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0390]
 ---

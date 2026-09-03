@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - concept
+keywords:
+  - zoom fatigue definition and symptoms
+  - covid 19
+  - videoconferencing
+  - stanford
+  - capitol
+  - theme
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0590]
 ---

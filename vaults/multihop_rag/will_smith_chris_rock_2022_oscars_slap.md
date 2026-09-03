@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - will smith s slap of chris rock at the 2022 oscars
+  - separation
+  - jada
+  - pinkett
+  - smith's
+  - expert
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0018, doc_0036]
 ---

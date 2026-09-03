@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - boston dynamics humanoid research yielding a non humanoid robot
+  - robotics
+  - dynamics'
+  - digit
+  - agility
+  - non-humanoid
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0421]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - why draftkings vermont offer beats rivals and why the deposit match is only for high rollers
+  - sports betting odds
+  - bonus
+  - welcome
+  - betmgm
+  - deposit-and-bonus-bets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0072]
 ---

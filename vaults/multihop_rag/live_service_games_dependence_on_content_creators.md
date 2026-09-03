@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - live service games dependence on content creators
+  - creator economy
+  - streamers
+  - twitch
+  - live-service
+  - grinds
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0545]
 ---

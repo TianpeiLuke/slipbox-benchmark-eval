@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - digital twin definition and cuboid classification model
+  - twins
+  - iot
+  - initiatives
+  - axis
+  - simulation
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0191]
 ---

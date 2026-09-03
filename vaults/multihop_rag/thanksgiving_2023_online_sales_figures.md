@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - thanksgiving 2023 online sales figures
+  - covid 19
+  - holiday
+  - adobe
+  - analytics
+  - substantial
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0450]
 ---

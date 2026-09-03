@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - cure kiyoshi kurosawa s horror masterpiece about violence as contagion
+  - fraud
+  - regulatory investigation
+  - kurosawa's
+  - yakusho
+  - itami
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

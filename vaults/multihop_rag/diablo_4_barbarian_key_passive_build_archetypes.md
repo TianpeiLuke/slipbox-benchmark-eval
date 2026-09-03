@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - diablo 4 barbarian key passive build archetypes
+  - actors and writers strike
+  - sorcerer
+  - builds
+  - berserk
+  - fury
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0123]
 ---

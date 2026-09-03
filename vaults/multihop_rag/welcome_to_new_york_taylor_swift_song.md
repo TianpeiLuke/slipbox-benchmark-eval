@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - welcome to new york as a song about creative and personal freedom
+  - lobbying political donations
+  - swift
+  - taylor
+  - topic
+  - tag
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0257]
 ---

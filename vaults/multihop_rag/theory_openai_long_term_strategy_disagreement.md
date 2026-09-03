@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - hypothesis
+keywords:
+  - theory a long term strategy disagreement over openai s economics
+  - altman
+  - board
+  - openai's
+  - liability
+  - board's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0333]
 ---

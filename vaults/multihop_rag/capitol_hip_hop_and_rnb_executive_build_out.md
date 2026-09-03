@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - capitol s hip hop and r b executive build out
+  - national basketball association
+  - music
+  - capitol's
+  - cmg
+  - build-out
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0212]
 ---

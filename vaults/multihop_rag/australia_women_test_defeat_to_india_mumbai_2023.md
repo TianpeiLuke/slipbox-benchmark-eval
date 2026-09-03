@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - australia women s test defeat to india in mumbai december 2023
+  - concert tour
+  - world cup
+  - healy
+  - england
+  - multi-format
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0440]
 ---

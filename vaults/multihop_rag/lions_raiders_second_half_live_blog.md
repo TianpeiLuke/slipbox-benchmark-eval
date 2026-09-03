@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - lions raiders second half a goff pick six then gibbs puts it away
+  - coaching change
+  - garoppolo
+  - reynolds
+  - las
+  - vegas
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0004]
 ---

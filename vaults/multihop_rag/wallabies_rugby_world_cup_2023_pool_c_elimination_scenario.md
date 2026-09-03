@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - wallabies 2023 rugby world cup pool c elimination scenario
+  - samu
+  - fiji
+  - kerevi
+  - africa
+  - south
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0168]
 ---

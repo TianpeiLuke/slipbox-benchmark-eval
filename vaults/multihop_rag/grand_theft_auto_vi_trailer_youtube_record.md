@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - grand theft auto vi trailer s youtube record
+  - uaw
+  - strike
+  - trailer's
+  - weekly
+  - ces
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0334]
 ---

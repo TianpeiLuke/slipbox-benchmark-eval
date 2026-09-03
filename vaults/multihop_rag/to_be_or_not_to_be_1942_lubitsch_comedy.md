@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - to be or not to be 1942 lubitsch s anti war comedy
+  - streaming service
+  - criterion
+  - lubitsch's
+  - anti-war
+  - channel
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

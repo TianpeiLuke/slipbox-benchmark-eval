@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - trump tower fifth avenue penthouse valuation dispute
+  - criminal trial
+  - fraud
+  - fraud-trial
+  - letitia
+  - engoron
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0529, doc_0530]
 ---

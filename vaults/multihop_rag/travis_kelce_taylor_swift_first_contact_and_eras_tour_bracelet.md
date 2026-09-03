@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - travis kelce s first contact attempt and the eras tour bracelet
+  - super bowl
+  - concert tour
+  - swift
+  - taylor
+  - perry
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0044]
 ---

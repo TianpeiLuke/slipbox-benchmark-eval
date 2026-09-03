@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - love friendship 2016 whit stillman s austen adaptation
+  - streaming service
+  - comedy
+  - stillman's
+  - beckinsale
+  - romantic
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

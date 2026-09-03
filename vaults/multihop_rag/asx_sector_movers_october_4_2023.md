@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - asx sector movers on 4 october 2023
+  - cent
+  - laggards
+  - session
+  - expectations
+  - rba
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0029]
 ---

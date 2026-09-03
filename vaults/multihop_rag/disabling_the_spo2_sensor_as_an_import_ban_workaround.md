@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - disabling the spo2 sensor as an import ban workaround
+  - appeals process
+  - patent litigation
+  - game patch notes
+  - apple
+  - watch
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0241]
 ---

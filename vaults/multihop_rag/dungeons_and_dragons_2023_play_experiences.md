@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - dungeons dragons in 2023
+  - lobbying political donations
+  - covid 19
+  - gate
+  - knew
+  - she
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0591]
 ---

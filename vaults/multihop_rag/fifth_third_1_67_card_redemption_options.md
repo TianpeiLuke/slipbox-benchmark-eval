@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - procedure
+keywords:
+  - fifth third 1 67 card redemption options
+  - cash
+  - amex
+  - magnet
+  - rewards
+  - cardholder
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0470]
 ---

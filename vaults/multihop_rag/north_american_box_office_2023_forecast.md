@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - hypothesis
+keywords:
+  - north american box office forecast for 2023
+  - dergarabedian
+  - decrees
+  - screenings
+  - billion-dollar
+  - preparations
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0419]
 ---

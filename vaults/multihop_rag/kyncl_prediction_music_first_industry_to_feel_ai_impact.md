@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - hypothesis
+keywords:
+  - kyncl prediction music is the first industry to feel ai s impact
+  - labels
+  - tooling
+  - streaming
+  - exploiting
+  - takeaway
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0455]
 ---

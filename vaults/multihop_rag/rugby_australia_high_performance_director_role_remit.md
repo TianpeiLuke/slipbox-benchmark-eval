@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - rugby australia high performance director role and its remit
+  - lobbying political donations
+  - eddie
+  - wallabies
+  - high-performance
+  - jones
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0493]
 ---

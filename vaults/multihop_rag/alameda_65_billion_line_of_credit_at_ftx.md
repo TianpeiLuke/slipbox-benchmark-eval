@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - alameda s 65 billion line of credit at ftx
+  - bankman-fried
+  - testified
+  - alameda's
+  - ellison
+  - research
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0053, doc_0086, doc_0121, doc_0305]
 ---

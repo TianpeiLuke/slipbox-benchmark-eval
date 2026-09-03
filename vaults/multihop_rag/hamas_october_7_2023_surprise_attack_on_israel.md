@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - hamas october 7 2023 surprise attack on israel
+  - mossad
+  - intelligence
+  - war
+  - sderot
+  - foreknew
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0134]
 ---

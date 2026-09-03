@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - penguins third period weakness carried into 2023 24
+  - blackhawks
+  - bedard
+  - third-period
+  - nhl
+  - connor
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0483]
 ---

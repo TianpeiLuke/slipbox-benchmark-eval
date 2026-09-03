@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - enterprise generative ai use case pilots
+  - generative-ai
+  - cio
+  - theme
+  - use-case
+  - caution
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0160]
 ---

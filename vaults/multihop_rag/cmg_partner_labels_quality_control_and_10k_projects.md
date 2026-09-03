@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - cmg s partner labels quality control and 10k projects
+  - music
+  - warner
+  - capitol
+  - lil
+  - group
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0212]
 ---

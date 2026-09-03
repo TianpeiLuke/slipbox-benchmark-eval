@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - plus one 2019 the wedding season romantic comedy
+  - streaming service
+  - activision
+  - erskine
+  - pen15
+  - quaid
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0597]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - penguin hbo max series
+  - streaming service
+  - fire
+  - streaming-service
+  - batman
+  - amazon
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0081]
 ---

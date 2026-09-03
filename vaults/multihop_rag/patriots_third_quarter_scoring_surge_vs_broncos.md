@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - patriots third quarter surge against denver
+  - player injury report
+  - broncos
+  - elliott
+  - ezekiel
+  - zappe
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0449]
 ---

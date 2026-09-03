@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - mozilla s rationale for investing in the fediverse
+  - earnings report
+  - mastodon
+  - social
+  - mozilla's
+  - networking
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0026]
 ---

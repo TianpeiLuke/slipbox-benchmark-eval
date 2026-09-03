@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - iran s state funding of hamas
+  - gaza
+  - israel
+  - fundraising
+  - terror
+  - terrorism
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0486]
 ---

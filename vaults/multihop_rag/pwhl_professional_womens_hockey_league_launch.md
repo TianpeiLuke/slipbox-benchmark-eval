@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - pwhl a professional women s hockey league launch
+  - billie
+  - king's
+  - jean
+  - women's
+  - amazing
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0412]
 ---

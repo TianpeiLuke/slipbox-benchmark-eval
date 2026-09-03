@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - origin of the cavefish ketogenic diet collaboration
+  - autism
+  - yoshizawa
+  - lee
+  - shriners
+  - honolulu
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0391]
 ---

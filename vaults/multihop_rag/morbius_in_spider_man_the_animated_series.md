@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - morbius in spider man the animated series
+  - vampire
+  - spider-man
+  - vampires
+  - trope
+  - vampirism
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0453]
 ---

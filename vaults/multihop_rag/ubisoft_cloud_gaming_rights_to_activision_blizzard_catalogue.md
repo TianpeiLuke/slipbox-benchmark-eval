@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - ubisoft s cloud gaming rights to the activision blizzard catalogue
+  - streaming service
+  - microsoft
+  - playstation
+  - xbox
+  - assassin's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0214]
 ---

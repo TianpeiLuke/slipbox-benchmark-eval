@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - manchester united recent champions league failures
+  - istanbul
+  - galatasaray
+  - group
+  - bayern
+  - munich
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0013]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - concept
+keywords:
+  - ebt 101 crispr hiv gene therapy
+  - clinical trial
+  - regulatory investigation
+  - ebt-101
+  - crispr-cas9
+  - gene-editing
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0472]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - five kinds of terms attached to sportsbook bonuses
+  - terms of service
+  - sports betting odds
+  - offer
+  - vermont
+  - welcome
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0072]
 ---

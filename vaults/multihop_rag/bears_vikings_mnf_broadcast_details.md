@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - bears vikings monday night broadcast details
+  - national football league
+  - mnf
+  - fubo
+  - bears-vikings
+  - chicago
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0144]
 ---

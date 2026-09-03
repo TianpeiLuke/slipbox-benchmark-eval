@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - uber s results as a macro signal for startups
+  - earnings report
+  - uber's
+  - on-demand
+  - lucid
+  - cab
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0337]
 ---

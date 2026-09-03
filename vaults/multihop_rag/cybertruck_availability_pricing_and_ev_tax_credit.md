@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - cybertruck availability pricing and the ev tax credit
+  - tesla
+  - ebay
+  - suvs
+  - substantial
+  - trucks
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0547]
 ---

@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - sports
+  - concept
+keywords:
+  - world cup
+  - rugby
+  - india
+  - australia
+  - cricket
+  - england
+topics:
+  - Business
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0409, doc_0022, doc_0246, doc_0105, doc_0585]
 enriched: web

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - qru s position on high performance centralisation
+  - world cup
+  - game patch notes
+  - rugby
+  - high-performance
+  - schmidt
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0492]
 ---

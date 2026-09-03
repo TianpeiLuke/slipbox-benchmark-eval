@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - initial public offering ipo
+  - stock
+  - pre-ipo
+  - ironnet
+  - rogers
+  - boardroom
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0011, doc_0116, doc_0156, doc_0252, doc_0375, doc_0536]
 enriched: web

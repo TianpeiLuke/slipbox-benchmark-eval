@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - current fediverse apps mostly clone existing platforms
+  - activitypub
+  - mastodon
+  - flipboard
+  - federated
+  - social
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0508]
 ---

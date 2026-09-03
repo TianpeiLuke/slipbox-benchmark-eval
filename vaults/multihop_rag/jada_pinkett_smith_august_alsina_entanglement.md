@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - jada pinkett smith s entanglement with august alsina
+  - separation
+  - marriage
+  - expert
+  - smith's
+  - brutiful
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0018, doc_0036]
 ---

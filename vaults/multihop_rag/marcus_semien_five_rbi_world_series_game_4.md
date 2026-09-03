@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - marcus semien s big hits in world series games 3 and 4
+  - playoff seeding
+  - rangers
+  - diamondbacks
+  - postseason
+  - inning
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0408, doc_0495]
 ---

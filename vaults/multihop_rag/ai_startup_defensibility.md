@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - ai startup defensibility
+  - large language model
+  - llm observability
+  - application
+  - layer
+  - proprietary
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0011, doc_0161]
 ---

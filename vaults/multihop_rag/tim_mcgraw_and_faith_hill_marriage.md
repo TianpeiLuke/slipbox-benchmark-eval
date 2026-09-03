@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - tim mcgraw and faith hill s marriage
+  - stapleton
+  - roundup
+  - married
+  - commitment
+  - underwood
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0019]
 ---

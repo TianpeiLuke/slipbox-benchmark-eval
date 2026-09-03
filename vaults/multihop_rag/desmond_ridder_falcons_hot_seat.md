@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - desmond ridder falcons hot seat
+  - national football league
+  - playoff seeding
+  - playoff-seeding
+  - nfl
+  - vikings
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0437]
 ---

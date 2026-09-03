@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - spire motorsports 2024 personnel hires
+  - racing
+  - nascar
+  - honda
+  - crew
+  - lambert
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0487]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - paneth cell niche explains organoid versus intestine divergence
+  - cells
+  - daam1
+  - stem
+  - intestinal
+  - wnt
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0302]
 ---

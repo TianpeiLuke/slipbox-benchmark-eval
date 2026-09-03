@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - hypothesis
+keywords:
+  - m3 release cadence hypothesis
+  - hardware device
+  - streaming service
+  - scary
+  - refresh
+  - macbook
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0287]
 ---

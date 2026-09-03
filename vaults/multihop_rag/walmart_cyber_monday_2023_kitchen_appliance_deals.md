@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - walmart cyber monday 2023 kitchen appliance deals
+  - espresso
+  - coffee
+  - cream
+  - wired
+  - ninja
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0320]
 ---

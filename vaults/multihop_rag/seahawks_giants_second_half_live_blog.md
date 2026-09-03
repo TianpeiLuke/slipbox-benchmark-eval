@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - seahawks giants second half witherspoon s 97 yard pick six ends the contest
+  - coaching change
+  - jones
+  - night
+  - sack
+  - seahawks-giants
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0290]
 ---

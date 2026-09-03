@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - epic games v google goes to trial on november 6 2023
+  - antitrust
+  - criminal trial
+  - class action settlement
+  - android
+  - anticompetitive
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0042]
 ---

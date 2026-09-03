@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - counter_argument
+keywords:
+  - myth that we know less about the deep sea than mars
+  - ocean
+  - interview
+  - copley
+  - deep-sea
+  - explorer
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0459]
 ---

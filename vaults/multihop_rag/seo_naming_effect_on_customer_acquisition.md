@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - seo naming effect on customer acquisition
+  - lobbying political donations
+  - near
+  - maps
+  - thai
+  - google
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0127]
 ---

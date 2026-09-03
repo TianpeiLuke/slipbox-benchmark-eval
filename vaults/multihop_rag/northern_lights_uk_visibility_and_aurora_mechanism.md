@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - how the aurora works and where in the uk it can be seen
+  - viewing
+  - lights
+  - northern
+  - sites
+  - isles
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0555]
 ---

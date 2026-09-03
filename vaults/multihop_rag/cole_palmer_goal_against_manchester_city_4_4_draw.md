@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - cole palmer s goal against manchester city in the 4 4 draw
+  - palmer's
+  - chelsea
+  - penalty-taking
+  - big-match
+  - santiago
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0445]
 ---

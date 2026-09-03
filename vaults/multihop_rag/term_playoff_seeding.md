@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - playoff seeding
+  - postseason
+  - week
+  - atmosphere
+  - nfl
+  - michigan
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0040, doc_0008, doc_0155]
 ---

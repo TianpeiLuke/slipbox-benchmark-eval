@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - openai s trust and safety departure and ftc probe
+  - regulatory investigation
+  - chatgpt
+  - chatgpt's
+  - openai's
+  - android
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0099]
 ---

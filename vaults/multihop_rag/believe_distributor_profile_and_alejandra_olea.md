@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - believe and alejandra olea managing director americas
+  - estas
+  - interview
+  - music
+  - inigo
+  - breakthrough
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0211]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - digital twins as virtual sensors in complex conditions
+  - hardware device
+  - hardware-device
+  - motor
+  - tag
+  - corpus
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0191]
 ---

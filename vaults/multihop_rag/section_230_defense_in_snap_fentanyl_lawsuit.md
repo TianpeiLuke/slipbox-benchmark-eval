@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - section 230 defense in the snap fentanyl lawsuit
+  - drug
+  - overdose
+  - bergman
+  - snapchat
+  - death
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0345]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - construction of the gaza border barrier
+  - in car surveillance
+  - fence
+  - iron
+  - idf
+  - strip
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0078]
 ---

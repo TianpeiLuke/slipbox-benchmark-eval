@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - graham arnold socceroos coaching appearance record
+  - world cup
+  - istanbul
+  - galatasaray
+  - grouping
+  - farina
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0172]
 ---

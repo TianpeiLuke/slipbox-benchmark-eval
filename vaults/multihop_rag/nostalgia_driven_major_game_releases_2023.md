@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - nostalgia driven major game releases 2023
+  - mario
+  - fortnite
+  - nintendo
+  - map
+  - fortnite's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0549]
 ---

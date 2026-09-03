@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - empirical_observation
+keywords:
+  - cannabis use and the stillbirth association
+  - mediterranean
+  - pregnancy
+  - lifestyle
+  - study
+  - diet-and-health
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0604]
 ---

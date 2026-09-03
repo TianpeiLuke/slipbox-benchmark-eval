@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - shai hope s anchor innings in the t20 decider
+  - indies
+  - t20i
+  - west
+  - series
+  - england
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0064, doc_0371]
 ---

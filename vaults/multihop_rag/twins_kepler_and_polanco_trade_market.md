@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - max kepler and jorge polanco on the twins trade market
+  - major league baseball
+  - streaming service
+  - payroll
+  - morosi
+  - twins'
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0422]
 ---

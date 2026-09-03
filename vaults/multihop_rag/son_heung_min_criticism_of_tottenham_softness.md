@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - son heung min s criticism of tottenham s softness
+  - premier league
+  - west
+  - carabao
+  - unacceptable
+  - cup
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0541]
 ---

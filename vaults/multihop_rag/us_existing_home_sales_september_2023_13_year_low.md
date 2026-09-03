@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - us existing home sales fell to a 13 year low in september 2023
+  - housing
+  - existing-home
+  - mortgages
+  - rates
+  - affordability
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0479]
 ---

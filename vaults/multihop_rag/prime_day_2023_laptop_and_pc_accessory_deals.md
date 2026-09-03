@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - prime day 2023 laptop and pc accessory deals
+  - hardware device
+  - battery life and charging
+  - macbook
+  - pro
+  - air
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0520]
 ---

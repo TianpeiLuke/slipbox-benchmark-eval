@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - samsung galaxy watch 4 prime day deal
+  - battery technology
+  - wearable fitness tracker
+  - battery life and charging
+  - deals
+  - listings
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0584]
 ---

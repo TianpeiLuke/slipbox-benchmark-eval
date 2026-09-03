@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - procedure
+keywords:
+  - how patients are enrolled and consented into caring contacts
+  - suicide
+  - schalley
+  - screening
+  - nebraska
+  - program
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0158]
 ---

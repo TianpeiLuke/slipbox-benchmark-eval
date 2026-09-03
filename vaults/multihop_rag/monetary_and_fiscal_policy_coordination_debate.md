@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - monetary and fiscal policy coordination debate
+  - lobbying political donations
+  - covid 19
+  - inflation
+  - pandemic-era
+  - target
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0503]
 ---

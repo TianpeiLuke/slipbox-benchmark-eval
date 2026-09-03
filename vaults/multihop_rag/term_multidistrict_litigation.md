@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - multidistrict litigation
+  - uber
+  - pretrial
+  - consolidated
+  - federal
+  - consolidation
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0367]
 enriched: web

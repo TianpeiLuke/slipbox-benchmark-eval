@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - anthropic s fair use defense for ai training
+  - large language model
+  - copyrighted
+  - works
+  - music
+  - youtube
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0271, doc_0380]
 ---

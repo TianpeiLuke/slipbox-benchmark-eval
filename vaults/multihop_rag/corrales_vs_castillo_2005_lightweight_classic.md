@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - corrales tko 10 castillo the 2005 lightweight classic
+  - mayweather
+  - floyd
+  - showtime
+  - wbc
+  - wbo
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0273]
 ---

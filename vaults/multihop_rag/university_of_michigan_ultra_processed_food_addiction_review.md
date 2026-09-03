@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - university of michigan review of ultra processed food addiction
+  - usage based pricing
+  - foods
+  - addictive
+  - ultra-processed
+  - consumption
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0467]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - betmgm sportsbook deep mlb markets and the only nba live streaming app
+  - sports betting odds
+  - national basketball association
+  - major league baseball
+  - bonus
+  - offer
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0264, doc_0368]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ohtani s camp secrecy and the reporting blackout
+  - passan's
+  - offseason
+  - jeff
+  - ohtani's
+  - mariners
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0480]
 ---

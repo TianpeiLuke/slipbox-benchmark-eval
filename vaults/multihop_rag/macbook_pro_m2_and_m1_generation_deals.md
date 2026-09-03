@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - macbook pro m2 and m1 generation deals
+  - streaming service
+  - payment processor
+  - discount and msrp
+  - discount-and-msrp
+  - max
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0351]
 ---

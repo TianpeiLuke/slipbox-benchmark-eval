@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - bg3 warlock class features hit points and proficiencies
+  - regulatory investigation
+  - armor
+  - skills
+  - modifier
+  - light
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0017]
 ---

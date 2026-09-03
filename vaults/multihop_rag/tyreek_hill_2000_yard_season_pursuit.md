@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - tyreek hill 2 000 yard season pursuit
+  - waiver
+  - puka
+  - nacua
+  - target
+  - week
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0146]
 ---

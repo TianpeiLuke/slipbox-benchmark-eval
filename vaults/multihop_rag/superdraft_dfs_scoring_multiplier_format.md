@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - superdraft s multiplier based dfs scoring format
+  - daily fantasy sports
+  - national football league
+  - showdown
+  - nfl
+  - fanduel
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0386, doc_0544, doc_0583]
 ---

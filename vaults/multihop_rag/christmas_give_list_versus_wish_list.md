@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - christmas give list versus the wish list
+  - keeley
+  - hannah
+  - gifts
+  - gift-giving
+  - children
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0148]
 ---

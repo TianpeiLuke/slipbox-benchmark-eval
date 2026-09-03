@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - chelsea janes defense reporting an on the record shout is not wrong
+  - mintz
+  - arcia
+  - taunt
+  - harper
+  - alanna
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0328]
 ---

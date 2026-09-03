@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - google s denial that ad keyword matching affects organic results
+  - data privacy
+  - search
+  - ads
+  - manipulates
+  - sullivan
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0032]
 ---

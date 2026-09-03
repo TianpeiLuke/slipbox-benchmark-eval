@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - walmart price match policy
+  - black friday cyber monday
+  - items
+  - puerto
+  - price-match
+  - rico
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0403]
 ---

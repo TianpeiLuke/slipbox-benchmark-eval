@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - texas chain saw massacre a 140 000 budget and a 30m return
+  - box office
+  - streaming service
+  - fire
+  - topic
+  - tag
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

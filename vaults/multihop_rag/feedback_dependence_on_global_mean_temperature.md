@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - model
+keywords:
+  - feedback dependence on global mean temperature
+  - warming
+  - climate
+  - sensitivity
+  - pattern
+  - feedbacks
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0139]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - australia vs italy 2023 davis cup final preview
+  - finland
+  - lleyton
+  - czech
+  - republic
+  - hewitt
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0451]
 ---

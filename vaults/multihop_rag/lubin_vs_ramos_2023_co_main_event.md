@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - lubin vs ramos a controversial decision in the canelo charlo co main event
+  - canelo-charlo
+  - alvarez
+  - mcgregor
+  - co-main
+  - welterweight
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0245]
 ---

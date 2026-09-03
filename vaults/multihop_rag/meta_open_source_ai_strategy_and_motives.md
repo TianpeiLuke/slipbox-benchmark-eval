@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - meta s open source ai strategy and motives
+  - disinformation
+  - alliance
+  - meta's
+  - llama
+  - lecun
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0268]
 ---

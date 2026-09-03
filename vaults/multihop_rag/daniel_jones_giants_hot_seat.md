@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - daniel jones giants hot seat
+  - national football league
+  - seahawks
+  - york
+  - contract
+  - glenn
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0437]
 ---

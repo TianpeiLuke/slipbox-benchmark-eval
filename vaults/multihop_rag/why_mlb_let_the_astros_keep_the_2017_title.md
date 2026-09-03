@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - manfred s rebuttal to stripping the astros 2017 title
+  - major league baseball
+  - series
+  - manfred's
+  - trash
+  - world
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0007]
 ---

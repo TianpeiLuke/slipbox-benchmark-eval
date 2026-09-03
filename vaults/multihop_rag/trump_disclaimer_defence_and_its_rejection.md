@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - trump disclaimer defence and its rejection
+  - covid 19
+  - covid-19
+  - letitia
+  - statements
+  - tag
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0529]
 ---

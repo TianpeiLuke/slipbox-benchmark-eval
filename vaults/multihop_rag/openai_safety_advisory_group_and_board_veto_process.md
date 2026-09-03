@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - openai s safety advisory group and board veto process
+  - altman
+  - chatgpt
+  - sam
+  - recommendations
+  - openai's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0117]
 ---

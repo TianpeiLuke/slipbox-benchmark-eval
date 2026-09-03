@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - rogers family boardroom battle of 2021
+  - initial public offering
+  - coaching change
+  - utah
+  - theme
+  - communications
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0156]
 ---

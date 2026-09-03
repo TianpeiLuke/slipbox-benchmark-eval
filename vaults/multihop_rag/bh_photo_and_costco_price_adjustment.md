@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - b h photo and costco price adjustment
+  - matching
+  - policy
+  - policies
+  - guarantee
+  - roundup
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0403]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ravens at 49ers christmas day 2023 a possible super bowl preview
+  - most valuable player
+  - national football league
+  - mvp
+  - yards
+  - second-fewest
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0003]
 ---

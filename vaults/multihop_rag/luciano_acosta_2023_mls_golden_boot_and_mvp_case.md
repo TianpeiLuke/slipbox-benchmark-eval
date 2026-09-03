@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - luciano acosta s 2023 golden boot chase and mvp case
+  - most valuable player
+  - inter
+  - miami
+  - cincinnati
+  - acosta's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0088]
 ---

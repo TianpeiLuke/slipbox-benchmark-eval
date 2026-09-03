@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - super mario bros wonder as a send off for the switch
+  - console hardware
+  - fine penalty
+  - nintendo
+  - console's
+  - send-off
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0606]
 ---

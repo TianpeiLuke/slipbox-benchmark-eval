@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - counter_argument
+keywords:
+  - movie s simplified lore cuts against the for the fans framing
+  - nights
+  - freddy's
+  - freddys
+  - five
+  - newcomers
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0387]
 ---

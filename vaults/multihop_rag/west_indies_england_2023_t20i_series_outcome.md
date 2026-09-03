@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - west indies win the 2023 t20i series 3 2
+  - england
+  - hope
+  - decider
+  - shai
+  - overs
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0064, doc_0371]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - dubai as a year round destination season by season
+  - heritage
+  - sightseeing
+  - activities
+  - year-round
+  - guide
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0513]
 ---

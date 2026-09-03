@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - verdict on the 16 inch m3 max macbook pro
+  - battery technology
+  - streaming service
+  - battery life and charging
+  - chip
+  - listings
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0526]
 ---

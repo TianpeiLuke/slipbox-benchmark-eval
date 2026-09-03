@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - philippine house approval of the 2024 national budget
+  - hardware device
+  - corpus-level
+  - deficit
+  - tag
+  - note
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0306]
 ---

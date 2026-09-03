@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - wired s prime big deal days 2023 roundup scope
+  - game patch notes
+  - amazon
+  - kindle
+  - deals
+  - sale
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0520]
 ---

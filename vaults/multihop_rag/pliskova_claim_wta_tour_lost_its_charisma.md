@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - pliskova s claim that the wta tour lost its charisma
+  - concert tour
+  - tennis
+  - serena
+  - sharapova
+  - kyrgios
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0342]
 ---

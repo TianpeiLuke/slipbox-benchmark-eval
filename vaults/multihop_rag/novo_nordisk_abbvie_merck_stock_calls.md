@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - stock calls on novo nordisk abbvie and merck
+  - patent litigation
+  - acquisition
+  - earnings report
+  - pipeline
+  - pharma
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0239]
 ---

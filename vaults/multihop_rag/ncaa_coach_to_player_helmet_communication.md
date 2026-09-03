@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - ncaa coach to player helmet communication for bowl season
+  - national football league
+  - michigan
+  - ohio
+  - harbaugh
+  - coach-to-player
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0079]
 ---

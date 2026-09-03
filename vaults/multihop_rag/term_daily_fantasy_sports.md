@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - daily fantasy sports dfs
+  - week
+  - fanduel
+  - draftkings
+  - sportsbook
+  - superdraft
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0056, doc_0062, doc_0071, doc_0276, doc_0331, doc_0544]
 enriched: web

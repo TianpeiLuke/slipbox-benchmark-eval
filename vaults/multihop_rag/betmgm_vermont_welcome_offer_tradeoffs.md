@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - betmgm s vermont offer is the most generous second chance if you lose first
+  - sports betting odds
+  - bonus
+  - welcome
+  - sportsbook
+  - bet365
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0072]
 ---

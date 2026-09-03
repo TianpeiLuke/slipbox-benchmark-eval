@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - powell s rejection of monetary fiscal coordination
+  - inflation
+  - policy
+  - powell's
+  - jerome
+  - debate
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0503]
 ---

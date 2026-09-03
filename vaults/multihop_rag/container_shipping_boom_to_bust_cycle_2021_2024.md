@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - container shipping s boom to bust cycle 2021 to 2024
+  - initial public offering
+  - product launch
+  - covid 19
+  - pandemic-era
+  - cma
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0321]
 ---

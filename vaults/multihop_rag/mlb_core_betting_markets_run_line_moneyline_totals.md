@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - three staple mlb bet types moneylines run lines and totals
+  - major league baseball
+  - sports betting odds
+  - sportsbook
+  - markets
+  - underdog
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0264]
 ---

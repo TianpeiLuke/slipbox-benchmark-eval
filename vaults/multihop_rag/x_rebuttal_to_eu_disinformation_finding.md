@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - x s rebuttal to the eu disinformation finding
+  - community notes
+  - game patch notes
+  - x's
+  - posts
+  - worst
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0396]
 ---

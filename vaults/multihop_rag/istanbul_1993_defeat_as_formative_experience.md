@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - istanbul 1993 defeat as formative experience
+  - galatasaray
+  - champions
+  - united
+  - manchester
+  - league
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0013]
 ---

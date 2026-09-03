@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - meta s under 13 policy versus its internal growth goals
+  - fine penalty
+  - parental
+  - meta's
+  - under-13
+  - coppa
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0304]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - concept
+keywords:
+  - deep sea ten things you should know book
+  - game patch notes
+  - science
+  - copley
+  - ocean
+  - discoveries
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0459]
 ---

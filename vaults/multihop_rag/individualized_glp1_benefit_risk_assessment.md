@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - argument
+keywords:
+  - individualized benefit risk assessment for glp 1 drugs
+  - glp-1
+  - gastroparesis
+  - glp1
+  - ubc
+  - outweigh
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0066]
 ---

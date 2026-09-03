@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - ice spice s breakout and the capitol 10k partnership
+  - jubelirer
+  - swift
+  - taylor
+  - her
+  - music
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0212]
 ---

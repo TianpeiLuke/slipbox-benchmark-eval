@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - yorkshire dales england s largest dark sky reserve
+  - reserve mobilisation
+  - aurora
+  - viewing
+  - lights
+  - northern
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0555]
 ---

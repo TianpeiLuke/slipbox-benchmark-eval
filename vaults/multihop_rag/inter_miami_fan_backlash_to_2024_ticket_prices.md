@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - inter miami supporters protested the 2024 price hike by sitting in silence
+  - cincinnati
+  - chicago
+  - fire
+  - supporters'
+  - seats
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0088, doc_0203]
 ---

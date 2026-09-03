@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - defense opening statement the plane metaphor
+  - criminal trial
+  - ftx
+  - ellison
+  - officer
+  - caroline
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0162]
 ---

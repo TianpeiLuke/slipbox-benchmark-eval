@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - counter_argument
+keywords:
+  - kevin federline s 2022 comments and the spears camp s rebuttal
+  - data privacy
+  - user generated content
+  - britney
+  - federline's
+  - sons
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0358]
 ---

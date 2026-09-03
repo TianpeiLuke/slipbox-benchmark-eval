@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - utsa s 2023 offensive profile going into the frisco bowl
+  - coaching change
+  - utsa's
+  - marshall
+  - portal
+  - passing
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0005]
 ---

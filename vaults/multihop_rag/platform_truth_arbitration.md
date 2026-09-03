@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - why platforms cannot arbitrate truth
+  - community notes
+  - sports betting odds
+  - ohanian
+  - reddit
+  - moderation
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0278]
 ---

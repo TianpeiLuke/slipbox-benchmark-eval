@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - very important people a reboot of collegehumor s hello my name is
+  - dropout
+  - reich
+  - improv
+  - anniversary
+  - dropout's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0586]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - technology dependence creates defense blind spots
+  - technological
+  - barrier
+  - gaza
+  - strategic
+  - vietnam
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0078]
 ---

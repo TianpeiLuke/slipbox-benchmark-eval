@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - kevin sheehan 2023 afl draft top 40 prospects list
+  - profiles
+  - kyler
+  - irrelevant
+  - windsor
+  - caiden
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0244]
 ---

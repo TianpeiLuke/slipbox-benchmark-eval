@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - amex cash magnet cardholder benefits
+  - payment processor
+  - purchases
+  - skymiles
+  - delta
+  - express
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0471]
 ---

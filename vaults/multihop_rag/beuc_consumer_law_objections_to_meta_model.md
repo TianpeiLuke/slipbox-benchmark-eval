@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - beuc s consumer law case against meta s pay or consent model
+  - data privacy
+  - meta's
+  - choice
+  - subscription
+  - consumers
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0140]
 ---

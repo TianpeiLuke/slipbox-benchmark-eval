@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - plea agreement
+  - guilty
+  - cooperation
+  - pleaded
+  - prosecutors
+  - wang
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0010, doc_0086, doc_0121, doc_0226, doc_0269, doc_0293, doc_0374, doc_0375]
 enriched: web

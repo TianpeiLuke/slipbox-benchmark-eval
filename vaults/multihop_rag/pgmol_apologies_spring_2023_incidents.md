@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - pgmol apologies from spring 2023
+  - var
+  - arsenal
+  - handball
+  - allister
+  - mikel
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0395]
 ---

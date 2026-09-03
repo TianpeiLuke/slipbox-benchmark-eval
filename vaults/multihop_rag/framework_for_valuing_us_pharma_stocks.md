@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - procedure
+keywords:
+  - framework for valuing us pharma stocks
+  - valuation
+  - discount and msrp
+  - hsf
+  - discounts
+  - pipeline
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0239]
 ---

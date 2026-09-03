@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - concept
+keywords:
+  - canine respiratory illness three clinical presentations
+  - atypical
+  - pneumonia
+  - lungs
+  - illnesses
+  - dog
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0565]
 ---

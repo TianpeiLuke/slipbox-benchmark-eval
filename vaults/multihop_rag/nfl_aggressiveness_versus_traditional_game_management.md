@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - nfl aggressiveness versus traditional game management
+  - national football league
+  - jets
+  - zach
+  - wilson
+  - chiefs
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0316]
 ---

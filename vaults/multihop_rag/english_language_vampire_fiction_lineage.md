@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - lineage of english language vampire fiction
+  - user generated content
+  - verdict
+  - vampiric
+  - authors
+  - isles
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0452]
 ---

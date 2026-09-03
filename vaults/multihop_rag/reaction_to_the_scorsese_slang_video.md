@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - reaction to francesca scorsese s slang video
+  - scorsese's
+  - martin
+  - internet
+  - film
+  - commenters
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0193]
 ---

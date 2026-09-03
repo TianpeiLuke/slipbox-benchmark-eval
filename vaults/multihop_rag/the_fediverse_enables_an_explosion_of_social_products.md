@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - fediverse enables an explosion of social products
+  - activitypub
+  - protocol
+  - embracing
+  - messiness
+  - craigslist
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0508]
 ---

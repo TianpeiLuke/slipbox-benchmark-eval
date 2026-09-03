@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - two way interaction design of explore with alexa
+  - generative ai guardrails
+  - consumer-ai-and-devices
+  - kids
+  - asking
+  - trivia
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0188]
 ---

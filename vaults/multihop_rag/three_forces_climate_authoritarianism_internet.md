@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - three forces climate authoritarianism and the internet
+  - lobbying political donations
+  - user generated content
+  - democracy
+  - energy
+  - democratic
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0234]
 ---

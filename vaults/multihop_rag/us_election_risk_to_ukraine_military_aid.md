@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - us election risk to ukraine military aid
+  - lobbying political donations
+  - trump
+  - ukraine's
+  - donald
+  - actor
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0442]
 ---

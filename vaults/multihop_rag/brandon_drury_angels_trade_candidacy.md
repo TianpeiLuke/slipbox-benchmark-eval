@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - brandon drury angels trade candidacy
+  - acquisition
+  - trade and free agency
+  - ohtani
+  - offseason
+  - shohei
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0118]
 ---

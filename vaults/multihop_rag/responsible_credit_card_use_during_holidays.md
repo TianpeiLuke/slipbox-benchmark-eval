@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - procedure
+keywords:
+  - responsible credit card use during the holidays
+  - payment processor
+  - redemption
+  - fee
+  - fifth
+  - loan
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0251]
 ---

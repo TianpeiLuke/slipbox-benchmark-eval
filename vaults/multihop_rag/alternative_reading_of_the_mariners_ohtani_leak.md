@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - alternative reading of the mariners ohtani leak
+  - shohei
+  - camp
+  - rumor
+  - ohtani's
+  - contract
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0480]
 ---

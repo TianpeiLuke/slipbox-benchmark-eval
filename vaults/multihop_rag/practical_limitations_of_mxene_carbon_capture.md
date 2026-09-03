@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - counter_argument
+keywords:
+  - practical limitations of mxene carbon capture
+  - mxenes
+  - co2
+  - oxygen
+  - article
+  - mxenes'
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0247]
 ---

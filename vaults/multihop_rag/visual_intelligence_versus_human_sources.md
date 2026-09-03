@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - visual intelligence versus human sources
+  - barrier
+  - technological
+  - gaza
+  - surprise
+  - idf
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0078]
 ---

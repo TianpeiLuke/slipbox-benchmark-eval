@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - search quality complaints explained by data volume growth
+  - google
+  - information
+  - pagerank
+  - crawls
+  - manipulates
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0032]
 ---

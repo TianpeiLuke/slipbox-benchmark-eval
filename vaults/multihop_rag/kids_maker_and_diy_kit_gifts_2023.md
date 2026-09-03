@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - kids maker and diy kit gifts 2023
+  - battery life and charging
+  - kids'
+  - mechanical
+  - keyboard
+  - kbdcraft
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0424]
 ---

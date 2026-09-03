@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - cyberghost best for cross platform accessibility
+  - vpn
+  - cross-platform
+  - kingdom
+  - expressvpn
+  - devices
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0229]
 ---

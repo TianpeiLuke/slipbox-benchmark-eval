@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - alabama s cfp situation ahead of the 2023 sec championship game
+  - playoff seeding
+  - crimson
+  - texas
+  - tide
+  - alabama's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0258]
 ---

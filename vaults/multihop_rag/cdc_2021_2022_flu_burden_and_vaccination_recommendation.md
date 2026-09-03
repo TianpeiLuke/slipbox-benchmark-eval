@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - empirical_observation
+keywords:
+  - cdc s 2021 2022 flu burden estimate and vaccination recommendation
+  - public health guidance
+  - allison
+  - miller
+  - influenza
+  - amputation
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0065]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - original 1989 grammy wins chart longevity and a 250m tour
+  - concert tour
+  - box office
+  - taylor
+  - swift
+  - album
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0257]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - steve borthwick s three changes to england s xv for the semi final
+  - world cup
+  - blacks
+  - africa
+  - south
+  - semi-final
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0167]
 ---

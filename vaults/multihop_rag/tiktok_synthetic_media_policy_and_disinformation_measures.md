@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - tiktok s synthetic media policy and disinformation measures
+  - generative ai
+  - terms of service
+  - game patch notes
+  - training
+  - tiktok's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0248]
 ---

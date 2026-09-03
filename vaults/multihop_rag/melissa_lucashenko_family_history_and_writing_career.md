@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - melissa lucashenko family history late discovered ancestry and a writing career
+  - plea agreement
+  - bail
+  - class action settlement
+  - her
+  - aboriginal
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0283]
 ---

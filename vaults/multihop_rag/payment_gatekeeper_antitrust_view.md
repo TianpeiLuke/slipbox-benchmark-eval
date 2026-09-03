@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - gatekeeper platforms will keep drawing antitrust suits over their fees
+  - anti steering rules
+  - amex
+  - magnet
+  - cash
+  - merchants
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0075]
 ---

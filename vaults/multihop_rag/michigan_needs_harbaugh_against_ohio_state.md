@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - michigan did not need harbaugh at penn state but ohio state is different
+  - regulatory investigation
+  - playoff seeding
+  - coaching change
+  - ten
+  - buckeyes
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0353]
 ---

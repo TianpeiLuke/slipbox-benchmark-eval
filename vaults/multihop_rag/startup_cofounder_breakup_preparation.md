@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - preparing for a startup co founder breakup
+  - co-founder
+  - co-founders
+  - security
+  - humanoids
+  - flaw
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0199]
 ---

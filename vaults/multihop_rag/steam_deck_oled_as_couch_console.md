@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - steam deck oled as a couch console
+  - battery technology
+  - console hardware
+  - game patch notes
+  - handheld
+  - improvements
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0169]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - binance and zhao s plea agreement terms
+  - fine penalty
+  - binance's
+  - charges
+  - franke
+  - cftc
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0374]
 ---

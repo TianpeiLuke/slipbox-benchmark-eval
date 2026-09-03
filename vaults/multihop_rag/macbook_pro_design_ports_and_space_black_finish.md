@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - macbook pro design ports and the space black finish
+  - cloud computing
+  - streaming service
+  - battery life and charging
+  - apple
+  - inch
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0526]
 ---

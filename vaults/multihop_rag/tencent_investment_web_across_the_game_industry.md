@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - tencent s investment web across the game industry
+  - epic
+  - tencent's
+  - unreal
+  - games
+  - studio
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0050]
 ---

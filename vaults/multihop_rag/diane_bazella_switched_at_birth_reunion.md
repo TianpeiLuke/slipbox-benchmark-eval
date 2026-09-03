@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - diane bazella s switched at birth reunion
+  - geerts
+  - bazella's
+  - mother
+  - hospital
+  - switched-at-birth
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0067]
 ---

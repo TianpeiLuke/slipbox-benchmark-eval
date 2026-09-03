@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - no 17 arizona 42 18 no 22 utah november 2023
+  - coaching change
+  - jedd
+  - fisch
+  - stadium
+  - win
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0475]
 ---

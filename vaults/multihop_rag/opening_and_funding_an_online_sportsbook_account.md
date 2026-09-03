@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - opening and funding an online sportsbook account
+  - sports betting odds
+  - terms of service
+  - national basketball association
+  - nba
+  - mvp
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0497, doc_0589]
 ---

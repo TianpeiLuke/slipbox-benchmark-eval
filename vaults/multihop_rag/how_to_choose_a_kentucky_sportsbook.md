@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - how to choose a kentucky sportsbook
+  - sports betting odds
+  - futures
+  - sportsbooks
+  - fanatics
+  - markets
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0071]
 ---

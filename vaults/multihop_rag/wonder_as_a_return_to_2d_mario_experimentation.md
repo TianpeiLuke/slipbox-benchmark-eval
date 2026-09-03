@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - wonder as a return to 2d mario experimentation
+  - creator economy
+  - bros
+  - super
+  - shouldn't
+  - nintendo
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0606]
 ---

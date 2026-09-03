@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - argument
+keywords:
+  - case for adding gastroparesis to glp 1 warning labels
+  - glp-1
+  - glp1
+  - ubc
+  - patients
+  - drugs
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0066]
 ---

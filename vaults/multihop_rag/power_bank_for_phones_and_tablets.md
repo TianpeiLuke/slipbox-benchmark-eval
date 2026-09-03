@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - choosing a power bank for phones and tablets
+  - battery technology
+  - battery life and charging
+  - console hardware
+  - laptops
+  - nintendo
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0519]
 ---

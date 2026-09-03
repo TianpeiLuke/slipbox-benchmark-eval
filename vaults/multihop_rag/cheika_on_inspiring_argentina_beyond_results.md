@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - cheika inspiring argentina is not about results
+  - semi-final
+  - africa
+  - pumas
+  - south
+  - inspire
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0023]
 ---

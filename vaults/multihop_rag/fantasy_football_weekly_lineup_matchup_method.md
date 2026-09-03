@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - weekly fantasy lineup method set lineups by matchup not by draft order
+  - daily fantasy sports
+  - draft pick
+  - playoff seeding
+  - decisions
+  - dfs
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0057]
 ---

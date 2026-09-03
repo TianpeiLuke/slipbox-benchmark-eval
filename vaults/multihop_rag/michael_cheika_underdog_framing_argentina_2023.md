@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - cheika s underdog framing before the 2023 semi final
+  - blacks
+  - cheika's
+  - favourites
+  - argentina
+  - ireland
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0023]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - kashmir hill recommends the listeners
+  - data privacy
+  - data-privacy
+  - theme
+  - hochman
+  - thaw
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0243]
 ---

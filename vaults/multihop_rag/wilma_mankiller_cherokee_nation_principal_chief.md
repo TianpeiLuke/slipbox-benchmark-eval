@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - wilma mankiller first female principal chief of the cherokee nation
+  - barbie
+  - doll
+  - native
+  - criticism
+  - inspiring
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0095]
 ---

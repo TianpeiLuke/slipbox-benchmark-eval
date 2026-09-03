@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - hypothesis
+keywords:
+  - theory altman circumvented the board on a deal
+  - board governance
+  - embedded finance
+  - fraud
+  - openai
+  - acquisition
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0333]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - roku streaming stick 4k and express 4k plus
+  - streaming service
+  - fire
+  - amazon
+  - dolby
+  - kindle
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0090, doc_0250, doc_0567]
 ---

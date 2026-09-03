@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - samu kerevi s message on the state of australian rugby
+  - kerevi's
+  - rugby's
+  - world
+  - disappointment
+  - wallabies
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0168]
 ---

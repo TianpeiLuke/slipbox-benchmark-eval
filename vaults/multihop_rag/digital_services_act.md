@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - digital services act
+  - very large online platform
+  - fine penalty
+  - dsa
+  - disinformation
+  - musk
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0024, doc_0025, doc_0335]
 ---

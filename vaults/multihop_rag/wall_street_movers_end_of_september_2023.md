@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - wall street movers at the end of september 2023
+  - valuation
+  - actors and writers strike
+  - asx
+  - cent
+  - laggards
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0087]
 ---

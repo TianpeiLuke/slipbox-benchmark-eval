@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - model
+keywords:
+  - alameda absorbed ftx s losses including mobilecoin
+  - ftx's
+  - alameda's
+  - balance
+  - wang
+  - testimony
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0053, doc_0121, doc_0305]
 ---

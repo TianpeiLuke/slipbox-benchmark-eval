@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - material reciprocity principle in music royalties
+  - payment processor
+  - artists
+  - labels
+  - asymmetry
+  - copyright
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0361]
 ---

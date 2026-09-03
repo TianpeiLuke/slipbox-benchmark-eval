@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - apple s ios security fixes and spyware notifications
+  - lobbying political donations
+  - data privacy
+  - reviews
+  - flaws
+  - data-privacy
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0199]
 ---

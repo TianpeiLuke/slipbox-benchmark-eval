@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - usmnt blow an early lead and lose 3 1 to germany in east hartford
+  - fine penalty
+  - world cup
+  - berhalter
+  - north
+  - america
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0249]
 ---

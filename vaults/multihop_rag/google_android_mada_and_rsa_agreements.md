@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - mada and rsa google s two android distribution agreements
+  - revenue split
+  - search
+  - default
+  - chrome
+  - firefox
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0015]
 ---

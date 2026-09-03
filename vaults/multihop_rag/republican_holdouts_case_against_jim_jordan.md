@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - republican holdouts case against jim jordan
+  - hardware device
+  - biden
+  - house
+  - president
+  - joe
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0223, doc_0377]
 ---

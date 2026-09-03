@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - jeff shiffrin s death in 2020
+  - mikaela
+  - shiffrin's
+  - skiing
+  - eileen
+  - family
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0585]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - argument
+keywords:
+  - protecting populations most exposed to extreme heat
+  - disparity
+  - cities
+  - urban
+  - stress
+  - legacy
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0084]
 ---

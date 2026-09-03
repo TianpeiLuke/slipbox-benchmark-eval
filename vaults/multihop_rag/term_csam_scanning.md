@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - csam scanning
+  - proposal
+  - safety
+  - accredited
+  - detection
+  - encryption
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0026, doc_0457, doc_0498, doc_0505]
 ---

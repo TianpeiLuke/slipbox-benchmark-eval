@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - procedure
+keywords:
+  - kristen bell s household screen time rules
+  - strict
+  - screen-time
+  - bell's
+  - schwarzenegger
+  - household's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0177]
 ---

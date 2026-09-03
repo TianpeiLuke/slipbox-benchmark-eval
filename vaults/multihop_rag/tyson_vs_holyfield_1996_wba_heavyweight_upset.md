@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - holyfield tko 11 tyson the 1996 wba heavyweight upset
+  - showtime
+  - las
+  - vegas
+  - greatest
+  - fights
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0273]
 ---

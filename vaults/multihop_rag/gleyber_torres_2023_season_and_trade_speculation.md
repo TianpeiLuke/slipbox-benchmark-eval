@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - gleyber torres the trade case against him and why his own numbers rebut it
+  - yankees
+  - judge
+  - aaron
+  - reset
+  - soto
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0429]
 ---

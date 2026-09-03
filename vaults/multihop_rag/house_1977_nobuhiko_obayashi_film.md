@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - house nobuhiko obayashi s ghost story of inventive silliness
+  - streaming service
+  - fire
+  - topic
+  - tag
+  - amazon
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

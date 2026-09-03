@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - dodgers pitching need versus ohtani s 2024 elbow injury
+  - trade and free agency
+  - playoff seeding
+  - trout
+  - offseason
+  - signing
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0423]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - day of reckoning undercard results bivol dubois and kabayel
+  - draft pick
+  - heavyweight
+  - cruiserweight
+  - opetaia
+  - tko
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0561]
 ---

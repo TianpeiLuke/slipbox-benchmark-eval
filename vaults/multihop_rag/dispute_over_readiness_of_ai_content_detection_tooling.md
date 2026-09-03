@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - dispute over readiness of ai content detection tooling
+  - music
+  - kyncl
+  - takeaway
+  - labels
+  - session
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0455]
 ---

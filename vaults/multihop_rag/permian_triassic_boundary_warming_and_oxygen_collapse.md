@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - model
+keywords:
+  - permian triassic boundary warming and oxygen collapse
+  - extinction
+  - excerpt
+  - permian-triassic
+  - rise
+  - paleozoic
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0460]
 ---

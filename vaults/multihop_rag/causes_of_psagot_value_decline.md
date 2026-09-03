@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - three causes of psagot s value decline
+  - rani
+  - psagot's
+  - zim
+  - asset
+  - overhaul
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0073]
 ---

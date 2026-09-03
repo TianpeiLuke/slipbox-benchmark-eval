@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - case for the dodgers signing mike trout over ohtani
+  - ohtani's
+  - angels
+  - pitching
+  - dodgers'
+  - trout's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0423]
 ---

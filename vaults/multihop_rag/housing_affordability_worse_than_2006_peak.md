@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - argument
+keywords:
+  - housing affordability is worse now than at the 2006 peak
+  - inventory
+  - goldman
+  - sachs
+  - rates
+  - affordable
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0479]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - wonder s disposable idea design as an alternative to forever games
+  - creator economy
+  - mario
+  - bros
+  - super
+  - wonder's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0606]
 ---

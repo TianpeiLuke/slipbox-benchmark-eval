@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - model
+keywords:
+  - nba s 1970s image crisis and how david stern reversed it
+  - national basketball association
+  - appeals process
+  - fine penalty
+  - nfl's
+  - nba's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0344]
 ---

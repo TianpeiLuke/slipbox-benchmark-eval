@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - twilight 2000
+  - covid 19
+  - cold
+  - ttrpg
+  - table
+  - zulawski
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0591]
 ---

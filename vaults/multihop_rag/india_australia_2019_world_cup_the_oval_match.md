@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - india vs australia at the 2019 world cup
+  - icc
+  - balls
+  - runs
+  - semifinal
+  - overs
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0246]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - procedure
+keywords:
+  - flu vaccine timing and severity reduction according to sylvester
+  - allison
+  - influenza
+  - miller
+  - vaccination
+  - amputation
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0065]
 ---

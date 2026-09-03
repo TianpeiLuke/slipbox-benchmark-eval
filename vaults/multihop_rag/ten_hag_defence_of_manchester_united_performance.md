@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - ten hag s defence of manchester united s performance
+  - hag's
+  - erik
+  - ham
+  - ratcliffe
+  - champions
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0438]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - ai21 labs tel aviv office lease
+  - valuation
+  - war
+  - israeli
+  - portfolio
+  - globes
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0217]
 ---

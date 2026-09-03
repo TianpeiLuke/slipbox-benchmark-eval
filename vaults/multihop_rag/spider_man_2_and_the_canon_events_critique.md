@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - spider man 2 and the canon events critique
+  - spider-man
+  - wars
+  - disney
+  - star
+  - story
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0383]
 ---

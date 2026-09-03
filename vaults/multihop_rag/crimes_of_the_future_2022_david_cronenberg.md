@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - crimes of the future cronenberg s world where surgery is the new sex
+  - horror
+  - bodies
+  - writer
+  - polygon
+  - cronenberg's
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0563]
 ---

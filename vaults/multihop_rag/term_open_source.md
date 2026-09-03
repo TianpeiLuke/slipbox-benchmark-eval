@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - concept
+keywords:
+  - open source
+  - proprietary
+  - models
+  - openai
+  - meta
+  - openness
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0038, doc_0048, doc_0054, doc_0161, doc_0268]
 enriched: web

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - science
+  - procedure
+keywords:
+  - bawendi s controlled quantum dot synthesis
+  - dots
+  - nobel
+  - chemistry
+  - bawendi's
+  - brus's
+topics:
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0436]
 ---

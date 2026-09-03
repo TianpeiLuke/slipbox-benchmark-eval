@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - nocturne s moral stakes of killing the innocent
+  - user generated content
+  - nocturne's
+  - castlevania
+  - annette
+  - richter
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0329]
 ---

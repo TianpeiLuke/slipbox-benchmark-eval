@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - apple airtags holiday deal
+  - discount and msrp
+  - bluetooth
+  - trackers
+  - deals
+  - find
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0091, doc_0104, doc_0222]
 ---

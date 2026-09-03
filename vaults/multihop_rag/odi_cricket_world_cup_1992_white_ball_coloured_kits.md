@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - 1992 world cup white ball coloured kits and south africa s return
+  - cricket
+  - odi
+  - domain
+  - abandonment
+  - africa's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0409]
 ---

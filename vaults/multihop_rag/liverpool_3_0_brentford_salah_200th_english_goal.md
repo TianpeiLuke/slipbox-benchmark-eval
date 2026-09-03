@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - liverpool 3 0 brentford salah 200th english goal
+  - premier league
+  - actors and writers strike
+  - city
+  - draw
+  - chelsea
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0142]
 ---

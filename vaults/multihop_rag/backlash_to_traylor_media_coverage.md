@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - counter_argument
+keywords:
+  - backlash fans who say the swift kelce coverage is too much
+  - national football league
+  - taylor
+  - swift-kelce
+  - nfl
+  - travis
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0311, doc_0344]
 ---

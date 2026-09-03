@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - what a ruling for texas and florida would do to platforms
+  - lobbying political donations
+  - content moderation
+  - disinformation
+  - amendment
+  - laws
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0256]
 ---

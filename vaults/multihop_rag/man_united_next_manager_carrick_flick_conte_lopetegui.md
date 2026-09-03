@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - carrick flick conte and lopetegui as manchester united manager candidates
+  - world cup
+  - premier league
+  - playoff seeding
+  - munich
+  - bayern
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0315]
 ---

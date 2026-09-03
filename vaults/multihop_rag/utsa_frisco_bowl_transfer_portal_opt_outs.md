@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - utsa s transfer portal absences for the frisco bowl
+  - marshall
+  - moore
+  - college-football
+  - championship
+  - thaniel
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0005]
 ---

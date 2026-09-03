@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - cio tension between ai pressure and caution
+  - generative ai
+  - generative-ai
+  - enterprise
+  - theme
+  - turow
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0160]
 ---

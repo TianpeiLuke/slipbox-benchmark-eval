@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - why line shopping improves returns
+  - sports betting odds
+  - national football league
+  - national basketball association
+  - sportsbooks
+  - nba
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0060]
 ---

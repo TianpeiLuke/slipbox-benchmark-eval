@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - claiming draftkings three welcome offers worth up to 1 200
+  - bet
+  - bonus
+  - deposit
+  - promo
+  - code
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0202]
 ---

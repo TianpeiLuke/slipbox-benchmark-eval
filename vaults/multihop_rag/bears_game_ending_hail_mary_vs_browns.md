@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - browns survive bears game ending hail mary to win 20 17
+  - playoff seeding
+  - mnf
+  - vikings
+  - mooney
+  - darnell
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0080]
 ---

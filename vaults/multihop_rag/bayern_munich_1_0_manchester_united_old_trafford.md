@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - bayern munich 1 0 manchester united at old trafford
+  - waves
+  - carabao
+  - coman
+  - concurrent
+  - incoherence
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0370]
 ---

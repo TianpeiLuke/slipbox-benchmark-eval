@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - google nest thermostat deal prices
+  - smart home device
+  - discount and msrp
+  - black friday cyber monday
+  - echo
+  - amazon
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0222, doc_0567]
 ---

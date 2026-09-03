@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - claiming caesars sportsbook s 1 000 first bet with promo code news1000
+  - sports betting odds
+  - bonus
+  - offer
+  - welcome
+  - offers
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0202]
 ---

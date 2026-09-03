@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - sam reich s advice to creators find a better business model
+  - creator economy
+  - recommendation algorithm
+  - dropout
+  - topic
+  - corpus
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0586]
 ---

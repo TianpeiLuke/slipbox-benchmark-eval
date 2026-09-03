@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - ohanian s critique of social media and the creator economy
+  - disinformation
+  - board governance
+  - east
+  - middle
+  - ohanian's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0278]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - afc playoff seeding after week 13 of the 2023 season
+  - colts
+  - jaguars
+  - nfc
+  - steelers
+  - place
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0040]
 ---

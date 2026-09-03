@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - wired black friday 2023 macbook pro deals
+  - streaming service
+  - battery technology
+  - discount and msrp
+  - discount-versus-msrp
+  - recommends
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0576]
 ---

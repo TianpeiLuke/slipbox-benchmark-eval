@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - vermont sportsbook promo codes what they cover and who can use them
+  - sports betting odds
+  - bonus
+  - offer
+  - welcome
+  - caesars
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0072]
 ---

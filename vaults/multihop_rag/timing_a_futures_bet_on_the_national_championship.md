@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - when to place a futures bet on the national championship
+  - sports betting odds
+  - cfp
+  - sportsbooks
+  - bowl
+  - shopping
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0433]
 ---

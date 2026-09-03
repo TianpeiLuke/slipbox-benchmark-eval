@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - experimental nature of product innovation and the technology product gap
+  - design
+  - technology-product
+  - technologists
+  - perpetual
+  - mundane
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0496]
 ---

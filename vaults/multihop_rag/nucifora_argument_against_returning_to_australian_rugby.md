@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - nucifora s argument against returning to australian rugby
+  - schmidt
+  - wallabies
+  - revisit
+  - ireland
+  - appointment
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0493]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - ceedee lamb week 16 top dfs play
+  - daily fantasy sports
+  - dolphins
+  - waiver
+  - target
+  - tyreek
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0146]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - helena world chronicle s class action antitrust suit against google
+  - generative ai guardrails
+  - publisher
+  - sge
+  - anticompetitive
+  - google's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0033]
 ---

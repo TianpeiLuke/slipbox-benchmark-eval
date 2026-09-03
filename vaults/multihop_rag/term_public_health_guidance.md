@@ -1,4 +1,24 @@
 ---
+tags:
+  - resource
+  - business
+  - health
+  - science
+  - concept
+keywords:
+  - public health guidance
+  - cdc
+  - flu
+  - antibiotic
+  - vaccination
+  - burden
+topics:
+  - Business
+  - Health
+  - Science
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0065, doc_0239, doc_0467, doc_0566]
 enriched: web

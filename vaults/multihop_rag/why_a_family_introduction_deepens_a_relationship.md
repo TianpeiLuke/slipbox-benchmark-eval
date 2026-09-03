@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - why introducing a partner to your family can deepen the relationship
+  - deepened
+  - introduction
+  - holiday
+  - lurie
+  - stress
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0070]
 ---

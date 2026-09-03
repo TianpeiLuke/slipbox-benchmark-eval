@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - x post volume discrepancy
+  - elon
+  - post-volume
+  - musk
+  - item
+  - yaccarino's
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0011]
 ---

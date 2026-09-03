@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - judicial reform israel 2023
+  - protests
+  - bid
+  - pre-war
+  - israeli
+  - levy
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0413, doc_0448]
 enriched: web

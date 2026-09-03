@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - diamondbacks land eduardo rodriguez on a four year deal
+  - trade and free agency
+  - passan
+  - jeff
+  - tigers
+  - offseason
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0120]
 ---

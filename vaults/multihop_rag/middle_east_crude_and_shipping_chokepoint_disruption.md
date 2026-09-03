@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - model
+keywords:
+  - middle east crude and shipping chokepoint disruption
+  - oil
+  - trade
+  - cent
+  - escalation
+  - asia
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0111]
 ---

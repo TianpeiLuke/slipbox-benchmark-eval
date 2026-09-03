@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - health
+  - concept
+keywords:
+  - gastroparesis pancreatitis bowel obstruction and ileus
+  - clinic
+  - mayo
+  - glp-1
+  - glp1
+  - stomach
+topics:
+  - Health
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0066]
 ---

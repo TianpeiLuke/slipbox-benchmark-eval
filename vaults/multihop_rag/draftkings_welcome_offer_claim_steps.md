@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - procedure
+keywords:
+  - draftkings welcome offer claim steps
+  - sports betting odds
+  - streaming service
+  - bonus
+  - promo
+  - betmgm
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0432]
 ---

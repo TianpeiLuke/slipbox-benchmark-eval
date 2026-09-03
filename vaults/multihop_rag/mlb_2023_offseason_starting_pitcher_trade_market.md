@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - 2023 24 offseason starting pitcher trade market
+  - major league baseball
+  - trade and free agency
+  - lobbying political donations
+  - mlb
+  - ohtani
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0120]
 ---

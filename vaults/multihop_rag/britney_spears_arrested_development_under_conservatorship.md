@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - model
+keywords:
+  - arrested development britney spears child robot model of the conservatorship
+  - timberlake
+  - memoir
+  - child-robot
+  - her
+  - spears'
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: model
 source_docs: [doc_0052]
 ---

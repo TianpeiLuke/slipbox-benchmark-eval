@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - counter_argument
+keywords:
+  - e commerce search startup viability challenges
+  - deft
+  - e-commerce
+  - deft's
+  - konigsberg
+  - ecommerce
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0301]
 ---

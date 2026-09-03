@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - dubai s desert adventures best in november and december
+  - extinction
+  - dubai's
+  - species
+  - reptile
+  - dune
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0513]
 ---

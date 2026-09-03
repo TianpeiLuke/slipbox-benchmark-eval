@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - 2024 mock draft four quarterbacks off the board in round 1
+  - trade and free agency
+  - mayfield
+  - baker
+  - lbs
+  - prospect
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0179]
 ---

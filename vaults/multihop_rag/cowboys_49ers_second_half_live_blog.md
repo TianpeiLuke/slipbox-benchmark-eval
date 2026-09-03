@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - cowboys 49ers second half three prescott interceptions and a 42 10 final
+  - national football league
+  - san
+  - francisco
+  - cowboys-49ers
+  - yard
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0275]
 ---

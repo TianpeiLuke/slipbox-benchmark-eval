@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - robust intelligence s jailbreak of gemini pro
+  - generative ai
+  - recommendation algorithm
+  - guardrails
+  - pro's
+  - generative-ai
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0126]
 ---

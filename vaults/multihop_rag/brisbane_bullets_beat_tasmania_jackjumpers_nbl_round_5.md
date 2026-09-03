@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - brisbane survive tasmania s fightback to win 90 87
+  - melbourne
+  - beat
+  - bullets
+  - round
+  - jackjumpers
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0240]
 ---

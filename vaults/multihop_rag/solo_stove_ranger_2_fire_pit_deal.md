@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - solo stove ranger 2 0 fire pit black friday deal
+  - discount and msrp
+  - listing
+  - amazon
+  - price
+  - bundle
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0558]
 ---

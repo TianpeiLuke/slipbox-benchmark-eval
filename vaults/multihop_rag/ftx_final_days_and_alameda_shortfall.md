@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - ftx s final days and the alameda shortfall as wang described them
+  - fine penalty
+  - criminal trial
+  - bankman-fried
+  - testimony
+  - fraud
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0226]
 ---

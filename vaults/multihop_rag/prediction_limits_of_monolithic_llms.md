@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - hypothesis
+keywords:
+  - prediction the limits of monolithic llms
+  - cloud computing
+  - large language model
+  - game patch notes
+  - large-language-model
+  - cloud-computing
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: hypothesis
 source_docs: [doc_0365]
 ---

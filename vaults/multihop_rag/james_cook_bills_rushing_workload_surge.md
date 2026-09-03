@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - james cook s surge in buffalo s rushing workload
+  - bills
+  - week
+  - buffalo's
+  - chargers
+  - cook's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0376]
 ---

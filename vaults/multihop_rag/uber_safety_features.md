@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - uber s recording features and driver screening
+  - data privacy
+  - drivers
+  - uber's
+  - cameras
+  - platform-safety
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0367]
 ---

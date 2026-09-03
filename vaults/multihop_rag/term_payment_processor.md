@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - payment processor
+  - google
+  - rainforest
+  - billing
+  - fiserv
+  - loan
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0031, doc_0075, doc_0170, doc_0355]
 enriched: web

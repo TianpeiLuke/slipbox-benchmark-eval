@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - consolidation leaves studios vulnerable to bulk layoffs
+  - layoffs and restructuring
+  - closures
+  - themes
+  - bungie
+  - embracer
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0050]
 ---

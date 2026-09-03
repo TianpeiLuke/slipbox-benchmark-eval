@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - argument
+keywords:
+  - epic s argument that google blocks alternative android app stores
+  - oems
+  - billing
+  - play
+  - antitrust
+  - distribution
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0042]
 ---

@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - cowboys fantasy start recommendations for week 13
+  - cooks
+  - seahawks
+  - lamb
+  - ferguson
+  - bills
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0394]
 ---

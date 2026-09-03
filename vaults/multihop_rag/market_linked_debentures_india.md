@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - market linked debentures in india
+  - payment processor
+  - surplus
+  - principal
+  - hnis
+  - maturity
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0252]
 ---

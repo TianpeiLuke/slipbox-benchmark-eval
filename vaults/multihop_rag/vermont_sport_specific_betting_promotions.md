@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - why vermont sportsbook promos will target boston teams and college sports
+  - national football league
+  - national basketball association
+  - major league baseball
+  - offer
+  - betting
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0072]
 ---

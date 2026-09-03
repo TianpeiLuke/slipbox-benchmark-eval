@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - diamondbacks late rally in world series game 4
+  - reserve mobilisation
+  - bochy
+  - ninth
+  - inning
+  - stratton
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0408]
 ---

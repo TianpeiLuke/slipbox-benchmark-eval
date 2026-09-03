@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - empirical_observation
+keywords:
+  - reliance green energy investment programme
+  - battery technology
+  - renewable
+  - industries
+  - crore
+  - telecom
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0253]
 ---

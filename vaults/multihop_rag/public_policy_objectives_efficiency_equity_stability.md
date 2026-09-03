@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - concept
+keywords:
+  - public policy objectives efficiency equity and stability
+  - philippine
+  - fiscal
+  - sustainable
+  - liberalisation
+  - rcep
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0410]
 ---

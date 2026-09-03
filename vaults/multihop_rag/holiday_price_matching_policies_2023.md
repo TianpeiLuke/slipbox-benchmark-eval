@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - holiday price matching policies 2023
+  - policy
+  - retailers
+  - purchases
+  - guarantee
+  - camelcamelcamel
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0574]
 ---

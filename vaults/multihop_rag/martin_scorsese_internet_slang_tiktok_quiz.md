@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - empirical_observation
+keywords:
+  - martin scorsese s internet slang tiktok quiz
+  - francesca
+  - scorsese's
+  - internet-slang
+  - career
+  - refutes
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0193]
 ---

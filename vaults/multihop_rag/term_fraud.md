@@ -1,4 +1,22 @@
 ---
+tags:
+  - resource
+  - business
+  - technology
+  - concept
+keywords:
+  - fraud
+  - civil
+  - trump
+  - conspiracy
+  - ftx
+  - trial
+topics:
+  - Business
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0010, doc_0053, doc_0083, doc_0374, doc_0529]
 ---

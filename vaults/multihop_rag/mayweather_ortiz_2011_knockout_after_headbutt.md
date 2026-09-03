@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - mayweather vs ortiz 2011 the knockout after the headbutt
+  - floyd
+  - mcgregor
+  - canelo
+  - boxing
+  - mayweather's
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0228]
 ---

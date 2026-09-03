@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - everton s win over newcastle december 2023
+  - tottenham
+  - deduction
+  - everton's
+  - goodison
+  - bill
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0541]
 ---

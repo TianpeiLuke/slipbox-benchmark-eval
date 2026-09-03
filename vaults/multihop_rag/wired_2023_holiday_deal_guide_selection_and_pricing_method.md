@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - wired s 2023 holiday deal guide selection and pricing method
+  - black friday cyber monday
+  - user generated content
+  - game patch notes
+  - deals
+  - walmart
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0320, doc_0576]
 ---

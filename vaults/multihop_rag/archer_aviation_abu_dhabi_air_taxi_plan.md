@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - archer aviation s abu dhabi air taxi plan
+  - freight
+  - convoy
+  - cab
+  - teng
+  - autonomous
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0514]
 ---

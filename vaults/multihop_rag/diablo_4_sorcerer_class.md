@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - sorcerer class in diablo 4
+  - game patch notes
+  - creator economy
+  - build
+  - barbarian
+  - archetypes
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0122]
 ---

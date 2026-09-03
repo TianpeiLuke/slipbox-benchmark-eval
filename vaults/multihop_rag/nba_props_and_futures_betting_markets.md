@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - nba props and futures what they cover and when to bet them
+  - national basketball association
+  - sports betting odds
+  - national football league
+  - markets
+  - sportsbook
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0062, doc_0368]
 ---

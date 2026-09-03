@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - technology
+  - procedure
+keywords:
+  - k o ii punch in effects and performance workflow
+  - punch-in
+  - fader
+  - performative
+  - sampler
+  - manual
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: procedure
 source_docs: [doc_0417]
 ---

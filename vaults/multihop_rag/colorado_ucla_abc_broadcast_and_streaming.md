@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - concept
+keywords:
+  - abc s broadcast of the colorado ucla primetime pac 12 game
+  - streaming service
+  - colorado-ucla
+  - pac-12
+  - details
+  - listing
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0225]
 ---

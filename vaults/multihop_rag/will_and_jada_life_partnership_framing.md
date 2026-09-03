@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - concept
+keywords:
+  - life partnership as the smiths own term for their marriage
+  - jada
+  - pinkett
+  - separation
+  - waller
+  - divorce
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: concept
 source_docs: [doc_0018, doc_0159, doc_0360]
 ---

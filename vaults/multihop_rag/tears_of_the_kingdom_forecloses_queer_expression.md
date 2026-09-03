@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - entertainment
+  - argument
+keywords:
+  - tears of the kingdom forecloses queer expression
+  - gerudo
+  - gender
+  - breath
+  - hyrule
+  - gendered
+topics:
+  - Entertainment
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0389]
 ---

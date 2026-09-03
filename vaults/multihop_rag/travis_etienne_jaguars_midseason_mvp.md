@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - travis etienne jaguars midseason mvp
+  - national football league
+  - fantasy
+  - lawrence
+  - ppr
+  - rankings
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0515]
 ---

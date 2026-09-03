@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - business
+  - counter_argument
+keywords:
+  - jpmorgan and jes staley the epstein disclosures
+  - epstein's
+  - islands
+  - virgin
+  - denise
+  - george
+topics:
+  - Business
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: counter_argument
 source_docs: [doc_0477]
 ---

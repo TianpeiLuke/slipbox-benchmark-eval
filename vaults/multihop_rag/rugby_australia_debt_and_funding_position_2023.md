@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - rugby australia s debt and funding position in 2023
+  - covid 19
+  - world cup
+  - schmidt
+  - wallabies
+  - qru
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0492]
 ---

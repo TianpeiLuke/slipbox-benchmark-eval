@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - argument
+keywords:
+  - prisco s week 12 thanksgiving and black friday picks
+  - streaming service
+  - prisco's
+  - sunday
+  - lions
+  - ers
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: argument
 source_docs: [doc_0343]
 ---

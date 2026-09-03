@@ -1,4 +1,20 @@
 ---
+tags:
+  - resource
+  - sports
+  - empirical_observation
+keywords:
+  - brandon pfaadt s start in world series game 3
+  - inning
+  - diamondbacks
+  - seager
+  - corey
+  - adolis
+topics:
+  - Sports
+language: markdown
+date of note: 2026-09-02
+status: active
 building_block: empirical_observation
 source_docs: [doc_0495]
 ---
