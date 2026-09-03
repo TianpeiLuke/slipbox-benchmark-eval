@@ -36,6 +36,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import math
 import sqlite3
 import sys
 from collections import defaultdict
@@ -73,6 +74,33 @@ def load_gold(slug: str) -> tuple[list[dict], dict[str, str]]:
               f"corpus document; their recall is unreachable by construction.")
     return out, by_title
 
+
+
+def unit_tokens(db: Path) -> dict[str, int]:
+    """Real token count per retrieval unit, from a tokenizer -- not words x k.
+
+    A fixed words-to-tokens factor is not safe here because the factor DIFFERS
+    BY ARM: measured on this corpus, notes run 1.67 tokens/word against 1.28 for
+    raw chunks, because markdown headings, link brackets, table pipes and dense
+    proper nouns all tokenize poorly. Charging both arms 1.30 undercharged notes
+    by ~28%, so the note arm was assembling more real context than its budget
+    allowed while appearing to spend the same.
+
+    Budget means what fits in the window before the prompt goes in. That only
+    holds if the count is the one the model would actually see.
+    """
+    con = sqlite3.connect(db)
+    rows = con.execute("SELECT note_id, title, body FROM notes").fetchall()
+    con.close()
+    try:
+        import tiktoken
+        enc = tiktoken.get_encoding("cl100k_base")
+        return {n: len(enc.encode(f"{t}\n\n{b}")) for n, t, b in rows}
+    except ModuleNotFoundError:
+        print("WARNING: tiktoken not installed — falling back to words x 1.3, which "
+              "undercharges note-shaped text by roughly a quarter and biases the "
+              "comparison toward the note arm. Install tiktoken for a valid run.")
+        return {n: int(len(f"{t} {b}".split()) * 1.3) for n, t, b in rows}
 
 def note_provenance(vault: Path) -> dict[str, set[str]]:
     """note_id -> the corpus documents it declares. This is what makes it scorable."""
@@ -172,7 +200,7 @@ def main() -> None:
 
     ks = sorted(int(x) for x in a.k.split(","))
     budgets = sorted(int(x) for x in a.budgets.split(",") if x.strip())
-    TOK_PER_WORD = 1.3          # same factor used to size the corpus budget range
+    CANDIDATE_CEILING = 400     # retrieving more per query costs time for no packing gain
     questions, _ = load_gold(a.slug)
     if a.limit:
         questions = questions[: a.limit]
@@ -186,10 +214,7 @@ def main() -> None:
             sys.exit(2)
         prov = note_provenance(vault)
         unit_docs = lambda nid: prov.get(nid, set())          # noqa: E731
-        _c = sqlite3.connect(vault / "notes.db")
-        words = {n: int(w * TOK_PER_WORD)
-                 for n, w in _c.execute("SELECT note_id, words FROM notes")}
-        _c.close()
+        words = unit_tokens(vault / "notes.db")
     else:
         cdir = Path(a.chunk_db or f"data/chunks/{a.slug}")
         if not (cdir / "notes.db").exists():
@@ -199,9 +224,8 @@ def main() -> None:
         con = sqlite3.connect(cdir / "notes.db")
         cmap = {nid: {src} for nid, src in
                 con.execute("SELECT note_id, source_doc FROM notes")}
-        words = {n: int(w * TOK_PER_WORD)
-                 for n, w in con.execute("SELECT note_id, words FROM notes")}
         con.close()
+        words = unit_tokens(cdir / "notes.db")
         unit_docs = lambda nid: cmap.get(nid, set())          # noqa: E731
 
     if a.covered_only:
@@ -234,8 +258,27 @@ def main() -> None:
                     else R.STRATEGIES[_s](vault, query, k))
             return [(nid, unit_docs(nid)) for nid, _ in hits]
 
-        out = score(questions, resolve, ks, max(max(ks), 40 if budgets else max(ks)),
-                    budgets, words)
+        # The candidate list must be long enough that the BUDGET binds, never the
+        # cap. A fixed cap silently handicaps whichever arm has smaller units: at
+        # 8,192 tokens a 126-token chunk arm can fit ~65 units, so a cap of 40 let
+        # it assemble only ~5,050 tokens while the note arm spent its full budget.
+        # That is an asymmetric handicap on the baseline, and it favours notes at
+        # exactly the budget where the two were reported to converge.
+        need = max(ks)
+        if budgets and words:
+            # Size from the 10th-percentile unit, not the minimum: a handful of
+            # degenerate one-token units would otherwise demand thousands of
+            # candidates per query for no gain in what actually gets packed.
+            sizes = sorted(w for w in words.values() if w > 0)
+            p10 = sizes[len(sizes) // 10] if sizes else 1
+            need = min(CANDIDATE_CEILING, max(need, math.ceil(max(budgets) / p10) + 5))
+            fits = max(budgets) / p10
+            print(f"  (candidates/query {need}; p10 unit {p10} tokens, so the largest "
+                  f"budget wants ~{fits:.0f} units"
+                  + ("" if need >= fits else
+                     f" — CAPPED at {CANDIDATE_CEILING}, the cap binds not the budget")
+                  + ")")
+        out = score(questions, resolve, ks, need, budgets, words)
         results[strat] = out
         print(f"\n=== {a.arm} / {strat} — {out['answerable']} answerable questions ===")
         print(f"{'k':>4}  {'Recall@k':>9}  {'All-Recall@k':>13}")

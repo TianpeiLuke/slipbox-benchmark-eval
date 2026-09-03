@@ -110,102 +110,228 @@ def navigation_notes(vault: Path) -> set[str]:
     occupies in the top k is a slot that could have held an answer. Leaving them
     in results does not merely add noise, it understates the arm.
     """
+    def build():
+        con = sqlite3.connect(vault / "notes.db")
+        out = {n for n, in con.execute(
+            "SELECT note_id FROM notes WHERE building_block = 'navigation'")}
+        con.close()
+        return out
+    return _cached(("nav", str(vault)), build)
+
+
+# Per-vault caches. Rebuilding the graph, the networkx view or the embedding
+# matrix per query turns a 2,255-question run from minutes into hours, and the
+# inputs do not change within a run.
+_CACHE: dict[tuple, object] = {}
+
+
+def _cached(key, build):
+    if key not in _CACHE:
+        _CACHE[key] = build()
+    return _CACHE[key]
+
+
+def load_graph(vault: Path, undirected: bool = True
+               ) -> tuple[dict[str, list[str]], dict[str, int]]:
+    """Adjacency over RESOLVED in-vault links, UNDIRECTED, with degrees.
+
+    Direction is a fact about how a note was written, not about what it is
+    about: if A cites B the two are related whichever way a reader arrives.
+    Treating the graph as directed makes every note that is cited but does not
+    cite back a sink -- walk mass flows in and dies -- which silences most of
+    this vault, where entity notes are cited far more than they cite.
+    """
+    return _cached(("graph", str(vault), undirected),
+                   lambda: _build_graph(vault, undirected))
+
+
+def _build_graph(vault: Path, undirected: bool):
     con = sqlite3.connect(vault / "notes.db")
-    out = {n for n, in con.execute(
-        "SELECT note_id FROM notes WHERE building_block = 'navigation'")}
+    adj: dict[str, list[str]] = defaultdict(list)
+    deg: dict[str, int] = defaultdict(int)
+    for a_, b_ in con.execute(
+            "SELECT source_note_id, target_note_id FROM note_links "
+            "WHERE resolved=1 AND source_note_id != target_note_id"):
+        adj[a_].append(b_)
+        deg[a_] += 1
+        deg[b_] += 1
+        if undirected:
+            adj[b_].append(a_)
     con.close()
+    return dict(adj), dict(deg)
+
+
+def hub_weighted_graph(vault: Path):
+    """Directed graph whose edge weight is 1/log(deg(target)+e).
+
+    Standard PageRank spreads a node's mass uniformly over its out-edges, which
+    concentrates on hubs: a note everything links to accumulates rank regardless
+    of the query. Weighting the transition INTO a node by its degree damps that
+    without penalising flow OUT of a hub, so a well-connected note still passes
+    mass along.
+    """
+    def build():
+        import networkx as nx
+        adj, deg = load_graph(vault)
+        G = nx.DiGraph()
+        for u, nbrs in adj.items():
+            for v in nbrs:
+                G.add_edge(u, v, weight=1.0 / math.log(deg.get(v, 1) + math.e))
+        return G
+    return _cached(("hubG", str(vault)), build)
+
+
+def _embeddings(vault: Path):
+    """(matrix, id list, id->row) for the vault's dense index."""
+    import numpy as np
+    epath, ipath = vault / "embeddings.npy", vault / "embedding_ids.json"
+    if not epath.exists():
+        raise FileNotFoundError(
+            f"no dense index at {epath}. Run: python3 scripts/build_embeddings.py {vault}")
+    def build():
+        meta = json.loads(ipath.read_text())
+        return np.load(epath), meta["ids"], {n: i for i, n in enumerate(meta["ids"])}
+    return _cached(("emb", str(vault)), build)
+
+
+def encode_query(vault: Path, query: str):
+    global _MODEL
+    meta = json.loads((vault / "embedding_ids.json").read_text())
+    if _MODEL is None:
+        from sentence_transformers import SentenceTransformer
+        _MODEL = SentenceTransformer(meta["model"])
+    return _MODEL.encode([query], convert_to_numpy=True, normalize_embeddings=True)[0]
+
+
+def dense_seed(vault: Path, q_emb, k: int = 5, in_set: set | None = None) -> list[str]:
+    """Top-k dense notes as seeds for the graph arms.
+
+    Seeds come from the EMBEDDING, not from lexical or fused retrieval. A graph
+    arm exists to test what traversal adds on top of semantic seeding, so
+    seeding it with a fusion that already includes lexical evidence confounds
+    the two: any gain could be the lexical half rather than the graph.
+
+    `in_set` filters to ids present in the graph, walking further down the
+    ranking to find k valid seeds. Without it a seed can be a node the graph
+    does not contain, and the traversal starts from nothing.
+    """
+    import numpy as np
+    emb, ids, _ = _embeddings(vault)
+    scores = emb @ q_emb
+    order = np.argsort(scores)[::-1]
+    out: list[str] = []
+    for i in order:
+        nid = ids[i]
+        if in_set is None or nid in in_set:
+            out.append(nid)
+            if len(out) >= k:
+                break
     return out
 
 
-def load_graph(vault: Path) -> dict[str, list[str]]:
-    """Adjacency over RESOLVED in-vault links only. An unresolved link points
-    outside this vault and must never be traversed."""
-    con = sqlite3.connect(vault / "notes.db")
-    adj: dict[str, list[str]] = defaultdict(list)
-    for s, t in con.execute(
-            "SELECT source_note_id, target_note_id FROM note_links WHERE resolved=1"):
-        adj[s].append(t)
-        adj[t].append(s)          # treat links as undirected for reachability
-    con.close()
-    return adj
+def bfs(vault: Path, query: str, k: int, seeds: int = 5,
+        max_expansions: int = 200, seed: str = "dense") -> list[tuple[str, float]]:
+    """Best-first BFS: priority queue ordered by each node's OWN cosine to the query.
 
+    The graph decides which notes are considered; the embedding decides how they
+    rank. Keeping those separate is what makes the arm testable. An earlier
+    version propagated a discounted copy of the seed's score outward, so a
+    node's rank was capped by whoever reached it, no expanded note could ever
+    outrank its seed, and bfs's top-k was identical to its seeding for every
+    query.
 
-def _seed(vault: Path, query: str, n: int, seed: str) -> list[tuple[str, float]]:
-    """Seed set for a graph walk.
-
-    The graph arms are not dense arms: what they test is whether traversal adds
-    anything over the seeds, and that question is well posed for any seeding.
-    Defaulting to hybrid keeps the comparison against HippoRAG honest, but the
-    seed is explicit so the graph can still be run with no embedding index --
-    chosen by the caller, never silently substituted, because a silent fallback
-    would make bfs report a hybrid seeding it did not use.
+    Bounded by max_expansions because two-hop reach on a small-world graph runs
+    to thousands of nodes; an unbounded frontier is a full scan wearing a
+    traversal's clothes.
     """
-    if seed not in ("hybrid", "bm25"):
-        raise ValueError(f"seed must be 'hybrid' or 'bm25', got {seed!r}")
-    return (hybrid if seed == "hybrid" else bm25)(vault, query, n)
+    import heapq
+    adj, _ = load_graph(vault)
+    emb, ids, idx = _embeddings(vault)
+    q = encode_query(vault, query)
+    start = (dense_seed(vault, q, seeds, set(adj))
+             if seed == "dense" else [n for n, _ in bm25(vault, query, seeds)])
 
+    heap: list[tuple[float, str]] = []
+    for nid in start:
+        i = idx.get(nid)
+        if i is not None:
+            heapq.heappush(heap, (-float(emb[i] @ q), nid))
 
-def bfs(vault: Path, query: str, k: int, seeds: int = 5, depth: int = 2,
-        seed: str = "hybrid") -> list[tuple[str, float]]:
-    """Best-first expansion: seed, then walk resolved links outward,
-    discounting by hop distance."""
-    adj = load_graph(vault)
-    seeded = _seed(vault, query, seeds, seed)
-    scores: dict[str, float] = {nid: s for nid, s in seeded}
-    frontier = [(nid, 0) for nid, _ in seeded]
-    seen = {nid for nid, _ in seeded}
-    while frontier:
-        nid, d = frontier.pop(0)
-        if d >= depth:
+    visited: set[str] = set()
+    out: list[tuple[float, str]] = []
+    while heap and len(visited) < max_expansions:
+        neg, v = heapq.heappop(heap)
+        if v in visited:
             continue
-        base = scores.get(nid, 0.0)
-        for nb in adj.get(nid, []):
-            gain = base * (0.5 ** (d + 1))
-            scores[nb] = max(scores.get(nb, 0.0), gain)
-            if nb not in seen:
-                seen.add(nb)
-                frontier.append((nb, d + 1))
-    nav = navigation_notes(vault)
-    return [x for x in sorted(scores.items(), key=lambda y: -y[1])
-            if x[0] not in nav][:k]
-
-
-def ppr(vault: Path, query: str, k: int, seeds: int = 5,
-        seed: str = "hybrid") -> list[tuple[str, float]]:
-    """Personalised PageRank with the teleport distribution set to the seeds.
-    This is the HippoRAG-style graph arm."""
-    adj = load_graph(vault)
-    if not adj:
-        return _seed(vault, query, k, seed)
-    seeded = _seed(vault, query, seeds, seed)
-    if not seeded:
-        return []
-    total = sum(s for _, s in seeded) or 1.0
-    teleport = {nid: s / total for nid, s in seeded}
-    nodes = set(adj) | set(teleport)
-    rank = {n: teleport.get(n, 0.0) for n in nodes}
-    for _ in range(PPR_ITERS):
-        nxt = {n: (1 - PPR_ALPHA) * teleport.get(n, 0.0) for n in nodes}
-        for n, r in rank.items():
-            nbrs = adj.get(n)
-            if not nbrs:
-                # dangling mass returns to the teleport set
-                for t, w in teleport.items():
-                    nxt[t] += PPR_ALPHA * r * w
-                continue
-            share = PPR_ALPHA * r / len(nbrs)
-            for nb in nbrs:
-                nxt[nb] = nxt.get(nb, 0.0) + share
-        delta = sum(abs(nxt[n] - rank[n]) for n in nodes)
-        rank = nxt
-        if delta < 1e-8:
+        visited.add(v)
+        out.append((-neg, v))
+        if len(out) >= k * 4:
             break
+        for u in adj.get(v, ()):
+            if u not in visited and u in idx:
+                heapq.heappush(heap, (-float(emb[idx[u]] @ q), u))
+
     nav = navigation_notes(vault)
-    return [x for x in sorted(rank.items(), key=lambda y: -y[1])
-            if x[0] not in nav][:k]
+    out.sort(key=lambda x: -x[0])
+    return [(nid, sc) for sc, nid in out if nid not in nav][:k]
 
 
-STRATEGIES = {"bm25": bm25, "dense": dense, "hybrid": hybrid, "bfs": bfs, "ppr": ppr}
+def ppr(vault: Path, query: str, k: int, seeds: int = 5, alpha: float = PPR_ALPHA,
+        seed: str = "dense") -> list[tuple[str, float]]:
+    """Hub-aware personalised PageRank, restarting on dense seeds.
+
+    Personalisation is uniform over the seeds; the transition weights damp
+    entry into hubs. This is the HippoRAG-shaped arm: unlike best-first BFS,
+    which ranks a node by its own similarity, PPR ranks by stationary mass, so
+    a note that is not itself similar to the query can still rank highly when
+    several query-relevant notes point at it -- which is what a second hop is.
+    """
+    import networkx as nx
+    G = hub_weighted_graph(vault)
+    if G.number_of_nodes() == 0:
+        return dense(vault, query, k)
+    q = encode_query(vault, query)
+    start = ([s for s in dense_seed(vault, q, seeds, set(G.nodes())) ]
+             if seed == "dense" else [n for n, _ in bm25(vault, query, seeds) if n in G])
+    if not start:
+        return dense(vault, query, k)
+    w = 1.0 / len(start)
+    pers = {n: (w if n in start else 0.0) for n in G.nodes()}
+    scores = nx.pagerank(G, alpha=alpha, personalization=pers, weight="weight")
+    nav = navigation_notes(vault)
+    ranked = [(n, float(sc)) for n, sc in sorted(scores.items(), key=lambda x: -x[1])
+              if n not in nav]
+    return ranked[:k]
+
+
+def graph_hybrid(vault: Path, query: str, k: int, seeds: int = 5,
+                 seed: str = "dense") -> list[tuple[str, float]]:
+    """Lexical + embedding + graph, fused as three ranked lists via RRF.
+
+    `hybrid` fuses two signals and the graph arms use one as a SEED, which makes
+    the graph a second stage rather than a third vote: it can only reorder what
+    seeding already found. This fuses all three at once, so a note the query
+    never lexically matches and no embedding ranks highly can still surface on
+    graph evidence alone -- the case a multi-hop question needs, since the
+    second hop is by construction not what the question names.
+
+    RRF rather than score addition: BM25 scores, cosines and PageRank masses are
+    on incomparable scales, and normalising them would introduce a weighting
+    nobody chose. RRF needs only the ordering.
+    """
+    scores: dict[str, float] = defaultdict(float)
+    for rank, (nid, _) in enumerate(bm25(vault, query, k * 3)):
+        scores[nid] += 1.0 / (RRF_K + rank)
+    for rank, (nid, _) in enumerate(dense(vault, query, k * 3)):
+        scores[nid] += 1.0 / (RRF_K + rank)
+    for rank, (nid, _) in enumerate(ppr(vault, query, k * 3, seeds=seeds, seed=seed)):
+        scores[nid] += 1.0 / (RRF_K + rank)
+    nav = navigation_notes(vault)
+    return [x for x in sorted(scores.items(), key=lambda y: -y[1]) if x[0] not in nav][:k]
+
+
+STRATEGIES = {"bm25": bm25, "dense": dense, "hybrid": hybrid,
+              "bfs": bfs, "ppr": ppr, "graph_hybrid": graph_hybrid}
 
 
 def main() -> None:
@@ -229,7 +355,7 @@ def main() -> None:
     names = list(STRATEGIES) if a.strategy == "all" else [a.strategy]
     for name in names:
         res = (STRATEGIES[name](vault, a.query, a.k, seed=a.seed)
-               if name in ("bfs", "ppr")
+               if name in ("bfs", "ppr", "graph_hybrid")
                else STRATEGIES[name](vault, a.query, a.k))
         print(f"\n=== {name} ===")
         if not res:
