@@ -37,6 +37,7 @@ from __future__ import annotations
 import argparse
 import json
 import math
+import re
 import sqlite3
 import sys
 from collections import defaultdict
@@ -76,7 +77,30 @@ def load_gold(slug: str) -> tuple[list[dict], dict[str, str]]:
 
 
 
-def unit_tokens(db: Path) -> dict[str, int]:
+NON_EVIDENCE = re.compile(r"^## (Related Notes|Source|References)\s*$.*?(?=^## |\Z)",
+                          re.M | re.S)
+
+
+def strip_scaffolding(text: str) -> str:
+    """Drop sections that are navigation or provenance rather than evidence.
+
+    Budget means what you would put in the window before the question. You would
+    feed a note's prose; you would not feed ten markdown links the model cannot
+    follow, any more than you would feed the YAML frontmatter -- which this
+    scorer already strips.
+
+    This matters more than it sounds: repairing the link graph added 21,781
+    Related Notes lines and grew the median note from 534 to 669 tokens, so
+    counting scaffolding charges the note arm 25% more for an improvement that
+    is not evidence. Chunks have no such sections, so the rule is a no-op there
+    and cannot flatter one arm by construction.
+
+    Reported both ways, because the choice is arguable and should not be buried.
+    """
+    return NON_EVIDENCE.sub("", text)
+
+
+def unit_tokens(db: Path, evidence_only: bool = False) -> dict[str, int]:
     """Real token count per retrieval unit, from a tokenizer -- not words x k.
 
     A fixed words-to-tokens factor is not safe here because the factor DIFFERS
@@ -95,7 +119,8 @@ def unit_tokens(db: Path) -> dict[str, int]:
     try:
         import tiktoken
         enc = tiktoken.get_encoding("cl100k_base")
-        return {n: len(enc.encode(f"{t}\n\n{b}")) for n, t, b in rows}
+        prep = strip_scaffolding if evidence_only else (lambda x: x)
+        return {n: len(enc.encode(prep(f"{t}\n\n{b}"))) for n, t, b in rows}
     except ModuleNotFoundError:
         print("WARNING: tiktoken not installed — falling back to words x 1.3, which "
               "undercharges note-shaped text by roughly a quarter and biases the "
@@ -186,6 +211,10 @@ def main() -> None:
     ap.add_argument("--chunk-db", help="chunks arm: directory holding the chunk index")
     ap.add_argument("--strategies", default="bm25,hybrid,ppr")
     ap.add_argument("--k", default="2,5,10")
+    ap.add_argument("--evidence-only", action="store_true",
+                    help="charge the budget for evidence text only, excluding the "
+                         "Related Notes / Source / References sections. Those are "
+                         "navigation and provenance, not content a model can use.")
     ap.add_argument("--budgets", default="",
                     help="comma-separated TOKEN budgets, e.g. 512,1024,2048,4096,8192. "
                          "Assembles units in rank order until spent. This is the cut H1 "
@@ -214,7 +243,7 @@ def main() -> None:
             sys.exit(2)
         prov = note_provenance(vault)
         unit_docs = lambda nid: prov.get(nid, set())          # noqa: E731
-        words = unit_tokens(vault / "notes.db")
+        words = unit_tokens(vault / "notes.db", a.evidence_only)
     else:
         cdir = Path(a.chunk_db or f"data/{'wholedoc' if a.arm == 'wholedoc' else 'chunks'}/{a.slug}")
         if not (cdir / "notes.db").exists():
@@ -225,7 +254,7 @@ def main() -> None:
         cmap = {nid: {src} for nid, src in
                 con.execute("SELECT note_id, source_doc FROM notes")}
         con.close()
-        words = unit_tokens(cdir / "notes.db")
+        words = unit_tokens(cdir / "notes.db", a.evidence_only)
         unit_docs = lambda nid: cmap.get(nid, set())          # noqa: E731
 
     if a.covered_only:
