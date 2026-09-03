@@ -94,6 +94,19 @@ bash scripts/selftest.sh        # DB build, retrieval, publication gate, all gat
 bash scripts/test_gates.sh      # 18 assertions on a deliberately broken vault
 ```
 
+To confirm the vault is complete rather than merely present:
+
+```bash
+python3 scripts/check_execution.py  multihop_rag --vault vaults/multihop_rag
+python3 scripts/check_provenance.py multihop_rag --vault vaults/multihop_rag
+```
+
+`check_execution.py` asks the question a `status:` field cannot answer, in both
+directions: every planned note exists, and every note on disk is accounted for
+by some plan. It also verifies that every corpus document is cited and that
+every note is **reachable from the root entry point** — a note with no path from
+the root is invisible to the graph arm, whatever else is true of it.
+
 ---
 
 ## 4. How notes get made
