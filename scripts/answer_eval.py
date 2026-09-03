@@ -47,7 +47,7 @@ Backends
 
 from __future__ import annotations
 
-import argparse, json, os, re, string, subprocess, sys, random, threading
+import argparse, json, os, re, string, subprocess, sys, random, threading, time
 from collections import Counter
 from pathlib import Path
 
@@ -147,7 +147,28 @@ def ask_cline(system: str, user: str, model: str) -> str:
     if model:
         cmd += ["-m", model]
     cmd.append(user)
-    out = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
+    # An OAuth token can expire mid-run, and cline refreshes it on a later call.
+    # Without a retry a five-minute expiry silently deletes hundreds of
+    # questions from the sample, because failed calls are excluded from the
+    # metrics -- so a degraded run would look like a smaller clean one.
+    last = ""
+    for attempt in range(4):
+        try:
+            out = subprocess.run(cmd, capture_output=True, text=True, timeout=90)
+        except subprocess.TimeoutExpired:
+            # A wedged cline hub daemon makes calls hang indefinitely. A long
+            # per-call timeout turns that into a run that never finishes rather
+            # than one that fails, so keep it short and let the retry decide.
+            last = "timeout"; time.sleep(2 * (attempt + 1)); continue
+        joined = out.stdout
+        if "Unauthorized" in joined or "rate limit" in joined.lower() or \
+                (out.returncode != 0 and not joined.strip()):
+            last = "unauthorized/transient"
+            time.sleep(3 * (attempt + 1))
+            continue
+        break
+    else:
+        raise RuntimeError(f"cline failed after 4 attempts ({last})")
     text, cost = None, 0.0
     for line in out.stdout.splitlines():
         line = line.strip()
@@ -226,6 +247,11 @@ def main() -> None:
     ap.add_argument("--nulls", type=int, default=50,
                     help="null questions to include, to measure abstention")
     ap.add_argument("--workers", type=int, default=8)
+    # Bound the work per invocation so a run always finishes before anything can
+    # kill it. With checkpointing, repeated short invocations converge on a full
+    # run and a kill costs at most one batch.
+    ap.add_argument("--max-new", type=int, default=0,
+                    help="answer at most N not-yet-checkpointed questions, then stop")
     ap.add_argument("--json")
     a = ap.parse_args()
 
@@ -282,11 +308,50 @@ def main() -> None:
         # eight threads racing the lazy loader is what crashed the slots run
         build_context(vault, bodies, toks, qs[0]["query"], a.condition, a.k,
                       a.budget, strat)
+        # Checkpoint every completed question as it lands. A long cline run has
+        # been killed by token expiry, resource pressure and manual stops, and
+        # each time an all-or-nothing run lost every answer it had paid for.
+        # With a JSONL sidecar a restart skips what is already done.
+        ck = Path(a.json).with_suffix(f".{name}.jsonl") if a.json else None
+        done = {}
+        if ck and ck.exists():
+            for line in ck.read_text().splitlines():
+                try:
+                    r = json.loads(line)
+                except json.JSONDecodeError:
+                    continue          # a kill mid-write truncates the last line
+                if "qid" in r:
+                    done[r["qid"]] = r
+            if done:
+                print(f"  {name}: resuming, {len(done)} already answered")
+
+        todo = [q for q in qs if q["query"] not in done]
+        if a.max_new and len(todo) > a.max_new:
+            print(f"  {name}: {len(todo)} remaining, doing {a.max_new} this batch")
+            todo = todo[: a.max_new]
+        lock = threading.Lock()
+
+        def one_ck(q):
+            r = one(q)
+            r.setdefault("qid", q["query"])
+            if ck:
+                with lock:
+                    with ck.open("a") as fh:
+                        fh.write(json.dumps(r) + "\n")
+            return r
+
         with ThreadPoolExecutor(max_workers=a.workers) as ex:
-            res = list(ex.map(one, qs))
+            fresh = list(ex.map(one_ck, todo))
+        res = list(done.values()) + fresh
         errs = [r for r in res if "err" in r]
         if errs:
-            print(f"  {name}: {len(errs)} call(s) failed, e.g. {errs[0]['err']}")
+            frac = len(errs) / len(res)
+            print(f"  {name}: {len(errs)}/{len(res)} call(s) FAILED ({frac:.1%}), "
+                  f"e.g. {errs[0]['err']}")
+            if frac > 0.05:
+                print(f"  !! {name}: more than 5% of calls failed. The metrics below "
+                      f"are computed on survivors only and are NOT comparable to a "
+                      f"clean run. Re-run before using them.")
         res = [r for r in res if "err" not in r]
         ans_r = [r for r in res if not r["null"]]
         null_r = [r for r in res if r["null"]]
@@ -314,7 +379,12 @@ def main() -> None:
               f"abstain@null {ry['abstained_on_null']-rx['abstained_on_null']:+.3f}")
     if _COST[0]:
         print(f"\ncline spend this run: ${_COST[0]:.2f}")
-    if a.json:
+    incomplete = [n for n, r in out.items()
+                  if r["n_answerable"] + r["n_null"] < len(qs)]
+    if incomplete:
+        print(f"\nPARTIAL: {', '.join(incomplete)} not finished. Re-run the same "
+              f"command to resume; the aggregate file is not written yet.")
+    if a.json and not incomplete:
         Path(a.json).parent.mkdir(parents=True, exist_ok=True)
         Path(a.json).write_text(json.dumps(out, indent=1))
 
