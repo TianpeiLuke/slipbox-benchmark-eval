@@ -41,7 +41,11 @@ from pathlib import Path
 # One regex per line, blank lines and #-comments ignored.
 INTERNAL = [
     r"\b[a-z0-9.-]+\.corp\b", r"\b[a-z0-9.-]+\.internal\b",
-    r"\bintranet\b", r"\bconfidential\b", r"\bproprietary\b",
+    r"\bintranet\b",
+    # NOTE: 'confidential'/'proprietary' were dropped from the generic defaults:
+    # in a public news/tech corpus they are ordinary vocabulary ("proprietary
+    # models", "confidential settlement") and produced only false positives. Add
+    # organisation-specific leak terms via .scrub-patterns, not here.
     r"\bdo[- ]not[- ]distribute\b",
     r"\bmcp__", r"_PACKAGE_DIR\b",
     r"\b(?:AKIA|ASIA)[A-Z0-9]{16}\b",          # access key ids
