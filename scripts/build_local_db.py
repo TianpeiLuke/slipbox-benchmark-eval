@@ -14,6 +14,18 @@ links outward and contaminate both the notes and the evaluation.
 
     python3 scripts/build_local_db.py vaults/musique
     python3 scripts/build_local_db.py vaults/musique --stats
+    python3 scripts/build_local_db.py vaults/musique --with-embeddings   # lexical + dense
+
+The index has three parts and they must be built from the SAME notes: FTS5 and
+the link graph in notes.db, and the dense vectors beside it. --with-embeddings
+builds all three in one pass so they cannot drift -- a dense index built from an
+earlier vault silently answers with notes that no longer exist, and nothing
+downstream reports it.
+
+Vectors stay in a .npy rather than a BLOB column on purpose: dense search reads
+every vector for every query, which a memory-mapped array does in one operation
+and a per-row SQLite scan does not. They live in the same directory, are
+gitignored together, and are rebuilt together.
 
 Schema (deliberately minimal -- only what retrieval and scoring need):
     notes(note_id, note_name, title, building_block, body, words, source_doc)
@@ -29,6 +41,7 @@ import argparse
 import json
 import re
 import sqlite3
+import subprocess
 from difflib import SequenceMatcher
 import sys
 from pathlib import Path
@@ -188,6 +201,9 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("vault")
     ap.add_argument("--stats", action="store_true")
+    ap.add_argument("--with-embeddings", action="store_true",
+                    help="also build the dense half, from the same notes, in one pass")
+    ap.add_argument("--model", default="all-MiniLM-L6-v2")
     a = ap.parse_args()
 
     vault = Path(a.vault)
@@ -232,6 +248,26 @@ def main() -> None:
         print(f"broken links (repair candidate exists): {bl}")
         print(f"ghost targets (nothing resembles them): {gh}")
     con.close()
+
+    if a.with_embeddings:
+        print()
+        rc = subprocess.call([sys.executable,
+                              str(Path(__file__).parent / "build_embeddings.py"),
+                              str(vault), "--model", a.model])
+        if rc != 0:
+            print("dense index FAILED — notes.db is built, but hybrid, dense, bfs and "
+                  "ppr cannot run until it succeeds.")
+            sys.exit(rc)
+        ids = json.loads((vault / "embedding_ids.json").read_text())["ids"]
+        db_ids = {r[0] for r in sqlite3.connect(vault / "notes.db")
+                  .execute("SELECT note_id FROM notes")}
+        drift = set(ids) ^ db_ids
+        if drift:
+            print(f"\nMISMATCH: {len(drift)} note(s) differ between the dense index and "
+                  f"notes.db. The two halves of the index disagree about what the vault "
+                  f"contains; retrieval would answer with notes the database does not have.")
+            sys.exit(1)
+        print(f"\nindex complete: {len(db_ids)} notes in both halves, ids identical")
 
 
 if __name__ == "__main__":

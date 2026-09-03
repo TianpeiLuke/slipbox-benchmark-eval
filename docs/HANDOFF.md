@@ -197,11 +197,21 @@ python3 scripts/check_provenance.py  multihop_rag --vault vaults/multihop_rag
 **The experiment has not been run.** Everything above exists to make it
 possible; none of it is the result.
 
-### Step 1 — build the dense index
+### Step 1 — build the index
 
 ```bash
-python3 scripts/build_embeddings.py vaults/multihop_rag
+python3 scripts/build_local_db.py vaults/multihop_rag --with-embeddings --stats
 ```
+
+The index has three parts that must come from the **same** notes: FTS5 and the
+link graph inside `notes.db`, and the dense vectors beside it. One pass builds
+all three and then checks their ids agree, because a dense index left over from
+an earlier vault answers with notes the database no longer has, and nothing
+downstream reports it.
+
+Vectors stay in a `.npy` rather than a BLOB column deliberately: dense search
+reads every vector for every query, which a memory-mapped array does in one
+operation and a per-row SQLite scan does not.
 
 `dense` and `hybrid` **raise** rather than degrade when this index is missing.
 That is deliberate: returning an empty list would make `hybrid` silently equal
