@@ -53,7 +53,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
-from retrieval import hybrid                      # noqa: E402
+import retrieval as R                             # noqa: E402
 from score_retrieval import strip_scaffolding      # noqa: E402
 
 REFUSAL = "INSUFFICIENT"
@@ -136,9 +136,13 @@ def ask_cline(system: str, user: str, model: str) -> str:
     scored.
     """
     _CLINE_SANDBOX.mkdir(parents=True, exist_ok=True)
-    data_dir = _CLINE_SANDBOX / f"state_{threading.get_ident()}"
+    # NO --data-dir. Credentials live in the default ~/.cline/data, and pointing
+    # --data-dir at a fresh path creates empty state whose every call returns
+    # "Unauthorized" -- which is what silently hung the first two runs. The
+    # sandbox is enforced by --cwd instead, which is what actually bounds file
+    # access; state is shared across workers and cline keys sessions per run.
     cmd = ["cline", "-P", os.environ.get("CLINE_PROVIDER", "cline"),
-           "--cwd", str(_CLINE_SANDBOX), "--data-dir", str(data_dir),
+           "--cwd", str(_CLINE_SANDBOX),
            "--auto-approve", "false", "-t", "120", "--json", "-s", system]
     if model:
         cmd += ["-m", model]
@@ -157,6 +161,8 @@ def ask_cline(system: str, user: str, model: str) -> str:
             text = (o.get("text") or "").strip()
             cost = (o.get("aggregateUsage") or {}).get("totalCost", 0.0) or \
                    (o.get("usage") or {}).get("totalCost", 0.0)
+    if text and text.lower().startswith(("unauthorized", "error:")):
+        raise RuntimeError(f"cline backend refused the call: {text[:160]}")
     if text is None:
         raise RuntimeError(f"cline gave no run_result (rc={out.returncode}): "
                            f"{out.stderr[:200] or out.stdout[-200:]}")
@@ -175,8 +181,19 @@ BACKENDS = {"openai": ask_openai, "anthropic": ask_anthropic, "cline": ask_cline
 # ---------------------------------------------------------------- context
 
 def build_context(vault: Path, bodies: dict, toks: dict, query: str,
-                  condition: str, k: int, budget: int) -> tuple[str, int]:
-    ranked = [n for n, _ in hybrid(vault, query, max(k, 40))]
+                  condition: str, k: int, budget: int,
+                  strategy: str = "hybrid") -> tuple[str, int]:
+    """Assemble the context an arm hands the model.
+
+    The strategy is per-arm on purpose. Holding it fixed at `hybrid` isolates
+    the REPRESENTATION, which is the controlled comparison. Setting the chunk
+    arm to `dense` instead reproduces a textbook RAG stack and compares whole
+    SYSTEMS -- two variables at once, and worth reporting separately rather
+    than instead, since dense-only is the weaker chunk baseline and a notes win
+    against it would be partly a win against the retriever.
+    """
+    fn = getattr(R, strategy)
+    ranked = [n for n, _ in fn(vault, query, max(k, 40))]
     picked, used = [], 0
     for nid in ranked:
         t = toks.get(nid, 0)
@@ -197,7 +214,9 @@ def build_context(vault: Path, bodies: dict, toks: dict, query: str,
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("slug")
-    ap.add_argument("--arms", nargs="+", required=True, help="name=path ...")
+    ap.add_argument("--arms", nargs="+", required=True,
+                    help="name=path[:strategy]  (strategy defaults to hybrid; "
+                         "use :dense on the chunk arm for a textbook RAG stack)")
     ap.add_argument("--backend", choices=sorted(BACKENDS), default="openai")
     ap.add_argument("--model", default=os.environ.get("OPENAI_MODEL", "gpt-5-nano"))
     ap.add_argument("--condition", choices=["slots", "tokens"], default="tokens")
@@ -228,7 +247,9 @@ def main() -> None:
     ask = BACKENDS[a.backend]
     out = {}
     for spec in a.arms:
-        name, _, vp = spec.partition("=")
+        name, _, rest = spec.partition("=")
+        vp, _, strat = rest.partition(":")
+        strat = strat or "hybrid"
         vault = Path(vp)
         con = sqlite3.connect(vault / "notes.db")
         bodies = {n: b for n, b in con.execute("SELECT note_id, body FROM notes")}
@@ -237,7 +258,7 @@ def main() -> None:
 
         def one(q):
             ctx, nunits = build_context(vault, bodies, toks, q["query"],
-                                        a.condition, a.k, a.budget)
+                                        a.condition, a.k, a.budget, strat)
             u = USER.format(context=ctx, question=q["query"])
             try:
                 ans = ask(SYSTEM, u, a.model)
@@ -259,7 +280,8 @@ def main() -> None:
 
         # warm the embedding model and per-vault caches on ONE thread first;
         # eight threads racing the lazy loader is what crashed the slots run
-        build_context(vault, bodies, toks, qs[0]["query"], a.condition, a.k, a.budget)
+        build_context(vault, bodies, toks, qs[0]["query"], a.condition, a.k,
+                      a.budget, strat)
         with ThreadPoolExecutor(max_workers=a.workers) as ex:
             res = list(ex.map(one, qs))
         errs = [r for r in res if "err" in r]
@@ -275,6 +297,7 @@ def main() -> None:
             "contains": mean(ans_r, "contains"),
             "over_refusal": mean(ans_r, "refused"),
             "abstained_on_null": mean(null_r, "refused"),
+            "strategy": strat,
             "mean_units": mean(res, "units"),
             "per_question": res,
         }
