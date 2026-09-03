@@ -194,7 +194,10 @@ python3 scripts/check_provenance.py  multihop_rag --vault vaults/multihop_rag
 
 ## 5. What to do next
 
-**The experiment has not been run.** Everything above exists to make it
+**The experiment has not been run.** Its design, arms, metrics and
+pre-registered pass conditions are in [EXPERIMENT.md](EXPERIMENT.md); read that
+before running anything, because two of its rules (match on token budget not k;
+sweep the chunk size) decide whether the result means anything. Everything above exists to make it
 possible; none of it is the result.
 
 ### Step 1 — build the index
