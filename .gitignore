@@ -43,3 +43,6 @@ vaults/*/notes.db-shm
 **/notes.db-shm
 experiments/output/*
 !experiments/output/README.md
+
+# v1 baseline working copy — reproducible from the vault-v1-baseline tag
+vaults/v1_baseline/
