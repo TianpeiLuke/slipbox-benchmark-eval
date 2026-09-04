@@ -130,6 +130,12 @@ Use the same tool used to read the source initially (local file read, Read, WebF
 
 ### 2b. For each planned note, answer these questions:
 
+**Thought-atomicity check (run first).** Look up the note's building block in plan-digestion 3b-bis and apply that block's split trigger to the source blocks the plan assigns it:
+- How many thoughts of that block's kind does the assigned source actually contain? Record the count.
+- If more than one, the note must be split, **whatever its word count** — the size thresholds cannot see this.
+- If a split is proposed, name the relation joining the halves in one line. If you cannot, they are one thought: do not split.
+
+
 | Question | If YES → action |
 |----------|-----------------|
 | Does this note combine >1800 words of source content? | SPLIT into 2 notes at H2/H3 boundary |
@@ -317,6 +323,14 @@ For each planned note, run `/slipbox-search-notes <key_concepts_from_that_note>`
 Add a section to the plan:
 
 ```markdown
+## Per-Note Thought Count
+
+| Planned note | BB | thoughts in assigned source | atomic? | split into | relation |
+|---|---|---|---|---|---|
+| <note> | <bb> | <n> | yes/no | <notes, or —> | <follows-from / contradicts / specialises / requires / measures / exemplifies, or —> |
+
+A row with more than one thought and no split is a plan defect, not a judgement call.
+
 ## Per-Note Related Notes Mapping
 
 | Planned Note | Related Notes to Include in ## Related Notes |

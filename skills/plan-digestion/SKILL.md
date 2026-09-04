@@ -199,7 +199,9 @@ The Note Format Definition must say "derived from `<example note>`", not be writ
 
 ---
 
-## Step 3: Decompose into BB-Atomic Notes <!-- :: section_id = step_3_decompose :: -->
+## Step 3: Decompose into Thought-Atomic Notes <!-- :: section_id = step_3_decompose :: -->
+
+**Two constraints, both required, and they are orthogonal.** The building block says what KIND of thing a note holds; **thought-atomicity** says HOW MANY. A note is well-formed when it carries one building block AND one thought of that block's kind. Enforcing only the first is how a note comes to hold a dozen claims and still pass every check.
 
 ### 3a. Classify each source section by building block
 
@@ -214,11 +216,47 @@ The Note Format Definition must say "derived from `<example note>`", not be writ
 | Limitations, risks, critiques | counter_argument |
 | Index/routing structures | navigation |
 
-### 3b. Group adjacent sections with same BB into candidate notes
+### 3b. One thought per candidate note — merge only on sameness of thought
 
-Adjacent sections with the same building block combine into one note. NEVER mix BBs in a single note.
+Each distinct thought becomes a candidate note. Adjacent sections sharing a building block merge **only when they express the same thought**; sharing a type is not sharing a thought. NEVER mix BBs in a single note.
 
-### 3c. Apply density thresholds — split if exceeded
+> Do not merge a run of same-typed sections by default. That rule produces notes holding many thoughts, which pass every size check while carrying a fraction of the retrievable content per token.
+
+### 3b-bis. The atomic form, per building block
+
+Use this to decide what "one thought" means for the block you assigned in 3a.
+
+| building block | the atom is | the shape it takes | split when |
+|---|---|---|---|
+| concept | one definition | term, genus and differentia, boundary, nearest thing it is not | a second term is defined, or definition is followed by application |
+| model | one relation | entities, the relation, the conditions it holds under | a second arrow appears, or mechanism is followed by evaluation |
+| procedure | one **outcome** | precondition, ordered sequence, verifiable postcondition | a second independent postcondition |
+| empirical_observation | one measurement | subject, metric, value, conditions, provenance | a second independent metric |
+| argument | one claim | claim, warrant, evidence, scope conditions | a second claim is defended |
+| counter_argument | one objection | named and **linked** target, objection, what it does not overturn | it attacks two different claims |
+| hypothesis | one testable proposition | proposition, prediction, falsifier | a second independent falsifier |
+| navigation | one scope | scope statement, ordering principle, list | two unrelated scopes indexed together |
+
+**A procedure's atom is one OUTCOME, not one step.** A lone step cannot be performed or cited on its own, so it fails the standalone requirement atomicity exists to guarantee. A runbook achieving three outcomes is three notes; one outcome needing nine steps is one note. The general rule: the atom is the smallest **independently usable** unit, not the smallest syntactic one.
+
+### 3b-ter. Four tests, applied before any size threshold
+
+1. **Split test** — can this be divided into two notes answering *different questions*? If yes, it is not atomic.
+2. **Single-sentence test** — can its content be stated as one declarative sentence without joining unrelated predicates by "and"?
+3. **Partial-link test** — would you ever want to link to only *part* of it? If a future argument would cite one paragraph and not the rest, that paragraph is the note.
+4. **Resolution test** — is every entity named, every date absolute, every quantity carrying units? Atomicity without resolution produces fragments, which is the opposite failure and equally bad.
+
+### 3b-quater. Stopping rule — do not over-split
+
+Splitting endangers exactly one thing: **the relation between the halves**. When "A, and therefore B" becomes two notes, the *therefore* has nowhere to go and is lost silently.
+
+> **Split until the halves are independently usable. Stop when the relation between them can no longer be stated in one line.**
+
+A relation you cannot name in one clause is one you are about to lose, and that is the signal the two halves were one thought after all. **A split is not complete until the relation is recorded** — as `follows-from`, `contradicts`, `specialises`, `requires`, `measures`, or `exemplifies` — in the Related Notes entry joining them. This is part of the split, not a follow-up task.
+
+### 3c. Density thresholds — a BACKSTOP, applied after the tests in 3b-ter
+
+These catch notes that are too LARGE. They are structurally incapable of catching a note that is too DIFFUSE — three distinct claims in two hundred words passes every row below. Apply 3b-ter first; treat this table as a floor on obvious cases, never as the criterion.
 
 **First: check source page size** — if a source page exceeds 1800 words, it CANNOT map to a single note without splitting. Apply the page-level rule BEFORE grouping:
 

@@ -209,13 +209,25 @@ The plan's Note Format Definition must match an **actual** existing note in the 
 
 ---
 
-## Step 7: Checkpoint 6 — Density & BB Atomicity (Promote Splits) <!-- :: section_id = step_7_cp6 :: -->
+## Step 7: Checkpoint 6 — Thought-Atomicity & Density (Promote Splits) <!-- :: section_id = step_7_cp6 :: -->
 
 **Check**: Are there borderline notes that should be proactively split?
 
 ### 7a. Scan all planned notes for borderline cases
 
 A note is **borderline** if ANY of:
+
+**Diffuseness triggers — independent of size.** These catch the failure the size triggers cannot: a note holding several thoughts while being perfectly short.
+- Two or more verifiable postconditions (procedure)
+- Two or more defended claims (argument)
+- Two or more terms defined (concept)
+- Two or more independent measurements (empirical_observation)
+- Two or more independent falsifiers (hypothesis)
+- Attacks two different claims (counter_argument)
+- Two unrelated scopes indexed together (navigation)
+- Fails the split test: the note answers two *different* questions
+
+**Size triggers — a backstop.**
 - Estimated >300 lines (under 400 but close)
 - Estimated >5 code blocks (under 6 but close)
 - Covers >5 H2 sections
@@ -223,10 +235,12 @@ A note is **borderline** if ANY of:
 
 ### 7b. For each borderline note, decide: SPLIT or KEEP
 
-**Default is SPLIT** unless there's documented justification to keep:
-- Sections are topically cohesive (single theme)
-- Total estimated words <700
-- No BB mixing whatsoever
+**Default is SPLIT** unless the note satisfies the single KEEP criterion:
+- **It expresses one thought of its building block's kind** (see plan-digestion 3b-bis)
+
+Topical cohesion and word count are **not** grounds to keep. Cohesion is precisely the condition under which two thoughts get wrongly merged — thoughts about one topic are exactly what a merge rule finds adjacent — and a short note can hold several thoughts.
+
+**But do not split past the stopping rule.** If the relation between the proposed halves cannot be stated in one line, they were one thought: KEEP, and record why. Where a split IS made, the plan must record the relation joining the halves (`follows-from`, `contradicts`, `specialises`, `requires`, `measures`, `exemplifies`); a split with no recorded relation is incomplete and fails this checkpoint.
 
 ### 7c. If splits needed, add to Split Decisions table
 
