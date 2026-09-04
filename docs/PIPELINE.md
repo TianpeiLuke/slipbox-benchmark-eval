@@ -49,49 +49,49 @@ written before `llm_call` existed. Consolidating them is worthwhile and has not
 been done.
 
 
-## Retrieval strategy: cap results per source document (SUPERSEDED — do not adopt)
+## Retrieval strategy: cap results per source document
 
-`perdoc`/`perdoc1` allow at most N units from any one source document. It was
-adopted here on a large document-level gain and then **withdrawn as a default**:
-the gain does not survive fact-level scoring. Both directions are significant on
-400 questions (`scripts/paired_strategy.py`, seed 20260902, 4000 resamples):
+This question was answered three times and the first two answers were wrong in
+opposite directions. The sequence matters more than any single number.
 
-| vault | level | hybrid | capped | delta | 95% CI |
-|---|---|---|---|---|---|
-| coarse notes | doc | 0.509 | 0.548 | **+0.039** | [+0.021, +0.058] |
-| coarse notes | **fact** | 0.405 | 0.384 | **-0.021** | [-0.037, -0.005] |
-| atomic notes | doc | 0.331 | 0.427 | **+0.096** | [+0.079, +0.114] |
-| atomic notes | **fact** | 0.291 | 0.255 | **-0.037** | [-0.054, -0.021] |
+| measured at | capping does | verdict then reached |
+|---|---|---|
+| document recall | **+0.023** v1, **+0.096** v2 | adopt it |
+| fact recall | **-0.068** v1, **-0.039** v2 | withdraw it |
+| **answer accuracy** | **+0.052** v1, **+0.056** v2 | **it helps** |
 
-**Why the sign flips.** Document credit is generous: retrieving *any one* unit
-from a gold document scores full credit for that document, whether or not that
-unit carries the needed fact. Capping maximises exactly that quantity -- it
-spends its budget collecting one unit from as many gold documents as possible --
-and the unit it settles for is more often the wrong one. The gap between document
-credit and fact credit widens under capping from +0.102 to +0.144 on coarse notes
-and from +0.041 to +0.159 on atoms.
+All six intervals exclude zero. Answer accuracy is the entity stratum, 498
+questions, claude-haiku-4-5 at temperature 0, coverage-fair question set.
 
-This is Goodhart, and it was self-inflicted. Document recall was introduced as a
-*proxy* for having the facts. Optimising the proxy directly is what decoupled it
-from the target, and the more aggressively it was optimised the further the two
-came apart.
+**The answer level is the arbiter, and it agrees with document recall.** So the
+fact-level metric, which was used to withdraw the strategy, predicted the sign
+backwards. Both proxies are proxies; only one of them tracks the target here.
 
-**The reasoning that justified adopting it was wrong in a specific way.** "The
-task needs multiple documents, so diversifying by document is ordinary system
-design" is true and still insufficient: needing a document is necessary, not
-sufficient -- you need the *right part* of it. Arguing from the task's structure
-to a retrieval rule skipped the step of checking the rule against the thing the
-metric stands for.
+### Why document coverage is what matters on this task
 
-**What still holds.** Capping really does increase document coverage; that part
-was never a metric artifact. The coarse-over-atoms ordering also survives at
-fact level (0.405 vs 0.291), so it does not depend on the defective strategy.
-Keep `perdoc` as a diagnostic for measuring provenance concentration -- not as a
-retrieval default.
+The gain is entirely a refusal reduction. Capping cuts refusal on entity
+questions by 6.2 points on v1 and 5.2 on v2, and **when the model answers at all
+it is right about 99% of the time in every arm** -- conditional accuracy is
+0.983 to 0.995 and the paired difference among questions both arms answered is
+not significant. Nothing about answer quality improves. What improves is how
+often the model is willing to commit.
 
-**Standing rule.** Report fact-level alongside document-level for any change that
-touches *which* units are selected rather than how they are ranked. A widening
-doc-to-fact gap is the signature of this failure.
+That makes the task coverage-gated. The model abstains while the context fails
+to reach the documents the question needs, and once it reaches them it extracts
+the answer almost perfectly. Document recall measures exactly that reach.
+Fact-level recall measures how closely a retrieved sentence paraphrases the gold
+sentence, which is not the binding constraint -- sentence fidelity was never
+what the model was short of.
+
+**Scope.** This holds for a multi-hop task under a prompt that offers abstention.
+Where a model answers regardless, refusal cannot be the channel and the result
+need not transfer.
+
+### What this does not rescue
+
+Capping still lowers fact-level recall, and that measurement was not wrong -- it
+was answering a different question than the one that matters. Report both, and
+when they disagree, do not resolve it by argument, resolve it downstream.
 
 ## Controls
 

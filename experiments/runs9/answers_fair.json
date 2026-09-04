@@ -1,0 +1,159 @@
+{
+  "arms": {
+    "v1_hybrid": {
+      "n_entity": 498,
+      "entity": 0.7449799196787149,
+      "n_polarity": 356,
+      "polarity": 0.0449438202247191,
+      "macro": 0.394961869951717,
+      "refused": 0.5374707259953162,
+      "abstain_null": 1.0,
+      "units": 6.360655737704918,
+      "n_failed": 0
+    },
+    "v1_capped": {
+      "n_entity": 498,
+      "entity": 0.7971887550200804,
+      "n_polarity": 356,
+      "polarity": 0.03651685393258427,
+      "macro": 0.41685280447633233,
+      "refused": 0.5035128805620609,
+      "abstain_null": 1.0,
+      "units": 6.231850117096019,
+      "n_failed": 0
+    },
+    "v2_hybrid": {
+      "n_entity": 498,
+      "entity": 0.748995983935743,
+      "n_polarity": 356,
+      "polarity": 0.09550561797752809,
+      "macro": 0.42225080095663553,
+      "refused": 0.5058548009367682,
+      "abstain_null": 1.0,
+      "units": 11.734192037470725,
+      "n_failed": 0
+    },
+    "v2_capped": {
+      "n_entity": 498,
+      "entity": 0.8052208835341366,
+      "n_polarity": 356,
+      "polarity": 0.09550561797752809,
+      "macro": 0.45036325075583233,
+      "refused": 0.4765807962529274,
+      "abstain_null": 1.0,
+      "units": 10.608899297423887,
+      "n_failed": 0
+    },
+    "closedbook": {
+      "n_entity": 498,
+      "entity": 0.0,
+      "n_polarity": 356,
+      "polarity": 0.0,
+      "macro": 0.0,
+      "refused": 1.0,
+      "abstain_null": 1.0,
+      "units": 0.0,
+      "n_failed": 0
+    },
+    "_majority": {
+      "n_entity": 498,
+      "entity": 0.5522088353413654,
+      "n_polarity": 356,
+      "polarity": 0.5617977528089888,
+      "macro": 0.5570032940751771,
+      "refused": 0.0,
+      "abstain_null": 0.0,
+      "units": 6.360655737704918,
+      "n_failed": 0
+    }
+  },
+  "comparisons": {
+    "v1_hybrid:v1_capped": {
+      "entity": {
+        "n": 498,
+        "delta": 0.05220883534136546,
+        "ci": [
+          0.01606425702811245,
+          0.08835341365461848
+        ],
+        "significant": true
+      },
+      "polarity": {
+        "n": 356,
+        "delta": -0.008426966292134831,
+        "ci": [
+          -0.028089887640449437,
+          0.014044943820224719
+        ],
+        "significant": false
+      },
+      "both": {
+        "n": 854,
+        "delta": 0.026932084309133488,
+        "ci": [
+          0.00351288056206089,
+          0.04918032786885246
+        ],
+        "significant": true
+      }
+    },
+    "v2_hybrid:v2_capped": {
+      "entity": {
+        "n": 498,
+        "delta": 0.05622489959839357,
+        "ci": [
+          0.02208835341365462,
+          0.09236947791164658
+        ],
+        "significant": true
+      },
+      "polarity": {
+        "n": 356,
+        "delta": 0.0,
+        "ci": [
+          -0.03089887640449438,
+          0.03089887640449438
+        ],
+        "significant": false
+      },
+      "both": {
+        "n": 854,
+        "delta": 0.03278688524590164,
+        "ci": [
+          0.009338407494145209,
+          0.05620608899297424
+        ],
+        "significant": true
+      }
+    },
+    "v1_hybrid:v2_hybrid": {
+      "entity": {
+        "n": 498,
+        "delta": 0.004016064257028112,
+        "ci": [
+          -0.04216867469879518,
+          0.05220883534136546
+        ],
+        "significant": false
+      },
+      "polarity": {
+        "n": 356,
+        "delta": 0.05056179775280899,
+        "ci": [
+          0.019662921348314606,
+          0.08146067415730338
+        ],
+        "significant": true
+      },
+      "both": {
+        "n": 854,
+        "delta": 0.0234192037470726,
+        "ci": [
+          -0.00585480093676815,
+          0.053864168618266976
+        ],
+        "significant": false
+      }
+    }
+  }
+}

@@ -132,12 +132,23 @@ def main() -> None:
         name, _, p = spec.partition("=")
         arms[name], errors[name] = load(Path(p))
 
-    # majority-class baseline, no LLM call: always answer "Yes"
+    # Majority-class baseline, no LLM call. The majority is computed PER STRATUM,
+    # because the two strata have different modes and a single constant answer
+    # would score zero on one of them and understate the floor. This matters here:
+    # the coverage-fair subset is restricted to 37 documents, so the entity
+    # stratum has very few distinct golds and its mode is a large share of it.
     any_arm = next(iter(arms.values()))
-    arms["_majority"] = {q: {**v, "answer": "Yes", "refused": False,
-                             "correct": correct("Yes", v["gold"]) if v["gold"] else 0.0}
+    modes = {}
+    for cls in ("entity", "polarity"):
+        golds = [v["gold"] for v in any_arm.values() if v["cls"] == cls and v["gold"]]
+        modes[cls] = Counter(normalise(g) for g in golds).most_common(1)[0][0] if golds else ""
+    arms["_majority"] = {q: {**v, "answer": modes.get(v["cls"], ""), "refused": False,
+                             "correct": correct(modes.get(v["cls"], ""), v["gold"])
+                             if v["gold"] else 0.0}
                          for q, v in any_arm.items()}
     errors["_majority"] = 0
+    print(f"\nmajority baseline answers: " +
+          ", ".join(f"{c}={modes[c]!r}" for c in modes))
 
     rng = np.random.default_rng(20260902)
     w = max(len(n) for n in arms)
