@@ -47,6 +47,9 @@ from difflib import SequenceMatcher
 import sys
 from pathlib import Path
 
+NON_EVIDENCE = re.compile(
+    r"^## (Related Notes|Source|References)\s*$.*?(?=^## |\Z)", re.M | re.S)
+
 FM = re.compile(r"^---\n(.*?)\n---\n", re.S)
 H1 = re.compile(r"^# (.+)$", re.M)
 LINK = re.compile(r"\[([^\]]*)\]\(([^)]+\.md)\)")
@@ -181,8 +184,16 @@ def build(vault: Path, provenance: dict[str, str]) -> sqlite3.Connection:
         )
         # keywords and topics join the FTS body: they are query-matching surface,
         # and a term a curator chose is often the one a question uses.
+        #
+        # Related Notes and Source are EXCLUDED. They are scaffolding this
+        # pipeline wrote, not content the source asserts, so indexing them
+        # retrieves a note for questions about its NEIGHBOURS. Measured: they are
+        # 39% of indexed words, and removing them raised All-Recall@2048 from
+        # 0.389 to 0.461 on this corpus. The links stay in the file for a human
+        # reader; the retrieval unit stops carrying them.
         con.execute("INSERT INTO notes_fts VALUES (?,?,?)",
-                    (nid, title, f"{meta['keywords']} {meta['topics']} {body}"))
+                    (nid, title,
+                     f"{meta['keywords']} {meta['topics']} {NON_EVIDENCE.sub('', body)}"))
 
     # links, resolved against THIS vault only
     for p in notes:

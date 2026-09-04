@@ -19,10 +19,15 @@ from __future__ import annotations
 import argparse
 import json
 import sqlite3
+import re
 import sys
 from pathlib import Path
 
 import numpy as np
+
+
+NON_EVIDENCE = re.compile(
+    r"^## (Related Notes|Source|References)\s*$.*?(?=^## |\Z)", re.M | re.S)
 
 
 def main() -> None:
@@ -54,7 +59,12 @@ def main() -> None:
 
     print(f"encoding {len(rows)} notes with {a.model}")
     model = SentenceTransformer(a.model)
-    texts = [f"{t}\n\n{b}"[: a.max_chars] for _, t, b in rows]
+    # Scaffolding is excluded here for the same reason build_local_db excludes it
+    # from the FTS: Related Notes and Source describe a note's NEIGHBOURS, so
+    # embedding them pulls a note toward the topics of whatever it links to. Both
+    # halves of hybrid retrieval must see the same text, or the arms disagree
+    # about what the note is.
+    texts = [f"{t}\n\n{NON_EVIDENCE.sub('', b)}"[: a.max_chars] for _, t, b in rows]
     emb = model.encode(texts, batch_size=a.batch, show_progress_bar=True,
                        convert_to_numpy=True, normalize_embeddings=True)
 
