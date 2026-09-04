@@ -177,7 +177,7 @@ Extract these sections from the plan and concatenate into `$PLANS/contract_<plan
 | Pacing Rules | **Pacing rules** |
 | Per-Phase GATE Tables | **Gate spec** |
 | Validation Scripts (bash) | **Script appendix** (sub-agent does NOT run these — the validator does) |
-| Important Constraints | **Absolute rules** (BB atomicity, density, no fabrication) |
+| Important Constraints | **Absolute rules** (BB *and thought* atomicity, self-sufficiency, data preservation, density, no fabrication) |
 | Source URL + measured word counts | **Source provenance** |
 | Pilot path | **Worked example** (must be read first) |
 
@@ -192,8 +192,27 @@ Add three sections the plan does NOT provide:
    - `*(source metadata description absent — inferred from logic)*` when reasoning beyond source
 3. **No forbidden placeholders** — never write the literal strings `"Description missing"`, `"TBD"`, `"TODO"`, or any equivalent paraphrase.
 4. **BB atomicity** — one building_block per note. If your assigned section mixes BBs, return STATUS=split-needed and DO NOT write the note.
-5. **Density** — if your draft exceeds 400 lines / 2500 words / 6 code blocks, return STATUS=split-needed.
-6. **Verbatim code** — code blocks must be character-for-character from source. No reformatting.
+5. **Thought atomicity** — one *thought* of that block's kind, which is a separate constraint from rule 4 and the one most often missed. What counts as one thought depends on the block:
+
+   | your building block | write exactly one | return split-needed when the source gives you |
+   |---|---|---|
+   | concept | definition — term, genus and differentia, boundary | a second term to define |
+   | model | relation — entities, the relation, the conditions it holds under | a second relation |
+   | procedure | **outcome** — precondition, ordered steps, verifiable postcondition | a second independent postcondition |
+   | empirical_observation | measurement — subject, metric, value, conditions, provenance | a second independent metric |
+   | argument | claim — with its warrant, evidence and scope | a second claim to defend |
+   | counter_argument | objection — naming and **linking** its target | a second target |
+   | hypothesis | testable proposition — with its prediction and falsifier | a second falsifier |
+   | navigation | index scope — with its ordering principle | a second unrelated scope |
+
+   **A procedure's atom is one OUTCOME, not one step.** Nine steps reaching one verifiable end state is one note; three outcomes is three notes.
+
+   Before writing, apply the **split test**: could this be two notes answering *different questions*? If yes, return STATUS=split-needed with the two proposed thoughts named. A short note is not automatically atomic — three claims in two hundred words fails this rule and passes rule 6.
+
+6. **Self-sufficiency** — the note must be readable alone. Never open with an unresolved reference (`he`, `this`, `the company`, `however`); name the subject; carry the date where the source has one. Atomicity without resolution produces fragments, which is the opposite failure and equally disqualifying. **Do not satisfy rule 5 by deleting the context rule 6 requires.**
+7. **Preserve the data** — paraphrase the prose, never the data. Every date, quantity with a unit, proper name and figure in your assigned source must appear in the note, verbatim where it is a number or a name.
+8. **Density** — if your draft exceeds 400 lines / 2500 words / 6 code blocks, return STATUS=split-needed. This is a backstop for notes that are too LARGE; it cannot detect one that is merely diffuse, which is what rule 5 is for.
+9. **Verbatim code** — code blocks must be character-for-character from source. No reformatting.
 
 ## Return Schema (Structured Output)
 
