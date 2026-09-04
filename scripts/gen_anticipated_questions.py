@@ -25,6 +25,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from answer_eval import BACKENDS   # noqa: E402
+from llm_call import call, Format   # noqa: E402
 
 NON = re.compile(r"^## (Related Notes|Source|References)\s*$.*?(?=^## |\Z)", re.M | re.S)
 
@@ -81,17 +82,18 @@ def main() -> None:
             parts.append(f"### {nid}\nTITLE: {title}\n{txt}")
         user = (f"Write {a.per_unit} search questions for EACH document below. "
                 f"Return JSON keyed by the id shown after ###.\n\n" + "\n\n".join(parts))
-        try:
-            raw = ask(SYSTEM, user, a.model)
-        except Exception as e:
-            return 0, str(e)[:120]
-        m = re.search(r"\{.*\}", raw, re.S)
-        if not m:
-            return 0, "no json"
-        try:
-            obj = json.loads(m.group(0))
-        except json.JSONDecodeError:
-            return 0, "bad json"
+        def parse(raw):
+            m = re.search(r"\{.*\}", raw, re.S)
+            if not m:
+                raise Format("no json object")
+            try:
+                return json.loads(m.group(0))
+            except json.JSONDecodeError as e:
+                raise Format(f"bad json: {e}")
+
+        obj, status = call(ask, SYSTEM, user, a.model, parse)
+        if obj is None:
+            return 0, status
         n = 0
         with lock, out.open("a") as fh:
             for nid, _, _ in batch:
@@ -101,13 +103,19 @@ def main() -> None:
                     n += 1
         return n, None
 
-    ok = 0; errs = []
+    from collections import Counter
+    ok = 0; kinds = Counter(); sample = {}
     with ThreadPoolExecutor(max_workers=a.workers) as ex:
         for n, err in ex.map(run, batches):
             ok += n
             if err:
-                errs.append(err)
-    print(f"expanded {ok:,} units" + (f"; {len(errs)} batch error(s), e.g. {errs[0]}" if errs else ""))
+                k = err.split(":", 1)[0]
+                kinds[k] += 1; sample.setdefault(k, err)
+    print(f"expanded {ok:,} units")
+    if kinds:
+        print("batch failures by KIND (transport means the model never ran):")
+        for k, c in kinds.most_common():
+            print(f"  {k:<10} {c:>4}   e.g. {sample[k][:96]}")
 
 
 if __name__ == "__main__":
