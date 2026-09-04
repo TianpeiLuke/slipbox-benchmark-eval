@@ -15,6 +15,7 @@ import numpy as np
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import retrieval as R
+from score_retrieval import strip_scaffolding
 from sentence_transformers import SentenceTransformer
 
 def sentences(t: str) -> list[str]:
@@ -31,6 +32,8 @@ def main():
     ap.add_argument("--theta", type=float, default=0.65)
     ap.add_argument("--boot", type=int, default=4000)
     ap.add_argument("--json")
+    ap.add_argument("--per-question", dest="perq",
+                    help="write {qid: {doc, fact}} for the B strategy, so answer\nquality can be regressed on the retrieval proxy per question")
     a = ap.parse_args()
 
     vault = ROOT / a.vault
@@ -39,7 +42,9 @@ def main():
     by_title = {v["title"]: d for d, v in idx.items()}
     raw = json.loads((ROOT / "data/raw/multihop_rag/MultiHopRAG.json").read_text())
     random.seed(20260902)
-    qs = [q for q in raw if q.get("evidence_list")]
+    # Same filter as dump_contexts.py (evidence AND a gold answer) so the
+    # per-question output joins 1:1 with the answer files by qid.
+    qs = [q for q in raw if q.get("evidence_list") and q.get("answer")]
     random.shuffle(qs)
     qs = qs[: a.sample]
 
@@ -54,12 +59,16 @@ def main():
 
     def emb(nid):
         if nid not in cache:
-            ss = sentences(body.get(nid, ""))
+            # Match what build_context actually sends to the model: scaffolding
+            # (Related Notes / Source / References) is excluded there, so scoring
+            # it here would credit text the model never sees.
+            ss = sentences(strip_scaffolding(body.get(nid, "")))
             cache[nid] = (model.encode(ss, normalize_embeddings=True, show_progress_bar=False)
                           if ss else np.zeros((0, 384), dtype=np.float32))
         return cache[nid]
 
     rows = {a.a: {"doc": [], "fact": []}, a.b: {"doc": [], "fact": []}}
+    perq = {a.a: {}, a.b: {}}
     for q in qs:
         facts, gold = [], set()
         for e in q["evidence_list"]:
@@ -80,8 +89,9 @@ def main():
                 if len(ue):
                     sims[r] = (ue @ fe.T).max(axis=0)
             hit = (sims >= a.theta).any(axis=0)
-            rows[name]["doc"].append(len(got) / len(gold))
-            rows[name]["fact"].append(float(hit.mean()))
+            dv, fv = len(got) / len(gold), float(hit.mean())
+            rows[name]["doc"].append(dv); rows[name]["fact"].append(fv)
+            perq[name][q["query"]] = {"doc": dv, "fact": fv}
 
     rng = np.random.default_rng(20260902)
     out = {"vault": a.vault, "k": a.k, "theta": a.theta, "n": len(rows[a.a]["doc"])}
@@ -97,6 +107,12 @@ def main():
               f"[{lo:+.3f}, {hi:+.3f}]  {sig}")
         out[lvl] = {"a": float(x.mean()), "b": float(y.mean()), "delta": float(d.mean()),
                     "ci": [float(lo), float(hi)], "significant": sig == "significant"}
+    if a.perq:
+        Path(a.perq).parent.mkdir(parents=True, exist_ok=True)
+        Path(a.perq).write_text(json.dumps(perq[a.b], indent=2))
+        alt = a.perq.replace(".json", f".{a.a}.json")
+        Path(alt).write_text(json.dumps(perq[a.a], indent=2))
+        print(f"per-question -> {a.perq} ({a.b}) and {alt} ({a.a})")
     if a.json:
         Path(a.json).parent.mkdir(parents=True, exist_ok=True)
         Path(a.json).write_text(json.dumps(out, indent=2))

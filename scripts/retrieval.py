@@ -428,51 +428,72 @@ def mmr(vault: Path, query: str, k: int, pool: int = 60, lam: float = 0.7,
 
 
 def perdoc(vault: Path, query: str, k: int, cap: int = 2, pool: int = 80,
-           base: str = "hybrid") -> list[tuple[str, float]]:
+           base: str = "hybrid", spill: bool = False) -> list[tuple[str, float]]:
     """Take the best units in rank order, but at most `cap` from any one source.
 
     A multi-hop question needs evidence from several documents by construction --
-    in this benchmark every answerable question draws on 2 to 4, and 64.8% cross
+    every answerable question in this benchmark draws on 2 to 4, and 64.8% cross
     publishers. Splitting a document into atoms does not change that requirement,
-    it only makes it easier for one document to consume the whole result list:
-    measured, an atom vault returns 4.80 distinct documents in a top-10 where a
-    coarse vault returns 6.88.
+    it only makes it easier for one document to consume the whole result list.
 
-    Capping per source is a response to a KNOWN STRUCTURAL PROPERTY OF THE TASK,
-    not to the scorer. Using the gold labels would be fitting the benchmark;
-    using the fact that multi-hop questions need multiple sources is what any
-    system built for this task should do. An earlier version of this file
-    declined to add it on the grounds that the metric counts documents, which
-    confused the two.
+    IMPORTANT -- this strategy is a diagnostic, not a recommended default. It
+    raises document-level recall and LOWERS fact-level recall on both vaults
+    (paired bootstrap, 400 questions, all four intervals excluding zero). See
+    docs/PIPELINE.md. Document credit pays in full for any one unit from a gold
+    document whether or not that unit carries the fact, so capping optimises the
+    proxy and moves away from the target.
+
+    Two corrections to the first implementation:
+
+    `key` charges EVERY declared source document, not `min(docs)`. Keying on the
+    alphabetically smallest id let a note declaring {A,B} and a note declaring
+    {A,C} both pass a cap of 1 whenever their smallest ids differed, so the cap
+    under-counted exactly on the multi-source notes it exists to control -- 26.8%
+    of v1_slice's notes declare more than one source.
+
+    `spill` defaults to False. Back-filling from the rejected units whenever the
+    pool holds fewer than k distinct sources silently disabled the cap in any
+    caller asking for a large k: build_context requests 40 units, far more than
+    the distinct documents available, so the "capped" context arms were nearly
+    identical to the uncapped ones. Returning short is what a cap means.
     """
     fn_ = bm25 if base == "bm25" else hybrid
     con = sqlite3.connect(vault / "notes.db")
     src = {n: {x.strip() for x in (s or "").split(",") if x.strip()}
            for n, s in con.execute("SELECT note_id, source_doc FROM notes")}
     con.close()
-    out, used = [], Counter()
-    spill = []
+    out, used, held = [], Counter(), []
     for nid, sc in fn_(vault, query, pool):
-        docs = src.get(nid, set())
-        key = min(docs) if docs else nid
-        if used[key] < cap:
-            used[key] += 1
+        docs = src.get(nid, set()) or {nid}
+        if all(used[d] < cap for d in docs):
+            for d in docs:
+                used[d] += 1
             out.append((nid, sc))
         else:
-            spill.append((nid, sc))
+            held.append((nid, sc))
         if len(out) >= k:
             return out
-    # not enough distinct sources to fill k -- fall back to rank order rather
-    # than returning short, so the cap never costs coverage it cannot replace
-    return (out + spill)[:k]
+    return (out + held)[:k] if spill else out
 
+
+def perdoc1(vault: Path, query: str, k: int, **kw) -> list[tuple[str, float]]:
+    """perdoc with cap=1. A module-level def, not a dict-only lambda: callers
+    resolve strategies by getattr as well as through STRATEGIES, and a lambda
+    that exists in only one of the two registries fails at run time."""
+    return perdoc(vault, query, k, cap=1, **kw)
+
+
+# The registry key is "keyword" while the function is keyword_seed. Alias it so
+# name-based resolution and STRATEGIES cannot disagree; renaming the key instead
+# would invalidate the strategy names recorded in earlier run files.
+keyword = keyword_seed
 
 STRATEGIES = {"bm25": bm25, "dense": dense, "hybrid": hybrid,
               "bfs": bfs, "ppr": ppr, "graph_hybrid": graph_hybrid,
-              "keyword": lambda v, q, k, **kw: keyword_seed(v, q, k),
+              "keyword": keyword_seed,
               "mmr": mmr,
               "perdoc": perdoc,
-              "perdoc1": lambda v,q,k,**kw: perdoc(v,q,k,cap=1)}
+              "perdoc1": perdoc1}
 
 
 def main() -> None:

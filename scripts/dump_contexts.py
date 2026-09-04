@@ -32,6 +32,8 @@ def main() -> None:
     ap.add_argument("--budget", type=int, default=2048)
     ap.add_argument("--sample", type=int, default=200)
     ap.add_argument("--nulls", type=int, default=50)
+    ap.add_argument("--questions",
+                    help="JSON list of question strings to pin. Required for any\ncross-vault comparison: the vaults do NOT cover the same documents (v1_slice\nspans 178 source docs, v2_pilot 37), so an unpinned sample asks one vault far\nmore questions it structurally cannot answer than the other.")
     ap.add_argument("--out", required=True)
     a = ap.parse_args()
 
@@ -43,7 +45,16 @@ def main() -> None:
     answerable = [q for q in raw if q.get("evidence_list") and q.get("answer")]
     nulls = [q for q in raw if not q.get("evidence_list")]
     random.shuffle(answerable); random.shuffle(nulls)
-    qs = answerable[: a.sample] + nulls[: a.nulls]
+    if a.questions:
+        pin = set(json.loads(Path(a.questions).read_text()))
+        chosen = [q for q in answerable if q["query"] in pin]
+        missing = len(pin) - len(chosen)
+        if missing:
+            print(f"  !! {missing} pinned question(s) not found in the corpus")
+        qs = chosen[: a.sample] + nulls[: a.nulls]
+        print(f"  pinned {len(chosen[: a.sample])} answerable + {len(nulls[: a.nulls])} null")
+    else:
+        qs = answerable[: a.sample] + nulls[: a.nulls]
 
     vault = Path(a.vault)
     con = sqlite3.connect(vault / "notes.db")
@@ -57,6 +68,7 @@ def main() -> None:
             ctx, n = build_context(vault, bodies, toks, q["query"],
                                    a.condition, a.k, a.budget, a.strategy)
             fh.write(json.dumps({"qid": q["query"], "context": ctx, "units": n,
+                                 "ctx_chars": len(ctx),
                                  "gold": q.get("answer") or "",
                                  "null": not q.get("evidence_list")}) + "\n")
             if i % 50 == 0:

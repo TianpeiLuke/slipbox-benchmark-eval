@@ -113,7 +113,7 @@ def ask_openai(system: str, user: str, model: str) -> str:
 def ask_anthropic(system: str, user: str, model: str) -> str:
     import anthropic
     r = anthropic.Anthropic().messages.create(
-        model=model, max_tokens=64, system=system,
+        model=model, max_tokens=128, temperature=0, system=system,
         messages=[{"role": "user", "content": user}])
     return "".join(b.text for b in r.content if b.type == "text").strip()
 
@@ -213,7 +213,13 @@ def build_context(vault: Path, bodies: dict, toks: dict, query: str,
     than instead, since dense-only is the weaker chunk baseline and a notes win
     against it would be partly a win against the retriever.
     """
-    fn = getattr(R, strategy)
+    # Resolve through STRATEGIES, not getattr: the dict is the registry, and a
+    # getattr lookup silently misses anything registered only there.
+    try:
+        fn = R.STRATEGIES[strategy]
+    except KeyError:
+        raise SystemExit(f"unknown strategy {strategy!r}. "
+                         f"known: {', '.join(sorted(R.STRATEGIES))}")
     ranked = [n for n, _ in fn(vault, query, max(k, 40))]
     picked, used = [], 0
     for nid in ranked:

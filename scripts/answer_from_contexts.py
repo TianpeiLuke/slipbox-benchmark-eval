@@ -34,7 +34,7 @@ def main() -> None:
                 r = json.loads(l)
             except json.JSONDecodeError:
                 continue
-            if "qid" in r:
+            if "qid" in r and not r.get("err"):
                 done[r["qid"]] = r
     todo = [r for r in rows if r["qid"] not in done]
     print(f"{len(rows)} contexts, {len(done)} already answered, {len(todo)} to do")
@@ -47,7 +47,15 @@ def main() -> None:
         try:
             ans = ask(SYSTEM, u, a.model)
         except Exception as e:
-            return {"qid": r["qid"], "err": str(e)[:200]}
+            # Record the failure instead of returning early. Returning here
+            # skipped the append below, so a failed call vanished from the
+            # artifact entirely and a degraded run looked like a smaller clean
+            # one. err rows are excluded from `done` so a re-run retries them.
+            rec = {"qid": r["qid"], "err": str(e)[:200]}
+            with lock:
+                with out.open("a") as fh:
+                    fh.write(json.dumps(rec) + "\n")
+            return rec
         gold = r["gold"]
         rec = {"qid": r["qid"], "answer": ans, "gold": gold, "null": r["null"],
                "units": r["units"], "refused": REFUSAL.lower() in ans.lower(),
