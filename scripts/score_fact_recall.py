@@ -33,7 +33,7 @@ import numpy as np
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
-from retrieval import hybrid  # noqa: E402
+import retrieval as R  # noqa: E402
 
 SENT = re.compile(r"(?<=[.!?])\s+")
 NON_EVIDENCE = re.compile(r"^## (Related Notes|Source|References)\s*$.*?(?=^## |\Z)",
@@ -54,6 +54,9 @@ def main() -> None:
                     help="evaluated in ONE pass; the calibration validates verbatim\n                         presence, not paraphrase, so sensitivity is reported not hidden")
     ap.add_argument("--sample", type=int, default=150)
     ap.add_argument("--k", type=int, default=10)
+    ap.add_argument("--strategy", default="hybrid",
+                    help="retrieval strategy; use perdoc1 to test whether a "
+                         "document-level gain survives fact-level scoring")
     ap.add_argument("--json")
     a = ap.parse_args()
 
@@ -103,7 +106,7 @@ def main() -> None:
                 continue
             fe = model.encode([f for f, _ in facts], normalize_embeddings=True,
                               show_progress_bar=False)
-            res = [n for n, _ in hybrid(vault, q["query"], a.k)]
+            res = [n for n, _ in R.STRATEGIES[a.strategy](vault, q["query"], a.k)]
             sims = np.zeros((len(res), len(facts)), dtype=np.float32)
             for r, nid in enumerate(res):
                 ue = unit_emb(nid)
