@@ -237,6 +237,59 @@ Use this to decide what "one thought" means for the block you assigned in 3a.
 | hypothesis | one testable proposition | proposition, prediction, falsifier | a second independent falsifier |
 | navigation | one scope | scope statement, ordering principle, list | two unrelated scopes indexed together |
 
+### 3b-bis-2. Target weight — the number that decides whether a note beats a chunk
+
+A note competes with a chunk on **information per token**, and that comparison is
+currently lost by a wide margin. Measured on a pipeline-built vault against a
+100-word chunker:
+
+| | words | facts carried | facts per 100 words |
+|---|---|---|---|
+| 100-word chunk | 97 | 1.13 | **1.16** |
+| our note (median) | 190 | 1.21 | 0.64 |
+| our note (mean) | 257 | 1.21 | 0.47 |
+
+A note carrying one thought in 190 words costs **157 words per fact against a
+chunk's 86**. It is not losing because it holds too many thoughts — it holds
+about one — it is losing because it says one thing at twice the length.
+
+**Target weight per building block**, for the note body excluding frontmatter and
+Related Notes:
+
+| building block | target | hard ceiling for ONE thought |
+|---|---|---|
+| empirical_observation | 40–90 words | 130 |
+| concept | 50–110 | 160 |
+| navigation | 40–120 plus the list | 170 |
+| model | 60–130 | 190 |
+| hypothesis | 60–130 | 190 |
+| counter_argument | 60–130 | 190 |
+| argument | 70–150 | 220 |
+| procedure | 80–250 (steps legitimately take room) | 350 |
+
+**Past the hard ceiling, one of two things is true and both are defects.** Either
+the note holds a second thought — split it — or it is padding a single thought,
+which is the more common case and does not show up in any existing check.
+
+### 3b-bis-3. What padding looks like
+
+The 190-word median is not made of extra facts. It is made of these, and a
+planned note should not budget words for any of them:
+
+- **A preamble restating the title.** The title is already indexed as its own
+  field and read first; an opening sentence that re-announces the subject is a
+  free slot spent on nothing.
+- **Context the reader already has.** Situating detail is required by
+  self-sufficiency — the subject, the date, the conditions — but one clause each,
+  not a paragraph.
+- **A closing summary.** A note short enough to be atomic does not need to
+  recapitulate itself.
+- **Transitions between what should be separate notes.** "This connects to…" is
+  the relation, and it belongs in the link, not the prose.
+- **Hedging that carries no scope condition.** "It is worth noting that" and
+  "generally speaking" cost tokens and change no claim. A genuine scope condition
+  ("in the EU", "after 2023", "for enterprise accounts") is content and stays.
+
 **A procedure's atom is one OUTCOME, not one step.** A lone step cannot be performed or cited on its own, so it fails the standalone requirement atomicity exists to guarantee. A runbook achieving three outcomes is three notes; one outcome needing nine steps is one note. The general rule: the atom is the smallest **independently usable** unit, not the smallest syntactic one.
 
 ### 3b-ter. Four tests, applied before any size threshold

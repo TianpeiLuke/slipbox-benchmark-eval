@@ -113,7 +113,7 @@ Report a single explicit verdict. The gate **passes only if all three are true f
 Emit the verdict in this exact shape so the calling skill's self-check can confirm it:
 
 ```
-VALIDATION GATES: PASS  (G1 format ✓ | G2 broken ✓ | G3 ghost ✓ | G4 facts ✓ | G5 self-suff ✓)
+VALIDATION GATES: PASS  (G1 format ✓ | G2 broken ✓ | G3 ghost ✓ | G4 facts ✓ | G4b weight ✓ | G5 self-suff ✓)
 ```
 
 or, if any gate fails after remediation attempts:
@@ -143,6 +143,33 @@ blocks each note owns.
 **Not a licence to pad.** If a block genuinely belongs to a different note, fix
 the coverage map rather than copying the fact into both — a fact duplicated
 across notes is how sibling notes come to disagree.
+
+### GATE 4b — Weight <!-- :: section_id = gate_4b_weight :: -->
+
+**Why.** The note layer's measured deficit against a chunker is information per
+token, not thoughts per note: a pipeline-built note carries about the same
+number of facts as a 100-word chunk and spends 190 words doing it. No format or
+link gate can see this, because an over-weight note is perfectly well-formed.
+
+**Check.** Body word count, excluding frontmatter and the Related Notes and
+Source sections, against the ceiling for the note's building block:
+
+| building block | ceiling |
+|---|---|
+| empirical_observation | 130 |
+| concept | 160 |
+| navigation | 170 |
+| model, hypothesis, counter_argument | 190 |
+| argument | 220 |
+| procedure | 350 |
+
+Report as `WT-001 <note>: <n> body words, ceiling <c> for <block>`. A breach is
+not automatically a split — it is a prompt to check which of the two defects is
+present, a second thought or a padded one.
+
+**Report the distribution, not only the breaches.** Median body words per block
+is the number that says whether the vault as a whole competes on density, and a
+gate that only lists outliers hides a corpus that is uniformly 60% too heavy.
 
 ### GATE 5 — Self-sufficiency <!-- :: section_id = gate_5_self_sufficiency :: -->
 

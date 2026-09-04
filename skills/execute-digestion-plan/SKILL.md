@@ -207,6 +207,21 @@ Add three sections the plan does NOT provide:
 
    **A procedure's atom is one OUTCOME, not one step.** Nine steps reaching one verifiable end state is one note; three outcomes is three notes.
 
+   **Target weight for the body** (excluding frontmatter and Related Notes). A note competes with a 100-word chunk on information per token, and at 190 words for one thought it loses that comparison two to one:
+
+   | your block | write | stop and reconsider past |
+   |---|---|---|
+   | empirical_observation | 40–90 words | 130 |
+   | concept | 50–110 | 160 |
+   | navigation | 40–120 plus the list | 170 |
+   | model / hypothesis / counter_argument | 60–130 | 190 |
+   | argument | 70–150 | 220 |
+   | procedure | 80–250 | 350 |
+
+   Past the ceiling you are either holding a second thought — return STATUS=split-needed — or padding one, which is more likely and is a defect no other rule catches.
+
+   **Do not spend words on:** a preamble restating the title (it is already indexed and read first); a closing summary (a note this short does not need to recapitulate itself); transitions to other notes (that is the relation, and it belongs in the link); hedging that carries no scope condition ("it is worth noting that"). A real scope condition — *in the EU*, *after 2023*, *for enterprise accounts* — is content and stays.
+
    Before writing, apply the **split test**: could this be two notes answering *different questions*? If yes, return STATUS=split-needed with the two proposed thoughts named. A short note is not automatically atomic — three claims in two hundred words fails this rule and passes rule 6.
 
 6. **Self-sufficiency** — the note must be readable alone. Never open with an unresolved reference (`he`, `this`, `the company`, `however`); name the subject; carry the date where the source has one. Atomicity without resolution produces fragments, which is the opposite failure and equally disqualifying. **Do not satisfy rule 5 by deleting the context rule 6 requires.**

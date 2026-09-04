@@ -217,6 +217,8 @@ The plan's Note Format Definition must match an **actual** existing note in the 
 
 A note is **borderline** if ANY of:
 
+**Weight triggers — the note is too heavy for one thought.** A note competes with a chunk on information per token, and a single thought stated in 190 words loses that comparison two to one. Flag any planned note whose body budget exceeds the ceiling for its block: empirical_observation 130, concept 160, navigation 170, model / hypothesis / counter_argument 190, argument 220, procedure 350. Past the ceiling the note either holds a second thought or pads one; both are defects, and the second is the more common.
+
 **Diffuseness triggers — independent of size.** These catch the failure the size triggers cannot: a note holding several thoughts while being perfectly short.
 - Two or more verifiable postconditions (procedure)
 - Two or more defended claims (argument)
