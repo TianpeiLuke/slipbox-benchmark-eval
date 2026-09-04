@@ -48,6 +48,39 @@ tells you to fix the retry.
 written before `llm_call` existed. Consolidating them is worthwhile and has not
 been done.
 
+
+## Retrieval strategy: cap results per source document
+
+`perdoc` (and `perdoc1`, the cap=1 form) takes units in rank order but allows at
+most N from any one source document. **It is the largest single retrieval gain
+measured in this repo** and it helps every vault, not only fine-grained ones:
+
+| vault | plain hybrid | capped (1/doc) |
+|---|---|---|
+| coarse notes | 0.841 | **0.937** |
+| atomic notes | 0.634 | **0.852** |
+
+**Why it works.** Multi-hop questions require 2 to 4 distinct documents by
+construction, 64.8% of them across publishers, so provenance is the axis the
+questions vary on. Plain top-k ignores it: on an atom vault a top-10 returned
+4.80 distinct documents against a coarse vault's 6.88, and on one query returned
+ten units from a single article.
+
+**Why MMR does not substitute.** MMR diversifies by semantic novelty and moved
+document counts to 5.64 while gold recall did not change at all — the documents
+it added were different without being needed. Diversity has an axis and it must
+be the one the task varies on.
+
+**This is not fitting the benchmark.** Using the gold labels to steer retrieval
+would be; using the known structure of a multi-hop task is ordinary system
+design. The metric counts documents because the task needs documents, not the
+reverse. An earlier version of this repo declined to add the strategy on that
+confusion and reached the wrong conclusion about atomic notes as a result.
+
+**Every result in `runs` through `runs6` used plain retrieval** and is therefore
+understated. Relative orderings within a run are probably safe since all arms
+shared the defect; absolute numbers are not.
+
 ## Controls
 
 - **v1 baseline** is frozen at tag `vault-v1-baseline`, with a checksummed
