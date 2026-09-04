@@ -222,6 +222,13 @@ def main() -> None:
     ap.add_argument("--seed", default="hybrid", choices=["hybrid", "bm25"],
                     help="seed for the bfs and ppr arms")
     ap.add_argument("--limit", type=int, default=0, help="score only the first N questions")
+    ap.add_argument("--questions", metavar="JSON",
+                    help="score ONLY the question strings in this JSON list. Use this "
+                         "whenever two arms are compared and either has partial "
+                         "coverage: --covered-only computes its set PER VAULT, so a "
+                         "full vault and a slice silently get different question sets "
+                         "AND different haystacks, and the smaller haystack wins for "
+                         "the wrong reason. Pin the set explicitly instead.")
     ap.add_argument("--covered-only", action="store_true",
                     help="score only questions whose gold documents were ALL ingested")
     ap.add_argument("--json", help="write results to this path")
@@ -257,7 +264,16 @@ def main() -> None:
         words = unit_tokens(cdir / "notes.db", a.evidence_only)
         unit_docs = lambda nid: cmap.get(nid, set())          # noqa: E731
 
-    if a.covered_only:
+    if a.questions:
+        want = set(json.loads(Path(a.questions).read_text()))
+        before = len(questions)
+        questions = [q for q in questions if q["query"] in want]
+        print(f"pinned question set: {len(questions)}/{before} questions from "
+              f"{a.questions}")
+        missing = len(want) - len(questions)
+        if missing:
+            print(f"  WARNING: {missing} pinned question(s) not found in the gold file")
+    elif a.covered_only:
         # Scoring a partial ingestion against the whole question set measures
         # how much of the corpus is present, not how well the arm retrieves.
         # Both are real numbers; only one is the comparison being made.

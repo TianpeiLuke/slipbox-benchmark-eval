@@ -1,0 +1,53 @@
+---
+tags:
+  - resource
+  - technology
+  - empirical_observation
+keywords:
+  - mass generated ai seo spam and the churn and burn strategy
+  - lobbying political donations
+  - seos
+  - search
+  - tag
+  - hat
+topics:
+  - Technology
+language: markdown
+date of note: 2026-09-02
+status: active
+building_block: empirical_observation
+source_docs: [doc_0115]
+---
+
+# Mass-Generated AI SEO Spam And The Churn-And-Burn Strategy
+
+The second major reason Google results feel different lately is SEO — specifically the obnoxious-kid-refusing-to-behave-in-class kind. Google is harder to game now, but the sheer volume of SEO bait being produced is so massive and so complex that Google is overwhelmed. "It's exponentially worse," Lily Ray said. "People can mass auto-generate content with AI and other tools," and "in many cases, Google's algorithms take a minute to catch onto it."
+
+The rule-breaking itself is not new. "SEO that goes against Google's guidelines, it's not new," Ray explained; a decade ago it used to be called "black hat" SEO, in comparison to search engine-approved "white hat" tactics, and Google has gotten better over time at catching SEOs playing tricks on the algorithm. Although many of us may have rosy memories of how magical and cool Google seemed in the early days, most SEOs consider the years between 2003 and 2011 to be the boom times, when you could still get a fake corporate website listed above the real corporate website, and you could mess with the search results for a major political figure such that something sexual or racist would come up first.
+
+The economics of the current wave explain its persistence. Eventually a site filled with computer-generated nonsense designed to maximize SEO will get removed from search results, Ray explained, but while it is up, the creator might make as much as $50,000 or $100,000 a month. A lot of the people who do this live cheaply overseas in places like Bali and Chiang Mai. "They make a bunch of money, that site dies, and they go do it again," she said. "It's like a churn and burn strategy. So if people are seeing those results, it can be very frustrating for users 'cause it's like, 'This is terrible.'" The future Babin had cackled about at the alligator party was already here: we humans and our pedestrian questions were getting caught up in a war of robots fighting robots, of Google's algorithms trying to find and stop the AI-enabled sites programmed by SEOs from infecting our internet experience.
+
+## Related Notes
+
+
+- [Adelaide 36ers Upset New Zealand Breakers In Round 5](adelaide_36ers_upset_new_zealand_breakers_round_5.md): shares a campaign-and-influence theme tag, from a different source document.
+- [The Affiliate Marketing Alligator Party](affiliate_marketing_alligator_party.md): drawn from the same source document (doc_0115).
+- [AI Day Of Action Campaign](ai_day_of_action_campaign.md): shares a campaigning theme tag, from a different source document.
+- [AI-Generated Content Will Overwhelm Search](ai_generated_content_will_overwhelm_search_prediction.md): drawn from the same source document (doc_0115).
+- [Andre Onana's Goalkeeping Errors In The 2023 Champions League](andre_onana_goalkeeping_errors_2023_champions_league.md): shares a campaign-season theme tag, from a different source document.
+- [Apple iOS Security Fixes And Spyware Notifications](apple_ios_security_fixes_and_spyware_notifications.md): shares an abuse-and-countermeasure theme tag, from a different source document.
+- [Baker Mayfield's 2023 Buccaneers Renaissance](baker_mayfield_2023_buccaneers_renaissance.md): shares a campaign-season theme tag, from a different source document.
+- [Baldur's Gate 3](baldurs_gate_3.md): shares a content-production theme tag, from a different source document.
+- [The Blurred Line Between SEO And Spam](blurred_line_between_seo_and_spam.md): same source document (doc_0115)
+- [Cade Lee, From Black Hat SEO To Construction](cade_lee_from_black_hat_seo_to_construction.md): same source document (doc_0115)
+- [Danny Sullivan, From Journalist To Google Liaison](danny_sullivan_from_journalist_to_google_liaison.md): same source document (doc_0115)
+- [The Defense Of SEO As Legitimate Work](defense_of_seo_as_legitimate_work.md): same source document (doc_0115)
+- [Duane Forrester, Bing, And The Search Engine's View](duane_forrester_bing_and_the_search_engine_view.md): same source document (doc_0115)
+- [Missy Ward, Daron Babin And Darren Blatt: The Early Operators](early_seo_operators_ward_babin_and_blatt.md): same source document (doc_0115)
+- [E-E-A-T And The Shift Toward Institutional Authority](eeat_and_the_shift_to_institutional_authority.md): same source document (doc_0115)
+- [The Claim That 80 Percent Of SEOs Are Scammers](eighty_percent_of_seos_are_scammers_claim.md): same source document (doc_0115)
+- [Lobbying and Political Donations](term_lobbying_political_donations.md): uses the concept lobbying political donations
+
+## Source
+
+- doc_0115: The Verge, 2023-11-01

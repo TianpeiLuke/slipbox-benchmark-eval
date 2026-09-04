@@ -53,11 +53,18 @@ been done.
 - **v1 baseline** is frozen at tag `vault-v1-baseline`, with a checksummed
   working copy at `vaults/v1_baseline/`. Do not edit it; a control that drifts
   is not a control.
-- **Score both arms on the same question set.** When a stage fails to cover some
-  documents, restrict scoring to questions whose gold is entirely inside the
-  covered set — `experiments/plans/v2_scorable_questions.json` is that set for
-  the current pilot. Scoring one arm over documents the other lacks measures the
-  pipeline's failure rate and reports it as a finding about note design.
+- **Score both arms on the same question set, pinned explicitly.** Pass
+  `--questions experiments/plans/v2_scorable_questions.json` to both arms.
+  **Do not use `--covered-only` for a comparison**: it computes its set PER
+  VAULT, so a full vault and a slice get different question sets *and* different
+  haystacks, and the smaller haystack retrieves better for a reason that has
+  nothing to do with note quality. This was set up wrongly once in this repo —
+  v1 at 609 documents and 5,093 notes against v2 at 37 documents and 728 —
+  before being caught.
+- **Match the haystack, not only the questions.** When one arm covers a subset of
+  documents, build the other arm's matching slice (`vaults/v1_slice`) rather than
+  scoring the full vault against it. Equal question sets over unequal corpora is
+  still not a comparison.
 - **Attribute bundled changes.** When a variant carries two interventions, build
   the intermediate arm before looking at the numbers. Comparing v1 to
   scaffolding-plus-expansion credits expansion with a gain scaffolding produced.
