@@ -180,9 +180,14 @@ atomicity rules, because the obvious way to make a note smaller is to delete the
 context that lets it stand alone. Gate it so the improvement cannot destroy it.
 
 **Check.** For each note:
-- It must not open with an unresolved reference — no leading `he`, `she`, `they`,
-  `it`, `this`, `that`, `the company`, or a bare connective (`but`, `however`,
-  `meanwhile`). Report as `SS-001`.
+- It must not open with a **dangling** reference — a bare pronoun or connective
+  pointing outside the note: `he`, `she`, `they`, `it`, `its`, or `but`,
+  `however`, `meanwhile`, `therefore`. Report as `SS-001`.
+- **Self-reference is not dangling.** "This index covers…", "These notes
+  record…", "This review of…" anchor the demonstrative to the note itself and
+  are exactly how a navigation note should open. A checker that flags them will
+  send correct notes back for rewriting — it flagged all seven navigation notes
+  in the first pilot before being corrected.
 - It must name its own subject: the note's title entities appear in the body.
   Report as `SS-002`.
 - Where its assigned source carries a date, the note must carry one. Report as
