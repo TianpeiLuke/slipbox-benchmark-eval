@@ -346,6 +346,9 @@ def main() -> None:
         # the pairing: both arms answer the same questions, and discarding that
         # gives an interval wider than the evidence supports. qids fixes the order
         # so two runs can be aligned question by question.
+        # create the parent, or a completed scoring run is discarded silently --
+        # this cost two full scoring passes before it was noticed
+        Path(a.json).parent.mkdir(parents=True, exist_ok=True)
         Path(a.json).write_text(json.dumps(
             {"arm": a.arm, "vault": str(vault), "answerable": None,
              "strategies": {

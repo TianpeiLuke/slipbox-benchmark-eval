@@ -387,9 +387,49 @@ def graph_hybrid(vault: Path, query: str, k: int, seeds: int = 5,
     return [x for x in sorted(scores.items(), key=lambda y: -y[1]) if x[0] not in nav][:k]
 
 
+def mmr(vault: Path, query: str, k: int, pool: int = 60, lam: float = 0.7,
+        base: str = "hybrid") -> list[tuple[str, float]]:
+    """Maximal marginal relevance: pick the next unit by what it ADDS.
+
+    Atomic notes scatter one document across many units, so a plain top-k fills
+    with near-duplicates from whichever document matched best -- measured, an
+    atom vault returns 19.7 units per document against a coarse vault's 10.8, and
+    the slot metric punishes that hard.
+
+    MMR selects greedily on `lam * sim(query, u) - (1-lam) * max sim(u, chosen)`,
+    so a unit that repeats what is already selected is passed over for one that
+    adds something. The diversity signal is EMBEDDING similarity, deliberately,
+    not shared provenance: penalising units for sharing a source document would
+    be optimising directly against a metric defined over source documents, which
+    is teaching to the test rather than improving retrieval.
+    """
+    import numpy as np
+    fn = bm25 if base == "bm25" else hybrid
+    cands = [n for n, _ in fn(vault, query, pool)]
+    if len(cands) <= k:
+        return [(n, 1.0) for n in cands]
+    emb, ids, idx = _embeddings(vault)
+    q = encode_query(vault, query)
+    keep = [n for n in cands if n in idx]
+    M = np.stack([emb[idx[n]] for n in keep])
+    rel = M @ q
+    chosen, chosen_i = [], []
+    while len(chosen) < k and len(chosen) < len(keep):
+        if not chosen_i:
+            i = int(np.argmax(rel))
+        else:
+            red = (M @ M[chosen_i].T).max(axis=1)
+            score = lam * rel - (1 - lam) * red
+            score[chosen_i] = -1e9
+            i = int(np.argmax(score))
+        chosen_i.append(i); chosen.append((keep[i], float(rel[i])))
+    return chosen
+
+
 STRATEGIES = {"bm25": bm25, "dense": dense, "hybrid": hybrid,
               "bfs": bfs, "ppr": ppr, "graph_hybrid": graph_hybrid,
-              "keyword": lambda v, q, k, **kw: keyword_seed(v, q, k)}
+              "keyword": lambda v, q, k, **kw: keyword_seed(v, q, k),
+              "mmr": mmr}
 
 
 def main() -> None:
