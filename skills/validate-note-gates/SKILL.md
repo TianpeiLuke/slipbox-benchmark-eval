@@ -113,16 +113,56 @@ Report a single explicit verdict. The gate **passes only if all three are true f
 Emit the verdict in this exact shape so the calling skill's self-check can confirm it:
 
 ```
-VALIDATION GATES: PASS  (G1 format ✓ | G2 broken ✓ | G3 ghost ✓)
+VALIDATION GATES: PASS  (G1 format ✓ | G2 broken ✓ | G3 ghost ✓ | G4 facts ✓ | G5 self-suff ✓)
 ```
 
 or, if any gate fails after remediation attempts:
 
 ```
-VALIDATION GATES: FAIL  (G1 ✓ | G2 ✓ | G3 ✗ — <N> ghost ref(s) in <note>)
+VALIDATION GATES: FAIL  (G1 ✓ | G2 ✓ | G3 ✗ — <N> ghost ref(s) in <note> | G4 ✓ | G5 ✓)
 ```
 
 On FAIL, do not declare the parent note-authoring task done — surface the failing gate and the offending note(s).
+
+### GATE 4 — Fact preservation <!-- :: section_id = gate_4_fact_preservation :: -->
+
+**Why.** Measured on the benchmark vault, 18.3% of gold facts were unrecoverable
+from any note, against 0.9% for a plain chunker. A fact the writer dropped is
+unreachable no matter how good retrieval is, and no other gate can see it — G1
+checks format, G2 links, G3 ghosts. None of them reads the source.
+
+**Check.** For each note, take the source blocks the plan's coverage map assigns
+it. Every **date, quantity with a unit, proper name and figure** appearing in
+those blocks must appear in the note, verbatim where it is a number or a name.
+Paraphrase the prose; do not paraphrase the data.
+
+Report any dropped item as `FP-001 <note>: <item> present in assigned source,
+absent from note`. This is cheap because the coverage map already names which
+blocks each note owns.
+
+**Not a licence to pad.** If a block genuinely belongs to a different note, fix
+the coverage map rather than copying the fact into both — a fact duplicated
+across notes is how sibling notes come to disagree.
+
+### GATE 5 — Self-sufficiency <!-- :: section_id = gate_5_self_sufficiency :: -->
+
+**Why.** This is the one property the note layer measurably wins on: notes never
+open with an unresolved reference where 7.5% of chunks do, and they carry a date
+more than twice as often. It is also the property most at risk from the
+atomicity rules, because the obvious way to make a note smaller is to delete the
+context that lets it stand alone. Gate it so the improvement cannot destroy it.
+
+**Check.** For each note:
+- It must not open with an unresolved reference — no leading `he`, `she`, `they`,
+  `it`, `this`, `that`, `the company`, or a bare connective (`but`, `however`,
+  `meanwhile`). Report as `SS-001`.
+- It must name its own subject: the note's title entities appear in the body.
+  Report as `SS-002`.
+- Where its assigned source carries a date, the note must carry one. Report as
+  `SS-003`.
+
+A note failing this is a fragment, not an atom. Atomicity without resolution is
+the opposite failure and equally disqualifying.
 
 ## Important Constraints <!-- :: section_id = important_constraints :: -->
 
@@ -195,9 +235,15 @@ effort on them at the expense of the two fields above.
 
 ### One note, one topic — then one building block, then a size budget
 
-**Topical coherence decides where a note ends.** One note covers one subject, so
-that retrieving it returns the whole of one thing rather than part of several.
-Within that subject, the note carries exactly one building block.
+**Thought-atomicity decides where a note ends.** One note carries one thought of
+its building block's kind — one fact, definition, mechanism, outcome, claim,
+objection, hypothesis or index scope — so that retrieving it returns one whole
+thing rather than several partial ones.
+
+**Topical coherence is not the boundary.** Several thoughts about one subject are
+exactly what a coherence rule merges, and the merged note then holds many
+thoughts while passing every size check. Split on the thought; stop when the
+relation between the halves can no longer be stated in one line.
 
 **Density then constrains size, it does not set boundaries.** Past 1,800 source
 words a coherent unit splits again — at a sub-topic boundary, never at a word

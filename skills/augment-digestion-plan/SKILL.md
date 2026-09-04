@@ -950,14 +950,43 @@ labels in these benchmarks are passage-level, so a note that cannot name the
 documents it came from cannot be credited when it is retrieved. A note without
 it is invisible to the evaluation even when it is correct.
 
-`tags`, `keywords`, `topics`, `status`, `language` and `date of note` may be
-included and are preserved, but the database does not read them — do not spend
-effort on them at the expense of the two fields above.
+`tags`, `topics`, `status`, `language` and `date of note` are preserved and are
+lower priority than the two fields above.
 
-### One note, one topic — then one building block, then a size budget
+**`keywords` is not in that group, and an earlier version of this skill was wrong
+to say so.** `build_local_db.py` concatenates `keywords` and `topics` into the
+FTS body, and `keyword_seed` in `retrieval.py` matches queries against
+`keywords` directly — so the field is read on every lexical and seeded query.
 
-**Topical coherence decides where a note ends.** One note covers one subject, so
-that retrieving it returns the whole of one thing rather than part of several.
+**How to derive keywords — the rule that was missing.** Keywords are *anticipated
+questions*, not a description of the note:
+
+- Write the words a **questioner** would type, including the ones the note does
+  not use — the acronym when the note spells the name out, the common name when
+  the note uses the formal one, the popular phrase for the event.
+- **Do NOT restate the title.** It is already indexed as its own FTS column, so a
+  title-shaped keyword spends a slot on a string the index already has.
+- **Do NOT lift distinctive terms from the note's own prose.** Terms drawn from
+  the body cannot supply vocabulary the body lacks, which is the whole reason a
+  reader fails to find the note.
+- **Do NOT draw on the Related Notes or Source sections.** Those name *other*
+  notes' entities, and a keyword taken from them retrieves this note for
+  questions it cannot answer.
+
+A keyword list that is a summary of the note adds nothing to retrieval. A keyword
+list that closes the gap between the note's vocabulary and a question's is the
+single cheapest retrieval improvement available at authoring time.
+
+### One note, one thought — then one building block, then a size budget
+
+**Thought-atomicity decides where a note ends**, not topical coherence. One note
+carries one thought of its building block's kind (see plan-digestion 3b-bis), so
+that retrieving it returns one whole thing rather than several partial ones.
+
+> Topical coherence is *not* the boundary. Several thoughts about one subject are
+> exactly what a coherence rule merges, and a merged note holds many thoughts
+> while passing every size check. Split on the thought; stop when the relation
+> between the halves can no longer be stated in one line.
 Within that subject, the note carries exactly one building block.
 
 **Density then constrains size, it does not set boundaries.** Past 1,800 source

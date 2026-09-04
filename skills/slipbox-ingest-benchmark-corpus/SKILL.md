@@ -78,7 +78,7 @@ Record the genre assessment explicitly. Our digestion pipeline was tuned on tech
 
 ## Step 1b: Rule precedence — topical coherence governs, density constrains
 
-**Topical coherence decides where a note ends.** One note covers one subject, so that retrieving it returns the whole of one thing rather than part of several. Within that subject, the note carries exactly one building block.
+**Thought-atomicity decides where a note ends.** One note carries one thought of its building block's kind, so that retrieving it returns one whole thing rather than several partial ones. Topical coherence is not the boundary: several thoughts about one subject are exactly what a coherence rule merges.
 
 **Density then constrains size; it does not set boundaries.** Past 1,800 source words a coherent unit splits again, at a sub-topic boundary rather than a word count.
 
