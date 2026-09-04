@@ -229,6 +229,47 @@ Add three sections the plan does NOT provide:
 8. **Density** — if your draft exceeds 400 lines / 2500 words / 6 code blocks, return STATUS=split-needed. This is a backstop for notes that are too LARGE; it cannot detect one that is merely diffuse, which is what rule 5 is for.
 9. **Verbatim code** — code blocks must be character-for-character from source. No reformatting.
 
+## Failure Modes When Notes Are Written by Agents
+
+Three failure kinds get collapsed into one "the note wasn't produced", and the
+collapse is expensive in both directions. Classify before retrying.
+
+| kind | what happened | signature | what to do |
+|---|---|---|---|
+| **transport** | the model **never ran** — gateway, daemon, auth or rate limit | a short diagnostic arrives *as the answer*: `failed to create stream`, `failed to invoke model`, `Unauthorized`, `502/503/504`, or an empty body | **retry with exponential backoff and jitter.** Almost always succeeds |
+| **format** | the model answered, in the wrong shape | parseable prose, no expected delimiter or a broken JSON object | retry once or twice; prefer repairing the text over re-generating it |
+| **content** | the model answered and produced nothing usable | opens with a refusal, or is genuinely empty of content | record and move on — retrying is waste |
+
+**Why this matters more than it sounds.** In one execution pass over 737 planned
+notes, 29% were reported as the model disobeying its output contract. Sampling
+the raw responses showed most were **transport failures** — the model never ran
+— and two of three sampled notes succeeded immediately on a plain retry. A
+coverage number was wrong by nearly a third, and the diagnosis pointed at the
+prompt when the fault was the network.
+
+**Rules for the runner.**
+
+1. **Never let a transport failure count as a content failure.** It silently
+   drops the item and understates coverage, and it sends you to fix a prompt
+   that was never the problem.
+2. **Retry inside the worker, not by re-running the pass.** A whole-pass rerun
+   works only because of checkpointing, and it re-pays the per-call scaffolding
+   overhead on every retried item.
+3. **Report failures by kind, never as a total.** `29 failed` is not actionable;
+   `24 transport, 4 format, 1 content` tells you to fix the retry and leave the
+   prompt alone.
+4. **Empty output is transport, not refusal.** A model that ran and declined
+   says so; a blank response is a dropped call.
+5. **Exponential backoff with jitter.** A gateway that just failed is failing
+   for every worker at once, and synchronised retries make it worse.
+
+**Structured output around prose is the wrong instrument.** Asking for a
+multi-line markdown body inside a JSON string means the escaping fights the
+content, and the model loses. Use an unambiguous delimiter (`TITLE:` / `BODY:` /
+`END`) for anything containing prose, and keep JSON for genuinely structured
+payloads. Switching one stage from JSON to delimiters took it from 33% to 92%
+parse success in a single change.
+
 ## Return Schema (Structured Output)
 
 Every sub-agent returns:
