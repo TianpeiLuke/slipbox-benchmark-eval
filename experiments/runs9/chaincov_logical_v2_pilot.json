@@ -1,0 +1,38 @@
+{
+  "hybrid": {
+    "chain_complete": 0.1,
+    "mean_chain": 0.4505555555555556,
+    "answer_present": 0.7566666666666667,
+    "doc_recall": 0.6438888888888888,
+    "units": 11.813333333333333,
+    "chain_complete_entity": 0.08333333333333333,
+    "n": 300
+  },
+  "perdoc1": {
+    "chain_complete": 0.1,
+    "mean_chain": 0.415,
+    "answer_present": 0.75,
+    "doc_recall": 0.918611111111111,
+    "units": 10.686666666666667,
+    "chain_complete_entity": 0.1111111111111111,
+    "n": 300
+  },
+  "logical": {
+    "chain_complete": 0.1,
+    "mean_chain": 0.46527777777777773,
+    "answer_present": 0.76,
+    "doc_recall": 0.6930555555555556,
+    "units": 11.903333333333334,
+    "chain_complete_entity": 0.07777777777777778,
+    "n": 300
+  },
+  "logical_cap": {
+    "chain_complete": 0.1,
+    "mean_chain": 0.46527777777777773,
+    "answer_present": 0.76,
+    "doc_recall": 0.6930555555555556,
+    "units": 11.903333333333334,
+    "chain_complete_entity": 0.07777777777777778,
+    "n": 300
+  }
+}

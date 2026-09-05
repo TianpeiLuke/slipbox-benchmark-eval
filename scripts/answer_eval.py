@@ -220,7 +220,14 @@ def build_context(vault: Path, bodies: dict, toks: dict, query: str,
     except KeyError:
         raise SystemExit(f"unknown strategy {strategy!r}. "
                          f"known: {', '.join(sorted(R.STRATEGIES))}")
-    ranked = [n for n, _ in fn(vault, query, max(k, 40))]
+    # Candidate pool must scale with the budget, not sit at a constant 40.
+    # A fixed 40 penalises fine-grained units specifically: 40 atoms carry about
+    # a quarter the text of 40 coarse notes, so the atom vault saturated at 40
+    # units and its chain completeness stopped improving past an 8K budget while
+    # the coarse vault kept climbing to 0.965. That is a harness ceiling, not a
+    # property of the notes.
+    want = k if condition == "slots" else max(40, budget // 24)
+    ranked = [n for n, _ in fn(vault, query, want)]
     picked, used = [], 0
     for nid in ranked:
         t = toks.get(nid, 0)

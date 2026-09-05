@@ -483,6 +483,257 @@ def perdoc1(vault: Path, query: str, k: int, **kw) -> list[tuple[str, float]]:
     return perdoc(vault, query, k, cap=1, **kw)
 
 
+
+# --------------------------------------------------------------- chain retrieval
+#
+# Motivated by the refusal diagnosis: the model abstains on CHAIN COMPLETENESS,
+# not on answer presence. Capping left the count of answer-bearing contexts
+# unchanged (484 vs 484) while cutting refusals a quarter, and refusal falls
+# monotonically with the fraction of the question's supporting facts present --
+# 0.65 none, 0.25 some, 0.08 all. So the objective for retrieval on a multi-hop
+# task is to cover the question's distinct sub-claims across distinct documents,
+# which is not what ranking by whole-query similarity optimises.
+#
+# Everything below derives its probes from the QUESTION TEXT ONLY. Using the gold
+# evidence facts to steer retrieval would be label leakage; scoring against them
+# afterwards is ordinary evaluation.
+
+_STOP = set("""a an the is are was were be been being of in on at to for from by with
+about into over after before between during under above below than then this that these
+those it its it's as and or but if while which who whom whose what when where why how
+do does did done have has had having will would shall should can could may might must
+more most other some such no nor not only own same so too very s t just don now also
+according based both each few many much any all one two three both either neither""".split())
+
+
+def query_anchors(query: str, max_anchors: int = 4) -> list[str]:
+    """Split a question into the distinct things it asks about.
+
+    A multi-hop question names several entities and the hop is between them, so
+    the capitalised spans are a good free proxy for the sub-claims -- no LLM call
+    and no gold labels. Falls back to content words when a question is lowercase.
+    """
+    spans = re.findall(r"\b[A-Z][\w&.'-]*(?:\s+[A-Z][\w&.'-]*)*", query)
+    seen, anchors = set(), []
+    for sp in spans:
+        toks = [t for t in sp.split() if t.lower() not in _STOP]
+        if not toks:
+            continue
+        cand = " ".join(toks)
+        if len(cand) > 2 and cand.lower() not in seen:
+            seen.add(cand.lower()); anchors.append(cand)
+    if len(anchors) < 2:
+        words = [w for w in re.findall(r"[A-Za-z][\w-]{3,}", query)
+                 if w.lower() not in _STOP]
+        for w in words:
+            if w.lower() not in seen:
+                seen.add(w.lower()); anchors.append(w)
+    return anchors[:max_anchors]
+
+
+def chain(vault: Path, query: str, k: int, cap: int = 2, per_probe: int = 12,
+          base: str = "hybrid") -> list[tuple[str, float]]:
+    """Retrieve per sub-claim and interleave, so every probe gets represented.
+
+    Plain top-k lets the strongest sub-claim monopolise the slots: whichever
+    entity the ranker likes best returns units about that entity, and the hop
+    the question actually asks about goes unsupported. Round-robin over the
+    anchors spends the budget on breadth of sub-claim instead, and the per-source
+    cap keeps one document from answering every probe.
+    """
+    fn_ = bm25 if base == "bm25" else hybrid
+    anchors = query_anchors(query)
+    con = sqlite3.connect(vault / "notes.db")
+    src = {n: {x.strip() for x in (s or "").split(",") if x.strip()}
+           for n, s in con.execute("SELECT note_id, source_doc FROM notes")}
+    con.close()
+
+    # the whole query first, then each anchor -- so a question whose anchors are
+    # useless is never worse than the base ranker
+    lists = [fn_(vault, query, per_probe)]
+    lists += [fn_(vault, a, per_probe) for a in anchors]
+
+    out, seen, used = [], set(), Counter()
+    for rank in range(per_probe):
+        for lst in lists:
+            if rank >= len(lst):
+                continue
+            nid, sc = lst[rank]
+            if nid in seen:
+                continue
+            docs = src.get(nid, set()) or {nid}
+            if any(used[d] >= cap for d in docs):
+                continue
+            for d in docs:
+                used[d] += 1
+            seen.add(nid); out.append((nid, sc))
+            if len(out) >= k:
+                return out
+    if len(out) < k:                       # top up in rank order, cap ignored
+        for nid, sc in lists[0]:
+            if nid not in seen:
+                seen.add(nid); out.append((nid, sc))
+                if len(out) >= k:
+                    break
+    return out[:k]
+
+
+def gapfill(vault: Path, query: str, k: int, rounds: int = 3, cap: int = 2,
+            base: str = "hybrid") -> list[tuple[str, float]]:
+    """Iteratively re-query using the parts of the question still uncovered.
+
+    After each round, take the question's content words that do NOT yet appear in
+    the retrieved text and use them as the next probe. This closes chain gaps
+    directly rather than hoping breadth produces them, and it needs no labels --
+    the uncovered set is computed from the question against the retrieved text.
+    """
+    fn_ = bm25 if base == "bm25" else hybrid
+    con = sqlite3.connect(vault / "notes.db")
+    src = {n: {x.strip() for x in (s or "").split(",") if x.strip()}
+           for n, s in con.execute("SELECT note_id, source_doc FROM notes")}
+    body = dict(con.execute("SELECT note_id, body FROM notes"))
+    con.close()
+
+    want = {w.lower() for w in re.findall(r"[A-Za-z][\w-]{3,}", query)
+            if w.lower() not in _STOP}
+    out, seen, used, covered = [], set(), Counter(), set()
+    probe = query
+    for _ in range(max(1, rounds)):
+        for nid, sc in fn_(vault, probe, k * 2):
+            if nid in seen or len(out) >= k:
+                continue
+            docs = src.get(nid, set()) or {nid}
+            if any(used[d] >= cap for d in docs):
+                continue
+            for d in docs:
+                used[d] += 1
+            seen.add(nid); out.append((nid, sc))
+            covered |= {w.lower() for w in re.findall(r"[A-Za-z][\w-]{3,}",
+                                                      body.get(nid, ""))}
+        if len(out) >= k:
+            break
+        missing = want - covered
+        if not missing:
+            break
+        probe = " ".join(sorted(missing))
+    return out[:k]
+
+
+def chain1(vault: Path, query: str, k: int, **kw) -> list[tuple[str, float]]:
+    """chain with a strict one-unit-per-document cap."""
+    return chain(vault, query, k, cap=1, **kw)
+
+
+
+_PUBCACHE: dict = {}
+
+
+def _publishers(vault: Path):
+    """(note_id -> publishers, list of publisher names) for this corpus.
+
+    Uses corpus METADATA (which publisher each document came from), not gold
+    labels. A deployed system has the same information about its own sources.
+    """
+    key = str(vault)
+    if key in _PUBCACHE:
+        return _PUBCACHE[key]
+    root = Path(__file__).resolve().parent.parent
+    idx = json.loads((root / "data/corpus/multihop_rag/index.json").read_text())
+    doc_pub = {d: v.get("publisher", "") for d, v in idx.items()}
+    con = sqlite3.connect(vault / "notes.db")
+    note_pub = {}
+    for n, sd in con.execute("SELECT note_id, source_doc FROM notes"):
+        pubs = {doc_pub.get(x.strip(), "") for x in (sd or "").split(",") if x.strip()}
+        note_pub[n] = {p for p in pubs if p}
+    con.close()
+    names = sorted({p for p in doc_pub.values() if p}, key=len, reverse=True)
+    _PUBCACHE[key] = (note_pub, names)
+    return _PUBCACHE[key]
+
+
+def named_sources(query: str, names: list[str]) -> list[str]:
+    """Publishers the question names explicitly. Longest-first so a short name
+    nested in a longer one does not shadow it."""
+    q = query.lower()
+    found, taken = [], []
+    for n in names:
+        nl = n.lower()
+        if nl in q and not any(nl in t for t in taken):
+            taken.append(nl); found.append(n)
+    return found
+
+
+def logical(vault: Path, query: str, k: int, per_source: int = 4, pool: int = 200,
+            base: str = "hybrid") -> list[tuple[str, float]]:
+    """Retrieve the question's PREDICATE separately from each source it NAMES.
+
+    These questions have a consistent logical form -- one topic, asserted by two
+    or more explicitly named publishers -- and 98.9% of them name at least one of
+    their own gold publishers. Nothing in plain ranking uses that: it scores every
+    unit against the whole question, so the strongest source can supply every slot
+    and the cross-source comparison the question asks for never assembles.
+
+    So: strip the source names to leave the predicate, rank the pool by the
+    predicate, then fill a quota from each named source. Per-source capping
+    approximates this blindly by forcing diversity in every direction; this aims
+    at the sources the question actually asks about.
+
+    An earlier attempt decomposed the query into ENTITY anchors and did markedly
+    worse than plain ranking (chain completeness 0.073 against 0.190), because
+    probing "Apple" and "Google" separately retrieves units about each entity and
+    discards the relation between them that the question is asking about. The
+    predicate has to stay intact; only the SOURCE is a legitimate axis to split on.
+    """
+    fn_ = bm25 if base == "bm25" else hybrid
+    note_pub, names = _publishers(vault)
+    asked = named_sources(query, names)
+    if not asked:
+        return fn_(vault, query, k)
+
+    predicate = query
+    for n in asked:
+        predicate = re.sub(re.escape(n), " ", predicate, flags=re.I)
+    predicate = " ".join(predicate.split()) or query
+
+    ranked = fn_(vault, predicate, pool)
+    buckets = {a: [] for a in asked}
+    for nid, sc in ranked:
+        for a in asked:
+            if a in note_pub.get(nid, set()) and len(buckets[a]) < per_source:
+                buckets[a].append((nid, sc))
+                break
+
+    out, seen = [], set()
+    for rank in range(per_source):              # round-robin across named sources
+        for a in asked:
+            if rank < len(buckets[a]):
+                nid, sc = buckets[a][rank]
+                if nid not in seen:
+                    seen.add(nid); out.append((nid, sc))
+                    if len(out) >= k:
+                        return out
+    for nid, sc in ranked:                      # top up on the predicate
+        if nid not in seen:
+            seen.add(nid); out.append((nid, sc))
+            if len(out) >= k:
+                break
+    return out[:k]
+
+
+def logical_cap(vault: Path, query: str, k: int, **kw) -> list[tuple[str, float]]:
+    """logical, then per-document capping over whatever slots remain."""
+    got = logical(vault, query, k, **kw)
+    if len(got) >= k:
+        return got
+    have = {n for n, _ in got}
+    for nid, sc in perdoc(vault, query, k, cap=1):
+        if nid not in have:
+            got.append((nid, sc))
+            if len(got) >= k:
+                break
+    return got[:k]
+
+
 # The registry key is "keyword" while the function is keyword_seed. Alias it so
 # name-based resolution and STRATEGIES cannot disagree; renaming the key instead
 # would invalidate the strategy names recorded in earlier run files.
@@ -493,7 +744,12 @@ STRATEGIES = {"bm25": bm25, "dense": dense, "hybrid": hybrid,
               "keyword": keyword_seed,
               "mmr": mmr,
               "perdoc": perdoc,
-              "perdoc1": perdoc1}
+              "perdoc1": perdoc1,
+              "chain": chain,
+              "chain1": chain1,
+              "gapfill": gapfill,
+              "logical": logical,
+              "logical_cap": logical_cap}
 
 
 def main() -> None:
