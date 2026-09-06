@@ -110,10 +110,14 @@ def ask_openai(system: str, user: str, model: str) -> str:
     return (r.choices[0].message.content or "").strip()
 
 
-def ask_anthropic(system: str, user: str, model: str) -> str:
+def ask_anthropic(system: str, user: str, model: str, max_tokens: int = 128) -> str:
+    """max_tokens defaults to the answering budget. Extraction tasks (OpenIE,
+    NER) must raise it: at 128 a triple list is truncated mid-JSON and the
+    parse fails, which showed up as a 50% "no JSON object" rate rather than as
+    a length error."""
     import anthropic
     r = anthropic.Anthropic().messages.create(
-        model=model, max_tokens=128, temperature=0, system=system,
+        model=model, max_tokens=max_tokens, temperature=0, system=system,
         messages=[{"role": "user", "content": user}])
     return "".join(b.text for b in r.content if b.type == "text").strip()
 
