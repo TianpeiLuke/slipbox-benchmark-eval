@@ -28,7 +28,11 @@ python3 scripts/score_hipporag.py \
 | BM25 | **0.351** | **0.499** | **0.037** | **0.113** |
 | hybrid | 0.320 | 0.484 | 0.020 | 0.107 |
 | dense | 0.218 | 0.370 | 0.010 | 0.047 |
-| HippoRAG | 0.200 | 0.312 | 0.007 | 0.040 |
+| HippoRAG (LLM NER) | 0.222 | 0.310 | 0.013 | 0.043 |
+| HippoRAG (heuristic NER) | 0.200 | 0.312 | 0.007 | 0.040 |
+
+Query NER runs through the cline CLI against `deepseek/deepseek-v4-flash`, which
+needs no Anthropic key. All 300 calls succeeded, no fallbacks.
 
 **HippoRAG loses to plain BM25 here. This is NOT a refutation of the paper**, and
 the run should not be cited as one. It is a baseline implementation measured
@@ -52,15 +56,20 @@ membership matrix, the specificity weighting, the PPR and the passage scoring
 are all working -- given good seeds this implementation wins. The bottleneck is
 entirely which nodes the query seeds.
 
-**4. Better seeds do not close the gap.** Four real query-NER bugs were found
-and fixed: "the" was stripped as a stopword so `The Verge` became `Verge`; bare
-month names were emitted as entities; possessives made `Google's` and `Google`
-distinct seeds; and dates were linked by cosine, where MiniLM scores
-`October 26, 2023` against `october 6, 2023` at 0.967 -- close enough to seed
-the wrong day, now matched exactly or dropped. All four fixes together moved
-R@5 from 0.300 to 0.312. A deliberately over-generous NER proxy that seeds every
-content word in the question -- more than an LLM would extract -- reaches only
-0.321.
+**4. Better seeds do not close the gap, and the real LLM NER does not either.**
+Four real query-NER bugs were found and fixed: "the" was stripped as a stopword
+so `The Verge` became `Verge`; bare month names were emitted as entities;
+possessives made `Google's` and `Google` distinct seeds; and dates were linked
+by cosine, where MiniLM scores `October 26, 2023` against `october 6, 2023` at
+0.967 -- close enough to seed the wrong day, now matched exactly or dropped. All
+four fixes moved R@5 from 0.300 to 0.312.
+
+**Then the paper's actual LLM query-NER was run**, via cline against DeepSeek,
+closing the deviation that had been flagged as the one most likely to matter. It
+lands at R@5 0.310 and R@2 0.222 -- indistinguishable from the heuristic on R@5,
+slightly better on R@2. The LLM extracts better entities (it picks up lowercase
+topical terms such as `cryptocurrency` that a capitalisation heuristic cannot
+see) and it does not help, because the entities it adds are not the problem.
 
 ### Why it underperforms here: the seeds are hubs
 
@@ -95,19 +104,16 @@ Damping 0.5 is the authors' default and wins. The KG's density also matches
 theirs closely: 6,979 nodes over 996 passages (7.0 nodes/passage) against their
 91,729 over 11,656 (7.9).
 
-### Deviations, worst first
+### Deviations remaining, worst first
 
-1. **Query NER is a deterministic capitalised-span heuristic, not an LLM call.**
-   The Anthropic key ran out of credit partway through this work. The paper's
-   query NER is a 1-shot LLM call and it decides where PPR mass enters the
-   graph, so this remains the deviation to close first -- the code path exists
-   and is the default, it needs API credit. The over-generous seeding probe
-   above (0.321) bounds the likely headroom from it as small, but that probe is
-   not the same thing as the real call and the check is still owed.
-2. **Encoder is all-MiniLM-L6-v2**, what the rest of this repo indexes with, not
+1. **Encoder is all-MiniLM-L6-v2**, what the rest of this repo indexes with, not
    Contriever/ColBERTv2 (paper) or NV-Embed-v2 (current release). This degrades
-   both synonym-edge quality and query-node linking.
-3. **Extraction LLM is claude-haiku-4-5**, not GPT-3.5-turbo-1106.
+   synonym-edge quality and query-node linking, and is now the largest open
+   deviation.
+2. **Extraction LLM is claude-haiku-4-5**, not GPT-3.5-turbo-1106.
+
+**Closed:** query NER now uses a real LLM call (DeepSeek via cline), matching the
+paper's design. It changed the result by roughly nothing.
 
 ### Why this corpus is unfavourable to the method, independent of the deviations
 
@@ -127,9 +133,10 @@ the method.
 
 ### To finish the reproduction
 
-1. Re-run with `--ner llm` once API credit is available. That is the single
-   change most likely to move the number.
-2. Swap in a stronger encoder for node linking and synonymy.
+1. ~~Re-run with `--ner llm`.~~ Done: R@5 0.310, no material change.
+2. Swap in a stronger encoder for node linking and synonymy -- now the largest
+   remaining deviation.
 3. Run it on MuSiQue or 2WikiMultiHopQA, where the paper's numbers exist, to
    check the implementation against a published figure rather than against our
-   own baselines. Unrun designs for those benchmarks already sit in the vault.
+   own baselines. This is the check that would settle the reproduction, and
+   unrun designs for those benchmarks already sit in the vault.

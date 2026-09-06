@@ -174,15 +174,24 @@ def query_entities(st: dict, query: str, ask, model: str, mode: str = "llm") -> 
     return ents
 
 
+def make_ask(backend: str = "cline"):
+    """Query-NER caller. Defaults to cline, which reaches DeepSeek without an
+    Anthropic key -- the reason the LLM path was unrunnable when this baseline
+    was first measured."""
+    from answer_eval import BACKENDS
+    base = BACKENDS[backend]
+    if backend == "anthropic":
+        return lambda s, u, m: base(s, u, m, max_tokens=256)
+    return base
+
+
 def retrieve(index_dir: Path, query: str, k: int, ask=None,
-             model: str = "claude-haiku-4-5-20251001",
+             model: str = "deepseek/deepseek-v4-flash",
              damping: float = 0.5, linking_top_k: int = 1,
-             ner: str = "llm") -> list[tuple[str, float]]:
+             ner: str = "llm", backend: str = "cline") -> list[tuple[str, float]]:
     st = load(Path(index_dir))
     if ask is None and ner == "llm":
-        from answer_eval import BACKENDS
-        base = BACKENDS["anthropic"]
-        ask = lambda s, u, m: base(s, u, m, max_tokens=256)   # noqa: E731
+        ask = make_ask(backend)
 
     ents = query_entities(st, query, ask, model, mode=ner)
     if not ents:

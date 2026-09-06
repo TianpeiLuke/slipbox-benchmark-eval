@@ -30,6 +30,11 @@ def main() -> None:
                     default=["bm25", "dense", "hybrid", "hipporag"])
     ap.add_argument("--ner", default="heuristic", choices=["llm", "heuristic"],
                     help="query-side NER. The paper uses an LLM call; heuristic is a\ndeterministic capitalised-span fallback and is expected to be weaker.")
+    ap.add_argument("--backend", default="cline")
+    ap.add_argument("--model", default="deepseek/deepseek-v4-flash")
+    ap.add_argument("--prewarm", type=int, default=8,
+                    help="threads used to fill the query-NER cache before scoring; "
+                         "cline is slow per call and scoring is sequential")
     ap.add_argument("--sample", type=int, default=300)
     ap.add_argument("--json")
     a = ap.parse_args()
@@ -60,7 +65,8 @@ def main() -> None:
             if not gold:
                 continue
             if name == "hipporag":
-                res = HR.retrieve(Path(a.hippo_index), q["query"], 5, ner=a.ner)
+                res = HR.retrieve(Path(a.hippo_index), q["query"], 5, ner=a.ner,
+                                  backend=a.backend, model=a.model)
             else:
                 res = R.STRATEGIES[name](corpus, q["query"], 5)
             if not res:
