@@ -1,0 +1,217 @@
+{
+  "arms": {
+    "notes_hybrid": {
+      "n_entity": 242,
+      "entity": 0.6239669421487604,
+      "n_polarity": 358,
+      "polarity": 0.164804469273743,
+      "macro": 0.3943857057112517,
+      "refused": 0.63,
+      "abstain_null": 1.0,
+      "units": 6.855,
+      "n_failed": 0
+    },
+    "notes_capped": {
+      "n_entity": 242,
+      "entity": 0.6033057851239669,
+      "n_polarity": 358,
+      "polarity": 0.17039106145251395,
+      "macro": 0.38684842328824043,
+      "refused": 0.6383333333333333,
+      "abstain_null": 1.0,
+      "units": 7.0183333333333335,
+      "n_failed": 0
+    },
+    "chunks_hybrid": {
+      "n_entity": 242,
+      "entity": 0.6983471074380165,
+      "n_polarity": 358,
+      "polarity": 0.10614525139664804,
+      "macro": 0.4022461794173323,
+      "refused": 0.6383333333333333,
+      "abstain_null": 0.98,
+      "units": 14.35,
+      "n_failed": 0
+    },
+    "chunks_capped": {
+      "n_entity": 242,
+      "entity": 0.7272727272727273,
+      "n_polarity": 358,
+      "polarity": 0.08379888268156424,
+      "macro": 0.40553580497714575,
+      "refused": 0.6416666666666667,
+      "abstain_null": 0.99,
+      "units": 12.556666666666667,
+      "n_failed": 0
+    },
+    "closedbook": {
+      "n_entity": 242,
+      "entity": 0.0,
+      "n_polarity": 358,
+      "polarity": 0.0,
+      "macro": 0.0,
+      "refused": 1.0,
+      "abstain_null": 1.0,
+      "units": 0.0,
+      "n_failed": 0
+    },
+    "_majority": {
+      "n_entity": 242,
+      "entity": 0.30165289256198347,
+      "n_polarity": 358,
+      "polarity": 0.5782122905027933,
+      "macro": 0.4399325915323884,
+      "refused": 0.0,
+      "abstain_null": 0.0,
+      "units": 6.855,
+      "n_failed": 0
+    }
+  },
+  "comparisons": {
+    "chunks_hybrid:notes_hybrid": {
+      "entity": {
+        "n": 242,
+        "delta": -0.0743801652892562,
+        "ci": [
+          -0.13636363636363635,
+          -0.012396694214876033
+        ],
+        "significant": true
+      },
+      "polarity": {
+        "n": 358,
+        "delta": 0.05865921787709497,
+        "ci": [
+          0.019553072625698324,
+          0.1005586592178771
+        ],
+        "significant": true
+      },
+      "both": {
+        "n": 600,
+        "delta": 0.005,
+        "ci": [
+          -0.03,
+          0.04
+        ],
+        "significant": false
+      }
+    },
+    "chunks_capped:notes_capped": {
+      "entity": {
+        "n": 242,
+        "delta": -0.12396694214876033,
+        "ci": [
+          -0.18181818181818182,
+          -0.07024793388429752
+        ],
+        "significant": true
+      },
+      "polarity": {
+        "n": 358,
+        "delta": 0.08659217877094973,
+        "ci": [
+          0.0446927374301676,
+          0.12849162011173185
+        ],
+        "significant": true
+      },
+      "both": {
+        "n": 600,
+        "delta": 0.0016666666666666668,
+        "ci": [
+          -0.03333333333333333,
+          0.035
+        ],
+        "significant": false
+      }
+    },
+    "notes_hybrid:notes_capped": {
+      "entity": {
+        "n": 242,
+        "delta": -0.02066115702479339,
+        "ci": [
+          -0.07024793388429752,
+          0.02489669421487641
+        ],
+        "significant": false
+      },
+      "polarity": {
+        "n": 358,
+        "delta": 0.00558659217877095,
+        "ci": [
+          -0.025139664804469275,
+          0.036312849162011177
+        ],
+        "significant": false
+      },
+      "both": {
+        "n": 600,
+        "delta": -0.005,
+        "ci": [
+          -0.03333333333333333,
+          0.021708333333333486
+        ],
+        "significant": false
+      }
+    },
+    "chunks_hybrid:chunks_capped": {
+      "entity": {
+        "n": 242,
+        "delta": 0.028925619834710745,
+        "ci": [
+          -0.02066115702479339,
+          0.08264462809917356
+        ],
+        "significant": false
+      },
+      "polarity": {
+        "n": 358,
+        "delta": -0.0223463687150838,
+        "ci": [
+          -0.05307262569832402,
+          0.008379888268156424
+        ],
+        "significant": false
+      },
+      "both": {
+        "n": 600,
+        "delta": -0.0016666666666666668,
+        "ci": [
+          -0.03,
+          0.028333333333333332
+        ],
+        "significant": false
+      }
+    },
+    "chunks_hybrid:notes_capped": {
+      "entity": {
+        "n": 242,
+        "delta": -0.09504132231404959,
+        "ci": [
+          -0.1487603305785124,
+          -0.04132231404958678
+        ],
+        "significant": true
+      },
+      "polarity": {
+        "n": 358,
+        "delta": 0.06424581005586592,
+        "ci": [
+          0.0223463687150838,
+          0.10893854748603352
+        ],
+        "significant": true
+      },
+      "both": {
+        "n": 600,
+        "delta": 0.0,
+        "ci": [
+          -0.035,
+          0.03666666666666667
+        ],
+        "significant": false
+      }
+    }
+  }
+}
