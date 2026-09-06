@@ -91,36 +91,66 @@ def load(index_dir: Path) -> dict:
     return st
 
 
-_STOP_NER = set("""the a an of in on at to for from by with and or but is are was were
+_STOP_NER = set("""a an of in on at to for from by with and or but is are was were
 between before after during which who what when where why how did does do has have had
-there their its it this that these those than then both either neither also according""".split())
+there their its it this that these those than then both either neither also according
+article report coverage published""".split())
+
+_MONTHS = ("January February March April May June July August September October "
+           "November December").split()
+_DATE_RE = re.compile(r"\b(?:" + "|".join(_MONTHS) + r")\s+\d{1,2},?\s*\d{4}\b")
 
 
 def heuristic_entities(query: str) -> list[str]:
     """Deterministic stand-in for the paper's LLM query-NER call.
 
-    HippoRAG extracts query entities with a 1-shot LLM call. This fallback takes
-    capitalised spans, quoted strings and dates instead. It is a DEVIATION and
-    is expected to be weaker -- it cannot recognise a lowercase entity or
-    normalise a paraphrase -- but it makes the baseline runnable without an API
-    key, and it is deterministic, which the LLM path is not.
+    HippoRAG extracts query entities with a 1-shot LLM call. This takes
+    capitalised spans, quoted strings and dates instead, so the baseline is
+    runnable without an API key and is deterministic.
+
+    Four things the naive version got wrong, each of which cost recall:
+      - "the" was stripped as a stopword, turning "The Verge" (a publisher, and
+        an actual KG node) into "Verge";
+      - a bare month name such as "October" was emitted as an entity and seeded
+        PPR at a hub node shared by most of the corpus;
+      - possessives survived, so "Google's" and "Google" were different seeds;
+      - dates were linked by embedding cosine, and MiniLM rates
+        "October 26, 2023" against "october 6, 2023" at 0.967 -- close enough to
+        seed the WRONG DAY. Dates are now matched exactly or dropped.
     """
     ents: list[str] = []
-    seen = set()
+    seen: set[str] = set()
+
+    def add(cand: str) -> None:
+        cand = cand.strip().strip(".,;:")
+        if cand.endswith("'s") or cand.endswith("\u2019s"):
+            cand = cand[:-2]
+        if len(cand) < 3 or cand.lower() in seen:
+            return
+        # a bare month or a lone stopword is not an entity
+        if cand in _MONTHS or cand.lower() in _STOP_NER:
+            return
+        seen.add(cand.lower()); ents.append(cand)
+
+    dates = _DATE_RE.findall(query)
+    for m in _DATE_RE.finditer(query):
+        add(m.group(0))
     for m in re.findall(r"'([^']{2,60})'|\"([^\"]{2,60})\"", query):
-        cand = (m[0] or m[1]).strip()
-        if cand and cand.lower() not in seen:
-            seen.add(cand.lower()); ents.append(cand)
-    for sp in re.findall(r"\b[A-Z][\w&.'-]*(?:\s+[A-Z][\w&.'-]*)*", query):
-        toks = [t for t in sp.split() if t.lower() not in _STOP_NER]
-        cand = " ".join(toks).strip()
-        if len(cand) > 2 and cand.lower() not in seen:
-            seen.add(cand.lower()); ents.append(cand)
-    for d in re.findall(r"\b(?:January|February|March|April|May|June|July|August|"
-                        r"September|October|November|December)\s+\d{1,2},?\s*\d{4}\b", query):
-        if d.lower() not in seen:
-            seen.add(d.lower()); ents.append(d)
+        add(m[0] or m[1])
+    # keep a leading "The" -- it is part of many publisher names
+    for sp in re.findall(r"\b(?:[Tt]he\s+)?[A-Z][\w&.\u2019'-]*(?:\s+[A-Z][\w&.\u2019'-]*)*", query):
+        toks = sp.split()
+        while toks and toks[0].lower() in _STOP_NER:
+            toks = toks[1:]
+        while toks and toks[-1].lower() in _STOP_NER:
+            toks = toks[:-1]
+        if toks:
+            add(" ".join(toks))
     return ents
+
+
+def is_datelike(s: str) -> bool:
+    return bool(_DATE_RE.search(s))
 
 
 def query_entities(st: dict, query: str, ask, model: str, mode: str = "llm") -> list[str]:
@@ -167,8 +197,21 @@ def retrieve(index_dir: Path, query: str, k: int, ask=None,
     qe = _ENC.encode(ents, normalize_embeddings=True, show_progress_bar=False)
     sims = qe @ st["emb"].T                      # (n_ents, n_nodes)
 
+    phrase_ix = {p: i for i, p in enumerate(st["idx"]["phrases"])}
     seeds: dict[int, float] = {}
-    for r in range(sims.shape[0]):
+    for r, e in enumerate(ents):
+        if is_datelike(e):
+            # Never link a date by cosine: the encoder cannot separate days, and
+            # a near-miss seeds the wrong article. Exact match or nothing.
+            key = " ".join(e.lower().replace(",", " ").split())
+            hit = phrase_ix.get(key)
+            if hit is None:
+                for cand, ix in phrase_ix.items():
+                    if " ".join(cand.replace(",", " ").split()) == key:
+                        hit = ix; break
+            if hit is not None:
+                seeds[hit] = seeds.get(hit, 0.0) + 1.0
+            continue
         for j in np.argsort(sims[r])[::-1][:linking_top_k]:
             seeds[int(j)] = seeds.get(int(j), 0.0) + float(sims[r][j])
     if not seeds:

@@ -28,12 +28,56 @@ python3 scripts/score_hipporag.py \
 | BM25 | **0.351** | **0.499** | **0.037** | **0.113** |
 | hybrid | 0.320 | 0.484 | 0.020 | 0.107 |
 | dense | 0.218 | 0.370 | 0.010 | 0.047 |
-| HippoRAG | 0.142 | 0.300 | 0.010 | 0.023 |
+| HippoRAG | 0.200 | 0.312 | 0.007 | 0.040 |
 
 **HippoRAG loses to plain BM25 here. This is NOT a refutation of the paper**, and
 the run should not be cited as one. It is a baseline implementation measured
 under a degradation the paper does not have, on a corpus and question type it
 was not evaluated for.
+
+### Is the implementation broken? Four checks say no
+
+This gap was challenged, correctly -- "the corpus is unfavourable" is the kind of
+explanation that lets a bug hide. Four diagnostics:
+
+**1. The graph is sound.** Every gold passage carries KG nodes (13.8 per passage;
+1 of 996 passages is empty). Nothing is missing from the index.
+
+**2. Entity linking is accurate.** Mean best-match cosine 0.947, with correct
+targets (`TechCrunch` -> `techcrunch`, `Epic Games` -> `epic games`).
+
+**3. Oracle seeding beats BM25.** Seeding PPR from nodes that actually occur in
+the gold passages gives **R@5 0.536 against BM25's 0.499**. The KG, the
+membership matrix, the specificity weighting, the PPR and the passage scoring
+are all working -- given good seeds this implementation wins. The bottleneck is
+entirely which nodes the query seeds.
+
+**4. Better seeds do not close the gap.** Four real query-NER bugs were found
+and fixed: "the" was stripped as a stopword so `The Verge` became `Verge`; bare
+month names were emitted as entities; possessives made `Google's` and `Google`
+distinct seeds; and dates were linked by cosine, where MiniLM scores
+`October 26, 2023` against `october 6, 2023` at 0.967 -- close enough to seed
+the wrong day, now matched exactly or dropped. All four fixes together moved
+R@5 from 0.300 to 0.312. A deliberately over-generous NER proxy that seeds every
+content word in the question -- more than an LLM would extract -- reaches only
+0.321.
+
+### Why it underperforms here: the seeds are hubs
+
+The node passage-frequency distribution is extremely skewed: **median 1, p95 4,
+max 378**. Almost every node is specific to one passage. But **47.9% of the
+seeds a query produces land on nodes appearing in 20 or more passages.**
+
+That is the whole story. HippoRAG assumes the query's named entities are
+discriminative bridges between passages, which is what they are in Wikipedia
+multi-hop. Here the named entities are *publishers and dates* -- `The Verge`,
+`TechCrunch`, `October 26, 2023` -- which are bibliographic hubs shared by
+hundreds of passages. PPR seeded at a hub diffuses mass across the corpus rather
+than across a chain, and node specificity (1/|P_i|) down-weights exactly those
+seeds toward zero, leaving the personalization vector with little signal.
+
+So the method is being asked to traverse a bridge its graph does not encode. The
+result is evidence about the corpus, not about HippoRAG.
 
 ### Evidence the implementation is behaving correctly
 
@@ -55,10 +99,11 @@ theirs closely: 6,979 nodes over 996 passages (7.0 nodes/passage) against their
 
 1. **Query NER is a deterministic capitalised-span heuristic, not an LLM call.**
    The Anthropic key ran out of credit partway through this work. The paper's
-   query NER is a 1-shot LLM call and is load-bearing: it is the only step that
-   decides where PPR mass enters the graph. **The headline number above is not a
-   fair test of HippoRAG until this is re-run with `--ner llm`.** The code path
-   exists and is the default; it needs API credit.
+   query NER is a 1-shot LLM call and it decides where PPR mass enters the
+   graph, so this remains the deviation to close first -- the code path exists
+   and is the default, it needs API credit. The over-generous seeding probe
+   above (0.321) bounds the likely headroom from it as small, but that probe is
+   not the same thing as the real call and the check is still owed.
 2. **Encoder is all-MiniLM-L6-v2**, what the rest of this repo indexes with, not
    Contriever/ColBERTv2 (paper) or NV-Embed-v2 (current release). This degrades
    both synonym-edge quality and query-node linking.
