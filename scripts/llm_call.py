@@ -27,7 +27,16 @@ TRANSPORT = re.compile(
     r"failed to create stream|inference request failed|failed to generate stream|"
     r"failed to invoke model|failed to send request|ai-gateway|502|503|504|"
     r"timed? ?out|connection (reset|refused|aborted)|ECONNRESET|rate limit|"
-    r"unauthorized|authentication|too many requests", re.I)
+    r"unauthorized|authentication|too many requests|"
+    # A provider error relayed as a JSON envelope is transport, not format.
+    # cline returns quota errors as
+    #   {"error":{"code":"INFERENCE_CAP_ERROR","message":"Error 429: Daily free
+    #    limit reached on model ..."}}
+    # which parses as JSON but lacks the expected key, so an entire index build
+    # was recorded as 579 "format" failures when a daily free limit had been hit
+    # partway through. Match the envelope and the quota vocabulary directly.
+    r"inference_cap_error|daily free limit|insufficient_quota|quota exceeded|"
+    r"error 429|\b429\b|\"error\"\s*:\s*\{", re.I)
 
 REFUSAL = re.compile(r"^\s*(i (can|cannot|can't|won't)|as an ai|sorry[,.]? i)", re.I)
 

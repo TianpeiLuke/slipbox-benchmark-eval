@@ -63,14 +63,26 @@ Output:"""
 
 
 def _parse(key):
+    """Parse the model's JSON, raising Format for anything malformed.
+
+    json.loads raises JSONDecodeError, which is a ValueError but NOT
+    llm_call.Format, so an unparseable reply escaped the retry handler and
+    killed the whole run rather than costing one passage.
+    """
     def p(raw: str):
         m = re.search(r"\{.*\}", raw, re.S)
         if not m:
             raise llm_call.Format("no JSON object in output")
-        obj = json.loads(m.group(0))
-        if key not in obj:
+        try:
+            obj = json.loads(m.group(0))
+        except json.JSONDecodeError as e:
+            raise llm_call.Format(f"malformed JSON: {e}") from None
+        if not isinstance(obj, dict) or key not in obj:
             raise llm_call.Format(f"missing key {key}")
-        return obj[key]
+        val = obj[key]
+        if not isinstance(val, list):
+            raise llm_call.Format(f"{key} is not a list")
+        return val
     return p
 
 
@@ -114,7 +126,11 @@ def main() -> None:
         for line in cache.read_text().splitlines():
             if line.strip():
                 r = json.loads(line)
-                done[r["pid"]] = r
+                # Error records must NOT count as done: keeping them meant a
+                # re-run skipped exactly the passages that had failed, so a
+                # mid-run service outage was permanent.
+                if not r.get("err"):
+                    done[r["pid"]] = r
     todo = [r for r in rows if r[0] not in done]
     print(f"{len(done)} cached, {len(todo)} to extract")
 
@@ -146,13 +162,27 @@ def main() -> None:
         return rec
 
     if todo:
+        recent: list[bool] = []
         with ThreadPoolExecutor(max_workers=a.workers) as ex:
-            for i, _ in enumerate(ex.map(extract, todo), 1):
+            for i, rec in enumerate(ex.map(extract, todo), 1):
+                recent.append(bool(rec.get("err")))
+                recent = recent[-50:]
                 if i % 100 == 0:
                     print(f"  {i}/{len(todo)}", flush=True)
+                # A backend that starts failing usually keeps failing. One run
+                # here went 0% failures for 60% of the corpus then 100% for the
+                # rest -- a mid-run outage misreported as a format error. Stop
+                # and say so rather than burning the remaining calls.
+                if len(recent) == 50 and sum(recent) >= 45:
+                    raise SystemExit(
+                        f"\naborting at {i}/{len(todo)}: 45+ of the last 50 calls "
+                        f"failed, which is a backend outage rather than bad input. "
+                        f"Progress is cached; re-run to resume.")
         for line in cache.read_text().splitlines():
             if line.strip():
-                r = json.loads(line); done[r["pid"]] = r
+                r = json.loads(line)
+                if not r.get("err"):
+                    done[r["pid"]] = r
 
     errs = [r for r in done.values() if r.get("err")]
     if errs:

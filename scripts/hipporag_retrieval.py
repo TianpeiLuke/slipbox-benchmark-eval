@@ -46,13 +46,21 @@ _STATE: dict = {}
 
 
 def _parse_ents(raw: str):
+    """As build_hipporag_index._parse: JSONDecodeError is not llm_call.Format,
+    so an unparseable reply must be converted or it escapes the retry handler."""
     m = re.search(r"\{.*\}", raw, re.S)
     if not m:
         raise llm_call.Format("no JSON object in output")
-    obj = json.loads(m.group(0))
-    if "named_entities" not in obj:
+    try:
+        obj = json.loads(m.group(0))
+    except json.JSONDecodeError as e:
+        raise llm_call.Format(f"malformed JSON: {e}") from None
+    if not isinstance(obj, dict) or "named_entities" not in obj:
         raise llm_call.Format("missing named_entities")
-    return obj["named_entities"]
+    val = obj["named_entities"]
+    if not isinstance(val, list):
+        raise llm_call.Format("named_entities is not a list")
+    return val
 
 
 def load(index_dir: Path) -> dict:
