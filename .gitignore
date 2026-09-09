@@ -48,3 +48,4 @@ experiments/output/*
 vaults/v1_baseline/
 # HippoRAG index holds LLM-extracted triples over benchmark passages
 experiments/runs11/hippo_slice/openie.jsonl
+vaults/v3c_short/
