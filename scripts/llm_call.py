@@ -36,6 +36,12 @@ TRANSPORT = re.compile(
     # was recorded as 579 "format" failures when a daily free limit had been hit
     # partway through. Match the envelope and the quota vocabulary directly.
     r"inference_cap_error|daily free limit|insufficient_quota|quota exceeded|"
+    # Billing exhaustion is transport too, and it is the nastiest case seen so
+    # far: "Insufficient balance. Your Cline Credits balance is $-0.04" begins
+    # with the same word as the refusal token, so an entire 954-question run was
+    # scored as 74% deliberate abstention when the provider had simply stopped.
+    r"insufficient balance|credits balance|credit balance|billing|"
+    r"payment required|out of credits|balance is too low|"
     r"error 429|\b429\b|\"error\"\s*:\s*\{", re.I)
 
 REFUSAL = re.compile(r"^\s*(i (can|cannot|can't|won't)|as an ai|sorry[,.]? i)", re.I)
