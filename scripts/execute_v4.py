@@ -153,6 +153,7 @@ def main() -> None:
 
     from collections import Counter
     ok = words = 0; kinds = Counter(); sample = {}
+    recent: list[bool] = []
     with ThreadPoolExecutor(max_workers=a.workers) as ex:
         for w, err in ex.map(one, todo):
             if err:
@@ -160,6 +161,16 @@ def main() -> None:
                 kinds[k] += 1; sample.setdefault(k, err)
             else:
                 ok += 1; words += w
+            # Stop when failure becomes the norm. A capped or dead backend keeps
+            # failing, and each failed call still costs the full timeout: one
+            # run ground for an hour at a daily-cap 429 before it was killed by
+            # hand. Progress is cached, so aborting costs nothing on resume.
+            recent.append(bool(err)); recent = recent[-30:]
+            if len(recent) == 30 and sum(recent) >= 27:
+                print(f"\naborting: {sum(recent)} of the last 30 calls failed "
+                      f"(e.g. {err}). Backend outage or quota cap -- re-run to resume.")
+                ex.shutdown(wait=False, cancel_futures=True)
+                break
     print(f"wrote {ok} notes, mean {words/ok if ok else 0:.0f} body words")
     if kinds:
         print("failures by KIND (transport means the model never ran):")
