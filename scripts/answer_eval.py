@@ -200,7 +200,46 @@ _COST = [0.0]
 _COST_LOCK = threading.Lock()
 
 
-BACKENDS = {"openai": ask_openai, "anthropic": ask_anthropic, "cline": ask_cline}
+_BEDROCK = None
+_BEDROCK_LOCK = threading.Lock()
+
+
+def ask_bedrock(system: str, user: str, model: str, max_tokens: int = 128) -> str:
+    """Claude via Amazon Bedrock in the buyer-abuse-rnd RnD account (178936618742).
+
+    Replaces the cline free-tier path: no daily cap. Authenticate first with
+    `ada credentials update --account 178936618742 --role MLexperiments
+    --provider conduit --once --profile buyer-abuse-rnd`. Uses the Converse API
+    so one call works across Claude model ids (e.g.
+    anthropic.claude-haiku-4-5-20251001-v1:0). Override the RnD defaults with
+    BEDROCK_PROFILE / AWS_REGION. A provider error surfaces as a botocore
+    exception here, not as a 200 body, so unlike cline it cannot be silently
+    scored.
+    """
+    import boto3
+    global _BEDROCK
+    if _BEDROCK is None:
+        with _BEDROCK_LOCK:
+            if _BEDROCK is None:
+                sess = boto3.Session(profile_name=os.environ.get("BEDROCK_PROFILE", "buyer-abuse-rnd"))
+                _BEDROCK = sess.client("bedrock-runtime",
+                                       region_name=os.environ.get("AWS_REGION", "us-east-1"))
+    # Answering wants temp 0 + a short cap (128). The note WRITER wants a higher
+    # cap (a note body is 300+ tokens, truncated at 128) and temp > 0 — a
+    # build-noise floor is meaningless at temp 0, where two builds are identical.
+    # Both are set per-run via env, so one backend serves reader and writer.
+    mt = int(os.environ.get("BEDROCK_MAX_TOKENS", str(max_tokens)))
+    temp = float(os.environ.get("BEDROCK_TEMPERATURE", "0"))
+    r = _BEDROCK.converse(
+        modelId=model,
+        system=[{"text": system}],
+        messages=[{"role": "user", "content": [{"text": user}]}],
+        inferenceConfig={"maxTokens": mt, "temperature": temp})
+    return "".join(b.get("text", "") for b in r["output"]["message"]["content"]).strip()
+
+
+BACKENDS = {"openai": ask_openai, "anthropic": ask_anthropic,
+            "cline": ask_cline, "bedrock": ask_bedrock}
 
 
 # ---------------------------------------------------------------- context

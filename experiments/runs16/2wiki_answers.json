@@ -1,0 +1,68 @@
+{
+  "arms": {
+    "hybrid": {
+      "n_entity": 180,
+      "entity": 0.45555555555555555,
+      "n_polarity": 20,
+      "polarity": 0.55,
+      "macro": 0.5027777777777778,
+      "refused": 0.405,
+      "abstain_null": NaN,
+      "units": 20.21,
+      "n_failed": 0
+    },
+    "hipporag": {
+      "n_entity": 180,
+      "entity": 0.6444444444444445,
+      "n_polarity": 20,
+      "polarity": 0.55,
+      "macro": 0.5972222222222223,
+      "refused": 0.225,
+      "abstain_null": NaN,
+      "units": 14.19,
+      "n_failed": 0
+    },
+    "_majority": {
+      "n_entity": 180,
+      "entity": 0.016666666666666666,
+      "n_polarity": 20,
+      "polarity": 0.8,
+      "macro": 0.4083333333333334,
+      "refused": 0.0,
+      "abstain_null": NaN,
+      "units": 20.21,
+      "n_failed": 0
+    }
+  },
+  "comparisons": {
+    "hybrid:hipporag": {
+      "entity": {
+        "n": 180,
+        "delta": 0.18888888888888888,
+        "ci": [
+          0.12222222222222222,
+          0.25555555555555554
+        ],
+        "significant": true
+      },
+      "polarity": {
+        "n": 20,
+        "delta": 0.0,
+        "ci": [
+          -0.15,
+          0.15
+        ],
+        "significant": false
+      },
+      "both": {
+        "n": 200,
+        "delta": 0.17,
+        "ci": [
+          0.11,
+          0.23
+        ],
+        "significant": true
+      }
+    }
+  }
+}
