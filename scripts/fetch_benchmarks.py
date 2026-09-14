@@ -39,68 +39,11 @@ ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "raw"
 MANIFEST = ROOT / "data" / "manifest.json"
 
-# license is recorded because derived notes inherit it -- see LICENSE
-SOURCES: dict[str, dict] = {
-    # PRIMARY. Chosen because its document sizes land where our note-writing
-    # pipeline actually operates, and because corpus and queries ship as
-    # SEPARATE files -- quarantine is a matter of not reading one of them,
-    # rather than of de-duplicating questions out of the corpus.
-    "multihop_rag": {
-        "name": "MultiHop-RAG (news, 609 docs / 2,556 queries)",
-        "license": "ODC-BY-1.0",
-        "homepage": "https://github.com/yixuantt/MultiHop-RAG",
-        "paper": "Tang & Yang, 2024, arXiv:2401.15391",
-        "files": {
-            "corpus.json":
-                "https://huggingface.co/datasets/yixuantt/MultiHopRAG/resolve/main/corpus.json",
-            "MultiHopRAG.json":
-                "https://huggingface.co/datasets/yixuantt/MultiHopRAG/resolve/main/MultiHopRAG.json",
-        },
-        "note": "corpus.json is the ONLY file an ingesting agent may read. "
-                "MultiHopRAG.json holds the questions and their gold evidence.",
-    },
-    "musique": {
-        "name": "MuSiQue (answerable)",
-        "license": "CC BY 4.0",
-        "homepage": "https://github.com/StonyBrookNLP/musique",
-        "paper": "Trivedi et al., TACL 2022, arXiv:2108.00573",
-        "files": {
-            "musique_ans_v1.0_dev.jsonl":
-                "https://huggingface.co/datasets/dgslibisey/MuSiQue/resolve/main/musique_ans_v1.0_dev.jsonl",
-        },
-    },
-    "2wiki": {
-        "name": "2WikiMultiHopQA",
-        "license": "Apache-2.0",
-        "homepage": "https://github.com/Alab-NII/2wikimultihop",
-        "paper": "Ho et al., COLING 2020",
-        "files": {
-            "dev.parquet":
-                "https://huggingface.co/datasets/xanhho/2WikiMultihopQA/resolve/main/dev.parquet",
-        },
-    },
-    "hotpotqa": {
-        "name": "HotpotQA (distractor dev)",
-        "license": "CC BY-SA 4.0  (share-alike -- derived notes inherit this)",
-        "homepage": "https://hotpotqa.github.io/",
-        "paper": "Yang et al., EMNLP 2018, arXiv:1809.09600",
-        "files": {
-            "validation-00000-of-00001.parquet":
-                "https://huggingface.co/datasets/hotpotqa/hotpot_qa/resolve/main/distractor/validation-00000-of-00001.parquet",
-        },
-    },
-    "narrativeqa": {
-        "name": "NarrativeQA",
-        "license": "Apache-2.0 (annotations); source texts have their own terms",
-        "homepage": "https://github.com/google-deepmind/narrativeqa",
-        "paper": "Kocisky et al., TACL 2018, arXiv:1712.07040",
-        "files": {
-            "test-00000-of-00008.parquet":
-                "https://huggingface.co/datasets/deepmind/narrativeqa/resolve/main/data/test-00000-of-00008.parquet",
-        },
-        "note": "Full novel texts are NOT redistributed; fetch via the upstream script if needed.",
-    },
-}
+# The registry moved to benchmarks/registry.py so a dataset is one typed record
+# rather than a dict literal buried in a script. SOURCES is re-exported there for
+# back-compat, so everything below is unchanged.
+sys.path.insert(0, str(ROOT))
+from benchmarks.registry import REGISTRY, SOURCES, check_registry  # noqa: E402
 
 
 def sha256(p: Path) -> str:
@@ -139,12 +82,29 @@ def main() -> None:
     ap.add_argument("slugs", nargs="*")
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--list", action="store_true")
+    ap.add_argument("--check", action="store_true",
+                    help="report where the registry and the manifest disagree")
     a = ap.parse_args()
 
+    if a.check:
+        manifest = json.loads(MANIFEST.read_text()) if MANIFEST.exists() else {}
+        problems = check_registry(manifest)
+        if not problems:
+            print(f"registry and manifest agree ({len(SOURCES)} dataset(s))")
+            return
+        print(f"{len(problems)} inconsistency(ies):")
+        for line in problems:
+            print(f"  - {line}")
+        sys.exit(1)
+
     if a.list or (not a.slugs and not a.all):
-        print(f"{'slug':<14}{'license':<42}{'name'}")
-        for s, v in SOURCES.items():
-            print(f"{s:<14}{v['license']:<42}{v['name']}")
+        print(f"{'slug':<14}{'task':<15}{'gold form':<17}{'name'}")
+        for slug, spec in REGISTRY.items():
+            print(f"{slug:<14}{spec.task_kind:<15}{spec.gold_form:<17}{spec.name}")
+        print()
+        print("gold form governs comparability: a document_set result must not be")
+        print("compared against a span result -- document-level credit inflated a")
+        print("note arm ~10x more than a chunk arm on this corpus.")
         print("\nNothing under data/raw/ is ever committed (see .gitignore).")
         print("Derived notes inherit their corpus license (see LICENSE).")
         return
