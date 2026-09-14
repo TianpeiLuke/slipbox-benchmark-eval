@@ -237,9 +237,12 @@ register(BenchmarkSpec(
     homepage="https://iccma2023.github.io",
     paper="Jarvisalo, Lehtonen & Niskanen, Arg&App 2023, CEUR Vol-3472",
     files={
-        # Zenodo 10.5281/zenodo.8348039 -- ~1.3 GB, resolved at fetch time.
+        # Zenodo 10.5281/zenodo.8348039. Verified against the record's file
+        # listing: iccma2023_benchmarks.zip is 851.8 MB (the sibling
+        # iccma2023_results.zip, 448.4 MB, holds the solver outputs and is only
+        # needed to compare PAR-2 against the competing solvers).
         "iccma2023_benchmarks.zip":
-            "https://zenodo.org/records/8348039/files/benchmarks.zip",
+            "https://zenodo.org/records/8348039/files/iccma2023_benchmarks.zip",
     },
     task_kind="af_solving",
     gold_form="graph_labelling",

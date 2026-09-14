@@ -4,7 +4,12 @@
   "license": "CC BY-SA 4.0  (share-alike -- derived notes inherit this)",
   "homepage": "https://hotpotqa.github.io/",
   "paper": "Yang et al., EMNLP 2018, arXiv:1809.09600",
-  "files": {}
+  "files": {
+   "validation-00000-of-00001.parquet": {
+    "bytes": 27452575,
+    "sha256": "c20b638ca82b21d04fe12e14ff417ad05153d4d215a65de54497fca4e972f7c6"
+   }
+  }
  },
  "musique": {
   "name": "MuSiQue (answerable)",
@@ -43,6 +48,30 @@
    "MultiHopRAG.json": {
     "bytes": 5171312,
     "sha256": "03cfb4926461f868684903aadc8024447bdda5bb3f6804741424cce338515bff"
+   }
+  }
+ },
+ "narrativeqa": {
+  "name": "NarrativeQA",
+  "license": "Apache-2.0 (annotations); source texts have their own terms",
+  "homepage": "https://github.com/google-deepmind/narrativeqa",
+  "paper": "Kocisky et al., TACL 2018, arXiv:1712.07040",
+  "files": {
+   "test-00000-of-00008.parquet": {
+    "bytes": 8559262,
+    "sha256": "638fe830caab599fd40333b5c6783a83e12e431de35c9dde730d329596456f66"
+   }
+  }
+ },
+ "iccma2023": {
+  "name": "ICCMA 2023 abstract-argumentation instances",
+  "license": "see Zenodo record (competition instances)",
+  "homepage": "https://iccma2023.github.io",
+  "paper": "Jarvisalo, Lehtonen & Niskanen, Arg&App 2023, CEUR Vol-3472",
+  "files": {
+   "iccma2023_benchmarks.zip": {
+    "bytes": 851774875,
+    "sha256": "41d6ada910faa76147cdfd920e11a62792f49e9f8dce7be11bde076d00546895"
    }
   }
  }
