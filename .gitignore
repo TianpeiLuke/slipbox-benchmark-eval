@@ -57,3 +57,4 @@ vaults/v3_dsB/
 # Run registry: manifests and metrics ARE committed; large artefacts are not.
 runs/**/predictions.jsonl
 runs/**/log.txt
+data/metrics.db
