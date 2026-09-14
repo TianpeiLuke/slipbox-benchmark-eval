@@ -80,6 +80,7 @@ class RunResult:
     manifest_path: Path
     metrics_path: Path
     metrics: dict
+    per_question_path: Path | None = None
 
 
 def _score_retrieval(
@@ -100,6 +101,13 @@ def _score_retrieval(
         b: {"recall": [], "all_recall": []} for b in budgets
     }
     by_stratum: dict[str, dict[int, list[float]]] = {}
+    # Per-question scores, aligned with `qids`. Committed, not derived: a paired
+    # bootstrap needs the per-item series, and an aggregate mean cannot produce
+    # one. The tie between the note and chunk arms was only findable because the
+    # legacy files happened to keep these -- so keeping them is the difference
+    # between a reanalysable run and a dead number.
+    per_question: dict[str, list[float]] = {}
+    qids: list[str] = []
     predictions: list[dict] = []
     refused: list[bool] = []
     answerable: list[bool] = []
@@ -126,6 +134,7 @@ def _score_retrieval(
             # abstention instead.
             continue
         n_answerable += 1
+        qids.append(q.query_id)
         gold = set(g.at(gold_form))
 
         for k in ks:
@@ -136,11 +145,17 @@ def _score_retrieval(
             per_k[k]["hits"].append(hits_at_k(ranked, gold, k))
             per_k[k]["map"].append(map_at_k(ranked, gold, k))
             by_stratum.setdefault(q.stratum, {}).setdefault(k, []).append(r)
+            per_question.setdefault(f"recall@k{k}", []).append(r)
+            per_question.setdefault(f"all_recall@k{k}", []).append(
+                per_k[k]["all_recall"][-1]
+            )
 
         for b in budgets:
             r, a = recall_at_budget(ranked, gold, b, words)
             per_b[b]["recall"].append(r)
             per_b[b]["all_recall"].append(a)
+            per_question.setdefault(f"recall@b{b}", []).append(r)
+            per_question.setdefault(f"all_recall@b{b}", []).append(a)
 
     def mean(xs: list[float]) -> float:
         return sum(xs) / len(xs) if xs else float("nan")
@@ -163,7 +178,7 @@ def _score_retrieval(
 
     flat["n_answerable"] = float(n_answerable)
     flat["n_queries"] = float(len(predictions))
-    return flat, predictions
+    return flat, predictions, {"qids": qids, "scores": per_question}
 
 
 def run(
@@ -194,7 +209,7 @@ def run(
     assert_quarantine_respected(adapter, getattr(system, "files_read", lambda: ())())
 
     # Stage 3-4: retrieve and score.
-    flat, predictions = _score_retrieval(
+    flat, predictions, per_q = _score_retrieval(
         adapter, system, ks, budgets, gf, topk
     )
 
@@ -225,12 +240,20 @@ def run(
     metrics_path = d / "metrics.json"
     metrics_path.write_text(json.dumps(flat, indent=1, sort_keys=True) + "\n")
 
+    # Per-question scores are COMMITTED. They are the only artefact from which a
+    # paired interval can be recomputed, and the design mandates paired intervals,
+    # so discarding them would make the requirement unmeetable. Cost is small: one
+    # float per question per metric.
+    per_question_path = d / "per_question.json"
+    per_question_path.write_text(json.dumps(per_q, separators=(",", ":")) + "\n")
+
     if write_predictions:
         with (d / "predictions.jsonl").open("w") as f:
             for row in predictions:
                 f.write(json.dumps(row) + "\n")
 
-    return RunResult(m.run_id, manifest_path, metrics_path, flat)
+    return RunResult(m.run_id, manifest_path, metrics_path, flat,
+                     per_question_path=per_question_path)
 
 
 def _dataset_checksums(slug: str) -> dict[str, str]:
