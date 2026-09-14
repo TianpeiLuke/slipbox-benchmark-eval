@@ -1,0 +1,45 @@
+{
+ "run_id": "3d9ffe62a7e5f455",
+ "schema_version": 1,
+ "system": "degall-graph_hybrid",
+ "arm_config": {
+  "arm": "degall",
+  "strategy": "graph_hybrid",
+  "variant": null,
+  "vault": "vaults/v_degall",
+  "strategies_present": [
+   "graph_hybrid"
+  ],
+  "legacy_path": "experiments/runs4/degall_graph_hybrid.json",
+  "legacy_run_dir": "runs4",
+  "subset": "full"
+ },
+ "metric_set": [
+  "recall@k",
+  "all_recall@k",
+  "recall@budget",
+  "all_recall@budget"
+ ],
+ "code": {
+  "git_sha": "ddef10bcbcb0086afbc4feac08d29b079dff9e5f",
+  "dirty": false,
+  "repo": "slipbox-benchmark-eval"
+ },
+ "data": {
+  "benchmark": "multihop_rag",
+  "file_sha256": {
+   "corpus.json": "20b61b5ab84de84a927420c5d265b7ec8d859ae49980699958a787ade9e4d28f",
+   "MultiHopRAG.json": "03cfb4926461f868684903aadc8024447bdda5bb3f6804741424cce338515bff"
+  },
+  "gold_form": "document_set"
+ },
+ "env": {
+  "python": "unknown",
+  "platform": "unknown",
+  "packages": {},
+  "nondeterministic_components": []
+ },
+ "created_at": "2026-09-02T22:08:29-07:00",
+ "provenance": "reconstructed",
+ "notes": "Backfilled from experiments/ by runs.backfill. Arm and strategy recovered from the filename; benchmark inferred from the 2,255-question answerable count; commit is the last one to touch the file. The exact config, environment and dirty state are NOT recoverable and are left empty."
+}

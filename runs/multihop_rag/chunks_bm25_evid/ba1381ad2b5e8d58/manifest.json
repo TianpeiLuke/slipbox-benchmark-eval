@@ -1,0 +1,45 @@
+{
+ "run_id": "ba1381ad2b5e8d58",
+ "schema_version": 1,
+ "system": "chunks_bm25_evid",
+ "arm_config": {
+  "arm": "chunks_bm25_evid",
+  "strategy": null,
+  "variant": null,
+  "vault": "data/chunks/multihop_rag",
+  "strategies_present": [
+   "bm25"
+  ],
+  "legacy_path": "experiments/runs3/chunks_bm25_evid.json",
+  "legacy_run_dir": "runs3",
+  "subset": "full"
+ },
+ "metric_set": [
+  "recall@k",
+  "all_recall@k",
+  "recall@budget",
+  "all_recall@budget"
+ ],
+ "code": {
+  "git_sha": "9e64d2454d189ec3cfd3994762a313e8eae80e19",
+  "dirty": false,
+  "repo": "slipbox-benchmark-eval"
+ },
+ "data": {
+  "benchmark": "multihop_rag",
+  "file_sha256": {
+   "corpus.json": "20b61b5ab84de84a927420c5d265b7ec8d859ae49980699958a787ade9e4d28f",
+   "MultiHopRAG.json": "03cfb4926461f868684903aadc8024447bdda5bb3f6804741424cce338515bff"
+  },
+  "gold_form": "document_set"
+ },
+ "env": {
+  "python": "unknown",
+  "platform": "unknown",
+  "packages": {},
+  "nondeterministic_components": []
+ },
+ "created_at": "2026-09-02T20:38:15-07:00",
+ "provenance": "reconstructed",
+ "notes": "Backfilled from experiments/ by runs.backfill. Arm and strategy recovered from the filename; benchmark inferred from the 2,255-question answerable count; commit is the last one to touch the file. The exact config, environment and dirty state are NOT recoverable and are left empty."
+}

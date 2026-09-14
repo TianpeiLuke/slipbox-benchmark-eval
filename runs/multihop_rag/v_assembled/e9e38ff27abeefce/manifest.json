@@ -1,0 +1,46 @@
+{
+ "run_id": "e9e38ff27abeefce",
+ "schema_version": 1,
+ "system": "v_assembled",
+ "arm_config": {
+  "arm": "v_assembled",
+  "strategy": null,
+  "variant": null,
+  "vault": "vaults/v_assembled",
+  "strategies_present": [
+   "bm25",
+   "hybrid"
+  ],
+  "legacy_path": "experiments/runs7/v_assembled.json",
+  "legacy_run_dir": "runs7",
+  "subset": "slice_37doc"
+ },
+ "metric_set": [
+  "recall@k",
+  "all_recall@k",
+  "recall@budget",
+  "all_recall@budget"
+ ],
+ "code": {
+  "git_sha": "94dec24bc1889a2b1839cc91bee610cd01aa45bf",
+  "dirty": false,
+  "repo": "slipbox-benchmark-eval"
+ },
+ "data": {
+  "benchmark": "multihop_rag",
+  "file_sha256": {
+   "corpus.json": "20b61b5ab84de84a927420c5d265b7ec8d859ae49980699958a787ade9e4d28f",
+   "MultiHopRAG.json": "03cfb4926461f868684903aadc8024447bdda5bb3f6804741424cce338515bff"
+  },
+  "gold_form": "document_set"
+ },
+ "env": {
+  "python": "unknown",
+  "platform": "unknown",
+  "packages": {},
+  "nondeterministic_components": []
+ },
+ "created_at": "2026-09-04T11:29:56-07:00",
+ "provenance": "reconstructed",
+ "notes": "Backfilled from experiments/ by runs.backfill. Arm and strategy recovered from the filename; benchmark inferred from the 2,255-question answerable count; commit is the last one to touch the file. The exact config, environment and dirty state are NOT recoverable and are left empty."
+}

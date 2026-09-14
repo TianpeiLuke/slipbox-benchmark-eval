@@ -185,3 +185,46 @@ def test_abstaining_on_unanswerable_is_scored_as_correct() -> None:
     assert m["answered_unanswerable"] == 1.0
     assert m["correctly_attempted"] == 1.0
     assert m["abstain_precision"] == pytest.approx(0.5)
+
+
+# ── What the registry surfaced that the hand-written summary did not ──────────
+
+
+def _paired_delta(arm_path: str, ref_path: str, budget: str = "2048") -> float:
+    """Mean paired difference in Recall@budget, arm minus reference."""
+    def cell(rel: str) -> list[float]:
+        p = ROOT / "experiments" / f"{rel}.json"
+        if not p.exists():
+            pytest.skip(f"{rel} not present")
+        d = json.loads(p.read_text())
+        return d["strategies"]["bm25"]["budget"][budget]["recall"]
+
+    arm, ref = cell(arm_path), cell(ref_path)
+    assert len(arm) == len(ref), "arms must be scored on the same question set"
+    return sum(a - b for a, b in zip(arm, ref)) / len(arm)
+
+
+def test_the_headline_loss_is_against_the_ORIGINAL_note_vault() -> None:
+    """RESULTS.md's -0.155 is real, and it is specific to the runs2 vault."""
+    assert _paired_delta("runs2/notes_bm25", "runs2/chunks_bm25") < -0.10
+
+
+@pytest.mark.parametrize("arm", ["runs6/notes_noscaffold", "runs6/notes_expanded"])
+def test_improved_note_vaults_are_NOT_a_loss_against_chunks(arm: str) -> None:
+    """The correction the run registry surfaced.
+
+    Putting runs2 and runs6 in one table -- which no hand-written summary had
+    done -- shows the headline "chunks win at every budget" is true of the
+    ORIGINAL note vault and not of the improved variants. After the
+    scaffolding-exclusion fix, notes reach 0.736-0.742 against chunks' 0.732:
+    a tie, not a 0.155 loss. Paired bootstrap over the 2,255 shared questions
+    puts both deltas' CIs across zero, so the honest claim is
+    indistinguishable, in BOTH directions -- these arms do not beat chunks
+    either.
+    """
+    delta = _paired_delta(arm, "runs2/chunks_bm25")
+    assert delta > -0.02, f"{arm} should not be a large loss, got {delta:+.4f}"
+    assert delta < 0.05, (
+        f"{arm} should not be claimed as a win either, got {delta:+.4f}; "
+        "the measured CI crosses zero"
+    )
