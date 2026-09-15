@@ -4,6 +4,7 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 
 from benchmarks.adapters.twowiki import TwoWikiAdapter
+from benchmarks.systems import PooledBm25System
 
 
 def _write_release(path):
@@ -55,3 +56,11 @@ def test_twowiki_subsample_is_deterministic_and_zero_is_empty(tmp_path):
     assert [q.query_id for q in TwoWikiAdapter(tmp_path, subsample=1).queries()] == ["q0"]
     assert list(TwoWikiAdapter(tmp_path, subsample=0).queries()) == []
     assert [q.query_id for q in TwoWikiAdapter(tmp_path, subsample=None).queries()] == ["q0", "q1"]
+
+
+def test_committed_bm25_system_uses_only_ingested_passages(tmp_path):
+    _write_release(tmp_path)
+    system = PooledBm25System(tmp_path / "index.db")
+    system.ingest(TwoWikiAdapter(tmp_path, subsample=1).corpus())
+    assert system.retrieve("Alpha city", 2)[0][0] == "Alpha"
+    assert system.unit_words()["Alpha"] == 7
