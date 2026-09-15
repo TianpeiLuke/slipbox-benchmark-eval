@@ -56,6 +56,14 @@ over BM25 reproduces too: **+0.231 here against the paper's +0.276** (our BM25 i
 a little stronger because the corpus is a 1,485-passage subsample rather than
 the full 6,119).
 
+The newer 1,000-question pooled adapter is a separate protocol check. Its earlier
+run was created from a dirty tree and is not authoritative. A clean-tree rerun is
+recorded as `bm25-pooled-passages-clean/08c12e7b4da3a540`; it is reproducible but
+returned Recall@5 **0.592**, so the full pooled BM25 number does not yet reproduce
+the paper's 0.619 reference. The 200-question / 1,485-passage comparison above
+remains the validated reproduction; the full-pool discrepancy is now an explicit
+follow-up rather than a claimed calibration.
+
 **So the implementation is correct, and the MultiHop-RAG result is a fact about
 that corpus rather than a bug.** Same code, same hyperparameters, same encoder:
 it wins by 23 points on an entity-bridge benchmark and loses by 19 on a
