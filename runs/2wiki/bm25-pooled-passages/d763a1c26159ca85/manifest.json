@@ -1,0 +1,84 @@
+{
+ "run_id": "d763a1c26159ca85",
+ "schema_version": 1,
+ "system": "bm25-pooled-passages",
+ "arm_config": {
+  "scorer": "bm25",
+  "k1": 1.2,
+  "b": 0.75,
+  "unit": "pooled_passage",
+  "protocol": "hipporag_pooled_corpus",
+  "subset": "pooled_1000q",
+  "ks": [
+   2,
+   5,
+   10
+  ],
+  "budgets": [
+   2048
+  ],
+  "topk": 10,
+  "gold_form_scored": "passage"
+ },
+ "metric_set": [
+  "abstain_f1",
+  "abstain_precision",
+  "abstain_recall",
+  "all_recall@b2048",
+  "all_recall@k10",
+  "all_recall@k2",
+  "all_recall@k5",
+  "answered_unanswerable",
+  "correct_abstentions",
+  "correctly_attempted",
+  "hits@k10",
+  "hits@k2",
+  "hits@k5",
+  "map@k10",
+  "map@k2",
+  "map@k5",
+  "mrr@k10",
+  "mrr@k2",
+  "mrr@k5",
+  "n_answerable",
+  "n_queries",
+  "recall@b2048",
+  "recall@k10",
+  "recall@k10/bridge_comparison",
+  "recall@k10/comparison",
+  "recall@k10/compositional",
+  "recall@k10/inference",
+  "recall@k2",
+  "recall@k2/bridge_comparison",
+  "recall@k2/comparison",
+  "recall@k2/compositional",
+  "recall@k2/inference",
+  "recall@k5",
+  "recall@k5/bridge_comparison",
+  "recall@k5/comparison",
+  "recall@k5/compositional",
+  "recall@k5/inference",
+  "wrongly_refused_answerable"
+ ],
+ "code": {
+  "git_sha": "1356cada18f9c4f41be3fb1c2ae5b570ac82dad9",
+  "dirty": true,
+  "repo": "slipbox-benchmark-eval"
+ },
+ "data": {
+  "benchmark": "2wiki",
+  "file_sha256": {
+   "dev.parquet": "c0d8b60b9026b728fb07ad74c5252a0f188f6942e8ba5c02df4dfa369502ea8d"
+  },
+  "gold_form": "passage"
+ },
+ "env": {
+  "python": "3.12.13",
+  "platform": "Linux-6.12.103-127.188.amzn2023.x86_64-x86_64-with-glibc2.34",
+  "packages": {},
+  "nondeterministic_components": []
+ },
+ "created_at": "2026-09-15T03:49:04+00:00",
+ "provenance": "first_class",
+ "notes": "BM25 calibration arm: does our harness reproduce the published BM25 baseline on the HippoRAG pooled protocol? No model involved."
+}
