@@ -1,5 +1,5 @@
 {
- "run_id": "08c12e7b4da3a540",
+ "run_id": "6bc93a63509efc8f",
  "schema_version": 1,
  "system": "bm25-pooled-passages-clean",
  "arm_config": {
@@ -61,7 +61,7 @@
   "wrongly_refused_answerable"
  ],
  "code": {
-  "git_sha": "2ed3d3f14ef2da2ef93aa8742ebd0b075057cb24",
+  "git_sha": "440f0f7c888b03cd2d9d9943749a989a299f0712",
   "dirty": false,
   "repo": "slipbox-benchmark-eval"
  },
@@ -78,7 +78,7 @@
   "packages": {},
   "nondeterministic_components": []
  },
- "created_at": "2026-09-15T05:32:07+00:00",
+ "created_at": "2026-09-15T05:35:12+00:00",
  "provenance": "first_class",
- "notes": "Clean-tree BM25 calibration for the HippoRAG pooled 2Wiki protocol"
+ "notes": "Committed clean-tree BM25 calibration for the HippoRAG pooled 2Wiki protocol"
 }

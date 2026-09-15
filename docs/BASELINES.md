@@ -58,7 +58,7 @@ the full 6,119).
 
 The newer 1,000-question pooled adapter is a separate protocol check. Its earlier
 run was created from a dirty tree and is not authoritative. A clean-tree rerun is
-recorded as `bm25-pooled-passages-clean/08c12e7b4da3a540`; it is reproducible but
+recorded as `bm25-pooled-passages-clean/6bc93a63509efc8f`; it is reproducible but
 returned Recall@5 **0.592**, so the full pooled BM25 number does not yet reproduce
 the paper's 0.619 reference. The 200-question / 1,485-passage comparison above
 remains the validated reproduction; the full-pool discrepancy is now an explicit
