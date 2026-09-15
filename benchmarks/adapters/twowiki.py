@@ -77,7 +77,9 @@ class TwoWikiAdapter:
                     row[field] = json.loads(value)
         # Deterministic prefix rather than a random sample: a seeded sample would
         # have to be recorded to be reproducible, and the release order is fixed.
-        return rows[: self.subsample] if self.subsample else rows
+        # ``None`` means use the complete release; zero is a valid empty
+        # subsample and should not silently turn into "all rows".
+        return rows[: self.subsample] if self.subsample is not None else rows
 
     # ── Corpus: pooled across the subsample, keyed by title ───────────────────
 

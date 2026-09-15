@@ -166,6 +166,31 @@ def _table(panels: list[tuple[str, list[dict]]]) -> str:
             + "".join(body) + "</tbody></table>")
 
 
+def _validation_table(con: sqlite3.Connection, bench: str, subset: str) -> str:
+    """Render non-retrieval validation cells without implying a leaderboard."""
+    rows = con.execute(
+        "SELECT DISTINCT system, metric, value, run_id FROM metrics "
+        "WHERE benchmark=? AND subset=? AND metric IN "
+        "('soundness_rate', 'groundedness_rate', 'solve_total_seconds', "
+        "'check_total_seconds') ORDER BY system, metric",
+        (bench, subset),
+    ).fetchall()
+    if not rows:
+        return '<p class="empty">No validation metrics in this cell.</p>'
+    body = "".join(
+        f"<tr><th scope=row><code>{html.escape(r['system'])}</code></th>"
+        f"<td>{html.escape(r['metric'])}</td><td>{r['value']:.6g}</td>"
+        f"<td><code>{r['run_id']}</code></td></tr>" for r in rows
+    )
+    return (
+        '<table><caption>Structural solver validation — not agreement with '
+        'published reference labels</caption><thead><tr>'
+        '<th scope=col>system</th><th scope=col>metric</th>'
+        '<th scope=col>value</th><th scope=col>run</th></tr></thead>'
+        f'<tbody>{body}</tbody></table>'
+    )
+
+
 LEGEND = "".join(
     f'<span class="key"><span class="swatch s{slot}"></span>{label}</span>'
     for _, slot, label in FAMILIES
@@ -273,6 +298,14 @@ renders only what was measured makes the gap invisible.</p></div>""")
 
     for cell in all_cells:
         bench, subset, gf = cell["benchmark"], cell["subset"], cell["gold_form"]
+        if gf == "graph_labelling":
+            parts.append(f"""<h2>{html.escape(bench)} · {html.escape(subset)}</h2>
+<p class="note">Gold form <code>graph_labelling</code>. This is structural
+solver validation: it checks grounded-semantics invariants and minimality. It is
+not agreement against published labels, because this benchmark edition has no
+grounded reference track.</p>
+{_validation_table(con, bench, subset)}""")
+            continue
         panel_rows: list[tuple[str, list[dict]]] = []
         blocks: list[str] = []
 
