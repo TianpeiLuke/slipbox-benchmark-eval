@@ -9,9 +9,11 @@ retrieval number here is document-level — which is the credit granularity meas
 to inflate a note arm about ten times more than a chunk arm. This adapter exposes
 both, so a scorer can ask for span-level credit and get it.
 
-Documents are keyed by URL. The corpus has no id field, and URL is the only value
-that also appears in every evidence item, so it is the join key by necessity
-rather than by preference.
+The upstream corpus has no stable id field, while evidence items carry URLs. The
+adapter assigns deterministic `doc_0000`-style ids in corpus order and uses the
+same URL→id map for corpus documents and gold. This matches the `source_docs`
+contract used by the prepared note vaults and prevents a retrieval arm from
+returning one identifier space while gold is scored in another.
 """
 
 from __future__ import annotations
@@ -44,14 +46,25 @@ class MultiHopRagAdapter:
         self.root = Path(root) if root else RAW
         self._read: list[Path] = []
 
+    @cached_property
+    def _corpus_records(self) -> list[dict]:
+        path = self.root / "corpus.json"
+        self._read.append(path)
+        return json.loads(path.read_text())
+
+    @cached_property
+    def _url_to_doc_id(self) -> dict[str, str]:
+        return {
+            rec["url"]: f"doc_{i:04d}"
+            for i, rec in enumerate(self._corpus_records)
+        }
+
     # ── Corpus: the only thing a system under test may see ────────────────────
 
     def corpus(self) -> Iterator[Document]:
-        path = self.root / "corpus.json"
-        self._read.append(path)
-        for rec in json.loads(path.read_text()):
+        for rec in self._corpus_records:
             yield Document(
-                doc_id=rec["url"],
+                doc_id=self._url_to_doc_id[rec["url"]],
                 text=rec["body"],
                 title=rec.get("title", ""),
                 metadata={
@@ -84,7 +97,11 @@ class MultiHopRagAdapter:
             evidence = rec.get("evidence_list") or []
             out[qid] = Gold(
                 query_id=qid,
-                documents=frozenset(e["url"] for e in evidence if e.get("url")),
+                documents=frozenset(
+                    self._url_to_doc_id[e["url"]]
+                    for e in evidence
+                    if e.get("url") in self._url_to_doc_id
+                ),
                 # The field the old harness threw away.
                 facts=tuple(e["fact"] for e in evidence if e.get("fact")),
                 answers=(rec["answer"],) if rec.get("answer") else (),

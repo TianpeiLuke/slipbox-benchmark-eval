@@ -6,7 +6,7 @@ All retrieval metrics are computed without an LLM judge; the answer stage uses t
 share of queries where **all** gold passages were retrieved (the multi-source metric).
 2,255 answerable questions for retrieval; 200 for the answer stage.*
 
-## Headline
+## Legacy original-vault headline
 
 **On MultiHop-RAG, at matched token budget, the typed-atomic-note + link-graph
 representation does not beat chunk RAG — for retrieval or for answering — and the
@@ -14,6 +14,21 @@ graph arm actively hurts.** The notes representation wins only when the comparis
 is matched on *k* (number of units), which is the invalid comparison the project
 was explicitly built to avoid. This is a clean negative result for the central
 hypothesis (H2), and it is the number the repo exists to produce.
+
+That headline applies to the original `notes_bm25` / `notes_hybrid` vaults in
+`runs2`; it must not be generalized to every vault variant. The later registry
+backfill and paired per-question analysis found that the scaffolding-excluded and
+expanded variants are ties with chunking at the same 2048-token budget:
+
+| note arm vs `chunks_bm25` | delta Recall@2048 | 95% CI | verdict |
+| --- | ---: | --- | --- |
+| `notes_bm25` (original) | −0.1553 | [−0.168, −0.142] | significant loss |
+| `notes_noscaffold` | +0.0039 | [−0.008, +0.016] | tie |
+| `notes_expanded` | +0.0102 | [−0.002, +0.022] | tie |
+
+The corrected interpretation is: the original vault loses, while the repaired
+variants are statistically indistinguishable from chunking on this corpus.
+Neither variant establishes an advantage.
 
 ## The methodological crux: k vs. token budget
 

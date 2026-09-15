@@ -86,6 +86,18 @@ def test_adapter_exposes_the_fact_strings_the_old_harness_discarded() -> None:
     assert len(answerable[0].at("span")) == len(answerable[0].facts)
 
 
+@pytest.mark.skipif(not RAW.exists(), reason="multihop_rag not fetched")
+def test_adapter_uses_the_vault_document_id_namespace() -> None:
+    """Corpus and gold must share the doc_#### ids used by source_docs."""
+    from benchmarks.adapters.multihop_rag import MultiHopRagAdapter
+
+    a = MultiHopRagAdapter()
+    first = next(a.corpus())
+    assert first.doc_id.startswith("doc_")
+    evidence = next(g for g in (a.gold(q.query_id) for q in a.queries()) if g.answerable)
+    assert all(doc_id.startswith("doc_") for doc_id in evidence.documents)
+
+
 def test_span_gold_is_an_error_when_the_release_lacks_facts() -> None:
     g = Gold(query_id="q", documents=frozenset({"d1"}))
     assert g.at("document_set") == frozenset({"d1"})
