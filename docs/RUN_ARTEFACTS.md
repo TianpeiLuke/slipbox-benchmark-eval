@@ -116,8 +116,14 @@ rebuilt with `python3 -m metrics.store --rebuild`).
 The line is drawn at reanalysis. Anything needed to recompute a number or an interval
 is committed; anything needed only to debug a single query is regenerable.
 
-One known gap: Tessellum's own MultiHop-RAG working directory (~40 MB of vaults and
-indices) is untracked in its repo, so the single external run against it exists on one
-machine. Whatever policy that repo adopts, this one at least makes the state visible —
-a manifest with a dirty flag and no committed per-question file is legible as
-"not reproducible" rather than passing silently.
+The current full-vault Tessellum BM25 run is recorded under
+`runs/multihop_rag/tessellum-bm25-full-vault/e1456c4b4da70303/`. It scores all
+2,556 questions against the prepared 5,093-note vault using the document-set
+provenance map. The vault itself remains an external input, so the manifest pins
+its path and the benchmark file hashes; reproducing the run still requires the
+Tessellum checkout and prepared vault.
+
+The result is intentionally a lexical arm. It does not establish that the full
+Tessellum semantic layer or DKS improves retrieval: dense/hybrid retrieval,
+graph expansion, span-level provenance, and answer generation need independent
+arms and paired comparisons.

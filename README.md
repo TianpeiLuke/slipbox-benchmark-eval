@@ -7,9 +7,10 @@ This repo holds the corpus-ingestion skills, the fetch scripts, the derived note
 **Continuing this work on another machine? Start at [docs/HANDOFF.md](docs/HANDOFF.md).**
 
 **Status.** The corpus is ingested: **4,925 notes over 609 documents**, 30,968
-resolved links, all gates passing. The chunk baseline is measured. **The notes
-arm has not been scored yet** — that comparison is the result this repo exists
-to produce, and it does not exist.
+resolved links, all gates passing. The chunk baseline and a full-vault Tessellum
+BM25 arm are now scored. The Tessellum run is a lexical retrieval result, not yet
+the planned dense, hybrid, or graph-expanded arm; paired comparisons remain
+required before drawing a representation-level conclusion.
 
 ## Why this exists
 
@@ -142,4 +143,7 @@ python3 scripts/scrub_check.py vaults/musique     # must PASS before commit
 
 - The ingestion pipeline was tuned on **technical documentation**. Wikipedia paragraphs and novels are different genres, and a genre mismatch is the leading threat to external validity. It is assessed and reported per corpus rather than assumed away.
 - Benchmark gold labels are **passage**-level; our arm returns **notes**. The document-to-note provenance map is what makes the arm scorable, and it is emitted at ingestion time.
+- The current Tessellum adapter scores document-set coverage through the vault's
+  `source_docs` provenance. Span-level evidence, dense/hybrid retrieval, graph
+  expansion, and an answer-generation stage are still separate follow-up arms.
 - Ingestion is not free: expect roughly 1–3 notes and ~1.15x the words per source document. The derived layer has to earn that cost back in retrieval, and may not.

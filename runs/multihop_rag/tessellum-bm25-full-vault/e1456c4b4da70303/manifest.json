@@ -1,0 +1,87 @@
+{
+ "run_id": "e1456c4b4da70303",
+ "schema_version": 1,
+ "system": "tessellum-bm25-full-vault",
+ "arm_config": {
+  "strategy": "bm25",
+  "vault": "/Users/tianpeixie/github_workspace/slipbox-benchmark-eval/vaults/multihop_rag",
+  "indexer": "tessellum.indexer.build",
+  "retriever": "tessellum.retrieval.bm25_search",
+  "subset": "full-vault",
+  "ks": [
+   2,
+   5,
+   10
+  ],
+  "budgets": [
+   2048,
+   4096,
+   8192
+  ],
+  "topk": 50,
+  "gold_form_scored": "document_set"
+ },
+ "metric_set": [
+  "abstain_f1",
+  "abstain_precision",
+  "abstain_recall",
+  "all_recall@b2048",
+  "all_recall@b4096",
+  "all_recall@b8192",
+  "all_recall@k10",
+  "all_recall@k2",
+  "all_recall@k5",
+  "answered_unanswerable",
+  "correct_abstentions",
+  "correctly_attempted",
+  "hits@k10",
+  "hits@k2",
+  "hits@k5",
+  "map@k10",
+  "map@k2",
+  "map@k5",
+  "mrr@k10",
+  "mrr@k2",
+  "mrr@k5",
+  "n_answerable",
+  "n_queries",
+  "recall@b2048",
+  "recall@b4096",
+  "recall@b8192",
+  "recall@k10",
+  "recall@k10/comparison",
+  "recall@k10/inference",
+  "recall@k10/temporal",
+  "recall@k2",
+  "recall@k2/comparison",
+  "recall@k2/inference",
+  "recall@k2/temporal",
+  "recall@k5",
+  "recall@k5/comparison",
+  "recall@k5/inference",
+  "recall@k5/temporal",
+  "wrongly_refused_answerable"
+ ],
+ "code": {
+  "git_sha": "9ffeba2c563e298480c273fd8a1ca4a0acfc27b9",
+  "dirty": false,
+  "repo": "slipbox-benchmark-eval"
+ },
+ "data": {
+  "benchmark": "multihop_rag",
+  "file_sha256": {
+   "corpus.json": "20b61b5ab84de84a927420c5d265b7ec8d859ae49980699958a787ade9e4d28f",
+   "MultiHopRAG.json": "03cfb4926461f868684903aadc8024447bdda5bb3f6804741424cce338515bff"
+  },
+  "gold_form": "document_set"
+ },
+ "env": {
+  "python": "3.12.7",
+  "platform": "macOS-15.7.9-arm64-arm-64bit",
+  "packages": {},
+  "nondeterministic_components": []
+ },
+ "created_at": "2026-09-15T01:58:29+00:00",
+ "provenance": "first_class",
+ "notes": "Tessellum current BM25 entrypoint over the full prepared multihop vault"
+}
