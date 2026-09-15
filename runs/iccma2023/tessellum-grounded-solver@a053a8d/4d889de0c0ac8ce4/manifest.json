@@ -1,0 +1,44 @@
+{
+ "run_id": "4d889de0c0ac8ce4",
+ "schema_version": 1,
+ "system": "tessellum-grounded-solver@a053a8d",
+ "arm_config": {
+  "subset": "af_track_329_minimality",
+  "solver": "tessellum.dks.dung.grounded_labelling",
+  "semantics": "grounded",
+  "check": "min_max_numbering_minimality",
+  "algorithm": "worklist",
+  "tessellum_sha": "a053a8d34b4f1e659d12a6e60f2e243d2bb8131c"
+ },
+ "metric_set": [
+  "check_total_seconds",
+  "grounded",
+  "groundedness_rate",
+  "in_without_finite_chain_total",
+  "instances",
+  "instances_depth_gt_100",
+  "max_defence_depth",
+  "median_defence_depth"
+ ],
+ "code": {
+  "git_sha": "7948576636b17f5ce41d57eb4a3329d77018f393",
+  "dirty": false,
+  "repo": "slipbox-benchmark-eval"
+ },
+ "data": {
+  "benchmark": "iccma2023",
+  "file_sha256": {
+   "iccma2023_benchmarks.zip": "41d6ada910faa76147cdfd920e11a62792f49e9f8dce7be11bde076d00546895"
+  },
+  "gold_form": "graph_labelling"
+ },
+ "env": {
+  "python": "3.12.13",
+  "platform": "Linux-6.12.103-127.188.amzn2023.x86_64-x86_64-with-glibc2.34",
+  "packages": {},
+  "nondeterministic_components": []
+ },
+ "created_at": "2026-09-15T03:34:16+00:00",
+ "provenance": "first_class",
+ "notes": "Completes the earlier soundness run. Those four invariants define a COMPLETE labelling, and grounded is the LEAST complete one -- verified directly that both preferred labellings of a mutual attack pass all four, so 'sound' never implied 'grounded'. Min-max numbering supplies the missing minimality condition: grounded iff every IN argument has a finite defence chain rooted at an unattacked argument (Caminada & Dunne, Argument & Computation 10(3):277-300, 2019). Still not agreement against published labels -- ICCMA has no grounded track after 2019 -- but it is a property no non-grounded complete labelling can satisfy."
+}

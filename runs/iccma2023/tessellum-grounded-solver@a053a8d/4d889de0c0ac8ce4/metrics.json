@@ -1,0 +1,10 @@
+{
+ "check_total_seconds": 109.1875,
+ "grounded": 329.0,
+ "groundedness_rate": 1.0,
+ "in_without_finite_chain_total": 0.0,
+ "instances": 329.0,
+ "instances_depth_gt_100": 15.0,
+ "max_defence_depth": 1250001.0,
+ "median_defence_depth": 1.0
+}
