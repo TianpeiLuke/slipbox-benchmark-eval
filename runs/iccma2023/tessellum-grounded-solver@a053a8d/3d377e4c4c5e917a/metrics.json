@@ -1,0 +1,17 @@
+{
+ "all_undec_instances": 149.0,
+ "full_invariant_check_ran": 291.0,
+ "instances": 329.0,
+ "max_arguments": 2500000.0,
+ "max_attacks": 23429120.0,
+ "nonempty_extension_instances": 180.0,
+ "par2_seconds": 211.1555,
+ "solve_max_seconds": 27.0739,
+ "solve_median_seconds": 0.009,
+ "solve_total_seconds": 211.1555,
+ "sound": 329.0,
+ "soundness_rate": 1.0,
+ "timeouts_1200s": 0.0,
+ "total_arguments": 9801233.0,
+ "total_attacks": 329812709.0
+}

@@ -1,0 +1,57 @@
+{
+ "run_id": "3d377e4c4c5e917a",
+ "schema_version": 1,
+ "system": "tessellum-grounded-solver@a053a8d",
+ "arm_config": {
+  "subset": "af_track_329",
+  "solver": "tessellum.dks.dung.grounded_labelling",
+  "semantics": "grounded",
+  "algorithm": "worklist (Nofal/Atkinson/Dunne 2021 Alg 3)",
+  "invariants": [
+   "complete_labelling",
+   "extension_equals_IN",
+   "extension_conflict_free",
+   "per_argument_IN_OUT"
+  ],
+  "full_check_max_attacks": 2000000,
+  "tessellum_sha": "a053a8d34b4f1e659d12a6e60f2e243d2bb8131c"
+ },
+ "metric_set": [
+  "all_undec_instances",
+  "full_invariant_check_ran",
+  "instances",
+  "max_arguments",
+  "max_attacks",
+  "nonempty_extension_instances",
+  "par2_seconds",
+  "solve_max_seconds",
+  "solve_median_seconds",
+  "solve_total_seconds",
+  "sound",
+  "soundness_rate",
+  "timeouts_1200s",
+  "total_arguments",
+  "total_attacks"
+ ],
+ "code": {
+  "git_sha": "014a2aacd39b4ead53f23fb3f6c4a73d17818ff6",
+  "dirty": false,
+  "repo": "slipbox-benchmark-eval"
+ },
+ "data": {
+  "benchmark": "iccma2023",
+  "file_sha256": {
+   "iccma2023_benchmarks.zip": "41d6ada910faa76147cdfd920e11a62792f49e9f8dce7be11bde076d00546895"
+  },
+  "gold_form": "graph_labelling"
+ },
+ "env": {
+  "python": "3.12.13",
+  "platform": "Linux-6.12.103-127.188.amzn2023.x86_64-x86_64-with-glibc2.34",
+  "packages": {},
+  "nondeterministic_components": []
+ },
+ "created_at": "2026-09-15T03:13:16+00:00",
+ "provenance": "first_class",
+ "notes": "Soundness check, NOT agreement: ICCMA has had no grounded track since 2019 (DS-CO and SE-CO are excluded precisely because they ARE grounded), so there are no published grounded reference labels for 2023 to agree against. Verified that the labelling satisfies the grounded definition, not that it matches another solver. Agreement scoring needs the 2015/2017/2019 editions. The per_question file is keyed by instance name rather than query id -- this benchmark has no queries."
+}
